@@ -1,0 +1,28 @@
+slug: bluesnews-05summer
+title: ''
+source_dir: bluesnews/05Summer
+legacy_url: /bluesnews/05Summer/
+date_hint: 2005-summer
+generator: image-collection
+photo_count: 4
+photos:
+- filename: Scolder01.JPG
+  source_path: bluesnews/05Summer/Scolder01.JPG
+  thumbnail: bluesnews/05Summer/TN_Scolder01.jpg
+  caption: ''
+  page_html: ''
+- filename: Scolder02.JPG
+  source_path: bluesnews/05Summer/Scolder02.JPG
+  thumbnail: bluesnews/05Summer/TN_Scolder02.jpg
+  caption: ''
+  page_html: ''
+- filename: Scolder03.JPG
+  source_path: bluesnews/05Summer/Scolder03.JPG
+  thumbnail: bluesnews/05Summer/TN_Scolder03.jpg
+  caption: ''
+  page_html: ''
+- filename: Scolder04.JPG
+  source_path: bluesnews/05Summer/Scolder04.JPG
+  thumbnail: bluesnews/05Summer/TN_Scolder04.jpg
+  caption: ''
+  page_html: ''

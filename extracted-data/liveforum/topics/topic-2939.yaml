@@ -1,0 +1,45 @@
+topic_id: 2939
+slug: topic-2939
+title: а вот это вы видели?
+first_post: 2005-11-21 01:44
+last_post: 2005-11-21 10:45
+post_count: 4
+posts:
+- id: 24636
+  parent_id: null
+  date: 2005-11-21 01:44
+  poster: Дмитрий Казанцев (Dr. Nick)
+  email: dr.nick@blues.ru
+  subject: а вот это вы видели?
+  deleted: false
+  text: 'http://www.allmusic.com/cg/amg.dll?p=amg&sql=10:ugse4j478waq
+
+
+    и слышали:
+
+    http://music.barnesandnoble.com/search/product.asp?userid=T585HqPCi0&EAN=94634568722&ITM=3'
+  replies:
+  - id: 24638
+    parent_id: 24636
+    date: 2005-11-21 09:52
+    poster: Алексей Фролов (Buchothk)
+    email: jokerthk@yandex.ru
+    subject: '!!!'
+    deleted: false
+    text: Доктора Джона с Днем Рождения!!! Уррраа!!! ;)
+    replies:
+    - id: 24639
+      parent_id: 24638
+      date: 2005-11-21 10:06
+      poster: Дмитрий Казанцев (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: конечно!
+      deleted: false
+    - id: 24640
+      parent_id: 24638
+      date: 2005-11-21 10:45
+      poster: Илья Кривандин (Populoss)
+      email: ilija@bk.ru
+      subject: Да!
+      deleted: false
+      text: С Днем Рождения Доктора Джона! :)

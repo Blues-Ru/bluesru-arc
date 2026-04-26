@@ -1,0 +1,42 @@
+topic_id: 2734
+slug: topic-2734
+title: А вот кто знает, что Roomful of Blues
+first_post: 2005-08-31 10:28
+last_post: 2005-08-31 14:08
+post_count: 4
+posts:
+- id: 22586
+  parent_id: null
+  date: 2005-08-31 10:28
+  poster: VoV  (Barmaley)
+  email: barmaley-vov@yandex.ru
+  subject: А вот кто знает, что Roomful of Blues
+  deleted: false
+  text: 'будут играть в ММДМ 7 октября? ;)
+
+    http://www.mmdm.ru/event-list/view.html?event_id=1730'
+  replies:
+  - id: 22587
+    parent_id: 22586
+    date: 2005-08-31 10:59
+    poster: vr  (Stone Crazy)
+    email: volodya@blues.ru
+    subject: с весны ждем! :) это здорово.
+    deleted: false
+    replies:
+    - id: 22588
+      parent_id: 22587
+      date: 2005-08-31 13:28
+      poster: Федор Романенко (fedor)
+      email: fedor@blues.ru
+      subject: Ждем!
+      deleted: false
+      text: Дууууууурь!
+  - id: 22589
+    parent_id: 22586
+    date: 2005-08-31 14:08
+    poster: Валентин
+    email: voshalb@rambler.ru
+    subject: Просто супер!!!
+    deleted: false
+    text: А почем билеты будут???  И что,всего один день???

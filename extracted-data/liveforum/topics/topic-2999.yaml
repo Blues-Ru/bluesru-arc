@@ -1,0 +1,132 @@
+topic_id: 2999
+slug: topic-2999
+title: Маленький конкурс :)  Кто это ?
+first_post: 2005-12-16 16:47
+last_post: 2005-12-19 11:52
+post_count: 13
+posts:
+- id: 25124
+  parent_id: null
+  date: 2005-12-16 16:47
+  poster: Игорь Головачев (Игорь Г.)
+  email: sunny_city@mail.ru
+  subject: Маленький конкурс :)  Кто это ?
+  deleted: false
+  text: "К вопросу  \"Что такое хорошо и что такое плохо?\"........\n-----------------------------------------------\n\
+    Услыхал красоту и не могу не поделиться \nhttp://www.bluesman.ru/download/pre/1.ogg\n\
+    http://www.bluesman.ru/download/pre/3.ogg\n\nПослушав 3.ogg в принципе ответ можно\
+    \ угадать,там есть характерные для музыкантов приемы игры итд.А вот 1.ogg полный\
+    \ абзац,но красота... \n-----------------------------------------------\n...Кстати\
+    \ в /download/pre/ еще и одна вещичка из выступления Бюска в ББКинге обнаружилась\
+    \ я ее вообще-то некоторое время назад выкладывал,но мож кому надо или кто-то\
+    \ не слышал\nhttp://www.bluesman.ru/download/pre/b1.ogg"
+  replies:
+  - id: 25125
+    parent_id: 25124
+    date: 2005-12-16 16:52
+    poster: Владимир Русинов (BluesCat)
+    email: volodya@blues.ru
+    subject: там и по первым 10 секундам легко догадаться ;)
+    deleted: false
+    replies:
+    - id: 25126
+      parent_id: 25125
+      date: 2005-12-16 17:07
+      poster: Игорь Головачев (Игорь Г.)
+      email: sunny_city@mail.ru
+      subject: 'Значит вывод прост: я мало знаком с творчеством этих людей'
+      deleted: false
+      text: 'Вовкин,а может ты догадался по каким-то другим причинам? ;)))
+
+        Шучу,шучу'
+      replies:
+      - id: 25127
+        parent_id: 25126
+        date: 2005-12-16 17:10
+        poster: Владимир Русинов (BluesCat)
+        email: volodya@blues.ru
+        subject: не .. ну там все очевидно :) хоть и не обычно :)
+        deleted: false
+        text: но может и не для всех очевидно :)))))
+        replies:
+        - id: 25130
+          parent_id: 25127
+          date: 2005-12-16 19:52
+          poster: Игорь Головачев (Игорь Г.)
+          email: sunny_city@mail.ru
+          subject: Не, Но, Хорошо ,бубёныть?
+          deleted: false
+          replies:
+          - id: 25132
+            parent_id: 25130
+            date: 2005-12-16 22:13
+            poster: Игорь Головачев (Игорь Г.)
+            email: sunny_city@mail.ru
+            subject: Алё!!  Варианты?
+            deleted: false
+            replies:
+            - id: 25138
+              parent_id: 25132
+              date: 2005-12-17 02:02
+              poster: Дмитрий Казанцев (Dr. Nick)
+              email: dr.nick@blues.ru
+              subject: авангард Саши и Жени :)
+              deleted: false
+  - id: 25134
+    parent_id: 25124
+    date: 2005-12-16 23:57
+    poster: Игорь Головачев (Игорь Г.)
+    email: sunny_city@mail.ru
+    subject: Блин, ну хотя бы типа наши-не наши
+    deleted: false
+    text: Ведь чудо же,чудо !!!!
+    replies:
+    - id: 25135
+      parent_id: 25134
+      date: 2005-12-17 01:02
+      poster: Михаил Мишурис (мишурис)
+      email: mishuris@mail.ru
+      subject: да понятно всё...
+      deleted: false
+      text: Естественно  это Санчилло с Братецким. Не буду ничего говорить- и так
+        с Братецким ругаюсь всё время.
+      replies:
+      - id: 25136
+        parent_id: 25135
+        date: 2005-12-17 01:20
+        poster: Дмитрий Казанцев (Dr. Nick)
+        email: dr.nick@blues.ru
+        subject: а чего это ты с ним ругаешься?
+        deleted: false
+        text: и где? когда?
+        replies:
+        - id: 25137
+          parent_id: 25136
+          date: 2005-12-17 01:28
+          poster: Михаил Мишурис (мишурис)
+          email: mishuris@mail.ru
+          subject: включи аську
+          deleted: false
+  - id: 25142
+    parent_id: 25124
+    date: 2005-12-19 10:08
+    poster: Игорь Головачев (Игорь Г.)
+    email: sunny_city@mail.ru
+    subject: Ну вот послушали и то ладно
+    deleted: false
+    text: А ругаться...,чего ругаться-то... Ребята в поиске нового и это здорово.
+      Получится,не получится время покажет.Но сами поиски,без всякого сомнения,уже
+      достойны уважения
+    replies:
+    - id: 25144
+      parent_id: 25142
+      date: 2005-12-19 11:52
+      poster: мишурис
+      email: mishuris@mail.ru
+      subject: Я ведь не ругаюсь...
+      deleted: false
+      text: '...Естественно, поиск это прекрасно, к новому и нестандартному лично
+        меня всегда влечёт. Необычно, точнее, прикольно- это всё, что я могу сказать
+        о прослушанном, но ( а куда ж без но ?) ,на мой взгляд, слишком вычурно. Впрочем,
+        творчество (а это оно и есть ) само по себе уже явление редкое и уважение
+        вызывающее.'

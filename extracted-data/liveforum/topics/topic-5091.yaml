@@ -1,0 +1,38 @@
+topic_id: 5091
+slug: topic-5091
+title: ночная блюз-кинотека - свежий Seasick Steve на свежем знаменитом фесте
+first_post: 2013-07-03 01:20
+last_post: 2013-07-03 01:22
+post_count: 3
+posts:
+- id: 39025
+  parent_id: null
+  date: 2013-07-03 01:20
+  poster: Andrei V. Evdokimov
+  subject: ночная блюз-кинотека - свежий Seasick Steve на свежем знаменитом фесте
+  deleted: false
+  text: "это, как я понимаю, рекомендованный ВВС номер:\n\n<object width=\"640\" height=\"\
+    504\">\n\t<param name=\"movie\" value=\"http://www.bbc.co.uk/emp/iplayer/player.swf\"\
+    ></param>\n\t<param name=\"allowFullScreen\" value=\"true\"></param>\n\t<param\
+    \ name=\"allowScriptAccess\" value=\"always\"></param>\n\t<param name=\"FlashVars\"\
+    \ value=\"playlist=http://www.bbc.co.uk/iplayer/playlist/p01c2h12&config=null&config_settings_showFooter=true&config_settings_autoPlay=true&domId=media-player-emp&enable3G=true&mediatorHref=http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/pc/transferformat/plain/vpid/{id}&width=640&config_settings_suppressRelatedLinks=true&height=360&embedReferer=https://www.google.ru/&config_settings_showUpdatedInFooter=true&showFullScreenButton=true&embedPageUrl=http://www.bbc.co.uk/programmes/p01c2h12&config_settings_language=en&config_settings_api_javascript=true&uxHighlightColour=0x222222&showShareButton=true\"\
+    ></param>\n\t<embed src=\"http://www.bbc.co.uk/emp/iplayer/player.swf\" type=\"\
+    application/x-shockwave-flash\" allowfullscreen=\"true\" allowScriptAccess=\"\
+    always\" width=\"640\" height=\"504\" FlashVars=\"playlist=http://www.bbc.co.uk/iplayer/playlist/p01c2h12&config=null&config_settings_showFooter=true&config_settings_autoPlay=true&domId=media-player-emp&enable3G=true&mediatorHref=http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/pc/transferformat/plain/vpid/{id}&width=640&config_settings_suppressRelatedLinks=true&height=360&embedReferer=https://www.google.ru/&config_settings_showUpdatedInFooter=true&showFullScreenButton=true&embedPageUrl=http://www.bbc.co.uk/programmes/p01c2h12&config_settings_language=en&config_settings_api_javascript=true&uxHighlightColour=0x222222&showShareButton=true\"\
+    ></embed>\n</object>"
+  replies:
+  - id: 39026
+    parent_id: 39025
+    date: 2013-07-03 01:22
+    poster: Andrei V. Evdokimov
+    subject: ok... пойдем другим путем!
+    deleted: false
+    text: http://www.bbc.co.uk/programmes/p01c2h12
+  - id: 39027
+    parent_id: 39025
+    date: 2013-07-03 01:22
+    poster: Andrei V. Evdokimov
+    subject: и весь сет полностью на youtube
+    deleted: false
+    text: <iframe width="560" height="315" src="//www.youtube.com/embed/i9Eh3xpEpSU"
+      frameborder="0" allowfullscreen></iframe>

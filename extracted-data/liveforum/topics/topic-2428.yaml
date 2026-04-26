@@ -1,0 +1,24 @@
+topic_id: 2428
+slug: topic-2428
+title: кто знает
+first_post: 2005-02-13 21:10
+last_post: 2005-02-13 21:53
+post_count: 2
+posts:
+- id: 20441
+  parent_id: null
+  date: 2005-02-13 21:10
+  poster: Led Zeppelin
+  email: olx1@yandex.ru
+  subject: кто знает
+  deleted: false
+  text: у них вообще сайт есть?
+  replies:
+  - id: 20444
+    parent_id: 20441
+    date: 2005-02-13 21:53
+    poster: Peter Grant
+    email: pgrant@blues.ru
+    subject: много их :)
+    deleted: false
+    text: http://www.ledzeppelin.ru/ - вот душевный :)

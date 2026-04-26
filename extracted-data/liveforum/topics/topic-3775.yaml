@@ -1,0 +1,35 @@
+topic_id: 3775
+slug: topic-3775
+title: немного шоу Мишуриса
+first_post: 2007-10-24 02:57
+last_post: 2007-10-25 15:33
+post_count: 3
+posts:
+- id: 33700
+  parent_id: null
+  date: 2007-10-24 02:57
+  poster: Dmitri Kazantsev (Dr. Nick)
+  email: dr.nick@blues.ru
+  subject: немного шоу Мишуриса
+  deleted: false
+  text: http://photofile.name/users/dr_nick/3218173/
+  replies:
+  - id: 33705
+    parent_id: 33700
+    date: 2007-10-25 02:09
+    poster: Старый Майор
+    email: gypsy@mail.ru
+    subject: Дима, а где Мишурис???
+    deleted: false
+    text: 'Я увидел только вот это.. что, шоу закончилось?
+
+
+      <img src=http://photofile.ru/users/sam_aero/3196757/68071089/#mainImageLink>'
+    replies:
+    - id: 33712
+      parent_id: 33705
+      date: 2007-10-25 15:33
+      poster: Dmitri Kazantsev (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: Миша в Москве
+      deleted: false

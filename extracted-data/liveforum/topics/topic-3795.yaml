@@ -1,0 +1,45 @@
+topic_id: 3795
+slug: topic-3795
+title: Зацените фото
+first_post: 2007-11-15 18:19
+last_post: 2007-11-16 21:45
+post_count: 4
+posts:
+- id: 33884
+  parent_id: null
+  date: 2007-11-15 18:19
+  poster: Миша
+  email: mavas78@mail.ru
+  subject: Зацените фото
+  deleted: false
+  text: Я и барабанщик Мадди Уотерса - Вилли Биг Ай Смит в Арканзасе в октябре! Зацените)))
+  replies:
+  - id: 33885
+    parent_id: 33884
+    date: 2007-11-15 18:22
+    poster: Миша
+    email: mavas78@mail.ru
+    subject: cсылка)))
+    deleted: false
+    text: http://pics.livejournal.com/mikdrummer/pic/000010ap/
+    replies:
+    - id: 33886
+      parent_id: 33885
+      date: 2007-11-15 18:42
+      poster: Dmitri Kazantsev (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: песдец! )
+      deleted: false
+      text: роок!
+  - id: 33898
+    parent_id: 33884
+    date: 2007-11-16 21:45
+    poster: Эльдар
+    email: Эльдар
+    subject: Willie "Big Eyes" Smith в студию!!!
+    deleted: false
+    text: 'Даёшь Willie "Big Eyes" Smith в <s>Арканзас</s> Арзамас!
+
+      Пощасливилось тебе.
+
+      Хорошо, блин!'

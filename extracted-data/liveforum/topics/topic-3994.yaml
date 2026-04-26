@@ -1,0 +1,54 @@
+topic_id: 3994
+slug: topic-3994
+title: Юрий Иванович!
+first_post: 2008-04-26 00:18
+last_post: 2008-04-27 00:30
+post_count: 5
+posts:
+- id: 35336
+  parent_id: null
+  date: 2008-04-26 00:18
+  poster: Dmitri Kazantsev (Dr. Nick)
+  email: dr.nick@blues.ru
+  subject: Юрий Иванович!
+  deleted: false
+  text: 'С Днём Рождения тебя!
+
+    Желаю здоровья и терпения!'
+  replies:
+  - id: 35338
+    parent_id: 35336
+    date: 2008-04-26 19:35
+    poster: BOODOOLAI
+    email: timot@mail.ru
+    subject: С Днём Рождения!
+    deleted: false
+    text: 'Здоровье, Деньгу и Всеобъемлящее Благолепие!
+
+
+      (Зе Блакмайлерс)'
+  - id: 35339
+    parent_id: 35336
+    date: 2008-04-26 23:57
+    poster: Федор Романенко (fedor)
+    email: fedor@blues.ru
+    subject: Громкое Урааа!!!
+    deleted: false
+    text: Поздравляю, и с наилучшими пожеланиями ;)
+  - id: 35340
+    parent_id: 35336
+    date: 2008-04-27 00:06
+    poster: Илья Кривандин
+    email: ilija@bk.ru
+    subject: Поздравляю!
+    deleted: false
+    text: Самые искренние пожелания благополучия, удачи и пусть Вас стороной обходят
+      все невзгоды! Ура!
+  - id: 35341
+    parent_id: 35336
+    date: 2008-04-27 00:30
+    poster: Arsen
+    email: rag@mail.ru
+    subject: Поздравляю!
+    deleted: false
+    text: С днем рождения!Здоровья, успехов, удачи, а главное хорошей музыки!

@@ -1,0 +1,52 @@
+topic_id: 3263
+slug: topic-3263
+title: Что случилось?
+first_post: 2006-05-22 10:33
+last_post: 2006-05-22 19:05
+post_count: 5
+posts:
+- id: 27459
+  parent_id: null
+  date: 2006-05-22 10:33
+  poster: mishouris
+  email: mishouris@mail.ru
+  subject: Что случилось?
+  deleted: false
+  text: Куда пропал блюзовый календарь? По чему теперь сверять свои душевные порывы?!
+    Как жить?!
+  replies:
+  - id: 27462
+    parent_id: 27459
+    date: 2006-05-22 14:09
+    poster: Алексей Аграновский (Док)
+    email: aaa@genebee.msu.su
+    subject: Ужасно
+    deleted: false
+    text: Кайф как стащили.
+    replies:
+    - id: 27465
+      parent_id: 27462
+      date: 2006-05-22 16:28
+      poster: Andrei V. Evdokimov (evdokimov)
+      email: evdokimov@blues.ru
+      subject: но есть и плюсы!
+      deleted: false
+      text: никакой блюзовой простаты! никакие подонки не путают дни рождения гитары
+        фендер... разве это не прекрасно? )
+      replies:
+      - id: 27466
+        parent_id: 27465
+        date: 2006-05-22 17:56
+        poster: Эльдар Музафаров
+        email: elicaster co6@ka мейл-d0t ru
+        subject: :o(
+        deleted: false
+        text: А чё ещё сказать-то?
+      - id: 27468
+        parent_id: 27465
+        date: 2006-05-22 19:05
+        poster: Алексей Аграновский (Док)
+        email: aaa@genebee.msu.su
+        subject: Андрей, одумайся
+        deleted: false
+        text: 'Сказано: на всякого мудреца довольно простаты! Верни Этот день людям.'

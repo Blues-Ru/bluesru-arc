@@ -1,0 +1,47 @@
+topic_id: 184
+slug: topic-184
+title: '...В нашем полку прибыло...'
+first_post: 2002-04-25 02:29
+last_post: 2002-04-25 19:40
+post_count: 4
+posts:
+- id: 4079
+  parent_id: null
+  date: 2002-04-25 02:29
+  poster: Вадим  (AVA)
+  email: vad2908@mail.ru
+  subject: '...В нашем полку прибыло...'
+  deleted: false
+  text: '...я имею ввиду, - вышел первый сольный альбом Arthur Neilson''a, ранее он
+    отмечался в качестве сессионного гитариста у Debora Colemann.(AMG) Ничего пластиночка,
+    грешит правда некой разностильностью, ну,это, впрочем, понятно, все-таки первая
+    сольная работа.'
+  replies:
+  - id: 4097
+    parent_id: 4079
+    date: 2002-04-25 12:32
+    poster: V.Tsubin (VOVAN)
+    email: vts13@hotmail.com
+    subject: уже заказал
+    deleted: false
+    text: Советую также не пройти мимо нового альбома хорошего человека Tab Benoit
+      "Wetlands".
+    replies:
+    - id: 4116
+      parent_id: 4097
+      date: 2002-04-25 19:29
+      poster: Дмитрий A. (Дмитрий)
+      email: acblues@chat.ru
+      subject: Бенуа новый и вправду хорош (+)
+      deleted: false
+      text: Блин, люблю новорлеанскую музыку, а тут и Длинноволосый Профессор вспомнился
+        и Снукс Иглин...
+  - id: 4118
+    parent_id: 4079
+    date: 2002-04-25 19:40
+    poster: Андрей PRG
+    email: peregnoy@mail.ru
+    subject: А, кстати, люди, как вам сама Дебора?
+    deleted: false
+    text: Мне, честно говоря, почти что никак. :( Хотя я заслушал всего один трек
+      ("You're With Me"). ;)

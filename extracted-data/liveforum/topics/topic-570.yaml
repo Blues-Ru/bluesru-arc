@@ -1,0 +1,71 @@
+topic_id: 570
+slug: topic-570
+title: Вот купил Les Wilson...
+first_post: 2003-01-15 15:25
+last_post: 2003-01-17 11:23
+post_count: 6
+posts:
+- id: 10046
+  parent_id: null
+  date: 2003-01-15 15:25
+  poster: Дмитрий(fan))
+  email: leondmitr@freemail.ru
+  subject: Вот купил Les Wilson...
+  deleted: false
+  text: '...And Mighty Houserockers - диск называется "On The Loose".
+
+    Кто знает, кто такие. Очень похоже на европейцев.Есть краткая информация на Allmusic,
+    но без биографической справки.'
+  replies:
+  - id: 10049
+    parent_id: 10046
+    date: 2003-01-16 11:45
+    poster: V.Tsubin (VOVAN)
+    email: vts13@hotmail.com
+    subject: Да вроде британцы.
+    deleted: false
+    text: А в каком стиле-то?Не знаю,стоит ли заказывать.
+    replies:
+    - id: 10050
+      parent_id: 10049
+      date: 2003-01-16 14:24
+      poster: Дмитрий(fan))
+      email: leondmitr@freemail.ru
+      subject: Послушать можно, заказывать не стоит.
+      deleted: false
+      text: В общем, ничего особенного. Электроблюз, блюз-рок. Саксофончики, девочки
+        на подпевочках. Купил под настроение. До уровня не дотягивают. Я потому и
+        спросил, не европейцы ли, т.к. поют "не по-американски". Казанцев бы сказал
+        - попса.
+      replies:
+      - id: 10062
+        parent_id: 10050
+        date: 2003-01-16 19:54
+        poster: Иван Иванов
+        email: www.geocities.com/drikasblues
+        subject: Не Британская а Ирландская!
+        deleted: false
+        text: 'смотри здесь:   http://www.phil.ceney.dial.pipex.com/
+
+
+          а кстати Рори Галагер тоже Ирландец, пел и играл "электроблюз" лучше многих
+          Американцев. А для многих может быть Робин Форд, Скот Хендерсон и Валтер
+          Траут тоже попса???'
+        replies:
+        - id: 10077
+          parent_id: 10062
+          date: 2003-01-17 11:12
+          poster: Дмитрий(fan))
+          email: leondmitr@freemail.ru
+          subject: Спасибо за инфу.
+          deleted: false
+          text: Я не считаю попсой всех перечисленных тобой музыкантов - твой вопрос
+            был не по адресу. Я на эту тему как-то уже высказывался.
+        - id: 10080
+          parent_id: 10062
+          date: 2003-01-17 11:23
+          poster: V.Tsubin (VOVAN)
+          email: vts13@hotmail.com
+          subject: А родился то в Британии:-)
+          deleted: false
+          text: Так что не сильно промазали:-)

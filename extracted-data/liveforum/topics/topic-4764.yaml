@@ -1,0 +1,31 @@
+topic_id: 4764
+slug: topic-4764
+title: Арсен Back in USSR?
+first_post: 2011-12-08 11:36
+last_post: 2011-12-08 16:28
+post_count: 3
+posts:
+- id: 38100
+  parent_id: null
+  date: 2011-12-08 11:36
+  poster: grem
+  subject: Арсен Back in USSR?
+  deleted: false
+  text: В разделе "АФИШИ" весит анонс о концерте Арсена 20.12.11 в "Ритм-н-Блюзе"
+    это очень радостно конечно, но более нет никакой другой информации...
+  replies:
+  - id: 38101
+    parent_id: 38100
+    date: 2011-12-08 13:09
+    poster: Юрий Костин
+    subject: Арсен Back in USSR?
+    deleted: false
+    text: Арсен появляется "внезапно" на один день, выстпать будет с Мишей Васильевым(барабаны)
+      и Лёней Веденеевым(бас). Подробный релиз пока не написан, но, надеюсь, скоро
+      будет!
+  - id: 38102
+    parent_id: 38100
+    date: 2011-12-08 16:28
+    poster: grem
+    subject: что могу добавить -всем быть!
+    deleted: false

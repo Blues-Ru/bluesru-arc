@@ -1,0 +1,45 @@
+---
+topic_id: 2899
+slug: topic-2899
+title: Помогите найти!!!
+post_count: 2
+first_post: 2005-11-01 20:22
+last_post: 2005-11-01 20:54
+---
+
+## Помогите найти!!!
+**From:** Zeugma  **Date:** 2005-11-01 20:22  **Post:** #24240
+
+Помогите, пожалуйста, найти песню с таким текстом Angelina...My angel on the sky. Возможно, эту песню исполняет Рэй Чарльз. Очень важно! Я уверена, что кто-то наверняка ее слышал! Заранее огромное спасибо!:-)
+
+---
+
+## Есть у Рэя...
+**From:** Grem  **Date:** 2005-11-01 20:54  **Post:** #24241
+
+Есть у Рэя "Angelina", вот слова:
+Angelina, why did you have to go
+It's hard enough alone, well you should know
+The scars you never showed me
+Your eyes that turned away
+Angelina, to God for you I prayed
+
+Angelina, I often heard you weep
+At times I'd stay awake and watch you sleep
+Your innocence would move me
+At times you've made me scared
+Angelina, my love for you I cared
+
+Angelina, in silence you would speak
+A simple touch of you and I grew weak
+You finally let me hold you
+The day before you died
+Angelina, my angel in the sky
+
+You finally let me hold you
+The day before you died
+Angelina, my angel in the sky
+
+Удачи
+
+---

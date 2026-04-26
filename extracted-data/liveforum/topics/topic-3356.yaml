@@ -1,0 +1,45 @@
+topic_id: 3356
+slug: topic-3356
+title: ЭЙ, ДОЛИННЫЕ КРАСАФЧИГИ!
+first_post: 2006-08-03 18:38
+last_post: 2006-08-03 23:35
+post_count: 4
+posts:
+- id: 28150
+  parent_id: null
+  date: 2006-08-03 18:38
+  poster: Andrei V. Evdokimov (evdokimov)
+  email: evdokimov@blues.ru
+  subject: ЭЙ, ДОЛИННЫЕ КРАСАФЧИГИ!
+  deleted: false
+  text: 'Поберегызь, ЖЛОПП спускается с БЛЮЗАВАГА ОЛИМПУ.
+
+
+    как бы не задавил кого, а?'
+  replies:
+  - id: 28157
+    parent_id: 28150
+    date: 2006-08-03 20:27
+    poster: BOODOOLAI
+    email: timot@mail.ru
+    subject: БУ ГА ГА!
+    deleted: false
+    text: 'ЫЫЫЫЫЫЫЫЫ!!!!!
+
+      АФТАР ЖЖОТ!'
+    replies:
+    - id: 28158
+      parent_id: 28157
+      date: 2006-08-03 22:21
+      poster: Владимир Русинов (BluesCat)
+      email: volodya@blues.ru
+      subject: Позитивно общаетесь! малацы
+      deleted: false
+  - id: 28161
+    parent_id: 28150
+    date: 2006-08-03 23:35
+    poster: Дмитрий Честных (Ветеран)
+    email: veteran71@mail.ru
+    subject: чего говоришь?
+    deleted: false
+    text: я ничё не понял ващще

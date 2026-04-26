@@ -1,0 +1,31 @@
+path: _13/13_10_19_Arsen/content
+type: lightroom
+title: null
+date: null
+photo_count: 6
+captioned: 0
+index_files: null
+extra_text: null
+photos:
+- file: DSC07092.jpg
+  thumb: images/thumb/DSC07092.jpg
+  page_html: DSC07092_large.html
+- file: DSC07093.jpg
+  thumb: images/thumb/DSC07093.jpg
+  page_html: DSC07093_large.html
+- file: DSC07106.jpg
+  thumb: images/thumb/DSC07106.jpg
+  page_html: DSC07106_large.html
+- file: DSC07118.jpg
+  thumb: images/thumb/DSC07118.jpg
+  page_html: DSC07118_large.html
+- file: DSC07129.jpg
+  thumb: images/thumb/DSC07129.jpg
+  page_html: DSC07129_large.html
+- file: DSC07144.jpg
+  thumb: images/thumb/DSC07144.jpg
+  page_html: DSC07144_large.html
+canonical_date: '2013-10-19'
+clean_title: Arsen, 19.10.2013
+slug: 2013-10-19-arsen
+description: null

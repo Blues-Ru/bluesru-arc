@@ -1,0 +1,10 @@
+---
+id: 117
+slug: arsen-shomakhov-i-regtaym-s-gastrolyami-v-moskve
+title: Арсен Шомахов и Регтайм с гастролями в Москве
+date: '2004-10-14'
+author: Федор Романенко
+legacy_path: news/2004/10/arsen-shomakhov-i-regtaym-s-gastrolyami-v-moskve.md
+---
+
+Блюзовый гитарист Арсен Шомахов и его группа <a href="http://ragtime.blues.ru">Регтайм</a> посетят Москву в конце октября с очередными мини-гастролями. Три концерта пройдут в клубах: <a href="http://www.blues.ru/forte/">Forte</a> - 27 октября, <a href="http://www.blues.ru/bbking/">B.B.King</a> - 28 октября и <a href="http://roadhouse.blues.ru">Дом у Дороги</a> - 29 октября. Также планируется участие Арсена в минифестивале blues.ru в конце недели. Группа выступит с обновленной программой и сыграет песни с нового - третьего альбома Регтайма, работа над которым идет в студии.

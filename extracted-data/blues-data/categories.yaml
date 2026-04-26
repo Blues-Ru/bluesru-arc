@@ -1,0 +1,83 @@
+- id: 1
+  name: Блюзовые ссылки
+  description: Коллекция ссылок сайта blues.ru с необъективными комментариями составителей.
+  parent_id: null
+- id: 3
+  name: Гармоника
+  description: Сайты о гармонике
+  parent_id: 9
+- id: 4
+  name: Гитара
+  description: Сайты о гитаре
+  parent_id: 9
+- id: 5
+  name: Наши блюзмены
+  description: Сайты российских блюзовых групп
+  parent_id: 1
+- id: 9
+  name: Для музыкантов
+  description: null
+  parent_id: 1
+- id: 17
+  name: По-русски о блюзе
+  description: Блюзовые сайты на русском языке
+  parent_id: 1
+- id: 18
+  name: Клубы
+  description: Официальные сайты музыкальных клубов, в которых замечено появление
+    блюзовых музыкантов.
+  parent_id: 1
+- id: 19
+  name: Фестивали
+  description: Сайты блюзовых фестивалей
+  parent_id: 1
+- id: 20
+  name: Концерты
+  description: Сайты, на которых регулярно публикуется расписание концертов в клубах.
+  parent_id: 1
+- id: 21
+  name: Питер
+  description: Концерты в Питере
+  parent_id: 20
+- id: 22
+  name: Москва
+  description: Сайты, содержащие расписание клубных концертов в Москве.
+  parent_id: 20
+- id: 24
+  name: Не только о  блюзе
+  description: Интересные музыкальные русскоязычные сайты, не подпадающие под исключительно
+    блюзовую тематику.
+  parent_id: 1
+- id: 25
+  name: Ссылки Вера-и-свет.ру
+  description: Коллекция ссылок сайта www.vera-i-svet.ru
+  parent_id: null
+- id: 26
+  name: '"Вера и Свет" и "Ковчег"'
+  description: null
+  parent_id: null
+- id: 27
+  name: Христианские ресурсы в Сети
+  description: null
+  parent_id: null
+- id: 29
+  name: Разное и неклассифицируемое
+  description: null
+  parent_id: 25
+- id: 30
+  name: '"Вера и Свет" и "Ковчег"'
+  description: Сайты общины "Ковчег" и движения "Вера и Свет"
+  parent_id: 25
+- id: 31
+  name: Умственная отсталость и нарушения эмоционально-волевой сферы
+  description: Медицинские и прочие ресурсы в помощь родителям
+  parent_id: 25
+- id: 32
+  name: Публикации в СМИ
+  description: Публикации о движении "Вера и Свет" и "Ковчеге", а также по проблемам
+    социальной адаптации семей с умственно отсталыми людьми
+  parent_id: 25
+- id: 33
+  name: История блюза
+  description: Ссылки на источники об истории блюза
+  parent_id: 1

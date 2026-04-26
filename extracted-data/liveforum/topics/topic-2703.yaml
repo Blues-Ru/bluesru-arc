@@ -1,0 +1,70 @@
+topic_id: 2703
+slug: topic-2703
+title: Japanese bassist is looking for band.
+first_post: 2005-08-15 16:35
+last_post: 2010-09-24 18:52
+post_count: 5
+posts:
+- id: 22322
+  parent_id: null
+  date: 2005-08-15 16:35
+  poster: Yoichiro Tanaka
+  email: tanaka@hitachi-tp.ru
+  subject: Japanese bassist is looking for band.
+  deleted: false
+  text: 'I am 40years old. I am constantly living in Moscow since 1999. I started
+    to play bass-guitar which I used in younger days (MOON/Japanese custom made with
+    EMG pick up) as a bassist in Tokyo. But unfortunately I don''t have any friends
+    of musicians. Now I am looking for band, and ready to have sound check in studio.
+
+
+    If someone is looking for basist in blues, blues/rock, and funk band, please contact
+    me. My favorite is S.R.V, Cream, and others.
+
+
+    I can speak in Russian for communication.
+
+
+    Tanaka'
+  replies:
+  - id: 22323
+    parent_id: 22322
+    date: 2005-08-15 18:20
+    poster: Старый Майор
+    email: gypsy@mail.ru
+    subject: Welcome to our blues jams!
+    deleted: false
+    text: "If you want to play from time to time, please visit our blues jams every\
+      \ Wednesday at 20:00 at the B.B.King blues club (Sadovo-Samotechnaya, 4).\n\n\
+      We will gladly meet you there, please don't forget your guitar)) \n\nNeed to\
+      \ warn you that the domain hitachi-tp.ru doesn't exist so that nobody can't\
+      \ send you an email to the address tanaka@hitachi-tp.ru.\nPlease check it thoroughly."
+    replies:
+    - id: 22359
+      parent_id: 22323
+      date: 2005-08-18 21:19
+      poster: Петр Кунарев (Eastwood2002)
+      email: cousins@yandex.ru
+      subject: Ну и как,
+      deleted: false
+      text: пришел четырехструнный самурай? :-))
+      replies:
+      - id: 22367
+        parent_id: 22359
+        date: 2005-08-19 13:15
+        poster: Старый Майор
+        email: gypsy@mail.ru
+        subject: А хто ж его зна.. я в среду не был..
+        deleted: false
+        text: "Он вообще-то ищет группу для работы в студии, судя по постингу.\nНаше\
+          \ дело - предложить. \nВосток - дело тонкое, однако..."
+    - id: 37079
+      parent_id: 22323
+      date: 2010-09-24 18:52
+      poster: tanaka
+      subject: My address is tanaka@hitachi-pt.ru
+      deleted: false
+      text: 'hitachi-pt.ru
+
+
+        tanaka'

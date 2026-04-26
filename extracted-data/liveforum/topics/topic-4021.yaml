@@ -1,0 +1,28 @@
+topic_id: 4021
+slug: topic-4021
+title: сегодня, 3 июня
+first_post: 2008-06-03 16:04
+last_post: 2008-06-03 16:07
+post_count: 2
+posts:
+- id: 35463
+  parent_id: null
+  date: 2008-06-03 16:04
+  poster: Jumpin' Jack Flash
+  email: hkjhk
+  subject: сегодня, 3 июня
+  deleted: false
+  text: 'Memphis Minnie(1897)- 101, Jimmy Roger(1924)-84!
+
+    But Bo is on my mind...'
+  replies:
+  - id: 35464
+    parent_id: 35463
+    date: 2008-06-03 16:07
+    poster: Jumpin' Jack Flash
+    email: bmbm
+    subject: sorry
+    deleted: false
+    text: 'Memphis MInnie-111, Roger is Rogers
+
+      Bo still on my mind'

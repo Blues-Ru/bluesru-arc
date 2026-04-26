@@ -1,0 +1,132 @@
+topic_id: 319
+slug: topic-319
+title: Вопрос знатокам электроблюза
+first_post: 2002-09-08 20:29
+last_post: 2002-09-10 21:09
+post_count: 12
+posts:
+- id: 7380
+  parent_id: null
+  date: 2002-09-08 20:29
+  poster: Антон Жаворонков (Tony Skylark)
+  email: phil@ufacom.ru
+  subject: Вопрос знатокам электроблюза
+  deleted: false
+  text: Играли ли когда-нибудь Buddy Guy и Albert Collins вместе? И если да, то нет
+    ли у них совместных записей (альбом B.B.King’а  “Blues Summit” не в счет – они
+    играют там в разных песнях)?
+  replies:
+  - id: 7381
+    parent_id: 7380
+    date: 2002-09-08 21:04
+    poster: Вован
+    email: dv1979
+    subject: Ответ
+    deleted: false
+    text: 'Привет!Я не точно помню ,но у моего дружбана ,вроде бы есть..
+
+      Там еще Otis Rush тусовался и Debbie Devis еще..
+
+      Я ему позвоню на днях и напишу либо в форум ,либо на мыло тебе если ты мне напишешь
+      .
+
+      BLUES RULES!
+
+      С уважением,Вован.'
+    replies:
+    - id: 7383
+      parent_id: 7381
+      date: 2002-09-08 23:16
+      poster: Иван Иванов
+      email: www.geocities.com/drikasblues
+      subject: Есть видео - B.B. King and Friends
+      deleted: false
+      text: На сцене вместе играют Б.Б., Колинз, Бадди Гай, Роберт Крей и еще два
+        незнакомых гитариста. Поют Коко Тейлор (великолепно) и другие вокалистки (имена
+        не помню).
+      replies:
+      - id: 7386
+        parent_id: 7383
+        date: 2002-09-09 10:18
+        poster: Сергей Бабаев
+        email: ben2jamm@yahoo.com
+        subject: '!'
+        deleted: false
+        text: 'Если это у тебя целый концерт - то это просто праздник какой-то!
+
+          Буду очень признателен,если найдется возможность перекатать.'
+        replies:
+        - id: 7388
+          parent_id: 7386
+          date: 2002-09-09 12:52
+          poster: vr  (Stone Crazy)
+          email: volodya@blues.ru
+          subject: да запросто. :)
+          deleted: false
+          text: звони - разберемся :)) я твой телефон потерял, когда у меня сперли
+            телефон ну и его сим карту :)
+          replies:
+          - id: 7389
+            parent_id: 7388
+            date: 2002-09-09 12:53
+            poster: vr  (Stone Crazy)
+            email: volodya@blues.ru
+            subject: только  я тормоз
+            deleted: false
+            text: я не понял что это ты не мне :))) ну всеравно звони ;)
+  - id: 7382
+    parent_id: 7380
+    date: 2002-09-08 23:13
+    poster: Дима Казанцев (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: А самому
+    deleted: false
+    text: поискать на allmusic.com ломает что ли?
+    replies:
+    - id: 7385
+      parent_id: 7382
+      date: 2002-09-08 23:17
+      poster: Андрей PRG
+      email: peregnoy@mail.ru
+      subject: Ну, может,
+      deleted: false
+      text: 'Антон не знает про allmusic.com, а, может, просто общения хоца...
+
+        Будь мягче к людям, и к тебе потянутся... ;)'
+      replies:
+      - id: 7405
+        parent_id: 7385
+        date: 2002-09-10 01:25
+        poster: Дима Казанцев (Dr. Nick)
+        email: dr.nick@blues.ru
+        subject: Я очень мягок и податлив
+        deleted: false
+        text: Просто дал парню ссылку на хороший сайт. А сам был занят сильно и не
+          смог ответить ;(
+        replies:
+        - id: 7419
+          parent_id: 7405
+          date: 2002-09-10 21:09
+          poster: Андрей PRG
+          email: peregnoy@mail.ru
+          subject: Да, Дим, никто
+          deleted: false
+          text: и не спорит, что ты супер мягкий, супер белой и оч-оч пушистый ;)
+  - id: 7384
+    parent_id: 7380
+    date: 2002-09-08 23:17
+    poster: vr  (Stone Crazy)
+    email: volodya@blues.ru
+    subject: на горбушке еще хрен когда и вроде и сейчас
+    deleted: false
+    text: "продается сборник видео - нарезан с двух фестивалей.. в мемфсе и чикаго.\
+      \ вот в чикаго как раз там Бадди Гай с Коллинзом пересекаются на сцене в конце\
+      \ мероприятия :) \n\nназывается видео - Blues Alive"
+  - id: 7390
+    parent_id: 7380
+    date: 2002-09-09 14:44
+    poster: Антон Жаворонков (Tony Skylark)
+    email: phil@ufacom.ru
+    subject: Большое спасибо
+    deleted: false
+    text: всем ответившим, не исключая Диму Казанцева! :-)

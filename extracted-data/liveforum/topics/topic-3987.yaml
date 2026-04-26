@@ -1,0 +1,34 @@
+topic_id: 3987
+slug: topic-3987
+title: Умер Sean Costello
+first_post: 2008-04-16 10:58
+last_post: 2008-04-16 11:08
+post_count: 3
+posts:
+- id: 35305
+  parent_id: null
+  date: 2008-04-16 10:58
+  poster: Arsen
+  email: rad@mail.ru
+  subject: Умер Sean Costello
+  deleted: false
+  text: 'Ему было 29... RIP
+
+    http://www.seancostello.com/'
+  replies:
+  - id: 35306
+    parent_id: 35305
+    date: 2008-04-16 11:01
+    poster: Daniil Jeshkov (J.D.)
+    email: jimi@opfr.spb.ru
+    subject: Блиииииааааа
+    deleted: false
+    text: Что???? биляяяяяяяяяяяя ((((((((
+  - id: 35307
+    parent_id: 35305
+    date: 2008-04-16 11:08
+    poster: Daniil Jeshkov (J.D.)
+    email: jimi@opfr.spb.ru
+    subject: RIP
+    deleted: false
+    text: Просто невозможно поверить,такой жизнелюбивый человек ((( очень очень жаль.

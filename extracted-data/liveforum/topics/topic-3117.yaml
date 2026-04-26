@@ -1,0 +1,36 @@
+topic_id: 3117
+slug: topic-3117
+title: Жук и Кожекин
+first_post: 2006-02-21 14:20
+last_post: 2006-02-22 09:54
+post_count: 3
+posts:
+- id: 26209
+  parent_id: null
+  date: 2006-02-21 14:20
+  poster: Gesha
+  email: awsd@sdfsd.ru
+  subject: Жук и Кожекин
+  deleted: false
+  text: 'Вова Кожекин и Вано Жук!!
+
+    позвоните мне 8 901 518 96 98
+
+    Гкрген!'
+  replies:
+  - id: 26211
+    parent_id: 26209
+    date: 2006-02-21 14:50
+    poster: Кожекин
+    email: kozhekin@mail.ru
+    subject: Кто здесь?
+    deleted: false
+    replies:
+    - id: 26247
+      parent_id: 26211
+      date: 2006-02-22 09:54
+      poster: Gesha
+      email: 123123@asda.ru
+      subject: Я!
+      deleted: false
+      text: Это Гурген!! Позвони мне.

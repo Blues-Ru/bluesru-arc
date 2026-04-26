@@ -1,0 +1,28 @@
+topic_id: 5141
+slug: topic-5141
+title: Рецензии Олега из Питера на блюзовые пластинки
+first_post: 2013-10-21 15:36
+last_post: 2013-10-21 19:54
+post_count: 2
+posts:
+- id: 39108
+  parent_id: null
+  date: 2013-10-21 15:36
+  poster: Федор Романенко
+  subject: Рецензии Олега из Питера на блюзовые пластинки
+  deleted: false
+  text: 'Их уже много
+
+
+    http://olegspbblues.blogspot.ru/
+
+
+    Почти в каждой рецензии небольшой полезный исторический экскурс.'
+  replies:
+  - id: 39110
+    parent_id: 39108
+    date: 2013-10-21 19:54
+    poster: Александр Сомов
+    subject: '...'
+    deleted: false
+    text: Спасибо за ссылку)

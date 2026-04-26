@@ -1,0 +1,42 @@
+topic_id: 3472
+slug: topic-3472
+title: Ритм-н-блюз Кафе опять закрыли?
+first_post: 2006-10-31 13:29
+last_post: 2006-11-09 19:07
+post_count: 4
+posts:
+- id: 29264
+  parent_id: null
+  date: 2006-10-31 13:29
+  poster: Dmitri Kazantsev (Dr. Nick)
+  email: dr.nick@blues.ru
+  subject: Ритм-н-блюз Кафе опять закрыли?
+  deleted: false
+  text: 'Мне доложили.
+
+
+    Так или нет?'
+  replies:
+  - id: 29265
+    parent_id: 29264
+    date: 2006-10-31 13:30
+    poster: Владимир Русинов (BluesCat)
+    email: volodya@blues.ru
+    subject: да.  на неделю....
+    deleted: false
+    replies:
+    - id: 29266
+      parent_id: 29265
+      date: 2006-10-31 14:43
+      poster: Старый Майор
+      email: gypsy@mail.ru
+      subject: Санэпидстанция закрыла?
+      deleted: false
+      text: Облава на чёрных с усами?
+  - id: 29331
+    parent_id: 29264
+    date: 2006-11-09 19:07
+    poster: Юрий Кривошеин (YuK)
+    email: scolder@blues.ru
+    subject: Уже опять открыли! (-)
+    deleted: false

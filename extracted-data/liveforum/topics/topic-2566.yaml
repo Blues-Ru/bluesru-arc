@@ -1,0 +1,23 @@
+topic_id: 2566
+slug: topic-2566
+title: 15 летие CROSSROADZ
+first_post: 2005-05-11 21:48
+last_post: 2005-05-12 01:19
+post_count: 2
+posts:
+- id: 21432
+  parent_id: null
+  date: 2005-05-11 21:48
+  poster: Диброва (Dibrova)
+  email: dibrova_blues@rambler.ru
+  subject: 15 летие CROSSROADZ
+  deleted: false
+  text: Может знает кто-нибудь, во сколько начало концерта?
+  replies:
+  - id: 21436
+    parent_id: 21432
+    date: 2005-05-12 01:19
+    poster: Андрей Ордальонов (Андрей PRG)
+    email: peregnoy@mail.ru
+    subject: В 20:00
+    deleted: false

@@ -1,0 +1,60 @@
+topic_id: 220
+slug: topic-220
+title: Thank you, doc
+first_post: 2002-05-27 07:31
+last_post: 2002-05-31 06:47
+post_count: 6
+posts:
+- id: 4710
+  parent_id: null
+  date: 2002-05-27 07:31
+  poster: Дима Казанцев (Dr. Nick)
+  email: dr.nick@blues.ru
+  subject: Thank you, doc
+  deleted: false
+  text: You look much younger than I thought... It's good to be friends. I'm listening
+    to 10CC now, I don't know why.
+  replies:
+  - id: 4739
+    parent_id: 4710
+    date: 2002-05-28 10:44
+    poster: Алексей Аграновский (Док)
+    email: aaa@genebee.msu.su
+    subject: Дима
+    deleted: false
+    text: Было клево тебя повидать в Ле Клубе. More soon.
+    replies:
+    - id: 4764
+      parent_id: 4739
+      date: 2002-05-28 22:39
+      poster: Greta
+      email: morehemp@mail.ru
+      subject: Позвольте
+      deleted: false
+      text: 'полюбопытствовать: назревает творческий АЛЬЯНС? Такой обмен любезностями..'
+      replies:
+      - id: 4785
+        parent_id: 4764
+        date: 2002-05-29 14:25
+        poster: Алексей Аграновский (Док)
+        email: aaa@genebee.msu.su
+        subject: Смотрите выше, не туда малость попал
+        deleted: false
+    - id: 4856
+      parent_id: 4739
+      date: 2002-05-31 06:47
+      poster: Дима Казанцев (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: А что будет-то?
+      deleted: false
+      text: Я тут уже выхожу потихоньку, так что скоро где-нибудь увидимся. Но пока
+        постельный режим.
+  - id: 4784
+    parent_id: 4710
+    date: 2002-05-29 14:24
+    poster: Алексей Аграновский (Док)
+    email: aaa@genebee.msu.su
+    subject: Да не совсем, Грета
+    deleted: false
+    text: "Просто повидались там с Димой. \nА здесь это вроде приподнимания шляп.\
+      \ \nМои неприятности после этого только начались.\nНо это уже другая история..."

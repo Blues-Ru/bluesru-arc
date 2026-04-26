@@ -1,0 +1,228 @@
+topic_id: 299
+slug: topic-299
+title: Буду крайне признательна
+first_post: 2002-08-25 13:23
+last_post: 2002-08-29 17:23
+post_count: 24
+posts:
+- id: 7140
+  parent_id: null
+  date: 2002-08-25 13:23
+  poster: Карла
+  email: aaa@aa.aa
+  subject: Буду крайне признательна
+  deleted: false
+  text: Могли бы Вы посоветовать мне относительно блюзовых мероприятий в сентябре?
+  replies:
+  - id: 7156
+    parent_id: 7140
+    date: 2002-08-26 10:01
+    poster: tigra
+    email: bluesman@tut.by
+    subject: неплохой фестиваль в Катовице ( Польша)
+    deleted: false
+    text: 'http://www.rawablues.pl/index.php
+
+      заявлено участие хороших парней'
+    replies:
+    - id: 7163
+      parent_id: 7156
+      date: 2002-08-26 12:20
+      poster: Карла
+      email: aaa@aa.aa
+      subject: Это хорошо...
+      deleted: false
+      text: А в Москве ничего примечательного не намечается?
+      replies:
+      - id: 7175
+        parent_id: 7163
+        date: 2002-08-26 14:52
+        poster: tigra
+        email: bluesman@tut.by
+        subject: 'сорри, я не москвич : )))'
+        deleted: false
+        replies:
+        - id: 7201
+          parent_id: 7175
+          date: 2002-08-26 20:03
+          poster: Карла
+          email: aaa@aa.aa
+          subject: Пардон
+          deleted: false
+          text: Я подумать-то подумала, а вот написать не удосужилась...
+      - id: 7178
+        parent_id: 7163
+        date: 2002-08-26 15:37
+        poster: Дима Казанцев (Dr. Nick)
+        email: dr.nick@blues.ru
+        subject: Приходи к нам на концерты ;)
+        deleted: false
+        text: Они обычно всегда примечательные ;) Мы почти потеряли басиста, так что
+          торопись ;)
+        replies:
+        - id: 7179
+          parent_id: 7178
+          date: 2002-08-26 15:43
+          poster: Александр Мальчевский (Tonny)
+          email: heavyfuel@mtu-net.ru
+          subject: А что?
+          deleted: false
+          text: Ветеран уходит?
+          replies:
+          - id: 7184
+            parent_id: 7179
+            date: 2002-08-26 15:52
+            poster: Дима Казанцев (Dr. Nick)
+            email: dr.nick@blues.ru
+            subject: Только никому не говори!
+            deleted: false
+            text: Мы теряем его ;(
+            replies:
+            - id: 7195
+              parent_id: 7184
+              date: 2002-08-26 16:11
+              poster: tigra
+              email: bluesman@tut.by
+              subject: Попробуйте стимулировать электрошоком ( как в ER)
+              deleted: false
+        - id: 7197
+          parent_id: 7178
+          date: 2002-08-26 16:41
+          poster: Карла
+          email: aaa@aa.aa
+          subject: С удовольствием!
+          deleted: false
+          text: "Только куда?\nНашла объявление о вашем концерте... на 5 сентября...\
+            \ 2001 года... \nНашла отчет о ББКинге 9-го 8-го 2002... А хотелось бы\
+            \ как-то на будущее..."
+          replies:
+          - id: 7203
+            parent_id: 7197
+            date: 2002-08-26 21:30
+            poster: Дима Казанцев (Dr. Nick)
+            email: dr.nick@blues.ru
+            subject: Читайте объявы тут на сайте ;)
+            deleted: false
+            text: Воронов обещал нам 2 гига в БиБи; надеюсь что они состоятся.
+          - id: 7212
+            parent_id: 7197
+            date: 2002-08-26 23:44
+            poster: Александр Мальчевский (Tonny)
+            email: heavyfuel@mtu-net.ru
+            subject: 05.09 Sky Stranger & D.Kazantsev, Hotrod, 21:00
+            deleted: false
+            text: 'Hotrod: ул. Обручева, 30; м. Калужская; тел.429-9180; открыто 24h;'
+  - id: 7198
+    parent_id: 7140
+    date: 2002-08-26 16:59
+    poster: Алексей Аграновский (Док)
+    email: aaa@genebee.msu.su
+    subject: Уважаемая Карла!
+    deleted: false
+    text: 21 сентября (суббота) в Московском зоопарке состоится акция BLUEZOOLOGY
+      Vol. II. Подробности несколько позднее.
+    replies:
+    - id: 7200
+      parent_id: 7198
+      date: 2002-08-26 20:01
+      poster: Карла
+      email: aaa@aa.aa
+      subject: Надеюсь,
+      deleted: false
+      text: "что ни что не помешает мне быть! \nСпасибо Алексей!"
+    - id: 7215
+      parent_id: 7198
+      date: 2002-08-27 10:26
+      poster: Sergei  Kiritchenko (VoID)
+      email: skvoid@yahoo.com
+      subject: О как здорово!
+      deleted: false
+      text: "Специально по этому поводу перенесу свой визит в столицу на вторую половину\
+        \ сентября! \nТеперь представляете какая на вас ответственность! :)))))))"
+    - id: 7226
+      parent_id: 7198
+      date: 2002-08-27 22:58
+      poster: Андрей PRG
+      email: peregnoy@mail.ru
+      subject: Главное, чтобы...
+      deleted: false
+      text: тигры никогда не кончались ;)
+      replies:
+      - id: 7241
+        parent_id: 7226
+        date: 2002-08-28 13:27
+        poster: Алексей Аграновский (Док)
+        email: aaa@genebee.msu.su
+        subject: 'Нет, чуть чуть не так. Не могу согласиться. Вот моя версия:'
+        deleted: false
+        text: 'Я так хочу! чтобы тигры не кончались... чтоб они за мною мчались...
+          за мною вслед.
+
+          Далее по тексту.'
+        replies:
+        - id: 7243
+          parent_id: 7241
+          date: 2002-08-28 13:44
+          poster: Карла
+          email: aaa@aa.aa
+          subject: Да-а-а-а... /утирая слезы/
+          deleted: false
+          text: Давненько так не смеялась...
+          replies:
+          - id: 7250
+            parent_id: 7243
+            date: 2002-08-29 01:14
+            poster: Дима Казанцев (Dr. Nick)
+            email: dr.nick@blues.ru
+            subject: То ли еще будет
+            deleted: false
+            text: ой ой ой...
+        - id: 7245
+          parent_id: 7241
+          date: 2002-08-28 15:14
+          poster: AlexIV
+          email: evergreens@mail.ru
+          subject: Док!  5 баллов!!!!!  :-))))
+          deleted: false
+          text: 'Кстати, Док, запиши меня на сегодняшний джэм в БиБи... (а?)
+
+            :-)'
+        - id: 7249
+          parent_id: 7241
+          date: 2002-08-29 01:13
+          poster: Дима Казанцев (Dr. Nick)
+          email: dr.nick@blues.ru
+          subject: А вот так (сам придумал)
+          deleted: false
+          text: '"Я так хочу чтобы Лена не кончала..."'
+          replies:
+          - id: 7268
+            parent_id: 7249
+            date: 2002-08-29 15:32
+            poster: Фрекен Бок
+            email: gypsy@mail.ru
+            subject: Фи, как неприлично! - Part II
+            deleted: false
+            text: 'Дима, тебе в очередной раз жёлтая карточка за похабщину в эфире!
+
+              Не все мысли достойны опубликования, а иногда лучше играть, чем говорить,
+              тем более, что первое у тебя получается неплохо.'
+            replies:
+            - id: 7271
+              parent_id: 7268
+              date: 2002-08-29 17:14
+              poster: Дима Казанцев (Dr. Nick)
+              email: dr.nick@blues.ru
+              subject: Кто бы говорил ;)
+              deleted: false
+              text: Вы бы свои писульки, Майор, почитали... Про squeeze my lemon till
+                the juice run down my legs :)))
+              replies:
+              - id: 7272
+                parent_id: 7271
+                date: 2002-08-29 17:23
+                poster: Старый Майор
+                email: gypsy@mail.ru
+                subject: Поручик, я же исключительно намёками, а вы прям открытым
+                  текстом шпарите!
+                deleted: false

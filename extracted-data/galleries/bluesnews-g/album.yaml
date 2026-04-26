@@ -1,0 +1,38 @@
+slug: bluesnews-g
+title: ''
+source_dir: bluesnews/g
+legacy_url: /bluesnews/g/
+date_hint: ''
+generator: image-collection
+photo_count: 6
+photos:
+- filename: 38.jpg
+  source_path: bluesnews/g/38.jpg
+  thumbnail: ''
+  caption: ''
+  page_html: ''
+- filename: 4.jpg
+  source_path: bluesnews/g/4.jpg
+  thumbnail: ''
+  caption: ''
+  page_html: ''
+- filename: DSCN3718.JPG
+  source_path: bluesnews/g/DSCN3718.JPG
+  thumbnail: ''
+  caption: ''
+  page_html: ''
+- filename: DSCN3735.JPG
+  source_path: bluesnews/g/DSCN3735.JPG
+  thumbnail: ''
+  caption: ''
+  page_html: ''
+- filename: DSCN3736.JPG
+  source_path: bluesnews/g/DSCN3736.JPG
+  thumbnail: ''
+  caption: ''
+  page_html: ''
+- filename: jd.jpg
+  source_path: bluesnews/g/jd.jpg
+  thumbnail: ''
+  caption: ''
+  page_html: ''

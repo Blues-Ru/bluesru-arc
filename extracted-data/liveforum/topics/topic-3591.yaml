@@ -1,0 +1,100 @@
+topic_id: 3591
+slug: topic-3591
+title: Помогите с текстами!
+first_post: 2007-03-13 12:21
+last_post: 2007-03-19 14:03
+post_count: 7
+posts:
+- id: 31632
+  parent_id: null
+  date: 2007-03-13 12:21
+  poster: Иван
+  email: zlzlz@yandex.ru
+  subject: Помогите с текстами!
+  deleted: false
+  text: 'Привет!
+
+    Нужны тексты блюзов. Нигде не могу найти. Вот например в песне Hoodoo Man Blues,
+    которую исполняют Бади Гай и Джуниор, понятно очень не много слов. Как впрочем
+    и всегда, когда поет Джуниор. Очень хочется разобраться. Пожалуйста, скидывайте
+    мне на почту zlzlz@yandex.ru, тексты, или хотя бы ссылки на сайты, где их реально
+    прочитать. Может быть у кого-то есть фирменные диски с текстами на вкладыше -
+    может быть хотя бы на телефон щелкните, и пришлите. Пожалуйста!'
+  replies:
+  - id: 31634
+    parent_id: 31632
+    date: 2007-03-13 14:15
+    poster: Алексей Аграновский (Док)
+    email: aaa@genebee.msu.su
+    subject: Решение
+    deleted: false
+    text: http://blueslyrics.tripod.com/artistswithsongs/junior_wells_1.htm#hoodoo_man
+  - id: 31664
+    parent_id: 31632
+    date: 2007-03-15 09:56
+    poster: vic belov
+    email: vaninblues@yandex.ru
+    subject: texts of songs
+    deleted: false
+    text: Песня та,привет Вань, но поют они что угодно около темы, как и играют впрочем!
+  - id: 31685
+    parent_id: 31632
+    date: 2007-03-16 04:26
+    poster: Эльдар
+    email: е@gh.tn
+    subject: Ищу текст  John Mayall - A Hard Road
+    deleted: false
+    text: 'Помогите, плз, с поиском текста John Mayall - A Hard Road
+
+      Искал на Harry''s Blues Lyrics http://blueslyrics.tripod.com/ но что-то там
+      даже не нашел окошко для поиска :-(
+
+      На http://www.fleetwoodmac.net/discog/discog.php?pid=380 нашел только махонький
+      кусок:
+
+      I’m trying to tell you people
+
+      that the blues have hit me in my life.
+
+      You know I was born for trouble
+
+      and it’s a hard road ‘till I die.
+
+      P.S. Может есть смысл разместить на страничке форума ссылку для поиска блюзовых
+      текстов? (вопрос для Ф.Р. и А.Е.)'
+    replies:
+    - id: 31710
+      parent_id: 31685
+      date: 2007-03-17 14:55
+      poster: Сергей Бабаев (S.B.)
+      email: from30@mail.ru
+      subject: A hard road или трудная дорога к сетевым поисковикам ;-)
+      deleted: false
+      text: "I let a life slip through my fingers \nWhere am I gonna turn? \nI'm the\
+        \ causing of the trouble \nAnd it makes my poor heart burn \n\nI been tryin'\
+        \ to tell you people \nThat the blues hit me in my life \nYou know I was born\
+        \ for trouble \nAnd it's a hard road till I die \n\nI've loved and lost so\
+        \ many women \nThe cause of many broken heart \n[ these lyrics found on http://www.completealbumlyrics.com\
+        \ ]\nDrank and drifted through the years \nAnd watched my family fall apart\
+        \ \n\nI'm gonna pack up my suitcase \nPut my misery inside \nThrow in a bit\
+        \ of pain and trouble \nAnd that's the road I'll ride"
+      replies:
+      - id: 31715
+        parent_id: 31710
+        date: 2007-03-17 17:05
+        poster: Эльдар
+        email: е@gh.tn
+        subject: Вот спасибоу!
+        deleted: false
+        text: "http://www.completealbumlyrics.com \nа у меня чё-то не получилось через\
+          \ яндекс :(\nспасибо бальшое"
+        replies:
+        - id: 31763
+          parent_id: 31715
+          date: 2007-03-19 14:03
+          poster: Старый Майор
+          email: gypsy@mail.ru
+          subject: Яндекс плохо ищет по нерусским текстам.
+          deleted: false
+          text: Используй Google - он всегда находит нужные тексты. Ну.. или почти
+            всегда ))

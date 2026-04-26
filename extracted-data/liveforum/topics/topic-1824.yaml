@@ -1,0 +1,36 @@
+topic_id: 1824
+slug: topic-1824
+title: в рамках 10-летия, конечно...
+first_post: 2004-02-05 02:46
+last_post: 2004-02-06 02:18
+post_count: 3
+posts:
+- id: 17065
+  parent_id: null
+  date: 2004-02-05 02:46
+  poster: Дима Казанцев (Dr. Nick)
+  email: dr.nick@blues.ru
+  subject: в рамках 10-летия, конечно...
+  deleted: false
+  text: позвонил Саша Никишин и мы решили сыграть в субботу старым составом Dr. Nick!
+    концерт будет в пабе Jack Rabbit Slim's на Соколе. надеюсь, что мы сможем вызвать
+    и Дэйва Граута на ударные! в любом случае, это был наш лучший состав, так что
+    будет клево. так что приходите посмотреть на НЕстарперов :)
+  replies:
+  - id: 17076
+    parent_id: 17065
+    date: 2004-02-05 15:23
+    poster: Егор Скороходов
+    email: egskor@mail.ru
+    subject: Такое я пропустить не смогу....
+    deleted: false
+    text: А во сколько начало?
+    replies:
+    - id: 17084
+      parent_id: 17076
+      date: 2004-02-06 02:18
+      poster: Дима Казанцев (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: типа строго в 9 вечера!
+      deleted: false
+      text: но будем играть аж полтора часа без перерыва!

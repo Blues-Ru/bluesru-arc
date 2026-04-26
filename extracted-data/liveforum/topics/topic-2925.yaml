@@ -1,0 +1,51 @@
+topic_id: 2925
+slug: topic-2925
+title: Поздравляю Сергея Воронова с Днём Рождения!
+first_post: 2005-11-15 00:09
+last_post: 2005-11-15 23:47
+post_count: 5
+posts:
+- id: 24496
+  parent_id: null
+  date: 2005-11-15 00:09
+  poster: Маша Диброва (Dibrova)
+  email: dibrova_blues@rambler.ru
+  subject: Поздравляю Сергея Воронова с Днём Рождения!
+  deleted: false
+  text: 'Хотелось бы поздравить лидера группы "Кроссроудз" с Днём Рождения и пожелать
+    ему творческих успехов!!!
+
+    Также, поздравляю с прошедшим вчера Днём Рождения телеведущего и блюзмена Дмитрия
+    Диброва!'
+  replies:
+  - id: 24502
+    parent_id: 24496
+    date: 2005-11-15 11:09
+    poster: Grem
+    email: grems@yandex.ru
+    subject: Поздравляю!!!
+    deleted: false
+    text: Желаю много много здоровья, новых песен и побольше гигов... всего всего!!!!
+  - id: 24504
+    parent_id: 24496
+    date: 2005-11-15 12:06
+    poster: Andy McLetsoff (McL)
+    email: mcl@macbox.ru
+    subject: Здоровья ему и творческого долголетия!
+    deleted: false
+  - id: 24523
+    parent_id: 24496
+    date: 2005-11-15 18:15
+    poster: Алексей Фролов (Buchothk)
+    email: jokerthk@yandex.ru
+    subject: ПРИСОЕДИНЯЮСЬ!!!
+    deleted: false
+    text: И как говорится, чтоб всегда сверху Diamond Rain!!! $)))
+  - id: 24527
+    parent_id: 24496
+    date: 2005-11-15 23:47
+    poster: Esbarro
+    email: dragonrider@inbox.ru
+    subject: ДР
+    deleted: false
+    text: Присоединяюсь! Серёга, жги ещё столько же)

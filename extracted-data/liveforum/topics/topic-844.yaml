@@ -1,0 +1,101 @@
+topic_id: 844
+slug: topic-844
+title: Dr.Ika лично
+first_post: 2003-05-13 19:19
+last_post: 2003-05-15 12:08
+post_count: 9
+posts:
+- id: 12456
+  parent_id: null
+  date: 2003-05-13 19:19
+  poster: Greta
+  email: morehemp@mail.ru
+  subject: Dr.Ika лично
+  deleted: false
+  text: 'Не могу Вам ответить - почта возвращает письма назад и с нового, и со старого
+    Вашего ящика..
+
+    С позволения присутствующих, коротко отвечу здесь: с Юрием Михайловичем договорились
+    на четверг.
+
+    У всех остальных прошу прощения за дебош не по теме..'
+  replies:
+  - id: 12457
+    parent_id: 12456
+    date: 2003-05-13 19:34
+    poster: Алексей Аграновский (Док)
+    email: aaa@genebee.msu.su
+    subject: Ну, если это Лужков имеется в виду,
+    deleted: false
+    text: то вполне по теме. Это - блюз в чистом виде. Для нас всех.
+    replies:
+    - id: 12458
+      parent_id: 12457
+      date: 2003-05-13 19:39
+      poster: Greta
+      email: morehemp@mail.ru
+      subject: Нет,
+      deleted: false
+      text: 'не Лужков.. :)
+
+        но тема вполне блюзовая.'
+      replies:
+      - id: 12470
+        parent_id: 12458
+        date: 2003-05-14 16:23
+        poster: Dr. Ika
+        email: www.geocities.com/drikasblues
+        subject: А в каком бэнде играет Лужков и на каком инструменте? :))
+        deleted: false
+        text: Поджемуем с ним!
+        replies:
+        - id: 12471
+          parent_id: 12470
+          date: 2003-05-14 16:29
+          poster: (Grem)
+          email: sergei.sergeev@emersonprocess.ru
+          subject: Кажись тот бэнд "Единая Россия" ....
+          deleted: false
+          text: Кажись тот бэнд "Единая Россия" и он там на подпевках....
+        - id: 12472
+          parent_id: 12470
+          date: 2003-05-14 16:54
+          poster: Greta
+          email: morehemp@mail.ru
+          subject: Я думаю... в основном предпочитает..
+          deleted: false
+          text: 'кепку :)
+
+            А что.. Флойд Ли играл же котелком :)'
+          replies:
+          - id: 12480
+            parent_id: 12472
+            date: 2003-05-15 11:21
+            poster: Алексей Аграновский (Док)
+            email: aaa@genebee.msu.su
+            subject: Тут более тонко, друзья!
+            deleted: false
+            text: Кепка используется для звукоизвлечения, навроде медиатора, сиречь
+              плектра. А вот сам инструмент описать трудно... он уникален.
+            replies:
+            - id: 12481
+              parent_id: 12480
+              date: 2003-05-15 11:37
+              poster: Greta
+              email: morehemp@mail.ru
+              subject: ну.. Алексей...
+              deleted: false
+              text: "Вы уж поосторожней с предположениями.. Тут более, чем тонко.\
+                \ А то, не ровен час, нас тут всех чиста канкретна могут как-нить\
+                \ и ПРИСТРУНИТЬ :)\nСовсем недавно всё утихло от гитарзрушной распальцовки.\
+                \ \nА всё ж медиатор гигантский получается из кепки.. :)"
+              replies:
+              - id: 12482
+                parent_id: 12481
+                date: 2003-05-15 12:08
+                poster: Алексей Аграновский (Док)
+                email: aaa@genebee.msu.su
+                subject: Нишкну... Hush... Харе Кришна...
+                deleted: false
+                text: А медиатор, действительно, получается из нея, кепки, удивительный,
+                  чудный!

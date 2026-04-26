@@ -1,0 +1,23 @@
+topic_id: 3353
+slug: topic-3353
+title: А завтра будет джем Би Би Кинг Клубе?
+first_post: 2006-08-01 16:47
+last_post: 2006-08-01 17:16
+post_count: 2
+posts:
+- id: 28103
+  parent_id: null
+  date: 2006-08-01 16:47
+  poster: Саша
+  email: kar_ai@bk.ru
+  subject: А завтра будет джем Би Би Кинг Клубе?
+  deleted: false
+  text: Хм... А то в списке концертов написан "Черный Хлеб и д-р Аграновский"
+  replies:
+  - id: 28104
+    parent_id: 28103
+    date: 2006-08-01 17:16
+    poster: Алексей Аграновский (Док)
+    email: aaa@genebee.msu.su
+    subject: Будет.
+    deleted: false

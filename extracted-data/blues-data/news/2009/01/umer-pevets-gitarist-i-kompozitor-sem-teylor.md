@@ -1,0 +1,12 @@
+---
+id: 593
+slug: umer-pevets-gitarist-i-kompozitor-sem-teylor
+title: Умер певец, гитарист и композитор Сэм Тейлор
+date: '2009-01-06'
+author: Андрей Евдокимов
+legacy_path: news/2009/01/umer-pevets-gitarist-i-kompozitor-sem-teylor.md
+---
+
+5 января в Лонг-Айленде в возрасте 74 лет скончался певец, гитарист и композитор Сэм Тейлор (Sam "The Bluzman" Taylor).
+
+Следуя традиции, Сэм Тейлор начал петь в церковном хоре (ему было тогда 5 лет), в юности готовил себя к карьере профессионального боксера Но в 50-х в поп-группах началась очень удачно его музыкальная карьера. Первую запись сделал в 1959 году. Его песни исполняли и записывали: Sam and Dave, Elvis Presley, Freddie King, Jackie Wilson, Jimmy Witherspoon, Esther Phillips, Brook Benton, the Beach Boys и многие дрегие. Как гитарист он аккомпанировал таким выдающимся музыкантам, как Otis Redding, the Isley Brothers, Albert Collins, T-Bone Walker, Tracy Nelson, Big Joe Turner, the Drifters. Главной музыкой в его сольной карьере всегда оставался блюз (поэтому не стоит путать его с саксофонистом Сэмом Тейлором, его отцом, игравшим преимуественно поп-музыку и легкий джаз).

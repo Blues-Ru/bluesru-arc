@@ -1,0 +1,71 @@
+topic_id: 4672
+slug: topic-4672
+title: эволюция
+first_post: 2011-07-18 12:36
+last_post: 2011-07-18 16:02
+post_count: 6
+posts:
+- id: 37887
+  parent_id: null
+  date: 2011-07-18 12:36
+  poster: олег
+  subject: эволюция
+  deleted: false
+  text: На каких исполнителя можно проследить эволюцию чикагского стиля,если M.W.вершина?
+  replies:
+  - id: 37892
+    parent_id: 37887
+    date: 2011-07-18 13:06
+    poster: Cpt. Nemoff
+    subject: Эволюция не для Чикаго
+    deleted: false
+    text: Эволюция не для Чикаго
+    replies:
+    - id: 37893
+      parent_id: 37892
+      date: 2011-07-18 15:40
+      poster: олег
+      subject: ???
+      deleted: false
+      text: Но ведь не сразу чикагский саунд стал чикагским в чистом виде!(альбом
+        House rent party записан 1949 до появления братьев-шахматистов!Значит развитие
+        было?)
+      replies:
+      - id: 37895
+        parent_id: 37893
+        date: 2011-07-18 15:54
+        poster: Михаил Бирюков
+        subject: Чикагский стиль...
+        deleted: false
+        text: '... не ограничивается лейблом "Чесс". Мадди Уотерс играл в чикагском
+          стиле и на "Аристократе", с 1946 года приблизительно начиная. С его подачи
+          Чикаго - это в основном электрифицированный и ритмически более структурированный
+          дельта-блюз.
+
+          Хотя, конечно, не единственно только это.'
+  - id: 37894
+    parent_id: 37887
+    date: 2011-07-18 15:51
+    poster: Михаил Бирюков
+    subject: несколько ссылок
+    deleted: false
+    text: 'http://www.allmusic.com/explore/style/chicago-blues-d39/artists
+
+      http://www.document-records.com/fulldetails.asp?ProdID=DOCD-5270
+
+      http://www.document-records.com/fulldetails.asp?ProdID=DOCD-5444
+
+      Первая даёт список основных ключевых фигур, среди которых - легко заметить -
+      Мадди Уотерс и Хаулин Вулф занимают лидирующие позиции в топе и во главе. Практически
+      с них началось, они же и вершина.
+
+      Две последующие ссылки показывают, что в плане хронологии это не вполне так.
+      :)'
+    replies:
+    - id: 37896
+      parent_id: 37894
+      date: 2011-07-18 16:02
+      poster: олег
+      subject: '!!!'
+      deleted: false
+      text: Понял.Спасибо!

@@ -1,0 +1,61 @@
+topic_id: 3839
+slug: topic-3839
+title: Merry XMas, people!
+first_post: 2007-12-25 08:10
+last_post: 2007-12-25 16:34
+post_count: 6
+posts:
+- id: 34184
+  parent_id: null
+  date: 2007-12-25 08:10
+  poster: Dmitri Kazantsev (Dr. Nick)
+  email: dr.nick@blues.ru
+  subject: Merry XMas, people!
+  deleted: false
+  replies:
+  - id: 34186
+    parent_id: 34184
+    date: 2007-12-25 13:13
+    poster: Федор Гребуньков
+    email: qweertya@rambler.ru
+    subject: ты што?
+    deleted: false
+    text: ты што,Kazantsev,католик?
+  - id: 34188
+    parent_id: 34184
+    date: 2007-12-25 14:18
+    poster: Эльдар
+    email: Эльдар
+    subject: Happy Birthday, Dmitri Kazantsev!
+    deleted: false
+    text: 'Рождество! Дима родился! И каталики, и православные, и протестанты - все
+      празднуют это событие!!!
+
+      С Днём Рождения, Дима.
+
+      Удачи, здоровья, много музыки хорошей!'
+    replies:
+    - id: 34190
+      parent_id: 34188
+      date: 2007-12-25 15:23
+      poster: Andrei V. Evdokimov (evdokimov)
+      email: evdokimov@blues.ru
+      subject: а я так думаю, что завтра у ДК будет ДР
+      deleted: false
+      replies:
+      - id: 34192
+        parent_id: 34190
+        date: 2007-12-25 16:34
+        poster: Эльдар
+        email: Эльдар
+        subject: Дык, я ж заранее паздравить!
+        deleted: false
+        text: 'как гриться: первый нах... нахрюкаюсь :-)'
+  - id: 34189
+    parent_id: 34184
+    date: 2007-12-25 14:22
+    poster: Федор Гребуньков
+    email: qweertya@rambler.ru
+    subject: а
+    deleted: false
+    text: а,тады сорри,тады с хапи бёздэем.светлых мыслей и харрошего настроения!

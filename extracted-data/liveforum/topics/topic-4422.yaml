@@ -1,0 +1,43 @@
+topic_id: 4422
+slug: topic-4422
+title: Average Blues Band - блюз-рок из Пятигорска
+first_post: 2010-09-17 01:15
+last_post: 2010-11-12 22:16
+post_count: 4
+posts:
+- id: 37063
+  parent_id: null
+  date: 2010-09-17 01:15
+  poster: Федор Романенко
+  subject: Average Blues Band - блюз-рок из Пятигорска
+  deleted: false
+  text: 'В Пятигорске нашлась клевая блюзово-блюз-роковая группа
+
+
+    http://www.liveband.ru/band/average-bb/
+
+
+    Они регулярно играют в местном шикарном Джаз Клубе! Вот дела!'
+  replies:
+  - id: 37064
+    parent_id: 37063
+    date: 2010-09-17 01:38
+    poster: Федор Романенко
+    subject: Упс, группа из Кисловодска...
+    deleted: false
+    text: '...но это рядом!'
+    replies:
+    - id: 37066
+      parent_id: 37064
+      date: 2010-09-17 03:16
+      poster: Dmitri Kazantsev
+      subject: AWB
+      deleted: false
+      text: я надеюсь, они White? :)
+  - id: 37189
+    parent_id: 37063
+    date: 2010-11-12 22:16
+    poster: Мария Черкесова
+    subject: да, здорово
+    deleted: false
+    text: Действительно клевая:) муж про них говорил, теперь, вот, послушать довелось.

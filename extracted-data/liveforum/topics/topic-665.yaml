@@ -1,0 +1,27 @@
+topic_id: 665
+slug: topic-665
+title: Хочу играть блюз как B. B. King
+first_post: 2003-03-09 13:05
+last_post: 2003-03-09 17:36
+post_count: 2
+posts:
+- id: 10877
+  parent_id: null
+  date: 2003-03-09 13:05
+  poster: Джон
+  email: label-ok@mail.ru
+  subject: Хочу играть блюз как B. B. King
+  deleted: false
+  text: Как научиться, может кто посоветует. Мне кажется B.B. King наиболее яркая
+    личность в блюзе. БЛЮЗ - ЭТО ОЧЕНЬ КРУТО!!!!!!!!
+  replies:
+  - id: 10883
+    parent_id: 10877
+    date: 2003-03-09 17:36
+    poster: VOVAN (V.Tsubin)
+    email: vts13@hotmail.com
+    subject: Это не сложно:-))
+    deleted: false
+    text: 'Есть видеошколы:
+
+      http://guitars.ru/things/bbking.html'

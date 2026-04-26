@@ -1,0 +1,24 @@
+topic_id: 3180
+slug: topic-3180
+title: Всем смотреть сюда!
+first_post: 2006-03-28 19:52
+last_post: 2006-03-29 00:10
+post_count: 2
+posts:
+- id: 26820
+  parent_id: null
+  date: 2006-03-28 19:52
+  poster: Старый Майор
+  email: gypsy@mail.ru
+  subject: Всем смотреть сюда!
+  deleted: false
+  text: http://youtube.com/profile_videos?user=ElwoodsBlues
+  replies:
+  - id: 26831
+    parent_id: 26820
+    date: 2006-03-29 00:10
+    poster: Dmitri Kazantsev (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: ЛУЧШЕ СЮДА!
+    deleted: false
+    text: http://www.desktopblues.lichtlabor.ch/

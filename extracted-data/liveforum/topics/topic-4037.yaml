@@ -1,0 +1,57 @@
+topic_id: 4037
+slug: topic-4037
+title: Давайте поздравим нашего доктора-профессора!
+first_post: 2008-06-23 17:52
+last_post: 2008-06-26 13:26
+post_count: 6
+posts:
+- id: 35508
+  parent_id: null
+  date: 2008-06-23 17:52
+  poster: Andrei V. Evdokimov (evdokimov)
+  email: evdokimov@blues.ru
+  subject: Давайте поздравим нашего доктора-профессора!
+  deleted: false
+  text: и пожелаем ему всякого самого хорошего.
+  replies:
+  - id: 35509
+    parent_id: 35508
+    date: 2008-06-23 18:50
+    poster: Алексей Аграновский (Док)
+    email: aaa@genebee.msu.su
+    subject: Давайте!
+    deleted: false
+    text: Большое спасибо, Андрей - и все.
+    replies:
+    - id: 35512
+      parent_id: 35509
+      date: 2008-06-25 01:48
+      poster: Старый Майор
+      email: gypsy@mail.ru
+      subject: .. и немедленно поздравили! )))
+      deleted: false
+  - id: 35519
+    parent_id: 35508
+    date: 2008-06-25 15:38
+    poster: Руслан Чифуров
+    email: chifuroff sobaka inbox.ru
+    subject: Присоединяюсь
+    deleted: false
+  - id: 35520
+    parent_id: 35508
+    date: 2008-06-25 18:35
+    poster: Эльдар
+    email: Эльдар
+    subject: И от припоздавшего примите поздравления
+    deleted: false
+    text: Всего наилучшего!
+    replies:
+    - id: 35521
+      parent_id: 35520
+      date: 2008-06-26 13:26
+      poster: Алексей Аграновский (Док)
+      email: aaa@genebee.msu.su
+      subject: Глубоко признателен всем вам -
+      deleted: false
+      text: и написавшим, и вспомнившим просто так. Становишься сентиментальным, а
+        как ещё. Будьте благополучны, друзья.

@@ -1,0 +1,24 @@
+topic_id: 5112
+slug: topic-5112
+title: Улетный(!) концерт Таджа Махала год назад в Нью-Йорке
+first_post: 2013-07-30 22:21
+last_post: 2013-07-30 22:33
+post_count: 2
+posts:
+- id: 39062
+  parent_id: null
+  date: 2013-07-30 22:21
+  poster: Andrei V. Evdokimov
+  subject: Улетный(!) концерт Таджа Махала год назад в Нью-Йорке
+  deleted: false
+  text: <iframe width="560" height="315" src="//www.youtube.com/embed/2_XT9RyQpbU"
+    frameborder="0" allowfullscreen></iframe>
+  replies:
+  - id: 39063
+    parent_id: 39062
+    date: 2013-07-30 22:33
+    poster: Andrei V. Evdokimov
+    subject: Сеньор Блюз!
+    deleted: false
+    text: <iframe width="560" height="315" src="//www.youtube.com/embed/OIvhiwFLrMI"
+      frameborder="0" allowfullscreen></iframe>

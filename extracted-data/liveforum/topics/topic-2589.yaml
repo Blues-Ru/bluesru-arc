@@ -1,0 +1,36 @@
+topic_id: 2589
+slug: topic-2589
+title: БУРАНОFF
+first_post: 2005-05-22 12:04
+last_post: 2005-05-26 08:01
+post_count: 3
+posts:
+- id: 21551
+  parent_id: null
+  date: 2005-05-22 12:04
+  poster: YODES
+  email: yodes116@mail.ru
+  subject: БУРАНОFF
+  deleted: false
+  text: Ребята!!!! подскажите!!!! Кто же такие Буранофф!! Состав!! Кто поет(играет)
+    Не могу найти ничаво!!Есть ли пластинки!!!H E L P!!!!!!
+  replies:
+  - id: 21560
+    parent_id: 21551
+    date: 2005-05-24 11:07
+    poster: ALEX
+    email: malexxx@front.ru
+    subject: буранoff
+    deleted: false
+    text: 'Посмотри по ссылке http://rusblues.ru/buranoffblues/
+
+      Или напиши мне, я тебе отвечу.'
+    replies:
+    - id: 21569
+      parent_id: 21560
+      date: 2005-05-26 08:01
+      poster: YODES
+      email: yodes116@mail.ru
+      subject: GROSSE DANKE!!!!
+      deleted: false
+      text: CПАСИБА!!!!!!

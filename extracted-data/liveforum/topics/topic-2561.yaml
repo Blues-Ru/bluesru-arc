@@ -1,0 +1,66 @@
+topic_id: 2561
+slug: topic-2561
+title: bluesman.ru
+first_post: 2005-05-06 19:57
+last_post: 2005-05-07 13:38
+post_count: 6
+posts:
+- id: 21395
+  parent_id: null
+  date: 2005-05-06 19:57
+  poster: Мишаня
+  email: dd@yandex.ru
+  subject: bluesman.ru
+  deleted: false
+  text: Обещали обновать сайт, а как всегда обманули!!!  Ни фоток новых, ни песен
+    как всегда нет!!! Слющай, абыдно!!!
+  replies:
+  - id: 21396
+    parent_id: 21395
+    date: 2005-05-06 23:04
+    poster: Андрей Ордальонов (Андрей PRG)
+    email: peregnoy@mail.ru
+    subject: 'Странное слово: "обманули".'
+    deleted: false
+    text: К месту ли оно, а?
+    replies:
+    - id: 21397
+      parent_id: 21396
+      date: 2005-05-06 23:36
+      poster: Мишаня
+      email: dd@yandex.ru
+      subject: А что, я не прав???
+      deleted: false
+      text: Столько раз писали уже, что будут песни и фотки на этом сайте, но так
+        ничего и не появилось нового
+      replies:
+      - id: 21399
+        parent_id: 21397
+        date: 2005-05-07 10:55
+        poster: Андрей Ордальонов (Андрей PRG)
+        email: peregnoy@mail.ru
+        subject: А какие, собственно,
+        deleted: false
+        text: можно предъявлять претензии в принципе, если наполнение сайта делается
+          усилиями одного человека? Вы думаете он с этого что-нибудь имеет? Это его
+          время, его силы, его желание. Вот Вы, лично Вы, сделали хоть что-нибудь,
+          чтобы там появлялись новые материалы? Тоже самое и с сайтом блюз-ру.
+        replies:
+        - id: 21401
+          parent_id: 21399
+          date: 2005-05-07 13:26
+          poster: Мишаня
+          email: dd@yandex.ru
+          subject: Без проблем!!!
+          deleted: false
+          text: У меня есть фото наших блюзменов! Как их на сайт разместить???
+          replies:
+          - id: 21402
+            parent_id: 21401
+            date: 2005-05-07 13:38
+            poster: Андрей Ордальонов (Андрей PRG)
+            email: peregnoy@mail.ru
+            subject: Обратитесь к Игорю
+            deleted: false
+            text: Если фото достойны опубликования, то всё будет. Игорь (sunny_city@mail.ru)
+              всегда открыт для любых контактов.

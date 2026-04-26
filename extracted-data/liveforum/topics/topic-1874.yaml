@@ -1,0 +1,35 @@
+topic_id: 1874
+slug: topic-1874
+title: Не совсем блюз, но...
+first_post: 2004-02-18 13:04
+last_post: 2004-02-18 20:10
+post_count: 3
+posts:
+- id: 17296
+  parent_id: null
+  date: 2004-02-18 13:04
+  poster: Дима Казанцев (Dr. Nick)
+  email: dr.nick@blues.ru
+  subject: Не совсем блюз, но...
+  deleted: false
+  text: 'http://www.bronepoezd.ru/music.php - песня Локо.
+
+
+    Это проект Дмитрия Чернуся и группы Д-р Ник.'
+  replies:
+  - id: 17301
+    parent_id: 17296
+    date: 2004-02-18 18:17
+    poster: Anton Klepikov (Antokha)
+    email: antokha@yandex.ru
+    subject: Что "но"? Кризис жанра? (-)
+    deleted: false
+    text: '-'
+    replies:
+    - id: 17303
+      parent_id: 17301
+      date: 2004-02-18 20:10
+      poster: Дима Казанцев (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: Кризис Жанра закрыт :(
+      deleted: false

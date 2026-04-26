@@ -1,0 +1,63 @@
+topic_id: 601
+slug: topic-601
+title: Джем?
+first_post: 2003-02-03 03:21
+last_post: 2003-02-10 19:51
+post_count: 6
+posts:
+- id: 10389
+  parent_id: null
+  date: 2003-02-03 03:21
+  poster: Дима Казанцев (Казан)
+  email: dr.nick@blues.ru
+  subject: Джем?
+  deleted: false
+  text: Тут выяснилось, что мы с Ветераном будем джем вести в Бибике. Радостно, но
+    немного боязно после такого перерыва. Так что Вы приходите, пожалуйста, поможете.
+    Вокалисты особенно приветствуются. Вот Цыганков, будучи у меня дома, очень лихо
+    нарезал на гитаре; хотелось бы повторить на публике. Ну и Федора с Грушей ждем.
+    Да всех ждем, на самом деле. До среды.
+  replies:
+  - id: 10390
+    parent_id: 10389
+    date: 2003-02-03 09:21
+    poster: Slavik Chernov (Blacky)
+    email: Blacky@softhome.net
+    subject: Я постараюсь быть
+    deleted: false
+    text: 'Димка, как я расстроился, что не смог сыграть с тобой в прошлый раз.
+
+      На этот джем буду.'
+  - id: 10395
+    parent_id: 10389
+    date: 2003-02-03 12:49
+    poster: John
+    email: ssy@ac.com.ru
+    subject: Постараюсь быть
+    deleted: false
+  - id: 10397
+    parent_id: 10389
+    date: 2003-02-03 13:31
+    poster: Андрей Цыганков (gypsy)
+    email: gypsy@mail.ru
+    subject: Не повторяется такого никогда...
+    deleted: false
+    text: Дима, дык я ж как всегда в первых рядах... на боевом коне...
+  - id: 10496
+    parent_id: 10389
+    date: 2003-02-10 16:47
+    poster: Мальчевский
+    email: heavyfuel@mtu-net.ru
+    subject: И как все прошло?
+    deleted: false
+    text: Как все было-то хоть! Расскажите!!!
+    replies:
+    - id: 10501
+      parent_id: 10496
+      date: 2003-02-10 19:51
+      poster: Дима Казанцев (Казан)
+      email: dr.nick@blues.ru
+      subject: Да вроде нормально
+      deleted: false
+      text: Пусть другие рассказывают. А раз молчат, то ничего хорошего, видимо, не
+        было.

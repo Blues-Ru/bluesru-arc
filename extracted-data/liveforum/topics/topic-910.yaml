@@ -1,0 +1,35 @@
+topic_id: 910
+slug: topic-910
+title: Jam & BB
+first_post: 2002-05-28 22:46
+last_post: 2002-05-29 16:41
+post_count: 3
+posts:
+- id: 4766
+  parent_id: null
+  date: 2002-05-28 22:46
+  poster: Greta
+  email: morehemp@mail.ru
+  subject: Jam & BB
+  deleted: false
+  text: А что, в эту среду не будет никакого джема? Ну вот, я посмотреть хотела, что
+    там происходит - на джемах в БиБи..
+  replies:
+  - id: 4767
+    parent_id: 4766
+    date: 2002-05-28 23:44
+    poster: Андрей Цыганков
+    email: gypsy@mail.ru
+    subject: Грета, будет Dr.Nick - по крайней мере, так в расписании написано
+    deleted: false
+    replies:
+    - id: 4787
+      parent_id: 4767
+      date: 2002-05-29 16:41
+      poster: Slavik Chernov (Blacky)
+      email: Blacky@softhome.net
+      subject: Nick'a не будет :-(
+      deleted: false
+      text: 'Казанцев заболел. Я ему звонил, он сказал, концерт отменяется.
+
+        Жалко.'

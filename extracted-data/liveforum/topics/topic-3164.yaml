@@ -1,0 +1,52 @@
+topic_id: 3164
+slug: topic-3164
+title: Круууутые майки blues.ru
+first_post: 2006-03-17 04:28
+last_post: 2006-03-18 21:17
+post_count: 5
+posts:
+- id: 26696
+  parent_id: null
+  date: 2006-03-17 04:28
+  poster: Федор Романенко (fedor)
+  email: fedor@blues.ru
+  subject: Круууутые майки blues.ru
+  deleted: false
+  text: Только что распаковал ящик, майки модные! Завтра в Доме у Дороги презентация-распродажа
+    маек.
+  replies:
+  - id: 26699
+    parent_id: 26696
+    date: 2006-03-17 09:33
+    poster: Владимир Русинов (BluesCat)
+    email: volodya@blues.ru
+    subject: надо было сделать майки... blues.ru/forum :)))
+    deleted: false
+    replies:
+    - id: 26702
+      parent_id: 26699
+      date: 2006-03-17 12:30
+      poster: Дмитрий (фан)
+      email: leonidovd@mail.ru
+      subject: Ага, а еще лучше - именные :)
+      deleted: false
+      text: "Например, Блюз.ру - Форум - Дмитрий(фан) \nа ниже (на спине) можно еще\
+        \ расписать, на каких концертах, фестивалях и в клубах был;)))"
+      replies:
+      - id: 26705
+        parent_id: 26702
+        date: 2006-03-17 14:47
+        poster: Федор Романенко (fedor)
+        email: fedor@blues.ru
+        subject: Нет проблем!
+        deleted: false
+        text: Только минимальный тираж - 100 маек с надписью "Дмитрий" ;) Придется
+          купить 100 штук ;)
+  - id: 26714
+    parent_id: 26696
+    date: 2006-03-18 21:17
+    poster: Ded Morozzz
+    email: morozzz_ded@mail.ru
+    subject: Да, майки клевые :)
+    deleted: false
+    text: Графика отличная и вообще грамотно все сделано :) буду терь щеголять :)

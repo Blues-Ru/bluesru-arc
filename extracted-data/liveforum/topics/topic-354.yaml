@@ -1,0 +1,79 @@
+topic_id: 354
+slug: topic-354
+title: Поздравляем Алекса Четвертого!!!
+first_post: 2002-09-26 13:41
+last_post: 2002-09-28 15:40
+post_count: 8
+posts:
+- id: 7710
+  parent_id: null
+  date: 2002-09-26 13:41
+  poster: Юрий Кривошеин (YuK)
+  email: scolderblues@yahoo.com
+  subject: Поздравляем Алекса Четвертого!!!
+  deleted: false
+  text: "Лёха! \n\nПоздравляем тебя (и, конечно, Наташу) с рождением сына!!! Всего\
+    \ вам самого-самого! Здоровья! А уж за музыкальный вкус нового Человека мы можем\
+    \ не беспокоиться! :-)))\n\nScolder Blues"
+  replies:
+  - id: 7711
+    parent_id: 7710
+    date: 2002-09-26 15:07
+    poster: Андрей Цыганков
+    email: gypsy@mail.ru
+    subject: Алекс!!! ждём четвертого )))
+    deleted: false
+    replies:
+    - id: 7715
+      parent_id: 7711
+      date: 2002-09-26 18:02
+      poster: AlexIV
+      email: evergreens@mail.ru
+      subject: Спасибо всем за поздравления! :-)
+      deleted: false
+      text: Особенно тем, кто вчера в БиБиКинге разделил со мной эту радостную новость!
+        :-))
+      replies:
+      - id: 7776
+        parent_id: 7715
+        date: 2002-09-28 15:40
+        poster: Greta
+        email: morehemp@mail.ru
+        subject: И я пряздрявляю :)
+        deleted: false
+        text: А в БиБике было очень мило.
+  - id: 7712
+    parent_id: 7710
+    date: 2002-09-26 15:26
+    poster: Михаил Бирюков (nECKAPb)
+    email: blackcat@blues.ru
+    subject: ого!...
+    deleted: false
+    text: Мои поздравления!!! Самые искренние :)
+  - id: 7740
+    parent_id: 7710
+    date: 2002-09-27 10:25
+    poster: Sergei  Kiritchenko (VoID)
+    email: skvoid@yahoo.com
+    subject: Сongratulation!
+    deleted: false
+    text: "Лёха, поздравления от всех питерцев, тебя знающих (ну незнающих я спрошу,\
+      \ скорее всего и от них тоже :) )! \nОсобые поздравления твоей жене Наташе!\
+      \ \nИ добро пожаловать в столицу (Северную), уже в большем (классическом) составе!\
+      \ :))))))))"
+    replies:
+    - id: 7741
+      parent_id: 7740
+      date: 2002-09-27 10:40
+      poster: iv
+      email: ilyav@aport2000.ru
+      subject: от незнающих и непитерских:))) Из Ханты-Мансийска -поздравляем!!!(-)
+      deleted: false
+      text: '...'
+  - id: 7756
+    parent_id: 7710
+    date: 2002-09-27 16:30
+    poster: Игорь Головачев (Игорь Г.)
+    email: sunny_city@mail.ru
+    subject: Леша, и я тебя от всей души поздравляю !!!!!!
+    deleted: false

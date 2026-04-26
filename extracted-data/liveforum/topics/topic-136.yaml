@@ -1,0 +1,91 @@
+topic_id: 136
+slug: topic-136
+title: С первым апрелем, что ли?
+first_post: 2002-04-02 01:39
+last_post: 2002-04-02 13:04
+post_count: 9
+posts:
+- id: 3171
+  parent_id: null
+  date: 2002-04-02 01:39
+  poster: Вадим  (AVA)
+  email: vad2908@mail.ru
+  subject: С первым апрелем, что ли?
+  deleted: false
+  text: '....Ich gehen in die Schule? Может еще по-арабски заговорим, или на идиш
+    перейдем  - сейчас это очень актуально!!!!!!'
+  replies:
+  - id: 3189
+    parent_id: 3171
+    date: 2002-04-02 10:29
+    poster: Сергей Иванов (serge_ivanov)
+    email: serge_ivanov@hotmail.com
+    subject: Праздники продолжаются...
+    deleted: false
+    text: 'После всего этого просто смешно выглядят все рассуждения о топике и оффтопике...
+      Ничего не остается делать как согласиться с Евдокимовым: Дилан сосет.'
+    replies:
+    - id: 3190
+      parent_id: 3189
+      date: 2002-04-02 10:35
+      poster: Дима Казанцев (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: How dare you?
+      deleted: false
+      text: How can you say that? Don't be stupid, take your dirty words back!
+      replies:
+      - id: 3194
+        parent_id: 3190
+        date: 2002-04-02 11:36
+        poster: Сергей Иванов (serge_ivanov)
+        email: serge_ivanov@hotmail.com
+        subject: чаво, чаво ???
+        deleted: false
+        text: Я не местный, по вашему не разумею...
+        replies:
+        - id: 3198
+          parent_id: 3194
+          date: 2002-04-02 11:46
+          poster: Дима Казанцев (Dr. Nick)
+          email: dr.nick@blues.ru
+          subject: If you don't
+          deleted: false
+          text: Buy yourself some good books :)
+          replies:
+          - id: 3219
+            parent_id: 3198
+            date: 2002-04-02 13:04
+            poster: Сергей Иванов (serge_ivanov)
+            email: serge_ivanov@hotmail.com
+            subject: что за "виу уои.." такое? (предыдущее считать недействительным)
+            deleted: false
+            text: 'А дальше вообще не наши буквы - "г" штоли?
+
+
+              ПС Извиняйте за повтор - первый раз промахнулся :-('
+        - id: 3206
+          parent_id: 3194
+          date: 2002-04-02 12:23
+          poster: Сергей Иванов (serge_ivanov)
+          email: serge_ivanov@hotmail.com
+          subject: что за "виу уои.." такое?
+          deleted: false
+          text: А дальше вообще не наши буквы - "г" штоли?
+    - id: 3192
+      parent_id: 3189
+      date: 2002-04-02 11:20
+      poster: Andrei V. Evdokimov (evdokimov)
+      email: evdokimov@blues.ru
+      subject: show goes on!
+      deleted: false
+      text: "with Gretta is on board now. \nДемократия в форуме! \nFedor, what's next?\
+        \ I can tell you: more shit, less sense + hieroglyphs, maybe."
+  - id: 3203
+    parent_id: 3171
+    date: 2002-04-02 12:10
+    poster: V.Tsubin (VOVAN)
+    email: vts13@hotmail.com
+    subject: Это что,последствия перерегистрации?
+    deleted: false
+    text: При регистрации выбирается язык общения? Тогда я буду по-эстонски:kuradi
+      kurat (чертов черт):-)

@@ -1,0 +1,53 @@
+topic_id: 1277
+slug: topic-1277
+title: Blues Doctors в Москве
+first_post: 2003-07-23 11:46
+last_post: 2003-07-25 09:56
+post_count: 5
+posts:
+- id: 13303
+  parent_id: null
+  date: 2003-07-23 11:46
+  poster: Кирилл
+  email: frenzy@etel.ru
+  subject: Blues Doctors в Москве
+  deleted: false
+  text: "Внимание! \nМолодые звезды блюза из Екатеринбурга - группа Blues Doctors\
+    \ , знаменитая своими сногсшибательными выступлениями на фестивалях Blues.ru и\
+    \ Дельта невы, а также другими феерическими концертами, даст в начале августа\
+    \ 2 концерта в Москве! \n5 августа - Форте\n6 - Последние деньги\nВсем любителям\
+    \ блюза обязательно быть!"
+  replies:
+  - id: 13304
+    parent_id: 13303
+    date: 2003-07-23 11:59
+    poster: Федор Романенко (fedor)
+    email: fedor@blues.ru
+    subject: Дууууурь!
+    deleted: false
+    text: Значит - круто! А это точная информация? ;)
+    replies:
+    - id: 13305
+      parent_id: 13304
+      date: 2003-07-23 12:04
+      poster: Кирилл
+      email: frenzy@etel.ru
+      subject: Все точно!
+      deleted: false
+      text: Конечно точная!!! Это я как директор группы заявляю!!! :)))))))
+  - id: 13313
+    parent_id: 13303
+    date: 2003-07-24 20:01
+    poster: Rugged
+    email: kirill@hillbilly.ru
+    subject: Да я сиотрю Кирилл Турицын в продюсирование блюзовых групп подался!
+    deleted: false
+    replies:
+    - id: 13321
+      parent_id: 13313
+      date: 2003-07-25 09:56
+      poster: Kirill
+      email: Frenzy@etel.ru
+      subject: :))))
+      deleted: false
+      text: С тех пор как мы Grammy получили!

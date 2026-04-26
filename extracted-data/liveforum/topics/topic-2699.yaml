@@ -1,0 +1,90 @@
+topic_id: 2699
+slug: topic-2699
+title: Нотодден 2005
+first_post: 2005-08-12 13:41
+last_post: 2005-08-18 23:49
+post_count: 9
+posts:
+- id: 22291
+  parent_id: null
+  date: 2005-08-12 13:41
+  poster: Ded Morozzz
+  email: morozzz_ded@mail.ru
+  subject: Нотодден 2005
+  deleted: false
+  text: "Как оно там? :) \nКогда ждать статей и фоток? :)\nУжасно интересно все это\
+    \ :)"
+  replies:
+  - id: 22295
+    parent_id: 22291
+    date: 2005-08-12 14:05
+    poster: vr  (Stone Crazy)
+    email: volodya@blues.ru
+    subject: все будет...
+    deleted: false
+    text: ':))) пока надо в себя прийти :))) впечатлениями буду делиться на нашем
+      концерте во вторник в доме у дороги.. во как я рекламу впихнул :))) Кстати концерт
+      будет уникальный, так как Петя у нас в отпуске, петь буду я, многое будет совсем
+      другое.. впрочем и потом будут изменения. Приходите :))))))))))
+
+
+      Когда все напишу и выложу - обязательно кину сюда ссылку. :)'
+    replies:
+    - id: 22308
+      parent_id: 22295
+      date: 2005-08-12 19:25
+      poster: Старый Майор
+      email: gypsy@mail.ru
+      subject: Вова, давай я приду, мы вместе споём =)))
+      deleted: false
+      replies:
+      - id: 22309
+        parent_id: 22308
+        date: 2005-08-12 20:33
+        poster: vr  (Stone Crazy)
+        email: volodya@blues.ru
+        subject: приходи конечно. споем :)
+        deleted: false
+        replies:
+        - id: 22310
+          parent_id: 22309
+          date: 2005-08-13 17:24
+          poster: Старый Майор
+          email: gypsy@mail.ru
+          subject: А мона я исчо и третьего приведу? На троих-то оно погорластей будет...
+          deleted: false
+          replies:
+          - id: 22312
+            parent_id: 22310
+            date: 2005-08-13 21:46
+            poster: vr  (Stone Crazy)
+            email: volodya@blues.ru
+            subject: да хоть хор имени пятницкого ;)
+            deleted: false
+            replies:
+            - id: 22313
+              parent_id: 22312
+              date: 2005-08-13 23:47
+              poster: Старый Майор
+              email: gypsy@mail.ru
+              subject: Хор Пятницкого вряд ли, а вот хор Турецкого приведу )))
+              deleted: false
+  - id: 22352
+    parent_id: 22291
+    date: 2005-08-18 14:07
+    poster: Wheel  (Wheel)
+    email: wheel@ua.fm
+    subject: Заждались
+    deleted: false
+    text: 'Очень интересно, пишите скорее.
+
+      Может, поделится впечатлениями кот-то, с кем на концертах поделился vr? :)'
+    replies:
+    - id: 22360
+      parent_id: 22352
+      date: 2005-08-18 23:49
+      poster: vr  (Stone Crazy)
+      email: volodya@blues.ru
+      subject: фотки будут вот вот :)
+      deleted: false
+      text: все остальное тоже постараюсь :)

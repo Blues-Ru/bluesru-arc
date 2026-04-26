@@ -1,0 +1,36 @@
+topic_id: 3375
+slug: topic-3375
+title: Hot Rod Band
+first_post: 2006-08-23 17:27
+last_post: 2006-08-24 03:47
+post_count: 3
+posts:
+- id: 28446
+  parent_id: null
+  date: 2006-08-23 17:27
+  poster: Andrei V. Evdokimov (evdokimov)
+  email: evdokimov@blues.ru
+  subject: Hot Rod Band
+  deleted: false
+  text: Коллеги, кто-нибудь знает этот бэнд? они работают сейчас?http://music.lib.ru/h/hot_rod_ban/
+  replies:
+  - id: 28447
+    parent_id: 28446
+    date: 2006-08-23 20:40
+    poster: Федор Романенко (fedor)
+    email: fedor@blues.ru
+    subject: Есть такая группа
+    deleted: false
+    text: 'http://hrb.narod.ru/
+
+
+      А еще есть Петрович Блюз Бенд из Вологды, но без Петровича. ;)'
+    replies:
+    - id: 28448
+      parent_id: 28447
+      date: 2006-08-24 03:47
+      poster: Andrei V. Evdokimov (evdokimov)
+      email: evdokimov@blues.ru
+      subject: ты еще скажи, что ты их слышал....
+      deleted: false
+      text: эпическая сила!

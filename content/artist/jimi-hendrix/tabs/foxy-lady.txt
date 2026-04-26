@@ -1,0 +1,192 @@
+        Foxy Lady
+      by Jimi Hendrix
+
+
+Someone made a request for some Hendrix tab a wee while ago.  Here's my
+version of Foxy Lady.  Most of this (as in the chord shapes) was sussed
+out from watching the video "Jimi Plays Monterey."
+
+This is my first attempt at posting some tab, so please excuse it if its
+a bit unorthodox.
+
+Key:	/ - slide up
+	\ - slide down
+	bu - bend up (eg 2bu4 is fretted at the second fret, the note is bent
+			up to the note at the fourth fret)
+	h - hammer on (eg 2h4 is note at second fret, hammer on to note at
+			the fourth fret)
+	p - pull off. 
+
+
+Foxy Lady - Jimi Hendrix ("Yeah! Lets get down to business, just gimme one
+second to get down to business.")
+
+Intro - Basically Jimi plays the first note with heaps of vibrato.  He starts
+off with the volume control of his guitar turned right down, strikes the note
+and then brings the volume control up, so that the note rises to a scream.
+
+
+ vibrato	 F#7(#9) - I think - or otherwise its F#m7
+----------------|----5-x-----5-x-----5-5--------|
+----------------|----5-x-----5-x-----5-5--------|
+-16-------------|-------------------------------|
+----------------|--------4-4--------------------|
+----------------|--------------------------2-3-4|
+------------16\2|2-2-------------2-2-----5------|
+		 Thumb
+
+
+F#7(#9)
+----5-x-----5-x-----5-5--------|----5-x-----5-x-----5-5--------|
+----5-x-----5-x-----5-5--------|----5-x-----5-x-----5-5--------|
+-------------------------------|-------------------------------|
+--------4-4--------------------|--------4-4--------------------|
+--------------------------2-3-4|--------------------------2-3-4|
+2-2-------------2-2-----5------|2-2-------------2-2-----5------|
+
+				Now you know - you're a cute
+				little heart-breaker
+
+
+F#7(#9)
+----5-x-----5-x-----5-5--------|----5-x-----5-x-----5-5---------|
+----5-x-----5-x-----5-5--------|----5-x-----5-x-----5-5---------|
+-------------------------------|---------------------------2h4p2|
+--------4-4--------------------|--------4-4---------------------|
+--------------------------2----|--------------------------2-----|
+2-2-------------2-2-----5-----5|2-2-------------2-2-----5-------|
+
+Fo-xy				And you know, you're a sweet little
+				love-maker
+
+
+F#7(#9)			      B
+----5-x-----5-x-----5-5--------------|
+----5-x-----5-x-----5-5-------4-4-x-x|
+------------------------------4-4-x-x|
+--------4-4-------------4-----4-4-x-x|
+--------------------------0-2-2-2-x-x|
+2-2-------------2-2------------------|
+
+Fo-xy
+
+
+
+F#		  E		       F#		 E
+2---2---x-x-x-2-2|0-------------------|2---2---x-x-x-2-2|0------------------|
+2---2---x-x-x-2-2|0-------------------|2---2---x-x-x-2-2|0------------------|
+3---3---x-x-x-3-3|1--------2/7-7-9-7--|3---3---x-x-x-3-3|1--------3bu4-2-3--|
+4---4---x-x-x-4-4|2--------2/7-------9|4---4---x-x-x-4-4|2-----------------4|
+4---4---x-x-x-4-4|2-------------------|4---4---x-x-x-4-4|2------------------|
+2---2---x-x-x-2-2|0-------------------|2---2---x-x-x-2-2|0------------------|
+Thumb
+
+I wana take you   Home		       I won't do you no Harm
+
+
+
+F#		  E		    F# - strike chord and then cut off sharply
+2---2---x-x-x-2-2|0---0------------|2-------|
+2---2---x-x-x-2-2|0---0------------|2-------|
+3---3---x-x-x-3-3|1---1------------|3-------|
+4---4---x-x-x-4-4|2---2-----0-2-0--|4-------|
+4---4---x-x-x-4-4|2---2-0h2-------2|4-------|
+2---2---x-x-x-2-2|0---0------------|2-------|
+Thumb
+
+You got to be all Mine		    Oooh! foxy lady!
+
+
+The second verse is played much the same as the first, but with different
+embilishments is the chords - Hendrix seemed able to invent them on the spot.
+
+
+The lead in to the solo goes like:
+
+
+---------------------17bu19-etc-----------
+/14----/14 /14----------------------------
+----14---------14-------------------------
+------------------16----------------------
+------------------------------------------
+------------------------------------------
+
+
+If anyone has managed to suss out a decent sounding solo for this song
+(like Jimi plays it differently every time!) let me know.
+
+I'd also be keen to get my hands on tab for the solo of Stairway to Heaven,
+if anyone has it.
+
+Mark Hall
+University of Waikato
+New Zealand
+email mhall@waikato.ac.nz
+
+
+
+
+************************************************************************
+
+From: mike@honet7.att.com
+==========================================================================
+FOXY LADY
+
+Original Music by	Jimi Hendrix
+Bass Performance by	Noel Redding
+Performance on		Are You Experienced?
+
+NOTE:	This is not a note for note transcription but an outline
+	of what riffs to play.  Listen to the recording for the
+	pauses and phrasing....
+==========================================================================
+
+VERSE:
+       e e q e e q   e e q e e e e 6  
++---+--------------+----------------+
+|4:-|*-----R-4-4-R-|-----R---------*|
+|4:-|*-------------|---------2-3-4-*|
++---+--2-2---------+-2-2---5--------+
+
+
+CHORUS:
+    e e   e e   e e e e   e e e e e e e e   e e e e e e e e   e e e e e e e e  
++-----------------------+-----------------+-----------------+-----------------+
+|-2H4-4-2H4-4-2H4-4-4-4-|-2-2-2-2-----1-2-|-4-4-4-4-4-4-4-4-|-2-2-2-2-----1-2-|
+|-----------------------|---------2-2-----|-----------------|---------2-2-----|
++-----------------------+-----------------+-----------------+-----------------+
+
+  e e e e e e e e   e e e e e e e e   q q h   h q  q  
++-----------------+-----------------+-------+--------+
+|-4-4-4-4-4-4-4-4-|-2-2-2-2---1-2-3-|-4-R-R-|-R-R----|
+|-----------------|---------2-------|-------|--------|
++-----------------+-----------------+-------+-----17\+
+
+
+==========================================================================
+
+     __         Created using the Bass Tab Creator
+   +|oo|+       by Mario D'Alessio (motcid!marble!dalessio)
+   +|oo|+
+     ||         NOTES:
+     ||
+     ||         Capital durations are dotted notes
+     ||           (equal to 1.5 times the duration value)
+     ||
+     ||         +----+                   +----+
+  _  ||  _      |*--*+  = MEASURE        |4:--|  = TIME
+  \\_||_//      |*--*+    REPEATS        |4:--|    SIGNATURES
+   | [] |       +----+                   +----+
+   | || |
+  /  []  \      + = TIE         ^  = TRIPLET           > = BEND
+  \______/      H = HAMMER ON   \  = SLIDE TO FRET     R = Rest
+                P = PULL OFF    \X = SLIDE TO NOWHERE  ~ = Trill
+-- 
+We are the Priests, of the Temples of Syrinx
+Our great computers fill the hallowed halls.
+We are the Priests, of the Temples of Syrinx
+All the gifts of life are held within our walls.
+
+
+
+

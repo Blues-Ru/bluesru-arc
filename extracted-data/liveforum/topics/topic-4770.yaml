@@ -1,0 +1,31 @@
+topic_id: 4770
+slug: topic-4770
+title: В марте 2012 года Oli Brown собирается выпустить свой новый студийный альбом
+  под названием «HERE I AM»
+first_post: 2011-12-18 14:01
+last_post: 2011-12-21 11:34
+post_count: 3
+posts:
+- id: 38114
+  parent_id: null
+  date: 2011-12-18 14:01
+  poster: Andrei V. Evdokimov
+  subject: В марте 2012 года Oli Brown собирается выпустить свой новый студийный альбом
+    под названием «HERE I AM»
+  deleted: false
+  text: http://muz.ru/Store/NewsDetails.aspx?NewsId=109769
+  replies:
+  - id: 38119
+    parent_id: 38114
+    date: 2011-12-21 11:34
+    poster: иван
+    subject: армянская музыка
+    deleted: false
+    text: '[url=http://samarahay.ru/entertainment/armenian-music.html]армянская музыка[/url]'
+  - id: 38120
+    parent_id: 38114
+    date: 2011-12-21 11:34
+    poster: иван
+    subject: армянская музыка
+    deleted: false
+    text: http://samarahay.ru/entertainment/armenian-music.html

@@ -1,0 +1,53 @@
+topic_id: 1091
+slug: topic-1091
+title: за МР3
+first_post: 2002-01-13 21:13
+last_post: 2002-01-14 17:02
+post_count: 5
+posts:
+- id: 145
+  parent_id: null
+  date: 2002-01-13 21:13
+  poster: Gven
+  email: verik2@hotmail.com
+  subject: за МР3
+  deleted: false
+  text: Народ , не подскажите где можно скачать записи Arthur Crudup? Заранее благодарна.
+  replies:
+  - id: 147
+    parent_id: 145
+    date: 2002-01-14 01:04
+    poster: Дима Казанцев (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: Артур
+    deleted: false
+    text: В сети вроде ничего нет. У меня есть длинный сборник 'After Hours'; могу
+      конвертнуть и дать скопировать, или еще как-нибудь.
+    replies:
+    - id: 153
+      parent_id: 147
+      date: 2002-01-14 09:46
+      poster: Gven
+      email: verik2@hotmail.com
+      subject: Артур
+      deleted: false
+      text: Буду очень благодарна. Как мы это  сделаем? Просто я не знаток всех этих
+        технологий...
+      replies:
+      - id: 156
+        parent_id: 153
+        date: 2002-01-14 14:38
+        poster: Greta
+        email: morehemp@rambler.ru
+        subject: Arthur Crudup
+        deleted: false
+        text: На www.audiogalaxy.com , но там очень-очень мало
+        replies:
+        - id: 157
+          parent_id: 156
+          date: 2002-01-14 17:02
+          poster: Gven
+          email: verik2@hotmail.com
+          subject: Grete
+          deleted: false
+          text: Спасибо и на этом!

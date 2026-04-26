@@ -1,0 +1,26 @@
+topic_id: 1996
+slug: topic-1996
+title: По-французски...
+first_post: 2002-06-29 13:31
+last_post: 2002-06-29 16:29
+post_count: 2
+posts:
+- id: 5816
+  parent_id: null
+  date: 2002-06-29 13:31
+  poster: Федор Романенко (fedor)
+  email: fedor@blues.ru
+  subject: По-французски...
+  deleted: false
+  text: Классный <a href="http://loreillebleue.free.fr">французский сайт</a> я нашел!
+    ;)
+  replies:
+  - id: 5818
+    parent_id: 5816
+    date: 2002-06-29 16:29
+    poster: MX
+    email: hfvhshjsh
+    subject: Федор, а чего же
+    deleted: false
+    text: там,кроме обложек дисков и составов классного,расскажи, по-французски не
+      всем дано)))

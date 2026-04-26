@@ -1,0 +1,24 @@
+topic_id: 2128
+slug: topic-2128
+title: Новый фестиваль.............
+first_post: 2004-06-04 03:35
+last_post: 2004-06-04 13:34
+post_count: 2
+posts:
+- id: 18610
+  parent_id: null
+  date: 2004-06-04 03:35
+  poster: Lubomir Prokopchyk (lubomir lubomiroff)
+  email: lumir@ua.fm
+  subject: Новый фестиваль.............
+  deleted: false
+  text: "??????Фестиваль\"Блюзмэн\".Каждый год.На уровне СНГ,Европы и т.д и т.п.,???????????????????????????????\n\
+    \ \"Одесса\" ждёт!"
+  replies:
+  - id: 18614
+    parent_id: 18610
+    date: 2004-06-04 13:34
+    poster: Lars
+    email: lars@list.ru
+    subject: что за фест? ниче не понял
+    deleted: false

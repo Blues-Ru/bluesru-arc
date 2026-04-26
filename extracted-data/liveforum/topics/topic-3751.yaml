@@ -1,0 +1,24 @@
+topic_id: 3751
+slug: topic-3751
+title: Музыка
+first_post: 2007-10-05 08:45
+last_post: 2007-10-05 16:27
+post_count: 2
+posts:
+- id: 33585
+  parent_id: null
+  date: 2007-10-05 08:45
+  poster: Саня
+  email: GoryashinAS@tura.evenkya.ru
+  subject: Музыка
+  deleted: false
+  text: Привет всем
+  replies:
+  - id: 33586
+    parent_id: 33585
+    date: 2007-10-05 16:27
+    poster: Федор Романенко (fedor)
+    email: fedor@blues.ru
+    subject: Ура!
+    deleted: false
+    text: ;)

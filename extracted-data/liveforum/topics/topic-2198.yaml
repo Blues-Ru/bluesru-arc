@@ -1,0 +1,23 @@
+topic_id: 2198
+slug: topic-2198
+title: Петрович бэнд
+first_post: 2004-08-15 01:21
+last_post: 2004-08-16 10:37
+post_count: 2
+posts:
+- id: 19073
+  parent_id: null
+  date: 2004-08-15 01:21
+  poster: Виктор Колесов (Петрович)
+  email: vic777kol@volnet.ru
+  subject: Петрович бэнд
+  deleted: false
+  text: Скоро в Москву нагрянет группа "Петрович бенд " из Вологды.
+  replies:
+  - id: 19075
+    parent_id: 19073
+    date: 2004-08-16 10:37
+    poster: Grem
+    email: grems@yandex.ru
+    subject: А что играет этот самый "Петрович"???
+    deleted: false

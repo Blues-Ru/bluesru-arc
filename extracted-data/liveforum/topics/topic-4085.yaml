@@ -1,0 +1,63 @@
+topic_id: 4085
+slug: topic-4085
+title: в общем, это правда
+first_post: 2008-09-13 18:01
+last_post: 2008-09-14 20:13
+post_count: 7
+posts:
+- id: 35768
+  parent_id: null
+  date: 2008-09-13 18:01
+  poster: Andrei V. Evdokimov (evdokimov)
+  email: evdokimov@blues.ru
+  subject: в общем, это правда
+  deleted: false
+  replies:
+  - id: 35769
+    parent_id: 35768
+    date: 2008-09-13 18:42
+    poster: Axle
+    email: fewfh@gjj.ru
+    subject: А что случилось то?
+    deleted: false
+    replies:
+    - id: 35770
+      parent_id: 35769
+      date: 2008-09-13 20:42
+      poster: Kot Matraskin (KotMatraskin)
+      email: kotmatrs@mail.ru
+      subject: сбит машиной
+      deleted: false
+      replies:
+      - id: 35771
+        parent_id: 35770
+        date: 2008-09-13 22:26
+        poster: Игорь Г.
+        email: sunny_city@mail.ru
+        subject: Блядь,блядь,блядь.....
+        deleted: false
+        text: Господи!!!! Ну как же так!!!!! Плачу...
+      - id: 35772
+        parent_id: 35770
+        date: 2008-09-13 22:31
+        poster: Игорь Г.
+        email: sunny_city@mail.ru
+        subject: Братецкий подозревает криминал,
+        deleted: false
+        text: по-моему его подозрения - чушь полная.
+      - id: 35775
+        parent_id: 35770
+        date: 2008-09-13 23:36
+        poster: Axle
+        email: vuufuyf6.wret.ru
+        subject: Господи!!!
+        deleted: false
+        text: Почему его то?
+  - id: 35778
+    parent_id: 35768
+    date: 2008-09-14 20:13
+    poster: Михаил Бирюков (nECKAPb)
+    email: blackcat@blues.ru
+    subject: не хочется верить
+    deleted: false
+    text: Может быть, неправда всё-таки???

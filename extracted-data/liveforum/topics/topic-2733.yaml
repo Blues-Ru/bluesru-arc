@@ -1,0 +1,41 @@
+topic_id: 2733
+slug: topic-2733
+title: В среду в BB King
+first_post: 2005-08-30 19:40
+last_post: 2005-08-31 17:18
+post_count: 4
+posts:
+- id: 22578
+  parent_id: null
+  date: 2005-08-30 19:40
+  poster: VoV  (Barmaley)
+  email: barmaley-vov@yandex.ru
+  subject: В среду в BB King
+  deleted: false
+  text: 'Милости просим поджемовать со Svet Boogie Band! :)
+
+    Слушатели приветствуются не менее! :)'
+  replies:
+  - id: 22584
+    parent_id: 22578
+    date: 2005-08-31 01:02
+    poster: vr  (Stone Crazy)
+    email: volodya@blues.ru
+    subject: я точно прийду! :)
+    deleted: false
+    replies:
+    - id: 22593
+      parent_id: 22584
+      date: 2005-08-31 17:12
+      poster: Старый Майор
+      email: gypsy@mail.ru
+      subject: Все там будем.... (оптимистично так)
+      deleted: false
+      replies:
+      - id: 22594
+        parent_id: 22593
+        date: 2005-08-31 17:18
+        poster: Валентин
+        email: voshalb@rambler.ru
+        subject: Неа,не все...
+        deleted: false

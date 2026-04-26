@@ -1,0 +1,86 @@
+topic_id: 3636
+slug: topic-3636
+title: Юру Каверкина с Дем рождения!!!!
+first_post: 2007-05-16 00:20
+last_post: 2007-05-18 01:26
+post_count: 10
+posts:
+- id: 32891
+  parent_id: null
+  date: 2007-05-16 00:20
+  poster: Grems
+  email: grems@yandex.ru
+  subject: Юру Каверкина с Дем рождения!!!!
+  deleted: false
+  text: Многих летааа!!!
+  replies:
+  - id: 32892
+    parent_id: 32891
+    date: 2007-05-16 00:33
+    poster: Dmitri Kazantsev (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: о да
+    deleted: false
+    text: Юра, мы здесь!
+  - id: 32893
+    parent_id: 32891
+    date: 2007-05-16 00:58
+    poster: Arsen
+    email: ragtime@blues.ru
+    subject: Поздравляю!
+    deleted: false
+    text: Rock on, buddy!
+  - id: 32895
+    parent_id: 32891
+    date: 2007-05-16 01:45
+    poster: Вадим Иващенко
+    email: vadikiv@mail.ru
+    subject: Будь здрав!!!
+    deleted: false
+    text: Поздравляю!!!
+  - id: 32898
+    parent_id: 32891
+    date: 2007-05-16 13:37
+    poster: Игорь Головачев (Игорь Г.)
+    email: sunny_city@mail.ru
+    subject: СердеШно поздраляю!!! :)))
+    deleted: false
+    text: 'Ю.И.,дай тебе Бог всё что нужно для счастья.
+
+      Удачи и всего самого,самого,самого хоршего.'
+  - id: 32899
+    parent_id: 32891
+    date: 2007-05-16 15:59
+    poster: Юрий Каверкин (Gekko)
+    email: kaverkin@rol.ru
+    subject: CПАСИБО! ГРМАДЛОБТ! ШНОРАКАЛУЦЮН! САГОЛ! РАХМАТ! THANKS! DUNCKE ! MERSI!
+      GRACIAS! ВСЁ!
+    deleted: false
+  - id: 32900
+    parent_id: 32891
+    date: 2007-05-16 18:00
+    poster: Muddy Lives
+    email: mlives_6@hotmail.com
+    subject: УРА!
+    deleted: false
+  - id: 32901
+    parent_id: 32891
+    date: 2007-05-16 19:22
+    poster: Алексей Фролов (Buchothk)
+    email: jokerthk@yandex.ru
+    subject: Самые искренние поздравления!!!
+    deleted: false
+  - id: 32904
+    parent_id: 32891
+    date: 2007-05-17 00:18
+    poster: Юрий Кривошеин (YuK)
+    email: scolder@blues.ru
+    subject: Поздравляем!!!
+    deleted: false
+  - id: 32908
+    parent_id: 32891
+    date: 2007-05-18 01:26
+    poster: Руслан Чифуров
+    email: chifuroff<sobaka> inbox.ru
+    subject: Присоединяюсь!
+    deleted: false

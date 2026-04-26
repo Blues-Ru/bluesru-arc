@@ -1,0 +1,76 @@
+topic_id: 674
+slug: topic-674
+title: По последней поступившей информации
+first_post: 2003-03-12 16:55
+last_post: 2003-03-18 19:47
+post_count: 7
+posts:
+- id: 10973
+  parent_id: null
+  date: 2003-03-12 16:55
+  poster: Игорь Головачев (Игорь Г.)
+  email: sunny_city@mail.ru
+  subject: По последней поступившей информации
+  deleted: false
+  text: 3 и 4 апреля в ЦДХ гармошечный джем.Кто ичто неизвестно. Все ждут дополнительной
+    информации от Кожекина.
+  replies:
+  - id: 11015
+    parent_id: 10973
+    date: 2003-03-14 17:07
+    poster: Алексей Аграновский (Док)
+    email: aaa@genebee.msu.su
+    subject: Это правда.
+    deleted: false
+    text: 'Ожидается гармошечник мирового уровня по имени Pera "Joe" Milodenovich,
+      сербский музыкант, игравший с Луизианой Редом, Джном Хэммондом и др.
+
+      Скоро будет точная информация о сроках и составе участников.'
+    replies:
+    - id: 11027
+      parent_id: 11015
+      date: 2003-03-15 11:14
+      poster: Georgia Yurik
+      email: kaverkin@rol.ru
+      subject: А я тоже играл с Луизианой Pедом (все видели!!!), хахахаа!!!!
+      deleted: false
+    - id: 11046
+      parent_id: 11015
+      date: 2003-03-18 04:35
+      poster: Федор Романенко (fedor)
+      email: fedor@blues.ru
+      subject: Milodenovich
+      deleted: false
+      text: Интересно, а какая информация в точности поступила? И как его зовут? В
+        гугле и в allmusic.com девственная чистота на эту фамилию...
+  - id: 11017
+    parent_id: 10973
+    date: 2003-03-14 19:29
+    poster: Andrei V. Evdokimov (evdokimov)
+    email: evdokimov@blues.ru
+    subject: хватит гармошечной гегемонии
+    deleted: false
+    text: 'просто: Большой Московский блюзовый Джем - Блюз без г
+
+      раниц
+
+      участвует все тузы и прогрессивная молодежь'
+    replies:
+    - id: 11034
+      parent_id: 11017
+      date: 2003-03-17 10:55
+      poster: Игорь Головачев (Игорь Г.)
+      email: sunny_city@mail.ru
+      subject: Да, да все верно
+      deleted: false
+      text: именно так это мероприятие Кожекин и назвал. С его же слов в этом деле
+        не будут принимать участие Белов и,если не ошибаюсь,Арутюнов. Жаль. Да,а вот
+        12-го в ЦДХ о нем было известно все же как о гармошках :)
+  - id: 11054
+    parent_id: 10973
+    date: 2003-03-18 19:47
+    poster: Андрей PRG
+    email: peregnoy@mail.ru
+    subject: Подробности от Вовы :)
+    deleted: false
+    text: http://zvuki.ru/R/P/9104/

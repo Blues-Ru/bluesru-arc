@@ -1,0 +1,35 @@
+topic_id: 3060
+slug: topic-3060
+title: Слайд гитара
+first_post: 2006-01-27 20:01
+last_post: 2006-01-28 10:27
+post_count: 3
+posts:
+- id: 25593
+  parent_id: null
+  date: 2006-01-27 20:01
+  poster: В. Назаров
+  email: назаров
+  subject: Слайд гитара
+  deleted: false
+  text: Подскажите пожалуйста. Есть ли в Сети какой-нибудь ресурс по игре на блюзовой
+    слайд-гитаре? Настройка, приёмы и т.д. Желательно на русском языке.
+  replies:
+  - id: 25594
+    parent_id: 25593
+    date: 2006-01-27 23:22
+    poster: Arsen Shomakhov
+    email: ragtime@blues.ru
+    subject: www.bluesguitar.ru  -
+    deleted: false
+    replies:
+    - id: 25595
+      parent_id: 25594
+      date: 2006-01-28 10:27
+      poster: ВН
+      email: вн
+      subject: Спасибоу!
+      deleted: false
+      text: 'То што нада!
+
+        :-)'

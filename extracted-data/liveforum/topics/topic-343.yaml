@@ -1,0 +1,98 @@
+topic_id: 343
+slug: topic-343
+title: i put spell on you
+first_post: 2002-09-22 20:50
+last_post: 2002-09-24 01:23
+post_count: 9
+posts:
+- id: 7570
+  parent_id: null
+  date: 2002-09-22 20:50
+  poster: ksenya
+  email: kassy-83@mail.ru
+  subject: i put spell on you
+  deleted: false
+  text: Скажите, я забыла , кто поет I put spell on you?
+  replies:
+  - id: 7571
+    parent_id: 7570
+    date: 2002-09-22 21:26
+    poster: Andrei V. Evdokimov (evdokimov)
+    email: evdokimov@blues.ru
+    subject: а был ли сайт?
+    deleted: false
+    text: "Дорогая Ксения,\nЕсли вас интересует собственно ответ на вопрос, найдите\
+      \ на лицевой странице сайта blues.ru строчку поиска, впишите туда I put spell\
+      \ on you (хотя на самом деле песня называется I put A spell on you, но сойдет\
+      \ и так)- и, нажав на кнопку GO, вы получите исчерпывающий результат.\nНо,если\
+      \ вы хотите просто разговор поддержать, то понимаю. \nPS. Кстати, на опубликованные\
+      \ недавно данные о позднем расцвете популярности Джона Ли Хукера реакции ни\
+      \ у кого так и не будет? Опять мне разгребать эти залежи знаний?"
+    replies:
+    - id: 7572
+      parent_id: 7571
+      date: 2002-09-22 21:55
+      poster: Сергей Иванов (serge_ivanov)
+      email: serge_ivanov@hotmail.com
+      subject: а вот еще вопрос
+      deleted: false
+      text: 'как сюда попасть с заглавной страницы сайта - http://www.blues.ru/ww/hawkins1.html?
+
+        А ведь здесь лежит ответ для Ксении. Поиск это конечно хорошо - но нормальная
+        ссылка не помешала бы :-) Я сам тут только недавно купил What that is! и искал
+        информацию о SJH.
+
+        А о Хукере - наверное популярность и места в хитах - это разные вещи?'
+    - id: 7575
+      parent_id: 7571
+      date: 2002-09-23 08:28
+      poster: Malcolm Ray  Redriver (Mike)
+      email: lifebythedrop@yandex.ru
+      subject: Хукер
+      deleted: false
+      text: Как можно забыт о мистере Блюзе...? Боже до чего мы докатились. Я -то
+        понятно, мало где лазюю ничего не знаю, а остальные...?
+  - id: 7574
+    parent_id: 7570
+    date: 2002-09-23 08:25
+    poster: Malcolm Ray  Redriver (Mike)
+    email: lifebythedrop@yandex.ru
+    subject: А я знаю...
+    deleted: false
+    text: Кажется Nina Simone, да, она самая.
+    replies:
+    - id: 7578
+      parent_id: 7574
+      date: 2002-09-23 10:33
+      poster: Юрий Каверкин
+      email: kaverkin@rol.ru
+      subject: Проще перечислить тех, кто ее не пел.....
+      deleted: false
+      text: 'Кобзон не пел, это точно! Однако самое неудачное исполнение ,на мой взгляд
+        это у Оскара Бентона - стеб с хрюканьем и пуканьем....
+
+        А вот Nina Simone - это даааа....'
+  - id: 7576
+    parent_id: 7570
+    date: 2002-09-23 08:38
+    poster: Сергей  Бабаев
+    email: ben2jamm@yahoo.com
+    subject: John Fogerty (Creedence )
+    deleted: false
+  - id: 7583
+    parent_id: 7570
+    date: 2002-09-23 22:33
+    poster: Дима Казанцев (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: Хорошее исполнение
+    deleted: false
+    text: этой вещи у Nina Simone и Bryan Ferry.
+  - id: 7588
+    parent_id: 7570
+    date: 2002-09-24 01:23
+    poster: Вадим  (AVA)
+    email: vad2908@mail.ru
+    subject: '...если заглянуть на AMG....'
+    deleted: false
+    text: '...(www.allmusic.com)...и написать в поисковике название песни, то вы увидите
+      не менее 160 вариантов этой песенки! Автор, конечно, Screamin'' Jay Hawkins.'

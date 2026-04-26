@@ -1,0 +1,35 @@
+topic_id: 2717
+slug: topic-2717
+title: Подскажите, что за группа?!
+first_post: 2005-08-23 16:38
+last_post: 2005-08-25 10:05
+post_count: 3
+posts:
+- id: 22436
+  parent_id: null
+  date: 2005-08-23 16:38
+  poster: Иван
+  email: ironym@yandex.ru
+  subject: Подскажите, что за группа?!
+  deleted: false
+  text: "Подскажите кто знает, пожалуйста!\nУ отца скоро юбилей, хочу подарок сделать.\n\
+    Он по радио слышал современный интеллигентный джаз/блюз,\nоч. понравилось, а название\
+    \ группы точно не разобрал - \nчто-то вроде о-эм-зи (это буквально).\nПо английски\
+    \ так звучало бы OMZi.\nНикто не знает группы с похоже звучащим названием?"
+  replies:
+  - id: 22444
+    parent_id: 22436
+    date: 2005-08-24 09:53
+    poster: Muddy Lives
+    email: mlives_6@hotmail.com
+    subject: Не E.S.T.?
+    deleted: false
+    replies:
+    - id: 22481
+      parent_id: 22444
+      date: 2005-08-25 10:05
+      poster: Иван
+      email: ironym@yandex.ru
+      subject: Не E.S.T.
+      deleted: false
+      text: Долго слушал E.S.T., думал - она, не она, но по-моему не то.

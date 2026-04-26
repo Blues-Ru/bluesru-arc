@@ -1,0 +1,316 @@
+topic_id: 2957
+slug: topic-2957
+title: Оцифровал я редкую вещь...
+first_post: 2005-11-28 06:12
+last_post: 2005-12-01 10:52
+post_count: 33
+posts:
+- id: 24756
+  parent_id: null
+  date: 2005-11-28 06:12
+  poster: Дмитрий Казанцев (Dr. Nick)
+  email: dr.nick@blues.ru
+  subject: Оцифровал я редкую вещь...
+  deleted: false
+  text: 'вот это: http://www.wirz.de/music/barrefrm.htm
+
+
+    Если кому интересно, дайте знать.
+
+
+    Вот здесь сэмплы: http://www.realmusic.ru/albums/3948/
+
+
+    Всего 16 песен, как вы уже поняли наверное.'
+  replies:
+  - id: 24760
+    parent_id: 24756
+    date: 2005-11-29 08:16
+    poster: Руслан Чифуров ()
+    email: chifuroff@inbox.ru
+    subject: Мне запиши
+    deleted: false
+    replies:
+    - id: 24761
+      parent_id: 24760
+      date: 2005-11-29 08:26
+      poster: Дмитрий Казанцев (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: тебе-то оно зачем? :)
+      deleted: false
+      text: 'там же не рок и не электро вовсе :)
+
+        у меня море разных редкостей более подходящих для тебя :)
+
+
+        или ты прям уже фанат?'
+      replies:
+      - id: 24763
+        parent_id: 24761
+        date: 2005-11-29 10:41
+        poster: Руслан Чифуров
+        email: chifuroff@inbox.ru
+        subject: Ну допустим...
+        deleted: false
+        text: я уже ни от кого давно не "фанатею" :-))))) А послушать многое интересно.
+        replies:
+        - id: 24764
+          parent_id: 24763
+          date: 2005-11-29 11:20
+          poster: Дмитрий Казанцев (Dr. Nick)
+          email: dr.nick@blues.ru
+          subject: ты сэмплы-то отслушал хоть?
+          deleted: false
+          text: может те лучше шаффлов записать каких? у меня тоже есть... редкие...
+          replies:
+          - id: 24766
+            parent_id: 24764
+            date: 2005-11-29 12:24
+            poster: Руслан Чифуров
+            email: chifuroff@inbox.ru
+            subject: А как же
+            deleted: false
+            text: Конечно послушал :-))))) А шаффлы- это не ко мне :-)))))
+            replies:
+            - id: 24767
+              parent_id: 24766
+              date: 2005-11-29 12:26
+              poster: Владимир Русинов (BluesCat)
+              email: volodya@blues.ru
+              subject: русслан :)
+              deleted: false
+              text: вот ты наехал на шаффлы :) какой шаффл для примера тебе кажется
+                скучным ? :)
+              replies:
+              - id: 24768
+                parent_id: 24767
+                date: 2005-11-29 12:33
+                poster: Руслан Чифуров
+                email: chifuroff@inbox.ru
+                subject: Да я не наехал :-)))))
+                deleted: false
+                text: Это Дима здесь надо мной подтрунивает :-)))))
+                replies:
+                - id: 24769
+                  parent_id: 24768
+                  date: 2005-11-29 13:20
+                  poster: Yuri Kaverkin (Gekko)
+                  email: kaverkin@rol.ru
+                  subject: Ну ты и боевит, Вова! Аж страшно на форум заходить стало...
+                    :-)
+                  deleted: false
+                  replies:
+                  - id: 24770
+                    parent_id: 24769
+                    date: 2005-11-29 13:57
+                    poster: Алексей Фролов (Buchothk)
+                    email: jokerthk@yandex.ru
+                    subject: АГА!!!!
+                    deleted: false
+                    text: 'Пропадал-пропадал, а тут БАЦ и выстрелил!!! ;))))))
+
+                      Енот выздоровел? ;))))'
+                  - id: 24772
+                    parent_id: 24769
+                    date: 2005-11-29 14:24
+                    poster: Владимир Русинов (BluesCat)
+                    email: volodya@blues.ru
+                    subject: гы
+                    deleted: false
+                    text: я просто спросил - я хочу понять суть вопроса.
+                  - id: 24784
+                    parent_id: 24769
+                    date: 2005-11-29 21:25
+                    poster: Дмитрий Казанцев (Dr. Nick)
+                    email: dr.nick@blues.ru
+                    subject: и не говори...
+                    deleted: false
+                    text: я думал, он хиппи волосатый (типа тютя такой), а мне в привате
+                      такое про себя сказал, что у меня холодок по спине прошел...
+                    replies:
+                    - id: 24793
+                      parent_id: 24784
+                      date: 2005-11-30 00:44
+                      poster: Yuri Kaverkin (Gekko)
+                      email: kaverkin@rol.ru
+                      subject: Гляди не простудись, Дима....
+                      deleted: false
+                      replies:
+                      - id: 24794
+                        parent_id: 24793
+                        date: 2005-11-30 01:14
+                        poster: Дмитрий Казанцев (Dr. Nick)
+                        email: dr.nick@blues.ru
+                        subject: слышал бы ты сам...
+                        deleted: false
+                        replies:
+                        - id: 24796
+                          parent_id: 24794
+                          date: 2005-11-30 01:20
+                          poster: Владимир Русинов (BluesCat)
+                          email: volodya@blues.ru
+                          subject: так я сказал
+                          deleted: false
+                          text: что я злобный панк. что тут такого :)
+                          replies:
+                          - id: 24799
+                            parent_id: 24796
+                            date: 2005-11-30 02:30
+                            poster: Yuri Kaverkin (Gekko)
+                            email: kaverkin@rol.ru
+                            subject: Злобный панк, злобный панк -взял угнал советский
+                              танк...Лирика....
+                            deleted: false
+                          - id: 24802
+                            parent_id: 24796
+                            date: 2005-11-30 04:08
+                            poster: Дмитрий Казанцев (Dr. Nick)
+                            email: dr.nick@blues.ru
+                            subject: да?
+                            deleted: false
+                            text: а про пинок? а про поддых? про остроносые башмаки?
+                              :)
+                            replies:
+                            - id: 24803
+                              parent_id: 24802
+                              date: 2005-11-30 04:11
+                              poster: Дмитрий Казанцев (Dr. Nick)
+                              email: dr.nick@blues.ru
+                              subject: а сигареты Друг?
+                              deleted: false
+                              replies:
+                              - id: 24809
+                                parent_id: 24803
+                                date: 2005-11-30 14:18
+                                poster: Алексей Фролов (Buchothk)
+                                email: jokerthk@yandex.ru
+                                subject: Ужасы какие!!!
+                                deleted: false
+                                text: А я ведь подозревал.... ;)))
+                - id: 24774
+                  parent_id: 24768
+                  date: 2005-11-29 14:26
+                  poster: Владимир Русинов (BluesCat)
+                  email: volodya@blues.ru
+                  subject: ну хоть просто скажи :)
+                  deleted: false
+                  text: давай раскроем тему шаффла :)
+                  replies:
+                  - id: 24778
+                    parent_id: 24774
+                    date: 2005-11-29 15:15
+                    poster: Руслан Чифуров
+                    email: chifuroff @ inbox.ru
+                    subject: И зесь потянется многокилометровая ветка :-)))))
+                    deleted: false
+                    text: На самом деле всё хорошо в меру :-))))) Тут шаффл ни при
+                      чем. Просто если на протяжении всего концерта сплошные шаффлы,
+                      то начинаешь уставать.
+                    replies:
+                    - id: 24781
+                      parent_id: 24778
+                      date: 2005-11-29 15:23
+                      poster: Владимир Русинов (BluesCat)
+                      email: volodya@blues.ru
+                      subject: шаффл очень сложная штука...
+                      deleted: false
+                      text: по мне так его у нас мало кто играет, так чтобы я сразу
+                        от него не устал :)))  но это мои собтсвенные глюки...
+                      replies:
+                      - id: 24782
+                        parent_id: 24781
+                        date: 2005-11-29 15:25
+                        poster: Руслан Чифуров
+                        email: chifuroff @ inbox.ru
+                        subject: Ну вот ты сам на этот вопрос и ответил :-)))))
+                        deleted: false
+                        replies:
+                        - id: 24786
+                          parent_id: 24782
+                          date: 2005-11-29 21:33
+                          poster: Дмитрий Казанцев (Dr. Nick)
+                          email: dr.nick@blues.ru
+                          subject: ты чё блин?
+                          deleted: false
+                          text: против маршей? щас майор придёт!
+                          replies:
+                          - id: 24787
+                            parent_id: 24786
+                            date: 2005-11-29 22:11
+                            poster: Руслан Чифуров ()
+                            email: chifuroff @inbox.ru
+                            subject: Ведь и вправду :-)))))
+                            deleted: false
+                            text: И ещё на плац заставит идти маршировать :-)))))
+                            replies:
+                            - id: 24788
+                              parent_id: 24787
+                              date: 2005-11-29 23:42
+                              poster: Дмитрий Казанцев (Dr. Nick)
+                              email: dr.nick@blues.ru
+                              subject: а куда он пропал?
+                              deleted: false
+                              text: наш маёр
+                              replies:
+                              - id: 24792
+                                parent_id: 24788
+                                date: 2005-11-30 00:43
+                                poster: Yuri Kaverkin (Gekko)
+                                email: kaverkin@rol.ru
+                                subject: Отмокает наверное, после дня рождения;-)
+                                  Майоры, они завсегда после дня рождения отмокать
+                                  должны:-))
+                                deleted: false
+                                replies:
+                                - id: 24795
+                                  parent_id: 24792
+                                  date: 2005-11-30 01:14
+                                  poster: Дмитрий Казанцев (Dr. Nick)
+                                  email: dr.nick@blues.ru
+                                  subject: да?
+                                  deleted: false
+                                  text: надо бы узнать, всё ли ОК
+              - id: 24817
+                parent_id: 24767
+                date: 2005-12-01 03:40
+                poster: Дмитрий Казанцев (Dr. Nick)
+                email: dr.nick@blues.ru
+                subject: хорошее название для группы - Русслан Руссинов!
+                deleted: false
+                text: и настоящий русский патриотический блюз зафигарить!
+                replies:
+                - id: 24820
+                  parent_id: 24817
+                  date: 2005-12-01 10:45
+                  poster: Руслан Чифуров
+                  email: chifuroff<sobaka>inbox.ru
+                  subject: Ага!
+                  deleted: false
+                  text: Вот и епертуар уже намечается- "Смело Товарищи В Ногу" отлично
+                    на кантри-ритм ложится.
+                  replies:
+                  - id: 24822
+                    parent_id: 24820
+                    date: 2005-12-01 10:52
+                    poster: Дмитрий Казанцев (Dr. Nick)
+                    email: dr.nick@blues.ru
+                    subject: эта песня не годится!
+                    deleted: false
+                    text: про НОГИ петь нельзя!
+  - id: 24807
+    parent_id: 24756
+    date: 2005-11-30 12:56
+    poster: QWERT
+    email: sdasd@gm.ru
+    subject: и при чем здесь "Оцифровал я редкую вещь..."
+    deleted: false
+    text: и при чем здесь "Оцифровал я редкую вещь..."
+    replies:
+    - id: 24812
+      parent_id: 24807
+      date: 2005-11-30 17:04
+      poster: Дмитрий Казанцев (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: как при чем?
+      deleted: false
+      text: блюзы там редкие!

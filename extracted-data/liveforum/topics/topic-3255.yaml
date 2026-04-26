@@ -1,0 +1,82 @@
+topic_id: 3255
+slug: topic-3255
+title: между прочим
+first_post: 2006-05-15 16:51
+last_post: 2006-05-15 20:18
+post_count: 7
+posts:
+- id: 27376
+  parent_id: null
+  date: 2006-05-15 16:51
+  poster: Andrei V. Evdokimov (evdokimov)
+  email: evdokimov@blues.ru
+  subject: между прочим
+  deleted: false
+  text: 'Новая газета от 15.05.2006 напечатала монолог г-на Диброва с заголовком:
+    "Монолог в честь 60-летнего юбилея гитары <Фендер>"'
+  replies:
+  - id: 27378
+    parent_id: 27376
+    date: 2006-05-15 16:53
+    poster: Dmitri Kazantsev (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: и чего там?
+    deleted: false
+  - id: 27382
+    parent_id: 27376
+    date: 2006-05-15 16:56
+    poster: Старый Майор
+    email: gypsy@mail.ru
+    subject: Ссылка на сайт Новой газеты тут
+    deleted: false
+    text: "<a href=http://2006.novayagazeta.ru/nomer/2006/35n/n35n-s43.shtml>ПОЙМАННОЕ\
+      \ В РУКИ ЭЛЕКТРИЧЕСТВО. \nМонолог в честь 60-летнего юбилея гитары «Фендер»</a>"
+    replies:
+    - id: 27390
+      parent_id: 27382
+      date: 2006-05-15 17:32
+      poster: Dmitri Kazantsev (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: блин
+      deleted: false
+      text: 'у меня нет времени и терпения читай такой длинный текст...
+
+
+        о чем там?'
+    - id: 27392
+      parent_id: 27382
+      date: 2006-05-15 17:33
+      poster: Kot Matraskin (KotMatraskin)
+      email: kotmatrs@mail.ru
+      subject: Рекламный банер
+      deleted: false
+      text: 'Мне там очень понравился. На нем там голая ЖОПА и надпись - "мягкое место
+        Ксении Собчак"
+
+        Красота!'
+      replies:
+      - id: 27393
+        parent_id: 27392
+        date: 2006-05-15 17:40
+        poster: Dmitri Kazantsev (Dr. Nick)
+        email: dr.nick@blues.ru
+        subject: всё вы блин замечаете!
+        deleted: false
+        text: а кто такая Собчак?
+        replies:
+        - id: 27401
+          parent_id: 27393
+          date: 2006-05-15 20:18
+          poster: Kot Matraskin (KotMatraskin)
+          email: kotmatrs@mail.ru
+          subject: Работа у меня такая, все замечать
+          deleted: false
+          text: "Вот недавно, пишу одного очень известного саксофониста, \"колтрейниста\"\
+            , заснул немного, когда проснулся говорю - типа так и так, в предпоследнем\
+            \ квадрате, в 3-м такте неудачно фразку сыграли. Ну и он так точно же\
+            \ и сказал, - Во С..чъ, все замечает. \n\nКсения Собчак - Культовый персонаж\
+            \ ДБД (Духовно богатая Дева), ведущая реалти порно-шоу, похожа не фернанделя\
+            \ или точнее - на лошадь, в пении блюза не замечена (пока). В сообществе\
+            \ ДБД - предмет поклонения и обожания (и подражания). Дочь известных политических\
+            \ деятелей. Говорят, что воспитывалась на коленях у самого ВВП, но врут\
+            \ наверное."

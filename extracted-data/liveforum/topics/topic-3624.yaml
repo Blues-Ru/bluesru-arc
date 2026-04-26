@@ -1,0 +1,41 @@
+topic_id: 3624
+slug: topic-3624
+title: Не иначе, модераторы в отпусках
+first_post: 2007-05-03 11:09
+last_post: 2007-05-03 14:53
+post_count: 4
+posts:
+- id: 32674
+  parent_id: null
+  date: 2007-05-03 11:09
+  poster: Алексей Аграновский (Док)
+  email: aaa@genebee.msu.su
+  subject: Не иначе, модераторы в отпусках
+  deleted: false
+  text: Фестиваль в Высоцком прошел давно, а баннер и ныне там. В смысле, тут.
+  replies:
+  - id: 32677
+    parent_id: 32674
+    date: 2007-05-03 13:08
+    poster: Алексей Аграновский (Док)
+    email: aaa@genebee.msu.su
+    subject: Правда, обновление есть
+    deleted: false
+    text: Козловый кран тут продается недорого...
+    replies:
+    - id: 32680
+      parent_id: 32677
+      date: 2007-05-03 13:41
+      poster: Dima Krasivov (Dima)
+      email: dima@blues.ru
+      subject: Какой кран???
+      deleted: false
+      replies:
+      - id: 32682
+        parent_id: 32680
+        date: 2007-05-03 14:53
+        poster: Алексей Аграновский (Док)
+        email: aaa@genebee.msu.su
+        subject: Козловый. Уже продали. Объявление стёрли
+        deleted: false
+        text: Но наши старые блюзовые постеры всё ещё висят.

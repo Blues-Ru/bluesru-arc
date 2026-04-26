@@ -1,0 +1,33 @@
+path: Kav16
+type: custom
+title: Юрий Каверкин, интервью
+date: null
+photo_count: 13
+captioned: 2
+index_files:
+- i_Kaverkin.htm
+extra_text: null
+photos:
+- file: DSC05724.JPG
+- file: DSC06846.JPG
+- file: DSC06849.JPG
+  caption: Потом были семья и основная профессия - я зоолог же. Были экспедиции. В
+    экспедициях тоже гитара. - А в экспедициях? Все вокруг поют "Солнышко мое" или?..
+- file: DSC06862.JPG
+- file: DSC07669.JPG
+- file: DSC07685.JPG
+- file: DSC07709.JPG
+- file: DSC07715.JPG
+  caption: Юрий Каверкин интервью в клубе "Дом у Дороги", ноябрь 2015 г.
+- file: DSC07749.JPG
+- file: DSC07769.JPG
+- file: DSCN6430-1.JPG
+- file: DSCN9402.JPG
+- file: DSCN9440.JPG
+canonical_date: 2015-11
+clean_title: Юрий Каверкин — интервью в «Доме у Дороги», ноябрь 2015
+slug: kaverkin-interview-november-2015
+description: Интервью с Юрием Каверкиным в клубе «Дом у Дороги», ноябрь 2015. Беседа
+  Андрея Евдокимова.
+source_article: null
+exclude: true

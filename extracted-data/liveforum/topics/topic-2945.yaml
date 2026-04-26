@@ -1,0 +1,178 @@
+topic_id: 2945
+slug: topic-2945
+title: Ребята! Мы победили!
+first_post: 2005-11-22 11:00
+last_post: 2005-11-30 00:37
+post_count: 19
+posts:
+- id: 24660
+  parent_id: null
+  date: 2005-11-22 11:00
+  poster: Оксана Кочубей
+  email: morrah@yandex.ru
+  subject: Ребята! Мы победили!
+  deleted: false
+  text: "Дорогие мои блюзру-форумцы! Мы с Life-n-Joy! рады вам сообщить, что в жаркой\
+    \ борьбе на конкурсе gbob - www.gbob.ru нам досталась долгожданная победа!\n Теперь,\
+    \ 7-го Декабря, нам предстоит играть в Лондоне - продолжить битву за родную страну,\
+    \ за свою музыку. \nЯ знаю, что нас многие не любят, обвиняют в тех или иных \"\
+    стилевых пороках\". НО! У нас получилось доказать, что мы верны себе, мы достойны\
+    \ сыграть на родной земле рок-музыки - в Англии. \nДрузья!\nLnJ! во многом признательны\
+    \ именно вам, блюзовой тусовке.\nНе спрашивайте меня, почему я так говорю. Просто,\
+    \ спасибо вам, ребята!"
+  replies:
+  - id: 24661
+    parent_id: 24660
+    date: 2005-11-22 11:32
+    poster: Andrei V. Evdokimov (evdokimov)
+    email: evdokimov@blues.ru
+    subject: Go, get them, honey!
+    deleted: false
+  - id: 24663
+    parent_id: 24660
+    date: 2005-11-22 11:34
+    poster: Andy McLetsoff (McL)
+    email: mcl@macbox.ru
+    subject: Kick'em Ass! U're wonderful!
+    deleted: false
+  - id: 24664
+    parent_id: 24660
+    date: 2005-11-22 12:03
+    poster: Алексей Аграновский (Док)
+    email: aaa@genebee.msu.su
+    subject: Оксана, молодцы,
+    deleted: false
+    text: клёво, отлично! Покажите Лондону настоящий лайв и, соответственно, джой!
+  - id: 24665
+    parent_id: 24660
+    date: 2005-11-22 13:06
+    poster: (Grem)
+    email: grems@yandex.ru
+    subject: Маааладцы!!!!
+    deleted: false
+    text: 'Удачи вам там....мы будем болеть за L''n''J.
+
+      Когда вернетесь, пропиши о впечатлениях плиииз.'
+  - id: 24666
+    parent_id: 24660
+    date: 2005-11-22 13:13
+    poster: Маша Диброва (Dibrova)
+    email: dibrova_blues@rambler.ru
+    subject: Ай, молодца, Оксана!
+    deleted: false
+    text: Оксана, желаю удачи в Лондоне! Не подведи! Мы болеем за тебя
+  - id: 24673
+    parent_id: 24660
+    date: 2005-11-22 14:42
+    poster: Игорь Г
+    email: sunny_city@mail.ru
+    subject: ОФИГЕТЬ  !!!!    Ну молодцы !!!!  Супер!!!!
+    deleted: false
+  - id: 24676
+    parent_id: 24660
+    date: 2005-11-22 15:01
+    poster: Doc.
+    email: doc@doc.com
+    subject: G B O B
+    deleted: false
+    text: "ЖЕЛАЮ УСПЕХА !!!\nWednesday, 7 December 2005 \n\nGlobal Battle Of The Bands\
+      \ World Final:\nEverafta + Misty Mono + The New Brand + Beinhard + Lapko + Building\
+      \ a Better Spaceship + Marius + The Rise + Rub Saqer & Ramzi Rais + The Authority\n\
+      \nwww.gbob.com .\n\nAt Astoria, London \nFrom 6:30pm \nPrice: &#163;12.00 /\
+      \ &#163;10.00 in advance \n\nAstoria\n157 Charing Cross Road\nLondon\nWC2H 0EN\n\
+      \nTrain: Charing Cross (13 mins) \nTube: Tottenham Court Rd (2 mins) \n\nEnquiries:\
+      \ 020 7434 0403\nBox Office: 020 7344 0044"
+  - id: 24678
+    parent_id: 24660
+    date: 2005-11-22 15:45
+    poster: Дмитрий Казанцев (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: the best fuck the rest!
+    deleted: false
+    text: keep on keeping on!
+  - id: 24681
+    parent_id: 24660
+    date: 2005-11-22 15:56
+    poster: Старый Майор
+    email: gypsy@mail.ru
+    subject: Так держать!!! =))
+    deleted: false
+    text: Перенесем борьбу с вероятным противником на его территорию!
+  - id: 24693
+    parent_id: 24660
+    date: 2005-11-22 17:40
+    poster: Дмитрий(фан)
+    email: leonidovd@mail.ru
+    subject: МА-ЛАД-ЦЫ! Так держать!
+    deleted: false
+  - id: 24701
+    parent_id: 24660
+    date: 2005-11-22 19:18
+    poster: Андрей Ордальонов (Андрей PRG)
+    email: peregnoy@mail.ru
+    subject: Умницы!
+    deleted: false
+    text: ПОздравляю!:))
+  - id: 24704
+    parent_id: 24660
+    date: 2005-11-22 20:01
+    poster: Оксана Кочубей
+    email: morrah@yandex.ru
+    subject: :-) СПАСИБО! ТОЛЬКО ПОБЕДА! ТОЧКА!
+    deleted: false
+    replies:
+    - id: 24707
+      parent_id: 24704
+      date: 2005-11-22 23:48
+      poster: Дмитрий Казанцев (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: оле оле оле оле!
+      deleted: false
+      text: Оксана вперед!
+      replies:
+      - id: 24708
+        parent_id: 24707
+        date: 2005-11-22 23:58
+        poster: Yuri Kaverkin (Gekko)
+        email: kaverkin@rol.ru
+        subject: COOLLLLLLLLL!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! Поздравляю!
+        deleted: false
+        replies:
+        - id: 24711
+          parent_id: 24708
+          date: 2005-11-23 00:47
+          poster: Ара Блюзмен
+          email: ara@blues.ru
+          subject: да ара спасибо!
+          deleted: false
+          text: тоже поеду с Оксаной в ЛондОн! настоящий британский блюз слюшать!
+  - id: 24715
+    parent_id: 24660
+    date: 2005-11-23 09:20
+    poster: Валентин
+    email: voshalb@rambler.ru
+    subject: Оксана!!! Очень рад за тебя...и жду дальнейших успехов...
+    deleted: false
+    text: Тока не почивай на лаврах...А памятник я тебе уже в памяти поставил...пусть
+      и за блюзовые,но несомненные достижения))))
+  - id: 24744
+    parent_id: 24660
+    date: 2005-11-27 12:47
+    poster: Андрей К
+    email: 53242@yahoo.com
+    subject: ну вот...
+    deleted: false
+    text: "это уже хорошо. \nПоздравляю.\nЛондон все расставит на свои места.\n\n\
+      Удачи"
+  - id: 24790
+    parent_id: 24660
+    date: 2005-11-30 00:37
+    poster: nirko
+    email: manirko@list.ru
+    subject: Поздравляю. Кстати в Лондоне можете оращаться, если что.
+    deleted: false
+    text: 'Оксан, если нужна будет в Лонжоне какая-нибудь помощь, или надо будет инстументы
+      там положить на денек, или что-то, то на севере-западе Лондона (Ну это в стороне
+      аеропорта heathrow) можете обращаться. Я рядом с Кингстоном.
+
+      Поздравляю.'

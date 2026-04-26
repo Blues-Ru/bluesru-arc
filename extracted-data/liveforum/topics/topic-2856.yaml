@@ -1,0 +1,34 @@
+topic_id: 2856
+slug: topic-2856
+title: Читаю я этот форум...
+first_post: 2005-10-16 20:20
+last_post: 2005-10-20 18:46
+post_count: 3
+posts:
+- id: 23953
+  parent_id: null
+  date: 2005-10-16 20:20
+  poster: Руслан Чифуров ()
+  email: chifuroff@inbox.ru
+  subject: Читаю я этот форум...
+  deleted: false
+  text: '... и не нарадуюсь! :-))))) Такие ветки дискуссий длиннющие, что просто читать
+    некогда.'
+  replies:
+  - id: 23957
+    parent_id: 23953
+    date: 2005-10-17 09:47
+    poster: Алексей Фролов (Buchothk)
+    email: jokerthk@yandex.ru
+    subject: Да уж...
+    deleted: false
+    text: Вот бы еще что-нибудь интересное обсуждали, а то больше на выяснение отношений
+      похоже... ;)
+    replies:
+    - id: 24012
+      parent_id: 23957
+      date: 2005-10-20 18:46
+      poster: Старый Майор
+      email: gypsy@mail.ru
+      subject: Блюзмены бранятся - типа тешатся )))
+      deleted: false

@@ -1,0 +1,114 @@
+topic_id: 3378
+slug: topic-3378
+title: Братцы, помогите
+first_post: 2006-08-26 00:38
+last_post: 2006-09-05 15:37
+post_count: 11
+posts:
+- id: 28487
+  parent_id: null
+  date: 2006-08-26 00:38
+  poster: Axle
+  email: axledog@mail.ru
+  subject: Братцы, помогите
+  deleted: false
+  text: "Имеется видеозапись фестиваля в лефортово. К сожалению, видеокасеты камеры\
+    \ \"бетакам\" оказались пустыми (привет операторам), но есть материал, снятый\
+    \ второй, вспомогательной камерой (какой я предусмотрительный :-)), а так же касеты\
+    \ DAT, на которые писался звук с пульта. Помогите найти мастера, который мог бы\
+    \ грамотно свести видео и звук.  Попытался сделать сам, но чёткакто не получается\
+    \ пока. Выкладываю фрагмент записи фестиваля, к сожалению аудио, видео у меня\
+    \ получилось 4 гигабайта на 15 минут, сжать не удалось (может кто знает, как это\
+    \ делается?). \n\n\nКрис Дуарте (аудио записано видеокамерой)\n\nwww.filepost.ru/?act=files&id=1314919"
+  replies:
+  - id: 28488
+    parent_id: 28487
+    date: 2006-08-26 00:42
+    poster: Axle
+    email: axledog@mail.ru
+    subject: Прошу так же, прослушайте и выскажетесь (о музыке)
+    deleted: false
+    text: Может и не стоит париться и тратить деньги, если это ни кому не нужно.
+  - id: 28490
+    parent_id: 28487
+    date: 2006-08-26 15:45
+    poster: Axle
+    email: axledog@mail.ru
+    subject: А вот и оно - видео
+    deleted: false
+    text: www.filepost.ru/?act=files&id=1318514
+  - id: 28493
+    parent_id: 28487
+    date: 2006-08-26 16:57
+    poster: Axle
+    email: axledog@mail.ru
+    subject: Видать, никому не интересно
+    deleted: false
+    text: или все на взморьях
+    replies:
+    - id: 28494
+      parent_id: 28493
+      date: 2006-08-26 17:12
+      poster: Алексей Аграновский (Док)
+      email: aaa@genebee.msu.su
+      subject: Я тебе послал е-мейл
+      deleted: false
+      text: по интересующему вопросу. Глянь.
+  - id: 28508
+    parent_id: 28487
+    date: 2006-08-28 12:15
+    poster: Axle
+    email: axledog@mail.ru
+    subject: Юра Каверкин
+    deleted: false
+    text: www.filepost.ru/?act=files&id=1331820
+  - id: 28509
+    parent_id: 28487
+    date: 2006-08-28 12:39
+    poster: Axle
+    email: axledog@mail.ru
+    subject: Гия Дзагнидзе
+    deleted: false
+    text: www.filepost.ru/?act=files&id=1331975
+  - id: 28533
+    parent_id: 28487
+    date: 2006-08-28 23:42
+    poster: Руслан Чифуров ()
+    email: chifuroff<sobaka>inbox.ru
+    subject: Сжатие видео
+    deleted: false
+    text: '4 гига на 15 минут- слишком много. Для интернета надо сжимать либо в авишки
+      с кодеком DivX для видеопотока и mp3 для аудиопотока. Но лучше всего делать
+      для интернета файлы формата .wmv- например при помощи программы Windows Media
+      Encoder- программа эта распространяется совершенно бесплатно!
+
+      Вот можно глянуть- я выложил некоторые свои соображения и настройки для программы
+      Windows Media Encoder. Посмотреть настройки можно <a href="http://www.pasportov.net/ruslan/encoder/encode.htm">здесь</a>'
+    replies:
+    - id: 28534
+      parent_id: 28533
+      date: 2006-08-29 00:19
+      poster: Axle
+      email: axledog@mail.ru
+      subject: Спасибо Руслан
+      deleted: false
+      text: 'Я, как видишь, разобрался сам.
+
+        Крис Дуарте 7 - СПЕЦИАЛЬНО ДЛЯ ТЕБЯ :-)'
+      replies:
+      - id: 28559
+        parent_id: 28534
+        date: 2006-09-01 08:12
+        poster: Руслан Чифуров ()
+        email: chifuroff<sobaka>inbox.ru
+        subject: ОК!
+        deleted: false
+  - id: 28588
+    parent_id: 28487
+    date: 2006-09-05 15:37
+    poster: ABM
+    email: abm1968@yandex.ru
+    subject: видеозапись фестиваля в лефортово
+    deleted: false
+    text: 'А как бы перекатать? А то ни фига качаться не хочет: на 96 процентах встаёт
+      закачка - и хоть ты её... Блин... (('

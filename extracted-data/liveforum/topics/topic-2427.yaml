@@ -1,0 +1,23 @@
+topic_id: 2427
+slug: topic-2427
+title: Где можно достать записи Philadelphia Jerry Ricks ???
+first_post: 2005-02-13 21:09
+last_post: 2005-02-13 21:55
+post_count: 2
+posts:
+- id: 20440
+  parent_id: null
+  date: 2005-02-13 21:09
+  poster: Бонд
+  email: i@rambler.ru
+  subject: Где можно достать записи Philadelphia Jerry Ricks ???
+  deleted: false
+  replies:
+  - id: 20445
+    parent_id: 20440
+    date: 2005-02-13 21:55
+    poster: Jerry
+    email: ricks@blues.ru
+    subject: again?
+    deleted: false
+    text: этот вопрос уже задавали тут совсем недавно, и я на него уже отвечал :)

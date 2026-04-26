@@ -1,0 +1,71 @@
+topic_id: 852
+slug: topic-852
+title: ищу сайты музыкальной тематики
+first_post: 2003-05-18 03:01
+last_post: 2003-05-19 17:25
+post_count: 7
+posts:
+- id: 12515
+  parent_id: null
+  date: 2003-05-18 03:01
+  poster: musicdownload
+  email: webmaster@musicdownload.cc
+  subject: ищу сайты музыкальной тематики
+  deleted: false
+  text: ищу сайты музыкальной тематики для обмена сылками http://www.musicdownload.cc/
+  replies:
+  - id: 12517
+    parent_id: 12515
+    date: 2003-05-18 05:13
+    poster: Malcolm Ray  Redriver (Mike)
+    email: lifebythedrop@yandex.ru
+    subject: сайты
+    deleted: false
+    text: 'guitar.ru (не путать с guitars.ru)
+
+      my-blues.com
+
+      rock.ru'
+  - id: 12518
+    parent_id: 12515
+    date: 2003-05-18 05:13
+    poster: Dima Krasivov (Dima)
+    email: dima@blues.ru
+    subject: http://www.google.com.ru/search?q="сайты музыкальной тематики" ;)))))))
+    deleted: false
+    replies:
+    - id: 12524
+      parent_id: 12518
+      date: 2003-05-18 11:47
+      poster: shkin
+      email: shkin
+      subject: porno.ru - вот что человек ищет :-)
+      deleted: false
+      text: 'А кто-нибудь удосужился посмотреть, что за сайт рекламируют?
+
+        Ко мне на форум эта э-э... фигня тоже попала и была немедленно снесена.'
+  - id: 12536
+    parent_id: 12515
+    date: 2003-05-19 01:17
+    poster: Nick Goodcorn/UNDERGROUND SUNBURN
+    email: sunburn2001@mail.ru
+    subject: GREAT  ONE ABOUT JIMI
+    deleted: false
+    text: http://www.jimihendrixonline.com/
+    replies:
+    - id: 12537
+      parent_id: 12536
+      date: 2003-05-19 01:39
+      poster: Дима Казанцев (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: Ты чё ващще?
+      deleted: false
+      text: Чувак свой порносайт рекламирует, а ты ему советы даешь ;)
+      replies:
+      - id: 12547
+        parent_id: 12537
+        date: 2003-05-19 17:25
+        poster: Dima Krasivov (Dima)
+        email: dima@blues.ru
+        subject: А я даже сообщение читать не стал, а сразу ответил ;) (-)
+        deleted: false

@@ -1,0 +1,29 @@
+topic_id: 4941
+slug: topic-4941
+title: Дом у Дороги сей-секунд On-Line!
+first_post: 2012-10-30 21:08
+last_post: 2012-10-31 20:06
+post_count: 3
+posts:
+- id: 38580
+  parent_id: null
+  date: 2012-10-30 21:08
+  poster: Andrei V. Evdokimov
+  subject: Дом у Дороги сей-секунд On-Line!
+  deleted: false
+  text: http://sbtg.ru/blueshouse/#
+  replies:
+  - id: 38582
+    parent_id: 38580
+    date: 2012-10-30 23:47
+    poster: kishinevets
+    subject: красота какая!
+    deleted: false
+    text: я даже начинаю верить в полезность новомодных штук...)
+  - id: 38585
+    parent_id: 38580
+    date: 2012-10-31 20:06
+    poster: Дмитрий Мейсигов
+    subject: вот это
+    deleted: false
+    text: .. просто здорово!

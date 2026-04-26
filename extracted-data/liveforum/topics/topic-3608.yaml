@@ -1,0 +1,26 @@
+topic_id: 3608
+slug: topic-3608
+title: офф топик, но все же
+first_post: 2007-04-03 11:30
+last_post: 2007-04-03 13:07
+post_count: 2
+posts:
+- id: 32068
+  parent_id: null
+  date: 2007-04-03 11:30
+  poster: Arsen
+  email: ragtime @blues.ru
+  subject: офф топик, но все же
+  deleted: false
+  text: 'может кому интересно:
+
+    19 апреля Ришар Бона в концертном зале Мир http://www.tobook.ru/show.php?show=913'
+  replies:
+  - id: 32073
+    parent_id: 32068
+    date: 2007-04-03 13:07
+    poster: Dmitri Kazantsev (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: о
+    deleted: false
+    text: это Ветерановский персонаж

@@ -1,0 +1,165 @@
+topic_id: 3553
+slug: topic-3553
+title: Амбарная Книга Закромов Родины..
+first_post: 2007-01-22 20:27
+last_post: 2007-01-24 13:13
+post_count: 7
+posts:
+- id: 30655
+  parent_id: null
+  date: 2007-01-22 20:27
+  poster: Старый Майор
+  email: gypsy@mail.ru
+  subject: Амбарная Книга Закромов Родины..
+  deleted: false
+  text: "..лежит тут: http://www.sharebigfile.com/file/66427/\n\nЛюбопытствующие могут\
+    \ поинтересоваться, а интересующиеся - полюбопытствовать, причем самостоятельно.\
+    \ \nДля всех прочих сообщаю, что в Амбарной Книге без малого 28 тыщ альбомов на\
+    \ все вкусы.\n\nСпециально для любителей НеСкажуКого я взял у Главного Счетовода\
+    \ справочку, вот она:\n\nchuck berry - all the very best live.zip  ::INFO:: 52.3MB\n\
+    chuck berry - anthology (disc 2).zip  ::INFO:: 53.3MB\nchuck berry - chess box\
+    \ (disc 1).zip  ::INFO:: 58.8MB\nchuck berry - chess box (disc 2).zip  ::INFO::\
+    \ 58.0MB\nchuck berry - chess box (disc 3).zip  ::INFO:: 64.8MB\nchuck berry -\
+    \ gold (disc 2).zip  ::INFO:: 56.4MB\nchuck berry - hail! hail! rock 'n' roll.zip\
+    \  ::INFO:: 37.9MB\nchuck berry - rock 'n' roll rarities.zip  ::INFO:: 46.4MB\n\
+    chuck berry - the blues collection.zip  ::INFO:: 43.0MB\nchuck berry - the chess\
+    \ years (disc 2).zip  ::INFO:: 42.6MB\nchuck berry - the chess years (disc 4).zip\
+    \  ::INFO:: 43.0MB\nchuck berry - the great twenty eight.zip  ::INFO:: 62.6MB\n\
+    \nКачать вам - не перекачать! =))\n\nPS: скорость скачивания - до 50 кбайт/c,\
+    \ обычно 20-30."
+  replies:
+  - id: 30679
+    parent_id: 30655
+    date: 2007-01-23 23:23
+    poster: Митя
+    email: meis2000@mail.ru
+    subject: Спасибо огромное...
+    deleted: false
+    text: 'Сейте разумное, доброе, вечное!
+
+
+      З. Ы. Просто Эльдорадо какое-то))'
+    replies:
+    - id: 30680
+      parent_id: 30679
+      date: 2007-01-23 23:59
+      poster: Старый Майор
+      email: gypsy@mail.ru
+      subject: А как и откуда качать - понятно?
+      deleted: false
+      replies:
+      - id: 30681
+        parent_id: 30680
+        date: 2007-01-24 00:42
+        poster: Юрий Кривошеин (YuK)
+        email: scolder@blues.ru
+        subject: Просьба пояснить! (-)
+        deleted: false
+      - id: 30686
+        parent_id: 30680
+        date: 2007-01-24 10:12
+        poster: Митя
+        email: meis2000@mail.ru
+        subject: Конечно,
+        deleted: false
+        text: '... обсуждалось уже, и не раз.'
+        replies:
+        - id: 30687
+          parent_id: 30686
+          date: 2007-01-24 10:19
+          poster: Митя
+          email: meis2000@mail.ru
+          subject: Возьму на себя смелость и наглость...
+          deleted: false
+          text: 'ЦИТАТА:
+
+
+            "Сообщаю в очередной раз.
+
+
+            Чтобы добраться до перацких архивов всей и всяческой музыки, нужно следующее:
+
+
+            1. Скачать клиент для сетей IRC - mIRC с сайта www.mirc.com
+
+
+            2. как продлить его срок действия сверх 30 дней триал-периода - объяснять
+            не буду ;)
+
+
+            3. Из списка сетей выбрать сеть UNDERNET, коннектиться лучше к Undernet,
+            Random US server
+
+
+            4. Зайдя в сеть, подключиться к каналу #Mp3blues
+
+
+            5. скачать файл-листы (командой @имя) следующих людей: @buzz, @davilo
+            и @wldflwr - у них самые приличные коллекции. Можно и других, но для того,
+            чтобы понять, кто в канале есть who, надо понаблюдать некоторое время
+            за потоком сообщений. Примечание: Скачивать файл-листы не обязательно,
+            можно пользоваться поисковой системой, см.ниже.
+
+
+            6. Файл-листы читаются простым нотепадом. Часть файл-листов и старую,
+            но вполне рабочую версию mIRC (без регистрации) можно скачать у меня с
+            сайта: http://gypsy.bluesman.ru/mIRC/
+
+
+            7. Для поиска в канале можно использовать поисковую систему, которая вызывается
+            командой:
+
+
+            /ctcp cse !cse
+
+
+            У неё очень простой интерфейс и есть он-лайн хелп.
+
+
+            Пример:
+
+
+            .search Texas Flood - найти все исполнения Texas Flood у всех держателей
+            архивов
+
+
+            На выходе будет строка примерно такого вида (получено прям щазз):
+
+
+            !buzz^ 07. stevie ray vaughan - texas flood.mp3 [8.3 MB]
+
+
+            !buzz^ willie nelson_milk cow blues - 15 texas flood (kenny wayne sheppard).mp3
+            [9.3 MB]
+
+
+            Полученные строчки, начиная с восклицательного знака, надо скопировать
+            и отправить в канал для того, чтобы скачать ЭТО.
+
+
+            !buzz^ willie nelson_milk cow blues - 15 texas flood (kenny wayne sheppard).mp3
+
+
+            Средняя скорость скачивания - 10-50 кбайт/сек, так что надо иметь терпение."
+            (с)Старый Пират
+
+
+            Но поскольку господин Старый Майор любезно выложил столь аккуратно созданный
+            реестр, нужда в поиске отпадает.. просто копируете нужную строчку из реестра
+            и отправляете в канал.'
+          replies:
+          - id: 30688
+            parent_id: 30687
+            date: 2007-01-24 13:13
+            poster: Старый Майор
+            email: gypsy@mail.ru
+            subject: Вот спасибо!
+            deleted: false
+            text: 'А то я бы этот трактат второй раз не написал.
+
+              Реестр составляет программа, поэтому он такой аккуратный ))
+
+              Нужда в поиске не отпадает, CharmSERVER просто держит всё альбомы в
+              ZIPах, а у многих коллекции россыпью. Поэтому когда нужно найти одну
+              песнь, нет смысла качать весь альбом, можно скачать один файл у других
+              добрых ператов.'

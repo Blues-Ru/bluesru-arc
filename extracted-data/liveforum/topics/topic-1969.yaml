@@ -1,0 +1,76 @@
+topic_id: 1969
+slug: topic-1969
+title: BB KING
+first_post: 2004-04-05 01:25
+last_post: 2004-04-07 19:29
+post_count: 7
+posts:
+- id: 17866
+  parent_id: null
+  date: 2004-04-05 01:25
+  poster: RAS
+  email: RAS@8ka.mipt.ru
+  subject: BB KING
+  deleted: false
+  text: Народ, а B.B.King и вправду приезжает? Кто знает что-нибудь об этом поподробнее?
+  replies:
+  - id: 17870
+    parent_id: 17866
+    date: 2004-04-05 10:40
+    poster: Владимир  Иванов (Barmaley)
+    email: '@'
+    subject: Вправду приезжает!
+    deleted: false
+    text: http://www.kontramarka.ru/is-bin/INTERSHOP.enfinity/eCS/Store/ru/-/RUR/DisplayProductInformation-Start;%24sid%24QHFJkUBxDIqVaCQrjbc606FIYyMpghou?ProductID=pO2sEAcCmdgAAAD6yV%2elWDKP
+  - id: 17871
+    parent_id: 17866
+    date: 2004-04-05 13:38
+    poster: Andrei V. Evdokimov (evdokimov)
+    email: evdokimov@blues.ru
+    subject: неужели все качели погорели?
+    deleted: false
+    text: 'как вариант, иногда можно заглядывать в новости блюз-ру. например, потому,
+      что блюз-ру обладает эксклюзивной информацией о гастролях короля блюза... просто
+      так совпало...
+
+      http://blues.ru/bluesnews/04Winter/04Winter.htm'
+    replies:
+    - id: 17873
+      parent_id: 17871
+      date: 2004-04-05 14:31
+      poster: Федор Романенко (fedor)
+      email: fedor@blues.ru
+      subject: Зимние новости
+      deleted: false
+      text: Андрей, а ссылки-то на них из оглавления-то нет. Не все же читают на глубину
+        новости сайта.....
+    - id: 17874
+      parent_id: 17871
+      date: 2004-04-05 14:31
+      poster: baltika
+      email: baltika-blues@yandex.ru
+      subject: люди, поделитесь опытом...
+      deleted: false
+      text: 'Куда лучше брать билет? (понятное дело что дело в деньгах , новсё же;))
+
+        и бронь - там про накрутки столько написали, что боюсь на них погореть...
+        Всё и правда так страшно?'
+      replies:
+      - id: 17879
+        parent_id: 17874
+        date: 2004-04-05 20:16
+        poster: Владимир  Иванов (Barmaley)
+        email: '@'
+        subject: Про бронь
+        deleted: false
+        text: Мне билет номиналом 1000 руб. с доставкой обошелся в 1030 руб. Правда
+          было это еще в январе.
+        replies:
+        - id: 17898
+          parent_id: 17879
+          date: 2004-04-07 19:29
+          poster: Руслан Абдалов (RR)
+          email: RR@RAMBLER.RU
+          subject: В кассе ГКД ...
+          deleted: false
+          text: '... купил за 7000р за номанал. Покупал в конце марта.'

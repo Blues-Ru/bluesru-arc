@@ -1,0 +1,90 @@
+topic_id: 1699
+slug: topic-1699
+title: Scott Henderson 'Dog Party'
+first_post: 2003-12-19 14:08
+last_post: 2003-12-19 19:15
+post_count: 7
+posts:
+- id: 16354
+  parent_id: null
+  date: 2003-12-19 14:08
+  poster: Wals
+  email: alexerek@mail.ru
+  subject: Scott Henderson 'Dog Party'
+  deleted: false
+  text: 'На сборнике встретил такую музыку- Scott Henderson ''Dog Party'' .
+
+
+    Кто это такой, первый раз слышу!? Играет - мама не горюй! :) Правда видимо большой
+    любитель СРВ. :))))
+
+
+    Кто это?'
+  replies:
+  - id: 16355
+    parent_id: 16354
+    date: 2003-12-19 14:43
+    poster: Rugged
+    email: kirill@hillbilly.ru
+    subject: Ну как же!
+    deleted: false
+    text: Скотина Хендерсон :) - это же очень известный гитарист в стиле фьюжн. Оч
+      советую послушать альбом, не помню, как называется (может, местные любители
+      винила и дисков с красивыми обложками подскажут?), где он колтрейновскую Giant
+      Steps переигрывает - вот это вещь! Еще у него есть весьма интересная гитарная
+      видеошкола, стоит посмотреть. А что до СРВ, то от СРВ у него только некоторые
+      блюзовые фишки, а если внимательно послушать, то можно услышать неслабое влияние
+      ладовой музыки и Алана Холдсворта.
+    replies:
+    - id: 16356
+      parent_id: 16355
+      date: 2003-12-19 15:11
+      poster: Wals
+      email: alexerek@mail.ru
+      subject: Ага! А где почитать про него на Русском? :)  (-)
+      deleted: false
+      replies:
+      - id: 16360
+        parent_id: 16356
+        date: 2003-12-19 17:09
+        poster: Rugged
+        email: kirill@hillbilly.ru
+        subject: Как вариант - на www.yandex.ru :)))
+        deleted: false
+  - id: 16361
+    parent_id: 16354
+    date: 2003-12-19 17:14
+    poster: Федор Романенко (fedor)
+    email: fedor@blues.ru
+    subject: Scott Henderson
+    deleted: false
+    text: 'Он два раза за пол-года в Форте играл. Заходите почаще на blues.ru. ;)
+      На мой взгляд пластинка не такая яркая и интересная, как концертные выступления.
+      Да и стиль мне не самый интересный, но чувак очень крутой, нечего сказать. Пара
+      текстов есть вот здесь:
+
+      http://www.blues.ru/forte/music.htm
+
+      еще у Леши Аграновского была статья в Итогах о мастер-классе, сейчас найти ссылку
+      быстро не удалось.'
+    replies:
+    - id: 16362
+      parent_id: 16361
+      date: 2003-12-19 17:43
+      poster: Игорь Г.
+      email: sunny_city@mail.ru
+      subject: А у меня была запись того самого мастер-класса
+      deleted: false
+      text: но она осталась на безвременно,а главное подло,в самый неподходящий момент,сдохнувшем
+        винте. Люди!если у кого есть на время электроника от IBM-мовского HDD  IC25N010
+        ATDA04-0 IBM 4200,то можно попытаться все восстановить.Это было очень интересно
+        и познавательно(это я о мастер-классе).
+      replies:
+      - id: 16365
+        parent_id: 16362
+        date: 2003-12-19 19:15
+        poster: V.Tsubin (VOVAN)
+        email: vts13@hotmail.com
+        subject: интересное интервью
+        deleted: false
+        text: http://www.guitar.ru/interview/henderson/

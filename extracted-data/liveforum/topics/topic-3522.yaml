@@ -1,0 +1,139 @@
+topic_id: 3522
+slug: topic-3522
+title: 'Интересный списочек: The All-TIME 100 Albums от журнала Time'
+first_post: 2006-12-13 21:14
+last_post: 2006-12-16 22:19
+post_count: 13
+posts:
+- id: 29811
+  parent_id: null
+  date: 2006-12-13 21:14
+  poster: Эльдар
+  email: еlicaster мeйлтoчкapy
+  subject: 'Интересный списочек: The All-TIME 100 Albums от журнала Time'
+  deleted: false
+  text: 'Очередной список "100 самых–самых…" музыкальных альбомов в истории человечества.
+    На этот раз от журнала Тайм. Для удобства список разбит по десятилетиям.
+
+    Приятно видеть и Muddy Waters, и Robert Johnson, и многих других хороших товарищей...'
+  replies:
+  - id: 29812
+    parent_id: 29811
+    date: 2006-12-13 21:16
+    poster: Эльдар
+    email: еlicaster мeйлтoчкapy
+    subject: 'Вот ссылка:'
+    deleted: false
+    text: 'А ссылку-то выложить забыл:
+
+      http://www.time.com/time/2006/100albums/'
+  - id: 29814
+    parent_id: 29811
+    date: 2006-12-13 22:20
+    poster: Эльдар
+    email: еlicaster мeйлтoчкapy
+    subject: Что такое Zoso?
+    deleted: false
+    text: 'Led Zeppelin IV (a.k.a. Zoso)
+
+      Что такое Zoso??? В первый раз слышу.'
+    replies:
+    - id: 29815
+      parent_id: 29814
+      date: 2006-12-13 23:19
+      poster: Владимир Русинов (BluesCat)
+      email: volodya@blues.ru
+      subject: это типа никнейм ;)
+      deleted: false
+      text: Вообще это знак Пейджа ... типа у них там у всех были знаки :) не видел
+        чтоли? :)
+      replies:
+      - id: 29822
+        parent_id: 29815
+        date: 2006-12-14 06:48
+        poster: Эльдар
+        email: еlicaster мeйлтoчкapy
+        subject: Понял!
+        deleted: false
+        text: Понял! Да помню, что у них там были каие-то знаки, а вот названия и
+          не знал. К чему они? что означають?
+        replies:
+        - id: 29861
+          parent_id: 29822
+          date: 2006-12-15 13:07
+          poster: Доктор Айболит
+          email: gypsy@mail.ru
+          subject: Эльдар, посмотри на ledzeppelin.ru
+          deleted: false
+          text: 'Там эта галиматья про знаки подробненько так была расписана.
+
+            Означают они заморочки с головой опосля психоделических экспериментов,
+            искать в них иной тайный смысл бесполезно.'
+          replies:
+          - id: 29865
+            parent_id: 29861
+            date: 2006-12-15 16:21
+            poster: Владимир Русинов (BluesCat)
+            email: volodya@blues.ru
+            subject: заморочки с головой
+            deleted: false
+            text: после психотропа - это как раз офигеть какой серъезный смысл ;)
+            replies:
+            - id: 29899
+              parent_id: 29865
+              date: 2006-12-16 16:15
+              poster: Доктор Айболит
+              email: gypsy@mail.ru
+              subject: Ууууу... вычислить путь звезды.. и развести сады...
+              deleted: false
+              text: "Володя, а ты то сам откуда знаешь? \nВроде юноша из приличной\
+                \ семьи, не куришь даже...\nНеужто в книжках прочитал?"
+              replies:
+              - id: 29919
+                parent_id: 29899
+                date: 2006-12-16 20:09
+                poster: Владимир Русинов (BluesCat)
+                email: volodya@blues.ru
+                subject: ээээээээээ
+                deleted: false
+              - id: 29920
+                parent_id: 29899
+                date: 2006-12-16 20:25
+                poster: Владимир Русинов (BluesCat)
+                email: volodya@blues.ru
+                subject: берешь меня на слабо чтоб  я спалился?
+                deleted: false
+                text: или же типа слобаком выступил... нииизкая у тя натура Дохтор
+                  Нихболит :)
+                replies:
+                - id: 29925
+                  parent_id: 29920
+                  date: 2006-12-16 22:11
+                  poster: Доктор Айболит
+                  email: gypsy@mail.ru
+                  subject: Просто интересуюсь )))
+                  deleted: false
+                  text: 'Ай ай такой маладой а такой савсем бальной!
+
+
+                    Почему слабаком? Я честно всем говорю что психотропы в жизни не
+                    пробовал и пробовать не собираюсь, я что от этого низко паду в
+                    общественном мнении как слабаг которому собственные мозги жалко
+                    испортить? ))'
+                  replies:
+                  - id: 29927
+                    parent_id: 29925
+                    date: 2006-12-16 22:17
+                    poster: Владимир Русинов (BluesCat)
+                    email: volodya@blues.ru
+                    subject: мозги они такие... от чего они только не портятся....
+                      :)))))))
+                    deleted: false
+                    replies:
+                    - id: 29928
+                      parent_id: 29927
+                      date: 2006-12-16 22:19
+                      poster: Старый Майор
+                      email: gypsy@mail.ru
+                      subject: Да-да, от возраста в первую очередь!
+                      deleted: false

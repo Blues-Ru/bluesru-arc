@@ -1,0 +1,58 @@
+topic_id: 608
+slug: topic-608
+title: Нина Симон в Москве?
+first_post: 2003-02-05 12:09
+last_post: 2003-02-09 17:06
+post_count: 5
+posts:
+- id: 10437
+  parent_id: null
+  date: 2003-02-05 12:09
+  poster: Леонид Кутсар (Leo)
+  email: kutsar@mail.ru
+  subject: Нина Симон в Москве?
+  deleted: false
+  text: Может кто знает? Говорят, что приезжает. Я лично афиш в городе не видел. А
+    хотелось бы знать. Может кто ссылкой кинет?
+  replies:
+  - id: 10447
+    parent_id: 10437
+    date: 2003-02-06 01:45
+    poster: Жук
+    email: psihu@pisem.net
+    subject: O, Господи!..
+    deleted: false
+    text: 'Вот любимого гитариста, певца, писателя, режиссера, художника нет, а вот
+      любимая певица есть.
+
+      В Москве?'
+    replies:
+    - id: 10470
+      parent_id: 10447
+      date: 2003-02-08 12:35
+      poster: Леонид Кутсар (Leo)
+      email: kutsar@mail.ru
+      subject: бляхамуха!
+      deleted: false
+      text: 'Меня круто дезинформировали((((
+
+        Я обыскал в и-нете все, что можно, но подтверждения данной инфы не нашел.
+        Прошу прощения, если ввел в заблуждение.'
+  - id: 10479
+    parent_id: 10437
+    date: 2003-02-09 16:58
+    poster: А...Меринов
+    email: notdrink@ntl.ru
+    subject: Нина Симоне в Москве???
+    deleted: false
+    text: Откуда информация???? Это ж вааще...............это ж выпивать брошу,но
+      пойду...........
+    replies:
+    - id: 10480
+      parent_id: 10479
+      date: 2003-02-09 17:06
+      poster: Дима Казанцев (Казан)
+      email: dr.nick@blues.ru
+      subject: В журналах
+      deleted: false
+      text: тоже об этом пишут.

@@ -1,0 +1,51 @@
+topic_id: 2321
+slug: topic-2321
+title: Ищу интересных людей
+first_post: 2004-11-21 16:43
+last_post: 2004-11-23 00:56
+post_count: 5
+posts:
+- id: 19829
+  parent_id: null
+  date: 2004-11-21 16:43
+  poster: Ann
+  email: Zoso-7-Zoso
+  subject: Ищу интересных людей
+  deleted: false
+  text: Фены настоящей музыки(в частности Рори Галахера) ОТЗОВОТЕСЬ!!!!!!!!!!
+  replies:
+  - id: 19830
+    parent_id: 19829
+    date: 2004-11-22 06:52
+    poster: Nick Goodcorn
+    email: sunburn2001@mail.ru
+    subject: YEP,i am!)))
+    deleted: false
+    replies:
+    - id: 19836
+      parent_id: 19830
+      date: 2004-11-23 00:56
+      poster: Аnn&Mary  (Rory)
+      email: Zoso-7-Zoso@yandex.ru
+      subject: обойдемся без нее
+      deleted: false
+      text: Ну,чтож Nick давай знакомиться?
+  - id: 19832
+    parent_id: 19829
+    date: 2004-11-22 18:58
+    poster: Лера Браун
+    email: okamastro@mail.ru
+    subject: Рори тоже
+    deleted: false
+    text: Моя нежная привязанность к творчеству Рори велика. Была как-то у меня  даже
+      одна передача о нем на местном радио. Информации имею не так много, а музыка
+      вся, пожалуй, и txts тоже. Дык и сайт есть у него фанатский. Об остальных -
+      приватно.
+  - id: 19835
+    parent_id: 19829
+    date: 2004-11-22 22:27
+    poster: Старый Торговец Колониальными Товарами
+    email: gypsy@mail.ru
+    subject: Фены Мулинекс, Браун и Ровента - для любителей настоящей музыки!
+    deleted: false
+    text: Все фены - с движущимися пальчиками! Оптовым покупателям - скидки!

@@ -1,0 +1,74 @@
+body {
+  padding: 0px;
+  margin: 0px;
+  background: #2d4f89 url(left.jpg) no-repeat;
+}
+body, td, select, input, li {
+  font-family: Verdana, Helvetica, Arial, sans-serif;
+  font-size: 14px;
+}
+
+p {
+ 
+ text-align: justify;
+
+}
+
+a {
+  text-decoration: underline;
+}
+a:link {
+  color:black;
+}
+a:visited  {
+  color:black;
+}
+a:active, a:hover {
+  color: #6B8CB7;
+}
+
+
+h1
+{
+  font-family: Verdana, Helvetica, Arial, sans-serif;
+  font-size: 20px;
+  padding: 5px;
+	
+}
+
+h2
+{
+  font-family: Verdana, Helvetica, Arial, sans-serif;
+  font-size: 11px;
+  padding: 3px;
+	
+}
+
+h3
+{
+	margin: 0px;
+	padding: 5px;
+        font-family: Verdana, Helvetica, Arial, sans-serif;
+        font-size: 11px;
+
+}
+
+hr {
+	width: 600px;
+	margin: 20px;
+}
+
+ul
+{
+	margin: 0px;
+	padding-left: 20px;
+}
+
+
+#main {
+	padding-left: 130px;
+}
+
+img {
+	border: 1px solid black;
+}

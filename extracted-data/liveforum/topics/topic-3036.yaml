@@ -1,0 +1,36 @@
+topic_id: 3036
+slug: topic-3036
+title: Много видео
+first_post: 2006-01-09 17:59
+last_post: 2006-01-20 19:39
+post_count: 3
+posts:
+- id: 25368
+  parent_id: null
+  date: 2006-01-09 17:59
+  poster: LeBlues
+  email: bigphatband@mail.ru
+  subject: Много видео
+  deleted: false
+  text: 'Ребят подскажите или напишите мне на EMail откудо можно скачать многог Блюз-Джаз
+    видео!Интэрнет у меня очень быстрый,но уже почти год ни одного нормального сайта
+    не могу найти!
+
+    Буду очень рад если поможете!'
+  replies:
+  - id: 25369
+    parent_id: 25368
+    date: 2006-01-09 18:51
+    poster: J.D
+    email: nomail@blues.ru
+    subject: www.edonkey.org
+    deleted: false
+    replies:
+    - id: 25513
+      parent_id: 25369
+      date: 2006-01-20 19:39
+      poster: LeBlues
+      email: bigphatband@mail.ru
+      subject: Spasibo!
+      deleted: false
+      text: Спасибо!

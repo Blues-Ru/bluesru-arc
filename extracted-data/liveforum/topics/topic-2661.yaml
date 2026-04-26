@@ -1,0 +1,67 @@
+topic_id: 2661
+slug: topic-2661
+title: Блюз в Крылатском. Билеты VIP заканчиваются
+first_post: 2005-07-22 15:13
+last_post: 2005-07-26 15:11
+post_count: 7
+posts:
+- id: 22051
+  parent_id: null
+  date: 2005-07-22 15:13
+  poster: Axle
+  email: axledog@mail.ru
+  subject: Блюз в Крылатском. Билеты VIP заканчиваются
+  deleted: false
+  text: Желающим удобно сидеть и вежливо обслуживаться на фестивале рекомендую не
+    откладывать покупку билетов. Они (билеты) продаются только в Би Би Кинге.
+  replies:
+  - id: 22052
+    parent_id: 22051
+    date: 2005-07-22 16:50
+    poster: Дмитрий Казанцев (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: ну ты мне-то оставь дюжину :)
+    deleted: false
+    text: '-'
+    replies:
+    - id: 22053
+      parent_id: 22052
+      date: 2005-07-22 18:24
+      poster: Axle
+      email: axledog@mail.ru
+      subject: само собой
+      deleted: false
+  - id: 22072
+    parent_id: 22051
+    date: 2005-07-25 14:05
+    poster: Петр Кунарев (Eastwood2002)
+    email: cousins@yandex.ru
+    subject: VIP - это которые по 450?
+    deleted: false
+    text: А те что с флаером по 250 в БиБи - это не вип, обычные?
+    replies:
+    - id: 22076
+      parent_id: 22072
+      date: 2005-07-25 18:21
+      poster: Axle
+      email: axledog@mail.ru
+      subject: с флайером только входные
+      deleted: false
+      replies:
+      - id: 22080
+        parent_id: 22076
+        date: 2005-07-26 12:47
+        poster: Петр Кунарев (Eastwood2002)
+        email: cousins@yandex.ru
+        subject: То есть
+        deleted: false
+        text: Можно будет распечатать флаер и 31-го пройти за 250 р., не заезжая за
+          билетом в БиБиКинг??
+        replies:
+        - id: 22083
+          parent_id: 22080
+          date: 2005-07-26 15:11
+          poster: Axle
+          email: axledog@mail.ru
+          subject: Билеты по флайеру продаются только в Би Би Кинге
+          deleted: false

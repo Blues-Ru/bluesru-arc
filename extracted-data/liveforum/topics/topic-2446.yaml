@@ -1,0 +1,47 @@
+topic_id: 2446
+slug: topic-2446
+title: А может кто знает, есть ли какие-концерты сегодня, не указанные в сетке?
+first_post: 2005-02-22 15:15
+last_post: 2005-02-22 19:34
+post_count: 4
+posts:
+- id: 20564
+  parent_id: null
+  date: 2005-02-22 15:15
+  poster: Cowboy Pete
+  email: cousins@yandex.ru
+  subject: А может кто знает, есть ли какие-концерты сегодня, не указанные в сетке?
+  deleted: false
+  text: 'Ну, музыка, понятно, какой направленности интерес ует :-))
+
+
+    Если кто откликнетсмя, подскажите название клуба и адрес, либо сслочку, плз. Буду
+    благодарен.'
+  replies:
+  - id: 20565
+    parent_id: 20564
+    date: 2005-02-22 15:35
+    poster: Федор Романенко (fedor)
+    email: fedor@blues.ru
+    subject: Вторники
+    deleted: false
+    text: Во вторник обычно мало концертов. Однако, на Света или на Мишуриса можно
+      вполне сходить с большим удовольствием ;)
+  - id: 20566
+    parent_id: 20564
+    date: 2005-02-22 15:42
+    poster: (Grem)
+    email: grems@yandex.ru
+    subject: А можно завтра...
+    deleted: false
+    text: 'А можно завтра все в одном фла..., пардон т.е Доме...
+
+      23.02.05 "Дом у дороги" Свет + Мишурис.'
+  - id: 20569
+    parent_id: 20564
+    date: 2005-02-22 19:34
+    poster: Игорь Г
+    email: sunny_city@mail.ru
+    subject: Real McCoy
+    deleted: false
+    text: День рожденья Лекскон оркестра. Свинг.Чума полная!!! 20.00

@@ -1,0 +1,23 @@
+topic_id: 4006
+slug: topic-4006
+title: west  side blues
+first_post: 2008-05-12 06:13
+last_post: 2008-05-12 10:33
+post_count: 2
+posts:
+- id: 35383
+  parent_id: null
+  date: 2008-05-12 06:13
+  poster: Jumpin' Jack Flash
+  email: bgnvbjh
+  subject: west  side blues
+  deleted: false
+  text: классно написано. еще раз понял как я эту музыку люблю.спасибо
+  replies:
+  - id: 35384
+    parent_id: 35383
+    date: 2008-05-12 10:33
+    poster: Konstantin  (Wheel)
+    email: wheel.k@gmail.com
+    subject: Спасибо, что читаете!
+    deleted: false

@@ -1,0 +1,15 @@
+---
+topic_id: 3857
+slug: topic-3857
+title: Чилл Аут из Питера
+post_count: 1
+first_post: 2008-01-07 20:43
+last_post: 2008-01-07 20:43
+---
+
+## Чилл Аут из Питера
+**From:** Axle  **Date:** 2008-01-07 20:43  **Post:** #34253
+
+<object width="425" height="355"><param name="movie" value="http://www.youtube.com/v/o0qdCvA_vWA&rel=1"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/o0qdCvA_vWA&rel=1" type="application/x-shockwave-flash" wmode="transparent" width="425" height="355"></embed></object>
+
+---

@@ -1,0 +1,61 @@
+topic_id: 3271
+slug: topic-3271
+title: интересная тенденция :)
+first_post: 2006-05-26 14:16
+last_post: 2006-05-27 00:13
+post_count: 6
+posts:
+- id: 27492
+  parent_id: null
+  date: 2006-05-26 14:16
+  poster: Владимир Русинов (BluesCat)
+  email: volodya@blues.ru
+  subject: интересная тенденция :)
+  deleted: false
+  text: наш блюз стал очень активно выступать сборными солянками... это я вот главную
+    посмотрел и задумался....
+  replies:
+  - id: 27493
+    parent_id: 27492
+    date: 2006-05-26 15:23
+    poster: Ded Morozzz
+    email: morozzz_ded@mail.ru
+    subject: Это чтоб мало не показалось! :)
+    deleted: false
+  - id: 27494
+    parent_id: 27492
+    date: 2006-05-26 15:27
+    poster: Федор Романенко (fedor)
+    email: fedor@blues.ru
+    subject: Это потому...
+    deleted: false
+    text: '..., наверное, что неискушенному слушателю идея пойти на концерт какой-то
+      одной блюзовой группы кажется слишком банальной, не настолько он блюз любит.
+      Вот фестиваль - другое дело...'
+  - id: 27495
+    parent_id: 27492
+    date: 2006-05-26 16:31
+    poster: Алексей Аграновский (Док)
+    email: aaa@genebee.msu.su
+    subject: 'Вариант ответа:'
+    deleted: false
+    text: Не настолько он, неискушенный, любит блюз в исполнении какой-то одной блюзовой
+      группы.
+  - id: 27496
+    parent_id: 27492
+    date: 2006-05-26 19:58
+    poster: Ded Morozzz
+    email: morozzz_ded@mail.ru
+    subject: По-моему все несколько проще
+    deleted: false
+    text: И дело как мне кажется не в слушателе, а скорее в подходе самих музыкантов
+      к слушателю :) но это имхо со стороны :)
+    replies:
+    - id: 27497
+      parent_id: 27496
+      date: 2006-05-27 00:13
+      poster: Федор Романенко (fedor)
+      email: fedor@blues.ru
+      subject: Какие все политкорректные ;)
+      deleted: false
+      text: Я, прям, не могу...

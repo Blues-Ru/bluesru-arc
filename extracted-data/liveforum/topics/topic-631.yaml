@@ -1,0 +1,114 @@
+topic_id: 631
+slug: topic-631
+title: как называется галстук
+first_post: 2003-02-20 21:29
+last_post: 2003-02-28 23:54
+post_count: 10
+posts:
+- id: 10607
+  parent_id: null
+  date: 2003-02-20 21:29
+  poster: Paul
+  email: pural@mail.ru
+  subject: как называется галстук
+  deleted: false
+  text: Как называется галстук состоящий из верёвки и зажима?
+  replies:
+  - id: 10608
+    parent_id: 10607
+    date: 2003-02-21 01:00
+    poster: Дима Казанцев (Казан)
+    email: dr.nick@blues.ru
+    subject: Галстук-шнурок ;)
+    deleted: false
+    replies:
+    - id: 10609
+      parent_id: 10608
+      date: 2003-02-21 02:32
+      poster: Дима Казанцев (Казан)
+      email: dr.nick@blues.ru
+      subject: Или neck-tie :)
+      deleted: false
+      replies:
+      - id: 10628
+        parent_id: 10609
+        date: 2003-02-24 01:48
+        poster: Greta
+        email: morehemp@mail.ru
+        subject: а может,
+        deleted: false
+        text: "\"боло\"? :)\n Сам галстук может быть сделан из плетенного кожаного\
+          \ или матерчатого шнурка и соединен пряжкой. Ее разновидности имеют сотни\
+          \ вариантов инкрустаций в виде лошадей, шляп, птиц или просто зигзагов,\
+          \ в точности повторяющих рисунок банданы. Происхождение боло скорее всего\
+          \ связано с шнурком, на концах которого располагались два груза для того,\
+          \ чтобы можно было, бросив его, поймать страуса. Впрочем, остается неясным,\
+          \ по какой именно причине боло вдруг перебралось со страусиных ног на ковбойскую\
+          \ шею. \nhttp://westerns.agava.ru/cgi-bin/go.cgi?dir=lib&subject=pressa&parent=index&topic=mus_style"
+        replies:
+        - id: 10681
+          parent_id: 10628
+          date: 2003-02-27 17:12
+          poster: Старый Майор
+          email: gypsy@mail.ru
+          subject: Грета, в истории много случаев, когда разнообразные верёвки перебирались
+            на ковбойские шеи :))
+          deleted: false
+        - id: 10683
+          parent_id: 10628
+          date: 2003-02-27 17:28
+          poster: Алексей Аграновский (Док)
+          email: aaa@genebee.msu.su
+          subject: 'Страусы, ноги, ковбои и шеи: напоминает анекдот'
+          deleted: false
+          text: '- Доченька, а що у тебе все ноженьки поранены, обо що ж ты так ноженьки
+            свои белые поранила?
+
+            - Об звездочки, мамо.
+
+            - Доню, та звездочки они ж высоко на небе.
+
+            - Мамо, звездочки не только на небе бывают, на погонах тоже.'
+          replies:
+          - id: 10714
+            parent_id: 10683
+            date: 2003-02-28 17:54
+            poster: Старый Майор
+            email: gypsy@mail.ru
+            subject: Это прапорщицкие звёздочки!
+            deleted: false
+            text: Мы, офицеры, завсегда погоны сымаем во время ЭТОГО!
+          - id: 10720
+            parent_id: 10683
+            date: 2003-02-28 23:50
+            poster: Greta
+            email: morehemp@mail.ru
+            subject: Странные,
+            deleted: false
+            text: Алексей, ассоциации Вам навевают ноги страуса. Ваш анекдот, в свою
+              очередь, отчего-то ассоциируется с тем, как некоторые декларируют, будто
+              бы между контрабасом и свистком нет разницы. :D
+  - id: 10710
+    parent_id: 10607
+    date: 2003-02-28 14:07
+    poster: Rugged
+    email: prasaleff@barbershop.ru
+    subject: Bolo tie
+    deleted: false
+    text: 'Greta
+
+
+      Ага, точно, (western) bolo tie.
+
+
+      А есть еще такая клевая штука - western bow tie, это бабочка с ленточками. Все
+      хочу раздобыть такой на eBay, но никак не соберусь :))'
+    replies:
+    - id: 10721
+      parent_id: 10710
+      date: 2003-02-28 23:54
+      poster: Greta
+      email: morehemp@mail.ru
+      subject: А что,
+      deleted: false
+      text: Кирилл, с barbershop'om, в Москве ничего более не происходит? :)

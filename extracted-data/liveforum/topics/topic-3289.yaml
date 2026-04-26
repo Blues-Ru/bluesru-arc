@@ -1,0 +1,70 @@
+topic_id: 3289
+slug: topic-3289
+title: Ал-Каиданын
+first_post: 2006-06-08 22:23
+last_post: 2006-06-10 04:25
+post_count: 7
+posts:
+- id: 27656
+  parent_id: null
+  date: 2006-06-08 22:23
+  poster: Ал-Каиданын
+  email: hdtfhed@cashette.com
+  subject: Ал-Каиданын
+  deleted: false
+  text: "Британиянын премьер-министри Тони Блейар ал-Заркави Ирактагы козголо?дун\
+    \ кыймылдаткан к?ч? болуп келгенин айтып анын ?л?м? жакшы кабар экенин, \nбирок\
+    \ Ирактагы зомбулуктар аны менен токтоп калбасын эскертти."
+  replies:
+  - id: 27657
+    parent_id: 27656
+    date: 2006-06-08 23:37
+    poster: Andrei V. Evdokimov (evdokimov)
+    email: evdokimov@blues.ru
+    subject: чур меня!
+    deleted: false
+  - id: 27661
+    parent_id: 27656
+    date: 2006-06-09 13:25
+    poster: Старый Майор
+    email: gypsy@mail.ru
+    subject: Барбамбия кергуду!
+    deleted: false
+    text: Фёдор, закрывай форум срочно! Кергуды теперь не дадут покою!
+  - id: 27666
+    parent_id: 27656
+    date: 2006-06-09 22:17
+    poster: Tweeter
+    email: gregkhvor@tochka.ru
+    subject: Ахмадия блюз
+    deleted: false
+    text: Вот это блюз, вот  это шаффл, вот это - жизнь!!! Слышал похожее в баре отеля
+      Hilton в Каире. Это - кайф ощущения прорастания жизни сквозь песок
+  - id: 27667
+    parent_id: 27656
+    date: 2006-06-10 00:19
+    poster: Эльдар Музафаров
+    email: elicaster co6@kaмейл-d0t ru
+    subject: запрет на посты с е-мейлом @cashette.com
+    deleted: false
+    text: 'А нельзя ли установить запрет на посты с е-мейлом @cashette.com ?
+
+      Как я заметил, весь этот спас здесь, как бы, от е-мейлов на cashette.com
+
+      Может поможет? временно...'
+  - id: 27668
+    parent_id: 27656
+    date: 2006-06-10 00:43
+    poster: Руслан Чифуров ()
+    email: chifuroff<sobaka>inbox.ru
+    subject: Нужно вводить принудительную регистрацию  на форуме!
+    deleted: false
+    replies:
+    - id: 27670
+      parent_id: 27668
+      date: 2006-06-10 04:25
+      poster: Dmitri Kazantsev (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: да давно пора уже
+      deleted: false
+      text: и чтоб фотки были, и вообще другой формат :)

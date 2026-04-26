@@ -1,0 +1,72 @@
+topic_id: 3680
+slug: topic-3680
+title: Джентельмены, ищу вокальную партитуру песни
+first_post: 2007-07-11 10:09
+last_post: 2007-07-13 03:32
+post_count: 7
+posts:
+- id: 33169
+  parent_id: null
+  date: 2007-07-11 10:09
+  poster: Павел Лаврентьев
+  email: kapitan@newmail.ru
+  subject: Джентельмены, ищу вокальную партитуру песни
+  deleted: false
+  text: Джентельмены, в известном фильме Crossroads, перед гитарной дуэлью, несколько
+    афроамериканских мачо поют песню Somebody calling my name. Я ищу нотную запись
+    этого шедевра, если у кого нибудь есть поделитесь пожалуйста.
+  replies:
+  - id: 33170
+    parent_id: 33169
+    date: 2007-07-11 12:53
+    poster: Большие Уши
+    email: gypsy@mail.ru
+    subject: Нотная запись вряд ли существует, но...
+    deleted: false
+    text: ..рекомендую поймать любого голодного студента муз.училища и попросить его
+      записать со слуха эти ноты за небольшие деньги.
+  - id: 33174
+    parent_id: 33169
+    date: 2007-07-12 17:59
+    poster: Эльдар
+    email: еlica@mail.com
+    subject: Somebody's Callin' My Name
+    deleted: false
+    text: и кажись то были Nevile Brothers...
+    replies:
+    - id: 33175
+      parent_id: 33174
+      date: 2007-07-12 18:24
+      poster: Dmitri Kazantsev (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: Neville Brothers???
+      deleted: false
+      text: я бы их узнал :)
+      replies:
+      - id: 33176
+        parent_id: 33175
+        date: 2007-07-12 19:13
+        poster: Старый Майор
+        email: gypsy@mail.ru
+        subject: Набежали флудеры.. человеку ноты надо, а вы их все равно не знаете...
+        deleted: false
+        replies:
+        - id: 33177
+          parent_id: 33176
+          date: 2007-07-12 20:04
+          poster: Dmitri Kazantsev (Dr. Nick)
+          email: dr.nick@blues.ru
+          subject: а поющие в том фильме
+          deleted: false
+          text: 'их тоже не знают
+
+
+            зачем их знать, если и так поётся?'
+          replies:
+          - id: 33178
+            parent_id: 33177
+            date: 2007-07-13 03:32
+            poster: Старый Майор
+            email: gypsy@mail.ru
+            subject: А может оне на фисгармонии исполнять хочуть...
+            deleted: false

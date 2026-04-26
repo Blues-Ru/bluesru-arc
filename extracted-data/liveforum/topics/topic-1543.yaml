@@ -1,0 +1,26 @@
+topic_id: 1543
+slug: topic-1543
+title: Подскажте.....
+first_post: 2003-10-31 20:54
+last_post: 2003-11-03 00:53
+post_count: 2
+posts:
+- id: 15338
+  parent_id: null
+  date: 2003-10-31 20:54
+  poster: Bluesman
+  email: hooker2@rambler.ru
+  subject: Подскажте.....
+  deleted: false
+  text: 'Уважаемые посетители сайта.
+
+    Кто знает когда появится последний альбом Хукера в нашей стране?'
+  replies:
+  - id: 15377
+    parent_id: 15338
+    date: 2003-11-03 00:53
+    poster: Михаил Бирюков (nECKAPb)
+    email: blackcat@blues.ru
+    subject: да ведь...
+    deleted: false
+    text: '... через Интернет можно заказать уже сейчас...'

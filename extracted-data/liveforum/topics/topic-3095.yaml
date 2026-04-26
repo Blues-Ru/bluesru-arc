@@ -1,0 +1,36 @@
+topic_id: 3095
+slug: topic-3095
+title: Еще один концерт James Wheeler сегодня, в субботу
+first_post: 2006-02-11 16:18
+last_post: 2006-02-13 12:50
+post_count: 3
+posts:
+- id: 25977
+  parent_id: null
+  date: 2006-02-11 16:18
+  poster: Алексей Аграновский (Док)
+  email: aaa@genebee.msu.su
+  subject: Еще один концерт James Wheeler сегодня, в субботу
+  deleted: false
+  text: "11 февраля, в 21:00 - JAZZ TOWN (м.Таганская). \nВход 300 рублей.\nАккомпанируют\
+    \ Омар & The Kingsize. \nКто не успел послушать, милости просим."
+  replies:
+  - id: 25989
+    parent_id: 25977
+    date: 2006-02-11 23:59
+    poster: Владимир Русинов (BluesCat)
+    email: volodya@blues.ru
+    subject: Именно настоящий блюзмен. Что и говорить.
+    deleted: false
+    text: "И Омар с бывшими докторами ;) просто супер молодцы. \n\nПравда мне показалось\
+      \ что Вилер переодически выпадал из настроения.. както бросал и был не с нами\
+      \ :) Но он именно играет что чуствует.. искренне.. настоящий блюз :) клево."
+    replies:
+    - id: 26050
+      parent_id: 25989
+      date: 2006-02-13 12:50
+      poster: Алексей Аграновский (Док)
+      email: aaa@genebee.msu.su
+      subject: Спасибо, приятно это слышать
+      deleted: false
+      text: Мне очень понравился последний концерт.

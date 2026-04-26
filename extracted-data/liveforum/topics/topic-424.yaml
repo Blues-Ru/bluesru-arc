@@ -1,0 +1,39 @@
+topic_id: 424
+slug: topic-424
+title: Валерий Белинов
+first_post: 2002-10-23 10:18
+last_post: 2002-10-24 11:12
+post_count: 3
+posts:
+- id: 8470
+  parent_id: null
+  date: 2002-10-23 10:18
+  poster: Александр
+  email: rambow@mail.ru
+  subject: Валерий Белинов
+  deleted: false
+  text: Кто-нибудь знает, как у него дела.
+  replies:
+  - id: 8475
+    parent_id: 8470
+    date: 2002-10-24 01:05
+    poster: vr  (Stone Crazy)
+    email: volodya@blues.ru
+    subject: есть кого спросить - спрошу.
+    deleted: false
+    replies:
+    - id: 8477
+      parent_id: 8475
+      date: 2002-10-24 11:12
+      poster: Александр
+      email: rambow@mail.ru
+      subject: Валерий Белинов
+      deleted: false
+      text: 'О - Володя :))
+
+        Как дела, а то я фидо раз в месяц примерно забираю, чего с выступлениями?
+
+        Белинов - это..., писать не хочется. Такой человек уехал.
+
+        Я в субботу в ЛДМ слушал как его басист - Иван Ковалёв на гитаре играет, здорово
+        очень было.'

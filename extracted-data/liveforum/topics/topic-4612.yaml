@@ -1,0 +1,38 @@
+topic_id: 4612
+slug: topic-4612
+title: '"Новая газета" 16 мая: "Возвращение звезды"'
+first_post: 2011-05-16 15:36
+last_post: 2011-05-20 12:10
+post_count: 4
+posts:
+- id: 37714
+  parent_id: null
+  date: 2011-05-16 15:36
+  poster: Theodor
+  subject: '"Новая газета" 16 мая: "Возвращение звезды"'
+  deleted: false
+  text: http://www.novayagazeta.ru/data/2011/051/34.html
+  replies:
+  - id: 37715
+    parent_id: 37714
+    date: 2011-05-16 19:38
+    poster: Dmitri Kazantsev
+    subject: ну наконец!
+    deleted: false
+    text: ждём давно!
+  - id: 37724
+    parent_id: 37714
+    date: 2011-05-17 10:28
+    poster: grem
+    subject: ура!
+    deleted: false
+    text: Оксане удачи и мощных гигов, она это может.
+    replies:
+    - id: 37732
+      parent_id: 37724
+      date: 2011-05-20 12:10
+      poster: Алексей Аграновский
+      subject: Хорошо
+      deleted: false
+      text: Хорошо написал Алексей Поликовский. Образец страстной и доброй журналистики,
+        каких уж не встретишь. А Оксана - феномен, слов нет.

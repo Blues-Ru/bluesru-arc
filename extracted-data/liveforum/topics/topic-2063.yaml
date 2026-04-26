@@ -1,0 +1,49 @@
+topic_id: 2063
+slug: topic-2063
+title: Предлагаю послушать хороший акустический блюзик...
+first_post: 2004-04-27 17:22
+last_post: 2004-04-27 21:12
+post_count: 4
+posts:
+- id: 18168
+  parent_id: null
+  date: 2004-04-27 17:22
+  poster: Старый Майор
+  email: gypsy@mail.ru
+  subject: Предлагаю послушать хороший акустический блюзик...
+  deleted: false
+  text: 'по этой ссылочке коротенькой: http://gypsy.bluesman.ru/Allman%20Brothers%20%26%20Dickey%20Betts/Dickey%20Betts%20%26%20Great%20Southern%20-%20Willy%20And%20Po''%20Bob.mp3'
+  replies:
+  - id: 18185
+    parent_id: 18168
+    date: 2004-04-27 19:12
+    poster: Elicaster
+    email: elicaster@mmmmmmmmmmmail.ru
+    subject: 'Dickey Betts & Great Southern - Willy And Po'' Bob: pазмер mp3 файла
+      5179 Kb'
+    deleted: false
+    text: 'Allman Brothers & Dickey Betts/Dickey Betts & Great Southern - Willy And
+      Po'' Bob
+
+      Инфа для тех кто собирается скачать файл: размерчик не махонький: при моей скорости
+      быду качать более получаса:-('
+    replies:
+    - id: 18188
+      parent_id: 18185
+      date: 2004-04-27 19:38
+      poster: Старый Майор
+      email: gypsy@mail.ru
+      subject: Ну чем богаты, тем и рады..
+      deleted: false
+      text: у меня есть ещё In Memory Of Elizabeth Reed почти тех же авторов  на 12
+        мегов, 10 минут звука.. а что делать, они хорошо кушали и от этого выросли..
+  - id: 18219
+    parent_id: 18168
+    date: 2004-04-27 21:12
+    poster: Elicaster
+    email: elicaster@mmmmmmmmmmmail.ru
+    subject: хочу кушать...
+    deleted: false
+    text: '... так же как и они :-)
+
+      P.S. И вообще, приятного всем аппетита.'

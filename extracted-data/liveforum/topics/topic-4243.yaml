@@ -1,0 +1,52 @@
+topic_id: 4243
+slug: topic-4243
+title: Аслан и Арсен Шомаховы зажигают
+first_post: 2009-06-10 19:17
+last_post: 2009-06-15 03:09
+post_count: 5
+posts:
+- id: 36377
+  parent_id: null
+  date: 2009-06-10 19:17
+  poster: Федор Романенко
+  subject: Аслан и Арсен Шомаховы зажигают
+  deleted: false
+  text: 'Аслан и Арсен джемуют в своей Канаде на тему Meters "Look-Ka Py Py"
+
+
+    <object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/bwHtzByR6SA&hl=en&fs=1&"></param><param
+    name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed
+    src="http://www.youtube.com/v/bwHtzByR6SA&hl=en&fs=1&" type="application/x-shockwave-flash"
+    allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>'
+  replies:
+  - id: 36378
+    parent_id: 36377
+    date: 2009-06-10 21:30
+    poster: Михаил Белов
+    subject: Это "Cissy Strut"
+    deleted: false
+    text: 'Фанковый евергрин 69-го года.
+
+      А Аслан жжот! :))))'
+    replies:
+    - id: 36382
+      parent_id: 36378
+      date: 2009-06-11 21:50
+      poster: Старый Майор
+      subject: Тема Cissy раскрыта! Зачот! =)))
+      deleted: false
+      replies:
+      - id: 36384
+        parent_id: 36382
+        date: 2009-06-13 14:21
+        poster: Владимир  Демьянов
+        subject: Супер!!!
+        deleted: false
+        text: Отличная тема!Аслан-король!
+    - id: 36385
+      parent_id: 36378
+      date: 2009-06-15 03:09
+      poster: Федор Романенко
+      subject: Точно!
+      deleted: false
+      text: Я даже понимаю, почему я смешал эти две песни с одной пластинки...

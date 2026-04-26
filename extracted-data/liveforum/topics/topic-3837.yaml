@@ -1,0 +1,88 @@
+topic_id: 3837
+slug: topic-3837
+title: Ожидания в новом году
+first_post: 2007-12-23 18:33
+last_post: 2007-12-29 15:13
+post_count: 8
+posts:
+- id: 34168
+  parent_id: null
+  date: 2007-12-23 18:33
+  poster: Эльдар
+  email: Эльдар
+  subject: Ожидания в новом году
+  deleted: false
+  text: Интересно, а будут ли в новом году новые композиции "Yandex On My Mind" и
+    "True Fine Тёща"?
+  replies:
+  - id: 34172
+    parent_id: 34168
+    date: 2007-12-24 02:20
+    poster: Таврический
+    email: пирорьо
+    subject: обещает
+    deleted: false
+    text: 'Can''t See Nothing Out My Windows
+
+      Low Down Moscow Blues
+
+      No More Теща'
+    replies:
+    - id: 34173
+      parent_id: 34172
+      date: 2007-12-24 09:11
+      poster: Эльдар
+      email: Эльдар
+      subject: Look Out My Windows Vista
+      deleted: false
+      text: 'так, наверное, было бы более точно:
+
+        Can''t See Nothing Out My Windows Vista
+
+        а смайлики-то, я забыл поставить :-)
+
+        :)))))))))))'
+      replies:
+      - id: 34210
+        parent_id: 34173
+        date: 2007-12-27 17:09
+        poster: Старый Майор
+        email: gypsy@mail.ru
+        subject: Rambler on my mind...
+        deleted: false
+        replies:
+        - id: 34211
+          parent_id: 34210
+          date: 2007-12-27 21:31
+          poster: Эльдар
+          email: Эльдар
+          subject: НЕТ ТАКОЙ ПЕСТНИ!
+          deleted: false
+          text: 'и не было НИКАГДА!
+
+            в отличии от Google on my mind.'
+          replies:
+          - id: 34212
+            parent_id: 34211
+            date: 2007-12-28 05:37
+            poster: Dmitri Kazantsev (Dr. Nick)
+            email: dr.nick@blues.ru
+            subject: Yandex Comes My Baby
+            deleted: false
+  - id: 34183
+    parent_id: 34168
+    date: 2007-12-25 04:47
+    poster: Таврический
+    email: илоирлот
+    subject: ))))
+    deleted: false
+    text: насчет Висты  не так важно. Важно, на что эти окна выходят вообще.Теща не
+      тревожит,я так понимаю?))
+  - id: 34218
+    parent_id: 34168
+    date: 2007-12-29 15:13
+    poster: Владимир Русинов (BluesCat)
+    email: volodya@blues.ru
+    subject: будет кантри хит
+    deleted: false
+    text: With The Puting Again

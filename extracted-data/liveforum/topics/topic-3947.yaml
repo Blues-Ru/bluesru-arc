@@ -1,0 +1,39 @@
+topic_id: 3947
+slug: topic-3947
+title: 'новости: Чак Берри в Москве'
+first_post: 2008-03-18 13:47
+last_post: 2008-03-18 20:03
+post_count: 4
+posts:
+- id: 34970
+  parent_id: null
+  date: 2008-03-18 13:47
+  poster: Jumpin' Jack Flash
+  email: hgjhyg
+  subject: 'новости: Чак Берри в Москве'
+  deleted: false
+  text: это юмор такой?))
+  replies:
+  - id: 34971
+    parent_id: 34970
+    date: 2008-03-18 14:36
+    poster: Dmitri Kazantsev (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: это типа бизнес :)
+    deleted: false
+  - id: 34973
+    parent_id: 34970
+    date: 2008-03-18 16:13
+    poster: Andrei V. Evdokimov (evdokimov)
+    email: evdokimov@blues.ru
+    subject: это пресс-релиз
+    deleted: false
+    replies:
+    - id: 34976
+      parent_id: 34973
+      date: 2008-03-18 20:03
+      poster: Jumpin' Jack Flash
+      email: kjhb
+      subject: я понял, что не дата ))
+      deleted: false
+      text: вы уж дату сообщите, плз.

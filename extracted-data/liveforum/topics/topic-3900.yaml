@@ -1,0 +1,58 @@
+topic_id: 3900
+slug: topic-3900
+title: Ответьте на вопрос, please....
+first_post: 2008-02-09 13:54
+last_post: 2008-02-09 16:47
+post_count: 5
+posts:
+- id: 34594
+  parent_id: null
+  date: 2008-02-09 13:54
+  poster: Юрий Каверкин (Gekko)
+  email: strophurus@yandex.ru
+  subject: Ответьте на вопрос, please....
+  deleted: false
+  text: "... это правда что московские харперы самые крутые в мире?? \nЯ понял из\
+    \ того, что ПОЧТИ все из них проигнорировали концерты конечно не такого крутого\
+    \ как они, но тем не менее не плохого музыканта как Pera Joe... \nСегодня в ДУДе\
+    \ мастер класс и мне подумалось, может кто из отечественных виртуозов этого инструмента\
+    \ заглянет, чтобы показать парочку приемов заезжей знаменитости...  Типа, знай\
+    \ наших!!!"
+  replies:
+  - id: 34596
+    parent_id: 34594
+    date: 2008-02-09 15:38
+    poster: Andrei V. Evdokimov (evdokimov)
+    email: evdokimov@blues.ru
+    subject: крутые
+    deleted: false
+    text: Пеетрович, Братецкий, Соловьев - были.
+    replies:
+    - id: 34598
+      parent_id: 34596
+      date: 2008-02-09 16:08
+      poster: Dmitri Kazantsev (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: а что с ними?
+      deleted: false
+      text: и где можно ознакомиться с альбомами?
+      replies:
+      - id: 34601
+        parent_id: 34598
+        date: 2008-02-09 16:13
+        poster: Andrei V. Evdokimov (evdokimov)
+        email: evdokimov@blues.ru
+        subject: купить CD
+        deleted: false
+        text: 'можно в Дуде. Их два. Один - концертник собственно группы (еще не слушал)
+
+          Второй - Session Man, где Пера Джо играет с Луизианой Редом, Аней Попович
+          и с менее известными блюзовиками. Вполне достойно внимания.'
+        replies:
+        - id: 34603
+          parent_id: 34601
+          date: 2008-02-09 16:47
+          poster: Dmitri Kazantsev (Dr. Nick)
+          email: dr.nick@blues.ru
+          subject: я про наших
+          deleted: false

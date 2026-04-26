@@ -1,0 +1,37 @@
+topic_id: 1323
+slug: topic-1323
+title: Ба!!! Все знакомые лица!!!
+first_post: 2003-08-15 19:43
+last_post: 2003-08-16 03:04
+post_count: 3
+posts:
+- id: 13608
+  parent_id: null
+  date: 2003-08-15 19:43
+  poster: Игорь Головачев (Игорь Г.)
+  email: sunny_city@mail.ru
+  subject: Ба!!! Все знакомые лица!!!
+  deleted: false
+  text: 'http://www.rockcutblues.com/,но и монтаж какой-то непонятный заметен.
+
+    А может показалось?:) Зачем?'
+  replies:
+  - id: 13616
+    parent_id: 13608
+    date: 2003-08-16 02:09
+    poster: Andrei V. Evdokimov (evdokimov)
+    email: evdokimov@blues.ru
+    subject: виват Блюз Казенам!
+    deleted: false
+    text: а всё! - Америку мы взяли - руками Блюз Казенз. на следующий год у кузенов
+      уже контракт на трехмесячное турне по Штатам... нет слов. Леван - congratulations!!!
+    replies:
+    - id: 13621
+      parent_id: 13616
+      date: 2003-08-16 03:04
+      poster: Федор Романенко (fedor)
+      email: fedor@blues.ru
+      subject: Фестиваль
+      deleted: false
+      text: Там, если еще покликать по сайту фестиваля и зайти в форум, то выясняется,
+        что на фестивале также играли Crossroads и King Biscuit. Мир тесен! ;)

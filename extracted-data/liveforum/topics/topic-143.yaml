@@ -1,0 +1,82 @@
+topic_id: 143
+slug: topic-143
+title: Сайт группы Сrossroadz
+first_post: 2002-04-03 11:07
+last_post: 2002-04-05 12:04
+post_count: 8
+posts:
+- id: 3284
+  parent_id: null
+  date: 2002-04-03 11:07
+  poster: Alyona
+  email: Lena_Piterskaya@readersdigest.com
+  subject: Сайт группы Сrossroadz
+  deleted: false
+  text: Люди! Кот-нибудь в курсе, что случилось с официальным сайтом группы Crossroadz?
+    Вот уже вторую неделю не могу в него зайти. Или это глючит мой компьютер?
+  replies:
+  - id: 3285
+    parent_id: 3284
+    date: 2002-04-03 11:28
+    poster: Федор Романенко (fedor)
+    email: fedor@blues.ru
+    subject: Мда, плохо дело с сайтом...
+    deleted: false
+    text: '"No web site is configured at this address." - случилось именно с сайтом,
+      провайдер почему-то перестал его сервировать. А что, приспичило? ;))'
+    replies:
+    - id: 3376
+      parent_id: 3285
+      date: 2002-04-04 18:08
+      poster: Alyona
+      email: Lena_Piterskaya@readersdigest.com
+      subject: Crossroadz
+      deleted: false
+      text: Да, хотела скачать песенку Walking in a Diamond Rain....
+      replies:
+      - id: 3391
+        parent_id: 3376
+        date: 2002-04-05 00:04
+        poster: Андрей PRG
+        email: peregnoy@mail.ru
+        subject: Можно попробовать
+        deleted: false
+        text: 'скачать тут:
+
+          http://www.omen.ru/cgi-bin/mp30858110.cgi?p=CrossroadsDiamondRain.mp3'
+      - id: 3400
+        parent_id: 3376
+        date: 2002-04-05 02:40
+        poster: Федор Романенко (fedor)
+        email: fedor@blues.ru
+        subject: Надо к нам перетаскивать их сайт ;)
+        deleted: false
+        text: А то, видать, деньги на счету кончились...
+        replies:
+        - id: 3413
+          parent_id: 3400
+          date: 2002-04-05 11:18
+          poster: Андрей PRG
+          email: peregnoy@mail.ru
+          subject: А думаешь
+          deleted: false
+          text: Сергей согласиться? Пафоса-то будет меньше, да и адрес сложнее для
+            запоминания ;)
+          replies:
+          - id: 3424
+            parent_id: 3413
+            date: 2002-04-05 11:59
+            poster: Федор Романенко (fedor)
+            email: fedor@blues.ru
+            subject: Я имел в виду сервер!
+            deleted: false
+            text: А не сайт. ;)
+            replies:
+            - id: 3425
+              parent_id: 3424
+              date: 2002-04-05 12:04
+              poster: Андрей PRG
+              email: peregnoy@mail.ru
+              subject: Ну спасибо,
+              deleted: false
+              text: дорогой, успокоил. А то я уж было волноваться начал...;)

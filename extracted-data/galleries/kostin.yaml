@@ -1,0 +1,24 @@
+path: Kostin
+type: custom
+title: Юрий Костин, Самый главный at Roadhouse Moscow (Дом у Дороги)
+date: null
+photo_count: 7
+captioned: 1
+index_files:
+- i_Kostin2015.htm
+extra_text: null
+photos:
+- file: i_Ko_M.jpg
+  caption: Михаил Мишурис
+- file: i_Ko_Pis.jpg
+- file: i_Kostin.jpg
+- file: i_Kostin2.jpg
+- file: i_Kostin3.jpg
+- file: i_Kostin4.jpg
+- file: i_KostinLH.jpg
+canonical_date: '2003'
+clean_title: Костин — портрет
+slug: kostin-portrait
+description: Фотографии музыканта Костина.
+source_article: null
+exclude: true

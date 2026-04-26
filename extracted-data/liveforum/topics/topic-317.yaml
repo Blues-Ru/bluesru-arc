@@ -1,0 +1,31 @@
+topic_id: 317
+slug: topic-317
+title: Помогите найти песню?
+first_post: 2002-09-05 18:31
+last_post: 2002-09-05 19:01
+post_count: 2
+posts:
+- id: 7365
+  parent_id: null
+  date: 2002-09-05 18:31
+  poster: Sova
+  email: sova@bancorp.ru
+  subject: Помогите найти песню?
+  deleted: false
+  text: Люди добрые! Сами мы не местные! ;-) Помнится лет 10 назад слышал на радио
+    легонький такой блюз со словами в припеве "Because she has kisses sweeter then
+    vine" Может есть кто-нить, кто скажет - кто это пел, и что за композиция, а???
+    Мыло оставляю, заранее благодарен всем, кто откликнется на призыв о помощи ;-)
+  replies:
+  - id: 7366
+    parent_id: 7365
+    date: 2002-09-05 19:01
+    poster: Alexander Lokotkov
+    email: alex@fastwel.com
+    subject: Это ирландская народня песня в обработке Лидбелли(+)
+    deleted: false
+    text: 'Ее исполняли многие. Бонни Райат, Джимми Роджерс, к примеру.
+
+      Текст вот здесь:
+
+      http://www.geocities.com/Nashville/Stage/5476/R_Artists/Rogers_Jimmy/kissessweeterthanwine.html'

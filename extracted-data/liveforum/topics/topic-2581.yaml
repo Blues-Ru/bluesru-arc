@@ -1,0 +1,108 @@
+topic_id: 2581
+slug: topic-2581
+title: group "The Aftermath"
+first_post: 2005-05-19 11:11
+last_post: 2005-05-20 19:02
+post_count: 10
+posts:
+- id: 21502
+  parent_id: null
+  date: 2005-05-19 11:11
+  poster: Fatima
+  email: matfatima3@yandex.ru
+  subject: group "The Aftermath"
+  deleted: false
+  text: "Здраствуйте все!\nМне доставляет огромное удовольствие находиться здесь со\
+    \ всеми вами - людьми, которые разбираются в настоящей музыке.\nУ меня тоже есть\
+    \ группа и недавно мы записали наш альбом, состоящий только из наших песен. Все\
+    \ песни разных стили: Rythm'N'Blues, Country, Blues, Rock. Сейчас мы занимаемся\
+    \ обложкой альбома.\nНедавно открылся наш сайт: http://www.theaftermath.narod.ru\n\
+    Думаю, вам может понравится.   \n\nПишите\n\nI LIVE A LIFE OF LOVE AND I LOVE\
+    \ A LIFE OF LIVE!!!"
+  replies:
+  - id: 21503
+    parent_id: 21502
+    date: 2005-05-19 13:46
+    poster: Дима Казанцев (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: а может всё же :)
+    deleted: false
+    text: 'I live the life I love, and I love the life I live ?
+
+
+      и Rhythm & Blues вот таким образом ?'
+    replies:
+    - id: 21516
+      parent_id: 21503
+      date: 2005-05-20 10:15
+      poster: Fatima
+      email: matfatima3@yandex.ru
+      subject: I've fallen mad!!!!!!!!!!!!!!!!!
+      deleted: false
+      text: 'Мир вам, Братья!
+
+        Дима! Я гоняю! Конечно же "RHYTHM''N''BLUES" пишется через "H". Не знаю, как
+        я могла ее пропустить. Я то думала, ты имеешь в виду писать "&" вместо "N".
+        Только сейчас заметила, что у меня нет "H".'
+      replies:
+      - id: 21517
+        parent_id: 21516
+        date: 2005-05-20 10:39
+        poster: Fatima
+        email: matfatima3@yandex.ru
+        subject: Rhythm'N'Blues!!!!!!!!!!!!!!
+        deleted: false
+        text: Rhythm'N'Blues!!!!!!!!!!!!!!
+  - id: 21504
+    parent_id: 21502
+    date: 2005-05-19 14:33
+    poster: Fatima
+    email: matfatima3@yandex.ru
+    subject: Думаю, не нужно
+    deleted: false
+    text: 'Написание Rythm''N''Blues не является неправильным и равносильно написанию
+      Rythm & Blues.
+
+      А насчет I LIVE A LIFE OF LOVE AND I LOVE A LIFE OF LIVE!!! не спорю, может
+      я и ошибаюсь. Но так звучит ничуть не хуже, не правда ли?'
+    replies:
+    - id: 21505
+      parent_id: 21504
+      date: 2005-05-19 14:51
+      poster: Дима Казанцев (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: слово RHYTHM пишется только так
+      deleted: false
+      text: Вы ошибаетесь; в том-то и дело.
+    - id: 21506
+      parent_id: 21504
+      date: 2005-05-19 14:54
+      poster: Дима Казанцев (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: звучит хуже и неграмотно
+      deleted: false
+      text: очень безграмотно
+    - id: 21507
+      parent_id: 21504
+      date: 2005-05-19 18:16
+      poster: Muddy Lives
+      email: mlives_6@hotmail.com
+      subject: Rhythm N' Blues
+      deleted: false
+      text: "Нет, \"Rythm\" является всегда неправильным, хотя эта ошибка часто допускается.\
+        \  \n\n\"I live a life of love\" - Вот это неплохо!  :)\n\nMuddy"
+    - id: 21508
+      parent_id: 21504
+      date: 2005-05-19 18:53
+      poster: Алексей Аграновский (Док)
+      email: aaa@genebee.msu.su
+      subject: Фатима, удачи вашему проекту.
+      deleted: false
+      text: Сайт мне понравился. Будет интересно послушать альбом.
+  - id: 21538
+    parent_id: 21502
+    date: 2005-05-20 19:02
+    poster: disik
+    email: denis1482@mail.ru
+    subject: надо же, какая красивая музыка
+    deleted: false

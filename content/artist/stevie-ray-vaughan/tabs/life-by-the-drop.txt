@@ -1,0 +1,151 @@
+
+                               Life By The Drop
+
+From: Mario Kefalopoulos <U15708@uicvm.uic.edu>
+
+It took this song to make me find my forgotten 12-string Eko which was deep
+buried in a closet for quite some time.  I had it serviced and sat down to
+learn the song.  Here are the results:
+
+
+Fist, the general outline.  The intro and a couple more licks are after it.
+
+|A            |E7             |F#min                  |D7
+|/  /  /  /   |/  /  /  /     |/  /  /  /             |/  /  /  /
+|Hello there  |my old friend, |not so long ago it was |still the end
+
+|A           |E7                 |F#min                 |D7
+|/  /  /  /  |/  /  /  /         |/  /  /  /            |/  /  /  /
+|late outside|in the pouring rain|on our way up the road|we started over again
+
+|F#min           |D7               E7
+|/  /  /  /      |/  /             /  /
+|living a dream  |as though you're on top  (?)
+
+|F#min             |D7            E7
+|/  /  /  /        |/  /          /  /
+|my mind is aching |Lord it won't stop
+
+|F#min         D7              |E7           |A          |A
+|/  /          /  /            |/  /         |/  /  /  / |/  /  /  /
+|that's how it happened living |life by the  |drop       |
+                                ^---- only 2/4 here
+
+
+|Up and down the road in our |worn out shoes
+|talking about good things and |singing the blues
+|you went your way and |I stayed behind
+|we both knew it was just a |matter of time
+|living a dream as |though you're on top
+|my mind is aching |Lord it won't stop
+|that's how it happens living |life by the |drop / / /| / / / /|
+
+|No waste of time we |??...?? the day
+|turning up the past, there's no |easier way
+|time's been between us a |means to an end (???)
+|God, it's good to be here, walking |together my friend
+|living a dream |  <fill>
+|my mind starts thinking|  <fill>
+|that's how it happened living |life by the |drop / / /|
+|that's how it happened living |life by the |drop / / /|
+
+
+<fill>
+/         /         /        /         |  F#min
+---------------------------------------|-------2-
+---------------------------------------|-------2-
+---------------------------------------|-------3-   ...
+0---2--2h4------2----------2-2h4--2----|-------4-
+-------------------------------------4-|-------4-
+---------------------------------------|--2--2---
+
+
+Intro:
+/      /      /         /        |/     /        /     /      |  A
+---------------------------------|----------------------------|-------
+---------------------------------|----------------------------|-------
+------------0---------------0-h2-|0-------------------------2-|------- ...
+-----0-1-h2---0-h1-p0---0--------|--2-1-0-h1-0---0---0--------|---2---2h4-
+0-h3------------------3---3------|-------------3---3---3-p0---|---0---0-0-
+---------------------------------|----------------------------|-----------
+
+Rythm:
+                                        D7
+    A                                   /     /       /     /
+    /     /       /     /           G  -2---2h4---4---2---2h4---4-|
+D  -2---2h4---4---2---2h4---4-|     D  -0---0-0---0---0---0-0---0-|
+A  -0---0-0---0---0---0-0---0-|...  A  ---------------------------|
+E  ---------------------------|     E  ---------------------------|
+
+   E7
+   /     /       /     /            F#min:  244222
+A -2---2h4---4---2---2h4---4-|
+E -0---0-0---0---0---0-0---0-|
+
+For the D7 he's using both xx0212 and xx7575  (EADGBE)
+For the E7, I'm not sure, but probably the x7675x.
+
+
+That's it.  There are a couple of licks missing but with a little messing
+around with the chords you'll be able to get them.
+
+Have fun.
+
+
+                          Life By the Drop
+                              by SRV
+
+From: Paul D <S3BZ@MUSIC.TRANSY.EDU>
+
+
+   The intro is just some 'A pentatonic' stuff:
+   (this may not be exact)
+
+E-|------------------------------------------------------|
+B-|------------------------------------------------------|
+G-|----------0-----------2---0---------0--------------2--|
+D-|------0h2---0h2p0------------2--0h2----0h2p0----------|
+A-|--0h3-------------3p0------------------------3--0-----|
+E-|------------------------------------------------------|
+
+   Then there's this thing that I call "standard blues riff" (because I'm
+   basically musically illiterate) throughout the verses:
+
+    A                 E                  F#m             D
+E-|-------------------------------------------2-2---2-2-----------------------|
+B-|-------------------------------------------2-2---2-2-----------------------|
+G-|-------------------------------------------2-2---2-2--2-2-4-4--2-2-4-2---:-|
+D-|-2-2-4-4--2-2-4-2--------------------------4-4---4-4--0-0-0-0--0-0-0-0---:-|
+A-|-0-0-0-0--0-0-0-0--2-2-4-4--2-2-4-2---4-4--4-4---4-4-----------------------|
+E-|-------------------0-0-0-0--0-0-0-0---2-2--2-2---2-2-----------------------|
+
+
+   Here's the chorus part ("Livin' your dreams, wo' you on top."):
+   (there's some words at the bottom to help keep up)
+
+
+E-|------2-2---2-2--------------------------2-2---2-2-------------------------|
+B-|------2-2---2-2--------------------------2-2---2-2-------------------------|
+G-|------2-2---2-2---2-2-4-2----------------2-2---2-2---2-2-4-2---------------|
+D-|------4-4---4-4---0-0-0-0----------------4-4---4-4---0-0-0-0---------------|
+A-|-4-4--4-4---4-4-----------2-2-4-2---4-4--4-4---4-4------------2-2-4-2------|
+E-|-2-2--2-2---2-2-----------0-0-0-0---2-2--2-2---2-2------------0-0-0-0------|
+         Livin'...   Wo'...                 My mind...  Lord...
+
+
+   Then here's where he says "That's how it happens livin' life by the drop":
+
+E-|----------2--------------2-----------------------|
+B-|----------2--------------3-----------------------|
+G-|----------2------2--2----2------------------2----|
+D-|----------4------0--0----0------2-----------2----|
+A-|-4-4------4---------------------2-----------0----|
+E-|-2-2------2---------------------0----------------|
+      That's how it happens livin' life by the drop.
+
+
+I hope that helped some.  Sorry I don't know any other SRV songs.  I just
+figured this one out as a favor to a friend of mine who is kinda tone-deaf.  You
+You're own with some of the lyrics though, they're hard to hear.
+Good luck...
+Paul D. (s3bz%transy@ukcc.uky.edu) OR (phuckwheat@aol.com)

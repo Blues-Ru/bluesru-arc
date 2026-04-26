@@ -1,0 +1,36 @@
+topic_id: 1819
+slug: topic-1819
+title: ура! есть повод поздравить
+first_post: 2004-02-02 19:33
+last_post: 2004-02-03 12:45
+post_count: 3
+posts:
+- id: 17032
+  parent_id: null
+  date: 2004-02-02 19:33
+  poster: Andrei V. Evdokimov (evdokimov)
+  email: evdokimov@blues.ru
+  subject: ура! есть повод поздравить
+  deleted: false
+  text: <a href="http://www.waltech.com.au/bluesbeat/chart.htm">http://www.waltech.com.au/bluesbeat/chart.htm</a>
+  replies:
+  - id: 17038
+    parent_id: 17032
+    date: 2004-02-03 10:25
+    poster: (Grem)
+    email: sergei.sergeev@emersonprocess.ru
+    subject: Уфф... куды  Арсен пробрался.....
+    deleted: false
+    text: 'Поздравляю, дууурь полная и хааарошие люди окружают....
+
+      А теперь наверное и путь-дорожка в зеленую Австралию, чего и желаю...
+
+      Молодец!!!!!'
+  - id: 17041
+    parent_id: 17032
+    date: 2004-02-03 12:45
+    poster: Игорь Головачев (Игорь Г.)
+    email: sunny_city@mail.ru
+    subject: Теперь мне значииительно легче стало
+    deleted: false
+    text: Всегда верил в этих ребят.Просто М О Л О Д Ц Ы !!!!

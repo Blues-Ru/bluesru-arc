@@ -1,0 +1,107 @@
+topic_id: 1212
+slug: topic-1212
+title: Еще о блюзе и политике :^)) И беспризовая викторина :^)
+first_post: 2003-06-05 11:10
+last_post: 2003-06-06 16:34
+post_count: 5
+posts:
+- id: 12917
+  parent_id: null
+  date: 2003-06-05 11:10
+  poster: Sanya
+  email: sanya@cterra.ru
+  subject: Еще о блюзе и политике :^)) И беспризовая викторина :^)
+  deleted: false
+  text: 'На выходных заходил в Союз, купил диск сравнительно известного исполнителя.
+    Все такое правильное, традиционно-дельта-чикагское, мелодии знакомые, только подписаны
+    исполнителем и продюсером. :^) Ну, это не ново. :^) И есть такая песенка, что
+    даже на вкладыш помещена (из-за нее одной можно было диск покупать)! :^)
+
+
+    It was a dream, dream I had last night,
+
+    I dreamt I went to the UN and set the whole nation right.
+
+
+    I dreamt I called on old Castro, stood him on the floor.
+
+    Looked him right in the eye and said, "Boy, you gotta go.
+
+    I''m tired o'' your foolishness and if you dent behave,
+
+    I''m gonna grab you by your beard, give you a Georgia shave".
+
+
+    Then I told old Krushcheev, sittin'' there lookin'' bad,
+
+    "Get that junk outa Cuba before you make me mad.
+
+    Take off them missile bases, take them planes and all,
+
+    Or I''ll grab me a bat, use your head for the ball.
+
+
+    Then into Washington they called me and I went
+
+    There to be the guest of the President.
+
+    He said, "***, I''m glad to see ya, so glad you come down here
+
+    To help me run the Russians from the Western Hemisphere".
+
+
+    I said, "You can run the country, I''m gonna run the Senate.
+
+    I''m gonna mate a few changes, put a few soul brothers in it,
+
+    Ray Charles and Lightning'' Hopkins, a guy like Jimmy Reed,
+
+    Bo Diddley and Big Maybelle be all I need".
+
+
+    Кто исполняет? :^)'
+  replies:
+  - id: 12918
+    parent_id: 12917
+    date: 2003-06-05 12:08
+    poster: Andrei V. Evdokimov (evdokimov)
+    email: evdokimov@blues.ru
+    subject: Red's Dream
+    deleted: false
+    text: песня открывает дебютный альбом Луизианы Реда. Сочинил ее продюсер альбома,
+      имя не помню. Об этом говорилось точно и подробно в одной из передач ВЭБ
+    replies:
+    - id: 12925
+      parent_id: 12918
+      date: 2003-06-05 13:55
+      poster: Sanya
+      email: sanya@cterra.ru
+      subject: Вот что значит не иметь радиоприемника :^)
+      deleted: false
+      text: 'Впрочем, и тот что был (ныне воспроизводит лишь шуршание эфира) не включался
+        со времен эсэнси. :^)
+
+        Продюсера зовут Henry Glover. На купленном диске порядок песен, вероятно,
+        изменен, добавлены варианты, не попавшие на lp, и две песни записанные двумя
+        годами позже. Называется the Lowdown Black Porch Blues.'
+  - id: 12937
+    parent_id: 12917
+    date: 2003-06-06 15:09
+    poster: Ваня  Жук
+    email: jouk@newmail.net
+    subject: '"...I`ve learned to hate Russians all thru my whole life"'
+    deleted: false
+    text: Так себе стишок у продюсера Луизианы Реда
+    replies:
+    - id: 12938
+      parent_id: 12937
+      date: 2003-06-06 16:34
+      poster: Дима Казанцев (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: 'If another war starts it''s them we must fight
+
+        If another war starts It''s them we must fight'
+      deleted: false
+      text: 'To hate them and fear them, to run and to hide
+
+        And accept it all bravely with God on my side'

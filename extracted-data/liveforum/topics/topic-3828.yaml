@@ -1,0 +1,45 @@
+topic_id: 3828
+slug: topic-3828
+title: Блюз, сексофон, гармошка
+first_post: 2007-12-14 10:45
+last_post: 2007-12-19 06:30
+post_count: 4
+posts:
+- id: 34129
+  parent_id: null
+  date: 2007-12-14 10:45
+  poster: Алексей
+  email: krechetru@mail.ru
+  subject: Блюз, сексофон, гармошка
+  deleted: false
+  text: Я новичок в блюзе. Хочу купить блюзы на сексофоне и губной гармошке. Подскажите,
+    каких исполнителей лучше покупать?
+  replies:
+  - id: 34135
+    parent_id: 34129
+    date: 2007-12-15 23:44
+    poster: Lars
+    email: nono@non.no
+    subject: '"сексофон" - нет такого слова'
+    deleted: false
+    text: 'гармошка - Сонни Терри
+
+      саксофон - Эдди Клинхэд Уинсон'
+  - id: 34137
+    parent_id: 34129
+    date: 2007-12-17 02:36
+    poster: Владимир Русинов (BluesCat)
+    email: volodya@blues.ru
+    subject: сексофон
+    deleted: false
+    text: сексофон - это музыкальный инструмент основанный на устройстве управления
+      высотой звука при оргазме...
+  - id: 34149
+    parent_id: 34129
+    date: 2007-12-19 06:30
+    poster: Алексей
+    email: krechetru@mail.ru
+    subject: Извиняюсь за "сексофон"
+    deleted: false
+    text: "Извините за неверное написание названия данного музыкального инструмента.\
+      \ \nСпасибо за помощь."

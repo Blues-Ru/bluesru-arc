@@ -1,0 +1,55 @@
+topic_id: 2430
+slug: topic-2430
+title: Кевин Коен кто такой?
+first_post: 2005-02-14 10:56
+last_post: 2005-02-15 10:17
+post_count: 4
+posts:
+- id: 20450
+  parent_id: null
+  date: 2005-02-14 10:56
+  poster: Kiktev Sergej
+  email: kiktev@garant-ic.ru
+  subject: Кевин Коен кто такой?
+  deleted: false
+  text: 'Скажите, пожалуйста, кто такой Кевин Коен (название записал со слуха поэтому
+    могу ошибаться)
+
+    По музыке ритм-н-блюз, фанк, соул, много пианино, чем-то похоже на Др. Джона.
+    но голос по выше.
+
+    Мне очень понравилось.'
+  replies:
+  - id: 20451
+    parent_id: 20450
+    date: 2005-02-14 12:04
+    poster: Kiktev Sergej
+    email: kiktev@garant-ic.ru
+    subject: Kevin Coyne уточнение
+    deleted: false
+    text: 'Правильно (по-английски) пишется так см выше. На AMG написано британский
+      сонг-райтер, но к блюзу я так понимаю всё равно имеет отношение. Так что если
+      кто слышал его, напишите своё впечатление.
+
+
+      Спасибо'
+  - id: 20454
+    parent_id: 20450
+    date: 2005-02-15 10:06
+    poster: Олег Валентинович Огиенко ()
+    email: ogienkoov@nk.nornik.ru
+    subject: Кевин Коен кто такой?
+    deleted: false
+    text: 'Лидер группы "Siren". Знаю их два альбома. Первый одноименный,второй (не
+      знаю как по английски)"Стейндж локомоушен". Старая британская банда, мна тоже
+      нравиться. По-моему играли психоделический блюз.
+
+      Оба альбома на одном CD выходили на See for mails.'
+    replies:
+    - id: 20455
+      parent_id: 20454
+      date: 2005-02-15 10:17
+      poster: Kiktev Sergej (Sergej)
+      email: kiktev@garant-ic.ru
+      subject: Спасибо
+      deleted: false

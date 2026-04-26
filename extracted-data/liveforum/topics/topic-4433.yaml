@@ -1,0 +1,52 @@
+topic_id: 4433
+slug: topic-4433
+title: блюз - це колы гарны людыне погано
+first_post: 2010-09-29 07:55
+last_post: 2010-10-13 03:49
+post_count: 5
+posts:
+- id: 37086
+  parent_id: null
+  date: 2010-09-29 07:55
+  poster: Andrei V. Evdokimov
+  subject: блюз - це колы гарны людыне погано
+  deleted: false
+  text: '<object width="640" height="390"><param name="movie" value="http://www.youtube.com/v/fwqS0jVFGYo&hl=en_US&feature=player_embedded&version=3"></param><param
+    name="allowFullScreen" value="true"></param><param name="allowScriptAccess" value="always"></param><embed
+    src="http://www.youtube.com/v/fwqS0jVFGYo&hl=en_US&feature=player_embedded&version=3"
+    type="application/x-shockwave-flash" allowfullscreen="true" allowScriptAccess="always"
+    width="640" height="390"></embed></object>
+
+
+    а вообще - слава харьковскому тв'
+  replies:
+  - id: 37088
+    parent_id: 37086
+    date: 2010-09-29 19:02
+    poster: Cpt. Nemoff
+    subject: Мама была актёркою оклахомсгого театру ГЫ :)))
+    deleted: false
+    replies:
+    - id: 37095
+      parent_id: 37088
+      date: 2010-10-10 17:29
+      poster: tavrichesky
+      subject: '...'
+      deleted: false
+      text: какой, однако, специфический йумар. не всем  дано, прямо скажем...
+      replies:
+      - id: 37100
+        parent_id: 37095
+        date: 2010-10-12 10:44
+        poster: Andrei V. Evdokimov
+        subject: '?'
+        deleted: false
+        text: хде йумар?
+        replies:
+        - id: 37104
+          parent_id: 37100
+          date: 2010-10-13 03:49
+          poster: tavrichesky
+          subject: '---'
+          deleted: false
+          text: я Cpt.Nemoff отвечал- не нашёл в маме-актрисе ничего смешного.

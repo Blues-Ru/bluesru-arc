@@ -1,0 +1,37 @@
+topic_id: 2202
+slug: topic-2202
+title: На сайте у Арсена появились две новые вещи
+first_post: 2004-08-17 20:03
+last_post: 2004-08-21 13:24
+post_count: 3
+posts:
+- id: 19079
+  parent_id: null
+  date: 2004-08-17 20:03
+  poster: Игорь Г
+  email: sunny_city@mail.ru
+  subject: На сайте у Арсена появились две новые вещи
+  deleted: false
+  text: 'их можно и почитать и послушать кому что нравится.
+
+    http://arsenic.blues.ru/'
+  replies:
+  - id: 19081
+    parent_id: 19079
+    date: 2004-08-18 08:49
+    poster: Ded Morozzz
+    email: morozzz_ded@mail.ru
+    subject: Здорово
+    deleted: false
+    text: 'Арсен рулит
+
+      Очень интересно и классно сыграно
+
+      Никакого ощущения, что это запись русской банды, нет и в помине'
+  - id: 19102
+    parent_id: 19079
+    date: 2004-08-21 13:24
+    poster: Серега (Паспортный стол)
+    email: s.e.r.g.e@newmail.ru
+    subject: Это там, где цитата из Прокофьева?
+    deleted: false

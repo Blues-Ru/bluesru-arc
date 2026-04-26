@@ -1,0 +1,80 @@
+topic_id: 1510
+slug: topic-1510
+title: 'В порядке выздоровления и общего ведения дискуссии:'
+first_post: 2003-10-13 14:02
+last_post: 2003-10-17 12:25
+post_count: 8
+posts:
+- id: 15026
+  parent_id: null
+  date: 2003-10-13 14:02
+  poster: Алексей Аграновский (Док)
+  email: aaa@genebee.msu.su
+  subject: 'В порядке выздоровления и общего ведения дискуссии:'
+  deleted: false
+  text: АЛАБАМА не работает. Концерты вычеркнуты из расписания. По самый июль там
+    были аншлаги на блюзовых гигах. Единственно, чем можно вас развлечь, дамы и г-да
+    - вудстоком в четверг. Засим и прочее.
+  replies:
+  - id: 15027
+    parent_id: 15026
+    date: 2003-10-13 14:46
+    poster: Старый Ребе
+    email: gypsy@mail.ru
+    subject: Таки Алабама тоже заболела? Простите, а чем?
+    deleted: false
+    text: А то после Сарочки лекарства остались... вибрасывать жалко...
+    replies:
+    - id: 15039
+      parent_id: 15027
+      date: 2003-10-15 18:13
+      poster: Алексей Аграновский (Док)
+      email: aaa@genebee.msu.su
+      subject: Да, коли лекарства остались, а в списке концертов
+      deleted: false
+      text: 'нет нашего джема в ВУДСТОКЕ, так вот: джем БУДЕТ. Это завтра, и это четверг,
+        и это, как всегда, 21:30. Хай живе Миссиссиппи!'
+      replies:
+      - id: 15040
+        parent_id: 15039
+        date: 2003-10-15 20:30
+        poster: Алексей Ильичёв (Alex_z77)
+        email: alex_z77@mail.ru
+        subject: И не в первый раз уже
+        deleted: false
+        text: джема нет в афише.
+      - id: 15042
+        parent_id: 15039
+        date: 2003-10-16 11:14
+        poster: Andy mcletsoff (McL)
+        email: mcl@macbox.ru
+        subject: Концерт в к/т Рассвет
+        deleted: false
+        text: Алексей - это что за новое место? Это правда?
+        replies:
+        - id: 15047
+          parent_id: 15042
+          date: 2003-10-16 14:23
+          poster: Алексей Аграновский (Док)
+          email: aaa@genebee.msu.su
+          subject: Там лучший аппарат из последнего виденного, вменяемые менеджеры,
+          deleted: false
+          text: а там посмотрим. В афише - правда. 25 октября группа Оксаны Ефремовой
+            и Черный Хлеб. Это место может оказаться удобным для тех, кто живет на
+            севере Москвы.
+          replies:
+          - id: 15058
+            parent_id: 15047
+            date: 2003-10-17 11:34
+            poster: Andy mcletsoff (McL)
+            email: mcl@macbox.ru
+            subject: А кто в одном квартале? Можно будет прийти? ;)))))))
+            deleted: false
+            replies:
+            - id: 15060
+              parent_id: 15058
+              date: 2003-10-17 12:25
+              poster: Алексей Аграновский (Док)
+              email: aaa@genebee.msu.su
+              subject: А Варум бы и Нихт?
+              deleted: false

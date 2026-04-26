@@ -1,0 +1,55 @@
+topic_id: 4529
+slug: topic-4529
+title: Чур не падать!
+first_post: 2011-02-21 21:58
+last_post: 2011-02-25 13:03
+post_count: 5
+posts:
+- id: 37332
+  parent_id: null
+  date: 2011-02-21 21:58
+  poster: Andrei V. Evdokimov
+  subject: Чур не падать!
+  deleted: false
+  text: 'Гран-при IV краевого конкурса-фестиваля патриотической песни присуждено вокальному
+    ансамблю "Блюз Блайнд" Северо-Восточного пограничного управления береговой охраны
+    ФСБ России.
+
+
+    http://severdv.ru/news/show/?id=48046'
+  replies:
+  - id: 37333
+    parent_id: 37332
+    date: 2011-02-22 06:19
+    poster: Dmitri Kazantsev
+    subject: а?
+    deleted: false
+    text: 'ослеплённые блюзом значит?
+
+
+      надеюсь не оглушённые ))'
+    replies:
+    - id: 37342
+      parent_id: 37333
+      date: 2011-02-24 21:59
+      poster: Старый Майор
+      subject: Блайнд Бойз оф ФСБама
+      deleted: false
+      text: <img src=http://static.blogcritics.org/09/10/28/117445/Ben-Harper-and-The-Blind-Boys-of-Alabama-.jpg
+        width=250>
+      replies:
+      - id: 37349
+        parent_id: 37342
+        date: 2011-02-25 12:39
+        poster: Andrei V. Evdokimov
+        subject: а где картинка-то?
+        deleted: false
+        replies:
+        - id: 37352
+          parent_id: 37349
+          date: 2011-02-25 13:03
+          poster: Старый Майор
+          subject: Дык.. нетути...
+          deleted: false
+          text: Чо-то проглючило у Фёдора в парсере встраиваемого кода.. или я параметр
+            без кавычек поставил по старой привычке...

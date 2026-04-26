@@ -1,0 +1,26 @@
+topic_id: 3217
+slug: topic-3217
+title: что за беда?
+first_post: 2006-04-20 19:29
+last_post: 2006-04-20 19:36
+post_count: 2
+posts:
+- id: 27041
+  parent_id: null
+  date: 2006-04-20 19:29
+  poster: Andrei V. Evdokimov (evdokimov)
+  email: evdokimov@blues.ru
+  subject: что за беда?
+  deleted: false
+  text: "Вот Curtis Salgado - не мой любимый блюзмен, но все же. Человек не старый.\
+    \ А новость - рак желудка. \nНовости в блюзе - либо кто-то умер, либо заболел.\
+    \ Что за беда?"
+  replies:
+  - id: 27042
+    parent_id: 27041
+    date: 2006-04-20 19:36
+    poster: Andrei V. Evdokimov (evdokimov)
+    email: evdokimov@blues.ru
+    subject: Jeff Healey
+    deleted: false
+    text: а этому 12 апреля провели вторую операцию по удалению зачатков раковой опухоли...

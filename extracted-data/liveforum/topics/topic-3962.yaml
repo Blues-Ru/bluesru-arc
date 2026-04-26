@@ -1,0 +1,54 @@
+topic_id: 3962
+slug: topic-3962
+title: в репертуар блюзмена
+first_post: 2008-03-29 03:13
+last_post: 2008-03-30 00:25
+post_count: 5
+posts:
+- id: 35139
+  parent_id: null
+  date: 2008-03-29 03:13
+  poster: Jumpin' Jack Flash
+  email: gjgkln
+  subject: в репертуар блюзмена
+  deleted: false
+  text: "http://musicmp3.spb.ru/mp3/797/snooks_eaglin.htm\nнажать на Kiss OF fire.\
+    \ \n я думать наступит мир и покой\nи весь альбом,кстати,неплохой"
+  replies:
+  - id: 35141
+    parent_id: 35139
+    date: 2008-03-29 19:34
+    poster: Эльдар
+    email: Эльдар
+    subject: 2,39 Мб оффтопика
+    deleted: false
+    text: Ну, да... тема известная, танго какое-то, но здесь оно оффтопик чистой воды...
+    replies:
+    - id: 35142
+      parent_id: 35141
+      date: 2008-03-29 20:53
+      poster: Jumpin' Jack Flash
+      email: jgmbm
+      subject: оффтопик
+      deleted: false
+      text: 'как и весь новый орлеан.
+
+        забыл добавить: это иллюстрация к  прозвучавшему ,разговору, что играть а
+        что не играть блюзмену. Юмор, типа, такой.'
+      replies:
+      - id: 35143
+        parent_id: 35142
+        date: 2008-03-29 21:26
+        poster: Эльдар
+        email: Эльдар
+        subject: А-а-ааа
+        deleted: false
+        text: Я просто ту ветку вообще и не читал...
+      - id: 35144
+        parent_id: 35142
+        date: 2008-03-30 00:25
+        poster: Dmitri Kazantsev (Dr. Nick)
+        email: dr.nick@blues.ru
+        subject: точно
+        deleted: false
+        text: лучше на трёх аккордах месить!

@@ -1,0 +1,77 @@
+topic_id: 4689
+slug: topic-4689
+title: Cigar Box Guitar Evening  ( Дом у дороги )
+first_post: 2011-08-12 17:52
+last_post: 2011-08-15 01:04
+post_count: 9
+posts:
+- id: 37931
+  parent_id: null
+  date: 2011-08-12 17:52
+  poster: Cpt. Nemoff
+  subject: Cigar Box Guitar Evening  ( Дом у дороги )
+  deleted: false
+  text: <iframe width="480" height="390" src="http://www.youtube.com/embed/4vd4Gf50ne4"
+    frameborder="0" allowfullscreen></iframe>
+  replies:
+  - id: 37932
+    parent_id: 37931
+    date: 2011-08-12 17:58
+    poster: Cpt. Nemoff
+    subject: ЕЩЁ
+    deleted: false
+    text: <iframe width="480" height="390" src="http://www.youtube.com/embed/uxDseA5fpHM"
+      frameborder="0" allowfullscreen></iframe>
+    replies:
+    - id: 37935
+      parent_id: 37932
+      date: 2011-08-13 23:44
+      poster: Владимир Русинов
+      subject: Клево! Но вам обязательно в состав нужен Кахон!
+      deleted: false
+      text: Вот тогда будет просто супер :)
+      replies:
+      - id: 37938
+        parent_id: 37935
+        date: 2011-08-14 15:36
+        poster: Cpt. Nemoff
+        subject: Вообще-то кахон уже есть...
+        deleted: false
+        text: Вообще-то кахон уже есть... И всё клёво ... Даже очень :))
+        replies:
+        - id: 37942
+          parent_id: 37938
+          date: 2011-08-15 01:04
+          poster: Владимир Русинов
+          subject: я не сразу понял что это кахон!! Ааа! :)
+          deleted: false
+      - id: 37939
+        parent_id: 37935
+        date: 2011-08-14 15:42
+        poster: Cpt. Nemoff
+        subject: Да и состав вполне самодостаточен.
+        deleted: false
+        text: Да и состав вполне самодостаточен.
+  - id: 37933
+    parent_id: 37931
+    date: 2011-08-12 17:59
+    poster: Cpt. Nemoff
+    subject: И ЕЩЁ
+    deleted: false
+    text: <iframe width="480" height="390" src="http://www.youtube.com/embed/qwmDcz5WqLs"
+      frameborder="0" allowfullscreen></iframe>
+  - id: 37937
+    parent_id: 37931
+    date: 2011-08-14 15:36
+    poster: Cpt. Nemoff
+    subject: кахон
+    deleted: false
+    text: Вообще-то кахон уже есть... И всё клёво ... Даже очень :))
+  - id: 37940
+    parent_id: 37931
+    date: 2011-08-14 15:55
+    poster: Cpt. Nemoff
+    subject: BIG BOSS MAN
+    deleted: false
+    text: <iframe width="425" height="349" src="http://www.youtube.com/embed/3hSgM-8EZ-M?hl=ru&fs=1"
+      frameborder="0" allowfullscreen></iframe>

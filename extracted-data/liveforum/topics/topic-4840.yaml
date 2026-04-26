@@ -1,0 +1,78 @@
+topic_id: 4840
+slug: topic-4840
+title: пришла бяда, откуда не ждали
+first_post: 2012-03-07 14:58
+last_post: 2012-03-14 19:51
+post_count: 7
+posts:
+- id: 38300
+  parent_id: null
+  date: 2012-03-07 14:58
+  poster: Andrei V. Evdokimov
+  subject: пришла бяда, откуда не ждали
+  deleted: false
+  text: '<iframe width="560" height="315" src="http://www.youtube.com/embed/Wehxj-mAwv8"
+    frameborder="0" allowfullscreen></iframe>
+
+
+    слушать это фуфло неприятно, но нужно.
+
+    во-первых, чтобы помнить, что и великие порой ошибаются.
+
+    во-вторых, что не все вундеркинды действительно "чудо"
+
+    в-третьих - да еще много чего, но главное: чтобы не повторять ошибок.'
+  replies:
+  - id: 38301
+    parent_id: 38300
+    date: 2012-03-08 00:24
+    poster: moksem
+    subject: '?'
+    deleted: false
+    text: А в чем фуфло?
+    replies:
+    - id: 38302
+      parent_id: 38301
+      date: 2012-03-08 16:14
+      poster: Andrei V. Evdokimov
+      subject: увы, практически во всем
+      deleted: false
+    - id: 38308
+      parent_id: 38301
+      date: 2012-03-11 16:35
+      poster: Старый Майор
+      subject: Тяжело быть Евдокимовым...
+      deleted: false
+      text: '...особенно когда по долгу службы приходится слушать всяку хню... ((('
+      replies:
+      - id: 38309
+        parent_id: 38308
+        date: 2012-03-11 17:42
+        poster: Andrei V. Evdokimov
+        subject: формулировочки, майор!
+        deleted: false
+        text: "Фуфло - это еще не хня... \nя как-то именно по долгу-с слушал хню...\
+          \ стал промывать это дело алкоголем, и даже увлекся! )))"
+        replies:
+        - id: 38312
+          parent_id: 38309
+          date: 2012-03-14 19:51
+          poster: Старый Майор
+          subject: Тонкие же у тебя градации...
+          deleted: false
+          text: 'Боюсь, что между фуфлом и хнёй ты дифференцированно диагностируешь
+            ещё с полдюжины дефиниций, я же в своей военной прямолинейности такого
+            никак не уразумею )))
+
+
+            А печеночку береги, береги.. ишшо пригодится!'
+  - id: 38303
+    parent_id: 38300
+    date: 2012-03-09 05:37
+    poster: Dmitri Kazantsev
+    subject: чака
+    deleted: false
+    text: 'ну Чака делает фуфло с тех пор, как ушла из Руфуса
+
+
+      да и Куинси тоже с 80-х создавал одну жуть'

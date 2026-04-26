@@ -1,0 +1,87 @@
+topic_id: 2670
+slug: topic-2670
+title: Ищу блюз-вокал.
+first_post: 2005-07-28 18:38
+last_post: 2005-08-02 10:17
+post_count: 8
+posts:
+- id: 22113
+  parent_id: null
+  date: 2005-07-28 18:38
+  poster: don Esbarro
+  email: dragonrider@inbox.ru
+  subject: Ищу блюз-вокал.
+  deleted: false
+  text: 'Прошу не удалять сообщение, или удалять, но только после того как разберётесь,
+    почему моё объявление не прошло в спецразделе сайта.
+
+    Итак, московскому бэнду Burn-down Blues необходим настоящий блюзмэн. Группа исполняет
+    блюз-роковые кавера, в перспективе свои композиции.
+
+    От тебя требуется: дух блюза, вокальные данные, знание английского языка.
+
+    Тебе гарантируется: работа с идейными единомышленниками, дикий отжигач на концертах,
+    и, естественно, удовольствие от того что ты занимаешься своим делом.
+
+    +7 (917) 541-29-40 Андрей.'
+  replies:
+  - id: 22114
+    parent_id: 22113
+    date: 2005-07-28 19:48
+    poster: Старый Майор
+    email: gypsy@mail.ru
+    subject: Ну давай разбираццо...
+    deleted: false
+    text: "Вот и расскажи нам, мил человек Дон Эсбарро, почему это твоё объявление\
+      \ не прошло в спецраздел сайта? \nЧем это вы такие особенные?\nИль у вас дух\
+      \ блюза гуще?"
+    replies:
+    - id: 22121
+      parent_id: 22114
+      date: 2005-07-29 02:40
+      poster: don Esbarro
+      email: dragonrider@inbox.ru
+      subject: :-Р
+      deleted: false
+      text: Товарищ майор, разрешите обратиться, вы вокалист? Если так - звоните,
+        пожалуйста, отвечу на все вопросы.
+      replies:
+      - id: 22127
+        parent_id: 22121
+        date: 2005-07-29 14:48
+        poster: Старый Майор
+        email: gypsy@mail.ru
+        subject: Ну давай, погни пальчики, флудило спамовое!
+        deleted: false
+        replies:
+        - id: 22131
+          parent_id: 22127
+          date: 2005-07-29 16:26
+          poster: Дмитрий Казанцев (Dr. Nick)
+          email: dr.nick@blues.ru
+          subject: как сказал! :)
+          deleted: false
+          text: "как отрезал! запишу эти фразы в новый словарь языка :)\n\nне МУДИЛО\
+            \ СРАНОЕ, но ФЛУДИРО СПАМОВОЕ! \n\nэто рок!"
+        - id: 22175
+          parent_id: 22127
+          date: 2005-08-02 10:17
+          poster: don Esbarro
+          email: dragonrider@inbox.ru
+          subject: Не вижу причины наезда.
+          deleted: false
+  - id: 22117
+    parent_id: 22113
+    date: 2005-07-29 00:08
+    poster: Диброва (Dibrova)
+    email: dibrova_blues@rambler.ru
+    subject: Дон Эсбарро, а бэк-вокал не нужен???
+    deleted: false
+  - id: 22118
+    parent_id: 22113
+    date: 2005-07-29 00:30
+    poster: Дмитрий Казанцев (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: так почему не прошло?
+    deleted: false
+    text: петь готов, ващще не вопрос :)

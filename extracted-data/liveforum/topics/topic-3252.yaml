@@ -1,0 +1,43 @@
+topic_id: 3252
+slug: topic-3252
+title: Gangster Of Love в рекламе
+first_post: 2006-05-14 20:00
+last_post: 2006-05-15 17:33
+post_count: 4
+posts:
+- id: 27361
+  parent_id: null
+  date: 2006-05-14 20:00
+  poster: Эльдар Музафаров
+  email: elicaster co6@ka мейл-d0t ru
+  subject: Gangster Of Love в рекламе
+  deleted: false
+  text: Сейчас по ящику крутят рекламу дезоторанта Axe Click (ролик с участием Беном
+    Аффлеком). Звучит, кажется, Johnny "Guitar" Watson - Gangster Of Love. Не ошибаюсь
+    ли я? Так ли это?
+  replies:
+  - id: 27367
+    parent_id: 27361
+    date: 2006-05-15 12:44
+    poster: Олег Валентинович Огиенко ()
+    email: ogienkoov@nk.nornik.ru
+    subject: Точно
+    deleted: false
+    text: это он
+  - id: 27387
+    parent_id: 27361
+    date: 2006-05-15 17:27
+    poster: Старый Майор
+    email: gypsy@mail.ru
+    subject: Но с таким видеорядом звучит на редкость пошло.. я даже звук отключил,
+      думаю, что за парнуха блин..
+    deleted: false
+    replies:
+    - id: 27391
+      parent_id: 27387
+      date: 2006-05-15 17:33
+      poster: Dmitri Kazantsev (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: 'есть еще лучше рецепт:'
+      deleted: false
+      text: никогда не включать ТВ

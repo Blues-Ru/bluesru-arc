@@ -1,0 +1,118 @@
+topic_id: 635
+slug: topic-635
+title: Помогите чайнику!!!
+first_post: 2003-02-24 19:43
+last_post: 2003-03-03 21:49
+post_count: 10
+posts:
+- id: 10633
+  parent_id: null
+  date: 2003-02-24 19:43
+  poster: Svetlana Yeliseyeva (BlackCat)
+  email: lanok@ukr.net
+  subject: Помогите чайнику!!!
+  deleted: false
+  text: Люди, откликнитесь! Можно ли делать блюз на гитаре типа "джамбо"? Или лучше
+    всё-таки "дредноут"? Никто мне не может сказать, в чем отличие между ними.
+  replies:
+  - id: 10634
+    parent_id: 10633
+    date: 2003-02-24 20:20
+    poster: Ruby Tooz
+    email: rubytooz@rambler.ru
+    subject: На примере гитар фирмы CORT
+    deleted: false
+    text: 'http://www.cort.com/acoustics/earth/index.html - это "Дредноут",
+
+      http://www.cort.com/acoustics/ntl/index.html - а это "Джамбо".
+
+      Впрочем, там все и так написано.
+
+      Блюз - а почему бы не играть. Вон Джон Фогерти вообще - на бейсбольной бите
+      играл (если кто видел "Premonition") и ничего!
+
+      Я вот хочу себе эту гитару - может, кто чего скажет об инструменте:
+
+      http://www.cort.com/guitars/triggs/index.html
+
+      А то, понимаешь, практически мечта детства...:)'
+    replies:
+    - id: 10659
+      parent_id: 10634
+      date: 2003-02-26 04:00
+      poster: Наталья Терехова (Magic)
+      email: gruppamagic@narod.ru
+      subject: Гитара Jim Triggs -
+      deleted: false
+      text: Могу сказать об этом инструменте точно - она ну просто красавица!
+    - id: 10664
+      parent_id: 10634
+      date: 2003-02-26 13:36
+      poster: Дима Казанцев (Казан)
+      email: dr.nick@blues.ru
+      subject: Так это же электро...
+      deleted: false
+      text: 'Я думал ты про акустику речь ведешь.
+
+        Я играю на Larrivee. Сходи на www.larrivee.com'
+  - id: 10637
+    parent_id: 10633
+    date: 2003-02-25 01:54
+    poster: Дима Казанцев (Казан)
+    email: dr.nick@blues.ru
+    subject: '"Делать" блюз'
+    deleted: false
+    text: можно на чем угодно, лишь бы в душе что-то играло ;)
+    replies:
+    - id: 10641
+      parent_id: 10637
+      date: 2003-02-25 15:38
+      poster: (BlackCat)
+      email: lanok@ukr.net
+      subject: Блюз - мое состояние души
+      deleted: false
+      text: Понятный дел, но инструмент-то важен! Ведь, насколько мне известно,  в
+        свое время именно вестерн-гитары создали блюзовое звучание. На классике медиатором
+        и слайдом не сыграешь... наверное... Но фирма, которую я выбрала, специализируется
+        в основном на гитарах с корпусом "джамбо". Вот я и хотела узнать, что это
+        за зверь и с чем его едять :-))
+      replies:
+      - id: 10653
+        parent_id: 10641
+        date: 2003-02-25 19:27
+        poster: Ruby Tooz
+        email: rubytooz@rambler.ru
+        subject: Хорошему человеку и "джамбо" не помеха
+        deleted: false
+        text: Вон, прекрасный акустический и слайд гитарист Николай Садиков, насколько
+          я помню по "Блюз Хаммер Бэнду", играл именно на "джамбо" (только вот, запамятовал
+          фирму). А уважаемый Док и вообще, по-моему, на "классике"...
+  - id: 10673
+    parent_id: 10633
+    date: 2003-02-27 01:53
+    poster: (BlackCat)
+    email: lanok@ukr.net
+    subject: Дык я ж про акустику!
+    deleted: false
+    text: 'Про акустику спрашивала. Гитара мне нужна пока в учебных целях. Электро
+      - думается, рановато будет :-)
+
+      А вообще, спасибо всем за отклики.'
+    replies:
+    - id: 10677
+      parent_id: 10673
+      date: 2003-02-27 15:17
+      poster: Дима Казанцев (Казан)
+      email: dr.nick@blues.ru
+      subject: Какой бюджет?
+      deleted: false
+      text: Лучше Ларриви только Мартин и Тэйлор, но они значительно дороже.
+  - id: 10754
+    parent_id: 10633
+    date: 2003-03-03 21:49
+    poster: (BlackCat)
+    email: lanok@ukr.net
+    subject: Свершилось :-)))
+    deleted: false
+    text: В общем, убедили меня начинать с классики. Потом по ходу дела поменяю. И
+      вот сегодня я ее купила. Ура, настал момент истины!

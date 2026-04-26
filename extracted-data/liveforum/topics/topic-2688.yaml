@@ -1,0 +1,24 @@
+topic_id: 2688
+slug: topic-2688
+title: Хочу собрать/вступить в группу
+first_post: 2005-08-05 21:05
+last_post: 2005-08-05 23:10
+post_count: 2
+posts:
+- id: 22238
+  parent_id: null
+  date: 2005-08-05 21:05
+  poster: Гусев Дмитрий
+  email: нету
+  subject: Хочу собрать/вступить в группу
+  deleted: false
+  text: Живу в подмосковье, лет мне 17... ближайшие ко мне станции метро алтуфьего
+    и медведкого... играю на гитаре, солирую на гармонике, чуть пою... жду отзывов...
+  replies:
+  - id: 22240
+    parent_id: 22238
+    date: 2005-08-05 23:10
+    poster: Диброва (Dibrova)
+    email: dibrova_blues@rambler.ru
+    subject: Эх, вот если бы ты в Питере жил....... было бы здорово!
+    deleted: false

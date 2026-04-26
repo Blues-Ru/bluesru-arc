@@ -1,0 +1,45 @@
+topic_id: 2953
+slug: topic-2953
+title: а вот это супер-дупер!
+first_post: 2005-11-26 13:51
+last_post: 2005-11-27 21:14
+post_count: 4
+posts:
+- id: 24741
+  parent_id: null
+  date: 2005-11-26 13:51
+  poster: Дмитрий Казанцев (Dr. Nick)
+  email: dr.nick@blues.ru
+  subject: а вот это супер-дупер!
+  deleted: false
+  text: 'http://www.amazon.com/gp/product/B00005IAX7/102-5492263-9356903?v=glance&n=5174&s=music&v=glance
+
+    http://www.amazon.com/gp/product/B00005TOXS/102-5492263-9356903?v=glance&n=5174&s=music&v=glance'
+  replies:
+  - id: 24742
+    parent_id: 24741
+    date: 2005-11-26 13:57
+    poster: Дмитрий Казанцев (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: есть издание 2 в 1
+    deleted: false
+    text: как я понимаю
+  - id: 24747
+    parent_id: 24741
+    date: 2005-11-27 19:46
+    poster: Muddy Lives
+    email: mlives_6@hotmail.com
+    subject: Предпочитаю второй диск
+    deleted: false
+    text: "Первый диск - это приятная встреча гигантов блюза.  Играют хорошо, но спокойно\
+      \ и лениво.  Второй диск \"live\" более живой.  Публика очень живая.  Мне особенно\
+      \ нравится выступление Eddie \"Cleanhead\" Vinson.  \n\nMuddy"
+    replies:
+    - id: 24748
+      parent_id: 24747
+      date: 2005-11-27 21:14
+      poster: Дмитрий Казанцев (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: на втором 10 песен, на первом 4 :)
+      deleted: false
+      text: ясное дело :)

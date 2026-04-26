@@ -1,0 +1,23 @@
+topic_id: 3277
+slug: topic-3277
+title: тут есть видео Лриса Дуарте
+first_post: 2006-06-03 13:44
+last_post: 2006-06-03 13:45
+post_count: 2
+posts:
+- id: 27555
+  parent_id: null
+  date: 2006-06-03 13:44
+  poster: Axle
+  email: axledog@mail.ru
+  subject: тут есть видео Лриса Дуарте
+  deleted: false
+  text: http://www.youtube.com/watch?v=VWtbxFIKL3s&search=chris%20duarte
+  replies:
+  - id: 27556
+    parent_id: 27555
+    date: 2006-06-03 13:45
+    poster: Axle
+    email: axledog@mail.ru
+    subject: Криса :)
+    deleted: false

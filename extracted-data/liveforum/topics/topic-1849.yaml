@@ -1,0 +1,156 @@
+topic_id: 1849
+slug: topic-1849
+title: Федор ???Eirik Bergene (афиша)
+first_post: 2004-02-10 16:17
+last_post: 2004-02-17 08:45
+post_count: 16
+posts:
+- id: 17171
+  parent_id: null
+  date: 2004-02-10 16:17
+  poster: (Grem)
+  email: sergei.sergeev@emersonprocess.ru
+  subject: Федор ???Eirik Bergene (афиша)
+  deleted: false
+  text: 'А этот перец в очках случаем не играет у МООРЮДОВ на гитаре ????
+
+    И напиши подробно об этих перцах, хто такие и что играють....'
+  replies:
+  - id: 17172
+    parent_id: 17171
+    date: 2004-02-10 17:03
+    poster: vr  (Stone Crazy)
+    email: volodya@blues.ru
+    subject: эт он :)
+    deleted: false
+    text: первый норвежский музыкант приезжающий сюда второй раз %))))
+    replies:
+    - id: 17173
+      parent_id: 17172
+      date: 2004-02-10 17:09
+      poster: (Grem)
+      email: sergei.sergeev@emersonprocess.ru
+      subject: Ооо, это очень знаменательно....
+      deleted: false
+      text: Может быть и Amund сюда подтянется..:-)))
+      replies:
+      - id: 17175
+        parent_id: 17173
+        date: 2004-02-10 18:07
+        poster: Федор Романенко (fedor)
+        email: fedor@blues.ru
+        subject: Морюды
+        deleted: false
+        text: 'Да, это Хокон, который играет в группе в полную силу, а у Морюдов вторую
+          гитару. Сам А.Морюд на этот раз не приедет, но в какой-нибудь другой раз
+          - обязательно ;)
+
+          Кстати, они с Морюд-Бендом месяц назад махнулись басистами. Но в Москву
+          приедут в составе, который был до замены. Итого, можно сказать, что у нас
+          будет Amund Maarud Band без Морюдов ;)'
+        replies:
+        - id: 17205
+          parent_id: 17175
+          date: 2004-02-12 01:07
+          poster: Дима Казанцев (Dr. Nick)
+          email: dr.nick@blues.ru
+          subject: я тут еще с одним норвегом познакомился!
+          deleted: false
+          text: "на джеме с нами играл. фамилия - Ларсен, имя забыл ;(\nхочет приехать\
+            \ поиграть. у меня есть его диск; он сам не профи, но группа его профи.\
+            \ \nчто думаешь? он, правда, играет и поет голимый Чикаго-блюз."
+          replies:
+          - id: 17247
+            parent_id: 17205
+            date: 2004-02-14 13:02
+            poster: Сергей
+            email: serjtrin@hotbox.ru
+            subject: а по-моему норвежец ничего себе.
+            deleted: false
+            replies:
+            - id: 17248
+              parent_id: 17247
+              date: 2004-02-14 18:59
+              poster: Дима Казанцев (Dr. Nick)
+              email: dr.nick@blues.ru
+              subject: который?
+              deleted: false
+              replies:
+              - id: 17254
+                parent_id: 17248
+                date: 2004-02-16 11:27
+                poster: Sergei Nenarochkin (iZeCold)
+                email: serjtrin@hotbox.ru
+                subject: который Ларсен :)
+                deleted: false
+                replies:
+                - id: 17255
+                  parent_id: 17254
+                  date: 2004-02-16 12:00
+                  poster: Дима Казанцев (Dr. Nick)
+                  email: dr.nick@blues.ru
+                  subject: Рейдар
+                  deleted: false
+                  text: но не тот что пианист ;)
+  - id: 17179
+    parent_id: 17171
+    date: 2004-02-10 18:58
+    poster: Михан  (Ded Morozzz)
+    email: morozzz_ded@mail.ru
+    subject: Да, с Ватсоном тусоваться - это вам не просто так :)
+    deleted: false
+    text: Жду с нетерпением :)
+    replies:
+    - id: 17180
+      parent_id: 17179
+      date: 2004-02-10 20:04
+      poster: Федор Романенко (fedor)
+      email: fedor@blues.ru
+      subject: Ватсон
+      deleted: false
+      text: Они, кстати, 23-го утром в Осло, а 24-го в Калифонию назад к Ватсону.
+        ;)
+  - id: 17189
+    parent_id: 17171
+    date: 2004-02-11 11:41
+    poster: (Grem)
+    email: sergei.sergeev@emersonprocess.ru
+    subject: 2 Ded Morozz ...
+    deleted: false
+    text: 'Михан, будьте любезны плиз.... Отчетик о выступлениях этих перцев во Владимире(судя
+      по афише они у вас будут раньше чем в Москве).
+
+      Заранее благодарен...'
+    replies:
+    - id: 17197
+      parent_id: 17189
+      date: 2004-02-11 16:11
+      poster: Михан  (Ded Morozzz)
+      email: morozzz_ded@mail.ru
+      subject: Не вопрос :)
+      deleted: false
+  - id: 17219
+    parent_id: 17171
+    date: 2004-02-12 09:30
+    poster: (Grem)
+    email: sergei.sergeev@emersonprocess.ru
+    subject: '"ДОМ У ДОРОГИ" - что за место .....???'
+    deleted: false
+    replies:
+    - id: 17225
+      parent_id: 17219
+      date: 2004-02-12 13:43
+      poster: Федор Романенко (fedor)
+      email: fedor@blues.ru
+      subject: Дом у Дороги
+      deleted: false
+      text: Это небольшой камерный клуб в районе Спортивной, немного похож на БиБиКинг...
+      replies:
+      - id: 17283
+        parent_id: 17225
+        date: 2004-02-17 08:45
+        poster: Михан  (Ded Morozzz)
+        email: morozzz_ded@mail.ru
+        subject: Ходят упорные слухи...
+        deleted: false
+        text: '... что на басу будет Билл Трояни. Енто усё слухи или реальная фишка?'

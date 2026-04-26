@@ -1,0 +1,73 @@
+topic_id: 3844
+slug: topic-3844
+title: а вот тут не перепутали
+first_post: 2007-12-26 00:38
+last_post: 2007-12-27 09:51
+post_count: 7
+posts:
+- id: 34201
+  parent_id: null
+  date: 2007-12-26 00:38
+  poster: Dmitri Kazantsev (Dr. Nick)
+  email: dr.nick@blues.ru
+  subject: а вот тут не перепутали
+  deleted: false
+  text: 'Спектора с Филлипсом?
+
+
+    Фил Спектор (Phil SPECTOR). Не будет ни малейшего преувеличения назвать его гением
+    звукозаписи (хотя, проводя эксперименты, он иногда совершал ошибки, немыслимые
+    сегодня даже для начинающих звукорежиссеров). Кроме того, он открыл многих музыкантов
+    в самых разных жанрах и дал им возможность записать сразу же хитовую пластинку.
+    Для блюза он сделал очень много. Большинство блюзовых записей, которые он сделал
+    в своей мемфисской студии Sun, были переизданы на в Чикаго на Chess.'
+  replies:
+  - id: 34202
+    parent_id: 34201
+    date: 2007-12-26 04:55
+    poster: Старый Майор
+    email: gypsy@mail.ru
+    subject: Папо ты скем разговариваеш?
+    deleted: false
+    replies:
+    - id: 34203
+      parent_id: 34202
+      date: 2007-12-26 05:07
+      poster: Jumpin' Jack Flash
+      email: gkuygjheygj
+      subject: Вы ж поймите
+      deleted: false
+      text: Пока The Pohaehalis не приедут,вы себя не поймyoте
+  - id: 34205
+    parent_id: 34201
+    date: 2007-12-26 07:05
+    poster: Muddy Lives
+    email: mlives_6@hotmail.com
+    subject: Да, перепутали
+    deleted: false
+    text: Первая часть про Спектора, а вторая про Филлипса.  Откуда текст?
+    replies:
+    - id: 34207
+      parent_id: 34205
+      date: 2007-12-26 10:23
+      poster: Dmitri Kazantsev (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: с первой страницы
+      deleted: false
+  - id: 34208
+    parent_id: 34201
+    date: 2007-12-26 11:42
+    poster: Andrei V. Evdokimov (evdokimov)
+    email: evdokimov@blues.ru
+    subject: перепутали - бывает )))
+    deleted: false
+    text: исправим
+    replies:
+    - id: 34209
+      parent_id: 34208
+      date: 2007-12-27 09:51
+      poster: Dmitri Kazantsev (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: спасибо :)
+      deleted: false
+      text: а то 26 декабря - это важная дата для меня :)

@@ -1,0 +1,35 @@
+topic_id: 204
+slug: topic-204
+title: VIDAR BUSK
+first_post: 2002-05-16 04:31
+last_post: 2002-05-16 15:48
+post_count: 3
+posts:
+- id: 4400
+  parent_id: null
+  date: 2002-05-16 04:31
+  poster: Федор Романенко (fedor)
+  email: fedor@blues.ru
+  subject: VIDAR BUSK
+  deleted: false
+  text: Как вы уже поняли, Бюск будет играть в Москве. Не пропустите! Это опрокидывает
+    раз и навсегда! ;) Эти гастроли - это то, над чем мы бились последние полгода,
+    а три года перед этим вынашивали в сердце. Все для вас! ;)
+  replies:
+  - id: 4401
+    parent_id: 4400
+    date: 2002-05-16 05:41
+    poster: Дима Казанцев (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: I hope
+    deleted: false
+    text: that you got two tickets for me and Veteran, boy? If you don't, you're dead
+      :)
+  - id: 4407
+    parent_id: 4400
+    date: 2002-05-16 15:48
+    poster: Andrei V. Evdokimov (evdokimov)
+    email: evdokimov@blues.ru
+    subject: феде (частное)
+    deleted: false
+    text: и этот человек обзывал мою "личную переписку" высокопарной :)

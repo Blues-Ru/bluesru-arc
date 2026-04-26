@@ -1,0 +1,34 @@
+path: 03Winter
+type: custom
+title: Зимние новости 2003 - ATB's Winter Blues News
+date: null
+photo_count: 10
+captioned: 8
+index_files:
+- 03Winter.htm
+extra_text: null
+photos:
+- file: BBKnews.jpg
+  caption: Blues Bar B.B.KING
+- file: BLAND.JPG
+  caption: Bobby &quot;Blue&quot; Bland
+- file: BlindBoysofA_02.jpg
+  caption: Все выше и выше...
+- file: Honey1.jpg
+  caption: Чествование продолжается
+- file: KingBB03.jpg
+  caption: БиБиКинг салютует блюзу
+- file: atbtile.jpg
+- file: jukes-film.jpg
+  caption: Various in Last of the Mississippi Jukes
+- file: rj-78.jpg
+  caption: 4 827$ &nbsp; &nbsp;
+- file: turner_otha.jpg
+- file: yardbirds.jpg
+  caption: Yardbirds
+canonical_date: 2003-01
+clean_title: Блюз-новости зимы 2003
+slug: blues-news-winter-2003
+description: ATB Blues News, зима 2003.
+source_article: null
+exclude: true

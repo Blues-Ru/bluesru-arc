@@ -1,0 +1,76 @@
+topic_id: 1870
+slug: topic-1870
+title: А г-н Калачёв открыл свой сайт www.bluesnews.ru, спешите видеть
+first_post: 2004-02-16 21:56
+last_post: 2004-02-17 17:18
+post_count: 7
+posts:
+- id: 17268
+  parent_id: null
+  date: 2004-02-16 21:56
+  poster: Старый майор
+  email: gypsy@mail.ru
+  subject: А г-н Калачёв открыл свой сайт www.bluesnews.ru, спешите видеть
+  deleted: false
+  text: 'Однако не могу обойтись без бурчания: будучи размещён на перегруженном публичном
+    сервере valuehostю.ru, сайт тормозит безбожно..'
+  replies:
+  - id: 17270
+    parent_id: 17268
+    date: 2004-02-16 22:33
+    poster: Дима Казанцев (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: просто замечательно!
+    deleted: false
+    text: 'в Москве около 50 человек, которые ходят на ВСЕ концерты; по стране человек
+      500 наверное, а у нас уже третий блюзовый сайт!
+
+
+      это не может не радует! у нас почти каждый любитель блюза скоро сможет иметь
+      СВОЙ сайт! :)'
+    replies:
+    - id: 17272
+      parent_id: 17270
+      date: 2004-02-16 22:50
+      poster: Федор Романенко (fedor)
+      email: fedor@blues.ru
+      subject: Во, дурь!
+      deleted: false
+      text: А я-то сижу и думаю, во многих странах есть bluesnews.xx, не зарегистрировать
+        ли мне такой же, но, думаю, спешить не имеет смысла, ибо кому еще такое имя
+        нужно? ;) А тут раз тебе и два - Калачев взял, да и открыл. Главное, молчал
+        как партизан в многочисленных беседах ;) Желаю успехов!
+      replies:
+      - id: 17276
+        parent_id: 17272
+        date: 2004-02-16 23:39
+        poster: Дима Казанцев (Dr. Nick)
+        email: dr.nick@blues.ru
+        subject: я тоже сильно удивился
+        deleted: false
+        text: будет ли у Вас с ним противостояние сайтов теперь, Федор?
+        replies:
+        - id: 17282
+          parent_id: 17276
+          date: 2004-02-17 01:34
+          poster: Федор Романенко (fedor)
+          email: fedor@blues.ru
+          subject: bluesnews.ru
+          deleted: false
+          text: Мой развернутый <a href="http://blues.ru/blog/fedor/posts/286.aspx">ответ
+            в Блоге</a>.
+  - id: 17273
+    parent_id: 17268
+    date: 2004-02-16 23:03
+    poster: Yuri Kaverkin (Gekko)
+    email: kaverkin@rol.ru
+    subject: Кайф!!! Молодец Калачев!!!
+    deleted: false
+  - id: 17291
+    parent_id: 17268
+    date: 2004-02-17 17:18
+    poster: Andrei V. Evdokimov (evdokimov)
+    email: evdokimov@blues.ru
+    subject: цытата
+    deleted: false
+    text: '"российский блюз уютно расположился на известном сайте"'

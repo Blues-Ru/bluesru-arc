@@ -1,0 +1,46 @@
+topic_id: 307
+slug: topic-307
+title: В Нью-Йорке на 94-м году жизни умер Лайонел Хэмптон
+first_post: 2002-09-02 11:16
+last_post: 2002-09-03 09:57
+post_count: 4
+posts:
+- id: 7308
+  parent_id: null
+  date: 2002-09-02 11:16
+  poster: Михаил Бирюков (nECKAPb)
+  email: blackcat@blues.ru
+  subject: В Нью-Йорке на 94-м году жизни умер Лайонел Хэмптон
+  deleted: false
+  text: 'По Эху Москвы только что передали.
+
+    ...Да, это джазмен, я знаю - но всё же.'
+  replies:
+  - id: 7311
+    parent_id: 7308
+    date: 2002-09-02 13:43
+    poster: Юрий Каверкин
+    email: kaverkin@rol.ru
+    subject: Видимо это был последний из гигантов "Hot Five" Бенни Гудмана
+    deleted: false
+  - id: 7318
+    parent_id: 7308
+    date: 2002-09-02 16:19
+    poster: Дима Казанцев (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: Жалко и странно
+    deleted: false
+    text: 'Сегодня ночью я достал пластинку Хэмптона, которую не слушал лет так пять.
+      И тут вот...
+
+      Вечная память.'
+  - id: 7323
+    parent_id: 7308
+    date: 2002-09-03 09:57
+    poster: Malcolm Ray  Redriver (Mike)
+    email: lifebythedrop@yandex.ru
+    subject: Oh, shit!!!
+    deleted: false
+    text: 'Прошу прощение за выражение, но другого ничего сказать не могу.
+
+      Ну вот, символы века уходят постепенно с самим веком.'

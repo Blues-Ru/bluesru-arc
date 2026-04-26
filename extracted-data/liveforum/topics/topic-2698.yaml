@@ -1,0 +1,35 @@
+topic_id: 2698
+slug: topic-2698
+title: Здесь кто-то интересным эффектом интересовался :-)))))
+first_post: 2005-08-12 00:18
+last_post: 2005-08-12 13:38
+post_count: 3
+posts:
+- id: 22285
+  parent_id: null
+  date: 2005-08-12 00:18
+  poster: Руслан Чифуров ()
+  email: chifuroff@inbox.ru
+  subject: Здесь кто-то интересным эффектом интересовался :-)))))
+  deleted: false
+  text: 'Эффект, который называется "войсбокс" или "вокодер" можно собрать и в домашних
+    условиях из подручных средств. Вот для примера подобный трек: <a href="http://www.pasportov.net/ruslan/voice.mp3">Bring
+    It On Home To Me</a>'
+  replies:
+  - id: 22286
+    parent_id: 22285
+    date: 2005-08-12 09:53
+    poster: Старый Майор
+    email: gypsy@mail.ru
+    subject: Руслан, а собери мне миди-процессор для гитары из подручных средств ))
+    deleted: false
+    text: Миди-датчик я уж куплю, не разорюсь, а вот процессор - вещь дорогостоящая...
+    replies:
+    - id: 22290
+      parent_id: 22286
+      date: 2005-08-12 13:38
+      poster: Руслан Чифуров
+      email: chifuroff@inbox.ru
+      subject: Это слишком сложная задача :-)))))
+      deleted: false
+      text: Слабоват я в цифровой технике, по правде говоря :-)))))

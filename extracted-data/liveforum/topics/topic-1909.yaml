@@ -1,0 +1,27 @@
+topic_id: 1909
+slug: topic-1909
+title: Всех девчонок - с наступающим праздником!!
+first_post: 2004-03-05 19:19
+last_post: 2004-03-07 20:38
+post_count: 2
+posts:
+- id: 17515
+  parent_id: null
+  date: 2004-03-05 19:19
+  poster: Дмитрий(fan))
+  email: leonidovd@mail.ru
+  subject: Всех девчонок - с наступающим праздником!!
+  deleted: false
+  text: 'Поздравляю всех девчонок, исполняющих, сочинающих, поющих, слушающих, а ГЛАВНОЕ
+    - понимающих и чувствующих блюз, с наступающим праздником !!!
+
+    Желаю здоровья, счастья, успехов во всем, любви и радости!!!'
+  replies:
+  - id: 17535
+    parent_id: 17515
+    date: 2004-03-07 20:38
+    poster: Natasha
+    email: moonlitval@mail.ru
+    subject: :)
+    deleted: false
+    text: Спасибо! :)

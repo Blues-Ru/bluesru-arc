@@ -1,0 +1,34 @@
+# Cloudflare Pages / Netlify _headers
+# Content-Type and caching rules
+
+/*.html
+  Content-Type: text/html; charset=utf-8
+  Cache-Control: public, max-age=3600
+
+/data/*.json
+  Content-Type: application/json; charset=utf-8
+  Cache-Control: public, max-age=900
+
+/static/js/*.js
+  Content-Type: application/javascript; charset=utf-8
+  Cache-Control: public, max-age=86400
+
+/static/css/*.css
+  Content-Type: text/css; charset=utf-8
+  Cache-Control: public, max-age=86400
+
+/*.css
+  Cache-Control: public, max-age=86400
+
+/*.js
+  Cache-Control: public, max-age=86400
+
+/images/*
+  Cache-Control: public, max-age=2592000
+
+/calendar/*
+  Cache-Control: public, max-age=2592000
+
+/review/rss.xml
+  Content-Type: application/rss+xml; charset=utf-8
+  Cache-Control: public, max-age=3600

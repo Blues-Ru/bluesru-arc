@@ -1,0 +1,105 @@
+topic_id: 3021
+slug: topic-3021
+title: Крутой сайт!
+first_post: 2005-12-28 16:40
+last_post: 2006-01-05 23:48
+post_count: 8
+posts:
+- id: 25283
+  parent_id: null
+  date: 2005-12-28 16:40
+  poster: Федор Романенко (fedor)
+  email: fedor@blues.ru
+  subject: Крутой сайт!
+  deleted: false
+  text: 'http://www.bbking.ru ;)
+
+    В title и keywords перечислен список музыкантов с блюз.ру ;) Больше текста нет.'
+  replies:
+  - id: 25284
+    parent_id: 25283
+    date: 2005-12-28 16:46
+    poster: Илья Кривандин (Populoss)
+    email: ilija@bk.ru
+    subject: Аффтар жжот!
+    deleted: false
+    text: Там еще несколько картинок есть!!!!!!!! :))))))))
+  - id: 25285
+    parent_id: 25283
+    date: 2005-12-28 16:46
+    poster: Дмитрий Казанцев (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: а кто делает этот сайт?
+    deleted: false
+    text: и с какой целью?
+    replies:
+    - id: 25288
+      parent_id: 25285
+      date: 2005-12-28 18:24
+      poster: VoV  (Barmaley)
+      email: barmaley-vov@yandex.ru
+      subject: Некое
+      deleted: false
+      text: 'рекламное агентство http://www.promedia.ru/
+
+        Видимо киберсквоттинг самый обычный.'
+  - id: 25287
+    parent_id: 25283
+    date: 2005-12-28 18:22
+    poster: VoV  (Barmaley)
+    email: barmaley-vov@yandex.ru
+    subject: Хуиз
+    deleted: false
+    text: 'domain:     BBKING.RU
+
+      type:       CORPORATE
+
+      nserver:    ns.promedia.ru.
+
+      nserver:    ns2.ornet.ru.
+
+      state:      REGISTERED, DELEGATED
+
+      person:     Nikolay A Dubinkin
+
+      phone:      +7 095 9265346
+
+      fax-no:     +7 095 9265347
+
+      e-mail:     nicholas_d@mail.ru
+
+      e-mail:     nicholas@promedia.ru
+
+      registrar:  RUCENTER-REG-RIPN
+
+      created:    2001.11.28
+
+      paid-till:  2006.11.29
+
+      source:     TC-RIPN'
+  - id: 25289
+    parent_id: 25283
+    date: 2005-12-28 18:26
+    poster: VoV  (Barmaley)
+    email: barmaley-vov@yandex.ru
+    subject: Там кстати
+    deleted: false
+    text: 'есть ссылка на  http://www.yearoftheblues.ru/
+
+      А домен не зарегистрирован.'
+    replies:
+    - id: 25290
+      parent_id: 25289
+      date: 2005-12-28 18:40
+      poster: Владимир Русинов (BluesCat)
+      email: volodya@blues.ru
+      subject: смысла уже нет.. этож был 2003ий год :)
+      deleted: false
+  - id: 25336
+    parent_id: 25283
+    date: 2006-01-05 23:48
+    poster: Magic  (Guitaristka)
+    email: gruppamagic@narod.ru
+    subject: '2006'
+    deleted: false
+    text: Да уж, ждут, что вы его купите. Каждый год продляют ведь же...

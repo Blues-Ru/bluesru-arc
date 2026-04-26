@@ -1,0 +1,65 @@
+topic_id: 1843
+slug: topic-1843
+title: старый майор или кто помнит
+first_post: 2004-02-09 01:20
+last_post: 2004-02-12 17:55
+post_count: 6
+posts:
+- id: 17117
+  parent_id: null
+  date: 2004-02-09 01:20
+  poster: MX
+  email: brjiv
+  subject: старый майор или кто помнит
+  deleted: false
+  text: 'как назывался сайт с текстами и аккордами,где куча песен в стиле евергрин?
+
+    А что Гарри глючит постоянно?'
+  replies:
+  - id: 17199
+    parent_id: 17117
+    date: 2004-02-11 17:05
+    poster: Старый Майор
+    email: gypsy@mail.ru
+    subject: эээ... рекомендую посмотреть сюда.. но никому не говори!!!
+    deleted: false
+    text: 'Эвергрины поищи в архиве, я что-то их сам потерял.
+
+
+      а нащет Гарри: по большому секрету... http://gypsy.bluesman.ru/Lyrics/blueslyrics.tripod.com.zip
+      ))'
+    replies:
+    - id: 17202
+      parent_id: 17199
+      date: 2004-02-11 21:44
+      poster: Сергей Иванов (serge_ivanov)
+      email: serge_ivanov@hotmail.com
+      subject: это мой архив или другой вариант?
+      deleted: false
+      text: а то в том, что я скачивал,, кое-чего, как выяснилось не хватает :-(
+      replies:
+      - id: 17233
+        parent_id: 17202
+        date: 2004-02-12 17:55
+        poster: Старый Майор
+        email: gypsy@mail.ru
+        subject: Это я сам скачивал полгодика назад, могет быть, что не всё скачалось..
+          вот такой у нас Гарри неуловимый ))
+        deleted: false
+  - id: 17228
+    parent_id: 17117
+    date: 2004-02-12 15:20
+    poster: MX
+    email: nndvjkjk
+    subject: more than thanx)))))))
+    deleted: false
+    text: evergreens- www. theguitarguy.com
+  - id: 17230
+    parent_id: 17117
+    date: 2004-02-12 16:01
+    poster: MX
+    email: hvdv
+    subject: даааа
+    deleted: false
+    text: а Гарри скачивается действительно по-шпионски))))))))то есть или часа полтора,я
+      так понял,пока не рассоединило, или не скачивается совсем

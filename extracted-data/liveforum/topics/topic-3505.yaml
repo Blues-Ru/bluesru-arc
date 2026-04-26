@@ -1,0 +1,38 @@
+topic_id: 3505
+slug: topic-3505
+title: ПОМОГИТЕ!!!
+first_post: 2006-11-23 22:10
+last_post: 2006-11-24 12:39
+post_count: 3
+posts:
+- id: 29422
+  parent_id: null
+  date: 2006-11-23 22:10
+  poster: John Sebastian
+  email: 555_i@mail.ru
+  subject: ПОМОГИТЕ!!!
+  deleted: false
+  text: Доброго времени суток товарищи!Помогите найти песню you're a big boy now.Исполнитель
+    - John Sebastian.Заранее огромное спасибо!
+  replies:
+  - id: 29423
+    parent_id: 29422
+    date: 2006-11-24 12:36
+    poster: Dmitri Kazantsev (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: а может Peter Green?
+    deleted: false
+  - id: 29424
+    parent_id: 29422
+    date: 2006-11-24 12:39
+    poster: Dmitri Kazantsev (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: это Lovin' Spoonful
+    deleted: false
+    text: 'музыка к фильму Вуди Аллена
+
+
+      у меня есть на виниле
+
+
+      если ОЧЕНЬ надо, могу оцифровать'

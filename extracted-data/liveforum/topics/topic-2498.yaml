@@ -1,0 +1,57 @@
+topic_id: 2498
+slug: topic-2498
+title: Фотки с джема в Бибикинге :)
+first_post: 2005-03-31 01:18
+last_post: 2005-04-04 21:35
+post_count: 6
+posts:
+- id: 20949
+  parent_id: null
+  date: 2005-03-31 01:18
+  poster: vr  (Stone Crazy)
+  email: volodya@blues.ru
+  subject: Фотки с джема в Бибикинге :)
+  deleted: false
+  text: <A HREF="http://www.bluescats.ru/files/20050330.bbking_jam/">http://www.bluescats.ru/files/20050330.bbking_jam/</A>
+  replies:
+  - id: 20951
+    parent_id: 20949
+    date: 2005-03-31 01:37
+    poster: Yuri Kaverkin (Gekko)
+    email: kaverkin@rol.ru
+    subject: Огромное спасибо за фотографии! Они отличные - охвачны практически все
+      джемовавшие!
+    deleted: false
+  - id: 20958
+    parent_id: 20949
+    date: 2005-03-31 11:57
+    poster: (Grem)
+    email: grems@yandex.ru
+    subject: Ух ты... а Гия и Владан как два родных брата....похожи
+    deleted: false
+  - id: 20961
+    parent_id: 20949
+    date: 2005-03-31 13:10
+    poster: Muddy Lives
+    email: mlives_6@hotmail.com
+    subject: Ребята отлично играли
+    deleted: false
+    text: and Pera Joe blew the backs off of it.
+    replies:
+    - id: 20997
+      parent_id: 20961
+      date: 2005-04-04 13:00
+      poster: Алексей Аграновский (Док)
+      email: aaa@genebee.msu.su
+      subject: Спасибо всем, кто пришел!
+      deleted: false
+      replies:
+      - id: 20998
+        parent_id: 20997
+        date: 2005-04-04 21:35
+        poster: Andrei V. Evdokimov (evdokimov)
+        email: evdokimov@blues.ru
+        subject: Фоторепортаж о концерте Two for the show
+        deleted: false
+        text: <a href="/bluesnews/05Spring/PeraJoe/index.htm"><b>Фоторепортаж о концерте
+          Two for the show</b></a> дозрел.

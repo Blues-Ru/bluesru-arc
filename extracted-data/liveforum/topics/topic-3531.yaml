@@ -1,0 +1,118 @@
+topic_id: 3531
+slug: topic-3531
+title: умер Джеймс Браун
+first_post: 2006-12-25 13:16
+last_post: 2006-12-28 17:43
+post_count: 12
+posts:
+- id: 30122
+  parent_id: null
+  date: 2006-12-25 13:16
+  poster: Dmitri Kazantsev (Dr. Nick)
+  email: dr.nick@blues.ru
+  subject: умер Джеймс Браун
+  deleted: false
+  text: вот так блин...
+  replies:
+  - id: 30123
+    parent_id: 30122
+    date: 2006-12-25 13:47
+    poster: andrey k
+    email: 536378@yahoo.com
+    subject: нет слов
+    deleted: false
+    text: 'вот так Рождество
+
+
+      мда...'
+  - id: 30128
+    parent_id: 30122
+    date: 2006-12-25 16:26
+    poster: Эльдар
+    email: еIicаster С06АKAmaiI.ru
+    subject: Очень грустно...
+    deleted: false
+  - id: 30129
+    parent_id: 30122
+    date: 2006-12-25 17:21
+    poster: Эльдар
+    email: еIicаster С06АKAmaiI.ru
+    subject: Godfather of Soul
+    deleted: false
+    text: Rest In Peace
+    replies:
+    - id: 30138
+      parent_id: 30129
+      date: 2006-12-26 00:50
+      poster: Митя
+      email: meis2000@mail.ru
+      subject: R.I.P...
+      deleted: false
+      text: 'Грустно...
+
+        Надеюсь, где бы он ни был теперь, он также "..feel good"'
+      replies:
+      - id: 30143
+        parent_id: 30138
+        date: 2006-12-26 01:53
+        poster: ripriprip
+        email: xwxjwi
+        subject: ripriprip
+        deleted: false
+        replies:
+        - id: 30144
+          parent_id: 30143
+          date: 2006-12-26 01:56
+          poster: rip rip rippripripriirip riip
+          email: rklf
+          subject: rip rip ripri priirip
+          deleted: false
+  - id: 30171
+    parent_id: 30122
+    date: 2006-12-26 21:19
+    poster: Александр
+    email: soulman@bk.ru
+    subject: Земля пухом
+    deleted: false
+    text: "Я был на его концерте 28.07.1977 в Риге. Стоял у самой сцены, сделал десяток\
+      \ фото. Старик был в прекрасной форме.Да что там! Просто фантастический был\
+      \ концерт! Ничего подобного я, при всей любви и уважении не ожидал, но что-то\
+      \ подсказывало, что немного ему осталось. \n Я успел вскочить в уходящий поезд\
+      \ и прикоснутся к Великой Музыке Великого Музыканта. Rest In Peace James..."
+    replies:
+    - id: 30172
+      parent_id: 30171
+      date: 2006-12-26 21:20
+      poster: Александр
+      email: soulman@bk.ru
+      subject: Земля пухом
+      deleted: false
+      text: Опечатка 2006года, конечно.
+  - id: 30189
+    parent_id: 30122
+    date: 2006-12-27 17:00
+    poster: Muddy Lives
+    email: mlives_6@hotmail.com
+    subject: :(((
+    deleted: false
+    text: "Один из важнейших музыкантов 20-го века.  Наверно самый влиятельный музыкант\
+      \ последнего полувека.  \n\nMuddy"
+    replies:
+    - id: 30190
+      parent_id: 30189
+      date: 2006-12-27 17:16
+      poster: Илья Кривандин
+      email: ilija@bk.ru
+      subject: Просто нет слов...
+      deleted: false
+      text: Александр, завидую!
+      replies:
+      - id: 30204
+        parent_id: 30190
+        date: 2006-12-28 17:43
+        poster: Andrei V. Evdokimov (evdokimov)
+        email: evdokimov@blues.ru
+        subject: 20 знаменитых блюзовых музыкантов
+        deleted: false
+        text: ушли за этот год. каждое имя - драгоценность в истории блюза. но такой
+          массовый призыв в рай... нет слов

@@ -1,0 +1,50 @@
+topic_id: 3039
+slug: topic-3039
+title: Вот завёл себе ЖЖ
+first_post: 2006-01-11 02:52
+last_post: 2006-01-13 11:27
+post_count: 5
+posts:
+- id: 25387
+  parent_id: null
+  date: 2006-01-11 02:52
+  poster: мишурис
+  email: mishuris@mail.ru
+  subject: Вот завёл себе ЖЖ
+  deleted: false
+  text: Заходите, дорогие друзья !   http://www.livejournal.com/users/mishouris/
+  replies:
+  - id: 25394
+    parent_id: 25387
+    date: 2006-01-11 15:24
+    poster: Валентин
+    email: voshalb@rambler.ru
+    subject: Добрый день!!! Зашел,Миша...
+    deleted: false
+    text: Спорно,но любопытно(о вкусах)...
+  - id: 25398
+    parent_id: 25387
+    date: 2006-01-11 17:19
+    poster: Muddy Lives
+    email: mlives_6@hotmail.com
+    subject: По-моему
+    deleted: false
+    text: У Миши очень хороший вкус!
+  - id: 25409
+    parent_id: 25387
+    date: 2006-01-12 00:47
+    poster: Руслан Чифуров ()
+    email: chifuroff<sobaka>inbox.ru
+    subject: Заразная штука :-)))))
+    deleted: false
+    text: Я вот тоже завёл чуть больше года назад и поначалу ничего там не писАл,
+      а потом втянулся :-)))))
+    replies:
+    - id: 25439
+      parent_id: 25409
+      date: 2006-01-13 11:27
+      poster: Дмитрий (фан)
+      email: leonidovd@mail.ru
+      subject: Интернет вообще штука заразная...
+      deleted: false
+      text: Можно сказать наркозависимая:))

@@ -1,0 +1,33 @@
+topic_id: 1266
+slug: topic-1266
+title: А не подскажет ли уважаемый all, где в Москве приобрести штуковину?(+)
+first_post: 2003-07-16 10:39
+last_post: 2003-07-17 19:39
+post_count: 3
+posts:
+- id: 13223
+  parent_id: null
+  date: 2003-07-16 10:39
+  poster: Alexander Lokotkov
+  email: lokotkov-2003@yandex.ru
+  subject: А не подскажет ли уважаемый all, где в Москве приобрести штуковину?(+)
+  deleted: false
+  text: Типа медиатор, но надевающийся на большой палец правой руки?
+  replies:
+  - id: 13228
+    parent_id: 13223
+    date: 2003-07-16 16:06
+    poster: Barmaley
+    email: vov
+    subject: Типа медиатор, он же "коготь"
+    deleted: false
+    text: был виден мной в последний раз в музыкальном магазине на ВДНХ, в павильоне,
+      имхо то ли "народное образование", то ли "профтех образование".
+  - id: 13245
+    parent_id: 13223
+    date: 2003-07-17 19:39
+    poster: Дима Казанцев (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: Ну зайди в Ямаху на Маяковке
+    deleted: false
+    text: Там были и бывают.

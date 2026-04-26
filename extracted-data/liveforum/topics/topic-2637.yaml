@@ -1,0 +1,42 @@
+topic_id: 2637
+slug: topic-2637
+title: 7 июля в Вудстоке
+first_post: 2005-06-29 18:21
+last_post: 2005-07-05 17:30
+post_count: 4
+posts:
+- id: 21902
+  parent_id: null
+  date: 2005-06-29 18:21
+  poster: Алексей Аграновский (Док)
+  email: aaa@genebee.msu.su
+  subject: 7 июля в Вудстоке
+  deleted: false
+  text: будет джем. Записаться можно на месте у Саши Братецкого.
+  replies:
+  - id: 21906
+    parent_id: 21902
+    date: 2005-06-29 19:05
+    poster: Андрей Ордальонов (Андрей PRG)
+    email: peregnoy@mail.ru
+    subject: А г-н Аграновский
+    deleted: false
+    text: в джеме своё участие не предполагает?
+  - id: 21907
+    parent_id: 21902
+    date: 2005-06-29 19:21
+    poster: Алексей Аграновский (Док)
+    email: aaa@genebee.msu.su
+    subject: Ленин, типа, умер
+    deleted: false
+    text: (чтоб он был здоров), но дело его живёт.
+  - id: 21953
+    parent_id: 21902
+    date: 2005-07-05 17:30
+    poster: Александр  Половинкин
+    email: polovinkindrums@mail.ru
+    subject: 7 июля,
+    deleted: false
+    text: как выяснилось,день рождения Евгения Немова!И он будет присутствовать на
+      джеме,так что всем поздравляющим просьба покинуть душные квартиры и устремиться
+      прямо в Вудсток!

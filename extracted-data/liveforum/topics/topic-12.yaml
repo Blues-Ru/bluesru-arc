@@ -1,0 +1,94 @@
+topic_id: 12
+slug: topic-12
+title: Срочно в номер!!! У Сашки Братецкого сын родился!!!
+first_post: 2002-01-25 16:57
+last_post: 2002-01-26 17:38
+post_count: 9
+posts:
+- id: 298
+  parent_id: null
+  date: 2002-01-25 16:57
+  poster: Макаров Алексей
+  email: makarka@mail.ru
+  subject: Срочно в номер!!! У Сашки Братецкого сын родился!!!
+  deleted: false
+  text: 'У Сашки Братецкого сын родился!!! Ура!!!
+
+    Счастливый папаша принимает поздравления по телефону.'
+  replies:
+  - id: 299
+    parent_id: 298
+    date: 2002-01-25 17:08
+    poster: Дима Казанцев (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: А ты кто таков?
+    deleted: false
+    text: 'Роды что ли принимал?
+
+      Привет ему от Доктора Ника!'
+    replies:
+    - id: 301
+      parent_id: 299
+      date: 2002-01-25 17:39
+      poster: AlexIV
+      email: evergreens@mail.ru
+      subject: Как кто?
+      deleted: false
+      text: 'Для тех, кто на бронепоезде: Леша Макаров - типа менеджер владимирской
+        банды Blackmailers, c которой БратецКий активно сотрудничает. :-))'
+      replies:
+      - id: 302
+        parent_id: 301
+        date: 2002-01-25 17:47
+        poster: Дима Казанцев (Dr. Nick)
+        email: dr.nick@blues.ru
+        subject: Так бы и говорил ;)
+        deleted: false
+        text: А то, типа, у Братеца Кия родился там кто-то, а пишу об этом, типа,
+          я ;)
+        replies:
+        - id: 337
+          parent_id: 302
+          date: 2002-01-26 15:56
+          poster: Captain Beefheart
+          email: crazy_bear@fomenko.ru
+          subject: Хех...
+          deleted: false
+          text: Доктор, ты как под пивом...:)
+          replies:
+          - id: 347
+            parent_id: 337
+            date: 2002-01-26 17:38
+            poster: Дима Казанцев (Dr. Nick)
+            email: dr.nick@blues.ru
+            subject: Капитан, о чем ты?
+            deleted: false
+            text: И что тебя связывает с лучшим другом Заппы?
+    - id: 318
+      parent_id: 299
+      date: 2002-01-26 03:10
+      poster: Andrei V. Evdokimov (evdokimov)
+      email: evdokimov@blues.ru
+      subject: ты макарку не тронь
+      deleted: false
+      text: на таких людях блюзон дерится
+      replies:
+      - id: 324
+        parent_id: 318
+        date: 2002-01-26 03:26
+        poster: Дима Казанцев (Dr. Nick)
+        email: dr.nick@blues.ru
+        subject: Больше не буду
+        deleted: false
+        text: Типа глобал респект и тотальное уважение и Макарке и всему честному
+          городу Владимиру - оплоту россейского блюза!
+  - id: 336
+    parent_id: 298
+    date: 2002-01-26 15:55
+    poster: Captain Beefheart
+    email: crazy_bear@fomenko.ru
+    subject: Про-зра-вля!
+    deleted: false
+    text: У самого недавно племянничек появился - приучается к блюзу. Потихоньку.
+      Так что поздравления и так далее. Приучай к нашей музыке! Если ты её слушаешь.
+      Как говорят в Britannia - Greetings thee!

@@ -1,0 +1,23 @@
+topic_id: 2805
+slug: topic-2805
+title: Про Криса Джонса
+first_post: 2005-09-21 16:38
+last_post: 2005-09-22 00:36
+post_count: 2
+posts:
+- id: 23353
+  parent_id: null
+  date: 2005-09-21 16:38
+  poster: Alexander
+  email: rambow@mail.ru
+  subject: Про Криса Джонса
+  deleted: false
+  text: Ребята, в новостях на первой странице ссыллка на сайт не того Криса Джонса.
+  replies:
+  - id: 23360
+    parent_id: 23353
+    date: 2005-09-22 00:36
+    poster: Andrei V. Evdokimov (evdokimov)
+    email: evdokimov@blues.ru
+    subject: спасибо. поправил
+    deleted: false

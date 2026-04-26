@@ -1,0 +1,43 @@
+topic_id: 853
+slug: topic-853
+title: И еще - Федору...
+first_post: 2003-05-19 10:22
+last_post: 2003-05-20 11:30
+post_count: 4
+posts:
+- id: 12540
+  parent_id: null
+  date: 2003-05-19 10:22
+  poster: (Grem)
+  email: sergei.sergeev@emersonprocess.ru
+  subject: И еще - Федору...
+  deleted: false
+  text: 'Федор,
+
+    Было бы очень интересно пригласить их 27-го на blues.ru.
+
+    Вот фишка то была....'
+  replies:
+  - id: 12541
+    parent_id: 12540
+    date: 2003-05-19 10:53
+    poster: (Grem)
+    email: sergei.sergeev@emersonprocess.ru
+    subject: Это про Amund Maarud Band...
+    deleted: false
+    replies:
+    - id: 12552
+      parent_id: 12541
+      date: 2003-05-19 19:10
+      poster: vr  (Stone Crazy)
+      email: volodya@blues.ru
+      subject: привози лучше сам БиБиКинга сразу
+      deleted: false
+      replies:
+      - id: 12565
+        parent_id: 12552
+        date: 2003-05-20 11:30
+        poster: Андрей Цыганков (gypsy)
+        email: gypsy@mail.ru
+        subject: Он же упираться будет.... и тяжёлый очень...
+        deleted: false

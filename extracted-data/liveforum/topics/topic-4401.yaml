@@ -1,0 +1,45 @@
+topic_id: 4401
+slug: topic-4401
+title: Подскажите, пожалуйста, из какой композиции использован отрывок в этом видео?
+first_post: 2010-06-27 02:28
+last_post: 2010-06-28 15:26
+post_count: 4
+posts:
+- id: 36966
+  parent_id: null
+  date: 2010-06-27 02:28
+  poster: Tweety
+  subject: Подскажите, пожалуйста, из какой композиции использован отрывок в этом
+    видео?
+  deleted: false
+  text: 'http://vkontakte.ru/video785057_139684142?noiphone
+
+
+    заранее спасибо!'
+  replies:
+  - id: 36967
+    parent_id: 36966
+    date: 2010-06-27 03:08
+    poster: Эльдар
+    subject: а не "one bottle, one scotch, one beer"???
+    deleted: false
+    text: 'не ошибаюсь ли я?
+
+      john lee hooker - one bottle, one scotch, one beer'
+    replies:
+    - id: 36968
+      parent_id: 36967
+      date: 2010-06-27 13:12
+      poster: Tweety
+      subject: 'Re: а не "one bottle, one scotch, one beer"???'
+      deleted: false
+      text: оч. похоже, только в этой композиции, по-моему, инструментального соло
+        нет, как на видео
+      replies:
+      - id: 36969
+        parent_id: 36968
+        date: 2010-06-28 15:26
+        poster: Алексей Аграновский
+        subject: One bourbon
+        deleted: false
+        text: Кукурузная. А так всё может быть.

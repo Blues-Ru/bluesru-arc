@@ -1,0 +1,103 @@
+topic_id: 3098
+slug: topic-3098
+title: no subject
+first_post: 2006-02-12 15:34
+last_post: 2006-02-13 07:03
+post_count: 10
+posts:
+- id: 26002
+  parent_id: null
+  date: 2006-02-12 15:34
+  poster: Esbarro
+  email: dragonrider@inbox.ru
+  subject: no subject
+  deleted: false
+  text: "Давно облизывался повесить на этом форуме объяву, но окончательно обнаглел\
+    \ только сейчас.\n\n\"14 февраля, Р -клуб. 23.30. Выступает сводный румынско-молдаванский\
+    \ свадебно-похоронный ансамбль \"Smokin' blues\" (www.smokinblues.narod.ru)\n\
+    Проездом из Бухареста в деревню Толмачово. Всего один концерт в Москве!!! \nСостав\
+    \ группы: гитарист - цыган, вокалист - серб,басист - молдованин и барабанщик -\
+    \ румын. Бэнд играет и поёт песни старого висельника из техасской тюрьмы Хула-Хуп.\"\
+    \n\nА если по-серьёзному, то играют ребята разнообразные НЕ избитые кавера с собственными\
+    \ оригинальными оранжеровками; объединяется весь репертуар словами \"блюз\" и\
+    \ \"отжиг\".\n\nИзвиняюсь за не совсем приличную площадку выступления куда вас\
+    \ приглашаю, но что поделать, запись демки приходится всё время откладывать. Надеюсь\
+    \ на ваш интерес к новым лицам)."
+  replies:
+  - id: 26009
+    parent_id: 26002
+    date: 2006-02-12 17:06
+    poster: Дмитрий Казанцев (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: оранжеровки - это хорошо!
+    deleted: false
+    replies:
+    - id: 26013
+      parent_id: 26009
+      date: 2006-02-12 18:17
+      poster: Kot Matraskin (KotMatraskin)
+      email: kotmatrs@mail.ru
+      subject: от слова оранжевые - не иначе
+      deleted: false
+      replies:
+      - id: 26036
+        parent_id: 26013
+        date: 2006-02-13 01:20
+        poster: Esbarro
+        email: dragonrider@inbox.ru
+        subject: ещё какие оранжевые
+        deleted: false
+        text: ну, извините, очепятался)
+  - id: 26012
+    parent_id: 26002
+    date: 2006-02-12 17:28
+    poster: Grems
+    email: grems@yandex.ru
+    subject: и  сводный румынско-молдаванский...
+    deleted: false
+    text: и сводный румынско-молдаванский свадебно-похоронный ансамбль .... пардон
+      уже есть (Blackmailers). Плагиат однако, не хорошо Тимофея обижать... надо придумывать
+      что-то свое.
+    replies:
+    - id: 26039
+      parent_id: 26012
+      date: 2006-02-13 01:25
+      poster: Esbarro
+      email: dragonrider@inbox.ru
+      subject: Не хочу развивать эту тему...
+      deleted: false
+      text: '... но если на то пошло, то и Blackmailers-плагиат.'
+  - id: 26027
+    parent_id: 26002
+    date: 2006-02-12 23:00
+    poster: Olich
+    email: olich@pisem.net
+    subject: я все-таки не понял..
+    deleted: false
+    text: ..какая связь между свадебно-похоронными оркестрами и этим уважаемым форумом.
+      поясни! а то - бред полный!
+    replies:
+    - id: 26037
+      parent_id: 26027
+      date: 2006-02-13 01:21
+      poster: Esbarro
+      email: dragonrider@inbox.ru
+      subject: Конечно бред
+      deleted: false
+      text: юмор это
+    - id: 26038
+      parent_id: 26027
+      date: 2006-02-13 01:23
+      poster: Юрий Каверкин(Gekko)
+      email: kaverkin@rol.ru
+      subject: А у нас то свадьба, то похороны, а то и бред полный ;)
+      deleted: false
+      replies:
+      - id: 26043
+        parent_id: 26038
+        date: 2006-02-13 07:03
+        poster: Ara Bluesman
+        email: ara@blues.ru
+        subject: ара зачем так гаваришь?
+        deleted: false
+        text: блюзз эта не бред ара!

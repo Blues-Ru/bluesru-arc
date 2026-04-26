@@ -1,0 +1,24 @@
+topic_id: 345
+slug: topic-345
+title: Насчет 26-го, в ЦДХ
+first_post: 2002-09-23 19:12
+last_post: 2002-09-24 15:42
+post_count: 2
+posts:
+- id: 7582
+  parent_id: null
+  date: 2002-09-23 19:12
+  poster: Илья
+  email: ilija@bk.ru
+  subject: Насчет 26-го, в ЦДХ
+  deleted: false
+  text: Уважаемые, подскажите, что там будет, стоит ли бросать все и идти =)...
+  replies:
+  - id: 7614
+    parent_id: 7582
+    date: 2002-09-24 15:42
+    poster: Игорь Головачев (Игорь Г.)
+    email: sunny_city@mail.ru
+    subject: По-моему Blues Cousins (BC) играет в ЦДХ 27-го
+    deleted: false
+    text: Со слов директора BC Тимура Джохадзе BC будет представлять там новый альбом.

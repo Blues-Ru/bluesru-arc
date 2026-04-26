@@ -1,0 +1,53 @@
+topic_id: 3232
+slug: topic-3232
+title: Юрия Ивановича с Днём Рождения!
+first_post: 2006-04-26 09:58
+last_post: 2006-04-27 00:20
+post_count: 5
+posts:
+- id: 27162
+  parent_id: null
+  date: 2006-04-26 09:58
+  poster: mishouris
+  email: mishouris@mail.ru
+  subject: Юрия Ивановича с Днём Рождения!
+  deleted: false
+  text: 'Ура!
+
+    Душа московского блюза и прекраснейший человек Юрий Иванович Костин
+
+    сегодня отмечает. Все в Дом у Дороги с подарками!'
+  replies:
+  - id: 27174
+    parent_id: 27162
+    date: 2006-04-26 15:50
+    poster: Dmitri Kazantsev (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: о да!!!
+    deleted: false
+    text: Всего самого лучшего!
+  - id: 27181
+    parent_id: 27162
+    date: 2006-04-26 17:08
+    poster: Владимир Русинов (BluesCat)
+    email: volodya@blues.ru
+    subject: УРА!
+    deleted: false
+    text: Самого мощного создателя живого (не онлайного блин) блюзового  комьюнити
+      Качать! :) С днем рожденья! :)
+  - id: 27205
+    parent_id: 27162
+    date: 2006-04-26 18:01
+    poster: John (Muddy Lives)
+    email: mlives_6@hotmail.com
+    subject: Поздравляю, Юрий Иванович!
+    deleted: false
+    text: И спасибо за поддержку блюза!
+  - id: 27212
+    parent_id: 27162
+    date: 2006-04-27 00:20
+    poster: stratman(Павел Семилетков)
+    email: magazine84@mail.ru
+    subject: Присоединяюсь!
+    deleted: false
+    text: Юрию Ивановичу здоровья, долгих лет жизни, счастья и успехов во всём!

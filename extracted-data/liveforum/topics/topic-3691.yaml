@@ -1,0 +1,65 @@
+topic_id: 3691
+slug: topic-3691
+title: Умер Bill Perry
+first_post: 2007-07-21 11:40
+last_post: 2007-07-22 15:59
+post_count: 6
+posts:
+- id: 33214
+  parent_id: null
+  date: 2007-07-21 11:40
+  poster: Arsen
+  email: rtys@jkle.com
+  subject: Умер Bill Perry
+  deleted: false
+  text: http://www.reuters.com/article/musicNews/idUSN1840161820070720
+  replies:
+  - id: 33236
+    parent_id: 33214
+    date: 2007-07-22 04:03
+    poster: Dmitri Kazantsev (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: у нас тут страна вымирает :(
+    deleted: false
+    text: а ты говоришь Перри :(
+    replies:
+    - id: 33237
+      parent_id: 33236
+      date: 2007-07-22 05:39
+      poster: Arsen
+      email: swdf@jklfom
+      subject: Ну так
+      deleted: false
+      text: 'и конец света когда-то наступит. Дима, все будет хорошо, если ты  сам
+        этого очень захочешь.
+
+
+        А всего-то я хотел сказать, жаль что-еще один хороший музыкант умер. RIP...'
+      replies:
+      - id: 33238
+        parent_id: 33237
+        date: 2007-07-22 12:41
+        poster: Старый Майор
+        email: gypsy@mail.ru
+        subject: Ах, Арсен, вашими бы молитвами...
+        deleted: false
+        text: Так просто - закрыл глаза, захотел, и всё стало хорошо...
+  - id: 33240
+    parent_id: 33214
+    date: 2007-07-22 14:11
+    poster: Вадим Иващенко
+    email: vadikiv@mail.ru
+    subject: Вот в таком настроении
+    deleted: false
+    text: черные обычно блюз и исполняли,а не истерики закатывали.Хорошо в этой стране
+      скорее всего не станет никогда.Это не повод не вспомнить добрым словом хорошего
+      музыканта.
+    replies:
+    - id: 33242
+      parent_id: 33240
+      date: 2007-07-22 15:59
+      poster: Dmitri Kazantsev (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: нет никаких истерик
+      deleted: false
+      text: а музыканта вспомнили

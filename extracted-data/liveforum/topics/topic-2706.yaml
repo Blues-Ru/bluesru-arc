@@ -1,0 +1,29 @@
+topic_id: 2706
+slug: topic-2706
+title: Блюзфест на открытом воздухе
+first_post: 2005-08-16 12:03
+last_post: 2005-08-16 18:59
+post_count: 2
+posts:
+- id: 22335
+  parent_id: null
+  date: 2005-08-16 12:03
+  poster: Ded Morozzz
+  email: morozzz_ded@mail.ru
+  subject: Блюзфест на открытом воздухе
+  deleted: false
+  text: "Состоится во Владимире 28-го августа в воскресенье :)\n.\nОфициально: \n\
+    Блюз на крыше'2005\n28-е августа, окрытая площадка Ozone Project \nУчаствуют:\n\
+    Blackmailers\nSvet Boogie Band\nLouisiana Jumpin' Cats\nОксана Кочубей и Life-n-Joy\n\
+    . \nБилеты по 150 рублей :) \nПриезжайте :) ехать от столицы недалеко, группы\
+    \ хорошие, площадка отличная, танцпол огромный, публика замечательная, пиво/водка\
+    \ в ассортименте :)"
+  replies:
+  - id: 22341
+    parent_id: 22335
+    date: 2005-08-16 18:59
+    poster: brujo
+    email: brujo@pisem.net
+    subject: все верно, только..
+    deleted: false
+    text: '...без Оксаны и Life-n-Joy'

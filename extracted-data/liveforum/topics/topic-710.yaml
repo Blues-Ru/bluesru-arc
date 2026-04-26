@@ -1,0 +1,33 @@
+topic_id: 710
+slug: topic-710
+title: О предстоящем концерте Blues Cousins - где и когда?
+first_post: 2003-03-30 22:24
+last_post: 2003-03-31 20:00
+post_count: 3
+posts:
+- id: 11323
+  parent_id: null
+  date: 2003-03-30 22:24
+  poster: blue guitar bluesman
+  email: dred@ok.ru
+  subject: О предстоящем концерте Blues Cousins - где и когда?
+  deleted: false
+  text: Я слышал, что в апреле пройдёт концерт группы Blues Cousins, на большой сцене,
+    а не в клубе. Ещё слышал, что концерт неоднократно переносился . Так всё же где
+    он будет, и когда?
+  replies:
+  - id: 11324
+    parent_id: 11323
+    date: 2003-03-31 10:05
+    poster: Игорь Головачев (Игорь Г.)
+    email: sunny_city@mail.ru
+    subject: Загляни на blues-cousins.ru
+    deleted: false
+  - id: 11331
+    parent_id: 11323
+    date: 2003-03-31 20:00
+    poster: Андрей Ордальонов (Андрей PRG)
+    email: peregnoy@mail.ru
+    subject: Где и когда :)
+    deleted: false
+    text: ЦДХ, 25 апреля, пятница, 19:00

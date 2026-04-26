@@ -1,0 +1,78 @@
+topic_id: 3482
+slug: topic-3482
+title: А вы уже слушаете Клэптон/Кейл?
+first_post: 2006-11-06 05:38
+last_post: 2006-11-08 09:51
+post_count: 8
+posts:
+- id: 29300
+  parent_id: null
+  date: 2006-11-06 05:38
+  poster: Dmitri Kazantsev (Dr. Nick)
+  email: dr.nick@blues.ru
+  subject: А вы уже слушаете Клэптон/Кейл?
+  deleted: false
+  text: 'Вот тут можно качнуть: http://filesafe.ru/382176'
+  replies:
+  - id: 29307
+    parent_id: 29300
+    date: 2006-11-07 17:09
+    poster: Старый Майор
+    email: gypsy@mail.ru
+    subject: Мы таки уже слушаем, а вы таки да?
+    deleted: false
+    replies:
+    - id: 29313
+      parent_id: 29307
+      date: 2006-11-08 00:51
+      poster: Dmitri Kazantsev (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: мы давно
+      deleted: false
+      text: кайфы полные
+      replies:
+      - id: 29314
+        parent_id: 29313
+        date: 2006-11-08 03:44
+        poster: Старый Майор
+        email: gypsy@mail.ru
+        subject: А мы послушали, нам скушно стало, пошли слушать Блэк Саббат...
+        deleted: false
+        replies:
+        - id: 29315
+          parent_id: 29314
+          date: 2006-11-08 07:03
+          poster: Dmitri Kazantsev (Dr. Nick)
+          email: dr.nick@blues.ru
+          subject: и то дело
+          deleted: false
+          text: зачем слушать хорошую музыку
+          replies:
+          - id: 29316
+            parent_id: 29315
+            date: 2006-11-08 09:51
+            poster: Старый Майор
+            email: gypsy@mail.ru
+            subject: Извиняйте, гражданин, не сошлись фкусами.
+            deleted: false
+  - id: 29309
+    parent_id: 29300
+    date: 2006-11-07 19:54
+    poster: Димитрий О'Парин (LedZep)
+    email: 5064212@mail.ru
+    subject: Нажал "Скачать музыку" и чего?
+    deleted: false
+    text: Димон, прости, "молодой, из деревни, плохо воспитан...", как скачать то
+      от-туда?
+    replies:
+    - id: 29312
+      parent_id: 29309
+      date: 2006-11-08 00:50
+      poster: Dmitri Kazantsev (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: это ж не я вешал
+      deleted: false
+      text: 'там всё просто
+
+
+        пара страниц, правда, открывается для этого'

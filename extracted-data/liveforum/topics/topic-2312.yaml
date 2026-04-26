@@ -1,0 +1,69 @@
+topic_id: 2312
+slug: topic-2312
+title: Про Blues Harp Melt Down
+first_post: 2004-11-10 21:33
+last_post: 2004-11-19 08:52
+post_count: 7
+posts:
+- id: 19776
+  parent_id: null
+  date: 2004-11-10 21:33
+  poster: Ded Morozzz
+  email: morozzz_ded@mail.ru
+  subject: Про Blues Harp Melt Down
+  deleted: false
+  text: Где-нибудь можно почитать информацию на русском или английском про участников?
+    :) А то я что-то все на норвежские сцайты выпадаю :)
+  replies:
+  - id: 19778
+    parent_id: 19776
+    date: 2004-11-10 22:26
+    poster: Федор Романенко (fedor)
+    email: fedor@blues.ru
+    subject: Скоро будет ;)
+    deleted: false
+    text: 'Вот предварительная ссылка:
+
+      http://www.blues.ru/bluesmen/Blues_Harp_Melt_Down/'
+  - id: 19802
+    parent_id: 19776
+    date: 2004-11-15 17:57
+    poster: Михан  (Ded Morozzz)
+    email: morozzz_ded@mail.ru
+    subject: Сцылки на Кашмара битые...
+    deleted: false
+    text: '... типа протестую и все такое :)'
+    replies:
+    - id: 19803
+      parent_id: 19802
+      date: 2004-11-15 17:58
+      poster: Михан  (Ded Morozzz)
+      email: morozzz_ded@mail.ru
+      subject: '... на мп3 ссылки имеются в виду :)'
+      deleted: false
+      replies:
+      - id: 19804
+        parent_id: 19803
+        date: 2004-11-15 18:08
+        poster: Федор Романенко (fedor)
+        email: fedor@blues.ru
+        subject: media.blues.ru
+        deleted: false
+        text: Похоже, скрипт синхронизации сломался, Вова починит скоро, пока файлы
+          можно достать через media2.blues.ru.
+        replies:
+        - id: 19805
+          parent_id: 19804
+          date: 2004-11-15 20:54
+          poster: vr  (Stone Crazy)
+          email: volodya@blues.ru
+          subject: не бейте ногами. :) я все починил
+          deleted: false
+  - id: 19820
+    parent_id: 19776
+    date: 2004-11-19 08:52
+    poster: Михан  (Ded Morozzz)
+    email: morozzz_ded@mail.ru
+    subject: Ну как там выступление в R&B?
+    deleted: false
+    text: жутко интересно :)

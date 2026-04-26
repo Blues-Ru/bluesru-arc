@@ -1,0 +1,10 @@
+---
+id: 915
+slug: iz-neopublikovannogo-vovremya-fevralskiy-vypusk-veb-baraba
+title: null
+date: 2019-03-26 00:00
+---
+
+Из неопубликованного вовремя: февральский выпуск ВЭБ: Барабанщик и руководитель оркестра <b>Chick</b> Webb родился 10 февраля 1905 года в Балтиморе (штат Мэриленд). 
+1. I Got the Spring Fever Blues (Ella Fitzgerald With The Chick Webb Orchestra, альбом "Sing Me a Swing Song" 1989 г., запись 29 октября 1936 г.); Человек-оркестр <b>Elmon Mickle</b>, выступавший под именем <b>Driftin' Slim</b>, родился 100 лет назад - 24 февраля 1919 года в Кео (штат Аризона) 2. Mama Blues (Driftin' Slim And His Blues Band, альбом "Somebody Hoo-Doo'd the Hoo-Doo Man" 1968 г.) 3. My Little Machine (Driftin' Slim And His Blues Band, альбом "Somebody Hoo-Doo'd the Hoo-Doo Man" 1968 г.); Певец и харпер <b>Chicago Beau</b> родился 70 лет назад - 13 февраля 1949 года в Чикаго (штат Иллинойс). 4. You Can't Send the Children to School (альбом "Bluesville Memories" 1996 г.) Пианист <b>Jimmy Yancey</b> родился 125 лет назад - 20 февраля 1984 года в Чикаго (штат Иллинойс). 5. Beezum Blues (альбом "Complete Recorded Works, Vol. 1 (1939-1940)" 1991 г., запись 4 мая 1939 г.) 6. Rolling the Stone (альбом "Complete Recorded Works, Vol. 1 (1939-1940)" 1991 г., запись 4 мая 1939 г.); Первый в истории блюза гитарист-виртуоз <b>Lonnie Johnson</b> родился 120 лет назад - 8 февраля 1899 года в Новом Орлеане (штат Луизиана). 7. Woke Up With the Blues in My Fingers (альбом "A Life In Music - Selected Sides 1925-1953" 2009 г.) 8. Falling Rain Blues 9. Hotter Than That 10. Away Down In the Alley Blues 11. Man Killing Broad 12. Hard Times Ain't Gone No Where 13. Trouble Ain't Nothing But the Blues 
+14. Me and My Crazy Self 15. Haunted House (Lonnie Johnson with Elmer Snowden, альбом "Blues & Ballads" 1960 г.) <a href="/ATB/atb_19_02_11.mp3"><b><i>56'43"/103,6Mb >>></i></b></a>

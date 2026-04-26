@@ -1,0 +1,166 @@
+topic_id: 399
+slug: topic-399
+title: ноты
+first_post: 2002-10-13 01:31
+last_post: 2002-10-16 11:00
+post_count: 15
+posts:
+- id: 8171
+  parent_id: null
+  date: 2002-10-13 01:31
+  poster: Alex
+  email: nordflex@yandex.ru
+  subject: ноты
+  deleted: false
+  text: Господа помогите! Сын учится в музыкалке. Фанатит на блюзе и рок-н-роле. Пришлите
+    ноты. Зараннее благодарен
+  replies:
+  - id: 8172
+    parent_id: 8171
+    date: 2002-10-13 01:40
+    poster: Александр Мальчевский (Tonny)
+    email: heavyfuel@mtu-net.ru
+    subject: Есть SRV и Гари Мур...
+    deleted: false
+    text: Но проще передать... А еще я вот книжки видел, в Москве во всяком случае
+      есть самоучители по блюзу... Там стили разных деятелей разбираются.. интересно
+      очень.
+    replies:
+    - id: 8204
+      parent_id: 8172
+      date: 2002-10-14 15:50
+      poster: Alexander Lokotkov
+      email: alex@fastwel.com
+      subject: Александр, где именно видел?(-)
+      deleted: false
+      replies:
+      - id: 8210
+        parent_id: 8204
+        date: 2002-10-14 22:59
+        poster: Александр Мальчевский (Tonny)
+        email: heavyfuel@mtu-net.ru
+        subject: Есть такие места...
+        deleted: false
+        text: Есть магазин недалеко от ГУМа... Улицу не помню... Но помню что надо
+          стоять к Гуму лицом, и по левую руку будет та самая улица, а справа Красная
+          площадь... А уж по левой стороне данноей улицы, если идти от Красной площади
+          и будет данный магазин. Ориентир - в том же доме кафе Beefeater. Плюс там
+          еще стоит объява, такая на ножках.
+        replies:
+        - id: 8211
+          parent_id: 8210
+          date: 2002-10-14 23:45
+          poster: Greta
+          email: morehemp@mail.ru
+          subject: Никольская
+          deleted: false
+          text: ;Р
+          replies:
+          - id: 8212
+            parent_id: 8211
+            date: 2002-10-14 23:54
+            poster: Александр Мальчевский (Tonny)
+            email: heavyfuel@mtu-net.ru
+            subject: КАк и всякий коренной москвич...
+            deleted: false
+            text: названий улиц не знаю :) :)
+            replies:
+            - id: 8213
+              parent_id: 8212
+              date: 2002-10-15 00:04
+              poster: Андрей PRG
+              email: peregnoy@mail.ru
+              subject: Гм... а это признак
+              deleted: false
+              text: коренного москвича? Печально... >:-#
+              replies:
+              - id: 8214
+                parent_id: 8213
+                date: 2002-10-15 00:19
+                poster: Александр Мальчевский (Tonny)
+                email: heavyfuel@mtu-net.ru
+                subject: Это не признак...
+                deleted: false
+                text: это диагноз :) :)
+                replies:
+                - id: 8216
+                  parent_id: 8214
+                  date: 2002-10-15 00:30
+                  poster: Андрей PRG
+                  email: peregnoy@mail.ru
+                  subject: Пардон, "Ещё хужовее" должен быть здесь.
+                  deleted: false
+                  text: Зато так "Тихо сам с собою..."
+            - id: 8215
+              parent_id: 8212
+              date: 2002-10-15 00:26
+              poster: Андрей PRG
+              email: peregnoy@mail.ru
+              subject: Ещё хужовее :(
+              deleted: false
+              text: Город-то свой надо б знать! Уж, по крайней мере, центнер! ;) А
+                то вот захочешь пройтись по местам и тропам боевой славы российского
+                блюза - и не сможешь... ;/
+              replies:
+              - id: 8217
+                parent_id: 8215
+                date: 2002-10-15 00:41
+                poster: Александр Мальчевский (Tonny)
+                email: heavyfuel@mtu-net.ru
+                subject: А я йду шагаю по Москве...
+                deleted: false
+                text: 'И я зайти еще смогу
+
+                  В любимый, близкий БИ Би Кинг...
+
+                  В воскресший вдруг Арбат блюз-клуб
+
+                  В Форпост, и в Форте
+
+                  И Ле-клуб, где люди пляшут и поют...
+
+                  Ефесский Фест конечно посещу
+
+                  Пока не знаю с кем...
+
+                  А если вдруг возьму и загрущу
+
+                  На тона пол я струны опущу
+
+                  Я вспомню о БЛюзре... :) :) :)'
+                replies:
+                - id: 8218
+                  parent_id: 8217
+                  date: 2002-10-15 00:44
+                  poster: Андрей PRG
+                  email: peregnoy@mail.ru
+                  subject: ЗдОрово!
+                  deleted: false
+                  text: А, кстати, ты в Би-Би в среду - в четверг идёшь?
+                  replies:
+                  - id: 8219
+                    parent_id: 8218
+                    date: 2002-10-15 00:45
+                    poster: Александр Мальчевский (Tonny)
+                    email: heavyfuel@mtu-net.ru
+                    subject: нет наверное...
+                    deleted: false
+                    text: с работой запарка... :(
+                    replies:
+                    - id: 8221
+                      parent_id: 8219
+                      date: 2002-10-15 00:50
+                      poster: Андрей PRG
+                      email: peregnoy@mail.ru
+                      subject: Зоопарка-то тут причём?
+                      deleted: false
+                      text: Какой занятный проф состав у блюз-ры получается :)
+  - id: 8259
+    parent_id: 8171
+    date: 2002-10-16 11:00
+    poster: Anigo
+    email: ppanik@rol.ru
+    subject: есть ноты
+    deleted: false
+    text: Располагаю огромным количеством блюзовых нот, хочется знать какая именно
+      разновидность блюза интересует

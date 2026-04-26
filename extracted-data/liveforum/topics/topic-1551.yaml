@@ -1,0 +1,24 @@
+topic_id: 1551
+slug: topic-1551
+title: А почему про предстоящий Эфес фестиваль ничего не пишут?
+first_post: 2003-11-04 19:27
+last_post: 2003-11-04 19:33
+post_count: 2
+posts:
+- id: 15406
+  parent_id: null
+  date: 2003-11-04 19:27
+  poster: Olli
+  email: wwvv@mailru.com
+  subject: А почему про предстоящий Эфес фестиваль ничего не пишут?
+  deleted: false
+  text: Приходится узнавать инфу с рекмамы на банках Эфеса:)
+  replies:
+  - id: 15407
+    parent_id: 15406
+    date: 2003-11-04 19:33
+    poster: Olli
+    email: wwvv@mailru.com
+    subject: Мда... Перед тем как что-нить запостить, в конфу надо глядеть получше...
+      Сорри:)
+    deleted: false

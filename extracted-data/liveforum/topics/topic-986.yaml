@@ -1,0 +1,134 @@
+topic_id: 986
+slug: topic-986
+title: 2-е апреля. Вот и зима настала
+first_post: 2002-04-02 13:02
+last_post: 2002-04-03 21:14
+post_count: 13
+posts:
+- id: 3218
+  parent_id: null
+  date: 2002-04-02 13:02
+  poster: Алексей Аграновский (Док)
+  email: aaa@genebee.msu.su
+  subject: 2-е апреля. Вот и зима настала
+  deleted: false
+  text: 'Пора двойные рамы вставлять, как по вашему.
+
+
+    Пора и на джем записываться, который будет на Втором этаже. Спасибо тем, кто это
+    уже сделал. Облегчение от этого организаторам.'
+  replies:
+  - id: 3221
+    parent_id: 3218
+    date: 2002-04-02 13:13
+    poster: Андрей Цыганков (gypsy)
+    email: gypsy@mail.ru
+    subject: Как бы Фёдор не понял буквально про двойные рамы..
+    deleted: false
+    text: '..и не переделал форум с фреймами )))
+
+
+      Алексей, запиши меня, пожалуйста!'
+    replies:
+    - id: 3222
+      parent_id: 3221
+      date: 2002-04-02 13:22
+      poster: Алексей Аграновский (Док)
+      email: aaa@genebee.msu.su
+      subject: Не к ночи будь помянуто, про рамы эти
+      deleted: false
+      text: Записан Андрей. Остальных участников просьба посылать мне электронный
+        мейл - не будем этим заниматься здесь. По шапке дадут ведь.
+      replies:
+      - id: 3226
+        parent_id: 3222
+        date: 2002-04-02 13:34
+        poster: Андрей Цыганков (gypsy)
+        email: gypsy@mail.ru
+        subject: Док, извини! Про почту речи не было... больше не буду...
+        deleted: false
+      - id: 3250
+        parent_id: 3222
+        date: 2002-04-02 16:44
+        poster: Andrei V. Evdokimov (evdokimov)
+        email: evdokimov@blues.ru
+        subject: да ладно, док...
+        deleted: false
+        text: 'модер спит, вальты вразлет!
+
+          запись на джем уже чем-то смыслосодержательным будет.'
+        replies:
+        - id: 3254
+          parent_id: 3250
+          date: 2002-04-02 17:08
+          poster: Дима Казанцев (Dr. Nick)
+          email: dr.nick@blues.ru
+          subject: Let me correct you
+          deleted: false
+          text: Plural from ВАЛЕТ will be ВАЛЕТЫ in Russian, if you didn't know :)
+        - id: 3267
+          parent_id: 3250
+          date: 2002-04-02 18:07
+          poster: Andrei V. Evdokimov (evdokimov)
+          email: evdokimov@blues.ru
+          subject: оh god,
+          deleted: false
+          text: Дим, если уж ты не знаешь поговорку "вальты вразлет"...
+          replies:
+          - id: 3272
+            parent_id: 3267
+            date: 2002-04-02 19:15
+            poster: Дима Казанцев (Dr. Nick)
+            email: dr.nick@blues.ru
+            subject: Не знаю
+            deleted: false
+            text: А почему я должен ее знать?
+            replies:
+            - id: 3289
+              parent_id: 3272
+              date: 2002-04-03 12:03
+              poster: Алексей Аграновский (Док)
+              email: aaa@genebee.msu.su
+              subject: Раз пошла такая правка
+              deleted: false
+              text: То и слово God пишется с заглавной буквы.
+              replies:
+              - id: 3291
+                parent_id: 3289
+                date: 2002-04-03 12:41
+                poster: Дима Казанцев (Dr. Nick)
+                email: dr.nick@blues.ru
+                subject: Про это уж я молчу ;)
+                deleted: false
+                text: И "Oh" в начале предложения тоже ;)
+                replies:
+                - id: 3293
+                  parent_id: 3291
+                  date: 2002-04-03 13:30
+                  poster: Алексей Аграновский (Док)
+                  email: aaa@genebee.msu.su
+                  subject: У нас дома когда-то переделали известную строчку песни
+                    "Эх, хорошо в стране советской жить! " на
+                  deleted: false
+                  text: '"Ох, хорошо..."
+
+
+                    ("Oh, Lordy Lord...")'
+                  replies:
+                  - id: 3345
+                    parent_id: 3293
+                    date: 2002-04-03 21:14
+                    poster: Andrei V. Evdokimov (evdokimov)
+                    email: evdokimov@blues.ru
+                    subject: леш, тебе тоже делать нечего? (-)
+                    deleted: false
+                    text: 'купите с казанцевым одного гуся на двоих... дальше знаете,
+                      что делать: читайте ему грам''атику'
+        - id: 3288
+          parent_id: 3250
+          date: 2002-04-03 12:00
+          poster: Алексей Аграновский (Док)
+          email: aaa@genebee.msu.su
+          subject: Хорошо, еще один Андрей записан. Евдокимов.
+          deleted: false
+          text: Но другие все же мыльте...

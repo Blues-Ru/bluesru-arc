@@ -1,0 +1,77 @@
+topic_id: 419
+slug: topic-419
+title: Хочу Луизиану Рэд,
+first_post: 2002-10-21 12:23
+last_post: 2002-10-22 00:11
+post_count: 8
+posts:
+- id: 8430
+  parent_id: null
+  date: 2002-10-21 12:23
+  poster: Ruby Tooz
+  email: rubytooz@rambler.ru
+  subject: Хочу Луизиану Рэд,
+  deleted: false
+  text: 'но не знаю, на какой день брать билет. На Efes Pilsener собираюсь впервые,
+    поэтому обращаюсь к общественности: расскажите, как всё происходит. По одному
+    дню на исполнителя, или каждый день играют все трое? Заранее благодарен.'
+  replies:
+  - id: 8431
+    parent_id: 8430
+    date: 2002-10-21 13:26
+    poster: Алексей Аграновский (Док)
+    email: aaa@genebee.msu.su
+    subject: А Ларису Ивановну?
+    deleted: false
+  - id: 8433
+    parent_id: 8430
+    date: 2002-10-21 14:39
+    poster: Федор Романенко (fedor)
+    email: fedor@blues.ru
+    subject: Все три дня одно и тоже...
+    deleted: false
+    replies:
+    - id: 8438
+      parent_id: 8433
+      date: 2002-10-21 16:58
+      poster: Андрей PRG
+      email: peregnoy@mail.ru
+      subject: Только что взял билет на 6-ое
+      deleted: false
+      text: В другие дни, к сожалению, не складывается. Кто ещё идёт в этот день?
+      replies:
+      - id: 8443
+        parent_id: 8438
+        date: 2002-10-21 21:25
+        poster: Руслан Абдалов (RR)
+        email: RR@RAMBLER.RU
+        subject: Мое число 7...
+        deleted: false
+        text: Да и в прошлые разы ходил на закрытие... Почему-то мне кажется оно всегда
+          лучше предыдущих дней...
+        replies:
+        - id: 8445
+          parent_id: 8443
+          date: 2002-10-21 21:53
+          poster: Федор Романенко (fedor)
+          email: fedor@blues.ru
+          subject: А мы
+          deleted: false
+          text: Пойдем 2 или 3 раза, ибо музыканты на этот раз очень уж хорошие ;)
+            И не бесплатно, заметьте!!!
+          replies:
+          - id: 8449
+            parent_id: 8445
+            date: 2002-10-22 00:11
+            poster: Андрей PRG
+            email: peregnoy@mail.ru
+            subject: А "Мы" - это кто? Мы "... бывают дазные" ;)
+            deleted: false
+  - id: 8437
+    parent_id: 8430
+    date: 2002-10-21 16:56
+    poster: Андрей PRG
+    email: peregnoy@mail.ru
+    subject: Все хочють ;)
+    deleted: false
+    text: '... и могуть ;)'

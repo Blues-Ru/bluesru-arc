@@ -1,0 +1,61 @@
+topic_id: 2765
+slug: topic-2765
+title: Правила форума
+first_post: 2005-09-12 19:31
+last_post: 2005-09-13 18:13
+post_count: 6
+posts:
+- id: 22986
+  parent_id: null
+  date: 2005-09-12 19:31
+  poster: Moderator
+  email: fedor@blues.ru
+  subject: Правила форума
+  deleted: false
+  text: Внизу страницы форума тебе есть гиперссылка "правила форума", по которой можно
+    всегда с ними ознакомиться. Ранее они публиковались только в виде сообщений.
+  replies:
+  - id: 22998
+    parent_id: 22986
+    date: 2005-09-13 16:05
+    poster: Дмитрий Казанцев (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: надо не ВНИЗУ,
+    deleted: false
+    text: но НА САМОМ ВЕРХУ и крупными буквами :)
+    replies:
+    - id: 23000
+      parent_id: 22998
+      date: 2005-09-13 16:25
+      poster: Федор Романенко (fedor)
+      email: fedor@blues.ru
+      subject: Не обязательно
+      deleted: false
+      text: Те, кто нарушают, знают хорошо о том, где их найти ;)
+      replies:
+      - id: 23007
+        parent_id: 23000
+        date: 2005-09-13 17:01
+        poster: Дмитрий Казанцев (Dr. Nick)
+        email: dr.nick@blues.ru
+        subject: я, кстати, не нарушал!
+        deleted: false
+        text: Вову нигде не обидел! Это ты, о Модератор, был жёсток и злобен! :)
+        replies:
+        - id: 23011
+          parent_id: 23007
+          date: 2005-09-13 17:55
+          poster: Федор Романенко (fedor)
+          email: fedor@blues.ru
+          subject: И еще и субъективен!
+          deleted: false
+          text: Как и полагается быть модератору ;)
+          replies:
+          - id: 23015
+            parent_id: 23011
+            date: 2005-09-13 18:13
+            poster: Дмитрий Казанцев (Dr. Nick)
+            email: dr.nick@blues.ru
+            subject: так мы все такие
+            deleted: false
+            text: но меня ты зря обидел!

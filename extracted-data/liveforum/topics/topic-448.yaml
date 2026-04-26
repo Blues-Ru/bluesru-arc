@@ -1,0 +1,106 @@
+topic_id: 448
+slug: topic-448
+title: Пропадает билет на Efes на завтра!
+first_post: 2002-11-05 14:39
+last_post: 2002-11-06 13:57
+post_count: 10
+posts:
+- id: 8685
+  parent_id: null
+  date: 2002-11-05 14:39
+  poster: Тото
+  email: aref@lcard.ru
+  subject: Пропадает билет на Efes на завтра!
+  deleted: false
+  text: Пропадает билет на Efes Pilsener Blues Festival на завтра! Ежели кто хочет
+    пойти - пишите на мыло.
+  replies:
+  - id: 8686
+    parent_id: 8685
+    date: 2002-11-05 15:09
+    poster: Михаил Бирюков (nECKAPb)
+    email: blackcat@blues.ru
+    subject: один?
+    deleted: false
+    text: или два?
+    replies:
+    - id: 8688
+      parent_id: 8686
+      date: 2002-11-05 15:19
+      poster: Тото
+      email: aref@lcard.ru
+      subject: Один
+      deleted: false
+      text: Один.
+  - id: 8687
+    parent_id: 8685
+    date: 2002-11-05 15:16
+    poster: Участник конкурса
+    email: konkurs@blues.ru
+    subject: А что с конкурсом то?
+    deleted: false
+    text: Результаты уже есть или их и не будет ?
+    replies:
+    - id: 8706
+      parent_id: 8687
+      date: 2002-11-06 02:34
+      poster: Andrei V. Evdokimov (evdokimov)
+      email: evdokimov@blues.ru
+      subject: Эх... эти конкурсы... они же лотереи
+      deleted: false
+      text: "их было два... \n\nОдин конкурс адресовался тем слушателям радиопрограммы\
+        \ Весь Этот Блюз, кто заходит и на Блюз-Ру. в качестве призов предлагались\
+        \ 4 билета на фестиваль. С призами вышла полная лажа (нашей вины 69%)... буду\
+        \ придумывать компенсации победителям, но билетов, увы, нет...\n\nдругой конкурс\
+        \ проходил на сайте, он закончен, призеры будут объявлены, в призах там 6\
+        \ эфесовских пивных кружек и 3 майки. Победители будут опрделены и объявлены...\
+        \ дайте только с фестивалем закончить :)"
+      replies:
+      - id: 8711
+        parent_id: 8706
+        date: 2002-11-06 10:33
+        poster: Дмитрий(fan)
+        email: leondmitr@freemail.ru
+        subject: Паазвольте! Паазвольте! А как же...
+        deleted: false
+        text: главный приз - поездка в Тамбов на троих??? Очень хочется знать -кому
+          она досталась. Или что, главный приз зажали?
+        replies:
+        - id: 8715
+          parent_id: 8711
+          date: 2002-11-06 12:31
+          poster: Andrei V. Evdokimov (evdokimov)
+          email: evdokimov@blues.ru
+          subject: умение читать между срок
+          deleted: false
+          text: "- очень полезное умение. Хотя чтение собственно по строкам бывает\
+            \ более информативно. \nНо сигнал услышан. Органы провели проверку и выяснили,\
+            \ что головка блюз-ру на 50% коррумпирована. Гр.Евдокимов, как всегда\
+            \ в нетрезвом состоянии, с двумя спутниками задержан прямо на вокзале,\
+            \ когда они садились в поезд до Тамбова. Следствие продолжается."
+          replies:
+          - id: 8721
+            parent_id: 8715
+            date: 2002-11-06 13:50
+            poster: Дмитрий(fan)
+            email: leondmitr@freemail.ru
+            subject: Говорите, коррумпирована. И на 50%?
+            deleted: false
+            text: Очень оригинально.
+            replies:
+            - id: 8722
+              parent_id: 8721
+              date: 2002-11-06 13:57
+              poster: Алексей Аграновский (Док)
+              email: aaa@genebee.msu.su
+              subject: Коррумпированная головка...
+              deleted: false
+              text: Кошмар какой, не к ночи будь помянуто.
+  - id: 8704
+    parent_id: 8685
+    date: 2002-11-05 20:57
+    poster: Андрей PRG
+    email: peregnoy@mail.ru
+    subject: Разве билет на EFES может пропасть?
+    deleted: false
+    text: Это ужасно! Это просто... преступление!!!!

@@ -1,0 +1,52 @@
+topic_id: 3864
+slug: topic-3864
+title: who-is-hoochie-coochie-man?
+first_post: 2008-01-12 04:24
+last_post: 2008-01-15 08:02
+post_count: 5
+posts:
+- id: 34294
+  parent_id: null
+  date: 2008-01-12 04:24
+  poster: jamandr
+  email: wholetsadogsout@mail.ru
+  subject: who-is-hoochie-coochie-man?
+  deleted: false
+  text: who is hoochie coochie man? Это танец такой? http://www.logoi.com/notes/who-is-hoochie-coochie-man.html
+    Или неперсонализированный образ? Спасибо!
+  replies:
+  - id: 34295
+    parent_id: 34294
+    date: 2008-01-12 12:20
+    poster: Jumpin' Jack Flash
+    email: ghjgghjhg
+    subject: look a-here
+    deleted: false
+    text: http://blueslyrics.tripod.com/blueslanguage.htm#hoochie_coochie_man
+  - id: 34308
+    parent_id: 34294
+    date: 2008-01-14 04:00
+    poster: Федор Романенко (fedor)
+    email: fedor@blues.ru
+    subject: Или вот тут...
+    deleted: false
+    text: <a href="http://www.blues.ru/vocabulary.htm">словарь блюза</a>
+    replies:
+    - id: 34309
+      parent_id: 34308
+      date: 2008-01-14 10:04
+      poster: Jumpin' Jack Flash
+      email: wbsbwjh
+      subject: век живи- век учис.
+      deleted: false
+      text: C C rider -(также "Easy rider" или "See see rider") - 1) гитара, висящая
+        за спиной путешествующего блюзмена
+  - id: 34311
+    parent_id: 34294
+    date: 2008-01-15 08:02
+    poster: Muddy Lives
+    email: mlives_6@hotmail.com
+    subject: страно
+    deleted: false
+    text: "Статья про историю танец \"Hoochie Coochie\" - очень итнересная, но удивительно\
+      \ наивная на тему его переносного значения в бюзе. \n\nMuddy"

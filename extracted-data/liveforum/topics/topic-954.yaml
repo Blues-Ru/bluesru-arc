@@ -1,0 +1,53 @@
+topic_id: 954
+slug: topic-954
+title: Регтайм
+first_post: 2002-04-26 01:33
+last_post: 2002-04-26 17:34
+post_count: 5
+posts:
+- id: 4121
+  parent_id: null
+  date: 2002-04-26 01:33
+  poster: Федор Романенко (fedor)
+  email: fedor@blues.ru
+  subject: Регтайм
+  deleted: false
+  text: Ура! Вчера наконец-то вышла пластинка, такая хорошая и красиво оформленная!
+    Ну и, кроме того, с завтрашнего (уже сегодняшнего) дня начинаются гастроли. Те,
+    кто придут на концерт, смогут за небольшие деньги купить эту замечательную пластинку
+    с (!) автографами музыкантов ;))
+  replies:
+  - id: 4122
+    parent_id: 4121
+    date: 2002-04-26 04:14
+    poster: Дима Казанцев (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: А я хочу!
+    deleted: false
+    text: Запиши нас с Ветераном (плюс два) на завтра в БиБи (ну на сегодня, в смысле.
+    replies:
+    - id: 4124
+      parent_id: 4122
+      date: 2002-04-26 11:49
+      poster: Федор Романенко (fedor)
+      email: fedor@blues.ru
+      subject: Ок!
+      deleted: false
+      text: Заметано!
+      replies:
+      - id: 4132
+        parent_id: 4124
+        date: 2002-04-26 17:15
+        poster: Петр Кунарев (Eastwood2002)
+        email: cousins@yandex.ru
+        subject: СЕРГЕЙ БАБАЕВ
+        deleted: false
+        text: Сергей Бабаев просил пожалуйста его вписать на сегодня тоже.Очень просил.
+        replies:
+        - id: 4134
+          parent_id: 4132
+          date: 2002-04-26 17:34
+          poster: Федор Романенко (fedor)
+          email: fedor@blues.ru
+          subject: Ладно, если успею...
+          deleted: false

@@ -1,0 +1,56 @@
+topic_id: 3113
+slug: topic-3113
+title: С каких это пор
+first_post: 2006-02-19 00:09
+last_post: 2006-02-21 19:25
+post_count: 5
+posts:
+- id: 26190
+  parent_id: null
+  date: 2006-02-19 00:09
+  poster: Dmitri Kazantsev (Dr. Nick)
+  email: dr.nick@blues.ru
+  subject: С каких это пор
+  deleted: false
+  text: 'на Блюзре запрещено юморить? И куда делось это чувство юмора?
+
+
+    Или фраза про настоящий СРВ-Блюз в исполнении Мишуриса (и другие перлы) - это
+    не смешно? Лично мне очень смешно и забавно.
+
+
+    Кто нагнетает тут эту злобную и тупую обстановку? Кто эти люди со странными никами?'
+  replies:
+  - id: 26191
+    parent_id: 26190
+    date: 2006-02-19 00:20
+    poster: Руслан Чифуров ()
+    email: chifuroff<sobaka>inbox.ru
+    subject: СРВ- блюз...
+    deleted: false
+    text: '...- это блюз в исполнении Стёб-Рок-Ватаги :-)))))'
+  - id: 26196
+    parent_id: 26190
+    date: 2006-02-19 09:15
+    poster: Ded Morozzz
+    email: morozzz_ded@mail.ru
+    subject: Открылся филиал кривого зеркала на блюз.ру? :)
+    deleted: false
+    text: Шутка юмора про "пиццу и срв-блюз" это просто мегаотпад; уж так смеялся,
+      так смеялся. Прикол в лучших традициях дубины реговицкой, по-любому :)
+    replies:
+    - id: 26197
+      parent_id: 26196
+      date: 2006-02-19 09:52
+      poster: Dmitri Kazantsev (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: я рад, что ты следишь за ее творчеством :)
+      deleted: false
+  - id: 26229
+    parent_id: 26190
+    date: 2006-02-21 19:25
+    poster: Старый Логопед
+    email: gypsy@mail.ru
+    subject: г-ну Модератору лень в логах ковыряццо..
+    deleted: false
+    text: ..а так бы он запросто определил, кто у нас Ара, а кто Калий Цианидыч..

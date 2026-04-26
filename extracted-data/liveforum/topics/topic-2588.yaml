@@ -1,0 +1,25 @@
+topic_id: 2588
+slug: topic-2588
+title: Администратору форума
+first_post: 2005-05-21 16:10
+last_post: 2005-05-22 13:09
+post_count: 2
+posts:
+- id: 21548
+  parent_id: null
+  date: 2005-05-21 16:10
+  poster: Ded Morozzz
+  email: morozzz_ded@mail.ru
+  subject: Администратору форума
+  deleted: false
+  text: "Помнится, тут пролетала мысль по поводу просмотра всего форума, включая замечательные\
+    \ столетние архивы :) \nВопрос: как оно, реализуется или забито болтом?"
+  replies:
+  - id: 21552
+    parent_id: 21548
+    date: 2005-05-22 13:09
+    poster: Elicaster
+    email: elicaster(@)))mmmmmmmmmmail.ru
+    subject: Тоже ждём-с
+    deleted: false
+    text: Очень хочется почитать что было раньше.

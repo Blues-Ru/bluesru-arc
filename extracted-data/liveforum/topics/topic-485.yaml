@@ -1,0 +1,28 @@
+topic_id: 485
+slug: topic-485
+title: В жилу проканало.
+first_post: 2002-11-28 11:59
+last_post: 2002-11-28 12:07
+post_count: 2
+posts:
+- id: 9061
+  parent_id: null
+  date: 2002-11-28 11:59
+  poster: George Brook
+  email: george_brook@mail.ru
+  subject: В жилу проканало.
+  deleted: false
+  text: 'Последняя программа Калачева.
+
+    Обескуражен - сидел в машине и дослушивал программу.
+
+    Очень хорошо.'
+  replies:
+  - id: 9062
+    parent_id: 9061
+    date: 2002-11-28 12:07
+    poster: Михаил Бирюков (nECKAPb)
+    email: blackcat@blues.ru
+    subject: а чё...
+    deleted: false
+    text: '... там было-то?'

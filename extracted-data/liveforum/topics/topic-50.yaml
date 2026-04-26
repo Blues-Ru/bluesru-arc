@@ -1,0 +1,153 @@
+topic_id: 50
+slug: topic-50
+title: Дорогой, Malcolm!
+first_post: 2002-02-08 20:38
+last_post: 2002-02-11 15:13
+post_count: 14
+posts:
+- id: 1007
+  parent_id: null
+  date: 2002-02-08 20:38
+  poster: Федор Романенко (fedor)
+  email: fedor@blues.ru
+  subject: Дорогой, Malcolm!
+  deleted: false
+  text: Добро пожаловать на блюз.ру! Единственное замечание - это не чат, а форум.
+    Мы все здесь стараемся писать по теме, взвешено и обстоятельно.
+  replies:
+  - id: 1012
+    parent_id: 1007
+    date: 2002-02-08 23:16
+    poster: Дима Казанцев (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: А ты бы, Федь
+    deleted: false
+    text: все же поправил бы у Кейла альбом №10 92-го года и вставил бы картинку французского
+      саундтрека, а то как-то недоделанно получается.
+    replies:
+    - id: 1038
+      parent_id: 1012
+      date: 2002-02-09 14:38
+      poster: Дима Казанцев (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: Ай да Федор, ай да молодец!
+      deleted: false
+      text: 'Спасибо за правку в статье!
+
+        Насчет Тулсы/Талсы вопрос спорный. Я ведь не просто так Тулса написал. Это
+        звучит ближе к оригиналу.'
+      replies:
+      - id: 1039
+        parent_id: 1038
+        date: 2002-02-09 14:54
+        poster: Федор Романенко (fedor)
+        email: fedor@blues.ru
+        subject: Могу и так, и так ;)
+        deleted: false
+        text: Вы договоритесь, как правильно, а я - поправлю ;)
+        replies:
+        - id: 1042
+          parent_id: 1039
+          date: 2002-02-09 15:17
+          poster: Дима Казанцев (Dr. Nick)
+          email: dr.nick@blues.ru
+          subject: Свое мнение надо иметь!
+          deleted: false
+          text: А я вот над Тажем работаю сижу. Это надолго. Не решил одного; у него
+            есть альбомы для детей - вот куда их ставить? В отдельный блок или просто
+            в кучу? Или вообще не писать про них подробно?
+          replies:
+          - id: 1138
+            parent_id: 1042
+            date: 2002-02-11 14:36
+            poster: Anton Klepikov (antokha)
+            email: antokha@yandex.ru
+            subject: Тулуза
+            deleted: false
+            text: Вот тебе мое мнение.
+            replies:
+            - id: 1142
+              parent_id: 1138
+              date: 2002-02-11 15:13
+              poster: Дима Казанцев (Dr. Nick)
+              email: dr.nick@blues.ru
+              subject: Очень может быть ;)))
+              deleted: false
+              text: Есть же там и Одесса, и Москва ;)
+  - id: 1019
+    parent_id: 1007
+    date: 2002-02-09 09:43
+    poster: Malcolm Ray  Blueriver (Mike)
+    email: Mrg_mike@rambler.ru
+    subject: O.K.
+    deleted: false
+    text: 'Dig, как говорил незабвенный Джеймс Маршал Джони Ален "Jimi" Хендрикс,
+      то есть "врубоюсь". По сему предлагаю тему: не блюзовые музыканты м группы (AC/DC,
+      Deep Purple e.t.c.) в Блюзе.
+
+      P.S. Будут деньги, зайду в чат.'
+    replies:
+    - id: 1020
+      parent_id: 1019
+      date: 2002-02-09 11:19
+      poster: Andrei V. Evdokimov (evdokimov)
+      email: evdokimov@blues.ru
+      subject: Миша Бирюков!
+      deleted: false
+      text: "Я думаю, мы с тобой поддержим тему: отличная тема, никогда еще это не\
+        \ обсуждалось. \nИ в продолжение еще хорошие темы: \nЭлтон Джон и блюз (в\
+        \ начале карьеры он 3 месяца играл в блюзбанде. \nБони М и старинный блюз\
+        \ \"Sometimes I Feel like a motherlesschild\"\nБлюзы в творчестве групп \"\
+        Тяжелый День\", \"Ария\" и про \"Черный кофе\".\nЗначение блюза в творчестве\
+        \ группы Аквариум на примере \"Мочалкин блюз\".\nИ, конечно, что-то давно\
+        \ не обсуждали мы Патрицию нашу Каасс. Ведь мадмозель шант ле блюз! шант или\
+        \ не шант?!\nДо чего ж легко на сердце от песни веселой!"
+      replies:
+      - id: 1022
+        parent_id: 1020
+        date: 2002-02-09 12:32
+        poster: Михаил Бирюков (nECKAPb)
+        email: blackcat@blues.ru
+        subject: а?
+        deleted: false
+        text: харошою тему всигда гатов под диржать
+      - id: 1024
+        parent_id: 1020
+        date: 2002-02-09 12:59
+        poster: Дима Казанцев (Dr. Nick)
+        email: dr.nick@blues.ru
+        subject: Пока ты тут ерничаешь
+        deleted: false
+        text: я тебе прописал Ивана (аж 20 треков), тот что по блюзу иногда поет.
+          Так что надо тебе его передать.
+        replies:
+        - id: 1050
+          parent_id: 1024
+          date: 2002-02-09 19:24
+          poster: Andrei V. Evdokimov (evdokimov)
+          email: evdokimov@blues.ru
+          subject: как же мне не ерничать? была у меня избушка...
+          deleted: false
+          text: '... блюзовая...
+
+            а за Ваню - спасибо. Мне это давно было антиресно. Думаю, пересечемся
+            как-нють... или ты на джемы уж не ходок? :)'
+          replies:
+          - id: 1055
+            parent_id: 1050
+            date: 2002-02-09 23:05
+            poster: Дима Казанцев (Dr. Nick)
+            email: dr.nick@blues.ru
+            subject: Я пока не определился
+            deleted: false
+            text: ходок или не ходок. Я вот не знал, что ты ходок. Это может послужить
+              мне толчком.
+            replies:
+            - id: 1131
+              parent_id: 1055
+              date: 2002-02-11 12:37
+              poster: металлисты
+              email: heavy_metal@rulez.ru
+              subject: Оффтопик!!!
+              deleted: false
+              text: эт мы про толчок :-))

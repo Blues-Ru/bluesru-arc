@@ -1,0 +1,54 @@
+topic_id: 58
+slug: topic-58
+title: Адам
+first_post: 2002-02-12 01:34
+last_post: 2002-02-12 16:04
+post_count: 5
+posts:
+- id: 1177
+  parent_id: null
+  date: 2002-02-12 01:34
+  poster: Ворон
+  email: dimh@cityline.ru
+  subject: Адам
+  deleted: false
+  text: Привет, мои друзья. Меня эовут Воронов. Мы тут сидим с Гией Дзагнидзе и решили
+    сообщить вам одну старую тайну - НИКОГДА НЕ ИМЕЙТЕ ДЕЛА С ЧЕЛОВЕКОМ  по имени
+    АДАМ БЕЛЯЕВ. Это , как бы сказать, непристойный, компаньон... Больше о нем и сказать
+    - то и нечего... Сергей Воронов и Гия Дзагнидзе.
+  replies:
+  - id: 1180
+    parent_id: 1177
+    date: 2002-02-12 03:04
+    poster: Andrei V. Evdokimov (evdokimov)
+    email: evdokimov@blues.ru
+    subject: Серега,
+    deleted: false
+    text: "Рады тебя видеть здесь. Заходи почаще. \nИ фиг с ним, с Адамом. Такие менаджеры\
+      \ - в общем, тоже уже традиция в блюзе."
+    replies:
+    - id: 1183
+      parent_id: 1180
+      date: 2002-02-12 09:50
+      poster: Дима Казанцев (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: Так что он натворил-то?
+      deleted: false
+      text: Интересно же все-таки.
+      replies:
+      - id: 1201
+        parent_id: 1183
+        date: 2002-02-12 16:04
+        poster: Андрей PRG
+        email: peregnoy@mail.ru
+        subject: Вот-вот,
+        deleted: false
+        text: очень уж любопытно. Что-то связанное с "Blues Summit" или иное?
+  - id: 1194
+    parent_id: 1177
+    date: 2002-02-12 12:31
+    poster: Алексей Аграновский (Док)
+    email: aaa@genebee.msu.su
+    subject: Адамы и Евы
+    deleted: false
+    text: Первых вычеркиваем...

@@ -1,0 +1,43 @@
+topic_id: 2165
+slug: topic-2165
+title: Ой где я был позавчера....
+first_post: 2004-07-01 20:08
+last_post: 2004-07-02 22:27
+post_count: 4
+posts:
+- id: 18874
+  parent_id: null
+  date: 2004-07-01 20:08
+  poster: Алексей Аграновский (Док)
+  email: aaa@genebee.msu.su
+  subject: Ой где я был позавчера....
+  deleted: false
+  text: На блогах есть текст и немного картинок из Белграда, но всё будет дополняться.
+    Изменения будут поступать до послезавтра.
+  replies:
+  - id: 18888
+    parent_id: 18874
+    date: 2004-07-02 02:45
+    poster: Andrei V. Evdokimov (evdokimov)
+    email: evdokimov@blues.ru
+    subject: проф!
+    deleted: false
+    text: нам нужен детальный отчет!
+    replies:
+    - id: 18899
+      parent_id: 18888
+      date: 2004-07-02 21:26
+      poster: Алексей Аграновский (Док)
+      email: aaa@genebee.msu.su
+      subject: Шеф, усё готово
+      deleted: false
+      text: Не могу больше.
+      replies:
+      - id: 18900
+        parent_id: 18899
+        date: 2004-07-02 22:27
+        poster: Andrei V. Evdokimov (evdokimov)
+        email: evdokimov@blues.ru
+        subject: Кэп, я ужо прочел и рассмотрел
+        deleted: false
+        text: было оч.интересна. ракия... хорошее дело так не назовут!

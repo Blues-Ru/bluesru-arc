@@ -1,0 +1,82 @@
+topic_id: 1034
+slug: topic-1034
+title: Мне очень хотелось бы знать
+first_post: 2002-06-16 21:52
+last_post: 2002-06-17 11:39
+post_count: 7
+posts:
+- id: 5361
+  parent_id: null
+  date: 2002-06-16 21:52
+  poster: Дима Казанцев (Dr. Nick)
+  email: dr.nick@blues.ru
+  subject: Мне очень хотелось бы знать
+  deleted: false
+  text: кто мне прислал гадкое письмо с адреса bbking@blues.ru
+  replies:
+  - id: 5363
+    parent_id: 5361
+    date: 2002-06-16 23:38
+    poster: Михаил Бирюков (nECKAPb)
+    email: blackcat@blues.ru
+    subject: в смысле
+    deleted: false
+    text: С вирусом что ли? Их счас тьма ходит. Мне вот сегодня пришло от одного очень
+      уважаемого человека.
+    replies:
+    - id: 5368
+      parent_id: 5363
+      date: 2002-06-17 10:34
+      poster: Дима Казанцев (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: Вирусы тут не при чем
+      deleted: false
+      text: Просто кто-то пишет junk уже на мыло. И кто-то из наших.
+      replies:
+      - id: 5371
+        parent_id: 5368
+        date: 2002-06-17 11:13
+        poster: Dima Krasivov (Dima)
+        email: dima@blues.ru
+        subject: Интересно
+        deleted: false
+        text: 'Пришли мне его целиком со всеми хедерами... я проверю.
+
+
+          А форуме будем про блюз говорить... ну или про фанк... про томауэйтса на
+          худой конец ;)'
+        replies:
+        - id: 5372
+          parent_id: 5371
+          date: 2002-06-17 11:39
+          poster: Дима Казанцев (Dr. Nick)
+          email: dr.nick@blues.ru
+          subject: Высылаю
+          deleted: false
+  - id: 5364
+    parent_id: 5361
+    date: 2002-06-17 02:26
+    poster: Dima Krasivov (Dima)
+    email: dima@blues.ru
+    subject: Дима!
+    deleted: false
+    text: 'Как краевед тебе заявляю
+
+      smtp протокол -- не подарок!
+
+      присланное тебе сообщение может быть от кого угодно...
+
+      например от billgates@microsoft.com или от nachalnikmakintosha@machintosh.com
+
+      и это ничего конкретного означать не будет!
+
+      Не стоит здесь об этом спрашивать...'
+    replies:
+    - id: 5367
+      parent_id: 5364
+      date: 2002-06-17 10:32
+      poster: Дима Казанцев (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: Нет, Димон
+      deleted: false
+      text: Это сообщение было от кого-то из этого форума. Заголовок уж больно знакомый.

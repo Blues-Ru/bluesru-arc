@@ -1,0 +1,47 @@
+topic_id: 1209
+slug: topic-1209
+title: Где бы узнать что в Питере в кафе на Литейном будет? Мож программка какая?
+first_post: 2003-06-04 21:44
+last_post: 2003-06-09 21:40
+post_count: 4
+posts:
+- id: 12906
+  parent_id: null
+  date: 2003-06-04 21:44
+  poster: bob
+  email: 111@mail.ru
+  subject: Где бы узнать что в Питере в кафе на Литейном будет? Мож программка какая?
+  deleted: false
+  text: И живое оно вообще,я там триста лет не был...;))
+  replies:
+  - id: 12915
+    parent_id: 12906
+    date: 2003-06-05 09:49
+    poster: Sergei  Kiritchenko (VoID)
+    email: skvoid@mail.ru
+    subject: если ты о..
+    deleted: false
+    text: '..кабаке под названием Jimi Hendrix, то они живы, а афишу может быть сумеешь
+      поглядеть здесь: http://spbclub.cool.ru/'
+    replies:
+    - id: 12943
+      parent_id: 12915
+      date: 2003-06-07 07:03
+      poster: bob
+      email: 111@mail.ru
+      subject: Да
+      deleted: false
+      text: Именно  о нем.А че-нить еще будет в Питере по части блюза?
+      replies:
+      - id: 12959
+        parent_id: 12943
+        date: 2003-06-09 21:40
+        poster: Дмитрий (fan)
+        email: leondmitr@freemail.ru
+        subject: а як же....
+        deleted: false
+        text: 'Купи журнальчик еженедельный. "Досуг" называется. В разделах джаз и
+          блюз/рок клубы ищи исполнителей - чтобы в скобочках после названия было
+          написано - BLUES...
+
+          Удачи.'

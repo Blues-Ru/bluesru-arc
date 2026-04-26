@@ -1,0 +1,82 @@
+topic_id: 556
+slug: topic-556
+title: СердеШно поздравляю ДОБРОГО Жука :) с днем рожденья
+first_post: 2003-01-05 10:03
+last_post: 2003-01-13 07:40
+post_count: 8
+posts:
+- id: 9846
+  parent_id: null
+  date: 2003-01-05 10:03
+  poster: Игорь Головачев (Игорь Г.)
+  email: sunny_city@mail.ru
+  subject: СердеШно поздравляю ДОБРОГО Жука :) с днем рожденья
+  deleted: false
+  text: 'Ваня,желаю тебе всего самого хорошего.
+
+    25 не круглая цифра,но  э т о  у ж е   кое-что.'
+  replies:
+  - id: 9850
+    parent_id: 9846
+    date: 2003-01-05 14:08
+    poster: Андрей PRG
+    email: peregnoy@mail.ru
+    subject: Хе-е-е! Чтой-то дни рожденья
+    deleted: false
+    text: 'прямо косяками пошли! :)
+
+
+      Вань! Поздравляю!!! А 25-вполне круглая дата ... до более круглой-то ещё дожить
+      надо ;)'
+  - id: 9858
+    parent_id: 9846
+    date: 2003-01-05 19:11
+    poster: Sergei  Kiritchenko (VoID)
+    email: skvoid@mail.ru
+    subject: Ух...
+    deleted: false
+    text: Вань, с ДР! Всех благ.. и почаще появляться на исторической родине :)
+  - id: 9859
+    parent_id: 9846
+    date: 2003-01-05 20:09
+    poster: Malcolm Ray  Redriver (Mike)
+    email: lifebythedrop@yandex.ru
+    subject: congratulations
+    deleted: false
+    text: Клёво, пожалуй и я присоединюсь ко всем остальным, а кстати, Жук, это твоя
+      фотка на yar.hole в Hippy.talks.filtered лежит?
+    replies:
+    - id: 9863
+      parent_id: 9859
+      date: 2003-01-05 23:11
+      poster: Юрий Каверкин
+      email: kaverkin@rol.ru
+      subject: Happy, не побоюсь этого слова Birthday тебе, Ваня!!!!
+      deleted: false
+    - id: 10009
+      parent_id: 9859
+      date: 2003-01-13 07:40
+      poster: Жук
+      email: psihu@pisem.net
+      subject: Ой, спасибо,  я только с Кавказа,  не был в Сети-то долго.
+      deleted: false
+      text: моя фотка, весьма вероятно, особенно если там "Жук" подписано или ещё
+        что-нибудь типа.
+  - id: 9872
+    parent_id: 9846
+    date: 2003-01-06 14:27
+    poster: Михаил Бирюков (nECKAPb)
+    email: blackcat@blues.ru
+    subject: поздравляю!
+    deleted: false
+    text: 'Ивана с Днём Рождения!
+
+      Иван, будь счастлив и здоров, играй блюз, ездий на моторе, shine like a Star!
+      :)) Удачи тебе.'
+  - id: 9896
+    parent_id: 9846
+    date: 2003-01-08 13:25
+    poster: Greta
+    email: morehemp@mail.ru
+    subject: С Днем рождения!
+    deleted: false

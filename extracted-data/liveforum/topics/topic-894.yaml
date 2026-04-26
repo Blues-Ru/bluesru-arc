@@ -1,0 +1,25 @@
+topic_id: 894
+slug: topic-894
+title: Who is The Built For Comfort?
+first_post: 2002-06-20 14:50
+last_post: 2002-06-20 15:36
+post_count: 2
+posts:
+- id: 5576
+  parent_id: null
+  date: 2002-06-20 14:50
+  poster: Anton Klepikov (antokha)
+  email: antokha@yandex.ru
+  subject: Who is The Built For Comfort?
+  deleted: false
+  text: которые сегодня в Би Би Кинге?
+  replies:
+  - id: 5578
+    parent_id: 5576
+    date: 2002-06-20 15:36
+    poster: AlexIV
+    email: evergreens@mail.ru
+    subject: Проект Джона Санчилло
+    deleted: false
+    text: А вот кто там кроме него играет я точно не помню... Володя Кораблин и Рома
+      Гегарт вроде бы...

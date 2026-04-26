@@ -1,0 +1,24 @@
+topic_id: 728
+slug: topic-728
+title: Господа Игорь Г. и Андрей Ц.?
+first_post: 2003-04-06 19:17
+last_post: 2003-04-08 14:07
+post_count: 2
+posts:
+- id: 11412
+  parent_id: null
+  date: 2003-04-06 19:17
+  poster: Андрей Ордальонов (Андрей PRG)
+  email: peregnoy@mail.ru
+  subject: Господа Игорь Г. и Андрей Ц.?
+  deleted: false
+  text: Что с блюзмАном? Пациент жив?
+  replies:
+  - id: 11469
+    parent_id: 11412
+    date: 2003-04-08 14:07
+    poster: Андрей Ц.
+    email: gypsy@mail.ru
+    subject: очевидно, был закрыт на профилактические работы...
+    deleted: false
+    text: У семи блюзменов блюз без коды..

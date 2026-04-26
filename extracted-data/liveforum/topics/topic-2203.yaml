@@ -1,0 +1,25 @@
+topic_id: 2203
+slug: topic-2203
+title: Wellcome to my Diearray
+first_post: 2004-08-18 02:27
+last_post: 2004-08-22 19:17
+post_count: 2
+posts:
+- id: 19080
+  parent_id: null
+  date: 2004-08-18 02:27
+  poster: Оксана Кочубей
+  email: morrah@yandex.ru
+  subject: Wellcome to my Diearray
+  deleted: false
+  text: "www.liveinternet.ru \nsearch for \nОксана Кочубей\nДавайте общаться! \n?"
+  replies:
+  - id: 19110
+    parent_id: 19080
+    date: 2004-08-22 19:17
+    poster: Cерега (ВИА "Паспортный стол")
+    email: s.e.r.g.e@newmail.ru
+    subject: Вот беда-то...
+    deleted: false
+    text: На одной из страничек твоего дневника вылезает фотка, которая растягивает
+      экран так, что нажать "Дальше" уже не получается...

@@ -1,0 +1,51 @@
+topic_id: 3432
+slug: topic-3432
+title: ФорумХолл
+first_post: 2006-10-05 13:22
+last_post: 2006-10-06 23:13
+post_count: 4
+posts:
+- id: 28918
+  parent_id: null
+  date: 2006-10-05 13:22
+  poster: Алексей Фролов (Buchothk)
+  email: jokerthk@yandex.ru
+  subject: ФорумХолл
+  deleted: false
+  text: 'Некто Алексей обещался сходить 30-го в ФорумХолл на Бреговича и рассказать
+    о зале...
+
+    (про Бреговича тож интересно послушать) ;)'
+  replies:
+  - id: 28938
+    parent_id: 28918
+    date: 2006-10-05 18:19
+    poster: Илья Кривандин
+    email: ilija@bk.ru
+    subject: Осень... Обострения....
+    deleted: false
+    text: Да, Мистер Фикс? ,)
+  - id: 29004
+    parent_id: 28918
+    date: 2006-10-06 17:06
+    poster: (Grem)
+    email: grem@yandex.ru
+    subject: Вот он Форум Холл
+    deleted: false
+    text: 'Здесь есть все:Любовь Успенская, Штары и Мандарины...и Брегович тоже.
+
+      http://www.forumhall.ru'
+  - id: 29023
+    parent_id: 28918
+    date: 2006-10-06 23:13
+    poster: Алексей
+    email: Нету...
+    subject: Форум Холл
+    deleted: false
+    text: '- это гиперпафосное заведение.
+
+
+      Звук был в целом весьма достойным.
+
+
+      Есть подозрение, что пиво будет разрешено пить только в буфете. :)'

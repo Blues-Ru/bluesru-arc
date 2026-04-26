@@ -1,0 +1,35 @@
+topic_id: 1052
+slug: topic-1052
+title: oh well
+first_post: 2002-04-10 08:14
+last_post: 2002-04-11 08:19
+post_count: 3
+posts:
+- id: 3611
+  parent_id: null
+  date: 2002-04-10 08:14
+  poster: Malcolm Ray    Readriver (Mike)
+  email: Mrg_mike@rambler.ru
+  subject: oh well
+  deleted: false
+  text: Чёй-то фору как-то заглох, это из-за погоды что-ли...
+  replies:
+  - id: 3613
+    parent_id: 3611
+    date: 2002-04-10 13:38
+    poster: Дима Казанцев (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: 'Zappa said:'
+    deleted: false
+    text: '"Jazz is not dead, it just smells funny".
+
+      Можно провести аналогию с форумом.'
+    replies:
+    - id: 3625
+      parent_id: 3613
+      date: 2002-04-11 08:19
+      poster: Malcolm Ray    Readriver (Mike)
+      email: Mrg_mike@rambler.ru
+      subject: Пшшшшшш...
+      deleted: false
+      text: '...шшшшшшшшшшшш'

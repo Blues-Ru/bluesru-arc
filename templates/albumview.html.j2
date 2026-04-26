@@ -1,0 +1,99 @@
+<HTML>
+  <HEAD>
+    <title>Blues.Ru - {{ artist_name }}{% if artist_name %} - {% endif %}{{ album.title }}{% if album.year %}, {{ album.year }}{% endif %}</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <link rel="shortcut icon" href="/images/bluesru.ico">
+    <style>body { max-width: 900px; margin: 0 auto; padding: 0 1em; }</style>
+  {{ site_css_tag | safe }}
+  {{ ga_snippet | safe }}
+</head>
+  <body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#5511cc" alink="#00bb00">
+
+    <table cellpadding="4" cellspacing="0" border="0" align="right">
+    <tr><td align="left">
+      <a href="/"><img src="/images/bluesru100x100.gif" width="100" height="100" border="0"></a>
+    </td></tr>
+    <tr><td width="150">
+    </td></tr>
+    </table>
+
+    <h2><a href="/artist/">Музыканты</a> : &#32;
+{% if artist_legacy_path %}
+<a href="/artist/{{ artist_legacy_path }}/">{{ artist_name }}</a>
+{% elif artist_name %}
+{{ artist_name }}
+{% else %}
+<a href="/review/">Разные артисты</a>
+{% endif %}
+</h2>
+
+<table cellpadding="4" cellspacing="0" border="0">
+  <tr>
+    <td valign="top">
+      <h3>
+{% if album.artist %}{{ album.artist }} - {% endif %}{{ album.title }}
+{% if album.year %}
+  ({{ album.year }})
+{% endif %}
+</h3>
+      <table cellpadding="4" border="0" cellspacing="0">
+        <tr>
+          <td colspan="2">{% if cover_url %}<img src="{{ cover_url }}" align="left">{% endif %}</td>
+        </tr>
+{% if album.artist %}
+        <tr>
+          <td>Артист: </td>
+          <td>{{ album.artist }}</td>
+        </tr>
+{% endif %}
+{% if album.title %}
+        <tr>
+          <td>Название: </td>
+          <td>{{ album.title }}</td>
+        </tr>
+{% endif %}
+{% if album.year %}
+        <tr>
+          <td>Год: </td>
+          <td>{{ album.year }}</td>
+        </tr>
+{% endif %}
+{% if album.label %}
+        <tr>
+          <td>Лейбл: </td>
+          <td>{{ album.label }}</td>
+        </tr>
+{% endif %}
+      </table>
+    </td>
+    <td valign="top" align="right">
+    </td>
+  </tr>
+</table>
+{% if album.asin or streaming_links or artist_streaming_links %}
+<p>Альбом на:
+{% if album.asin %}<a target="_blank" href="https://www.amazon.com/dp/{{ album.asin }}">Amazon</a>{% endif %}
+{% if (streaming_links or artist_streaming_links) and album.asin %} | {% endif %}
+{% if streaming_links %}{{ streaming_links | safe }}{% elif artist_streaming_links %}{{ artist_streaming_links | safe }}{% endif %}
+</p>
+{% endif %}
+
+{% if reviews %}
+<hr size="1">
+<h2>Рецензии</h2>
+{% for review in reviews %}
+<h3><a name="{{ review.id }}"></a>
+{% if review.album_title %}"{{ review.album_title }}" {% endif %}
+{% if review.year %}{{ review.year }} {% endif %}
+{% if review.mark %}- {{ review.mark_text }}{% endif %}</h3>
+{{ review.body | safe }}
+<p align="right"><i>{{ review.author }}</i></p>
+<hr size="1">
+{% endfor %}
+{% endif %}
+
+    <p align="center">
+{{ footer }}
+    </p>
+  </body>
+</HTML>

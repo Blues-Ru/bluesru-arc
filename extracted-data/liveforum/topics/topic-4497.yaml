@@ -1,0 +1,22 @@
+topic_id: 4497
+slug: topic-4497
+title: Чак Берри
+first_post: 2011-01-03 16:22
+last_post: 2011-01-04 14:45
+post_count: 2
+posts:
+- id: 37260
+  parent_id: null
+  date: 2011-01-03 16:22
+  poster: Алексей Фролов
+  subject: Чак Берри
+  deleted: false
+  text: http://music.km.ru/news.asp?id=2A2FD8CCBE914FC99B8C6E5EBAA32335
+  replies:
+  - id: 37262
+    parent_id: 37260
+    date: 2011-01-04 14:45
+    poster: Andrei V. Evdokimov
+    subject: или, к примеру, накануне, в том же форуме.
+    deleted: false
+    text: http://blues.ru/forum/topic4490#post37259

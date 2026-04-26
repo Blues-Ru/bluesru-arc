@@ -1,0 +1,100 @@
+topic_id: 86
+slug: topic-86
+title: Один из уважаемых мной гитаристов выпустил очередной альбом
+first_post: 2002-03-04 11:46
+last_post: 2002-03-04 17:52
+post_count: 9
+posts:
+- id: 1797
+  parent_id: null
+  date: 2002-03-04 11:46
+  poster: Костин Владимир (Volk)
+  email: volk21@land.ru
+  subject: Один из уважаемых мной гитаристов выпустил очередной альбом
+  deleted: false
+  text: 'и я не могу не поделиться этим радостным событием...
+
+    Это Tinsley Ellis - Hell Or High Water
+
+    подробности смотреть на
+
+    http://www.amazon.com/exec/obidos/ASIN/B000060OJ4/ref=pd_nfy_nr_m_4/002-4089667-4330459'
+  replies:
+  - id: 1805
+    parent_id: 1797
+    date: 2002-03-04 13:01
+    poster: V.Tsubin (VOVAN)
+    email: vts13@hotmail.com
+    subject: и еще один ...
+    deleted: false
+    text: '...хороший человек выпустил альбом: Duke Robillard "Living With The Blues".
+      Cсылка http://www.stonyplainrecords.com/sprecord/artists/robillard.html'
+    replies:
+    - id: 1816
+      parent_id: 1805
+      date: 2002-03-04 14:40
+      poster: Федор Романенко (fedor)
+      email: fedor@blues.ru
+      subject: Дурь!
+      deleted: false
+      text: Он еще недавно записал какой-то альбом с Billy Boy Arnold, но мне не удалось
+        его пока купить.
+      replies:
+      - id: 1828
+        parent_id: 1816
+        date: 2002-03-04 15:22
+        poster: V.Tsubin (VOVAN)
+        email: vts13@hotmail.com
+        subject: Федор,это о ком(или о чем)?
+        deleted: false
+        text: '? Дурь-это хорошо или плохо?:-)'
+        replies:
+        - id: 1829
+          parent_id: 1828
+          date: 2002-03-04 15:26
+          poster: Дима   (Казанцев)
+          email: dr.nick@blues.ru
+          subject: Дурь - это мультизначимое слово ;)
+          deleted: false
+          text: В данном контексте "дуууууууууууурь" - это очень хорошо.
+          replies:
+          - id: 1835
+            parent_id: 1829
+            date: 2002-03-04 17:34
+            poster: V.Tsubin (VOVAN)
+            email: vts13@hotmail.com
+            subject: Велик и могуч родной язык! (-)
+            deleted: false
+            text: '!'
+            replies:
+            - id: 1836
+              parent_id: 1835
+              date: 2002-03-04 17:52
+              poster: Дима   (Казанцев)
+              email: dr.nick@blues.ru
+              subject: И слов в нем разных дурь!
+              deleted: false
+              text: '!!!'
+        - id: 1830
+          parent_id: 1828
+          date: 2002-03-04 15:32
+          poster: Федор Романенко (fedor)
+          email: fedor@blues.ru
+          subject: О Робилларде, дурь = круто! (-)
+          deleted: false
+          text: '-'
+          replies:
+          - id: 1831
+            parent_id: 1830
+            date: 2002-03-04 15:38
+            poster: Дима   (Казанцев)
+            email: dr.nick@blues.ru
+            subject: Про "дурь"
+            deleted: false
+            text: 'А еще можно говорить:
+
+              - Все ужрались в зюзю; водки-то было дурь!
+
+              - Езжу я на жигулях, денег-то не дурь.
+
+              - Послушал альбом Can - дурь какая-то.'

@@ -1,0 +1,24 @@
+topic_id: 3866
+slug: topic-3866
+title: Lester Davenport - это Фантомас :)
+first_post: 2008-01-16 10:58
+last_post: 2008-01-16 11:34
+post_count: 2
+posts:
+- id: 34313
+  parent_id: null
+  date: 2008-01-16 10:58
+  poster: Konstantin  (Wheel)
+  email: wheel.k@gmail.com
+  subject: Lester Davenport - это Фантомас :)
+  deleted: false
+  text: На главной странице в календаре Lester Davenport привратился с Jimmy Dawkins.
+  replies:
+  - id: 34314
+    parent_id: 34313
+    date: 2008-01-16 11:34
+    poster: Andrei V. Evdokimov (evdokimov)
+    email: evdokimov@blues.ru
+    subject: 'дисциплинарное наказание:'
+    deleted: false
+    text: Снят с должности главного дежурного дня!

@@ -1,0 +1,82 @@
+topic_id: 528
+slug: topic-528
+title: мне вчера анекдот придумался.
+first_post: 2002-12-23 17:36
+last_post: 2002-12-23 19:57
+post_count: 8
+posts:
+- id: 9574
+  parent_id: null
+  date: 2002-12-23 17:36
+  poster: vr  (Stone Crazy)
+  email: volodya@blues.ru
+  subject: мне вчера анекдот придумался.
+  deleted: false
+  text: "- бабушка ваш сосед блюзовый гитарист?\n- дадададада! (на тему хучикучимэн)\n\
+    \n.....вообщем играю в усилитель только до 21... :) \nжалко людей :)"
+  replies:
+  - id: 9575
+    parent_id: 9574
+    date: 2002-12-23 17:50
+    poster: Михаил Бирюков (nECKAPb)
+    email: blackcat@blues.ru
+    subject: смешно!
+    deleted: false
+    text: Просим продолжать в том же духе, не снижая планки :)
+  - id: 9582
+    parent_id: 9574
+    date: 2002-12-23 18:33
+    poster: Дмитрий(fan))
+    email: leondmitr@freemail.ru
+    subject: Ага, - блюзовый гитарист. А еще...
+    deleted: false
+    text: 'он живет около стадиона и болеет за "Спартак".
+
+      Угадал?'
+    replies:
+    - id: 9583
+      parent_id: 9582
+      date: 2002-12-23 18:34
+      poster: vr  (Stone Crazy)
+      email: volodya@blues.ru
+      subject: нет - это другой анекдот :))) радом со стадионом живет Евдокимов ;)
+      deleted: false
+  - id: 9586
+    parent_id: 9574
+    date: 2002-12-23 19:35
+    poster: Жук
+    email: psihu@pisem.net
+    subject: путь воина - безжалостность
+    deleted: false
+    text: 'А МНЕ НЕ ЖАЛКАААА!!!
+
+      А Я ЕЩЁ И ПОЮУУУУУ!!!
+
+      нужно же как-то заниматься.'
+    replies:
+    - id: 9587
+      parent_id: 9586
+      date: 2002-12-23 19:45
+      poster: Старый Майор
+      email: gypsy@mail.ru
+      subject: Барабанщики, вам слово )))
+      deleted: false
+      replies:
+      - id: 9590
+        parent_id: 9587
+        date: 2002-12-23 19:50
+        poster: Юрий Каверкин
+        email: kaverkin@rol.ru
+        subject: А слабо барабанщику на бас бочке исполнить "Я встретил вас и все
+          былое..."
+        deleted: false
+        replies:
+        - id: 9592
+          parent_id: 9590
+          date: 2002-12-23 19:57
+          poster: Старый Майор
+          email: gypsy@mail.ru
+          subject: В какой-то старой комедии с Любовью Орловой было...
+          deleted: false
+          text: '"Смерть Изольды" на тубе... клёво! А у меня есть Taj Mahal - Texas
+            Woman Blues, как раз с тубой. Кто не слышал, могу дать ссылочку ))'

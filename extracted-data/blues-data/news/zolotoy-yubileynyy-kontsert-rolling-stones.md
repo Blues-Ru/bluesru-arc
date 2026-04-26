@@ -1,0 +1,23 @@
+---
+id: 998
+slug: zolotoy-yubileynyy-kontsert-rolling-stones
+title: Золотой юбилейный концерт Rolling Stones
+date: 2012-11-26 21:05
+author: Андрей Евдокимов
+---
+
+Вчера в лондонском O2 Arena демонстрацией длиннючего видеоролика поздравлений открылся первый из пяти концертов группы Rolling Stones, посвященных ими собственному Золотому Юбилею - 50-летию со дня первого концерта. Поздравления с экрана зачитывали разные славные люди, преимущественно смурного имиджа, типа Iggy Pop, Johnny Depp, Nick Cave и примкнувший к ним Elton John.
+
+Событие красочно описано в центральной мировой прессе. Blues.Ru особо отметил участие в концерте Билла Уаймэна, покинувшего коллектив еще 20 лет тому назад и с удовольствием играющего ритм-энд-блюзовые стандарты своего детства и юности в группе Bill Wyman's Rhythm Kings. А также на сцену вышел замечательный блюз-роковый гитарист Mick Taylor. Он воспитанник Джона Мэйолла и в группе RS отыграл всего 5 лет, но успел записать с ней целый ряд ярчайших альбомов, включая этапный Exile on Main Street. Он покинул RS в 1974 г., чтобы, по его словам, играть более развернутые гитарные соло. Специальный гость - Джефф Бек, интеллектуал от рок-гитары сегодня, звезда прогрессив-блюза 60-х.
+
+Видео с участием Билла Уаймэна прилагается, полный плей-лист концерта можно увидеть в свежем выпуске CNN: http://edition.cnn.com/2012/11/26/showbiz/music/rolling-stones-anniversay-tour-rs/index.html - блюзов там не густо.
+
+<center><iframe width="560" height="315" src="http://www.youtube.com/embed/OT1J2OqcXoc" frameborder="0" allowfullscreen></iframe>
+
+С Миком Тейлором:
+
+<iframe width="560" height="315" src="http://www.youtube.com/embed/g7b4GwJ__X8" frameborder="0" allowfullscreen></iframe>
+
+С Джефом Бэком:
+
+<iframe width="560" height="315" src="http://www.youtube.com/embed/Rxch72KAUu8" frameborder="0" allowfullscreen></iframe></center>

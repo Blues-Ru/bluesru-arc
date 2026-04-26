@@ -1,0 +1,27 @@
+topic_id: 4020
+slug: topic-4020
+title: Умер Bo Diddley
+first_post: 2008-06-02 21:07
+last_post: 2008-06-03 00:22
+post_count: 2
+posts:
+- id: 35461
+  parent_id: null
+  date: 2008-06-02 21:07
+  poster: Александр.
+  email: soulman@bk.ru
+  subject: Умер Bo Diddley
+  deleted: false
+  text: "19:35 ГАЗЕТА.GZT.RU \nВ возрасте 79 лет скончался популярный американский\
+    \ рок-музыкант Бо Дидли, передает Associated Press. \n\nИсточник, близкий к музыканту,\
+    \ сообщил, что он умер от сердечного приступа в больнице штата Флорида, где проходил\
+    \ лечение."
+  replies:
+  - id: 35462
+    parent_id: 35461
+    date: 2008-06-03 00:22
+    poster: Dmitri Kazantsev (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: как жалко :(
+    deleted: false
+    text: только вчера его слушал :(

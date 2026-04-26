@@ -1,0 +1,28 @@
+path: 11A/Clarke91
+type: custom
+title: Интервью Уилльяма Кларка, 1991 г.
+date: null
+photo_count: 7
+captioned: 3
+index_files:
+- Clarke91.htm
+extra_text: null
+photos:
+- file: BLH.jpg
+- file: GHS_WC.jpg
+- file: WClarke1.jpg
+  caption: Я давно ношу черные очки, отчасти потому что нужно носить защитные очки,
+    когда работаешь механиком. И черные костюмы я начал надевать задолго до того,
+    как кто-то узнал о " Братьях Блюз
+- file: WClarke2.jpg
+- file: WClarke3.jpg
+  caption: '- И больше не было работы на зарплате?'
+- file: WClarke4.jpg
+  caption: '- Почему блюз?'
+- file: WClarke5.jpg
+canonical_date: '1991'
+clean_title: Уилльям Кларк, 1991
+slug: william-clarke-1991
+description: Интервью Уилльяма Кларка, 1991 г.
+source_article: null
+exclude: true

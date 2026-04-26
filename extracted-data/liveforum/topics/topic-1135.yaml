@@ -1,0 +1,25 @@
+topic_id: 1135
+slug: topic-1135
+title: Scolder Blues
+first_post: 2002-02-11 22:11
+last_post: 2002-02-11 22:24
+post_count: 2
+posts:
+- id: 1172
+  parent_id: null
+  date: 2002-02-11 22:11
+  poster: Alexei
+  email: real_sokol@mail.ru
+  subject: Scolder Blues
+  deleted: false
+  text: скажите кто-нибудь - Scoler Blues - это рулез или нет - стоит ли пойти на
+    их концерт (бесплатный :)?
+  replies:
+  - id: 1173
+    parent_id: 1172
+    date: 2002-02-11 22:24
+    poster: Дима Казанцев (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: Стоит по-любому
+    deleted: false
+    text: Необычный состав, интересная программа, играют и поют с желанием и отдачей.

@@ -1,0 +1,29 @@
+topic_id: 3982
+slug: topic-3982
+title: ищешь в новостях слово Blues
+first_post: 2008-04-12 01:40
+last_post: 2008-04-12 17:14
+post_count: 2
+posts:
+- id: 35270
+  parent_id: null
+  date: 2008-04-12 01:40
+  poster: Andrei V. Evdokimov (evdokimov)
+  email: evdokimov@blues.ru
+  subject: ищешь в новостях слово Blues
+  deleted: false
+  text: 'и встречаешь вот такое:
+
+    William, the future head of the Armed Forces, spent a year with the Household
+    Cavalry''s Blues and Royals before his stint with the Royal Air Force.
+
+    - no comments'
+  replies:
+  - id: 35278
+    parent_id: 35270
+    date: 2008-04-12 17:14
+    poster: Dmitri Kazantsev (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: blues - это ещё и название таблеток наркотических
+    deleted: false
+    text: ну там они по цветам были - reds, greens, blues...

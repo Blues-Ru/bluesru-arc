@@ -1,0 +1,24 @@
+topic_id: 401
+slug: topic-401
+title: Фестивали
+first_post: 2002-10-13 03:10
+last_post: 2002-10-13 10:29
+post_count: 2
+posts:
+- id: 8175
+  parent_id: null
+  date: 2002-10-13 03:10
+  poster: Zakker
+  email: dambus@hotbox.ru
+  subject: Фестивали
+  deleted: false
+  text: Кто нибудь подскажите плзз когда в МОскве будет ближайший блюз-фестиваль?????
+  replies:
+  - id: 8179
+    parent_id: 8175
+    date: 2002-10-13 10:29
+    poster: vr  (Stone Crazy)
+    email: volodya@blues.ru
+    subject: был бы еще хотя бы не ближайший.....
+    deleted: false
+    text: Эфес Пилснер будет в начале ноября :)

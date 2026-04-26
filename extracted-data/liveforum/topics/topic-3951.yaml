@@ -1,0 +1,33 @@
+topic_id: 3951
+slug: topic-3951
+title: Блюзовая лента
+first_post: 2008-03-19 00:23
+last_post: 2008-03-19 02:05
+post_count: 2
+posts:
+- id: 34984
+  parent_id: null
+  date: 2008-03-19 00:23
+  poster: Федор Романенко (fedor)
+  email: fedor@blues.ru
+  subject: Блюзовая лента
+  deleted: false
+  text: 'Специальный анонс для тех, кто читает только форум ;)
+
+
+    <a href="http://www.blues.ru/rss/">www.blues.ru/rss/</a>
+
+
+    Интересно читать? Есть ли комментарии и впечатления?
+
+
+    И где еще пишут о блюзе, а мы не заметили?'
+  replies:
+  - id: 34985
+    parent_id: 34984
+    date: 2008-03-19 02:05
+    poster: Dmitri Kazantsev (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: очень круто
+    deleted: false
+    text: знакомые всё лица там

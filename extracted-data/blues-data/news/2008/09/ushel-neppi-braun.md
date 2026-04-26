@@ -1,0 +1,10 @@
+---
+id: 540
+slug: ushel-neppi-braun
+title: Ушел Нэппи Браун
+date: '2008-09-28'
+author: Blues.Ru
+legacy_path: news/2008/09/ushel-neppi-braun.md
+---
+
+Вчера, в городе Шарлот (Северная Королина) состоялись похороны легендарного блюзового вокалиста Нэппи Брауна (Nappy Brown). Он отошел в мир иной во сне. Ему было 78 лет. Первую запись он сделал в 1954 году. Последний альбом (<a href="/data/albumview.aspx?cdid=1192">Long Time Coming</a>) вышел на Blind Pig ровно год назад.

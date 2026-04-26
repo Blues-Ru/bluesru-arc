@@ -1,0 +1,55 @@
+topic_id: 1092
+slug: topic-1092
+title: Очень советую почитать
+first_post: 2002-01-14 00:03
+last_post: 2002-01-15 01:41
+post_count: 5
+posts:
+- id: 146
+  parent_id: null
+  date: 2002-01-14 00:03
+  poster: Дима Казанцев (Dr. Nick)
+  email: dr.nick@blues.ru
+  subject: Очень советую почитать
+  deleted: false
+  text: http://rhino.com/blackhistory/index.html
+  replies:
+  - id: 148
+    parent_id: 146
+    date: 2002-01-14 01:54
+    poster: AvA  ()
+    email: vad2908@mail.ru
+    subject: почитал бы, если бы....
+    deleted: false
+    text: '....знал английский...может, кто переведёт?'
+    replies:
+    - id: 150
+      parent_id: 148
+      date: 2002-01-14 03:29
+      poster: Дима Казанцев (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: Ну ты даешь, приятель...
+      deleted: false
+      text: Так жить нельзя, особенно если дело касается музыки. В этой стране никогда
+        не появятся приличные издания по приличной музыке, так что надо пользоваться
+        фирменными, и-нетом да вот этим сайтом...
+      replies:
+      - id: 152
+        parent_id: 150
+        date: 2002-01-14 03:33
+        poster: AvA  ()
+        email: vad2908@mail.ru
+        subject: english
+        deleted: false
+        text: Ну,что поделать, стар ужо, чтоб учиться.
+        replies:
+        - id: 163
+          parent_id: 152
+          date: 2002-01-15 01:41
+          poster: Alex  (Mao)
+          email: shou_dao@hotmail.com
+          subject: Да ладно
+          deleted: false
+          text: 'я первый язык в 25 выучил...
+
+            а английский он на слуху - уж читать -то можно быстро  научиться'

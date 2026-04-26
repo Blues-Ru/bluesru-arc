@@ -1,0 +1,45 @@
+topic_id: 3325
+slug: topic-3325
+title: Женю Немова с Днём Рождения!
+first_post: 2006-07-07 18:30
+last_post: 2006-07-10 17:03
+post_count: 5
+posts:
+- id: 27843
+  parent_id: null
+  date: 2006-07-07 18:30
+  poster: Михаил Мишурис (mishouris)
+  email: mishouris@mail.ru
+  subject: Женю Немова с Днём Рождения!
+  deleted: false
+  replies:
+  - id: 27844
+    parent_id: 27843
+    date: 2006-07-07 23:05
+    poster: Немов Евгений
+    email: jnr_new@mail.ru
+    subject: Спасибо,Миша!
+    deleted: false
+  - id: 27845
+    parent_id: 27843
+    date: 2006-07-07 23:29
+    poster: Руслан Чифуров ()
+    email: chifuroff<fhggjhgncvcmbnv >inbox.ru
+    subject: Ура!!!
+    deleted: false
+  - id: 27848
+    parent_id: 27843
+    date: 2006-07-10 11:16
+    poster: Cowboy Pete
+    email: cousins@yandex.ru
+    subject: Присоединяюсь!!! :-)))
+    deleted: false
+    text: Удачи и успехов :-)))
+  - id: 27851
+    parent_id: 27843
+    date: 2006-07-10 17:03
+    poster: Игорь Головачев
+    email: sunny_city@mail.ru
+    subject: Женяга,дружище
+    deleted: false
+    text: с прошедшим тебя. Дай Бог тебе всего самого,самого хорошего!!!

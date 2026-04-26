@@ -1,0 +1,45 @@
+topic_id: 2562
+slug: topic-2562
+title: Знакомство
+first_post: 2005-05-07 13:10
+last_post: 2005-05-18 18:56
+post_count: 4
+posts:
+- id: 21400
+  parent_id: null
+  date: 2005-05-07 13:10
+  poster: tanya
+  email: t-ovodova@yandex.ru
+  subject: Знакомство
+  deleted: false
+  text: Девушка, любящая БЛЮЗ, хотела бы найти друга, способного понять не только
+    эту музыку, но и меня.Я не могу найти БЛЮЗ в окружающих меня людях, может быть
+    я найду его в Вас...
+  replies:
+  - id: 21470
+    parent_id: 21400
+    date: 2005-05-16 21:18
+    poster: Дмитрий Зубулин (kcn)
+    email: kcn@inbox.ru
+    subject: Знакомство
+    deleted: false
+    text: Возможно, стоит попробовать. kcn@inbox.ru
+  - id: 21471
+    parent_id: 21400
+    date: 2005-05-16 21:23
+    poster: Дмитрий Зубулин (kcn)
+    email: kcn@inbox.ru
+    subject: Знакомство
+    deleted: false
+    text: Возможно, стоит попробовать. kcn@inbox.ru
+  - id: 21495
+    parent_id: 21400
+    date: 2005-05-18 18:56
+    poster: hipster
+    email: mister-hipster@yandex.ru
+    subject: знакомство
+    deleted: false
+    text: 'Мы,блюзмены,всегда готовы к общению! Тем более,что девушка,ценящая блюз
+      в наше попсовое время,определенно заслуживает уважение.
+
+      mister-hipster@yandex.ru'

@@ -1,0 +1,49 @@
+topic_id: 2740
+slug: topic-2740
+title: А как Вам новый диск Роллингов?
+first_post: 2005-09-02 16:29
+last_post: 2005-09-06 17:09
+post_count: 5
+posts:
+- id: 22652
+  parent_id: null
+  date: 2005-09-02 16:29
+  poster: Дмитрий Казанцев (Dr. Nick)
+  email: dr.nick@blues.ru
+  subject: А как Вам новый диск Роллингов?
+  deleted: false
+  text: 'Вот тут я кратко о нем написал: http://www.livejournal.com/users/dr_nick/492795.html?mode=reply'
+  replies:
+  - id: 22653
+    parent_id: 22652
+    date: 2005-09-02 17:02
+    poster: (Grem)
+    email: grems@yandex.ru
+    subject: А для тех кто хочет послушать
+    deleted: false
+    text: 'А для тех кто хочет послушать: http://www.rollingstones.com/abiggerbang/#'
+    replies:
+    - id: 22656
+      parent_id: 22653
+      date: 2005-09-02 17:53
+      poster: Дмитрий Казанцев (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: да у нас он уже продается, мне сообщили :)
+      deleted: false
+      text: уже и в ПЛ есть.
+  - id: 22767
+    parent_id: 22652
+    date: 2005-09-06 17:08
+    poster: павел
+    email: petertosh@mail.ru
+    subject: новый диск роллингов
+    deleted: false
+    text: ужас,старческий маразм- обидно
+  - id: 22768
+    parent_id: 22652
+    date: 2005-09-06 17:09
+    poster: павел
+    email: petertosh@mail.ru
+    subject: новый диск роллингов
+    deleted: false
+    text: ужас,старческий маразм- обидно

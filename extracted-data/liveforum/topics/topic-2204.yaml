@@ -1,0 +1,67 @@
+topic_id: 2204
+slug: topic-2204
+title: Группа "Soul Mate"
+first_post: 2004-08-18 23:03
+last_post: 2004-08-20 20:02
+post_count: 7
+posts:
+- id: 19082
+  parent_id: null
+  date: 2004-08-18 23:03
+  poster: Хельги Свенсон (Soulman)
+  email: soulman1@fromru.com
+  subject: Группа "Soul Mate"
+  deleted: false
+  text: кто слышал эту группу в Москве?Что можете сказать,если слышали?
+  replies:
+  - id: 19083
+    parent_id: 19082
+    date: 2004-08-19 00:26
+    poster: Алексей Ильичёв (Alex_z77)
+    email: alex_z77@mail.ru
+    subject: Группу я пока не слышал...
+    deleted: false
+    text: Но могу сказать, что Сергей Виноградов - первоклассный гитарист. :)
+    replies:
+    - id: 19091
+      parent_id: 19083
+      date: 2004-08-19 19:26
+      poster: Игорь Г
+      email: sunny_city@mail.ru
+      subject: Ах вот оно что... Серега там на гитаре
+      deleted: false
+      text: Интересно... Надо идтить... Благо что это название уже не раз попадалось
+        на глаза.
+  - id: 19094
+    parent_id: 19082
+    date: 2004-08-20 12:56
+    poster: Theodor
+    email: dfedorovu@rol.ru
+    subject: Хорошая группа :)
+    deleted: false
+    text: Слышал их недавно, на пароходе. Правда гитарист все время играл ритм, солировали
+      дудки. Хороший стильный вокалист. При случае с удовольствием послушаю еще.
+    replies:
+    - id: 19095
+      parent_id: 19094
+      date: 2004-08-20 13:14
+      poster: VoV  (Barmaley)
+      email: barmaley-vov@yandex.ru
+      subject: На любителя группа, на любителя...
+      deleted: false
+      replies:
+      - id: 19096
+        parent_id: 19095
+        date: 2004-08-20 13:43
+        poster: vr  (Stone Crazy)
+        email: volodya@blues.ru
+        subject: у нас вcе группы на любителя ;)
+        deleted: false
+        text: массовой культуры нет :)
+      - id: 19098
+        parent_id: 19095
+        date: 2004-08-20 20:02
+        poster: Андрей Ордальонов (Андрей PRG)
+        email: peregnoy@mail.ru
+        subject: Дык чего играют то оне?
+        deleted: false

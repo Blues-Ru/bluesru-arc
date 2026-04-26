@@ -1,0 +1,65 @@
+topic_id: 32
+slug: topic-32
+title: Ну что, ожил кто-нибудь?
+first_post: 2002-01-03 12:24
+last_post: 2002-01-04 10:50
+post_count: 5
+posts:
+- id: 4
+  parent_id: null
+  date: 2002-01-03 12:24
+  poster: Дмитрий Казанцев (Dr. Nick)
+  email: dr.nick@blues.ru
+  subject: Ну что, ожил кто-нибудь?
+  deleted: false
+  text: 'Форум умер опять (временно).
+
+    Вот опять пришло в голову. Расписание в БиБиКинге на эту неделю - ни одной блюзовой
+    команды! Почему? Как это поднимает популярность клуба на этом сайте? Да никак!
+    Воронов ничего толком так и не ответил...
+
+    Что думаете?'
+  replies:
+  - id: 5
+    parent_id: 4
+    date: 2002-01-03 13:43
+    poster: AlexIV ("The Evergreens")
+    email: evergreens@mail.ru
+    subject: Не ожил, а выжил!  :-)
+    deleted: false
+    text: 'Всех С Наступившим!!!
+
+
+      Дим, а чем тебе Modern не Blues Band? ;-)'
+    replies:
+    - id: 6
+      parent_id: 5
+      date: 2002-01-03 13:44
+      poster: Дмитрий Казанцев (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: Мне так доложили
+      deleted: false
+      text: Может наврали?
+      replies:
+      - id: 7
+        parent_id: 6
+        date: 2002-01-03 14:54
+        poster: AlexIV ("The Evergreens")
+        email: evergreens@mail.ru
+        subject: А ты бы сам сходил, послушал....
+        deleted: false
+        text: '... мнение своё составил бы.
+
+          Мне, например, Modern Blues Band очень нравится. Очень хорошие музыканты
+          все. У нашего басиста это вообще любимая группа в Москве. Так что всем рекомендую.'
+        replies:
+        - id: 16
+          parent_id: 7
+          date: 2002-01-04 10:50
+          poster: Дима Казанцев (Dr. Nick)
+          email: dr.nick@blues.ru
+          subject: Схожю и послющаю!
+          deleted: false
+          text: 'Как время найду.
+
+            Вот ходил тут Сколдеров слушал - очень даже хорошо...'

@@ -1,0 +1,89 @@
+topic_id: 805
+slug: topic-805
+title: 20 лет, как нет Мадди Уотерса... (-)
+first_post: 2003-04-30 19:16
+last_post: 2003-05-03 00:33
+post_count: 9
+posts:
+- id: 12167
+  parent_id: null
+  date: 2003-04-30 19:16
+  poster: Anton Klepikov (Antokha)
+  email: antokha@yandex.ru
+  subject: 20 лет, как нет Мадди Уотерса... (-)
+  deleted: false
+  replies:
+  - id: 12169
+    parent_id: 12167
+    date: 2003-04-30 23:42
+    poster: Дима Казанцев (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: И блюз
+    deleted: false
+    text: умер вместе с ним...
+    replies:
+    - id: 12170
+      parent_id: 12169
+      date: 2003-04-30 23:59
+      poster: Greta
+      email: morehemp@mail.ru
+      subject: Не
+      deleted: false
+      text: "умер.. Умерла очень важная, но частица блюза. \nК тому же, он как бы\
+        \ не умер - осталась музыка, её всегда можно послушать.."
+      replies:
+      - id: 12172
+        parent_id: 12170
+        date: 2003-05-01 00:39
+        poster: Дима Казанцев (Dr. Nick)
+        email: dr.nick@blues.ru
+        subject: Умерла эпоха
+        deleted: false
+        text: в которой блюз был хоть как-то уместен.
+        replies:
+        - id: 12173
+          parent_id: 12172
+          date: 2003-05-01 00:59
+          poster: Greta
+          email: morehemp@mail.ru
+          subject: Он и сейчас
+          deleted: false
+          text: уместен, если каждый не будет его закапывать своими же руками..
+          replies:
+          - id: 12179
+            parent_id: 12173
+            date: 2003-05-01 10:10
+            poster: Malcolm Ray  Redriver (Mike)
+            email: lifebythedrop@yandex.ru
+            subject: Горжусь эпохую...
+            deleted: false
+            text: '... о чём вы говорите, блюз был всегда, правда не в явной форме,
+              и будет...'
+        - id: 12188
+          parent_id: 12172
+          date: 2003-05-02 17:40
+          poster: Дмитрий(fan)
+          email: leondmitr@freemail.ru
+          subject: Блюз всегда был, есть и будет уместен!
+          deleted: false
+        - id: 12190
+          parent_id: 12172
+          date: 2003-05-03 00:33
+          poster: Alexander Lokotkov
+          email: alex@fastwel.com
+          subject: Цитата
+          deleted: false
+          text: '"You got the blues if you''ve broken. You got the blues if your gal''s
+            gone..." Lightnin'' Hopkins, док.фильм Blue according to Lightnin'' Hopkins.
+            Очень, кстати, впечатлил сей фильм, хоть и запись не очень.
+
+
+            В общем, он всегда будет уместен.'
+  - id: 12182
+    parent_id: 12167
+    date: 2003-05-01 17:16
+    poster: Mikola
+    email: camprachicos@yandex.ru
+    subject: Мадди и сейчас живее всех живых!!!
+    deleted: false
+    text: Мадди и сейчас живее всех живых!!!

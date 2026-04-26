@@ -1,0 +1,26 @@
+topic_id: 153
+slug: topic-153
+title: Федор, а как искать в форуме?
+first_post: 2002-04-08 13:55
+last_post: 2002-04-08 14:35
+post_count: 2
+posts:
+- id: 3553
+  parent_id: null
+  date: 2002-04-08 13:55
+  poster: Сергей Иванов (serge_ivanov)
+  email: serge_ivanov@hotmail.com
+  subject: Федор, а как искать в форуме?
+  deleted: false
+  text: Я так понял это невозможно? Хотел человеку дать ссылку на тред про Chuck E.
+    Weiss, но замучился листать страницы.
+  replies:
+  - id: 3554
+    parent_id: 3553
+    date: 2002-04-08 14:35
+    poster: Федор Романенко (fedor)
+    email: fedor@blues.ru
+    subject: Увы, никак!
+    deleted: false
+    text: Кроме того, он сейчас настроен на показ последней 1000 сообщений, так что,
+      если тред ушел за 1000, то его посмотреть нельзя...

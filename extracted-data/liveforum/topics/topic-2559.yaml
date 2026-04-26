@@ -1,0 +1,53 @@
+topic_id: 2559
+slug: topic-2559
+title: Мы с Арсеном в пятницу едем в Осло
+first_post: 2005-05-05 00:03
+last_post: 2005-05-05 17:06
+post_count: 5
+posts:
+- id: 21364
+  parent_id: null
+  date: 2005-05-05 00:03
+  poster: Федор Романенко (fedor)
+  email: fedor@blues.ru
+  subject: Мы с Арсеном в пятницу едем в Осло
+  deleted: false
+  text: Визы получены, билеты куплены ;) Арсен будет играть два концерта в Muddy Waters
+    с Биллом Трояни и Алексом Петтерсеном, а я - просто так повеселиться и о делах
+    поговорить, также повезу кое-какие материалы. Могу привет кому-нибудь передать!
+    Думаю, что-нибудь сфотографирую.
+  replies:
+  - id: 21366
+    parent_id: 21364
+    date: 2005-05-05 01:09
+    poster: vr  (Stone Crazy)
+    email: volodya@blues.ru
+    subject: Федя! Сфоткай пожалуйста таксистов..
+    deleted: false
+    text: а то ваши предыдущие фотки кудато делись.. а таксисты наверно уже совсем
+      страх потеряли за два года, после того как вы их с димой фоткали... :)))
+  - id: 21373
+    parent_id: 21364
+    date: 2005-05-05 13:02
+    poster: vr  (Stone Crazy)
+    email: volodya@blues.ru
+    subject: а вообще это супер круто! :) Думаю Арсен там очень клево поиграет :)
+      Хотелось бы послушать :)
+    deleted: false
+    replies:
+    - id: 21380
+      parent_id: 21373
+      date: 2005-05-05 17:05
+      poster: Ded Morozzz
+      email: morozzz_ded@mail.ru
+      subject: Это бы все да записать :)
+      deleted: false
+      text: Думаю в местных ословских клубах будет такая возможность?
+  - id: 21381
+    parent_id: 21364
+    date: 2005-05-05 17:06
+    poster: Ded Morozzz
+    email: morozzz_ded@mail.ru
+    subject: А, там даже Muddy Waters
+    deleted: false
+    text: Ну думаю, точно такая возможность есть :)

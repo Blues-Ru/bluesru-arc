@@ -1,0 +1,41 @@
+topic_id: 2565
+slug: topic-2565
+title: приходите сегодня в БиБиКинг
+first_post: 2005-05-10 01:42
+last_post: 2005-05-11 07:30
+post_count: 3
+posts:
+- id: 21413
+  parent_id: null
+  date: 2005-05-10 01:42
+  poster: Дима Казанцев (Dr. Nick)
+  email: dr.nick@blues.ru
+  subject: приходите сегодня в БиБиКинг
+  deleted: false
+  text: 'http://www.livejournal.com/community/ru_blues/124004.html?mode=reply
+
+
+    Русинов, Романенко, Красивов, Каверкин, Дзагнидзе, Воронов (Соколов и Сорокин
+    у нас уже есть), Виноградов, Власов, Скороходов, Чифуров и его парни (список можно
+    продолжить) приглашаются на праздничный джем особенно :)
+
+
+    С Победой всех Вас, друзья!'
+  replies:
+  - id: 21421
+    parent_id: 21413
+    date: 2005-05-10 23:52
+    poster: Серега Алексеев (Sharikoff)
+    email: sharikoff@pochta.ru
+    subject: Было здорово!
+    deleted: false
+    text: без комментариев.
+    replies:
+    - id: 21426
+      parent_id: 21421
+      date: 2005-05-11 07:30
+      poster: Дима Казанцев (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: спасибо!
+      deleted: false
+      text: было круто, но не без помощи публики!

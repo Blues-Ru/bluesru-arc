@@ -1,0 +1,26 @@
+topic_id: 1167
+slug: topic-1167
+title: More lyrics. Тут часто ищут.
+first_post: 2003-05-22 02:38
+last_post: 2003-05-24 00:09
+post_count: 2
+posts:
+- id: 12633
+  parent_id: null
+  date: 2003-05-22 02:38
+  poster: Дима Казанцев (Dr. Nick)
+  email: dr.nick@blues.ru
+  subject: More lyrics. Тут часто ищут.
+  deleted: false
+  text: http://www.heptune.com/lyrics.html
+  replies:
+  - id: 12745
+    parent_id: 12633
+    date: 2003-05-24 00:09
+    poster: Александр Мальчевский (Tonny)
+    email: heavyfuel@mtu-net.ru
+    subject: Еще полезные ссылки
+    deleted: false
+    text: "http://xroads.virginia.edu/~MUSIC/rjhome.html \nhttp://www.deltahaze.com/johnson/lyrics.html\
+      \ - все о Роберте Джонсоне\nhttp://www.lyricsfreak.com/ - масса полезного и\
+      \ тексты, и еще чего-то там..."

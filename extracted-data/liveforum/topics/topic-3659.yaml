@@ -1,0 +1,55 @@
+topic_id: 3659
+slug: topic-3659
+title: Просто проверяю работает ли форум - помоему уже неделю как тишина....  Устали.....
+first_post: 2007-06-20 18:23
+last_post: 2007-07-09 23:05
+post_count: 6
+posts:
+- id: 33088
+  parent_id: null
+  date: 2007-06-20 18:23
+  poster: Юрий Каверкин(Gekko)
+  email: kaverkin@rol.ru
+  subject: Просто проверяю работает ли форум - помоему уже неделю как тишина....  Устали.....
+  deleted: false
+  replies:
+  - id: 33089
+    parent_id: 33088
+    date: 2007-06-20 22:38
+    poster: Grem
+    email: grems@yandex.ru
+    subject: Караул....устал
+    deleted: false
+  - id: 33091
+    parent_id: 33088
+    date: 2007-06-21 01:30
+    poster: Dmitri Kazantsev (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: всё работает
+    deleted: false
+    text: но никому не надо
+    replies:
+    - id: 33093
+      parent_id: 33091
+      date: 2007-06-21 05:46
+      poster: Andrei V. Evdokimov (evdokimov)
+      email: evdokimov@blues.ru
+      subject: 'я вот что слышал:'
+      deleted: false
+      text: делай, что можешь, и будь, что будет.
+      replies:
+      - id: 33095
+        parent_id: 33093
+        date: 2007-06-21 18:03
+        poster: Dmitri Kazantsev (Dr. Nick)
+        email: dr.nick@blues.ru
+        subject: да, надо делать...
+        deleted: false
+      - id: 33159
+        parent_id: 33093
+        date: 2007-07-09 23:05
+        poster: Немов
+        email: jnr_new@mail.ru
+        subject: 07.07.07 - Немову 35
+        deleted: false
+        text: 07.07.07 - Немову 35, могли бы и поздравить, коллеги...

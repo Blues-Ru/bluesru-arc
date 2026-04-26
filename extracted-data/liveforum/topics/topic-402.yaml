@@ -1,0 +1,55 @@
+topic_id: 402
+slug: topic-402
+title: Тексты блюзов
+first_post: 2002-10-13 21:35
+last_post: 2002-10-14 01:44
+post_count: 4
+posts:
+- id: 8186
+  parent_id: null
+  date: 2002-10-13 21:35
+  poster: Alexey B. Ilyichev
+  email: alex_z77@mail.ru
+  subject: Тексты блюзов
+  deleted: false
+  text: 'Привет всем!
+
+
+    Я был бы очень признателен, если бы кто-нибудь подсказал, где можно найти тексты
+    известных блюзов, Таких например как "Help the poor" или "Sweet home Chicago"'
+  replies:
+  - id: 8188
+    parent_id: 8186
+    date: 2002-10-13 22:15
+    poster: Дима Казанцев (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: Тексты
+    deleted: false
+    text: 'http://www.bluesforpeace.com/lyrics/help-the-poor.htm
+
+      http://www.nederpoparchief.nl/bluesbrothers/sweethome.html
+
+
+      А вообще (тут уже много раз об этом писали) идешь на www.google.com и в строке
+      поиска набиваешь Help the poor lyrics или Robert Johnson lyrics.'
+    replies:
+    - id: 8189
+      parent_id: 8188
+      date: 2002-10-13 23:02
+      poster: Alexey B. Ilyichev
+      email: alex_z77@mail.ru
+      subject: Спасибо!
+      deleted: false
+      text: 'Спасибо огромное!
+
+
+        Я бы не спросил, если бы не пробовал искать. Правда на Яндексе :-)'
+      replies:
+      - id: 8190
+        parent_id: 8189
+        date: 2002-10-14 01:44
+        poster: Дима Казанцев (Dr. Nick)
+        email: dr.nick@blues.ru
+        subject: You are welcome!
+        deleted: false
+        text: На Яндексе не стОит. По-английски лучше на Гугле.

@@ -1,0 +1,24 @@
+topic_id: 4154
+slug: topic-4154
+title: Дорогая редакция....
+first_post: 2008-12-29 15:58
+last_post: 2008-12-29 15:59
+post_count: 2
+posts:
+- id: 35999
+  parent_id: null
+  date: 2008-12-29 15:58
+  poster: Grem
+  email: grems@yandex.ru
+  subject: Дорогая редакция....
+  deleted: false
+  text: маленький вопрос, а что значит "04.01 Щекрытый Блюзовый Джем, 18.00, Дом у
+    дороги, 21:00" (Клубные концерты в январе)?)))
+  replies:
+  - id: 36000
+    parent_id: 35999
+    date: 2008-12-29 15:59
+    poster: Andrei V. Evdokimov (evdokimov)
+    email: evdokimov@blues.ru
+    subject: я быстро догадался (-)
+    deleted: false

@@ -1,0 +1,36 @@
+topic_id: 2555
+slug: topic-2555
+title: Livin' Blues
+first_post: 2005-05-02 20:39
+last_post: 2005-05-03 12:19
+post_count: 3
+posts:
+- id: 21324
+  parent_id: null
+  date: 2005-05-02 20:39
+  poster: Дмитрий Зубулин (kcn)
+  email: kcn@inbox.ru
+  subject: Livin' Blues
+  deleted: false
+  text: Люди! Есть ли у кого информация о группе Livin' Blues. А то  я случайно купил
+    пару дисков и мне сильно понравилось. А вот кто они такие даже и не знаю...
+  replies:
+  - id: 21325
+    parent_id: 21324
+    date: 2005-05-02 21:22
+    poster: Дима Казанцев (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: попсовая команда из Голландии
+    deleted: false
+    text: На их родине их серьезно не воспринимают, но старое поколение совков очень
+      их любит (как и Shocking Blue, например) потому, что поляки выпустили на виниле
+      два их диска, и они были доступны на территории СССР. Команда совсем средненькая,
+      даже для голландского уровня.
+  - id: 21328
+    parent_id: 21324
+    date: 2005-05-03 12:19
+    poster: (Grem)
+    email: grems@yandex.ru
+    subject: Здесь есть....
+    deleted: false
+    text: 'Здесь есть информация: http://www.bluesnews.ru/musicians/?id=1671'

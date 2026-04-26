@@ -1,0 +1,25 @@
+topic_id: 408
+slug: topic-408
+title: Помогите ...
+first_post: 2002-10-16 07:21
+last_post: 2002-10-16 09:37
+post_count: 2
+posts:
+- id: 8257
+  parent_id: null
+  date: 2002-10-16 07:21
+  poster: EEL
+  email: perevod@collegia.ru
+  subject: Помогите ...
+  deleted: false
+  text: "Господа, \n\nЯ ищу сайт Сергея Манукяна и никак не могу найти. Помогите,\
+    \ пжлст, или подскажите, где можно купить его диски. \n\nСпасибо"
+  replies:
+  - id: 8258
+    parent_id: 8257
+    date: 2002-10-16 09:37
+    poster: Сергей Иванов (serge_ivanov)
+    email: serge_ivanov@hotmail.com
+    subject: на Озоне и в Болеро заявлены
+    deleted: false
+    text: только почему Вы здесь об этом спрашиваете?

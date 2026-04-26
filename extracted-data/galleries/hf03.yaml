@@ -1,0 +1,31 @@
+path: hf03
+type: custom
+title: HF
+date: null
+photo_count: 7
+captioned: 0
+index_files:
+- HF.htm
+extra_text: HF HF 02_10Expt_038 - Александр Братецкий 1600 X 1200 682 KB DSCN0092bw - Александр Братецкий 1600 X 1200 554
+  KB DSCN3180 - Мкаксим Некрасов (гг) и Иван Жук (г) 1342 X 1200 299 KB DSCN3210 - Чистяков 1042 X 1200 565 KB DSCN3212 -
+  Чистяков и гр. "Станция мир" 1098 X 1092 649 KB DSCN3216 - Чистяков и Вл.Кожекин 848 X 1010 671 KB HarpFest - Харп-фестиваль
+  2002 1600 X 1200 613 KB
+photos:
+- file: 02_10Expt_038.JPG
+  thumb: tn_02_10Expt_038.jpg
+- file: DSCN0092bw.jpg
+  thumb: tn_DSCN0092bw.jpg
+- file: DSCN3180.JPG
+  thumb: tn_DSCN3180.jpg
+- file: DSCN3210.JPG
+  thumb: tn_DSCN3210.jpg
+- file: DSCN3212.JPG
+  thumb: tn_DSCN3212.jpg
+- file: DSCN3216.JPG
+  thumb: tn_DSCN3216.jpg
+- file: HarpFest.JPG
+  thumb: tn_HarpFest.jpg
+canonical_date: '2002'
+clean_title: Московский Харп-Фестиваль 2002
+slug: harp-festival-moscow-2002
+description: Московский фестиваль губной гармоники, 2002. Александр Братецкий, Максим Некрасов, Чистяков, Владимир Кожекин.

@@ -1,0 +1,35 @@
+topic_id: 3189
+slug: topic-3189
+title: Растут у нас таланты...
+first_post: 2006-04-05 15:26
+last_post: 2006-04-06 20:11
+post_count: 3
+posts:
+- id: 26876
+  parent_id: null
+  date: 2006-04-05 15:26
+  poster: Старый Майор
+  email: gypsy@mail.ru
+  subject: Растут у нас таланты...
+  deleted: false
+  text: "Я с удивлением обнаружил пару милых самодеятельных записей талантливой молодёжи:\n\
+    \nhttp://soloviev-alex.livejournal.com/4640.html \n\nИ с удовольствием их послушал!\
+    \ \nПрошу прощения у харперов, но больше всего мне понравился рояль )) \nС удовольствием\
+    \ бы сыграл с этим трио что-нибудь ну очень старое.."
+  replies:
+  - id: 26877
+    parent_id: 26876
+    date: 2006-04-05 16:09
+    poster: Алексей Аграновский (Док)
+    email: aaa@genebee.msu.su
+    subject: Да.
+    deleted: false
+    text: Хорошие Саша и ребята.
+  - id: 26880
+    parent_id: 26876
+    date: 2006-04-06 20:11
+    poster: Lina
+    email: m_m@rambler.ru
+    subject: Ещё
+    deleted: false
+    text: http://www.nalrock.ru/mp3/kodzokov/taita.mp3

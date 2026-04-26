@@ -1,0 +1,63 @@
+topic_id: 752
+slug: topic-752
+title: Записи из ЦДХ ?
+first_post: 2003-04-11 13:28
+last_post: 2003-04-21 16:22
+post_count: 6
+posts:
+- id: 11712
+  parent_id: null
+  date: 2003-04-11 13:28
+  poster: Абдалов Руслан (RR)
+  email: RR@RAMBLER.RU
+  subject: Записи из ЦДХ ?
+  deleted: false
+  text: 'Хотелось бы спросить, а не записывалось ли это куда нибудь или на что нибудь?
+    И может быть выложат архив выступлений, например на bluesman.ru ?
+
+
+    И как полностью звучит фраза про блюз что-то вроде "не чистить ботинки, не торопиться
+    ... и т.д." ???'
+  replies:
+  - id: 11719
+    parent_id: 11712
+    date: 2003-04-11 18:08
+    poster: Старый Майор
+    email: gypsy@mail.ru
+    subject: Ботинки следует чистить всем и всегда! :))
+    deleted: false
+    replies:
+    - id: 11747
+      parent_id: 11719
+      date: 2003-04-13 14:40
+      poster: Дезертир
+      email: psihu@pisem.net
+      subject: Я бы все же ограничился близкими друзьями и родственниками :))
+      deleted: false
+      text: ;)
+  - id: 11856
+    parent_id: 11712
+    date: 2003-04-15 00:15
+    poster: Игорь Г.
+    email: sunny_city@mail.ru
+    subject: Меня там не было, а об остальном ничего
+    deleted: false
+    replies:
+    - id: 11857
+      parent_id: 11856
+      date: 2003-04-15 00:24
+      poster: Игорь Г
+      email: sunny_city@mail.ru
+      subject: определенного сказать не могу
+      deleted: false
+      text: Может Кожекин прояснит ситуацию.Знаю что, например, второй день гармошек
+        писали по-взрослому. Дальнейшая судьба неизвестна,правда кое-что мелькнуло
+        у Матраскина на сайте, а потом вроде как пропало... или я потерялся.
+  - id: 11946
+    parent_id: 11712
+    date: 2003-04-21 16:22
+    poster: Kot
+    email: Kotmatrs@mail.ru
+    subject: Записывалось
+    deleted: false
+    text: Записывалось.

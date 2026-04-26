@@ -1,0 +1,36 @@
+topic_id: 2766
+slug: topic-2766
+title: а что с Гегартом?
+first_post: 2005-09-13 02:01
+last_post: 2005-09-13 16:04
+post_count: 3
+posts:
+- id: 22993
+  parent_id: null
+  date: 2005-09-13 02:01
+  poster: Дмитрий Казанцев (Dr. Nick)
+  email: dr.nick@blues.ru
+  subject: а что с Гегартом?
+  deleted: false
+  text: я слышал ужасные вещи...
+  replies:
+  - id: 22994
+    parent_id: 22993
+    date: 2005-09-13 09:47
+    poster: Федор Романенко (fedor)
+    email: fedor@blues.ru
+    subject: Ой-ой-ой.....
+    deleted: false
+    text: 'Полез на гармонику, вот информация :((
+
+
+      http://forum.harmonica.ru/viewtopic.php?t=120281'
+    replies:
+    - id: 22997
+      parent_id: 22994
+      date: 2005-09-13 16:04
+      poster: Дмитрий Казанцев (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: да уж...
+      deleted: false
+      text: у него ж еще и эпилепсия :(

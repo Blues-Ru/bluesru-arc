@@ -1,0 +1,53 @@
+topic_id: 1921
+slug: topic-1921
+title: ищу гитарного мастера
+first_post: 2004-03-09 06:35
+last_post: 2004-03-15 00:46
+post_count: 5
+posts:
+- id: 17550
+  parent_id: null
+  date: 2004-03-09 06:35
+  poster: Дима Казанцев (Dr. Nick)
+  email: dr.nick@blues.ru
+  subject: ищу гитарного мастера
+  deleted: false
+  text: 'у меня начались проблемы с моей любимой акустикой. я в шоке и в тоске...
+
+    есть ли у нас мастера именно по акустикам?
+
+    помогите, плиз...'
+  replies:
+  - id: 17552
+    parent_id: 17550
+    date: 2004-03-09 11:04
+    poster: Sokolov (Yurec)
+    email: y_sokolov@diamond.ru
+    subject: наверрное...
+    deleted: false
+    text: про это http://www.gusev.ru/ ты знаешь, но все-таки...
+    replies:
+    - id: 17563
+      parent_id: 17552
+      date: 2004-03-09 19:13
+      poster: Дима Казанцев (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: да никого я не знаю
+      deleted: false
+      text: Спасибо за ссылку!
+  - id: 17555
+    parent_id: 17550
+    date: 2004-03-09 12:59
+    poster: Лев Кузнецов (lvk)
+    email: lvk@inbox.ru
+    subject: Присоединяюсь к рекомендации
+    deleted: false
+    text: Николай Гусев --- действительно хороший мастер по акустикам...
+  - id: 17590
+    parent_id: 17550
+    date: 2004-03-15 00:46
+    poster: MX
+    email: hvjrhvjrh
+    subject: приговор)))
+    deleted: false
+    text: купить новую,чинить гитары бесполезно,а то потом они еще больше ломаются))))

@@ -1,0 +1,29 @@
+topic_id: 4223
+slug: topic-4223
+title: Юрию Каверкину!
+first_post: 2009-05-16 15:22
+last_post: 2009-05-16 21:58
+post_count: 3
+posts:
+- id: 36315
+  parent_id: null
+  date: 2009-05-16 15:22
+  poster: Andrei V. Evdokimov
+  subject: Юрию Каверкину!
+  deleted: false
+  text: Творческий коллектив Blues.Ru сердечно поздравляет юрия Каверкина с ДР и желает
+    счастья и здоровья ему и всей его молодой семье! а заодно и творческих узбеков!
+  replies:
+  - id: 36316
+    parent_id: 36315
+    date: 2009-05-16 16:27
+    poster: Старый Майор
+    subject: Юра! Ура! Ура!
+    deleted: false
+  - id: 36317
+    parent_id: 36315
+    date: 2009-05-16 21:58
+    poster: Алексей Аграновский
+    subject: Юрий!
+    deleted: false
+    text: С ДНЕМ РОЖДЕНИЯ, СТАРИНА, БУДЬ СЧАСТЛИВ !

@@ -1,0 +1,44 @@
+topic_id: 3796
+slug: topic-3796
+title: Клип O.V.Wright
+first_post: 2007-11-15 19:00
+last_post: 2007-11-16 05:31
+post_count: 4
+posts:
+- id: 33887
+  parent_id: null
+  date: 2007-11-15 19:00
+  poster: Старый Майор
+  email: gypsy@mail.ru
+  subject: Клип O.V.Wright
+  deleted: false
+  text: "Вдруг появился на ЮТубе.. \n\nhttp://youtube.com/watch?v=UbuRveE0s6M\nCHICAGO\
+    \ 1975 \n\nДля меня этот клип как маузер Дзержинского..."
+  replies:
+  - id: 33890
+    parent_id: 33887
+    date: 2007-11-16 00:58
+    poster: Dmitri Kazantsev (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: про Кларенса Картера не забывай
+    deleted: false
+    replies:
+    - id: 33892
+      parent_id: 33890
+      date: 2007-11-16 04:43
+      poster: Старый Майор
+      email: gypsy@mail.ru
+      subject: Не забываю, но я не люблю К.К.
+      deleted: false
+      text: 'Он очень мимо поёт в большинстве песен.
+
+        Мой тонкий слух страдает.'
+      replies:
+      - id: 33893
+        parent_id: 33892
+        date: 2007-11-16 05:31
+        poster: Dmitri Kazantsev (Dr. Nick)
+        email: dr.nick@blues.ru
+        subject: чтооо??? :)
+        deleted: false
+        text: вот это ты загнул!!!

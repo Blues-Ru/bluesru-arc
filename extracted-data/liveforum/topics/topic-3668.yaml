@@ -1,0 +1,24 @@
+topic_id: 3668
+slug: topic-3668
+title: Дело о Пустых Холмах
+first_post: 2007-07-03 19:39
+last_post: 2007-07-11 23:23
+post_count: 2
+posts:
+- id: 33124
+  parent_id: null
+  date: 2007-07-03 19:39
+  poster: Andrei V. Evdokimov (evdokimov)
+  email: evdokimov@blues.ru
+  subject: Дело о Пустых Холмах
+  deleted: false
+  text: <a href="/news/?p=200707#348">http://blues.ru/news/?p=200707#348</a>
+  replies:
+  - id: 33173
+    parent_id: 33124
+    date: 2007-07-11 23:23
+    poster: KotMatraskin
+    email: kotmatrs@mail.ru
+    subject: А вот вам - сцена
+    deleted: false
+    text: "http://ranetka.narod.ru/ph2007/target23.html\nИ сербы \nhttp://ranetka.narod.ru/ph2007/target22.html"

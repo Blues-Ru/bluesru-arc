@@ -1,0 +1,35 @@
+topic_id: 2025
+slug: topic-2025
+title: Ищу харперов из Москвы
+first_post: 2002-07-15 00:44
+last_post: 2002-07-15 03:08
+post_count: 3
+posts:
+- id: 6063
+  parent_id: null
+  date: 2002-07-15 00:44
+  poster: Олег  (находчивый)
+  email: ole-ole-oleg@narod.ru
+  subject: Ищу харперов из Москвы
+  deleted: false
+  text: Ищу харперов из Москвы поджемовать и для обмена опытом. Гитаристы тоже приветствуются.
+    Мне 25 лет. Играю четвертый месяц.
+  replies:
+  - id: 6064
+    parent_id: 6063
+    date: 2002-07-15 00:53
+    poster: Дима Казанцев (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: Это несложно ;)
+    deleted: false
+    text: Их тут тьма! Гораздо сложнее с басистами и особенно с драммерами ;)
+  - id: 6066
+    parent_id: 6063
+    date: 2002-07-15 03:08
+    poster: Dima Krasivov (Dima)
+    email: dima@blues.ru
+    subject: какойто ты не находчивый ;)
+    deleted: false
+    text: 'иди на http://harmonica.blues.ru
+
+      там их действительно тьма!'

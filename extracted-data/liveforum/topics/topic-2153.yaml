@@ -1,0 +1,47 @@
+topic_id: 2153
+slug: topic-2153
+title: блюзовое настроение... :)
+first_post: 2004-06-24 12:07
+last_post: 2004-06-28 13:27
+post_count: 5
+posts:
+- id: 18788
+  parent_id: null
+  date: 2004-06-24 12:07
+  poster: Lars
+  email: Lars@List.ru
+  subject: блюзовое настроение... :)
+  deleted: false
+  text: http://www.wagenschenke.ch/HomeRun.swf
+  replies:
+  - id: 18794
+    parent_id: 18788
+    date: 2004-06-25 01:03
+    poster: Федор Романенко (fedor)
+    email: fedor@blues.ru
+    subject: 82 m
+    deleted: false
+    text: Кто больше ;)))
+    replies:
+    - id: 18797
+      parent_id: 18794
+      date: 2004-06-25 16:53
+      poster: VoV  (Barmaley)
+      email: barmaley-vov@yandex.ru
+      subject: Долго тренировался наверно ;)
+      deleted: false
+    - id: 18820
+      parent_id: 18794
+      date: 2004-06-28 13:27
+      poster: Константин Калугин (konstantin)
+      email: web@constant.net.ru
+      subject: 84 метра. Аднака. ;-)
+      deleted: false
+  - id: 18796
+    parent_id: 18788
+    date: 2004-06-25 15:18
+    poster: baltika
+    email: baltika-blues@yyyyyyandex.ru
+    subject: чОрт! 8 метрофф
+    deleted: false
+    text: )))) класс))

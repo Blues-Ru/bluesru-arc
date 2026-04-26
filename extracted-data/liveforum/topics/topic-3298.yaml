@@ -1,0 +1,43 @@
+topic_id: 3298
+slug: topic-3298
+title: Фотографии из Дома у Дороги - Brian Templeton и Enrico Сrivellaro
+first_post: 2006-06-16 11:16
+last_post: 2006-06-16 23:00
+post_count: 4
+posts:
+- id: 27697
+  parent_id: null
+  date: 2006-06-16 11:16
+  poster: Mara Levin (Marianner)
+  email: illuzyi@narod.ru
+  subject: Фотографии из Дома у Дороги - Brian Templeton и Enrico Сrivellaro
+  deleted: false
+  text: 'Пока только черно-белые.
+
+    http://marianner.livejournal.com/732129.html'
+  replies:
+  - id: 27698
+    parent_id: 27697
+    date: 2006-06-16 11:25
+    poster: Владимир Русинов (BluesCat)
+    email: volodya@blues.ru
+    subject: Вот наши фотки оттуда же :)
+    deleted: false
+    text: "<A HREF=\"http://www.bluescats.ru/files/20060613.Enrico/\">http://www.bluescats.ru/files/20060613.Enrico/</A>\
+      \ \n\n:)"
+  - id: 27714
+    parent_id: 27697
+    date: 2006-06-16 22:54
+    poster: Владимир Русинов (BluesCat)
+    email: volodya@blues.ru
+    subject: фотки из летчика :)
+    deleted: false
+    text: <A HREF="http://www.bluescats.ru/files/20060614.Enrico/">http://www.bluescats.ru/files/20060614.Enrico/</A>
+  - id: 27715
+    parent_id: 27697
+    date: 2006-06-16 23:00
+    poster: Федор Романенко (fedor)
+    email: fedor@blues.ru
+    subject: Еще фото из Летчика
+    deleted: false
+    text: http://urgen.livejournal.com/272766.html

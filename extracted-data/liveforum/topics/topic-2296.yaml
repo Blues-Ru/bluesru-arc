@@ -1,0 +1,45 @@
+topic_id: 2296
+slug: topic-2296
+title: Прочитайте! http://www.gbob.ru/news.php
+first_post: 2004-10-28 22:59
+last_post: 2004-11-02 13:45
+post_count: 4
+posts:
+- id: 19580
+  parent_id: null
+  date: 2004-10-28 22:59
+  poster: Оксана Кочубей
+  email: morrah@yandex.ru
+  subject: Прочитайте! http://www.gbob.ru/news.php
+  deleted: false
+  text: 'Мы с радостью поделимся с миром нашими победами!!! Тем более, что именно
+    вам, огромной московской блюзовой семье, мы, LnJ!,обязаны своим столь стремительным
+    успехом: мало где к молодому коллективу отнеслись бы столь уважительно и терпимо.
+    :))
+
+    http://www.gbob.ru/news.php'
+  replies:
+  - id: 19595
+    parent_id: 19580
+    date: 2004-10-29 14:22
+    poster: Muddy Lives
+    email: mlives_6@hotmail.com
+    subject: Billy Idol в юбке?
+    deleted: false
+    text: Это шаг вперед?   :)
+    replies:
+    - id: 19613
+      parent_id: 19595
+      date: 2004-10-30 09:12
+      poster: Валентин
+      email: voshalb@rambler.ru
+      subject: Ради красного словца...
+      deleted: false
+  - id: 19680
+    parent_id: 19580
+    date: 2004-11-02 13:45
+    poster: Cowboy Pete
+    email: cousins@yandex.ru
+    subject: Congratulations!
+    deleted: false
+    text: Молодцы!!! :-)

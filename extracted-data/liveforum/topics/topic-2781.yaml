@@ -1,0 +1,167 @@
+topic_id: 2781
+slug: topic-2781
+title: простите меня за то
+first_post: 2005-09-15 16:06
+last_post: 2005-09-16 09:56
+post_count: 17
+posts:
+- id: 23135
+  parent_id: null
+  date: 2005-09-15 16:06
+  poster: Дмитрий Казанцев (Dr. Nick)
+  email: dr.nick@blues.ru
+  subject: простите меня за то
+  deleted: false
+  text: что я купил этот винил Харви. я так больше никогда не буду делать. только
+    Джими, Стиви и Капитан. только концертные и грязные записи! никаких более студий
+    и чистой игры! и не дай Боб я услышу настроенные гитары на записях!
+  replies:
+  - id: 23139
+    parent_id: 23135
+    date: 2005-09-15 16:20
+    poster: К.У.
+    email: nickk@newmail.ru
+    subject: Интересно..
+    deleted: false
+    text: 'Кто же из нас всё-таки не может ни в какую остановиться?
+
+      Несмотря на усталость..'
+    replies:
+    - id: 23140
+      parent_id: 23139
+      date: 2005-09-15 16:22
+      poster: Дмитрий Казанцев (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: тов. аноним,
+      deleted: false
+      text: с вами я точно не общаюсь.
+  - id: 23141
+    parent_id: 23135
+    date: 2005-09-15 16:29
+    poster: К.У. (К.Узник)
+    email: nickk@newmail.ru
+    subject: Нда..
+    deleted: false
+    text: ..никак не мог подумать, что примут за кого-то другого. Перешёл на более
+      привычную для себя аббревиатуру БЕЗ ПРЕДУПРЕЖДЕНИЯ, звиняйте.
+    replies:
+    - id: 23142
+      parent_id: 23141
+      date: 2005-09-15 16:31
+      poster: Дмитрий Казанцев (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: это всё равно аноним
+      deleted: false
+      text: я так не люблю общаться
+      replies:
+      - id: 23144
+        parent_id: 23142
+        date: 2005-09-15 16:40
+        poster: К.У.
+        email: nickk@newmail.ru
+        subject: А я привык так общаться.
+        deleted: false
+        text: Имя нужно? Николай Кузнецов. Ты его, кстати, вполне мог знать - общались
+          как-то в другом форуме на тему К.Б. Захожу я сейчас с чужого компа, и набирать
+          всё целиком - в лом. (Зачем е-мейл нужно упоминать, явно при чём? На радость
+          спамерам?).
+        replies:
+        - id: 23145
+          parent_id: 23144
+          date: 2005-09-15 16:49
+          poster: Дмитрий Казанцев (Dr. Nick)
+          email: dr.nick@blues.ru
+          subject: КБ? Это что?
+          deleted: false
+          text: Хочется понимать, Николай, с кем общаешься. Пол, возраст, имя, где
+            родился, с кем любился, что знает и умеет.
+          replies:
+          - id: 23153
+            parent_id: 23145
+            date: 2005-09-15 16:58
+            poster: К.У.
+            email: nickk@newmail.ru
+            subject: Кострукторское бюро, что же ещё.
+            deleted: false
+            text: 'А ДХ - это Дом художника.
+
+              Не слишком ли? "С кем любился".. Человек - не то, кем он работает и
+              кто у него жена. Человек - это то, что он делает (а в д.сл. дело у нас
+              одно - говорильня). А также думает, чувствует и т.д. А ты говоришь пол,
+              возраст. Какая разница? (Возраст не меньше твоего, даже чуть больше,
+              так-то вот).'
+        - id: 23146
+          parent_id: 23144
+          date: 2005-09-15 16:50
+          poster: Дмитрий Казанцев (Dr. Nick)
+          email: dr.nick@blues.ru
+          subject: КБ - Бифхарт что ли?
+          deleted: false
+          replies:
+          - id: 23147
+            parent_id: 23146
+            date: 2005-09-15 16:50
+            poster: Владимир Русинов (BluesCat)
+            email: volodya@blues.ru
+            subject: АБВГД...
+            deleted: false
+            text: '... как говорится...'
+            replies:
+            - id: 23148
+              parent_id: 23147
+              date: 2005-09-15 16:52
+              poster: Дмитрий Казанцев (Dr. Nick)
+              email: dr.nick@blues.ru
+              subject: чё? :)
+              deleted: false
+              replies:
+              - id: 23150
+                parent_id: 23148
+                date: 2005-09-15 16:54
+                poster: Владимир Русинов (BluesCat)
+                email: volodya@blues.ru
+                subject: .. ну я попытался поддержать беседу..
+                deleted: false
+                replies:
+                - id: 23151
+                  parent_id: 23150
+                  date: 2005-09-15 16:55
+                  poster: Дмитрий Казанцев (Dr. Nick)
+                  email: dr.nick@blues.ru
+                  subject: ёклмн
+                  deleted: false
+                  text: я тоже :)
+                  replies:
+                  - id: 23159
+                    parent_id: 23151
+                    date: 2005-09-15 17:40
+                    poster: Старый Майор
+                    email: gypsy@mail.ru
+                    subject: да ёпрст ж! =))
+                    deleted: false
+                    replies:
+                    - id: 23180
+                      parent_id: 23159
+                      date: 2005-09-15 20:04
+                      poster: Михаил Бирюков (nECKAPb)
+                      email: blackcat@blues.ru
+                      subject: уфхцшщ?
+                      deleted: false
+  - id: 23165
+    parent_id: 23135
+    date: 2005-09-15 18:43
+    poster: Andrei V. Evdokimov (evdokimov)
+    email: evdokimov@blues.ru
+    subject: ооо.... диспут и полемика!
+    deleted: false
+  - id: 23199
+    parent_id: 23135
+    date: 2005-09-16 09:56
+    poster: Алексей Фролов (Buchothk)
+    email: jokerthk@yandex.ru
+    subject: Дима,
+    deleted: false
+    text: 'Ну почему Вас так задело, что у ОДНОГО человека мнение разошлось с Вашим?
+
+      Обязательно слушайте ту музыку, которая Вам нравится, и обязательно рассказывайте
+      нам свои впечатления на блюз.ру!'

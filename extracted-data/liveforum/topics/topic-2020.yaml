@@ -1,0 +1,69 @@
+topic_id: 2020
+slug: topic-2020
+title: Jimi Hendrix never die
+first_post: 2002-07-11 12:11
+last_post: 2002-07-12 04:11
+post_count: 7
+posts:
+- id: 6000
+  parent_id: null
+  date: 2002-07-11 12:11
+  poster: Malcolm Ray  Redriver (Mike)
+  email: lifebythedrop@yandex.ru
+  subject: Jimi Hendrix never die
+  deleted: false
+  text: Как-то раз довелось мне узнать что где-то там устроили мавзолей Джими Хендрикса,
+    кто-нибудь про это что-нибудь слышал больше, чем можно выкопать в I-net-е?
+  replies:
+  - id: 6001
+    parent_id: 6000
+    date: 2002-07-11 12:38
+    poster: vr  (Stone Crazy)
+    email: volodya@blues.ru
+    subject: пирамиду давай
+    deleted: false
+    replies:
+    - id: 6006
+      parent_id: 6001
+      date: 2002-07-11 21:19
+      poster: Malcolm Ray  Redriver (Mike)
+      email: lifebythedrop@yandex.ru
+      subject: Пирамиду!!?
+      deleted: false
+      text: Да уж далину царей и такой сфинкс с фендером
+    - id: 6010
+      parent_id: 6001
+      date: 2002-07-11 22:36
+      poster: Юрий Каверкин
+      email: kaverkin@rol.ru
+      subject: Сфинктер с фендером ..... В долине царей... Круто....
+      deleted: false
+  - id: 6005
+    parent_id: 6000
+    date: 2002-07-11 20:39
+    poster: Андрей Цыганков
+    email: gypsy@mail.ru
+    subject: Мы с Юрой Каверкиным уже как-то обсуждали, какой там будет главный экспонат...
+    deleted: false
+    text: '...прости, Господи нас грешных, мы не ведаем, что творим!'
+    replies:
+    - id: 6008
+      parent_id: 6005
+      date: 2002-07-11 22:21
+      poster: Юрий Каверкин
+      email: kaverkin@rol.ru
+      subject: А мы то причем?Не мы же, слепок делали...
+      deleted: false
+      text: Да ...а как с Дженис быть? Вот уж действительно ,прости Господи!!!
+      replies:
+      - id: 6021
+        parent_id: 6008
+        date: 2002-07-12 04:11
+        poster: Федор Романенко (fedor)
+        email: fedor@blues.ru
+        subject: Дженис-Джими-Джим
+        deleted: false
+        text: 'Эх, как говорят в хиповских фильмах, так много общего. Наркотики, две
+          буквы и пр...
+
+          "Три человека, две судьбы, так много разного, говорю я..."'

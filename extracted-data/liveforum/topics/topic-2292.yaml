@@ -1,0 +1,106 @@
+topic_id: 2292
+slug: topic-2292
+title: Пора поздравлять дядю Федора с днем рожденья
+first_post: 2004-10-28 09:59
+last_post: 2004-10-30 17:10
+post_count: 10
+posts:
+- id: 19559
+  parent_id: null
+  date: 2004-10-28 09:59
+  poster: Игорь Головачев (Игорь Г.)
+  email: sunny_city@mail.ru
+  subject: Пора поздравлять дядю Федора с днем рожденья
+  deleted: false
+  text: 'Поздравляю!!!
+
+    Старик,счастья тебе,здоровья,успехов...!!!
+
+    ( И еще длинный-длинный список всего-привсего.Друзья,я думаю,его еще огласят :).Не
+    буду лишать их такой возможности :))))))))'
+  replies:
+  - id: 19566
+    parent_id: 19559
+    date: 2004-10-28 13:08
+    poster: Федор Романенко (fedor)
+    email: fedor@blues.ru
+    subject: Спасибо!
+    deleted: false
+    text: Мне очень приятно ;) Еще раз всех приглашаю всех в воскресенье в Клуб на
+      Брестской. Сегодня поеду квасить в БиБиКинг ;)
+  - id: 19570
+    parent_id: 19559
+    date: 2004-10-28 14:37
+    poster: VoV  (Barmaley)
+    email: barmaley-vov@yandex.ru
+    subject: Присоединяюсь!
+    deleted: false
+    text: Федор! Поздравляю тебя от себя лично и от минских морячков! Сил тебе и здоровья!
+  - id: 19572
+    parent_id: 19559
+    date: 2004-10-28 15:50
+    poster: AlexIV
+    email: alex@beatween.ru
+    subject: Дядя Фёдор! С Днём Рождения!
+    deleted: false
+    text: 'Здоровья тебе, счастья, удачи и сбычи мечт!
+
+      :-)'
+  - id: 19573
+    parent_id: 19559
+    date: 2004-10-28 18:00
+    poster: Дмитрий (фан)
+    email: leonidovd@mail.ru
+    subject: С Днем Варенья, дядя Федор!
+    deleted: false
+    text: 'Всех благ. Здоровья и щастья!
+
+      И блюза хорошего!'
+  - id: 19581
+    parent_id: 19559
+    date: 2004-10-29 09:36
+    poster: Юрий Кривошеин (YuK)
+    email: scolderblues@yahoo.com
+    subject: Поздравляю!
+    deleted: false
+    text: Всего! Здоровья побольше!
+  - id: 19583
+    parent_id: 19559
+    date: 2004-10-29 09:53
+    poster: (Grem)
+    email: grems@yandex.ru
+    subject: ПАААЗДРАВЛЯЮ!!!!!
+    deleted: false
+    text: 'Федор,
+
+      Желаю тебе удачи, любви , здоровья,благополучия,хороших блюзов и всего самого
+      ... короче поздравляю.'
+  - id: 19591
+    parent_id: 19559
+    date: 2004-10-29 12:56
+    poster: baltika
+    email: baltika-rock@yandex.ru
+    subject: Фёдору поздравления! Игра бы для нас почаще
+    deleted: false
+    text: на гитарке,а  то как в Сколдерах (канувших) пришлось раз услышать так и
+      всё:) Успехов!
+  - id: 19597
+    parent_id: 19559
+    date: 2004-10-29 15:05
+    poster: Михан  (Ded Morozzz)
+    email: morozzz_ded@mail.ru
+    subject: Присоединяюсь к поздравлениям
+    deleted: false
+    text: Желаю всего и побольше :) особенно счастья и денег :)
+  - id: 19615
+    parent_id: 19559
+    date: 2004-10-30 17:10
+    poster: Михаил Бирюков (nECKAPb)
+    email: blackcat@blues.ru
+    subject: с обычным опозданием...
+    deleted: false
+    text: '... Поздравляю Фёдора, который построил сей дом!
+
+      Всем нам на благо. Какового и ему желаю вдесятеро.
+
+      С днём рождения, Фёдор :)'

@@ -1,0 +1,56 @@
+topic_id: 979
+slug: topic-979
+title: Новости культуры в Крыму летом
+first_post: 2002-06-11 22:36
+last_post: 2002-06-16 20:38
+post_count: 5
+posts:
+- id: 5261
+  parent_id: null
+  date: 2002-06-11 22:36
+  poster: Жук
+  email: jouk@newmail.net
+  subject: Новости культуры в Крыму летом
+  deleted: false
+  text: "Да вы, наверное, уже догадались.:)Опять типа спам. \nМы с Бандерасом будем\
+    \ играть в Судаке в байкерском пабе, каждый вечер - ритм-н-блюз всякий, по мере\
+    \ сил (чур силы не обсуждать:))\nБудете мимо проезжать, заходите - каждый вечер;\
+    \ вероятно, всё лето."
+  replies:
+  - id: 5268
+    parent_id: 5261
+    date: 2002-06-12 14:50
+    poster: Алексей Аграновский (Док)
+    email: aaa@genebee.msu.su
+    subject: Ваня
+    deleted: false
+    text: Кайф-то какой... Жалко, мне в другое место надо летом. Удачного вам судака!
+  - id: 5281
+    parent_id: 5261
+    date: 2002-06-13 10:27
+    poster: John John (John)
+    email: ssy@ac.com.ru
+    subject: как называется?
+    deleted: false
+    text: и где находится в судаке?
+    replies:
+    - id: 5353
+      parent_id: 5281
+      date: 2002-06-16 19:09
+      poster: Жук
+      email: jouk@newmail.net
+      subject: Где находится
+      deleted: false
+      text: 'Ну, я не думаю, что там много байкерских пабов...
+
+        Вроде под крепостью на берегу, как-то так. Направо, что ли, от главной аллеи,
+        если спиной к морю... Я там ещё не был, и боюсь испорченный телефон устроить.'
+      replies:
+      - id: 5358
+        parent_id: 5353
+        date: 2002-06-16 20:38
+        poster: Андрей PRG
+        email: peregnoy@mail.ru
+        subject: Ну, Ваня,
+        deleted: false
+        text: окажусь в Крыму - обязательно загляну! :)

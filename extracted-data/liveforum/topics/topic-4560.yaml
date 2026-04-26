@@ -1,0 +1,78 @@
+topic_id: 4560
+slug: topic-4560
+title: svetboogieband.com
+first_post: 2011-03-28 00:47
+last_post: 2011-03-29 23:42
+post_count: 8
+posts:
+- id: 37455
+  parent_id: null
+  date: 2011-03-28 00:47
+  poster: Михаил Бирюков
+  subject: svetboogieband.com
+  deleted: false
+  text: 'Кто-нибудь знает - насовсем ли свёрнут проект официального сайта Svet Boogie
+    Band''а?
+
+    При заходе выдаёт сообщение, что домен выставлен на продажу...'
+  replies:
+  - id: 37460
+    parent_id: 37455
+    date: 2011-03-29 11:05
+    poster: Александр Колосов
+    subject: Re оф сайт Света
+    deleted: false
+    text: "Домен действительно не продлили.\nНа данный момент адрес сайта \nhttp://svetboogieband.blues.ru/"
+    replies:
+    - id: 37465
+      parent_id: 37460
+      date: 2011-03-29 23:41
+      poster: Михаил Бирюков
+      subject: Спасибо!
+      deleted: false
+      text: '...'
+  - id: 37462
+    parent_id: 37455
+    date: 2011-03-29 15:15
+    poster: Федор Романенко
+    subject: Домен
+    deleted: false
+    text: 'whois показывает, что у текущего статуса
+
+
+      Expiration date: 27 Jan 2012 13:15:00
+
+
+      Т.е., скорее всего, он истек 27 января 2011, прошло более месяца, скорее всего,
+      домен утек.'
+    replies:
+    - id: 37467
+      parent_id: 37462
+      date: 2011-03-29 23:42
+      poster: Михаил Бирюков
+      subject: Спасибо...
+      deleted: false
+      text: '... за ответ.'
+  - id: 37463
+    parent_id: 37455
+    date: 2011-03-29 15:36
+    poster: Сергей Blues Скляров
+    subject: svetboogieband.com
+    deleted: false
+    text: Михаил, приветствую! Я попробую уточнить на каком свете все находится...
+    replies:
+    - id: 37464
+      parent_id: 37463
+      date: 2011-03-29 15:36
+      poster: Сергей Blues Скляров
+      subject: svetboogieband.com
+      deleted: false
+      text: Господин Колосов меня опередил ))
+      replies:
+      - id: 37466
+        parent_id: 37464
+        date: 2011-03-29 23:41
+        poster: Михаил Бирюков
+        subject: Спасибо...
+        deleted: false
+        text: '... тем не менее.'

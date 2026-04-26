@@ -1,0 +1,37 @@
+topic_id: 4214
+slug: topic-4214
+title: поздравим Юриваныча!
+first_post: 2009-04-26 04:28
+last_post: 2009-05-12 21:28
+post_count: 3
+posts:
+- id: 36296
+  parent_id: null
+  date: 2009-04-26 04:28
+  poster: Dmitri Kazantsev (Dr. Nick)
+  email: dr.nick@blues.ru
+  subject: поздравим Юриваныча!
+  deleted: false
+  text: 'дорогой Ереваныч!
+
+
+    с Днём Рождения тебя!
+
+
+    здоровья тебе и удачи!'
+  replies:
+  - id: 36298
+    parent_id: 36296
+    date: 2009-04-27 15:31
+    poster: Dmitri Kazantsev (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: никто не поздравил Юриваныча
+    deleted: false
+    text: злые вы
+  - id: 36313
+    parent_id: 36296
+    date: 2009-05-12 21:28
+    poster: Эльдар
+    subject: Год назад
+    deleted: false
+    text: http://blues.ru/forum/?id=56035&page=11&body=1#56035

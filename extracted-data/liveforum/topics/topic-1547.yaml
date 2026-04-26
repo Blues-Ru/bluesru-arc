@@ -1,0 +1,25 @@
+topic_id: 1547
+slug: topic-1547
+title: Книжка Фрэнка Заппы
+first_post: 2003-11-03 11:10
+last_post: 2003-11-03 11:16
+post_count: 2
+posts:
+- id: 15385
+  parent_id: null
+  date: 2003-11-03 11:10
+  poster: Дмитрий Казачков
+  email: KAZACHKOV@medsi.ru
+  subject: Книжка Фрэнка Заппы
+  deleted: false
+  text: Кому интересно в магазине "Ашан", что близ Мытищ, продают книжку Заппы.
+  replies:
+  - id: 15386
+    parent_id: 15385
+    date: 2003-11-03 11:16
+    poster: Федор Романенко (fedor)
+    email: fedor@blues.ru
+    subject: Заппа
+    deleted: false
+    text: А еще есть на блюз.ру в /zappazuhoi/ крутейшая книжка Владимира Советова
+      с толкованием и переводом большинства текстов и пр.

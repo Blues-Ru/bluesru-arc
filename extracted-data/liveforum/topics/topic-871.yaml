@@ -1,0 +1,70 @@
+topic_id: 871
+slug: topic-871
+title: OFF 2 DK
+first_post: 2002-06-08 15:16
+last_post: 2002-06-08 17:09
+post_count: 7
+posts:
+- id: 5121
+  parent_id: null
+  date: 2002-06-08 15:16
+  poster: Gastins
+  email: heartware@land.ru
+  subject: OFF 2 DK
+  deleted: false
+  text: Дима, а ты не выступаешь сейчас? Я завтра в Москву еду, можно встретиться.
+  replies:
+  - id: 5122
+    parent_id: 5121
+    date: 2002-06-08 15:26
+    poster: Дима Казанцев (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: А кто это, простите?
+    deleted: false
+    text: Да, я выступаю. У меня два концерта на следующей неделе, в хороших местах.
+      А ты кто, Gastins?
+    replies:
+    - id: 5123
+      parent_id: 5122
+      date: 2002-06-08 15:29
+      poster: Дима Казанцев (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: А, я кажется понял!
+      deleted: false
+      text: Это был вопрос к Диме Красивову, наверное? Или нет?
+      replies:
+      - id: 5124
+        parent_id: 5123
+        date: 2002-06-08 15:31
+        poster: Дима Казанцев (Dr. Nick)
+        email: dr.nick@blues.ru
+        subject: Или вот еще
+        deleted: false
+        text: Может к Доктору Дмитрию Казачкову сей question?
+    - id: 5127
+      parent_id: 5122
+      date: 2002-06-08 16:58
+      poster: Gastins
+      email: heartware@land.ru
+      subject: Это я -
+      deleted: false
+      text: Володя Яковенко. Все понял, но не попаду, наверно, т.к. всего на два дня
+        появлюсь.
+      replies:
+      - id: 5128
+        parent_id: 5127
+        date: 2002-06-08 17:06
+        poster: Дима Казанцев (Dr. Nick)
+        email: dr.nick@blues.ru
+        subject: Ну так
+        deleted: false
+        text: можно и так просто встретиться. Звони.
+        replies:
+        - id: 5129
+          parent_id: 5128
+          date: 2002-06-08 17:09
+          poster: Gastins
+          email: heartware@land.ru
+          subject: OK
+          deleted: false
+          text: хорошо, звякну.

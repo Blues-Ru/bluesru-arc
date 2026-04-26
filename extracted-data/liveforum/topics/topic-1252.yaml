@@ -1,0 +1,31 @@
+topic_id: 1252
+slug: topic-1252
+title: Купил диск Huddie Leadbelly...
+first_post: 2003-07-06 18:13
+last_post: 2003-07-15 19:41
+post_count: 2
+posts:
+- id: 13172
+  parent_id: null
+  date: 2003-07-06 18:13
+  poster: Rugged
+  email: kirill@amber.spb.ru
+  subject: Купил диск Huddie Leadbelly...
+  deleted: false
+  text: '...и не могу нарадоваться на старика. Самое главное - наконец-то я услышал
+    такие знаменитые боевики, как Midnight Special, Irene Good Night, Rock Island
+    Line в оригинальном исполнении. До этого слышал их только у Джонни Кэша. Теперь
+    понятно, откуда черпали вдохновение рокабиллы 50х на студии Sun Records :)))
+
+
+    Особенно понравились вещи с участием вокального ансамбля (например, в Rock Island
+    Line вообще кроме голосов ничего нет). Никто не просветит, как такая манера пения
+    называется - госпел, или как-то еще?'
+  replies:
+  - id: 13222
+    parent_id: 13172
+    date: 2003-07-15 19:41
+    poster: Старый Майор
+    email: gypsy@mail.ru
+    subject: «А капелла» она называется :)
+    deleted: false

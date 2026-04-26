@@ -1,0 +1,68 @@
+topic_id: 3747
+slug: topic-3747
+title: интересное открытие
+first_post: 2007-09-27 21:06
+last_post: 2007-09-30 12:41
+post_count: 5
+posts:
+- id: 33559
+  parent_id: null
+  date: 2007-09-27 21:06
+  poster: Dmitri Kazantsev (Dr. Nick)
+  email: dr.nick@blues.ru
+  subject: интересное открытие
+  deleted: false
+  text: 'http://wc08.allmusic.com/cg/amg.dll?p=amg&sql=10:wxftxqygldae
+
+
+    не блюз, но очень интересный инди-микс всего подряд! джаз-блюз-фолк-рок какой-то
+    дивный'
+  replies:
+  - id: 33565
+    parent_id: 33559
+    date: 2007-09-29 10:40
+    poster: Алексей Фролов (Buchothk)
+    email: jokerthk@yandex.ru
+    subject: '...'
+    deleted: false
+    text: 'Действительно прикольно играют... (или лабают?) :)
+
+      Но я бы совершенно однозначно в графе Genre написал не folk, а punk. Он там,
+      на мой взгляд, основной нитью тянется... причем там, где "жанровые гуляния"
+      совсем по музыке уходят от панка - остается его дух, стиль исполнения.. так
+      что мое мнение - панк! :)'
+  - id: 33567
+    parent_id: 33559
+    date: 2007-09-29 14:11
+    poster: Dmitri Kazantsev (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: панка там нет ни грамма
+    deleted: false
+    text: играют джазовые музыканты
+    replies:
+    - id: 33570
+      parent_id: 33567
+      date: 2007-09-30 12:29
+      poster: Алексей Фролов (Buchothk)
+      email: jokerthk@yandex.ru
+      subject: эээ...
+      deleted: false
+      text: 'по данной ссылке вываливается альбом Snap! от Dick Siegel.
+
+        Однако, при нажатии на кнопку "прослушать" у, скажем, второго трека начинают
+        (как я теперь выяснил) вопсроизводиться совсем другие композиции с совсем
+        других альбомов. Например альбом Hot dog daiquiry группы Porkers...
+
+        Почему - не знаю.. :((( перепроверял несколько раз...'
+      replies:
+      - id: 33571
+        parent_id: 33570
+        date: 2007-09-30 12:41
+        poster: Dmitri Kazantsev (Dr. Nick)
+        email: dr.nick@blues.ru
+        subject: да, бывают глюки
+        deleted: false
+        text: 'http://www.amazon.com/Snap-Dick-Siegel/dp/B0000012QG/ref=sr_1_2/105-4028688-4658005?ie=UTF8&s=music&qid=1191141348&sr=1-2
+
+
+          вот тут ОК'

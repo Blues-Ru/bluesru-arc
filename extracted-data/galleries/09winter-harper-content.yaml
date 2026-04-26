@@ -1,0 +1,49 @@
+path: 09Winter/harper/content
+type: lightroom
+title: null
+date: null
+photo_count: 12
+captioned: 0
+index_files: null
+extra_text: null
+photos:
+- file: bin/DSC_0126.jpg
+  thumb: bin/images/thumb/DSC_0126.jpg
+  page_html: DSC_0126_large.html
+- file: bin/sDSC_0117.jpg
+  thumb: bin/images/thumb/sDSC_0117.jpg
+  page_html: sDSC_0117_large.html
+- file: bin/sDSC_0122.jpg
+  thumb: bin/images/thumb/sDSC_0122.jpg
+  page_html: sDSC_0122_large.html
+- file: bin/sDSC_0124.jpg
+  thumb: bin/images/thumb/sDSC_0124.jpg
+  page_html: sDSC_0124_large.html
+- file: bin/sDSC_0129.jpg
+  thumb: bin/images/thumb/sDSC_0129.jpg
+  page_html: sDSC_0129_large.html
+- file: bin/sDSC_0136.jpg
+  thumb: bin/images/thumb/sDSC_0136.jpg
+  page_html: sDSC_0136_large.html
+- file: bin/sDSC_0137.jpg
+  thumb: bin/images/thumb/sDSC_0137.jpg
+  page_html: sDSC_0137_large.html
+- file: bin/sDSC_0138.jpg
+  thumb: bin/images/thumb/sDSC_0138.jpg
+  page_html: sDSC_0138_large.html
+- file: bin/sDSC_0142.jpg
+  thumb: bin/images/thumb/sDSC_0142.jpg
+  page_html: sDSC_0142_large.html
+- file: bin/sDSC_0147.jpg
+  thumb: bin/images/thumb/sDSC_0147.jpg
+  page_html: sDSC_0147_large.html
+- file: bin/sDSC_0149.jpg
+  thumb: bin/images/thumb/sDSC_0149.jpg
+  page_html: sDSC_0149_large.html
+- file: bin/sDSC_0150.jpg
+  thumb: bin/images/thumb/sDSC_0150.jpg
+  page_html: sDSC_0150_large.html
+canonical_date: 2009-01
+clean_title: Ben Harper в Москве, зима 2009
+slug: ben-harper-moscow-winter-2009
+description: Ben Harper выступает в Москве, зима 2009.

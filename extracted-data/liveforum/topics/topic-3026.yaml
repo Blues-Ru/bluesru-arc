@@ -1,0 +1,32 @@
+topic_id: 3026
+slug: topic-3026
+title: Дениса Мажукова с ДР!!!
+first_post: 2006-01-03 00:10
+last_post: 2006-01-03 12:40
+post_count: 3
+posts:
+- id: 25328
+  parent_id: null
+  date: 2006-01-03 00:10
+  poster: Grem
+  email: grems@yandex.ru
+  subject: Дениса Мажукова с ДР!!!
+  deleted: false
+  replies:
+  - id: 25329
+    parent_id: 25328
+    date: 2006-01-03 00:13
+    poster: Андрей Ордальонов (Андрей PRG)
+    email: peregnoy@mail.ru
+    subject: Присоединяюсь:)
+    deleted: false
+    text: Удачи Денису и успехов!
+  - id: 25330
+    parent_id: 25328
+    date: 2006-01-03 12:40
+    poster: Валентин
+    email: voshalb@rambler.ru
+    subject: Да уж...Рок-н-ролл  точно скорее жив...)))
+    deleted: false
+    text: Явно и усилиями Дениса...Позажигал и надеюсь,еще получиться под его драйвовую
+      музыку...Всех благ,здоровья и удачи!!!

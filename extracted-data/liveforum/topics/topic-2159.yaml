@@ -1,0 +1,145 @@
+topic_id: 2159
+slug: topic-2159
+title: о блюзе и так
+first_post: 2004-06-29 23:00
+last_post: 2004-07-12 10:08
+post_count: 14
+posts:
+- id: 18855
+  parent_id: null
+  date: 2004-06-29 23:00
+  poster: chief
+  email: habahu@mail.ru
+  subject: о блюзе и так
+  deleted: false
+  text: Ребята, совет старого- выпейте водки и послушайте Skip James, M.Fred Mcdowell
+    или Son House- и ни к чему бесполезные разговоры!
+  replies:
+  - id: 18859
+    parent_id: 18855
+    date: 2004-06-30 08:37
+    poster: VoV  (Barmaley)
+    email: barmaley-vov@yandex.ru
+    subject: Для этого водку пить не обязательно...
+    deleted: false
+    text: Достаточно просто получить удовольствие от их музыки.
+    replies:
+    - id: 18881
+      parent_id: 18859
+      date: 2004-07-02 01:38
+      poster: chief
+      email: habahu@mail.ru
+      subject: о водке
+      deleted: false
+      text: Слушать -не всегда понимать! Пока созреем -сдохнем?
+      replies:
+      - id: 18890
+        parent_id: 18881
+        date: 2004-07-02 08:52
+        poster: VoV  (Barmaley)
+        email: barmaley-vov@yandex.ru
+        subject: Имеющие (д)уши да...
+        deleted: false
+        text: Уж не утверждаетели вы, милейший, что для созревания и понимания алкоголь
+          необходим? Вы какой ликеро-водочный завод лоббируете?
+  - id: 18878
+    parent_id: 18855
+    date: 2004-07-02 00:59
+    poster: Оксана Кочубей
+    email: morrah@yandex.ru
+    subject: Мозг горит от портвейна
+    deleted: false
+    text: и She's gone... кто больше? ;)
+    replies:
+    - id: 18882
+      parent_id: 18878
+      date: 2004-07-02 01:40
+      poster: chief
+      email: habahu@mail.ru
+      subject: о портвейне
+      deleted: false
+      text: Фу какая гадость этот Ваш портвейн!
+      replies:
+      - id: 18943
+        parent_id: 18882
+        date: 2004-07-10 17:25
+        poster: al
+        email: alexshilovich@yahoo.com
+        subject: Спасибы :)
+        deleted: false
+        text: Пользуясь редкой возможностью спокойно посидеть в сети, хотел бы передать
+          привет и сказать огромное спасибо двум савиршенна замечательным людям -
+          Михаилу Бирюкову (Диски просто охххххх....е, у Big Val оказалась в двух
+          экземплярах книга со всеми tabs песен Son и Tommy Johnson. Так что мы уж
+          дадим перцу. Напиши, плиз, свой мэйл на svet-al@tut.by) и Андрею Евдокимову
+          (за теплую рецензию на Еже и, вообще, за то что он есть :)   ). Ваш al
+        replies:
+        - id: 18945
+          parent_id: 18943
+          date: 2004-07-10 19:16
+          poster: Михаил Бирюков (nECKAPb)
+          email: blackcat@blues.ru
+          subject: привет тебе привет!
+          deleted: false
+          text: 'Как вообще дела?
+
+            Будем находиться в ожидании перцу :)))
+
+            Мейл направлен.'
+        - id: 18953
+          parent_id: 18943
+          date: 2004-07-12 10:08
+          poster: Игорь Г
+          email: sunny_city@mail.ru
+          subject: Алё,алё, Леша, тит-тыть.Где ты,что ты,как ты !!!???. А главное
+            -кто это МЫ ???
+          deleted: false
+          text: "Кто,кто перцу-то даст.Ты вернулся,блудный сын? С Вэлом что-то затеваете?\
+            \ Кайся публично!(но можно и тайно) Страсть как интересно!!!\nУ меня есть\
+            \ кончно же определенные предположения,основанные на некоторых умозаключениях,но\
+            \ хочется,так сказать,из первых уст :)) \nИли хоть из вторых.Маша,Миша,Андрей\
+            \ если вы в курсе ну расскажите что-нить."
+  - id: 18919
+    parent_id: 18855
+    date: 2004-07-07 14:54
+    poster: Zhendoz
+    email: Zhendoz@mail.ru
+    subject: Сон Хаус
+    deleted: false
+    text: А где можно Мр3 Сон Хауса найти в нете, подскажите.
+  - id: 18921
+    parent_id: 18855
+    date: 2004-07-08 14:04
+    poster: дмитрий
+    email: swallowed@mail.ru
+    subject: son house
+    deleted: false
+    text: ftp://mp3.int.ru/pub/mp3/DISK_5/Son_House/
+  - id: 18922
+    parent_id: 18855
+    date: 2004-07-08 14:04
+    poster: дмитрий
+    email: swallowed@mail.ru
+    subject: son house
+    deleted: false
+    text: ftp://mp3.int.ru/pub/mp3/DISK_5/Son_House/
+    replies:
+    - id: 18923
+      parent_id: 18922
+      date: 2004-07-08 14:53
+      poster: Михаил Бирюков (nECKAPb)
+      email: blackcat@blues.ru
+      subject: мда
+      deleted: false
+      text: Что ж; втуне, видать, на <a href="http://www.blues.ru/BlackCat/arch.htm"
+        target="_blank">http://<b>www.blues.ru</b>/BlackCat/arch.htm</a> мп3-архив
+        делался... mp3.int.ru - "наше всё" вовеки веков!
+      replies:
+      - id: 18926
+        parent_id: 18923
+        date: 2004-07-08 17:35
+        poster: Andrei V. Evdokimov (evdokimov)
+        email: evdokimov@blues.ru
+        subject: старичок, что ты удивляешься?
+        deleted: false
+        text: и почитать на всей блюз-ре нечего

@@ -1,0 +1,62 @@
+topic_id: 1276
+slug: topic-1276
+title: Если сведения верны,то Петровича и еще одного
+first_post: 2003-07-22 13:33
+last_post: 2003-07-23 23:09
+post_count: 6
+posts:
+- id: 13294
+  parent_id: null
+  date: 2003-07-22 13:33
+  poster: Игорь Головачев (Игорь Г.)
+  email: sunny_city@mail.ru
+  subject: Если сведения верны,то Петровича и еще одного
+  deleted: false
+  text: известного человека - Анатолия Подлипенцева можно поздравлять с днем рождения.
+    А Петровича так очень сильно ему нынче 50 !
+  replies:
+  - id: 13296
+    parent_id: 13294
+    date: 2003-07-22 15:04
+    poster: Andrei V. Evdokimov (evdokimov)
+    email: evdokimov@blues.ru
+    subject: верны!
+    deleted: false
+    text: юбилей Петровчиа отметим "с помпой" в сентябре... работы по подготовке идут...
+    replies:
+    - id: 13297
+      parent_id: 13296
+      date: 2003-07-22 17:33
+      poster: AlexIV
+      email: www.beatween.ru
+      subject: Тогда...
+      deleted: false
+      text: 'Поздравляю дядю Мишу и дядю Толю с ДР! Желаю здоровья и всех благ!
+
+        :-))'
+      replies:
+      - id: 13301
+        parent_id: 13297
+        date: 2003-07-22 22:23
+        poster: Андрей PRG
+        email: peregnoy@mail.ru
+        subject: Тогда...
+        deleted: false
+        text: я присоединяюсь, желая всего-всего!
+        replies:
+        - id: 13302
+          parent_id: 13301
+          date: 2003-07-22 23:56
+          poster: baltika
+          email: baltika-blues@narod.ru
+          subject: Тогда...
+          deleted: false
+          text: присоединяюсь, желаю долгих лет!!!
+  - id: 13308
+    parent_id: 13294
+    date: 2003-07-23 23:09
+    poster: Владимир Бойков (Banderas)
+    email: vbanderas@mail.ru
+    subject: Тогда...
+    deleted: false
+    text: Мои поздравления. От всей души желаю здоровья и творческого долголетия.

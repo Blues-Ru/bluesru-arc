@@ -1,0 +1,61 @@
+topic_id: 4104
+slug: topic-4104
+title: Как это было в марте 2007-го.
+first_post: 2008-10-03 09:01
+last_post: 2008-10-04 17:15
+post_count: 6
+posts:
+- id: 35836
+  parent_id: null
+  date: 2008-10-03 09:01
+  poster: Andrei V. Evdokimov (evdokimov)
+  email: evdokimov@blues.ru
+  subject: Как это было в марте 2007-го.
+  deleted: false
+  text: <a href="/bluesnews/07Leto/guyphil/content/index.html"><b>Концерты Фила Гая
+    с группой Омара в Доме у Дороги </b></a>.
+  replies:
+  - id: 35837
+    parent_id: 35836
+    date: 2008-10-03 11:36
+    poster: Алексей Аграновский (Док)
+    email: aaa@genebee.msu.su
+    subject: Спасибо, Андрей
+    deleted: false
+    text: Прикольный был Фил Гай. Хороший человек.
+    replies:
+    - id: 35839
+      parent_id: 35837
+      date: 2008-10-03 16:11
+      poster: Andrei V. Evdokimov (evdokimov)
+      email: evdokimov@blues.ru
+      subject: Доктор!
+      deleted: false
+      text: обыскал твой сайт и жж - были же где-то заметки об этих выступлениях?
+        сам не нашел по скудоумию и неучености.
+      replies:
+      - id: 35841
+        parent_id: 35839
+        date: 2008-10-03 19:19
+        poster: Grems
+        email: grem@yandex.ru
+        subject: плохо искал)
+        deleted: false
+        text: Андрей, там на сайте в Дневниках и найдете (это кажись  "Март")
+        replies:
+        - id: 35843
+          parent_id: 35841
+          date: 2008-10-04 17:15
+          poster: Алексей Аграновский (Док)
+          email: aaa@genebee.msu.su
+          subject: Андрей! желаешь смутить
+          deleted: false
+          text: 'здесь написал, в конце: http://www.agranovsky.ru/diary/mar_07.htm'
+  - id: 35838
+    parent_id: 35836
+    date: 2008-10-03 13:09
+    poster: mvstudio
+    email: mixersound@mail.ru
+    subject: PHIL
+    deleted: false
+    text: http://rapidshare.com/files/140363214/PHIL_GUY_LIVE_MOSCOW_03-2007.mp3

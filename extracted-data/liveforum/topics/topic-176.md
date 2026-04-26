@@ -1,0 +1,26 @@
+---
+topic_id: 176
+slug: topic-176
+title: Congrats to Bo Diddley, Chuck Berry, Little Richard
+post_count: 1
+first_post: 2002-04-21 16:02
+last_post: 2002-04-21 16:02
+---
+
+## Congrats to Bo Diddley, Chuck Berry, Little Richard
+**From:** David Blakey  **Date:** 2002-04-21 16:02  **Post:** #3954
+
+Bo Diddley, Chuck Berry and Little Richard are to be the first 3 recipients of the Broadcast Music, Inc. (BMI) Icon Award, to be presented to them at the BMI 50th Annual Pop Awards dinner at the Regent Beverly Wilshire Hotel in Los Angeles, CA on Tuesday May 14th 2002.
+
+The performing rights organization is honoring them with this prestigious new award in recognition of their many contributions to contemporary music. Bo Diddley's debut single "Bo Diddley"/"I'm A Man" (Checker 814) hitting the rhythm & blues singles chart in May 1955, Chuck Berry's "Maybellene" (Chess 1604) in August 1955 and Little Richard's "Tutti-Frutti" (Specialty 561) in January 1956.
+
+Now in his early 70s, one of the founding fathers of rock music and the popularizer of the world-famous "Bo Diddley beat", singer and guitarist Bo Diddley is still very much active in the recording studio and in the clubs and the concert halls around the world. He performed a rousing version of his classic song "Who Do You Love" with George Thorogood & The Destroyers in front of a TV audience of millions at the Live Aid Concert in Philadelphia in 1985. A couple of years later he was deservedly an early inductee into the Rock 'n' Roll Hall of Fame. In 1996 he received a Lifetime Achievement Award from the Rhythm 'n' Blues Foundation and in 1998 received another Lifetime Achievement Award this time from The Recording Academy at that year's annual Grammy Awards Ceremony. More recently, yet further honors were justifiably awarded to him when he was inducted into The Mississippi Musicians Hall of Fame, The North Florida Music Association Hall of Fame and on March 8th of this year he was awarded the prestigious Pioneer In Entertainment Award by The National Association of Black Owned Broadcasters (NABOB).
+
+Warmest congratulations to Bo Diddley, Chuck Berry and Little Richard on the awarding of these richly-deserved honors.
+
+David Blakey, Webmaster,
+BO DIDDLEY-The Originator
+http://members.tripod.com/~Originator_2/index.html
+A Celebration of Bo Diddley's unique contribution to Popular Music.
+
+---

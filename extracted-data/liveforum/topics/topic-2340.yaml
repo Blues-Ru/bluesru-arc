@@ -1,0 +1,69 @@
+topic_id: 2340
+slug: topic-2340
+title: Mississippi Fred Mcdowell
+first_post: 2004-12-05 14:05
+last_post: 2004-12-11 10:43
+post_count: 5
+posts:
+- id: 19899
+  parent_id: null
+  date: 2004-12-05 14:05
+  poster: Denisov
+  email: den2606@yandex.ru
+  subject: Mississippi Fred Mcdowell
+  deleted: false
+  text: Поделитесь информацией о музыканте. Пожалуйста.
+  replies:
+  - id: 19900
+    parent_id: 19899
+    date: 2004-12-05 19:37
+    poster: Lars
+    email: Lars@List.ru
+    subject: а так если?
+    deleted: false
+    text: '<a href="http://www.google.com/search?q=Mississippi%20Fred%20Mcdowell">http://www.google.com/search?q=Mississippi%20Fred%20Mcdowell</a>
+
+      ;)'
+    replies:
+    - id: 19924
+      parent_id: 19900
+      date: 2004-12-11 10:36
+      poster: Denisov
+      email: den2606@yandex.ru
+      subject: для Lars
+      deleted: false
+      text: 'остроумно)))
+
+        если бы мне хватило словарного аглицкого запаса - не было бы здесь вопроса
+
+        на русском как раз не нашел'
+  - id: 19904
+    parent_id: 19899
+    date: 2004-12-06 19:02
+    poster: Muddy Lives
+    email: mlives_6@hotmail.com
+    subject: Великий артист
+    deleted: false
+    text: 'Интересно, что Mississippi Fred McDowell уже играл и выступал в 20-ых годах,
+      но не имеел возможности записаться до 1959-г.  К счастью он после этого успел
+      выпустить много прекрасных и своеобразных дисков.
+
+
+      Он, пожалуй, самый сильный представитель жанра "Mississippi Hill Blues."  До
+      войны этот жанр практически игнориловался музыкальными компаниями, которые искали
+      блюзовых артистов в шт. Мississippi почти исключительно в Дельте или в городе
+      Jackson.  Junior Kimborough особенно долго ждал своего "открытия" в 1980-ых
+      годах.
+
+
+
+      Muddy'
+    replies:
+    - id: 19925
+      parent_id: 19904
+      date: 2004-12-11 10:43
+      poster: Denisov
+      email: den2606@yandex.ru
+      subject: спасибо
+      deleted: false
+      text: ценно

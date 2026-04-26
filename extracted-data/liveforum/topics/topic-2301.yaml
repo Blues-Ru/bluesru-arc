@@ -1,0 +1,63 @@
+topic_id: 2301
+slug: topic-2301
+title: Ищу фотки с Эфеса
+first_post: 2004-11-01 11:49
+last_post: 2004-11-11 21:23
+post_count: 6
+posts:
+- id: 19632
+  parent_id: null
+  date: 2004-11-01 11:49
+  poster: Buchothk
+  email: jokerthk@yandex.ru
+  subject: Ищу фотки с Эфеса
+  deleted: false
+  text: 'Уважаемые Дамы и Господа!
+
+    На фестивале ходили фотографы, которые фотографировали не только выступающих,
+    но и зал. У кого есть доступ к этим снимкам или информация - выложите, дайте ссылку.
+    Заранее благодарен.'
+  replies:
+  - id: 19644
+    parent_id: 19632
+    date: 2004-11-01 15:54
+    poster: Роман
+    email: kazmin@sbank.ru
+    subject: Вот галерея с фестиваля
+    deleted: false
+    text: http://www.rusblues.ru/galery/fest/fest07.shtml
+    replies:
+    - id: 19645
+      parent_id: 19644
+      date: 2004-11-01 16:00
+      poster: Роман
+      email: kazmin@sbank.ru
+      subject: --а также рецензия
+      deleted: false
+      text: http://www.rusblues.ru/clubspace/actions/actions03.shtml
+  - id: 19649
+    parent_id: 19632
+    date: 2004-11-01 16:36
+    poster: Федор Романенко (fedor)
+    email: fedor@blues.ru
+    subject: А на первой странице
+    deleted: false
+    text: blues.ru смотрели? ;) Туда иногда стоит заглядывать ;)
+  - id: 19656
+    parent_id: 19632
+    date: 2004-11-01 19:22
+    poster: Buchothk
+    email: jokerthk@yandex.ru
+    subject: Спасибо
+    deleted: false
+    text: 'Спасибо огромное!
+
+      Нашел то, что искал!'
+  - id: 19788
+    parent_id: 19632
+    date: 2004-11-11 21:23
+    poster: Крис
+    email: ardiva@mail.ru
+    subject: А есть фотки с фестиваля в Екатеринбурге?
+    deleted: false
+    text: Дайте плиз ссылку, если кто знает.

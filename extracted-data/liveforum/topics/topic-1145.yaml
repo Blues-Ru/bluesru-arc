@@ -1,0 +1,61 @@
+topic_id: 1145
+slug: topic-1145
+title: Мои компашки
+first_post: 2002-01-23 04:24
+last_post: 2002-01-23 18:26
+post_count: 6
+posts:
+- id: 242
+  parent_id: null
+  date: 2002-01-23 04:24
+  poster: Федор Романенко (fedor)
+  email: fedor@blues.ru
+  subject: Мои компашки
+  deleted: false
+  text: Я сегодня переделал программу, которая показывает список компактных дисков
+    из локальной CDDB базы. На результат можно посмотреть <a href="/fedor/albums.asp">здесь</a>.
+  replies:
+  - id: 243
+    parent_id: 242
+    date: 2002-01-23 10:23
+    poster: Дима Казанцев (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: Да уж, Федор...
+    deleted: false
+    text: немного у тебя хороших альбомов ;)
+    replies:
+    - id: 244
+      parent_id: 243
+      date: 2002-01-23 11:45
+      poster: Sergei  Kiritchenko (VoID)
+      email: skvoid@yahoo.com
+      subject: не издевайся....
+      deleted: false
+      text: по-моему более чем достаточно ;)
+      replies:
+      - id: 245
+        parent_id: 244
+        date: 2002-01-23 15:14
+        poster: AlexIV
+        email: evergreens@mail.ru
+        subject: Дим, да он специально...
+        deleted: false
+        text: их не указал, чтоб ты не умер от зависти :-))
+        replies:
+        - id: 253
+          parent_id: 245
+          date: 2002-01-23 18:26
+          poster: Дима Казанцев (Dr. Nick)
+          email: dr.nick@blues.ru
+          subject: А может от радости?
+          deleted: false
+          text: Может мне тоже хочется попросить кого-нибудь что-нибудь редкое и любимое
+            мною прописать. А то ведь совсем я один в увлечении своем...
+    - id: 246
+      parent_id: 243
+      date: 2002-01-23 15:41
+      poster: Volk
+      email: volk@land.ru
+      subject: Хорошие - это те которые нравятся - у всех хорошие разные
+      deleted: false
+      text: голубые и красные....

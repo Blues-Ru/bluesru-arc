@@ -1,0 +1,23 @@
+topic_id: 2424
+slug: topic-2424
+title: Блюзрадио в инете
+first_post: 2005-02-12 15:03
+last_post: 2005-02-12 23:57
+post_count: 2
+posts:
+- id: 20435
+  parent_id: null
+  date: 2005-02-12 15:03
+  poster: Dima Kumchenko
+  email: kumchenko@mail.ru
+  subject: Блюзрадио в инете
+  deleted: false
+  text: Кто-нибудь слушает через инет блюзовые радиостанции? Какую радиостанцию посоветуете?
+  replies:
+  - id: 20437
+    parent_id: 20435
+    date: 2005-02-12 23:57
+    poster: disik
+    email: denis1482@mail.ru
+    subject: http://www.specialradio.ru/10.asx
+    deleted: false

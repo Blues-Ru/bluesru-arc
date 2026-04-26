@@ -1,0 +1,26 @@
+topic_id: 2012
+slug: topic-2012
+title: Посвящается блюзменам
+first_post: 2002-07-08 23:54
+last_post: 2002-07-10 10:08
+post_count: 2
+posts:
+- id: 5934
+  parent_id: null
+  date: 2002-07-08 23:54
+  poster: The Fan Of The Bluezzz
+  email: unknown@unknown.com
+  subject: Посвящается блюзменам
+  deleted: false
+  text: 'Песня посвящается всем замечательным блюзменам:
+
+    http://www.realmusic.ru/songs/12448/'
+  replies:
+  - id: 5974
+    parent_id: 5934
+    date: 2002-07-10 10:08
+    poster: Malcolm Ray    Readriver (Mike)
+    email: Mrg_mike@rambler.ru
+    subject: Doubletime?
+    deleted: false
+    text: Эй чувак, зачем второй-то раз...

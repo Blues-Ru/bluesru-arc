@@ -1,0 +1,202 @@
+topic_id: 3938
+slug: topic-3938
+title: Разговоры о блюзе
+first_post: 2008-03-12 00:24
+last_post: 2008-03-17 15:16
+post_count: 20
+posts:
+- id: 34888
+  parent_id: null
+  date: 2008-03-12 00:24
+  poster: Плохой
+  email: asd@mail.ru
+  subject: Разговоры о блюзе
+  deleted: false
+  text: Тухлый форум-то, всё сводится к  тому, что трое умных, а остальные дураки.
+    Да и с блюзом как-то слабенько в столице... Вот и камень заложили, лекции какие-то,
+    ещё капсулу с записями наших блюзменов осталось закопать и считай что блюз в совке
+    похоронили насовсем. Совок, господа знатоки!
+  replies:
+  - id: 34889
+    parent_id: 34888
+    date: 2008-03-12 03:27
+    poster: Старый Майор
+    email: gypsy@mail.ru
+    subject: Можно поподробней?
+    deleted: false
+    text: "Уважаемый Плохой! \nБлагодарю вас за честно высказанное мнение. Надеюсь,\
+      \ что в душе вы всё- таки стремитесь к хорошему, а не пытаетесь оправдать собственный\
+      \ псевдоним.\nХотелось бы уточнить небольшие детали.\n\n1. Что такое \"слабенько\"\
+      ? \n2. Где с блюзом не слабенько?\n3. Чем вам лекции не нравятся?\n4. Были ли\
+      \ вы на этих лекциях?\n5. Что такое совок?\n6. Что, по вашему, надо сделать,\
+      \ чтобы исправить ситуацию?"
+    replies:
+    - id: 34893
+      parent_id: 34889
+      date: 2008-03-12 16:05
+      poster: brown_sugar
+      email: brown_sugar@pisem.net
+      subject: Исправить ситуацию
+      deleted: false
+      text: не выходить на сцену. майору
+      replies:
+      - id: 34895
+        parent_id: 34893
+        date: 2008-03-12 16:18
+        poster: Старый Майор
+        email: gypsy@mail.ru
+        subject: Оказывается, для счастья нужно так мало )))
+        deleted: false
+        text: "Хорошо, я буду играть сбоку сцены ))\n\nPS: интересно, когда же я успел\
+          \ так надоесть почтенной аудитории? За последние полгода я на сцене был\
+          \ всего лишь пару раз. Надо же, какое сильное впечатление произвело моё\
+          \ выступление! \n\nВот она, волшебная сила искусства! )))"
+        replies:
+        - id: 34899
+          parent_id: 34895
+          date: 2008-03-12 23:04
+          poster: Руслан Чифуров
+          email: chifuroff <sobaka> inbox.ru
+          subject: Вот Майор!
+          deleted: false
+          text: У тебя тут уже и завистники появились.
+    - id: 34894
+      parent_id: 34889
+      date: 2008-03-12 16:09
+      poster: brown_sugar
+      email: brown_sugar@pisem.net
+      subject: Исправить ситуацию
+      deleted: false
+      text: не выходить на сцену. майору
+  - id: 34891
+    parent_id: 34888
+    date: 2008-03-12 10:26
+    poster: Dmitri Kazantsev (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: точно! совсем слабо! надо больше шафела!
+    deleted: false
+    text: ещё больше!
+  - id: 34898
+    parent_id: 34888
+    date: 2008-03-12 22:11
+    poster: Плохой
+    email: asd@mail.ru
+    subject: Горбатого могила исправит
+    deleted: false
+    replies:
+    - id: 34901
+      parent_id: 34898
+      date: 2008-03-12 23:53
+      poster: Dmitri Kazantsev (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: а Могильного кто исправит?
+      deleted: false
+      text: я сказал горбатый?
+  - id: 34905
+    parent_id: 34888
+    date: 2008-03-13 14:16
+    poster: Игорь Г.
+    email: sunny_city@mail.ru
+    subject: Плохой, снова пытаюсь  ухватить твою мысль
+    deleted: false
+    text: 'них. не выходит.
+
+      >Да и с блюзом как-то слабенько в столице
+
+      А где сильненько? Плз. названия городов и поселков.
+
+      >Совок, господа знатоки!
+
+      Что есть совок в данном конкретном случае?'
+  - id: 34906
+    parent_id: 34888
+    date: 2008-03-13 14:53
+    poster: Muddy Lives
+    email: mlives_6@hotmail.com
+    subject: Трое умниц - это уже хорошо
+    deleted: false
+    text: 'гитарист-вокалист, бассист, барабанщик.  Пусть и остальные - дураки. Все
+      равно живет блюз.
+
+
+
+      Muddy'
+    replies:
+    - id: 34937
+      parent_id: 34906
+      date: 2008-03-15 18:51
+      poster: Старый Майор
+      email: gypsy@mail.ru
+      subject: Умник! Приезжай лучше в Москву поскорее!
+      deleted: false
+      text: "Нам Юрий Иваныч гиг обещал! \nРитм-секцию у Мишуриса одолжим! Вместе\
+        \ с Мишурисом )))"
+      replies:
+      - id: 34938
+        parent_id: 34937
+        date: 2008-03-15 18:54
+        poster: Dmitri Kazantsev (Dr. Nick)
+        email: dr.nick@blues.ru
+        subject: а где умник?
+        deleted: false
+        text: в Америце?
+        replies:
+        - id: 34939
+          parent_id: 34938
+          date: 2008-03-15 20:26
+          poster: Старый Майор
+          email: gypsy@mail.ru
+          subject: В Тьмутаракани какой-то...
+          deleted: false
+          text: Подневольный человек, не то что мы...
+      - id: 34940
+        parent_id: 34937
+        date: 2008-03-16 09:25
+        poster: Muddy Lives
+        email: mlives_6@hotmail.com
+        subject: Да, золотые горы всегда обещаешь, г-н. Майор
+        deleted: false
+        replies:
+        - id: 34954
+          parent_id: 34940
+          date: 2008-03-17 01:13
+          poster: Старый Майор
+          email: gypsy@mail.ru
+          subject: ??
+          deleted: false
+          text: Я в чем-то виноват?
+          replies:
+          - id: 34957
+            parent_id: 34954
+            date: 2008-03-17 01:37
+            poster: Dmitri Kazantsev (Dr. Nick)
+            email: dr.nick@blues.ru
+            subject: что хочется мне кушать
+            deleted: false
+            text: маёр, расскажи нам про блюз. вон там Юлия спрашивает.
+            replies:
+            - id: 34960
+              parent_id: 34957
+              date: 2008-03-17 12:14
+              poster: Старый Майор
+              email: gypsy@mail.ru
+              subject: Издеваешься.
+              deleted: false
+              text: Сам расскажи, ты же у нас записной аудиофил.
+          - id: 34962
+            parent_id: 34954
+            date: 2008-03-17 14:01
+            poster: Muddy Lives
+            email: mlives_6@hotmail.com
+            subject: Нет, конечно...
+            deleted: false
+            text: '...но мне уже трудно стало поверить твоим обещаниям вернуться на
+              сцену. :)'
+            replies:
+            - id: 34965
+              parent_id: 34962
+              date: 2008-03-17 15:16
+              poster: Старый Майор
+              email: gypsy@mail.ru
+              subject: А ты почаще приезжай
+              deleted: false

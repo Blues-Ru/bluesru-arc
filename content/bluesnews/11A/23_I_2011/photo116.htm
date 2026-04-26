@@ -1,0 +1,170 @@
+<!DOCTYPE html 
+     PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Page-Enter" content="blendTrans(Duration=0.5)" />
+<meta http-equiv="Page-Exit" content="blendTrans(Duration=0.5)" />
+<title>Джэм в ДУД\RNB, 23.I.2011</title>
+<link type="text/css" rel="stylesheet" href="styles/default.css" />
+<noscript><p class="noscriptText">Please enable JavaScript, <a href="http:\\www.vicman.net/webalbum/javascript.htm">download</a> instructions</p></noscript>
+<script language="javascript" type="text/javascript" src="scripts/scripts.js"></script>
+<script language="javascript" type="text/javascript" src="scripts/scroller.js"></script>
+<style type="text/css">
+<!--
+.alphaPNG { behavior:url(./assets/png.htc);
+}
+-->
+</style>
+<script language="JavaScript" type="text/javascript">
+<!--
+function keyPress(e)
+{
+ if (!e)
+  var e=window.event;
+ if (e.keyCode)
+  keyCode=e.keyCode;
+ else if(e.which)
+  keyCode=e.which;
+ switch(keyCode) {
+  case 37: case 63234: window.location="photo115.htm"; return false; break;
+  case 39: case 63235: window.location="photo117.htm"; return false; break;
+  case 13: window.location="index.htm"; return false; break;
+  case 32: slideshow(); return false; break;
+ }
+ return true;
+}
+
+function keyboardHandler()
+{
+ if (document.all) {
+  document.onkeydown = keyPress;
+ } else if (document.layers || document.getElementById) {
+  document.onkeypress = keyPress;
+ }
+}
+
+var slideshow = 0; // 0 = slideshow stopped
+var slidetime = 3000;
+if(window.location.search.length > 1){
+ var params = window.location.search.substring(1,location.search.length).split("&");
+ for(var i = 0; i < params.length; i++) {		
+  if(params[i].substring(0, params[i].indexOf("=")) == "slideshow")
+  	slideshow = params[i].substring(params[i].indexOf("=") + 1, params[i].length);
+  if(params[i].substring(0, params[i].indexOf("=")) == "slidetime")
+    slidetime = params[i].substring(params[i].indexOf("=") + 1, params[i].length);
+ }
+}
+var showtime = slidetime;
+
+function showTimer()
+{
+  if(showtime >= 0) {
+   showtime -=1000;
+   if(showtime < 0 && slideshow == 1) {
+	  var pageURL = "photo117.htm";
+	  if(pageURL == "photo120.htm")	slideshow = 0;
+      window.location = pageURL + "?slideshow=" + slideshow + "&slidetime=" + slidetime;
+   }
+   else if(slideshow == 1)
+	 window.status='Next slide appears in '+(showtime/1000+1)+' sec';
+   else if(slideshow == 0)
+     window.status='Done';
+ }
+ setTimeout('showTimer()', 1000);	
+}
+
+function fSlideshow()
+{
+ if(slideshow == 1) 
+  slideshow = 0;
+ else 
+  slideshow = 1;
+ showtime = slidetime;
+}
+
+-->
+</script>
+</head>
+
+<body onload="showTimer(); keyboardHandler(); MM_preloadImages('images/first_slide1.png','images/last_slide1.png','images/fullsize1.png'); thumbPagerInit();">
+
+<table border="0" cellspacing="0" cellpadding="0" class="mainTable" align="center">
+  <tr>
+    <td valign="top"><div class="header">
+      <table border="0" cellspacing="0" cellpadding="0" width="100%">
+        <tr>
+          <td colspan="3" class="title"><a href="index.htm">Джэм в ДУД\RNB, 23.I.2011</a></td>
+          </tr>
+        <tr>
+          <td class="buttonsContainer">
+		<a href="index.htm" class="buttonUp">Up to thumbnails</a></td>
+            <td><a href="http://www.blues.ru" class="buttonUp">Homepage</a></td>
+            <td class="pagerContainer"><a style="visibility:hidden" onMouseDown="slideshow();" class="buttonSlideshow">Sart Slideshow </a></td>
+        </tr>
+      </table>
+    </div>
+       <table border="0" align="center" cellpadding="0" cellspacing="0" class="thumbPager">
+        <tr>
+        <td align="left" class="frameTop"><img src="images/frame_tl.gif" alt="" width="10" height="10"/></td>
+          <td class="frameTop"></td>
+		  <td align="right" class="frameTop"><img src="images/frame_tr.gif" alt="" width="10" height="10" /></td>
+</tr>
+		  <tr>
+		  <td class="pagerButtonEnabled" id="backButton" onclick="scrollBack();">
+		<img src="images/first_slide1.png" name="firstSlide" width="14" height="15" border="0" class="alphaPNG" id="firstSlide" alt="Back" title="Back" />
+		</td>
+   <td class="thumbPagerCenter"><div id="thumbPagerContainer"><table border="0" cellspacing="3" cellpadding="3"  id="tableThumbPager"><tr><td class="thumbPagerCell" onmouseover="this.className='currentThumbPagerCell';" onmouseout="this.className='thumbPagerCell';" onclick="document.location='photo106.htm'"><img id="sml_1" src="t_1.jpg" alt="" border="0" /></td><td class="thumbPagerCell" onmouseover="this.className='currentThumbPagerCell';" onmouseout="this.className='thumbPagerCell';" onclick="document.location='photo107.htm'"><img id="sml_2" src="t_2.jpg" alt="" border="0" /></td><td class="thumbPagerCell" onmouseover="this.className='currentThumbPagerCell';" onmouseout="this.className='thumbPagerCell';" onclick="document.location='photo108.htm'"><img id="sml_3" src="t_3.jpg" alt="" border="0" /></td><td class="thumbPagerCell" onmouseover="this.className='currentThumbPagerCell';" onmouseout="this.className='thumbPagerCell';" onclick="document.location='photo109.htm'"><img id="sml_4" src="t_4.jpg" alt="" border="0" /></td><td class="thumbPagerCell" onmouseover="this.className='currentThumbPagerCell';" onmouseout="this.className='thumbPagerCell';" onclick="document.location='photo110.htm'"><img id="sml_5" src="t_5.jpg" alt="" border="0" /></td><td class="thumbPagerCell" onmouseover="this.className='currentThumbPagerCell';" onmouseout="this.className='thumbPagerCell';" onclick="document.location='photo111.htm'"><img id="sml_6" src="t_6.jpg" alt="" border="0" /></td><td class="thumbPagerCell" onmouseover="this.className='currentThumbPagerCell';" onmouseout="this.className='thumbPagerCell';" onclick="document.location='photo112.htm'"><img id="sml_7" src="t_7.jpg" alt="" border="0" /></td><td class="thumbPagerCell" onmouseover="this.className='currentThumbPagerCell';" onmouseout="this.className='thumbPagerCell';" onclick="document.location='photo113.htm'"><img id="sml_8" src="t_8.jpg" alt="" border="0" /></td><td class="thumbPagerCell" onmouseover="this.className='currentThumbPagerCell';" onmouseout="this.className='thumbPagerCell';" onclick="document.location='photo114.htm'"><img id="sml_9" src="t_9.jpg" alt="" border="0" /></td><td class="thumbPagerCell" onmouseover="this.className='currentThumbPagerCell';" onmouseout="this.className='thumbPagerCell';" onclick="document.location='photo115.htm'"><img id="sml_10" src="t_10.jpg" alt="" border="0" /></td><td id="td_current" class="currentThumbPagerCell" style="cursor:default;"><img id="sml_11" src="t_11.jpg" alt="" border="0" /></td><td class="thumbPagerCell" onmouseover="this.className='currentThumbPagerCell';" onmouseout="this.className='thumbPagerCell';" onclick="document.location='photo117.htm'"><img id="sml_12" src="t_12.jpg" alt="" border="0" /></td><td class="thumbPagerCell" onmouseover="this.className='currentThumbPagerCell';" onmouseout="this.className='thumbPagerCell';" onclick="document.location='photo118.htm'"><img id="sml_13" src="t_13.jpg" alt="" border="0" /></td><td class="thumbPagerCell" onmouseover="this.className='currentThumbPagerCell';" onmouseout="this.className='thumbPagerCell';" onclick="document.location='photo119.htm'"><img id="sml_14" src="t_14.jpg" alt="" border="0" /></td><td class="thumbPagerCell" onmouseover="this.className='currentThumbPagerCell';" onmouseout="this.className='thumbPagerCell';" onclick="document.location='photo120.htm'"><img id="sml_15" src="t_15.jpg" alt="" border="0" /></td>      </tr>
+</table></div></td>
+	<td class="pagerButtonEnabled" id="forwardButton" onclick="scrollForward();">
+		  <img src="images/last_slide1.png" name="lastSlide" width="14" height="15" border="0" class="alphaPNG" id="lastSlide" alt="Forward" title="Forward" />
+		  </td>
+		</tr>
+        <tr>
+       <td align="left" valign="bottom" class="frameBottom"><img src="images/frame_bl.gif" alt="" width="10" height="10" /></td>          
+		  <td align="left" class="frameBottom"></td>
+		  <td align="right" valign="bottom" class="frameBottom"><img src="images/frame_br.gif" alt="" width="10" height="10" /></td>
+		 </tr>
+      </table>
+
+
+      <table border="0" cellspacing="10" cellpadding="0" align="center">
+          <tr>
+           
+		    <td valign="top"><table width="100%" border="0" cellpadding="0" cellspacing="0">
+              <tr>
+                <td><img src="images/big_frame_tl.gif" alt="" width="22" height="22" /></td>
+                <td class="frameTop"></td>
+                <td><img src="images/big_frame_tr.gif" alt="" width="22" height="22" /></td>
+              </tr>
+              <tr>
+                <td class="frameLeft"></td>
+                <td class="thumbPagerCenter"><map name="slideImageMap" id="slideImageMap" style="text-decoration:none">
+  <area shape="rect" coords="0,0,177,400" href="photo115.htm" title="Previous slide" alt="Previous slide" />
+  <area shape="rect" coords="177,0,355,400" href="index.htm" title="Thumbnails" alt="Thumbnails" />
+  <area shape="rect" coords="355,0,533,400" href="photo117.htm" title="Next slide" alt="Next slide" />
+</map>
+			  <img id="lrg_11" src="s_11.jpg" alt="DSCN2965.JPG" usemap="#slideImageMap" border="0" /></td>
+                <td class="frameRight"></td>
+              </tr>
+              <tr>
+                <td><img src="images/big_frame_bl.gif" alt="" width="22" height="22" /></td>
+                <td class="frameBottom"></td>
+                <td><img src="images/big_frame_br.gif" alt="" width="22" height="22" /></td>
+              </tr>
+            </table>
+            <div class="photoName">DSCN2965.JPG</div>			</td>
+			  
+          </tr>
+    </table>
+         </td>
+  </tr>
+  <tr>
+    <td valign="bottom"><div class="text">Created with <a href="http://pho.to/webalbum/"  target="_blank"><img src="http://www.vicman.net/webalbum/images/icon.png" alt="" width="22" height="20" class="alphaPNG" /><span>Photo! Web Album</span></a> by <a href="http://pho.to/about.php"  target="_blank"><span>VicMan Software</span></a></div>
+	</td>
+  </tr>
+</table>
+
+</body>
+</html>

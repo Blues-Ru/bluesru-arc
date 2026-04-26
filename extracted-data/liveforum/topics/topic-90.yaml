@@ -1,0 +1,87 @@
+topic_id: 90
+slug: topic-90
+title: Поделюсь и я...
+first_post: 2002-03-06 00:49
+last_post: 2002-03-07 01:30
+post_count: 5
+posts:
+- id: 1901
+  parent_id: null
+  date: 2002-03-06 00:49
+  poster: Вадим  (AVA)
+  email: vad2908@mail.ru
+  subject: Поделюсь и я...
+  deleted: false
+  text: '...радостью покупок:
+
+    1. Jesse Fortune "Fortune Tellin'' Man" Delmark 1993
+
+    2. Johnny Mars "Can you Hear Me?" B & R Connection 1993
+
+    3. Gary Primich "Company Man" Black Tope 1997
+
+    4. Bryan Lee "Braille Blues Daddy" Justin Time 1994
+
+    5. Mark Hodgson "Extreme Blues" KingSnakeRecords 1997
+
+    6. Hubert Sumlin "Wake Up Call" Blues Planet 1998
+
+    ...цены, правда, загробные, но уж очень хотелося...
+
+    Правда Вам не посоветую - где и как, т.к. больше нету...(пока).
+
+    Вадим.'
+  replies:
+  - id: 1905
+    parent_id: 1901
+    date: 2002-03-06 09:53
+    poster: Sergei  Kiritchenko (VoID)
+    email: skvoid@yahoo.com
+    subject: Хьюберт...
+    deleted: false
+    text: '...обожаю его! Первоклассный гитарист.
+
+      А можно об остальных вкратце, кто такие - что такое, я думаю многим будет интересно
+      узнать...'
+  - id: 1926
+    parent_id: 1901
+    date: 2002-03-06 19:22
+    poster: AlexIV
+    email: evergreens@mail.ru
+    subject: А вот кстати...
+    deleted: false
+    text: '... кое-что кое-где всё-таки есть :-))
+
+      Ты поделись, плиз, впечатлениями от прослушанного. Gary Primich и Hubert Sumlin
+      особливо интересуют (меня) :-)'
+    replies:
+    - id: 1928
+      parent_id: 1926
+      date: 2002-03-06 20:20
+      poster: V.Tsubin (VOVAN)
+      email: vts13@hotmail.com
+      subject: Третьим буду,
+      deleted: false
+      text: кого Hubert Sumlin сильно интересует. Так что колись, Вадим:-)
+    - id: 1936
+      parent_id: 1926
+      date: 2002-03-07 01:30
+      poster: Вадим  (AVA)
+      email: vad2908@mail.ru
+      subject: '...о Гари...'
+      deleted: false
+      text: '...скажу следующее, с первых секунд и до конца диска меня не покидало
+        ощущение (особенно, если закрыть глаза), что музыканты находятся прямо перед
+        тобой...далеко не на всякой студийной работе можно добиться такого живого
+        и яркого звука. Второе, - диск звучит, к сожалению, недолго (всего каких-то
+        46 минут). Очень понравилось.
+
+        Второе, что успел на этот момент послушать целиком - это Mark Hodgson - первое
+        пречатление - хорошо, но Paul Lamb покруче будет, если Вас не покоробит такое
+        сравнение, до остального толком де добрался, дела, мать их, заели, да и аппаратура
+        занята, все хотят кассеты к празднику (сейчас играет Software например), а
+        на компе не слушаю, чтобы не смазывать впечатления.
+
+        Расслушаю - сообчю.
+
+        Вадим.'

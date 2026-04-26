@@ -1,0 +1,42 @@
+topic_id: 378
+slug: topic-378
+title: Просто беда - Луизиану залило
+first_post: 2002-10-04 11:48
+last_post: 2002-10-06 09:34
+post_count: 4
+posts:
+- id: 7937
+  parent_id: null
+  date: 2002-10-04 11:48
+  poster: tigra
+  email: bluesman@tut.by
+  subject: Просто беда - Луизиану залило
+  deleted: false
+  text: 'куда податься бедным блюзменам....
+
+    есть повод для песни'
+  replies:
+  - id: 7939
+    parent_id: 7937
+    date: 2002-10-04 11:50
+    poster: Алексей Аграновский (Док)
+    email: aaa@genebee.msu.su
+    subject: А как Ставропольский край залило
+    deleted: false
+    text: Так это по фигу. Еще одна тема для блюеза.
+    replies:
+    - id: 7941
+      parent_id: 7939
+      date: 2002-10-04 11:55
+      poster: tigra
+      email: bluesman@tut.by
+      subject: там, наверное, другие ценности
+      deleted: false
+      text: и водка дешевле...
+  - id: 7982
+    parent_id: 7937
+    date: 2002-10-06 09:34
+    poster: Malcolm Ray  Redriver (Mike)
+    email: lifebythedrop@yandex.ru
+    subject: Damn
+    deleted: false

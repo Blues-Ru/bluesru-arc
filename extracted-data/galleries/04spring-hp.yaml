@@ -1,0 +1,30 @@
+path: 04Spring/HP
+type: custom
+title: Arsenal
+date: null
+photo_count: 4
+captioned: 0
+index_files:
+- hp.htm
+extra_text: 'Arsenal Arsenal Фотографии &copy; А.Евдокимов Участники фестиваля Blues.Ru в студии Арсенала: москвич Юрий Каверкин
+  и минчанин Валерий Прохожий (Big Val). 1588 X 1920 1 144 KB Участники фестиваля Blues.Ru в студии Арсенала: москвич Юрий
+  Каверкин и минчанин Валерий Прохожий (Big Val). 2560 X 1920 1 848 KB В студии Арсенала Д.Сорокин, минская группа Svet &
+  Al Boogie Band. За пультом - А.Евдокимов. 1302 X 834 949 KB Джимми Ди Лейн в Москве, сентябрь 2003г. 1600 X 1200 963 KB'
+photos:
+- file: Arsenal1.jpg
+  thumb: tn_Arsenal1.jpg
+  page_html: Arsenal1.htm
+- file: Arsenal2.jpg
+  thumb: tn_Arsenal2.jpg
+  page_html: Arsenal2.htm
+- file: Arsenal3.jpg
+  thumb: tn_Arsenal3.jpg
+  page_html: Arsenal3.htm
+- file: DSCN3736.JPG
+  thumb: tn_DSCN3736.jpg
+  page_html: DSCN3736.htm
+canonical_date: 2004-03
+clean_title: Запись на Арсенале, 2004
+slug: arsenal-studio-2004
+description: 'Участники фестиваля Blues.Ru в студии «Арсенал»: Юрий Каверкин, Svet & Al Boogie Band, Валерий Прохожий (Big
+  Val).'

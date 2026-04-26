@@ -1,0 +1,87 @@
+topic_id: 3838
+slug: topic-3838
+title: а мужики-то не знают
+first_post: 2007-12-24 11:58
+last_post: 2008-01-14 12:26
+post_count: 8
+posts:
+- id: 34174
+  parent_id: null
+  date: 2007-12-24 11:58
+  poster: Andrei V. Evdokimov (evdokimov)
+  email: evdokimov@blues.ru
+  subject: а мужики-то не знают
+  deleted: false
+  text: 'я сам только что узнал:
+
+    <a href="http://echo.msk.ru/programs/blues/" target="_blank">http://echo.msk.ru/programs/blues/</a>
+
+    вообще-то, в связи с астрономическими гонорарами и чрезвычайно удобным временем
+    выхода в эфир я давно уже делаю эту передачку "спустя рукава"...
+
+    оказалось, плюю в вечность )))'
+  replies:
+  - id: 34175
+    parent_id: 34174
+    date: 2007-12-24 13:39
+    poster: Старый Майор
+    email: gypsy@mail.ru
+    subject: Андрей, астрономические гонорары - это какой звёздной величины?
+    deleted: false
+    text: '* расчехляет телескоп главного калибра.'
+    replies:
+    - id: 34181
+      parent_id: 34175
+      date: 2007-12-24 20:50
+      poster: Andrei V. Evdokimov (evdokimov)
+      email: evdokimov@blues.ru
+      subject: чехли телескоп взад  обратно
+      deleted: false
+      text: микроскоп доставай
+  - id: 34176
+    parent_id: 34174
+    date: 2007-12-24 13:41
+    poster: Старый Майор
+    email: gypsy@mail.ru
+    subject: Федор, ты RSS на передачу АЕ подцепи на сайт, а?
+    deleted: false
+    text: А то ссылка убежит, и мужики так и останутся в медведении...
+    replies:
+    - id: 34177
+      parent_id: 34176
+      date: 2007-12-24 14:06
+      poster: Федор Романенко (fedor)
+      email: fedor@blues.ru
+      subject: Обязательно!
+      deleted: false
+      text: 'Все будет ;)
+
+        Забавно, я только вчера разобрался, как пользоваться подкастами. Скачал и
+        поставил программу Juice. Теперь пара кликов и все выпуски передачи за последнее
+        время у меня на диске.'
+  - id: 34178
+    parent_id: 34174
+    date: 2007-12-24 14:12
+    poster: Dmitri Kazantsev (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: пора тебе альбомы выпускать!
+    deleted: false
+  - id: 34179
+    parent_id: 34174
+    date: 2007-12-24 15:52
+    poster: D.Jeshkov
+    email: nomail.ru
+    subject: а я знал
+    deleted: false
+    text: Я уже недели 2 оттуда качаю/слушаю )
+  - id: 34310
+    parent_id: 34174
+    date: 2008-01-14 12:26
+    poster: илья верховский
+    email: '...'
+    subject: ай, спасибо! За рукава
+    deleted: false
+    text: 'Мало того, что у нас ЭХО не ловится, а я старый фанат ВЭБ. Так ещё и последний
+      выпуск 13 января:) Это мой день рожденья.
+
+      Спасибо, Андрей и духи, смастерившие аудиовыпуски:)'

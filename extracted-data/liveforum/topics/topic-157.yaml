@@ -1,0 +1,53 @@
+topic_id: 157
+slug: topic-157
+title: оформление форума
+first_post: 2002-04-13 00:18
+last_post: 2002-04-13 20:57
+post_count: 5
+posts:
+- id: 3673
+  parent_id: null
+  date: 2002-04-13 00:18
+  poster: Михаил Бирюков (nECKAPb)
+  email: blackcat@blues.ru
+  subject: оформление форума
+  deleted: false
+  text: Фёдор, надпись NEW хорошо бы сделать фонтом поменьше, чтоб не лупила так по
+    глазам. Возможно, ещё и апперкейсом.
+  replies:
+  - id: 3674
+    parent_id: 3673
+    date: 2002-04-13 01:02
+    poster: Федор Романенко (fedor)
+    email: fedor@blues.ru
+    subject: А их у тебя много?
+    deleted: false
+    text: Надписей NEW ;)
+    replies:
+    - id: 3682
+      parent_id: 3674
+      date: 2002-04-13 16:21
+      poster: Михаил Бирюков (nECKAPb)
+      email: blackcat@blues.ru
+      subject: на данный момент
+      deleted: false
+      text: шесть. Но сегодня суббота, народ не работает, соответственно не пишет
+        в форум ;)
+      replies:
+      - id: 3686
+        parent_id: 3682
+        date: 2002-04-13 18:34
+        poster: Андрей PRG
+        email: peregnoy@mail.ru
+        subject: А сам-то?!... ;)
+        deleted: false
+        text: У меня, кстати, сейчас I-net практически только дома. Так что - вот
+          так!
+      - id: 3688
+        parent_id: 3682
+        date: 2002-04-13 20:57
+        poster: Дима Казанцев (Dr. Nick)
+        email: dr.nick@blues.ru
+        subject: А о чем писАть-то?
+        deleted: false
+        text: Совсем неинтересно стало...

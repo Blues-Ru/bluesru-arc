@@ -1,0 +1,86 @@
+topic_id: 3696
+slug: topic-3696
+title: 'Врядли это так уж важно, но все-таки:'
+first_post: 2007-07-28 16:27
+last_post: 2007-07-30 11:59
+post_count: 8
+posts:
+- id: 33279
+  parent_id: null
+  date: 2007-07-28 16:27
+  poster: Алексей Аграновский (Док)
+  email: aaa@genebee.msu.su
+  subject: 'Врядли это так уж важно, но все-таки:'
+  deleted: false
+  text: "чтобы путаницы стало меньше, а всего хорошего больше. \nВ расписании КАФЕ\
+    \ РОЯЛЬ на сегодня стоит команда Мишуриса, на сайте рояльщиков - Гия. На самом\
+    \ деле будет наша команда Черный Хлеб."
+  replies:
+  - id: 33280
+    parent_id: 33279
+    date: 2007-07-28 17:27
+    poster: прохожий
+    email: jhfksjh@dfdf
+    subject: один хрен
+    deleted: false
+    replies:
+    - id: 33281
+      parent_id: 33280
+      date: 2007-07-28 23:50
+      poster: Andrei V. Evdokimov (evdokimov)
+      email: evdokimov@blues.ru
+      subject: крен не один, но все-таки...
+      deleted: false
+      text: проще было бы мне позвонить, я бы поправил... а так, когда я прочел, было
+        уже поздно и не нужно... однако на первой странице висит прямое доказательство,
+        что все было написано в соответствии с информацией, полученной от клуба.
+  - id: 33282
+    parent_id: 33279
+    date: 2007-07-28 23:57
+    poster: Юрий Каверкин (Gekko)
+    email: strophurus@yandex.ru
+    subject: Смешно......"один хрен - прохожий..."
+    deleted: false
+    replies:
+    - id: 33283
+      parent_id: 33282
+      date: 2007-07-29 02:48
+      poster: Проходил Гена
+      email: gypsy@mail.ru
+      subject: Прохожий, ты не прав!
+      deleted: false
+      text: 'Гия, Док и Мишурис - это три разных Джонсона, а не один!
+
+
+        Сразу вспомнился альбом братьев Сила и Джимми Джонсонов "Two Johnsons Are
+        Better Than One".. кстати, ни у кого нету? Сколько ни искал в Закромах Родины,
+        не нашёл...'
+      replies:
+      - id: 33303
+        parent_id: 33283
+        date: 2007-07-30 08:24
+        poster: Алексей Фролов (Buchothk)
+        email: jokerthk@yandex.ru
+        subject: два джонсона
+        deleted: false
+        text: 'Андрей, кладу тут:
+
+          ftp://share.bluesforum.ru/upload/twojohn.rar
+
+          Альбом интересный, нестандартный, современный. Спорный, но в целом мне понравился.
+          Особенно "I Feel The Pain".'
+        replies:
+        - id: 33305
+          parent_id: 33303
+          date: 2007-07-30 11:59
+          poster: Старый Майор
+          email: gypsy@mail.ru
+          subject: Ай спасибо дорогой! Вах-вах, праздник к нам приехаљ! :)
+          deleted: false
+  - id: 33291
+    parent_id: 33279
+    date: 2007-07-29 04:28
+    poster: Dmitri Kazantsev (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: да ужж :) как у Ильфа-Петрова просто
+    deleted: false

@@ -1,0 +1,37 @@
+topic_id: 17
+slug: topic-17
+title: Oscar Benton
+first_post: 2002-01-30 08:45
+last_post: 2002-01-30 16:55
+post_count: 3
+posts:
+- id: 476
+  parent_id: null
+  date: 2002-01-30 08:45
+  poster: Oleg
+  email: ved@mashzavod.miass.chel.su
+  subject: Oscar Benton
+  deleted: false
+  text: Не могу найти ни какой информации об этом музыканте. Расскажите кто что о
+    нем знает, или кто знает ссылку, где можно о нем прочитать.
+  replies:
+  - id: 485
+    parent_id: 476
+    date: 2002-01-30 16:27
+    poster: Big Papa Hunter
+    email: mmm
+    subject: '...известно что возглавлял "одноименный" бэнд'
+    deleted: false
+    text: "...известно что возглавлял \"одноименный\" бэнд , однако персона малоизвестная,сам\
+      \ он гитарист и вокалист...\n\n сори больше не знаю"
+    replies:
+    - id: 486
+      parent_id: 485
+      date: 2002-01-30 16:55
+      poster: Дима Казанцев
+      email: dr.nick@blues.ru
+      subject: OBBB
+      deleted: false
+      text: 'http://www.allmusic.com/cg/amg.dll?p=amg&sql=B5t68mpe39f6o
+
+        Вот тут посмотри для начала.'

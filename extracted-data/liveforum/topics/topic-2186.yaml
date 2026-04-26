@@ -1,0 +1,63 @@
+topic_id: 2186
+slug: topic-2186
+title: Где скачать блюз ?
+first_post: 2004-07-31 00:34
+last_post: 2004-08-13 13:26
+post_count: 5
+posts:
+- id: 19029
+  parent_id: null
+  date: 2004-07-31 00:34
+  poster: Владимир Карпов (Stratocaster)
+  email: vovak59@mail.ru
+  subject: Где скачать блюз ?
+  deleted: false
+  text: Подскажите пожалуйста кто знает где можно скачать блюз бесплатно? Я пробовал
+    качать на сайте www.bluesbox.ru , но он платный и херовый - закачивается 90% и
+    более а потом и докачка не поддерживается и какие-то ошибки возникают,нельзя до
+    конца закачать песню.
+  replies:
+  - id: 19031
+    parent_id: 19029
+    date: 2004-07-31 02:34
+    poster: Nick Goodcorn
+    email: sunburn2001@mail.ru
+    subject: http://musicmp3.spb.ru/mp3/
+    deleted: false
+  - id: 19033
+    parent_id: 19029
+    date: 2004-08-01 14:06
+    poster: А... Меринов
+    email: ale-merinov@yandex.ru
+    subject: где скачать
+    deleted: false
+    text: 'Я "Opera"пользуюсь (это аж браузер такой-автономная боевая единица):-)
+      Там специальная кнопочка есть- "поиск  с аудио mp3"........... океЯн музыки.........
+      правда,много "демок" секунд по 30, но всё равно- очень быстро,удобно и можно
+      найти удивительные песТни,кавера и всё такое:-)
+
+      есть ещё большой ресурс-www.mp3.com но терзают меня смутные подозрения,что он
+      стал платным...... из отечественных- очень неплохой:http://mp3.int.ru/ так же-в
+      поиске набираешь или исполнителя или название песни-и вперёд......'
+  - id: 19043
+    parent_id: 19029
+    date: 2004-08-04 22:39
+    poster: Andrey
+    email: andrey2002r@mail.ru
+    subject: попробуй от сюда
+    deleted: false
+    text: www.musicmp3.spb.ru все что найдешь все твое
+  - id: 19063
+    parent_id: 19029
+    date: 2004-08-13 13:26
+    poster: НИК
+    email: nick@steelser.ru
+    subject: Блюз тоже есть
+    deleted: false
+    text: 'Довольно известная коллекция mp3
+
+      ftp://mp3.int.ru/pub/mp3
+
+      Шарить нужно по всем дискам (disk1...disk5).
+
+      Удачи!'

@@ -1,0 +1,11 @@
+---
+id: 75
+slug: ronni-erl-vypuskaet-instrumentalnyy-disk-i-feel-like-goin-on
+title: Ронни Ерл выпускает инструментальный диск "I Feel Like Goin' On"
+date: '2003-03-15'
+author: Алексей Калачев
+legacy_path: news/2003/03/ronni-erl-vypuskaet-instrumentalnyy-disk-i-feel-like-goin-on.md
+source: bluesnews.ru
+---
+
+Гитарист Ронни Ерл выпускает очередной инструментальный диск "I Feel Like Goin' On". В продаже он появится 18 марта. Как сообщают, единственный трэк, где будут звучать человеческие голоса, записан совместно с ансамблем "The Silver Leaf Gospel Singers". Альбом будет 18-ым по счету в дискографии ныне мало выступающего из-за проблем со здоровьем музыканта из Бостона.

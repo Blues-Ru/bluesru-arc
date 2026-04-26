@@ -1,0 +1,55 @@
+topic_id: 3720
+slug: topic-3720
+title: '"Российская газета пишет"'
+first_post: 2007-08-14 08:47
+last_post: 2007-08-16 09:24
+post_count: 4
+posts:
+- id: 33377
+  parent_id: null
+  date: 2007-08-14 08:47
+  poster: Dmitri Kazantsev (Dr. Nick)
+  email: dr.nick@blues.ru
+  subject: '"Российская газета пишет"'
+  deleted: false
+  text: '"Ана Попович продолжает неистовые традиции Дженис Джоплин."
+
+
+    Это как так?'
+  replies:
+  - id: 33378
+    parent_id: 33377
+    date: 2007-08-14 12:33
+    poster: (Grem)
+    email: grems@yandex.ru
+    subject: текст
+    deleted: false
+    text: вот этот текст :http://www.rg.ru/2007/08/13/blyuzmeny.html
+    replies:
+    - id: 33384
+      parent_id: 33378
+      date: 2007-08-15 18:53
+      poster: Старый Майор
+      email: gypsy@mail.ru
+      subject: Автор статьи про блюз знает два штампа
+      deleted: false
+      text: 'Автор статьи про блюз знает два штампа:
+
+
+        1) Про хорошему человеку плохо - от цитирования этой фразы у всех хороших
+        людей уже давно рука тянется к пистолету.
+
+        2) Про Дженис Джоплин, которая когда-то пела блюз (и оттого умерла).
+
+
+        А метафора "под восторженными объективами фотокорреспондентов" меня просто
+        потрясла до глубины души.'
+      replies:
+      - id: 33386
+        parent_id: 33384
+        date: 2007-08-16 09:24
+        poster: Валентин
+        email: voshalb@rambler.ru
+        subject: Да уж...
+        deleted: false
+        text: Парни деловито делали свою работу, и все...

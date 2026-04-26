@@ -1,0 +1,34 @@
+topic_id: 1499
+slug: topic-1499
+title: efes blues festival будет в этом году ?
+first_post: 2003-10-02 20:40
+last_post: 2003-10-02 21:23
+post_count: 3
+posts:
+- id: 14955
+  parent_id: null
+  date: 2003-10-02 20:40
+  poster: vic
+  email: vic@drpicture.com
+  subject: efes blues festival будет в этом году ?
+  deleted: false
+  text: кто-нить в курсе?
+  replies:
+  - id: 14957
+    parent_id: 14955
+    date: 2003-10-02 21:21
+    poster: Федор Романенко (fedor)
+    email: fedor@blues.ru
+    subject: Будет!
+    deleted: false
+    text: О чем тут уже спрашивали. По времени, кажется, 14-15-16 ноября в Москве
+      + в 2-3 городах. Приедут Roomful Of Blues, W.C.Clark, Philadelphia Jerry Ricks!!!
+    replies:
+    - id: 14958
+      parent_id: 14957
+      date: 2003-10-02 21:23
+      poster: Андрей Ордальонов (Андрей PRG)
+      email: peregnoy@mail.ru
+      subject: На сайте САЙЛЕНСПРО
+      deleted: false
+      text: http://www.silencepro.ru/anons/efes.php

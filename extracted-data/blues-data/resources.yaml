@@ -1,0 +1,2557 @@
+- artist_id: 2
+  resources:
+  - type_id: 2
+    type_short: Статья
+    url: /bluesmen/Luther_Allison/
+  - type_id: 3
+    type_short: Диски
+    url: /bluesmen/Luther_Allison/#discography
+  - type_id: 4
+    type_short: Фото
+    url: /bluesmen/Luther_Allison/#photo
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/Luther_Allison/
+- artist_id: 3
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/Allman_Brothers/
+  - type_id: 2
+    type_short: Статья
+    url: /bluesmen/Allman_Brothers/shooting.htm
+  - type_id: 6
+    type_short: Тексты
+    url: /bluesmen/Allman_Brothers/lyrics.aspx
+  - type_id: 5
+    type_short: Ноты
+    url: /bluesmen/Allman_Brothers/tabs.aspx
+  - type_id: 10
+    type_short: Интервью
+    url: /bluesmen/Allman_Brothers/allman_14.htm
+- artist_id: 4
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/Billy_Boy_Arnold/
+  - type_id: 7
+    type_short: Музыка
+    url: /bluesmen/Billy_Boy_Arnold/#music
+  - type_id: 12
+    type_short: Справка
+    url: /bluesmen/Billy_Boy_Arnold/ww_ArnoldBB.htm
+  - type_id: 3
+    type_short: Диски
+    url: /bluesmen/Billy_Boy_Arnold/ww_ArnoldBB.htm#discography
+  - type_id: 8
+    type_short: Ссылки
+    url: /bluesmen/Billy_Boy_Arnold/ww_ArnoldBB.htm#links
+- artist_id: 5
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/Chuck_Berry/
+  - type_id: 6
+    type_short: Тексты
+    url: /bluesmen/Chuck_Berry/lyrics.aspx
+  - type_id: 5
+    type_short: Ноты
+    url: /bluesmen/Chuck_Berry/tabs.aspx
+  - type_id: 7
+    type_short: Музыка
+    url: /bluesmen/Chuck_Berry/#music
+- artist_id: 6
+  resources:
+  - type_id: 2
+    type_short: Статья
+    url: /bluesmen/Elvin_Bishop/
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/Elvin_Bishop/
+- artist_id: 7
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/Paul_Black/
+  - type_id: 2
+    type_short: Статья
+    url: /bluesmen/Paul_Black/
+  - type_id: 6
+    type_short: Тексты
+    url: /bluesmen/Paul_Black/lyrics.aspx
+  - type_id: 7
+    type_short: Музыка
+    url: /bluesmen/Paul_Black/#music
+  - type_id: 8
+    type_short: Ссылки
+    url: /bluesmen/Paul_Black/#links
+- artist_id: 8
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/Blind_Boy_Fuller/
+  - type_id: 2
+    type_short: Статья
+    url: /bluesmen/Blind_Boy_Fuller/
+  - type_id: 7
+    type_short: Музыка
+    url: /bluesmen/Blind_Boy_Fuller/
+- artist_id: 9
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/Blues_Brothers/
+  - type_id: 2
+    type_short: Статья
+    url: /bluesmen/Blues_Brothers/
+  - type_id: 3
+    type_short: Диски
+    url: /bluesmen/Blues_Brothers/#discography
+  - type_id: 8
+    type_short: Ссылки
+    url: /bluesmen/Blues_Brothers/#links
+- artist_id: 10
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/Roy_Buchanan/
+  - type_id: 2
+    type_short: Статья
+    url: /bluesmen/Roy_Buchanan/
+  - type_id: 7
+    type_short: Музыка
+    url: /bluesmen/Roy_Buchanan/#music
+  - type_id: 3
+    type_short: Диски
+    url: /bluesmen/Roy_Buchanan/#discography
+- artist_id: 11
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/Vidar_Busk/
+  - type_id: 2
+    type_short: Статья
+    url: /bluesmen/Vidar_Busk/Hero.htm
+  - type_id: 7
+    type_short: Музыка
+    url: /bluesmen/Vidar_Busk/
+- artist_id: 12
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/J_J_Cale/
+  - type_id: 2
+    type_short: Статья
+    url: /bluesmen/J_J_Cale/
+  - type_id: 6
+    type_short: Тексты
+    url: /bluesmen/J_J_Cale/lyrics.aspx
+  - type_id: 3
+    type_short: Диски
+    url: /bluesmen/J_J_Cale/#discography
+- artist_id: 13
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/Eric_Clapton/
+  - type_id: 2
+    type_short: Статья
+    url: /bluesmen/Eric_Clapton/
+  - type_id: 3
+    type_short: Диски
+    url: /bluesmen/Eric_Clapton/#discography
+  - type_id: 6
+    type_short: Тексты
+    url: /bluesmen/Eric_Clapton/lyrics.aspx
+- artist_id: 14
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/William_Clarke/
+  - type_id: 2
+    type_short: Статья
+    url: /bluesmen/William_Clarke/#article
+  - type_id: 12
+    type_short: Справка
+    url: /bluesmen/William_Clarke/#reference
+  - type_id: 7
+    type_short: Музыка
+    url: /bluesmen/William_Clarke/#music
+  - type_id: 3
+    type_short: Диски
+    url: /bluesmen/William_Clarke/#discography
+  - type_id: 10
+    type_short: Интервью
+    url: /bluesnews/11A/Clarke91/Clarke91.htm
+  - type_id: 14
+    type_short: Передача
+    url: /atb/ATB2/atb_21_03_21_Clarke.mp3
+- artist_id: 15
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/Albert_Collins/
+  - type_id: 2
+    type_short: Статья
+    url: /bluesmen/Albert_Collins/
+  - type_id: 6
+    type_short: Тексты
+    url: /bluesmen/Albert_Collins/lyrics.aspx
+  - type_id: 7
+    type_short: Музыка
+    url: /bluesmen/Albert_Collins/#music
+  - type_id: 9
+    type_short: Записи
+    url: /bluesmen/Albert_Collins/#recordings
+- artist_id: 16
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/Johnny_Clyde_Copeland/
+  - type_id: 2
+    type_short: Статья
+    url: /bluesmen/Johnny_Clyde_Copeland/
+  - type_id: 3
+    type_short: Диски
+    url: /bluesmen/Johnny_Clyde_Copeland/#discography
+- artist_id: 17
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/Ry_Cooder/
+  - type_id: 2
+    type_short: Статья
+    url: /bluesmen/Ry_Cooder/
+  - type_id: 3
+    type_short: Диски
+    url: /bluesmen/Ry_Cooder/#discography
+- artist_id: 18
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/Shemekia_Copeland/
+  - type_id: 2
+    type_short: Статья
+    url: /bluesmen/Shemekia_Copeland/
+- artist_id: 19
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/Robert_Cray/
+  - type_id: 2
+    type_short: Статья
+    url: /bluesmen/Robert_Cray/pie.htm
+  - type_id: 6
+    type_short: Тексты
+    url: /bluesmen/Robert_Cray/lyrcis.aspx
+  - type_id: 5
+    type_short: Ноты
+    url: /bluesmen/Robert_Cray/tabs.aspx
+  - type_id: 12
+    type_short: Справка
+    url: /bluesmen/Robert_Cray/ww_CrayR.htm
+  - type_id: 3
+    type_short: Диски
+    url: /bluesmen/Robert_Cray/ww_CrayR.htm#discography
+  - type_id: 8
+    type_short: Ссылки
+    url: /bluesmen/Robert_Cray/ww_CrayR.htm#links
+  - type_id: 10
+    type_short: Интервью
+    url: /bluesmen/Robert_Cray/
+- artist_id: 20
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/Willie_Dixon/
+  - type_id: 2
+    type_short: Статья
+    url: /bluesmen/Willie_Dixon/dixon.htm
+  - type_id: 6
+    type_short: Тексты
+    url: /bluesmen/Willie_Dixon/lyrics.aspx
+  - type_id: 9
+    type_short: Записи
+    url: /bluesmen/Willie_Dixon/dixon.htm#recordings
+  - type_id: 10
+    type_short: Интервью
+    url: /bluesmen/Willie_Dixon/dixonint.htm
+  - type_id: 12
+    type_short: Справка
+    url: /bluesmen/Willie_Dixon/
+  - type_id: 3
+    type_short: Диски
+    url: /bluesmen/Willie_Dixon/#discography
+  - type_id: 8
+    type_short: Ссылки
+    url: /bluesmen/Willie_Dixon/#links
+- artist_id: 21
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/Chris_Duarte/
+  - type_id: 2
+    type_short: Статья
+    url: /bluesmen/Chris_Duarte/
+  - type_id: 10
+    type_short: Интервью
+    url: /bluesmen/Chris_Duarte/
+  - type_id: 12
+    type_short: Справка
+    url: /bluesmen/Chris_Duarte/ww_DuarteC.htm
+  - type_id: 3
+    type_short: Диски
+    url: /bluesmen/Chris_Duarte/ww_DuarteC.htm#discography
+  - type_id: 8
+    type_short: Ссылки
+    url: /bluesmen/Chris_Duarte/ww_DuarteC.htm#links
+  - type_id: 1
+    type_short: Страница
+    url: /bbkingfest/Lefortovo06/index3.htm
+  - type_id: 4
+    type_short: Фото
+    url: /bbkingfest/Lefortovo06/index3.htm
+  - type_id: 12
+    type_short: Справка
+    url: /news/2008/02/11/story380/
+  - type_id: 4
+    type_short: Фото
+    url: /bluesnews/08Winter/08_Duarte/content/index.html
+- artist_id: 23
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/Ronnie_Earl/
+  - type_id: 2
+    type_short: Статья
+    url: /bluesmen/Ronnie_Earl/
+  - type_id: 3
+    type_short: Диски
+    url: /bluesmen/Ronnie_Earl/#discography
+- artist_id: 24
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/Tinsley_Ellis/
+  - type_id: 2
+    type_short: Статья
+    url: /bluesmen/Tinsley_Ellis/
+  - type_id: 11
+    type_short: Цитаты
+    url: /bluesmen/Tinsley_Ellis/ellis-citat.htm
+  - type_id: 3
+    type_short: Диски
+    url: /bluesmen/Tinsley_Ellis/#discography
+  - type_id: 7
+    type_short: Музыка
+    url: /bluesmen/Tinsley_Ellis/#discography
+- artist_id: 25
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/Lowell_Fulson/
+  - type_id: 2
+    type_short: Статья
+    url: /bluesmen/Lowell_Fulson/
+- artist_id: 26
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/Buddy_Guy/
+  - type_id: 2
+    type_short: Статья
+    url: /bluesmen/Buddy_Guy/guy.htm
+  - type_id: 2
+    type_short: Статья
+    url: /bluesmen/Jimi_Hendrix/hendrix_guy.htm
+  - type_id: 3
+    type_short: Диски
+    url: /bluesmen/Buddy_Guy/guydisk.htm
+  - type_id: 11
+    type_short: Цитаты
+    url: /bluesmen/Buddy_Guy/guyplus.htm
+  - type_id: 7
+    type_short: Музыка
+    url: /bluesmen/Buddy_Guy/#music
+  - type_id: 5
+    type_short: Ноты
+    url: /bluesmen/Buddy_Guy/tabs.aspx
+  - type_id: 6
+    type_short: Тексты
+    url: /bluesmen/Buddy_Guy/lyrics.aspx
+  - type_id: 4
+    type_short: Фото
+    url: /bluesmen/Buddy_Guy/#photo
+  - type_id: 10
+    type_short: Интервью
+    url: http://www.blues.ru/news/2012/04/#982
+  - type_id: 14
+    type_short: Передача
+    url: /ATB/atb_20_06_22_BG.mp3
+- artist_id: 27
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/Corey_Harris/
+  - type_id: 2
+    type_short: Статья
+    url: /bluesmen/Corey_Harris/
+  - type_id: 14
+    type_short: Передача
+    url: /atb/atb_16_04_04_Harris_pI.mp3
+  - type_id: 14
+    type_short: Передача
+    url: /atb/atb_16_04_04_Harris_pII.mp3
+  - type_id: 14
+    type_short: Передача
+    url: /ATB/atb_18_01_15_CoreyHarris.mp3
+  - type_id: 14
+    type_short: Передача
+    url: /ATB/atb_18_01_22_CoreyHarris_I.mp3
+  - type_id: 14
+    type_short: Передача
+    url: /ATB/atb_18_01_22_CoreyHarris_II.mp3
+- artist_id: 28
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/Jimi_Hendrix/
+  - type_id: 2
+    type_short: Статья
+    url: /bluesmen/Jimi_Hendrix/legend.htm
+  - type_id: 2
+    type_short: Статья
+    url: /bluesmen/Jimi_Hendrix/article.htm
+  - type_id: 2
+    type_short: Статья
+    url: /bluesmen/Jimi_Hendrix/hendrix_guy.htm
+  - type_id: 3
+    type_short: Диски
+    url: /bluesmen/Jimi_Hendrix/newdisk.htm
+  - type_id: 6
+    type_short: Тексты
+    url: /bluesmen/Jimi_Hendrix/lyrics.aspx
+  - type_id: 5
+    type_short: Ноты
+    url: /bluesmen/Jimi_Hendrix/tabs.aspx
+  - type_id: 7
+    type_short: Музыка
+    url: /bluesmen/Jimi_Hendrix/#music
+  - type_id: 14
+    type_short: Передача
+    url: /ATB/atb_17_11_27_Hendrix_I.mp3
+    name: ВЭБ
+  - type_id: 14
+    type_short: Передача
+    url: /ATB/atb_17_11_27_Hendrix_II.mp3
+    name: ВЭБ
+- artist_id: 29
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/Michael_Hill/
+  - type_id: 2
+    type_short: Статья
+    url: /bluesmen/Michael_Hill/
+- artist_id: 30
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/Dave_Hole/
+  - type_id: 7
+    type_short: Музыка
+    url: /bluesmen/Dave_Hole/
+- artist_id: 32
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/John_Lee_Hooker/
+  - type_id: 2
+    type_short: Статья
+    url: /bluesmen/John_Lee_Hooker/budda.htm
+  - type_id: 2
+    type_short: Статья
+    url: /bluesmen/John_Lee_Hooker/blow_up.htm
+  - type_id: 6
+    type_short: Тексты
+    url: /bluesmen/John_Lee_Hooker/lyrics.aspx
+  - type_id: 5
+    type_short: Ноты
+    url: /bluesmen/John_Lee_Hooker/tabs.aspx
+  - type_id: 7
+    type_short: Музыка
+    url: /bluesmen/John_Lee_Hooker/#music
+- artist_id: 33
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/Lightnin_Hopkins/
+  - type_id: 6
+    type_short: Тексты
+    url: /bluesmen/Lightnin_Hopkins/lyrics.aspx
+  - type_id: 7
+    type_short: Музыка
+    url: /bluesmen/Lightnin_Hopkins/#music
+- artist_id: 35
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/Howlin_Wolf/
+  - type_id: 2
+    type_short: Статья
+    url: /bluesmen/Howlin_Wolf/
+  - type_id: 5
+    type_short: Ноты
+    url: /bluesmen/Howlin_Wolf/tabs.aspx
+  - type_id: 6
+    type_short: Тексты
+    url: /bluesmen/Howlin_Wolf/lyrics.aspx
+  - type_id: 9
+    type_short: Записи
+    url: /bluesmen/Howlin_Wolf/#recordings
+  - type_id: 2
+    type_short: Статья
+    url: /reading/wolf_palmer1.htm
+    name: Хрестоматия
+  - type_id: 2
+    type_short: Статья
+    url: /reading/wolf_palmer2.htm
+    name: Хрестоматия
+- artist_id: 36
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/Elmore_James/
+  - type_id: 7
+    type_short: Музыка
+    url: /bluesmen/Elmore_James/#music
+  - type_id: 6
+    type_short: Тексты
+    url: /bluesmen/Elmore_James/lyrics.aspx
+  - type_id: 5
+    type_short: Ноты
+    url: /bluesmen/Elmore_James/tabs.aspx
+  - type_id: 12
+    type_short: Справка
+    url: /bluesmen/Elmore_James/ww_JamesEl.htm
+  - type_id: 3
+    type_short: Диски
+    url: /bluesmen/Elmore_James/ww_JamesEl.htm#discography
+  - type_id: 8
+    type_short: Ссылки
+    url: /bluesmen/Elmore_James/ww_JamesEl.htm#links
+  - type_id: 4
+    type_short: Фото
+    url: /bluesmen/Elmore_James/ww_JamesEl.htm
+- artist_id: 37
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/Blind_Lemon_Jefferson/
+  - type_id: 2
+    type_short: Статья
+    url: /bluesmen/Blind_Lemon_Jefferson/
+- artist_id: 38
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/Robert_Johnson/
+  - type_id: 6
+    type_short: Тексты
+    url: /bluesmen/Robert_Johnson/lyrics.aspx
+  - type_id: 5
+    type_short: Ноты
+    url: /bluesmen/Robert_Johnson/tabs.aspx
+  - type_id: 7
+    type_short: Музыка
+    url: /bluesmen/Robert_Johnson/#music
+  - type_id: 9
+    type_short: Записи
+    url: /bluesmen/Robert_Johnson/#recordings
+- artist_id: 39
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/Albert_King/
+  - type_id: 2
+    type_short: Статья
+    url: /bluesmen/Albert_King/
+  - type_id: 6
+    type_short: Тексты
+    url: /bluesmen/Albert_King/lyrics.aspx
+  - type_id: 5
+    type_short: Ноты
+    url: /bluesmen/Albert_King/tabs.aspx
+  - type_id: 9
+    type_short: Записи
+    url: /bluesmen/Albert_King/#recordings
+  - type_id: 10
+    type_short: Интервью
+    url: http://community.livejournal.com/blues_ukraine/1710.html#cutid1
+- artist_id: 40
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/BB_King/
+  - type_id: 10
+    type_short: Интервью
+    url: /bluesmen/BB_King/bbinterv.htm
+  - type_id: 5
+    type_short: Ноты
+    url: /bluesmen/BB_King/tabs.aspx
+  - type_id: 6
+    type_short: Тексты
+    url: /bluesmen/BB_King/lyrics.aspx
+  - type_id: 9
+    type_short: Записи
+    url: /bluesmen/BB_King/#recordings
+  - type_id: 4
+    type_short: Фото
+    url: /bluesmen/BB_King/#photo
+- artist_id: 41
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/Freddie_King/
+  - type_id: 2
+    type_short: Статья
+    url: /bluesmen/Freddie_King/
+  - type_id: 5
+    type_short: Ноты
+    url: /bluesmen/Freddie_King/tabs.aspx
+  - type_id: 9
+    type_short: Записи
+    url: /bluesmen/Freddie_King/#recordings
+- artist_id: 42
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/Alexis_Korner/
+  - type_id: 2
+    type_short: Статья
+    url: /bluesmen/Alexis_Korner/
+  - type_id: 3
+    type_short: Диски
+    url: /bluesmen/Alexis_Korner/#discography
+  - type_id: 2
+    type_short: Статья
+    url: /bluesmen/Alexis_Korner/Alexis_Korner_Blues_Inc.aspx
+  - type_id: 3
+    type_short: Диски
+    url: /bluesmen/Alexis_Korner/Alexis_Korner_Blues_Inc.aspx#discography
+- artist_id: 43
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/Johnny_Lang/
+  - type_id: 4
+    type_short: Фото
+    url: /bluesmen/Johnny_Lang/#photo
+- artist_id: 45
+  resources:
+  - type_id: 2
+    type_short: Статья
+    url: /bluesmen/Long_John_Hunter/
+  - type_id: 7
+    type_short: Музыка
+    url: /bluesmen/Long_John_Hunter/#music
+  - type_id: 12
+    type_short: Справка
+    url: /efes/longjohn.asp
+  - type_id: 10
+    type_short: Интервью
+    url: /bluesnews/00Autumn/00EfesHunter.htm
+- artist_id: 46
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/Doug_MacLeod/
+  - type_id: 2
+    type_short: Статья
+    url: /bluesmen/Doug_MacLeod/
+  - type_id: 7
+    type_short: Музыка
+    url: /bluesmen/Doug_MacLeod/
+  - type_id: 3
+    type_short: Диски
+    url: /bluesmen/Doug_MacLeod/#discography
+- artist_id: 47
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/John_Mayall/
+  - type_id: 2
+    type_short: Статья
+    url: /bluesmen/John_Mayall/
+  - type_id: 10
+    type_short: Интервью
+    url: /bluesmen/John_Mayall/John_Mayall_int.htm
+  - type_id: 3
+    type_short: Диски
+    url: /bluesmen/John_Mayall/#discography
+  - type_id: 2
+    type_short: Статья
+    url: /bluesmen/John_Mayall/kalachev.aspx
+  - type_id: 2
+    type_short: Статья
+    url: /ww/Mayall60.zip
+  - type_id: 4
+    type_short: Фото
+    url: /bluesnews/_14/14_10_13_Mayall/
+- artist_id: 48
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/Brownie_McGhee/
+  - type_id: 2
+    type_short: Статья
+    url: /bluesmen/Brownie_McGhee/
+- artist_id: 49
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/Keb_Mo/
+  - type_id: 2
+    type_short: Статья
+    url: /bluesmen/Keb_Mo/
+  - type_id: 10
+    type_short: Интервью
+    url: /news/2015/06/#1078
+- artist_id: 50
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/Coco_Montoya/
+  - type_id: 2
+    type_short: Статья
+    url: /bluesmen/Coco_Montoya/
+  - type_id: 2
+    type_short: Статья
+    url: /bluesmen/Coco_Montoya/Coco_Montoya_article.htm
+  - type_id: 4
+    type_short: Фото
+    url: /bluesnews/11B/11_09_29_Montoya/
+- artist_id: 51
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/Gary_Moore/
+  - type_id: 2
+    type_short: Статья
+    url: /bluesmen/Gary_Moore/moore.htm
+  - type_id: 3
+    type_short: Диски
+    url: /bluesmen/Gary_Moore/mooredis.htm
+  - type_id: 7
+    type_short: Музыка
+    url: /bluesmen/Gary_Moore/#music
+  - type_id: 8
+    type_short: Ссылки
+    url: /bluesmen/Gary_Moore/#links
+  - type_id: 10
+    type_short: Интервью
+    url: /news/?p=201010#833
+    name: Мур в России 2010
+- artist_id: 52
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/Kenny_Neal/
+  - type_id: 2
+    type_short: Статья
+    url: /bluesmen/Kenny_Neal/
+- artist_id: 53
+  resources:
+  - type_id: 2
+    type_short: Статья
+    url: /bluesmen/Pinetop_Perkins/Perkins_Sumlin.htm
+  - type_id: 12
+    type_short: Справка
+    url: /news/?p=201103#907
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/Pinetop_Perkins/
+  - type_id: 12
+    type_short: Справка
+    url: /news/?p=201103#903
+    name: Некролог
+- artist_id: 54
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/Lonnie_Pitchford/
+  - type_id: 2
+    type_short: Статья
+    url: /bluesmen/Lonnie_Pitchford/
+- artist_id: 55
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/Lucky_Peterson/
+  - type_id: 2
+    type_short: Статья
+    url: /bluesmen/Lucky_Peterson/#article
+  - type_id: 10
+    type_short: Интервью
+    url: /bluesmen/Lucky_Peterson/
+  - type_id: 2
+    type_short: Статья
+    url: /news/?p=201012#854
+- artist_id: 57
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/Jimmy_Reed/
+  - type_id: 2
+    type_short: Статья
+    url: /bluesmen/Jimmy_Reed/
+  - type_id: 14
+    type_short: Передача
+    url: http://blues.ru/atb/atb_15_09_Jimmy%20Reed_I.mp3
+  - type_id: 14
+    type_short: Передача
+    url: http://blues.ru/atb/atb_15_09_Jimmy%20Reed_II.mp3
+- artist_id: 58
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/Jimmy_Rogers/
+  - type_id: 6
+    type_short: Тексты
+    url: /bluesmen/Jimmy_Rogers/lyrics.aspx
+  - type_id: 14
+    type_short: Передача
+    url: /atb/JR_90/JR_90.html
+- artist_id: 59
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/Otis_Rush/
+  - type_id: 2
+    type_short: Статья
+    url: /bluesmen/Otis_Rush/RushGrammy.htm
+  - type_id: 2
+    type_short: Статья
+    url: /bluesmen/Otis_Rush/
+  - type_id: 10
+    type_short: Интервью
+    url: /bluesmen/Otis_Rush/Rush1993.htm
+- artist_id: 60
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/Son_Seals/
+  - type_id: 2
+    type_short: Статья
+    url: /bluesmen/Son_Seals/
+- artist_id: 61
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/Kenny_Wayne_Shepherd/
+  - type_id: 2
+    type_short: Статья
+    url: /bluesmen/Kenny_Wayne_Shepherd/#article
+  - type_id: 7
+    type_short: Музыка
+    url: /bluesmen/Kenny_Wayne_Shepherd/#music
+  - type_id: 6
+    type_short: Тексты
+    url: /bluesmen/Kenny_Wayne_Shepherd/lyrics.aspx
+  - type_id: 10
+    type_short: Интервью
+    url: /bluesnews/10Summer/KWS10/KWS10.htm
+- artist_id: 62
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/Pinetop_Perkins/Perkins_Sumlin.htm
+  - type_id: 2
+    type_short: Статья
+    url: /bluesmen/Pinetop_Perkins/Perkins_Sumlin.htm
+- artist_id: 63
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/Koko_Taylor/
+  - type_id: 8
+    type_short: Ссылки
+    url: http://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BA%D0%BE_%D0%A2%D0%B5%D0%B9%D0%BB%D0%BE%D1%80
+    name: Ру.Википедия
+- artist_id: 64
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/Taj_Mahal/
+  - type_id: 2
+    type_short: Статья
+    url: /bluesmen/Taj_Mahal/
+  - type_id: 14
+    type_short: Передача
+    url: /ATB/atb_17_05_15_TajMahal_I.mp3
+  - type_id: 14
+    type_short: Передача
+    url: /ATB/atb_17_05_15_TajMahal_II.mp3
+  - type_id: 4
+    type_short: Фото
+    url: http://blues.ru/bluesnews/_13/TM_2013/
+- artist_id: 65
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/T-Bone_Walker/
+  - type_id: 2
+    type_short: Статья
+    url: /bluesmen/T-Bone_Walker/
+  - type_id: 2
+    type_short: Статья
+    url: /bluesmen/T-Bone_Walker/#article2
+  - type_id: 7
+    type_short: Музыка
+    url: /bluesmen/T-Bone_Walker/#music
+  - type_id: 6
+    type_short: Тексты
+    url: /bluesmen/T-Bone_Walker/lyrics.aspx
+  - type_id: 9
+    type_short: Записи
+    url: /bluesmen/T-Bone_Walker/#recordings
+- artist_id: 66
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/Jimmie_Vaughan/
+  - type_id: 2
+    type_short: Статья
+    url: /bluesmen/Jimmie_Vaughan/
+  - type_id: 3
+    type_short: Диски
+    url: /bluesmen/Jimmie_Vaughan/#discography
+  - type_id: 12
+    type_short: Справка
+    url: /bluesmen/Jimmie_Vaughan/ww_VaughanJ.htm
+  - type_id: 8
+    type_short: Ссылки
+    url: /bluesmen/Jimmie_Vaughan/ww_VaughanJ.htm#links
+- artist_id: 67
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/Stevie_Ray_Vaughan/
+  - type_id: 2
+    type_short: Статья
+    url: /bluesmen/Stevie_Ray_Vaughan/Stevie_Ray_Vaughan_article.htm
+  - type_id: 6
+    type_short: Тексты
+    url: /bluesmen/Stevie_Ray_Vaughan/lyrics.aspx
+  - type_id: 5
+    type_short: Ноты
+    url: /bluesmen/Stevie_Ray_Vaughan/tabs.aspx
+  - type_id: 7
+    type_short: Музыка
+    url: /bluesmen/Stevie_Ray_Vaughan/#music
+  - type_id: 9
+    type_short: Записи
+    url: /bluesmen/Stevie_Ray_Vaughan/#recordings
+  - type_id: 4
+    type_short: Фото
+    url: /bluesmen/Stevie_Ray_Vaughan/#photo
+- artist_id: 68
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/Little_Walter/
+  - type_id: 6
+    type_short: Тексты
+    url: /bluesmen/Little_Walter/lyrics.aspx
+  - type_id: 9
+    type_short: Записи
+    url: /bluesmen/Little_Walter/#recordings
+- artist_id: 69
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/Muddy_Waters/
+  - type_id: 2
+    type_short: Статья
+    url: /bluesmen/Muddy_Waters/hut.htm
+  - type_id: 6
+    type_short: Тексты
+    url: /bluesmen/Muddy_Waters/lyrics.aspx
+  - type_id: 5
+    type_short: Ноты
+    url: /bluesmen/Muddy_Waters/tabs.aspx
+  - type_id: 7
+    type_short: Музыка
+    url: /bluesmen/Muddy_Waters/#music
+  - type_id: 2
+    type_short: Статья
+    url: /bluesmen/Muddy_Waters/Margolin.htm
+  - type_id: 2
+    type_short: Статья
+    url: http://blues.ru/reading/MuddyGordon1.html
+    name: Хрестоматия
+  - type_id: 9
+    type_short: Записи
+    url: http://youtu.be/jmUhqUwmX9Q
+    name: концерт 1974 г.
+  - type_id: 10
+    type_short: Интервью
+    url: http://www.blues.ru/reading/RP01.htm
+- artist_id: 70
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/Junior_Wells/
+  - type_id: 6
+    type_short: Тексты
+    url: /bluesmen/Junior_Wells/lyrics.aspx
+  - type_id: 7
+    type_short: Музыка
+    url: /bluesmen/Junior_Wells/#music
+- artist_id: 71
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/Joe_Williams/
+  - type_id: 2
+    type_short: Статья
+    url: /bluesmen/Joe_Williams/
+- artist_id: 72
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/Sonny_Boy_Williamson/
+  - type_id: 6
+    type_short: Тексты
+    url: /bluesmen/Sonny_Boy_Williamson/lyrics.aspx
+  - type_id: 7
+    type_short: Музыка
+    url: /bluesmen/Sonny_Boy_Williamson/#music
+  - type_id: 9
+    type_short: Записи
+    url: /bluesmen/Sonny_Boy_Williamson/#recordings
+- artist_id: 73
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/Johnny_Winter/
+  - type_id: 5
+    type_short: Ноты
+    url: /bluesmen/Johnny_Winter/tabs.aspx
+  - type_id: 9
+    type_short: Записи
+    url: /bluesmen/Johnny_Winter/#recordings
+  - type_id: 10
+    type_short: Интервью
+    url: /bluesnews/10Spring/WinterInt10/WinterInt10.html
+    name: '2010'
+- artist_id: 74
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/Jimmy_Witherspoon/
+  - type_id: 2
+    type_short: Статья
+    url: /bluesmen/Jimmy_Witherspoon/
+  - type_id: 3
+    type_short: Диски
+    url: /bluesmen/Jimmy_Witherspoon/#guide
+- artist_id: 75
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/Mighty_Joe_Young/
+  - type_id: 2
+    type_short: Статья
+    url: /bluesmen/Mighty_Joe_Young/
+- artist_id: 76
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/Mike_Bloomfield/
+  - type_id: 12
+    type_short: Справка
+    url: /bluesmen/Mike_Bloomfield/
+  - type_id: 3
+    type_short: Диски
+    url: /bluesmen/Mike_Bloomfield/#discography
+  - type_id: 8
+    type_short: Ссылки
+    url: /bluesmen/Mike_Bloomfield/#links
+  - type_id: 4
+    type_short: Фото
+    url: /bluesmen/Mike_Bloomfield/
+  - type_id: 2
+    type_short: Статья
+    url: http://finam.fm/archive-view/1259/
+    name: '"Историческая справедливость" АРУТЮНОВА'
+- artist_id: 77
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/Lonnie_Brooks/
+  - type_id: 12
+    type_short: Справка
+    url: /bluesmen/Lonnie_Brooks/
+  - type_id: 3
+    type_short: Диски
+    url: /bluesmen/Lonnie_Brooks/#discography
+  - type_id: 8
+    type_short: Ссылки
+    url: /bluesmen/Lonnie_Brooks/#links
+- artist_id: 78
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/Big_Bill_Broonzy/
+  - type_id: 12
+    type_short: Справка
+    url: /bluesmen/Big_Bill_Broonzy/
+  - type_id: 3
+    type_short: Диски
+    url: /bluesmen/Big_Bill_Broonzy/#discography
+- artist_id: 79
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/Clarence_Gatemouth_Brown/
+  - type_id: 12
+    type_short: Справка
+    url: /bluesmen/Clarence_Gatemouth_Brown/
+  - type_id: 3
+    type_short: Диски
+    url: /bluesmen/Clarence_Gatemouth_Brown/#discography
+  - type_id: 8
+    type_short: Ссылки
+    url: /bluesmen/Clarence_Gatemouth_Brown/#links
+- artist_id: 80
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/Ruth_Brown/
+  - type_id: 12
+    type_short: Справка
+    url: /bluesmen/Ruth_Brown/
+  - type_id: 3
+    type_short: Диски
+    url: /bluesmen/Ruth_Brown/#discography
+  - type_id: 8
+    type_short: Ссылки
+    url: /bluesmen/Ruth_Brown/#links
+- artist_id: 81
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/RL_Burnside/
+  - type_id: 12
+    type_short: Справка
+    url: /bluesmen/RL_Burnside/
+  - type_id: 3
+    type_short: Диски
+    url: /bluesmen/RL_Burnside/#discography
+  - type_id: 8
+    type_short: Ссылки
+    url: /bluesmen/RL_Burnside/#links
+- artist_id: 82
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/Paul_Butterfield/
+  - type_id: 12
+    type_short: Справка
+    url: /bluesmen/Paul_Butterfield/
+  - type_id: 3
+    type_short: Диски
+    url: /bluesmen/Paul_Butterfield/#discography
+  - type_id: 8
+    type_short: Ссылки
+    url: /bluesmen/Paul_Butterfield/#links
+- artist_id: 83
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/John_Campbell/
+  - type_id: 12
+    type_short: Справка
+    url: /bluesmen/John_Campbell/
+  - type_id: 3
+    type_short: Диски
+    url: /bluesmen/John_Campbell/#discography
+  - type_id: 8
+    type_short: Ссылки
+    url: /bluesmen/John_Campbell/#links
+- artist_id: 84
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/Canned_Heat/
+  - type_id: 12
+    type_short: Справка
+    url: /bluesmen/Canned_Heat/
+  - type_id: 3
+    type_short: Диски
+    url: /bluesmen/Canned_Heat/#discography
+  - type_id: 8
+    type_short: Ссылки
+    url: /bluesmen/Canned_Heat/#links
+- artist_id: 85
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/Tommy_Castro/
+  - type_id: 12
+    type_short: Справка
+    url: /bluesmen/Tommy_Castro/
+  - type_id: 3
+    type_short: Диски
+    url: /bluesmen/Tommy_Castro/#discography
+  - type_id: 8
+    type_short: Ссылки
+    url: /bluesmen/Tommy_Castro/#links
+  - type_id: 10
+    type_short: Интервью
+    url: /bluesnews/10Spring/castro/castroint.htm
+- artist_id: 86
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/Jennie_Jimmy_Cheatham/
+  - type_id: 12
+    type_short: Справка
+    url: /bluesmen/Jennie_Jimmy_Cheatham/
+  - type_id: 3
+    type_short: Диски
+    url: /bluesmen/Jennie_Jimmy_Cheatham/#discography
+- artist_id: 87
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/Clifton_Chenier/
+  - type_id: 12
+    type_short: Справка
+    url: /bluesmen/Clifton_Chenier/
+  - type_id: 3
+    type_short: Диски
+    url: /bluesmen/Clifton_Chenier/#discography
+  - type_id: 8
+    type_short: Ссылки
+    url: /bluesmen/Clifton_Chenier/#links
+- artist_id: 88
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/James_Cotton/
+  - type_id: 3
+    type_short: Диски
+    url: /bluesmen/James_Cotton/#discography
+  - type_id: 8
+    type_short: Ссылки
+    url: /bluesmen/James_Cotton/#links
+  - type_id: 12
+    type_short: Справка
+    url: /bluesmen/James_Cotton/James_Cotton2.aspx
+  - type_id: 12
+    type_short: Справка
+    url: /bluesmen/James_Cotton/
+  - type_id: 7
+    type_short: Музыка
+    url: /bluesmen/James_Cotton/#music
+  - type_id: 10
+    type_short: Интервью
+    url: http://blues.ru/news/?p=200807#500
+- artist_id: 90
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/Arthur_Crudup/
+  - type_id: 12
+    type_short: Справка
+    url: /bluesmen/Arthur_Crudup/
+  - type_id: 3
+    type_short: Диски
+    url: /bluesmen/Arthur_Crudup/#discography
+  - type_id: 6
+    type_short: Тексты
+    url: /bluesmen/Arthur_Crudup/
+  - type_id: 8
+    type_short: Ссылки
+    url: /bluesmen/Arthur_Crudup/#links
+- artist_id: 92
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/Rory_Gallagher/
+  - type_id: 12
+    type_short: Справка
+    url: /bluesmen/Rory_Gallagher/
+  - type_id: 3
+    type_short: Диски
+    url: /bluesmen/Rory_Gallagher/#discography
+  - type_id: 8
+    type_short: Ссылки
+    url: /bluesmen/Rory_Gallagher/#links
+- artist_id: 93
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/Harmonica_Fats/
+  - type_id: 12
+    type_short: Справка
+    url: /bluesmen/Harmonica_Fats/
+- artist_id: 94
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/Clarence_Hollimon/
+  - type_id: 12
+    type_short: Справка
+    url: /bluesmen/Clarence_Hollimon/
+  - type_id: 3
+    type_short: Диски
+    url: /bluesmen/Clarence_Hollimon/#discography
+- artist_id: 95
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/Michael_Cub_Koda/
+  - type_id: 7
+    type_short: Музыка
+    url: /bluesmen/Michael_Cub_Koda/
+  - type_id: 12
+    type_short: Справка
+    url: /bluesmen/Michael_Cub_Koda/
+- artist_id: 96
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/LilEd_Williams/
+  - type_id: 12
+    type_short: Справка
+    url: /bluesmen/LilEd_Williams/
+  - type_id: 3
+    type_short: Диски
+    url: /bluesmen/LilEd_Williams/#discography
+  - type_id: 7
+    type_short: Музыка
+    url: /bluesmen/LilEd_Williams/
+  - type_id: 8
+    type_short: Ссылки
+    url: /bluesmen/LilEd_Williams/#links
+  - type_id: 4
+    type_short: Фото
+    url: /bluesnews/08Autumn/Lefortovo/Q_LilEd/
+  - type_id: 4
+    type_short: Фото
+    url: /bluesnews/_16/16_06_10_Lil_Ed/
+- artist_id: 97
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/Louisiana_Red/
+  - type_id: 12
+    type_short: Справка
+    url: /bluesmen/Louisiana_Red/
+  - type_id: 7
+    type_short: Музыка
+    url: /bluesmen/Louisiana_Red/
+  - type_id: 3
+    type_short: Диски
+    url: /bluesmen/Louisiana_Red/#discography
+  - type_id: 8
+    type_short: Ссылки
+    url: /bluesmen/Louisiana_Red/#links
+- artist_id: 98
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/Charlie_Musselwhite/
+  - type_id: 12
+    type_short: Справка
+    url: /bluesmen/Charlie_Musselwhite/
+  - type_id: 3
+    type_short: Диски
+    url: /bluesmen/Charlie_Musselwhite/#discography
+  - type_id: 8
+    type_short: Ссылки
+    url: /bluesmen/Charlie_Musselwhite/#links
+  - type_id: 12
+    type_short: Справка
+    url: /bluesmen/Charlie_Musselwhite/Charlie_Musselwhite2.aspx
+  - type_id: 10
+    type_short: Интервью
+    url: /bluesmen/Charlie_Musselwhite/Charlie_Musselwhite_interview.htm
+- artist_id: 99
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/Pops_Staples/
+  - type_id: 12
+    type_short: Справка
+    url: /bluesmen/Pops_Staples/
+  - type_id: 10
+    type_short: Интервью
+    url: /bluesmen/Pops_Staples/ww_StaplesP1.htm
+  - type_id: 7
+    type_short: Музыка
+    url: /bluesmen/Pops_Staples/
+  - type_id: 3
+    type_short: Диски
+    url: /bluesmen/Pops_Staples/#discography
+- artist_id: 100
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/Johnnie_Taylor/
+  - type_id: 12
+    type_short: Справка
+    url: /bluesmen/Johnnie_Taylor/
+  - type_id: 3
+    type_short: Диски
+    url: /bluesmen/Johnnie_Taylor/#discography
+- artist_id: 102
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/Johnny_Big_Moose_Walker/
+  - type_id: 12
+    type_short: Справка
+    url: /bluesmen/Johnny_Big_Moose_Walker/
+  - type_id: 3
+    type_short: Диски
+    url: /bluesmen/Johnny_Big_Moose_Walker/#discography
+- artist_id: 103
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /label/Chess/
+  - type_id: 12
+    type_short: Справка
+    url: /label/Chess/
+  - type_id: 3
+    type_short: Диски
+    url: /label/Chess/#discography
+  - type_id: 8
+    type_short: Ссылки
+    url: /label/Chess/#links
+- artist_id: 104
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /label/Alligator/
+  - type_id: 12
+    type_short: Справка
+    url: /label/Alligator/
+  - type_id: 3
+    type_short: Диски
+    url: /label/Alligator/#discography
+  - type_id: 8
+    type_short: Ссылки
+    url: /label/Alligator/#links
+  - type_id: 10
+    type_short: Интервью
+    url: /bluesnews/_16/Alligator_XLV/Iglauer_2016.htm
+  - type_id: 14
+    type_short: Передача
+    url: /ATB/atb_16_07_11_Alligator_pI.mp3
+  - type_id: 14
+    type_short: Передача
+    url: /ATB/atb_16_07_11_Alligator_pII.mp3
+- artist_id: 109
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/Little_Charlie/
+  - type_id: 2
+    type_short: Статья
+    url: /bluesmen/Little_Charlie/
+  - type_id: 3
+    type_short: Диски
+    url: /bluesmen/Little_Charlie/#discography
+  - type_id: 10
+    type_short: Интервью
+    url: /bluesmen/Little_Charlie/Little_Charlie_interview.htm
+- artist_id: 112
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/Rick_Holmstrom/
+  - type_id: 2
+    type_short: Статья
+    url: /bluesmen/Rick_Holmstrom/
+  - type_id: 10
+    type_short: Интервью
+    url: /bluesmen/Rick_Holmstrom/Rick_Holmstrom_interview.htm
+- artist_id: 116
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/Amund_Maarud/
+  - type_id: 7
+    type_short: Музыка
+    url: /bluesmen/Amund_Maarud/#music
+  - type_id: 2
+    type_short: Статья
+    url: /bluesmen/Amund_Maarud/
+  - type_id: 2
+    type_short: Статья
+    url: /bluesmen/Amund_Maarud/gigsreviews.htm
+    name: 'Статья #2'
+- artist_id: 117
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/WC_Handy/
+  - type_id: 12
+    type_short: Справка
+    url: /bluesmen/WC_Handy/
+  - type_id: 3
+    type_short: Диски
+    url: /bluesmen/WC_Handy/#discography
+- artist_id: 118
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/Carlos_Del_Junco/
+  - type_id: 2
+    type_short: Статья
+    url: /bluesmen/Carlos_Del_Junco/
+  - type_id: 3
+    type_short: Диски
+    url: /bluesmen/Carlos_Del_Junco/ww_Junco.htm#discography
+  - type_id: 7
+    type_short: Музыка
+    url: /bluesmen/Carlos_Del_Junco/
+  - type_id: 12
+    type_short: Справка
+    url: /bluesmen/Carlos_Del_Junco/ww_Junco.htm
+- artist_id: 119
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/Champion_Jack_Dupree/
+  - type_id: 12
+    type_short: Справка
+    url: /bluesmen/Champion_Jack_Dupree/
+  - type_id: 3
+    type_short: Диски
+    url: /bluesmen/Champion_Jack_Dupree/#discography
+  - type_id: 8
+    type_short: Ссылки
+    url: /bluesmen/Champion_Jack_Dupree/#links
+  - type_id: 7
+    type_short: Музыка
+    url: /bluesmen/Champion_Jack_Dupree/
+- artist_id: 120
+  resources:
+  - type_id: 2
+    type_short: Статья
+    url: /bluesmen/Screamin_Jay_Hawkins/hawkins1.htm
+- artist_id: 121
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/Dave_Specter/
+  - type_id: 10
+    type_short: Интервью
+    url: /bluesmen/Dave_Specter/
+  - type_id: 2
+    type_short: Статья
+    url: /bluesmen/Dave_Specter/
+- artist_id: 122
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/Noel_Redding/
+  - type_id: 10
+    type_short: Интервью
+    url: /bluesmen/Noel_Redding/
+  - type_id: 4
+    type_short: Фото
+    url: /bluesmen/Noel_Redding/#photo
+- artist_id: 123
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/Junior_Watson/
+  - type_id: 2
+    type_short: Статья
+    url: /bluesmen/Junior_Watson/#article
+  - type_id: 10
+    type_short: Интервью
+    url: /bluesmen/Junior_Watson/#interview
+  - type_id: 3
+    type_short: Диски
+    url: /bluesmen/Junior_Watson/#discography
+- artist_id: 124
+  resources:
+  - type_id: 10
+    type_short: Интервью
+    url: /bluesmen/Kid_Ramos/
+- artist_id: 125
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/Knockout_Greg/
+  - type_id: 10
+    type_short: Интервью
+    url: /bluesmen/Knockout_Greg/Knockout_Greg_interview.htm
+- artist_id: 127
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/Paul_Lamb/
+  - type_id: 2
+    type_short: Статья
+    url: /bluesmen/Paul_Lamb/
+- artist_id: 128
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/Duke_Robillard/
+  - type_id: 10
+    type_short: Интервью
+    url: /bluesmen/Duke_Robillard/
+  - type_id: 2
+    type_short: Статья
+    url: /bluesmen/Duke_Robillard/
+- artist_id: 129
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/Kim_Wilson/
+  - type_id: 10
+    type_short: Интервью
+    url: /bluesmen/Kim_Wilson/
+- artist_id: 130
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/Jimmy_D_Lane/
+  - type_id: 2
+    type_short: Статья
+    url: /bluesmen/Jimmy_D_Lane/
+  - type_id: 4
+    type_short: Фото
+    url: /bluesnews/03Autumn/RBK2/OB_RBK.htm
+  - type_id: 4
+    type_short: Фото
+    url: /bluesnews/03Autumn/OBForteDL/OBForte8.htm
+  - type_id: 4
+    type_short: Фото
+    url: /bluesnews/03Autumn/OBDinamo/OBDinamo.htm
+- artist_id: 131
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/BB_The_Blues_Shacks/
+  - type_id: 2
+    type_short: Статья
+    url: /bluesmen/BB_The_Blues_Shacks/
+- artist_id: 132
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/Alex_Schultz/
+  - type_id: 2
+    type_short: Статья
+    url: /bluesmen/Alex_Schultz/
+  - type_id: 10
+    type_short: Интервью
+    url: /bluesmen/Alex_Schultz/
+  - type_id: 4
+    type_short: Фото
+    url: /bsfest/gallery/list.aspx
+- artist_id: 133
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/WC_Clark/
+  - type_id: 10
+    type_short: Интервью
+    url: /bluesmen/WC_Clark/
+  - type_id: 12
+    type_short: Справка
+    url: /efes/wcclark.htm
+- artist_id: 134
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/Peter_Green/
+  - type_id: 2
+    type_short: Статья
+    url: /bluesmen/Peter_Green/
+  - type_id: 3
+    type_short: Диски
+    url: /bluesmen/Peter_Green/#discography
+- artist_id: 135
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/Deborah_Coleman/
+  - type_id: 12
+    type_short: Справка
+    url: /bluesmen/Deborah_Coleman/
+  - type_id: 3
+    type_short: Диски
+    url: /bluesmen/Deborah_Coleman/#discography
+- artist_id: 137
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/Gary_Primich/
+  - type_id: 2
+    type_short: Статья
+    url: /bluesmen/Gary_Primich/
+  - type_id: 10
+    type_short: Интервью
+    url: /bluesmen/Gary_Primich/Gary_Primich_interview.htm
+  - type_id: 3
+    type_short: Диски
+    url: /bluesmen/Gary_Primich/#discography
+  - type_id: 2
+    type_short: Статья
+    url: /bluesmen/Gary_Primich/EJ-evdokimov.aspx
+  - type_id: 4
+    type_short: Фото
+    url: /bluesnews/04Winter/0124P/0124Primich.htm
+  - type_id: 4
+    type_short: Фото
+    url: /bluesnews/04Winter/0124P/0124Primich1.htm
+  - type_id: 4
+    type_short: Фото
+    url: /bluesnews/04Winter/B2/PrimichB2.htm
+    name: Москва, 2004
+  - type_id: 1
+    type_short: Страница
+    url: /bluesnews/04Winter/Primich.htm
+    name: Репортаж о концекртах в Москве
+  - type_id: 4
+    type_short: Фото
+    url: /bluesnews/04Winter/0123P/0123P.htm
+- artist_id: 139
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/John_Hammond/
+  - type_id: 2
+    type_short: Статья
+    url: /bluesmen/John_Hammond/
+- artist_id: 140
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/Dr_John/
+  - type_id: 2
+    type_short: Статья
+    url: /bluesmen/Dr_John/
+  - type_id: 2
+    type_short: Статья
+    url: /bluesmen/Dr_John/DrJohnHOB.htm
+- artist_id: 141
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/Eirik_Bergene/
+  - type_id: 7
+    type_short: Музыка
+    url: /bluesmen/Eirik_Bergene/#music
+  - type_id: 4
+    type_short: Фото
+    url: /bluesmen/Eirik_Bergene/#photo
+- artist_id: 143
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/Kid_Andersen/
+  - type_id: 2
+    type_short: Статья
+    url: /bluesmen/Kid_Andersen/
+- artist_id: 145
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /label/Blues_Leaf/
+  - type_id: 10
+    type_short: Интервью
+    url: /label/Blues_Leaf/
+- artist_id: 146
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/James_Harman/
+  - type_id: 2
+    type_short: Статья
+    url: /bluesmen/James_Harman/
+  - type_id: 10
+    type_short: Интервью
+    url: /bluesmen/James_Harman/James_Harman_interview.htm
+- artist_id: 147
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/Billy_Branch/
+  - type_id: 12
+    type_short: Справка
+    url: /bluesmen/Billy_Branch/
+- artist_id: 148
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/Johnny_Dyer/
+  - type_id: 12
+    type_short: Справка
+    url: /bluesmen/Johnny_Dyer/
+- artist_id: 149
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/Raful_Neal/
+  - type_id: 12
+    type_short: Справка
+    url: /bluesmen/Raful_Neal/
+- artist_id: 150
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/Sam_Myers/
+  - type_id: 12
+    type_short: Справка
+    url: /bluesmen/Sam_Myers/
+- artist_id: 151
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/Snooky_Pryor/
+  - type_id: 12
+    type_short: Справка
+    url: /bluesmen/Snooky_Pryor/
+- artist_id: 152
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/Sonny_Terry/
+  - type_id: 12
+    type_short: Справка
+    url: /bluesmen/Sonny_Terry/
+- artist_id: 153
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/Sugar_Ray_Norcia/
+  - type_id: 12
+    type_short: Справка
+    url: /bluesmen/Sugar_Ray_Norcia/
+- artist_id: 155
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/Blues_Harp_Melt_Down/
+  - type_id: 2
+    type_short: Статья
+    url: /bluesmen/Blues_Harp_Melt_Down/
+  - type_id: 7
+    type_short: Музыка
+    url: /bluesmen/Blues_Harp_Melt_Down/#music
+- artist_id: 156
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/Govt_Mule/
+- artist_id: 160
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/Snooks_Eaglin/
+  - type_id: 2
+    type_short: Статья
+    url: /bluesmen/Snooks_Eaglin/
+  - type_id: 3
+    type_short: Диски
+    url: /bluesmen/Snooks_Eaglin/
+- artist_id: 167
+  resources:
+  - type_id: 7
+    type_short: Музыка
+    url: http://www.echo.msk.ru/att/element-497058-snd1-blyz.mp3
+    name: ВЭБ о West Side Strut
+  - type_id: 10
+    type_short: Интервью
+    url: /efes/eddyint.asp
+    name: Интервью для Blues.Ru
+  - type_id: 1
+    type_short: Страница
+    url: /efes/clearwater.asp
+  - type_id: 12
+    type_short: Справка
+    url: /news/2016/08/#1096
+  - type_id: 4
+    type_short: Фото
+    url: /bluesnews/_16/16_06_12_Clearwater/index.htm
+- artist_id: 176
+  resources:
+  - type_id: 4
+    type_short: Фото
+    url: /bluesnews/_16/16_06_10_LilEd_Siegel/
+- artist_id: 180
+  resources:
+  - type_id: 12
+    type_short: Справка
+    url: /bluesnews/Long_John_Baldry/ww_BaldryLJ.htm
+    name: ATB's Who is Who о Лонг Джоне Болдри
+- artist_id: 189
+  resources:
+  - type_id: 13
+    type_short: Некролог
+    url: /news/?p=201201#976
+- artist_id: 194
+  resources:
+  - type_id: 2
+    type_short: Статья
+    url: /efes/o_taylor.asp
+    name: Отис Тейлор - участник 12th Efes Pilsener BF '01
+  - type_id: 2
+    type_short: Статья
+    url: /news/?iid=450
+    name: Recapturing the Banjo,
+- artist_id: 203
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/Arsen_Shomakhov/
+  - type_id: 10
+    type_short: Интервью
+    url: /bluesmen/Arsen_Shomakhov/
+  - type_id: 4
+    type_short: Фото
+    url: http://www.blues.ru/bluesnews/11B/Arsen_11/index.htm
+    name: '2011'
+- artist_id: 204
+  resources:
+  - type_id: 2
+    type_short: Статья
+    url: /bluesmen/Wilson_Pickett/
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/Wilson_Pickett/
+- artist_id: 209
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/Jan_Akkerman/
+  - type_id: 2
+    type_short: Статья
+    url: /bluesmen/Jan_Akkerman/
+  - type_id: 2
+    type_short: Статья
+    url: /bluesmen/Jan_Akkerman/#article2
+- artist_id: 210
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/Lurrie_Bell/
+  - type_id: 2
+    type_short: Статья
+    url: /bluesmen/Lurrie_Bell/
+  - type_id: 2
+    type_short: Статья
+    url: /bluesmen/Lurrie_Bell/#article2
+  - type_id: 4
+    type_short: Фото
+    url: http://marianner.livejournal.com/652230.html
+- artist_id: 215
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: http://www.blues.ru/bluesmen/Michael_Cub_Koda/
+    name: справка
+- artist_id: 216
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/Jay_McShann/
+  - type_id: 2
+    type_short: Статья
+    url: /bluesmen/Jay_McShann/
+- artist_id: 217
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/Tramp/
+  - type_id: 2
+    type_short: Статья
+    url: /bluesmen/Tramp/
+- artist_id: 218
+  resources:
+  - type_id: 4
+    type_short: Фото
+    url: http://www.blues.ru/bluesnews/08Spring/JJM/content/index.html
+- artist_id: 220
+  resources:
+  - type_id: 4
+    type_short: Фото
+    url: http://blues.ru/bluesnews/_13/13_04_10_MBM/index.html
+- artist_id: 221
+  resources:
+  - type_id: 4
+    type_short: Фото
+    url: /bluesnews/08Autumn/Lefortovo/Q_Sardinas/
+    name: В Лефортово (Москва), 2008 г.
+- artist_id: 222
+  resources:
+  - type_id: 14
+    type_short: Передача
+    url: http://www.echo.msk.ru/programs/razvorot/1049604-echo/#video
+    name: На "Эхо Москвы", 10.IV.2013
+  - type_id: 14
+    type_short: Передача
+    url: /atb/atb_15_11_30_GuyDavis_PI.mp3
+    name: '2015'
+  - type_id: 14
+    type_short: Передача
+    url: /atb/atb_15_11_30_GuyDavis_PII.mp3
+    name: '2015'
+  - type_id: 4
+    type_short: Фото
+    url: /bluesnews/_18/18_03_24_Guy_Davis/
+    name: '2013'
+- artist_id: 225
+  resources:
+  - type_id: 14
+    type_short: Передача
+    url: /atb/atb_15_09_07_MemphisSlim_I.mp3
+    name: часть I
+  - type_id: 14
+    type_short: Передача
+    url: /atb/atb_15_09_07_MemphisSlim_II.mp3
+    name: часть II
+  - type_id: 14
+    type_short: Передача
+    url: /atb/atb_15_09_14_MemphisSlim_III.mp3
+    name: часть III
+  - type_id: 14
+    type_short: Передача
+    url: /atb/atb_15_09_14_MemphisSlim_IV.mp3
+    name: часть IV
+- artist_id: 230
+  resources:
+  - type_id: 14
+    type_short: Передача
+    url: /ATB/ATB2/atb_21_08_02_LonnieMack.mp3
+- artist_id: 235
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/John_Dummer/
+  - type_id: 2
+    type_short: Статья
+    url: /bluesmen/John_Dummer/
+  - type_id: 3
+    type_short: Диски
+    url: /bluesmen/John_Dummer/#cds
+- artist_id: 237
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/Norwegian_Blues_Explosion/
+  - type_id: 2
+    type_short: Статья
+    url: /bluesmen/Norwegian_Blues_Explosion/
+- artist_id: 242
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/Pera_Joe/
+  - type_id: 2
+    type_short: Статья
+    url: /bluesmen/Pera_Joe/
+  - type_id: 12
+    type_short: Справка
+    url: /news/?iid=383
+  - type_id: 4
+    type_short: Фото
+    url: \/bluesnews/05Spring/PeraJoe/index.htm
+    name: 2005 г.
+  - type_id: 4
+    type_short: Фото
+    url: /bluesnews/03Spring/KrK/index.htm
+    name: 2003 г.
+- artist_id: 245
+  resources:
+  - type_id: 2
+    type_short: Статья
+    url: /news/2017/11/#1106
+    name: Концерт в Москев в 2017 году
+- artist_id: 246
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/Fleetwood_Mac/
+- artist_id: 250
+  resources:
+  - type_id: 2
+    type_short: Статья
+    url: /lessons/brozman_tip_slide.htm
+    name: Советы по игре слайдом
+  - type_id: 2
+    type_short: Статья
+    url: /news/2005/05/03/story183/
+    name: Анонс к приезду в Москву
+  - type_id: 2
+    type_short: Статья
+    url: /forum/topic2578
+    name: Форум по выступлению Брозмана
+  - type_id: 4
+    type_short: Фото
+    url: /bluesnews/05Spring/Broz/roadh05.htm
+    name: В "Доме у Дороги" 2005
+- artist_id: 252
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/Nick_Moss/
+  - type_id: 2
+    type_short: Статья
+    url: /bluesmen/Nick_Moss/
+- artist_id: 255
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/Avery_Parish/
+  - type_id: 2
+    type_short: Статья
+    url: /bluesmen/Avery_Parish/
+- artist_id: 257
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: http://blues.ru/efes/holmesbr.asp
+    name: Пресс-релиз к фестивалю Efes Blues 2000
+  - type_id: 10
+    type_short: Интервью
+    url: /bluesnews/00Autumn/00EfesHolmes.htm
+    name: Интервью программе ВЭБ 2000 г.
+  - type_id: 4
+    type_short: Фото
+    url: /bluesnews/00Autumn/00EfesJ.htm
+    name: Efes Blues Jam Session
+  - type_id: 2
+    type_short: Статья
+    url: /bluesnews/00Autumn/00Efes1.htm
+    name: Рецензия на выступление на Efes Blues 2000
+  - type_id: 13
+    type_short: Некролог
+    url: /news/2015/01/13/story1066/
+    name: Памяти Попси Диксона
+- artist_id: 259
+  resources:
+  - type_id: 4
+    type_short: Фото
+    url: http://www.blues.ru/nbf/gallery/list.aspx?s=jfh&y=2004
+    name: NBF
+  - type_id: 10
+    type_short: Интервью
+    url: /news/2016/03/#1091
+- artist_id: 262
+  resources:
+  - type_id: 10
+    type_short: Интервью
+    url: http://www.blues.ru/news/?p=200807#520
+- artist_id: 266
+  resources:
+  - type_id: 8
+    type_short: Ссылки
+    url: http://blues.ru/news/?p=200806#482
+    name: Новости
+  - type_id: 8
+    type_short: Ссылки
+    url: http://blues.ru/news/?p=200806#498
+    name: Новости
+- artist_id: 268
+  resources:
+  - type_id: 10
+    type_short: Интервью
+    url: http://www.blues.ru/forum/topic5088
+- artist_id: 270
+  resources:
+  - type_id: 2
+    type_short: Статья
+    url: http://www.blues.ru/efes/bobbyrush.asp
+  - type_id: 10
+    type_short: Интервью
+    url: http://www.blues.ru/efes/rushint.asp
+- artist_id: 304
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/Enrico_Crivellaro/
+  - type_id: 2
+    type_short: Статья
+    url: /bluesmen/Enrico_Crivellaro/
+  - type_id: 10
+    type_short: Интервью
+    url: /bluesmen/Enrico_Crivellaro/Enrico_Crivellaro_interview.htm
+- artist_id: 307
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/Tad_Robinson/
+  - type_id: 2
+    type_short: Статья
+    url: /bluesmen/Tad_Robinson/
+- artist_id: 316
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/Joe_Bonamassa/
+    name: Интервью, март 2010 г.
+  - type_id: 10
+    type_short: Интервью
+    url: /bluesmen/Joe_Bonamassa/
+  - type_id: 4
+    type_short: Фото
+    url: /bluesnews/07automn/bonamassa07/index.html
+    name: Joe Bonamassa at MMDM, 2007
+  - type_id: 12
+    type_short: Справка
+    url: /news/?p=201102#887
+    name: В новостях
+  - type_id: 14
+    type_short: Передача
+    url: /ATB/atb_17_05_08_BonamassaI.mp3
+  - type_id: 14
+    type_short: Передача
+    url: /ATB/atb_17_05_08_BonamassaII.mp3
+- artist_id: 317
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/Steve_Baker/
+  - type_id: 2
+    type_short: Статья
+    url: /bluesmen/Steve_Baker/
+  - type_id: 4
+    type_short: Фото
+    url: /bluesnews/09Spring/BC_dud/
+    name: Фоторепортажи из "Дома у Дороги" (6.07.09)
+  - type_id: 4
+    type_short: Фото
+    url: /bluesnews/09Spring/BC_BBK/
+    name: Фоторепортажи из "B.B.King" (7.07.09) .
+- artist_id: 319
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/Mud_Morganfield/
+  - type_id: 10
+    type_short: Интервью
+    url: /bluesmen/Mud_Morganfield/
+  - type_id: 4
+    type_short: Фото
+    url: /bluesnews/09Winter/Mud09/
+    name: Mud Morganfield & Kingsize. 17.X.2009. Cotton Club, Moscow.
+- artist_id: 321
+  resources:
+  - type_id: 10
+    type_short: Интервью
+    url: /bluesmen/Rick_Estrin/
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/Rick_Estrin/
+- artist_id: 326
+  resources:
+  - type_id: 14
+    type_short: Передача
+    url: /ATB/atb_18_10_29_Hummel.mp3
+  - type_id: 4
+    type_short: Фото
+    url: /bluesnews/_18/18_11_11_Mark_Hummel/
+  - type_id: 4
+    type_short: Фото
+    url: /bluesnews/_18/18_11_10_MarkHummel/
+- artist_id: 327
+  resources:
+  - type_id: 12
+    type_short: Справка
+    url: /afisha/YoungZ.htm
+- artist_id: 328
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/Lazy_Lester/
+  - type_id: 2
+    type_short: Статья
+    url: /bluesmen/Lazy_Lester/
+  - type_id: 4
+    type_short: Фото
+    url: http://www.blues.ru/bluesnews/10Spring/lazy/
+  - type_id: 4
+    type_short: Фото
+    url: /bluesnews/_16/LL/index.html
+- artist_id: 337
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/Billy_T_Band/
+  - type_id: 2
+    type_short: Статья
+    url: /bluesmen/Billy_T_Band/
+- artist_id: 340
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/Joe_Louis_Walker/
+  - type_id: 10
+    type_short: Интервью
+    url: /bluesmen/Joe_Louis_Walker/
+- artist_id: 343
+  resources:
+  - type_id: 12
+    type_short: Справка
+    url: /afisha/PRIMERJ.htm
+  - type_id: 10
+    type_short: Интервью
+    url: http://www.blues.ru/news/2005/10/15/story234/
+  - type_id: 4
+    type_short: Фото
+    url: /bluesnews/05Fall/Primer_rh.htm
+  - type_id: 4
+    type_short: Фото
+    url: /bluesnews/05Fall/Primer_cdh/Primer_CDH.htm
+  - type_id: 2
+    type_short: Статья
+    url: /atb/John_Primer/Primer_prru.htm
+  - type_id: 2
+    type_short: Статья
+    url: /news/2005/08/31/story208/
+- artist_id: 344
+  resources:
+  - type_id: 12
+    type_short: Справка
+    url: /afisha/TailDragger.aspx
+  - type_id: 4
+    type_short: Фото
+    url: /bluesnews/07automn/Tail/content/index.html
+  - type_id: 4
+    type_short: Фото
+    url: /bluesnews/TailDragger2016/index.htm
+- artist_id: 345
+  resources:
+  - type_id: 8
+    type_short: Ссылки
+    url: http://www.rollingstones.com/
+    name: Официальный сайт
+- artist_id: 347
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /news/?p=201010#832
+    name: ZZ Top в Москве 2010
+- artist_id: 351
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/JW-Jones/
+  - type_id: 10
+    type_short: Интервью
+    url: /bluesmen/JW-Jones/
+- artist_id: 352
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /news/?p=201103#902
+- artist_id: 353
+  resources:
+  - type_id: 2
+    type_short: Статья
+    url: /news/?p=201102#889
+- artist_id: 359
+  resources:
+  - type_id: 4
+    type_short: Фото
+    url: /news/2008/03/31/story423/
+    name: Walter Trout в Москве
+  - type_id: 10
+    type_short: Интервью
+    url: /news/2015/06/#1081
+- artist_id: 376
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/Bob_Margolin/
+  - type_id: 4
+    type_short: Фото
+    url: /bluesnews/_12A/12_09_20_Margolin/
+  - type_id: 14
+    type_short: Передача
+    url: /ATB/atb_18_08_05_Margolin_WLCI_internet.mp3
+  - type_id: 14
+    type_short: Передача
+    url: /ATB/atb_18_08_05_Margolin_WLC_II_internet.mp3
+  - type_id: 10
+    type_short: Интервью
+    url: /bluesmen/Muddy_Waters/Margolin.htm
+    name: Bob Margolin o Muddy Waters
+  - type_id: 10
+    type_short: Интервью
+    url: /bluesmen/James_Harman/James_Harman_interview.htm
+    name: Bob Margolin o James Harman
+- artist_id: 381
+  resources:
+  - type_id: 4
+    type_short: Фото
+    url: /bluesnews/_18/18_09_29_ChrisCain/
+- artist_id: 397
+  resources:
+  - type_id: 13
+    type_short: Некролог
+    url: /news/?p=201203#981
+- artist_id: 405
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/Kirk_Fletcher/
+  - type_id: 10
+    type_short: Интервью
+    url: /bluesmen/Kirk_Fletcher/
+- artist_id: 411
+  resources:
+  - type_id: 10
+    type_short: Интервью
+    url: http://www.blues.ru/news/2013/06/#1019
+  - type_id: 4
+    type_short: Фото
+    url: http://www.blues.ru/bluesnews/_13/13_06_02_Hugh_Laurie
+- artist_id: 415
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/Etta_Baker/
+  - type_id: 2
+    type_short: Статья
+    url: /bluesmen/Etta_Baker/
+  - type_id: 10
+    type_short: Интервью
+    url: /bluesmen/Etta_Baker/
+- artist_id: 422
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/Deitra_Farr/
+  - type_id: 4
+    type_short: Фото
+    url: /bluesnews/_14/14_03_28_Farr/
+  - type_id: 4
+    type_short: Фото
+    url: /bluesnews/_14/Deitra%20FARR/
+  - type_id: 10
+    type_short: Интервью
+    url: /bluesmen/Deitra_Farr/farr2012.htm
+  - type_id: 14
+    type_short: Передача
+    url: /atb/atb_DeitraFarr_24_03_14_2.mp3
+  - type_id: 14
+    type_short: Передача
+    url: /atb/atb_DeitraFarr_24_03_14_1.mp3
+- artist_id: 423
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/Boogie_Bill_Webb/
+  - type_id: 12
+    type_short: Справка
+    url: /bluesmen/Boogie_Bill_Webb/
+- artist_id: 424
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/Frank_Edwards/
+  - type_id: 12
+    type_short: Справка
+    url: /bluesmen/Frank_Edwards/
+- artist_id: 428
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/Larry_McCray/
+  - type_id: 2
+    type_short: Статья
+    url: /bluesmen/Larry_McCray/
+- artist_id: 429
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/Lazy_Bill_Lucas/
+  - type_id: 2
+    type_short: Статья
+    url: /bluesmen/Lazy_Bill_Lucas/
+- artist_id: 431
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/Steve_Freund/
+    name: Steve Freund
+- artist_id: 437
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: Bob_Stroger/
+  - type_id: 14
+    type_short: Передача
+    url: /bluesmen/Bob_Stroger/atb_stroger.htm
+  - type_id: 11
+    type_short: Цитаты
+    url: /forum/topic3391
+  - type_id: 4
+    type_short: Фото
+    url: /bluesnews/_15/StrogerOmar/index.html
+  - type_id: 9
+    type_short: Записи
+    url: http://www.youtube.com/watch?v=uQajCxkkLTM
+  - type_id: 4
+    type_short: Фото
+    url: /bluesnews/bbk_stroger/
+  - type_id: 3
+    type_short: Диски
+    url: http://blues.ru/data/albumview.aspx?cdid=1993
+- artist_id: 444
+  resources:
+  - type_id: 1
+    type_short: Страница
+    url: /bluesmen/Barbara_Dane/
+  - type_id: 2
+    type_short: Статья
+    url: /bluesmen/Barbara_Dane/
+- artist_id: 447
+  resources:
+  - type_id: 4
+    type_short: Фото
+    url: /bluesnews/_15/15_10_28_KW/
+    name: Клуб Kozloff, Moscow, 28.10.2015
+  - type_id: 4
+    type_short: Фото
+    url: /bluesnews/_15/15_10_30_KW2/
+    name: BB King Club, Moscow, 30.10.2015
+  - type_id: 14
+    type_short: Передача
+    url: /atb/atb_15_10_12.mp3
+    name: Часть I
+  - type_id: 14
+    type_short: Передача
+    url: /atb/atb_15_10_12_2.mp3
+    name: Часть II
+  - type_id: 14
+    type_short: Передача
+    url: /atb/atb_16_05_23_Kenny_Wayne_I.mp3
+    name: Interview Часть I
+  - type_id: 1
+    type_short: Страница
+    url: /bluesnews/_15/Wayne.htm
+  - type_id: 14
+    type_short: Передача
+    url: /atb/atb_16_05_23_Kenny_Wayne_II.mp3
+    name: Interview Часть II
+- artist_id: 459
+  resources:
+  - type_id: 4
+    type_short: Фото
+    url: http://www.blues.ru/bluesnews/07Leto/guyphil/content/index.html

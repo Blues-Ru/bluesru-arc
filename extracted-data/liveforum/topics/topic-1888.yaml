@@ -1,0 +1,64 @@
+topic_id: 1888
+slug: topic-1888
+title: еще чуть фоток норвегов :)
+first_post: 2004-02-24 23:15
+last_post: 2004-02-25 17:11
+post_count: 7
+posts:
+- id: 17347
+  parent_id: null
+  date: 2004-02-24 23:15
+  poster: vr  (Stone Crazy)
+  email: volodya@blues.ru
+  subject: еще чуть фоток норвегов :)
+  deleted: false
+  text: http://www.bluescats.ru/files/20040221-22/
+  replies:
+  - id: 17352
+    parent_id: 17347
+    date: 2004-02-25 09:25
+    poster: John John (John)
+    email: ssy@ac.com.ru
+    subject: кажется я знаю этого норвежского гитариста
+    deleted: false
+    text: http://www.bluescats.ru/files/20040221-22/IMG_0991.jpg
+    replies:
+    - id: 17354
+      parent_id: 17352
+      date: 2004-02-25 10:51
+      poster: vr
+      email: volodya@blues.ru
+      subject: ну он уже много знает по норвежски то...
+      deleted: false
+      replies:
+      - id: 17355
+        parent_id: 17354
+        date: 2004-02-25 11:01
+        poster: (Grem)
+        email: sergei.sergeev@emersonprocess.ru
+        subject: характер нордический, настоящий викинг....
+        deleted: false
+        replies:
+        - id: 17358
+          parent_id: 17355
+          date: 2004-02-25 12:39
+          poster: Dima Krasivov (Dima)
+          email: dima@blues.ru
+          subject: Точно! Норвежский не знаю, но по норвежски умею... ;) (-)
+          deleted: false
+  - id: 17360
+    parent_id: 17347
+    date: 2004-02-25 17:11
+    poster: Slavik Chernov (Blacky)
+    email: Blacky@softhome.net
+    subject: И еще чуток
+    deleted: false
+    replies:
+    - id: 17361
+      parent_id: 17360
+      date: 2004-02-25 17:11
+      poster: Slavik Chernov (Blacky)
+      email: Blacky@softhome.net
+      subject: И еще чуток
+      deleted: false
+      text: http://195.54.210.179/photos/erik220204/erik220204.htm

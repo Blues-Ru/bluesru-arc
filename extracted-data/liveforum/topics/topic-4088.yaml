@@ -1,0 +1,43 @@
+topic_id: 4088
+slug: topic-4088
+title: видео
+first_post: 2008-09-15 22:20
+last_post: 2008-09-16 01:40
+post_count: 4
+posts:
+- id: 35783
+  parent_id: null
+  date: 2008-09-15 22:20
+  poster: Andrei V. Evdokimov (evdokimov)
+  email: evdokimov@blues.ru
+  subject: видео
+  deleted: false
+  text: <a href="http://www.youtube.com/watch?v=-mjcWTPEQLc">http://www.youtube.com/watch?v=-mjcWTPEQLc</a>
+    -
+  replies:
+  - id: 35784
+    parent_id: 35783
+    date: 2008-09-15 23:25
+    poster: BOODOOOLAI
+    email: timot@mail.ru
+    subject: Спасибо, Андрей.
+    deleted: false
+  - id: 35785
+    parent_id: 35783
+    date: 2008-09-16 01:04
+    poster: Игорь Г.
+    email: sunny_city@mail.ru
+    subject: Ступор, радость и боль одновременно.
+    deleted: false
+    text: Только что зашел на "Одноклассников". Увидел фотку Света и мигающую надпись"На
+      сайте". Всё перемешалось.Мгновенье. Просто Татьяна Тихомирова сделала себе заглавной
+      фотку Света. Зачем? Странно как-то. Ну да Бог ей судья.
+    replies:
+    - id: 35787
+      parent_id: 35785
+      date: 2008-09-16 01:40
+      poster: Игорь Г.
+      email: sunny_city@mail.ru
+      subject: переместите плз. как не имеющее отношение к указанному видео. Нервы.
+      deleted: false
+      text: Отдельным постом по-возможности.

@@ -1,0 +1,52 @@
+topic_id: 1315
+slug: topic-1315
+title: Где закачать blues в mp3?
+first_post: 2003-08-10 23:39
+last_post: 2003-08-13 15:45
+post_count: 5
+posts:
+- id: 13535
+  parent_id: null
+  date: 2003-08-10 23:39
+  poster: Олег Угаров (nazareth)
+  email: nazareth@t50.ru
+  subject: Где закачать blues в mp3?
+  deleted: false
+  text: Ноут недавно!
+  replies:
+  - id: 13536
+    parent_id: 13535
+    date: 2003-08-11 00:12
+    poster: Дима Казанцев (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: http://mp3.int.ru/directory.html
+    deleted: false
+    text: http://mp3.int.ru/directory.html
+  - id: 13566
+    parent_id: 13535
+    date: 2003-08-11 23:33
+    poster: Алексей Меринов
+    email: notdrink@ntl.ru
+    subject: скачать
+    deleted: false
+    text: mp3.com,находишь там ссылку на "blues"- там есть и всякие подкатегории......завтра
+      ишшо сброшу,шшшас не помню,под рукой нетути:=((
+    replies:
+    - id: 13581
+      parent_id: 13566
+      date: 2003-08-12 23:29
+      poster: Алексей Меринов
+      email: notdrink@ntl.ru
+      subject: продолжаем качать:-)
+      deleted: false
+      text: 'http://www.musicmp3.spb.ru/
+
+        http://mp3.int.ru/( тут всё вперемешку,но можно кое что найти интересное)'
+      replies:
+      - id: 13587
+        parent_id: 13581
+        date: 2003-08-13 15:45
+        poster: Старый Майор
+        email: gypsy@mail.ru
+        subject: А я не унываю, качаю и качаю.. )))
+        deleted: false

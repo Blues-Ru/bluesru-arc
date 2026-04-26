@@ -1,0 +1,26 @@
+topic_id: 2127
+slug: topic-2127
+title: Blacky, с ДР тебя!
+first_post: 2004-06-04 02:45
+last_post: 2004-06-04 09:15
+post_count: 2
+posts:
+- id: 18609
+  parent_id: null
+  date: 2004-06-04 02:45
+  poster: Андрей Ордальонов (Андрей PRG)
+  email: peregnoy@mail.ru
+  subject: Blacky, с ДР тебя!
+  deleted: false
+  text: хоть он уже и прошёл (для тех кто не знает - 2.06) ;)
+  replies:
+  - id: 18611
+    parent_id: 18609
+    date: 2004-06-04 09:15
+    poster: Slavik Chernov (Blacky)
+    email: Blacky@softhome.net
+    subject: Спасибо.
+    deleted: false
+    text: 'Спасибо, Андрей :-)
+
+      Прошел спокойно без пьянок и бурных отмечаний.'

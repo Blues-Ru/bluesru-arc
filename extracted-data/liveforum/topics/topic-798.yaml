@@ -1,0 +1,25 @@
+topic_id: 798
+slug: topic-798
+title: Завтра в JVL-е похоже будет весело. Да еще и водки с пивом по флаеру нальют
+  если не врут.
+first_post: 2003-04-29 14:15
+last_post: 2003-04-29 22:31
+post_count: 2
+posts:
+- id: 12148
+  parent_id: null
+  date: 2003-04-29 14:15
+  poster: Игорь Головачев (Игорь Г.)
+  email: sunny_city@mail.ru
+  subject: Завтра в JVL-е похоже будет весело. Да еще и водки с пивом по флаеру нальют
+    если не врут.
+  deleted: false
+  text: Дополнительная инфа на blues-cousins.ru
+  replies:
+  - id: 12158
+    parent_id: 12148
+    date: 2003-04-29 22:31
+    poster: Старый Майор
+    email: gypsy@mail.ru
+    subject: А может лучше просто водки с пивом, и никакого JVL в нагрузку? ))
+    deleted: false

@@ -1,0 +1,24 @@
+topic_id: 3744
+slug: topic-3744
+title: Starwars + Sonny Terry
+first_post: 2007-09-26 12:28
+last_post: 2007-10-02 23:59
+post_count: 2
+posts:
+- id: 33552
+  parent_id: null
+  date: 2007-09-26 12:28
+  poster: Barzini
+  email: zloybarzini@yandex.ru
+  subject: Starwars + Sonny Terry
+  deleted: false
+  text: http://www.yaplakal.com/forum28/topic152906.html
+  replies:
+  - id: 33578
+    parent_id: 33552
+    date: 2007-10-02 23:59
+    poster: Bluser
+    email: bluser@rambler.ru
+    subject: клёво!!!
+    deleted: false
+    text: :)))))))

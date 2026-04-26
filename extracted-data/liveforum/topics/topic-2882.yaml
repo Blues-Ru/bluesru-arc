@@ -1,0 +1,37 @@
+topic_id: 2882
+slug: topic-2882
+title: Won't you please, please, help me?!
+first_post: 2005-10-26 12:37
+last_post: 2005-10-26 13:16
+post_count: 3
+posts:
+- id: 24100
+  parent_id: null
+  date: 2005-10-26 12:37
+  poster: Александр Гостюжев (Ghost)
+  email: vst1876@yandex.ru
+  subject: Won't you please, please, help me?!
+  deleted: false
+  text: 'Народ,
+
+    а нет ли, случайно, ни у кого 2-х лишних билетов на Efes Blues на Пятницу?
+
+    Очень надо...'
+  replies:
+  - id: 24101
+    parent_id: 24100
+    date: 2005-10-26 12:46
+    poster: Владимир Русинов (BluesCat)
+    email: volodya@blues.ru
+    subject: есть
+    deleted: false
+    text: звони +7-903-7716053  есть как раз...
+    replies:
+    - id: 24103
+      parent_id: 24101
+      date: 2005-10-26 13:16
+      poster: Александр Гостюжев (Ghost)
+      email: vst1876@yandex.ru
+      subject: Спасибо!
+      deleted: false
+      text: Супер!

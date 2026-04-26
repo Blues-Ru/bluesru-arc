@@ -1,0 +1,79 @@
+topic_id: 3935
+slug: topic-3935
+title: canned heat
+first_post: 2008-03-10 02:01
+last_post: 2008-03-11 10:58
+post_count: 6
+posts:
+- id: 34866
+  parent_id: null
+  date: 2008-03-10 02:01
+  poster: сергей
+  email: sergey_ozone@mail.ru
+  subject: canned heat
+  deleted: false
+  text: Кто знает в каком из альбомов canned heat записана one bourbon one scotch
+    one beer?
+  replies:
+  - id: 34869
+    parent_id: 34866
+    date: 2008-03-10 14:41
+    poster: Старый Майор
+    email: gypsy@mail.ru
+    subject: Хороший вопрос. А играли ли они её вообще?
+    deleted: false
+    text: 'Если посмотреть на AMG (http://www.allmusic.com/cg/amg.dll?p=amg&sql=11:wifwxqw5ldfe~3~T31C),
+      то в списке песен со всех зафиксированных там альбомов Canned Heat общим числом
+      более 2 десятков, такой песни не значится.
+
+
+      Возможны следующие варианты:
+
+      1. Песня записана Canned Heat на альбоме, не каталогизированном AMG - например,
+      каком-нибудь бутлеге.
+
+      2. Песня записана не группой Canned Heat.
+
+
+      Расследование продолжается... )))
+
+
+      PS: надеюсь, что коллега Сергей знает, кто автор этой песни.'
+    replies:
+    - id: 34875
+      parent_id: 34869
+      date: 2008-03-10 20:47
+      poster: сергей
+      email: sergey_ozone@mail.ru
+      subject: canned heat
+      deleted: false
+      text: Возможно что я и ошибаюсь. Но , примерно 98 - 01гг. ,  в передаче весь
+        этот блюз Андрей зарядил эту музычку . Речь в передаче шла о творчестве Canned
+        .. и Джона Ли Хукера. Тогда я сделал запись, но она у меня пропала куда -
+        то.
+      replies:
+      - id: 34880
+        parent_id: 34875
+        date: 2008-03-11 10:58
+        poster: Andrei V. Evdokimov (evdokimov)
+        email: evdokimov@blues.ru
+        subject: я не нашел )
+        deleted: false
+        text: "Hooker N' Heat - Disc 1 1970 №10.Bottle Up And Go \n- это единственная\
+          \ песня хукера на питейную тему в альбоме кэннд хит. и то, там нет группы,\
+          \ это дуэт JLH с Элом Уилсоном."
+  - id: 34870
+    parent_id: 34866
+    date: 2008-03-10 15:13
+    poster: Dmitri Kazantsev (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: нет такого альбома вроде
+    deleted: false
+  - id: 34872
+    parent_id: 34866
+    date: 2008-03-10 16:13
+    poster: Dmitri Kazantsev (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: а была ещё One Scotch, One Bourbon, One Beer
+    deleted: false
+    text: http://www.allmusic.com/cg/amg.dll?p=amg&sql=17:1130363

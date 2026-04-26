@@ -1,0 +1,40 @@
+topic_id: 2461
+slug: topic-2461
+title: обьявление
+first_post: 2005-03-10 11:52
+last_post: 2005-03-16 13:08
+post_count: 3
+posts:
+- id: 20625
+  parent_id: null
+  date: 2005-03-10 11:52
+  poster: Немов Евгений
+  email: jnr_new@mail.ru
+  subject: обьявление
+  deleted: false
+  text: '16-го марта в 19-30 в помещении библиотеки им.А.П.Чехова состоится концерт
+    джазового трио "GADJES TRIO". Только здесь Вам представится возможность окунуться
+    в атмосферу Америки 30-40-х годов ( времён "сухого закона") и послушать любимую
+    музыку гангстеров той эпохи в живом исполнении "GADJES TRIO"! В программе прозвучит
+    бессмертная музыка Django Reinhardt , Duke Ellington, George Gershwin, Stephane
+    Grappelli и многих других  джазовых композиторов. В составе трио - московские
+    музыканты: Евгений Немов - slide guitar, Дмитрий Купцов - acoustic guitar и Андей
+    Макаров - double bass ( контрабас). Приходите, мы ждём Вас!!! справки по тел.152-22-46.'
+  replies:
+  - id: 20632
+    parent_id: 20625
+    date: 2005-03-10 19:23
+    poster: comandante
+    email: caamprachicos@yandex.ru
+    subject: А алкоголь из чайников наливать будут?
+    deleted: false
+    text: А алкоголь из чайников наливать будут?
+    replies:
+    - id: 20693
+      parent_id: 20632
+      date: 2005-03-16 13:08
+      poster: Алексей Аграновский (Док)
+      email: aaa@genebee.msu.su
+      subject: И лиловый негр будет делать реакцию Манту
+      deleted: false
+      text: Я иду. Кто со мной.

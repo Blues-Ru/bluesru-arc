@@ -1,0 +1,24 @@
+topic_id: 4089
+slug: topic-4089
+title: умер Рик Райт
+first_post: 2008-09-16 01:20
+last_post: 2008-09-16 01:45
+post_count: 2
+posts:
+- id: 35786
+  parent_id: null
+  date: 2008-09-16 01:20
+  poster: Dmitri Kazantsev (Dr. Nick)
+  email: dr.nick@blues.ru
+  subject: умер Рик Райт
+  deleted: false
+  text: клавишник Пинк Флойд :(
+  replies:
+  - id: 35788
+    parent_id: 35786
+    date: 2008-09-16 01:45
+    poster: Игорь Г.
+    email: sunny_city@mail.ru
+    subject: Ох!!!
+    deleted: false
+    text: Да что ж это творится-то?

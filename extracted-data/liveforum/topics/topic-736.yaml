@@ -1,0 +1,55 @@
+topic_id: 736
+slug: topic-736
+title: Огромное спасибо АЕ за прекрасные фото
+first_post: 2003-04-08 12:50
+last_post: 2003-04-09 12:57
+post_count: 5
+posts:
+- id: 11462
+  parent_id: null
+  date: 2003-04-08 12:50
+  poster: Алексей Аграновский (Док)
+  email: aaa@genebee.msu.su
+  subject: Огромное спасибо АЕ за прекрасные фото
+  deleted: false
+  text: 'Единственно, что смущает: написание фамилии югославского гостя (от "Spyra"
+    на титульной странице - по "Сприра" внутри новостей). Пера Джо (Pera Joe) его
+    зовут на самом деле.'
+  replies:
+  - id: 11468
+    parent_id: 11462
+    date: 2003-04-08 13:59
+    poster: Andrei V. Evdokimov (evdokimov)
+    email: evdokimov@blues.ru
+    subject: все поправимо, однако
+    deleted: false
+    text: В шестом часу поленился проверить, а дух Spyro Gyra витал поблизости. Фоты,
+      конечно, разные. И "Черному хлебу" не повезло. На них, как на первых, я экспериментировал
+      со штативом... с заметными результатами, которых уже не поправить, однако.
+    replies:
+    - id: 11512
+      parent_id: 11468
+      date: 2003-04-08 20:53
+      poster: Алексей Аграновский (Док)
+      email: aaa@genebee.msu.su
+      subject: Это ничего,
+      deleted: false
+      text: на ком-то же надо. Зато идущим следом будет легче.
+      replies:
+      - id: 11534
+        parent_id: 11512
+        date: 2003-04-08 23:19
+        poster: Andrei V. Evdokimov (evdokimov)
+        email: evdokimov@blues.ru
+        subject: а давай так?
+        deleted: false
+        text: Старик, зато сколько экспрессии!!! :)
+        replies:
+        - id: 11556
+          parent_id: 11534
+          date: 2003-04-09 12:57
+          poster: Алексей Аграновский (Док)
+          email: aaa@genebee.msu.su
+          subject: Какая там экспрессия -
+          deleted: false
+          text: на два раза попынить и осталось.

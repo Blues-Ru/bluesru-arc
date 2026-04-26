@@ -1,0 +1,97 @@
+topic_id: 4611
+slug: topic-4611
+title: Роберт Плант зажигает без устали
+first_post: 2011-05-15 20:27
+last_post: 2011-05-21 05:24
+post_count: 9
+posts:
+- id: 37711
+  parent_id: null
+  date: 2011-05-15 20:27
+  poster: Andrei V. Evdokimov
+  subject: Роберт Плант зажигает без устали
+  deleted: false
+  text: 'Вот, например, новость: http://sunsongs.ru/news/394/Mona-robert-plant-soobschil-chto-myi-igraem-blyuz-luchshe-chem-Led-Zeppelin
+    .
+
+
+    Может, он имел ввиду не blues, а именно blyuz, как написанно в линке?'
+  replies:
+  - id: 37712
+    parent_id: 37711
+    date: 2011-05-16 00:42
+    poster: Dmitri Kazantsev
+    subject: неужели
+    deleted: false
+    text: кто-то играет блюз лучше Led Zeppelin?
+    replies:
+    - id: 37713
+      parent_id: 37712
+      date: 2011-05-16 05:11
+      poster: Andrei V. Evdokimov
+      subject: я бы поставил вопрос иначе
+      deleted: false
+      text: неужели эта MONA вообще играет блюз?
+      replies:
+      - id: 37716
+        parent_id: 37713
+        date: 2011-05-16 19:39
+        poster: Dmitri Kazantsev
+        subject: я думал
+        deleted: false
+        text: 'Мона это тёлка такая
+
+
+          а там какие-то гомики
+
+
+          вроде песня такая была в 50-х у ниггеров?'
+  - id: 37721
+    parent_id: 37711
+    date: 2011-05-17 01:39
+    poster: Старый Майор
+    subject: Не, ну чо за глаза говорить... давайте почетаем и послушаем
+    deleted: false
+    text: 'Четаем: «Роберт Плант сказал мне, что ему очень полюбилась наша «Lines
+      In The Sand», - говорит Браун газете The Sun. - Он поведал, что Led Zeppelin
+      в одно время упорно бились с американским блюзом, но в итоге, у них так и не
+      получилось того звучания, которым мы обладаем.
+
+
+      Слушаем: http://www.youtube.com/watch?v=1q6wj7lMUS0
+
+
+      Памоиму очинь паблюзаваму звучит прямо кагбудта негор поёт!'
+    replies:
+    - id: 37722
+      parent_id: 37721
+      date: 2011-05-17 03:49
+      poster: Dmitri Kazantsev
+      subject: упорно бились?
+      deleted: false
+      text: это как это они бились? в попан небось долбились...
+    - id: 37728
+      parent_id: 37721
+      date: 2011-05-18 16:55
+      poster: Andrei V. Evdokimov
+      subject: да точно нигер и поет
+      deleted: false
+      text: и зовут нигера - молодой пьяный Боно из Ю-Ту (не путать с Ю-ТуБ)... Дядя
+        Майор, мона я больше не буду слушать Мона? )))
+      replies:
+      - id: 37740
+        parent_id: 37728
+        date: 2011-05-20 18:48
+        poster: Старый Майор
+        subject: Маёр сказал Мона..
+        deleted: false
+        text: '...что его Евдокимов больше слушать не будет.
+
+          Мона заплакал и ушёл...'
+        replies:
+        - id: 37747
+          parent_id: 37740
+          date: 2011-05-21 05:24
+          poster: Dmitri Kazantsev
+          subject: наверное Моня всё же
+          deleted: false

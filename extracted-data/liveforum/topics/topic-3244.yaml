@@ -1,0 +1,24 @@
+topic_id: 3244
+slug: topic-3244
+title: С Днём Победы!
+first_post: 2006-05-09 00:42
+last_post: 2006-05-09 16:15
+post_count: 2
+posts:
+- id: 27282
+  parent_id: null
+  date: 2006-05-09 00:42
+  poster: Dmitri Kazantsev (Dr. Nick)
+  email: dr.nick@blues.ru
+  subject: С Днём Победы!
+  deleted: false
+  text: Make music not war!
+  replies:
+  - id: 27286
+    parent_id: 27282
+    date: 2006-05-09 16:15
+    poster: Валентин
+    email: voshalb@rambler.ru
+    subject: Oн,Уеs!!!
+    deleted: false
+    text: Так и только так...

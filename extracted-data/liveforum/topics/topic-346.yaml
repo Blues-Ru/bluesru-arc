@@ -1,0 +1,94 @@
+topic_id: 346
+slug: topic-346
+title: The Ragpicker's Dream
+first_post: 2002-09-24 09:31
+last_post: 2002-09-26 00:55
+post_count: 8
+posts:
+- id: 7590
+  parent_id: null
+  date: 2002-09-24 09:31
+  poster: Дима Казанцев (Dr. Nick)
+  email: dr.nick@blues.ru
+  subject: The Ragpicker's Dream
+  deleted: false
+  text: '1-го октября выходит новый альбом Нопфлера.
+
+    Хорошая пластинка. Марк, похоже, решил отказаться от рока вообще. Стиль альбома
+    можно бы было описАть как mellow counry & western blues. Все красиво и интересно.
+    Некоторые новинки в текстах и звуках. Контрабас в песне про койота сводит с ума.
+
+    Короче, кто побогаче ждет выхода альбома и сразу в ПЛ, а остальным на Горбушку.
+    Пираты добили альбом треками с предыдущего альбома Марка (за каким они это сделали?).'
+  replies:
+  - id: 7612
+    parent_id: 7590
+    date: 2002-09-24 15:28
+    poster: Sergei  Kiritchenko (VoID)
+    email: skvoid@yahoo.com
+    subject: я так понял...
+    deleted: false
+    text: ..что ты не утерпел и купил пиратскую пластинку уже - как она по качеству?
+      Явно ли из мпега нарезана?
+    replies:
+    - id: 7615
+      parent_id: 7612
+      date: 2002-09-24 17:02
+      poster: Дима Казанцев (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: Купил не я
+      deleted: false
+      text: 'но Ветеран. Дал отслушать. Звучит сносно, писАли с промо-копии явно.
+
+
+        А вот он принес мне два Джеймса Брауна на одном - там полный кошмар. Пиратство
+        - это плохо по-любому (скажу я еще раз).
+
+
+        Вот куплю фирменного Марка и доложу о результатах, если интересно.'
+  - id: 7631
+    parent_id: 7590
+    date: 2002-09-24 22:19
+    poster: Александр Мальчевский (Tonny)
+    email: heavyfuel@mtu-net.ru
+    subject: А тебе тоже с ...
+    deleted: false
+    text: допиской попался? Кстати, последний трек - Sailing to Philadelphia - назван
+      почему-то Wanderlust :) У тебя так же?
+    replies:
+    - id: 7650
+      parent_id: 7631
+      date: 2002-09-25 02:51
+      poster: Дима Казанцев (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: Ты что-то путаешь
+      deleted: false
+      text: у меня Wanderlust и есть Wanderlust :)
+      replies:
+      - id: 7673
+        parent_id: 7650
+        date: 2002-09-25 16:36
+        poster: Александр Мальчевский (Tonny)
+        email: heavyfuel@mtu-net.ru
+        subject: У меня галлюцинации
+        deleted: false
+        text: Прослушал сейчас специально, там действительно Wanderlust... А раньше
+          честное слово была Sailing... Чертовщина какая-то :)
+        replies:
+        - id: 7684
+          parent_id: 7673
+          date: 2002-09-25 18:48
+          poster: Дима Казанцев (Dr. Nick)
+          email: dr.nick@blues.ru
+          subject: Надо отдыхать
+          deleted: false
+          text: или лечиться ;)
+          replies:
+          - id: 7700
+            parent_id: 7684
+            date: 2002-09-26 00:55
+            poster: Александр Мальчевский (Tonny)
+            email: heavyfuel@mtu-net.ru
+            subject: Не знаю, что и делать
+            deleted: false
+            text: :) :) :)

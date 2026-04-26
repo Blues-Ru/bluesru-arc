@@ -1,0 +1,56 @@
+topic_id: 1927
+slug: topic-1927
+title: Нужен качественный Блюз на 1,5 часа 15 марта
+first_post: 2004-03-14 01:47
+last_post: 2004-03-23 01:01
+post_count: 5
+posts:
+- id: 17585
+  parent_id: null
+  date: 2004-03-14 01:47
+  poster: WOW
+  email: wow_mail@mail.ru
+  subject: Нужен качественный Блюз на 1,5 часа 15 марта
+  deleted: false
+  text: 'Если есть кто, чтоб вломить блюза за $ 150 - 200 на час-полтора 15 марта,
+    звоните:
+
+    тел. 095 5066354'
+  replies:
+  - id: 17653
+    parent_id: 17585
+    date: 2004-03-19 19:22
+    poster: Старый майор
+    email: gypsy@mail.ru
+    subject: Вот чисто интересно, откликнулся ли кто на сей зов? Был ли качественный
+      блюз за такие деньги? =)
+    deleted: false
+    replies:
+    - id: 17656
+      parent_id: 17653
+      date: 2004-03-20 19:45
+      poster: Дима Казанцев (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: мы уже собрались играть, но...
+      deleted: false
+      text: кто-то дал больше денег...
+      replies:
+      - id: 17687
+        parent_id: 17656
+        date: 2004-03-22 14:52
+        poster: Старый майор
+        email: gypsy@mail.ru
+        subject: Дима! я не понял! это что, музыканты нонче платят за право выступать??
+        deleted: false
+        replies:
+        - id: 17699
+          parent_id: 17687
+          date: 2004-03-23 01:01
+          poster: Дима Казанцев (Dr. Nick)
+          email: dr.nick@blues.ru
+          subject: ну конечно!
+          deleted: false
+          text: 'такая честь!
+
+
+            прямо как в Англии :)'

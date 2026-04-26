@@ -1,0 +1,62 @@
+topic_id: 4098
+slug: topic-4098
+title: Вконтакте
+first_post: 2008-09-25 01:31
+last_post: 2008-09-29 19:21
+post_count: 5
+posts:
+- id: 35822
+  parent_id: null
+  date: 2008-09-25 01:31
+  poster: Федор Романенко (fedor)
+  email: fedor@blues.ru
+  subject: Вконтакте
+  deleted: false
+  text: 'На всякий случай завел группу "вконтакте", называется Блюз.ру
+
+
+    http://vkontakte.ru/club4744657
+
+
+    Будем туда дублировать какую-то важную информацию. Если там что-то интересное
+    будет происходить, попиарим...'
+  replies:
+  - id: 35823
+    parent_id: 35822
+    date: 2008-09-25 18:17
+    poster: Dmitri Kazantsev (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: Федя, глянь
+    deleted: false
+    text: 'http://www.artistfinder.ru/
+
+
+      делает мой друг. очень классная идея! присоединяйтесь!'
+    replies:
+    - id: 35824
+      parent_id: 35823
+      date: 2008-09-26 00:40
+      poster: Федор Романенко (fedor)
+      email: fedor@blues.ru
+      subject: Я уже посмотрел!
+      deleted: false
+      text: Я сам такую сделаю, только лучше ;)
+      replies:
+      - id: 35825
+        parent_id: 35824
+        date: 2008-09-26 03:24
+        poster: Dmitri Kazantsev (Dr. Nick)
+        email: dr.nick@blues.ru
+        subject: сделаешь?
+        deleted: false
+        text: а тут уже сделано
+  - id: 35828
+    parent_id: 35822
+    date: 2008-09-29 19:21
+    poster: Сергей Исправников (Serg)
+    email: ispravnikovs@yandex.ru
+    subject: Группа в Одноклассниках?
+    deleted: false
+    text: На мой взгляд, целесообразно создать группу и в "одноклассниках". Несмотря
+      на весь стеб по его адресу, сайт более чем посещаемый, а уже имеющиеся там группы
+      работают как мини-форумы. По-моему, достаточно удобно.

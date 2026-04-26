@@ -1,0 +1,59 @@
+topic_id: 1545
+slug: topic-1545
+title: Спасибо Дима и Джон...
+first_post: 2003-11-02 23:21
+last_post: 2003-11-04 17:08
+post_count: 5
+posts:
+- id: 15376
+  parent_id: null
+  date: 2003-11-02 23:21
+  poster: Александр Мальчевский (Tonny)
+  email: heavyfuel@mtu-net.ru
+  subject: Спасибо Дима и Джон...
+  deleted: false
+  text: "За вечер суботы... Такого хорошего концерта я давно не посещал... Вы были\
+    \ супер!!!\n3 часа вы радовали и удивляли нас своим мастерством. \nСпасибо Юрию\
+    \ Каверкину за две прекрасные композиции...\n\nВСем спасибо!"
+  replies:
+  - id: 15380
+    parent_id: 15376
+    date: 2003-11-03 01:42
+    poster: Greta
+    email: morehemp
+    subject: концерт
+    deleted: false
+    text: был превосходный, что верно, то верно
+    replies:
+    - id: 15402
+      parent_id: 15380
+      date: 2003-11-04 10:52
+      poster: John
+      email: ssy@ac.com.ru
+      subject: спасибо за поддержку...
+      deleted: false
+      text: приятно было видеть в зале хороших людей и играть для них. всё только
+        начинается....
+      replies:
+      - id: 15403
+        parent_id: 15402
+        date: 2003-11-04 11:30
+        poster: Анатолий
+        email: anshet@zolshar.ru
+        subject: а когда будет продолжение
+        deleted: false
+        text: 'а когда будет продолжение ?
+
+          Действительно было очень здорово, хотелось бы услышать вас еще(и не один
+          раз!!)'
+        replies:
+        - id: 15405
+          parent_id: 15403
+          date: 2003-11-04 17:08
+          poster: John
+          email: ssy@ac.com.ru
+          subject: продолжение, естественно, следует...
+          deleted: false
+          text: 'когда, вопрос почти риторический...
+
+            обязательно отпишем.'

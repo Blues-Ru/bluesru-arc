@@ -1,0 +1,232 @@
+topic_id: 2356
+slug: topic-2356
+title: А всё же, как ни крути,
+first_post: 2004-12-21 14:55
+last_post: 2004-12-27 21:19
+post_count: 19
+posts:
+- id: 20009
+  parent_id: null
+  date: 2004-12-21 14:55
+  poster: Алексей Аграновский (Док)
+  email: aaa@genebee.msu.su
+  subject: А всё же, как ни крути,
+  deleted: false
+  text: Devil's-son-in-law значит "зять дьявола", а вовсе не "пасынок". Пасынок поинтереснее
+    звучит на родном языке, но смысл другой...
+  replies:
+  - id: 20011
+    parent_id: 20009
+    date: 2004-12-21 17:31
+    poster: Михаил Бирюков (nECKAPb)
+    email: blackcat@blues.ru
+    subject: Ну вот :)
+    deleted: false
+    text: 'Совершенству нет предела, Алексей! :) Напомнил бы тогда уж заодно, как
+      правильно "пасынок" будет, дабы ликбез был полным :))
+
+      Заранее спасибо.'
+    replies:
+    - id: 20014
+      parent_id: 20011
+      date: 2004-12-21 20:27
+      poster: Алексей Аграновский (Док)
+      email: aaa@genebee.msu.su
+      subject: Забыл.
+      deleted: false
+      text: "Полез в словарь, а там - stepson (stepchild). \nДавно тебя не видел Миша,\
+        \ как ты там, старина? Приходи нас послушать в четверг."
+  - id: 20017
+    parent_id: 20009
+    date: 2004-12-22 14:24
+    poster: Andrei V. Evdokimov (evdokimov)
+    email: evdokimov@blues.ru
+    subject: да я и не возражаю.
+    deleted: false
+    text: зять так зять.
+  - id: 20020
+    parent_id: 20009
+    date: 2004-12-22 14:52
+    poster: Фрекен Бокк
+    email: gypsy@mail.ru
+    subject: Дорогой зять! Нечего с тебя взять! (С) Народная мудрость
+    deleted: false
+    replies:
+    - id: 20024
+      parent_id: 20020
+      date: 2004-12-22 16:53
+      poster: Алексей Аграновский (Док)
+      email: aaa@genebee.msu.su
+      subject: 'А то еще: теща, *, в окошко глядь: хорошо играет P. Wheatstraw.'
+      deleted: false
+      text: '*б... - whore (прострореч.)'
+      replies:
+      - id: 20043
+        parent_id: 20024
+        date: 2004-12-24 18:40
+        poster: Старый Майор
+        email: gypsy@mail.ru
+        subject: Да просто офигенно играет!
+        deleted: false
+        text: Мне лично больше всего понра Shack Bully Stomp - под него строевым шагом
+          ходить приятно!
+  - id: 20026
+    parent_id: 20009
+    date: 2004-12-22 22:05
+    poster: Elicaster
+    email: elicaster(@)))mmmmmmmmmmail.ru
+    subject: Me and His Wife
+    deleted: false
+    text: '"Зять дьявола" то бишь "муж дочери дьявола".
+
+      Кто ж тогда дочка дьявола, т.е. его (зятина) жинка?
+
+      Хотя более всего мне интересно а к чему это обсуждение? Как это относится к
+      разговорам о блюзе? Малехо неясно :-)'
+    replies:
+    - id: 20027
+      parent_id: 20026
+      date: 2004-12-22 22:56
+      poster: Muddy Lives
+      email: mlives_6@hotmail.com
+      subject: жена высокого шерифа ада
+      deleted: false
+      text: 'Дочка дьявола - это жена Peetie Wheatstraw - the High Sheriff of Hell
+
+
+
+        Muddy'
+      replies:
+      - id: 20031
+        parent_id: 20027
+        date: 2004-12-23 18:49
+        poster: Elicaster
+        email: elicaster(@)))mmmmmmmmmmail.ru
+        subject: papa told me too...
+        deleted: false
+        text: 'Уже как-то пояснее стало: речь видать идёт о Peetie Wheatstraw. Только
+          пока не уяснил при чём тут зять дьявола?
+
+          И исчо, а кто родители его жены которому PW приходится зятьком :-)
+
+          Нет у меня записей PW :-( так что бейте сильно если речь идёт о какой-то
+          его знаменитой песне которую я не знаю :о('
+        replies:
+        - id: 20032
+          parent_id: 20031
+          date: 2004-12-23 19:10
+          poster: Muddy Lives
+          email: mlives_6@hotmail.com
+          subject: William Bunch
+          deleted: false
+          text: "Это его настоящее имя.  Но он себе взял из фольклора Peetie Wheatstraw\
+            \ - зять дьявола - высокий шериф ада. \n\nВ Американском негретянском\
+            \ обществе была напряженность между музыкой церкви (то есть музыкой Бога)\
+            \ и блюзом (что многие называли музыкой дьявола).  Peetie Wheatstraw и\
+            \ некоторые другие блюзовые артисты на этом играли для рекламы.  \n\n\
+            Muddy"
+        - id: 20035
+          parent_id: 20031
+          date: 2004-12-23 23:43
+          poster: Старый Майор-испытатель
+          email: gypsy@mail.ru
+          subject: Протокол испытаний программы eMule
+          deleted: false
+          text: "Докладываю.\nУстановил и поставил на своём трубопроводе \"Уренгой-Помары-Дислокация\
+            \ вероятного противника\" программу eMule, которая подключает к одной\
+            \ из файлообменных сетей, не могу выговорить название, поскольку обучен\
+            \ только допросу пленных, а не терминологии изящных искусств.\nТретий\
+            \ день качаю моего любимого T-Bone Walker \"The Complete Capitol Black\
+            \ & White Recording\" объёмом около 200 мегатонн.. простите, мегабайт.\
+            \ Очень медленно выдаёт вероятный противник свои секреты, однако. С этой\
+            \ точки зрения BearShare лучше потому что быстрее, но там меньше полных\
+            \ альбомов, зато больше россыпью.\nОднако плюс eMule в том, что каким-то\
+            \ непостижимым науке образом даже наполовину скачанный архив открывается,\
+            \ и из него можно слушать отдельные треки. \nКак говорил товарищ полковник,\
+            \ \"наука умеет много гитик!\"."
+          replies:
+          - id: 20036
+            parent_id: 20035
+            date: 2004-12-24 11:50
+            poster: Sanya
+            email: sanya@cterra.ru
+            subject: Очередной раз
+            deleted: false
+            text: 'с некоторой усталостью сообщаю, что лучше таки подключиться к #mp3blues4u.
+              Там еще и поговорить можно, при желании...'
+            replies:
+            - id: 20038
+              parent_id: 20036
+              date: 2004-12-24 13:41
+              poster: Старый Майор
+              email: gypsy@mail.ru
+              subject: Чэм подключиться, чэм???
+              deleted: false
+              text: 'Не все ещё майоры обладают способностью расшифровать подобную
+                ёклмнатуру типа #mp3blues4u. Но воспоминания прошлой жизни говорят
+                мне, что это наверное IRC, правильно?
+
+                А говорить совершенно не хочется. Хочется самостоятельно искать и
+                самостоятельно скачивать. там такое можно, или "а поговорить" - обязательно?'
+              replies:
+              - id: 20039
+                parent_id: 20038
+                date: 2004-12-24 13:52
+                poster: Старый Майор
+                email: gypsy@mail.ru
+                subject: Очередной раз -- take 2.
+                deleted: false
+                text: Не, ну Яндексом я ещё пользоваться не разучился - нашёл статейку
+                  http://www.linuxshop.ru/lib/mmedia/skymp3.htm. Только что-то меня
+                  беспокоит технический ценз - оказывается, настоящий меломан должен
+                  уметь запускать скрипт на языке Perl. Вот думаю, как бы его запустить
+                  в моих Win2000...
+              - id: 20040
+                parent_id: 20038
+                date: 2004-12-24 15:47
+                poster: Старый Майор
+                email: gypsy@mail.ru
+                subject: Кароче, подключился. Спасибо Sanya за наводку.
+                deleted: false
+                replies:
+                - id: 20042
+                  parent_id: 20040
+                  date: 2004-12-24 18:15
+                  poster: Фрекен Бокк
+                  email: gypsy@mail.ru
+                  subject: Фи, как неприлично, Или чё только не бывает на свете...
+                  deleted: false
+                  text: 'Не, ну вы только представьте себе такое:
+
+
+                    The Copulation Blues CD
+
+
+                    Coot Grant & Kid Wesley Wilson - Take Your Hand Off My Mojo
+
+                    Lil Johnson with Black Bob - Press My Button, Ring My Bell
+
+
+                    ну и тому подобное... возмутительно! И это могут услышать дети!!!'
+                  replies:
+                  - id: 20065
+                    parent_id: 20042
+                    date: 2004-12-27 11:20
+                    poster: Sanya
+                    email: sanya@cterra.ru
+                    subject: Так это и к лучшему.
+                    deleted: false
+                    text: 'Меньше вопросов задавать будут.
+
+
+                      Я думаю, ты уже понял, что чтобы подключиться, искать и скачивать
+                      довольно ирц клиента, типа мирка какого. Скрипты нужны, чтобы
+                      у тебя могли искать и скачивать. Это не сложно. :^)'
+                    replies:
+                    - id: 20070
+                      parent_id: 20065
+                      date: 2004-12-27 21:19
+                      poster: Старый Майор
+                      email: gypsy@mail.ru
+                      subject: да я уж накачал себе 20 Га всякого...
+                      deleted: false

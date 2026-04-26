@@ -1,0 +1,48 @@
+topic_id: 638
+slug: topic-638
+title: Сетевое РАДИО БЛЮЗ need!!!!
+first_post: 2003-02-26 18:16
+last_post: 2003-02-27 22:08
+post_count: 4
+posts:
+- id: 10667
+  parent_id: null
+  date: 2003-02-26 18:16
+  poster: John
+  email: master_j@mail.ru
+  subject: Сетевое РАДИО БЛЮЗ need!!!!
+  deleted: false
+  text: 'ПОМОГИТЕ!
+
+    Утерял ссылку интернет-радио, где всегда 24h крутят блюз. Ну может кто-то тоже
+    слушает ли слушал или знает где поискать?!!!'
+  replies:
+  - id: 10675
+    parent_id: 10667
+    date: 2003-02-27 10:58
+    poster: Sanya
+    email: sanya@cterra.ru
+    subject: Дома у меня есть хорошая ссылка...
+    deleted: false
+    text: 'Сейчас не могу найти. Попробуй
+
+      http://directory.google.com/Top/Arts/Music/Styles/Blues/Radio/'
+    replies:
+    - id: 10690
+      parent_id: 10675
+      date: 2003-02-27 22:08
+      poster: Sanya
+      email: sanya@cterra.ru
+      subject: Обещаная ссылка
+      deleted: false
+      text: http://www.thebluehighway.com/linrafra.html
+  - id: 10680
+    parent_id: 10667
+    date: 2003-02-27 17:07
+    poster: Старый Майор
+    email: gypsy@mail.ru
+    subject: Радио для WinAmp
+    deleted: false
+    text: 'PARADYNAMIC ROADHOUSE http://205.188.234.38:8014
+
+      BLUES ON AIR http://211.58.56.250:8700'

@@ -1,0 +1,24 @@
+---
+topic_id: 1077
+slug: topic-1077
+title: Ошибка с Animals
+post_count: 2
+first_post: 2002-02-01 03:37
+last_post: 2002-02-01 03:43
+---
+
+## Ошибка с Animals
+**From:** Дима Казанцев (Dr. Nick)  **Date:** 2002-02-01 03:37  **Post:** #560
+
+Alan Price ушел, конечно же, после второго альбома 'Animal Tracks'. 
+То есть тот неповторимый звук есть только на двух альбомах и синглах: Baby Let Me Take You Home/Gonna Send You Back To Walker, House Of The Rising Sun/Talking About You, I'm Crying/Take It Easy, Boom Boom/Blue Feeling, Don't Let Me Be Misunderstood/Club A-Go-Go, Bring It On Home To Me/For Miss Caulker, We've Gotta Get Out Of This Place/I can't Believe It, It's My Life/I'm Gonna Change The World. 
+Гениальное наследие за два года работы! Абсолютно блюзово-ритм-н-блюзовые альбомы и ох какая отличная попса на синглах! Есть ли сборник, где содержатся все эти ранние вещи? Их всего 16 должно быть, ну и два альбома, конечно; но они у меня есть.
+
+---
+
+## Для тех кто не понял
+**From:** Дима Казанцев (Dr. Nick)  **Date:** 2002-02-01 03:43  **Post:** #561
+
+почему я так выделяю Прайса, скажу. Группа-то была собрана именно им и называлась 'The Alan Price Combo'. Интересно было именно сочетание его клавиш и безбашенного голоса Эрика; остальные по большому счету и играть-то толком не умели, а Прайс - гений!
+
+---

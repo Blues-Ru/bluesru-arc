@@ -1,0 +1,34 @@
+topic_id: 1196
+slug: topic-1196
+title: harmonica.blues.ru ???
+first_post: 2003-05-30 13:02
+last_post: 2003-05-30 13:44
+post_count: 2
+posts:
+- id: 12862
+  parent_id: null
+  date: 2003-05-30 13:02
+  poster: uzna
+  email: for_spam_only@inbox.ru
+  subject: harmonica.blues.ru ???
+  deleted: false
+  text: "Что с сайтом?\nwget  harmonica.blues.ru\n--14:40:26--  http://harmonica.blues.ru/\n\
+    \           => `index.html'\nПреобразование адреса harmonica.blues.ru... сделано.\n\
+    Установка соединения с harmonica.blues.ru[195.54.210.179]:80... соединились.\n\
+    Запрос HTTP послан, ожидание ответа... 302 Found\nАдрес: / [переход]\nhttp://harmonica.blues.ru/:\
+    \ Замкнутый цикл перенаправлений."
+  replies:
+  - id: 12864
+    parent_id: 12862
+    date: 2003-05-30 13:44
+    poster: Сергей Алексеенко (Grey Wolf)
+    email: Greywolf@blues.ru
+    subject: Теперь все работает.
+    deleted: false
+    text: 'Теперь все ок.
+
+      Сайт дал сбой и его отключили. Респект админам Блюз ру !
+
+      Все исправлено. Сайт снова работает.
+
+      Приношу свои извинения за ошибку, допущенную в коде.'

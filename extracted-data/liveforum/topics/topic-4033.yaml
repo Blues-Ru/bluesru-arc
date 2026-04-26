@@ -1,0 +1,24 @@
+topic_id: 4033
+slug: topic-4033
+title: почиталь  я новости(simply red) и поняль
+first_post: 2008-06-12 06:23
+last_post: 2008-06-12 10:24
+post_count: 2
+posts:
+- id: 35496
+  parent_id: null
+  date: 2008-06-12 06:23
+  poster: Jumpin' Jack Flash
+  email: hvjjh
+  subject: почиталь  я новости(simply red) и поняль
+  deleted: false
+  text: что маргулись это русский брозмань))
+  replies:
+  - id: 35498
+    parent_id: 35496
+    date: 2008-06-12 10:24
+    poster: Dmitri Kazantsev (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: офигенный ролик
+    deleted: false
+    text: со всеми ребятами

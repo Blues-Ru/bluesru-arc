@@ -1,0 +1,36 @@
+topic_id: 4150
+slug: topic-4150
+title: '"Скучная Ёлка" - 6 часов живого блюза'
+first_post: 2008-12-20 01:45
+last_post: 2008-12-21 18:07
+post_count: 3
+posts:
+- id: 35982
+  parent_id: null
+  date: 2008-12-20 01:45
+  poster: Андрей Лукаш
+  email: Lukash_shaw@mail.ru
+  subject: '"Скучная Ёлка" - 6 часов живого блюза'
+  deleted: false
+  text: 'Дорогие друзья, 28 декабря в клубе Релакс в Рок-н-ролл пабе состоится шестичасовая
+    блюзовая ёлка! Будут играть группы: Mississippi Twins, The Bible, Wild Traffic,
+    Iterum, Flash Project. Зрителей ждут призы и подарки! Сайт мероприятия: www.e-vo.ru
+    Начало в 18-00, вход - 300 р. с флаером, 350 без.'
+  replies:
+  - id: 35987
+    parent_id: 35982
+    date: 2008-12-21 09:54
+    poster: джет ратал
+    email: джет@blues.ru
+    subject: что за группы такие?
+    deleted: false
+    text: западные?
+  - id: 35991
+    parent_id: 35982
+    date: 2008-12-21 18:07
+    poster: Андрей Лукаш
+    email: Lukash_shaw@mail.ru
+    subject: Не западные
+    deleted: false
+    text: Нет, это наши, отечественные музыканты. Там будут и англоязычные, и русскоязычные
+      группы.

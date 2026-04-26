@@ -1,0 +1,35 @@
+topic_id: 772
+slug: topic-772
+title: Я не увижу миссисипи
+first_post: 2003-04-19 07:57
+last_post: 2003-04-19 14:06
+post_count: 3
+posts:
+- id: 11936
+  parent_id: null
+  date: 2003-04-19 07:57
+  poster: Сергей
+  email: jesus@nm.ru
+  subject: Я не увижу миссисипи
+  deleted: false
+  text: "Сижу. Слушаю. В большинстве своем довольно слабо. Но например последний трек\
+    \ потрясающий. Я так понимаю, там Петрович играет. \n\nА нет ли у кого-нибудь\
+    \ нормального треклиста? А то я даже не знаю кто где играет.."
+  replies:
+  - id: 11937
+    parent_id: 11936
+    date: 2003-04-19 08:45
+    poster: Сергей Иванов (serge_ivanov)
+    email: serge_ivanov@hotmail.com
+    subject: статья про этот сидюк
+    deleted: false
+    text: http://www.caraudio.ru/az/Az_12/p87_93.htm
+    replies:
+    - id: 11938
+      parent_id: 11937
+      date: 2003-04-19 14:06
+      poster: Федор Романенко (fedor)
+      email: fedor@blues.ru
+      subject: Поближе
+      deleted: false
+      text: http://www.blues.ru/rblues/OurATB2.htm

@@ -1,0 +1,27 @@
+topic_id: 1448
+slug: topic-1448
+title: как вам B.B. & The Blues Shacks
+first_post: 2003-09-07 20:20
+last_post: 2003-09-08 09:58
+post_count: 2
+posts:
+- id: 14196
+  parent_id: null
+  date: 2003-09-07 20:20
+  poster: Алексей  (whitenoise)
+  email: whitenoise@mail.ru
+  subject: как вам B.B. & The Blues Shacks
+  deleted: false
+  text: А как вам команда из Германии? По-моему ребята здорово играют. А как шпарит
+    на гармошке вокалист группы – чума!
+  replies:
+  - id: 14204
+    parent_id: 14196
+    date: 2003-09-08 09:58
+    poster: John
+    email: ssy@ac.com.ru
+    subject: хорошо!
+    deleted: false
+    text: 'Майкл - офигеный гармонист и вокалист.
+
+      Да и выпивать с ним интересно.'

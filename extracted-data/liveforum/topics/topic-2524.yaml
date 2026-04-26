@@ -1,0 +1,73 @@
+topic_id: 2524
+slug: topic-2524
+title: у нас завтра джем в R.J. Club
+first_post: 2005-04-13 20:59
+last_post: 2005-04-15 16:52
+post_count: 6
+posts:
+- id: 21126
+  parent_id: null
+  date: 2005-04-13 20:59
+  poster: Дима Казанцев (Dr. Nick)
+  email: dr.nick@blues.ru
+  subject: у нас завтра джем в R.J. Club
+  deleted: false
+  text: 'Приходите!
+
+    http://www.livejournal.com/community/ru_blues/106131.html?mode=reply
+
+    http://www.rj-club.ru/contacts/'
+  replies:
+  - id: 21132
+    parent_id: 21126
+    date: 2005-04-14 13:46
+    poster: Алексей Ильичёв (Alex_z77)
+    email: alex_z77@mail.ru
+    subject: А как туда добраться?
+    deleted: false
+    text: '...на общественном транспорте?'
+    replies:
+    - id: 21135
+      parent_id: 21132
+      date: 2005-04-14 13:50
+      poster: Дима Казанцев (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: там же на сайте есть карта, а под ней текст
+      deleted: false
+      text: http://www.rj-club.ru/contacts/
+      replies:
+      - id: 21136
+        parent_id: 21135
+        date: 2005-04-14 13:51
+        poster: Алексей Ильичёв (Alex_z77)
+        email: alex_z77@mail.ru
+        subject: Прошу прощения...
+        deleted: false
+        text: Не заметил. :)
+  - id: 21164
+    parent_id: 21126
+    date: 2005-04-15 16:23
+    poster: big fish
+    email: study@tours.ru
+    subject: Когда следующий джем и где ????
+    deleted: false
+    text: "был на джеме в bb king 13.04 с Борисом Булкиным - чудесно получилось. вот\
+      \ только досадно - мало времени было, и даже не все, кто приехал успели поучаствовать...\
+      \ Дима, скажите, а как с этим делом в RJ? \nБудут ли у Вас еще джемы здесь еще\
+      \ и как об этом узнать? \n\nВопрос к уважаемым посетителям форума: скажите,\
+      \ есть ли в \nМоскве клуб, специализирующийся на джемах? Если нет, то надо сделать!\
+      \ \n\nс уважением,\nМихаил \n\nASSP\nhttp://www.studyflight.ru/assp/assp.shtml"
+    replies:
+    - id: 21165
+      parent_id: 21164
+      date: 2005-04-15 16:52
+      poster: Дима Казанцев (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: везде всё по-разному
+      deleted: false
+      text: 'есть коллективы, которые устраивают джемы везде и часто.
+
+        с нами же поджемовать можно в это воскресенье в БиБиКинге. условие одно -
+        акустическая гитара (со звукоснимателем). будет акустическая программа полностью.
+
+        о всех джемах и концертах стоит узнавать на первой странице этого сайта.'

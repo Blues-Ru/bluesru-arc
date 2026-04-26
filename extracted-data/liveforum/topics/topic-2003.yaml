@@ -1,0 +1,62 @@
+topic_id: 2003
+slug: topic-2003
+title: Расписание Концертов (на блюз.ру и в прессе)
+first_post: 2002-07-03 10:14
+last_post: 2002-07-05 20:41
+post_count: 6
+posts:
+- id: 5837
+  parent_id: null
+  date: 2002-07-03 10:14
+  poster: Петр Кунарев (Eastwood2002)
+  email: cousins@yandex.ru
+  subject: Расписание Концертов (на блюз.ру и в прессе)
+  deleted: false
+  text: Вчера попался на глаза номер журнала "Афиша", с удивлением обнаружил, что
+    в пятницу, 5-го июля в клубе "Алабама" играет Алексей Аграновский с "Чёрным хлебом".
+    В сетке на блюз.ру этого концерта нет. Кому верить? :))) Хочется "Афише")))
+  replies:
+  - id: 5845
+    parent_id: 5837
+    date: 2002-07-03 13:11
+    poster: Юрий Каверкин
+    email: kaverkin@rol.ru
+    subject: Аграновский отдыхает до 15 июля
+    deleted: false
+    replies:
+    - id: 5852
+      parent_id: 5845
+      date: 2002-07-03 14:48
+      poster: Петр Кунарев (Eastwood2002)
+      email: cousins@yandex.ru
+      subject: И откуда тогда такие объявления в "Афише"?:)))
+      deleted: false
+  - id: 5876
+    parent_id: 5837
+    date: 2002-07-04 21:20
+    poster: Dima Krasivov (Dima)
+    email: dima@blues.ru
+    subject: Звонил Гоча из Алабамы ;)
+    deleted: false
+    text: 'Сказал что Алабама закрывается на ремонт...
+
+      на месяц.'
+    replies:
+    - id: 5886
+      parent_id: 5876
+      date: 2002-07-05 18:49
+      poster: Андрей Цыганков
+      email: gypsy@mail.ru
+      subject: Везде наши люди )))
+      deleted: false
+      text: Кстати, на Братиславской есть заведение под названием "Чикаго Блюз" -
+        но крутят в нём попсу через мафон.. вот бы удочки закинуть? Чё ж они с таким-то
+        названием да оное не оправдывают?
+    - id: 5893
+      parent_id: 5876
+      date: 2002-07-05 20:41
+      poster: Дима Казанцев (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: А Сосо из Оклахомы не звонил?
+      deleted: false
+      text: Где же теперь будет проходить шоу "Про Руки"? ;)

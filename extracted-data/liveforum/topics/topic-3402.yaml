@@ -1,0 +1,106 @@
+topic_id: 3402
+slug: topic-3402
+title: Почему в "Б.Б.Кинг Клабе"
+first_post: 2006-09-14 13:28
+last_post: 2006-09-15 02:47
+post_count: 9
+posts:
+- id: 28724
+  parent_id: null
+  date: 2006-09-14 13:28
+  poster: Александр
+  email: kar_ai@bk.ru
+  subject: Почему в "Б.Б.Кинг Клабе"
+  deleted: false
+  text: Джемы заканчиваются категорически рано?
+  replies:
+  - id: 28725
+    parent_id: 28724
+    date: 2006-09-14 13:41
+    poster: Dmitri Kazantsev (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: джемы
+    deleted: false
+    text: 'вчера мы закончили в 22:20 - это категорически поздно (было более 20 джемующих)
+
+
+      по закону "шуметь" можно только до 22:00
+
+
+      это жилой дом
+
+
+      там большие проблемы с соседями'
+    replies:
+    - id: 28728
+      parent_id: 28725
+      date: 2006-09-14 15:01
+      poster: Александр
+      email: kar_ai@bk.ru
+      subject: Ясно=)
+      deleted: false
+      text: "Я-то все раньше никак понять не мог. \nОказывается все просто -- жилой\
+        \ дом.\n\nП.С. Спасибо за джем=)"
+  - id: 28727
+    parent_id: 28724
+    date: 2006-09-14 14:22
+    poster: Ovanes Gulishev (MisterX)
+    email: ovanez@gmail.com
+    subject: первые впечатления
+    deleted: false
+    text: 'Вчера впервые попал в БиБи.
+
+      Ранний уход музыкантов конечно немного огорчил, хотя в обще ОЧЕНЬ понравилось.
+
+      Надеюсь стать завсегдатаем клуба :)
+
+
+      з.ы. I''m in the mood - это было жестко'
+  - id: 28732
+    parent_id: 28724
+    date: 2006-09-14 18:02
+    poster: Bluser
+    email: bluser@rambler.ru
+    subject: закон о тишине
+    deleted: false
+    text: Спокойно, шуметь можно до 23-00. насколько я знаю.
+    replies:
+    - id: 28733
+      parent_id: 28732
+      date: 2006-09-14 18:50
+      poster: axle
+      email: axledog@mail.ru
+      subject: Шум
+      deleted: false
+      text: Музыка в клубе -  считается производственным шумом (ну... как отбойные
+        молотки, знаете?). А по закону Москвы всякое производство должно заканчиваться
+        в 22.00. Это с женой можно спокойненько скандалить до одиннадцати.
+      replies:
+      - id: 28741
+        parent_id: 28733
+        date: 2006-09-14 21:13
+        poster: Старый Майор
+        email: gypsy@mail.ru
+        subject: Если бы я жил над клубом...
+        deleted: false
+        text: '...я вряд ли бы любил блюз или то, что им называют.
+
+
+          Так что как человек немолодой и страдающий давлением, когда любой шум невыносим,
+          я очень понимаю соседей сверху. Отбойные молотки ничуть не лучше.'
+    - id: 28743
+      parent_id: 28732
+      date: 2006-09-15 02:47
+      poster: Dmitri Kazantsev (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: закон изменился
+      deleted: false
+      text: ровно на час назад :(
+  - id: 28735
+    parent_id: 28724
+    date: 2006-09-14 19:45
+    poster: Bluser
+    email: bluser@rambler.ru
+    subject: понятно..
+    deleted: false
+    text: Ошибочка вышла :))

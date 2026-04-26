@@ -1,0 +1,23 @@
+topic_id: 2488
+slug: topic-2488
+title: друзья, а куда подевалась Юля Смолянин?
+first_post: 2005-03-27 01:39
+last_post: 2005-03-31 17:09
+post_count: 2
+posts:
+- id: 20896
+  parent_id: null
+  date: 2005-03-27 01:39
+  poster: Дима Казанцев (Dr. Nick)
+  email: dr.nick@blues.ru
+  subject: друзья, а куда подевалась Юля Смолянин?
+  deleted: false
+  text: с ней все в порядке?
+  replies:
+  - id: 20964
+    parent_id: 20896
+    date: 2005-03-31 17:09
+    poster: Старый Майор
+    email: gypsy@mail.ru
+    subject: Была наблюдаема мною вчера в БиБиКинге, приветы передавала.
+    deleted: false

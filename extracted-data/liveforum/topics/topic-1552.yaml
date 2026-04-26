@@ -1,0 +1,35 @@
+topic_id: 1552
+slug: topic-1552
+title: встреча на блюз фестивале
+first_post: 2003-11-04 21:08
+last_post: 2003-11-05 11:55
+post_count: 3
+posts:
+- id: 15408
+  parent_id: null
+  date: 2003-11-04 21:08
+  poster: timmy gus (doctor)
+  email: roman@yahoo.com
+  subject: встреча на блюз фестивале
+  deleted: false
+  text: предлогаю ВАМ, посетителям сайта, посвященного такой прекрасной музыке, как
+    BLUES просто-напросто собраться вместе на 14 блюз фестивале и попить пивка. это
+    ни к чему не обязывает. если вы не против- откликайтесь
+  replies:
+  - id: 15411
+    parent_id: 15408
+    date: 2003-11-05 11:00
+    poster: Andy mcletsoff (McL)
+    email: mcl@macbox.ru
+    subject: Meeting
+    deleted: false
+    text: Например, в субботу
+    replies:
+    - id: 15413
+      parent_id: 15411
+      date: 2003-11-05 11:55
+      poster: (Grem)
+      email: sergei.sergeev@emersonprocess.ru
+      subject: В субботу буду...
+      deleted: false
+      text: В субботу буду... с семьей и друзьями.

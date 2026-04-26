@@ -1,0 +1,31 @@
+topic_id: 39
+slug: topic-39
+title: Расскажите по-подробнее о "кваке".
+first_post: 2002-01-08 21:58
+last_post: 2002-01-08 23:27
+post_count: 2
+posts:
+- id: 44
+  parent_id: null
+  date: 2002-01-08 21:58
+  poster: Олег Рахманов (Harper)
+  email: 171282@mail.ru
+  subject: Расскажите по-подробнее о "кваке".
+  deleted: false
+  text: Расскажите по-подробнее о "кваке".
+  replies:
+  - id: 45
+    parent_id: 44
+    date: 2002-01-08 23:27
+    poster: Дима Казанцев (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: Ты имеешь в виду "вау-вау"?
+    deleted: false
+    text: 'Простенькая педаль, изобретенная еще в начале 60-х.
+
+      Играется ногой.
+
+      Лучшая модель - VOX Wow-Wow 1968 Model (Хендрикс на такой играл). Еще кто-то
+      любит Cry Baby.
+
+      Вещь необходимая для игры фанка, прифанкованного блюза.'

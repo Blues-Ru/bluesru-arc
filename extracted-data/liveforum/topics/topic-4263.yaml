@@ -1,0 +1,47 @@
+topic_id: 4263
+slug: topic-4263
+title: Костю К. с днем рождения!
+first_post: 2009-07-26 15:13
+last_post: 2009-07-28 10:47
+post_count: 4
+posts:
+- id: 36480
+  parent_id: null
+  date: 2009-07-26 15:13
+  poster: Федор Романенко
+  subject: Костю К. с днем рождения!
+  deleted: false
+  text: 'Великий харпер, специалист по блюзу и автор замечательных статей и рецензий
+    на блюз.ру, больше известный тут под именем Wheel, сегодня празднует, я так полагаю,
+    свой день рождения ;)
+
+
+    Ура, ура, ура! Поздравляем!!'
+  replies:
+  - id: 36481
+    parent_id: 36480
+    date: 2009-07-27 11:51
+    poster: Konstantin
+    subject: Ого!
+    deleted: false
+    text: 'Федор, мне очень приятно! Серьезно!
+
+      Спасибо тебе большое!
+
+      Ура :)'
+    replies:
+    - id: 36482
+      parent_id: 36481
+      date: 2009-07-27 17:07
+      poster: tavrichesky
+      subject: с днём рождения!!!!!
+      deleted: false
+      text: чтоб музыка лилась и харпы не грязнели))))
+      replies:
+      - id: 36483
+        parent_id: 36482
+        date: 2009-07-28 10:47
+        poster: Konstantin
+        subject: Спасибо, Макс, большое!
+        deleted: false
+        text: Очень приятно :)

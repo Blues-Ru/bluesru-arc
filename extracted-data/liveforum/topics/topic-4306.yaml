@@ -1,0 +1,71 @@
+topic_id: 4306
+slug: topic-4306
+title: мужское здоровье
+first_post: 2009-10-08 14:50
+last_post: 2009-10-09 14:30
+post_count: 7
+posts:
+- id: 36616
+  parent_id: null
+  date: 2009-10-08 14:50
+  poster: Andrei V. Evdokimov
+  subject: мужское здоровье
+  deleted: false
+  text: 'какие часы надо носить с какими гитарами: <a href="http://www.mhealth.ru/fashion/grooming/738193/"
+    target="_blank">http://www.mhealth.ru/fashion/grooming/738193/</a>'
+  replies:
+  - id: 36617
+    parent_id: 36616
+    date: 2009-10-08 23:08
+    poster: Старый Майор
+    subject: По утрам, надев часы, не забудьте про всё остальное!
+    deleted: false
+  - id: 36618
+    parent_id: 36616
+    date: 2009-10-09 00:10
+    poster: Эльдар
+    subject: глупость какая-то...
+    deleted: false
+    text: '<i>Конечно, хорошая музыка вне времени и пространства. А вот хорошие часы
+      были у всех известных гитаристов.</i>
+
+      Глубокая мысль!
+
+      У меня Squier Stratocaster и Citizen Promaster. Наверное моветон-с?'
+    replies:
+    - id: 36619
+      parent_id: 36618
+      date: 2009-10-09 12:50
+      poster: Andrei V. Evdokimov
+      subject: это просто
+      deleted: false
+      text: n-тысячный пример убого-попсового использования слова "блюз".
+    - id: 36620
+      parent_id: 36618
+      date: 2009-10-09 13:49
+      poster: Andrei V. Evdokimov
+      subject: еще пример
+      deleted: true
+      text: Фильм называется Dark Streets... Так чего голову ломать, если можно перевести
+        как <a href=http://www.film.ru/afisha/movie.asp?code=DRKST" target=_blank">"Весь
+        этот блюз"</a>?...
+      replies:
+      - id: 36621
+        parent_id: 36620
+        date: 2009-10-09 14:28
+        poster: Andrei V. Evdokimov
+        subject: еще пример
+        deleted: true
+        text: Фильм называется Dark Streets... Так чего голову ломать, если можно
+          перевести как <a href="http://www.film.ru/afisha/movie.asp?code=DRKST%22"
+          rel="nofollow">http://www.film.ru/afisha/movie.asp?code=DRKST"</a> target="_blank">"Весь
+          этот блюз"</a>?...
+    - id: 36622
+      parent_id: 36618
+      date: 2009-10-09 14:30
+      poster: Andrei V. Evdokimov
+      subject: еще пример
+      deleted: false
+      text: Фильм называется Dark Streets... Так чего голову ломать, если можно перевести
+        как <a href="http://www.film.ru/afisha/movie.asp?code=DRKST%22" rel="nofollow">http://www.film.ru/afisha/movie.asp?code=DRKST"</a>
+        target="_blank">"Весь этот блюз"</a>?...

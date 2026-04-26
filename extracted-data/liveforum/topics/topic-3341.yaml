@@ -1,0 +1,114 @@
+topic_id: 3341
+slug: topic-3341
+title: Вопрос знатокам
+first_post: 2006-07-21 17:54
+last_post: 2006-08-24 13:07
+post_count: 11
+posts:
+- id: 27949
+  parent_id: null
+  date: 2006-07-21 17:54
+  poster: Немов Евгений
+  email: jnr_new@mail.ru
+  subject: Вопрос знатокам
+  deleted: false
+  text: 'Один мой знакомый гитарист с недавних пор говорит, что гитары  надо настраивать
+    по одному тюнеру, т.к. все тюнеры разные(!!!).
+
+    Хочу спосить, а что ,правда что ли?'
+  replies:
+  - id: 27952
+    parent_id: 27949
+    date: 2006-07-21 18:47
+    poster: Dmitri Kazantsev (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: бредит он что ли?
+    deleted: false
+    text: можно и без тюнера
+  - id: 27953
+    parent_id: 27949
+    date: 2006-07-21 19:34
+    poster: Алексей Аграновский (Док)
+    email: aaa@genebee.msu.su
+    subject: Если батарейка садится
+    deleted: false
+    text: '- после настройки инструмент "высит".'
+    replies:
+    - id: 27961
+      parent_id: 27953
+      date: 2006-07-22 20:23
+      poster: Dmitri Kazantsev (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: Такого быть просто не может
+      deleted: false
+      text: 'Мы строим гитары под ЛЯ-440. Не важно, что там с батарейкой, 440 герц
+        остаются. Потом тюнер просто не работает (ослабевает прием сигнала).
+
+
+        На всякий случай надо проверять калибровку. А то любят идиоты тыкать и могут
+        поменять 440 на 438 или 442.
+
+
+        Пользуюсь тюнерами с начала 90-х. Фирмы KORG и BOSS.'
+      replies:
+      - id: 27966
+        parent_id: 27961
+        date: 2006-07-23 14:20
+        poster: Юрий Каверкин (Gekko)
+        email: kaverkin@rol.ru
+        subject: Может вы все ещё и репетируете???? Позор!!!!
+        deleted: false
+        replies:
+        - id: 27967
+          parent_id: 27966
+          date: 2006-07-23 18:59
+          poster: Dmitri Kazantsev (Dr. Nick)
+          email: dr.nick@blues.ru
+          subject: о нет
+          deleted: false
+          text: 'что ты? ты ж с нами играешь иногда. всё ж без репетиций :)
+
+
+            но ТЮНЕР - это святое :)'
+  - id: 27969
+    parent_id: 27949
+    date: 2006-07-24 16:53
+    poster: Руслан Чифуров ()
+    email: chifuroff <sobaka>    inbox.ru
+    subject: Лучше всего - Старый дедовский способ
+    deleted: false
+    text: Настраивать по камертону и по слуху :-)))))
+    replies:
+    - id: 27977
+      parent_id: 27969
+      date: 2006-07-26 23:13
+      poster: Немов Евгений
+      email: jnr_new@mail.ru
+      subject: ОБ КОЛЕНО!
+      deleted: false
+      text: ОБ КОЛЕНО!
+  - id: 28035
+    parent_id: 27949
+    date: 2006-07-28 01:38
+    poster: T-Ager
+    email: guitarero@mail.ru
+    subject: ОБ КОЛЕНО!
+    deleted: false
+    text: Блюзмены (как и панки) гитар вообще не настраивают!
+  - id: 28036
+    parent_id: 27949
+    date: 2006-07-28 01:38
+    poster: T-Ager
+    email: guitarero@mail.ru
+    subject: ОБ КОЛЕНО!
+    deleted: false
+    text: Блюзмены (как и панки) гитар вообще не настраивают!
+  - id: 28455
+    parent_id: 27949
+    date: 2006-08-24 13:07
+    poster: xxx
+    email: ivanovboy@yandex.ru
+    subject: 440 герц
+    deleted: false
+    text: Дайте гитаре мин 20 на аклиматизацию и настраивайте по любому камертону
+      - не будет высит и низить!

@@ -1,0 +1,23 @@
+topic_id: 3880
+slug: topic-3880
+title: анонс по радио
+first_post: 2008-01-27 16:58
+last_post: 2008-01-27 17:45
+post_count: 2
+posts:
+- id: 34382
+  parent_id: null
+  date: 2008-01-27 16:58
+  poster: Jumpin' Jack Flash
+  email: gvjkg
+  subject: анонс по радио
+  deleted: false
+  text: '"...а сейчас в нашей программе-известный исполнитель блюзов Би Би КОНГ!"'
+  replies:
+  - id: 34383
+    parent_id: 34382
+    date: 2008-01-27 17:45
+    poster: Владимир Русинов (BluesCat)
+    email: volodya@blues.ru
+    subject: лучше тогда Би-Бекон. отличное имя..
+    deleted: false

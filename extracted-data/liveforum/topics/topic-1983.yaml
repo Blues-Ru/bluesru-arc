@@ -1,0 +1,41 @@
+topic_id: 1983
+slug: topic-1983
+title: Где же ты, БРАТ ?
+first_post: 2004-04-13 12:01
+last_post: 2004-04-13 14:22
+post_count: 3
+posts:
+- id: 17948
+  parent_id: null
+  date: 2004-04-13 12:01
+  poster: kotmatrs
+  email: kotmatrs@mail.ru
+  subject: Где же ты, БРАТ ?
+  deleted: false
+  text: В четверг обещают показать по ТиВи. Там говорят песенка есть неплохая, записанная
+    прямо с дорожных работ каторжниками, чуть ли не оригинальный саунд трек в фильм
+    включили.
+  replies:
+  - id: 17950
+    parent_id: 17948
+    date: 2004-04-13 13:53
+    poster: Алексей Аграновский (Док)
+    email: aaa@genebee.msu.su
+    subject: Я здесь!
+    deleted: false
+    text: 'Старик, непременно почитай пpо эту песню здесь, получишь кайф: http://www.blues.ru/bluesnews/03Autumn/03Autumn.htm
+
+
+      Смотреть надо в середине страницы под заголовком:  Le Fabuleux Destin de JAMES
+      CARTER'
+  - id: 17951
+    parent_id: 17948
+    date: 2004-04-13 14:22
+    poster: Sergei  Kiritchenko (VoID)
+    email: skvoid@mail.ru
+    subject: в этой связи...
+    deleted: false
+    text: "...также советую ознакомиться с вот этими изданиями записей Алана Ломакса\
+      \ - http://www.rounder.com/series/lomax_alan/prison.htm (там дальше по ссылке\
+      \ на каждую пластинку можно и треки послушать). \nЕсть и \"укороченное\" издание\
+      \ этих записей на Legacy в виде одной пластинки."

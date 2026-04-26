@@ -1,0 +1,26 @@
+topic_id: 808
+slug: topic-808
+title: Хочу научится Blues на гитаре
+first_post: 2003-05-01 22:54
+last_post: 2003-05-02 07:37
+post_count: 2
+posts:
+- id: 12184
+  parent_id: null
+  date: 2003-05-01 22:54
+  poster: Mielenyvin
+  email: Mielenyvin@mail.ru
+  subject: Хочу научится Blues на гитаре
+  deleted: false
+  text: Помогите научиться играть блюз профессионально или подскажите, где это можно
+    сделать так, чтоб ещё в институте учиться.
+  replies:
+  - id: 12186
+    parent_id: 12184
+    date: 2003-05-02 07:37
+    poster: Malcolm Ray  Redriver (Mike)
+    email: lifebythedrop@yandex.ru
+    subject: Совет
+    deleted: false
+    text: Можно попробовать самому, по книжкам, на пример. А можно частного препа
+      поискаить, а можно в рок-лицей затусить...

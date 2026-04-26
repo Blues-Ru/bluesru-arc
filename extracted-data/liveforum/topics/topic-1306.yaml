@@ -1,0 +1,74 @@
+topic_id: 1306
+slug: topic-1306
+title: Вот обалденная пластинка!
+first_post: 2003-08-06 14:20
+last_post: 2003-08-09 15:27
+post_count: 6
+posts:
+- id: 13488
+  parent_id: null
+  date: 2003-08-06 14:20
+  poster: Дима Казанцев (Dr. Nick)
+  email: dr.nick@blues.ru
+  subject: Вот обалденная пластинка!
+  deleted: false
+  text: 'http://www.allmusic.com/cg/amg.dll?p=amg&uid=MISS70308060608&sql=Abfevad7kl8wn
+
+
+    Просто ЛУЧШИЙ альбом Фредди!
+
+    Играют так, что даже не верится!
+
+    Стив Ферронэ там просто ВЕЛИК (не зря его сразу пригласили в AWB).
+
+    Всем очень советую - Фредди тут великолепен и на гитаре и в вокале.'
+  replies:
+  - id: 13512
+    parent_id: 13488
+    date: 2003-08-08 17:53
+    poster: vr  (Stone Crazy)
+    email: volodya@blues.ru
+    subject: это клевый конечно диск
+    deleted: false
+    text: "но классические вещи - мне больше нравятся :) а в этом уже \nджазрок какойто\
+      \ проступает изо всех щелей :)))))"
+    replies:
+    - id: 13514
+      parent_id: 13512
+      date: 2003-08-08 18:01
+      poster: Дима Казанцев (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: Это то, что надо!
+      deleted: false
+      text: Красиво, умно, профессионально; лучше, чем ранние сырые вещи. И никакой
+        это не джаз-рок! Не путай 8)
+      replies:
+      - id: 13518
+        parent_id: 13514
+        date: 2003-08-09 00:27
+        poster: vr  (Stone Crazy)
+        email: volodya@blues.ru
+        subject: :))
+        deleted: false
+        text: не - ну музыкально навороченее  :) это я имею ввиду там даже такие почти
+          джазроковые рифы есть местами :) так то блюз конечно ;)
+        replies:
+        - id: 13524
+          parent_id: 13518
+          date: 2003-08-09 14:38
+          poster: Дима Казанцев (Dr. Nick)
+          email: dr.nick@blues.ru
+          subject: Вован
+          deleted: false
+          text: Это не джаз-рок, а соул-блюз, блюз-фанк, блюз-рок; музыки тебе надо
+            больше слушать - для тебя же все на халяву, какая проблема-то? ;)
+        - id: 13525
+          parent_id: 13518
+          date: 2003-08-09 15:27
+          poster: vr  (Stone Crazy)
+          email: volodya@blues.ru
+          subject: да ты не бойся. :)
+          deleted: false
+          text: прикалываюсь я. :) а всетаки пару риффов оттуда прямо можно было б
+            к везеррепорту приложить :) только импровизаций по заменам сл.богу там
+            нет :))))))))))))))

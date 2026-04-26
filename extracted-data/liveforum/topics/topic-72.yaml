@@ -1,0 +1,74 @@
+topic_id: 72
+slug: topic-72
+title: Аграновский, хоть и доктор,
+first_post: 2002-02-19 15:38
+last_post: 2002-02-20 10:13
+post_count: 6
+posts:
+- id: 1411
+  parent_id: null
+  date: 2002-02-19 15:38
+  poster: Andrei V. Evdokimov (evdokimov)
+  email: evdokimov@blues.ru
+  subject: Аграновский, хоть и доктор,
+  deleted: false
+  text: 'но сильно заболел.
+
+    Тем не менее, традиционный блюзовый джем во "Втором Этаже" состоится в четверг
+    - под руководством Гелюты или Немова. Приглашаются все.'
+  replies:
+  - id: 1412
+    parent_id: 1411
+    date: 2002-02-19 18:46
+    poster: boogie beard
+    email: chern@ints.ru
+    subject: пусть выздоравливает скорее !
+    deleted: false
+    text: 'Жаль, ведь немного у нас блюзменов, верных традициям.
+
+      А без них - рокеры, которые до конца дней своих будут дым над водой играть повылезают
+      на сцену и будут пилить :-))
+
+
+      Пардон за вопрос - а кто такой Гилюта, и чем прославился ?
+
+
+
+
+      Спасибо,
+
+      Леша'
+    replies:
+    - id: 1414
+      parent_id: 1412
+      date: 2002-02-19 19:06
+      poster: Игорь Г.
+      email: sunny_city@mail.ru
+      subject: Чем прославился не знаю ,но
+      deleted: false
+      text: приходи ,сам все услышишь.Очень,очень достойный гитарист.Старая гвардия
+        во всех смыслах.
+  - id: 1415
+    parent_id: 1411
+    date: 2002-02-19 19:11
+    poster: Игорь Г.
+    email: sunny_city@mail.ru
+    subject: Док, правда, выздоравливай скорей
+    deleted: false
+    text: Сейчас выпью с друзьями за твое здоровье.
+  - id: 1417
+    parent_id: 1411
+    date: 2002-02-19 20:59
+    poster: металлисты
+    email: metal@mail.ru
+    subject: Док, поправляйся!  А то.....
+    deleted: false
+    text: мы тебя придем лечить сами :-))
+  - id: 1435
+    parent_id: 1411
+    date: 2002-02-20 10:13
+    poster: Костин Владимир (Volk)
+    email: volk21@land.ru
+    subject: Доктор выздоравливай!!!!!!!
+    deleted: false
+    text: не поддавайся на провокации злобной болезни!

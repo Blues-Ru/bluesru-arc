@@ -1,0 +1,137 @@
+#previewFull {
+  background-color: #414141 !important;
+  width: 739px !important;
+  color: inherit;
+}
+
+#liveUpdateContactInfo {
+  color: #B3B3B3 !important;
+  background-color: inherit;
+}
+
+#content {
+  background-color: #363636 !important;
+  color: inherit;
+}
+
+#stage {
+  width: 645px !important;
+}
+
+.preview {
+  border: 1px solid #000000 !important;
+}
+
+.borderRightDotted {
+  border-right: 1px dotted #787878 !important;
+}
+
+#stage, #stage2 {
+  border-bottom: 1px dotted #7F7F7F !important;
+}
+
+body {
+  background-color: #363636 !important;
+  color: inherit;
+}
+
+.selectedThumbnail, .thumbnail:hover {
+  background-color: #808080 !important;
+  color: inherit;
+}
+
+#liveUpdateCollectionDescription {
+  color: #B3B3B3 !important;
+  background-color: inherit;
+}
+
+.caption {
+  color: #B3B3B3 !important;
+  background-color: inherit;
+}
+
+#sitetitle {
+  border-bottom: 1px dotted #7F7F7F !important;
+}
+
+.thumbnail {
+  background-color: #4F4F4F !important;
+  color: inherit;
+}
+
+.previewFullImage {
+  height: 717px !important;
+  width: 739px !important;
+}
+
+#stage2 {
+  width: 739px !important;
+}
+
+.itemNumber {
+  display: inherit !important;
+  color: #7A7A7A !important;
+  background-color: inherit;
+}
+
+#wrapper {
+  width: 645px !important;
+}
+
+.borderTopLeft {
+  border-top: 1px solid #787878 !important;
+  border-left: 1px solid #787878 !important;
+}
+
+.emptyThumbnail {
+  background-color: #4F4F4F !important;
+  color: inherit;
+}
+
+.borderBottomRight {
+  border-right: 1px solid #787878 !important;
+  border-bottom: 1px solid #787878 !important;
+}
+
+#wrapper2 {
+  width: 739px !important;
+}
+
+.logo {
+  display: none !important;
+}
+
+.thumb, .preview {
+}
+
+#liveUpdateCollectionTitle {
+  color: #B3B3B3 !important;
+  background-color: inherit;
+}
+
+.paginationLinks, .pagination, #liveUpdatePagination {
+  color: #B3B3B3 !important;
+  background-color: inherit;
+}
+
+.thumb {
+  border: 1px solid #9D9D9D !important;
+}
+
+#liveUpdateSiteTitle {
+  color: #B3B3B3 !important;
+  background-color: inherit;
+}
+
+.borderBottom {
+  border-bottom: 1px solid #787878 !important;
+}
+
+.borderRight {
+  border-right: 1px solid #787878 !important;
+}
+
+.detailNav, .detailLinks, #detailCaption, #detailTitle {
+  color: #B3B3B3 !important;
+  background-color: inherit;
+}

@@ -1,0 +1,37 @@
+topic_id: 2075
+slug: topic-2075
+title: Ху из мистер Buzz Feiten?
+first_post: 2004-04-29 20:18
+last_post: 2004-05-05 18:41
+post_count: 3
+posts:
+- id: 18271
+  parent_id: null
+  date: 2004-04-29 20:18
+  poster: Старый Майор
+  email: gypsy@mail.ru
+  subject: Ху из мистер Buzz Feiten?
+  deleted: false
+  text: "Обнаружил на сайте www.slami.ru следующую загадочную надпись:\n\"система\
+    \ расчета ладов Buzz Feiten\" - http://www.slami.ru/catalog/item.php?CNT14322+++\
+    \ \n\nПошёл на www.buzzfeiten.com..  и ничего не понял... но все ведущие собаководы\
+    \ с умными лицами грят, что революционный способ настройки гитары. Кто разберётся\
+    \ - поделитесь опытом, может это полезно?"
+  replies:
+  - id: 18302
+    parent_id: 18271
+    date: 2004-05-01 11:17
+    poster: Лев Кузнецов (lvk)
+    email: lvk@inbox.ru
+    subject: Это --- одна из разновидностей compensated nut.
+    deleted: false
+    text: 'Вот неплохая статья (серия статей) про строй-нестрой: http://www.doolinguitars.com/intonation/intonation1.html'
+    replies:
+    - id: 18321
+      parent_id: 18302
+      date: 2004-05-05 18:41
+      poster: Старый Майор
+      email: gypsy@mail.ru
+      subject: Мдя.. прочитав сей талмуд премудрый, чую я, что стал просто Nuts non-compensated
+        =))
+      deleted: false

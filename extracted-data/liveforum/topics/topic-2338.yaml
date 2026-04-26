@@ -1,0 +1,29 @@
+topic_id: 2338
+slug: topic-2338
+title: наиблюзнейший блюз
+first_post: 2004-12-01 23:07
+last_post: 2004-12-08 00:43
+post_count: 2
+posts:
+- id: 19890
+  parent_id: null
+  date: 2004-12-01 23:07
+  poster: disik
+  email: denis1482@mail.ru
+  subject: наиблюзнейший блюз
+  deleted: false
+  text: 'http://pushnoy.ru/mp3/2003-2004/Pushnoy-ru_LonelyHarmonica.mp3
+
+    Понимаю, что для многих (в том числе, наверное, и для автора) это скорее шутка/издевательство,
+    но все-таки это как нельзя точно передает то, как такой блюз слышится носителем
+    языка...'
+  replies:
+  - id: 19908
+    parent_id: 19890
+    date: 2004-12-08 00:43
+    poster: Серега Алексеев (Sharikoff)
+    email: sharikoff@pochta.ru
+    subject: клево!
+    deleted: false
+    text: главное, что отражено физическое состояние. Ближе к концу песни сознание
+      практически покидает исполнителя.

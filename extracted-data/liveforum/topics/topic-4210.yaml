@@ -1,0 +1,23 @@
+topic_id: 4210
+slug: topic-4210
+title: УРА!
+first_post: 2009-04-09 17:36
+last_post: 2009-04-10 05:10
+post_count: 2
+posts:
+- id: 36275
+  parent_id: null
+  date: 2009-04-09 17:36
+  poster: xaxayc
+  email: buchothk@yahoo.com
+  subject: УРА!
+  deleted: false
+  text: Дядю Юру с прибавлением!!! в новости такое надо! )
+  replies:
+  - id: 36276
+    parent_id: 36275
+    date: 2009-04-10 05:10
+    poster: tavrichesky
+    email: gnvhjv
+    subject: да-да-дадада-дадада!
+    deleted: false

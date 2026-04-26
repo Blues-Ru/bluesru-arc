@@ -1,0 +1,81 @@
+topic_id: 478
+slug: topic-478
+title: JAM FOR JIMI
+first_post: 2002-11-25 02:11
+last_post: 2002-11-29 08:29
+post_count: 8
+posts:
+- id: 8977
+  parent_id: null
+  date: 2002-11-25 02:11
+  poster: Андрей Папорков (Парамон)
+  email: paramon_blues@mail.ru
+  subject: JAM FOR JIMI
+  deleted: false
+  text: Дорогие люди! Моя жена родила мне вчера дочу! Я Вас всех люблю! Всем привет
+    из нашего Рыбинска! Мы будем лобать весело и громко в четверг во славу Дж.М.Хендриксу!
+    Пишите нам письма, присылайте водку, пиво и т.д. "BLUEZZARD"
+  replies:
+  - id: 8978
+    parent_id: 8977
+    date: 2002-11-25 07:48
+    poster: Malcolm Ray  Redriver (Mike)
+    email: lifebythedrop@yandex.ru
+    subject: Hail to the King!!!
+    deleted: false
+    text: Мои поздравления. И...Восславим Джони Алена ну или Джеймса Маршалла, ну,
+      короче- Джими Хендрикса!!!
+    replies:
+    - id: 8980
+      parent_id: 8978
+      date: 2002-11-25 12:28
+      poster: Петр Кунарев (Eastwood2002)
+      email: cousins@yandex.ru
+      subject: Майкл!!!!
+      deleted: false
+      text: У меня почта не работает, и интерннета долго не было)))) Приходи в среду
+        на трибьют, хоть познакомимся)))) тел. 493 77 49 Пит)))
+      replies:
+      - id: 8989
+        parent_id: 8980
+        date: 2002-11-25 21:01
+        poster: Malcolm Ray  Redriver (Mike)
+        email: lifebythedrop@yandex.ru
+        subject: А куда
+        deleted: false
+        text: А где трибьют-то, чувак, я рад тебя видеть (т.е. прочесть)...:)
+        replies:
+        - id: 8994
+          parent_id: 8989
+          date: 2002-11-26 12:37
+          poster: Петр Кунарев (Eastwood2002)
+          email: cousins@yandex.ru
+          subject: В БиБи Кинге - посмотри главную страницу)))
+          deleted: false
+        - id: 9039
+          parent_id: 8989
+          date: 2002-11-27 15:25
+          poster: Петр Кунарев (Eastwood2002)
+          email: cousins@yandex.ru
+          subject: Миша,
+          deleted: false
+          text: так как насчет сегодня-то? короче, откликнись - если что на м. Цветной
+            Бульвар в 20-00, я с бородой и в черной шляпе)))))))и в очках))) вот.
+            Вход, говорят - 150р. давай, если сможешь)))))
+          replies:
+          - id: 9040
+            parent_id: 9039
+            date: 2002-11-27 15:26
+            poster: Петр Кунарев (Eastwood2002)
+            email: cousins@yandex.ru
+            subject: прямо как из метро выйдешь, не внутри)))
+            deleted: false
+          - id: 9073
+            parent_id: 9039
+            date: 2002-11-29 08:29
+            poster: Malcolm Ray  Redriver (Mike)
+            email: lifebythedrop@yandex.ru
+            subject: Damn
+            deleted: false
+            text: '... Прямо ZZ Top... увы, не приду. Нет денег вообще. :( ... Тем
+              более опять упустил время...'

@@ -1,0 +1,29 @@
+topic_id: 524
+slug: topic-524
+title: Так энд Петти
+first_post: 2002-12-21 17:05
+last_post: 2002-12-23 00:05
+post_count: 2
+posts:
+- id: 9547
+  parent_id: null
+  date: 2002-12-21 17:05
+  poster: Фатя
+  email: fatyamos@mail.ru
+  subject: Так энд Петти
+  deleted: false
+  text: Услышал этот чудный дуэт в прогамме "Эфес блюз бар" на "Открытом радио", но
+    даже не знаю как они правильно пишутся по английски. У кого есть информация об
+    этих людях, ссылка на их страничку, подскажите, пожалуйста
+  replies:
+  - id: 9558
+    parent_id: 9547
+    date: 2002-12-23 00:05
+    poster: Дима Казанцев (Казан)
+    email: dr.nick@blues.ru
+    subject: Вот эти?
+    deleted: false
+    text: 'http://www.allmusic.com/cg/amg.dll?p=amg&sql=B3ifqxqy5ldde
+
+
+      Ну эта... они явно не по блюзу ;)'

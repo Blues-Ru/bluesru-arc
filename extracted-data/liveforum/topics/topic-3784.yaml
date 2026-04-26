@@ -1,0 +1,110 @@
+topic_id: 3784
+slug: topic-3784
+title: А вот что обычно играется на джемах?
+first_post: 2007-11-02 14:41
+last_post: 2007-11-03 16:13
+post_count: 8
+posts:
+- id: 33789
+  parent_id: null
+  date: 2007-11-02 14:41
+  poster: Paolo
+  email: high-wire@mail.ru
+  subject: А вот что обычно играется на джемах?
+  deleted: false
+  text: 'Накидайте пожалуйста пару десятков названий вещей которые по вашему мнению
+    должен знать каждый уважающий себя блюзмен ))) Наиболее часто исполняемые вещи.
+    Желательно с указанием с какого альбома и кто автор.
+
+    Спасибо заранее'
+  replies:
+  - id: 33791
+    parent_id: 33789
+    date: 2007-11-02 15:57
+    poster: Dmitri Kazantsev (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: любой блюз на трёх аккордах
+    deleted: false
+    text: ну или на одном
+  - id: 33792
+    parent_id: 33789
+    date: 2007-11-02 16:01
+    poster: Paolo
+    email: high-wire
+    subject: Ну это понятно )) а все-таки?
+    deleted: false
+    text: Чтобы знать характерные риффы, темы, вступления etc. )))
+    replies:
+    - id: 33797
+      parent_id: 33792
+      date: 2007-11-03 00:08
+      poster: Эльдар
+      email: Эльдар
+      subject: Надо вообще слушать и знать эту музыку
+      deleted: false
+      text: 'Надо вообще слушать и знать (эту) музыку.
+
+        Если канктретна:
+
+        Crossroards
+
+        Hoochie Coochie Man, Manish Boy
+
+        Johnny J. Goode
+
+        Red House, Leave My Girl Alone
+
+        Boom Boom
+
+        Got My Mojo Workin''
+
+        Too Young To Know
+
+        Spoonful
+
+        (чёт миня этот списак смущаеть, чё-то ни так...)
+
+        не пишу исполнителей. если слушаешь эту музыку, то знаешь/поймешь про каких
+        исполнителей идёт речь.'
+      replies:
+      - id: 33802
+        parent_id: 33797
+        date: 2007-11-03 12:05
+        poster: Старый Майор
+        email: gypsy@mail.ru
+        subject: Самое главное забыл!
+        deleted: false
+        text: Stormey Mandey )))
+    - id: 33798
+      parent_id: 33792
+      date: 2007-11-03 00:12
+      poster: Dmitri Kazantsev (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: мадди уотерз
+      deleted: false
+      text: 'любят стиви рэя вона у нас
+
+
+        классику блюза надо слушать и снимать'
+      replies:
+      - id: 33803
+        parent_id: 33798
+        date: 2007-11-03 12:07
+        poster: Старый Майор
+        email: gypsy@mail.ru
+        subject: Дима, а мадди уотерз ни у кого не получается!
+        deleted: false
+        text: 'А СРВ получается, вот и играют!
+
+          Много нот брать просто, а одну ноту сложно!
+
+          Как будто ты не знаешь ))'
+        replies:
+        - id: 33804
+          parent_id: 33803
+          date: 2007-11-03 16:13
+          poster: Dmitri Kazantsev (Dr. Nick)
+          email: dr.nick@blues.ru
+          subject: ну я к примеру
+          deleted: false
+          text: хотел еще написать про Вулфа, но задумался...

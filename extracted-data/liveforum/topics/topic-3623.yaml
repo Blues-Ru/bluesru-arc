@@ -1,0 +1,29 @@
+topic_id: 3623
+slug: topic-3623
+title: фотки с феста
+first_post: 2007-04-26 18:30
+last_post: 2007-04-28 02:02
+post_count: 2
+posts:
+- id: 32538
+  parent_id: null
+  date: 2007-04-26 18:30
+  poster: Dmitri Kazantsev (Dr. Nick)
+  email: dr.nick@blues.ru
+  subject: фотки с феста
+  deleted: false
+  text: 'http://drnick.mylivepage.ru/image/530_vysotsky_2
+
+
+    фотографировали: Сергей Сорокин и Сергей Кириченко'
+  replies:
+  - id: 32569
+    parent_id: 32538
+    date: 2007-04-28 02:02
+    poster: Ещё фотки с феста
+    email: oldbabka@gmail.com
+    subject: Ещё фотки с феста
+    deleted: false
+    text: 'Есть ещё немного фоток со второго дня.
+
+      http://photofile.ru/users/oldgranny/2637229'

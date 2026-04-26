@@ -1,0 +1,123 @@
+topic_id: 2942
+slug: topic-2942
+title: о группе
+first_post: 2005-11-21 21:06
+last_post: 2005-11-23 11:33
+post_count: 12
+posts:
+- id: 24650
+  parent_id: null
+  date: 2005-11-21 21:06
+  poster: Грязный Гарри
+  email: s-vladykin@mail.ru
+  subject: о группе
+  deleted: false
+  text: 'Добрый вечер всем профессионалам и любителям блюза ))
+
+    Несколько лет назад занесло меня в клуб на Бульварном Кольце (кажется, "Вудсток").
+    Среди прочих музыкантов выступал группа Rock Play Band. Кто-нибудь что-то знает
+    о них? У них мужик с бородой - солист, играл Crawling King Snake. Вот такие приметы
+    :)))'
+  replies:
+  - id: 24651
+    parent_id: 24650
+    date: 2005-11-21 21:14
+    poster: Владимир Русинов (BluesCat)
+    email: volodya@blues.ru
+    subject: а мужик то...
+    deleted: false
+    text: сидячий или стоячий?
+  - id: 24658
+    parent_id: 24650
+    date: 2005-11-22 09:46
+    poster: (Grem)
+    email: grems@yandex.ru
+    subject: полный или худой...
+    deleted: false
+  - id: 24659
+    parent_id: 24650
+    date: 2005-11-22 09:46
+    poster: (Grem)
+    email: grems@yandex.ru
+    subject: полный или худой...
+    deleted: false
+    replies:
+    - id: 24669
+      parent_id: 24659
+      date: 2005-11-22 14:21
+      poster: Грязный Гарри
+      email: s-vladykin@mail.ru
+      subject: может быть даже и пиджаке
+      deleted: false
+      text: сидячий, не помню, в пиджаке или нет :-) А группа-то есть такая?
+    - id: 24670
+      parent_id: 24659
+      date: 2005-11-22 14:21
+      poster: Грязный Гарри
+      email: s-vladykin@mail.ru
+      subject: может быть даже и в пиджаке
+      deleted: false
+      text: сидячий, не помню, в пиджаке или нет :-) А группа-то есть такая?
+      replies:
+      - id: 24672
+        parent_id: 24670
+        date: 2005-11-22 14:40
+        poster: Игорь Г
+        email: sunny_city@mail.ru
+        subject: Да не кипятись ты. Это ОН ?
+        deleted: false
+        text: 'http://bluesman.ru/2004/foto/29_06_2004/pages/DCP_3389_1_jpg.htm
+
+          http://bluesman.ru/2004/download/29_06_2004/CrawlingKingsnake.ogg'
+        replies:
+        - id: 24685
+          parent_id: 24672
+          date: 2005-11-22 16:17
+          poster: Дмитрий Казанцев (Dr. Nick)
+          email: dr.nick@blues.ru
+          subject: БУ - парапапапапа, РА - парапапапап, ТИ! НО!
+          deleted: false
+          text: 'Бу Ра Ти Но!
+
+
+            пара-па-папа-па-па
+
+
+            ...он не игрушка, он живой!...'
+          replies:
+          - id: 24697
+            parent_id: 24685
+            date: 2005-11-22 17:48
+            poster: Дмитрий (фан)
+            email: leonidovd@mail.ru
+            subject: Кстати, про Грязного Гарри.. хе-хе...
+            deleted: false
+            text: Когда увидел подпись под постом, долго смеялся, т.к. имею такой
+              же ник на гостевой своего старого приятеля. Но чес слово, тут Г.Г. -
+              это не я)))
+          - id: 24710
+            parent_id: 24685
+            date: 2005-11-23 00:04
+            poster: Yuri Kaverkin (Gekko)
+            email: kaverkin@rol.ru
+            subject: Так! За Буратину ответишь!!!
+            deleted: false
+            replies:
+            - id: 24713
+              parent_id: 24710
+              date: 2005-11-23 02:39
+              poster: Ара Блюзмен
+              email: ara@blues.ru
+              subject: ара, зачем так кричишь?
+              deleted: false
+              text: разве он ишак? просто шутку юмора говорил про деревянного героя
+                из италии! фильм был очень хорош, все любили буратину!
+        - id: 24719
+          parent_id: 24672
+          date: 2005-11-23 11:33
+          poster: Грязный Гарри
+          email: s-vladykin@mail.ru
+          subject: да, похож
+          deleted: false
+          text: тот тоже на стуле сидел )) Группа значитца называется Dirty Dozen,
+            спасибо

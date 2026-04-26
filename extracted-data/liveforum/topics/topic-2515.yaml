@@ -1,0 +1,58 @@
+topic_id: 2515
+slug: topic-2515
+title: Rory Block "From the Dust" 2005
+first_post: 2005-04-11 01:11
+last_post: 2005-04-12 20:53
+post_count: 5
+posts:
+- id: 21053
+  parent_id: null
+  date: 2005-04-11 01:11
+  poster: Михаил Бирюков (nECKAPb)
+  email: blackcat@blues.ru
+  subject: Rory Block "From the Dust" 2005
+  deleted: false
+  text: 'Вышел новый диск Рори Блок.
+
+    <a href="http://www.allmusic.com/cg/amg.dll?p=amg&sql=10:l7he4j877waq" target="_blank"><i>"Bottom
+    line: there''s nobody like Rory Block. [...] Rory Block is the blues."</i></a>
+    - пишет о её новой работе AMG.'
+  replies:
+  - id: 21068
+    parent_id: 21053
+    date: 2005-04-11 13:20
+    poster: Andrei V. Evdokimov (evdokimov)
+    email: evdokimov@blues.ru
+    subject: дык, о ней только ленивый не писал
+    deleted: false
+    text: 'это вот из журнала Play : <a href;="http://rock.samaratoday.ru/relisy/06-01.asp"
+      target="_blank">http://rock.samaratoday.ru/relisy/06-01.asp</a>
+
+
+      па вот BluesNews: <a href;="http://www.bluesnews.ru/notice/?id=2142" target="_blank">http://www.bluesnews.ru/notice/?id=2142</a>'
+    replies:
+    - id: 21098
+      parent_id: 21068
+      date: 2005-04-12 20:53
+      poster: Михаил Бирюков (nECKAPb)
+      email: blackcat@blues.ru
+      subject: приношу...
+      deleted: false
+      text: '... самые глубокие извинения.'
+  - id: 21085
+    parent_id: 21053
+    date: 2005-04-12 05:10
+    poster: Michael Kaplan (plan)
+    email: _plan_@mail.ru
+    subject: Вот даже ослиный линк , у кого ещё нет..
+    deleted: false
+    text: ed2k://|file|Rory%20%20Block%20-%20From%20The%20Dust%202005%20www.bluesband.da.ru.rar|69826396|948DDB93589FA6BC7B4EA09934FE12DC|/
+    replies:
+    - id: 21086
+      parent_id: 21085
+      date: 2005-04-12 05:20
+      poster: Michael Kaplan (plan)
+      email: _plan_@mail.ru
+      subject: IMHO
+      deleted: false
+      text: лучший её альбом это Gone Woman Blues - шикарниший акустик-блюз!

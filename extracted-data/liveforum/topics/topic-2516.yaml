@@ -1,0 +1,148 @@
+topic_id: 2516
+slug: topic-2516
+title: А в это время во Владимире... ;)
+first_post: 2005-04-11 03:01
+last_post: 2005-04-13 13:35
+post_count: 15
+posts:
+- id: 21055
+  parent_id: null
+  date: 2005-04-11 03:01
+  poster: Федор Романенко (fedor)
+  email: fedor@blues.ru
+  subject: А в это время во Владимире... ;)
+  deleted: false
+  text: 'Центральная площадь, золотые ворота ;)))
+
+
+    <img src="http://www.blues.ru/bluesmen/Vidar_Busk/VidarBuskVladimir.jpg">'
+  replies:
+  - id: 21057
+    parent_id: 21055
+    date: 2005-04-11 03:19
+    poster: Дима Казанцев (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: ага
+    deleted: false
+    text: особенно радует фраза про ВПЕРВЫЕ В РОССИИ! :)
+    replies:
+    - id: 21060
+      parent_id: 21057
+      date: 2005-04-11 09:01
+      poster: Ded Morozzz
+      email: morozzz_ded@mail.ru
+      subject: это же паблисити
+      deleted: false
+      text: 'что ж, надо было написать: "второй раз в России, первый раз во Владимире,
+        ни разу в Урюпинске"? :)'
+      replies:
+      - id: 21061
+        parent_id: 21060
+        date: 2005-04-11 09:02
+        poster: Ded Morozzz
+        email: morozzz_ded@mail.ru
+        subject: кстати
+        deleted: false
+        text: 'щит больше, чем кажется на фотографии
+
+          вот :)'
+        replies:
+        - id: 21071
+          parent_id: 21061
+          date: 2005-04-11 13:29
+          poster: Дима Казанцев (Dr. Nick)
+          email: dr.nick@blues.ru
+          subject: хорошо сделано
+          deleted: false
+          text: что уж тут скажешь
+      - id: 21070
+        parent_id: 21060
+        date: 2005-04-11 13:28
+        poster: Дима Казанцев (Dr. Nick)
+        email: dr.nick@blues.ru
+        subject: так бы было супер!
+        deleted: false
+        text: '"Второй раз в Мааскве! Первый во Владимире! Ни разу в Урюпинске! И
+          никогда в Пырловке!"'
+    - id: 21076
+      parent_id: 21057
+      date: 2005-04-11 16:14
+      poster: Anton Klepikov (Antokha)
+      email: antokha@yandex.ru
+      subject: А еще радует слово ЛЕГЕНДАРНЫЙ! (-)
+      deleted: false
+      replies:
+      - id: 21078
+        parent_id: 21076
+        date: 2005-04-11 17:23
+        poster: Andrei V. Evdokimov (evdokimov)
+        email: evdokimov@blues.ru
+        subject: да
+        deleted: false
+        text: слово "легендарный" - такое же потрепанное, как слово "блюз".
+      - id: 21079
+        parent_id: 21076
+        date: 2005-04-11 18:34
+        poster: brujo
+        email: brujo@pisem.net
+        subject: легендарный, точно вам говорю
+        deleted: false
+        text: А что, Бюск во Владимире - реально "легендарный". Например, Дед Мороззз
+          про него постоянно легенды рассказывает. И не только Дед Мороззз.. :)
+        replies:
+        - id: 21080
+          parent_id: 21079
+          date: 2005-04-11 18:39
+          poster: Anton Klepikov (Antokha)
+          email: antokha@yandex.ru
+          subject: возможно имелось в виду слово "известный", но рука дрогнула и случился
+            неплохой такой комплимент... (-)
+          deleted: false
+  - id: 21062
+    parent_id: 21055
+    date: 2005-04-11 10:30
+    poster: (Grem)
+    email: grems@yandex.ru
+    subject: Ну вот,нам москвичам нос утерли....
+    deleted: false
+    text: 'Мааалааадцы, владимирцы!!!!
+
+      Очень классный плакатец, значит хорошие спонсоры,а стало быть и рекламная поддержка....'
+    replies:
+    - id: 21069
+      parent_id: 21062
+      date: 2005-04-11 13:27
+      poster: Дима Казанцев (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: много ли тут масквичей, Грем? :)
+      deleted: false
+      text: подумай как следует :)
+    - id: 21102
+      parent_id: 21062
+      date: 2005-04-13 13:35
+      poster: Oleg Kuzmin (Line Records)
+      email: artline@port33.ru
+      subject: Везде свои да наши!
+      deleted: false
+      text: Спонсоры!? )))) Это скорее всего голый интузиазм!
+  - id: 21072
+    parent_id: 21055
+    date: 2005-04-11 13:57
+    poster: (Grem)
+    email: grems@yandex.ru
+    subject: Да оно по барабану....
+    deleted: false
+    text: Ведь заело...а то едишь на машине...а кругом "Фабрика заебзд", "Турецкий
+      кульбит" и пр.,а во Владимире - лепооота.....Widar Busk среди куполов и церквей...елы-палы:-))))
+    replies:
+    - id: 21077
+      parent_id: 21072
+      date: 2005-04-11 16:21
+      poster: Ded Morozzz
+      email: morozzz_ded@mail.ru
+      subject: В качестве дополнения :)
+      deleted: false
+      text: '<img src=http://www.dedmorozzz.elcom.ru/VidarB_02.JPG>
+
+
+        хотя здесь шит кажется меньше :) но зато церквей больше :)'

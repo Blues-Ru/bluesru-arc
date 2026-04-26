@@ -1,0 +1,21 @@
+topic_id: 4253
+slug: topic-4253
+title: др Эл
+first_post: 2009-06-29 00:36
+last_post: 2009-06-30 09:10
+post_count: 2
+posts:
+- id: 36441
+  parent_id: null
+  date: 2009-06-29 00:36
+  poster: balt
+  subject: др Эл
+  deleted: false
+  text: вот
+  replies:
+  - id: 36444
+    parent_id: 36441
+    date: 2009-06-30 09:10
+    poster: Andrei V. Evdokimov
+    subject: поздравляем и очень ждем!
+    deleted: false

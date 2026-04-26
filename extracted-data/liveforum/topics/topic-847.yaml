@@ -1,0 +1,71 @@
+topic_id: 847
+slug: topic-847
+title: Как всегда - а сколько по деньгам? ;))))
+first_post: 2003-05-15 13:39
+last_post: 2003-05-17 10:42
+post_count: 7
+posts:
+- id: 12483
+  parent_id: null
+  date: 2003-05-15 13:39
+  poster: Cowboy Pete
+  email: cousins@yandex.ru
+  subject: Как всегда - а сколько по деньгам? ;))))
+  deleted: false
+  text: Сколько стоят билеты на BlueZZoology и сколько стоит Blues.ru 2003?
+  replies:
+  - id: 12484
+    parent_id: 12483
+    date: 2003-05-15 14:08
+    poster: Алексей Аграновский (Док)
+    email: aaa@genebee.msu.su
+    subject: 'Как всегда, умеренно:'
+    deleted: false
+    text: 'Блюзоолоджи, 100 р.
+
+      Би-2, не знаю.'
+    replies:
+    - id: 12486
+      parent_id: 12484
+      date: 2003-05-15 19:46
+      poster: Cowboy Pete
+      email: cousins@yandex.ru
+      subject: Thank ya, Doc,
+      deleted: false
+      text: Прийду, как всегда, уже в предвкушении :))) Народ приведу))))
+  - id: 12489
+    parent_id: 12483
+    date: 2003-05-16 08:30
+    poster: Руслан Абдалов (RR)
+    email: RR@RAMBLER.RU
+    subject: А почему в один день ?
+    deleted: false
+    text: Я бы с удовольствием на оба мероприятия сходил...
+    replies:
+    - id: 12493
+      parent_id: 12489
+      date: 2003-05-16 13:20
+      poster: Алексей Аграновский (Док)
+      email: aaa@genebee.msu.su
+      subject: Как такое?
+      deleted: false
+      text: Нет ли путаницы?
+      replies:
+      - id: 12494
+        parent_id: 12493
+        date: 2003-05-16 13:21
+        poster: Алексей Аграновский (Док)
+        email: aaa@genebee.msu.su
+        subject: Сообщение улетело раньше срока -
+        deleted: false
+        text: в один день с чем еще?
+        replies:
+        - id: 12511
+          parent_id: 12494
+          date: 2003-05-17 10:42
+          poster: Абдалов Руслан (RR)
+          email: RR@RAMBLER.RU
+          subject: Прошу прощения, действительно произошла путаница...
+          deleted: false
+          text: Почему-то  отложилось что оба мероприятия (Bluezoology и Blues2003)
+            27го числа будут. Извиняюсь....

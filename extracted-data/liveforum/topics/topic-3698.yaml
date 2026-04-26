@@ -1,0 +1,63 @@
+topic_id: 3698
+slug: topic-3698
+title: The Rolling Stones :)
+first_post: 2007-07-30 02:05
+last_post: 2007-08-02 03:40
+post_count: 6
+posts:
+- id: 33301
+  parent_id: null
+  date: 2007-07-30 02:05
+  poster: Владимир Русинов (BluesCat)
+  email: volodya@blues.ru
+  subject: The Rolling Stones :)
+  deleted: false
+  text: '<A HREF="http://bluesforum.ru/index.php?showtopic=565">http://bluesforum.ru/index.php?showtopic=565</A>
+
+
+    небольшой отчет с фотками :)'
+  replies:
+  - id: 33302
+    parent_id: 33301
+    date: 2007-07-30 07:22
+    poster: Igor Sazonov (Gnom)
+    email: igorsaz@hotmail.com
+    subject: Фото - класс!
+    deleted: false
+    text: Что это за "мыльница" с таким качеством?
+    replies:
+    - id: 33304
+      parent_id: 33302
+      date: 2007-07-30 11:20
+      poster: Владимир Русинов (BluesCat)
+      email: volodya@blues.ru
+      subject: fuji finepix f30 :)
+      deleted: false
+      text: я уже превращаюсь в ходячую рекламу этого аппарата :) но он реально клевый.
+        :)
+      replies:
+      - id: 33307
+        parent_id: 33304
+        date: 2007-07-30 15:44
+        poster: Dmitri Kazantsev (Dr. Nick)
+        email: dr.nick@blues.ru
+        subject: пусть деньги тебе платят за рекламу!
+        deleted: false
+        replies:
+        - id: 33308
+          parent_id: 33307
+          date: 2007-07-30 16:56
+          poster: Ст.М.
+          email: gypsy@mail.ru
+          subject: '+1'
+          deleted: false
+  - id: 33316
+    parent_id: 33301
+    date: 2007-08-02 03:40
+    poster: SOBO Dan
+    email: sobo.co.il
+    subject: Хорошо тебе...
+    deleted: false
+    text: 'Фотки, кстати, классные
+
+      пока из всех что видел - твои на первом месте'

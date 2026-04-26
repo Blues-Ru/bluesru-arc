@@ -1,0 +1,34 @@
+topic_id: 1758
+slug: topic-1758
+title: Есть повод порадоваться и хлопнуть рюмашку
+first_post: 2004-01-09 13:13
+last_post: 2004-01-10 18:10
+post_count: 3
+posts:
+- id: 16727
+  parent_id: null
+  date: 2004-01-09 13:13
+  poster: Игорь Головачев (Игорь Г.)
+  email: sunny_city@mail.ru
+  subject: Есть повод порадоваться и хлопнуть рюмашку
+  deleted: false
+  text: "за здравие талантливого художника и любителя блюза А.Меринова\nМногие не\
+    \ раз,пожалуй,видели это задумчивое;)) лицо на концертах и джемах  \nhttp://bluesman.ru/foto/16_01_2003/pages/DCP_2236_1_jpg.htm\n\
+    http://mk.ru/numbers/815/article23214.htm\n\nСердеШно поздравляю!!!\n\np.s\nКак\
+    \ я смеялся.... :)))Ну просто ржал как конь... :)))\nhttp://mk.ru/person/merinov.asp"
+  replies:
+  - id: 16736
+    parent_id: 16727
+    date: 2004-01-09 16:33
+    poster: Andy mcletsoff (McL)
+    email: mcl@macbox.ru
+    subject: Сердешные поздравления
+    deleted: false
+    text: Великому русскому художнику конца ХХ - начала ХХI веков поздравления
+  - id: 16770
+    parent_id: 16727
+    date: 2004-01-10 18:10
+    poster: Yuri Kaverkin (Gekko)
+    email: kaverkin@rol.ru
+    subject: Всяческих благ и многие лета!!!!Ура!!!
+    deleted: false

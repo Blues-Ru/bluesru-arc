@@ -1,0 +1,66 @@
+topic_id: 3494
+slug: topic-3494
+title: Сергея Воронова с Юбилеем!!!
+first_post: 2006-11-16 01:11
+last_post: 2006-11-23 15:31
+post_count: 6
+posts:
+- id: 29382
+  parent_id: null
+  date: 2006-11-16 01:11
+  poster: Grem
+  email: grems@yandex.ru
+  subject: Сергея Воронова с Юбилеем!!!
+  deleted: false
+  text: 'Серега,
+
+    Поздравляем тебя с 45-летием.
+
+    Желаем здоровья, любви ,удачи и много много блюза.
+
+    Грем и Надежда'
+  replies:
+  - id: 29385
+    parent_id: 29382
+    date: 2006-11-16 10:14
+    poster: Dmitri Kazantsev (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: ура!
+    deleted: false
+  - id: 29390
+    parent_id: 29382
+    date: 2006-11-17 10:01
+    poster: вадим коробко
+    email: нет@
+    subject: прогулка в брилиантовый дождь
+    deleted: false
+    text: 'подскажите пожалуста где можно в интернет скачать песню прогулка в брилиантовый
+      дождь группы кроссроадс и где можно найти аккорды этой песни.
+
+      спасибо,
+
+      вадим коробко'
+    replies:
+    - id: 29404
+      parent_id: 29390
+      date: 2006-11-20 16:39
+      poster: Эльдар
+      email: еlicaster мeйлтoчкapy
+      subject: 'Можно скачать здесь:'
+      deleted: false
+      text: "Зайдите на страничку сайта Кроссроудз: \nhttp://www.thecrossroadz.ru/new/?music\n\
+        или сюда:\nhttp://musicmp3.spb.ru/mp3/2206/crossroads.htm"
+    - id: 29420
+      parent_id: 29390
+      date: 2006-11-23 15:31
+      poster: низнайко
+      email: '---'
+      subject: а акордов там нету только бас и соло!
+      deleted: false
+  - id: 29391
+    parent_id: 29382
+    date: 2006-11-17 14:13
+    poster: Руслан Чифуров
+    email: chifuroff<sobaka>inbox.ru
+    subject: Присоединяюсь к поздравлениям!
+    deleted: false

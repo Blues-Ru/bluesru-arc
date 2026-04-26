@@ -1,0 +1,82 @@
+topic_id: 3304
+slug: topic-3304
+title: Арсену
+first_post: 2006-06-20 17:04
+last_post: 2006-06-23 13:51
+post_count: 8
+posts:
+- id: 27730
+  parent_id: null
+  date: 2006-06-20 17:04
+  poster: Dmitri Kazantsev (Dr. Nick)
+  email: dr.nick@blues.ru
+  subject: Арсену
+  deleted: false
+  text: Арсен, из твоей аськи лезет спам жуткий! Мне пришлось тебя убить из листа
+    :( Меняй номер что ли :(
+  replies:
+  - id: 27731
+    parent_id: 27730
+    date: 2006-06-20 17:23
+    poster: Arsen
+    email: ragtime@blues.ru
+    subject: Killing me softly...
+    deleted: false
+    text: Сменю конечно, я не пользуюсь ею уже несколько месяцев.
+    replies:
+    - id: 27734
+      parent_id: 27731
+      date: 2006-06-21 14:32
+      poster: Старый Майор
+      email: gypsy@mail.ru
+      subject: Арсен, попробуй сменить парол..
+      deleted: false
+      replies:
+      - id: 27735
+        parent_id: 27734
+        date: 2006-06-21 18:25
+        poster: Arsen
+        email: ragtime at blues.ru
+        subject: Уже
+        deleted: false
+        text: сменил, надеюсь поможет. Приношу извинения всем, кто пострадал от спама
+        replies:
+        - id: 27749
+          parent_id: 27735
+          date: 2006-06-23 01:58
+          poster: Старый Майор
+          email: gypsy@mail.ru
+          subject: Нет, Арсен, теперь ты мне должен 100 кг виагры..
+          deleted: false
+          text: как обещал в своем спаме!
+          replies:
+          - id: 27751
+            parent_id: 27749
+            date: 2006-06-23 02:52
+            poster: Руслан Чифуров ()
+            email: chifuroff (((((((<inbox>hhjhinbox.ru
+            subject: Это что же тогда случится?
+            deleted: false
+            text: Даже предположить страшно :-)))))
+            replies:
+            - id: 27761
+              parent_id: 27751
+              date: 2006-06-23 12:05
+              poster: Эльдар Музафаров
+              email: elicaster co6@kaмейл-d0t ru
+              subject: Тогда Старый станет Молодым
+              deleted: false
+              text: 'правда это будет уже не Майор: за аморальный облик понизят до
+                прапора
+
+                :)))'
+              replies:
+              - id: 27763
+                parent_id: 27761
+                date: 2006-06-23 13:51
+                poster: Старый Майор
+                email: gypsy@mail.ru
+                subject: Эльдар, ты ко мне явно неравнодушен ))
+                deleted: false
+                text: мог бы предположить и обратное, что повысят до полковника, но
+                  предпочёл негатифф..

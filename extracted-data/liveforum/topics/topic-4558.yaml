@@ -1,0 +1,27 @@
+topic_id: 4558
+slug: topic-4558
+title: Доктор Блюз
+first_post: 2011-03-25 23:22
+last_post: 2011-03-28 17:26
+post_count: 2
+posts:
+- id: 37451
+  parent_id: null
+  date: 2011-03-25 23:22
+  poster: Andrei V. Evdokimov
+  subject: Доктор Блюз
+  deleted: false
+  text: "http://www.radiorus.ru/news.html?id=524012 \n\nпубликует программу о Джонни\
+    \ Отисе - текст и звук."
+  replies:
+  - id: 37456
+    parent_id: 37451
+    date: 2011-03-28 17:26
+    poster: Старый Майор
+    subject: Очень интересный текст...
+    deleted: false
+    text: '...жаль, звука не слышно =))
+
+
+      Особенно про "навсегда исчезнувшую Linda Hopkins" понравилось. Она, оказывается,
+      жива-здорова (b.1924), и всем приветы передаёт.'

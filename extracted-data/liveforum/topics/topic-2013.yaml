@@ -1,0 +1,71 @@
+topic_id: 2013
+slug: topic-2013
+title: Посвящается блюзменам
+first_post: 2002-07-08 23:54
+last_post: 2002-07-10 10:06
+post_count: 7
+posts:
+- id: 5935
+  parent_id: null
+  date: 2002-07-08 23:54
+  poster: The Fan Of The Bluezzz
+  email: unknown@unknown.com
+  subject: Посвящается блюзменам
+  deleted: false
+  text: 'Песня посвящается всем замечательным блюзменам:
+
+    http://www.realmusic.ru/songs/12448/'
+  replies:
+  - id: 5937
+    parent_id: 5935
+    date: 2002-07-08 23:59
+    poster: Greta
+    email: morehemp@mail.ru
+    subject: И что-то вас так двоит...
+    deleted: false
+    text: Хорошо, хоть не троит.. Не жмите на кнопки так усердно - сообщение уйдет
+      по любому ;Р
+  - id: 5946
+    parent_id: 5935
+    date: 2002-07-09 09:40
+    poster: Malcolm Ray    Readriver (Mike)
+    email: Mrg_mike@rambler.ru
+    subject: g!
+    deleted: false
+    text: What the shit?! And how can you made it. I say what I mean- shiit
+  - id: 5953
+    parent_id: 5935
+    date: 2002-07-09 17:47
+    poster: Андрей Цыганков
+    email: gypsy@mail.ru
+    subject: Обожаю анонимов! Гюльчетай, открой личико, а?
+    deleted: false
+    replies:
+    - id: 5958
+      parent_id: 5953
+      date: 2002-07-09 23:11
+      poster: Юрий Каверкин
+      email: kaverkin@rol.ru
+      subject: Что, очередная пакость??? Происки попсиков???
+      deleted: false
+      replies:
+      - id: 5962
+        parent_id: 5958
+        date: 2002-07-09 23:42
+        poster: Greta
+        email: morehemp@mail.ru
+        subject: Да.. есть такие люди,
+        deleted: false
+        text: которые почему-то считают возможным использовать Псоя вместо цитат,
+          а также адресовать его песни кому-либо. Каждый извращается по-своему. Бывает
+          хуже, но реже ;)
+      - id: 5973
+        parent_id: 5958
+        date: 2002-07-10 10:06
+        poster: Malcolm Ray    Readriver (Mike)
+        email: Mrg_mike@rambler.ru
+        subject: yeah
+        deleted: false
+        text: Согласен, если уж делать посвящение блюзменам, то это должен быть Блюз,
+          ну в крайнем случае Блюз-метал, как у AC DC , а не смесь рейва, рэпа (не
+          овоща) и всякой прочей "№;%

@@ -1,0 +1,44 @@
+topic_id: 1964
+slug: topic-1964
+title: imeil@n.n
+first_post: 2004-04-01 00:25
+last_post: 2004-04-02 11:19
+post_count: 4
+posts:
+- id: 17816
+  parent_id: null
+  date: 2004-04-01 00:25
+  poster: ilnitski
+  email: imeil
+  subject: imeil@n.n
+  deleted: false
+  text: 'kogda festival?
+
+    priglasite pouigrat'''
+  replies:
+  - id: 17817
+    parent_id: 17816
+    date: 2004-04-01 00:27
+    poster: ilnitsky
+    email: uimeil
+    subject: tema
+    deleted: false
+    text: my 32 nd birthday is apr 20
+    replies:
+    - id: 17818
+      parent_id: 17817
+      date: 2004-04-01 01:17
+      poster: Федор Романенко (fedor)
+      email: fedor@blues.ru
+      subject: Хамство в эфире
+      deleted: false
+      text: пост из ветки пониже отмодерирован
+      replies:
+      - id: 17852
+        parent_id: 17818
+        date: 2004-04-02 11:19
+        poster: ilnitski
+        email: ilnitski
+        subject: wprd
+        deleted: false
+        text: называю вещи своими именами

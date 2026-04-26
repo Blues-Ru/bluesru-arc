@@ -1,0 +1,70 @@
+topic_id: 691
+slug: topic-691
+title: Кушаю водочку,слушаю
+first_post: 2003-03-24 20:46
+last_post: 2003-03-25 12:54
+post_count: 7
+posts:
+- id: 11146
+  parent_id: null
+  date: 2003-03-24 20:46
+  poster: Игорь Головачев (Игорь Г.)
+  email: sunny_city@mail.ru
+  subject: Кушаю водочку,слушаю
+  deleted: false
+  text: Robben Ford-a(RF),получаю дюжее удовольствие.Того и ВАМ,други мои,желаю. Конкретнее
+    "Blue Moon",Tiger Walk,RF&The Blue Line,Joe Diorio&RF.Последнее джазовое супер.Мне
+    нравится.
+  replies:
+  - id: 11147
+    parent_id: 11146
+    date: 2003-03-24 20:53
+    poster: Андрей PRG
+    email: peregnoy@mail.ru
+    subject: Ну, а мне то?
+    deleted: false
+    text: Это я не про "кушаю", а про "слушаю" ;)
+    replies:
+    - id: 11151
+      parent_id: 11147
+      date: 2003-03-24 21:02
+      poster: Игорь Головачев (Игорь Г.)
+      email: sunny_city@mail.ru
+      subject: Андрюш, все сторго по договоренности :))))
+      deleted: false
+      text: Предоставлю в лучем виде.Только за болванками надо в поход сходить,а то
+        ну совсем поизносился.
+      replies:
+      - id: 11153
+        parent_id: 11151
+        date: 2003-03-24 21:05
+        poster: Андрей PRG
+        email: peregnoy@mail.ru
+        subject: А ты приходи в четверг в ДАС,
+        deleted: false
+        text: глядишь и болванки сами подъедут :))))
+        replies:
+        - id: 11158
+          parent_id: 11153
+          date: 2003-03-24 22:06
+          poster: Игорь Головачев (Игорь Г.)
+          email: sunny_city@mail.ru
+          subject: Конечно буду
+          deleted: false
+          text: только надо не забыть жене зефиру купить:)
+          replies:
+          - id: 11159
+            parent_id: 11158
+            date: 2003-03-24 22:07
+            poster: Игорь Головачев (Игорь Г.)
+            email: sunny_city@mail.ru
+            subject: побольше
+            deleted: false
+            replies:
+            - id: 11172
+              parent_id: 11159
+              date: 2003-03-25 12:54
+              poster: Алексей Аграновский (Док)
+              email: aaa@genebee.msu.su
+              subject: Ну и Флагман вам в руки, ребята!
+              deleted: false

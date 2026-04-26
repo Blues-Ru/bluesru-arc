@@ -1,0 +1,198 @@
+
+
+
+
+THE HARP AMP MINI-FAQ
+
+
+By Randy Lilleston, randyl@netcom.com
+
+
+
+
+
+
+Introduction:
+	This FAQ is intended as a primer in selecting an amplifier for
+use when playing harmonica. It is *not* intended to be a be-all, end-all
+source of information about music amplifiers. A better source of that
+information is the "Musical instrument tube amp building, maintaining
+and modifying faq," available at http://www.wwu.edu/~n9343176/ on the
+World Wide Web.
+        It also makes use of a number of broad generalizations. That is
+a necessity. Much information about amps is subjective, which is why
+there's so many of 'em out there. Your best bet is to try several and
+decide what you like. Hopefully, though, this will help.
+
+--------------------
+
+Q: What is a "harp amp?"
+ A: A harmonica amplifer, or harp amp, is almost always a guitar
+amplifier that may or may not have been modified for use with a
+microphone in playing a harmonica. Guitar amplifers, particularly tube
+ones, are popular because for many people, they produce a warmer,
+fuller, and less harsh sound than running a microphone through a PA
+system when playing harmonica on stage.
+
+
+Q: What kind of amps are there?
+        A: Because there's so many out there, lett's break down the
+discussion into several broad choices.
+	First of all, tube amplifiers are almost always the choice of
+harmonica players who use amps instead of the PA system. This is because
+of the softer, rounder nature of tube clipping when the amps are
+overdriven. Transistor amps generally have edgier, harder distortion
+with harmonics that are not as pleasing to the ears.
+ 	We'll break down the amps into three categories: Small amps,
+with low power and one small speaker; medium amps, with mid-range power
+(up to, say 50 watts) and one or two speakers; and monsters, with at
+least 50 watts of power and generally two or four speakers.
+	So, let's start:
+	SMALL AMPS: There is a large school of harp players, particular
+those who play mostly in small bars, who prefer small amps.
+	Their advantages: They're easy to carry around, they overdrive
+easily without feedback, they're cheap and they sound cool.
+	Their disadvantages: They usually have to be mic'd back through
+the PA system to carry over the band, some aren't even loud enough for
+the harp player to hear on stage unless he has a PA monitor, and their
+heavy overdrive is more than some folks want.
+	I personally think little amps are cool, even if I don't use
+them on stage myself. Popular ones include the Fender Champ,
+particularly the old tweed ones from the 1950s and the 1960s; many small
+Gibson amps, almost all of which are wonderful (try the Falcons some
+time, for example); and the Fender Princeton, particularly the brown and
+black faced ones from the early 1960s (popular with Big Walter Horton,
+among others). Many other makers made cool ones as well, including Ampeg
+and Silvertone.
+	These amps all feature 8- to 12-inch speakers and anywhere from
+five to about 25 watts.
+      MEDIUM AMPS: Most of the best-known of these are Fenders,
+including the Vibrolux and Tremolux series, the Vibroverbs, the Pro
+Reverbs and so on. Peavey makes some good ones in their "Classic"
+series. Silvertone made an excellent amplifier in this range in the
+1960s, known as the Twin 12, that's cheap and popular with harp players.
+	Most amps in this range have 10- and 12-inch speakers, sometimes
+in combination, with the occasional 1-15 configuration. Most push out
+about 35-50 watts.
+	Advantages: They have a little less overdrive for a slightly
+cleaner, "bluesy" sound, they can be heard on stage and generally are
+loud enough to play over a band without additional help from a PA
+microphone. Disadvantages: Less overdrive (some folks *don't* like
+this), heavier to lug around, take up more room on stage, cost a bunch
+more money (usually).
+        LARGE AMPS: They start at about 50 watts and go up, and usually
+have a 4x10 or 2X12 speaker combination (occasionally 1X12 or 1X15). For
+harp players, the Modern God of Amps, the late 1950s tweed Fender
+Bassman, is in this range, with its four inputs and 4X10 speaker
+combination. Fender has offered a reissue of this amp for several years;
+although it sounds "harsher" to most ears than the original, it is very
+popular with many harp players (including me).
+        Amps here include the aforementioned Bassman and its
+semi-updated new brother, the Fender Blues DeVille; the Fender Super
+Reverb and older Fender Concert; the 100-watt Fender Twin Reverb; some
+amps in the Peavey Classic line; some Mesa Boogie amps and the monster
+Marshall stacks.
+        Advantages: You WILL be heard. If these amps aren't loud enough,
+you're killing your audience - tell the rest of the band to turn down.
+Very full sound on chords. These amps generally are heavy duty and made
+to be lugged around and abused. The Fenders, in particular, are
+incredibly popular with harp players; premium Bassman, Super Reverb and
+Concert amps fetch high prices.
+        I've never heard a harp player chug through a Marshall stack,
+which is a sonic monster of an amp. These babies are loud enough to make
+your eardrums bleed.
+        Disadvantages: They can be hard to overdrive without really high
+volume (particularly the Fender Twin, which is designed to be a "clean"
+tube amp). They weigh a lot - and some of them weigh A LOT. Tube
+replacement in the 100-watt amps will hurt your pocketbook. In some
+instances, they're just too much amp.
+        The Bassman, Super Reverb and Concert amps are the current
+choice of many pros. Virtually every major harp player uses or has used
+one of these amps.
+
+
+	Q: How do I choose one?
+     A: Decide what sort of sound you're looking for and try out a few
+amps. See if your music store or purchaser will allow you to try the amp
+out on a gig - it's really the only way to make sure that what you have
+will do what you want.
+	One distinct advantage of small amps here is that you don't have
+to worry about them "punching" through the band. You just use a
+microphone or direct line to run their output through the PA system, and
+then adjust the system accordingly. The problem with this is that the
+person running the PA for your group may not make your harp as loud as
+you want it. Sometimes, this arrangement also annoys vocalists. Some of
+them can be pulled off-key by the harp (or so they insist).
+	You also may be best off in looking for used equipment. Besides
+being cheaper in many circumstances, used equipment has several
+advantages.
+	First, many musicians believe the old tube amplifiers, with
+their point-to-point wiring and (in some cases) American-made tubes, are
+better-made. Current tube amps have to rely on imported tubes (some of
+which are excellent, some of which are just awful) and most use printed
+circuit boards to connect parts.
+	Secondly, older speakers often have a warmer, more ""broken-in"
+sound than new speakers. Also, time creates subtle changes to
+capacitors, tubes, and even transformers and resistors in an amplifier
+circuit. These changes seem to create a smoother sound (if the amp
+doesn't blow up).
+	Again, the key is to try before you buy.
+
+	Q: What kind of speakers should I use?
+	A: There are tremendously varying opinions in the harp world
+about this question. Again, the best option may be to try before you
+buy.
+	The classic speaker in the harp world is the 10-inch speaker,
+usually used in combinations of two or four. It offers a compromise
+between the deeper tones of the 12- and 15-inch speakers, and the
+shreddier tones of the 8-inch speaker.
+	Smaller speakers offer more overdrive, less bass and less sound
+dispersion. Larger speakers offer just the opposite traits. Many
+musicians prefer pairs or quads of speakers because such combinations
+create a more complex sound, in their ears, and also do a better job of
+spreading the sound around.
+
+	Q: What about effects?
+	This FAQ won't deal with off-board effects, such as effects
+pedals or racks. Instead, let's talk about what you might find built
+into an amp: Reverb, tremolo and vibrato.
+        Reverb is the echo-like sound usually created in a guitar amp by
+sending the signal through a series of springs, creating a second,
+softer, muffled, delayed signal. This signal is then mixed with the
+untreated, or "clean" sound to create the familiar reverb effect.
+        Virtually all modern combo amplifiers contain reverb. However,
+many older Fender and Gibson amps from the 1950s and early 1960s did
+not. Still, it is a very popular effect for adding fullness to your
+sound, making it sound less "dry."
+        Tremolo and vibrato often are confused (and are even mislabled
+on some amplifiers). Vibrato, the more common effect, is the sudden
+modification of volume in pulses. Tremolo is a change of pitch in
+pulses.
+        Many amps, particularly Fenders, have vibrato - although the
+Fenders sometimes misname it as tremolo. Only a few amps have built-in
+tremolo, with the Magnatone amps of the early 1960s being the best-known
+ones.
+        Neither effect is used that much by harp players, although you
+occasionally will find a player who uses a bit of vibrato from the amp.
+
+        Q: How do I set up on stage?
+        A: This is important. Stage set-up will help you hear yourself
+and will help the audience hear you.
+        First, consider your location. Try not to place the amp directly
+behind you on stage. This dramatically reduces the possibility of
+feedback and will make you a much happier camper. Place it to one side
+or another of where you will stand on stage.
+        Second, particularly if you're using a smaller amp, try to put
+it on a chair or crate - anything to get it off the floor. You'll hear
+better, the audience will hear better and you'll play at a lower volume.
+This isn't as important with the big amps, like the Fender Bassman.
+        Third, adjust your tone and volume. Your volume, of course, will
+vary with the room and with what your band members (and the audience)
+will let you get away with. Tone is a highly subjective matter, but most
+players cut the treble substantially and try to boost the midrange.
+        Here's an important tip: Many new "reissue" amps, based on old
+designs, sound brighter than their original models. For example, I have
+found that I have to *cut* the midrange on my Bassman to give it a nice,
+full tone - precisely the opposite action that often is needed with
+many older amps. Experiment and decide what works for you.
+.

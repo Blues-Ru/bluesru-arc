@@ -1,0 +1,32 @@
+                       Couldn't Stand The Weather
+
+I spent a few minutes trying to figure this one out [SRV's "Couldn't Stand
+The Weather"] about a week ago.  I don't have much of it, but this might
+help you out, and it's better than nothing.
+
+Remember -- as always with SRV, tune down half a step.
+
+The opening flurry is consists of riffs on wierd suspensions of the chords
+Bm, A, G and F#, I think.
+
+After that, it kicks into the main riff:
+(Eb) |-----------------|-----------------|-----------------|-----------------|
+(Bb) |-----------------|-----------------|-----------------|-----------------|
+(Gb) |-----------------|-----------------|-----------------|-----------------|
+(Db) |-----------------|-----------------|-----------------|-----------------|
+(Ab) |-5-3-5-----------|---------------3-|-5-3-5-----------|-----------------|
+(Eb) |-----------1---3-|-----------4-5---|-----------------|---2---3---4---5-|
+       1 & 2 & 3 & 4 &   1 & 2 & 3 & 4 &   1 & 2 & 3 & 4 &   1 & 2 & 3 & 4 &
+
+The verses continue with that chord progression -- D, then G.  I think the
+chorus was mostly F#m and E.
+
+                                                                - Brian
+
+***************************************************************************
+* Brian Davies (davies@ils.nwu.edu)    *  There are three kinds of lies:  *
+* http://www.ils.nwu.edu/~davies/      *  Lies, damned lies, and release  *
+* Institute For The Learning Sciences  *  dates.                          *
+* 1890 Maple Ave, Evanston, IL, 60201  *                   - guess who    *
+***************************************************************************
+

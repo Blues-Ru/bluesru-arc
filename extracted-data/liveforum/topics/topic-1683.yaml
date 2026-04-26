@@ -1,0 +1,53 @@
+topic_id: 1683
+slug: topic-1683
+title: Прямо сейчас!
+first_post: 2003-12-17 23:31
+last_post: 2003-12-27 12:00
+post_count: 5
+posts:
+- id: 16315
+  parent_id: null
+  date: 2003-12-17 23:31
+  poster: Андрей Ордальонов (Андрей PRG)
+  email: peregnoy@mail.ru
+  subject: Прямо сейчас!
+  deleted: false
+  text: Включаем канал М-1 и смотрим Левана с Подгородецким!
+  replies:
+  - id: 16334
+    parent_id: 16315
+    date: 2003-12-18 14:52
+    poster: baltika
+    email: baltika-rock@yandex.ru
+    subject: смотрели)
+    deleted: false
+    text: 'Умница Леван! Абажаю))
+
+      Ево про Америку спрашивают - он с Европы начинает)))) Малацца!))))'
+  - id: 16338
+    parent_id: 16315
+    date: 2003-12-18 21:37
+    poster: Sergei  Kiritchenko (VoID)
+    email: skvoid@mail.ru
+    subject: обалденная связка...
+    deleted: false
+    text: no comments (а что вы хотели?!) :)))
+    replies:
+    - id: 16371
+      parent_id: 16338
+      date: 2003-12-19 21:56
+      poster: Андрей PRG
+      email: peregnoy@mail.ru
+      subject: ПП и ЛЛ
+      deleted: false
+      text: ПП хорош своенй гармоничностью во всём, жаль что сейчас он мало востребован.
+        Такой клавишник пропадает! Леван хорош напористостью. Пока они играли вдумчиво,
+        всё было зашибись. Чуть начали разогреваться, и сразу же пошли ляпусы.
+  - id: 16495
+    parent_id: 16315
+    date: 2003-12-27 12:00
+    poster: Рома
+    email: '@@@'
+    subject: Но
+    deleted: false
+    text: <img src="http://www.blues.ru/calendar/1226SHORT.jpg" align="bottom">

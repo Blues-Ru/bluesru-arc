@@ -1,0 +1,31 @@
+topic_id: 3613
+slug: topic-3613
+title: Еще проходят джемы в ритм-н-блюз кафе?
+first_post: 2007-04-09 17:42
+last_post: 2007-04-10 00:27
+post_count: 3
+posts:
+- id: 32189
+  parent_id: null
+  date: 2007-04-09 17:42
+  poster: Jimi Slide (Jimi)
+  email: slaiderman@yandex.ru
+  subject: Еще проходят джемы в ритм-н-блюз кафе?
+  deleted: false
+  replies:
+  - id: 32191
+    parent_id: 32189
+    date: 2007-04-09 17:48
+    poster: Arsen
+    email: ragtime @blues.ru
+    subject: Сегодня
+    deleted: false
+    text: насколько я знаю, джем будет
+  - id: 32202
+    parent_id: 32189
+    date: 2007-04-10 00:27
+    poster: Jimi Slide (Jimi)
+    email: slaiderman@yandex.ru
+    subject: сходил проверил
+    deleted: false
+    text: проходят :-)

@@ -1,0 +1,35 @@
+topic_id: 3422
+slug: topic-3422
+title: Jam-sessions.
+first_post: 2006-09-29 03:30
+last_post: 2006-10-01 13:56
+post_count: 3
+posts:
+- id: 28811
+  parent_id: null
+  date: 2006-09-29 03:30
+  poster: Angus
+  email: nosbig2005@hotmail.com
+  subject: Jam-sessions.
+  deleted: false
+  text: 'Подскажите - есть где-нибудь список джемов типа когда,где,телефон?
+
+    Спасибо.'
+  replies:
+  - id: 28815
+    parent_id: 28811
+    date: 2006-09-30 01:23
+    poster: Тимофеич
+    email: ymaksimov@comtv.ru
+    subject: Jam-Sessions
+    deleted: false
+    text: В Пирогах (м. Перово) по четвергам иногда проводятся - сам играл. Еще вроде
+      в доме у дороги (www.roadhouse.ru - там все должно быть), в би би кинге вроде
+      тоже.
+  - id: 28820
+    parent_id: 28811
+    date: 2006-10-01 13:56
+    poster: Старый Майор
+    email: gypsy@mail.ru
+    subject: Вот так вот.. центр блюзовой культуры плавно переместился в ..ерово
+    deleted: false

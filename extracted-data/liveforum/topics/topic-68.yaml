@@ -1,0 +1,63 @@
+topic_id: 68
+slug: topic-68
+title: А хто знаит, ась?!...
+first_post: 2002-02-18 12:14
+last_post: 2002-02-20 09:26
+post_count: 5
+posts:
+- id: 1386
+  parent_id: null
+  date: 2002-02-18 12:14
+  poster: Sergei N. (General)
+  email: tangojerry@hotmail.com
+  subject: А хто знаит, ась?!...
+  deleted: false
+  text: На одном из сборников мне попалась вещица Billy Boy Arnold & Tony McPhee "Blue
+    and Lonesome"... Потрясно!!! Кто-нить в курсе, есть у этих двух кексов еще совместные
+    работы (работы по уборке плантаций, вывозу мусора и пр. исключить! :)) ????
+  replies:
+  - id: 1401
+    parent_id: 1386
+    date: 2002-02-19 01:13
+    poster: Вадим  (AVA)
+    email: vad2908@mail.ru
+    subject: '...Arnold & Groundhogs...'
+    deleted: false
+    text: '...есть, по крайне мере одна:
+
+      Billy Boy Arnold "Checkin'' It Out" (P)1979(C)1996 Sequel Records
+
+      with Tony McPhee & the Groundhogs - the 1977 London Sessions
+
+      Recordede at Pathway Studios;Islington,on 6 & 7 Oct. 1977.
+
+      тема "Blue & Lonesome" под № 10. (AvA)'
+    replies:
+    - id: 1406
+      parent_id: 1401
+      date: 2002-02-19 10:22
+      poster: Sergei N. (General)
+      email: tangojerry@hotmail.com
+      subject: благодарствую, боярин!
+      deleted: false
+      text: Весьма удружил этой инфой!!
+      replies:
+      - id: 1422
+        parent_id: 1406
+        date: 2002-02-20 00:23
+        poster: Вадим  (AVA)
+        email: vad2908@mail.ru
+        subject: '...если хочешь подробности...'
+        deleted: false
+        text: '...закинь сообщение мне на мыло, подскажу где взять...(AvA)'
+        replies:
+        - id: 1433
+          parent_id: 1422
+          date: 2002-02-20 09:26
+          poster: Sergei N. (General)
+          email: tangojerry@hotmail.com
+          subject: Уже!
+          deleted: false
+          text: "Дык я уже сей альбом на newmusic.ru заказал! Но все-равно спасибо!\
+            \ \nКстати, о заказах... На amazon.com много всякой доброй литературы\
+            \ по блюзу... если интересно."

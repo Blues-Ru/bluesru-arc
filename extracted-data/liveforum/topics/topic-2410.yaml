@@ -1,0 +1,44 @@
+topic_id: 2410
+slug: topic-2410
+title: Где можно достать записи Philadelphia Jerry Ricks ???
+first_post: 2005-01-30 22:11
+last_post: 2005-01-31 20:27
+post_count: 4
+posts:
+- id: 20307
+  parent_id: null
+  date: 2005-01-30 22:11
+  poster: Dmitry
+  email: bingi@mail.ru
+  subject: Где можно достать записи Philadelphia Jerry Ricks ???
+  deleted: false
+  text: Подскажите плиз, может где в нете или диск купить? что-то даже в осле не могу
+    найти.
+  replies:
+  - id: 20308
+    parent_id: 20307
+    date: 2005-01-31 00:53
+    poster: Вадим  (boroda(aVa))
+    email: vad2908@mail.ru
+    subject: если будешь в  Питере, то вот адрес
+    deleted: false
+    text: "...В.О. 16 линия, дом 35. \nМагазин \"Мфугли\" :)))\nТут не только Jerry\
+      \ Riks, и других акустиков можно найти.\nМогу прислать список, пиши мне на мыло."
+    replies:
+    - id: 20321
+      parent_id: 20308
+      date: 2005-01-31 14:16
+      poster: Dmitry
+      email: bingi@mail.ru
+      subject: :(
+      deleted: false
+      text: спасибо! к сожалению мне вряд ли доведется попасть в Питер в ближайшее
+        время :(, в Москве бы что-нибудь найти...
+  - id: 20337
+    parent_id: 20307
+    date: 2005-01-31 20:27
+    poster: Jerry
+    email: ricks@blues.ru
+    subject: у меня есть один на виниле
+    deleted: false
+    text: могу и переписать, если очень надо

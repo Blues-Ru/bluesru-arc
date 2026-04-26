@@ -1,0 +1,70 @@
+topic_id: 3869
+slug: topic-3869
+title: Cocaine!
+first_post: 2008-01-17 14:27
+last_post: 2008-01-19 12:58
+post_count: 7
+posts:
+- id: 34322
+  parent_id: null
+  date: 2008-01-17 14:27
+  poster: Dmitri Kazantsev (Dr. Nick)
+  email: dr.nick@blues.ru
+  subject: Cocaine!
+  deleted: false
+  text: http://news8.thdo.bbc.co.uk/hi/russian/entertainment/newsid_7193000/7193214.stm
+  replies:
+  - id: 34323
+    parent_id: 34322
+    date: 2008-01-17 15:05
+    poster: Эльдар
+    email: Эльдар
+    subject: Бывший муж Тины Тернер умер от передозировки кокаина
+    deleted: false
+    text: 'http://blues.ru/forum/?id=54993&page=2&body=1#54993
+
+      Бывший муж Тины Тернер умер от передозировки кокаина - Эльдар   (17/01 12:37)'
+  - id: 34330
+    parent_id: 34322
+    date: 2008-01-18 08:40
+    poster: Andrei V. Evdokimov (evdokimov)
+    email: evdokimov@blues.ru
+    subject: типичная попсовая ху*ня!
+    deleted: false
+    text: 'Тернер стал действительно известным, женившись на Анне-Мэй Баллок (более
+      известной как Тина Тернер) в 1959.
+
+      ---
+
+      а кем она была, пока он на ней не женился?'
+    replies:
+    - id: 34332
+      parent_id: 34330
+      date: 2008-01-18 08:49
+      poster: Muddy Lives
+      email: mlives_6@hotmail.com
+      subject: Вот именно!
+      deleted: false
+    - id: 34334
+      parent_id: 34330
+      date: 2008-01-19 00:21
+      poster: Dmitri Kazantsev (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: я про кокаин...
+      deleted: false
+      replies:
+      - id: 34335
+        parent_id: 34334
+        date: 2008-01-19 05:39
+        poster: Jumpin' Jack Flash
+        email: mjbmjhbj
+        subject: зачем тебе?
+        deleted: false
+        replies:
+        - id: 34337
+          parent_id: 34335
+          date: 2008-01-19 12:58
+          poster: Dmitri Kazantsev (Dr. Nick)
+          email: dr.nick@blues.ru
+          subject: нюхать
+          deleted: false

@@ -1,0 +1,63 @@
+topic_id: 4325
+slug: topic-4325
+title: DaniL
+first_post: 2009-11-14 05:35
+last_post: 2009-11-16 12:43
+post_count: 6
+posts:
+- id: 36689
+  parent_id: null
+  date: 2009-11-14 05:35
+  poster: DaniL
+  subject: DaniL
+  deleted: false
+  text: Хочу выловить бриллианты в мире рок-блюза и блюза, такие как Д.Хелли. Порекомендуйте
+    соответствующие этому критерию! Сенк всем!!!
+  replies:
+  - id: 36690
+    parent_id: 36689
+    date: 2009-11-14 09:18
+    poster: Dmitri Kazantsev
+    subject: а кто такой Д. Хелли?
+    deleted: false
+    text: точно бриллиант?
+  - id: 36693
+    parent_id: 36689
+    date: 2009-11-14 16:36
+    poster: DaniL
+    subject: DaniL
+    deleted: false
+    text: 'Точно, для меня точно)
+
+      Jeff Healey, канадский певец, гитарист, основатель одноименного бэнда. Играют
+      в стиле рок-блюз. Если не слышали, рекомендую!
+
+      пызы Хотя кто смотрел "Дом у дороги" не мог не слышать'
+    replies:
+    - id: 36695
+      parent_id: 36693
+      date: 2009-11-16 09:31
+      poster: Dmitri Kazantsev
+      subject: ах Джефф Хили )))
+      deleted: false
+      text: 'знаю такого )))
+
+
+        таких много музык, но скорее в мире поп/рока всё же. блюзов-то Джефф не играл
+        особо'
+  - id: 36694
+    parent_id: 36689
+    date: 2009-11-16 01:53
+    poster: DaniL
+    subject: DaniL
+    deleted: false
+    text: Ребата, ну неужели такие все жадины, что даже имя хороших исполнителей не
+      подскажут?:)
+    replies:
+    - id: 36696
+      parent_id: 36694
+      date: 2009-11-16 12:43
+      poster: Владимир Русинов
+      subject: заходи www.bluesforum.ru :)
+      deleted: false
+      text: Там люди отвечают на такие вопросы не напрягаясь :))

@@ -1,0 +1,143 @@
+topic_id: 975
+slug: topic-975
+title: Грета и все...
+first_post: 2002-05-06 14:52
+last_post: 2002-05-07 22:40
+post_count: 14
+posts:
+- id: 4253
+  parent_id: null
+  date: 2002-05-06 14:52
+  poster: MX
+  email: vefhvkcvs
+  subject: Грета и все...
+  deleted: false
+  text: А что за песня Тома Уэйтса с ярким припевом-Бу-бу -буууй  бу-буй?
+  replies:
+  - id: 4266
+    parent_id: 4253
+    date: 2002-05-06 17:32
+    poster: Ильницкий
+    email: ev-il@mail.ru
+    subject: бу бу бу буй-буй
+    deleted: false
+    text: 'это не том вэйтс,
+
+      это оскар бентон (oscar benton)
+
+      пестня называется типа так: b...hurst blues
+
+      то ли bensonhurst то ли bentonhurst'
+  - id: 4267
+    parent_id: 4253
+    date: 2002-05-06 17:33
+    poster: AlexIV
+    email: evergreens@mail.ru
+    subject: Big In Japan,  видимо :-)
+    deleted: false
+    text: 'с альбома "Mule Variation" ''99
+
+      только там что-то типа: Ба-па-па-бум пу-па-па-бум....  :-))'
+    replies:
+    - id: 4269
+      parent_id: 4267
+      date: 2002-05-06 17:49
+      poster: Алексей Аграновский (Док)
+      email: aaa@genebee.msu.su
+      subject: Вот всегда у меня разыгрывается комплекс
+      deleted: false
+      text: При виде людей, которые свободно обращаются с нотной грамотой.
+      replies:
+      - id: 4270
+        parent_id: 4269
+        date: 2002-05-06 17:53
+        poster: AlexIV
+        email: evergreens@mail.ru
+        subject: Док, поясни, пжалста :-))
+        deleted: false
+        text: чё-то не понял я про комплекс с нотной грамотой :-)
+        replies:
+        - id: 4281
+          parent_id: 4270
+          date: 2002-05-07 11:00
+          poster: Алексей Аграновский (Док)
+          email: aaa@genebee.msu.su
+          subject: Too many roads, too many trains to ride
+          deleted: false
+          text: Сколько людей, столько и мнений
+          replies:
+          - id: 4282
+            parent_id: 4281
+            date: 2002-05-07 15:14
+            poster: Дима Казанцев (Dr. Nick)
+            email: dr.nick@blues.ru
+            subject: Correction
+            deleted: false
+            text: 'Правильнее сказать: so many roads, so many trains to ride. Разве
+              не так?'
+            replies:
+            - id: 4284
+              parent_id: 4282
+              date: 2002-05-07 16:20
+              poster: Михаил Бирюков (nECKAPb)
+              email: blackcat@blues.ru
+              subject: совершенно...
+              deleted: false
+              text: '...не факт. Доктор А. говорит "слишком много дорог", а ты - "так
+                много дорог". Разные вещи, и одно другого абсолютно ни капли не правильнее.'
+              replies:
+              - id: 4287
+                parent_id: 4284
+                date: 2002-05-07 16:59
+                poster: Andrei V. Evdokimov (evdokimov)
+                email: evdokimov@blues.ru
+                subject: вещи-то разные
+                deleted: false
+                text: 'а блюз один: So many roads - у Отиса Раша. Что не исключает
+                  возможность компоновать и перекомпоновывать...'
+                replies:
+                - id: 4291
+                  parent_id: 4287
+                  date: 2002-05-07 17:53
+                  poster: Алексей Аграновский (Док)
+                  email: aaa@genebee.msu.su
+                  subject: Христос Воскресе !
+                  deleted: false
+                  text: С праздником вас всех!
+      - id: 4278
+        parent_id: 4269
+        date: 2002-05-06 22:16
+        poster: Андрей PRG
+        email: peregnoy@mail.ru
+        subject: Молодец, Док!
+        deleted: false
+        text: Достойный ответ!!! Я оценил!!! ;))))))
+  - id: 4274
+    parent_id: 4253
+    date: 2002-05-06 18:26
+    poster: Михаил Бирюков (nECKAPb)
+    email: blackcat@blues.ru
+    subject: это не Уэйтс,...
+    deleted: false
+    text: '... это группа Вопли Видоплясова. Песня "Весна". Та, где "Весна весна весна
+      придэ, весна весна весна вгамуэ". А потом - "Буй буй буй бу бу бу бу бу буй".
+      ;))))'
+  - id: 4289
+    parent_id: 4253
+    date: 2002-05-07 17:30
+    poster: Ильницкий
+    email: ev-il@mail.ru
+    subject: ссылка на пестню
+    deleted: false
+    text: 'http://www.h2hosting.ru/mp3/bensonhurst_blues.mp3
+
+
+      вот ссылка на нее, клевая вещь'
+    replies:
+    - id: 4294
+      parent_id: 4289
+      date: 2002-05-07 22:40
+      poster: Greta
+      email: morehemp@mail.ru
+      subject: Превосходная песенка :)  (-)
+      deleted: false

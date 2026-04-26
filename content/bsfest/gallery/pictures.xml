@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<?xml-stylesheet type="text/xsl" href="pictures.xsl"?>
+<gallery>
+
+<pictures>
+<a year="all">
+<a vl="all">
+<a year="2003">
+
+  <a vl="dml">
+    <p id="2003/doug1.jpg"></p>
+    <p id="2003/doug10.jpg"></p>
+    <p id="2003/doug2.jpg"></p>
+    <p id="2003/doug3.jpg"></p>
+    <p id="2003/doug4.jpg"></p>
+    <p id="2003/doug5.jpg"></p>
+    <p id="2003/doug6.jpg"></p>
+    <p id="2003/doug7.jpg"></p>
+    <p id="2003/doug8.jpg"></p>
+    <p id="2003/doug9.jpg"></p>
+    <p id="2003/douglabel.jpg"></p>
+  </a>
+  <a vl="tee">
+    <p id="2003/marctee1.jpg"></p>
+    <p id="2003/marctee2.jpg"></p>
+    <p id="2003/marctee3.jpg"></p>
+    <p id="2003/marctee4.jpg"></p>
+    <p id="2003/marctee5.jpg"></p>
+    <a vl="and">
+    <a vl="rs">
+      <p id="2003/teeandima.jpg"></p>
+    </a>
+    </a>
+    <p id="2003/teebk.jpg"></p>
+    <a vl="rs">
+      <p id="2003/teedima.jpg"></p>
+    </a>
+    <p id="2003/teedrums.jpg"></p>
+    <p id="2003/teesax.jpg"></p>
+    <p id="2003/lampgear.jpg"></p>
+    <p id="2003/ampgear.jpg"></p>
+  </a>
+  <a vl="bs">
+    <a vl="and">
+      <p id="2003/andenis.jpg"></p>
+      <p id="2003/andreas1.jpg"></p>
+      <p id="2003/andreas2.jpg"></p>
+      <p id="2003/andreas3.jpg"></p>
+      <p id="2003/andreas4.jpg"></p>
+      <p id="2003/andreas5.jpg"></p>
+      <a vl="mic">
+        <p id="2003/arlts.jpg"></p>
+      </a>
+    </a> 
+    <a vl="mic">
+      <p id="2003/michael1.jpg"></p>
+      <p id="2003/michael2.jpg"></p>
+      <p id="2003/michael3.jpg"></p>
+      <p id="2003/michael4.jpg"></p>
+      <p id="2003/michael5.jpg"></p>
+      <p id="2003/elvis.jpg"></p>
+      <p id="2003/sports.jpg"></p>
+    </a> 
+    <a vl="ash">
+      <p id="2003/schultz1.jpg"></p>
+      <p id="2003/schultz2.jpg"></p>
+      <p id="2003/schultz3.jpg"></p>
+      <p id="2003/schultz4.jpg"></p>
+      <p id="2003/schultz5.jpg"></p>
+      <p id="2003/schultz6.jpg"></p>
+      <a vl="and">
+        <p id="2003/schultzarlt1.jpg"></p>
+        <p id="2003/schultzarlt2.jpg"></p>
+        <p id="2003/schultzarlt3.jpg"></p>
+        <p id="2003/schultzarlt4.jpg"></p>
+        <p id="2003/schultzarlt5.jpg"></p>
+      </a> 
+      <a vl="rs">
+        <p id="2003/schultzdf.jpg"></p>
+      </a>
+    </a>
+    <p id="2003/shacks.jpg"></p>
+    <p id="2003/shackscds.jpg"></p>
+    <p id="2003/shacksham.jpg"></p>
+    <p id="2003/henning.jpg"></p>
+    <p id="2003/denis1.jpg"></p>
+    <p id="2003/denis2.jpg"></p>
+    <a vl="mic">
+    <a vl="and">
+      <p id="2003/trio.jpg"></p>
+    </a>
+    </a>
+  </a>
+
+  <a vl="str">
+    <p id="2003/byther1.jpg"></p>
+    <p id="2003/byther2.jpg"></p>
+    <p id="2003/travellers.jpg"></p>
+    <p id="2003/trbyther.jpg"></p>
+    <p id="2003/trbyther2.jpg"></p>
+  </a>
+  <a vl="rs">
+    <p id="2003/guesswho.jpg"></p>
+  </a>
+
+</a>
+</a>
+</a>
+</pictures>
+
+<subjects>
+  <year>
+    <a year="all">ALL</a>
+    <a year="2003">2003</a>
+  </year>
+  <subject>
+<a vl="all" order="-1">ALL</a>
+<a vl="dml">Doug McLeod</a>
+<a vl="tee">Marc Tee</a>
+<a vl="bs">B.B. &amp; The Blues Shacks</a>
+<a vl="and">Andreas Arlt</a>
+<a vl="mic">Michael Arlt</a>
+<a vl="ash">Alex Schultz</a>
+<a vl="str">Byther Smyth &amp; Sunset Travellers</a>
+<a vl="rs">Russians</a>
+  </subject>
+</subjects>
+</gallery>

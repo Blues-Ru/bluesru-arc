@@ -1,0 +1,45 @@
+topic_id: 4157
+slug: topic-4157
+title: Маленькая блюзовая страшилка
+first_post: 2009-01-07 06:40
+last_post: 2009-01-14 19:12
+post_count: 4
+posts:
+- id: 36010
+  parent_id: null
+  date: 2009-01-07 06:40
+  poster: Andrei V. Evdokimov (evdokimov)
+  email: evdokimov@blues.ru
+  subject: Маленькая блюзовая страшилка
+  deleted: false
+  text: 'А вот это кинцо никто не видывал: <a href="http://www.imdb.com/title/tt0078078/"
+    target="_blank">Petey Wheatstraw</a>? Изложение сюжета интригует наповал!'
+  replies:
+  - id: 36011
+    parent_id: 36010
+    date: 2009-01-07 11:47
+    poster: tavrichesky
+    email: bmjbm
+    subject: новогодние новости и новогодний форум на блюз.ру
+    deleted: false
+    text: 'вот где страшилка..)) на концерте Нила Харпера никто не был?
+
+      С Новым годом и Рождеством Христовым!Любви и здоровья'
+    replies:
+    - id: 36014
+      parent_id: 36011
+      date: 2009-01-13 02:02
+      poster: Marianner
+      email: marianner@ya.ru
+      subject: 'Все были на концерте 1 января:) Фотографии тут:'
+      deleted: false
+      text: http://marianner.livejournal.com/1534912.html
+      replies:
+      - id: 36017
+        parent_id: 36014
+        date: 2009-01-14 19:12
+        poster: tavrichesky
+        email: dcnf
+        subject: спасибо за фото
+        deleted: false
+        text: хотя мне кажется, видео или небольшая статья также имели бы смысл

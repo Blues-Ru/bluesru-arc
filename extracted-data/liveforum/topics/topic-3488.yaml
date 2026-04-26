@@ -1,0 +1,22 @@
+topic_id: 3488
+slug: topic-3488
+title: пожалуйста, расскажите про Эфес
+first_post: 2006-11-09 23:48
+last_post: 2006-11-14 23:36
+post_count: 2
+posts:
+- id: 29336
+  parent_id: null
+  date: 2006-11-09 23:48
+  poster: непопавшим )))
+  email: ровурол
+  subject: пожалуйста, расскажите про Эфес
+  deleted: false
+  replies:
+  - id: 29372
+    parent_id: 29336
+    date: 2006-11-14 23:36
+    poster: Reno
+    email: Renegade
+    subject: Было отлично, как всегда впрочем :)
+    deleted: false

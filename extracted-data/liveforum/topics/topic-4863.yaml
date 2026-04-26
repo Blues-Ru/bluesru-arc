@@ -1,0 +1,22 @@
+topic_id: 4863
+slug: topic-4863
+title: Опечатка в календаре за 21 апреля
+first_post: 2012-04-20 14:26
+last_post: 2012-04-21 00:57
+post_count: 2
+posts:
+- id: 38358
+  parent_id: null
+  date: 2012-04-20 14:26
+  poster: Вова
+  subject: Опечатка в календаре за 21 апреля
+  deleted: false
+  text: Фамилия Нины Симоун написана с очепяткой - SOMONE вместо SIMONE
+  replies:
+  - id: 38359
+    parent_id: 38358
+    date: 2012-04-21 00:57
+    poster: Andrei V. Evdokimov
+    subject: спасибо, поправили
+    deleted: false
+    text: '...и что интересно: 9 лет никто не замечал. печально.'

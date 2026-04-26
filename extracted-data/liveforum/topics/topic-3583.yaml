@@ -1,0 +1,101 @@
+topic_id: 3583
+slug: topic-3583
+title: Magnolia - J.J.Cale
+first_post: 2007-03-03 13:14
+last_post: 2007-03-05 18:49
+post_count: 8
+posts:
+- id: 31447
+  parent_id: null
+  date: 2007-03-03 13:14
+  poster: Jimi Slide (Jimi)
+  email: slaiderman@yandex.ru
+  subject: Magnolia - J.J.Cale
+  deleted: false
+  text: "На этом сайте наверника есть люди, которые знают все, или по меньшей мере\
+    \ почти все :) \nЯ думаю вы сможете мне помочь с перевдом. Текст песни очень прост,\
+    \ но я не могу понять смысл первой строчки (на всякий случаю напишу весь текст):\n\
+    \nWhip o'will's singing\nSoft summer breeze\nMakes me think of my baby\nI left\
+    \ down in New Orleans\nI left down in New Orleans\nMagnolia, you sweet thing\n\
+    You're driving me mad\nGot to get back to you, babe\nYou're the best I ever had\n\
+    You're the best I ever had\nYou whisper \"Good morning\"\nSo gently in my ear\n\
+    I'm coming home to you, babe\nI'll soon be there\nI'll soon be there"
+  replies:
+  - id: 31452
+    parent_id: 31447
+    date: 2007-03-03 18:06
+    poster: Dmitri Kazantsev (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: мы поём эту песню
+    deleted: false
+    text: 'но значения точно я так и не понял
+
+
+      whip-o-will - обычно так пишется
+
+
+      только Джон может нам помочь'
+  - id: 31453
+    parent_id: 31447
+    date: 2007-03-03 18:25
+    poster: Jimi Slide (Jimi)
+    email: slaiderman@yandex.ru
+    subject: Джон, хелп ми
+    deleted: false
+    replies:
+    - id: 31486
+      parent_id: 31453
+      date: 2007-03-05 12:23
+      poster: Muddy Lives (John)
+      email: mlives_6@hotmail.com
+      subject: Whip-poor-will
+      deleted: false
+      text: 'Это птица, которая живет в США и поет очень красиво.
+
+
+        Muddy'
+      replies:
+      - id: 31489
+        parent_id: 31486
+        date: 2007-03-05 15:18
+        poster: Jimi Slide (Jimi)
+        email: slaiderman@yandex.ru
+        subject: Спасибо, Джон
+        deleted: false
+        text: думаю выражу не только свое мнение, если скажу, что очень рад, тому
+          что у нас есть такой ценный человек как Вы :)
+        replies:
+        - id: 31490
+          parent_id: 31489
+          date: 2007-03-05 16:11
+          poster: Muddy Lives
+          email: mlives_6@hotmail.com
+          subject: Вам спасибо
+          deleted: false
+  - id: 31494
+    parent_id: 31447
+    date: 2007-03-05 16:53
+    poster: Эльдар
+    email: е@gh.tn
+    subject: вот что говорит по этому поводу ABBYY Lingvo
+    deleted: false
+    text: 'Кстати, вот что говорит по этому поводу ABBYY Lingvo 11 Six Languages
+
+      whip-poor-will [''wippuэ,wil ]
+
+      сущ.; зоол.
+
+      козодой жалобный (птица)
+
+      жалобный козодой ( Caprimulgus vociferus)
+
+      Думаю, что и 10-ая версия ABBYY Lingvo говорит то же самое.'
+    replies:
+    - id: 31499
+      parent_id: 31494
+      date: 2007-03-05 18:49
+      poster: Алексей Фролов (Buchothk)
+      email: jokerthk@yandex.ru
+      subject: В СТУДИЮ!
+      deleted: false
+      text: http://g2.travel.ru/g2/main.php?g2_view=core.DownloadItem&g2_itemId=2491&g2_serialNumber=1

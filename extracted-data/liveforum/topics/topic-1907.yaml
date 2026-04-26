@@ -1,0 +1,82 @@
+topic_id: 1907
+slug: topic-1907
+title: Осторожно вирус!
+first_post: 2004-03-04 00:08
+last_post: 2004-03-05 01:10
+post_count: 7
+posts:
+- id: 17481
+  parent_id: null
+  date: 2004-03-04 00:08
+  poster: Dima Krasivov (Dima)
+  email: dima@blues.ru
+  subject: Осторожно вирус!
+  deleted: false
+  text: "Если вы вдруг получили письмо типа \n\n===8<==============Original message\
+    \ text===============\nDear user of \"Blues.ru\" mailing system,\n\nOur main mailing\
+    \ server will be temporary unavaible for next  two days, \nto continue receiving\
+    \ mail  in  these days  you have to configure our  free\nauto-forwarding service.\n\
+    \nFor more information see the attached  file.\n\nIn order  to read the attach\
+    \  you have to use  the following password: 06586.\n\nBest wishes,\n   The Blues.ru\
+    \  team                               http://www.blues.ru\n\n===8<===========End\
+    \ of original message text===========\n\nНе пытайтесь его открыть\nэто новый вирус,\
+    \ который распространяется в запароленых архивах.\n\nПодробнее о нём можно прочитать\
+    \ здесь\nhttp://www.avp.ru/news.html?id=146070069\n\nBlues.ru team никогда никому\
+    \ запароленых архивов не шлёт!!! ;)"
+  replies:
+  - id: 17486
+    parent_id: 17481
+    date: 2004-03-04 08:09
+    poster: Михан  (Ded Morozzz)
+    email: morozzz_ded@mail.ru
+    subject: Мне такая штука приходила...
+    deleted: false
+    text: '... от касперского и еще от кого-то мощного :)'
+  - id: 17507
+    parent_id: 17481
+    date: 2004-03-05 00:25
+    poster: Андрей Ордальонов (Андрей PRG)
+    email: peregnoy@mail.ru
+    subject: Ага, мне подобная
+    deleted: false
+    text: фигня вчера пришла от Андрея Евдокимова, а сегодня от Алексея Аграновского
+      и от администрации блюз-ру..
+    replies:
+    - id: 17508
+      parent_id: 17507
+      date: 2004-03-05 00:31
+      poster: Дима Казанцев (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: а вот мне...
+      deleted: false
+      text: от самого Федора! с издевательским смайликом! =) (вот с таким)
+      replies:
+      - id: 17509
+        parent_id: 17508
+        date: 2004-03-05 00:58
+        poster: Андрей Ордальонов (Андрей PRG)
+        email: peregnoy@mail.ru
+        subject: Заголовок от Аграновского
+        deleted: false
+        text: 'Hey, dude, it‘s me ^_^ :P
+
+
+          Во как, а ты говоришь! ;)'
+        replies:
+        - id: 17510
+          parent_id: 17509
+          date: 2004-03-05 00:59
+          poster: Дима Казанцев (Dr. Nick)
+          email: dr.nick@blues.ru
+          subject: во дают
+          deleted: false
+          text: точно знают выражения Дока ;)
+          replies:
+          - id: 17511
+            parent_id: 17510
+            date: 2004-03-05 01:10
+            poster: Андрей Ордальонов (Андрей PRG)
+            email: peregnoy@mail.ru
+            subject: Да, просто
+            deleted: false
+            text: дословно, падлы, воспроизводят! ;-#)

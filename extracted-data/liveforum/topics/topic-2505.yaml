@@ -1,0 +1,113 @@
+topic_id: 2505
+slug: topic-2505
+title: а как вам такие новости?
+first_post: 2005-04-06 00:45
+last_post: 2005-04-11 07:29
+post_count: 11
+posts:
+- id: 21004
+  parent_id: null
+  date: 2005-04-06 00:45
+  poster: Дима Казанцев (Dr. Nick)
+  email: dr.nick@blues.ru
+  subject: а как вам такие новости?
+  deleted: false
+  text: http://news.bbc.co.uk/hi/russian/entertainment/newsid_4414000/4414093.stm
+  replies:
+  - id: 21006
+    parent_id: 21004
+    date: 2005-04-06 13:30
+    poster: disik
+    email: denis1482@mail.ru
+    subject: Да.. Не вовремя :-(
+    deleted: false
+    text: Как большой фанат Queen добавлю, что им брать другого солиста - это совсем
+      уж никуда не годится :-(
+    replies:
+    - id: 21010
+      parent_id: 21006
+      date: 2005-04-06 15:25
+      poster: Дима Казанцев (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: вот это интересно...
+      deleted: false
+      text: то есть Пол плохой певец?
+      replies:
+      - id: 21012
+        parent_id: 21010
+        date: 2005-04-06 15:40
+        poster: vr  (Stone Crazy)
+        email: volodya@blues.ru
+        subject: может и хороший
+        deleted: false
+        text: ну только  какой блин может быть Queen без Меркури?
+        replies:
+        - id: 21013
+          parent_id: 21012
+          date: 2005-04-06 16:21
+          poster: Дима Казанцев (Dr. Nick)
+          email: dr.nick@blues.ru
+          subject: и ты туда же
+          deleted: false
+          text: я поэтому и запостил это сюда :)
+      - id: 21014
+        parent_id: 21010
+        date: 2005-04-06 17:05
+        poster: disik
+        email: denis1482@mail.ru
+        subject: я не знаю, какой Пол певец, но...
+        deleted: false
+        text: '... но Queen - это Freddie, Brian, Roger и John, можно выступать с
+          кем-то, но это будет уже не Queen без Freddie... Так, чистый money-making
+          :-('
+        replies:
+        - id: 21015
+          parent_id: 21014
+          date: 2005-04-06 17:18
+          poster: Дима Казанцев (Dr. Nick)
+          email: dr.nick@blues.ru
+          subject: да,
+          deleted: false
+          text: но это проблема группы Квин, а не Пола Роджерса.
+  - id: 21017
+    parent_id: 21004
+    date: 2005-04-06 19:29
+    poster: Elicaster
+    email: elicaster(@)))mmmmmmmmmmail.ru
+    subject: Paul Rodgers "Muddy Water Blues".
+    deleted: false
+    text: 'в 94 г. мы взахлёб слушали Paul Rodgers "Muddy Water Blues". Кто там только,
+      на том альбоме, с ним не играл... Г. Мур, Д. Гилмор, Слэш, Р. Самбора, Б. Мэй,
+      Бадди Гай, кажись и Дж. Бек. Для полной обоймы не хватало ЭюКлптна и М.Кнпфлра...
+
+      4 года назад снова попался мне этот диск. НЕ ВОЗМОЖНО было слушать. Совсем никак!
+      Очень я был удивлён как сильно изменились пристрастия мои.'
+    replies:
+    - id: 21019
+      parent_id: 21017
+      date: 2005-04-07 09:56
+      poster: Дима Казанцев (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: похожая история
+      deleted: false
+      text: слишком там много глэма и харда
+  - id: 21030
+    parent_id: 21004
+    date: 2005-04-07 21:55
+    poster: Руслан Чифуров
+    email: chifuroff_@_inbox.ru
+    subject: Это ещё куда ни шло...
+    deleted: false
+    text: А то ведь они с одной нашей поп-певицей выступали, Земфирой зовут.
+  - id: 21058
+    parent_id: 21004
+    date: 2005-04-11 07:29
+    poster: Серега Алексеев (Sharikoff)
+    email: sharikoff@pochta.ru
+    subject: Это может быть интересно...
+    deleted: false
+    text: "после всех энтих дурацких мюзиклов. Но что они собираются делать? Если\
+      \ альбом, то кто будет сочинять - Мэй? это будет звучать несколько однобоко,\
+      \ мне кажется. Можно, правда, записать нарезку из классических рок-н-роллов\
+      \ - вариант беспроигрышный, но для Куин - сомнительный.  \nДа, кстати, на басу-то\
+      \ у них кто? Дикона в последнее время редко видать. \n(Ве-те-ра-на!!)"

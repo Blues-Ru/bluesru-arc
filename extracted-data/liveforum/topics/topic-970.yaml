@@ -1,0 +1,49 @@
+topic_id: 970
+slug: topic-970
+title: winter is comein'
+first_post: 2002-05-02 08:18
+last_post: 2002-05-06 16:24
+post_count: 4
+posts:
+- id: 4220
+  parent_id: null
+  date: 2002-05-02 08:18
+  poster: Malcolm Ray    Readriver (Mike)
+  email: Mrg_mike@rambler.ru
+  subject: winter is comein'
+  deleted: false
+  text: 'Люди, случайно никто не знает, как сейчас поживает Джонни Винтер?...
+
+    Что-то давно ничего про него не слюшал...'
+  replies:
+  - id: 4234
+    parent_id: 4220
+    date: 2002-05-03 00:08
+    poster: MX
+    email: jvk
+    subject: ((
+    deleted: false
+    text: Говорят,ему в самую пору назваться Blind Johnny Winter...(((
+    replies:
+    - id: 4238
+      parent_id: 4234
+      date: 2002-05-03 07:39
+      poster: Malcolm Ray    Readriver (Mike)
+      email: Mrg_mike@rambler.ru
+      subject: Oh well
+      deleted: false
+      text: Что совсем уже с глазами плохо у старины Винтера?
+      replies:
+      - id: 4260
+        parent_id: 4238
+        date: 2002-05-06 16:24
+        poster: MX
+        email: hjvhhf
+        subject: Да вот слышал..
+        deleted: false
+        text: 'недавно,что друг его оставил сидеть возле барной стойки ,а Винтер по
+          слепоте своей упал и руку себе сломал.От такая торба.
+
+          Ну в смысле не совсем слепой.Но почти ни хрена не видит.
+
+          Альбинос,рак зрения и т.п.'

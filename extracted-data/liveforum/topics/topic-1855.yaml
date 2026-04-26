@@ -1,0 +1,54 @@
+topic_id: 1855
+slug: topic-1855
+title: 14-го фев. harp-jam с Ю.Каверкиным и Wrong way band в Зоопарке.
+first_post: 2004-02-11 17:47
+last_post: 2004-02-12 03:04
+post_count: 5
+posts:
+- id: 17200
+  parent_id: null
+  date: 2004-02-11 17:47
+  poster: Slavik Chernov (Blacky)
+  email: Blacky@softhome.net
+  subject: 14-го фев. harp-jam с Ю.Каверкиным и Wrong way band в Зоопарке.
+  deleted: false
+  text: 'Приходите все, кому это интересно.
+
+    Начало в 19,00, там же, где проходила Bluezoology Аграновского.
+
+    Адрес: Улица Красная Пресня д.4.'
+  replies:
+  - id: 17206
+    parent_id: 17200
+    date: 2004-02-12 01:39
+    poster: Yuri Kaverkin (Gekko)
+    email: kaverkin@rol.ru
+    subject: Клетка № 17 , слева от входа - там будет находится WWB - на надпись "Животных
+      не кормить" внимание можно не обращать...Welcome короче...
+    deleted: false
+    replies:
+    - id: 17207
+      parent_id: 17206
+      date: 2004-02-12 02:14
+      poster: Дима Казанцев (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: хорошая у тебя сёдня кепка была ;)
+      deleted: false
+      text: и пьяны были все изрядно ;)
+      replies:
+      - id: 17208
+        parent_id: 17207
+        date: 2004-02-12 02:53
+        poster: Yuri Kaverkin (Gekko)
+        email: kaverkin@rol.ru
+        subject: Кепка что надо...Увы, я был трезв...
+        deleted: false
+        replies:
+        - id: 17209
+          parent_id: 17208
+          date: 2004-02-12 03:04
+          poster: Дима Казанцев (Dr. Nick)
+          email: dr.nick@blues.ru
+          subject: ты-то да
+          deleted: false
+          text: а вот остальные... ;)

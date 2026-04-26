@@ -1,0 +1,8 @@
+---
+id: 420
+slug: prezentatsiya-alboma-bratetskogo-korablina-nominanty-na-prem
+title: null
+date: 2004-01-18 00:00
+---
+
+Презентация альбома Братецкого-Кораблина, номинанты на премию им.W.C.Handy, отчет о битве блюзбэндов в первом выпуске <a href="/bluesnews/04Winter/04Winter.htm"><b>блюзовых ВЭБ новостей</b></a> 2004г.

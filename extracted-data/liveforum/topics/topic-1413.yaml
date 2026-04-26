@@ -1,0 +1,95 @@
+topic_id: 1413
+slug: topic-1413
+title: '!!! Блюз-фест!!!'
+first_post: 2003-08-29 10:49
+last_post: 2003-08-29 17:14
+post_count: 9
+posts:
+- id: 13948
+  parent_id: null
+  date: 2003-08-29 10:49
+  poster: Tim
+  email: timothyleary@yandex.ru
+  subject: '!!! Блюз-фест!!!'
+  deleted: false
+  text: 'Не подскажет ли кто нибудь сколько будут стоить билеты 6го на
+
+    Динамо????'
+  replies:
+  - id: 13949
+    parent_id: 13948
+    date: 2003-08-29 10:51
+    poster: Tim
+    email: timothyleary@yandex.ru
+    subject: Блюз-фест!
+    deleted: false
+    text: Сбросьте, плз мне на мыло, ОК?
+  - id: 13950
+    parent_id: 13948
+    date: 2003-08-29 11:17
+    poster: Andy mcletsoff (McL)
+    email: mcl@macbox.ru
+    subject: Цены на билеты
+    deleted: false
+    text: Цены на билеты на www.parter.ru объявлены 300 и 500 - это на концерт на
+      стадионе Динамо
+    replies:
+    - id: 13951
+      parent_id: 13950
+      date: 2003-08-29 11:30
+      poster: bonzo
+      email: bonzo@lenta.ru
+      subject: Стадион
+      deleted: false
+      text: Не подскажете, кто был на стадионе, что за места на Партере продаются?
+        Далеко, близко, центр? А то не совсем понятно, где же ты будешь, когда придешь
+      replies:
+      - id: 13953
+        parent_id: 13951
+        date: 2003-08-29 14:37
+        poster: Федор Романенко (fedor)
+        email: fedor@blues.ru
+        subject: Стадион
+        deleted: false
+        text: На партер.ру продаются все три имеющихся вида билетов. Под фестиваль
+          отдана треть стадиона на его торце. Огромная сцена будет в районе футбольных
+          ворот, развернута от центра стадиона. Перед ней будет не очень большой танцевальный
+          партер на 500 мест за 400 руб. По центру и пониже будут сидячие места VIP
+          за 500 руб. По бокам и повыше - билеты за 300 руб. Максимально в отведенную
+          часть стадиона помещается более 7000 человек.
+        replies:
+        - id: 13954
+          parent_id: 13953
+          date: 2003-08-29 14:50
+          poster: Игорь Головачев (Игорь Г.)
+          email: sunny_city@mail.ru
+          subject: Очень хотелось бы чтобы всё получилось как задумано.
+          deleted: false
+          replies:
+          - id: 13955
+            parent_id: 13954
+            date: 2003-08-29 15:08
+            poster: Федор Романенко (fedor)
+            email: fedor@blues.ru
+            subject: А куда оно денется?
+            deleted: false
+            text: Обратно дороги нет ;)))
+        - id: 13958
+          parent_id: 13953
+          date: 2003-08-29 17:04
+          poster: Andy mcletsoff (McL)
+          email: mcl@macbox.ru
+          subject: Билеты
+          deleted: false
+          text: А кто-нибудь в городе видел - продают билеты? Я что-то пока ни в одной
+            кассе билетной не нашел
+          replies:
+          - id: 13959
+            parent_id: 13958
+            date: 2003-08-29 17:14
+            poster: Федор Романенко (fedor)
+            email: fedor@blues.ru
+            subject: Кассы
+            deleted: false
+            text: Билеты в кассах будут скоро, их отвезли, кажется, только позавчера.
+              Также билеты будут в кассах стадиона. Они есть на партер.ру.

@@ -1,0 +1,105 @@
+topic_id: 2116
+slug: topic-2116
+title: А будут ли ещё джемы в бибикингке?
+first_post: 2004-05-25 06:10
+last_post: 2004-05-27 20:44
+post_count: 11
+posts:
+- id: 18545
+  parent_id: null
+  date: 2004-05-25 06:10
+  poster: Серега
+  email: s.e.r.g.e@newmail.ru
+  subject: А будут ли ещё джемы в бибикингке?
+  deleted: false
+  text: Уж очень порадовало.
+  replies:
+  - id: 18546
+    parent_id: 18545
+    date: 2004-05-25 06:12
+    poster: Серега
+    email: s.e.r.g.e@newmail.ru
+    subject: Извините за очепятку...((((
+    deleted: false
+  - id: 18548
+    parent_id: 18545
+    date: 2004-05-25 10:43
+    poster: VoV  (Barmaley)
+    email: barmaley-vov@yandex.ru
+    subject: Джемы в BB King по средам регулярно проводятся.
+    deleted: false
+    text: А что, были слухи, что их не будет?
+    replies:
+    - id: 18555
+      parent_id: 18548
+      date: 2004-05-26 14:24
+      poster: Алексей Ильичёв (Alex_z77)
+      email: alex_z77@mail.ru
+      subject: А летом...
+      deleted: false
+      text: '...у этих джемов бывают "каникулы"? :) Или они проводятся без перерывов?'
+      replies:
+      - id: 18557
+        parent_id: 18555
+        date: 2004-05-26 14:42
+        poster: VoV  (Barmaley)
+        email: barmaley-vov@yandex.ru
+        subject: Это больше к Алексею Дагаеву вопрос наверное...
+        deleted: false
+  - id: 18569
+    parent_id: 18545
+    date: 2004-05-26 23:50
+    poster: Алексей Дагаев (axle)
+    email: axledog@mail.ru
+    subject: Джемы в клубе никто отменять не собирается
+    deleted: false
+    text: Они не зависят от времени года. (музыка от тепла не тает)
+  - id: 18578
+    parent_id: 18545
+    date: 2004-05-27 18:42
+    poster: Руслан Чифуров (T. W. Ridxehn)
+    email: chifuroff@inbox.ru
+    subject: А как насчёт жужжалок?:))))))
+    deleted: false
+    text: Можно ли играть на джемах с "жужжалками" и "квакушками"? Вспомним хотя бы
+      "жужжалки" Хендрикса и Элвина Ли:))))))
+    replies:
+    - id: 18581
+      parent_id: 18578
+      date: 2004-05-27 19:56
+      poster: Пикейные жилеты
+      email: gypsy@mail.ru
+      subject: А ты-то сам как думаешь? =)
+      deleted: false
+      text: "Мы так думаем, что с жужжалкой да квакушкой играть на блюзовых джемах\
+        \ - только лишние тяжести с собой таскать.. ты, милок, енто.. ноты, просто\
+        \ ноты сыграй! А то получается, что из-за еффектов-дефектов нот не слышно,\
+        \ одно жу-жу-жу да ква-ква-ква! \nЧай, сам-то не Хендрикс... да и времени\
+        \ на настройку оного благолепия нету..."
+      replies:
+      - id: 18582
+        parent_id: 18581
+        date: 2004-05-27 20:11
+        poster: Руслан Чифуров (T. W. Ridxehn)
+        email: chifuroff@inbox.ru
+        subject: Времени на настройку точно нет...
+        deleted: false
+        text: "Да какая это тяжесть - 300-500 граммов:))))) Гитара больше весит:)))\n\
+          \ То что не Хендрикс- это точно. Он отошел в мир иной ещё когда мне минус\
+          \ 7 лет было..."
+        replies:
+        - id: 18583
+          parent_id: 18582
+          date: 2004-05-27 20:21
+          poster: Vinnie The Pooch
+          email: gypsy@mail.ru
+          subject: А зачем тебе жужжать, если ты не пчела?
+          deleted: false
+          replies:
+          - id: 18585
+            parent_id: 18583
+            date: 2004-05-27 20:44
+            poster: Bumblebee
+            email: chifuroff@inbox.ru
+            subject: Так жужжал же...:))))))
+            deleted: false

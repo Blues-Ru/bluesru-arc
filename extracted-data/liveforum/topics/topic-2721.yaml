@@ -1,0 +1,51 @@
+topic_id: 2721
+slug: topic-2721
+title: Фотографии с феста и вообще из европы
+first_post: 2005-08-25 11:56
+last_post: 2005-08-25 13:46
+post_count: 4
+posts:
+- id: 22492
+  parent_id: null
+  date: 2005-08-25 11:56
+  poster: vr  (Stone Crazy)
+  email: volodya@blues.ru
+  subject: Фотографии с феста и вообще из европы
+  deleted: false
+  text: "Фест:\n<A HREF=\"http://www.bluescats.ru/files/2005Europe/11_NotoddenBluesFest/\"\
+    >http://www.bluescats.ru/files/2005Europe/11_NotoddenBluesFest/</A>\n\nСетцер:\n\
+    <A HREF=\"http://www.bluescats.ru/files/2005Europe/10_Setzer/\">\nhttp://www.bluescats.ru/files/2005Europe/10_Setzer/</A>\n\
+    \nКак вообще ездили: \n\n<A HREF=\"http://www.bluescats.ru/files/2005Europe/\"\
+    >http://www.bluescats.ru/files/2005Europe/</A>"
+  replies:
+  - id: 22494
+    parent_id: 22492
+    date: 2005-08-25 13:16
+    poster: Ded Morozzz
+    email: morozzz_ded@mail.ru
+    subject: Впечатлительным персонам рекомендуется..
+    deleted: false
+    text: "http://www.bluescats.ru/files/2005Europe/02_Germany/163_6375.JPG\n:)) \n\
+      а вообще фотки клевые :) молодца :)"
+  - id: 22495
+    parent_id: 22492
+    date: 2005-08-25 13:41
+    poster: (Grem)
+    email: grems@yandex.ru
+    subject: Прикольные фотки
+    deleted: false
+    text: 'Очень понравился Solomon со своим троном на улице в Nottodene.
+
+      Вот уж нашим звездам такую вещицу.
+
+      Много знакомых увидел на фотках (Романенко,Русинов,Красивов не в счет). А вот
+      Моорюд,чего такую ряху наел? Видать совсем от блюза отошел:-))))'
+    replies:
+    - id: 22496
+      parent_id: 22495
+      date: 2005-08-25 13:46
+      poster: vr  (Stone Crazy)
+      email: volodya@blues.ru
+      subject: Марюд там как раз всю ночь играл блюз :)
+      deleted: false
+      text: 5 отделений по 45 :))))

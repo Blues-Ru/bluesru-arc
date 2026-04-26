@@ -1,0 +1,52 @@
+topic_id: 3082
+slug: topic-3082
+title: Stainless Blues Band Что с сотавом?
+first_post: 2006-02-06 14:42
+last_post: 2006-02-07 19:56
+post_count: 5
+posts:
+- id: 25828
+  parent_id: null
+  date: 2006-02-06 14:42
+  poster: Dima
+  email: sexyman65@mail.ru
+  subject: Stainless Blues Band Что с сотавом?
+  deleted: false
+  text: Ребята! Кто знает чего у Бори Булкина опять с составом? Говорят он опять басиста
+    меняет! Блин, только привыкли, клевый саунд и тут на тебе! ЖАЛКО!!!!
+  replies:
+  - id: 25829
+    parent_id: 25828
+    date: 2006-02-06 16:08
+    poster: Ара Блюзмен
+    email: ара@blues.ru
+    subject: беда, ара
+    deleted: false
+    text: что Боря-бай тварит? кто винават? блюзы в опасности, ара, точно гаварю!
+  - id: 25834
+    parent_id: 25828
+    date: 2006-02-06 17:34
+    poster: Светулька
+    email: svetatiger@mail.ru
+    subject: Кошмар
+    deleted: false
+    text: Кошмар!!!!!!!!! Я только узнала! А мне он очень нравился, такой симпатичный,
+      прям лицо группы...:))) Да и играл супер... Неужели правда! =(
+  - id: 25843
+    parent_id: 25828
+    date: 2006-02-07 02:33
+    poster: Владимир Буханкин
+    email: b@b
+    subject: Неверно
+    deleted: false
+    text: Это не Булкин меняет басиста, а басист меняет Булкина!
+    replies:
+    - id: 25864
+      parent_id: 25843
+      date: 2006-02-07 19:56
+      poster: Лаваш Хачапурян
+      email: лаваш@blues.ru
+      subject: зачем так гавариш ара?
+      deleted: false
+      text: какой ишак может уйти от такого джыгита как борян булкинян? что гавариш
+        вапще? шайтану мозг продал?

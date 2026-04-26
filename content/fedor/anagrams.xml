@@ -1,0 +1,5410 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<anagrams>
+  <short>
+    <group max-diff="1">
+      <word>абаз</word>
+      <word>база</word>
+    </group>
+    <group max-diff="1">
+      <word>абака</word>
+      <word>кааба</word>
+    </group>
+    <group max-diff="4">
+      <word>аборт</word>
+      <word>борат</word>
+      <word>обрат</word>
+      <word>табор</word>
+      <word>торба</word>
+    </group>
+    <group max-diff="3">
+      <word>абрек</word>
+      <word>бекар</word>
+    </group>
+    <group max-diff="1">
+      <word>аванс</word>
+      <word>саван</word>
+    </group>
+    <group max-diff="1">
+      <word>аврал</word>
+      <word>лавра</word>
+    </group>
+    <group max-diff="3">
+      <word>авран</word>
+      <word>варан</word>
+      <word>навар</word>
+    </group>
+    <group max-diff="4">
+      <word>автол</word>
+      <word>отвал</word>
+    </group>
+    <group max-diff="4">
+      <word>автор</word>
+      <word>втора</word>
+      <word>отвар</word>
+      <word>рвота</word>
+      <word>тавро</word>
+      <word>товар</word>
+    </group>
+    <group max-diff="3">
+      <word>агнат</word>
+      <word>таган</word>
+    </group>
+    <group max-diff="2">
+      <word>агнец</word>
+      <word>ганец</word>
+    </group>
+    <group max-diff="1">
+      <word>аграф</word>
+      <word>графа</word>
+    </group>
+    <group max-diff="1">
+      <word>адат</word>
+      <word>дата</word>
+    </group>
+    <group max-diff="3">
+      <word>адрес</word>
+      <word>среда</word>
+    </group>
+    <group max-diff="2">
+      <word>азу</word>
+      <word>уаз</word>
+      <word>уза</word>
+    </group>
+    <group max-diff="2">
+      <word>аймак</word>
+      <word>кайма</word>
+      <word>майка</word>
+    </group>
+    <group max-diff="2">
+      <word>акант</word>
+      <word>канат</word>
+      <word>накат</word>
+    </group>
+    <group max-diff="1">
+      <word>акр</word>
+      <word>рак</word>
+    </group>
+    <group max-diff="4">
+      <word>аксон</word>
+      <word>накос</word>
+      <word>носка</word>
+    </group>
+    <group max-diff="2">
+      <word>акт</word>
+      <word>кат</word>
+    </group>
+    <group max-diff="2">
+      <word>актер</word>
+      <word>катер</word>
+      <word>терка</word>
+    </group>
+    <group max-diff="4">
+      <word>актин</word>
+      <word>антик</word>
+      <word>нитка</word>
+    </group>
+    <group max-diff="2">
+      <word>акут</word>
+      <word>утка</word>
+    </group>
+    <group max-diff="1">
+      <word>альт</word>
+      <word>таль</word>
+    </group>
+    <group max-diff="2">
+      <word>амбар</word>
+      <word>амбра</word>
+    </group>
+    <group max-diff="4">
+      <word>амбре</word>
+      <word>берма</word>
+    </group>
+    <group max-diff="1">
+      <word>амин</word>
+      <word>мина</word>
+    </group>
+    <group max-diff="4">
+      <word>ампир</word>
+      <word>прима</word>
+    </group>
+    <group max-diff="2">
+      <word>амур</word>
+      <word>муар</word>
+      <word>мура</word>
+    </group>
+    <group max-diff="2">
+      <word>ангар</word>
+      <word>нагар</word>
+    </group>
+    <group max-diff="1">
+      <word>анис</word>
+      <word>сани</word>
+    </group>
+    <group max-diff="3">
+      <word>анкер</word>
+      <word>кенар</word>
+    </group>
+    <group max-diff="2">
+      <word>анонс</word>
+      <word>нанос</word>
+    </group>
+    <group max-diff="3">
+      <word>аорта</word>
+      <word>отара</word>
+    </group>
+    <group max-diff="4">
+      <word>апорт</word>
+      <word>тропа</word>
+    </group>
+    <group max-diff="4">
+      <word>апрош</word>
+      <word>шпора</word>
+    </group>
+    <group max-diff="2">
+      <word>араб</word>
+      <word>арба</word>
+      <word>раба</word>
+    </group>
+    <group max-diff="2">
+      <word>арак</word>
+      <word>арка</word>
+      <word>кара</word>
+      <word>рака</word>
+    </group>
+    <group max-diff="1">
+      <word>арап</word>
+      <word>пара</word>
+      <word>рапа</word>
+    </group>
+    <group max-diff="1">
+      <word>арат</word>
+      <word>тара</word>
+    </group>
+    <group max-diff="3">
+      <word>арбуз</word>
+      <word>заруб</word>
+    </group>
+    <group max-diff="2">
+      <word>арго</word>
+      <word>гора</word>
+    </group>
+    <group max-diff="4">
+      <word>аргон</word>
+      <word>онагр</word>
+      <word>орган</word>
+    </group>
+    <group max-diff="2">
+      <word>аргус</word>
+      <word>гарус</word>
+      <word>гусар</word>
+    </group>
+    <group max-diff="2">
+      <word>аркан</word>
+      <word>ранка</word>
+    </group>
+    <group max-diff="1">
+      <word>арфа</word>
+      <word>фара</word>
+    </group>
+    <group max-diff="1">
+      <word>арча</word>
+      <word>чара</word>
+    </group>
+    <group max-diff="3">
+      <word>аскер</word>
+      <word>серка</word>
+    </group>
+    <group max-diff="4">
+      <word>аскет</word>
+      <word>секта</word>
+      <word>сетка</word>
+      <word>стека</word>
+      <word>тесак</word>
+      <word>теска</word>
+    </group>
+    <group max-diff="3">
+      <word>асцит</word>
+      <word>циста</word>
+    </group>
+    <group max-diff="2">
+      <word>атлас</word>
+      <word>салат</word>
+    </group>
+    <group max-diff="1">
+      <word>ашуг</word>
+      <word>шуга</word>
+    </group>
+    <group max-diff="1">
+      <word>бадан</word>
+      <word>банда</word>
+    </group>
+    <group max-diff="1">
+      <word>бакан</word>
+      <word>банка</word>
+      <word>кабан</word>
+    </group>
+    <group max-diff="2">
+      <word>баня</word>
+      <word>баян</word>
+    </group>
+    <group max-diff="2">
+      <word>бар</word>
+      <word>бра</word>
+      <word>раб</word>
+    </group>
+    <group max-diff="2">
+      <word>барак</word>
+      <word>барка</word>
+    </group>
+    <group max-diff="3">
+      <word>барда</word>
+      <word>брада</word>
+    </group>
+    <group max-diff="3">
+      <word>баржа</word>
+      <word>жабра</word>
+    </group>
+    <group max-diff="2">
+      <word>барит</word>
+      <word>триба</word>
+    </group>
+    <group max-diff="3">
+      <word>барк</word>
+      <word>брак</word>
+      <word>краб</word>
+    </group>
+    <group max-diff="4">
+      <word>барон</word>
+      <word>набор</word>
+    </group>
+    <group max-diff="3">
+      <word>барс</word>
+      <word>брас</word>
+    </group>
+    <group max-diff="3">
+      <word>басок</word>
+      <word>скоба</word>
+    </group>
+    <group max-diff="2">
+      <word>батан</word>
+      <word>набат</word>
+    </group>
+    <group max-diff="4">
+      <word>бачок</word>
+      <word>бочка</word>
+    </group>
+    <group max-diff="3">
+      <word>бедро</word>
+      <word>бердо</word>
+    </group>
+    <group max-diff="2">
+      <word>бек</word>
+      <word>кеб</word>
+    </group>
+    <group max-diff="2">
+      <word>белок</word>
+      <word>кобел</word>
+    </group>
+    <group max-diff="4">
+      <word>берцо</word>
+      <word>борец</word>
+    </group>
+    <group max-diff="2">
+      <word>бивак</word>
+      <word>вабик</word>
+    </group>
+    <group max-diff="3">
+      <word>бином</word>
+      <word>обмин</word>
+    </group>
+    <group max-diff="2">
+      <word>бирюк</word>
+      <word>брюки</word>
+    </group>
+    <group max-diff="4">
+      <word>биток</word>
+      <word>ботик</word>
+    </group>
+    <group max-diff="3">
+      <word>богач</word>
+      <word>бочаг</word>
+    </group>
+    <group max-diff="1">
+      <word>бодо</word>
+      <word>обод</word>
+    </group>
+    <group max-diff="4">
+      <word>бокал</word>
+      <word>колба</word>
+    </group>
+    <group max-diff="3">
+      <word>бопро</word>
+      <word>побор</word>
+    </group>
+    <group max-diff="3">
+      <word>бора</word>
+      <word>роба</word>
+    </group>
+    <group max-diff="3">
+      <word>борд</word>
+      <word>брод</word>
+    </group>
+    <group max-diff="3">
+      <word>бордо</word>
+      <word>добор</word>
+      <word>добро</word>
+    </group>
+    <group max-diff="3">
+      <word>брег</word>
+      <word>герб</word>
+    </group>
+    <group max-diff="2">
+      <word>бриг</word>
+      <word>гриб</word>
+    </group>
+    <group max-diff="1">
+      <word>бром</word>
+      <word>ромб</word>
+    </group>
+    <group max-diff="2">
+      <word>брус</word>
+      <word>сруб</word>
+    </group>
+    <group max-diff="3">
+      <word>будка</word>
+      <word>дубка</word>
+    </group>
+    <group max-diff="3">
+      <word>будра</word>
+      <word>бурда</word>
+    </group>
+    <group max-diff="2">
+      <word>бук</word>
+      <word>куб</word>
+    </group>
+    <group max-diff="3">
+      <word>букет</word>
+      <word>бутек</word>
+    </group>
+    <group max-diff="1">
+      <word>булка</word>
+      <word>кабул</word>
+    </group>
+    <group max-diff="4">
+      <word>бурак</word>
+      <word>бурка</word>
+      <word>рубка</word>
+    </group>
+    <group max-diff="1">
+      <word>бурса</word>
+      <word>сабур</word>
+    </group>
+    <group max-diff="2">
+      <word>бутан</word>
+      <word>табун</word>
+    </group>
+    <group max-diff="3">
+      <word>бязь</word>
+      <word>зябь</word>
+    </group>
+    <group max-diff="2">
+      <word>ваап</word>
+      <word>пава</word>
+    </group>
+    <group max-diff="1">
+      <word>вади</word>
+      <word>дива</word>
+    </group>
+    <group max-diff="4">
+      <word>вазон</word>
+      <word>навоз</word>
+    </group>
+    <group max-diff="3">
+      <word>вакса</word>
+      <word>савка</word>
+      <word>саква</word>
+    </group>
+    <group max-diff="2">
+      <word>валах</word>
+      <word>халва</word>
+      <word>хвала</word>
+    </group>
+    <group max-diff="2">
+      <word>валек</word>
+      <word>левак</word>
+    </group>
+    <group max-diff="3">
+      <word>валет</word>
+      <word>ветла</word>
+    </group>
+    <group max-diff="4">
+      <word>валик</word>
+      <word>вилка</word>
+    </group>
+    <group max-diff="3">
+      <word>валка</word>
+      <word>лавка</word>
+    </group>
+    <group max-diff="1">
+      <word>валок</word>
+      <word>локва</word>
+    </group>
+    <group max-diff="3">
+      <word>вдох</word>
+      <word>вход</word>
+    </group>
+    <group max-diff="3">
+      <word>ведро</word>
+      <word>древо</word>
+    </group>
+    <group max-diff="3">
+      <word>векша</word>
+      <word>вешка</word>
+    </group>
+    <group max-diff="1">
+      <word>вено</word>
+      <word>овен</word>
+    </group>
+    <group max-diff="3">
+      <word>вента</word>
+      <word>навет</word>
+    </group>
+    <group max-diff="3">
+      <word>вера</word>
+      <word>рева</word>
+    </group>
+    <group max-diff="2">
+      <word>верес</word>
+      <word>север</word>
+    </group>
+    <group max-diff="1">
+      <word>верки</word>
+      <word>кивер</word>
+    </group>
+    <group max-diff="2">
+      <word>вес</word>
+      <word>сев</word>
+    </group>
+    <group max-diff="1">
+      <word>весна</word>
+      <word>навес</word>
+    </group>
+    <group max-diff="2">
+      <word>вест</word>
+      <word>свет</word>
+    </group>
+    <group max-diff="2">
+      <word>вид</word>
+      <word>див</word>
+    </group>
+    <group max-diff="3">
+      <word>вина</word>
+      <word>нива</word>
+    </group>
+    <group max-diff="2">
+      <word>вино</word>
+      <word>воин</word>
+      <word>овин</word>
+    </group>
+    <group max-diff="1">
+      <word>винт</word>
+      <word>твин</word>
+    </group>
+    <group max-diff="3">
+      <word>виола</word>
+      <word>олива</word>
+    </group>
+    <group max-diff="2">
+      <word>висок</word>
+      <word>совик</word>
+    </group>
+    <group max-diff="4">
+      <word>виток</word>
+      <word>кивот</word>
+    </group>
+    <group max-diff="3">
+      <word>влага</word>
+      <word>глава</word>
+    </group>
+    <group max-diff="3">
+      <word>внука</word>
+      <word>кавун</word>
+    </group>
+    <group max-diff="3">
+      <word>вобла</word>
+      <word>обвал</word>
+    </group>
+    <group max-diff="2">
+      <word>воз</word>
+      <word>зов</word>
+    </group>
+    <group max-diff="1">
+      <word>война</word>
+      <word>навой</word>
+    </group>
+    <group max-diff="2">
+      <word>вол</word>
+      <word>лов</word>
+    </group>
+    <group max-diff="2">
+      <word>волан</word>
+      <word>волна</word>
+    </group>
+    <group max-diff="2">
+      <word>волос</word>
+      <word>слово</word>
+    </group>
+    <group max-diff="3">
+      <word>вонь</word>
+      <word>новь</word>
+    </group>
+    <group max-diff="2">
+      <word>вор</word>
+      <word>ров</word>
+    </group>
+    <group max-diff="2">
+      <word>ворог</word>
+      <word>говор</word>
+    </group>
+    <group max-diff="2">
+      <word>ворон</word>
+      <word>норов</word>
+    </group>
+    <group max-diff="2">
+      <word>воск</word>
+      <word>сков</word>
+    </group>
+    <group max-diff="3">
+      <word>врата</word>
+      <word>трава</word>
+    </group>
+    <group max-diff="2">
+      <word>врач</word>
+      <word>рвач</word>
+    </group>
+    <group max-diff="4">
+      <word>выбор</word>
+      <word>обрыв</word>
+    </group>
+    <group max-diff="3">
+      <word>вывоз</word>
+      <word>вызов</word>
+    </group>
+    <group max-diff="3">
+      <word>выдох</word>
+      <word>выход</word>
+    </group>
+    <group max-diff="3">
+      <word>выкат</word>
+      <word>тыква</word>
+    </group>
+    <group max-diff="3">
+      <word>вылом</word>
+      <word>вымол</word>
+    </group>
+    <group max-diff="2">
+      <word>выпор</word>
+      <word>порыв</word>
+    </group>
+    <group max-diff="1">
+      <word>газ</word>
+      <word>зга</word>
+    </group>
+    <group max-diff="3">
+      <word>газон</word>
+      <word>загон</word>
+    </group>
+    <group max-diff="1">
+      <word>галка</word>
+      <word>кагал</word>
+    </group>
+    <group max-diff="3">
+      <word>галс</word>
+      <word>глас</word>
+    </group>
+    <group max-diff="4">
+      <word>галун</word>
+      <word>лагун</word>
+      <word>нагул</word>
+    </group>
+    <group max-diff="2">
+      <word>гам</word>
+      <word>маг</word>
+      <word>мга</word>
+    </group>
+    <group max-diff="3">
+      <word>гамма</word>
+      <word>магма</word>
+    </group>
+    <group max-diff="3">
+      <word>гарда</word>
+      <word>драга</word>
+    </group>
+    <group max-diff="4">
+      <word>гарем</word>
+      <word>герма</word>
+    </group>
+    <group max-diff="3">
+      <word>гарт</word>
+      <word>грат</word>
+    </group>
+    <group max-diff="3">
+      <word>гнома</word>
+      <word>манго</word>
+    </group>
+    <group max-diff="2">
+      <word>год</word>
+      <word>дог</word>
+    </group>
+    <group max-diff="2">
+      <word>гол</word>
+      <word>лог</word>
+    </group>
+    <group max-diff="3">
+      <word>голик</word>
+      <word>логик</word>
+    </group>
+    <group max-diff="1">
+      <word>голос</word>
+      <word>логос</word>
+    </group>
+    <group max-diff="3">
+      <word>горб</word>
+      <word>гроб</word>
+    </group>
+    <group max-diff="2">
+      <word>горка</word>
+      <word>кагор</word>
+      <word>карго</word>
+    </group>
+    <group max-diff="2">
+      <word>гост</word>
+      <word>стог</word>
+    </group>
+    <group max-diff="1">
+      <word>гран</word>
+      <word>ранг</word>
+    </group>
+    <group max-diff="2">
+      <word>гроза</word>
+      <word>розга</word>
+    </group>
+    <group max-diff="3">
+      <word>гром</word>
+      <word>морг</word>
+    </group>
+    <group max-diff="3">
+      <word>грот</word>
+      <word>торг</word>
+    </group>
+    <group max-diff="2">
+      <word>гул</word>
+      <word>луг</word>
+    </group>
+    <group max-diff="3">
+      <word>дамно</word>
+      <word>домна</word>
+      <word>номад</word>
+    </group>
+    <group max-diff="2">
+      <word>дар</word>
+      <word>рад</word>
+    </group>
+    <group max-diff="3">
+      <word>дебри</word>
+      <word>дерби</word>
+    </group>
+    <group max-diff="2">
+      <word>девон</word>
+      <word>невод</word>
+    </group>
+    <group max-diff="2">
+      <word>дек</word>
+      <word>кед</word>
+    </group>
+    <group max-diff="4">
+      <word>декор</word>
+      <word>докер</word>
+      <word>кредо</word>
+    </group>
+    <group max-diff="4">
+      <word>демон</word>
+      <word>домен</word>
+    </group>
+    <group max-diff="3">
+      <word>дерма</word>
+      <word>дрема</word>
+    </group>
+    <group max-diff="3">
+      <word>дерн</word>
+      <word>дрен</word>
+    </group>
+    <group max-diff="1">
+      <word>детка</word>
+      <word>кадет</word>
+    </group>
+    <group max-diff="3">
+      <word>дилер</word>
+      <word>лидер</word>
+    </group>
+    <group max-diff="2">
+      <word>динар</word>
+      <word>надир</word>
+    </group>
+    <group max-diff="2">
+      <word>диск</word>
+      <word>скид</word>
+    </group>
+    <group max-diff="2">
+      <word>дно</word>
+      <word>дон</word>
+    </group>
+    <group max-diff="1">
+      <word>дойна</word>
+      <word>надой</word>
+    </group>
+    <group max-diff="2">
+      <word>док</word>
+      <word>код</word>
+    </group>
+    <group max-diff="3">
+      <word>дока</word>
+      <word>кода</word>
+    </group>
+    <group max-diff="2">
+      <word>домок</word>
+      <word>комод</word>
+    </group>
+    <group max-diff="4">
+      <word>домра</word>
+      <word>морда</word>
+    </group>
+    <group max-diff="2">
+      <word>донец</word>
+      <word>донце</word>
+    </group>
+    <group max-diff="2">
+      <word>донор</word>
+      <word>рондо</word>
+    </group>
+    <group max-diff="3">
+      <word>доска</word>
+      <word>садок</word>
+    </group>
+    <group max-diff="2">
+      <word>досол</word>
+      <word>солод</word>
+    </group>
+    <group max-diff="3">
+      <word>дояр</word>
+      <word>ядро</word>
+    </group>
+    <group max-diff="3">
+      <word>драка</word>
+      <word>карда</word>
+    </group>
+    <group max-diff="2">
+      <word>дрек</word>
+      <word>кедр</word>
+    </group>
+    <group max-diff="3">
+      <word>дрена</word>
+      <word>недра</word>
+      <word>редан</word>
+    </group>
+    <group max-diff="3">
+      <word>дрок</word>
+      <word>корд</word>
+    </group>
+    <group max-diff="2">
+      <word>дуван</word>
+      <word>надув</word>
+    </group>
+    <group max-diff="2">
+      <word>дудак</word>
+      <word>дудка</word>
+    </group>
+    <group max-diff="1">
+      <word>дуло</word>
+      <word>одул</word>
+    </group>
+    <group max-diff="3">
+      <word>дура</word>
+      <word>руда</word>
+      <word>удар</word>
+    </group>
+    <group max-diff="3">
+      <word>дырка</word>
+      <word>кадры</word>
+    </group>
+    <group max-diff="3">
+      <word>едун</word>
+      <word>неуд</word>
+    </group>
+    <group max-diff="1">
+      <word>еж</word>
+      <word>же</word>
+    </group>
+    <group max-diff="1">
+      <word>ель</word>
+      <word>лье</word>
+    </group>
+    <group max-diff="1">
+      <word>ер</word>
+      <word>ре</word>
+    </group>
+    <group max-diff="2">
+      <word>есть</word>
+      <word>сеть</word>
+    </group>
+    <group max-diff="2">
+      <word>жабо</word>
+      <word>обжа</word>
+    </group>
+    <group max-diff="1">
+      <word>жако</word>
+      <word>кожа</word>
+    </group>
+    <group max-diff="1">
+      <word>жало</word>
+      <word>ложа</word>
+    </group>
+    <group max-diff="2">
+      <word>жар</word>
+      <word>раж</word>
+      <word>ржа</word>
+    </group>
+    <group max-diff="3">
+      <word>жарка</word>
+      <word>кража</word>
+    </group>
+    <group max-diff="3">
+      <word>жеода</word>
+      <word>одежа</word>
+    </group>
+    <group max-diff="3">
+      <word>жирок</word>
+      <word>рожки</word>
+    </group>
+    <group max-diff="4">
+      <word>жучка</word>
+      <word>чужак</word>
+    </group>
+    <group max-diff="4">
+      <word>забор</word>
+      <word>образ</word>
+    </group>
+    <group max-diff="4">
+      <word>загул</word>
+      <word>лузга</word>
+    </group>
+    <group max-diff="3">
+      <word>задор</word>
+      <word>зарод</word>
+    </group>
+    <group max-diff="3">
+      <word>закол</word>
+      <word>золка</word>
+    </group>
+    <group max-diff="2">
+      <word>зал</word>
+      <word>лаз</word>
+    </group>
+    <group max-diff="3">
+      <word>зало</word>
+      <word>зола</word>
+      <word>лоза</word>
+    </group>
+    <group max-diff="3">
+      <word>залом</word>
+      <word>мазло</word>
+    </group>
+    <group max-diff="3">
+      <word>залп</word>
+      <word>плаз</word>
+    </group>
+    <group max-diff="2">
+      <word>зам</word>
+      <word>маз</word>
+    </group>
+    <group max-diff="3">
+      <word>замер</word>
+      <word>мазер</word>
+    </group>
+    <group max-diff="2">
+      <word>замес</word>
+      <word>сезам</word>
+    </group>
+    <group max-diff="3">
+      <word>замок</word>
+      <word>мазок</word>
+    </group>
+    <group max-diff="3">
+      <word>запор</word>
+      <word>проза</word>
+    </group>
+    <group max-diff="3">
+      <word>зарок</word>
+      <word>разок</word>
+    </group>
+    <group max-diff="3">
+      <word>затек</word>
+      <word>тезка</word>
+    </group>
+    <group max-diff="4">
+      <word>заток</word>
+      <word>отказ</word>
+    </group>
+    <group max-diff="4">
+      <word>зерно</word>
+      <word>резон</word>
+    </group>
+    <group max-diff="3">
+      <word>знамя</word>
+      <word>мазня</word>
+    </group>
+    <group max-diff="2">
+      <word>зрак</word>
+      <word>краз</word>
+    </group>
+    <group max-diff="2">
+      <word>зуда</word>
+      <word>узда</word>
+    </group>
+    <group max-diff="2">
+      <word>игла</word>
+      <word>лига</word>
+    </group>
+    <group max-diff="2">
+      <word>игра</word>
+      <word>рига</word>
+    </group>
+    <group max-diff="2">
+      <word>идо</word>
+      <word>иод</word>
+    </group>
+    <group max-diff="4">
+      <word>икона</word>
+      <word>инока</word>
+    </group>
+    <group max-diff="2">
+      <word>икс</word>
+      <word>иск</word>
+    </group>
+    <group max-diff="4">
+      <word>иктус</word>
+      <word>сутки</word>
+    </group>
+    <group max-diff="1">
+      <word>ил</word>
+      <word>ли</word>
+    </group>
+    <group max-diff="3">
+      <word>илот</word>
+      <word>тиол</word>
+    </group>
+    <group max-diff="1">
+      <word>инок</word>
+      <word>кино</word>
+    </group>
+    <group max-diff="2">
+      <word>иприт</word>
+      <word>пирит</word>
+    </group>
+    <group max-diff="2">
+      <word>искра</word>
+      <word>риска</word>
+    </group>
+    <group max-diff="4">
+      <word>испуг</word>
+      <word>пигус</word>
+    </group>
+    <group max-diff="4">
+      <word>истец</word>
+      <word>ситец</word>
+      <word>ситце</word>
+    </group>
+    <group max-diff="2">
+      <word>исток</word>
+      <word>стоик</word>
+    </group>
+    <group max-diff="2">
+      <word>йот</word>
+      <word>той</word>
+    </group>
+    <group max-diff="2">
+      <word>казан</word>
+      <word>казна</word>
+      <word>наказ</word>
+    </group>
+    <group max-diff="1">
+      <word>каик</word>
+      <word>кика</word>
+    </group>
+    <group max-diff="1">
+      <word>кайла</word>
+      <word>лайка</word>
+    </group>
+    <group max-diff="1">
+      <word>како</word>
+      <word>кока</word>
+    </group>
+    <group max-diff="2">
+      <word>кал</word>
+      <word>лак</word>
+    </group>
+    <group max-diff="2">
+      <word>калам</word>
+      <word>малка</word>
+    </group>
+    <group max-diff="2">
+      <word>калач</word>
+      <word>чалка</word>
+    </group>
+    <group max-diff="3">
+      <word>кали</word>
+      <word>кила</word>
+    </group>
+    <group max-diff="1">
+      <word>камаз</word>
+      <word>мазка</word>
+    </group>
+    <group max-diff="3">
+      <word>камса</word>
+      <word>макса</word>
+      <word>маска</word>
+      <word>самка</word>
+    </group>
+    <group max-diff="1">
+      <word>камыш</word>
+      <word>мышка</word>
+    </group>
+    <group max-diff="3">
+      <word>канал</word>
+      <word>ланка</word>
+      <word>накал</word>
+    </group>
+    <group max-diff="1">
+      <word>канна</word>
+      <word>нанка</word>
+    </group>
+    <group max-diff="2">
+      <word>кант</word>
+      <word>танк</word>
+    </group>
+    <group max-diff="2">
+      <word>кап</word>
+      <word>пак</word>
+    </group>
+    <group max-diff="3">
+      <word>капер</word>
+      <word>перка</word>
+      <word>репка</word>
+    </group>
+    <group max-diff="3">
+      <word>капли</word>
+      <word>липка</word>
+      <word>пилка</word>
+    </group>
+    <group max-diff="3">
+      <word>капля</word>
+      <word>пялка</word>
+    </group>
+    <group max-diff="3">
+      <word>капок</word>
+      <word>копка</word>
+    </group>
+    <group max-diff="4">
+      <word>капор</word>
+      <word>копра</word>
+      <word>парок</word>
+      <word>порка</word>
+      <word>ропак</word>
+    </group>
+    <group max-diff="3">
+      <word>капот</word>
+      <word>покат</word>
+      <word>топка</word>
+    </group>
+    <group max-diff="2">
+      <word>карат</word>
+      <word>карта</word>
+      <word>катар</word>
+    </group>
+    <group max-diff="3">
+      <word>карга</word>
+      <word>крага</word>
+    </group>
+    <group max-diff="3">
+      <word>каре</word>
+      <word>раек</word>
+      <word>река</word>
+    </group>
+    <group max-diff="2">
+      <word>карел</word>
+      <word>ларек</word>
+    </group>
+    <group max-diff="3">
+      <word>карма</word>
+      <word>марка</word>
+      <word>рамка</word>
+    </group>
+    <group max-diff="3">
+      <word>карп</word>
+      <word>крап</word>
+      <word>парк</word>
+    </group>
+    <group max-diff="1">
+      <word>карча</word>
+      <word>чарка</word>
+    </group>
+    <group max-diff="3">
+      <word>каста</word>
+      <word>такса</word>
+      <word>таска</word>
+    </group>
+    <group max-diff="1">
+      <word>катет</word>
+      <word>тетка</word>
+    </group>
+    <group max-diff="2">
+      <word>кафр</word>
+      <word>фрак</word>
+    </group>
+    <group max-diff="1">
+      <word>кацап</word>
+      <word>цапка</word>
+    </group>
+    <group max-diff="1">
+      <word>кашне</word>
+      <word>шнека</word>
+    </group>
+    <group max-diff="1">
+      <word>кашуб</word>
+      <word>шубка</word>
+    </group>
+    <group max-diff="1">
+      <word>каюк</word>
+      <word>юкка</word>
+    </group>
+    <group max-diff="4">
+      <word>кельт</word>
+      <word>клеть</word>
+    </group>
+    <group max-diff="1">
+      <word>кепи</word>
+      <word>пике</word>
+    </group>
+    <group max-diff="3">
+      <word>керн</word>
+      <word>крен</word>
+    </group>
+    <group max-diff="4">
+      <word>кидас</word>
+      <word>садик</word>
+      <word>сидка</word>
+    </group>
+    <group max-diff="2">
+      <word>кил</word>
+      <word>лик</word>
+    </group>
+    <group max-diff="3">
+      <word>кипа</word>
+      <word>пика</word>
+    </group>
+    <group max-diff="4">
+      <word>кирза</word>
+      <word>разик</word>
+    </group>
+    <group max-diff="3">
+      <word>киста</word>
+      <word>такси</word>
+    </group>
+    <group max-diff="2">
+      <word>кит</word>
+      <word>тик</word>
+    </group>
+    <group max-diff="3">
+      <word>клеш</word>
+      <word>шелк</word>
+    </group>
+    <group max-diff="3">
+      <word>клещ</word>
+      <word>щелк</word>
+    </group>
+    <group max-diff="1">
+      <word>клещи</word>
+      <word>лещик</word>
+    </group>
+    <group max-diff="1">
+      <word>клико</word>
+      <word>оклик</word>
+    </group>
+    <group max-diff="1">
+      <word>клише</word>
+      <word>лишек</word>
+    </group>
+    <group max-diff="3">
+      <word>клоп</word>
+      <word>полк</word>
+    </group>
+    <group max-diff="4">
+      <word>клоун</word>
+      <word>колун</word>
+      <word>кулон</word>
+      <word>лукно</word>
+      <word>уклон</word>
+    </group>
+    <group max-diff="2">
+      <word>кобол</word>
+      <word>колоб</word>
+      <word>лобок</word>
+    </group>
+    <group max-diff="3">
+      <word>кожан</word>
+      <word>ножка</word>
+    </group>
+    <group max-diff="3">
+      <word>козни</word>
+      <word>низок</word>
+    </group>
+    <group max-diff="1">
+      <word>кокос</word>
+      <word>косок</word>
+    </group>
+    <group max-diff="1">
+      <word>кокс</word>
+      <word>скок</word>
+    </group>
+    <group max-diff="3">
+      <word>колер</word>
+      <word>креол</word>
+    </group>
+    <group max-diff="4">
+      <word>колет</word>
+      <word>котел</word>
+      <word>леток</word>
+      <word>телок</word>
+    </group>
+    <group max-diff="3">
+      <word>колит</word>
+      <word>толки</word>
+    </group>
+    <group max-diff="1">
+      <word>колон</word>
+      <word>локон</word>
+    </group>
+    <group max-diff="2">
+      <word>колос</word>
+      <word>сокол</word>
+    </group>
+    <group max-diff="2">
+      <word>комар</word>
+      <word>корма</word>
+    </group>
+    <group max-diff="1">
+      <word>комок</word>
+      <word>мокко</word>
+    </group>
+    <group max-diff="2">
+      <word>кон</word>
+      <word>нок</word>
+    </group>
+    <group max-diff="4">
+      <word>конус</word>
+      <word>сукно</word>
+    </group>
+    <group max-diff="1">
+      <word>копа</word>
+      <word>опак</word>
+    </group>
+    <group max-diff="4">
+      <word>копал</word>
+      <word>полка</word>
+    </group>
+    <group max-diff="4">
+      <word>копач</word>
+      <word>почка</word>
+    </group>
+    <group max-diff="3">
+      <word>копер</word>
+      <word>покер</word>
+    </group>
+    <group max-diff="4">
+      <word>копун</word>
+      <word>купон</word>
+    </group>
+    <group max-diff="4">
+      <word>коран</word>
+      <word>крона</word>
+      <word>норка</word>
+    </group>
+    <group max-diff="3">
+      <word>корн</word>
+      <word>крон</word>
+    </group>
+    <group max-diff="2">
+      <word>короб</word>
+      <word>оброк</word>
+    </group>
+    <group max-diff="3">
+      <word>корт</word>
+      <word>крот</word>
+      <word>трок</word>
+    </group>
+    <group max-diff="4">
+      <word>корча</word>
+      <word>рачок</word>
+    </group>
+    <group max-diff="4">
+      <word>косач</word>
+      <word>сачок</word>
+      <word>часок</word>
+    </group>
+    <group max-diff="3">
+      <word>космы</word>
+      <word>мысок</word>
+    </group>
+    <group max-diff="2">
+      <word>кот</word>
+      <word>ток</word>
+    </group>
+    <group max-diff="3">
+      <word>кочан</word>
+      <word>ночка</word>
+    </group>
+    <group max-diff="2">
+      <word>кош</word>
+      <word>шок</word>
+    </group>
+    <group max-diff="2">
+      <word>кошер</word>
+      <word>кроше</word>
+    </group>
+    <group max-diff="4">
+      <word>кошма</word>
+      <word>мокша</word>
+      <word>мошка</word>
+    </group>
+    <group max-diff="3">
+      <word>кошт</word>
+      <word>шкот</word>
+      <word>шток</word>
+    </group>
+    <group max-diff="2">
+      <word>краля</word>
+      <word>ракля</word>
+    </group>
+    <group max-diff="2">
+      <word>крат</word>
+      <word>трак</word>
+    </group>
+    <group max-diff="2">
+      <word>крест</word>
+      <word>треск</word>
+    </group>
+    <group max-diff="1">
+      <word>крин</word>
+      <word>ринк</word>
+    </group>
+    <group max-diff="2">
+      <word>кроки</word>
+      <word>окрик</word>
+    </group>
+    <group max-diff="4">
+      <word>круча</word>
+      <word>ручка</word>
+      <word>чурка</word>
+    </group>
+    <group max-diff="1">
+      <word>крыса</word>
+      <word>рысак</word>
+    </group>
+    <group max-diff="3">
+      <word>кукан</word>
+      <word>кунак</word>
+    </group>
+    <group max-diff="2">
+      <word>кукла</word>
+      <word>кулак</word>
+    </group>
+    <group max-diff="4">
+      <word>кулан</word>
+      <word>лунка</word>
+    </group>
+    <group max-diff="4">
+      <word>кулич</word>
+      <word>лучик</word>
+    </group>
+    <group max-diff="3">
+      <word>кума</word>
+      <word>мука</word>
+    </group>
+    <group max-diff="4">
+      <word>кумач</word>
+      <word>мучка</word>
+      <word>чумак</word>
+      <word>чумка</word>
+    </group>
+    <group max-diff="2">
+      <word>купа</word>
+      <word>паук</word>
+    </group>
+    <group max-diff="1">
+      <word>купе</word>
+      <word>упек</word>
+    </group>
+    <group max-diff="3">
+      <word>купля</word>
+      <word>пукля</word>
+    </group>
+    <group max-diff="3">
+      <word>кура</word>
+      <word>рука</word>
+    </group>
+    <group max-diff="4">
+      <word>курва</word>
+      <word>рукав</word>
+    </group>
+    <group max-diff="2">
+      <word>кус</word>
+      <word>сук</word>
+    </group>
+    <group max-diff="2">
+      <word>куст</word>
+      <word>стук</word>
+    </group>
+    <group max-diff="2">
+      <word>кут</word>
+      <word>тук</word>
+    </group>
+    <group max-diff="3">
+      <word>кутас</word>
+      <word>скаут</word>
+    </group>
+    <group max-diff="4">
+      <word>кучер</word>
+      <word>чурек</word>
+    </group>
+    <group max-diff="3">
+      <word>куща</word>
+      <word>щука</word>
+    </group>
+    <group max-diff="3">
+      <word>лакей</word>
+      <word>лейка</word>
+    </group>
+    <group max-diff="2">
+      <word>ламут</word>
+      <word>мулат</word>
+    </group>
+    <group max-diff="3">
+      <word>лапка</word>
+      <word>палка</word>
+    </group>
+    <group max-diff="2">
+      <word>лапта</word>
+      <word>плата</word>
+    </group>
+    <group max-diff="3">
+      <word>лапша</word>
+      <word>палаш</word>
+      <word>шпала</word>
+    </group>
+    <group max-diff="3">
+      <word>ласка</word>
+      <word>салка</word>
+      <word>скала</word>
+    </group>
+    <group max-diff="3">
+      <word>латыш</word>
+      <word>талыш</word>
+    </group>
+    <group max-diff="2">
+      <word>леер</word>
+      <word>реле</word>
+    </group>
+    <group max-diff="3">
+      <word>лежак</word>
+      <word>лежка</word>
+      <word>лекаж</word>
+    </group>
+    <group max-diff="3">
+      <word>лента</word>
+      <word>налет</word>
+    </group>
+    <group max-diff="3">
+      <word>ленч</word>
+      <word>челн</word>
+      <word>член</word>
+    </group>
+    <group max-diff="2">
+      <word>лепет</word>
+      <word>петел</word>
+    </group>
+    <group max-diff="4">
+      <word>лепка</word>
+      <word>плаке</word>
+    </group>
+    <group max-diff="3">
+      <word>летка</word>
+      <word>телка</word>
+    </group>
+    <group max-diff="3">
+      <word>лето</word>
+      <word>отел</word>
+      <word>тело</word>
+    </group>
+    <group max-diff="3">
+      <word>лечо</word>
+      <word>чело</word>
+    </group>
+    <group max-diff="2">
+      <word>лиман</word>
+      <word>налим</word>
+    </group>
+    <group max-diff="3">
+      <word>липа</word>
+      <word>пали</word>
+      <word>пила</word>
+    </group>
+    <group max-diff="3">
+      <word>лира</word>
+      <word>риал</word>
+    </group>
+    <group max-diff="3">
+      <word>лиса</word>
+      <word>сила</word>
+    </group>
+    <group max-diff="3">
+      <word>лисп</word>
+      <word>плис</word>
+      <word>слип</word>
+      <word>спил</word>
+    </group>
+    <group max-diff="2">
+      <word>литер</word>
+      <word>релит</word>
+    </group>
+    <group max-diff="3">
+      <word>литка</word>
+      <word>талик</word>
+    </group>
+    <group max-diff="2">
+      <word>лобик</word>
+      <word>облик</word>
+    </group>
+    <group max-diff="4">
+      <word>лодка</word>
+      <word>оклад</word>
+    </group>
+    <group max-diff="2">
+      <word>лом</word>
+      <word>мол</word>
+    </group>
+    <group max-diff="2">
+      <word>ломик</word>
+      <word>милок</word>
+    </group>
+    <group max-diff="4">
+      <word>лопух</word>
+      <word>похул</word>
+    </group>
+    <group max-diff="2">
+      <word>лоск</word>
+      <word>скол</word>
+    </group>
+    <group max-diff="3">
+      <word>лось</word>
+      <word>соль</word>
+    </group>
+    <group max-diff="2">
+      <word>лот</word>
+      <word>тол</word>
+    </group>
+    <group max-diff="3">
+      <word>лоток</word>
+      <word>откол</word>
+    </group>
+    <group max-diff="4">
+      <word>лошак</word>
+      <word>школа</word>
+    </group>
+    <group max-diff="2">
+      <word>луаз</word>
+      <word>луза</word>
+    </group>
+    <group max-diff="3">
+      <word>луна</word>
+      <word>улан</word>
+    </group>
+    <group max-diff="3">
+      <word>лунь</word>
+      <word>нуль</word>
+    </group>
+    <group max-diff="3">
+      <word>лучок</word>
+      <word>чулок</word>
+    </group>
+    <group max-diff="1">
+      <word>ля</word>
+      <word>ял</word>
+    </group>
+    <group max-diff="3">
+      <word>лямка</word>
+      <word>мялка</word>
+    </group>
+    <group max-diff="4">
+      <word>майор</word>
+      <word>мойра</word>
+    </group>
+    <group max-diff="3">
+      <word>макет</word>
+      <word>метка</word>
+    </group>
+    <group max-diff="4">
+      <word>малик</word>
+      <word>милка</word>
+    </group>
+    <group max-diff="2">
+      <word>маляр</word>
+      <word>марля</word>
+    </group>
+    <group max-diff="4">
+      <word>мания</word>
+      <word>ямина</word>
+    </group>
+    <group max-diff="2">
+      <word>манко</word>
+      <word>манок</word>
+    </group>
+    <group max-diff="1">
+      <word>мара</word>
+      <word>рама</word>
+    </group>
+    <group max-diff="3">
+      <word>марго</word>
+      <word>могар</word>
+    </group>
+    <group max-diff="3">
+      <word>марс</word>
+      <word>рамс</word>
+      <word>срам</word>
+    </group>
+    <group max-diff="3">
+      <word>марш</word>
+      <word>шарм</word>
+      <word>шрам</word>
+    </group>
+    <group max-diff="2">
+      <word>марши</word>
+      <word>ширма</word>
+    </group>
+    <group max-diff="4">
+      <word>масло</word>
+      <word>смола</word>
+    </group>
+    <group max-diff="3">
+      <word>масон</word>
+      <word>осман</word>
+    </group>
+    <group max-diff="1">
+      <word>мать</word>
+      <word>тьма</word>
+    </group>
+    <group max-diff="2">
+      <word>мах</word>
+      <word>хам</word>
+    </group>
+    <group max-diff="4">
+      <word>мачок</word>
+      <word>мочка</word>
+    </group>
+    <group max-diff="3">
+      <word>маяк</word>
+      <word>ямка</word>
+    </group>
+    <group max-diff="4">
+      <word>мелок</word>
+      <word>млеко</word>
+    </group>
+    <group max-diff="2">
+      <word>мена</word>
+      <word>наем</word>
+    </group>
+    <group max-diff="3">
+      <word>мера</word>
+      <word>рема</word>
+    </group>
+    <group max-diff="2">
+      <word>мерин</word>
+      <word>минер</word>
+    </group>
+    <group max-diff="3">
+      <word>меря</word>
+      <word>ярем</word>
+    </group>
+    <group max-diff="3">
+      <word>мета</word>
+      <word>тема</word>
+    </group>
+    <group max-diff="2">
+      <word>метан</word>
+      <word>намет</word>
+    </group>
+    <group max-diff="3">
+      <word>метиз</word>
+      <word>теизм</word>
+    </group>
+    <group max-diff="4">
+      <word>метис</word>
+      <word>семит</word>
+    </group>
+    <group max-diff="3">
+      <word>метол</word>
+      <word>омлет</word>
+    </group>
+    <group max-diff="2">
+      <word>метоп</word>
+      <word>помет</word>
+    </group>
+    <group max-diff="2">
+      <word>мизер</word>
+      <word>ремиз</word>
+    </group>
+    <group max-diff="3">
+      <word>минор</word>
+      <word>мирон</word>
+    </group>
+    <group max-diff="3">
+      <word>мирт</word>
+      <word>ритм</word>
+    </group>
+    <group max-diff="2">
+      <word>мор</word>
+      <word>ром</word>
+    </group>
+    <group max-diff="2">
+      <word>морок</word>
+      <word>окорм</word>
+    </group>
+    <group max-diff="3">
+      <word>морфа</word>
+      <word>форма</word>
+    </group>
+    <group max-diff="1">
+      <word>мосол</word>
+      <word>осмол</word>
+    </group>
+    <group max-diff="2">
+      <word>мот</word>
+      <word>том</word>
+    </group>
+    <group max-diff="2">
+      <word>мотет</word>
+      <word>тотем</word>
+    </group>
+    <group max-diff="1">
+      <word>му</word>
+      <word>ум</word>
+    </group>
+    <group max-diff="4">
+      <word>муфта</word>
+      <word>фатум</word>
+    </group>
+    <group max-diff="3">
+      <word>мэри</word>
+      <word>эмир</word>
+    </group>
+    <group max-diff="4">
+      <word>намек</word>
+      <word>немка</word>
+    </group>
+    <group max-diff="4">
+      <word>нарды</word>
+      <word>рында</word>
+    </group>
+    <group max-diff="4">
+      <word>народ</word>
+      <word>радон</word>
+    </group>
+    <group max-diff="2">
+      <word>нарта</word>
+      <word>таран</word>
+    </group>
+    <group max-diff="1">
+      <word>насос</word>
+      <word>сосна</word>
+    </group>
+    <group max-diff="2">
+      <word>наст</word>
+      <word>стан</word>
+    </group>
+    <group max-diff="3">
+      <word>нато</word>
+      <word>нота</word>
+    </group>
+    <group max-diff="3">
+      <word>натр</word>
+      <word>рант</word>
+    </group>
+    <group max-diff="2">
+      <word>наци</word>
+      <word>циан</word>
+    </group>
+    <group max-diff="3">
+      <word>нети</word>
+      <word>теин</word>
+    </group>
+    <group max-diff="2">
+      <word>неф</word>
+      <word>фен</word>
+    </group>
+    <group max-diff="3">
+      <word>ниша</word>
+      <word>шина</word>
+    </group>
+    <group max-diff="3">
+      <word>норма</word>
+      <word>роман</word>
+    </group>
+    <group max-diff="2">
+      <word>нос</word>
+      <word>сон</word>
+    </group>
+    <group max-diff="3">
+      <word>носик</word>
+      <word>оникс</word>
+    </group>
+    <group max-diff="4">
+      <word>нотка</word>
+      <word>октан</word>
+    </group>
+    <group max-diff="2">
+      <word>нут</word>
+      <word>тун</word>
+      <word>унт</word>
+    </group>
+    <group max-diff="3">
+      <word>нырок</word>
+      <word>рынок</word>
+    </group>
+    <group max-diff="3">
+      <word>обвес</word>
+      <word>обсев</word>
+    </group>
+    <group max-diff="3">
+      <word>облом</word>
+      <word>обмол</word>
+    </group>
+    <group max-diff="1">
+      <word>одр</word>
+      <word>род</word>
+    </group>
+    <group max-diff="3">
+      <word>окрас</word>
+      <word>скора</word>
+    </group>
+    <group max-diff="3">
+      <word>октет</word>
+      <word>оттек</word>
+    </group>
+    <group max-diff="3">
+      <word>опал</word>
+      <word>пола</word>
+    </group>
+    <group max-diff="3">
+      <word>опрос</word>
+      <word>порос</word>
+      <word>просо</word>
+      <word>сопор</word>
+    </group>
+    <group max-diff="2">
+      <word>опт</word>
+      <word>пот</word>
+      <word>топ</word>
+    </group>
+    <group max-diff="2">
+      <word>орлик</word>
+      <word>ролик</word>
+    </group>
+    <group max-diff="1">
+      <word>орс</word>
+      <word>сор</word>
+    </group>
+    <group max-diff="2">
+      <word>орт</word>
+      <word>рот</word>
+      <word>тор</word>
+    </group>
+    <group max-diff="2">
+      <word>ортит</word>
+      <word>торит</word>
+    </group>
+    <group max-diff="3">
+      <word>орун</word>
+      <word>руно</word>
+      <word>урон</word>
+    </group>
+    <group max-diff="1">
+      <word>осел</word>
+      <word>село</word>
+    </group>
+    <group max-diff="3">
+      <word>оскал</word>
+      <word>скало</word>
+      <word>солка</word>
+    </group>
+    <group max-diff="4">
+      <word>ослик</word>
+      <word>силок</word>
+    </group>
+    <group max-diff="3">
+      <word>ослоп</word>
+      <word>посол</word>
+      <word>сопло</word>
+    </group>
+    <group max-diff="2">
+      <word>остяк</word>
+      <word>стояк</word>
+    </group>
+    <group max-diff="2">
+      <word>отбор</word>
+      <word>робот</word>
+    </group>
+    <group max-diff="4">
+      <word>отвес</word>
+      <word>отсев</word>
+      <word>совет</word>
+    </group>
+    <group max-diff="3">
+      <word>отец</word>
+      <word>оцет</word>
+    </group>
+    <group max-diff="3">
+      <word>отпор</word>
+      <word>порто</word>
+      <word>ропот</word>
+      <word>топор</word>
+    </group>
+    <group max-diff="1">
+      <word>отрок</word>
+      <word>рокот</word>
+      <word>роток</word>
+    </group>
+    <group max-diff="2">
+      <word>пазок</word>
+      <word>показ</word>
+    </group>
+    <group max-diff="1">
+      <word>панаш</word>
+      <word>шпана</word>
+    </group>
+    <group max-diff="2">
+      <word>пани</word>
+      <word>пиан</word>
+    </group>
+    <group max-diff="3">
+      <word>парс</word>
+      <word>рапс</word>
+      <word>сапр</word>
+    </group>
+    <group max-diff="2">
+      <word>парша</word>
+      <word>шарап</word>
+    </group>
+    <group max-diff="2">
+      <word>пас</word>
+      <word>сап</word>
+    </group>
+    <group max-diff="1">
+      <word>пасс</word>
+      <word>спас</word>
+    </group>
+    <group max-diff="3">
+      <word>патер</word>
+      <word>тапер</word>
+    </group>
+    <group max-diff="4">
+      <word>пахит</word>
+      <word>пихта</word>
+    </group>
+    <group max-diff="2">
+      <word>пахта</word>
+      <word>птаха</word>
+    </group>
+    <group max-diff="2">
+      <word>пеан</word>
+      <word>пена</word>
+    </group>
+    <group max-diff="2">
+      <word>пекан</word>
+      <word>пенка</word>
+    </group>
+    <group max-diff="2">
+      <word>пенал</word>
+      <word>плена</word>
+    </group>
+    <group max-diff="3">
+      <word>перс</word>
+      <word>репс</word>
+      <word>серп</word>
+    </group>
+    <group max-diff="2">
+      <word>перш</word>
+      <word>шерп</word>
+    </group>
+    <group max-diff="2">
+      <word>песик</word>
+      <word>пески</word>
+    </group>
+    <group max-diff="2">
+      <word>пикап</word>
+      <word>пипка</word>
+    </group>
+    <group max-diff="3">
+      <word>пикон</word>
+      <word>пинок</word>
+    </group>
+    <group max-diff="2">
+      <word>пион</word>
+      <word>пони</word>
+    </group>
+    <group max-diff="2">
+      <word>пират</word>
+      <word>тапир</word>
+    </group>
+    <group max-diff="2">
+      <word>писк</word>
+      <word>скип</word>
+    </group>
+    <group max-diff="2">
+      <word>писун</word>
+      <word>супин</word>
+    </group>
+    <group max-diff="3">
+      <word>плато</word>
+      <word>толпа</word>
+    </group>
+    <group max-diff="2">
+      <word>плеск</word>
+      <word>склеп</word>
+    </group>
+    <group max-diff="3">
+      <word>плоть</word>
+      <word>полть</word>
+    </group>
+    <group max-diff="2">
+      <word>плюш</word>
+      <word>шлюп</word>
+    </group>
+    <group max-diff="4">
+      <word>повар</word>
+      <word>право</word>
+    </group>
+    <group max-diff="3">
+      <word>позер</word>
+      <word>порез</word>
+    </group>
+    <group max-diff="1">
+      <word>позор</word>
+      <word>пороз</word>
+    </group>
+    <group max-diff="4">
+      <word>полет</word>
+      <word>тепло</word>
+    </group>
+    <group max-diff="3">
+      <word>полис</word>
+      <word>сопли</word>
+    </group>
+    <group max-diff="1">
+      <word>полом</word>
+      <word>помол</word>
+    </group>
+    <group max-diff="3">
+      <word>порт</word>
+      <word>троп</word>
+    </group>
+    <group max-diff="2">
+      <word>прах</word>
+      <word>храп</word>
+    </group>
+    <group max-diff="2">
+      <word>прут</word>
+      <word>труп</word>
+    </group>
+    <group max-diff="4">
+      <word>пруша</word>
+      <word>шурпа</word>
+    </group>
+    <group max-diff="3">
+      <word>пряха</word>
+      <word>хряпа</word>
+    </group>
+    <group max-diff="2">
+      <word>псина</word>
+      <word>синап</word>
+      <word>спина</word>
+    </group>
+    <group max-diff="2">
+      <word>псица</word>
+      <word>спица</word>
+    </group>
+    <group max-diff="2">
+      <word>пуск</word>
+      <word>скуп</word>
+    </group>
+    <group max-diff="3">
+      <word>путец</word>
+      <word>тупец</word>
+    </group>
+    <group max-diff="2">
+      <word>пшат</word>
+      <word>шпат</word>
+    </group>
+    <group max-diff="4">
+      <word>пятак</word>
+      <word>пятка</word>
+      <word>тяпка</word>
+    </group>
+    <group max-diff="3">
+      <word>рагу</word>
+      <word>руга</word>
+      <word>угар</word>
+    </group>
+    <group max-diff="4">
+      <word>ранет</word>
+      <word>рента</word>
+    </group>
+    <group max-diff="2">
+      <word>ратин</word>
+      <word>тиран</word>
+    </group>
+    <group max-diff="3">
+      <word>раут</word>
+      <word>рута</word>
+      <word>тура</word>
+    </group>
+    <group max-diff="4">
+      <word>рация</word>
+      <word>ярица</word>
+    </group>
+    <group max-diff="2">
+      <word>резак</word>
+      <word>резка</word>
+    </group>
+    <group max-diff="1">
+      <word>рикша</word>
+      <word>шарик</word>
+    </group>
+    <group max-diff="3">
+      <word>рифма</word>
+      <word>фирма</word>
+    </group>
+    <group max-diff="3">
+      <word>родня</word>
+      <word>рядно</word>
+    </group>
+    <group max-diff="3">
+      <word>рост</word>
+      <word>сорт</word>
+      <word>торс</word>
+      <word>трос</word>
+    </group>
+    <group max-diff="3">
+      <word>рота</word>
+      <word>тора</word>
+    </group>
+    <group max-diff="3">
+      <word>ротик</word>
+      <word>трико</word>
+    </group>
+    <group max-diff="2">
+      <word>руина</word>
+      <word>урина</word>
+    </group>
+    <group max-diff="2">
+      <word>румба</word>
+      <word>умбра</word>
+    </group>
+    <group max-diff="3">
+      <word>руна</word>
+      <word>уран</word>
+      <word>урна</word>
+    </group>
+    <group max-diff="1">
+      <word>руст</word>
+      <word>трус</word>
+    </group>
+    <group max-diff="3">
+      <word>руте</word>
+      <word>туер</word>
+    </group>
+    <group max-diff="2">
+      <word>рыбак</word>
+      <word>рыбка</word>
+    </group>
+    <group max-diff="3">
+      <word>рысца</word>
+      <word>сырца</word>
+    </group>
+    <group max-diff="3">
+      <word>рысь</word>
+      <word>сырь</word>
+    </group>
+    <group max-diff="2">
+      <word>ряд</word>
+      <word>ярд</word>
+    </group>
+    <group max-diff="1">
+      <word>сайра</word>
+      <word>сарай</word>
+    </group>
+    <group max-diff="3">
+      <word>самум</word>
+      <word>сумма</word>
+    </group>
+    <group max-diff="4">
+      <word>сатир</word>
+      <word>триас</word>
+    </group>
+    <group max-diff="3">
+      <word>сват</word>
+      <word>став</word>
+    </group>
+    <group max-diff="3">
+      <word>секач</word>
+      <word>сечка</word>
+      <word>ческа</word>
+    </group>
+    <group max-diff="1">
+      <word>секс</word>
+      <word>ссек</word>
+    </group>
+    <group max-diff="2">
+      <word>сенат</word>
+      <word>стена</word>
+    </group>
+    <group max-diff="2">
+      <word>сет</word>
+      <word>тес</word>
+    </group>
+    <group max-diff="3">
+      <word>ситро</word>
+      <word>сорит</word>
+    </group>
+    <group max-diff="3">
+      <word>скиф</word>
+      <word>фикс</word>
+      <word>фиск</word>
+    </group>
+    <group max-diff="3">
+      <word>скопа</word>
+      <word>сопка</word>
+    </group>
+    <group max-diff="3">
+      <word>скот</word>
+      <word>сток</word>
+    </group>
+    <group max-diff="2">
+      <word>скудо</word>
+      <word>судок</word>
+    </group>
+    <group max-diff="3">
+      <word>слот</word>
+      <word>стол</word>
+    </group>
+    <group max-diff="3">
+      <word>сотка</word>
+      <word>тоска</word>
+    </group>
+    <group max-diff="2">
+      <word>соха</word>
+      <word>хаос</word>
+    </group>
+    <group max-diff="3">
+      <word>спец</word>
+      <word>сцеп</word>
+    </group>
+    <group max-diff="4">
+      <word>спорт</word>
+      <word>строп</word>
+    </group>
+    <group max-diff="4">
+      <word>спрут</word>
+      <word>спурт</word>
+      <word>струп</word>
+    </group>
+    <group max-diff="4">
+      <word>стела</word>
+      <word>талес</word>
+    </group>
+    <group max-diff="4">
+      <word>стужа</word>
+      <word>сутаж</word>
+    </group>
+    <group max-diff="1">
+      <word>су</word>
+      <word>ус</word>
+    </group>
+    <group max-diff="3">
+      <word>табу</word>
+      <word>туба</word>
+    </group>
+    <group max-diff="0">
+      <word>татра</word>
+      <word>трата</word>
+    </group>
+    <group max-diff="4">
+      <word>тенор</word>
+      <word>тонер</word>
+    </group>
+    <group max-diff="3">
+      <word>терн</word>
+      <word>трен</word>
+    </group>
+    <group max-diff="3">
+      <word>течь</word>
+      <word>четь</word>
+    </group>
+    <group max-diff="2">
+      <word>тори</word>
+      <word>трио</word>
+    </group>
+    <group max-diff="3">
+      <word>торт</word>
+      <word>трот</word>
+    </group>
+    <group max-diff="2">
+      <word>торф</word>
+      <word>форт</word>
+      <word>фтор</word>
+    </group>
+    <group max-diff="3">
+      <word>треф</word>
+      <word>ферт</word>
+      <word>фетр</word>
+    </group>
+    <group max-diff="3">
+      <word>трюк</word>
+      <word>тюрк</word>
+    </group>
+    <group max-diff="2">
+      <word>туес</word>
+      <word>утес</word>
+    </group>
+    <group max-diff="4">
+      <word>турне</word>
+      <word>унтер</word>
+    </group>
+    <group max-diff="2">
+      <word>туф</word>
+      <word>фут</word>
+    </group>
+    <group max-diff="2">
+      <word>туш</word>
+      <word>шут</word>
+    </group>
+    <group max-diff="1">
+      <word>туша</word>
+      <word>ушат</word>
+    </group>
+    <group max-diff="3">
+      <word>тушка</word>
+      <word>штука</word>
+      <word>шутка</word>
+    </group>
+    <group max-diff="3">
+      <word>укор</word>
+      <word>урок</word>
+    </group>
+    <group max-diff="2">
+      <word>усач</word>
+      <word>чаус</word>
+    </group>
+    <group max-diff="2">
+      <word>утор</word>
+      <word>утро</word>
+    </group>
+    <group max-diff="3">
+      <word>уход</word>
+      <word>худо</word>
+    </group>
+    <group max-diff="1">
+      <word>фазан</word>
+      <word>фанза</word>
+    </group>
+    <group max-diff="3">
+      <word>факир</word>
+      <word>фиакр</word>
+    </group>
+    <group max-diff="2">
+      <word>фарш</word>
+      <word>шарф</word>
+    </group>
+    <group max-diff="2">
+      <word>фиал</word>
+      <word>фила</word>
+    </group>
+    <group max-diff="2">
+      <word>фиат</word>
+      <word>фита</word>
+    </group>
+    <group max-diff="4">
+      <word>флешь</word>
+      <word>шельф</word>
+    </group>
+    <group max-diff="2">
+      <word>фрау</word>
+      <word>фура</word>
+    </group>
+    <group max-diff="3">
+      <word>халд</word>
+      <word>хлад</word>
+    </group>
+    <group max-diff="2">
+      <word>хан</word>
+      <word>хна</word>
+    </group>
+    <group max-diff="2">
+      <word>чаек</word>
+      <word>чека</word>
+    </group>
+    <group max-diff="2">
+      <word>шакал</word>
+      <word>шкала</word>
+    </group>
+    <group max-diff="2">
+      <word>шериф</word>
+      <word>шифер</word>
+    </group>
+    <group max-diff="2">
+      <word>шишак</word>
+      <word>шишка</word>
+    </group>
+    <group max-diff="4">
+      <word>шкерт</word>
+      <word>штрек</word>
+    </group>
+    <group max-diff="4">
+      <word>ягуар</word>
+      <word>яруга</word>
+    </group>
+  </short>
+  <long>
+    <group max-diff="5">
+      <word>авдотка</word>
+      <word>адвокат</word>
+    </group>
+    <group max-diff="10">
+      <word>австралопитек</word>
+      <word>ватерполистка</word>
+    </group>
+    <group max-diff="5">
+      <word>австриец</word>
+      <word>царствие</word>
+    </group>
+    <group max-diff="4">
+      <word>автокар</word>
+      <word>отварка</word>
+      <word>товарка</word>
+    </group>
+    <group max-diff="6">
+      <word>автопарк</word>
+      <word>отправка</word>
+    </group>
+    <group max-diff="1">
+      <word>агностик</word>
+      <word>гностика</word>
+    </group>
+    <group max-diff="4">
+      <word>агротехник</word>
+      <word>оргтехника</word>
+    </group>
+    <group max-diff="4">
+      <word>адамит</word>
+      <word>диамат</word>
+    </group>
+    <group max-diff="5">
+      <word>адаптер</word>
+      <word>петарда</word>
+    </group>
+    <group max-diff="6">
+      <word>адресочек</word>
+      <word>середочка</word>
+    </group>
+    <group max-diff="2">
+      <word>азбука</word>
+      <word>базука</word>
+    </group>
+    <group max-diff="7">
+      <word>аистенок</word>
+      <word>осетинка</word>
+    </group>
+    <group max-diff="6">
+      <word>акварелист</word>
+      <word>кавалерист</word>
+    </group>
+    <group max-diff="5">
+      <word>акварель</word>
+      <word>кавальер</word>
+    </group>
+    <group max-diff="6">
+      <word>аквилон</word>
+      <word>линовка</word>
+    </group>
+    <group max-diff="6">
+      <word>акмеист</word>
+      <word>метиска</word>
+      <word>семитка</word>
+    </group>
+    <group max-diff="4">
+      <word>аконит</word>
+      <word>катион</word>
+      <word>тоника</word>
+    </group>
+    <group max-diff="6">
+      <word>акробат</word>
+      <word>работка</word>
+    </group>
+    <group max-diff="6">
+      <word>акростих</word>
+      <word>хористка</word>
+    </group>
+    <group max-diff="6">
+      <word>аксамит</word>
+      <word>мастика</word>
+    </group>
+    <group max-diff="5">
+      <word>актерка</word>
+      <word>каретка</word>
+      <word>ракетка</word>
+    </group>
+    <group max-diff="5">
+      <word>активация</word>
+      <word>кавитация</word>
+    </group>
+    <group max-diff="2">
+      <word>акустик</word>
+      <word>каустик</word>
+    </group>
+    <group max-diff="2">
+      <word>акустика</word>
+      <word>каустика</word>
+    </group>
+    <group max-diff="4">
+      <word>алеврит</word>
+      <word>левират</word>
+    </group>
+    <group max-diff="4">
+      <word>алексин</word>
+      <word>силенка</word>
+    </group>
+    <group max-diff="6">
+      <word>алжирец</word>
+      <word>жерлица</word>
+    </group>
+    <group max-diff="3">
+      <word>альбом</word>
+      <word>мольба</word>
+    </group>
+    <group max-diff="1">
+      <word>альков</word>
+      <word>коваль</word>
+    </group>
+    <group max-diff="1">
+      <word>аманат</word>
+      <word>атаман</word>
+    </group>
+    <group max-diff="4">
+      <word>американист</word>
+      <word>арменистика</word>
+    </group>
+    <group max-diff="5">
+      <word>амикрон</word>
+      <word>минорка</word>
+    </group>
+    <group max-diff="3">
+      <word>амнион</word>
+      <word>аноним</word>
+    </group>
+    <group max-diff="2">
+      <word>ампервольтметр</word>
+      <word>вольтамперметр</word>
+    </group>
+    <group max-diff="3">
+      <word>амплуа</word>
+      <word>ампула</word>
+    </group>
+    <group max-diff="4">
+      <word>анабиоз</word>
+      <word>забоина</word>
+    </group>
+    <group max-diff="3">
+      <word>анаконда</word>
+      <word>канонада</word>
+    </group>
+    <group max-diff="3">
+      <word>анзерин</word>
+      <word>зернина</word>
+    </group>
+    <group max-diff="5">
+      <word>анизол</word>
+      <word>лозина</word>
+    </group>
+    <group max-diff="6">
+      <word>анкерит</word>
+      <word>кератин</word>
+      <word>креатин</word>
+    </group>
+    <group max-diff="4">
+      <word>анкилоз</word>
+      <word>кинозал</word>
+      <word>лозинка</word>
+    </group>
+    <group max-diff="9">
+      <word>анкилозавр</word>
+      <word>разлиновка</word>
+    </group>
+    <group max-diff="7">
+      <word>антиквар</word>
+      <word>травинка</word>
+    </group>
+    <group max-diff="4">
+      <word>антимония</word>
+      <word>антиномия</word>
+      <word>антонимия</word>
+    </group>
+    <group max-diff="7">
+      <word>антресоли</word>
+      <word>орлеанист</word>
+    </group>
+    <group max-diff="5">
+      <word>аорист</word>
+      <word>сирота</word>
+    </group>
+    <group max-diff="4">
+      <word>аортит</word>
+      <word>отиатр</word>
+    </group>
+    <group max-diff="5">
+      <word>апельсин</word>
+      <word>спаниель</word>
+    </group>
+    <group max-diff="1">
+      <word>апломб</word>
+      <word>пломба</word>
+    </group>
+    <group max-diff="5">
+      <word>апостол</word>
+      <word>салотоп</word>
+    </group>
+    <group max-diff="4">
+      <word>аптечка</word>
+      <word>печатка</word>
+    </group>
+    <group max-diff="7">
+      <word>арагонит</word>
+      <word>рогатина</word>
+    </group>
+    <group max-diff="4">
+      <word>арапник</word>
+      <word>крапина</word>
+    </group>
+    <group max-diff="3">
+      <word>арбалет</word>
+      <word>баталер</word>
+    </group>
+    <group max-diff="5">
+      <word>арбутин</word>
+      <word>трибуна</word>
+      <word>турбина</word>
+    </group>
+    <group max-diff="3">
+      <word>аркбутан</word>
+      <word>бунтарка</word>
+    </group>
+    <group max-diff="5">
+      <word>армячок</word>
+      <word>морячка</word>
+    </group>
+    <group max-diff="4">
+      <word>арнаут</word>
+      <word>натура</word>
+    </group>
+    <group max-diff="4">
+      <word>арника</word>
+      <word>иранка</word>
+    </group>
+    <group max-diff="4">
+      <word>арпанет</word>
+      <word>пантера</word>
+    </group>
+    <group max-diff="6">
+      <word>артшкола</word>
+      <word>шарлотка</word>
+    </group>
+    <group max-diff="2">
+      <word>архаизм</word>
+      <word>харизма</word>
+    </group>
+    <group max-diff="6">
+      <word>арчинец</word>
+      <word>черница</word>
+    </group>
+    <group max-diff="3">
+      <word>аскеза</word>
+      <word>засека</word>
+    </group>
+    <group max-diff="4">
+      <word>атаксит</word>
+      <word>статика</word>
+    </group>
+    <group max-diff="3">
+      <word>атлант</word>
+      <word>талант</word>
+      <word>тантал</word>
+    </group>
+    <group max-diff="7">
+      <word>атрепсия</word>
+      <word>распятие</word>
+    </group>
+    <group max-diff="3">
+      <word>ахромат</word>
+      <word>трахома</word>
+    </group>
+    <group max-diff="4">
+      <word>ахроматин</word>
+      <word>махинатор</word>
+    </group>
+    <group max-diff="5">
+      <word>ацетил</word>
+      <word>телица</word>
+    </group>
+    <group max-diff="5">
+      <word>бактриан</word>
+      <word>британка</word>
+    </group>
+    <group max-diff="5">
+      <word>балтиец</word>
+      <word>целибат</word>
+    </group>
+    <group max-diff="3">
+      <word>бантик</word>
+      <word>батник</word>
+    </group>
+    <group max-diff="1">
+      <word>баркас</word>
+      <word>карбас</word>
+    </group>
+    <group max-diff="4">
+      <word>барокко</word>
+      <word>коробка</word>
+    </group>
+    <group max-diff="3">
+      <word>барство</word>
+      <word>рабство</word>
+    </group>
+    <group max-diff="5">
+      <word>барсук</word>
+      <word>бурсак</word>
+      <word>срубка</word>
+    </group>
+    <group max-diff="3">
+      <word>барчук</word>
+      <word>чурбак</word>
+    </group>
+    <group max-diff="3">
+      <word>барыня</word>
+      <word>рабыня</word>
+    </group>
+    <group max-diff="4">
+      <word>бейсбол</word>
+      <word>бобслей</word>
+    </group>
+    <group max-diff="3">
+      <word>бекеша</word>
+      <word>шебека</word>
+    </group>
+    <group max-diff="4">
+      <word>белорус</word>
+      <word>лесоруб</word>
+    </group>
+    <group max-diff="2">
+      <word>бельмо</word>
+      <word>бемоль</word>
+    </group>
+    <group max-diff="3">
+      <word>бережок</word>
+      <word>жеребок</word>
+    </group>
+    <group max-diff="3">
+      <word>беркут</word>
+      <word>курбет</word>
+    </group>
+    <group max-diff="2">
+      <word>бетонит</word>
+      <word>бонитет</word>
+    </group>
+    <group max-diff="6">
+      <word>биатлонист</word>
+      <word>линобатист</word>
+    </group>
+    <group max-diff="3">
+      <word>бинтик</word>
+      <word>битник</word>
+    </group>
+    <group max-diff="5">
+      <word>биолог</word>
+      <word>облиго</word>
+    </group>
+    <group max-diff="4">
+      <word>бистро</word>
+      <word>сорбит</word>
+    </group>
+    <group max-diff="5">
+      <word>блонда</word>
+      <word>надолб</word>
+    </group>
+    <group max-diff="2">
+      <word>блюдолиз</word>
+      <word>лизоблюд</word>
+    </group>
+    <group max-diff="3">
+      <word>бодряк</word>
+      <word>добряк</word>
+    </group>
+    <group max-diff="3">
+      <word>бодрячок</word>
+      <word>добрячок</word>
+    </group>
+    <group max-diff="3">
+      <word>боракс</word>
+      <word>сборка</word>
+    </group>
+    <group max-diff="2">
+      <word>браток</word>
+      <word>брокат</word>
+    </group>
+    <group max-diff="3">
+      <word>бредни</word>
+      <word>бренди</word>
+    </group>
+    <group max-diff="4">
+      <word>бриония</word>
+      <word>робиния</word>
+    </group>
+    <group max-diff="3">
+      <word>бросание</word>
+      <word>собрание</word>
+    </group>
+    <group max-diff="4">
+      <word>бросок</word>
+      <word>собкор</word>
+    </group>
+    <group max-diff="3">
+      <word>букашка</word>
+      <word>кашубка</word>
+    </group>
+    <group max-diff="3">
+      <word>бурщик</word>
+      <word>рубщик</word>
+    </group>
+    <group max-diff="3">
+      <word>бытование</word>
+      <word>отбывание</word>
+    </group>
+    <group max-diff="3">
+      <word>бытовка</word>
+      <word>отбывка</word>
+    </group>
+    <group max-diff="6">
+      <word>вазелин</word>
+      <word>левизна</word>
+    </group>
+    <group max-diff="6">
+      <word>вариант</word>
+      <word>травина</word>
+    </group>
+    <group max-diff="5">
+      <word>ватник</word>
+      <word>квинта</word>
+    </group>
+    <group max-diff="3">
+      <word>ватрушка</word>
+      <word>травушка</word>
+    </group>
+    <group max-diff="3">
+      <word>ведерце</word>
+      <word>деревце</word>
+    </group>
+    <group max-diff="4">
+      <word>ведомо</word>
+      <word>водоем</word>
+    </group>
+    <group max-diff="2">
+      <word>веерница</word>
+      <word>вереница</word>
+    </group>
+    <group max-diff="3">
+      <word>вектор</word>
+      <word>корвет</word>
+    </group>
+    <group max-diff="3">
+      <word>велогонка</word>
+      <word>головенка</word>
+    </group>
+    <group max-diff="4">
+      <word>велосит</word>
+      <word>светило</word>
+    </group>
+    <group max-diff="7">
+      <word>вераскоп</word>
+      <word>просевка</word>
+    </group>
+    <group max-diff="2">
+      <word>верейка</word>
+      <word>еврейка</word>
+    </group>
+    <group max-diff="3">
+      <word>верность</word>
+      <word>ревность</word>
+    </group>
+    <group max-diff="4">
+      <word>вероника</word>
+      <word>иноверка</word>
+    </group>
+    <group max-diff="3">
+      <word>верста</word>
+      <word>стерва</word>
+    </group>
+    <group max-diff="4">
+      <word>верстак</word>
+      <word>верстка</word>
+      <word>свертка</word>
+    </group>
+    <group max-diff="6">
+      <word>вертикаль</word>
+      <word>кильватер</word>
+    </group>
+    <group max-diff="5">
+      <word>веселость</word>
+      <word>сельсовет</word>
+    </group>
+    <group max-diff="4">
+      <word>весточка</word>
+      <word>качество</word>
+    </group>
+    <group max-diff="3">
+      <word>ветчинка</word>
+      <word>наветчик</word>
+    </group>
+    <group max-diff="4">
+      <word>вечерок</word>
+      <word>еврочек</word>
+    </group>
+    <group max-diff="3">
+      <word>вешалка</word>
+      <word>шалевка</word>
+    </group>
+    <group max-diff="3">
+      <word>виляние</word>
+      <word>влияние</word>
+    </group>
+    <group max-diff="6">
+      <word>винодел</word>
+      <word>недолив</word>
+    </group>
+    <group max-diff="5">
+      <word>винтер</word>
+      <word>неврит</word>
+    </group>
+    <group max-diff="3">
+      <word>виппер</word>
+      <word>припев</word>
+    </group>
+    <group max-diff="3">
+      <word>владение</word>
+      <word>давление</word>
+    </group>
+    <group max-diff="3">
+      <word>вноска</word>
+      <word>сновка</word>
+    </group>
+    <group max-diff="2">
+      <word>водица</word>
+      <word>двоица</word>
+    </group>
+    <group max-diff="4">
+      <word>водопад</word>
+      <word>подвода</word>
+    </group>
+    <group max-diff="3">
+      <word>водополье</word>
+      <word>половодье</word>
+    </group>
+    <group max-diff="4">
+      <word>водосток</word>
+      <word>скотовод</word>
+    </group>
+    <group max-diff="1">
+      <word>водоток</word>
+      <word>отводок</word>
+    </group>
+    <group max-diff="3">
+      <word>вокалист</word>
+      <word>листовка</word>
+    </group>
+    <group max-diff="3">
+      <word>волокитство</word>
+      <word>китоловство</word>
+    </group>
+    <group max-diff="3">
+      <word>волосность</word>
+      <word>слоновость</word>
+    </group>
+    <group max-diff="5">
+      <word>волчанка</word>
+      <word>лавчонка</word>
+    </group>
+    <group max-diff="4">
+      <word>вонища</word>
+      <word>вощина</word>
+    </group>
+    <group max-diff="5">
+      <word>воспрещение</word>
+      <word>всепрощение</word>
+      <word>просвещение</word>
+    </group>
+    <group max-diff="3">
+      <word>воструха</word>
+      <word>ухарство</word>
+    </group>
+    <group max-diff="2">
+      <word>вранье</word>
+      <word>рванье</word>
+    </group>
+    <group max-diff="3">
+      <word>вредность</word>
+      <word>древность</word>
+    </group>
+    <group max-diff="4">
+      <word>всепрощенец</word>
+      <word>просвещенец</word>
+    </group>
+    <group max-diff="5">
+      <word>выборность</word>
+      <word>обрывность</word>
+    </group>
+    <group max-diff="4">
+      <word>вывеска</word>
+      <word>высевка</word>
+    </group>
+    <group max-diff="2">
+      <word>выкачка</word>
+      <word>кавычка</word>
+    </group>
+    <group max-diff="5">
+      <word>вымазка</word>
+      <word>замывка</word>
+    </group>
+    <group max-diff="4">
+      <word>высечка</word>
+      <word>выческа</word>
+    </group>
+    <group max-diff="3">
+      <word>выточка</word>
+      <word>отвычка</word>
+    </group>
+    <group max-diff="3">
+      <word>вязанка</word>
+      <word>навязка</word>
+    </group>
+    <group max-diff="2">
+      <word>вяление</word>
+      <word>явление</word>
+    </group>
+    <group max-diff="4">
+      <word>гаврик</word>
+      <word>гривка</word>
+    </group>
+    <group max-diff="4">
+      <word>газолин</word>
+      <word>голизна</word>
+    </group>
+    <group max-diff="3">
+      <word>галоид</word>
+      <word>диалог</word>
+    </group>
+    <group max-diff="2">
+      <word>гамадрил</word>
+      <word>мадригал</word>
+    </group>
+    <group max-diff="3">
+      <word>гарант</word>
+      <word>гранат</word>
+    </group>
+    <group max-diff="3">
+      <word>гардина</word>
+      <word>градина</word>
+    </group>
+    <group max-diff="3">
+      <word>гаркун</word>
+      <word>курган</word>
+    </group>
+    <group max-diff="3">
+      <word>гармонист</word>
+      <word>морганист</word>
+    </group>
+    <group max-diff="2">
+      <word>гастроль</word>
+      <word>строгаль</word>
+    </group>
+    <group max-diff="5">
+      <word>геометрия</word>
+      <word>геотермия</word>
+    </group>
+    <group max-diff="5">
+      <word>героин</word>
+      <word>регион</word>
+    </group>
+    <group max-diff="6">
+      <word>гидротерапия</word>
+      <word>дагерротипия</word>
+    </group>
+    <group max-diff="5">
+      <word>гимнаст</word>
+      <word>нистагм</word>
+    </group>
+    <group max-diff="6">
+      <word>глазенки</word>
+      <word>лезгинка</word>
+    </group>
+    <group max-diff="5">
+      <word>глиома</word>
+      <word>могила</word>
+    </group>
+    <group max-diff="4">
+      <word>гнилушка</word>
+      <word>лгунишка</word>
+    </group>
+    <group max-diff="3">
+      <word>гноение</word>
+      <word>гонение</word>
+    </group>
+    <group max-diff="2">
+      <word>гноище</word>
+      <word>огнище</word>
+    </group>
+    <group max-diff="5">
+      <word>горбик</word>
+      <word>грибок</word>
+      <word>гробик</word>
+    </group>
+    <group max-diff="5">
+      <word>гордячка</word>
+      <word>грядочка</word>
+    </group>
+    <group max-diff="6">
+      <word>горилка</word>
+      <word>рогалик</word>
+    </group>
+    <group max-diff="5">
+      <word>горчинка</word>
+      <word>органчик</word>
+    </group>
+    <group max-diff="1">
+      <word>граната</word>
+      <word>танагра</word>
+    </group>
+    <group max-diff="4">
+      <word>гранит</word>
+      <word>тангир</word>
+    </group>
+    <group max-diff="2">
+      <word>графолог</word>
+      <word>логограф</word>
+    </group>
+    <group max-diff="3">
+      <word>грядиль</word>
+      <word>дрягиль</word>
+    </group>
+    <group max-diff="3">
+      <word>дакрон</word>
+      <word>дракон</word>
+    </group>
+    <group max-diff="6">
+      <word>дарение</word>
+      <word>нереида</word>
+      <word>радение</word>
+    </group>
+    <group max-diff="3">
+      <word>двоечка</word>
+      <word>девочка</word>
+    </group>
+    <group max-diff="5">
+      <word>двоечник</word>
+      <word>неводчик</word>
+    </group>
+    <group max-diff="4">
+      <word>двоешка</word>
+      <word>евдошка</word>
+    </group>
+    <group max-diff="5">
+      <word>дежурство</word>
+      <word>дружество</word>
+    </group>
+    <group max-diff="2">
+      <word>дельта</word>
+      <word>деталь</word>
+    </group>
+    <group max-diff="3">
+      <word>делянка</word>
+      <word>ледянка</word>
+    </group>
+    <group max-diff="5">
+      <word>дергун</word>
+      <word>недруг</word>
+    </group>
+    <group max-diff="3">
+      <word>дереза</word>
+      <word>резеда</word>
+    </group>
+    <group max-diff="5">
+      <word>диктор</word>
+      <word>дротик</word>
+      <word>кордит</word>
+    </group>
+    <group max-diff="3">
+      <word>директор</word>
+      <word>кредитор</word>
+    </group>
+    <group max-diff="3">
+      <word>директорша</word>
+      <word>кредиторша</word>
+    </group>
+    <group max-diff="4">
+      <word>добавок</word>
+      <word>обводка</word>
+    </group>
+    <group max-diff="7">
+      <word>дозревание</word>
+      <word>раздвоение</word>
+    </group>
+    <group max-diff="4">
+      <word>домино</word>
+      <word>моноид</word>
+    </group>
+    <group max-diff="5">
+      <word>донкихот</word>
+      <word>отходник</word>
+    </group>
+    <group max-diff="3">
+      <word>досолка</word>
+      <word>солодка</word>
+    </group>
+    <group max-diff="4">
+      <word>доступ</word>
+      <word>подуст</word>
+    </group>
+    <group max-diff="5">
+      <word>дочурка</word>
+      <word>дурачок</word>
+      <word>дурочка</word>
+    </group>
+    <group max-diff="4">
+      <word>дочушка</word>
+      <word>чадушко</word>
+    </group>
+    <group max-diff="3">
+      <word>дранка</word>
+      <word>кардан</word>
+    </group>
+    <group max-diff="8">
+      <word>древесница</word>
+      <word>сердцевина</word>
+    </group>
+    <group max-diff="4">
+      <word>дрезина</word>
+      <word>редизна</word>
+    </group>
+    <group max-diff="4">
+      <word>дромадер</word>
+      <word>дромедар</word>
+    </group>
+    <group max-diff="3">
+      <word>дупель</word>
+      <word>пудель</word>
+    </group>
+    <group max-diff="3">
+      <word>дурника</word>
+      <word>ударник</word>
+    </group>
+    <group max-diff="1">
+      <word>ельник</word>
+      <word>никель</word>
+    </group>
+    <group max-diff="3">
+      <word>желание</word>
+      <word>лежание</word>
+    </group>
+    <group max-diff="5">
+      <word>женатик</word>
+      <word>таежник</word>
+    </group>
+    <group max-diff="1">
+      <word>жиропот</word>
+      <word>жиротоп</word>
+    </group>
+    <group max-diff="5">
+      <word>заборчик</word>
+      <word>образчик</word>
+    </group>
+    <group max-diff="4">
+      <word>забутка</word>
+      <word>зубатка</word>
+    </group>
+    <group max-diff="1">
+      <word>заверка</word>
+      <word>каверза</word>
+    </group>
+    <group max-diff="1">
+      <word>закачка</word>
+      <word>казачка</word>
+    </group>
+    <group max-diff="5">
+      <word>законовед</word>
+      <word>конезавод</word>
+    </group>
+    <group max-diff="5">
+      <word>заметка</word>
+      <word>каземат</word>
+    </group>
+    <group max-diff="5">
+      <word>запонка</word>
+      <word>пазанок</word>
+    </group>
+    <group max-diff="4">
+      <word>запорка</word>
+      <word>проказа</word>
+    </group>
+    <group max-diff="3">
+      <word>зарница</word>
+      <word>разница</word>
+    </group>
+    <group max-diff="4">
+      <word>засечка</word>
+      <word>заческа</word>
+    </group>
+    <group max-diff="3">
+      <word>заточка</word>
+      <word>зачаток</word>
+    </group>
+    <group max-diff="5">
+      <word>зенитка</word>
+      <word>казинет</word>
+    </group>
+    <group max-diff="5">
+      <word>зодиак</word>
+      <word>озадки</word>
+    </group>
+    <group max-diff="7">
+      <word>золотарник</word>
+      <word>разнотолки</word>
+    </group>
+    <group max-diff="2">
+      <word>зубоскал</word>
+      <word>скалозуб</word>
+    </group>
+    <group max-diff="2">
+      <word>зудень</word>
+      <word>уздень</word>
+    </group>
+    <group max-diff="4">
+      <word>иголка</word>
+      <word>логика</word>
+    </group>
+    <group max-diff="2">
+      <word>изнанка</word>
+      <word>нанизка</word>
+    </group>
+    <group max-diff="3">
+      <word>иконка</word>
+      <word>кокаин</word>
+    </group>
+    <group max-diff="7">
+      <word>импортер</word>
+      <word>пирометр</word>
+      <word>реимпорт</word>
+    </group>
+    <group max-diff="3">
+      <word>иномент</word>
+      <word>менонит</word>
+    </group>
+    <group max-diff="6">
+      <word>иностранец</word>
+      <word>станционер</word>
+    </group>
+    <group max-diff="8">
+      <word>иностранка</word>
+      <word>санаторник</word>
+    </group>
+    <group max-diff="5">
+      <word>интриган</word>
+      <word>нитрагин</word>
+    </group>
+    <group max-diff="6">
+      <word>инфаркт</word>
+      <word>франтик</word>
+    </group>
+    <group max-diff="6">
+      <word>ипсилон</word>
+      <word>исполин</word>
+    </group>
+    <group max-diff="6">
+      <word>ирландка</word>
+      <word>кардинал</word>
+    </group>
+    <group max-diff="3">
+      <word>истмат</word>
+      <word>мастит</word>
+    </group>
+    <group max-diff="5">
+      <word>истопник</word>
+      <word>синоптик</word>
+    </group>
+    <group max-diff="3">
+      <word>истукан</word>
+      <word>туниска</word>
+    </group>
+    <group max-diff="2">
+      <word>истфак</word>
+      <word>фактис</word>
+    </group>
+    <group max-diff="1">
+      <word>иттрий</word>
+      <word>тритий</word>
+    </group>
+    <group max-diff="3">
+      <word>казуальность</word>
+      <word>каузальность</word>
+    </group>
+    <group max-diff="3">
+      <word>каинит</word>
+      <word>кианит</word>
+    </group>
+    <group max-diff="3">
+      <word>каламин</word>
+      <word>малинка</word>
+    </group>
+    <group max-diff="3">
+      <word>каламит</word>
+      <word>тамилка</word>
+    </group>
+    <group max-diff="4">
+      <word>калуга</word>
+      <word>кулага</word>
+    </group>
+    <group max-diff="5">
+      <word>камерон</word>
+      <word>марокен</word>
+    </group>
+    <group max-diff="1">
+      <word>канатник</word>
+      <word>накатник</word>
+    </group>
+    <group max-diff="1">
+      <word>канатчик</word>
+      <word>накатчик</word>
+    </group>
+    <group max-diff="3">
+      <word>кандиль</word>
+      <word>льдинка</word>
+    </group>
+    <group max-diff="5">
+      <word>канистра</word>
+      <word>старикан</word>
+      <word>старинка</word>
+    </group>
+    <group max-diff="6">
+      <word>канкроид</word>
+      <word>кинокадр</word>
+    </group>
+    <group max-diff="4">
+      <word>кантор</word>
+      <word>картон</word>
+      <word>контра</word>
+    </group>
+    <group max-diff="4">
+      <word>канцер</word>
+      <word>кранец</word>
+    </group>
+    <group max-diff="5">
+      <word>каперс</word>
+      <word>парсек</word>
+      <word>скрепа</word>
+    </group>
+    <group max-diff="3">
+      <word>каплун</word>
+      <word>плакун</word>
+    </group>
+    <group max-diff="5">
+      <word>капонир</word>
+      <word>опарник</word>
+    </group>
+    <group max-diff="2">
+      <word>каприз</word>
+      <word>приказ</word>
+    </group>
+    <group max-diff="4">
+      <word>каптал</word>
+      <word>плакат</word>
+    </group>
+    <group max-diff="5">
+      <word>каптер</word>
+      <word>паркет</word>
+      <word>трепак</word>
+      <word>трепка</word>
+    </group>
+    <group max-diff="3">
+      <word>капюшон</word>
+      <word>понюшка</word>
+    </group>
+    <group max-diff="2">
+      <word>караван</word>
+      <word>наварка</word>
+    </group>
+    <group max-diff="5">
+      <word>карбонит</word>
+      <word>работник</word>
+    </group>
+    <group max-diff="3">
+      <word>карелка</word>
+      <word>лекарка</word>
+    </group>
+    <group max-diff="3">
+      <word>карета</word>
+      <word>ракета</word>
+    </group>
+    <group max-diff="6">
+      <word>каретник</word>
+      <word>катерник</word>
+      <word>кретинка</word>
+    </group>
+    <group max-diff="5">
+      <word>кариес</word>
+      <word>секира</word>
+    </group>
+    <group max-diff="3">
+      <word>каркас</word>
+      <word>краска</word>
+    </group>
+    <group max-diff="4">
+      <word>карлица</word>
+      <word>лакрица</word>
+    </group>
+    <group max-diff="4">
+      <word>кармазин</word>
+      <word>разминка</word>
+    </group>
+    <group max-diff="3">
+      <word>картер</word>
+      <word>кратер</word>
+    </group>
+    <group max-diff="4">
+      <word>картина</word>
+      <word>натирка</word>
+      <word>тиранка</word>
+    </group>
+    <group max-diff="6">
+      <word>каршуни</word>
+      <word>крушина</word>
+    </group>
+    <group max-diff="5">
+      <word>кастор</word>
+      <word>костра</word>
+      <word>строка</word>
+      <word>торакс</word>
+    </group>
+    <group max-diff="5">
+      <word>касторка</word>
+      <word>красотка</word>
+    </group>
+    <group max-diff="1">
+      <word>каталь</word>
+      <word>талька</word>
+    </group>
+    <group max-diff="3">
+      <word>катальня</word>
+      <word>тальянка</word>
+    </group>
+    <group max-diff="3">
+      <word>катанка</word>
+      <word>накатка</word>
+    </group>
+    <group max-diff="5">
+      <word>катерна</word>
+      <word>ранетка</word>
+    </group>
+    <group max-diff="1">
+      <word>катетер</word>
+      <word>тетерка</word>
+    </group>
+    <group max-diff="3">
+      <word>каторга</word>
+      <word>рогатка</word>
+    </group>
+    <group max-diff="5">
+      <word>катрен</word>
+      <word>нектар</word>
+      <word>танкер</word>
+    </group>
+    <group max-diff="5">
+      <word>каупер</word>
+      <word>укрепа</word>
+    </group>
+    <group max-diff="4">
+      <word>кафель</word>
+      <word>кефаль</word>
+    </group>
+    <group max-diff="3">
+      <word>кафельщик</word>
+      <word>факельщик</word>
+    </group>
+    <group max-diff="5">
+      <word>кварта</word>
+      <word>травка</word>
+    </group>
+    <group max-diff="5">
+      <word>квасок</word>
+      <word>сковка</word>
+    </group>
+    <group max-diff="4">
+      <word>квестор</word>
+      <word>сверток</word>
+    </group>
+    <group max-diff="5">
+      <word>квестура</word>
+      <word>уверстка</word>
+    </group>
+    <group max-diff="5">
+      <word>кедрач</word>
+      <word>чердак</word>
+    </group>
+    <group max-diff="5">
+      <word>келарь</word>
+      <word>лекарь</word>
+      <word>ракель</word>
+    </group>
+    <group max-diff="5">
+      <word>кенотаф</word>
+      <word>конфета</word>
+    </group>
+    <group max-diff="7">
+      <word>керамзит</word>
+      <word>маркизет</word>
+    </group>
+    <group max-diff="6">
+      <word>керамит</word>
+      <word>материк</word>
+      <word>метрика</word>
+    </group>
+    <group max-diff="6">
+      <word>кератоз</word>
+      <word>отрезка</word>
+      <word>розетка</word>
+    </group>
+    <group max-diff="3">
+      <word>кесарь</word>
+      <word>секарь</word>
+    </group>
+    <group max-diff="7">
+      <word>кимограф</word>
+      <word>микрофаг</word>
+    </group>
+    <group max-diff="5">
+      <word>киприот</word>
+      <word>тропики</word>
+    </group>
+    <group max-diff="4">
+      <word>кисочка</word>
+      <word>косичка</word>
+    </group>
+    <group max-diff="1">
+      <word>китара</word>
+      <word>ракита</word>
+    </group>
+    <group max-diff="5">
+      <word>кишлак</word>
+      <word>шкалик</word>
+    </group>
+    <group max-diff="3">
+      <word>клапан</word>
+      <word>планка</word>
+    </group>
+    <group max-diff="5">
+      <word>кластер</word>
+      <word>сталкер</word>
+      <word>стрелка</word>
+    </group>
+    <group max-diff="5">
+      <word>клиент</word>
+      <word>летник</word>
+    </group>
+    <group max-diff="2">
+      <word>клитор</word>
+      <word>ликтор</word>
+    </group>
+    <group max-diff="4">
+      <word>клобук</word>
+      <word>клубок</word>
+    </group>
+    <group max-diff="3">
+      <word>клоповник</word>
+      <word>полковник</word>
+    </group>
+    <group max-diff="2">
+      <word>клотик</word>
+      <word>отклик</word>
+    </group>
+    <group max-diff="6">
+      <word>книжонка</word>
+      <word>накожник</word>
+    </group>
+    <group max-diff="4">
+      <word>княжата</word>
+      <word>натяжка</word>
+    </group>
+    <group max-diff="5">
+      <word>кобура</word>
+      <word>уборка</word>
+    </group>
+    <group max-diff="4">
+      <word>кожимит</word>
+      <word>отжимки</word>
+    </group>
+    <group max-diff="2">
+      <word>кокора</word>
+      <word>окорка</word>
+    </group>
+    <group max-diff="7">
+      <word>коленвал</word>
+      <word>новеллка</word>
+    </group>
+    <group max-diff="4">
+      <word>колесник</word>
+      <word>лексикон</word>
+    </group>
+    <group max-diff="5">
+      <word>колесо</word>
+      <word>оселок</word>
+    </group>
+    <group max-diff="7">
+      <word>колленхима</word>
+      <word>меланхолик</word>
+    </group>
+    <group max-diff="6">
+      <word>колоквинт</word>
+      <word>толковник</word>
+    </group>
+    <group max-diff="2">
+      <word>колосок</word>
+      <word>осколок</word>
+      <word>соколок</word>
+    </group>
+    <group max-diff="3">
+      <word>колтун</word>
+      <word>толкун</word>
+    </group>
+    <group max-diff="4">
+      <word>колчан</word>
+      <word>лончак</word>
+    </group>
+    <group max-diff="1">
+      <word>кольцо</word>
+      <word>цоколь</word>
+    </group>
+    <group max-diff="1">
+      <word>коляска</word>
+      <word>ясколка</word>
+    </group>
+    <group max-diff="4">
+      <word>комендор</word>
+      <word>недокорм</word>
+    </group>
+    <group max-diff="4">
+      <word>комингс</word>
+      <word>смокинг</word>
+    </group>
+    <group max-diff="5">
+      <word>комната</word>
+      <word>намотка</word>
+    </group>
+    <group max-diff="4">
+      <word>компостер</word>
+      <word>термоскоп</word>
+    </group>
+    <group max-diff="1">
+      <word>кондор</word>
+      <word>кордон</word>
+    </group>
+    <group max-diff="6">
+      <word>коновал</word>
+      <word>наволок</word>
+    </group>
+    <group max-diff="3">
+      <word>консоме</word>
+      <word>соменок</word>
+    </group>
+    <group max-diff="2">
+      <word>контур</word>
+      <word>котурн</word>
+    </group>
+    <group max-diff="5">
+      <word>конфетка</word>
+      <word>кофтенка</word>
+    </group>
+    <group max-diff="4">
+      <word>концентрат</word>
+      <word>концертант</word>
+    </group>
+    <group max-diff="2">
+      <word>копуша</word>
+      <word>опушка</word>
+    </group>
+    <group max-diff="2">
+      <word>кормач</word>
+      <word>корчма</word>
+    </group>
+    <group max-diff="5">
+      <word>корнет</word>
+      <word>кретон</word>
+      <word>ректон</word>
+    </group>
+    <group max-diff="4">
+      <word>корпус</word>
+      <word>прокус</word>
+    </group>
+    <group max-diff="5">
+      <word>корсет</word>
+      <word>костер</word>
+      <word>сектор</word>
+      <word>стокер</word>
+    </group>
+    <group max-diff="5">
+      <word>коршун</word>
+      <word>шнурок</word>
+    </group>
+    <group max-diff="2">
+      <word>косина</word>
+      <word>осинка</word>
+    </group>
+    <group max-diff="5">
+      <word>косинус</word>
+      <word>соусник</word>
+    </group>
+    <group max-diff="1">
+      <word>косность</word>
+      <word>носкость</word>
+    </group>
+    <group max-diff="5">
+      <word>костел</word>
+      <word>слеток</word>
+      <word>стекло</word>
+    </group>
+    <group max-diff="2">
+      <word>кочегар</word>
+      <word>кочерга</word>
+    </group>
+    <group max-diff="1">
+      <word>кочкари</word>
+      <word>очкарик</word>
+    </group>
+    <group max-diff="4">
+      <word>кочмара</word>
+      <word>марочка</word>
+      <word>рамочка</word>
+    </group>
+    <group max-diff="4">
+      <word>краник</word>
+      <word>кринка</word>
+    </group>
+    <group max-diff="7">
+      <word>крапление</word>
+      <word>пелеринка</word>
+    </group>
+    <group max-diff="3">
+      <word>креозот</word>
+      <word>отрезок</word>
+    </group>
+    <group max-diff="4">
+      <word>крести</word>
+      <word>рексит</word>
+    </group>
+    <group max-diff="3">
+      <word>крикет</word>
+      <word>тиккер</word>
+    </group>
+    <group max-diff="5">
+      <word>критикан</word>
+      <word>ракитник</word>
+    </group>
+    <group max-diff="4">
+      <word>кролист</word>
+      <word>ликтрос</word>
+    </group>
+    <group max-diff="7">
+      <word>кропание</word>
+      <word>пионерка</word>
+    </group>
+    <group max-diff="5">
+      <word>кротовина</word>
+      <word>тонировка</word>
+    </group>
+    <group max-diff="3">
+      <word>крутка</word>
+      <word>куртка</word>
+    </group>
+    <group max-diff="4">
+      <word>ксилема</word>
+      <word>месилка</word>
+    </group>
+    <group max-diff="4">
+      <word>ксилит</word>
+      <word>листик</word>
+    </group>
+    <group max-diff="4">
+      <word>куприт</word>
+      <word>прутик</word>
+      <word>трупик</word>
+    </group>
+    <group max-diff="3">
+      <word>куроводство</word>
+      <word>руководство</word>
+    </group>
+    <group max-diff="6">
+      <word>курсант</word>
+      <word>струнка</word>
+    </group>
+    <group max-diff="3">
+      <word>ладанка</word>
+      <word>наладка</word>
+    </group>
+    <group max-diff="3">
+      <word>ладошка</word>
+      <word>лошадка</word>
+    </group>
+    <group max-diff="4">
+      <word>лакуна</word>
+      <word>уланка</word>
+    </group>
+    <group max-diff="2">
+      <word>ламутка</word>
+      <word>мулатка</word>
+    </group>
+    <group max-diff="4">
+      <word>ланита</word>
+      <word>талина</word>
+    </group>
+    <group max-diff="4">
+      <word>лапотник</word>
+      <word>платоник</word>
+    </group>
+    <group max-diff="5">
+      <word>лапоть</word>
+      <word>пальто</word>
+      <word>поталь</word>
+    </group>
+    <group max-diff="3">
+      <word>лапочка</word>
+      <word>палочка</word>
+    </group>
+    <group max-diff="4">
+      <word>лапушка</word>
+      <word>плакуша</word>
+    </group>
+    <group max-diff="3">
+      <word>ласочка</word>
+      <word>салочка</word>
+    </group>
+    <group max-diff="3">
+      <word>ластик</word>
+      <word>стилка</word>
+    </group>
+    <group max-diff="4">
+      <word>латинист</word>
+      <word>сталинит</word>
+    </group>
+    <group max-diff="3">
+      <word>латышка</word>
+      <word>талышка</word>
+    </group>
+    <group max-diff="5">
+      <word>лганье</word>
+      <word>нагель</word>
+    </group>
+    <group max-diff="5">
+      <word>левкас</word>
+      <word>свекла</word>
+    </group>
+    <group max-diff="3">
+      <word>левретка</word>
+      <word>трелевка</word>
+    </group>
+    <group max-diff="3">
+      <word>лежанка</word>
+      <word>належка</word>
+    </group>
+    <group max-diff="5">
+      <word>лекарство</word>
+      <word>стекловар</word>
+    </group>
+    <group max-diff="5">
+      <word>лектура</word>
+      <word>рулетка</word>
+    </group>
+    <group max-diff="2">
+      <word>ленчик</word>
+      <word>членик</word>
+    </group>
+    <group max-diff="5">
+      <word>лепесток</word>
+      <word>телескоп</word>
+    </group>
+    <group max-diff="5">
+      <word>лесопарк</word>
+      <word>пролеска</word>
+    </group>
+    <group max-diff="2">
+      <word>лесопромышленник</word>
+      <word>солепромышленник</word>
+    </group>
+    <group max-diff="2">
+      <word>лесопромышленность</word>
+      <word>солепромышленность</word>
+    </group>
+    <group max-diff="2">
+      <word>лесоразработки</word>
+      <word>солеразработки</word>
+    </group>
+    <group max-diff="4">
+      <word>лесоферма</word>
+      <word>лосеферма</word>
+    </group>
+    <group max-diff="3">
+      <word>лещина</word>
+      <word>щелина</word>
+    </group>
+    <group max-diff="3">
+      <word>ливанка</word>
+      <word>наливка</word>
+    </group>
+    <group max-diff="4">
+      <word>линемет</word>
+      <word>метилен</word>
+    </group>
+    <group max-diff="5">
+      <word>лисогон</word>
+      <word>синолог</word>
+    </group>
+    <group max-diff="3">
+      <word>листок</word>
+      <word>слиток</word>
+      <word>столик</word>
+    </group>
+    <group max-diff="7">
+      <word>литаскоп</word>
+      <word>постилка</word>
+      <word>скаполит</word>
+    </group>
+    <group max-diff="5">
+      <word>литовка</word>
+      <word>локатив</word>
+      <word>отливка</word>
+    </group>
+    <group max-diff="3">
+      <word>лихость</word>
+      <word>хилость</word>
+    </group>
+    <group max-diff="2">
+      <word>логопат</word>
+      <word>патолог</word>
+    </group>
+    <group max-diff="3">
+      <word>логопатия</word>
+      <word>патология</word>
+    </group>
+    <group max-diff="2">
+      <word>логопед</word>
+      <word>педолог</word>
+    </group>
+    <group max-diff="3">
+      <word>логопедия</word>
+      <word>педология</word>
+    </group>
+    <group max-diff="1">
+      <word>лонгшез</word>
+      <word>шезлонг</word>
+    </group>
+    <group max-diff="3">
+      <word>лопарь</word>
+      <word>пароль</word>
+    </group>
+    <group max-diff="2">
+      <word>лопата</word>
+      <word>оплата</word>
+    </group>
+    <group max-diff="6">
+      <word>лопатчик</word>
+      <word>плотичка</word>
+    </group>
+    <group max-diff="5">
+      <word>лопотун</word>
+      <word>полутон</word>
+    </group>
+    <group max-diff="2">
+      <word>лосенок</word>
+      <word>осленок</word>
+    </group>
+    <group max-diff="2">
+      <word>лосиха</word>
+      <word>ослиха</word>
+    </group>
+    <group max-diff="2">
+      <word>лосятина</word>
+      <word>ослятина</word>
+    </group>
+    <group max-diff="2">
+      <word>лосятник</word>
+      <word>ослятник</word>
+    </group>
+    <group max-diff="3">
+      <word>мазанка</word>
+      <word>намазка</word>
+    </group>
+    <group max-diff="4">
+      <word>макаронник</word>
+      <word>накомарник</word>
+    </group>
+    <group max-diff="5">
+      <word>макропод</word>
+      <word>подрамок</word>
+    </group>
+    <group max-diff="4">
+      <word>малодойка</word>
+      <word>молодайка</word>
+    </group>
+    <group max-diff="2">
+      <word>мангуст</word>
+      <word>мустанг</word>
+    </group>
+    <group max-diff="4">
+      <word>манера</word>
+      <word>марена</word>
+      <word>рамена</word>
+    </group>
+    <group max-diff="4">
+      <word>манишка</word>
+      <word>машинка</word>
+    </group>
+    <group max-diff="6">
+      <word>марочник</word>
+      <word>рамочник</word>
+      <word>романчик</word>
+    </group>
+    <group max-diff="8">
+      <word>мартенсит</word>
+      <word>сантиметр</word>
+    </group>
+    <group max-diff="3">
+      <word>мастер</word>
+      <word>стрема</word>
+    </group>
+    <group max-diff="3">
+      <word>матине</word>
+      <word>метина</word>
+    </group>
+    <group max-diff="6">
+      <word>маточник</word>
+      <word>намотчик</word>
+    </group>
+    <group max-diff="3">
+      <word>матрас</word>
+      <word>сармат</word>
+    </group>
+    <group max-diff="6">
+      <word>матрасик</word>
+      <word>тамариск</word>
+    </group>
+    <group max-diff="5">
+      <word>маячок</word>
+      <word>ямочка</word>
+    </group>
+    <group max-diff="6">
+      <word>медуница</word>
+      <word>ундецима</word>
+    </group>
+    <group max-diff="4">
+      <word>меловщик</word>
+      <word>молевщик</word>
+    </group>
+    <group max-diff="3">
+      <word>мелодист</word>
+      <word>моделист</word>
+    </group>
+    <group max-diff="4">
+      <word>ментик</word>
+      <word>темник</word>
+    </group>
+    <group max-diff="4">
+      <word>ментор</word>
+      <word>монтер</word>
+      <word>ремонт</word>
+    </group>
+    <group max-diff="5">
+      <word>метлика</word>
+      <word>ткемали</word>
+    </group>
+    <group max-diff="4">
+      <word>метрит</word>
+      <word>термит</word>
+    </group>
+    <group max-diff="4">
+      <word>мечник</word>
+      <word>немчик</word>
+    </group>
+    <group max-diff="3">
+      <word>микроб</word>
+      <word>ромбик</word>
+    </group>
+    <group max-diff="3">
+      <word>миннефтехимпром</word>
+      <word>минхимнефтепром</word>
+    </group>
+    <group max-diff="6">
+      <word>минотавр</word>
+      <word>норматив</word>
+    </group>
+    <group max-diff="3">
+      <word>минтай</word>
+      <word>наймит</word>
+    </group>
+    <group max-diff="3">
+      <word>мистер</word>
+      <word>стимер</word>
+    </group>
+    <group max-diff="4">
+      <word>мокрота</word>
+      <word>моторка</word>
+    </group>
+    <group max-diff="3">
+      <word>монарх</word>
+      <word>номарх</word>
+    </group>
+    <group max-diff="5">
+      <word>монета</word>
+      <word>немота</word>
+      <word>отмена</word>
+    </group>
+    <group max-diff="1">
+      <word>монограмма</word>
+      <word>номограмма</word>
+    </group>
+    <group max-diff="1">
+      <word>монография</word>
+      <word>номография</word>
+    </group>
+    <group max-diff="5">
+      <word>монотип</word>
+      <word>топоним</word>
+    </group>
+    <group max-diff="6">
+      <word>монотипия</word>
+      <word>топонимия</word>
+    </group>
+    <group max-diff="5">
+      <word>морилка</word>
+      <word>рамолик</word>
+    </group>
+    <group max-diff="3">
+      <word>москит</word>
+      <word>мостик</word>
+      <word>мостки</word>
+    </group>
+    <group max-diff="3">
+      <word>московит</word>
+      <word>мостовик</word>
+    </group>
+    <group max-diff="4">
+      <word>мослак</word>
+      <word>сломка</word>
+      <word>смолка</word>
+    </group>
+    <group max-diff="2">
+      <word>мотель</word>
+      <word>отмель</word>
+    </group>
+    <group max-diff="2">
+      <word>мотобол</word>
+      <word>обмолот</word>
+    </group>
+    <group max-diff="4">
+      <word>моченька</word>
+      <word>чмоканье</word>
+    </group>
+    <group max-diff="4">
+      <word>мошкара</word>
+      <word>ромашка</word>
+    </group>
+    <group max-diff="4">
+      <word>муштровка</word>
+      <word>штурмовка</word>
+    </group>
+    <group max-diff="4">
+      <word>нагота</word>
+      <word>ногата</word>
+    </group>
+    <group max-diff="4">
+      <word>наделение</word>
+      <word>неделание</word>
+    </group>
+    <group max-diff="4">
+      <word>надрыв</word>
+      <word>рыдван</word>
+    </group>
+    <group max-diff="4">
+      <word>наклеп</word>
+      <word>паклен</word>
+      <word>пленка</word>
+    </group>
+    <group max-diff="5">
+      <word>наместник</word>
+      <word>сметанник</word>
+    </group>
+    <group max-diff="5">
+      <word>наместница</word>
+      <word>сметанница</word>
+    </group>
+    <group max-diff="4">
+      <word>напрокат</word>
+      <word>патронка</word>
+    </group>
+    <group max-diff="5">
+      <word>наречие</word>
+      <word>рачение</word>
+    </group>
+    <group max-diff="7">
+      <word>настилка</word>
+      <word>салатник</word>
+    </group>
+    <group max-diff="5">
+      <word>наутилус</word>
+      <word>сутулина</word>
+    </group>
+    <group max-diff="4">
+      <word>начетчик</word>
+      <word>тачечник</word>
+    </group>
+    <group max-diff="3">
+      <word>невроз</word>
+      <word>нервоз</word>
+    </group>
+    <group max-diff="3">
+      <word>недовес</word>
+      <word>недосев</word>
+    </group>
+    <group max-diff="6">
+      <word>неопрятность</word>
+      <word>потерянность</word>
+    </group>
+    <group max-diff="5">
+      <word>неофитка</word>
+      <word>фонетика</word>
+    </group>
+    <group max-diff="3">
+      <word>неразумие</word>
+      <word>разумение</word>
+    </group>
+    <group max-diff="7">
+      <word>нерасторжимость</word>
+      <word>старорежимность</word>
+    </group>
+    <group max-diff="3">
+      <word>нетчик</word>
+      <word>четник</word>
+    </group>
+    <group max-diff="3">
+      <word>нефрология</word>
+      <word>френология</word>
+    </group>
+    <group max-diff="3">
+      <word>нечестие</word>
+      <word>стечение</word>
+    </group>
+    <group max-diff="5">
+      <word>нещечко</word>
+      <word>щеночек</word>
+    </group>
+    <group max-diff="2">
+      <word>низкоплоконство</word>
+      <word>низкопоклонство</word>
+    </group>
+    <group max-diff="4">
+      <word>нирвана</word>
+      <word>равнина</word>
+      <word>рванина</word>
+    </group>
+    <group max-diff="6">
+      <word>нитратомер</word>
+      <word>терминатор</word>
+    </group>
+    <group max-diff="5">
+      <word>нищета</word>
+      <word>тщание</word>
+      <word>щетина</word>
+    </group>
+    <group max-diff="3">
+      <word>нониус</word>
+      <word>унисон</word>
+    </group>
+    <group max-diff="4">
+      <word>носилки</word>
+      <word>силикон</word>
+    </group>
+    <group max-diff="4">
+      <word>носчик</word>
+      <word>сочник</word>
+    </group>
+    <group max-diff="8">
+      <word>нумератор</word>
+      <word>ремонтуар</word>
+    </group>
+    <group max-diff="9">
+      <word>обезьянство</word>
+      <word>светобоязнь</word>
+    </group>
+    <group max-diff="4">
+      <word>обминка</word>
+      <word>обнимка</word>
+    </group>
+    <group max-diff="4">
+      <word>обнизок</word>
+      <word>обозник</word>
+    </group>
+    <group max-diff="2">
+      <word>ободрение</word>
+      <word>одобрение</word>
+    </group>
+    <group max-diff="4">
+      <word>обтачка</word>
+      <word>табачок</word>
+    </group>
+    <group max-diff="2">
+      <word>овчинник</word>
+      <word>чиновник</word>
+    </group>
+    <group max-diff="3">
+      <word>окарина</word>
+      <word>окраина</word>
+    </group>
+    <group max-diff="1">
+      <word>окорок</word>
+      <word>рококо</word>
+    </group>
+    <group max-diff="2">
+      <word>опаска</word>
+      <word>пасока</word>
+    </group>
+    <group max-diff="2">
+      <word>опилка</word>
+      <word>поилка</word>
+    </group>
+    <group max-diff="4">
+      <word>опрощение</word>
+      <word>поощрение</word>
+    </group>
+    <group max-diff="2">
+      <word>оптика</word>
+      <word>топика</word>
+    </group>
+    <group max-diff="3">
+      <word>оптиметр</word>
+      <word>типометр</word>
+    </group>
+    <group max-diff="4">
+      <word>осечка</word>
+      <word>оческа</word>
+    </group>
+    <group max-diff="6">
+      <word>осмогласие</word>
+      <word>семасиолог</word>
+    </group>
+    <group max-diff="4">
+      <word>осмолка</word>
+      <word>соломка</word>
+    </group>
+    <group max-diff="7">
+      <word>основатель</word>
+      <word>столованье</word>
+    </group>
+    <group max-diff="4">
+      <word>оспинка</word>
+      <word>синкопа</word>
+    </group>
+    <group max-diff="6">
+      <word>останки</word>
+      <word>остинка</word>
+      <word>скотина</word>
+    </group>
+    <group max-diff="4">
+      <word>остров</word>
+      <word>сворот</word>
+    </group>
+    <group max-diff="4">
+      <word>откатка</word>
+      <word>токката</word>
+    </group>
+    <group max-diff="6">
+      <word>отопленец</word>
+      <word>полотенце</word>
+    </group>
+    <group max-diff="2">
+      <word>отпилка</word>
+      <word>пилотка</word>
+    </group>
+    <group max-diff="2">
+      <word>отпряжка</word>
+      <word>протяжка</word>
+    </group>
+    <group max-diff="6">
+      <word>отсечка</word>
+      <word>сеточка</word>
+      <word>стоечка</word>
+      <word>тесачок</word>
+      <word>чесотка</word>
+    </group>
+    <group max-diff="4">
+      <word>очанка</word>
+      <word>чакона</word>
+    </group>
+    <group max-diff="3">
+      <word>очистки</word>
+      <word>тисочки</word>
+    </group>
+    <group max-diff="4">
+      <word>павлин</word>
+      <word>плавни</word>
+    </group>
+    <group max-diff="5">
+      <word>паводок</word>
+      <word>подкова</word>
+    </group>
+    <group max-diff="4">
+      <word>павозок</word>
+      <word>повозка</word>
+    </group>
+    <group max-diff="5">
+      <word>паладин</word>
+      <word>планида</word>
+    </group>
+    <group max-diff="5">
+      <word>пальтишко</word>
+      <word>платьишко</word>
+    </group>
+    <group max-diff="5">
+      <word>паникер</word>
+      <word>перинка</word>
+    </group>
+    <group max-diff="5">
+      <word>пансион</word>
+      <word>сапонин</word>
+    </group>
+    <group max-diff="7">
+      <word>пантокрин</word>
+      <word>патронник</word>
+    </group>
+    <group max-diff="6">
+      <word>парадокс</word>
+      <word>просадка</word>
+      <word>распадок</word>
+    </group>
+    <group max-diff="4">
+      <word>паротит</word>
+      <word>патриот</word>
+    </group>
+    <group max-diff="4">
+      <word>парубок</word>
+      <word>порубка</word>
+    </group>
+    <group max-diff="7">
+      <word>пасечник</word>
+      <word>песчаник</word>
+      <word>песчинка</word>
+    </group>
+    <group max-diff="3">
+      <word>пастель</word>
+      <word>стапель</word>
+    </group>
+    <group max-diff="3">
+      <word>пастилка</word>
+      <word>пластика</word>
+    </group>
+    <group max-diff="3">
+      <word>пастор</word>
+      <word>стропа</word>
+    </group>
+    <group max-diff="5">
+      <word>пасторат</word>
+      <word>простата</word>
+    </group>
+    <group max-diff="6">
+      <word>пастушок</word>
+      <word>пустошка</word>
+    </group>
+    <group max-diff="0">
+      <word>патопсихология</word>
+      <word>психопатология</word>
+    </group>
+    <group max-diff="8">
+      <word>пенсионерка</word>
+      <word>покраснение</word>
+    </group>
+    <group max-diff="1">
+      <word>перевес</word>
+      <word>пересев</word>
+    </group>
+    <group max-diff="7">
+      <word>переводина</word>
+      <word>продевание</word>
+    </group>
+    <group max-diff="3">
+      <word>перелом</word>
+      <word>перемол</word>
+    </group>
+    <group max-diff="1">
+      <word>перемена</word>
+      <word>перенаем</word>
+    </group>
+    <group max-diff="3">
+      <word>перина</word>
+      <word>репина</word>
+    </group>
+    <group max-diff="5">
+      <word>перлит</word>
+      <word>прилет</word>
+    </group>
+    <group max-diff="3">
+      <word>персик</word>
+      <word>серпик</word>
+      <word>спикер</word>
+    </group>
+    <group max-diff="3">
+      <word>перфект</word>
+      <word>префект</word>
+    </group>
+    <group max-diff="6">
+      <word>перчатка</word>
+      <word>трепачка</word>
+    </group>
+    <group max-diff="3">
+      <word>пестик</word>
+      <word>септик</word>
+    </group>
+    <group max-diff="3">
+      <word>петлица</word>
+      <word>теплица</word>
+    </group>
+    <group max-diff="3">
+      <word>петличка</word>
+      <word>тепличка</word>
+    </group>
+    <group max-diff="3">
+      <word>пехота</word>
+      <word>потеха</word>
+    </group>
+    <group max-diff="3">
+      <word>печерица</word>
+      <word>черепица</word>
+    </group>
+    <group max-diff="4">
+      <word>пирокатехин</word>
+      <word>пиротехника</word>
+    </group>
+    <group max-diff="7">
+      <word>пироксен</word>
+      <word>соперник</word>
+    </group>
+    <group max-diff="5">
+      <word>пискун</word>
+      <word>супник</word>
+    </group>
+    <group max-diff="2">
+      <word>пистон</word>
+      <word>стопин</word>
+    </group>
+    <group max-diff="2">
+      <word>плавик</word>
+      <word>плавки</word>
+    </group>
+    <group max-diff="2">
+      <word>плакатист</word>
+      <word>пластикат</word>
+    </group>
+    <group max-diff="6">
+      <word>плакирование</word>
+      <word>прокаливание</word>
+    </group>
+    <group max-diff="5">
+      <word>пласировка</word>
+      <word>распиловка</word>
+    </group>
+    <group max-diff="4">
+      <word>пластырь</word>
+      <word>псалтырь</word>
+    </group>
+    <group max-diff="4">
+      <word>платочек</word>
+      <word>плеточка</word>
+    </group>
+    <group max-diff="3">
+      <word>плесень</word>
+      <word>слепень</word>
+    </group>
+    <group max-diff="6">
+      <word>плетора</word>
+      <word>трепало</word>
+    </group>
+    <group max-diff="3">
+      <word>плетушка</word>
+      <word>теплушка</word>
+    </group>
+    <group max-diff="3">
+      <word>плешка</word>
+      <word>шлепка</word>
+    </group>
+    <group max-diff="3">
+      <word>плодник</word>
+      <word>полдник</word>
+    </group>
+    <group max-diff="5">
+      <word>плотер</word>
+      <word>пролет</word>
+      <word>трепло</word>
+    </group>
+    <group max-diff="3">
+      <word>плотина</word>
+      <word>полтина</word>
+    </group>
+    <group max-diff="3">
+      <word>плюшка</word>
+      <word>шлюпка</word>
+    </group>
+    <group max-diff="2">
+      <word>повеление</word>
+      <word>полевение</word>
+    </group>
+    <group max-diff="5">
+      <word>погреб</word>
+      <word>пробег</word>
+    </group>
+    <group max-diff="5">
+      <word>подвес</word>
+      <word>подсев</word>
+      <word>совдеп</word>
+    </group>
+    <group max-diff="4">
+      <word>подвеска</word>
+      <word>подсевка</word>
+    </group>
+    <group max-diff="5">
+      <word>подкур</word>
+      <word>прудок</word>
+    </group>
+    <group max-diff="3">
+      <word>подмена</word>
+      <word>поднаем</word>
+    </group>
+    <group max-diff="1">
+      <word>подокно</word>
+      <word>подонок</word>
+    </group>
+    <group max-diff="3">
+      <word>подоска</word>
+      <word>подсока</word>
+    </group>
+    <group max-diff="4">
+      <word>подрез</word>
+      <word>проезд</word>
+    </group>
+    <group max-diff="5">
+      <word>подрезка</word>
+      <word>проездка</word>
+    </group>
+    <group max-diff="5">
+      <word>подсанки</word>
+      <word>посадник</word>
+    </group>
+    <group max-diff="2">
+      <word>подстарок</word>
+      <word>подстрока</word>
+    </group>
+    <group max-diff="7">
+      <word>подтирка</word>
+      <word>придаток</word>
+    </group>
+    <group max-diff="4">
+      <word>подусник</word>
+      <word>посудник</word>
+    </group>
+    <group max-diff="4">
+      <word>позерка</word>
+      <word>порезка</word>
+    </group>
+    <group max-diff="3">
+      <word>покраска</word>
+      <word>раскопка</word>
+    </group>
+    <group max-diff="4">
+      <word>полесник</word>
+      <word>поликсен</word>
+    </group>
+    <group max-diff="2">
+      <word>поломка</word>
+      <word>помолка</word>
+    </group>
+    <group max-diff="0">
+      <word>полоток</word>
+      <word>потолок</word>
+    </group>
+    <group max-diff="3">
+      <word>полоть</word>
+      <word>тополь</word>
+    </group>
+    <group max-diff="8">
+      <word>полусмерть</word>
+      <word>пульсометр</word>
+    </group>
+    <group max-diff="4">
+      <word>поминание</word>
+      <word>понимание</word>
+    </group>
+    <group max-diff="4">
+      <word>понурость</word>
+      <word>упорность</word>
+    </group>
+    <group max-diff="3">
+      <word>порочность</word>
+      <word>чопорность</word>
+    </group>
+    <group max-diff="4">
+      <word>портер</word>
+      <word>претор</word>
+      <word>репорт</word>
+    </group>
+    <group max-diff="5">
+      <word>портик</word>
+      <word>портки</word>
+      <word>приток</word>
+      <word>тропик</word>
+    </group>
+    <group max-diff="3">
+      <word>порточина</word>
+      <word>проточина</word>
+    </group>
+    <group max-diff="4">
+      <word>поручение</word>
+      <word>упрочение</word>
+    </group>
+    <group max-diff="6">
+      <word>поселок</word>
+      <word>солекоп</word>
+    </group>
+    <group max-diff="4">
+      <word>постель</word>
+      <word>топсель</word>
+    </group>
+    <group max-diff="4">
+      <word>пострел</word>
+      <word>престол</word>
+    </group>
+    <group max-diff="3">
+      <word>потрава</word>
+      <word>правота</word>
+    </group>
+    <group max-diff="3">
+      <word>пралине</word>
+      <word>прелина</word>
+    </group>
+    <group max-diff="2">
+      <word>прекос</word>
+      <word>просек</word>
+    </group>
+    <group max-diff="4">
+      <word>прелат</word>
+      <word>талреп</word>
+    </group>
+    <group max-diff="4">
+      <word>приборка</word>
+      <word>пробирка</word>
+    </group>
+    <group max-diff="3">
+      <word>привес</word>
+      <word>присев</word>
+    </group>
+    <group max-diff="3">
+      <word>призер</word>
+      <word>прирез</word>
+    </group>
+    <group max-diff="2">
+      <word>прикус</word>
+      <word>прусик</word>
+    </group>
+    <group max-diff="4">
+      <word>прилов</word>
+      <word>пролив</word>
+    </group>
+    <group max-diff="2">
+      <word>провар</word>
+      <word>прорва</word>
+    </group>
+    <group max-diff="3">
+      <word>провес</word>
+      <word>просев</word>
+    </group>
+    <group max-diff="2">
+      <word>проект</word>
+      <word>протек</word>
+    </group>
+    <group max-diff="3">
+      <word>прокат</word>
+      <word>тропка</word>
+    </group>
+    <group max-diff="3">
+      <word>прокос</word>
+      <word>спорок</word>
+    </group>
+    <group max-diff="5">
+      <word>пролесок</word>
+      <word>проселок</word>
+      <word>прослоек</word>
+    </group>
+    <group max-diff="1">
+      <word>пророст</word>
+      <word>простор</word>
+    </group>
+    <group max-diff="8">
+      <word>просветитель</word>
+      <word>терпеливость</word>
+    </group>
+    <group max-diff="4">
+      <word>просечка</word>
+      <word>проческа</word>
+    </group>
+    <group max-diff="3">
+      <word>проточка</word>
+      <word>тропочка</word>
+    </group>
+    <group max-diff="4">
+      <word>птичка</word>
+      <word>типчак</word>
+    </group>
+    <group max-diff="6">
+      <word>равновесие</word>
+      <word>своенравие</word>
+    </group>
+    <group max-diff="2">
+      <word>радула</word>
+      <word>рулада</word>
+    </group>
+    <group max-diff="4">
+      <word>радуница</word>
+      <word>ударница</word>
+    </group>
+    <group max-diff="4">
+      <word>развилка</word>
+      <word>разливка</word>
+    </group>
+    <group max-diff="3">
+      <word>разлом</word>
+      <word>размол</word>
+    </group>
+    <group max-diff="6">
+      <word>разочек</word>
+      <word>резачок</word>
+    </group>
+    <group max-diff="2">
+      <word>ракурс</word>
+      <word>раскур</word>
+    </group>
+    <group max-diff="3">
+      <word>рантик</word>
+      <word>ратник</word>
+    </group>
+    <group max-diff="4">
+      <word>раскат</word>
+      <word>старка</word>
+    </group>
+    <group max-diff="5">
+      <word>раскрашивание</word>
+      <word>расшаркивание</word>
+    </group>
+    <group max-diff="4">
+      <word>рассечка</word>
+      <word>расческа</word>
+    </group>
+    <group max-diff="3">
+      <word>растение</word>
+      <word>старение</word>
+    </group>
+    <group max-diff="3">
+      <word>ратификация</word>
+      <word>тарификация</word>
+    </group>
+    <group max-diff="4">
+      <word>реагент</word>
+      <word>ренегат</word>
+    </group>
+    <group max-diff="5">
+      <word>реалист</word>
+      <word>селитра</word>
+    </group>
+    <group max-diff="3">
+      <word>реверс</word>
+      <word>сервер</word>
+    </group>
+    <group max-diff="2">
+      <word>реверси</word>
+      <word>ресивер</word>
+    </group>
+    <group max-diff="3">
+      <word>реликт</word>
+      <word>терлик</word>
+    </group>
+    <group max-diff="4">
+      <word>ремесло</word>
+      <word>солемер</word>
+    </group>
+    <group max-diff="4">
+      <word>репетир</word>
+      <word>репитер</word>
+    </group>
+    <group max-diff="2">
+      <word>рестарт</word>
+      <word>стартер</word>
+    </group>
+    <group max-diff="2">
+      <word>реформат</word>
+      <word>форматер</word>
+    </group>
+    <group max-diff="2">
+      <word>рецепт</word>
+      <word>трепец</word>
+    </group>
+    <group max-diff="3">
+      <word>рештак</word>
+      <word>трешка</word>
+    </group>
+    <group max-diff="2">
+      <word>реэкспорт</word>
+      <word>экспортер</word>
+    </group>
+    <group max-diff="5">
+      <word>риноскоп</word>
+      <word>скорпион</word>
+    </group>
+    <group max-diff="3">
+      <word>ристание</word>
+      <word>стирание</word>
+    </group>
+    <group max-diff="3">
+      <word>ритуал</word>
+      <word>уралит</word>
+    </group>
+    <group max-diff="3">
+      <word>родник</word>
+      <word>рондик</word>
+    </group>
+    <group max-diff="3">
+      <word>росинка</word>
+      <word>соринка</word>
+    </group>
+    <group max-diff="5">
+      <word>ротонда</word>
+      <word>торнадо</word>
+    </group>
+    <group max-diff="6">
+      <word>ругатель</word>
+      <word>утлегарь</word>
+    </group>
+    <group max-diff="2">
+      <word>ругоза</word>
+      <word>угроза</word>
+    </group>
+    <group max-diff="4">
+      <word>салинг</word>
+      <word>сигнал</word>
+    </group>
+    <group max-diff="4">
+      <word>самнит</word>
+      <word>сантим</word>
+    </group>
+    <group max-diff="4">
+      <word>санитар</word>
+      <word>старина</word>
+    </group>
+    <group max-diff="5">
+      <word>сатинер</word>
+      <word>стеарин</word>
+    </group>
+    <group max-diff="3">
+      <word>сафлор</word>
+      <word>сафрол</word>
+    </group>
+    <group max-diff="4">
+      <word>свалка</word>
+      <word>славка</word>
+    </group>
+    <group max-diff="4">
+      <word>сваток</word>
+      <word>ставок</word>
+    </group>
+    <group max-diff="3">
+      <word>свинтус</word>
+      <word>свистун</word>
+    </group>
+    <group max-diff="4">
+      <word>сдирка</word>
+      <word>скирда</word>
+    </group>
+    <group max-diff="2">
+      <word>седелка</word>
+      <word>селедка</word>
+    </group>
+    <group max-diff="4">
+      <word>секста</word>
+      <word>стеска</word>
+    </group>
+    <group max-diff="3">
+      <word>сельпо</word>
+      <word>сопель</word>
+    </group>
+    <group max-diff="4">
+      <word>семинар</word>
+      <word>смирена</word>
+    </group>
+    <group max-diff="3">
+      <word>сеттер</word>
+      <word>тестер</word>
+    </group>
+    <group max-diff="2">
+      <word>сеянец</word>
+      <word>ясенец</word>
+    </group>
+    <group max-diff="3">
+      <word>силушка</word>
+      <word>сушилка</word>
+    </group>
+    <group max-diff="3">
+      <word>ситчик</word>
+      <word>чистик</word>
+    </group>
+    <group max-diff="4">
+      <word>сканец</word>
+      <word>сценка</word>
+    </group>
+    <group max-diff="3">
+      <word>скелет</word>
+      <word>телекс</word>
+    </group>
+    <group max-diff="3">
+      <word>склока</word>
+      <word>сколка</word>
+    </group>
+    <group max-diff="0">
+      <word>скосок</word>
+      <word>соскок</word>
+    </group>
+    <group max-diff="6">
+      <word>следование</word>
+      <word>совладение</word>
+    </group>
+    <group max-diff="6">
+      <word>следователь</word>
+      <word>совладетель</word>
+    </group>
+    <group max-diff="6">
+      <word>словинец</word>
+      <word>сонливец</word>
+    </group>
+    <group max-diff="3">
+      <word>слоение</word>
+      <word>соление</word>
+    </group>
+    <group max-diff="4">
+      <word>слонина</word>
+      <word>соланин</word>
+    </group>
+    <group max-diff="5">
+      <word>собрат</word>
+      <word>торбас</word>
+    </group>
+    <group max-diff="3">
+      <word>созидатель</word>
+      <word>соиздатель</word>
+    </group>
+    <group max-diff="4">
+      <word>сонетка</word>
+      <word>сотенка</word>
+    </group>
+    <group max-diff="8">
+      <word>соратница</word>
+      <word>стационар</word>
+    </group>
+    <group max-diff="5">
+      <word>сотник</word>
+      <word>токсин</word>
+    </group>
+    <group max-diff="3">
+      <word>спирометр</word>
+      <word>спиртомер</word>
+    </group>
+    <group max-diff="5">
+      <word>спонгит</word>
+      <word>стопинг</word>
+    </group>
+    <group max-diff="5">
+      <word>стакер</word>
+      <word>треска</word>
+    </group>
+    <group max-diff="4">
+      <word>станочек</word>
+      <word>стеночка</word>
+    </group>
+    <group max-diff="4">
+      <word>старик</word>
+      <word>стирка</word>
+    </group>
+    <group max-diff="4">
+      <word>стерадиан</word>
+      <word>страдание</word>
+    </group>
+    <group max-diff="6">
+      <word>стереотипер</word>
+      <word>троеперстие</word>
+    </group>
+    <group max-diff="3">
+      <word>стержень</word>
+      <word>стрежень</word>
+    </group>
+    <group max-diff="5">
+      <word>стоянка</word>
+      <word>яснотка</word>
+    </group>
+    <group max-diff="2">
+      <word>стрекотня</word>
+      <word>трескотня</word>
+    </group>
+    <group max-diff="2">
+      <word>стрекун</word>
+      <word>трескун</word>
+    </group>
+    <group max-diff="5">
+      <word>строфика</word>
+      <word>фиксатор</word>
+    </group>
+    <group max-diff="4">
+      <word>сукнецо</word>
+      <word>суконце</word>
+    </group>
+    <group max-diff="5">
+      <word>считка</word>
+      <word>частик</word>
+      <word>чистка</word>
+    </group>
+    <group max-diff="5">
+      <word>тартинка</word>
+      <word>татарник</word>
+    </group>
+    <group max-diff="2">
+      <word>телефотография</word>
+      <word>фототелеграфия</word>
+    </group>
+    <group max-diff="2">
+      <word>термоэлектрон</word>
+      <word>электромонтер</word>
+    </group>
+    <group max-diff="3">
+      <word>терние</word>
+      <word>трение</word>
+    </group>
+    <group max-diff="3">
+      <word>тирада</word>
+      <word>триада</word>
+    </group>
+    <group max-diff="3">
+      <word>торица</word>
+      <word>троица</word>
+    </group>
+    <group max-diff="4">
+      <word>трихом</word>
+      <word>хромит</word>
+    </group>
+    <group max-diff="5">
+      <word>умница</word>
+      <word>цунами</word>
+    </group>
+    <group max-diff="3">
+      <word>утончение</word>
+      <word>уточнение</word>
+    </group>
+    <group max-diff="4">
+      <word>фактор</word>
+      <word>фортка</word>
+    </group>
+    <group max-diff="3">
+      <word>фалинь</word>
+      <word>финаль</word>
+    </group>
+    <group max-diff="3">
+      <word>фашистка</word>
+      <word>фисташка</word>
+    </group>
+    <group max-diff="5">
+      <word>физиатр</word>
+      <word>фтириаз</word>
+    </group>
+    <group max-diff="6">
+      <word>фракиец</word>
+      <word>циферка</word>
+    </group>
+    <group max-diff="4">
+      <word>хиромант</word>
+      <word>хроматин</word>
+    </group>
+    <group max-diff="3">
+      <word>хризолит</word>
+      <word>хризотил</word>
+    </group>
+    <group max-diff="3">
+      <word>чепрак</word>
+      <word>черпак</word>
+    </group>
+    <group max-diff="2">
+      <word>четвертак</word>
+      <word>четвертка</word>
+    </group>
+    <group max-diff="4">
+      <word>шпатель</word>
+      <word>штапель</word>
+    </group>
+    <group max-diff="5">
+      <word>электрометрия</word>
+      <word>электротермия</word>
+    </group>
+    <group max-diff="3">
+      <word>энтерит</word>
+      <word>этернит</word>
+    </group>
+  </long>
+</anagrams>

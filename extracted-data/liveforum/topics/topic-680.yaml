@@ -1,0 +1,127 @@
+topic_id: 680
+slug: topic-680
+title: 2Alexey Agranovsky
+first_post: 2003-03-17 18:35
+last_post: 2003-03-19 14:39
+post_count: 12
+posts:
+- id: 11038
+  parent_id: null
+  date: 2003-03-17 18:35
+  poster: Alexey B. Ilyichev
+  email: alex_z77@mail.ruNOSPAM
+  subject: 2Alexey Agranovsky
+  deleted: false
+  text: Док, а нахрен вам вся эта биология? ;-)
+  replies:
+  - id: 11039
+    parent_id: 11038
+    date: 2003-03-17 19:10
+    poster: Алексей Аграновский (Док)
+    email: aaa@genebee.msu.su
+    subject: Ответ
+    deleted: false
+    text: Не знаю...
+    replies:
+    - id: 11040
+      parent_id: 11039
+      date: 2003-03-17 19:20
+      poster: McL
+      email: mcl@macbox.ru
+      subject: Биология
+      deleted: false
+      text: 'Спасибо за наглость спросившему, но вопрос и вправду интересен, если
+        позволите переформулировать: самоосознание в какую сторону перевешивает?'
+      replies:
+      - id: 11042
+        parent_id: 11040
+        date: 2003-03-17 19:26
+        poster: Алексей Аграновский (Док)
+        email: aaa@genebee.msu.su
+        subject: Химия, химия
+        deleted: false
+        text: Стараюсь делать свое дело как можно лучше, а куда там свешивается, самому
+          непонятно. Но я знаю чем займусь на пенсии.
+        replies:
+        - id: 11043
+          parent_id: 11042
+          date: 2003-03-17 20:28
+          poster: Игорь Головачев (Игорь Г.)
+          email: sunny_city@mail.ru
+          subject: Это очень правильно
+          deleted: false
+          text: 'Снимаю шляпу.Док,я человек старый,мне скрывать нечего скажу прямо.....
+
+            ты(Вы)велик(цитата).Нет,правда,я никогда не видел столь энергичного челолвека.Энергия
+            25-летнего,задор какой-то юношеский,кураж вообще молчу чей.Я желаю всем(и
+            себе тоже)иметь хоть чуточку этого задора и жизнелюбия.А может есть какой-нибудь
+            еще тайный наисекретище?:) Шучу кончно же.От души,Док,хоть и не день рожденья,но,
+            - МНОГИЕ ЛЕТА !!!'
+          replies:
+          - id: 11044
+            parent_id: 11043
+            date: 2003-03-17 23:13
+            poster: Андрей PRG
+            email: peregnoy@mail.ru
+            subject: Ух ты, блин, старый он ;)
+            deleted: false
+            text: 'Ты, Игорь, не торопись. Тебе ещё почин великий выполнять. Али не
+              помнишь какой? ;)
+
+
+              А Док и впрямь потрясающей энергетики человек! :)'
+            replies:
+            - id: 11049
+              parent_id: 11044
+              date: 2003-03-18 10:20
+              poster: Алексей Аграновский (Док)
+              email: aaa@genebee.msu.su
+              subject: В краску вгоните, кончайте свист!
+              deleted: false
+              text: А энергетика - она вся у Чубайса.
+              replies:
+              - id: 11050
+                parent_id: 11049
+                date: 2003-03-18 17:40
+                poster: Дмитрий(fan))
+                email: leondmitr@freemail.ru
+                subject: Угу, Док!
+                deleted: false
+                text: 'Я с ними согласен. Обеими руками.
+
+                  До сих пор не могу отойти от вашего концерта.'
+                replies:
+                - id: 11051
+                  parent_id: 11050
+                  date: 2003-03-18 18:43
+                  poster: Игорь Головачев (Игорь Г.)
+                  email: sunny_city@mail.ru
+                  subject: А я от субботнего квартирника
+                  deleted: false
+                  text: Примерно такой же кайф как год назад у "Второго этажа"
+                - id: 11053
+                  parent_id: 11050
+                  date: 2003-03-18 19:44
+                  poster: Андрей PRG
+                  email: peregnoy@mail.ru
+                  subject: Дык...
+                  deleted: false
+                  text: зачем же отходить? Надо всё ширше и ширше, глубже и глубже
+                    ;)
+  - id: 11058
+    parent_id: 11038
+    date: 2003-03-19 14:06
+    poster: Мадам Козявкина
+    email: koziavkina@mail.ru
+    subject: Вы, Иван, пардон муа, пивовар? Вот и варите своё пиво!
+    deleted: false
+    text: А блюзы пусть Каверкин поёт :)))
+    replies:
+    - id: 11059
+      parent_id: 11058
+      date: 2003-03-19 14:39
+      poster: Юрий Каверкин
+      email: kaverkin@rol.ru
+      subject: Я тоже, пардон, пивоваром хочу быть, на одной дегустации оттянуться
+        можно....
+      deleted: false

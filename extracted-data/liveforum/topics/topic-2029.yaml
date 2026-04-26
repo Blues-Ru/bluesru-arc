@@ -1,0 +1,47 @@
+topic_id: 2029
+slug: topic-2029
+title: Слухи!
+first_post: 2002-07-16 17:56
+last_post: 2002-07-17 14:52
+post_count: 4
+posts:
+- id: 6090
+  parent_id: null
+  date: 2002-07-16 17:56
+  poster: Федор Романенко (fedor)
+  email: fedor@blues.ru
+  subject: Слухи!
+  deleted: false
+  text: 'По неподтвержденным данным в Москву на Эфесовский фестиваль приедет C.J.
+    Chenier & The Red Hot Louisiana Band. Источник информации вот здесь:
+
+    www.pollstar.com. искать по критерию MOSCOW, RUS'
+  replies:
+  - id: 6091
+    parent_id: 6090
+    date: 2002-07-16 18:12
+    poster: Михаил Бирюков (nECKAPb)
+    email: blackcat@blues.ru
+    subject: словно мухи...
+    deleted: false
+    text: В том году уже Шемекия Копленд приезжала. ;(
+    replies:
+    - id: 6105
+      parent_id: 6091
+      date: 2002-07-17 14:52
+      poster: МХ
+      email: ламоалым
+      subject: зато раньше
+      deleted: false
+      text: на первых фестивалях были и Кари Белл, и Гейтмаус Браун, а на последующих
+        и  Ханибой Эдвардс,Ларри Джонсон,Сон Силс....Именно тогда я там блюз последний
+        раз и видел,Эдди Клиеруатерррр.Попсеет фестиваль, и пиво дешевеет
+  - id: 6104
+    parent_id: 6090
+    date: 2002-07-17 14:47
+    poster: МХ
+    email: ваовфыо
+    subject: на сайте
+    deleted: false
+    text: организаторов фестиваля фирмы Позитиф вообще пока никакой информации нет
+      www.pozitif-ist.com Это вдруг если кто по-турецки читать умеет)))

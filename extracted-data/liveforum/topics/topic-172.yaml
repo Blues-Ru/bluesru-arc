@@ -1,0 +1,60 @@
+topic_id: 172
+slug: topic-172
+title: 2 Тюменские
+first_post: 2002-04-19 11:11
+last_post: 2002-04-27 09:59
+post_count: 6
+posts:
+- id: 3867
+  parent_id: null
+  date: 2002-04-19 11:11
+  poster: Dr Epi
+  email: dr_epi@mail.ru
+  subject: 2 Тюменские
+  deleted: false
+  text: А есть ктонить из Тюмени или ТО?
+  replies:
+  - id: 3930
+    parent_id: 3867
+    date: 2002-04-21 01:22
+    poster: Greta
+    email: morehemp@mail.ru
+    subject: тюмень и тюменьщики
+    deleted: false
+    text: в изобилии на www.topos.ru
+    replies:
+    - id: 3943
+      parent_id: 3930
+      date: 2002-04-21 03:47
+      poster: Вадим  (AVA)
+      email: vad2908@mail.ru
+      subject: '...не допонял, но страничка интересная...(-)'
+      deleted: false
+      text: '...может чуство уморы притупилось? может глазья устали, но все равно,
+        спасибо.'
+      replies:
+      - id: 3948
+        parent_id: 3943
+        date: 2002-04-21 04:59
+        poster: Greta
+        email: more@hemp
+        subject: '...а вот...'
+        deleted: false
+        text: http://www.topos.ru/cgi-bin/my_reader.pl?section_id=02
+        replies:
+        - id: 3971
+          parent_id: 3948
+          date: 2002-04-22 01:58
+          poster: Вадим  (AVA)
+          email: vad2908@mail.ru
+          subject: '....забавно...гм...(-)'
+          deleted: false
+          text: '1'
+      - id: 4147
+        parent_id: 3943
+        date: 2002-04-27 09:59
+        poster: Dr Epi
+        email: dr_epi@mail.ru
+        subject: за что спасибо?
+        deleted: false
+        text: Что там с чувством уморы? А чего не допонял - спрашивай.

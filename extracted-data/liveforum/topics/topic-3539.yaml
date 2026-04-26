@@ -1,0 +1,69 @@
+topic_id: 3539
+slug: topic-3539
+title: Веселуха, факт.
+first_post: 2007-01-06 03:25
+last_post: 2007-01-09 01:36
+post_count: 7
+posts:
+- id: 30317
+  parent_id: null
+  date: 2007-01-06 03:25
+  poster: Старый Майор
+  email: gypsy@mail.ru
+  subject: Веселуха, факт.
+  deleted: false
+  text: Только по дороге потеряли фирменный триольный рисунок баса, а так все путём.
+    Упа-упа и все такое.
+  replies:
+  - id: 30326
+    parent_id: 30317
+    date: 2007-01-06 17:11
+    poster: Эльдар
+    email: еIicаster С06АKAmaiI.ru
+    subject: Странненько
+    deleted: false
+    text: К тому ж и сам сабж как-то потерялся. То бишь заглавный пост Немова с сылкой
+      на RealMusic где выложена композиция Gadjet - Mojo.
+    replies:
+    - id: 30328
+      parent_id: 30326
+      date: 2007-01-06 18:17
+      poster: Немов Евгений
+      email: jnr_new@mail.ru
+      subject: Расхватали на цитаты...
+      deleted: false
+      text: 'А может был удален как вредный спам... http://www.realmusic.ru/songs/264856/
+
+        Вся наша жизнь - игра (знать бы во что?)'
+  - id: 30327
+    parent_id: 30317
+    date: 2007-01-06 17:53
+    poster: Dmitri Kazantsev (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: ты с кем говоришь, служивый?
+    deleted: false
+    replies:
+    - id: 30353
+      parent_id: 30327
+      date: 2007-01-07 20:58
+      poster: Старый Майор
+      email: gypsy@mail.ru
+      subject: Да с Женей Немовым..
+      deleted: false
+      text: ему Гат Май Моджо Воркинг не даёт покоя..
+  - id: 30329
+    parent_id: 30317
+    date: 2007-01-06 18:22
+    poster: Немов Евгений
+    email: jnr_new@mail.ru
+    subject: Если нужны блюзовые минусовки, обращайся!
+    deleted: false
+    text: Если нужны блюзовые минусовки, обращайся!
+  - id: 30399
+    parent_id: 30317
+    date: 2007-01-09 01:36
+    poster: Митя
+    email: meis2000@mail.ru
+    subject: Мистер Немов!! А блюзовые..
+    deleted: false
+    text: MIDI-файлы или просто барабанные паттерны есть у Вас?

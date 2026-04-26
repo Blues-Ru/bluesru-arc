@@ -1,0 +1,64 @@
+topic_id: 3939
+slug: topic-3939
+title: B.B.King
+first_post: 2008-03-12 19:15
+last_post: 2008-03-18 00:22
+post_count: 6
+posts:
+- id: 34896
+  parent_id: null
+  date: 2008-03-12 19:15
+  poster: Скалли
+  email: '*****'
+  subject: B.B.King
+  deleted: false
+  text: "Музыканты-журналисты-люди-добрые :) \nНу троянов уже снимите с сайта Би-Би-Кинга\
+    \ что-ли, а то информацию посмотреть нельзя никак.\n\nВаш друкк."
+  replies:
+  - id: 34897
+    parent_id: 34896
+    date: 2008-03-12 21:50
+    poster: Федор Романенко (fedor)
+    email: fedor@blues.ru
+    subject: Спасибо!!!
+    deleted: false
+    text: За сигнал. Ситуация возникла из-за заражения компьютера одного из нерадивых
+      веб-мастеров шибко умным вирусом. Сейчас все исправлено, меры приняты....
+    replies:
+    - id: 34900
+      parent_id: 34897
+      date: 2008-03-12 23:43
+      poster: Dmitri Kazantsev (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: кстати да, мне тоже говорили!
+      deleted: false
+      text: я их слал к Гейтсу
+      replies:
+      - id: 34902
+        parent_id: 34900
+        date: 2008-03-13 09:18
+        poster: Скалли
+        email: '*****'
+        subject: no subject
+        deleted: false
+        text: "не нада народ слать к Гейтсу, тем более, что он, вроде, отошел от дел\
+          \ =)\nтроян он и в африке троян. и Егорыч твой был прав, и висел он там\
+          \ дня три минимум, выходит. вот и не удерржалась. \nа меню из-за трояна\
+          \ мы так посмотреть и не смогли, сходили в другое место.\nэто типа Скалли\
+          \ ака Greta. =) в гости вот зашла."
+        replies:
+        - id: 34967
+          parent_id: 34902
+          date: 2008-03-17 19:54
+          poster: Игорь Головачев (Игорь Г.)
+          email: sunny_city@mail.ru
+          subject: GRETA !!!!!!  УРАаааааа!!!!!
+          deleted: false
+          replies:
+          - id: 34968
+            parent_id: 34967
+            date: 2008-03-18 00:22
+            poster: Dmitri Kazantsev (Dr. Nick)
+            email: dr.nick@blues.ru
+            subject: иногда Арни возвращается!
+            deleted: false

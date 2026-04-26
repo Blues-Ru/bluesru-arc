@@ -1,0 +1,78 @@
+topic_id: 3455
+slug: topic-3455
+title: Требуется помощь в идентификации
+first_post: 2006-10-20 17:03
+last_post: 2006-10-24 12:55
+post_count: 7
+posts:
+- id: 29139
+  parent_id: null
+  date: 2006-10-20 17:03
+  poster: Бэлла
+  email: belka09@rambler.ru
+  subject: Требуется помощь в идентификации
+  deleted: false
+  text: 'Блюз очень сильно уважаю, практически прусь, особенно от белого. НО! С опознанием
+    у меня проблемы: все эти иностранные слова-имена, в отличие от музыки, навек в
+    душе не остаются...
+
+    Помогите вспомнить! На 13 или 14 Эфесовском фестивале неподеццки зажигал на аккордеоне
+    один симпатичный упитанный американец африканской наружности. Не могу забыть его
+    игру, дабы нарыть чо-нить в его исполнении на просторах инета. Но и вспомнить,
+    как звали парнишку тоже не могу... Благодарю заранее, если кто наморщит лоб.'
+  replies:
+  - id: 29140
+    parent_id: 29139
+    date: 2006-10-20 17:35
+    poster: Михаил Мишурис (mishouris)
+    email: mishouris@mail.ru
+    subject: C.J Chenier?
+    deleted: false
+    replies:
+    - id: 29141
+      parent_id: 29140
+      date: 2006-10-20 19:05
+      poster: Алексей Аграновский (Док)
+      email: aaa@genebee.msu.su
+      subject: Её сомнений Мартын Зайдеко не решит
+      deleted: false
+      text: Stanley "Buckwheat" Dural, Jr. & Buckwheat Zydeco
+    - id: 29154
+      parent_id: 29140
+      date: 2006-10-23 11:03
+      poster: Бэлла
+      email: belka09@rambler.ru
+      subject: Спасибо всем, кто лоб наморщил.
+      deleted: false
+      text: Это был ОН - C.J.Chenier. Пойду искать...
+  - id: 29145
+    parent_id: 29139
+    date: 2006-10-21 12:52
+    poster: Andrei V. Evdokimov (evdokimov)
+    email: evdokimov@blues.ru
+    subject: 'как паномарь долдонил он одно и то же:'
+    deleted: false
+    text: 'сайт блюз-ру состоит не только из форума.
+
+      на лицевой странице, в левой колонке, есть ссылка на архив эфесовского фестиваля...
+      там и номер феста и имя аккордеониста вместе с биографией можно узнать достоверно.'
+    replies:
+    - id: 29146
+      parent_id: 29145
+      date: 2006-10-21 17:25
+      poster: Старый Зануда
+      email: gypsy@mail.ru
+      subject: Правельно песадь не паномарь а понамарь!
+      deleted: false
+      text: 'Даль считает что правильно "понАмарь", а Ожегов и БСЭ - "понОмарь".
+
+        Но проверочное слово - paramonarios (греч.) - "сторож храма", так что прям
+        и не знаю, что сказать...'
+    - id: 29162
+      parent_id: 29145
+      date: 2006-10-24 12:55
+      poster: Andrei V. Evdokimov (evdokimov)
+      email: evdokimov@blues.ru
+      subject: а если
+      deleted: false
+      text: пан занимается моринистикой?

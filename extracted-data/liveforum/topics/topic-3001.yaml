@@ -1,0 +1,50 @@
+topic_id: 3001
+slug: topic-3001
+title: Dirty blues band
+first_post: 2005-12-19 06:17
+last_post: 2005-12-19 12:46
+post_count: 5
+posts:
+- id: 25141
+  parent_id: null
+  date: 2005-12-19 06:17
+  poster: Олег
+  email: ogienkoov@nk.nornik.ru
+  subject: Dirty blues band
+  deleted: false
+  text: Что это за группа? Помогите определиться.
+  replies:
+  - id: 25143
+    parent_id: 25141
+    date: 2005-12-19 10:19
+    poster: Alexey B. Ilyichev
+    email: no_email@mail.ru
+    subject: У меня в плейлисте в скобках написано, что это Род Пьяца.
+    deleted: false
+    replies:
+    - id: 25145
+      parent_id: 25143
+      date: 2005-12-19 12:09
+      poster: Олег
+      email: ogienkoov@nk.nornik.ru
+      subject: А как по содержанию. Хорошая банда?
+      deleted: false
+  - id: 25146
+    parent_id: 25141
+    date: 2005-12-19 12:30
+    poster: Marat Dakota
+    email: mhobbit@mail.ru
+    subject: У меня есть...
+    deleted: false
+    text: Один альбом. Или даже не альбом, а запись концертная. Это самая первая группа
+      Пьязы. Он там еще не так крут, но лично я очень люблю эту запись. Очень душевно.
+      И сыграно вполне хорошо. Блюз молодого Рода Пьязы :)
+    replies:
+    - id: 25147
+      parent_id: 25146
+      date: 2005-12-19 12:46
+      poster: Олег
+      email: ogienkoov@nk.nornik.ru
+      subject: Спасибо.
+      deleted: false
+      text: Я все таки рискнул и заказал две пластинки. Буду надеяться что понравиться.

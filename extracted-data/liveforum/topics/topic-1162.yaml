@@ -1,0 +1,89 @@
+topic_id: 1162
+slug: topic-1162
+title: А вот это и впрямь ацтой? А то я не слышал...
+first_post: 2003-05-21 01:18
+last_post: 2003-05-22 01:12
+post_count: 9
+posts:
+- id: 12592
+  parent_id: null
+  date: 2003-05-21 01:18
+  poster: Дима Казанцев (Dr. Nick)
+  email: dr.nick@blues.ru
+  subject: А вот это и впрямь ацтой? А то я не слышал...
+  deleted: false
+  text: http://www.allmusic.com/cg/amg.dll?p=amg&uid=MISS70305201710&sql=Aokw67u50h0jw
+  replies:
+  - id: 12595
+    parent_id: 12592
+    date: 2003-05-21 09:42
+    poster: Sergei  Kiritchenko (VoID)
+    email: skvoid@mail.ru
+    subject: Сам ты "ацтой".. :)
+    deleted: false
+    text: ты состав посмотри.. даже Guy и Sumlin затесались..
+    replies:
+    - id: 12604
+      parent_id: 12595
+      date: 2003-05-21 14:51
+      poster: Дима Казанцев (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: Ты прочитай рецензию и посмотри на оценку
+      deleted: false
+  - id: 12597
+    parent_id: 12592
+    date: 2003-05-21 10:12
+    poster: Anton Klepikov (Antokha)
+    email: antokha@yandex.ru
+    subject: А почему, собснно?
+    deleted: false
+    text: Типа, проясни, пжалуйста.
+    replies:
+    - id: 12605
+      parent_id: 12597
+      date: 2003-05-21 14:52
+      poster: Дима Казанцев (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: Да патамушта там так написано ;)
+      deleted: false
+      text: Неправда что ли?
+      replies:
+      - id: 12606
+        parent_id: 12605
+        date: 2003-05-21 15:25
+        poster: Anton Klepikov (Antokha)
+        email: antokha@yandex.ru
+        subject: Кто знает!?
+        deleted: false
+        text: У меня этого нет. Но две звезды в рейтинге плюс "разгромная" рецензия
+          вызывает желание обязательно это услышать. :-))
+        replies:
+        - id: 12614
+          parent_id: 12606
+          date: 2003-05-21 18:45
+          poster: Дима Казанцев (Dr. Nick)
+          email: dr.nick@blues.ru
+          subject: Вот и я хочу послушать ;)
+          deleted: false
+          text: 'Но тоже нету ;(
+
+
+            Возможно там просто по-другому (а нам, извращенцам, может и понравится).'
+  - id: 12627
+    parent_id: 12592
+    date: 2003-05-21 22:46
+    poster: Andrei V. Evdokimov (evdokimov)
+    email: evdokimov@blues.ru
+    subject: если уж так хочется
+    deleted: false
+    text: то могу или переписать или дать послушать. но по сути это халтура. куб кода
+      еще поскромничал в рецензии.
+    replies:
+    - id: 12631
+      parent_id: 12627
+      date: 2003-05-22 01:12
+      poster: Дима Казанцев (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: Спасибо!
+      deleted: false
+      text: Но ты сам-то как думаешь? Может не стОит и парится? Что хоть там не то?

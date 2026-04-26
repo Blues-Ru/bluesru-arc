@@ -1,0 +1,59 @@
+topic_id: 535
+slug: topic-535
+title: Несколько запоздало
+first_post: 2002-12-26 12:51
+last_post: 2002-12-27 12:52
+post_count: 6
+posts:
+- id: 9649
+  parent_id: null
+  date: 2002-12-26 12:51
+  poster: Serge Sklyaroff (tigra)
+  email: bluesman@tut.by
+  subject: Несколько запоздало
+  deleted: false
+  text: 'Поздравляю всех католиков протестантов и прочих с католическим Рождеством!
+
+    Глубоко уверен что все у Вас друзья будет здорово и хорошо!'
+  replies:
+  - id: 9651
+    parent_id: 9649
+    date: 2002-12-26 13:18
+    poster: Прочие
+    email: gypsy@mail.ru
+    subject: И тебе того же, и сто порций!
+    deleted: false
+    replies:
+    - id: 9662
+      parent_id: 9651
+      date: 2002-12-26 15:12
+      poster: Дмитрий(fan))
+      email: leondmitr@freemail.ru
+      subject: И я поздравляю - и католиков, и протестантов.
+      deleted: false
+      text: Тов. Старый Майор, а сто порций чего??
+      replies:
+      - id: 9676
+        parent_id: 9662
+        date: 2002-12-26 18:40
+        poster: Старый Майор
+        email: gypsy@mail.ru
+        subject: Мороженого, конечно! :)))
+        deleted: false
+        replies:
+        - id: 9691
+          parent_id: 9676
+          date: 2002-12-27 11:21
+          poster: Дмитрий(fan))
+          email: leondmitr@freemail.ru
+          subject: А я думал, гвоздей или иголок со специями.
+          deleted: false
+          replies:
+          - id: 9693
+            parent_id: 9691
+            date: 2002-12-27 12:52
+            poster: Старый Майор
+            email: gypsy@mail.ru
+            subject: Экую я, однако, себе репутацию создал!
+            deleted: false
+            text: Срочно надо исправляться, а то уже детей пугаю...

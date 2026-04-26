@@ -1,0 +1,49 @@
+topic_id: 5021
+slug: topic-5021
+title: а 10 и 11 апреля - в Москве!
+first_post: 2013-03-25 19:40
+last_post: 2013-03-27 13:29
+post_count: 5
+posts:
+- id: 38831
+  parent_id: null
+  date: 2013-03-25 19:40
+  poster: Andrei V. Evdokimov
+  subject: а 10 и 11 апреля - в Москве!
+  deleted: false
+  text: a href="http://kirovnet.ru/news/2013/03/25/vpervyie-v-rossii-na" tarhet="_blank">http://kirovnet.ru/news/2013/03/25/vpervyie-v-rossii-na
+    - а 8-го не пропустите в Кирове! </a>
+  replies:
+  - id: 38832
+    parent_id: 38831
+    date: 2013-03-25 19:41
+    poster: Andrei V. Evdokimov
+    subject: главное - ссылка работает!
+    deleted: false
+    replies:
+    - id: 38835
+      parent_id: 38832
+      date: 2013-03-26 22:59
+      poster: tavrichesky
+      subject: большая непонятка
+      deleted: false
+      text: 'на сайте Дома дата проведения-только 11е, четверг.
+
+        http://www.dom.com.ru/events/2288/
+
+        на сайте Гая Дейвиса Москва-10 и 11го.'
+      replies:
+      - id: 38836
+        parent_id: 38835
+        date: 2013-03-26 23:27
+        poster: Andrei V. Evdokimov
+        subject: по-моему - все понятно ! )))
+        deleted: false
+        replies:
+        - id: 38840
+          parent_id: 38836
+          date: 2013-03-27 13:29
+          poster: tavrichesky
+          subject: то, что всем всё понятно-это радует))
+          deleted: false
+          text: ждём официальную афишу на сайте

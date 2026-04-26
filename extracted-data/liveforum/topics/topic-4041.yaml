@@ -1,0 +1,26 @@
+topic_id: 4041
+slug: topic-4041
+title: сегодня - ДР Сергея Сорокина!
+first_post: 2008-06-29 02:54
+last_post: 2008-06-30 01:36
+post_count: 2
+posts:
+- id: 35524
+  parent_id: null
+  date: 2008-06-29 02:54
+  poster: Dmitri Kazantsev (Dr. Nick)
+  email: dr.nick@blues.ru
+  subject: сегодня - ДР Сергея Сорокина!
+  deleted: false
+  text: 'хочу поздравить его и пожелать ему много здоровья!
+
+    и долголетия тоже, ведь он очень любит музыку и гармошки губные!'
+  replies:
+  - id: 35525
+    parent_id: 35524
+    date: 2008-06-30 01:36
+    poster: Старый Майор
+    email: gypsy@mail.ru
+    subject: Сергею Сорокину - мои поздравления!
+    deleted: false
+    text: И наилучшие пожелания!

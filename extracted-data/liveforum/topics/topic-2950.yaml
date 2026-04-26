@@ -1,0 +1,41 @@
+topic_id: 2950
+slug: topic-2950
+title: Очень хочется поздравить большого дружищу Борю Булкина с днем рожденья
+first_post: 2005-11-24 10:07
+last_post: 2005-11-25 13:30
+post_count: 4
+posts:
+- id: 24733
+  parent_id: null
+  date: 2005-11-24 10:07
+  poster: Игорь Головачев
+  email: sunny_city@mail.ru
+  subject: Очень хочется поздравить большого дружищу Борю Булкина с днем рожденья
+  deleted: false
+  text: Говорят что пожелания сделанные от души материализуются;)так что не беда что
+    он не заходит на форум. От всей души -здоровья,здоровья и еще раз здоровья Боре
+    и его родителям.Счастья,удачи и всего самого хорошего!
+  replies:
+  - id: 24734
+    parent_id: 24733
+    date: 2005-11-24 10:55
+    poster: Илья Кривандин (Populoss)
+    email: ilija@bk.ru
+    subject: Присоединяюсь к поздравлениям!
+    deleted: false
+    text: Борю с Днем Рождения! Удачи и творческих успехов!
+  - id: 24735
+    parent_id: 24733
+    date: 2005-11-24 12:40
+    poster: Алексей Фролов (Buchothk)
+    email: jokerthk@yandex.ru
+    subject: С Днем Рожденья!!!
+    deleted: false
+    text: Всего-всего, так держать и не ржаветь!!!! ;)
+  - id: 24737
+    parent_id: 24733
+    date: 2005-11-25 13:30
+    poster: мишурис
+    email: mishuris@mail.ru
+    subject: Поздравляю, Боря!
+    deleted: false

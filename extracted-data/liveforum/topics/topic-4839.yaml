@@ -1,0 +1,40 @@
+topic_id: 4839
+slug: topic-4839
+title: '"T.BLUES MOB" - в теленовостях!'
+first_post: 2012-03-01 20:48
+last_post: 2012-03-07 03:31
+post_count: 4
+posts:
+- id: 38296
+  parent_id: null
+  date: 2012-03-01 20:48
+  poster: Andrei V. Evdokimov
+  subject: '"T.BLUES MOB" - в теленовостях!'
+  deleted: false
+  text: <iframe width="560" height="315" src="http://www.youtube.com/embed/qw60S-Z1Z_Q"
+    frameborder="0" allowfullscreen></iframe>
+  replies:
+  - id: 38297
+    parent_id: 38296
+    date: 2012-03-06 20:13
+    poster: Старый Майор
+    subject: Сегодня это практически единственная блюзовая группа в Тбилиси...
+    deleted: false
+    text: '...потому что все остальные блюзинские грузмены - в Москве =)))'
+    replies:
+    - id: 38298
+      parent_id: 38297
+      date: 2012-03-06 23:16
+      poster: Andrei V. Evdokimov
+      subject: однако ж
+      deleted: false
+      text: московское ТВ блюз савсем не жалует, так что за телеславой - в Грузию.
+      replies:
+      - id: 38299
+        parent_id: 38298
+        date: 2012-03-07 03:31
+        poster: Старый Майор
+        subject: Это да...
+        deleted: false
+        text: "Москва - родина гламура.\nБлюз не гламурен. \nГламурное кисо не выгуляешь\
+          \ под блюз."

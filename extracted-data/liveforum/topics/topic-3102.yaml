@@ -1,0 +1,64 @@
+topic_id: 3102
+slug: topic-3102
+title: Подскажите, пожалуйста, что это за композиция?
+first_post: 2006-02-13 00:12
+last_post: 2006-02-13 15:50
+post_count: 4
+posts:
+- id: 26031
+  parent_id: null
+  date: 2006-02-13 00:12
+  poster: Олег
+  email: streetvolvo@mail.ru
+  subject: Подскажите, пожалуйста, что это за композиция?
+  deleted: false
+  text: 'Сегодня услышал, под нее выступала канадская пара по фигурному катанию на
+    Олимпиаде. Извиняюсь за качество, успел записать на диктофон.
+
+
+    Подскажите, буду благодарен! Вот ссылка:
+
+    http://www.nuground.ru/stuff/jazz.mp3'
+  replies:
+  - id: 26048
+    parent_id: 26031
+    date: 2006-02-13 11:37
+    poster: Muddy Lives
+    email: mlives_6@hotmail
+    subject: Hey, Big Spender
+    deleted: false
+    text: 'Звук очень плохой, но похожо, что песня - Hey, Big Spender, написанная
+      Cy Coleman & Dorothy Fields.
+
+
+
+      Muddy'
+    replies:
+    - id: 26057
+      parent_id: 26048
+      date: 2006-02-13 14:32
+      poster: Олег
+      email: streetvolvo@mail.ru
+      subject: Да, это она (+)
+      deleted: false
+      text: 'Да, точно, это она!
+
+
+        Но никак не могу найти подходящий вариант. Нашел несколько, в том числе в
+        исполнении Shirley Bassey, который больше всего похож по звучанию на тот кусок,
+        что я закинул.
+
+
+        А как бы найти инструментальную композицию? У вас она есть?'
+      replies:
+      - id: 26058
+        parent_id: 26057
+        date: 2006-02-13 15:50
+        poster: Muddy Lives
+        email: mlives_6@hotmail
+        subject: к сожалению
+        deleted: false
+        text: 'инструментальных версий не знаю и не имею.
+
+
+          Muddy'

@@ -1,0 +1,59 @@
+topic_id: 1603
+slug: topic-1603
+title: сижу дома, занимаюсь ерундой
+first_post: 2003-11-24 15:47
+last_post: 2003-11-27 22:45
+post_count: 5
+posts:
+- id: 15866
+  parent_id: null
+  date: 2003-11-24 15:47
+  poster: Дима Казанцев (Dr. Nick)
+  email: dr.nick@blues.ru
+  subject: сижу дома, занимаюсь ерундой
+  deleted: false
+  text: 'и записываю песенки. один, живьем, только на акустике.
+
+    кому интересно, послушайте.
+
+
+    http://realmusic.ru/dr_nick/'
+  replies:
+  - id: 15924
+    parent_id: 15866
+    date: 2003-11-26 21:56
+    poster: Сергей Иванов (serge_ivanov)
+    email: serge_ivanov@hotmail.com
+    subject: Can You Hear...
+    deleted: false
+    text: '- хорошая вешь.
+
+      Джей Джей, правда, немного прослушивается :-)'
+    replies:
+    - id: 15927
+      parent_id: 15924
+      date: 2003-11-26 23:03
+      poster: Дима Казанцев (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: ну что делать...
+      deleted: false
+      text: это демки, записанные сходу. будем работать!
+      replies:
+      - id: 15937
+        parent_id: 15927
+        date: 2003-11-27 14:14
+        poster: Сергей Иванов (serge_ivanov)
+        email: serge_ivanov@hotmail.com
+        subject: успехов
+        deleted: false
+        text: запишете в удовлетворительном для тебя качестве - дай анонс. Заеду с
+          болванкой и просьбой распечатать обложечку :-)
+        replies:
+        - id: 15945
+          parent_id: 15937
+          date: 2003-11-27 22:45
+          poster: Дима Казанцев (Dr. Nick)
+          email: dr.nick@blues.ru
+          subject: окей
+          deleted: false
+          text: но думаю, что это будет не скоро.

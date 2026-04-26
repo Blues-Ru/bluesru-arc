@@ -1,0 +1,135 @@
+topic_id: 1304
+slug: topic-1304
+title: ВО ЧЕГО КУПИЛ!
+first_post: 2003-08-05 15:28
+last_post: 2003-08-06 12:38
+post_count: 14
+posts:
+- id: 13465
+  parent_id: null
+  date: 2003-08-05 15:28
+  poster: Дима Казанцев (Dr. Nick)
+  email: dr.nick@blues.ru
+  subject: ВО ЧЕГО КУПИЛ!
+  deleted: false
+  text: "http://www.allmusic.com/cg/amg.dll?p=amg&uid=CASS80308050729&sql=Axlb8b5f4bsqf\n\
+    \nПо блюзу, однако! \nОбратите внимание на составчик - даже Уилли Митчелл там!\n\
+    Отличный альбом!"
+  replies:
+  - id: 13466
+    parent_id: 13465
+    date: 2003-08-05 15:34
+    poster: Greta
+    email: morehemp
+    subject: отличный Попс..
+    deleted: false
+    text: 'я еще полгода назад тут соловьем по его поводу заливалась..
+
+      дык це тож впустую. всем же похер'
+    replies:
+    - id: 13468
+      parent_id: 13466
+      date: 2003-08-05 16:40
+      poster: Юрий Каверкин (Gekko)
+      email: kaverkin@rol.ru
+      subject: Як же в пустую??? Як похер??? Мине дюже гарно его слухать було!!! За
+        шо Вам, Грэта и спасибочки!!
+      deleted: false
+      replies:
+      - id: 13474
+        parent_id: 13468
+        date: 2003-08-05 18:33
+        poster: Старый Хохол
+        email: gypsy@mail.ru
+        subject: Hey, what language d'ya speak, dude? )))
+        deleted: false
+        text: "Правильно говорити так: \n\nШановна (кохана) Грєта! Дуже вам вдячний\
+          \ за те, що Мені було приємно це слухати!\n\nПримiтка: \n\n\"И\" вимовляється\
+          \ як росiйске \"Ы\"\n\"Е\" як \"Э\"\n\"є\" - як звичайне росiйске \"е\"\
+          .\n\nБажаю всiм великіх творчіх успіхів у вивченні української мови!!!"
+    - id: 13469
+      parent_id: 13466
+      date: 2003-08-05 16:50
+      poster: Дима Казанцев (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: А вот мне было не по херу!
+      deleted: false
+      text: Я его заказал и получил ;))
+      replies:
+      - id: 13471
+        parent_id: 13469
+        date: 2003-08-05 17:23
+        poster: Юрий Каверкин(Gekko)
+        email: kaverkin@rol.ru
+        subject: Ай, молодесссс!!!!
+        deleted: false
+    - id: 13472
+      parent_id: 13466
+      date: 2003-08-05 18:22
+      poster: Пикейные жилеты
+      email: gypsy@mail.ru
+      subject: Эх, акселерация...
+      deleted: false
+      text: растёТ, тянется ввысь наша юная поросль!Что комсомольцам было по плечу,
+        нашей молодежи по хер...
+    - id: 13479
+      parent_id: 13466
+      date: 2003-08-06 09:38
+      poster: Slavik Chernov (Blacky)
+      email: Blacky@softhome.net
+      subject: Ясный день, по....
+      deleted: false
+      text: Сколько народу и не одного гармошечника! ;-)
+      replies:
+      - id: 13483
+        parent_id: 13479
+        date: 2003-08-06 12:38
+        poster: Федор Романенко (fedor)
+        email: fedor@blues.ru
+        subject: Гармошечники
+        deleted: false
+        text: Слав! Я тебе уже говорил ;) Ты знаешь, я позавчера был на воркшопе Марка
+          Хаммила, крутейшего гармониста. Он чистым английским языком много раз повторил,
+          что слушать только гармонистов для обучения - это очень плохая идея. Нужно
+          слушать музыку, а не технику игры конкретно на гармонике. На его собственный
+          стиль повлияли многие блюзовые гитаристы, джазовые исполнители на дудках
+          и т.д. ;)
+  - id: 13473
+    parent_id: 13465
+    date: 2003-08-05 18:22
+    poster: John
+    email: ssy@ac.com.ru
+    subject: то есть даже переписать можно?
+    deleted: false
+    replies:
+    - id: 13475
+      parent_id: 13473
+      date: 2003-08-05 19:54
+      poster: Дима Казанцев (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: Ну конечно можно
+      deleted: false
+      text: Писалки еще не перевелись на земле московской!
+    - id: 13480
+      parent_id: 13473
+      date: 2003-08-06 10:15
+      poster: John
+      email: ssy@ac.com.ru
+      subject: значит договорились?
+      deleted: false
+      replies:
+      - id: 13482
+        parent_id: 13480
+        date: 2003-08-06 11:32
+        poster: Дима Казанцев (Dr. Nick)
+        email: dr.nick@blues.ru
+        subject: Договорились ;)
+        deleted: false
+        text: Ты пиши и встретимся.
+    - id: 13481
+      parent_id: 13473
+      date: 2003-08-06 10:17
+      poster: John
+      email: ssy@ac.com.ru
+      subject: значит договорились?
+      deleted: false

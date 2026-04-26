@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Blues.Ru: {{ page_title if page_title else 'Обновления Blues.Ru' }}</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <link rel="shortcut icon" href="/images/bluesru.ico">
+  <style>
+    body { max-width: 900px; margin: 0 auto; padding: 0 1em; }
+    .newsarticle p { text-align: justify; }
+    .date-label { color: #4F62B5; }
+  </style>
+{{ site_css_tag | safe }}
+  {{ ga_snippet | safe }}
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#5511cc" alink="#00bb00">
+
+<table cellpadding="4" cellspacing="0" border="0" align="right">
+<tr><td align="left">
+  <a href="/"><img src="/images/bluesru100x100.gif" width="100" height="100" border="0" alt="Blues.Ru"></a>
+</td></tr>
+</table>
+
+<p><a href="/"><b>Blues.Ru</b></a> &gt; <a href="/updates/">Обновления Blues.Ru</a>{% if current_year %} &gt; {{ current_year }}{% endif %}</p>
+
+{% if nav_links %}<p>{{ nav_links | safe }}</p>{% endif %}
+
+{% for year_block in year_blocks %}
+<h2>{{ year_block.year }}</h2>
+{% for item in year_block.entries %}
+<a name="{{ item.id }}"></a>
+<p><font class="date-label" color="#4F62B5">{{ item.date_display }}</font></p>
+<div class="newsarticle">{{ item.body | safe }}</div>
+{% if not loop.last %}<hr size="1">{% endif %}
+{% endfor %}
+{% if not loop.last %}<hr size="1">{% endif %}
+{% endfor %}
+
+{% if more_years %}
+<p>{{ more_years | safe }}</p>
+{% endif %}
+
+{% if nav_links %}<p>{{ nav_links | safe }}</p>{% endif %}
+
+{% if year_list %}
+<hr size="1">
+<p>
+{% for y in year_list %}{% if not loop.first %} | {% endif %}<a href="/updates/{{ y }}/">{{ y }}</a>{% endfor %}
+</p>
+{% endif %}
+
+<p align="center">
+{{ footer }}
+</p>
+</body>
+</html>

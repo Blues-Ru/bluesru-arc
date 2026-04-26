@@ -1,0 +1,43 @@
+topic_id: 2344
+slug: topic-2344
+title: Вы любите БЛЮЗ?
+first_post: 2004-12-12 22:10
+last_post: 2004-12-16 23:13
+post_count: 4
+posts:
+- id: 19931
+  parent_id: null
+  date: 2004-12-12 22:10
+  poster: Ваня
+  email: tomatys@yndex.ru
+  subject: Вы любите БЛЮЗ?
+  deleted: false
+  text: "ВНИМАНИЕ!!!\n\n Есть некая авантюра по созданию блюз-радио и не только...\
+    \ Нужны спонсоры и энтузиасты готовые помочь в этом нелегко деле! Всех кого идея\
+    \ заинтересовала пишите на tomatys@yndex.ru"
+  replies:
+  - id: 19940
+    parent_id: 19931
+    date: 2004-12-13 09:48
+    poster: Михан  (Ded Morozzz)
+    email: morozzz_ded@mail.ru
+    subject: :))))))))))))
+    deleted: false
+    text: плакалъ
+    replies:
+    - id: 19954
+      parent_id: 19940
+      date: 2004-12-14 15:38
+      poster: Tigra
+      email: bluesman@tut.by
+      subject: again :))))))))
+      deleted: false
+      text: причем всю ночь
+  - id: 19966
+    parent_id: 19931
+    date: 2004-12-16 23:13
+    poster: disik
+    email: denis1482@mail.ru
+    subject: http://www.specialradio.ru/10/ - иногда оно работает
+    deleted: false
+    text: http://www.specialradio.ru/10/ - иногда оно работает

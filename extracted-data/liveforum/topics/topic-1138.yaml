@@ -1,0 +1,89 @@
+topic_id: 1138
+slug: topic-1138
+title: The Jazz Guitarist
+first_post: 2002-01-17 19:46
+last_post: 2002-01-24 15:39
+post_count: 8
+posts:
+- id: 221
+  parent_id: null
+  date: 2002-01-17 19:46
+  poster: Artem Z
+  email: visnet@mail.ru
+  subject: The Jazz Guitarist
+  deleted: false
+  text: "В Инете давно уже ходит демо-версия программки под названием\nJazz Guitarist.\n\
+    Может кто знает где разобыть её полную версию???\nУж очень она мне понравилась:))\n\
+    \ \nзаранее thanks"
+  replies:
+  - id: 222
+    parent_id: 221
+    date: 2002-01-17 20:36
+    poster: Дима Казанцев (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: Ты уверен, что она именно так называется?
+    deleted: false
+    text: 'Я не нашел никакой информации о такой программе. Искал и Jazz Guitarist
+      и JazzGuitarist.
+
+      Вообще советую эти сайты:
+
+      http://www.hitsquad.com/smm/win95/GUITAR/
+
+      http://download.cnet.com/downloads/0-10001.html?tag=dir
+
+      Это если ты Windows используешь.'
+    replies:
+    - id: 223
+      parent_id: 222
+      date: 2002-01-17 20:55
+      poster: Федор Романенко (fedor)
+      email: fedor@blues.ru
+      subject: Есть такая программа у меня
+      deleted: false
+      text: Но, кажется, тоже в демо-версии. Там только часть тем есть с нотами.
+      replies:
+      - id: 224
+        parent_id: 223
+        date: 2002-01-17 22:31
+        poster: Sergei  Kiritchenko (VoID)
+        email: skvoid@yahoo.com
+        subject: а гыде взять? :) (-)
+        deleted: false
+        text: '1'
+        replies:
+        - id: 225
+          parent_id: 224
+          date: 2002-01-18 10:31
+          poster: Илья Верховский
+          email: ilyav@aport2000.ru
+          subject: Вот есть...другая...и тоже демка.
+          deleted: false
+          text: http://emediamusic.com/Downloads/BluesDemo.exe
+          replies:
+          - id: 235
+            parent_id: 225
+            date: 2002-01-21 18:55
+            poster: Artem Z
+            email: visnet@mail.ru
+            subject: где взять...
+            deleted: false
+            text: скачать её демку можно на http://www.guitar.ru/files/soft/jazzgutr.zip
+  - id: 231
+    parent_id: 221
+    date: 2002-01-19 05:14
+    poster: AvA  ()
+    email: vad2908@mail.ru
+    subject: о программе
+    deleted: false
+    text: Посмотрел демку, понравилось, если кто раздобудет полную версию, выставьте
+      для обозрения, AvA.
+  - id: 270
+    parent_id: 221
+    date: 2002-01-24 15:39
+    poster: Captain Beefheart
+    email: crazy_bear@fomenko.ru
+    subject: Вот!
+    deleted: false
+    text: У меня полная версия Blues Guitarist. От Yamaha! На пиратских сидюках "Самоучитель
+      Игры На Гитаре" etc.

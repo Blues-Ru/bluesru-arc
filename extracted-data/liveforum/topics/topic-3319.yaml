@@ -1,0 +1,24 @@
+topic_id: 3319
+slug: topic-3319
+title: Эмоциональные кадры. :)
+first_post: 2006-07-04 02:59
+last_post: 2006-07-04 23:07
+post_count: 2
+posts:
+- id: 27808
+  parent_id: null
+  date: 2006-07-04 02:59
+  poster: Владимир Русинов (BluesCat)
+  email: volodya@blues.ru
+  subject: Эмоциональные кадры. :)
+  deleted: false
+  text: <A HREF="http://www.bluescats.ru/gallery/names/Cowboy_Pete.html">http://www.bluescats.ru/gallery/names/Cowboy_Pete.html</A>
+  replies:
+  - id: 27818
+    parent_id: 27808
+    date: 2006-07-04 23:07
+    poster: Старый Майор
+    email: gypsy@mail.ru
+    subject: Молодой человек, нельзя так напрягаться на сцене...
+    deleted: false
+    text: '...фсякое может случиться...'

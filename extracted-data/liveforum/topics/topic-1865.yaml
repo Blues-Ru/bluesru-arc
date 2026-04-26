@@ -1,0 +1,40 @@
+topic_id: 1865
+slug: topic-1865
+title: Господ Ю. Каверкина и В. Фролова, а также всех нас
+first_post: 2004-02-13 13:54
+last_post: 2004-02-13 20:41
+post_count: 4
+posts:
+- id: 17239
+  parent_id: null
+  date: 2004-02-13 13:54
+  poster: Barmaley
+  email: '@'
+  subject: Господ Ю. Каверкина и В. Фролова, а также всех нас
+  deleted: false
+  text: поздравляем со 140-летием Московского зоопарка! :)
+  replies:
+  - id: 17240
+    parent_id: 17239
+    date: 2004-02-13 18:19
+    poster: Андрей Ордальонов (Андрей PRG)
+    email: peregnoy@mail.ru
+    subject: Wow!!!!
+    deleted: false
+    text: 'Три раза тихо, один раз громко и раскатисто: УРА! УРА! УРА-А-А-А!!!'
+    replies:
+    - id: 17241
+      parent_id: 17240
+      date: 2004-02-13 20:17
+      poster: Yuri Kaverkin (Gekko)
+      email: kaverkin@rol.ru
+      subject: Зверское спасибо!!!
+      deleted: false
+      replies:
+      - id: 17242
+        parent_id: 17241
+        date: 2004-02-13 20:41
+        poster: Обитатели зоопарка
+        email: gypsy@mail.ru
+        subject: Три раза МЯУ, два раз КВА и раскатистое ИГО-ГО!!! =))
+        deleted: false

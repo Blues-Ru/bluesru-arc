@@ -1,0 +1,63 @@
+topic_id: 1478
+slug: topic-1478
+title: У нас сегодня (вчера) праздник!
+first_post: 2003-09-18 00:55
+last_post: 2003-09-18 20:22
+post_count: 6
+posts:
+- id: 14694
+  parent_id: null
+  date: 2003-09-18 00:55
+  poster: Федор Романенко (fedor)
+  email: fedor@blues.ru
+  subject: У нас сегодня (вчера) праздник!
+  deleted: false
+  text: Родился величайший российский блюзовый гитарист и системный администратор
+    Дмитрий "Груша - Не Слабак" Красивов! Администрация сайта официально желает посетить
+    побольше хороших концертов, как в качестве слушателя, так и в качестве исполнителя,
+    а также, разумеется, здоровья, которое ох как необходимо практикующему блюзовому
+    музыканту! Поздравляем!
+  replies:
+  - id: 14697
+    parent_id: 14694
+    date: 2003-09-18 08:59
+    poster: Илья Верховский
+    email: ilyav@aport2000.ru
+    subject: селебрэйшн:)))
+    deleted: false
+    text: 'Дима, поздравляю...
+
+
+      пуза и блюза))))))'
+  - id: 14704
+    parent_id: 14694
+    date: 2003-09-18 17:09
+    poster: Дима Казанцев (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: люблю Грушу!
+    deleted: false
+    text: будь здоров, Димон!
+  - id: 14707
+    parent_id: 14694
+    date: 2003-09-18 17:35
+    poster: Юрий Кривошеин (YuK)
+    email: yurikriv@yahoo.com
+    subject: Присоединяюсь к поздравлениям!
+    deleted: false
+    text: Всего самого-самого!!!
+  - id: 14710
+    parent_id: 14694
+    date: 2003-09-18 18:37
+    poster: Михаил Бирюков (nECKAPb)
+    email: blackcat@blues.ru
+    subject: мои поздравления!
+    deleted: false
+    text: Счастья, здоровья, успехов, вдохновения!
+  - id: 14712
+    parent_id: 14694
+    date: 2003-09-18 20:22
+    poster: Андрей Ордальонов (Андрей PRG)
+    email: peregnoy@mail.ru
+    subject: Ну, дык
+    deleted: false
+    text: и я поздравляю! Всего-всего тебе, Димитрий! :)))

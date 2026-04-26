@@ -1,0 +1,33 @@
+topic_id: 1305
+slug: topic-1305
+title: GEORDIE LYRICS
+first_post: 2003-08-06 06:00
+last_post: 2003-08-07 01:13
+post_count: 3
+posts:
+- id: 13478
+  parent_id: null
+  date: 2003-08-06 06:00
+  poster: Nick Goodcorn
+  email: sunburn2001@mail.ru
+  subject: GEORDIE LYRICS
+  deleted: false
+  text: GEORDIE LYRICS------SOMEBODY GOT???I NEED ........
+  replies:
+  - id: 13497
+    parent_id: 13478
+    date: 2003-08-06 21:00
+    poster: Dima Krasivov (Dima)
+    email: dima@blues.ru
+    subject: Опять у тебя Caps Lock залип? ;)
+    deleted: false
+    text: http://www.memorabletv.com/musicworld/lyrics/geordie.htm
+    replies:
+    - id: 13499
+      parent_id: 13497
+      date: 2003-08-07 01:13
+      poster: Nick Goodcorn
+      email: sunburn2001@mail.ru
+      subject: spasibo,,,,,
+      deleted: false
+      text: '....vuidel uje----need more)))'

@@ -1,0 +1,44 @@
+topic_id: 264
+slug: topic-264
+title: Новый сайт-каталог Blues&Jazz Record Labels
+first_post: 2002-08-10 11:02
+last_post: 2002-08-12 13:55
+post_count: 3
+posts:
+- id: 6634
+  parent_id: null
+  date: 2002-08-10 11:02
+  poster: Alexandr_M
+  email: mah@cnet.rosugol.ru
+  subject: Новый сайт-каталог Blues&Jazz Record Labels
+  deleted: false
+  text: 'Приглашаю но свой новый сайт, посвященный малоизвестным в России Blues &
+    Jazz Record Labels: http://jbrec.narod.ru/'
+  replies:
+  - id: 6648
+    parent_id: 6634
+    date: 2002-08-12 11:26
+    poster: Sergei  Kiritchenko (VoID)
+    email: skvoid@yahoo.com
+    subject: ошибки в линках
+    deleted: false
+    text: 'Многие линки (все кроме первого) не работают из-за неправильных  кавычек
+      в ссылке.
+
+      Также позволю себе заметить такой нюанс в описании достоинств тех или иных дисков
+      на Вашем сайте - надпись типа "High Resolution 24bit Edition" является как правило
+      маркетинговым ходом для привлечения покупателей и не отражает реальность мастеринга,
+      а значит и не влияет на качество фонограммы. Реальные диски, отмастеренные по
+      таким технологиям, никак не могут стоить порядка 9-15 долл.
+
+      Конечно всё сказанное никак не принижает достоинства описанных Вами лэйблов
+      и дисков.'
+  - id: 6655
+    parent_id: 6634
+    date: 2002-08-12 13:55
+    poster: Андрей Цыганков
+    email: gypsy@mail.ru
+    subject: Я как собиратель земель ))
+    deleted: false
+    text: Александр, а переходи ко мне на домен www.bluesman.ru - дам хостинг и всё
+      такое прочее.

@@ -1,0 +1,43 @@
+topic_id: 275
+slug: topic-275
+title: Всем советую
+first_post: 2002-08-14 14:23
+last_post: 2002-08-15 03:21
+post_count: 3
+posts:
+- id: 6763
+  parent_id: null
+  date: 2002-08-14 14:23
+  poster: Дима Казанцев (Dr. Nick)
+  email: dr.nick@blues.ru
+  subject: Всем советую
+  deleted: false
+  text: 'вот эти три альбома. Купил в СОЮЗе совсем недорого (меньше десятки). Они
+    штатовские на Rounder.
+
+    http://www.allmusic.com/cg/amg.dll?p=amg&sql=A3hq4g4sttv2z
+
+    http://www.allmusic.com/cg/amg.dll?p=amg&sql=A9u5h8qctbtv4
+
+    http://www.allmusic.com/cg/amg.dll?p=amg&sql=Arkua6jo77190'
+  replies:
+  - id: 6765
+    parent_id: 6763
+    date: 2002-08-14 18:44
+    poster: Sergei  Kiritchenko (VoID)
+    email: skvoid@yahoo.com
+    subject: Ха... нашёл что советовать....
+    deleted: false
+    text: '...любому понятно, что Dupree - это вообще must have, а если еще и "меньше
+      десятки", то по два раза must и have :)))
+
+      В каком Союзе брал то? Адресок конкретнее?'
+    replies:
+    - id: 6766
+      parent_id: 6765
+      date: 2002-08-15 03:21
+      poster: Дима Казанцев (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: Да возле дома
+      deleted: false
+      text: Ленинский проспект, 11.

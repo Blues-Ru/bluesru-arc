@@ -1,0 +1,41 @@
+topic_id: 4030
+slug: topic-4030
+title: запишите в именинники,пожалуйста
+first_post: 2008-06-09 04:05
+last_post: 2008-06-09 11:54
+post_count: 3
+posts:
+- id: 35485
+  parent_id: null
+  date: 2008-06-09 04:05
+  poster: Jumpin' Jack Flash
+  email: gjhg
+  subject: запишите в именинники,пожалуйста
+  deleted: false
+  text: '9 июня Скип Джеймс(1902)
+
+    10 июня Блайнд Бой Фуллер (1907)'
+  replies:
+  - id: 35486
+    parent_id: 35485
+    date: 2008-06-09 07:26
+    poster: Andrei V. Evdokimov (evdokimov)
+    email: evdokimov@blues.ru
+    subject: За Скипа нижайшее спасибо
+    deleted: false
+    text: 'Доверился я allmusic.com, не перепроверил, поставил их дату 21 июня как
+      др Скипа Джеймса.
+
+
+
+      А вот с Фулсоном промашка. он не 10 июня а 10 июля. Сведения от авторитетнейших
+      Lawrence Cohn и Robert Santelli.'
+    replies:
+    - id: 35487
+      parent_id: 35486
+      date: 2008-06-09 11:54
+      poster: Jumpin' Jack Flash
+      email: ghkj
+      subject: всегда пожалуйста
+      deleted: false
+      text: а с Фулсоном- правда,промашка:10 июля))

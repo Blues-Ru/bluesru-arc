@@ -1,0 +1,69 @@
+topic_id: 3360
+slug: topic-3360
+title: Какая марка второго (не фендера=) ) комбика в "Доме у дороги"?
+first_post: 2006-08-07 00:18
+last_post: 2006-08-07 10:44
+post_count: 7
+posts:
+- id: 28206
+  parent_id: null
+  date: 2006-08-07 00:18
+  poster: Саша
+  email: kar_ai@bk.ru
+  subject: Какая марка второго (не фендера=) ) комбика в "Доме у дороги"?
+  deleted: false
+  text: Уж больно звук хороший, присматриваю такой же домой =)
+  replies:
+  - id: 28208
+    parent_id: 28206
+    date: 2006-08-07 00:32
+    poster: Немов Евгений
+    email: jnr_new@mail.ru
+    subject: Yerasov
+    deleted: false
+    text: Ерасов, можно по английски Yerasov. На мой взгляд звук плосковатый у него...
+  - id: 28211
+    parent_id: 28206
+    date: 2006-08-07 01:50
+    poster: Владимир Русинов (BluesCat)
+    email: volodya@blues.ru
+    subject: этот ерасов..
+    deleted: false
+    text: 'типа отечественная копия комбика fender pro junior
+
+      оригинал получше.'
+  - id: 28215
+    parent_id: 28206
+    date: 2006-08-07 02:32
+    poster: Владимир Русинов (BluesCat)
+    email: volodya@blues.ru
+    subject: если есть деньги присматривай себе БЖ :)
+    deleted: false
+    text: Блюз Джуниор.
+  - id: 28219
+    parent_id: 28206
+    date: 2006-08-07 08:27
+    poster: Ded Morozzz
+    email: morozzz_ded@mail.ru
+    subject: Если есть деньги присматривай себе 65 ДР :)
+    deleted: false
+    text: 65 Делюкс Реверб :) два года владения бж привели меня к таким мыслям, да
+      :)
+    replies:
+    - id: 28220
+      parent_id: 28219
+      date: 2006-08-07 10:40
+      poster: Саша
+      email: kar_ai@bk.ru
+      subject: Дык, это джуниор
+      deleted: false
+      text: стоит долларов 700 помоему, а ерасоф -- около 250
+      replies:
+      - id: 28221
+        parent_id: 28220
+        date: 2006-08-07 10:44
+        poster: Ded Morozzz
+        email: morozzz_ded@mail.ru
+        subject: Ну дык то Фендер...
+        deleted: false
+        text: '...а то, простите, ерасов, не сказать бы в рифму :)'

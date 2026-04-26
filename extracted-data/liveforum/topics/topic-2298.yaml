@@ -1,0 +1,26 @@
+topic_id: 2298
+slug: topic-2298
+title: Фотографии с эфеса.
+first_post: 2004-10-30 02:37
+last_post: 2004-10-30 07:41
+post_count: 2
+posts:
+- id: 19608
+  parent_id: null
+  date: 2004-10-30 02:37
+  poster: vr  (Stone Crazy)
+  email: volodya@blues.ru
+  subject: Фотографии с эфеса.
+  deleted: false
+  text: '<A HREF="http://www.bluescats.ru/files/20041029.efes/">http://www.bluescats.ru/files/20041029.efes/</A>
+
+
+    без подписей :) но думаю все понятно.'
+  replies:
+  - id: 19612
+    parent_id: 19608
+    date: 2004-10-30 07:41
+    poster: Ded Morozzz
+    email: morozzz_ded@mail.ru
+    subject: Круто :)
+    deleted: false

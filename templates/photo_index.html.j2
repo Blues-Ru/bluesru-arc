@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Фото — Blues.Ru</title>
+<link rel="shortcut icon" href="/images/bluesru.ico">
+{{ site_css_tag | safe }}
+<style>
+.photo-index { max-width: 1000px; margin: 0 auto; padding: 1rem 1rem 2rem; }
+.photo-index h1 { font-size: 1.4rem; margin-bottom: 0.3rem; }
+.year-nav { margin-bottom: 1.2rem; font-size: 0.9rem; line-height: 1.8; }
+.year-nav a { margin-right: 0.6rem; }
+.year-section { margin-bottom: 2.5rem; }
+.year-section h2 { font-size: 1.15rem; border-bottom: 1px solid #ccc;
+                    padding-bottom: 0.2rem; margin-bottom: 0.8rem; }
+.gallery-grid { display: flex; flex-wrap: wrap; gap: 14px; }
+.gallery-card { width: 200px; }
+.gallery-card a { text-decoration: none; color: inherit; display: block; }
+.gallery-card img { width: 200px; height: 130px; object-fit: cover; display: block;
+                    border: 1px solid #ddd; }
+.gallery-card img:hover { opacity: 0.85; }
+.gallery-card .card-title { font-size: 0.82rem; margin-top: 0.3rem;
+                             line-height: 1.3; color: #222; }
+.gallery-card .card-meta { font-size: 0.75rem; color: #777; margin-top: 0.15rem; }
+.gallery-card .card-date { font-size: 0.72rem; color: #999; }
+.no-thumb { width: 200px; height: 130px; background: #f0f0f0; display: flex;
+             align-items: center; justify-content: center; font-size: 0.8rem;
+             color: #999; border: 1px solid #ddd; }
+</style>
+</head>
+<body>
+<div class="photo-index">
+
+<table cellpadding="4" cellspacing="0" border="0" align="right">
+<tr><td align="left">
+  <a href="/"><img src="/images/bluesru100x100.gif" width="100" height="100" border="0" alt="Blues.Ru"></a>
+</td></tr>
+</table>
+
+<h1><a href="/">Blues.Ru</a> → Фото</h1>
+
+<div class="year-nav">
+{% for year in years %}<a href="#y{{ year }}">{{ year }}</a>{% endfor %}
+{% if misc_galleries %}<a href="#misc">Разное</a>{% endif %}
+</div>
+
+{% for year, galleries in by_year %}
+<div class="year-section" id="y{{ year }}">
+<h2>{{ year }}</h2>
+<div class="gallery-grid">
+{% for g in galleries %}
+<div class="gallery-card">
+  <a href="{{ g.canonical_url }}">
+    {% if g.thumb %}
+    <img src="{{ g.canonical_url }}{{ g.thumb }}" loading="lazy" alt="{{ g.title }}">
+    {% else %}
+    <div class="no-thumb">нет фото</div>
+    {% endif %}
+    <div class="card-title">{{ g.title }}</div>
+    <div class="card-meta">
+      {%- if g.photo_count %}{{ g.photo_count }} фото{% endif %}
+      {%- if g.date %} <span class="card-date">· {{ g.date }}</span>{% endif %}
+    </div>
+  </a>
+</div>
+{% endfor %}
+</div>
+</div>
+{% endfor %}
+
+{% if misc_galleries %}
+<div class="year-section" id="misc">
+<h2>Разное</h2>
+<div class="gallery-grid">
+{% for g in misc_galleries %}
+<div class="gallery-card">
+  <a href="{{ g.canonical_url }}">
+    {% if g.thumb %}
+    <img src="{{ g.canonical_url }}{{ g.thumb }}" loading="lazy" alt="{{ g.title }}">
+    {% else %}
+    <div class="no-thumb">нет фото</div>
+    {% endif %}
+    <div class="card-title">{{ g.title }}</div>
+    {% if g.photo_count %}<div class="card-meta">{{ g.photo_count }} фото</div>{% endif %}
+  </a>
+</div>
+{% endfor %}
+</div>
+</div>
+{% endif %}
+
+</div><!-- .photo-index -->
+{% include "footer_snippet.html.j2" ignore missing %}
+</body>
+</html>

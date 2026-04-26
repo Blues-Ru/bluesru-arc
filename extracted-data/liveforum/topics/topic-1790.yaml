@@ -1,0 +1,42 @@
+topic_id: 1790
+slug: topic-1790
+title: а в Б2 билеты заранее брать или при входе?
+first_post: 2004-01-20 17:06
+last_post: 2004-01-20 22:14
+post_count: 4
+posts:
+- id: 16896
+  parent_id: null
+  date: 2004-01-20 17:06
+  poster: Сергей Иванов (serge_ivanov)
+  email: serge_ivanov@hotmail.com
+  subject: а в Б2 билеты заранее брать или при входе?
+  deleted: false
+  text: это я про четверг про Примича
+  replies:
+  - id: 16897
+    parent_id: 16896
+    date: 2004-01-20 17:22
+    poster: (Grem)
+    email: sergei.sergeev@emersonprocess.ru
+    subject: И  скока они у них там...
+    deleted: false
+    replies:
+    - id: 16898
+      parent_id: 16897
+      date: 2004-01-20 17:25
+      poster: Сергей Иванов (serge_ivanov)
+      email: serge_ivanov@hotmail.com
+      subject: на сайте у них написано 300 р
+      deleted: false
+      text: а там - не знаю
+  - id: 16900
+    parent_id: 16896
+    date: 2004-01-20 22:14
+    poster: Федор Романенко (fedor)
+    email: fedor@blues.ru
+    subject: Билеты в Б-2
+    deleted: false
+    text: Заранее покупать не нужно, ибо Б-2 - практически резиновый клуб. Обычные
+      билеты стоят 400 руб. В Форте и Ритм-н-блюз кафе билеты будут чуть подороже,
+      и, вероятно, имеет смысл заказывать место заранее по телефону.

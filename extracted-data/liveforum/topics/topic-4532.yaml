@@ -1,0 +1,74 @@
+topic_id: 4532
+slug: topic-4532
+title: Best blues guitar solo ever blues guitarist in the world !!!
+first_post: 2011-02-25 03:19
+last_post: 2011-02-26 04:40
+post_count: 7
+posts:
+- id: 37343
+  parent_id: null
+  date: 2011-02-25 03:19
+  poster: Старый Майор
+  subject: Best blues guitar solo ever blues guitarist in the world !!!
+  deleted: false
+  text: 'Евдокимову в кунсткамеру.
+
+
+    http://www.youtube.com/watch?v=ebeDYiXWt8s
+
+
+    Очень радует первый коммент под клипом.'
+  replies:
+  - id: 37344
+    parent_id: 37343
+    date: 2011-02-25 03:31
+    poster: Старый Майор
+    subject: Продолжение.
+    deleted: false
+    text: 'http://www.youtube.com/watch?v=IukDNnDxJ_Q
+
+      http://www.youtube.com/watch?v=z5Od86ydfuM
+
+
+      Прекрасно!'
+    replies:
+    - id: 37345
+      parent_id: 37344
+      date: 2011-02-25 07:16
+      poster: Dmitri Kazantsev
+      subject: очень
+      deleted: false
+      text: это очень круто! даже быстрее Руслана играет нашего!
+      replies:
+      - id: 37346
+        parent_id: 37345
+        date: 2011-02-25 11:50
+        poster: Старый Майор
+        subject: Он из Питера
+        deleted: false
+        text: 'Если хочешь дам телефон, возьмёшь уроки!
+
+          А то мне тут поцаны говорили шо ты слоухэнд!'
+        replies:
+        - id: 37356
+          parent_id: 37346
+          date: 2011-02-25 18:13
+          poster: Dmitri Kazantsev
+          subject: пацаны врут
+          deleted: false
+          text: я вообще не соло-гитарист
+        - id: 37357
+          parent_id: 37346
+          date: 2011-02-26 04:40
+          poster: Dmitri Kazantsev
+          subject: с питера?
+          deleted: false
+          text: да, они там боги все в питере
+  - id: 37347
+    parent_id: 37343
+    date: 2011-02-25 12:12
+    poster: Andrei V. Evdokimov
+    subject: Суровый лик, суровый блюз
+    deleted: false
+    text: 'Дык, вроде неплохо... Но мне ближе вот этот коммент: "Wake me up&#65279;
+      when it''s over...."'

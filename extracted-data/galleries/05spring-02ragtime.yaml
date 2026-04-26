@@ -1,0 +1,93 @@
+path: 05Spring/02Ragtime
+type: custom
+title: RAGTIME - статья из газеты Кабардино-Балкарская правда
+date: 9.II.2005
+photo_count: 25
+captioned: 0
+index_files:
+- KBP.htm
+- Rag05.htm
+- Rag051.htm
+extra_text: null
+photos:
+- file: rag05_01.jpg
+  thumb: tn_rag05_01.jpg
+  page_html: rag05_01.htm
+- file: rag05_02.jpg
+  thumb: tn_rag05_02.jpg
+  page_html: rag05_02.htm
+- file: rag05_03.jpg
+  thumb: tn_rag05_03.jpg
+  page_html: rag05_03.htm
+- file: rag05_04.jpg
+  thumb: tn_rag05_04.jpg
+  page_html: rag05_04.htm
+- file: rag05_05.jpg
+  thumb: tn_rag05_05.jpg
+  page_html: rag05_05.htm
+- file: rag05_06.jpg
+  thumb: tn_rag05_06.jpg
+  page_html: rag05_06.htm
+- file: rag05_07.jpg
+  thumb: tn_rag05_07.jpg
+  page_html: rag05_07.htm
+- file: rag05_08.jpg
+  thumb: tn_rag05_08.jpg
+  page_html: rag05_08.htm
+- file: rag05_09.jpg
+  thumb: tn_rag05_09.jpg
+  page_html: rag05_09.htm
+- file: rag05_10.jpg
+  thumb: tn_rag05_10.jpg
+  page_html: rag05_10.htm
+- file: rag05_11.jpg
+  thumb: tn_rag05_11.jpg
+  page_html: rag05_11.htm
+- file: rag05_12.jpg
+  thumb: tn_rag05_12.jpg
+  page_html: rag05_12.htm
+- file: rag05_13.jpg
+  thumb: tn_rag05_13.jpg
+  page_html: rag05_13.htm
+- file: rag05_14.jpg
+  thumb: tn_rag05_14.jpg
+  page_html: rag05_14.htm
+- file: rag05_15.jpg
+  thumb: tn_rag05_15.jpg
+  page_html: rag05_15.htm
+- file: rag05_16.jpg
+  thumb: tn_rag05_16.jpg
+  page_html: rag05_16.htm
+- file: rag05_17.jpg
+  thumb: tn_rag05_17.jpg
+  page_html: rag05_17.htm
+- file: rag05_18.jpg
+  thumb: tn_rag05_18.jpg
+  page_html: rag05_18.htm
+- file: rag05_19.jpg
+  thumb: tn_rag05_19.jpg
+  page_html: rag05_19.htm
+- file: rag05_20.jpg
+  thumb: tn_rag05_20.jpg
+  page_html: rag05_20.htm
+- file: rag05_21.jpg
+  thumb: tn_rag05_21.jpg
+  page_html: rag05_21.htm
+- file: rag05_22.jpg
+  thumb: tn_rag05_22.jpg
+  page_html: rag05_22.htm
+- file: rag05_23.jpg
+  thumb: tn_rag05_23.jpg
+  page_html: rag05_23.htm
+- file: rag05_24.jpg
+  thumb: tn_rag05_24.jpg
+  page_html: rag05_24.htm
+- file: rag05_25.jpg
+  thumb: tn_rag05_25.jpg
+  page_html: rag05_25.htm
+canonical_date: 2005-03
+clean_title: Ragtime в Москве, весна 2005
+slug: ragtime-moscow-spring-2005
+description: Группа Ragtime (Нальчик) выступает в Москве, весна 2005.
+source_article: null
+exclude: true

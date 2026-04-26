@@ -1,0 +1,541 @@
+topic_id: 290
+slug: topic-290
+title: Призываю к порядку
+first_post: 2002-08-20 17:14
+last_post: 2002-08-25 19:28
+post_count: 42
+posts:
+- id: 6969
+  parent_id: null
+  date: 2002-08-20 17:14
+  poster: Федор Романенко (fedor)
+  email: fedor@blues.ru
+  subject: Призываю к порядку
+  deleted: false
+  text: 'Мне страшно неудобно, не хочется никого обижать, но я как модератор вынужден
+    попросить постараться писать поближе к основной теме. Особенно это, тысяча извинений,
+    относится к Андрею и Юре. Ведь возможно, что не всем интересно читать сообщения
+    о том, кто поедет сегодня в клуб на машине, а кто - без, и т.д. ;)
+
+    Надеюсь на взаимопонимание в этом вопросе...'
+  replies:
+  - id: 6973
+    parent_id: 6969
+    date: 2002-08-20 17:23
+    poster: tigra
+    email: blues@tut.by
+    subject: протокол - штука святая
+    deleted: false
+    text: 'Дорогая Грета , завязываем...
+
+      кстати о музыке : Lonny  Johnsoh - кто - нибудь из окружающих его любит ?'
+    replies:
+    - id: 6974
+      parent_id: 6973
+      date: 2002-08-20 17:36
+      poster: Александр Мальчевский (Tonny)
+      email: heavyfuel@mtu-net.ru
+      subject: Ja lublu
+      deleted: false
+      text: Kak raz v Prage poslushal i polubil :)
+      replies:
+      - id: 6979
+        parent_id: 6974
+        date: 2002-08-20 18:03
+        poster: tigra
+        email: bluesman&tut.by
+        subject: What about beer & blues?
+        deleted: false
+        replies:
+        - id: 6983
+          parent_id: 6979
+          date: 2002-08-20 18:08
+          poster: Александр Мальчевский (Tonny)
+          email: heavyfuel@mtu-net.ru
+          subject: V kakom smisle?
+          deleted: false
+          replies:
+          - id: 6988
+            parent_id: 6983
+            date: 2002-08-20 18:22
+            poster: tigra
+            email: bluesman@tut.by
+            subject: чешское пиво хорошо идетпод блюз?
+            deleted: false
+            replies:
+            - id: 7035
+              parent_id: 6988
+              date: 2002-08-21 18:13
+              poster: Александр Мальчевский (Tonny)
+              email: heavyfuel@mtu-net.ru
+              subject: Neploho...
+              deleted: false
+              text: 'Hot'' blues''a  zdes'' i malo, zato piva mnogo....
+
+                No ja teper ego ne p''iu, posledoval sovetu DK, teper s utra orange
+                juice, a vecherom blues'
+              replies:
+              - id: 7045
+                parent_id: 7035
+                date: 2002-08-21 22:13
+                poster: Дима Казанцев (Dr. Nick)
+                email: dr.nick@blues.ru
+                subject: Juice Blues
+                deleted: false
+                text: 'Пора тебе уже и песню писать с таким названием. Тема такая:
+                  старик Др. Ник запретил мне пить, и вот теперь только сок, а хочется
+                  пивка и водки...'
+                replies:
+                - id: 7056
+                  parent_id: 7045
+                  date: 2002-08-22 11:06
+                  poster: tigra
+                  email: bluesman@tut.by
+                  subject: а заглавной сделать praha underwater blues
+                  deleted: false
+                - id: 7065
+                  parent_id: 7045
+                  date: 2002-08-22 16:06
+                  poster: Александр Мальчевский (Tonny)
+                  email: heavyfuel@mtu-net.ru
+                  subject: Vot priedu...
+                  deleted: false
+                  text: 'i napishu :)
+
+                    No vodki ne hochetsja, i piva ne hochetsja...
+
+
+                    Ja tak v Rossiu domoi hochu, ja tak davno ne videl (mamu, papu,
+                    i vseh vseh vseh) :):)'
+                - id: 7070
+                  parent_id: 7045
+                  date: 2002-08-22 16:23
+                  poster: Александр Мальчевский (Tonny)
+                  email: heavyfuel@mtu-net.ru
+                  subject: Every day, every day I have my  juice...
+                  deleted: false
+                  text: A dalshe po textu... :)
+                  replies:
+                  - id: 7099
+                    parent_id: 7070
+                    date: 2002-08-23 13:37
+                    poster: Алексей Аграновский (Док)
+                    email: aaa@genebee.msu.su
+                    subject: I try so hard to squeeze my lemon
+                    deleted: false
+                    text: But daddy-o there ain't no use
+                    replies:
+                    - id: 7108
+                      parent_id: 7099
+                      date: 2002-08-23 14:22
+                      poster: Юрий Каверкин
+                      email: kaverkin@rol.ru
+                      subject: Как мне говорили в детстве - от этого волосы на ладонях
+                        растут!!!
+                      deleted: false
+                      replies:
+                      - id: 7113
+                        parent_id: 7108
+                        date: 2002-08-23 15:19
+                        poster: Андрей Цыганков
+                        email: gypsy@mail.ru
+                        subject: Юра, ну ты точно маньяк! Опять на ЭТУ тему свернул!!!
+                          )))
+                        deleted: false
+                        replies:
+                        - id: 7117
+                          parent_id: 7113
+                          date: 2002-08-23 17:29
+                          poster: Юрий Каверкин
+                          email: kaverkin@rol.ru
+                          subject: Моя реплика, Андрей относилась к постам...
+                          deleted: false
+                          text: с упоминанием слов "juice" and "lemon", что на сленге
+                            имеет весьма недвусмысленное значение. Спроси у Аграновского.....
+                          replies:
+                          - id: 7118
+                            parent_id: 7117
+                            date: 2002-08-23 17:50
+                            poster: Андрей Цыганков
+                            email: gypsy@mail.ru
+                            subject: Юра, ну чего ты такой серьёзный?
+                            deleted: false
+                            text: Я ж гоню, впрочем, как всегда )))) Всё я знаю )))
+                          - id: 7145
+                            parent_id: 7117
+                            date: 2002-08-25 19:28
+                            poster: Александр Мальчевский (Tonny)
+                            email: heavyfuel@mtu-net.ru
+                            subject: Во дела!!!!!
+                            deleted: false
+                            text: "А я не знал... \nКакой кошмар!!!!!"
+                    - id: 7115
+                      parent_id: 7099
+                      date: 2002-08-23 16:09
+                      poster: Дима Казанцев (Dr. Nick)
+                      email: dr.nick@blues.ru
+                      subject: Hoist your hood, mama
+                      deleted: false
+                      text: I'm bound to check your oil...
+                      replies:
+                      - id: 7116
+                        parent_id: 7115
+                        date: 2002-08-23 16:18
+                        poster: Дима Казанцев (Dr. Nick)
+                        email: dr.nick@blues.ru
+                        subject: Crew Slut
+                        deleted: false
+                        text: 'Hey Hey Hey all you girls in these
+
+                          Industrial towns
+
+                          I know you''re prob''ly gettin'' tired
+
+                          Of all the local clowns
+
+                          They never give you no respect
+
+                          They never treat you nice
+
+                          So perhaps you oughta try
+
+                          A little friendly advice
+
+                          And be a CREW SLUT
+
+
+                          Hey, you''ll love it
+
+                          Be a CREW SLUT
+
+                          It''s a way of life
+
+                          Be a CREW SLUT
+
+                          See the world
+
+                          Don''t make a fuss, just get on the bus
+
+                          CREW SLUT
+
+                          Add water, makes its own sauce
+
+                          Be a CREW SLUT
+
+                          So you don''t forget, call before midnite tonite
+
+                          The boys in the crew
+
+                          Are just waiting for you
+
+
+                          You never get to move around
+
+                          You never go nowhere
+
+                          I know yer prob''ly gettin'' tired
+
+                          Of all the guys out there
+
+                          You always wondered what it''s like
+
+                          To go from place to place
+
+                          So, darlin'', take a little ride
+
+                          On the mixer''s face
+
+                          Be a CREW SLUT
+
+                          Just follow the magic footprints
+
+                          Be a CREW SLUT
+
+                          Hey, you''ll love it!
+
+                          Be a CREW SLUT
+
+                          It''s a way of life
+
+                          I ain''t gonna squash it
+
+                          And you don''t need to wash it!
+
+                          CREW SLUT
+
+                          Hey, I''ll buy you a pizza
+
+                          CREW SLUT
+
+                          Of course I''ll introduce you to Warren
+
+                          The boys in the crew
+
+                          Are only waiting for you
+
+
+                          Well you been to Alabama, girl,
+
+                          ''N Georgia too
+
+                          ''N all the boys in the crew
+
+                          Is bein'' good to you
+
+                          I know you''re sayin'' to yourself
+
+                          "This is the way to go"
+
+                          ''Cause when you need a little extra
+
+                          They will give you some mo''
+
+                          ''Cause you''re the CREW SLUT'
+    - id: 6975
+      parent_id: 6973
+      date: 2002-08-20 17:40
+      poster: Sergei  Kiritchenko (VoID)
+      email: skvoid@yahoo.com
+      subject: Lonnie Johnson
+      deleted: false
+      text: "Совершенно блюзовый дядька! Очень мне нравится. \nРекомендую послушать\
+        \ его альбомы \"Another Night to Cry\" и \"Blues & Ballads\". Остального,\
+        \ увы, я сам не слышал, но думаю оно тоже стоит внимания."
+      replies:
+      - id: 6978
+        parent_id: 6975
+        date: 2002-08-20 18:02
+        poster: tigra
+        email: bluesman@tut.by
+        subject: это была моя путевка в блюза
+        deleted: false
+        text: 'как услышал -ошалел -как все просто и красиво  Tommorow Night
+
+          балдею как он свингуeт легко и изящно Swinging with Lonnie
+
+          жаль, что помер давно'
+        replies:
+        - id: 7042
+          parent_id: 6978
+          date: 2002-08-21 19:57
+          poster: Александр Мальчевский (Tonny)
+          email: heavyfuel@mtu-net.ru
+          subject: A mne u nego ndravitsja....
+          deleted: false
+          text: 'Nothing but trouble - prosto i krasivo, no kak tsepljaet...
+
+            Medlennaja, zadumchivaja, prostaja Human song...
+
+
+            Ja voobsche lublu medlennie i krasivie blues''i... i instrumental...Oh
+            "Rivera paradize" - mon amor'
+    - id: 6984
+      parent_id: 6973
+      date: 2002-08-20 18:11
+      poster: Михаил Бирюков (nECKAPb)
+      email: blackcat@blues.ru
+      subject: как можно...
+      deleted: false
+      text: '... не любить Lonnie Johnson?'
+  - id: 6986
+    parent_id: 6969
+    date: 2002-08-20 18:16
+    poster: Алексей Аграновский (Док)
+    email: aaa@genebee.msu.su
+    subject: 'Опаньки: filter your market'
+    deleted: false
+    text: 'А мне вот кажется, что форум неважно себя почувствует, как только каждый
+      пишущий задумается: "А о Блюзе ли я пишу". Это вопрос вкуса пишущего.'
+    replies:
+    - id: 6990
+      parent_id: 6986
+      date: 2002-08-20 18:34
+      poster: tigra
+      email: bluesman@tut.by
+      subject: Продам недорого пару дуэльных пистолетов:)))
+      deleted: false
+      text: Федору и Алексею - с корпоративной скидкой.....
+      replies:
+      - id: 6991
+        parent_id: 6990
+        date: 2002-08-20 18:56
+        poster: Алексей Аграновский (Док)
+        email: aaa@genebee.msu.su
+        subject: А вот это уже из раздела "Объявления"
+        deleted: false
+  - id: 6994
+    parent_id: 6969
+    date: 2002-08-20 21:13
+    poster: Андрей Цыганков
+    email: gypsy@mail.ru
+    subject: Фёдор, ну скоко раз я тебе говорил, сделай несколько секций Форума!
+    deleted: false
+    text: 'Для меня с Юрой - отдельную, нам всегда есть о чём поговорить!
+
+      А то допечёшь меня, я на bluesmane открою собственный форум!'
+    replies:
+    - id: 6996
+      parent_id: 6994
+      date: 2002-08-20 21:19
+      poster: Федор Романенко (fedor)
+      email: fedor@blues.ru
+      subject: Давай сделаю ;)
+      deleted: false
+      text: Если ты серьезно? ;))
+      replies:
+      - id: 7008
+        parent_id: 6996
+        date: 2002-08-21 12:25
+        poster: Андрей Цыганков
+        email: gypsy@mail.ru
+        subject: Я же ещё раньше говорил - надо два раздела, для блюз-пуритан и для
+          любителей пообщаться...
+        deleted: false
+        text: '..и вовсе я не про то, что нам с Юрой негде уединитьться для душевных
+          переливов!
+
+
+          Анекдот в тему.
+
+
+          Повестка дня международного конгресса женщин:
+
+          1) Все мужики - сволочи.
+
+          2) Нечего надеть.
+
+          3) Разное.'
+    - id: 7001
+      parent_id: 6994
+      date: 2002-08-21 09:08
+      poster: Сергей Иванов (serge_ivanov)
+      email: serge_ivanov@hotmail.com
+      subject: Андрей, кстати, а как дела с lyrics?
+      deleted: false
+      text: 'был разговор про август.
+
+        небось никто даже и не начинал :-)'
+      replies:
+      - id: 7007
+        parent_id: 7001
+        date: 2002-08-21 12:16
+        poster: Андрей Цыганков
+        email: gypsy@mail.ru
+        subject: Я разочаровался в этой жизни...
+        deleted: false
+        text: "Сергей, идея развлекать сетевую общественность за свой счёт показалась\
+          \ мне не столь привлекательной при ближайшем рассмотрении.\nПримерные затраты\
+          \ на поднятие этого проекта по моей оценке - ок.1500 USD, возврат инвестиций\
+          \ = 0. Неинтересно. \nSic transit gloria mundi..."
+        replies:
+        - id: 7010
+          parent_id: 7007
+          date: 2002-08-21 12:40
+          poster: vr  (Stone Crazy)
+          email: volodya@blues.ru
+          subject: ой
+          deleted: false
+          text: а чего так много? чего тебе не хватает? хостинг нормальный могу дать
+            бесплатно :)
+          replies:
+          - id: 7015
+            parent_id: 7010
+            date: 2002-08-21 14:14
+            poster: Андрей Цыганков
+            email: gypsy@mail.ru
+            subject: VR, генацвали, мне денег не хватает! А хостинг у меня у самого
+              есть ))
+            deleted: false
+          - id: 7024
+            parent_id: 7010
+            date: 2002-08-21 16:39
+            poster: Сергей Иванов (serge_ivanov)
+            email: serge_ivanov@hotmail.com
+            subject: о хостинге
+            deleted: false
+            text: 'а как у тебя с доступом к БД?
+
+              я-то эту идею с текстами не забросил окончательно.
+
+              просто сейчас есть другое интересное занятие месяца на два.'
+            replies:
+            - id: 7025
+              parent_id: 7024
+              date: 2002-08-21 16:45
+              poster: vr  (Stone Crazy)
+              email: volodya@blues.ru
+              subject: у меня есть все
+              deleted: false
+              replies:
+              - id: 7028
+                parent_id: 7025
+                date: 2002-08-21 17:05
+                poster: Сергей Иванов (serge_ivanov)
+                email: serge_ivanov@hotmail.com
+                subject: а у меня нет :-)
+                deleted: false
+                text: только MySQL
+                replies:
+                - id: 7031
+                  parent_id: 7028
+                  date: 2002-08-21 17:27
+                  poster: Андрей Цыганков
+                  email: gypsy@mail.ru
+                  subject: Мона подумать, что для такого дела Oracle нужен?
+                  deleted: false
+                  replies:
+                  - id: 7039
+                    parent_id: 7031
+                    date: 2002-08-21 18:59
+                    poster: Сергей Иванов (serge_ivanov)
+                    email: serge_ivanov@hotmail.com
+                    subject: я не про то
+                    deleted: false
+                    text: что мне нужно, а про то что есть на моей домашней машине
+                      :-)
+        - id: 7012
+          parent_id: 7007
+          date: 2002-08-21 13:39
+          poster: Сергей Иванов (serge_ivanov)
+          email: serge_ivanov@hotmail.com
+          subject: согласен, это неудачный бизнес-план :-)
+          deleted: false
+          text: вообще, деньги можно получать не налом а свободным временем заинтересованных
+            людей, ну да ладно...
+  - id: 7000
+    parent_id: 6969
+    date: 2002-08-21 01:18
+    poster: Юрий Каверкин
+    email: kaverkin@rol.ru
+    subject: Замочили .....:)
+    deleted: false
+    text: Честно говоря я привел эпизод с машиной как зарисовку и основная линия предусматривала
+      дуэль между Professor Longhair и какими-то барабанщиками (Убили негра,замочили
+      и т.д.)как забавный музыкальный эпизод. Ну,а дальше я просто отвечал на вопросы
+      и реплики ,за что приношу свои искренние извинения......
+    replies:
+    - id: 7014
+      parent_id: 7000
+      date: 2002-08-21 14:12
+      poster: Алексей Аграновский (Док)
+      email: aaa@genebee.msu.su
+      subject: Юра, жалко, что тебе пришлось объяснять свой анекдот
+      deleted: false
+      text: А он был так хорош!
+      replies:
+      - id: 7029
+        parent_id: 7014
+        date: 2002-08-21 17:08
+        poster: Юрий Каверкин
+        email: kaverkin@rol.ru
+        subject: Ладно, остальные анекдоты (блюзовые) ....
+        deleted: false
+        text: '...поведаю в другом месте и в другое время:)
+
+          Хотя ,один (возможно старый)могу рассказать и сейчас.
+
+          Что случится ,если блюз исполнить наоборот?
+
+          Ответ: Твоя сбитая машиной (Прости,Господи!) шелудивая собака оживет, к
+          тебе вернется твоя стервозная жена, тебя выпустят из теплой тюрьмы на мороз,
+          полицейский станет твоим лучшим другом и т.д и т.п......'

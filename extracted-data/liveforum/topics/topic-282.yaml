@@ -1,0 +1,60 @@
+topic_id: 282
+slug: topic-282
+title: Позвольте ...совет...
+first_post: 2002-08-18 00:30
+last_post: 2002-08-18 23:03
+post_count: 6
+posts:
+- id: 6845
+  parent_id: null
+  date: 2002-08-18 00:30
+  poster: Вадим  (AVA)
+  email: vad2908@mail.ru
+  subject: Позвольте ...совет...
+  deleted: false
+  text: '...для тех, кому надоела "морда" сайта - введите и папку избранное:
+
+    www.blues.ru/forum/ ... и тогда всё будет OK! :)))))'
+  replies:
+  - id: 6846
+    parent_id: 6845
+    date: 2002-08-18 04:46
+    poster: Дима Казанцев (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: Так и сделано ;)
+    deleted: false
+    text: Давно уже ;)
+    replies:
+    - id: 6854
+      parent_id: 6846
+      date: 2002-08-18 22:16
+      poster: Михаил Бирюков (nECKAPb)
+      email: blackcat@blues.ru
+      subject: видать,...
+      deleted: false
+      text: '... не в шутку наболело, судя по обилию однотипных ответов ;)'
+      replies:
+      - id: 6857
+        parent_id: 6854
+        date: 2002-08-18 23:03
+        poster: Дима Казанцев (Dr. Nick)
+        email: dr.nick@blues.ru
+        subject: Да нет
+        deleted: false
+        text: глючит что-то тут на форуме, вот и троится ;)
+  - id: 6847
+    parent_id: 6845
+    date: 2002-08-18 04:46
+    poster: Дима Казанцев (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: Так и сделано ;)
+    deleted: false
+    text: Давно уже ;)
+  - id: 6848
+    parent_id: 6845
+    date: 2002-08-18 04:46
+    poster: Дима Казанцев (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: Так и сделано ;)
+    deleted: false
+    text: Давно уже ;)

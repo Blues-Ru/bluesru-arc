@@ -1,0 +1,54 @@
+topic_id: 5063
+slug: topic-5063
+title: Ирландцы The Strypes
+first_post: 2013-04-30 01:20
+last_post: 2013-05-01 23:52
+post_count: 6
+posts:
+- id: 38933
+  parent_id: null
+  date: 2013-04-30 01:20
+  poster: Andrei V. Evdokimov
+  subject: Ирландцы The Strypes
+  deleted: false
+  text: <iframe width="560" height="315" src="http://www.youtube.com/embed/np8qbeygLZQ"
+    frameborder="0" allowfullscreen></iframe>
+  replies:
+  - id: 38934
+    parent_id: 38933
+    date: 2013-04-30 01:21
+    poster: Andrei V. Evdokimov
+    subject: Британцы - за полвека до того
+    deleted: false
+    text: <iframe width="420" height="315" src="http://www.youtube.com/embed/byaEn95gNIU"
+      frameborder="0" allowfullscreen></iframe>
+  - id: 38935
+    parent_id: 38933
+    date: 2013-04-30 01:27
+    poster: Andrei V. Evdokimov
+    subject: и первоисточник
+    deleted: false
+    text: <iframe width="420" height="315" src="http://www.youtube.com/embed/5JLtWvUbZvM"
+      frameborder="0" allowfullscreen></iframe>
+  - id: 38938
+    parent_id: 38933
+    date: 2013-05-01 14:34
+    poster: Старый Майор
+    subject: Вначале была румба...
+    deleted: false
+    text: '...а на выходе получилась мумба-юмба.'
+    replies:
+    - id: 38940
+      parent_id: 38938
+      date: 2013-05-01 17:17
+      poster: Andrei V. Evdokimov
+      subject: да пусть молодежь порезвиться )
+      deleted: false
+      replies:
+      - id: 38942
+        parent_id: 38940
+        date: 2013-05-01 23:52
+        poster: Старый Майор
+        subject: А я не против!
+        deleted: false
+        text: Главное что? Главное, шоб с топором за людями не гонялися!

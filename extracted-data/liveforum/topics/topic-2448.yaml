@@ -1,0 +1,28 @@
+topic_id: 2448
+slug: topic-2448
+title: Петрович и Bluesmakers
+first_post: 2005-02-25 11:18
+last_post: 2005-02-26 18:54
+post_count: 2
+posts:
+- id: 20580
+  parent_id: null
+  date: 2005-02-25 11:18
+  poster: Игорь Николаев (igoriando)
+  email: in@doka-sun.ru
+  subject: Петрович и Bluesmakers
+  deleted: false
+  text: 'Люди! Михаил Петрович как-то говорил, что 26 (или 25? запамятовал) февраля
+    он будет с Bluesmakers играть в "Бедных Людях"
+
+    Нигде никакой информации об этом нет, клуб этот похоже вообще закрылся... кто-нибудь
+    слышал об этом?'
+  replies:
+  - id: 20591
+    parent_id: 20580
+    date: 2005-02-26 18:54
+    poster: Дима Казанцев (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: в Последних Деньгах
+    deleted: false
+    text: будет

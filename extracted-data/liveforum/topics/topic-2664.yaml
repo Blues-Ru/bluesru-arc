@@ -1,0 +1,155 @@
+topic_id: 2664
+slug: topic-2664
+title: Вот так подурачились - видео 7,5 мегов :-))))
+first_post: 2005-07-25 14:10
+last_post: 2005-08-03 18:26
+post_count: 16
+posts:
+- id: 22073
+  parent_id: null
+  date: 2005-07-25 14:10
+  poster: Петр Кунарев (Eastwood2002)
+  email: cousins@yandex.ru
+  subject: Вот так подурачились - видео 7,5 мегов :-))))
+  deleted: false
+  text: http://trinux.atanor.ru/pit/3.avi
+  replies:
+  - id: 22079
+    parent_id: 22073
+    date: 2005-07-26 11:36
+    poster: Руслан Чифуров
+    email: chifuroff@inbox.ru
+    subject: :-)))))
+    deleted: false
+  - id: 22084
+    parent_id: 22073
+    date: 2005-07-26 15:15
+    poster: Старый Майор
+    email: gypsy@mail.ru
+    subject: «Не все новости достойны опубликования», говорили древние =))
+    deleted: false
+  - id: 22086
+    parent_id: 22073
+    date: 2005-07-26 17:33
+    poster: Диброва (Dibrova)
+    email: dibrova_blues@rambler.ru
+    subject: ???????
+    deleted: false
+    replies:
+    - id: 22093
+      parent_id: 22086
+      date: 2005-07-27 10:41
+      poster: Cowboy Pete
+      email: cousins@yandex.ru
+      subject: В чем вопрос-то? :-))
+      deleted: false
+      text: сабж))
+      replies:
+      - id: 22095
+        parent_id: 22093
+        date: 2005-07-27 13:34
+        poster: Старый Майор
+        email: gypsy@mail.ru
+        subject: Ну ежели так... Объявляется конкурс блюзовых частушек! =))
+        deleted: false
+        text: "Вот вам для затравки:\n\n(исполняется от лица девушки, подруги блюзмена):\n\
+          \nЯ ходила с гитаристом\nДжемовать в соседний лес...\nУ него случилось горе\
+          \ - \nСлайд на палец не налез!\n\nDisclaimer. Аффтар не несёт ответственности\
+          \ за вольные либо невольные ассоциации, аллюзии и коннотации, навеянные\
+          \ опубликованным выше текстом."
+        replies:
+        - id: 22096
+          parent_id: 22095
+          date: 2005-07-27 14:03
+          poster: Cowboy Pete
+          email: cousins@yandex.ru
+          subject: ЗачОт :-)))
+          deleted: false
+        - id: 22097
+          parent_id: 22095
+          date: 2005-07-27 14:11
+          poster: Руслан Чифуров ()
+          email: chifuroff@inbox.ru
+          subject: Силён! :-)))))
+          deleted: false
+        - id: 22106
+          parent_id: 22095
+          date: 2005-07-28 00:30
+          poster: Диброва (Dibrova)
+          email: dibrova_blues@rambler.ru
+          subject: Хорошая частушка!!! Прямо в тему!!
+          deleted: false
+          replies:
+          - id: 22110
+            parent_id: 22106
+            date: 2005-07-28 13:45
+            poster: Lars
+            email: Lars@List.ru
+            subject: думаете? а не пошловато?
+            deleted: false
+        - id: 22111
+          parent_id: 22095
+          date: 2005-07-28 15:50
+          poster: Старый Майор
+          email: gypsy@mail.ru
+          subject: Непошлая частушка. Очень грустная.
+          deleted: false
+          text: "Я прощалась с гитаристом\nВ рощице берёзовой...\nПодарил он мне на\
+            \ память\nМедиатор розовый... \n\nПроигрыш:\nАх.. Ой... Оу, свит лил дарлинг,\
+            \ би со мной!"
+          replies:
+          - id: 22116
+            parent_id: 22111
+            date: 2005-07-29 00:05
+            poster: Диброва (Dibrova)
+            email: dibrova_blues@rambler.ru
+            subject: Старый Майор, ну вы прям блюзовый поэт!!!!!
+            deleted: false
+        - id: 22136
+          parent_id: 22095
+          date: 2005-07-30 12:35
+          poster: Руслан Чифуров
+          email: chifuroff@inbox.ru
+          subject: Наблюдение
+          deleted: false
+          text: Частушки по своей рифме отлично ложаться на песню Black Sabbath- Paranoid
+            :-)))))
+          replies:
+          - id: 22193
+            parent_id: 22136
+            date: 2005-08-03 02:52
+            poster: Старый Майор
+            email: gypsy@mail.ru
+            subject: На Deep Purple тоже временами неплохо...
+            deleted: false
+            text: Руслан, это блюзовый форум, чё мы оффтопиками занимаемся, а? ))
+            replies:
+            - id: 22195
+              parent_id: 22193
+              date: 2005-08-03 11:16
+              poster: Руслан Чифуров
+              email: chifuroff@inbox.ru
+              subject: Форумы без оффтопиков...
+              deleted: false
+              text: '...- это всё равно что гитара без струн :-)))))'
+              replies:
+              - id: 22216
+                parent_id: 22195
+                date: 2005-08-03 18:26
+                poster: Старый Майор
+                email: gypsy@mail.ru
+                subject: Ну вот те частушка до кучи..
+                deleted: false
+                text: 'Напоминаю, что частушка исполняется от имени подруги блюзмена.
+
+                  Сам блюзмен, ясен пень, ничё кроме блюза не поёт, а в остальное
+                  время пьёт пиву и безмолвствует.
+
+
+                  Показал мне мой милёнок
+
+                  Ноты фа и си бемоль...
+
+                  У меня теперь на пальце
+
+                  Афигенная мозоль!'

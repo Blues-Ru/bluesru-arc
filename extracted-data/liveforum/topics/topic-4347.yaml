@@ -1,0 +1,43 @@
+topic_id: 4347
+slug: topic-4347
+title: генетическое объяснение...
+first_post: 2010-01-08 10:14
+last_post: 2010-01-14 09:43
+post_count: 4
+posts:
+- id: 36782
+  parent_id: null
+  date: 2010-01-08 10:14
+  poster: Andrei V. Evdokimov
+  subject: генетическое объяснение...
+  deleted: false
+  text: 'Это еще объясняется и генетически, ведь мои способности диктуются не только
+    получением образования, а еще и непосредственной генетикой, благодаря которой
+    я даже стала петь и блюз.
+
+
+    Это на станице http://www.kino-teatr.ru/teatr/person/134/ говорит "Российская
+    Королева Блюза Виктория Пьер-Мари"... "Кроме пения, она занимается преподавательской
+    деятельностью, участвует в различных кулинарных ток-шоу."'
+  replies:
+  - id: 36783
+    parent_id: 36782
+    date: 2010-01-09 04:47
+    poster: Dmitri Kazantsev
+    subject: Вика
+    deleted: false
+    text: Как её понимать, Саид?
+  - id: 36784
+    parent_id: 36782
+    date: 2010-01-09 16:35
+    poster: Эльдар
+    subject: Blues.Ru через 10 лет...
+    deleted: false
+    text: Будет это <a href="http://translate.google.com/translate?hl=en&sl=auto&tl=zh-TW&u=http%3A%2F%2Fblues.ru%2F"><так</a>!
+  - id: 36785
+    parent_id: 36782
+    date: 2010-01-14 09:43
+    poster: Алексей Старшинов
+    subject: генетическое объяснение
+    deleted: false
+    text: Да,невесело....:(

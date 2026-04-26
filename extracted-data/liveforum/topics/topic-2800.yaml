@@ -1,0 +1,150 @@
+topic_id: 2800
+slug: topic-2800
+title: Секретное видео
+first_post: 2005-09-19 23:59
+last_post: 2005-09-22 17:24
+post_count: 15
+posts:
+- id: 23299
+  parent_id: null
+  date: 2005-09-19 23:59
+  poster: Владимир Русинов (BluesCat)
+  email: volodya@blues.ru
+  subject: Секретное видео
+  deleted: false
+  text: 'Нам удалось найти секретное видео, где самого Андрея Цыганкова перебивают
+    ШУТОЧКАМИ!
+
+
+    <A HREF="http://www.bluescats.ru/files/200508roadhouse/jokes.wmv">http://www.bluescats.ru/files/200508roadhouse/jokes.wmv</A>
+
+
+    (700Kb)'
+  replies:
+  - id: 23300
+    parent_id: 23299
+    date: 2005-09-20 00:36
+    poster: Владимир Русинов (BluesCat)
+    email: volodya@blues.ru
+    subject: и вот
+    deleted: false
+    text: '<A HREF="http://www.bluescats.ru/files/200508roadhouse/vrplay.wmv">http://www.bluescats.ru/files/200508roadhouse/vrplay.wmv</A>
+
+
+      А это уже если комуто особо интересно :) из названия понятно...  5 метров...'
+    replies:
+    - id: 23303
+      parent_id: 23300
+      date: 2005-09-20 01:09
+      poster: Дмитрий Казанцев (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: круто!
+      deleted: false
+    - id: 23304
+      parent_id: 23300
+      date: 2005-09-20 01:14
+      poster: Старый Майор
+      email: gypsy@mail.ru
+      subject: Хорошо, но мало!
+      deleted: false
+      replies:
+      - id: 23306
+        parent_id: 23304
+        date: 2005-09-20 01:17
+        poster: Владимир Русинов (BluesCat)
+        email: volodya@blues.ru
+        subject: но если много перебивать..
+        deleted: false
+        text: то можно всех перебить... сам понимаешь... :)
+        replies:
+        - id: 23311
+          parent_id: 23306
+          date: 2005-09-20 01:29
+          poster: Старый Майор
+          email: gypsy@mail.ru
+          subject: Дык.. интересно ж на себя со стороны посмотреть...
+          deleted: false
+          text: Поелику до сего момента я себя наблюдал токмо на фотографии в личном
+            деле и в зеркало. Ну никак не доходила передовая, понимаешь, техника,
+            до расположения моего гарнизону! А тут выбрался в столицы, понимаешь,
+            и засняли меня засланцы заморские на шпиёнску камеру, вмонтированную в
+            телефон, вона оно как! Енто вам не арпеджиё семиструнное! Енто высока,
+            ядрён корень, технология!
+    - id: 23314
+      parent_id: 23300
+      date: 2005-09-20 01:35
+      poster: Руслан Чифуров ()
+      email: chifuroff@inbox.ru
+      subject: Жаль...
+      deleted: false
+      text: что теперь в Доме У Дороги такие мероприятия будут реже...
+      replies:
+      - id: 23315
+        parent_id: 23314
+        date: 2005-09-20 01:38
+        poster: Владимир Русинов (BluesCat)
+        email: volodya@blues.ru
+        subject: Руслан :)) НЭ надо!! :)))  Реже не будут! :)
+        deleted: false
+        replies:
+        - id: 23316
+          parent_id: 23315
+          date: 2005-09-20 01:45
+          poster: Старый Майор
+          email: gypsy@mail.ru
+          subject: Володя, ты почему с грузинским акцентом стал говорить, даа?
+          deleted: false
+          replies:
+          - id: 23317
+            parent_id: 23316
+            date: 2005-09-20 01:46
+            poster: Владимир Русинов (BluesCat)
+            email: volodya@blues.ru
+            subject: я понял что это путь к славе! :) ШУЧУ! :)
+            deleted: false
+            replies:
+            - id: 23318
+              parent_id: 23317
+              date: 2005-09-20 01:48
+              poster: Старый Майор
+              email: gypsy@mail.ru
+              subject: Это путь не к Славе, а к Гиви!
+              deleted: false
+  - id: 23365
+    parent_id: 23299
+    date: 2005-09-22 10:23
+    poster: Илья Кривандин (Populoss)
+    email: ilija@bk.ru
+    subject: Вовсе это...
+    deleted: false
+    text: '...и не тот момент :)'
+    replies:
+    - id: 23367
+      parent_id: 23365
+      date: 2005-09-22 12:42
+      poster: Владимир Русинов (BluesCat)
+      email: volodya@blues.ru
+      subject: это как раз самый главный ТОТ момент :))
+      deleted: false
+      replies:
+      - id: 23373
+        parent_id: 23367
+        date: 2005-09-22 16:37
+        poster: Илья Кривандин (Populoss)
+        email: ilija@bk.ru
+        subject: Не-а...
+        deleted: false
+        text: 'Мы-то там были, и все видели, а это как раз очень даже прикольный момент.
+          ,)  Очень, кстати, хорошо его тут увидеть. Это момент под названием "А сейчас
+          мы с Андреем поговорим..."
+
+
+          ,)'
+        replies:
+        - id: 23375
+          parent_id: 23373
+          date: 2005-09-22 17:24
+          poster: Владимир Русинов (BluesCat)
+          email: volodya@blues.ru
+          subject: :)) но это были шуточки из одного флакона! :)
+          deleted: false

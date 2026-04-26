@@ -1,0 +1,47 @@
+topic_id: 4027
+slug: topic-4027
+title: Новости.Ноттоден.peter green???
+first_post: 2008-06-06 17:45
+last_post: 2008-06-08 02:04
+post_count: 4
+posts:
+- id: 35478
+  parent_id: null
+  date: 2008-06-06 17:45
+  poster: Jumpin' Jack Flash
+  email: gjhbgkjhb
+  subject: Новости.Ноттоден.peter green???
+  deleted: false
+  text: '"И программа составлена в память о первом и лучшем периоде существовании
+    группы, когда ею руководил покойный Питер Грин. Прозвучат песни..."
+
+    почему покойный, боже упаси?'
+  replies:
+  - id: 35479
+    parent_id: 35478
+    date: 2008-06-06 22:47
+    poster: Федор Романенко (fedor)
+    email: fedor@blues.ru
+    subject: Суровая описка
+    deleted: false
+    text: Видимо, навеяна общим потоком грустных новостей. Спасибо огромное, исправлено!!
+    replies:
+    - id: 35480
+      parent_id: 35479
+      date: 2008-06-07 00:17
+      poster: Andrei V. Evdokimov (evdokimov)
+      email: evdokimov@blues.ru
+      subject: значит, будет жить долго
+      deleted: false
+      text: 'а я перестану писать новости в пятом часу утра
+
+        а Jumpin'' Jack Flash должен получитить медаль "За блюзовую бдительность"'
+      replies:
+      - id: 35481
+        parent_id: 35480
+        date: 2008-06-08 02:04
+        poster: Jumpin' Jack Flash
+        email: hkjh
+        subject: алеллуйя!
+        deleted: false
+        text: всегда на страже))

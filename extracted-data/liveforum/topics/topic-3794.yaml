@@ -1,0 +1,60 @@
+topic_id: 3794
+slug: topic-3794
+title: Хорошая новость!
+first_post: 2007-11-14 10:18
+last_post: 2007-11-16 09:34
+post_count: 7
+posts:
+- id: 33879
+  parent_id: null
+  date: 2007-11-14 10:18
+  poster: Arsen
+  email: rag@blues.ru
+  subject: Хорошая новость!
+  deleted: false
+  text: http://arsen-07.livejournal.com/14337.html ;)
+  replies:
+  - id: 33880
+    parent_id: 33879
+    date: 2007-11-14 15:32
+    poster: Игорь Головачев (Игорь Г.)
+    email: sunny_city@mail.ru
+    subject: От всей души поздравляю !
+    deleted: false
+  - id: 33881
+    parent_id: 33879
+    date: 2007-11-15 17:14
+    poster: Dmitri Kazantsev (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: рооок!!!
+    deleted: false
+  - id: 33882
+    parent_id: 33879
+    date: 2007-11-15 17:42
+    poster: Muddy Lives
+    email: mlives_6@hotmail.com
+    subject: Ура!!!!!!!!!
+    deleted: false
+  - id: 33883
+    parent_id: 33879
+    date: 2007-11-15 18:08
+    poster: Миша
+    email: mavas78@mail.ru
+    subject: УРА!
+    deleted: false
+    text: Без рубашки бы не дали первого места))))
+  - id: 33891
+    parent_id: 33879
+    date: 2007-11-16 02:19
+    poster: OnlyOne
+    email: corrgon@mail.ru
+    subject: Браво!
+    deleted: false
+    text: Молодчина! Не уронил шахматный престиж!!
+  - id: 33894
+    parent_id: 33879
+    date: 2007-11-16 09:34
+    poster: Arsen
+    email: rag@mail.ru
+    subject: Большое спасибо !
+    deleted: false

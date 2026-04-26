@@ -1,0 +1,79 @@
+topic_id: 3836
+slug: topic-3836
+title: А вчера говорят Сантана в кремле играл...
+first_post: 2007-12-22 12:34
+last_post: 2007-12-25 21:06
+post_count: 7
+posts:
+- id: 34167
+  parent_id: null
+  date: 2007-12-22 12:34
+  poster: Kot Matraskin (KotMatraskin)
+  email: kotmatrs@mail.ru
+  subject: А вчера говорят Сантана в кремле играл...
+  deleted: false
+  replies:
+  - id: 34169
+    parent_id: 34167
+    date: 2007-12-23 22:48
+    poster: SKash
+    email: '***'
+    subject: '...причем играл УМОПОМРАЧИТЕЛЬНО!'
+    deleted: false
+    text: "Это был один из лучших концертов, которые я видел.\nКоманда - выше всяких\
+      \ похвал. Более 2 часов на одном дыхании.\nВидео есть здесь...\n\nSantana in\
+      \ Moscow. Soul Sacrifice.21-12-07 \nhttp://ru.youtube.com/watch?v=OAYedJaNlpo\
+      \ \n\nSantana in Moscow.Samba Pa Ti.21-12-2007 \nhttp://ru.youtube.com/watch?v=fcOYxUdZqvo\
+      \ \n\nSantana in Moscow. After the Dance. 21-12-07 \nhttp://ru.youtube.com/watch?v=HZrmywvb6QE\
+      \ \n\nSantana in Moscow.Black Magic Woman/3rd stone from the Sun \nhttp://ru.youtube.com/watch?v=1CfpOTQPWso\
+      \ \n\nSantana in Moscow.Oye Como Va (Sunshine Of Your Love) \nhttp://ru.youtube.com/watch?v=vSFHMWwUg_I\
+      \ \n\nsantana in moscow 21-12-07 Into the Night (Encore with Carlos' speech)\
+      \ \nhttp://ru.youtube.com/watch?v=9ruf2P-2AEI&NR=1"
+    replies:
+    - id: 34170
+      parent_id: 34169
+      date: 2007-12-23 23:01
+      poster: Федор Романенко (fedor)
+      email: fedor@blues.ru
+      subject: Везет людям!
+      deleted: false
+      text: ;)) А так узнаешь только задним числом...
+      replies:
+      - id: 34171
+        parent_id: 34170
+        date: 2007-12-24 01:56
+        poster: SKash
+        email: '***'
+        subject: '...дык, вроде интернет един для всех ;)))'
+        deleted: false
+        text: http://www.carlos-santana.ru
+    - id: 34180
+      parent_id: 34169
+      date: 2007-12-24 17:58
+      poster: Старый Майор
+      email: gypsy@mail.ru
+      subject: Играл-то он хорошо как всегда..
+      deleted: false
+      text: '..только с певцами у него как всегда проблема.
+
+        Как Oye Como Va запели - так усё.. у мну ушы отвалились начисто..'
+      replies:
+      - id: 34182
+        parent_id: 34180
+        date: 2007-12-24 23:07
+        poster: SKash
+        email: '***'
+        subject: Да, певцы слабенькие - скучные...
+        deleted: false
+        text: '...если бы они играли еще на чем-то, было бы простительно.'
+        replies:
+        - id: 34197
+          parent_id: 34182
+          date: 2007-12-25 21:06
+          poster: Старый Майор
+          email: gypsy@mail.ru
+          subject: Я только потом сообразил..
+          deleted: false
+          text: '..что это рядом с той камерой, на которую это снимали, народ орал..
+
+            Я-то думал что это так на сцене поют )))'

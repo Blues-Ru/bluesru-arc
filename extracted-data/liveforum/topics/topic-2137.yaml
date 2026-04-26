@@ -1,0 +1,62 @@
+topic_id: 2137
+slug: topic-2137
+title: Умер Рэй Чарльз..........
+first_post: 2004-06-11 00:17
+last_post: 2004-06-17 14:10
+post_count: 6
+posts:
+- id: 18661
+  parent_id: null
+  date: 2004-06-11 00:17
+  poster: DN
+  email: hooker2@rambler.ru
+  subject: Умер Рэй Чарльз..........
+  deleted: false
+  replies:
+  - id: 18662
+    parent_id: 18661
+    date: 2004-06-11 01:23
+    poster: Elicaster
+    email: elicaster@mmmmmmmmmmmail.ru
+    subject: RIP
+    deleted: false
+    text: 'Очень опечален этой новостью.
+
+      Очень жаль что такие ТАКИЕ люди смертны'
+  - id: 18664
+    parent_id: 18661
+    date: 2004-06-11 10:30
+    poster: Andy McLetsoff (McL)
+    email: mcl@macbox.ru
+    subject: RIP... Они уходят и уходят... Жалко
+    deleted: false
+    replies:
+    - id: 18666
+      parent_id: 18664
+      date: 2004-06-11 11:59
+      poster: Tigra
+      email: buesman@tut.by
+      subject: Дай Бог каждому
+      deleted: false
+      text: 'прожить свою жизнь так , как он прожил ( кроме слепоты, конечно)
+
+        Человек всю жизнь занимался своим любимым делом и стал кумиром для миллионов.
+
+        Думаю, что Рэй Чарльз менее всего хотел бы чтобы по нему традиционно скорбели
+        и плакали.'
+  - id: 18668
+    parent_id: 18661
+    date: 2004-06-11 20:01
+    poster: Андрей PRG
+    email: peregnoy@mail.ru
+    subject: Ушёл один из..
+    deleted: false
+    text: музыкальных мастодонтов... Их почти уже не осталось.
+  - id: 18691
+    parent_id: 18661
+    date: 2004-06-17 14:10
+    poster: Слава Радостев
+    email: slavgust@mail.ru
+    subject: Все уходят...
+    deleted: false
+    text: '...это лишь вопрос времени.Но......слезы на глазах и напился...'

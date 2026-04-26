@@ -1,0 +1,19 @@
+---
+topic_id: 1623
+slug: topic-1623
+title: Robert Johnson - The Complete Recordings - 1996
+post_count: 1
+first_post: 2003-12-02 02:37
+last_post: 2003-12-02 02:37
+---
+
+## Robert Johnson - The Complete Recordings - 1996
+**From:** Дима Казанцев (Dr. Nick)  **Date:** 2003-12-02 02:37  **Post:** #16036
+
+http://www.allmusic.com/cg/amg.dll?p=amg&uid=UIDMISS70312011818561932&sql=Abr6m962odep2
+
+Полная коллекция всех 29 блюзов легендарного Роберта Джонсона на двух дисках плюс альтернативные версии 12 треков: Kind Hearted Woman Blues, Ramblin' On My Mind, When You Got A Good Friend, Come On In My Kitchen, Phonogragh Blues, Cross Road Blues, Little Queen Of Spades, Drunken Hearted Man, Me And The Devil Blues, Stop Breaking Down Blues, Love In Vain Blues, Milkcow's Calf Blues. Единственная проблема этого "комплита" - это то, что версии расположены сразу после основных треков, а не на отдельном диске, например.
+
+Диск отлично оформлен (фото, стиль Vocalion Records 30-х годов, 60-страничный буклет с текстами и полной историей записи и жизни Роберта. Владея этим двойником, Вы владеете всем наследием гения Джонсона. Он умер странной смертью в 27 лет и оставил всего 29 песен, но остался, пожалуй, самой заметной, загадочной и легендарной фигурой в блюзе за всю его столетнюю историю.
+
+---

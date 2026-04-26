@@ -1,0 +1,36 @@
+topic_id: 1100
+slug: topic-1100
+title: Peter Green Soho Live at Ronnie Scotts
+first_post: 2002-03-04 21:41
+last_post: 2002-03-05 10:25
+post_count: 3
+posts:
+- id: 1844
+  parent_id: null
+  date: 2002-03-04 21:41
+  poster: Дима   (Казанцев)
+  email: dr.nick@blues.ru
+  subject: Peter Green Soho Live at Ronnie Scotts
+  deleted: false
+  text: Вот был тут на Горбушке (в первый раз за 5 лет) и купил Грина концертного.
+    Сейчас сижу расслушиваю. Звук не очень, но материал вроде хорош. Диск аж 77 минут.
+    Кому что нравится с этого издания?
+  replies:
+  - id: 1849
+    parent_id: 1844
+    date: 2002-03-04 23:32
+    poster: Андрей PRG
+    email: peregnoy@mail.ru
+    subject: Опять уточнение
+    deleted: false
+    text: А это Грин какого года? У меня его, правда, нет, но пощупать любопытно.
+    replies:
+    - id: 1861
+      parent_id: 1849
+      date: 2002-03-05 10:25
+      poster: Дима   (Казанцев)
+      email: dr.nick@blues.ru
+      subject: Это 1999
+      deleted: false
+      text: Вообще-то это двойной альбом. Limited Edition. Но на Горбушке я купил
+        пиратский, он без двух вещей и на одном. Хорошая вещь!

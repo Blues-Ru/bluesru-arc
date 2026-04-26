@@ -1,0 +1,108 @@
+topic_id: 3274
+slug: topic-3274
+title: Видели рекламу
+first_post: 2006-06-01 23:35
+last_post: 2006-06-04 21:36
+post_count: 9
+posts:
+- id: 27525
+  parent_id: null
+  date: 2006-06-01 23:35
+  poster: Dmitri Kazantsev (Dr. Nick)
+  email: dr.nick@blues.ru
+  subject: Видели рекламу
+  deleted: false
+  text: 'пива ПИТ новую? :)
+
+    Группа Др Ник играет :)'
+  replies:
+  - id: 27526
+    parent_id: 27525
+    date: 2006-06-01 23:41
+    poster: Axle
+    email: axledog@mail.ru
+    subject: Дима, прости,
+    deleted: false
+    text: "Мы очень ограничены во времени, \nУ Дуарте сет на 90 минут по договору......."
+    replies:
+    - id: 27527
+      parent_id: 27526
+      date: 2006-06-01 23:58
+      poster: Dmitri Kazantsev (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: Это связано с рекламой?
+      deleted: false
+    - id: 27528
+      parent_id: 27526
+      date: 2006-06-02 00:02
+      poster: Dmitri Kazantsev (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: Жаль...
+      deleted: false
+      text: Тем более, что фестиваль называется TRIBUTE TO NEW ORLEANS (а мы много
+        чего играем из этой тематики)...
+  - id: 27529
+    parent_id: 27525
+    date: 2006-06-02 00:12
+    poster: Axle
+    email: axledog@vail.ru
+    subject: Ближе к дате, составим программу, скорее всего будет джем
+    deleted: false
+    text: Ждем тебя в качестве почетного гостя и участника джема.
+    replies:
+    - id: 27534
+      parent_id: 27529
+      date: 2006-06-02 03:51
+      poster: Dmitri Kazantsev (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: Да я то что...
+      deleted: false
+      text: 'Ветеран хотел поиграть, Сергей Сорокин, Шатуновский...
+
+
+        Но всё это в прошлом. Не проблема вообще.'
+  - id: 27548
+    parent_id: 27525
+    date: 2006-06-03 01:54
+    poster: Эльдар Музафаров
+    email: elicaster co6@ka мейл-d0t ru
+    subject: Братец Ник хитер как Братец Лис
+    deleted: false
+    text: 'Ещё савсем недавно, <a href="http://www.blues.ru/forum/?id=43857&page=1&body=1#43857">здесь
+      же</a> он давал рецепт по поводу рекламы: "никогда не включать ТВ" (конец цитаты).
+      А, оказывается, в это же самое время писал трек для другого рекламного ролика.
+
+      Что же это было: недобросовестная антиреклама народному дезоторанту или хитрый
+      ход в поддержку отечественного производителя народного напитка?
+
+      Хитёр, брат, хитёр...
+
+      :))))))))))))
+
+      P.S. Я не видел этой рекламы :(
+
+      (кроме шуток): Что на самом деле ваш звукоряд?'
+    replies:
+    - id: 27549
+      parent_id: 27548
+      date: 2006-06-03 02:28
+      poster: Dmitri Kazantsev (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: можно и не включать
+      deleted: false
+      text: 'но я всё хотел посмотреть, что они сделали в итоге.
+
+        странно, что не видел. она крутится более 50 раз в день.
+
+        мы играем и поем песню Big Man Джона Мэйолла.'
+      replies:
+      - id: 27576
+        parent_id: 27549
+        date: 2006-06-04 21:36
+        poster: Эльдар Музафаров
+        email: elicaster co6@ka мейл-d0t ru
+        subject: Вчера увидел
+        deleted: false
+        text: 'Есть такое дело!
+
+          Зачёт!'

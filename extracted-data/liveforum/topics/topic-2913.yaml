@@ -1,0 +1,43 @@
+topic_id: 2913
+slug: topic-2913
+title: а чё такая тишина?
+first_post: 2005-11-11 15:25
+last_post: 2005-11-12 15:52
+post_count: 4
+posts:
+- id: 24420
+  parent_id: null
+  date: 2005-11-11 15:25
+  poster: Дмитрий Казанцев (Dr. Nick)
+  email: dr.nick@blues.ru
+  subject: а чё такая тишина?
+  deleted: false
+  text: 'все ли готовы к понедельнику?
+
+    все послушали Хенри Барби?'
+  replies:
+  - id: 24423
+    parent_id: 24420
+    date: 2005-11-11 21:00
+    poster: Старый Майор
+    email: gypsy@mail.ru
+    subject: Так точно, товарищ полковник!
+    deleted: false
+    text: http://gypsy.bluesman.ru/1/Barbee/ - гражданин, скрывавшийс под именем красотки
+      Барби, на поверку оказался здоровенным чёрным негром!
+  - id: 24426
+    parent_id: 24420
+    date: 2005-11-12 14:08
+    poster: gbiz
+    email: gbiz@pisem.net
+    subject: хохотал!
+    deleted: false
+    text: хохотал! - ЗДЕСЬ ТОЖЕ НИЧЕГО НЕТ!
+    replies:
+    - id: 24428
+      parent_id: 24426
+      date: 2005-11-12 15:52
+      poster: Дмитрий Казанцев (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: это как всё понять?
+      deleted: false

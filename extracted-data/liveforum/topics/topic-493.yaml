@@ -1,0 +1,45 @@
+topic_id: 493
+slug: topic-493
+title: Клуб??!
+first_post: 2002-12-02 19:49
+last_post: 2002-12-03 15:59
+post_count: 4
+posts:
+- id: 9155
+  parent_id: null
+  date: 2002-12-02 19:49
+  poster: Hipster
+  email: hipster@bk.ru
+  subject: Клуб??!
+  deleted: false
+  text: "Народ! Посоветуйте, пожалуйста, какой-нибудь блюзовый клуб, где музыка классная\
+    \ и живая, пиво недорогое и вход тоже :)\nЖелательно что-то непафосное такое,\
+    \ безо всяких там тупых чопорных швейцаров и официантов.. Ну классический этакий\
+    \ клубец, понимаете о чем я вообще? :) \nГде можно было бы просто посидеть с друзьями,\
+    \ послушать что-то офигительное и спокойно попить пивка!\n\nБуду очень признателен\
+    \ за совет..."
+  replies:
+  - id: 9162
+    parent_id: 9155
+    date: 2002-12-03 09:10
+    poster: Народ
+    email: sovet@narod.ru
+    subject: Buddy Guy's Legends
+    deleted: false
+    text: http://www.buddyguys.com/
+  - id: 9171
+    parent_id: 9155
+    date: 2002-12-03 13:34
+    poster: Старый Майор
+    email: gypsy@mail.ru
+    subject: Брат Hipster, ты не указал предполагаемое географическую дислокацию клуба,
+      тем самым затруднив нам целеуказание!
+    deleted: false
+    replies:
+    - id: 9180
+      parent_id: 9171
+      date: 2002-12-03 15:59
+      poster: Hipster
+      email: hipster@bk.ru
+      subject: москва, брат.. москва...
+      deleted: false

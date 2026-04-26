@@ -1,0 +1,143 @@
+topic_id: 991
+slug: topic-991
+title: Вопрос к Доктору Нику
+first_post: 2002-05-08 23:12
+last_post: 2002-05-14 21:30
+post_count: 14
+posts:
+- id: 4314
+  parent_id: null
+  date: 2002-05-08 23:12
+  poster: Володя Яковенко
+  email: gastins@rambler.ru
+  subject: Вопрос к Доктору Нику
+  deleted: false
+  text: Дима, а на июнь какие-либо выступления планируете? Я в Москве буду числа 8-9-го.
+    Хочу навестить...
+  replies:
+  - id: 4317
+    parent_id: 4314
+    date: 2002-05-09 02:36
+    poster: Дима Казанцев (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: Сообщаю
+    deleted: false
+    text: Мы играем 1-го в Кантри Баре, 13-го в Хот-Роде. Будут гиги и еще, но пока
+      надо разобраться, ты главное приезжай!
+    replies:
+    - id: 4321
+      parent_id: 4317
+      date: 2002-05-09 13:01
+      poster: Володя Яковенко
+      email: gastins@ramler.ru
+      subject: На просьбу-вопрос по винилу ответь, плиз!
+      deleted: false
+      replies:
+      - id: 4322
+        parent_id: 4321
+        date: 2002-05-09 13:04
+        poster: Володя
+        email: gastins@rambler.ru
+        subject: Да, еще....
+        deleted: false
+        text: С праздничком, Дима! У Эрлиха совсем тоскливо стало... надо куда-нить
+          переходить...
+        replies:
+        - id: 4326
+          parent_id: 4322
+          date: 2002-05-09 18:59
+          poster: Федор Романенко (fedor)
+          email: fedor@blues.ru
+          subject: Эрлих
+          deleted: false
+          text: А кто это? ;)
+          replies:
+          - id: 4327
+            parent_id: 4326
+            date: 2002-05-09 23:42
+            poster: Володя
+            email: gastins@rambler.ru
+            subject: Да, Док Ник предупредил меня
+            deleted: false
+            text: 'что офф-топики тут не жалуют...а тут еще ссылки на другие форумы...
+
+              В общем, хи-фи.ру это...'
+            replies:
+            - id: 4328
+              parent_id: 4327
+              date: 2002-05-09 23:54
+              poster: Федор Романенко (fedor)
+              email: fedor@blues.ru
+              subject: Нет проблем... ;)
+              deleted: false
+              text: С оффтопиками не так уж и строго. Обсуждают ведь Тома Вейтса,
+                и ничего ;) Лишь бы безумно не увлекаться. Единственная вещь, которая
+                вполне возможна, состоит в том, что кто-то встрянет в дискуссию и
+                скажет, что этот оффтопик к блюзу имеет слабое отношение.
+              replies:
+              - id: 4333
+                parent_id: 4328
+                date: 2002-05-10 12:04
+                poster: Володя
+                email: heartware@land.ru
+                subject: Okie-Dokey
+                deleted: false
+                text: Бум сюды заглядывать и поддерживать вечное и т.д. и т.п.
+            - id: 4331
+              parent_id: 4327
+              date: 2002-05-10 01:15
+              poster: Дима Казанцев (Dr. Nick)
+              email: dr.nick@blues.ru
+              subject: Не боись, Владимир
+              deleted: false
+              text: Ты у нас парень образованный, по-англицки щебечешь, музыку знаешь
+                хорошо. Вещай о блюзе и около него, тебя поддержат.
+          - id: 4371
+            parent_id: 4326
+            date: 2002-05-14 17:51
+            poster: Алексей Аграновский (Док)
+            email: aaa@genebee.msu.su
+            subject: Эйсмарх
+            deleted: false
+            text: А куда это?
+            replies:
+            - id: 4372
+              parent_id: 4371
+              date: 2002-05-14 21:30
+              poster: Андрей Цыганков
+              email: gypsy@mail.ru
+              subject: Док, ваш юмор понятен узкому кругу посвященных?
+              deleted: false
+      - id: 4323
+        parent_id: 4321
+        date: 2002-05-09 13:45
+        poster: Дима Казанцев (Dr. Nick)
+        email: dr.nick@blues.ru
+        subject: Может смена ориентации?
+        deleted: false
+        text: 'Blues.Ru - очень хорошее начало ;)
+
+          С Праздником!'
+        replies:
+        - id: 4324
+          parent_id: 4323
+          date: 2002-05-09 15:07
+          poster: Володя
+          email: gastins@rambler.ru
+          subject: Не смена, а перемещение
+          deleted: false
+          text: в пространстве... эта вечная склонность менять местонахождение, панимашь-ли:))
+            На джаз.ру тускло совсем, у Эрлиха - сплошные выяснения взаимоотношений,
+            у Хральцовой мой низкий технический уровень не позволяет задерживаться.
+            А вот блюз - как вечная ценность... ничто ему не угрожает, все течет и
+            меняется, дельты всех рек обмелели, а блюз - вечен...
+          replies:
+          - id: 4325
+            parent_id: 4324
+            date: 2002-05-09 17:46
+            poster: Дима Казанцев (Dr. Nick)
+            email: dr.nick@blues.ru
+            subject: Well, then I just welcome you!
+            deleted: false
+            text: Тусуйся тут тада ;) Тут народ стремный, но справедливый! Только
+              оффтопики очень не любят ;)

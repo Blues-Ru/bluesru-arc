@@ -1,0 +1,33 @@
+topic_id: 2795
+slug: topic-2795
+title: Фёдору Романенко
+first_post: 2005-09-18 23:18
+last_post: 2005-09-18 23:24
+post_count: 3
+posts:
+- id: 23238
+  parent_id: null
+  date: 2005-09-18 23:18
+  poster: Андрей Ордальонов (Андрей PRG)
+  email: peregnoy@mail.ru
+  subject: Фёдору Романенко
+  deleted: false
+  text: А почему бы на морде сайта не вывесить афишу субботнего горбушкинского феста?
+  replies:
+  - id: 23239
+    parent_id: 23238
+    date: 2005-09-18 23:19
+    poster: Федор Романенко (fedor)
+    email: fedor@blues.ru
+    subject: Да, надо!
+    deleted: false
+    text: Обязательно. Собирались повесить, но где-то затерялось... Очень надеюсь
+      на Андрея. ;)
+  - id: 23240
+    parent_id: 23238
+    date: 2005-09-18 23:24
+    poster: Grem
+    email: grem@yandex.ru
+    subject: а Вам еще бы ссылочку из livejournal дать...
+    deleted: false
+    text: Очень уж хорошая там у Вас афиша...

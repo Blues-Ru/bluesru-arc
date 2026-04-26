@@ -1,0 +1,59 @@
+topic_id: 1487
+slug: topic-1487
+title: Пока некоторые осваивают три аккорда...
+first_post: 2003-09-24 20:00
+last_post: 2003-09-25 14:06
+post_count: 6
+posts:
+- id: 14769
+  parent_id: null
+  date: 2003-09-24 20:00
+  poster: Старый Майор
+  email: gypsy@mail.ru
+  subject: Пока некоторые осваивают три аккорда...
+  deleted: false
+  text: http://www.gromko.ru/bill/article26634.html
+  replies:
+  - id: 14778
+    parent_id: 14769
+    date: 2003-09-25 00:42
+    poster: Ваня  Жук ()
+    email: jouk@newmail.net
+    subject: немедленно объяснитесь, что имели в виду сабжем!
+    deleted: false
+    text: :)
+    replies:
+    - id: 14783
+      parent_id: 14778
+      date: 2003-09-25 02:06
+      poster: vr  (Stone Crazy)
+      email: volodya@blues.ru
+      subject: наверно имеется ввиду, что ктото уже освоил 4ый
+      deleted: false
+      text: что непременно стало предметом гнусной зависти и злопыхательства остальных
+        :)))))))))))
+      replies:
+      - id: 14788
+        parent_id: 14783
+        date: 2003-09-25 08:58
+        poster: Михан  (Ded Morozzz)
+        email: morozzz_ded@mail.ru
+        subject: блин, я прямо боюсь подумать...
+        deleted: false
+        text: '... а ведь кто-то знает целых пять аккордов :O'
+        replies:
+        - id: 14791
+          parent_id: 14788
+          date: 2003-09-25 10:56
+          poster: Алексей Аграновский (Док)
+          email: aaa@genebee.msu.su
+          subject: Все знают семь нот гармонии,
+          deleted: false
+          text: но лишь г-н Жоли способен создавать из них прекрасные мелодии.
+      - id: 14799
+        parent_id: 14783
+        date: 2003-09-25 14:06
+        poster: Остальные
+        email: gypsy@mail.ru
+        subject: Зависть у нас белая, и пыхаем мы регулярно! ))
+        deleted: false

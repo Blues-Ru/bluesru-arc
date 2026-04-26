@@ -1,0 +1,24 @@
+topic_id: 3963
+slug: topic-3963
+title: Eric Clapton is 63!
+first_post: 2008-03-30 05:25
+last_post: 2008-03-30 09:26
+post_count: 2
+posts:
+- id: 35145
+  parent_id: null
+  date: 2008-03-30 05:25
+  poster: Dmitri Kazantsev (Dr. Nick)
+  email: dr.nick@blues.ru
+  subject: Eric Clapton is 63!
+  deleted: false
+  text: wish you all the best!
+  replies:
+  - id: 35146
+    parent_id: 35145
+    date: 2008-03-30 09:26
+    poster: Эльдар
+    email: Эльдар
+    subject: Хапи Бirthдэй Ту Ю Товарыщ Слоуханд
+    deleted: false
+    text: Так выпьем же за сказанное!

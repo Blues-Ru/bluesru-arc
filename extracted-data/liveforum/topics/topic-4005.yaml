@@ -1,0 +1,60 @@
+topic_id: 4005
+slug: topic-4005
+title: Этиловый Блюз качем Высказываемся!!!!
+first_post: 2008-05-11 22:53
+last_post: 2008-05-12 17:01
+post_count: 5
+posts:
+- id: 35380
+  parent_id: null
+  date: 2008-05-11 22:53
+  poster: Роман Чернышков (Роман)
+  email: EtilBluz@yandex.ru
+  subject: Этиловый Блюз качем Высказываемся!!!!
+  deleted: false
+  text: http://www.realmusic.ru/etilbluz/
+  replies:
+  - id: 35382
+    parent_id: 35380
+    date: 2008-05-12 03:22
+    poster: Старый Майор
+    email: gypsy@mail.ru
+    subject: Ихде там блюз, простите?
+    deleted: false
+    text: Советская эстрада какая-то.
+    replies:
+    - id: 35387
+      parent_id: 35382
+      date: 2008-05-12 16:30
+      poster: Muddy Lives
+      email: mlives_6@hotmail.com
+      subject: Элитный блюз
+      deleted: false
+      text: 'Наверно это есть советская эстрада.  Где еще блюз бывают элитным?
+
+
+        Muddy'
+      replies:
+      - id: 35388
+        parent_id: 35387
+        date: 2008-05-12 16:49
+        poster: Старый Майор
+        email: gypsy@mail.ru
+        subject: Дорогой Muddy, не элитный, а этиловый!
+        deleted: false
+        text: 'Ты неправильно прочитал! Э-ти-ло-вый!
+
+
+          Этиловым обычно бывает спирт, C2H5OH, из которого методом разбавления водой
+          делают русский народный напиток "Белое Вино", он же "Vodka".'
+    - id: 35389
+      parent_id: 35382
+      date: 2008-05-12 17:01
+      poster: Кела Брамс
+      email: кела@blues.ru
+      subject: да отличный блус
+      deleted: false
+      text: 'чё не нравится-то?
+
+
+        парни жгут!'

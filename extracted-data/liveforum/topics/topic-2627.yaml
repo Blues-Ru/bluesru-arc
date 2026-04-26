@@ -1,0 +1,45 @@
+topic_id: 2627
+slug: topic-2627
+title: Господа монстры блюза и не очень...
+first_post: 2005-06-19 23:47
+last_post: 2005-06-22 09:46
+post_count: 4
+posts:
+- id: 21819
+  parent_id: null
+  date: 2005-06-19 23:47
+  poster: Лёха Крылов (Каа)
+  email: kaa_82@inbox.ru
+  subject: Господа монстры блюза и не очень...
+  deleted: false
+  text: "Как человеку впервые попавшему в вашу среду, мне очень интересно что вообще\
+    \ здесь творится, и чем вы, людидобрые, здесь живёте. Как поклоннику группы \"\
+    Воскресение\", музыканты которой являются блюзовиками в душе, как минимум, мне\
+    \ интересно почему о них ни слова не сказано тут. \n\nP.S. В октябре буду в Питере.\
+    \ Народ, не подскажете, не будут ли в это время проводиться какие-нибудь фесты?\
+    \ \n\nP.P.S. Заранее благодарен за внимание и участие."
+  replies:
+  - id: 21820
+    parent_id: 21819
+    date: 2005-06-20 08:27
+    poster: Михан  (Ded Morozzz)
+    email: morozzz_ded@mail.ru
+    subject: :)
+    deleted: false
+    replies:
+    - id: 21828
+      parent_id: 21820
+      date: 2005-06-22 01:22
+      poster: Диброва (Dibrova)
+      email: dibrova_blues@rambler.ru
+      subject: никаких фестивалей в октябре в Питере не намечается
+      deleted: false
+      replies:
+      - id: 21829
+        parent_id: 21828
+        date: 2005-06-22 09:46
+        poster: Дмитрий(фан)
+        email: leonidovd@mail.ru
+        subject: А International Blues Festival (бывший Efes)...
+        deleted: false
+        text: разве не в конце октября будет в Питере?

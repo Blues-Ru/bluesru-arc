@@ -1,0 +1,120 @@
+topic_id: 1441
+slug: topic-1441
+title: а у меня вот какая радость
+first_post: 2003-09-05 19:03
+last_post: 2003-09-08 16:24
+post_count: 12
+posts:
+- id: 14158
+  parent_id: null
+  date: 2003-09-05 19:03
+  poster: Дима Казанцев (Dr. Nick)
+  email: dr.nick@blues.ru
+  subject: а у меня вот какая радость
+  deleted: false
+  text: 'из англии пришли все шесть альбомов Staple Singers периода Stax - полный
+    кайф!
+
+    если кому надо переписать, обращайтесь!
+
+    http://www.allmusic.com/cg/amg.dll?p=amg&uid=MISS70309051050&sql=B6287gj4rj6ix'
+  replies:
+  - id: 14159
+    parent_id: 14158
+    date: 2003-09-05 20:06
+    poster: Andrei V. Evdokimov (evdokimov)
+    email: evdokimov@blues.ru
+    subject: мне надо! :)
+    deleted: false
+    replies:
+    - id: 14160
+      parent_id: 14159
+      date: 2003-09-05 20:54
+      poster: Дима Казанцев (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: тебе? это ж не блюз...
+      deleted: false
+      text: ну заезжай с болванками и морковным соком :)
+    - id: 14161
+      parent_id: 14159
+      date: 2003-09-05 20:56
+      poster: Дима Казанцев (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: а если лень заезжать
+      deleted: false
+      text: 'то могу тебе всё прописать, а ты мне на джеме (например) отдашь болванки
+        и получишь копии.
+
+        пиши в мыло!'
+  - id: 14164
+    parent_id: 14158
+    date: 2003-09-06 00:18
+    poster: Greta
+    email: morehemp
+    subject: Поздравляю :)
+    deleted: false
+    text: я тож хачу..
+    replies:
+    - id: 14167
+      parent_id: 14164
+      date: 2003-09-06 10:45
+      poster: Дима Казанцев (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: будет и тебе!
+      deleted: false
+      text: надо посмотреть, влезают ли 6 на 3 болванки - так будет проще и удобнее.
+      replies:
+      - id: 14177
+        parent_id: 14167
+        date: 2003-09-07 14:13
+        poster: Greta
+        email: morehemp
+        subject: спасибо :)
+        deleted: false
+        text: 'почему только вот удобнее..?
+
+          болванки я тебе верну, конечно.'
+        replies:
+        - id: 14178
+          parent_id: 14177
+          date: 2003-09-07 14:15
+          poster: Дима Казанцев (Dr. Nick)
+          email: dr.nick@blues.ru
+          subject: хочешь 6 отдельных?
+          deleted: false
+          text: можно и так, но дольше и какой смысл?
+          replies:
+          - id: 14184
+            parent_id: 14178
+            date: 2003-09-07 15:10
+            poster: Greta
+            email: morehemp
+            subject: как тебе удобнее..
+            deleted: false
+            replies:
+            - id: 14197
+              parent_id: 14184
+              date: 2003-09-07 21:35
+              poster: Дима Казанцев (Dr. Nick)
+              email: dr.nick@blues.ru
+              subject: а по 2 и не получится ;)
+              deleted: false
+              text: альбомы у них длиннющие! 42, 45, 52 минуты!
+              replies:
+              - id: 14217
+                parent_id: 14197
+                date: 2003-09-08 15:37
+                poster: Greta
+                email: morehemp
+                subject: вот видишь
+                deleted: false
+                text: как всё просто
+                replies:
+                - id: 14230
+                  parent_id: 14217
+                  date: 2003-09-08 16:24
+                  poster: Дима Казанцев (Dr. Nick)
+                  email: dr.nick@blues.ru
+                  subject: уже записал
+                  deleted: false
+                  text: в среду притащу

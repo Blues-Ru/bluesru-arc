@@ -1,0 +1,26 @@
+topic_id: 3456
+slug: topic-3456
+title: Danny Eyer
+first_post: 2006-10-21 21:13
+last_post: 2006-10-23 20:57
+post_count: 2
+posts:
+- id: 29149
+  parent_id: null
+  date: 2006-10-21 21:13
+  poster: Роман Сатдинов ()
+  email: Blues63@mail.ru
+  subject: Danny Eyer
+  deleted: false
+  text: Господа,кто нибудь знает что либо о гитаристе Danny Eyer? Есть ли у него ещё
+    альвомы, кроме Blues Box ?
+  replies:
+  - id: 29155
+    parent_id: 29149
+    date: 2006-10-23 20:57
+    poster: Старый Майор
+    email: gypsy@mail.ru
+    subject: Знак ГТО на груди у него, больше не знали о нём ничего...
+    deleted: false
+    text: "Аллмузик выдаёт следующее:\n\n2001   Boxes of Blues  Eyermusic.com \n2004\
+      \   Whatever It Takes  New Moon Music"

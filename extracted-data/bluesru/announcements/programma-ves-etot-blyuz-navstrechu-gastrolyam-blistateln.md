@@ -1,0 +1,11 @@
+---
+id: 764
+slug: programma-ves-etot-blyuz-navstrechu-gastrolyam-blistateln
+title: null
+date: 2016-05-25 00:00
+---
+
+Программа "Весь Этот Блюз" - навстречу гастролям блистательного во всех отношениях артиста, певца и пианиста Kenny "Blues Boss" Wayne. Слушать интервью и его альбом Rollin' With the Boss:<br> 
+<a href="/ATB/atb_16_05_23_Kenny_Wayne_I.mp3"><b><i>Часть I</i></b></a> и <a href="/ATB/atb_16_05_23_Kenny_Wayne_II.mp3"><b><i>Часть II</i></b></a><br>
+Читать это же интервью -  
+<a href="/bluesnews/15Wayne/i_15_Wayne.htm"><b><i>здесь</i></b></a>.

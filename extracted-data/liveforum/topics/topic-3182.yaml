@@ -1,0 +1,43 @@
+topic_id: 3182
+slug: topic-3182
+title: Harold Burrage
+first_post: 2006-03-30 09:28
+last_post: 2006-03-30 13:08
+post_count: 4
+posts:
+- id: 26838
+  parent_id: null
+  date: 2006-03-30 09:28
+  poster: Muddy Lives
+  email: mlives_6@hotmail
+  subject: Harold Burrage
+  deleted: false
+  text: 'Приятно, что вспоминается Бурраж на blues.ru сегодня (в случае его дня рожедения).  Он
+    пользовался большим влиянием среди Чикагоских певцов 1960-ых годах (в том числе
+    Otis Clay).  Но выставленная фото - это же Willie Dixon!  :)
+
+
+    Muddy'
+  replies:
+  - id: 26839
+    parent_id: 26838
+    date: 2006-03-30 13:04
+    poster: Andrei V. Evdokimov (evdokimov)
+    email: evdokimov@blues.ru
+    subject: с утра одни неприятности =)
+    deleted: false
+    replies:
+    - id: 26840
+      parent_id: 26839
+      date: 2006-03-30 13:06
+      poster: Алексей Аграновский (Док)
+      email: aaa@genebee.msu.su
+      subject: Так и должен начинаться "этот день в истории блюза"
+      deleted: false
+    - id: 26841
+      parent_id: 26839
+      date: 2006-03-30 13:08
+      poster: Muddy Lives
+      email: mlives_6@hotmail
+      subject: Спасибо за поправку!
+      deleted: false

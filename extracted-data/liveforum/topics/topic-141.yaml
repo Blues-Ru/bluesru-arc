@@ -1,0 +1,58 @@
+topic_id: 141
+slug: topic-141
+title: а вот, к примеру...
+first_post: 2002-04-03 02:03
+last_post: 2002-04-05 02:16
+post_count: 5
+posts:
+- id: 3279
+  parent_id: null
+  date: 2002-04-03 02:03
+  poster: Вадим  (AVA)
+  email: vad2908@mail.ru
+  subject: а вот, к примеру...
+  deleted: false
+  text: 'Slim Harpo - это клёво или нет? У кого какие мнения? Стоит ли приобретать?
+    (Цена 18 уё за шт) Если есть где почитать (только по-русски) киньте ссылочку!
+
+    С уважением.
+
+    Вадим.'
+  replies:
+  - id: 3290
+    parent_id: 3279
+    date: 2002-04-03 12:39
+    poster: Алексей Аграновский (Док)
+    email: aaa@genebee.msu.su
+    subject: Как же, как же
+    deleted: false
+    text: Вот недавно вышел хороший материал "Музыка тощих" из серии Заппазухой (см.
+      новости на лицевой обложке здесь). 18 рублей США это, конечно, того-с... Хотя
+      не жалко.
+  - id: 3346
+    parent_id: 3279
+    date: 2002-04-03 21:17
+    poster: Andrei V. Evdokimov (evdokimov)
+    email: evdokimov@blues.ru
+    subject: можно в сети поискать образцы.
+    deleted: false
+    text: СХ - это очень клево, но не с точки зрения фишек. Многим не покатит
+  - id: 3357
+    parent_id: 3279
+    date: 2002-04-04 10:45
+    poster: Slavik Chernov (Blacky)
+    email: Blacky@softhome.net
+    subject: Очень прикольный гармонист
+    deleted: false
+    text: 'Читай на  <a href="http://harmonica.blues.ru/history/legends/slimharpo.asp">harmonica.blues.ru</a>.
+
+      C удовольствем взял бы переписать (по 18 баков для меня непозволителная роскошь)'
+    replies:
+    - id: 3396
+      parent_id: 3357
+      date: 2002-04-05 02:16
+      poster: Вадим  (AVA)
+      email: vad2908@mail.ru
+      subject: за ссылочку, спасибо...
+      deleted: false
+      text: "...диски, кстати, взял (подешевле получилось) \nВадим."

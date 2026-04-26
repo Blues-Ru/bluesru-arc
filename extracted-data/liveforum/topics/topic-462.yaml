@@ -1,0 +1,73 @@
+topic_id: 462
+slug: topic-462
+title: Doc Watson
+first_post: 2002-11-13 08:21
+last_post: 2002-11-17 15:18
+post_count: 7
+posts:
+- id: 8819
+  parent_id: null
+  date: 2002-11-13 08:21
+  poster: Malcolm Ray  Redriver (Mike)
+  email: lifebythedrop@yandex.ru
+  subject: Doc Watson
+  deleted: false
+  text: Эй люди, расскажитемне что-нибудь про него.
+  replies:
+  - id: 8850
+    parent_id: 8819
+    date: 2002-11-16 08:59
+    poster: Malcolm Ray  Redriver (Mike)
+    email: lifebythedrop@yandex.ru
+    subject: кАКИЕ Ж ВЫ ВСЁ ТАКИ...;(
+    deleted: false
+    replies:
+    - id: 8851
+      parent_id: 8850
+      date: 2002-11-16 20:12
+      poster: Михаил Бирюков (nECKAPb)
+      email: blackcat@blues.ru
+      subject: лично я...
+      deleted: false
+      text: '... про него ничего не знаю.'
+      replies:
+      - id: 8852
+        parent_id: 8851
+        date: 2002-11-16 20:38
+        poster: Иван Иванов
+        email: www.geocities.com/drikasblues
+        subject: Малькольм !
+        deleted: false
+        text: "Он был отличным акустическим гитаристом Кантри-\"Джаза\" и к сожалению\
+          \ слепым. \nЗаписал как соло альбомы а также сотрудничал с разными артистами."
+        replies:
+        - id: 8853
+          parent_id: 8852
+          date: 2002-11-16 21:15
+          poster: Андрей PRG
+          email: peregnoy@mail.ru
+          subject: Ваще-та
+          deleted: false
+          text: на www.allmusic.com по нему достаточно инфы.
+        - id: 8854
+          parent_id: 8852
+          date: 2002-11-16 22:17
+          poster: Александр Мальчевский (Tonny)
+          email: heavyfuel@mtu-net.ru
+          subject: Ну...
+          deleted: false
+          text: Он из Северной Каролины...В начале 60-х начал свою карьеру. Ему помогал
+            его сын Мерл... Вообще-то его больше знают как гитариста стиоей кантри
+            и блюграсс. Вырос под влиянием Джимми Роджерса, Миссисипи Джона Хёрта
+            и Скипа Джеймса и разных кантри групп. Работал с Четом Этикинсом и Мерлом
+            Тревисом...
+          replies:
+          - id: 8859
+            parent_id: 8854
+            date: 2002-11-17 15:18
+            poster: Malcolm Ray  Redriver (Mike)
+            email: lifebythedrop@yandex.ru
+            subject: Спасибо...
+            deleted: false
+            text: Простите, что иногда начинаю ворчать. Просто в последнее время мне
+              чего-то совсем того... А за ссылку спасибо, прямо сейчас и зайду...

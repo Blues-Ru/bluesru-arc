@@ -1,0 +1,96 @@
+topic_id: 3137
+slug: topic-3137
+title: Профессор Мирмузуки
+first_post: 2006-03-06 11:00
+last_post: 2006-03-07 10:18
+post_count: 10
+posts:
+- id: 26460
+  parent_id: null
+  date: 2006-03-06 11:00
+  poster: Кожекин
+  email: kozhekin@mail.ru
+  subject: Профессор Мирмузуки
+  deleted: false
+  text: "Я тут два месяца назад придумал в жж информационный проект \"Энциклопедия\
+    \ хорошей музыки\" - типа википедии - раздел \"отечественные блюзмены\" там сейчас\
+    \ очень скуден - требуются авторы. Нужны статьи про всех любимых активно концертирующих,\
+    \ про клубы, про общую ситуацию с блюзом в городе. Помогайте. \nМирмузуки - межстилевая\
+    \ информационная площадка, позволяет привлечь на концерты людей, которые любят\
+    \ не только блюз а вообще разную честную музыку. Хотелось бы, чтобы информация\
+    \ по блюзменам там была исчерпывающая. \nЖмите ссылку и ищите знакомые лица на\
+    \ общей \"Доске Почета\"\nhttp://community.livejournal.com/mirmuzyki/profile"
+  replies:
+  - id: 26461
+    parent_id: 26460
+    date: 2006-03-06 11:03
+    poster: Кожекин
+    email: kozhekin@mail.ru
+    subject: Жмите ссылку :) Щас проверим мои знания хтмла!
+    deleted: false
+    text: <a href="http://community.livejournal.com/mirmuzyki/profile">
+    replies:
+    - id: 26462
+      parent_id: 26461
+      date: 2006-03-06 12:01
+      poster: Dmitri Kazantsev (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: Вова, нэту ссылки!
+      deleted: false
+      replies:
+      - id: 26463
+        parent_id: 26462
+        date: 2006-03-06 12:15
+        poster: Старый Майор
+        email: gypsy@blues.ru
+        subject: про Казанцева надо обязательно написать! а то он расстроится!
+        deleted: false
+        replies:
+        - id: 26464
+          parent_id: 26463
+          date: 2006-03-06 12:31
+          poster: Кожекин
+          email: kozhekin@mail.ru
+          subject: Про многих надо написать - там сейчас очень мало инфы
+          deleted: false
+          text: Кто бы взялся? Буквально раз в неделю присылать рассказ о группе,
+            концерт которой посетил, например.
+        - id: 26467
+          parent_id: 26463
+          date: 2006-03-06 13:39
+          poster: Dmitri Kazantsev (Dr. Nick)
+          email: dr.nick@blues.ru
+          subject: Г-н Майор
+          deleted: false
+          text: Я не расстроюсь :) Я ж не советский исполнитель, ты ж знаешь :)
+          replies:
+          - id: 26472
+            parent_id: 26467
+            date: 2006-03-06 15:43
+            poster: Старый Майор
+            email: gypsy@mail.ru
+            subject: Не советский, значит какой? антисоветский???
+            deleted: false
+            replies:
+            - id: 26477
+              parent_id: 26472
+              date: 2006-03-06 18:10
+              poster: Dmitri Kazantsev (Dr. Nick)
+              email: dr.nick@blues.ru
+              subject: можно и так сказать
+              deleted: false
+        - id: 26494
+          parent_id: 26463
+          date: 2006-03-07 10:18
+          poster: Кот
+          email: Кот@
+          subject: Верно! там ему и место!
+          deleted: false
+      - id: 26465
+        parent_id: 26462
+        date: 2006-03-06 12:33
+        poster: кожекин
+        email: kozhekin@mail.ru
+        subject: Потому что хтмл не отображается!
+        deleted: false
+        text: Я в шоке

@@ -1,0 +1,33 @@
+topic_id: 3073
+slug: topic-3073
+title: Дла тех кому интересно - Грег Алман Бенд + Робин Форд LIVE
+first_post: 2006-02-01 20:19
+last_post: 2006-02-01 23:55
+post_count: 3
+posts:
+- id: 25737
+  parent_id: null
+  date: 2006-02-01 20:19
+  poster: Doc.
+  email: d@d
+  subject: Дла тех кому интересно - Грег Алман Бенд + Робин Форд LIVE
+  deleted: false
+  text: "http://www.guitar-clips.com/GA&F/GA&F012505-Live%20@%20BB%20Kings%20in%20NYC/\
+    \ \n\n\n \nhttp://www.guitar-clips.com/GA&F/GA&F012105-Penn's%20Peak/"
+  replies:
+  - id: 25738
+    parent_id: 25737
+    date: 2006-02-01 20:38
+    poster: Дмитрий Казанцев (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: спасибо!!!
+    deleted: false
+    replies:
+    - id: 25740
+      parent_id: 25738
+      date: 2006-02-01 23:55
+      poster: Doc.
+      email: d@d
+      subject: You‘re welcome!
+      deleted: false
+      text: :-)

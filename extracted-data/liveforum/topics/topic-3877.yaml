@@ -1,0 +1,98 @@
+topic_id: 3877
+slug: topic-3877
+title: Маленькая девочка песенку запела...
+first_post: 2008-01-22 18:32
+last_post: 2008-01-26 15:10
+post_count: 8
+posts:
+- id: 34365
+  parent_id: null
+  date: 2008-01-22 18:32
+  poster: Старый Майор
+  email: gypsy@mail.ru
+  subject: Маленькая девочка песенку запела...
+  deleted: false
+  text: 'Совсем маленькая, 11 лет.
+
+
+    Читаем тут
+
+    http://www.nbc10.com/entertainment/9449871/detail.html
+
+
+    и смотрим тут
+
+    http://ahse0w.multiply.com/video/item/7
+
+
+    Дополнительные ссылки.
+
+    http://en.wikipedia.org/wiki/Bianca_Ryan
+
+    http://www.biancaryan.com/'
+  replies:
+  - id: 34368
+    parent_id: 34365
+    date: 2008-01-23 14:38
+    poster: Руслан Чифуров
+    email: chifuroff (sobaka) inbox.ru
+    subject: Какие дети пошли!
+    deleted: false
+  - id: 34369
+    parent_id: 34365
+    date: 2008-01-23 17:54
+    poster: Dmitri Kazantsev (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: баянн
+    deleted: false
+    replies:
+    - id: 34372
+      parent_id: 34369
+      date: 2008-01-24 12:09
+      poster: Andrei V. Evdokimov (evdokimov)
+      email: evdokimov@blues.ru
+      subject: голосистая
+      deleted: false
+      text: а это не она недавно двойку по математике получила? )
+      replies:
+      - id: 34374
+        parent_id: 34372
+        date: 2008-01-24 13:57
+        poster: Старый Майор
+        email: gypsy@mail.ru
+        subject: Нее, эта отличница..
+        deleted: false
+        text: А двойку получила другая, голосисистая...
+  - id: 34370
+    parent_id: 34365
+    date: 2008-01-23 21:49
+    poster: Kot Matraskin (KotMatraskin)
+    email: kotmatrs@mail.ru
+    subject: Да не...
+    deleted: false
+    text: "Конкурс типа утренней звезды - детские сандалики, вытянутые колготочки...\n\
+      А я тут послушал диск нашего одноо \"молодого дарования\".\nБлин. Ну все мимо.\
+      \ \nИ самое обидное - даже не научатся. Потому как и не будут учится. Потому\
+      \ как молодые дарования блин. Так и состарятся никуда не попадая."
+    replies:
+    - id: 34371
+      parent_id: 34370
+      date: 2008-01-24 11:30
+      poster: Алексей Аграновский (Док)
+      email: aaa@genebee.msu.su
+      subject: Ага, "Осень вундеркинда"
+      deleted: false
+      text: Знакомое явление.
+    - id: 34378
+      parent_id: 34370
+      date: 2008-01-26 15:10
+      poster: Владимир Русинов (BluesCat)
+      email: volodya@blues.ru
+      subject: эт кажется конкурс
+      deleted: false
+      text: 'типа "минуты славы" :) всетаки в америке многие из призеров в раннем
+        возрасте очень даже замечательно поют многие годы..... и что самое радостное
+        - попадают куда надо! :)
+
+
+        и вообще ж не только молодые дарования старятся никуда не попадая... ;)))'

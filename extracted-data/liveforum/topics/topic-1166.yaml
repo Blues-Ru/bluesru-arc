@@ -1,0 +1,94 @@
+topic_id: 1166
+slug: topic-1166
+title: Джем 11-го июня
+first_post: 2003-05-22 02:24
+last_post: 2003-05-23 15:35
+post_count: 8
+posts:
+- id: 12632
+  parent_id: null
+  date: 2003-05-22 02:24
+  poster: Дима Казанцев (Dr. Nick)
+  email: dr.nick@blues.ru
+  subject: Джем 11-го июня
+  deleted: false
+  text: 'Всё будет как обычно, но Ворон попросил провести этот джем в честь Хаулина
+    Вулфа - 10-го у него ДР.
+
+    В связи с этим прошу всех перцев подготовиться. Особенно хочется услышать певцов
+    и певиц по этой тематике.
+
+    У нас в программе есть несколько типичных вещей для Вулфа: Spoonful, The Red Rooster,
+    Who''s Been Talkin'', Back Door Man. Хочется больше. Что-нибудь типа Smokestack
+    Lightning, 300 Pounds Of Joy, Built For Comfort и т.д.
+
+    Особая просьба к Каверкину, Русинову, Федору с Димоном и Кожекину с Жуком. Имеется
+    в виду, что они петь тоже могут.
+
+    Просто хочется провести хороший джем где половина программы будет из репертуара
+    Хаулина Вулфа.
+
+    Ну что Вы думаете?'
+  replies:
+  - id: 12642
+    parent_id: 12632
+    date: 2003-05-22 11:42
+    poster: Andy mcletsoff (McL)
+    email: mcl@macbox.ru
+    subject: 300 Pounds Of Joy
+    deleted: false
+    text: 300 Pounds Of Joy должен спеть Мишурис ;)))
+  - id: 12678
+    parent_id: 12632
+    date: 2003-05-22 21:19
+    poster: Yuri Kaverkin (Gekko)
+    email: kaverkin@rol.ru
+    subject: Блин! Я только текст Back Door Man знаю, придется учить еще...
+    deleted: false
+    replies:
+    - id: 12686
+      parent_id: 12678
+      date: 2003-05-23 00:31
+      poster: Дима Казанцев (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: Ну выучи чего-нибудь, плиз
+      deleted: false
+      text: 'Хочешь помогу выбрать.
+
+        Ты любишь всякие тягучие дела, так для тебя в самый раз I Asked Her Water,
+        She Brought Me Gasoline!'
+      replies:
+      - id: 12724
+        parent_id: 12686
+        date: 2003-05-23 15:12
+        poster: Yuri Kaverkin (Gekko)
+        email: kaverkin@rol.ru
+        subject: Как насчет "I'm the Wolf"?
+        deleted: false
+        replies:
+        - id: 12728
+          parent_id: 12724
+          date: 2003-05-23 15:35
+          poster: Дима Казанцев (Dr. Nick)
+          email: dr.nick@blues.ru
+          subject: Да легко
+          deleted: false
+          text: Договорились!
+  - id: 12721
+    parent_id: 12632
+    date: 2003-05-23 14:59
+    poster: Жук
+    email: jouk@newmail.net
+    subject: Little Red Rooster? Evil?
+    deleted: false
+    text: ой, Дим, как лестно, серьёзно - вокалистом посчитали! буду еще думать, чтоб
+      это получше оно и позвоню тебе
+    replies:
+    - id: 12726
+      parent_id: 12721
+      date: 2003-05-23 15:12
+      poster: Дима Казанцев (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: Evil!
+      deleted: false
+      text: Вот ее и споешь!

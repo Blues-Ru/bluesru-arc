@@ -1,0 +1,44 @@
+topic_id: 3586
+slug: topic-3586
+title: Клевый блюз на актуальную тему
+first_post: 2007-03-07 20:20
+last_post: 2007-03-10 14:06
+post_count: 4
+posts:
+- id: 31545
+  parent_id: null
+  date: 2007-03-07 20:20
+  poster: Arsen
+  email: ragtime@blues.ru
+  subject: Клевый блюз на актуальную тему
+  deleted: false
+  text: "http://www.youtube.com/watch?v=MrL6Q2tygAE \nЗдорово воспринимается, в отличие\
+    \ от некоторых \"песени протеста\", не правда ли?"
+  replies:
+  - id: 31569
+    parent_id: 31545
+    date: 2007-03-09 16:38
+    poster: Muddy Lives
+    email: mlives_6@hotmail.com
+    subject: Отлично!
+    deleted: false
+    text: Jimmy Vaughan - молодец!
+  - id: 31573
+    parent_id: 31545
+    date: 2007-03-09 17:36
+    poster: BOODOOLAI
+    email: timot@mail.ru
+    subject: актуально, ничего не скажешь...
+    deleted: false
+    text: 'Афоризм тут прочитал : "Даже если Вы не шизофреник - это ещё не значит,
+      что за Вами не следят !"'
+    replies:
+    - id: 31588
+      parent_id: 31573
+      date: 2007-03-10 14:06
+      poster: Алексей Фролов (Buchothk)
+      email: jokerthk@yandex.ru
+      subject: '+1'
+      deleted: false
+      text: А что, действительно там это сейчас такая проблема?? У нас тут, я думаю,
+        на нашем веку до такого не дойдут...

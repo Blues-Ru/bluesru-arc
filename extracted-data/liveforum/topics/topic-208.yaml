@@ -1,0 +1,45 @@
+topic_id: 208
+slug: topic-208
+title: Записи Видара Бюска
+first_post: 2002-05-18 15:21
+last_post: 2002-05-18 15:56
+post_count: 4
+posts:
+- id: 4493
+  parent_id: null
+  date: 2002-05-18 15:21
+  poster: Петр Кунарев (Eastwood2002)
+  email: cousins@yandex.ru
+  subject: Записи Видара Бюска
+  deleted: false
+  text: Не знает ли кто-нибудь, кроме как в указанном норвежском интернет-магазине
+    нельзя достать кассеты или диски Бюска?
+  replies:
+  - id: 4494
+    parent_id: 4493
+    date: 2002-05-18 15:26
+    poster: Федор Романенко (fedor)
+    email: fedor@blues.ru
+    subject: Записи Бюска
+    deleted: false
+    text: Их можно будет купить на концертах в ограниченных количествах. Если что-то
+      очень нужно будет, я смогу переписать. Хотя, конечно, обложки там красивые,
+      лучше диск родной купить. Я думаю, что они будут с некоторой "российской скидкой"
+      продаваться.
+    replies:
+    - id: 4495
+      parent_id: 4494
+      date: 2002-05-18 15:47
+      poster: Петр Кунарев (Eastwood2002)
+      email: cousins@yandex.ru
+      subject: Цена
+      deleted: false
+      text: А хотя бы приблизительно - цена известна?
+      replies:
+      - id: 4497
+        parent_id: 4495
+        date: 2002-05-18 15:56
+        poster: Федор Романенко (fedor)
+        email: fedor@blues.ru
+        subject: Нет, пока...
+        deleted: false

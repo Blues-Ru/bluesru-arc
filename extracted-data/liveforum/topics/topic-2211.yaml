@@ -1,0 +1,73 @@
+topic_id: 2211
+slug: topic-2211
+title: EFES PILSENER BLUES FESTIVAL. Кто, где и когда в этом году??? Будет ли он?
+first_post: 2004-08-24 10:27
+last_post: 2004-09-07 09:59
+post_count: 7
+posts:
+- id: 19114
+  parent_id: null
+  date: 2004-08-24 10:27
+  poster: Сережа
+  email: overseas@elem.ru
+  subject: EFES PILSENER BLUES FESTIVAL. Кто, где и когда в этом году??? Будет ли
+    он?
+  deleted: false
+  replies:
+  - id: 19115
+    parent_id: 19114
+    date: 2004-08-24 10:49
+    poster: VoV  (Barmaley)
+    email: barmaley-vov@yandex.ru
+    subject: 'См. тут:'
+    deleted: false
+    text: http://www.silencepro.ru/will/will_4.html
+    replies:
+    - id: 19225
+      parent_id: 19115
+      date: 2004-09-07 09:54
+      poster: Сережа
+      email: starrr@mail.ru
+      subject: Спасибо превеликое!! А то весь инет облазил - никакой инфы найти не
+        мог. Смотрю, уже и Уфу задейстовали.
+      deleted: false
+  - id: 19118
+    parent_id: 19114
+    date: 2004-08-24 15:27
+    poster: Grem
+    email: grems@yandex.ru
+    subject: И що я там увидел....
+    deleted: false
+    text: 'Только даты и только. Опять заявлена в Москве площадка -УСЗ "Дружба"
+
+      (в прошлом году тоже самое было, только потом перенесли в "Горбушку")
+
+      А исполнители то кто елы-палы????'
+    replies:
+    - id: 19123
+      parent_id: 19118
+      date: 2004-08-25 10:54
+      poster: VoV  (Barmaley)
+      email: barmaley-vov@yandex.ru
+      subject: Товарищч дорогой!
+      deleted: false
+      text: Ну ежели устроители-организаторы об этом пока не сообщили публично, то
+        остальным-то откуда знать? :)
+  - id: 19119
+    parent_id: 19114
+    date: 2004-08-24 16:22
+    poster: Федор Романенко (fedor)
+    email: fedor@blues.ru
+    subject: Исполнители
+    deleted: false
+    text: Пока доподлинно известно только о Little Charlie & The Nightcats. И это
+      круто!!! ;)
+    replies:
+    - id: 19226
+      parent_id: 19119
+      date: 2004-09-07 09:59
+      poster: Сережа
+      email: s@m.ru
+      subject: Да это просто СУПЕРМОЩЬ!!! Случаются же у нас действительно музыкальные
+        события.
+      deleted: false

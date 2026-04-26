@@ -1,0 +1,52 @@
+topic_id: 3331
+slug: topic-3331
+title: Маленький отчет о Be Famous Blues
+first_post: 2006-07-12 20:46
+last_post: 2006-07-25 13:31
+post_count: 4
+posts:
+- id: 27880
+  parent_id: null
+  date: 2006-07-12 20:46
+  poster: Leonid
+  email: xx@xxx.ru
+  subject: Маленький отчет о Be Famous Blues
+  deleted: false
+  text: 'Маленький отчет о Be Famous Blues с фотографиями тут:
+
+    http://blog.phpworld.ru/archives/194-Festival_bljuza_Be_Famous_Blues.html'
+  replies:
+  - id: 27932
+    parent_id: 27880
+    date: 2006-07-20 17:33
+    poster: Миша
+    email: 532632@yahoo.com
+    subject: Пипл?
+    deleted: false
+    text: А сколько всего было народа?
+    replies:
+    - id: 27956
+      parent_id: 27932
+      date: 2006-07-22 11:30
+      poster: Миша
+      email: 55326@yahoo.com
+      subject: нашел
+      deleted: false
+      text: на том же сайте -- несколько сот человек. Скромно.
+      replies:
+      - id: 27970
+        parent_id: 27956
+        date: 2006-07-25 13:31
+        poster: Axle
+        email: axledog@mail.ru
+        subject: Если считать всех, всех, всех - около 1500 человек
+        deleted: false
+        text: 'Но погодка-то была, а
+
+          другой фестиваль просто убило бы
+
+          Даже из заранее куплнных билетов, пришло две трети....
+
+          если бы распогодилось, насчитали бы не менее 3000....
+
+          Так то.'

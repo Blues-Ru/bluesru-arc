@@ -1,0 +1,48 @@
+topic_id: 3010
+slug: topic-3010
+title: Ищу друга!
+first_post: 2005-12-22 15:38
+last_post: 2005-12-23 08:38
+post_count: 3
+posts:
+- id: 25204
+  parent_id: null
+  date: 2005-12-22 15:38
+  poster: Влад
+  email: gemst@kp.ru
+  subject: Ищу друга!
+  deleted: false
+  text: 'Дамы и Господа!
+
+
+    Приношу извинения за то,
+
+    что отрываю от темы вечного искусства,
+
+    но так уж сложилось, что мне надо срочно найти координаты Юры Дементьева.
+
+
+    Можете ли подсказать мне его координаты или сообщить ему мою почту?
+
+
+    С уважением,
+
+    Влад Гемст
+
+    gemst@kp.ru'
+  replies:
+  - id: 25205
+    parent_id: 25204
+    date: 2005-12-22 15:40
+    poster: Влад
+    email: gemst@kp.ru
+    subject: т.е. Дементьева Юру.
+    deleted: false
+    replies:
+    - id: 25209
+      parent_id: 25205
+      date: 2005-12-23 08:38
+      poster: Дмитрий Казанцев (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: увижу, передам
+      deleted: false

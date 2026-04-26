@@ -1,0 +1,52 @@
+topic_id: 1274
+slug: topic-1274
+title: Svet & Al
+first_post: 2003-07-21 16:57
+last_post: 2003-07-24 19:45
+post_count: 5
+posts:
+- id: 13283
+  parent_id: null
+  date: 2003-07-21 16:57
+  poster: Федор Романенко (fedor)
+  email: fedor@blues.ru
+  subject: Svet & Al
+  deleted: false
+  text: Я узнал от Макарки, что они вдвоем приедут 31го июля, чтобы сыграть вечер
+    во Владимире. Вроде бы, приезжают ненадолго, но если кто-то куда-нибудь захочет
+    их позвать, имейте в виду...
+  replies:
+  - id: 13290
+    parent_id: 13283
+    date: 2003-07-21 22:46
+    poster: baltika
+    email: baltika-blues@narod.ru
+    subject: приедут? уже? а у меня пироги не готовы...)
+    deleted: false
+    text: наконец-то! кстати, если "кто-нибудь" их куда-нибудь позовёт огромная просьба
+      - зовите погромче, чтоб и мне услышалось))
+    replies:
+    - id: 13291
+      parent_id: 13290
+      date: 2003-07-21 23:36
+      poster: baltika
+      email: baltika-blues@narod.ru
+      subject: а владимирцы шустрыыыы.........(-) (((
+      deleted: false
+      replies:
+      - id: 13309
+        parent_id: 13291
+        date: 2003-07-24 09:46
+        poster: Андрей Ордальонов (Андрей PRG)
+        email: peregnoy@mail.ru
+        subject: А помома
+        deleted: false
+        text: впоне намана, а?
+        replies:
+        - id: 13312
+          parent_id: 13309
+          date: 2003-07-24 19:45
+          poster: baltika
+          email: baltika-blues@narod.ru
+          subject: они супер!!! (-)
+          deleted: false

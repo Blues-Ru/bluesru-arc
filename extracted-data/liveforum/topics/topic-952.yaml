@@ -1,0 +1,24 @@
+topic_id: 952
+slug: topic-952
+title: Тест
+first_post: 2002-04-24 04:19
+last_post: 2002-04-24 07:06
+post_count: 2
+posts:
+- id: 4046
+  parent_id: null
+  date: 2002-04-24 04:19
+  poster: Дима Казанцев (Dr. Nick)
+  email: dr.nick@blues.ru
+  subject: Тест
+  deleted: false
+  text: Тест
+  replies:
+  - id: 4050
+    parent_id: 4046
+    date: 2002-04-24 07:06
+    poster: Malcolm Ray    Readriver (Mike)
+    email: Mrg_mike@rambler.ru
+    subject: What
+    deleted: false
+    text: SW то есть So what?

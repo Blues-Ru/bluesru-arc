@@ -1,0 +1,47 @@
+topic_id: 4872
+slug: topic-4872
+title: Это "Blues.ru",или сайт кожекина?
+first_post: 2012-05-20 16:43
+last_post: 2012-05-27 10:39
+post_count: 5
+posts:
+- id: 38379
+  parent_id: null
+  date: 2012-05-20 16:43
+  poster: Valery
+  subject: Это "Blues.ru",или сайт кожекина?
+  deleted: false
+  text: Достало:как не зайду на ленту,там,блин,кожекин!!!!
+  replies:
+  - id: 38380
+    parent_id: 38379
+    date: 2012-05-20 20:36
+    poster: Andrei V. Evdokimov
+    subject: кожекина и должно быть много - такого свойство настоящего кожекина
+    deleted: false
+    text: но тут на форуме его как раз редко встретишь. )))
+  - id: 38381
+    parent_id: 38379
+    date: 2012-05-20 20:57
+    poster: Тимур
+    subject: Достало
+    deleted: false
+    text: ':-)
+
+      Да, ладно вам, Кожекин - не самая страшная вещь в российском блюзе. Даже можно
+      сказать, что одна из приличных вещей. :-)'
+  - id: 38384
+    parent_id: 38379
+    date: 2012-05-26 19:43
+    poster: Юрий
+    subject: .
+    deleted: false
+    text: А кто такой - Кожекин?
+    replies:
+    - id: 38387
+      parent_id: 38384
+      date: 2012-05-27 10:39
+      poster: kishinevets
+      subject: это - страшный человек !
+      deleted: false
+      text: в том смысле, что страшно интересный...

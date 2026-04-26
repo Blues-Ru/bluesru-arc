@@ -1,0 +1,51 @@
+topic_id: 4062
+slug: topic-4062
+title: skeen deep
+first_post: 2008-08-15 02:37
+last_post: 2008-08-19 14:21
+post_count: 4
+posts:
+- id: 35671
+  parent_id: null
+  date: 2008-08-15 02:37
+  poster: plaksa
+  email: krikunov@yandex.ru
+  subject: skeen deep
+  deleted: false
+  text: 'Послушал новый альбом Бади Гая, и мне кажется, что это лучшее что на сегодняшний
+    день есть в блюзе.
+
+    Что скажете, знатоки?'
+  replies:
+  - id: 35674
+    parent_id: 35671
+    date: 2008-08-16 14:08
+    poster: Andrei V. Evdokimov (evdokimov)
+    email: evdokimov@blues.ru
+    subject: Skin Deep
+    deleted: false
+    text: Альбом правильный... Если кто еще не слышал,можно послушать сегодня ночью
+      на "Эхе Москвы"
+    replies:
+    - id: 35676
+      parent_id: 35674
+      date: 2008-08-16 19:26
+      poster: Эльдар
+      email: Эльдар
+      subject: beauty is always skin deep
+      deleted: false
+      text: 'Нет ли ссылки на скачивание этого альбома? Хочется послушать.
+
+        Где-то я слыхал эту фразу: You know the beauty is always skin deep... Не помню
+        где...'
+  - id: 35680
+    parent_id: 35671
+    date: 2008-08-19 14:21
+    poster: Muddy Lives
+    email: mlives_6@hotmail.com
+    subject: Beauty's Only Skin Deep
+    deleted: false
+    text: 'David Ruffin & The Temptations пели эту песню.
+
+
+      Muddy'

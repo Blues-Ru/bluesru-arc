@@ -1,0 +1,34 @@
+topic_id: 3142
+slug: topic-3142
+title: У меня вышел диск
+first_post: 2006-03-09 11:35
+last_post: 2006-03-09 15:38
+post_count: 3
+posts:
+- id: 26501
+  parent_id: null
+  date: 2006-03-09 11:35
+  poster: moi
+  email: moi@msx.ru
+  subject: У меня вышел диск
+  deleted: false
+  text: "Инструментальный блюз-рок \n\nНа сайте www.moi.tut.ru в разделе \"Аудио\"\
+    \ можно скачать мп3 треков"
+  replies:
+  - id: 26502
+    parent_id: 26501
+    date: 2006-03-09 11:38
+    poster: moi
+    email: moi@msx.ru
+    subject: test
+    deleted: false
+    text: тест
+  - id: 26503
+    parent_id: 26501
+    date: 2006-03-09 15:38
+    poster: Старый Майор
+    email: gypsy@mail.ru
+    subject: Ми скачали треков...
+    deleted: false
+    text: ..очень нам понравилась идея прославления Господа нашего посредством каверов
+      Лед Зеппелин =))

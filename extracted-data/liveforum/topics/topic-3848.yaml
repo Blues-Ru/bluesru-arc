@@ -1,0 +1,31 @@
+topic_id: 3848
+slug: topic-3848
+title: СНГ, блюзманы!
+first_post: 2008-01-01 00:09
+last_post: 2008-01-08 10:20
+post_count: 3
+posts:
+- id: 34220
+  parent_id: null
+  date: 2008-01-01 00:09
+  poster: Dmitri Kazantsev (Dr. Nick)
+  email: dr.nick@blues.ru
+  subject: СНГ, блюзманы!
+  deleted: false
+  replies:
+  - id: 34257
+    parent_id: 34220
+    date: 2008-01-08 02:06
+    poster: Dima
+    email: BratNikotin@Yahoo.com
+    subject: ??
+    deleted: false
+    text: То есть, это пустой трэд, понимать как "нету в СНГ таковых"?
+    replies:
+    - id: 34258
+      parent_id: 34257
+      date: 2008-01-08 10:20
+      poster: Dmitri Kazantsev (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: С Новым годом!
+      deleted: false

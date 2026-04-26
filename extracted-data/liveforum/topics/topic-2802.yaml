@@ -1,0 +1,56 @@
+topic_id: 2802
+slug: topic-2802
+title: Интересно,цены на Горбушке действительно такие???
+first_post: 2005-09-20 15:35
+last_post: 2005-09-20 19:04
+post_count: 6
+posts:
+- id: 23334
+  parent_id: null
+  date: 2005-09-20 15:35
+  poster: Валентин
+  email: voshalb@rambler.ru
+  subject: Интересно,цены на Горбушке действительно такие???
+  deleted: false
+  text: Танцевальный партер - 750 р,свободный балкон - 1100...Как-то нехило)))
+  replies:
+  - id: 23335
+    parent_id: 23334
+    date: 2005-09-20 15:42
+    poster: Владимир Русинов (BluesCat)
+    email: volodya@blues.ru
+    subject: я думаю надо брать танцевальный балкон
+    deleted: false
+    replies:
+    - id: 23336
+      parent_id: 23335
+      date: 2005-09-20 16:02
+      poster: Старый Майор
+      email: gypsy@mail.ru
+      subject: Балкон приносить с собой! а то на всех не хватит!
+      deleted: false
+  - id: 23337
+    parent_id: 23334
+    date: 2005-09-20 17:05
+    poster: Алексей Аграновский (Док)
+    email: aaa@genebee.msu.su
+    subject: О как!
+    deleted: false
+    text: А мы ещё стеснялись, что ЦДХ назначил на Праймера цены от 300 до 600 рублей
+      - дескать, не дорого ли студенчеству встанет...
+    replies:
+    - id: 23338
+      parent_id: 23337
+      date: 2005-09-20 18:46
+      poster: Axle
+      email: axledog@mail.ru
+      subject: Это из за нефти
+      deleted: false
+      replies:
+      - id: 23339
+        parent_id: 23338
+        date: 2005-09-20 19:04
+        poster: VoV  (Barmaley)
+        email: barmaley-vov@yandex.ru
+        subject: Она, проклятая...
+        deleted: false

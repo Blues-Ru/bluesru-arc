@@ -1,0 +1,25 @@
+topic_id: 1651
+slug: topic-1651
+title: прочитал, что Джуниору ....
+first_post: 2003-12-09 12:44
+last_post: 2003-12-09 18:06
+post_count: 2
+posts:
+- id: 16139
+  parent_id: null
+  date: 2003-12-09 12:44
+  poster: John
+  email: ssy@ac.com.ru
+  subject: прочитал, что Джуниору ....
+  deleted: false
+  text: "сегодня было бы 69.\nКайфовейший музыкант. \nобязательно сегодня послушаю\
+    \ парочку его компактов и попью крепких напитков поэтому поводу."
+  replies:
+  - id: 16141
+    parent_id: 16139
+    date: 2003-12-09 18:06
+    poster: Дмитрий(fan)
+    email: Leonidovd@mail.ru
+    subject: Послушать - это обязательно!
+    deleted: false
+    text: А вот каждый раз рюмку поднимать - эх, здоровья не хватит....

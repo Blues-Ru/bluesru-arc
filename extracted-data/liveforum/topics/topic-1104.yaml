@@ -1,0 +1,26 @@
+topic_id: 1104
+slug: topic-1104
+title: Прикол
+first_post: 2002-03-05 20:24
+last_post: 2002-03-05 23:56
+post_count: 2
+posts:
+- id: 1890
+  parent_id: null
+  date: 2002-03-05 20:24
+  poster: Андрей PRG
+  email: peregnoy@mail.ru
+  subject: Прикол
+  deleted: false
+  text: Тут на работе у одного бойца на столе мне попался рекламный буклетик со списком
+    московских клубов. Так вот там был прописан адрес BBKing'a как www.bbking.ru Желающим
+    рекомендую посмотреть.
+  replies:
+  - id: 1899
+    parent_id: 1890
+    date: 2002-03-05 23:56
+    poster: Федор Романенко (fedor)
+    email: fedor@blues.ru
+    subject: Или еще...
+    deleted: false
+    text: http://bbking.blues.ru или http://b.b.king.blues.ru ;)

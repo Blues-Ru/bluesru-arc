@@ -1,0 +1,62 @@
+topic_id: 3712
+slug: topic-3712
+title: 'из СПб пишут:'
+first_post: 2007-08-10 12:31
+last_post: 2007-08-10 18:30
+post_count: 6
+posts:
+- id: 33349
+  parent_id: null
+  date: 2007-08-10 12:31
+  poster: Andrei V. Evdokimov (evdokimov)
+  email: evdokimov@blues.ru
+  subject: 'из СПб пишут:'
+  deleted: false
+  text: Сегодня, с 22.00 до 23.00 на стрелке Васильевского острова пройдет шоу-представление
+    "Каменный лев" - исполнение вживую блюзов, посвященных Санкт-Петербургу. Также
+    вживую, под музыку, будет "играть" фонтан на Неве - уникальное представление,
+    так как обычно светомузыкальные фонтанные шоу проходят в записи.
+  replies:
+  - id: 33353
+    parent_id: 33349
+    date: 2007-08-10 15:15
+    poster: Dmitri Kazantsev (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: '"вживую блюзов" - это новый стиль?'
+    deleted: false
+    text: или как "в живого человека..."?
+  - id: 33355
+    parent_id: 33349
+    date: 2007-08-10 15:24
+    poster: Andrei V. Evdokimov (evdokimov)
+    email: evdokimov@blues.ru
+    subject: а
+    deleted: false
+    text: '"блюзов, посвященных Санкт-Петербургу" - весь концерт?'
+    replies:
+    - id: 33357
+      parent_id: 33355
+      date: 2007-08-10 18:02
+      poster: Dmitri Kazantsev (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: Pittsburg, PA?
+      deleted: false
+    - id: 33360
+      parent_id: 33355
+      date: 2007-08-10 18:20
+      poster: Игорь Головачев (Игорь Г.)
+      email: sunny_city@mail.ru
+      subject: хе-хе-хе
+      deleted: false
+      replies:
+      - id: 33361
+        parent_id: 33360
+        date: 2007-08-10 18:30
+        poster: Игорь Головачев (Игорь Г.)
+        email: sunny_city@mail.ru
+        subject: Навеяло
+        deleted: false
+        text: А помните,как-то я тут приводил цитату из МК. Типа на дне рожденья у
+          Пугачевой всё веселье,КАК ОБЫЧНО, начинается (после того как бухнут наверное)с
+          пения блюзов. А им-то .ули профессионалы они и есть профессионалы. Одно
+          слово- ЗВЁЗДЫ

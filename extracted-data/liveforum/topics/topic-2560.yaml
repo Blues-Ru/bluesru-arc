@@ -1,0 +1,25 @@
+topic_id: 2560
+slug: topic-2560
+title: Обнаружен ещё один Кинг...
+first_post: 2005-05-06 15:38
+last_post: 2005-05-06 16:27
+post_count: 2
+posts:
+- id: 21393
+  parent_id: null
+  date: 2005-05-06 15:38
+  poster: Старый Майор
+  email: gypsy@mail.ru
+  subject: Обнаружен ещё один Кинг...
+  deleted: false
+  text: "А зовут его Эрнест. \nТихо послушать альбом с красноречивым названием King\
+    \ Of Hearts можно здесь:\n\nhttp://gypsy.bluesman.ru/Ernest%20King%20-%20King%20of%20Hearts/"
+  replies:
+  - id: 21394
+    parent_id: 21393
+    date: 2005-05-06 16:27
+    poster: Алексей Аграновский (Док)
+    email: aaa@genebee.msu.su
+    subject: 'Партийная кличка :'
+    deleted: false
+    text: '"Эрнест Неизвестный".'

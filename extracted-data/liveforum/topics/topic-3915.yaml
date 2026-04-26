@@ -1,0 +1,29 @@
+topic_id: 3915
+slug: topic-3915
+title: Большое интервью с Билли Бой Арнольдом
+first_post: 2008-02-22 16:15
+last_post: 2008-02-22 16:32
+post_count: 2
+posts:
+- id: 34783
+  parent_id: null
+  date: 2008-02-22 16:15
+  poster: Konstantin  (Wheel)
+  email: wheel.k@gmail.com
+  subject: Большое интервью с Билли Бой Арнольдом
+  deleted: false
+  text: 'Может и не свежее, но я увидел впервые и надеюсь, кого-нибудь оно заинтересует.
+
+
+    http://www.richieunterberger.com/arnold.html'
+  replies:
+  - id: 34784
+    parent_id: 34783
+    date: 2008-02-22 16:32
+    poster: Старый Майор
+    email: gypsy@mail.ru
+    subject: О да.. знаменитое интервью!
+    deleted: false
+    text: 'Очень полезно периодически перечитывать, столько имён и событий описывается.
+
+      А от одного упоминания имени гитариста Jody Williams у меня на душе теплеет!'

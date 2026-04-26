@@ -1,0 +1,62 @@
+topic_id: 1061
+slug: topic-1061
+title: прошу совета...
+first_post: 2002-02-23 01:41
+last_post: 2002-02-23 04:34
+post_count: 4
+posts:
+- id: 1569
+  parent_id: null
+  date: 2002-02-23 01:41
+  poster: Вадим  (AVA)
+  email: vad2908@mail.ru
+  subject: прошу совета...
+  deleted: false
+  text: '...у уважаемой публики!
+
+    Мне намедне один дух предложил компашку у него прикупить за 6 зеленых,
+
+    посоветуйте, брать - не брать?
+
+    А компашка называется:
+
+    RARE CHICAGO BLUES, 1962-68
+
+    записи из коллекции какого-то Нормана Дайрона.
+
+    Как быть (компашку я не видел - кто и что там, не знаю, да и дух, похоже, ни ...
+    не знает..)'
+  replies:
+  - id: 1570
+    parent_id: 1569
+    date: 2002-02-23 02:07
+    poster: Sergei  Kiritchenko (VoID)
+    email: skvoid@yahoo.com
+    subject: Вадим, ты чё!
+    deleted: false
+    text: 'в поиск, батенька, в поиск :) - http://www.allmusic.com/cg/amg.dll?p=amg&sql=A5m7tk6sxlkrj
+
+      Надо сказать "перцы" на том компакте самые блюзовые ;)
+
+      Особенно мне кажутся интересными 8, 15 и 17 треки... чёрт, не знаю даже что
+      тебе сказать, сам ломаюсь - может мне взять... :)
+
+      Ты оцени сам содержание... какие перцы там.... :)))'
+    replies:
+    - id: 1582
+      parent_id: 1570
+      date: 2002-02-23 03:43
+      poster: Вадим  (AVA)
+      email: vad2908@mail.ru
+      subject: '...да, взял я, уж не беспокойся...(-)'
+      deleted: false
+      text: '1'
+      replies:
+      - id: 1585
+        parent_id: 1582
+        date: 2002-02-23 04:34
+        poster: Sergei  Kiritchenko (VoID)
+        email: skvoid@yahoo.com
+        subject: хороший у тебя ночной магазин :) (-)
+        deleted: false
+        text: '1'

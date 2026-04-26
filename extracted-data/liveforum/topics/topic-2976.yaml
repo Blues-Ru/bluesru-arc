@@ -1,0 +1,31 @@
+topic_id: 2976
+slug: topic-2976
+title: Поздравляю с Днём Рождения!
+first_post: 2005-12-05 18:34
+last_post: 2005-12-06 15:18
+post_count: 3
+posts:
+- id: 24861
+  parent_id: null
+  date: 2005-12-05 18:34
+  poster: Маша Диброва (Dibrova)
+  email: dibrova_blues@mail.ru
+  subject: Поздравляю с Днём Рождения!
+  deleted: false
+  text: Хочу поздравить с Днём Рождения замечательного блюзового басиста -господина
+    Валерия Серёгина!
+  replies:
+  - id: 24865
+    parent_id: 24861
+    date: 2005-12-05 20:22
+    poster: Yuri Kaverkin (Gekko)
+    email: kaverkin@rol.ru
+    subject: Валере - человеку, басисту, баянисту,мультинструменталисту - многие летаааааааааааааа!!!!!!!!!!!
+    deleted: false
+  - id: 24882
+    parent_id: 24861
+    date: 2005-12-06 15:18
+    poster: Andy McLetsoff (McL)
+    email: mcl@macbox.ru
+    subject: Наитеплейшие поздравления! Pump it Up!
+    deleted: false

@@ -1,0 +1,27 @@
+topic_id: 2685
+slug: topic-2685
+title: До сих пор про фестиваль пишут, хоть и косвенно...
+first_post: 2005-08-04 12:50
+last_post: 2005-08-04 14:39
+post_count: 2
+posts:
+- id: 22224
+  parent_id: null
+  date: 2005-08-04 12:50
+  poster: Анна Солдатенкова (Нюся)
+  email: anjuta1982@bk.ru
+  subject: До сих пор про фестиваль пишут, хоть и косвенно...
+  deleted: false
+  text: 'А вот еще косвенные отзывы про фестиваль...
+
+    http://www.dni.ru/news/showbiz/2005/8/2/67675.html'
+  replies:
+  - id: 22225
+    parent_id: 22224
+    date: 2005-08-04 14:39
+    poster: VoV  (Barmaley)
+    email: barmaley-vov@yandex.ru
+    subject: И есть же люди,
+    deleted: false
+    text: которые такую хрень пишут. Но что самое удивительное - те, кто этим искренне
+      интересуется....

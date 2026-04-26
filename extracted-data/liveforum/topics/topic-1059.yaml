@@ -1,0 +1,24 @@
+topic_id: 1059
+slug: topic-1059
+title: Пора FAQ писать...
+first_post: 2002-02-22 22:31
+last_post: 2002-02-22 22:38
+post_count: 2
+posts:
+- id: 1531
+  parent_id: null
+  date: 2002-02-22 22:31
+  poster: Федор Романенко (fedor)
+  email: fedor@blues.ru
+  subject: Пора FAQ писать...
+  deleted: false
+  text: Первый вопрос - чем отличается блюз от джаза.
+  replies:
+  - id: 1538
+    parent_id: 1531
+    date: 2002-02-22 22:38
+    poster: Дима Казанцев (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: Проснулся что ли наконец?
+    deleted: false
+    text: Ты молчишь неделями, а потом вдруг начинаешь тут всех строить ;)

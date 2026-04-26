@@ -1,0 +1,40 @@
+topic_id: 274
+slug: topic-274
+title: Блюз на японском  ...
+first_post: 2002-08-13 23:31
+last_post: 2002-08-16 17:34
+post_count: 4
+posts:
+- id: 6752
+  parent_id: null
+  date: 2002-08-13 23:31
+  poster: Руслан Абдалов (RR)
+  email: RR@RAMBLER.RU
+  subject: Блюз на японском  ...
+  deleted: false
+  text: "... это супер! :) А вот еще нет ли ни у кого DEEP PURPLE - SMOKE ON THE WATER\
+    \ на японском ? \n\nСлышал отрывок по радио, звучит тоже классно ..."
+  replies:
+  - id: 6761
+    parent_id: 6752
+    date: 2002-08-14 13:31
+    poster: Андрей Цыганков
+    email: gypsy@mail.ru
+    subject: На турецком бы послушать...
+    deleted: false
+    replies:
+    - id: 6767
+      parent_id: 6761
+      date: 2002-08-15 12:17
+      poster: MX
+      email: оумпл
+      subject: попал пальцем в небо))))))) рассказать,как это?(-)
+      deleted: false
+  - id: 6798
+    parent_id: 6752
+    date: 2002-08-16 17:34
+    poster: Александр Артемов  (АртёмЫч)
+    email: alex_82@bk.ru
+    subject: Осталось окосеть!
+    deleted: false
+    text: Вот когда мы с тобой встретимся ты мне напой на языке самураев... :)

@@ -1,0 +1,24 @@
+topic_id: 3755
+slug: topic-3755
+title: интересуется
+first_post: 2007-10-08 17:00
+last_post: 2007-10-08 20:56
+post_count: 2
+posts:
+- id: 33602
+  parent_id: null
+  date: 2007-10-08 17:00
+  poster: Киев
+  email: ормдлом
+  subject: интересуется
+  deleted: false
+  text: Сколько будет стоит билет на Эфесблюзфест? Спасибо за информацию )))
+  replies:
+  - id: 33603
+    parent_id: 33602
+    date: 2007-10-08 20:56
+    poster: Grem
+    email: grems@yandex.ru
+    subject: 1000р
+    deleted: false
+    text: Cцуки,спекулянты.

@@ -1,0 +1,187 @@
+topic_id: 2613
+slug: topic-2613
+title: Привет от Брозмана!
+first_post: 2005-06-10 23:05
+last_post: 2005-06-13 21:13
+post_count: 15
+posts:
+- id: 21706
+  parent_id: null
+  date: 2005-06-10 23:05
+  poster: Федор Романенко (fedor)
+  email: fedor@blues.ru
+  subject: Привет от Брозмана!
+  deleted: false
+  text: 'Боб любезно разрешил переводить его уроки и вешать на блюз.ру. Арсен перевел
+    первый урок, спасибо Арсену!
+
+
+    http://www.blues.ru/lessons/brozman_tip_slide.htm'
+  replies:
+  - id: 21710
+    parent_id: 21706
+    date: 2005-06-11 15:18
+    poster: Лев Кузнецов (lvk)
+    email: lvk@inbox.ru
+    subject: '"Струны средней толщины"'
+    deleted: false
+    text: 'Спасибо большое и автору, и переводчику, и всем причастным к!
+
+
+      В порядке придирки: medium gauge strings по-русски никто не называет "струнами
+      средней толщины" --- в русскоязычной среде обычно говорят "тринадцатые струны"
+      (первая струна --- .013 дюйма).'
+    replies:
+    - id: 21713
+      parent_id: 21710
+      date: 2005-06-11 17:48
+      poster: Elicaster
+      email: elicaster(@)))mmmmmmmmmmail.ru
+      subject: тринадцатые струны это струны средней толщины?
+      deleted: false
+      text: 'тринадцатые струны это струны средней толщины? у srv были именно такие,
+        а они ж супертолстенные.
+
+        поясните, пожалуйста. может я что то не верно уловил?'
+      replies:
+      - id: 21718
+        parent_id: 21713
+        date: 2005-06-12 02:14
+        poster: Дима Казанцев (Dr. Nick)
+        email: dr.nick@blues.ru
+        subject: это не просто толстые
+        deleted: false
+        text: 'это "играть невозможно" :)
+
+          хотя я иногда играю на 12-тых. на стил-гитару поставлю 12, а не 11.'
+        replies:
+        - id: 21723
+          parent_id: 21718
+          date: 2005-06-12 12:08
+          poster: Руслан Чифуров ()
+          email: chifuroff@inbox.ru
+          subject: А что уж говорить тогда про 16-е :-)))))
+          deleted: false
+          text: Брозман помнится на мастер-классе говорил, что использует 16-е струны
+            :-)))))
+          replies:
+          - id: 21735
+            parent_id: 21723
+            date: 2005-06-12 18:09
+            poster: Дима Казанцев (Dr. Nick)
+            email: dr.nick@blues.ru
+            subject: а где он их берет?
+            deleted: false
+            text: и как строит?
+      - id: 21719
+        parent_id: 21713
+        date: 2005-06-12 02:16
+        poster: Дима Казанцев (Dr. Nick)
+        email: dr.nick@blues.ru
+        subject: у СРВ
+        deleted: false
+        text: гитара была на пол-тона ниже настроена. и 13 струны для электро-гитары
+          - это совсем другое (я толще 11 не видел, кстати). там 3-я струна с обмоткой,
+          так что я не знаю как он на них играл (возможно, это просто сказки).
+        replies:
+        - id: 21728
+          parent_id: 21719
+          date: 2005-06-12 14:30
+          poster: Elicaster
+          email: elicaster(@)))mmmmmmmmmmail.ru
+          subject: настройка на пол-тона ниже; пальцы в клею
+          deleted: false
+          text: 'Дим, а сильно ли (заметно ли) сказывается настройка гитары со струнами
+            13 на пол-тона ниже?
+
+            Я часто втречал упамянания о том что СРВ играл на таких струнах, поэтому
+            не сомневаюсь что так оно и было.
+
+            А вот недавно прочёл такую фигню будто он, что бы не очень сильно уродовать
+            руки, опускал кончики пальцев в мгновенный клей (тот что за несколько
+            секунд сохнет). Но после концерта или репетиций -- всё до мяса-крови...
+            Об этом написано в книге “Stevie Ray Vaughan: Caught in the Crossfire”
+            в интервью 28.06.1993 Патоски (один из авторов) в присутствии DT, Buddy,
+            Эрика  сказал следующее:
+
+            His[SRV] contemporaries would have had blood all over their fingertips,
+            and in fact Stevie had on numerous occasions torn up his fingers in such
+            a way that he rather than ah go to a lighter gauge string he just whipped
+            out some crazy glue, put them on any cuts or or torn calluses on his finger
+            and got back out there and played. I think that those physical abilities
+            to to handle something that tough made his playing sound tougher.
+
+            <i>Я сам эту книгу не читал, этот фрагмент я скопировал с <a href="http://www.beatles.ru/postman/forum_messages.asp?msg_id=5586&cpage=16">форума</a>  </i>
+
+            С удивлением об этом читаю... Всё-таки похоже на вымысел. Я не думаю что
+            даже при его агресивной манере игры его пальцы разбивались в кровь (т.к.
+            многолетняя практика укрепляет кожу пальцев), и я прям не знаю, даже сомневаюсь,
+            что клей как-то может помочь. Хотелось бы узать: может ли это на самом
+            деле помочь?'
+          replies:
+          - id: 21729
+            parent_id: 21728
+            date: 2005-06-12 14:44
+            poster: Руслан Чифуров ()
+            email: chifuroff@inbox.ru
+            subject: Это я тоже слышал...
+            deleted: false
+            text: Но скорее похоже на легенду. Супер-клей очень хрупкий, и он растрескается
+              и отскочит после первых же подтяжек. Даже если это имело место- всёравно
+              клей не спасёт.
+            replies:
+            - id: 21737
+              parent_id: 21729
+              date: 2005-06-12 18:12
+              poster: Дима Казанцев (Dr. Nick)
+              email: dr.nick@blues.ru
+              subject: точно вымысел
+              deleted: false
+              text: да
+          - id: 21736
+            parent_id: 21728
+            date: 2005-06-12 18:11
+            poster: Дима Казанцев (Dr. Nick)
+            email: dr.nick@blues.ru
+            subject: еще как сильно влияет, но я не верю про 13 струны
+            deleted: false
+            text: что за чушь про МЯСО и КРОВЬ?
+      - id: 21748
+        parent_id: 21713
+        date: 2005-06-13 16:17
+        poster: Лев Кузнецов (lvk)
+        email: lvk@inbox.ru
+        subject: Это _название_.
+        deleted: false
+        text: Да, они толстенные. Но в данном случае "medium" --- это не качество,
+          а _название_. .013" струны для акустики _называются_ medium, .012" --- light,
+          .011" --- custom light, а .010" --- extra light (в чём легко убедиться,
+          посмотрев на маркировку на упаковке,  например). Так исторически сложилось
+          :)
+      - id: 21749
+        parent_id: 21713
+        date: 2005-06-13 16:22
+        poster: Лев Кузнецов (lvk)
+        email: lvk@inbox.ru
+        subject: Это ж про акустику!
+        deleted: false
+        text: SRV на электрогитаре играл. А обсуждаемая здесь "номенклатура" относится
+          исключительно к акустике (в том числе и резонаторной, как у Брозмана).
+        replies:
+        - id: 21759
+          parent_id: 21749
+          date: 2005-06-13 21:13
+          poster: Elicaster
+          email: elicaster(@)))mmmmmmmmmmail.ru
+          subject: Тогда понятно
+          deleted: false
+          text: 'А-а-а... Тогда усё понятно.
+
+            Спасибо за простое и ясное пояснение.'
+    - id: 21714
+      parent_id: 21710
+      date: 2005-06-11 19:38
+      poster: Arsen
+      email: ragtime@blues.ru
+      subject: Совершенно верно, спасибо за поправку -
+      deleted: false

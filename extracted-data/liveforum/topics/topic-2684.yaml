@@ -1,0 +1,54 @@
+topic_id: 2684
+slug: topic-2684
+title: Я тут поворчу немножко..
+first_post: 2005-08-03 18:27
+last_post: 2005-08-04 11:36
+post_count: 5
+posts:
+- id: 22217
+  parent_id: null
+  date: 2005-08-03 18:27
+  poster: Старый Пуританин
+  email: gypsy@mail.ru
+  subject: Я тут поворчу немножко..
+  deleted: false
+  text: 'Сначала Гарик Сукачёв как хедлайнер блюзового фестиваля.
+
+    Потом какая-то невнятная Marlene Dorcena на титуле блюзового сайта...
+
+
+    Чё дальше-то будет?'
+  replies:
+  - id: 22218
+    parent_id: 22217
+    date: 2005-08-03 18:46
+    poster: Axle
+    email: axledog@mail.ru
+    subject: сукачев небыл хедлайнером
+    deleted: false
+    text: смотрите программу.
+  - id: 22219
+    parent_id: 22217
+    date: 2005-08-03 19:08
+    poster: Ded Morozzz
+    email: morozzz_ded@mail.ru
+    subject: 'Дальше будет так:'
+    deleted: false
+    text: Все умрут и никакая невнятная Марлен не достанет настоящих ценителей блюза.
+  - id: 22220
+    parent_id: 22217
+    date: 2005-08-03 23:48
+    poster: Andrei V. Evdokimov (evdokimov)
+    email: evdokimov@blues.ru
+    subject: а че может быть дальше?
+    deleted: false
+    text: Гаити нам невнятно... Начинаем переговоры об интервью с Димой Биланом.
+    replies:
+    - id: 22222
+      parent_id: 22220
+      date: 2005-08-04 11:36
+      poster: Старый Майор
+      email: gypsy@mail.ru
+      subject: Гаити, Гаити.. нас и тут неплохо кормят...
+      deleted: false
+      text: Я мечтаю поглядеть, как Евдокимов берёт у Билана интервью.

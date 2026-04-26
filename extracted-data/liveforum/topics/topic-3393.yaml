@@ -1,0 +1,104 @@
+topic_id: 3393
+slug: topic-3393
+title: Вопрос
+first_post: 2006-09-06 17:06
+last_post: 2006-09-07 14:47
+post_count: 10
+posts:
+- id: 28633
+  parent_id: null
+  date: 2006-09-06 17:06
+  poster: Muddy Lives
+  email: mlives_6@hotmail.com
+  subject: Вопрос
+  deleted: false
+  text: Почему стерли мое cообщение про O.V. Wright?  Он считается недостаточно блюзовым
+    для форума, что ли?
+  replies:
+  - id: 28634
+    parent_id: 28633
+    date: 2006-09-06 17:25
+    poster: Старый Майор
+    email: gypsy@mail.ru
+    subject: Джон, а оно случайно не начиналось со слов Buy Viagra Cheap? :))
+    deleted: false
+    replies:
+    - id: 28635
+      parent_id: 28634
+      date: 2006-09-06 17:46
+      poster: Muddy Lives
+      email: mlives_6@hotmail.com
+      subject: А что? Без Viagra трудно обойтись
+      deleted: false
+      replies:
+      - id: 28641
+        parent_id: 28635
+        date: 2006-09-06 18:55
+        poster: Старый Майор
+        email: gypsy@mail.ru
+        subject: Джон, я же такой старый, что могу и без Виагры обойтись )))
+        deleted: false
+        replies:
+        - id: 28642
+          parent_id: 28641
+          date: 2006-09-06 19:00
+          poster: Алексей Аграновский (Док)
+          email: aaa@genebee.msu.su
+          subject: А вот попробуй-ка обойтись
+          deleted: false
+          text: без O.V. Wright'a. Трудно.
+        - id: 28643
+          parent_id: 28641
+          date: 2006-09-06 19:06
+          poster: Старый Майор
+          email: gypsy@mail.ru
+          subject: А может применить к нему Бритву Оккама?
+          deleted: false
+          text: Не является ли он сущностью сверх необходимости?
+  - id: 28636
+    parent_id: 28633
+    date: 2006-09-06 18:07
+    poster: Федор Романенко (fedor)
+    email: fedor@blues.ru
+    subject: Догадки...
+    deleted: false
+    text: 'У нас есть минимум три человека, которые могут стирать спам из форума.
+      Возможно, случайно зацепили, ибо был subject латинскими буквами и подпись латинскими.
+      При беглом просмотре похоже на спам. Я утром заходил на форум и поймал себя
+      на том, что сначала принял по виду за спам. Но я сам ничего не стирал...
+
+
+      Не мог бы ты написать еще раз, пардон....'
+    replies:
+    - id: 28652
+      parent_id: 28636
+      date: 2006-09-07 09:41
+      poster: Muddy Lives
+      email: mlives_6@hotmail.com
+      subject: Понятно.
+      deleted: false
+      text: "Спасибо, Федор.  В постинге я просто хотел обратить внимание на наличие\
+        \ такой видеозаписи.  Правда, качество записи довольно плохое.  Но голос -потрясяющий\
+        \ и уникальный.  Как говорится в госпеле (корни O.V. Wright), от этого годоса\
+        \ двигаются горы.  Если бы не спился и ушел от нас так рано!\n\n  http://www.youtube.com/watch?v=dXxbgETcPqY"
+      replies:
+      - id: 28658
+        parent_id: 28652
+        date: 2006-09-07 14:47
+        poster: Arsen Shomakhov (Arsen)
+        email: ragtime@blues.ru
+        subject: Спасибо за ссылку )
+        deleted: false
+        text: Какой голос! Там наткнулся на вот такую вот классную вещь http://www.youtube.com/watch?v=hVYNzUNSg9s&mode=related&search=
+  - id: 28648
+    parent_id: 28633
+    date: 2006-09-06 20:33
+    poster: Dmitri Kazantsev (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: о!
+    deleted: false
+    text: 'это мой кумир :)
+
+      а что ты спрашивал?
+
+      он волшебник!'

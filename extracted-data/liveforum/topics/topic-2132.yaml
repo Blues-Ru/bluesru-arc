@@ -1,0 +1,54 @@
+topic_id: 2132
+slug: topic-2132
+title: гр."Дикий мед"
+first_post: 2004-06-07 06:52
+last_post: 2004-06-10 14:27
+post_count: 5
+posts:
+- id: 18627
+  parent_id: null
+  date: 2004-06-07 06:52
+  poster: владимир карпов (vovan)
+  email: vovak59@mail.ru
+  subject: гр."Дикий мед"
+  deleted: false
+  text: Разыскиваются CD Донецкой группы "Дикий мед". У кого есть помогите записать
+    на CD-R(ни где не могу найти).Нашел на Украине в Киеве,но там почта не принимает
+    к пересылке магнитные и оптические носители информации.
+  replies:
+  - id: 18628
+    parent_id: 18627
+    date: 2004-06-07 07:07
+    poster: владимир карпов (Stratocaster)
+    email: vovak59@mail.ru
+    subject: Ищу "Дикий мед"
+    deleted: false
+    text: Разыскиваются CD Донецкой группы "Дикий мед". У кого есть помогите записать
+      на CD-R(ни где не могу найти).Нашел на Украине в Киеве,но там почта не принимает
+      к пересылке магнитные и оптические носители информации.
+    replies:
+    - id: 18642
+      parent_id: 18628
+      date: 2004-06-09 00:45
+      poster: Barmaley
+      email: andrey2002r@mail.ru
+      subject: дикий мед
+      deleted: false
+      text: есть сайт http://musicmp3.spb.ru/mp3/ там он точно есть, сам когда-то
+        скачивал в разделе русского блюза кажется
+      replies:
+      - id: 18643
+        parent_id: 18642
+        date: 2004-06-09 00:47
+        poster: Barmaley
+        email: andrey2002r@mail.ru
+        subject: дикий мед
+        deleted: false
+        text: ой! ошибочка не тот сайт, а сайт вот какой http://delit.net/
+  - id: 18657
+    parent_id: 18627
+    date: 2004-06-10 14:27
+    poster: Vinnie The Pooch
+    email: gypsy@mail.ru
+    subject: Где, где мёд??? Почему без меня делите???
+    deleted: false

@@ -1,0 +1,138 @@
+topic_id: 2074
+slug: topic-2074
+title: Снова хочется рвать и метать!!!!  ???? Svet & Al????  Вова,  в чем дело???
+first_post: 2004-04-29 16:07
+last_post: 2004-04-30 17:14
+post_count: 14
+posts:
+- id: 18264
+  parent_id: null
+  date: 2004-04-29 16:07
+  poster: Игорь Г.
+  email: sunny_city@mail.ru
+  subject: Снова хочется рвать и метать!!!!  ???? Svet & Al????  Вова,  в чем дело???
+  deleted: false
+  text: Ну как же ж так? Ну ё-пэ-рэ-сэ-тэ......!!!
+  replies:
+  - id: 18265
+    parent_id: 18264
+    date: 2004-04-29 16:33
+    poster: vr
+    email: volodya@blues.ru
+    subject: ээ - а что это все означает???
+    deleted: false
+    replies:
+    - id: 18266
+      parent_id: 18265
+      date: 2004-04-29 16:37
+      poster: Lars
+      email: lars@list.ru
+      subject: действительно, нам-то невдомек..
+      deleted: false
+  - id: 18267
+    parent_id: 18264
+    date: 2004-04-29 17:41
+    poster: VoV  (Barmaley)
+    email: barmaley-vov@yandex.ru
+    subject: Игорь, камрад, что за беда опять?
+    deleted: false
+    replies:
+    - id: 18268
+      parent_id: 18267
+      date: 2004-04-29 17:48
+      poster: baltika
+      email: baltika-rock@yandex.ru
+      subject: не пугайте так плз..... что стряслось то?.... ещё
+      deleted: false
+      replies:
+      - id: 18269
+        parent_id: 18268
+        date: 2004-04-29 17:51
+        poster: VoV  (Barmaley)
+        email: barmaley-vov@yandex.ru
+        subject: Вот и я думаю, чего такое случилось, чего я не знаю?...
+        deleted: false
+        replies:
+        - id: 18270
+          parent_id: 18269
+          date: 2004-04-29 19:29
+          poster: Старый Майор
+          email: gypsy@mail.ru
+          subject: Вова! Ты читай внимательно! Если Игорю хочется рвать и метать,
+            то наверное, он съел чего-то. Или выпил не то =))
+          deleted: false
+  - id: 18278
+    parent_id: 18264
+    date: 2004-04-30 12:14
+    poster: Игорь Головачев (Игорь Г.)
+    email: sunny_city@mail.ru
+    subject: А вот чего.Это фрагмент письма Света. Или я сошел с ума?
+    deleted: false
+    text: "Я тут совсем помираю.......\nЭл покинул нас.......\nУ Вас последняя запись\
+      \ Svet & Al Boogie Band \nПередайте ее плиз нашему директору Вове Иванову \n\
+      Если там есть неплохие темы (я потерял ту болванку) я даже постараюсь \nсделать\
+      \ последний Cd"
+    replies:
+    - id: 18289
+      parent_id: 18278
+      date: 2004-04-30 16:12
+      poster: baltika
+      email: baltika-rock@yandex.ru
+      subject: Владимир, как честный директор
+      deleted: false
+      text: 'доджен взять в руки слайд и!!!
+
+        годика на три придёцца переехать слегка))
+
+
+        мда. мне типа веселее всех...(('
+      replies:
+      - id: 18292
+        parent_id: 18289
+        date: 2004-04-30 16:40
+        poster: Игорь Головачев (Игорь Г.)
+        email: sunny_city@mail.ru
+        subject: И мне
+        deleted: false
+        text: но я тайно всеж  надеюсь,что я чего то, ...мня,мня...,одним словом,не
+          въехал.
+        replies:
+        - id: 18293
+          parent_id: 18292
+          date: 2004-04-30 16:56
+          poster: baltika
+          email: baltika-rock@yandex.ru
+          subject: увы. тут лучше смириться сразу...
+          deleted: false
+          text: 'Если Эл что-то сказал - это уже не обсуждается.
+
+            Свету остаётся пожелать ОГРОМНОЙ силы воли штоб как то тут выкрутиться.
+            Я в него верю! И в ритм-секцию))'
+          replies:
+          - id: 18295
+            parent_id: 18293
+            date: 2004-04-30 17:01
+            poster: Anton Klepikov (Antokha)
+            email: antokha@yandex.ru
+            subject: Балтика, проясни ситуацию!
+            deleted: false
+            text: Ибо уже не смешно...
+        - id: 18294
+          parent_id: 18292
+          date: 2004-04-30 16:57
+          poster: Anton Klepikov (Antokha)
+          email: antokha@yandex.ru
+          subject: Надеюсь, что все живы и здоровы?!
+          deleted: false
+          text: А Эл благополучно убыл в командировку...
+          replies:
+          - id: 18296
+            parent_id: 18294
+            date: 2004-04-30 17:14
+            poster: baltika
+            email: baltika-rock@yandex.ru
+            subject: Разумеется, Антон.
+            deleted: false
+            text: 'Всё именно так.
+
+              Проза жисти. Работа и творчество и иногда возникающая несовместимость.'

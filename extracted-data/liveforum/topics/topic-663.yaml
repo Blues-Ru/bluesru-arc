@@ -1,0 +1,39 @@
+topic_id: 663
+slug: topic-663
+title: Снова о Джонсоне
+first_post: 2003-03-07 22:20
+last_post: 2003-03-09 18:17
+post_count: 3
+posts:
+- id: 10861
+  parent_id: null
+  date: 2003-03-07 22:20
+  poster: Дима Казанцев (Казан)
+  email: dr.nick@blues.ru
+  subject: Снова о Джонсоне
+  deleted: false
+  text: 'http://www.bolero.ru/index.php?level=14&topic=101680&persid=156334
+
+    Вообще хорошая цена. Та, о которой я когда-то и говорил ;)'
+  replies:
+  - id: 10882
+    parent_id: 10861
+    date: 2003-03-09 16:38
+    poster: Greta
+    email: morehemp@mail.ru
+    subject: Джонсон, говоришь..
+    deleted: false
+    text: ':)
+
+      а что это за издание двойника, откуда такая цена?
+
+      Оно без книжки?'
+    replies:
+    - id: 10884
+      parent_id: 10882
+      date: 2003-03-09 18:17
+      poster: Дима Казанцев (Казан)
+      email: dr.nick@blues.ru
+      subject: Нормальное издание
+      deleted: false
+      text: И цена отличная. Больше он и не должен стоить.

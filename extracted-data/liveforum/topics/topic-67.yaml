@@ -1,0 +1,112 @@
+topic_id: 67
+slug: topic-67
+title: Как относиться к блюзу, сделанному на компьютере?
+first_post: 2002-02-18 11:17
+last_post: 2002-02-20 00:31
+post_count: 10
+posts:
+- id: 1383
+  parent_id: null
+  date: 2002-02-18 11:17
+  poster: Dmitry_R
+  email: dmitry_rescuer@mailru.com
+  subject: Как относиться к блюзу, сделанному на компьютере?
+  deleted: false
+  text: 'пример
+
+
+    http://stage.vitaminic.com/main/dmitry_r/singles
+
+
+    "Sound City Blues"'
+  replies:
+  - id: 1385
+    parent_id: 1383
+    date: 2002-02-18 12:04
+    poster: Дима Казанцев (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: Ну что сказать
+    deleted: false
+    text: Это скорее электронный поп-фьюжн все-таки. Блюз и электроника плоха вяжутся
+      друг с другом, да и нот там у тебя больше, чем того блюз позволяет ;)
+    replies:
+    - id: 1387
+      parent_id: 1385
+      date: 2002-02-18 12:16
+      poster: Sergei N. (General)
+      email: tangojerry@hotmail.com
+      subject: Или так...
+      deleted: false
+      text: А кто себе представляет хучи-кучм-мен в исполнении симфонического оркестра?!
+        ;)
+      replies:
+      - id: 1397
+        parent_id: 1387
+        date: 2002-02-18 22:16
+        poster: Андрей PRG
+        email: peregnoy@mail.ru
+        subject: Конечно, это бред ...
+        deleted: false
+        text: но послушать, должно быть, было бы прикольно.
+        replies:
+        - id: 1403
+          parent_id: 1397
+          date: 2002-02-19 09:46
+          poster: Дима Казанцев (Dr. Nick)
+          email: dr.nick@blues.ru
+          subject: Некорректно
+          deleted: false
+          text: Нельзя писать"бред" по отношению к творчеству.
+          replies:
+          - id: 1405
+            parent_id: 1403
+            date: 2002-02-19 10:19
+            poster: Sergei N. (General)
+            email: tangojerry@hotmail.com
+            subject: определимся в терминах! ;)
+            deleted: false
+            text: Эт пачаму жа низя??? Как раз наоборот! Творчество есть свободный
+              взгляд на реальность в его особом  духовном отражении. Причем творчество
+              только тогда своеобразно, когда неподконтрольно обыденому рассудку.
+              Бред же есть искаженное отражение окружающего, ионгда с галюциногенным
+              уклоном. Посему творчество и бред вещи весма близкие! От такие дела,
+              браты! ;)))
+            replies:
+            - id: 1424
+              parent_id: 1405
+              date: 2002-02-20 00:31
+              poster: Андрей PRG
+              email: peregnoy@mail.ru
+              subject: А вот тут согласен, ...
+              deleted: false
+              text: '... ибо  практически всё гениальное в творчестве, в любом его
+                проявлении, появляется на грани с нормальностью. Так что бред и творчество
+                действительно очень и очень близки.'
+          - id: 1423
+            parent_id: 1403
+            date: 2002-02-20 00:29
+            poster: Андрей PRG
+            email: peregnoy@mail.ru
+            subject: '"Наш ответ Чемберлену"'
+            deleted: false
+            text: Блюз - это прежде всего живая музыка, музыка очень нервная и чувственная.
+              Он не может быть пресным. Блюз может звучать только на пределе человеческих
+              переживаний, эмоций и пр. А электронная музыка (видимо, речь-то идёт
+              об этом) это всегда синтетика. Да, конечно это творчество, но отнюдь
+              не блюз.
+  - id: 1390
+    parent_id: 1383
+    date: 2002-02-18 16:03
+    poster: Игорь Г.
+    email: sunny_city@mail.ru
+    subject: Хорошо,но
+    deleted: false
+    text: только в качестве эксперимента
+  - id: 1402
+    parent_id: 1383
+    date: 2002-02-19 01:16
+    poster: Вадим  (AVA)
+    email: vad2908@mail.ru
+    subject: '...типа, моему "пеньку" стало плохо, да? (-)'
+    deleted: false
+    text: '1'

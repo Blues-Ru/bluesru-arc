@@ -1,0 +1,57 @@
+topic_id: 4568
+slug: topic-4568
+title: фотоотчет с фестиваля Честный Блюз
+first_post: 2011-03-31 11:49
+last_post: 2011-03-31 17:58
+post_count: 5
+posts:
+- id: 37489
+  parent_id: null
+  date: 2011-03-31 11:49
+  poster: Плакса
+  subject: фотоотчет с фестиваля Честный Блюз
+  deleted: false
+  text: <object height="375" width="500"><param name="flashvars" value="author=bibleblues&amp;mode=album&amp;effects=1&amp;time=5&amp;id=120948"
+    /><param name="bgcolor" value="#000000" /><param name="movie" value="http://fotki.yandex.ru/swf/slideshow"
+    /><param name="allowFullScreen" value="true" /><embed allowfullscreen="true" bgcolor="#000000"
+    flashvars="author=bibleblues&amp;mode=album&amp;effects=1&amp;time=5&amp;id=120948"
+    height="375" src="http://fotki.yandex.ru/swf/slideshow" type="application/x-shockwave-flash"
+    width="500"></embed></object>
+  replies:
+  - id: 37491
+    parent_id: 37489
+    date: 2011-03-31 11:57
+    poster: grem
+    subject: отчет
+    deleted: false
+    text: '"в данном альбоме нет фотографий"?'
+    replies:
+    - id: 37492
+      parent_id: 37491
+      date: 2011-03-31 12:44
+      poster: Плакса
+      subject: http://fotki.yandex.ru/users/bibleblues/album/120948/
+      deleted: false
+      text: '<object width="500" height="375"><param name="flashvars" value="author=bibleblues&mode=album&effects=1&time=5&id=120948"
+        /><param name="bgcolor" value="#000000" /><param name="movie" value="http://fotki.yandex.ru/swf/slideshow"
+        /><param name="allowFullScreen" value="true" /><embed src="http://fotki.yandex.ru/swf/slideshow"
+        allowFullScreen="true" width="500" height="375" flashvars="author=bibleblues&mode=album&effects=1&time=5&id=120948"
+        type="application/x-shockwave-flash" bgcolor="#000000" /></object>
+
+
+        или тут: http://fotki.yandex.ru/users/bibleblues/album/120948/'
+  - id: 37493
+    parent_id: 37489
+    date: 2011-03-31 12:46
+    poster: Плакса
+    subject: форум глючит
+    deleted: false
+    text: на rusblues.ru тот же код, и всё в норме. походу форум отшивает лишний загруз...
+  - id: 37494
+    parent_id: 37489
+    date: 2011-03-31 17:58
+    poster: Федор Романенко
+    subject: Санитайзер
+    deleted: false
+    text: На форуме работает санитайзер, он оставляет ограниченное кол-во тегов. Я
+      потом посмотрю, возможно, его можно будет расширить.

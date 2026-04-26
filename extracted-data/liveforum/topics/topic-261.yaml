@@ -1,0 +1,46 @@
+topic_id: 261
+slug: topic-261
+title: Помогите найти текст Yo yo man!!!!
+first_post: 2002-08-09 17:54
+last_post: 2002-08-12 09:20
+post_count: 4
+posts:
+- id: 6626
+  parent_id: null
+  date: 2002-08-09 17:54
+  poster: Carla
+  email: Carlivanych@yandex.ru
+  subject: Помогите найти текст Yo yo man!!!!
+  deleted: false
+  text: 'Привет, обращаюсь с просьбой - может быть, у кого-нибудь есть сведения о
+    том, где можно найцти текст этой вещи? Вроде бы все понятно, но  текст все равно
+    очень нужен.
+
+    Спасибо anyway.'
+  replies:
+  - id: 6627
+    parent_id: 6626
+    date: 2002-08-09 18:25
+    poster: Дима Казанцев (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: Это John Mayall?
+    deleted: false
+    text: Если да, то вряд ли что-то есть в сети. Надо снимать.
+    replies:
+    - id: 6630
+      parent_id: 6627
+      date: 2002-08-09 19:08
+      poster: tigra
+      email: bluesman@tut.by
+      subject: согласен - есть только старые вещи
+      deleted: false
+      replies:
+      - id: 6646
+        parent_id: 6630
+        date: 2002-08-12 09:20
+        poster: Carla
+        email: Carlivanych@yandex.ru
+        subject: Да, Mayall ее играл.
+        deleted: false
+        text: Эту вещь John Mayall играл на Along for the ride, но автор Tony John
+          White. Да, похоже придется вслушаться лучше. Спасибо.

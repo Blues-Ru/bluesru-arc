@@ -1,0 +1,10 @@
+---
+id: 144
+slug: blues-harp-melt-down-pribyli-v-moskvu
+title: Blues Harp Melt Down прибыли в Москву
+date: '2004-11-18'
+author: Андрей Евдокимов
+legacy_path: news/2004/11/blues-harp-melt-down-pribyli-v-moskvu.md
+---
+
+<a href="/bluesmen/Blues_Harp_Melt_Down/">Митч Кэшмар и норвежский Blues Harp Melt Down</a> прибыли в Москву в среду, 17 ноября. И вместе с чемоданами поспешили в клуб БиБиКинг, чтобы успеть на джем. Джем вдохновенно вел Борис Булкин. Eirik Bergene Band и Mitch Kashmar вышли на сцену, чтобы исполнить всего одну песню в три гармошки. Этого было достаточно, чтобы присутствующие высоко оценили и технику и драйв музыкантов. <a href="/bluesnews/04Autumn/harp/harp17.htm">Фоторепортаж о приятном происшествии здесь</a>.

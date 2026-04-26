@@ -1,0 +1,57 @@
+topic_id: 1181
+slug: topic-1181
+title: Финские имена известных музыкантов... :)))
+first_post: 2003-05-25 13:45
+last_post: 2003-05-25 16:11
+post_count: 6
+posts:
+- id: 12762
+  parent_id: null
+  date: 2003-05-25 13:45
+  poster: vr  (Stone Crazy)
+  email: volodya@blues.ru
+  subject: Финские имена известных музыкантов... :)))
+  deleted: false
+  text: http://www.helsinki.ru/events/festival/7.html
+  replies:
+  - id: 12765
+    parent_id: 12762
+    date: 2003-05-25 14:00
+    poster: Yuri Kaverkin (Gekko)
+    email: kaverkin@rol.ru
+    subject: Чтоб-ты знал,Володя, эти имена именно так и произносятся :)) Я теперь
+      тоже так буду произносить!!!
+    deleted: false
+    replies:
+    - id: 12766
+      parent_id: 12765
+      date: 2003-05-25 14:17
+      poster: vr  (Stone Crazy)
+      email: volodya@blues.ru
+      subject: ну Юра ты  у нас просто отечественный Ёхн Лее Хоокер :))))))
+      deleted: false
+      replies:
+      - id: 12767
+        parent_id: 12766
+        date: 2003-05-25 14:29
+        poster: Yuri Kaverkin (Gekko)
+        email: kaverkin@rol.ru
+        subject: Ты как предпочитаешь, что-бы я тебя обозвал??? Буди Тхый???;))
+        deleted: false
+        replies:
+        - id: 12770
+          parent_id: 12767
+          date: 2003-05-25 16:11
+          poster: Andrei V. Evdokimov (evdokimov)
+          email: evdokimov@blues.ru
+          subject: зови его просто
+          deleted: false
+          text: Вилли Пицкэт
+  - id: 12768
+    parent_id: 12762
+    date: 2003-05-25 14:51
+    poster: Дима Казанцев (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: Просто чума!
+    deleted: false
+    text: Отличные имена!

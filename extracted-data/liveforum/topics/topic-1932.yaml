@@ -1,0 +1,72 @@
+topic_id: 1932
+slug: topic-1932
+title: ищу очень известный фильм о блюзе - не могу вспомнить название
+first_post: 2004-03-16 13:20
+last_post: 2004-03-24 00:00
+post_count: 6
+posts:
+- id: 17598
+  parent_id: null
+  date: 2004-03-16 13:20
+  poster: Jul
+  email: vydolob@narod.ru
+  subject: ищу очень известный фильм о блюзе - не могу вспомнить название
+  deleted: false
+  text: Не могу вспомнить название фильма, где в частности речь идет о продаже души
+    дьяволу и присутствует диалог на тему "какой же ты блюзмен, если не можешь изобразить
+    поезд" - это все, что я помню. Может, кто-то вспомнит, что это такое?
+  replies:
+  - id: 17599
+    parent_id: 17598
+    date: 2004-03-16 13:37
+    poster: (Grem)
+    email: sergei.sergeev@emersonprocess.ru
+    subject: Это фильм "Crossroads" (реж. Walter Hill 1986)
+    deleted: false
+    replies:
+    - id: 17600
+      parent_id: 17599
+      date: 2004-03-16 13:45
+      poster: Jul
+      email: vydolob@narod.ru
+      subject: Точно!
+      deleted: false
+      text: Спасибо большое. Провал в памяти :)
+  - id: 17608
+    parent_id: 17598
+    date: 2004-03-17 11:19
+    poster: Alexey B. Ilyichev (Alex_z77)
+    email: alex_z77@mail.ru
+    subject: Есть такой фильм... ;)
+    deleted: false
+    text: 'Только вчера нашёл его в электронном варианте! ;)
+
+      Качество, правда, не лучшее, но...
+
+      Могу записать. :)'
+    replies:
+    - id: 17609
+      parent_id: 17608
+      date: 2004-03-17 11:39
+      poster: Анатолий
+      email: anshet@ZOLSHAR.RU
+      subject: Crossroads
+      deleted: false
+      text: 'А что такое-электронный вариант? :)
+
+        На CD что-ли?
+
+        Записать правда можете? Не откажусь.
+
+        Мой mail: anshet@zolshar.ru'
+      replies:
+      - id: 17705
+        parent_id: 17609
+        date: 2004-03-24 00:00
+        poster: Lukinov Timofey (wyvern)
+        email: wyvern@5ka.mipt.ru
+        subject: и я хочу! облазил всю горбушку - нашел только саундтрек :(
+        deleted: false
+        text: 'если есть ссылочка откуда скачть - позвольте?
+
+          или как с вами связаться если вживую? :-)'

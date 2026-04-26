@@ -1,0 +1,77 @@
+topic_id: 2884
+slug: topic-2884
+title: Все мне должны пиво ;)
+first_post: 2005-10-26 19:43
+last_post: 2005-10-27 16:42
+post_count: 7
+posts:
+- id: 24107
+  parent_id: null
+  date: 2005-10-26 19:43
+  poster: Федор Романенко (fedor)
+  email: fedor@blues.ru
+  subject: Все мне должны пиво ;)
+  deleted: false
+  text: http://www.go-magazine.ru/articles/show/702
+  replies:
+  - id: 24114
+    parent_id: 24107
+    date: 2005-10-27 02:21
+    poster: dvergmaal
+    email: funtus@aha.ru
+    subject: А вот и нет....
+    deleted: false
+    text: Кое-кто и мне задолжал немного пЫва.... ;-)
+    replies:
+    - id: 24122
+      parent_id: 24114
+      date: 2005-10-27 12:54
+      poster: Федор Романенко (fedor)
+      email: fedor@blues.ru
+      subject: Одно другому не мешает!
+      deleted: false
+      text: Я все помню, думаю, при случае на след. неделе одолжим другу другу кружки
+        по 4 и будем квиты ;)
+  - id: 24117
+    parent_id: 24107
+    date: 2005-10-27 09:35
+    poster: Алексей Фролов (Buchothk)
+    email: jokerthk@yandex.ru
+    subject: Круто.
+    deleted: false
+    text: Отдать завтра или сегодня? Эфес подойдет? ;)))
+    replies:
+    - id: 24119
+      parent_id: 24117
+      date: 2005-10-27 10:27
+      poster: Алексей Фролов (Buchothk)
+      email: jokerthk@yandex.ru
+      subject: Эфффессс
+      deleted: false
+      text: 'Пытался дозвониться до 20-го павильона. В итоге попал в какую-то концертную
+        организацию. Пообещали гардероб и всё прилагающееся к закрытым концертным
+        площадкам.. Сегодня всё разведую - поделюсь. ;)
+
+        Кто еще сегодня идет?
+
+
+        З.Ы.: такой приятный мандраж - вообще не работается.... ;)))'
+    - id: 24120
+      parent_id: 24117
+      date: 2005-10-27 10:35
+      poster: Илья Кривандин (Populoss)
+      email: ilija@bk.ru
+      subject: На Эфесе - с удовольствием :)
+      deleted: false
+  - id: 24127
+    parent_id: 24107
+    date: 2005-10-27 16:42
+    poster: Beforeyouaccuseme
+    email: ander_pa@yahoo.com
+    subject: Что это за 20 павильон
+    deleted: false
+    text: 'Выбор ВВЦ - это хорошо. Тепло, по крайней мере.
+
+
+      Кто подскажет - что за 20-й павильон? В И-нете не нашел. По заказу билетов долгая
+      нудная музыка играет. Не блюзовая... :(('

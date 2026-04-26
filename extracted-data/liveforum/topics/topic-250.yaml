@@ -1,0 +1,44 @@
+topic_id: 250
+slug: topic-250
+title: Блин
+first_post: 2002-08-05 15:28
+last_post: 2002-08-06 01:57
+post_count: 4
+posts:
+- id: 6550
+  parent_id: null
+  date: 2002-08-05 15:28
+  poster: David
+  email: davesem@rambler.ru
+  subject: Блин
+  deleted: false
+  text: Я хороший музыкант, неужели мненельзя найти работу в Москве
+  replies:
+  - id: 6551
+    parent_id: 6550
+    date: 2002-08-05 15:45
+    poster: Дима Казанцев (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: Крик души?
+    deleted: false
+    text: Или поиск группы?
+  - id: 6553
+    parent_id: 6550
+    date: 2002-08-05 17:31
+    poster: tigra
+    email: bluesman@tut.by
+    subject: а помочь, господа мэтры?
+    deleted: false
+  - id: 6556
+    parent_id: 6550
+    date: 2002-08-06 01:57
+    poster: Александр Мальчевский (Tonny)
+    email: heavyfuel@mtu-net.ru
+    subject: Почему нельзя?
+    deleted: false
+    text: 'Можно...просто искать долго придется. Все сейчас хотят НЮ-металл играть
+      или еще что-то подобное...а-ля формат "Нашего радио".
+
+      Так что найти что-то стоящее сложно...
+
+      А что до блюза...'

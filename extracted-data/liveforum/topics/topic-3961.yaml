@@ -1,0 +1,35 @@
+topic_id: 3961
+slug: topic-3961
+title: хипповатый Аграновский
+first_post: 2008-03-28 13:47
+last_post: 2008-03-31 16:21
+post_count: 3
+posts:
+- id: 35136
+  parent_id: null
+  date: 2008-03-28 13:47
+  poster: Andrei V. Evdokimov (evdokimov)
+  email: evdokimov@blues.ru
+  subject: хипповатый Аграновский
+  deleted: false
+  text: сейчас по Культуре в передаче про Анчарова
+  replies:
+  - id: 35150
+    parent_id: 35136
+    date: 2008-03-31 13:08
+    poster: Алексей Аграновский (Док)
+    email: aaa@genebee.msu.su
+    subject: Странно как
+    deleted: false
+    text: Не помню, чтобы там хипповал когда-то.
+  - id: 35151
+    parent_id: 35136
+    date: 2008-03-31 16:21
+    poster: Andrei V. Evdokimov (evdokimov)
+    email: evdokimov@blues.ru
+    subject: не хипповый...
+    deleted: false
+    text: 'чуть хипповатый... причосочка, рубашечка, джинсики )))
+
+      на самом деле, редкий случай, когда в телевизоре "приятно было наткнуться" на
+      знакомого человека.'

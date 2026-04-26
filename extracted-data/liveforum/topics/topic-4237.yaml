@@ -1,0 +1,37 @@
+topic_id: 4237
+slug: topic-4237
+title: Freddie & Albert King
+first_post: 2009-06-06 21:19
+last_post: 2009-06-07 10:17
+post_count: 3
+posts:
+- id: 36362
+  parent_id: null
+  date: 2009-06-06 21:19
+  poster: Вова
+  subject: Freddie & Albert King
+  deleted: false
+  text: 'Друзья, кто-нибудь подскажите, записывались ли два Короля вместе?
+
+    Нашел где-то на просторах интернета альбом Freddie & Albert King "Blue On Blues",
+    год релиза и рекорд-лейбл неизвестны, AMG о таком альбоме не знает. Видимо это
+    какой-то бутлег?'
+  replies:
+  - id: 36364
+    parent_id: 36362
+    date: 2009-06-06 22:30
+    poster: Вова
+    subject: нашел
+    deleted: false
+    text: 'Есть оказывается такой альбом - компиляция из 12 лайв-композиций
+
+      Вышел на Fuel 2000 в 2002 году
+
+      AMG почему-то описывает его только в дискографии Альберта Кинга'
+  - id: 36366
+    parent_id: 36362
+    date: 2009-06-07 10:17
+    poster: Andrei V. Evdokimov
+    subject: теле-кунцет
+    deleted: false
+    text: ствший ДВД B.B.King & Friends (официальный)

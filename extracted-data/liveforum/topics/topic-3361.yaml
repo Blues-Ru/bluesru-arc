@@ -1,0 +1,68 @@
+topic_id: 3361
+slug: topic-3361
+title: Самый блюзовый вопрос
+first_post: 2006-08-07 00:39
+last_post: 2006-08-08 12:42
+post_count: 7
+posts:
+- id: 28209
+  parent_id: null
+  date: 2006-08-07 00:39
+  poster: Немов Евгений
+  email: jnr_new@mail.ru
+  subject: Самый блюзовый вопрос
+  deleted: false
+  text: Квартиру никто не сдаёт? Очень надо!!!
+  replies:
+  - id: 28218
+    parent_id: 28209
+    date: 2006-08-07 06:20
+    poster: Hobo
+    email: hobo@blues.ru
+    subject: а разве
+    deleted: false
+    text: 'истинный блюзмен не должен быть hobo?
+
+
+      when I first started hoboin''
+
+      I took a freight train to be my friend...'
+    replies:
+    - id: 28223
+      parent_id: 28218
+      date: 2006-08-07 13:22
+      poster: Юрий Каверкин (Gekko)
+      email: kaverkin@rol.ru
+      subject: 'To Hobo: А вы попробуйте....может быть понравится....'
+      deleted: false
+      replies:
+      - id: 28225
+        parent_id: 28223
+        date: 2006-08-07 14:47
+        poster: Hobo
+        email: hobo@blues.ru
+        subject: пробовали
+        deleted: false
+  - id: 28224
+    parent_id: 28209
+    date: 2006-08-07 13:55
+    poster: Muddy Lives
+    email: mlives_6@hotmail.com
+    subject: Почему собака не гавкает, когда ВЫ приходите в гости?
+    deleted: false
+    replies:
+    - id: 28234
+      parent_id: 28224
+      date: 2006-08-08 01:11
+      poster: Немов Евгений
+      email: jnr_new@mail.ru
+      subject: Боится.
+      deleted: false
+  - id: 28236
+    parent_id: 28209
+    date: 2006-08-08 12:42
+    poster: Алексей Аграновский (Док)
+    email: aaa@genebee.msu.su
+    subject: Между тем Женя задает этот вопрос серьезно
+    deleted: false
+    text: Так что подумайте, нет вариантов.

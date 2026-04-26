@@ -1,0 +1,53 @@
+topic_id: 927
+slug: topic-927
+title: Андрею Цыганкову
+first_post: 2002-06-21 18:16
+last_post: 2002-06-21 23:49
+post_count: 5
+posts:
+- id: 5636
+  parent_id: null
+  date: 2002-06-21 18:16
+  poster: Soulman
+  email: Soulman1@fromru.com
+  subject: Андрею Цыганкову
+  deleted: false
+  text: Я хотел что бы ты прочёл моё сообщение и всё ,а ты так и не удосужился....
+  replies:
+  - id: 5640
+    parent_id: 5636
+    date: 2002-06-21 19:57
+    poster: Андрей Цыганков
+    email: gypsy@mail.ru
+    subject: Дружище, прошу тебя ещё раз задать свой вопрос, а не обижаться...
+    deleted: false
+    replies:
+    - id: 5641
+      parent_id: 5640
+      date: 2002-06-21 21:18
+      poster: Дима Казанцев (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: Скажи мне, Андрей?
+      deleted: false
+      text: А что от тебя хочет сей персонаж?
+      replies:
+      - id: 5644
+        parent_id: 5641
+        date: 2002-06-21 21:56
+        poster: Андрей Цыганков
+        email: gypsy@mail.ru
+        subject: Ссылается на вопрос из прошлой переписки...
+        deleted: false
+        text: '...ну откуда я могу знать соул-группы в Москве, я отнюдь не завсегдатай
+          клубов и дискотек... если я правильно понял вопрос.'
+        replies:
+        - id: 5647
+          parent_id: 5644
+          date: 2002-06-21 23:49
+          poster: Дима Казанцев (Dr. Nick)
+          email: dr.nick@blues.ru
+          subject: Про соул
+          deleted: false
+          text: Я вроде тоже имею прямое отношение к этой музыке, но человека по имени
+            Соулмэн не знаю. Не знает его и Ветеран, который играет еще в других командах
+            этого направления. Странно, да?

@@ -1,0 +1,32 @@
+topic_id: 1283
+slug: topic-1283
+title: А ЕСТЬ ЛИ  БЛ.З В МОСКВЕ?
+first_post: 2003-07-26 02:14
+last_post: 2003-07-27 08:08
+post_count: 3
+posts:
+- id: 13341
+  parent_id: null
+  date: 2003-07-26 02:14
+  poster: NICK/US
+  email: sunburn2001@mail.ru
+  subject: А ЕСТЬ ЛИ  БЛ.З В МОСКВЕ?
+  deleted: false
+  text: А ЕСТЬ ЛИ  БЛ.З В МОСКВЕ?
+  replies:
+  - id: 13345
+    parent_id: 13341
+    date: 2003-07-26 18:11
+    poster: vr  (Stone Crazy)
+    email: volodya@blues.ru
+    subject: да завались
+    deleted: false
+    text: и БЛЗ и КЛЗ и ТЛЗ и ЖЗЛ
+    replies:
+    - id: 13354
+      parent_id: 13345
+      date: 2003-07-27 08:08
+      poster: Старый Майор
+      email: gypsy@mail.ru
+      subject: И КПЗ тоже есть!
+      deleted: false

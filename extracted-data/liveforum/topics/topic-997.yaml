@@ -1,0 +1,32 @@
+topic_id: 997
+slug: topic-997
+title: Федору Романенко
+first_post: 2002-05-13 11:10
+last_post: 2002-05-13 12:51
+post_count: 3
+posts:
+- id: 4353
+  parent_id: null
+  date: 2002-05-13 11:10
+  poster: Петр Кунарев (Eastwood2002)
+  email: cousins@yandex.ru
+  subject: Федору Романенко
+  deleted: false
+  text: Что там с волонтером для редактирования объявлений? Жду ответа
+  replies:
+  - id: 4354
+    parent_id: 4353
+    date: 2002-05-13 12:48
+    poster: Федор Романенко (fedor)
+    email: fedor@blues.ru
+    subject: Спасибо!
+    deleted: false
+    text: Сейчас, сейчас. Я только позавчера там все переделал. Чуть-чуть осталось,
+      и тогда я обращусь за помощью конкретно! Спасибо!
+  - id: 4355
+    parent_id: 4353
+    date: 2002-05-13 12:51
+    poster: Петр Кунарев (Eastwood2002)
+    email: cousins@yandex.ru
+    subject: Не за что;)))
+    deleted: false

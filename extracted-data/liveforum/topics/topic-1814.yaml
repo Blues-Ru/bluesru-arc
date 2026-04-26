@@ -1,0 +1,36 @@
+topic_id: 1814
+slug: topic-1814
+title: Dr. Nick goes pop!
+first_post: 2004-01-31 02:46
+last_post: 2004-01-31 20:15
+post_count: 3
+posts:
+- id: 17023
+  parent_id: null
+  date: 2004-01-31 02:46
+  poster: Дима Казанцев (Dr. Nick)
+  email: dr.nick@blues.ru
+  subject: Dr. Nick goes pop!
+  deleted: false
+  text: 'http://www.realmusic.ru/songs/57909/
+
+
+    And it''s not a joke!'
+  replies:
+  - id: 17024
+    parent_id: 17023
+    date: 2004-01-31 08:38
+    poster: Andrei V. Evdokimov (evdokimov)
+    email: evdokimov@blues.ru
+    subject: бабки
+    deleted: false
+    text: дождем прольются
+    replies:
+    - id: 17026
+      parent_id: 17024
+      date: 2004-01-31 20:15
+      poster: Дима Казанцев (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: пока только слёзы
+      deleted: false
+      text: бабок не ожидаем.

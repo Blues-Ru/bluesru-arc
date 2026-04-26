@@ -1,0 +1,23 @@
+topic_id: 3927
+slug: topic-3927
+title: вопрос цвета
+first_post: 2008-02-29 15:07
+last_post: 2008-02-29 15:17
+post_count: 2
+posts:
+- id: 34825
+  parent_id: null
+  date: 2008-02-29 15:07
+  poster: Владимир Русинов (BluesCat)
+  email: volodya@blues.ru
+  subject: вопрос цвета
+  deleted: false
+  text: <IMG SRC="http://i.aha.ru/jj/h/04-02-13.gif">
+  replies:
+  - id: 34826
+    parent_id: 34825
+    date: 2008-02-29 15:17
+    poster: Dmitri Kazantsev (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: боянъ
+    deleted: false

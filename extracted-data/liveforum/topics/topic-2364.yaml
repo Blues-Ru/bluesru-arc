@@ -1,0 +1,47 @@
+topic_id: 2364
+slug: topic-2364
+title: Братья блюз
+first_post: 2004-12-29 19:01
+last_post: 2005-01-03 02:41
+post_count: 4
+posts:
+- id: 20080
+  parent_id: null
+  date: 2004-12-29 19:01
+  poster: Андрей Ордальонов (Андрей PRG)
+  email: peregnoy@mail.ru
+  subject: Братья блюз
+  deleted: false
+  text: На главной странице <a href="http://www.blues.ru/news/?p=200412#154">очень
+    хорошо расписан</a> планирующийся показ "Братьев блюз", но почеум то не указано,
+    что в тот же день, 2 января, только по СТС-8 в 0:50 будут показаны "Братья блюз-2000".
+    Вот.
+  replies:
+  - id: 20082
+    parent_id: 20080
+    date: 2004-12-29 22:12
+    poster: Andrei V. Evdokimov (evdokimov)
+    email: evdokimov@blues.ru
+    subject: спасибо за "хорошо"
+    deleted: false
+    text: А про СТС - просто не знал! =). Дополнил.
+    replies:
+    - id: 20096
+      parent_id: 20082
+      date: 2005-01-03 02:01
+      poster: vr  (Stone Crazy)
+      email: volodya@blues.ru
+      subject: облом
+      deleted: false
+      text: "оба фильма переведены хреново.. ББ-1 просто вяло, а ББ-2000 - ужасно.\n\
+        а ведь есть клевые переводы... еще 5-6 лет назад показвали по НТВ первый ББ\
+        \  с отличным переводом. и ББ-2000 у меня на кассете с отличным переводом.\
+        \ :) \n\n.. вообщем лучше смотреть на языке оригинала :)"
+      replies:
+      - id: 20097
+        parent_id: 20096
+        date: 2005-01-03 02:41
+        poster: vr  (Stone Crazy)
+        email: volodya@blues.ru
+        subject: не... ББ-1  тоже ужасно :(
+        deleted: false

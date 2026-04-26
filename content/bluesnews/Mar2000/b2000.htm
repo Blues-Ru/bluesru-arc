@@ -1,0 +1,80 @@
+<html>
+
+<head>
+  <title>БЛЮЗ2000 - Презентация 21 апреля в клубе Zавод</title>
+  <meta name="description" content="">
+  <meta name="keywords" content="">
+</head>
+<body bgcolor="#003366" text="#D6FCFE" link="#00CCFF" vlink="#0000FF" background="atbtile.jpg">
+<a href="b2000a.htm"><img src="b2000.jpg" width="228" height="597" alt="21 апреля 2000 года - с 20.оо до 06.оо" border="0" align="right"></a>
+<h2>Варшавское шоссе., д56<br>
+<blink>тел.</blink> 316 17 96</h2>
+</body>
+
+<style>
+<!--
+.curtain{
+position:absolute;
+left:0;
+top:0;
+layer-background-color:017E7B;
+background-color:017E7B;
+border:0.1px solid SILVER
+}
+-->
+</style>
+
+
+<div id="c1" class="curtain"></div><div id="c2" class="curtain"></div>
+<script language="JavaScript1.2">
+
+
+var speed=20
+var temp=new Array()
+var temp2=new Array()
+if (document.layers){
+for (c=1;c<=2;c++){
+temp[c]=eval("document.c"+c+".clip")
+temp2[c]=eval("document.c"+c)
+temp[c].width=window.innerWidth
+temp[c].height=window.innerHeight/2
+temp2[c].top=(c-1)*temp[c].height
+}
+}
+else if (document.all){
+var curtainbottom=document.body.offsetHeight/2,curtaintop=0
+for (c=1;c<=2;c++){
+temp[c]=eval("document.all.c"+c+".style")
+temp[c].width=document.body.clientWidth
+temp[c].height=document.body.offsetHeight/2
+temp[c].top=(c-1)*parseInt(temp[c].height)
+}
+}
+
+function openit(){
+window.scrollTo(0,0)
+if (document.layers){
+temp[1].bottom-=speed
+temp[2].top+=speed
+if (temp[1].bottom<=0)
+clearInterval(stopit)
+}
+else if (document.all){
+curtainbottom-=speed
+temp[1].clip="rect(0 auto+"+curtainbottom+" 0)"
+curtaintop+=speed
+temp[2].clip="rect("+curtaintop+" auto auto)"
+if (curtainbottom<=0)
+clearInterval(stopit)
+}
+}
+function gogo(){
+stopit=setInterval("openit()",100)
+}
+gogo()
+
+</script>
+
+<!-- END OF Curtain DHTML -->
+</html>
+

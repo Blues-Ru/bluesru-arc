@@ -1,0 +1,48 @@
+topic_id: 2525
+slug: topic-2525
+title: умер Johnnie Johnson
+first_post: 2005-04-14 13:47
+last_post: 2005-05-07 21:50
+post_count: 5
+posts:
+- id: 21133
+  parent_id: null
+  date: 2005-04-14 13:47
+  poster: Дима Казанцев (Dr. Nick)
+  email: dr.nick@blues.ru
+  subject: умер Johnnie Johnson
+  deleted: false
+  text: 'черный пианист, один из пионеров рок-н-ролла.
+
+    ему было 80.'
+  replies:
+  - id: 21143
+    parent_id: 21133
+    date: 2005-04-14 17:08
+    poster: Дмитрий (фан)
+    email: leonidovd@mail.ru
+    subject: Очень грустно.
+    deleted: false
+  - id: 21150
+    parent_id: 21133
+    date: 2005-04-14 21:54
+    poster: Elicaster
+    email: elicaster(@)))mmmmmmmmmmail.ru
+    subject: Ещё одна большая потеря
+    deleted: false
+    text: Сиротеем
+  - id: 21166
+    parent_id: 21133
+    date: 2005-04-15 18:56
+    poster: Андрей Ордальонов (Андрей PRG)
+    email: peregnoy@mail.ru
+    subject: Печально...
+    deleted: false
+  - id: 21403
+    parent_id: 21133
+    date: 2005-05-07 21:50
+    poster: sm
+    email: 1001sms@rambler.ru
+    subject: Гена Хащенко
+    deleted: false
+    text: В этот день также ушёл из жизни Гена Хащенко...легендарная личность...

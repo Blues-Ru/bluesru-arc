@@ -1,0 +1,32 @@
+topic_id: 3766
+slug: topic-3766
+title: Phil Guy разместил на своем сайте фрагмент московского концерта
+first_post: 2007-10-17 11:00
+last_post: 2007-10-25 02:06
+post_count: 3
+posts:
+- id: 33666
+  parent_id: null
+  date: 2007-10-17 11:00
+  poster: Вадим  Иващенко (fingerpicker)
+  email: vadikiv@mail.ru
+  subject: Phil Guy разместил на своем сайте фрагмент московского концерта
+  deleted: false
+  text: Это фрагмент высупления в "Доме у Дороги" .  http://www.philguynothrmule.com/
+  replies:
+  - id: 33667
+    parent_id: 33666
+    date: 2007-10-17 16:16
+    poster: Dmitri Kazantsev (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: Омар Иващенко всех победил нах :)
+    deleted: false
+    text: и поделом им!
+    replies:
+    - id: 33703
+      parent_id: 33667
+      date: 2007-10-25 02:06
+      poster: Старый Майор
+      email: gypsy@mail.ru
+      subject: Солдат! Вылезай из окопа, война кончилась )))
+      deleted: false

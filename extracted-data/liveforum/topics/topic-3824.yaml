@@ -1,0 +1,103 @@
+topic_id: 3824
+slug: topic-3824
+title: вопрос
+first_post: 2007-12-09 23:34
+last_post: 2007-12-12 12:13
+post_count: 10
+posts:
+- id: 34099
+  parent_id: null
+  date: 2007-12-09 23:34
+  poster: кэт
+  email: murena-999@mail.ru
+  subject: вопрос
+  deleted: false
+  text: Где скачать бесплатно блюз?
+  replies:
+  - id: 34101
+    parent_id: 34099
+    date: 2007-12-09 23:53
+    poster: Dmitri Kazantsev (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: да где угодно
+    deleted: false
+    replies:
+    - id: 34102
+      parent_id: 34101
+      date: 2007-12-10 00:00
+      poster: кэт
+      email: murena-999@mail.ru
+      subject: адрес
+      deleted: false
+      text: а подробне, хоть один адрес....плиззззз
+      replies:
+      - id: 34103
+        parent_id: 34102
+        date: 2007-12-10 00:07
+        poster: кэт
+        email: murena-999@mail.ru
+        subject: а подробне, хоть один адрес....плиззззз
+        deleted: false
+        text: а подробне, хоть один адрес....плиззззз
+        replies:
+        - id: 34104
+          parent_id: 34103
+          date: 2007-12-10 00:44
+          poster: Dmitri Kazantsev (Dr. Nick)
+          email: dr.nick@blues.ru
+          subject: http://www.mininova.org/
+          deleted: false
+          text: http://www.mininova.org/
+          replies:
+          - id: 34105
+            parent_id: 34104
+            date: 2007-12-10 00:56
+            poster: кэт
+            email: murena-999@mail.ru
+            subject: огромное вам мерси
+            deleted: false
+            text: огромное вам мерси
+          - id: 34120
+            parent_id: 34104
+            date: 2007-12-12 11:34
+            poster: Андрей
+            email: sas@omegaminerals.ru
+            subject: помогите, пжлст
+            deleted: false
+            text: "прошу помочь (объяснить) непродвинутому юзеру.\nзашел не рекомендуемый\
+              \ сайт (mininova), дальше - сгрузил себе mTorrent (я так понял - что\
+              \ без него не будет скачиваться музыка), а потом что-то затупил - не\
+              \ могу понять как собственно выкачать предлагаемое. \nзаранее спасибо\
+              \ тем, кто откликнется"
+            replies:
+            - id: 34121
+              parent_id: 34120
+              date: 2007-12-12 12:13
+              poster: Dmitri Kazantsev (Dr. Nick)
+              email: dr.nick@blues.ru
+              subject: http://azureus.sourceforge.net/
+              deleted: false
+              text: 'http://azureus.sourceforge.net/
+
+                вот тут всё очень подробно описано'
+  - id: 34106
+    parent_id: 34099
+    date: 2007-12-10 08:04
+    poster: Эльдар
+    email: Эльдар
+    subject: 'Здесь разное есть, блюзовые вещи тоже можно найти:'
+    deleted: false
+    text: 'http://www.mp3real.ru/
+
+      http://musicmp3.spb.ru/
+
+      http://blues-power.nnm.ru/ - нужно зарегиться'
+    replies:
+    - id: 34110
+      parent_id: 34106
+      date: 2007-12-10 22:54
+      poster: кэт
+      email: murena-999@mail.ru
+      subject: вот спасибо-хорошо....
+      deleted: false
+      text: вот спасибо-хорошо....

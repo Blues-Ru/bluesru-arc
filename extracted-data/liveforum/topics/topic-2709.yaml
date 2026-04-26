@@ -1,0 +1,33 @@
+topic_id: 2709
+slug: topic-2709
+title: Труба!
+first_post: 2005-08-19 00:10
+last_post: 2005-08-19 11:09
+post_count: 3
+posts:
+- id: 22362
+  parent_id: null
+  date: 2005-08-19 00:10
+  poster: LeVON
+  email: bigphatband@mail.ru
+  subject: Труба!
+  deleted: false
+  text: Ребятя мне срочно нужен хороший учитель по трубе!!! кто может помочь пожалуйста
+    напишите!!!
+  replies:
+  - id: 22363
+    parent_id: 22362
+    date: 2005-08-19 10:51
+    poster: XXX
+    email: gesh@nm.ru
+    subject: Я могу помочь!!!
+    deleted: false
+    text: Майлс Дэвис очень хороший учитель!! Послушай и поснимай!!
+  - id: 22365
+    parent_id: 22362
+    date: 2005-08-19 11:09
+    poster: LeVON
+    email: bigphatband@mail.ru
+    subject: Ни черта подобного!
+    deleted: false
+    text: Arturo Sandoval круче всех!!!

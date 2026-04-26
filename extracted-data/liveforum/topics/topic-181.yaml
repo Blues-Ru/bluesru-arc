@@ -1,0 +1,24 @@
+topic_id: 181
+slug: topic-181
+title: С днём рождения, Михаил!
+first_post: 2002-04-24 20:27
+last_post: 2002-04-25 13:07
+post_count: 2
+posts:
+- id: 4070
+  parent_id: null
+  date: 2002-04-24 20:27
+  poster: Андрей PRG
+  email: peregnoy@mail.ru
+  subject: С днём рождения, Михаил!
+  deleted: false
+  text: Поздравляю Михаила Мишуриса с ДР и желаю всего самого такого-растакого! Ура!
+  replies:
+  - id: 4101
+    parent_id: 4070
+    date: 2002-04-25 13:07
+    poster: Sergei N. (General)
+    email: tangojerry@hotmail.com
+    subject: Присоединяюсь...
+    deleted: false
+    text: '...к поздравлениям! \-/% !! :)'

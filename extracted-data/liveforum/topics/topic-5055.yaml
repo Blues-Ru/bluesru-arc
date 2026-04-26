@@ -1,0 +1,21 @@
+topic_id: 5055
+slug: topic-5055
+title: Bob Brozman (March 8, 1954 - April 24, 2013)
+first_post: 2013-04-26 00:42
+last_post: 2013-04-26 10:22
+post_count: 2
+posts:
+- id: 38920
+  parent_id: null
+  date: 2013-04-26 00:42
+  poster: Andrei V. Evdokimov
+  subject: Bob Brozman (March 8, 1954 - April 24, 2013)
+  deleted: false
+  text: He was 59
+  replies:
+  - id: 38921
+    parent_id: 38920
+    date: 2013-04-26 10:22
+    poster: grem
+    subject: RIP
+    deleted: false

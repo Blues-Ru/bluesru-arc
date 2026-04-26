@@ -1,0 +1,24 @@
+topic_id: 3735
+slug: topic-3735
+title: Завинул умер :(
+first_post: 2007-09-11 17:47
+last_post: 2007-09-12 03:41
+post_count: 2
+posts:
+- id: 33463
+  parent_id: null
+  date: 2007-09-11 17:47
+  poster: Dmitri Kazantsev (Dr. Nick)
+  email: dr.nick@blues.ru
+  subject: Завинул умер :(
+  deleted: false
+  text: http://lenta.ru/news/2007/09/11/dies/
+  replies:
+  - id: 33476
+    parent_id: 33463
+    date: 2007-09-12 03:41
+    poster: Старый Майор
+    email: gypsy@mail.ru
+    subject: Угу.. (((
+    deleted: false
+    text: Достал старую пластинку болгарскую, вспомнил...

@@ -1,0 +1,99 @@
+topic_id: 617
+slug: topic-617
+title: Подскажите MP3 ресурсы
+first_post: 2003-02-10 13:16
+last_post: 2003-02-13 10:27
+post_count: 8
+posts:
+- id: 10487
+  parent_id: null
+  date: 2003-02-10 13:16
+  poster: Алексей Ч.
+  email: chern@ints.ru
+  subject: Подскажите MP3 ресурсы
+  deleted: false
+  text: 'Буду весьма признателен, если кто даст адреса хороших (российских !)сайтов,
+    где можно скачивать музычку. Блюз, разумеется :-)
+
+
+    Спасибо,
+
+    Лёва'
+  replies:
+  - id: 10493
+    parent_id: 10487
+    date: 2003-02-10 15:56
+    poster: Дима Казанцев (Казан)
+    email: dr.nick@blues.ru
+    subject: mp3.int.ru
+    deleted: false
+    text: mp3.int.ru
+  - id: 10505
+    parent_id: 10487
+    date: 2003-02-11 09:38
+    poster: Sergei  Kiritchenko (VoID)
+    email: skvoid@mail.ru
+    subject: вот еще недавно подсказали
+    deleted: false
+    text: http://om.lrn.ru/index.html
+  - id: 10506
+    parent_id: 10487
+    date: 2003-02-11 10:09
+    poster: Slavik Chernov (Blacky)
+    email: Blacky@softhome.net
+    subject: www.bluesbox.ru
+    deleted: false
+    text: subj
+  - id: 10525
+    parent_id: 10487
+    date: 2003-02-12 11:52
+    poster: Алексей Ч.
+    email: chern@ints.ru
+    subject: Офф, нужна прокся...
+    deleted: false
+    text: 'Друзья, спасибо еще раз.
+
+
+      А не даст ли кто мне рабочую проксю, можно тормозную, а лучше несколько :-)
+
+      А то замучался совсем, не вижю ничего из дома за пределами нашей Родины...
+
+
+
+      Пардон за Офф,
+
+
+      Лёва'
+    replies:
+    - id: 10528
+      parent_id: 10525
+      date: 2003-02-12 13:37
+      poster: Sanya
+      email: sanya@cterra.ru
+      subject: Если ты за пределами нашей Родины, пробуй более другие способы. :^)
+      deleted: false
+      text: IRC тебе доступен?
+      replies:
+      - id: 10534
+        parent_id: 10528
+        date: 2003-02-12 14:52
+        poster: Алексей Ч.
+        email: chern@ints.ru
+        subject: Нет, к сожалению :-))
+        deleted: false
+        text: 'Я живу в россии :-((((((  В этом моя беда. И не в смысле интернета.
+
+          А дома у меня анлим на российский трафик,  иностранный же приходится качать
+          через прокси. Тот прокси что был - перестал работать. На блюзрульцев осталась
+          надежда...'
+        replies:
+        - id: 10552
+          parent_id: 10534
+          date: 2003-02-13 10:27
+          poster: Sanya
+          email: sanya@cterra.ru
+          subject: Фу ты, господи,
+          deleted: false
+          text: 'а я уж думал, тебе инт.ру не видно.
+
+            Меняй страну, одной бедой меньше будет.'

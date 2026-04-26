@@ -1,0 +1,72 @@
+topic_id: 3015
+slug: topic-3015
+title: William Clarke Video?
+first_post: 2005-12-25 02:52
+last_post: 2005-12-27 23:20
+post_count: 6
+posts:
+- id: 25223
+  parent_id: null
+  date: 2005-12-25 02:52
+  poster: Marat Dakota
+  email: mhobbit@mail.ru
+  subject: William Clarke Video?
+  deleted: false
+  text: Люди. Реально ли достать какое-нибудь (желательно как можно больше) видео
+    Вильяма Кларка? Я слышал, что у некоторых коллекционеров есть. Готов купить за
+    любые деньги и все такое :))
+  replies:
+  - id: 25227
+    parent_id: 25223
+    date: 2005-12-25 20:06
+    poster: Fedor Romanenko
+    email: fedor@blues.ru
+    subject: video
+    deleted: false
+    text: У меня есть два видео на VHS посредственного качества. Надо бы оцифровать
+      на DVD, но руки не доходят. Одно видео, кажись, сейчас лежит у Вадима. Мне не
+      жалко поделиться, но VHS формат очень труден для копирования, надо оцифровать
+      сначала...
+    replies:
+    - id: 25228
+      parent_id: 25227
+      date: 2005-12-25 20:16
+      poster: Marat Dakota
+      email: mhobbit@mail.ru
+      subject: О!
+      deleted: false
+      text: 'Я готов оплатить оцифровку кассет. В Петербурге когда-то была контора,
+        которая за сносную плату (не помню, что-то порядка 30 баксов) брала видеокассету
+        и делала очень качественный mpeg-4. Попробую разыскать. Хотя почти уверен,
+        что в Москве есть аналогичные конторы.
+
+
+        Вадим мне обещал уже штуки четыре DVD с Пьязой переписать :)
+
+        Чувствую, что самым крутым и быстрым вариантом будет прийти к нему с огромным
+        винчестером. Чтоб ничего не забыть :)))'
+      replies:
+      - id: 25244
+        parent_id: 25228
+        date: 2005-12-26 13:16
+        poster: Алексей Аграновский (Док)
+        email: aaa@genebee.msu.su
+        subject: Не забудь зарядить винчестер, сынок...
+        deleted: false
+        replies:
+        - id: 25277
+          parent_id: 25244
+          date: 2005-12-27 16:33
+          poster: Marat Dakota
+          email: mhobbit@mail.ru
+          subject: Не. Мейк лов, нот во!
+          deleted: false
+          text: В заряженный винчестер ничего не влезет.
+          replies:
+          - id: 25280
+            parent_id: 25277
+            date: 2005-12-27 23:20
+            poster: Алексей Аграновский (Док)
+            email: aaa@genebee.msu.su
+            subject: Кроме гвоздики...
+            deleted: false

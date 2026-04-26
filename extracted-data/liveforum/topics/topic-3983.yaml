@@ -1,0 +1,51 @@
+topic_id: 3983
+slug: topic-3983
+title: about J.J. Cale
+first_post: 2008-04-13 13:00
+last_post: 2008-04-15 11:20
+post_count: 5
+posts:
+- id: 35282
+  parent_id: null
+  date: 2008-04-13 13:00
+  poster: Dmitri Kazantsev (Dr. Nick)
+  email: dr.nick@blues.ru
+  subject: about J.J. Cale
+  deleted: false
+  text: "на самом деле, он просто Джон. \n\nJ.J. - это его сценическое имя (чтобы\
+    \ не путали с Джоном  Кейлом из Velvet Underground).\n\nон сам это сообщил в фильме\
+    \ To Tulsa And Back."
+  replies:
+  - id: 35284
+    parent_id: 35282
+    date: 2008-04-14 03:37
+    poster: Старый Майор
+    email: gypsy@mail.ru
+    subject: Какой ужос... кругом сплошной обман...
+    deleted: false
+    replies:
+    - id: 35285
+      parent_id: 35284
+      date: 2008-04-14 10:11
+      poster: Andrei V. Evdokimov (evdokimov)
+      email: evdokimov@blues.ru
+      subject: раскололся старик! (-)
+      deleted: false
+    - id: 35300
+      parent_id: 35284
+      date: 2008-04-15 09:53
+      poster: Dmitri Kazantsev (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: мир наживы и чистогана
+      deleted: false
+      text: ох уж эти тупые американцы
+  - id: 35301
+    parent_id: 35282
+    date: 2008-04-15 11:20
+    poster: Malcolm Ray  Redriver (Mike)
+    email: lifebythedrop@yandex.ru
+    subject: Ну и шо?..
+    deleted: false
+    text: '... человек который написал After Midnight, Call Me The Breezee и Cocaine
+      может называться как угодно... вон, Джон Пол Джонс,на самом деле - Болдуин,
+      а взял псевдоним, что бы не сравнивали с папашей, известным джазовым музыкантом...'

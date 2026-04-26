@@ -1,0 +1,30 @@
+path: 08Summer/Veteran/content
+type: lightroom
+title: Дмитрий "Ветеран" Честных. 21.VI.08
+date: null
+photo_count: 5
+captioned: 0
+index_files:
+- index.html
+extra_text: Дмитрий "Ветеран" Честных. 21.VI.08 Дмитрий "Ветеран" Честных. 21.VI.08
+  Дом у Дороги 1 2 3 4 5 by A.Evdokimov
+photos:
+- file: bin/_1070030.jpg
+  thumb: bin/images/thumb/_1070030.jpg
+  page_html: _1070030_large.html
+- file: bin/_1070034.jpg
+  thumb: bin/images/thumb/_1070034.jpg
+  page_html: _1070034_large.html
+- file: bin/_1070037.jpg
+  thumb: bin/images/thumb/_1070037.jpg
+  page_html: _1070037_large.html
+- file: bin/_1070039.jpg
+  thumb: bin/images/thumb/_1070039.jpg
+  page_html: _1070039_large.html
+- file: bin/_1070041.jpg
+  thumb: bin/images/thumb/_1070041.jpg
+  page_html: _1070041_large.html
+canonical_date: 2008-07
+clean_title: The Veteran, лето 2008
+slug: veteran-summer-2008
+description: Блюзовый вечер в клубе «Ветеран», лето 2008.

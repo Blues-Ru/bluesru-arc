@@ -1,0 +1,80 @@
+topic_id: 1822
+slug: topic-1822
+title: Красная звезда пишет о блюзе
+first_post: 2004-02-04 07:14
+last_post: 2004-02-07 14:14
+post_count: 7
+posts:
+- id: 17043
+  parent_id: null
+  date: 2004-02-04 07:14
+  poster: Andrei V. Evdokimov (evdokimov)
+  email: evdokimov@blues.ru
+  subject: Красная звезда пишет о блюзе
+  deleted: false
+  text: сообщается, что был у него сингл "Камень безумия".
+  replies:
+  - id: 17044
+    parent_id: 17043
+    date: 2004-02-04 07:24
+    poster: Andrei V. Evdokimov (evdokimov)
+    email: evdokimov@blues.ru
+    subject: Экспресс К (Казахстан) пишет о блюзе
+    deleted: false
+    text: 'там интервью с какой-то теткой, которая говорит:
+
+      "Еще, пожалуй, BLUES TRAVELERS (группа кинозвезды Брюса Уиллиса) - вообще-то
+      их диски хороши, но несколько лет назад я видела их живьем на сцене, и это было
+      крайне скучно. Единственное, что меня позабавило, так это Брюс Уиллис, который
+      смотрел на мою грудь так, словно он вообще впервые видит женщину!"
+
+      John Popper и Брюс Виллис так похожи??? Или они когда-то гастролировали вместе?'
+    replies:
+    - id: 17045
+      parent_id: 17044
+      date: 2004-02-04 10:45
+      poster: John John (John)
+      email: ssy@ac.com.ru
+      subject: кстати о Поппере
+      deleted: false
+      text: У них в 2003 году вышел двойной двд. очень всем рекомендую посмотреть
+        этот концерт. блюза там не очень много, но ребята играют супер.
+  - id: 17071
+    parent_id: 17043
+    date: 2004-02-05 07:48
+    poster: Andrei V. Evdokimov (evdokimov)
+    email: evdokimov@blues.ru
+    subject: забавно
+    deleted: false
+    text: никто не спросил "у кого". У Бадди Гая был сингл "Камень безумия".
+    replies:
+    - id: 17083
+      parent_id: 17071
+      date: 2004-02-06 02:03
+      poster: Дима Казанцев (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: stone crazy, mofo?
+      deleted: false
+      text: а что это его так перевели? Вовка за это дело глотку перегрызет!
+      replies:
+      - id: 17106
+        parent_id: 17083
+        date: 2004-02-07 09:24
+        poster: Andrei V. Evdokimov (evdokimov)
+        email: evdokimov@blues.ru
+        subject: спускай Вовку с поводка
+        deleted: false
+        text: 'Stone crazy = Совсем спятил
+
+          Stone cold = Совсем замерз
+
+          и т.д.'
+        replies:
+        - id: 17108
+          parent_id: 17106
+          date: 2004-02-07 14:14
+          poster: vr  (Stone Crazy)
+          email: volodya@blues.ru
+          subject: ага ща всех покусаю... :)))
+          deleted: false
+          text: нам сумашедшим всеравно :)

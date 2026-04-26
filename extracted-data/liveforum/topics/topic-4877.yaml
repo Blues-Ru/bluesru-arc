@@ -1,0 +1,31 @@
+topic_id: 4877
+slug: topic-4877
+title: и это всё? роллинг стоун как-то не очень постарался
+first_post: 2012-05-27 23:49
+last_post: 2012-06-02 01:41
+post_count: 3
+posts:
+- id: 38388
+  parent_id: null
+  date: 2012-05-27 23:49
+  poster: Andrei V. Evdokimov
+  subject: и это всё? роллинг стоун как-то не очень постарался
+  deleted: false
+  text: http://www.rollingstone.com/music/song-stories/all-of-your-love-magic-sam#ixzz1w5ncuBAR
+  replies:
+  - id: 38389
+    parent_id: 38388
+    date: 2012-05-28 00:12
+    poster: Михаил Бирюков
+    subject: а им старание...
+    deleted: false
+    text: '... последнее время вообще как-то не шибко свойственно.'
+  - id: 38394
+    parent_id: 38388
+    date: 2012-06-02 01:41
+    poster: Старый Майор
+    subject: А шо бы вы хотели..
+    deleted: false
+    text: '..шобы там было написано?
+
+      Зато осенили заметку присутствием самого Игги Попы.. или Попа?'

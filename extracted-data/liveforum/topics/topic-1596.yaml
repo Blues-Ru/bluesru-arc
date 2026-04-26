@@ -1,0 +1,65 @@
+topic_id: 1596
+slug: topic-1596
+title: Где в Питере можно послушать хороший блюз.
+first_post: 2003-11-21 17:55
+last_post: 2003-11-24 09:34
+post_count: 6
+posts:
+- id: 15770
+  parent_id: null
+  date: 2003-11-21 17:55
+  poster: Dmitri
+  email: CoBB@inbox.ru
+  subject: Где в Питере можно послушать хороший блюз.
+  deleted: false
+  text: Ребята, посоветуйте дилетанту, где в Питере можно насладиться хорошим акустическим
+    блюзом (Missisippi Style). Заранее всем спасибо.
+  replies:
+  - id: 15798
+    parent_id: 15770
+    date: 2003-11-22 01:48
+    poster: Sergei  Kiritchenko (VoID)
+    email: skvoid@mail.ru
+    subject: интересный вопрос...
+    deleted: false
+    text: '...и если Вы найдете таки ответ на него, то не затруднитесь поместить его
+      сюда, дабы мы все удиились ;)
+
+      На моей памяти последняя возможность послушать такую музыку была летом, когда
+      приезжали ребята из Минска.'
+    replies:
+    - id: 15830
+      parent_id: 15798
+      date: 2003-11-23 03:09
+      poster: Nick Goodcorn
+      email: sunburn2001@mail.ru
+      subject: Не надо так уж пугать))))))))))
+      deleted: false
+      replies:
+      - id: 15837
+        parent_id: 15830
+        date: 2003-11-23 13:34
+        poster: Sergei  Kiritchenko (VoID)
+        email: skvoid@mail.ru
+        subject: Ваши варианты?...
+        deleted: false
+        text: '...ессно кроме Хендрикса с гитарными запилами? :)'
+  - id: 15846
+    parent_id: 15770
+    date: 2003-11-24 01:39
+    poster: Nick Goodcorn
+    email: sunburn2001@mail.ru
+    subject: Я - то им на своей кухне наслаждаюсь.....
+    deleted: false
+    text: '...а BBR, а SOBO?'
+    replies:
+    - id: 15852
+      parent_id: 15846
+      date: 2003-11-24 09:34
+      poster: Sergei  Kiritchenko (VoID)
+      email: skvoid@mail.ru
+      subject: кухня - весьма удачное место..
+      deleted: false
+      text: '.. но вот какой акустический блюз играет BBR?!
+
+        Ну а SoBo от нас вообще далеко, увы...'

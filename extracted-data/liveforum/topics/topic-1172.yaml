@@ -1,0 +1,23 @@
+topic_id: 1172
+slug: topic-1172
+title: More Blues Lyrics here...
+first_post: 2003-05-22 14:24
+last_post: 2003-05-22 14:49
+post_count: 2
+posts:
+- id: 12648
+  parent_id: null
+  date: 2003-05-22 14:24
+  poster: Daniil Jeshkov (Ji][v][i)
+  email: jimi@opfr.spb.ru
+  subject: More Blues Lyrics here...
+  deleted: false
+  text: http://blueslyrics.tripod.com/bluessongs1.htm#top
+  replies:
+  - id: 12650
+    parent_id: 12648
+    date: 2003-05-22 14:49
+    poster: Daniil Jeshkov (Ji][v][i)
+    email: jimi@opfr.spb.ru
+    subject: http://www.bluesrock.webz.cz/
+    deleted: false

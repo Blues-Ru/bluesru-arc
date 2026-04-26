@@ -1,0 +1,26 @@
+topic_id: 2602
+slug: topic-2602
+title: Блюзовый бас-гитарист
+first_post: 2005-05-29 03:43
+last_post: 2005-05-29 08:16
+post_count: 2
+posts:
+- id: 21613
+  parent_id: null
+  date: 2005-05-29 03:43
+  poster: Antony
+  email: izoom@inbox.ru
+  subject: Блюзовый бас-гитарист
+  deleted: false
+  text: Хочу спросить есть ли яркие представители бас гитары в блюзе. Не те кто играл
+    со знаменитами гитаристами и тп, а по настоящему играл блюз на басу?
+  replies:
+  - id: 21614
+    parent_id: 21613
+    date: 2005-05-29 08:16
+    poster: Wheel
+    email: wheel@ua.fm
+    subject: конечно
+    deleted: false
+    text: Willie Kent,Noel Neal,Dave Myers,Johnny B. Gayden и еще очень много кто
+      еще.

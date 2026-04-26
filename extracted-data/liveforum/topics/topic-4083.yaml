@@ -1,0 +1,56 @@
+topic_id: 4083
+slug: topic-4083
+title: Умер Свет.
+first_post: 2008-09-13 14:25
+last_post: 2008-09-14 20:59
+post_count: 6
+posts:
+- id: 35762
+  parent_id: null
+  date: 2008-09-13 14:25
+  poster: Invisible soul
+  email: solar@mail.ru
+  subject: Умер Свет.
+  deleted: false
+  text: "Сегодня узнал что Света больше нет с нами... \nБеларусь потеряла очень талантливого\
+    \ человечка...Пусть земля ему будет пухом...\nВсе таки какая сука - жизнь!!!"
+  replies:
+  - id: 35763
+    parent_id: 35762
+    date: 2008-09-13 14:49
+    poster: BOODOOLAI
+    email: timot@mail.ru
+    subject: All Gods places...
+    deleted: false
+  - id: 35765
+    parent_id: 35762
+    date: 2008-09-13 15:25
+    poster: Kot Matraskin (KotMatraskin)
+    email: kotmatrs@mail.ru
+    subject: Не могу поверить
+    deleted: false
+    text: Что случилось? Кто нибудь знает подробности?
+  - id: 35766
+    parent_id: 35762
+    date: 2008-09-13 15:56
+    poster: Dmitri Kazantsev (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: как же это???
+    deleted: false
+    text: что же это?
+  - id: 35777
+    parent_id: 35762
+    date: 2008-09-14 14:55
+    poster: Кирилл
+    email: adressnet@yandex.ru
+    subject: Боже!
+    deleted: false
+    text: Боже!
+  - id: 35779
+    parent_id: 35762
+    date: 2008-09-14 20:59
+    poster: таврический
+    email: лорлор
+    subject: крепитесь....
+    deleted: false
+    text: в голове вообще не укладывается....теперь значит Свет поет госпел........

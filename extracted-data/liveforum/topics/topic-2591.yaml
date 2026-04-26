@@ -1,0 +1,70 @@
+topic_id: 2591
+slug: topic-2591
+title: Музыка от фанатов "Rolling Stones"
+first_post: 2005-05-24 17:53
+last_post: 2005-05-27 13:57
+post_count: 7
+posts:
+- id: 21563
+  parent_id: null
+  date: 2005-05-24 17:53
+  poster: Blutang
+  email: blutang@yandex.ru
+  subject: Музыка от фанатов "Rolling Stones"
+  deleted: false
+  text: 'Приглашаю похвалить/поругать наши творения :)
+
+    http://www.realmusic.ru/continental'
+  replies:
+  - id: 21564
+    parent_id: 21563
+    date: 2005-05-24 21:39
+    poster: Старый майор
+    email: gypsy@mail.ru
+    subject: Хм.. очень профессионально... мой респект!
+    deleted: false
+    text: Вы откуда такие славные добры молодцы???
+    replies:
+    - id: 21568
+      parent_id: 21564
+      date: 2005-05-25 19:05
+      poster: Blutang
+      email: blutang@yandex.ru
+      subject: Инкубаторские мы! :)
+      deleted: false
+      text: '"Континентальный дрейф", "Вертолет", "Sticky Fingers", "Южный ветер",
+        "Shakin Spirit"...'
+      replies:
+      - id: 21577
+        parent_id: 21568
+        date: 2005-05-26 18:04
+        poster: Старый майор
+        email: gypsy@mail.ru
+        subject: Из всего перечисленного помню только "Южный ветер" )
+        deleted: false
+        replies:
+        - id: 21579
+          parent_id: 21577
+          date: 2005-05-26 18:10
+          poster: Andrei V. Evdokimov (evdokimov)
+          email: evdokimov@blues.ru
+          subject: а кто из "...ветра"?
+          deleted: false
+          text: г-н майор, прошу не каламбурить, типа, "из ветра - до ветру" и пр.
+            =)
+          replies:
+          - id: 21587
+            parent_id: 21579
+            date: 2005-05-27 13:57
+            poster: Старый майор
+            email: gypsy@mail.ru
+            subject: И заметьте, не я это сказал =)))
+            deleted: false
+        - id: 21580
+          parent_id: 21577
+          date: 2005-05-26 18:46
+          poster: Blutang
+          email: blutang@yandex.ru
+          subject: Клавишник из "Южного"
+          deleted: false
+          text: Антоном звать. И это не я. Я Роман. Меня никто не знает :)

@@ -1,0 +1,25 @@
+topic_id: 1585
+slug: topic-1585
+title: Нет ли здесь гитариста, желающего поиграть рок-н-ролл?
+first_post: 2003-11-20 14:21
+last_post: 2003-11-24 23:06
+post_count: 2
+posts:
+- id: 15675
+  parent_id: null
+  date: 2003-11-20 14:21
+  poster: HELICOPTERS
+  email: mahnast@iname.com
+  subject: Нет ли здесь гитариста, желающего поиграть рок-н-ролл?
+  deleted: false
+  text: '...а то у нас много своих песен на английском, все в стиле 60-х, много идей
+    итд. Не хватает только гитариста! Если что, звоните: 89037877193, 89035946608.'
+  replies:
+  - id: 15878
+    parent_id: 15675
+    date: 2003-11-24 23:06
+    poster: papa_john
+    email: ev-il@mail.ru
+    subject: нет
+    deleted: false
+    text: нет

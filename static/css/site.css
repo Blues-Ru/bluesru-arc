@@ -1,0 +1,14 @@
+/* Blues.Ru global stylesheet */
+
+/* Dead links: content that no longer exists on the site */
+a.dead-link {
+    text-decoration: line-through;
+    text-decoration-style: dotted;
+    color: inherit;
+    opacity: 0.55;
+    cursor: default;
+    pointer-events: none;
+}
+a.dead-link:hover {
+    text-decoration: line-through dotted;
+}

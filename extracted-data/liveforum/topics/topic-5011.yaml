@@ -1,0 +1,36 @@
+topic_id: 5011
+slug: topic-5011
+title: 'из ютюбных архи-редкостей: Jimmy Reed'
+first_post: 2013-03-14 04:49
+last_post: 2013-03-18 00:25
+post_count: 3
+posts:
+- id: 38809
+  parent_id: null
+  date: 2013-03-14 04:49
+  poster: Andrei V. Evdokimov
+  subject: 'из ютюбных архи-редкостей: Jimmy Reed'
+  deleted: false
+  text: '<iframe width="560" height="315" src="http://www.youtube.com/embed/QBxXPv0YvRo"
+    frameborder="0" allowfullscreen></iframe>
+
+
+    Говорят, это из рекламного ролика к фильму 70-х "All You Need Is Love"
+
+    В процессе совершенствования фильма кадры с Джимми Ридом из него выпали, а в трейлер
+    так и остались... Добрые люди нашли, выложили для всех.'
+  replies:
+  - id: 38811
+    parent_id: 38809
+    date: 2013-03-14 14:03
+    poster: Старый Майор
+    subject: Мало!
+    deleted: false
+    text: Jimmy Reed тут выглядит в полном порядке, очень сконцентрированный.
+    replies:
+    - id: 38818
+      parent_id: 38811
+      date: 2013-03-18 00:25
+      poster: Andrei V. Evdokimov
+      subject: вот именно!
+      deleted: false

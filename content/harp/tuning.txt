@@ -1,0 +1,94 @@
+
+
+In modern Western music there is an intrinsic difficulty if not
+impossibility, in reconciling a tuning to both harmony and melody.  Simply put,
+the closer the notes are to the normal tuning found on keyboards and quartz
+tuners, known as Equal Temperment, the rougher the chords will sound;
+likewise, the more pure the chords, the stranger the melody will appear to our 
+ears.  Chromatic harmonicas are usually tuned to Equal Temperment, which
+compromises harmonious chords in order to perform equally well in every key.
+Diatonic models are not required to perform in all keys so one has the
+opportunity to better harmonize the chords. 
+
+Marine Band style harps were originally tuned to Just Intonation, where the
+Major chords were absolutely pure.  This worked well for the instrument when
+played as it usually was- solo or in concert only with other harmonicas.  The
+Tonic, or blow chords, and the Dominant and Dominant 7th chords (1-4 draw
+and 1-5 draw respectively) sounded wonderful, and the ear would quickly
+adjust to the difference in melody as it was based on pure intervals anyway.
+Complaints arose when these models were called upon more and more to play 
+and be in tune with other types of instruments, so gradually the tuning drifted closer
+to Equal Temperment.  Finally, a point was reached when the Marine Band was so
+close to Equal Temperment that complaints started coming in that the chords
+sounded out of tune and that it was even beginning to affect the playing
+style of blues players.  The note of the fifth hole draw has by far the greatest
+variance between Equal and Just tuning, and it was noticed that blues players were
+less inclined to play long, soulful notes on that hole than in earlier times, when
+the instrument was closer to Just Intonation.  The arrival of the MS series
+offered the opportunity of a solution to the problem. 
+
+The Marine Band and Special 20 are the models favored by the more traditional
+players, blues or otherwise, who are likely to prefer a tuning closer to Just
+Intonation, especially on the 5 draw note.  These two models, therefore, have
+recently been brought back closer to the original tuning, while still maintaining a
+certain compromise allowing them to fit in with other instruments.  The MS models are
+tuned as the Marine Band was up to recently,  a little closer to Equal
+Temperment in general, but with the distinction that the 5 and 9 draw are tuned
+well up, where they will sound right with other instruments, especially in the
+Sub-dominant chord in 1st position (5-6 draw).
+
+The following charts are given showing the relative pitch of each note in the
+standard Marine Band, or Richter, tuning.  The tunings are expressed in cents, the
+unit used with most quartz or strobe tuners, and show the variance from Equal
+Temperment.  This variance is the same regardless of which key the instrument is
+tuned to or how close to A-440 it is pitched. 
+
+Original Marine Band Tuning (Just Intonation)
+Hole #    1     2     3     4     5     6     7     8     9    10
+Blow      0   -14   +2    0   -14   +2    0   -14   +2     0
+Draw    +4   +2   -12  +4   -27   +6  -12   +4   -27  +6
+
+Current Marine Band Tuning
+Hole #    1     2     3     4     5     6     7     8     9    10
+Blow      0   -12   +1    0   -12   +1    0   -12   +1     0
+Draw    +2   +1   -11  +2   -12  +3   -11  +2   -12   +3
+
+Tuning for MS Models
+Hole #    1     2     3     4     5     6     7     8     9    10
+Blow      0   -10   +1    0   -10   +1    0   -10   +1     0
+Draw    +2   +1    -9   +2   +3   +3   -9    +2   +3   +3
+
+The numbers represent deviation in cents from established pitch, such
+as A-440 or A-442, a cent being equal to 1/100th of a semi-tone.  
+                                                       
+The  Golden Melody Model 542 is tuned to Equal Temperament.
+Hohner diatonics are tuned to A-442 at moderate volume so that they should
+not drop below A-440 at full volume.  All tunings represent compromises, so
+players into tuning their harps may wish to experiment in finding one to suit their
+own needs best.  I use an English concertina to accompany some of my playing and
+have developed a tuning for this combination based on Meantone Temperament,
+another system which utilizes pure Major thirds.  I play more in the sharp
+keys, so I centered this tuning at D.  By placing the thirds halfway between Equal
+and pure, the concertina is in good tune with other instruments, at least in the
+common keys, and produces pleasing chords.  Note that the English concertina has
+buttons for 14 different notes in an octave:
+
+  Ab         Eb        Bb          F          C          G           D    
++11.5     +9.6     +7.6       +5.7      +3.8      +1.9         0
+
+
+   A           E          B          F#        C#        G#          D#   
+  -2          -3.9       -5.8      -7.7       -9.6      -11.6       -13.5
+
+
+This article is becoming long-winded so I'll leave the topic of tools and 
+techniques of tuning for later.  Let me just say in response to a question
+regarding a note that went flat and would not stay up in pitch after being
+retuned,  that when a reed goes drastically flat, a quarter-tone or more,
+it has likely developed an internal crack and will not stand up to playing.
+The harmonica should at this point be repaired or replaced.
+
+    Regards,
+                                                               Rick Epping
+
+

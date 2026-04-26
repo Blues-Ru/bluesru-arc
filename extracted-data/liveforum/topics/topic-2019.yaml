@@ -1,0 +1,26 @@
+topic_id: 2019
+slug: topic-2019
+title: Rock 'n' roll ain't noise pollution
+first_post: 2002-07-11 10:00
+last_post: 2002-07-11 11:43
+post_count: 2
+posts:
+- id: 5996
+  parent_id: null
+  date: 2002-07-11 10:00
+  poster: Malcolm Ray  Redriver (Mike)
+  email: lifebythedrop@yandex.ru
+  subject: Rock 'n' roll ain't noise pollution
+  deleted: false
+  text: Люди, а не найдётся ли среди вас знатоков рока периода ранних и средних Deep
+    Purple, а то есть у меня несколько записей 60-х 70-х списаных с радио, а кто это-
+    понятия не имею. Если найдётся могу прислать rm-файл
+  replies:
+  - id: 5999
+    parent_id: 5996
+    date: 2002-07-11 11:43
+    poster: Михаил Бирюков (nECKAPb)
+    email: blackcat@blues.ru
+    subject: можно вопрос?
+    deleted: false
+    text: <a href="http://www.blues.ru/forum/?id=19417&page=0&body=1#19417" target="_blank">http://www.blues.ru/forum/?id=19417&page=0&body=1#19417</a>

@@ -1,0 +1,45 @@
+topic_id: 3923
+slug: topic-3923
+title: На Арбате заложен памятный камень в честь блюза.
+first_post: 2008-02-27 20:29
+last_post: 2008-02-28 05:28
+post_count: 4
+posts:
+- id: 34803
+  parent_id: null
+  date: 2008-02-27 20:29
+  poster: Старый Майор
+  email: gypsy@mail.ru
+  subject: На Арбате заложен памятный камень в честь блюза.
+  deleted: false
+  text: "Установка камня была произведена в обстановке полной секретности, без участия\
+    \ журналистов и музыкальной общественности. \nСкромный размер камня свидетельствует\
+    \ о недостаточном количестве денежных средств у закладывавших. Но тем не менее,\
+    \ появление памятного камня символизирует новый шаг в популяризации блюза в нашей\
+    \ стране.\n\n<img src=http://gypsy.bluesman.ru/bluesnah.jpg>"
+  replies:
+  - id: 34805
+    parent_id: 34803
+    date: 2008-02-27 20:50
+    poster: Dmitri Kazantsev (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: это блюзнах или блюзня?
+    deleted: false
+    text: это чорный пеар! надо подать в суд!
+    replies:
+    - id: 34806
+      parent_id: 34805
+      date: 2008-02-27 20:54
+      poster: Старый Майор
+      email: gypsy@mail.ru
+      subject: Оба термина достойны )))
+      deleted: false
+      text: Ага, и выкорчевать камень нах! )))
+      replies:
+      - id: 34807
+        parent_id: 34806
+        date: 2008-02-28 05:28
+        poster: Jumpin' Jack Flash
+        email: ghhjg
+        subject: плакаль))
+        deleted: false

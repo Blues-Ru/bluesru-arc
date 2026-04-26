@@ -1,0 +1,34 @@
+topic_id: 1263
+slug: topic-1263
+title: Ищем группу, чтобы играть
+first_post: 2003-07-15 11:14
+last_post: 2003-07-17 00:36
+post_count: 3
+posts:
+- id: 13213
+  parent_id: null
+  date: 2003-07-15 11:14
+  poster: Никита Чистиков (searcher)
+  email: analitik@bk.ru
+  subject: Ищем группу, чтобы играть
+  deleted: false
+  text: Очень хочется найти несколько молодых команд для регулярной игры в нашей кофейне.
+    Звоните по 8-903-590-5986 или пишите на e-mail.
+  replies:
+  - id: 13221
+    parent_id: 13213
+    date: 2003-07-15 18:42
+    poster: Толпа желающих играть
+    email: gypsy@mail.ru
+    subject: Брат Никита, а где кофейня-то? может, до неё семь вёрст лесом..
+    deleted: false
+    replies:
+    - id: 13237
+      parent_id: 13221
+      date: 2003-07-17 00:36
+      poster: Игорь Головачев (Игорь Г.)
+      email: sunny_city@mail.ru
+      subject: А вроде бы Никита уже выходил раньше с подобным предложением
+      deleted: false
+      text: "и заведение тогда,если мне память не изменяет,было где-то \nв районе\
+        \ гостиницы Россия или ГУМа."

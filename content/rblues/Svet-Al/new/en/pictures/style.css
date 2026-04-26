@@ -1,0 +1,81 @@
+BODY {
+	BACKGROUND-COLOR: #e2e2e2; MARGIN-LEFT: 0px; MARGIN-TOP: 0px
+}
+.bg {
+	BACKGROUND: #ffffff
+}
+A:link {
+	COLOR: #000000;
+	 text-decoration: none;
+}
+A:active {
+	COLOR: #8b0000;  text-decoration: none;
+}
+A:visited {
+	COLOR: #8b0000;  text-decoration: none;
+}
+A:hover {
+	COLOR: #dd6900; TEXT-DECORATION: none
+}
+
+
+.backcolor1 {
+	BACKGROUND: #dec35a
+}
+.backcolor2 {
+	BACKGROUND: #9b883f
+}
+.backcolor3 {
+	BACKGROUND: #ada65a
+}
+.backcolor4 {
+	BACKGROUND: #c6c18c
+}
+.backcolor5 {
+	BACKGROUND: #ffffff
+}
+.backcolor6 {
+	background: #969563
+}
+.title {
+	font-size: medium;
+	font-style: normal;
+	;
+	font-weight: bold;
+	text-align: center;
+	color: #333300;
+}
+.text {
+	font: "Times New Roman", Times, serif;
+	color: #333300;
+	font-size: small;
+}
+.fon {
+	background-color : #fcf1d1;
+}
+.podp {
+	text-align: right;
+; font-size: smaller
+; color: #333300
+}
+.spis  {
+	text-align: left;
+	;
+	font-size: smaller;
+	font-style: normal;
+	color: #333300;
+}	
+
+a:link {
+	color: #8B0000;
+	text-decoration: none;
+}
+.anons {  color: #CC0000; text-align: left}
+.foto {
+	font-size: 10 px;
+	color: #333300;
+	text-align: center
+}
+hr { width: 75%; text-align: center
+	
+}

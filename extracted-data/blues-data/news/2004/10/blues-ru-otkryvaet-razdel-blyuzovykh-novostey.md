@@ -1,0 +1,12 @@
+---
+id: 9
+slug: blues-ru-otkryvaet-razdel-blyuzovykh-novostey
+title: Blues.Ru открывает раздел блюзовых новостей
+date: '2004-10-11'
+author: Федор Романенко
+legacy_path: news/2004/10/blues-ru-otkryvaet-razdel-blyuzovykh-novostey.md
+---
+
+На <b>blues.ru</b> создана база данных блюзовых новостей. В момент старта туда были импортированы новости <a href="/drblues/">Dr.Blues</a>.
+
+Возможно, со временем этот раздел станет самым обновляемым на сайте.

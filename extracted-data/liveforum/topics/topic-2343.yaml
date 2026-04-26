@@ -1,0 +1,60 @@
+topic_id: 2343
+slug: topic-2343
+title: Сергею Бабаеву - 32 года! (не путать с 32-20 blues :-)
+first_post: 2004-12-10 23:08
+last_post: 2004-12-21 00:37
+post_count: 6
+posts:
+- id: 19922
+  parent_id: null
+  date: 2004-12-10 23:08
+  poster: Elicaster
+  email: elicaster(((@)mail.ru
+  subject: Сергею Бабаеву - 32 года! (не путать с 32-20 blues :-)
+  deleted: false
+  text: 'С Днём Рождения Сергей! Здоровья, творческих успехов, исполнения замыслов!
+    Шоб первый <a href="http://www.ben2jamm.narod.ru/">Benjamin and Blues Friends</a>
+    совсем уж долго не дожидался второго.
+
+    P.S. млин! я точно не помню: Д.Р. у тебя 11-ого или 13-ого? Помню что ты старше
+    меня то ли на 13, то ли на 11 дней...'
+  replies:
+  - id: 19936
+    parent_id: 19922
+    date: 2004-12-12 23:11
+    poster: Юрий Каверкин (Gekko)
+    email: kaverkin@rol.ru
+    subject: Happy, как говорится, Birthday !!!!
+    deleted: false
+  - id: 19942
+    parent_id: 19922
+    date: 2004-12-13 13:39
+    poster: Алексей Аграновский (Док)
+    email: aaa@genebee.msu.su
+    subject: Сережа, поздравляю тебя, будь счастлив и
+    deleted: false
+    text: приезжай почаще.
+  - id: 19956
+    parent_id: 19922
+    date: 2004-12-15 10:48
+    poster: Игорь Головачев (Игорь Г.)
+    email: sunny_city@mail.ru
+    subject: Серега,от души поздравляю!!!!
+    deleted: false
+    replies:
+    - id: 19963
+      parent_id: 19956
+      date: 2004-12-16 22:07
+      poster: Сергей Бабаев (S.B.)
+      email: from30@mail.ru
+      subject: Спасибо огромное, друзья!
+      deleted: false
+      replies:
+      - id: 20005
+        parent_id: 19963
+        date: 2004-12-21 00:37
+        poster: Петр Кунарев (Eastwood2002)
+        email: cousins@yandex.ru
+        subject: Ой, давно тут не был :-))
+        deleted: false
+        text: От всей души присоединяюсь))))))))

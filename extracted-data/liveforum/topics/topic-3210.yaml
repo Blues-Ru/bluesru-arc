@@ -1,0 +1,44 @@
+topic_id: 3210
+slug: topic-3210
+title: Майку -51!!!!
+first_post: 2006-04-18 11:11
+last_post: 2006-04-18 18:27
+post_count: 3
+posts:
+- id: 26957
+  parent_id: null
+  date: 2006-04-18 11:11
+  poster: (Grem)
+  email: grem@yandex.ru
+  subject: Майку -51!!!!
+  deleted: false
+  text: 'Сегодня Майку Науменко -51 и уже почти 15 лет как его нет с нами.
+
+    Великий наш поэт и музыкант. Он наверное первый (а может быть последний), кто
+    наиболее удачно сумел переложить русский язык на западную рок-н-ролльную и блюзовую
+    ритмику.
+
+    RIP Майк'
+  replies:
+  - id: 26959
+    parent_id: 26957
+    date: 2006-04-18 11:19
+    poster: Dmitri Kazantsev (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: точно последний
+    deleted: false
+    text: он и Мамонов - два умельца
+  - id: 26969
+    parent_id: 26957
+    date: 2006-04-18 18:27
+    poster: Алексей Фролов (Buchothk)
+    email: jokerthk@yandex.ru
+    subject: '...'
+    deleted: false
+    text: 'И каждое утро было как подарок,
+
+      И каждый новый день был прекрасен и ярок.
+
+      Мы не знали, что такое тишина и седина.
+
+      Скажи, куда ушли те времена...'

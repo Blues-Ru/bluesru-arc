@@ -1,0 +1,79 @@
+topic_id: 2669
+slug: topic-2669
+title: Лёша Дагаев,
+first_post: 2005-07-28 16:05
+last_post: 2005-08-01 21:47
+post_count: 8
+posts:
+- id: 22112
+  parent_id: null
+  date: 2005-07-28 16:05
+  poster: Дмитрий Казанцев (Dr. Nick)
+  email: dr.nick@blues.ru
+  subject: Лёша Дагаев,
+  deleted: false
+  text: 'расскажи нам о "малой" сцене в воскресенье. Когда, что, кто...
+
+
+    А то люди не знают во сколько приходить, и будет ли что-то вообще.
+
+
+    Спасибо!'
+  replies:
+  - id: 22133
+    parent_id: 22112
+    date: 2005-07-29 23:33
+    poster: Axle
+    email: axledog@mail.ru
+    subject: я тебе позвоню
+    deleted: false
+    replies:
+    - id: 22139
+      parent_id: 22133
+      date: 2005-07-31 00:33
+      poster: Дмитрий Казанцев (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: ты так и не позвонил :(
+      deleted: false
+      replies:
+      - id: 22155
+        parent_id: 22139
+        date: 2005-08-01 13:40
+        poster: Axle
+        email: axledog@mail.ru
+        subject: извини, попал в мясорубку
+        deleted: false
+        replies:
+        - id: 22159
+          parent_id: 22155
+          date: 2005-08-01 16:44
+          poster: Дмитрий Казанцев (Dr. Nick)
+          email: dr.nick@blues.ru
+          subject: кого рубили-то?
+          deleted: false
+          replies:
+          - id: 22165
+            parent_id: 22159
+            date: 2005-08-01 19:25
+            poster: Axle
+            email: axledog@mail.ru
+            subject: Дима, мне просто некогда было.
+            deleted: false
+            replies:
+            - id: 22166
+              parent_id: 22165
+              date: 2005-08-01 21:27
+              poster: Дмитрий Казанцев (Dr. Nick)
+              email: dr.nick@blues.ru
+              subject: а я волновался :(
+              deleted: false
+              text: Всё ОК в итоге?
+              replies:
+              - id: 22167
+                parent_id: 22166
+                date: 2005-08-01 21:47
+                poster: Axle
+                email: axledog@mail.ru
+                subject: Если принять во внимание то, что фест был заново сделан за
+                  18 часов, то все супер
+                deleted: false

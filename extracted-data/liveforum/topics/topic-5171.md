@@ -1,0 +1,23 @@
+---
+topic_id: 5171
+slug: topic-5171
+title: К столетию со дня рождения Санни Боя Уилльямсона Первого
+post_count: 2
+first_post: 2014-03-31 00:03
+last_post: 2014-03-31 18:38
+---
+
+## К столетию со дня рождения Санни Боя Уилльямсона Первого
+**From:** Andrei V. Evdokimov  **Date:** 2014-03-31 00:03  **Post:** #39184
+
+29 вариантов "каверов" его главного хита - песни "Доброе утро, маленькая школьница" + наипервейшая авторская запись 1937 года.
+http://blues.ru/atb/SBWI_I/GMLSG.htm
+
+---
+
+## теперь с выпуском передачи ВЭБ к 100-летию Санни Боя Уилльямсона Первого
+**From:** Andrei V. Evdokimov  **Date:** 2014-03-31 18:38  **Post:** #39185
+
+<OBJECT height=70 width=470><PARAM NAME="movie" VALUE="http://blues.ru/atb/ump3player_500x70.swf"><param name="wmode" VALUE="transparent"><param name=FlashVars value="way=http://blues.ru/atb/SBWI_I/atb_31_03_14_SBW.mp3&swf=http://blues.ru/atb/ump3player_500x70.swf&w=470&h=70&time_seconds=3091.122&autoplay=0&skin=blue&volume=70&comment=<font face='Verdana' size='14' color='#000080'>ВЭБ- к 100-летию Санни Боя Уилльямсона Первого!</font>"><embed src="http://blues.ru/atb/ump3player_500x70.swf" type="application/x-shockwave-flash" wmode="transparent" flashvars="way=http://blues.ru/atb/SBWI_I/atb_31_03_14_SBW.mp3&swf=http://blues.ru/atb/ump3player_500x70.swf&w=470&h=70&time_seconds=3091.122&autoplay=0&skin=blue&volume=70&comment=<font face='Verdana' size='14' color='#000080'>ВЭБ- к 100-летию Санни Боя Уилльямсона Первого!</font>" height="70" width="470"></embed></OBJECT>
+
+---

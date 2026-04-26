@@ -1,0 +1,24 @@
+topic_id: 84
+slug: topic-84
+title: Андрей! а в твоей передаче музыка...
+first_post: 2002-03-04 00:13
+last_post: 2002-03-04 14:01
+post_count: 2
+posts:
+- id: 1789
+  parent_id: null
+  date: 2002-03-04 00:13
+  poster: Dima Krasivov (Dima)
+  email: dima@blues.ru
+  subject: Андрей! а в твоей передаче музыка...
+  deleted: false
+  text: '...и та и другая? и кантри и вестерн? ;)'
+  replies:
+  - id: 1813
+    parent_id: 1789
+    date: 2002-03-04 14:01
+    poster: Andrei V. Evdokimov (evdokimov)
+    email: evdokimov@blues.ru
+    subject: я должен среагировать на Грэмми?
+    deleted: false
+    text: Вот и среагировал. не по блюзу, извините. но от души! :)

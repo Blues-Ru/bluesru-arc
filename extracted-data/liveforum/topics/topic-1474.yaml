@@ -1,0 +1,69 @@
+topic_id: 1474
+slug: topic-1474
+title: Док, зову, как и обещал, ну и всех желающих, конечно :-))
+first_post: 2003-09-14 10:07
+last_post: 2003-09-15 18:30
+post_count: 6
+posts:
+- id: 14622
+  parent_id: null
+  date: 2003-09-14 10:07
+  poster: Cowboy Pete
+  email: cousins@yandex.ru
+  subject: Док, зову, как и обещал, ну и всех желающих, конечно :-))
+  deleted: false
+  text: '19-го сентября в 19-00 в клубе Оксиджен, что в Коньково, пройдет совместный
+    концерт групп "The BackSliders" и "Clef", под девизом "Глоток свежего блюза".
+    Вход бесплатный, пиво дешевое - 30 и 50 р., место прекрасное. И 4 часа живого
+    рокнролла. Приходите!!! адрес клуба: Метро Коньково, улица Островитянова, д. 35
+    А, схема проезда http://rusblues.ru/oxygen/index.shtml'
+  replies:
+  - id: 14624
+    parent_id: 14622
+    date: 2003-09-14 21:55
+    poster: baltika
+    email: baltika-blues@yandex.ru
+    subject: 4 часа рокнролла под девизом "Глоток свежего блюза"??? - символично))))
+    deleted: false
+    text: спасибо за приглашение!)))
+  - id: 14626
+    parent_id: 14622
+    date: 2003-09-14 23:36
+    poster: Cowboy Pete
+    email: cousins@yandex.ru
+    subject: Ну там не только блюз будет :-))
+    deleted: false
+    text: Я рокнролл не как музыкальный стиль имел в виду )))) Да, кстати, еще будет
+      группа буранOFF блюз)))
+    replies:
+    - id: 14632
+      parent_id: 14626
+      date: 2003-09-15 11:07
+      poster: Grafoman
+      email: kazmin@sbank.ru
+      subject: О концерте
+      deleted: false
+      text: 'Да  -место правильное, приходите!!
+
+        буранOFFблю в пятницу сводит на тон-студии "Союз" новый альбом и вряд ли сможет
+        выступать..'
+  - id: 14637
+    parent_id: 14622
+    date: 2003-09-15 14:42
+    poster: Алексей Аграновский (Док)
+    email: aaa@genebee.msu.su
+    subject: 19-го пятница
+    deleted: false
+    text: '- мы работаем в другом месте. А вам удачи!'
+    replies:
+    - id: 14643
+      parent_id: 14637
+      date: 2003-09-15 18:30
+      poster: Cowboy Pete
+      email: cousins@yandex.ru
+      subject: Эхх, жаль :-(((
+      deleted: false
+      text: 'Ну ничего, как-нибудь в другой раз :-))
+
+
+        Спасибо за пожелания))) Не подкачаем)))'

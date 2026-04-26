@@ -1,0 +1,33 @@
+topic_id: 1102
+slug: topic-1102
+title: Дим! смотри, что про тебя пишут ;)
+first_post: 2002-03-04 22:34
+last_post: 2002-03-05 17:28
+post_count: 3
+posts:
+- id: 1846
+  parent_id: null
+  date: 2002-03-04 22:34
+  poster: Dima Krasivov (Dima)
+  email: dima@blues.ru
+  subject: Дим! смотри, что про тебя пишут ;)
+  deleted: false
+  text: http://www.compulenta.ru/news/2002/3/4/26281/
+  replies:
+  - id: 1865
+    parent_id: 1846
+    date: 2002-03-05 10:32
+    poster: Дима   (Казанцев)
+    email: dr.nick@blues.ru
+    subject: Хорошо пишут ;)
+    deleted: false
+    text: А что тебе там не нравится?
+    replies:
+    - id: 1886
+      parent_id: 1865
+      date: 2002-03-05 17:28
+      poster: Dima Krasivov (Dima)
+      email: dima@blues.ru
+      subject: да всё к одному...
+      deleted: false
+      text: Я смотрю ты и музыку без "красивой обложки" не признаешь... ;)

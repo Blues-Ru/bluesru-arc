@@ -1,0 +1,18 @@
+---
+topic_id: 4429
+slug: topic-4429
+title: Ираем на костях - урок от Dom Flemons
+post_count: 1
+first_post: 2010-09-23 13:34
+last_post: 2010-09-23 13:34
+---
+
+## Ираем на костях - урок от Dom Flemons
+**From:** ЖЕКА НЕМОВ  **Date:** 2010-09-23 13:34  **Post:** #37076
+
+<object width="640" height="385"><param name="movie" value="http://www.youtube.com/v/iMokBr9cTxM?fs=1&amp;hl=en_US"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/iMokBr9cTxM?fs=1&amp;hl=en_US" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="640" height="385"></embed></object>
+
+
+Всем удачи и творческих успехов, друзья!
+
+---

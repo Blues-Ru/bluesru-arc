@@ -1,0 +1,8 @@
+---
+id: 773
+slug: kontsert-lil-ed-the-blues-imperials-na-33-m-chikagskom-blyuz
+title: null
+date: 2016-07-13 00:00
+---
+
+Концерт Lil' Ed & The Blues Imperials на 33-м Чикагском блюз-фестивале в день праднования 45-летия Alligator Records. На 12-й фотографии основатель лейбла Bruce Iglauer выглядывает из-за кулис. Он весь концерт провел там, словно дежурный администратор сцены. ))) <br><a href="/bluesnews/_16/16_06_10_Lil_Ed/"><b><i>Полторы дюжины фотографий >>></i></b></a>.

@@ -1,0 +1,49 @@
+topic_id: 1847
+slug: topic-1847
+title: Вопрос к блюзовым филологам
+first_post: 2004-02-10 09:34
+last_post: 2004-02-11 16:59
+post_count: 4
+posts:
+- id: 17161
+  parent_id: null
+  date: 2004-02-10 09:34
+  poster: Wheel
+  email: wheel@a-teleport.com
+  subject: Вопрос к блюзовым филологам
+  deleted: false
+  text: 'Вопрос к блюзовым филологам - в статье о Paul Black встречается фраза «DAT''TZ
+    DE BLUZ, BABY».Что она означает понятно, не понятно, на каком языке она написана,
+    или это какой-то американский диалект, жаргон, сленг?
+
+    Объясните пожалуйста.
+
+    Заранее спасибо.'
+  replies:
+  - id: 17162
+    parent_id: 17161
+    date: 2004-02-10 09:50
+    poster: Сергей Иванов (serge_ivanov)
+    email: serge_ivanov@hotmail.com
+    subject: That's the blues, baby :-)
+    deleted: false
+    text: сдается мне - это не диалект, так, просто стеб
+  - id: 17165
+    parent_id: 17161
+    date: 2004-02-10 12:37
+    poster: Andrei V. Evdokimov (evdokimov)
+    email: evdokimov@blues.ru
+    subject: стеб, конечно
+    deleted: false
+    text: 'утрируется черная манера произношения.
+
+      Джимми Докинс любил в 90-х именовать свои альбомы в этой манере: Kant Sheck
+      Dees Bluze; B Phur Real'
+  - id: 17198
+    parent_id: 17161
+    date: 2004-02-11 16:59
+    poster: Филолог в штатском
+    email: gypsy@mail.ru
+    subject: Ну конечно же, это не более, чем That's the blues, baby..
+    deleted: false
+    text: ..написанное в манере "моя бедная негра плохо уметь английскую языка" ))

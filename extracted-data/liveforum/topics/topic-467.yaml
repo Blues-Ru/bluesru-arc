@@ -1,0 +1,122 @@
+topic_id: 467
+slug: topic-467
+title: Steve Ray
+first_post: 2002-11-17 04:45
+last_post: 2002-11-19 12:39
+post_count: 11
+posts:
+- id: 8855
+  parent_id: null
+  date: 2002-11-17 04:45
+  poster: Slava Kovalchuk (Jazz)
+  email: jazzmonk@ua.fm
+  subject: Steve Ray
+  deleted: false
+  text: 'Господа, великая просьба просветить несведущего человека вот в чём: Jimmi
+    Vaughan является каким-то родственником Стиву Рею? или я заблуждаюсь в данном
+    предположении.'
+  replies:
+  - id: 8857
+    parent_id: 8855
+    date: 2002-11-17 13:13
+    poster: Александр Мальчевский (Tonny)
+    email: heavyfuel@mtu-net.ru
+    subject: Они братья...
+    deleted: false
+    text: у них и совместный альбом есть...
+  - id: 8858
+    parent_id: 8855
+    date: 2002-11-17 15:10
+    poster: Malcolm Ray  Redriver (Mike)
+    email: lifebythedrop@yandex.ru
+    subject: Ага...
+    deleted: false
+    text: '... и странно что ты этого не знаешь, Джими немного старше и начал играть
+      чуток пораньше, ну а Стиви взял да и стал гитарным героем...'
+    replies:
+    - id: 8885
+      parent_id: 8858
+      date: 2002-11-19 02:08
+      poster: Slava Kovalchuk (Jazz)
+      email: jazzmonk@ua.fm
+      subject: ещё заблуждение...
+      deleted: false
+      text: Автоматически напрашивается вывод, что Sara Vaughan их родная сестра?
+        Так?
+      replies:
+      - id: 8886
+        parent_id: 8885
+        date: 2002-11-19 03:54
+        poster: Andrei V. Evdokimov (evdokimov)
+        email: evdokimov@blues.ru
+        subject: не сестра... тётушка!
+        deleted: false
+  - id: 8867
+    parent_id: 8855
+    date: 2002-11-18 12:29
+    poster: Дмитрий(fan)
+    email: leondmitr@freemail.ru
+    subject: Причем родные.
+    deleted: false
+    replies:
+    - id: 8869
+      parent_id: 8867
+      date: 2002-11-18 12:47
+      poster: tigra
+      email: bluesman@tut.by
+      subject: проклятая авиация....
+      deleted: false
+      text: 'косит лучших людей ( Бадди Холли, СРВ,и еще много - много)
+
+        конечно нельзя так говорить, но мог бы и не летать на клэптоновском вертолете...'
+      replies:
+      - id: 8872
+        parent_id: 8869
+        date: 2002-11-18 14:13
+        poster: ив
+        email: ilyav@aport2000.ru
+        subject: Авиация?
+        deleted: false
+        text: 'Авиация-то, наверное, не причём.. (я просто в авиагородке родился и
+          лет до 7-ми не знал, что можно ещё где-то работать, кроме аэропорта)...
+
+
+          А Роберт Джонсон значит -мог не ходить в тот какбак в Гринвуде, где его
+          отравили...
+
+
+          видимо, не мог...
+
+
+          и Стиви не мог...
+
+
+          а итог -известен и невесел((((((('
+        replies:
+        - id: 8894
+          parent_id: 8872
+          date: 2002-11-19 12:36
+          poster: tigra
+          email: bluesman@tut.by
+          subject: а есть ли на том свете
+          deleted: false
+          text: блюзовые клубы , если да - то там у них оччень неплохое тусе
+      - id: 8888
+        parent_id: 8869
+        date: 2002-11-19 07:57
+        poster: Malcolm Ray  Redriver (Mike)
+        email: lifebythedrop@yandex.ru
+        subject: авиация...
+        deleted: false
+        text: "Остальные вертолёты (их там кажется 3 было) благополучно долетели и\
+          \ приземлились. Так что... А вот всегда так со сверхновыми, взорётся и погаснет.\
+          \ \nЯ вот против полётов, \"если бы Господь, хотел чтоб мы летали, он дал\
+          \ бы нам крылья\""
+        replies:
+        - id: 8895
+          parent_id: 8888
+          date: 2002-11-19 12:39
+          poster: tigra
+          email: bluesman@tut.by
+          subject: аминь
+          deleted: false

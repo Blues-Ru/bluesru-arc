@@ -1,0 +1,25 @@
+topic_id: 1156
+slug: topic-1156
+title: Бар B.B. King
+first_post: 2002-01-28 09:53
+last_post: 2002-01-28 10:41
+post_count: 2
+posts:
+- id: 419
+  parent_id: null
+  date: 2002-01-28 09:53
+  poster: Yaroslav
+  email: ramber@mail.ru
+  subject: Бар B.B. King
+  deleted: false
+  text: Просветите человека, во сколько мне в среднем встанет провести вечерок с пивом
+    и креветками...
+  replies:
+  - id: 421
+    parent_id: 419
+    date: 2002-01-28 10:41
+    poster: Михаил Бирюков (nECKAPb)
+    email: blackcat@blues.ru
+    subject: смайлик
+    deleted: false
+    text: Ну, креветок-то можно и своих привести ;)

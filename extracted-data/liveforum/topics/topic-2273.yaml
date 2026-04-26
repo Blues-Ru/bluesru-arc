@@ -1,0 +1,24 @@
+topic_id: 2273
+slug: topic-2273
+title: почитал вот..
+first_post: 2004-10-14 13:25
+last_post: 2004-10-16 10:17
+post_count: 2
+posts:
+- id: 19471
+  parent_id: null
+  date: 2004-10-14 13:25
+  poster: John
+  email: ssy@ac.com.ru
+  subject: почитал вот..
+  deleted: false
+  text: новости. очень понравились фотогрфии Фёдора. Особенно две - на одной  он в
+    очках, а на второй с  губной гармошкой.
+  replies:
+  - id: 19476
+    parent_id: 19471
+    date: 2004-10-16 10:17
+    poster: Ded Morozzz
+    email: morozzz_ded@mail.ru
+    subject: :))))))))))))))))))))))
+    deleted: false

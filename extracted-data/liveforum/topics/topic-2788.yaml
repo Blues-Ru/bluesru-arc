@@ -1,0 +1,38 @@
+topic_id: 2788
+slug: topic-2788
+title: 'НТВ: Харли Дэвидсон и Марльборо Мэн'
+first_post: 2005-09-16 19:03
+last_post: 2005-09-16 20:01
+post_count: 3
+posts:
+- id: 23207
+  parent_id: null
+  date: 2005-09-16 19:03
+  poster: Эльдар
+  email: e@m.r
+  subject: 'НТВ: Харли Дэвидсон и Марльборо Мэн'
+  deleted: false
+  text: 'Щас по телику, по НТВ, идет этот фильм. Не обращали ли внимание что написано
+    на куртке у Микки Рурка? На левом рукаве, у локтя.
+
+    http://www.beatles.ru/img/f/344/344518.jpg'
+  replies:
+  - id: 23208
+    parent_id: 23207
+    date: 2005-09-16 19:04
+    poster: Эльдар Музафаров
+    email: e@m.r
+    subject: Так вернее
+    deleted: false
+    text: Щас по телику, по НТВ, идет этот фильм. Не обращали ли внимание что написано
+      на куртке у Микки Рурка? На левом рукаве, у локтя.<img src="http://www.beatles.ru/img/f/344/344518.jpg">
+    replies:
+    - id: 23210
+      parent_id: 23208
+      date: 2005-09-16 20:01
+      poster: Elicaster
+      email: elicaster(@))mmmmmmmmmail.ru
+      subject: SRV MCMVI-XC
+      deleted: false
+      text: 'Что-то типа, такого: SRV MCMVI-XC. Говорят это его годы жизни римскими
+        цифрами.'

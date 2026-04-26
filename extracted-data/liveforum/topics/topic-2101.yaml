@@ -1,0 +1,47 @@
+topic_id: 2101
+slug: topic-2101
+title: zz-top
+first_post: 2004-05-17 19:01
+last_post: 2004-05-20 16:46
+post_count: 4
+posts:
+- id: 18449
+  parent_id: null
+  date: 2004-05-17 19:01
+  poster: hank
+  email: hank@lenta.ru
+  subject: zz-top
+  deleted: false
+  text: "Я приветствую всех фэнов самой ядрёной техасской троицы ZZ-Top!\nУ меня мало\
+    \ альбомов, да и те на кассетах(СD слушать не на чем),но это пока.Я впервые в\
+    \ форуме и очень хреново печатаю,зато хренею от Зи-Зи Топ!Где б нарыть про них\
+    \ чего по-русски?  \n   Viva Las Vegas, Dr.Blues and Zubtsow-town!"
+  replies:
+  - id: 18469
+    parent_id: 18449
+    date: 2004-05-19 07:26
+    poster: Malcolm Ray  Redriver (Mike)
+    email: lifebythedrop@yandex.ru
+    subject: zz
+    deleted: false
+    text: Купи себе диск с мп3, там и инфа про них найдётся.
+  - id: 18490
+    parent_id: 18449
+    date: 2004-05-19 23:15
+    poster: RJ33
+    email: RJ33@rambler.ru
+    subject: Поддерживаю
+    deleted: false
+    text: "Советую тебе как мождно скорее купить CD Player и слушать дальше моих любимых\
+      \ ZZ Top!! \nПоддерживаю тебя, друг!"
+    replies:
+    - id: 18503
+      parent_id: 18490
+      date: 2004-05-20 16:46
+      poster: hank
+      email: www.hank@lenta.ru
+      subject: ZZ-Top
+      deleted: false
+      text: "Спасибо! При первой же возможности последую твоему совету! Я ненавижу\
+        \ попсовый колбасняк и дискотеки - отрываться меня можно затавить ТОЛЬКО под\
+        \ ZZ-Top!\n  А ты откуда?"

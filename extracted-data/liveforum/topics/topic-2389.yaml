@@ -1,0 +1,27 @@
+topic_id: 2389
+slug: topic-2389
+title: Вот это голос!
+first_post: 2005-01-20 17:49
+last_post: 2005-01-20 18:57
+post_count: 2
+posts:
+- id: 20212
+  parent_id: null
+  date: 2005-01-20 17:49
+  poster: Muddy Lives
+  email: mlives_6@hotmail.com
+  subject: Вот это голос!
+  deleted: false
+  text: 'http://media.blues.ru/video/house2.rm
+
+    Что такое media.blues.ru?'
+  replies:
+  - id: 20214
+    parent_id: 20212
+    date: 2005-01-20 18:57
+    poster: Федор Романенко (fedor)
+    email: fedor@blues.ru
+    subject: media.blues.ru
+    deleted: false
+    text: Это другой хост в интернете, куда мы сгрузили всю музыку, видео и пр. с
+      блюз.ру. Там дела полегче с допустимым траффиком.

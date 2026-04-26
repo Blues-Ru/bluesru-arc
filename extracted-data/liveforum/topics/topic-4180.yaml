@@ -1,0 +1,92 @@
+topic_id: 4180
+slug: topic-4180
+title: А где сейчас в Москве джемуют?
+first_post: 2009-02-17 18:28
+last_post: 2009-02-20 14:59
+post_count: 9
+posts:
+- id: 36115
+  parent_id: null
+  date: 2009-02-17 18:28
+  poster: siamesa
+  email: siamesa@yandex.ru
+  subject: А где сейчас в Москве джемуют?
+  deleted: false
+  text: 'Кроме как в Доме и Дороги?
+
+    Спасибо!'
+  replies:
+  - id: 36122
+    parent_id: 36115
+    date: 2009-02-18 15:08
+    poster: Dmitri Kazantsev (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: бурбон стрит бар
+    deleted: false
+    text: 'по вторникам в 21:00
+
+
+      следите за расписанием тут на сайте'
+    replies:
+    - id: 36124
+      parent_id: 36122
+      date: 2009-02-18 17:44
+      poster: siamesa
+      email: siamesa@yandex.ru
+      subject: А где сейчас в Москве джемуют?
+      deleted: false
+      text: Спасибо! Как -нить подойду )
+      replies:
+      - id: 36125
+        parent_id: 36124
+        date: 2009-02-18 18:06
+        poster: Александр Мао
+        email: eskrima@yandex.ru
+        subject: А там только акустика или нет?
+        deleted: false
+        text: А там только акустика или нет?
+        replies:
+        - id: 36130
+          parent_id: 36125
+          date: 2009-02-19 04:07
+          poster: Dmitri Kazantsev (Dr. Nick)
+          email: dr.nick@blues.ru
+          subject: формат
+          deleted: false
+          text: есть бас-гитара и гитара. нет ударных. люди приходят с гармошками
+            и гитарами. поют
+          replies:
+          - id: 36144
+            parent_id: 36130
+            date: 2009-02-19 19:26
+            poster: Александр Мао
+            email: eskrima@yandex.ru
+            subject: спасибо
+            deleted: false
+            text: тихие блюз-посиделки :) а гитару есть куда включить ? или совсем
+              тихо-тихо?
+            replies:
+            - id: 36146
+              parent_id: 36144
+              date: 2009-02-19 22:50
+              poster: Dmitri Kazantsev (Dr. Nick)
+              email: dr.nick@blues.ru
+              subject: довольно громко!
+              deleted: false
+              text: есть куда включить!
+        - id: 36154
+          parent_id: 36125
+          date: 2009-02-20 14:59
+          poster: Александр Мао
+          email: eskrima@yandex.ru
+          subject: а когда планирутся
+          deleted: false
+          text: в следующий раз?
+  - id: 36128
+    parent_id: 36115
+    date: 2009-02-18 22:46
+    poster: vinter
+    email: vid1966@.yandex.ru
+    subject: джем в фмклубе по вторникам блюзовый
+    deleted: false
+    text: блюзовый джем в фмклубе.хорошее место.отличный звук.

@@ -1,0 +1,112 @@
+topic_id: 2702
+slug: topic-2702
+title: Можна вопрос?
+first_post: 2005-08-14 18:51
+last_post: 2005-08-20 21:45
+post_count: 10
+posts:
+- id: 22314
+  parent_id: null
+  date: 2005-08-14 18:51
+  poster: '[UnforgiveN]'
+  email: max@dgap.mipt.ru
+  subject: Можна вопрос?
+  deleted: false
+  text: "ВТ 23.08.2005 Ритм-н-блюз кафе  21:00 Dr. Nick - вход бесплатный \n\nЭто\
+    \ акустика будет, \"или где\"? Не могли бы осветить?\n\nСопутствующи жизни дел\
+    \ так много, все желается успеть, а потому выбрать хочется наиболее для себя интересное."
+  replies:
+  - id: 22315
+    parent_id: 22314
+    date: 2005-08-14 19:33
+    poster: Старый Майор
+    email: gypsy@mail.ru
+    subject: Скорее всего...
+    deleted: false
+    text: 'Дима будет традиционно играть на подзвученной акустике в сопровождении
+      своего состава - Ветеран & Co, то бишь бас-гитара и ударные.
+
+
+      Будет как всегда good singing, good playing =))'
+    replies:
+    - id: 22316
+      parent_id: 22315
+      date: 2005-08-15 03:15
+      poster: Дмитрий Казанцев (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: неа
+      deleted: false
+      text: 'Я буду играть на электрогитаре, на органе - Гриша, на саксе - его саксист
+        :)
+
+        И ты собирался вроде придти.'
+      replies:
+      - id: 22319
+        parent_id: 22316
+        date: 2005-08-15 11:59
+        poster: Старый Майор
+        email: gypsy@mail.ru
+        subject: И ты столько времени молчал??? )))
+        deleted: false
+        text: '... что у тебя СЕКСтет с Органом? )))))
+
+
+          Дима, а кто такой Гриша?'
+        replies:
+        - id: 22326
+          parent_id: 22319
+          date: 2005-08-15 19:45
+          poster: Дмитрий Казанцев (Dr. Nick)
+          email: dr.nick@blues.ru
+          subject: Гриша?
+          deleted: false
+          text: Гриша Сандомирский - мой старый приятель и органист.
+  - id: 22317
+    parent_id: 22314
+    date: 2005-08-15 03:16
+    poster: Дмитрий Казанцев (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: это не акустика
+    deleted: false
+    text: это будет две разные программы (как минимум). квартет, квинтет, СЕКСтет
+      (не побоюсь этого слова) :)
+    replies:
+    - id: 22330
+      parent_id: 22317
+      date: 2005-08-15 23:05
+      poster: Макс Белобородов ([UnforgiveN])
+      email: max@dgap.mipt.ru
+      subject: Спасибо.
+      deleted: false
+      text: Должно быть круто :-( К сожалению все таки не придется поприсутствовать.
+      replies:
+      - id: 22347
+        parent_id: 22330
+        date: 2005-08-17 16:27
+        poster: Старый Майор
+        email: gypsy@mail.ru
+        subject: Таки действительно было круто!
+        deleted: false
+        text: "Концерт прошёл при полном аншлаге! \nКоллектив Казанцева, усиленный\
+          \ Гришиным оргАном, звучал очень мощно.\nВо втором отделении на сцену приглашались\
+          \ отдельные москвичи и гости столицы, что ещё более оживило мероприятие."
+        replies:
+        - id: 22355
+          parent_id: 22347
+          date: 2005-08-18 17:37
+          poster: Дмитрий Казанцев (Dr. Nick)
+          email: dr.nick@blues.ru
+          subject: Было по-настоящему
+          deleted: false
+          text: "А вот смотри какая интересная критика:\nhttp://www.livejournal.com/users/dr_nick/466728.html?thread=1789992#t1789992\n\
+            \nЕсть тебе о чём задуматься. \nМожет всё же кантри? :)"
+          replies:
+          - id: 22374
+            parent_id: 22355
+            date: 2005-08-20 21:45
+            poster: Старый Майор
+            email: gypsy@mail.ru
+            subject: А чё тут думать...
+            deleted: false
+            text: Дима, там другая настройка руки и уха, послушать надо первоисточники
+              и поработать дома.

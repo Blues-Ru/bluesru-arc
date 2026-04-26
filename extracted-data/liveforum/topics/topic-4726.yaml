@@ -1,0 +1,45 @@
+topic_id: 4726
+slug: topic-4726
+title: умер Берт Янш
+first_post: 2011-10-07 00:36
+last_post: 2011-10-07 01:52
+post_count: 4
+posts:
+- id: 38032
+  parent_id: null
+  date: 2011-10-07 00:36
+  poster: Dmitri Kazantsev
+  subject: умер Берт Янш
+  deleted: false
+  text: 'по просьбе выложил его блюзовые номера на видео
+
+
+    http://video.mail.ru/mail/doctor_nick/71/802.html
+
+
+    http://video.mail.ru/mail/doctor_nick/71/801.html'
+  replies:
+  - id: 38034
+    parent_id: 38032
+    date: 2011-10-07 01:40
+    poster: Dmitri Kazantsev
+    subject: two more
+    deleted: false
+    text: 'http://video.mail.ru/mail/doctor_nick/71/804.html
+
+
+      http://video.mail.ru/mail/doctor_nick/71/806.html'
+  - id: 38035
+    parent_id: 38032
+    date: 2011-10-07 01:45
+    poster: Dmitri Kazantsev
+    subject: one mo'
+    deleted: false
+    text: http://video.mail.ru/mail/doctor_nick/71/803.html
+  - id: 38036
+    parent_id: 38032
+    date: 2011-10-07 01:52
+    poster: Dmitri Kazantsev
+    subject: and even more
+    deleted: false
+    text: http://video.mail.ru/mail/doctor_nick/71/805.html

@@ -1,0 +1,211 @@
+topic_id: 3814
+slug: topic-3814
+title: а чё такой тухляк-то?
+first_post: 2007-11-28 16:13
+last_post: 2007-12-03 05:50
+post_count: 18
+posts:
+- id: 33973
+  parent_id: null
+  date: 2007-11-28 16:13
+  poster: Dmitri Kazantsev (Dr. Nick)
+  email: dr.nick@blues.ru
+  subject: а чё такой тухляк-то?
+  deleted: false
+  text: 'может о блюзе поговорим?
+
+    кто какие шаффлы больше любит?
+
+    мне вот такие нравятся: http://www.youtube.com/watch?v=G7lUVIf8epc
+
+    а марши мне как-то не очень'
+  replies:
+  - id: 33983
+    parent_id: 33973
+    date: 2007-11-30 14:17
+    poster: Старый Майор
+    email: gypsy@mail.ru
+    subject: Было хорошо до тех пор, пока...
+    deleted: false
+    text: '...бас-гитарист не стал играть на гармошке.
+
+
+      А мне вот марши нравятся, не всё ж вприпрыжку скакать, припадая на правую ногу.'
+    replies:
+    - id: 33985
+      parent_id: 33983
+      date: 2007-11-30 14:22
+      poster: Dmitri Kazantsev (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: какой бас-гитарист?
+      deleted: false
+      replies:
+      - id: 33986
+        parent_id: 33985
+        date: 2007-11-30 14:28
+        poster: Старый Майор
+        email: gypsy@mail.ru
+        subject: Ты чо слепой чо ли?
+        deleted: false
+        text: 'Ты до конца клип досмотрел то?
+
+          В синей рубашоночке, блондинистый такой.
+
+          Бас гитара у него на пузе висит.
+
+          Точнее, на том месте, где оно должно быть, ибо он худ.'
+        replies:
+        - id: 33991
+          parent_id: 33986
+          date: 2007-11-30 17:42
+          poster: Dmitri Kazantsev (Dr. Nick)
+          email: dr.nick@blues.ru
+          subject: а он на гармошке-то очень хорош
+          deleted: false
+          text: это Уилл Ли - знаменитый чел
+          replies:
+          - id: 33993
+            parent_id: 33991
+            date: 2007-11-30 19:09
+            poster: Старый Майор
+            email: gypsy@mail.ru
+            subject: Не, меня от такой гармошки увольте..
+            deleted: false
+            text: ..печально было его слушать, хоть он и знаменитый.
+            replies:
+            - id: 33994
+              parent_id: 33993
+              date: 2007-12-01 00:16
+              poster: Dmitri Kazantsev (Dr. Nick)
+              email: dr.nick@blues.ru
+              subject: шикарно сыграл
+              deleted: false
+              replies:
+              - id: 33995
+                parent_id: 33994
+                date: 2007-12-01 00:41
+                poster: Старый Майор
+                email: gypsy@mail.ru
+                subject: Дима, мне всё больше кажется, что в музыке тебе нравятся...
+                deleted: false
+                text: '..больше всего обложки дисков.
+
+                  У тебя абсолютно все - гении, ну что за всеядность.
+
+                  Так и несвежее съесть недолго.'
+                replies:
+                - id: 33996
+                  parent_id: 33995
+                  date: 2007-12-01 06:08
+                  poster: Dmitri Kazantsev (Dr. Nick)
+                  email: dr.nick@blues.ru
+                  subject: жжош
+                  deleted: false
+    - id: 34002
+      parent_id: 33983
+      date: 2007-12-02 10:20
+      poster: Эльдар
+      email: Эльдар
+      subject: звук и видеоряд несинхронизированы
+      deleted: false
+      text: 'блин! нередко скачав видео с youtube замечаешь что звук и видеоряд несинхронизированы,
+        звук запаздывает. весьма дискомфортно смотреть такое, особенно на барабанщика.
+
+        не подскадите ли какой нибудь софт небольшой и не сложный что бы подредактироавть
+        такое видео. формат видео не столь важен (не обязательно только *.flv файлы)'
+      replies:
+      - id: 34003
+        parent_id: 34002
+        date: 2007-12-02 13:35
+        poster: Старый Майор
+        email: gypsy@mail.ru
+        subject: У нас главный по видео - Руслан Чифуров, его спроси
+        deleted: false
+        text: Он мне раз 20 говорил название этой программы, а я столько же раз забываљ
+          )) Но не факт, что там можно так лехко сдвинуть фазу..
+      - id: 34007
+        parent_id: 34002
+        date: 2007-12-02 18:33
+        poster: Dmitri Kazantsev (Dr. Nick)
+        email: dr.nick@blues.ru
+        subject: конкретно тут всё ок
+        deleted: false
+        text: 'http://www.youtube.com/watch?v=G7lUVIf8epc
+
+
+          это зависит от файла, а не от ЮТуба'
+        replies:
+        - id: 34013
+          parent_id: 34007
+          date: 2007-12-03 00:21
+          poster: Эльдар
+          email: Эльдар
+          subject: Дык файло скачен с youtube.com
+          deleted: false
+          text: 'я не смотрел его на страничке youtub''а а просто с youtube.com его
+            и скачал а потом его и смотрел. у меня и есть эта несинхронность. от неё
+            и хочу избавиться.
+
+            может так только у меня, а может и нет...'
+        - id: 34014
+          parent_id: 34007
+          date: 2007-12-03 00:21
+          poster: Эльдар
+          email: Эльдар
+          subject: Дык файло скачен с youtube.com
+          deleted: false
+          text: 'я не смотрел его на страничке youtub''а а просто с youtube.com его
+            и скачал а потом его и смотрел. у меня и есть эта несинхронность. от неё
+            и хочу избавиться.
+
+            может так только у меня, а может и нет...'
+      - id: 34008
+        parent_id: 34002
+        date: 2007-12-02 19:16
+        poster: Руслан Чифуров
+        email: chifuroff (sobaka) inbox.ru
+        subject: Программы
+        deleted: false
+        text: "Mожно попробывать сделать это в программе Virtual Dub (программа эта\
+          \ абсолютно бесплатная, НО при этом очень мощная и при этом простая).\n\
+          Последовательность действий следующая- \n1. Импортируем туда файл (файл\
+          \ должен быть обязательно .avi, но сжат может быть абсолютно любым кодеком).\n\
+          2. В меню \"Video\" выбираем пункт \"Direct Stream Copy\"\n3. В меню \"\
+          Audio\" открываем закладку \"Audio\" открываем закладку \"Interleaving...\"\
+          . В открывшемся окне находим пункт \"Delay audio track by\" - и в этой строчке\
+          \ вводим в миллисекундах время задержки аудиотрека относительно видео- подбирать\
+          \ это придётся вручную, \"на глаз\", \"методом тыка\" и т. д. :-)))))\n\
+          4. Из меню File выбираем пункт \"Save as AVI...\"- выбираем путь куда сохранять\
+          \ файл.\n\nСкачать программу эту можно здеся: http://virtualdub.sourceforge.net/"
+        replies:
+        - id: 34012
+          parent_id: 34008
+          date: 2007-12-03 00:16
+          poster: Эльдар
+          email: Эльдар
+          subject: 'Спасибо! и ещё вопрос:'
+          deleted: false
+          text: 'Спасибо! Всё работает!
+
+            и ещё вопрос: значит придержать, звук в Virtual Dub получилось, а как
+            сделать наоборот, что бы он чуток раньше шёл чем видео, чуток обгонял
+            видео. ведь у меня проблемка о которой я выше писал что звук запаздывает
+            за картинкой, т.е. его надо "сделать" пораньше. может поставить знак минус?'
+          replies:
+          - id: 34015
+            parent_id: 34012
+            date: 2007-12-03 00:25
+            poster: Руслан Чифуров
+            email: chifuroff (sobaka) inbox.ru
+            subject: Да- надо поставить знак минус :-)))))
+            deleted: false
+            text: Всё верно.
+            replies:
+            - id: 34018
+              parent_id: 34015
+              date: 2007-12-03 05:50
+              poster: Старый Майор
+              email: gypsy@mail.ru
+              subject: Виртуал Дуб...
+              deleted: false
+              text: ..это я )) Раз 10й забываю как это программко называется )))

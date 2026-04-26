@@ -1,0 +1,63 @@
+topic_id: 369
+slug: topic-369
+title: А тем временем в гостевой...
+first_post: 2002-10-02 14:28
+last_post: 2002-10-03 18:46
+post_count: 5
+posts:
+- id: 7880
+  parent_id: null
+  date: 2002-10-02 14:28
+  poster: Михаил Бирюков (nECKAPb)
+  email: blackcat@blues.ru
+  subject: А тем временем в гостевой...
+  deleted: false
+  text: '... г-н под ником Fistos задаёт сему ресурсу жару.
+
+    И знаете почему? Потому что не нашел в списке блюзменов группу Лед Зеппелин.'
+  replies:
+  - id: 7882
+    parent_id: 7880
+    date: 2002-10-02 15:05
+    poster: Александр Мальчевский (Tonny)
+    email: heavyfuel@mtu-net.ru
+    subject: А я знаю откуда это...
+    deleted: false
+    text: 'Мы с этим человеком немного конфликтовали на одном форуме.... Он приводил
+      ссылки на русских блюзменов: Чижа, Грассмейстер и т.п.
+
+      Один из посетителей, а потом и я  предложили ему зайти сюда, ознакомиться с
+      российским блюзовым ресурсом... Посмотреть, кто еще в России блюз играет...
+      А он такое понаписал... Даже стыдно за него...
+
+      Извините пожалуйста.'
+    replies:
+    - id: 7889
+      parent_id: 7882
+      date: 2002-10-02 18:14
+      poster: Фрекен Бокк
+      email: gypsy@mail.ru
+      subject: Вот Tonny такой воспитанный мальчик..
+      deleted: false
+      text: ..даже за всех грубиянов извиняется! Дети, берите все пример с Tonny!
+      replies:
+      - id: 7894
+        parent_id: 7889
+        date: 2002-10-02 20:10
+        poster: Андрей PRG
+        email: peregnoy@mail.ru
+        subject: и не только дети,
+        deleted: false
+        text: а и некоторые взрослые тоже ;)
+  - id: 7922
+    parent_id: 7880
+    date: 2002-10-03 18:46
+    poster: Дмитрий(fan)
+    email: leondmitr@freemail.ru
+    subject: И очень правильно возмущается...
+    deleted: false
+    text: 'Потому что в списке блюзменов нет не только Led Zeppelin. В нем почему-то
+      также отсутствуют Deep Purple, Uriah Heep, Slade, Sweet и The Middle Of The
+      Road!
+
+      Это просто полное безобразие! Блюз.Ру есть еще над чем работать.'

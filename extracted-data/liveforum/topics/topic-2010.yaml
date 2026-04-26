@@ -1,0 +1,25 @@
+topic_id: 2010
+slug: topic-2010
+title: А.Цыганкову
+first_post: 2002-07-08 14:06
+last_post: 2002-07-08 16:47
+post_count: 2
+posts:
+- id: 5912
+  parent_id: null
+  date: 2002-07-08 14:06
+  poster: Greta
+  email: morehemp@mail.ru
+  subject: А.Цыганкову
+  deleted: false
+  text: загляните в ftp - обещание выполнено с дополнением :) Две подписанные папки
+    для Вас и для Игоря. Всем sorry за сообщение - почта подглючивает.
+  replies:
+  - id: 5914
+    parent_id: 5912
+    date: 2002-07-08 16:47
+    poster: Андрей Цыганков
+    email: gypsy@mail.ru
+    subject: Ща загляну...
+    deleted: false
+    text: и точно! Всё, что надо! Игорю сообщи, пусть заберёт!

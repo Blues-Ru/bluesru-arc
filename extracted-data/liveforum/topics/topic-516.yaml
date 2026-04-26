@@ -1,0 +1,87 @@
+topic_id: 516
+slug: topic-516
+title: А кто поет блюз в Терминаторе-2 ?
+first_post: 2002-12-18 17:18
+last_post: 2002-12-26 18:21
+post_count: 8
+posts:
+- id: 9479
+  parent_id: null
+  date: 2002-12-18 17:18
+  poster: Дмитрий(fan))
+  email: leondmitr@freemail.ru
+  subject: А кто поет блюз в Терминаторе-2 ?
+  deleted: false
+  text: 'Ну, когда там Шварц в баре всех отлупил, раздел, отнял ружо, сел на мотоцикл,
+    ну и поехал на нем творить добрые дела...
+
+    Очень уж нравицца.'
+  replies:
+  - id: 9481
+    parent_id: 9479
+    date: 2002-12-18 17:54
+    poster: Алексей Аграновский (Док)
+    email: aaa@genebee.msu.su
+    subject: Поет в России больше, чем поет
+    deleted: false
+    text: Это Джон Зорогуд с песней "Плохой на фиг" (George Thorogood and the Destroyers,
+      "Bad To The Bone").
+    replies:
+    - id: 9500
+      parent_id: 9481
+      date: 2002-12-19 12:49
+      poster: Дмитрий(fan))
+      email: leondmitr@freemail.ru
+      subject: Спасибо. А что у него...
+      deleted: false
+      text: лучше послушать из дискографии, естессно, где блюза больше?
+    - id: 9504
+      parent_id: 9481
+      date: 2002-12-19 13:53
+      poster: Сергей Иванов (serge_ivanov)
+      email: serge_ivanov@hotmail.com
+      subject: смотря что
+      deleted: false
+      text: 'считать блюзом :-)
+
+        На "Haircut" - большая часть вещей авторства классиков (Dixon,Hooker и др)Но
+        они в ОЧЕНЬ забойном исполнении.'
+      replies:
+      - id: 9505
+        parent_id: 9504
+        date: 2002-12-19 13:59
+        poster: Дмитрий(fan))
+        email: leondmitr@freemail.ru
+        subject: Мне такое как раз и нравится.
+        deleted: false
+        text: 'Для тонуса. Я ж тут писал - с утреца хард-и-кор люблю.
+
+          А что еще стоит послушать-приобрести?
+
+          Спасибо.'
+        replies:
+        - id: 9506
+          parent_id: 9505
+          date: 2002-12-19 14:15
+          poster: Дмитрий(fan))
+          email: leondmitr@freemail.ru
+          subject: P.S. Посмотрел обложку - Жуть какая-то!!
+          deleted: false
+          text: То ли еще внутри...
+    - id: 9526
+      parent_id: 9481
+      date: 2002-12-20 16:20
+      poster: Абдалов Руслан (RR)
+      email: RR@RAMBLER.RU
+      subject: А я думал ....
+      deleted: false
+      text: '... что это ZZ TOP играет. У меня даже есть эта песенка Bad To The Bone
+        в исполнении ZZ и как раз очень похоже на песню из фильма.'
+      replies:
+      - id: 9675
+        parent_id: 9526
+        date: 2002-12-26 18:21
+        poster: Дмитрий(fan))
+        email: leondmitr@freemail.ru
+        subject: Не-а. Зи.Зи.Топ отдыхает...
+        deleted: false

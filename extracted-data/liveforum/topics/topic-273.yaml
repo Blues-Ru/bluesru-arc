@@ -1,0 +1,26 @@
+topic_id: 273
+slug: topic-273
+title: У одного хорошего музыканта вышел новый альбом
+first_post: 2002-08-13 18:21
+last_post: 2002-08-17 18:33
+post_count: 2
+posts:
+- id: 6748
+  parent_id: null
+  date: 2002-08-13 18:21
+  poster: AlexIV
+  email: evergreens@mail.ru
+  subject: У одного хорошего музыканта вышел новый альбом
+  deleted: false
+  text: 'http://www.paullamb.com/paul_cd9_live.htm
+
+    Кто-нибудь где-нибудь видел в продаже?'
+  replies:
+  - id: 6842
+    parent_id: 6748
+    date: 2002-08-17 18:33
+    poster: Федор Романенко (fedor)
+    email: fedor@blues.ru
+    subject: А у меня он уже есть ;)
+    deleted: false
+    text: С приветом, Федор

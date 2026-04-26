@@ -1,0 +1,53 @@
+topic_id: 3803
+slug: topic-3803
+title: подскажите, плз,куда делся
+first_post: 2007-11-18 16:34
+last_post: 2007-11-20 10:27
+post_count: 6
+posts:
+- id: 33914
+  parent_id: null
+  date: 2007-11-18 16:34
+  poster: календарь
+  email: мапорм
+  subject: подскажите, плз,куда делся
+  deleted: false
+  replies:
+  - id: 33917
+    parent_id: 33914
+    date: 2007-11-19 01:59
+    poster: Andrei V. Evdokimov (evdokimov)
+    email: evdokimov@blues.ru
+    subject: а кому он нужен нах?
+    deleted: false
+    replies:
+    - id: 33925
+      parent_id: 33917
+      date: 2007-11-19 21:07
+      poster: Владимир Русинов (BluesCat)
+      email: volodya@blues.ru
+      subject: а я его читал!
+      deleted: false
+    - id: 33926
+      parent_id: 33917
+      date: 2007-11-19 23:54
+      poster: Dmitri Kazantsev (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: и я читал!
+      deleted: false
+      replies:
+      - id: 33927
+        parent_id: 33926
+        date: 2007-11-20 00:29
+        poster: спасибо
+        email: аушмукщш
+        subject: )))))
+        deleted: false
+    - id: 33928
+      parent_id: 33917
+      date: 2007-11-20 10:27
+      poster: Эльдар
+      email: Эльдар
+      subject: мне он нужен!
+      deleted: false
+      text: и не сомневаюсь, что не только мне.

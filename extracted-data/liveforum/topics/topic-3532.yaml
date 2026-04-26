@@ -1,0 +1,66 @@
+topic_id: 3532
+slug: topic-3532
+title: Диму Казанцева с Днём Варенья!
+first_post: 2006-12-26 00:46
+last_post: 2007-01-01 01:22
+post_count: 7
+posts:
+- id: 30137
+  parent_id: null
+  date: 2006-12-26 00:46
+  poster: Руслан Чифуров
+  email: chifuroff<sobaka>>>>>inbox.ru
+  subject: Диму Казанцева с Днём Варенья!
+  deleted: false
+  text: С юбилеем! Счастья, здоровья и всяческих ворческих успехов! :-)))))
+  replies:
+  - id: 30151
+    parent_id: 30137
+    date: 2006-12-26 10:38
+    poster: Михаил Мишурис (mishouris)
+    email: mishouris@mail.ru
+    subject: Поздравляю!
+    deleted: false
+    text: 'Желаю всего-всего наилучшего!
+
+      И не грусти!'
+  - id: 30156
+    parent_id: 30137
+    date: 2006-12-26 13:10
+    poster: Игорь Головачев (Игорь Г.)
+    email: sunny_city@mail.ru
+    subject: Уряяяяяя!!!!
+    deleted: false
+    text: ПО-ЗДРАВ-ЛЯ-Ю !!!!
+  - id: 30157
+    parent_id: 30137
+    date: 2006-12-26 13:16
+    poster: Dmitri Kazantsev (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: СПАСИБО ВСЕМ!
+    deleted: false
+    text: Сегодня джемуем в 21:00 в Ритм-н-блюзе. Приходите!
+  - id: 30163
+    parent_id: 30137
+    date: 2006-12-26 17:13
+    poster: Эльдар
+    email: еIicаster С06АKAmaiI.ru
+    subject: Присоединяюсь к поздравлениям
+    deleted: false
+    text: Всего самого наилучшего и много хорошей музыки (и в рекламных роликах тоже
+      :-)
+  - id: 30191
+    parent_id: 30137
+    date: 2006-12-27 23:55
+    poster: Muddy Lives
+    email: mlives@hotmail.com
+    subject: Поздрвляю!
+    deleted: false
+  - id: 30243
+    parent_id: 30137
+    date: 2007-01-01 01:22
+    poster: S Kashin
+    email: '***'
+    subject: Поздравляю!
+    deleted: false
+    text: Главное - здоровья!

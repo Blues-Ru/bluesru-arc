@@ -1,0 +1,29 @@
+topic_id: 843
+slug: topic-843
+title: Help!
+first_post: 2003-05-13 14:58
+last_post: 2003-05-13 16:12
+post_count: 2
+posts:
+- id: 12452
+  parent_id: null
+  date: 2003-05-13 14:58
+  poster: Natalie Lempert (Tasch)
+  email: nataly_lempert@mail.com
+  subject: Help!
+  deleted: false
+  text: 'Ребята, всем привет!!!
+
+    Кто-нибудь знает группу "Chuck and the Aerogang".Я бфла на их концерте 1 мая в
+    Б.Б.Кинге и они мне ужасно понравились. Хотелось бы узнать о них что-нибудь и
+    где они выступают.'
+  replies:
+  - id: 12454
+    parent_id: 12452
+    date: 2003-05-13 16:12
+    poster: Papa John
+    email: ev-il@mail.ru
+    subject: Чак
+    deleted: false
+    text: Чак - это Витя Костров, бывший драммер из бриолиновой мечты (откуда и Коля
+      Второв), потом с Блохиным Лешей играл - крейзи мен крейзи, позже руби старс.

@@ -1,0 +1,27 @@
+topic_id: 3911
+slug: topic-3911
+title: Для любителей "потяжелее" и "попроще"
+first_post: 2008-02-21 17:29
+last_post: 2008-02-21 18:46
+post_count: 2
+posts:
+- id: 34760
+  parent_id: null
+  date: 2008-02-21 17:29
+  poster: Руслан Чифуров
+  email: chifuroff <sobaka> inbox.ru
+  subject: Для любителей "потяжелее" и "попроще"
+  deleted: false
+  text: 'Ингви Мальмстин играет блюз! Это вам не какие-нибудь джаззи-соул-пианинные
+    завывания- это настоящий блюз!
+
+    <a href="http://www.youtube.com/watch?v=gWm12pE8gfs">I''m a new God! I''m fastest
+    in the world</a>'
+  replies:
+  - id: 34761
+    parent_id: 34760
+    date: 2008-02-21 18:46
+    poster: Dmitri Kazantsev (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: я знал, что ты зафанатеешь
+    deleted: false

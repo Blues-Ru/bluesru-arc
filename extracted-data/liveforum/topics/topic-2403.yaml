@@ -1,0 +1,75 @@
+topic_id: 2403
+slug: topic-2403
+title: Что такое bayou?
+first_post: 2005-01-28 15:42
+last_post: 2005-02-02 15:42
+post_count: 6
+posts:
+- id: 20279
+  parent_id: null
+  date: 2005-01-28 15:42
+  poster: Kiktev Sergej (Sergej)
+  email: kiktev@garant-ic.ru
+  subject: Что такое bayou?
+  deleted: false
+  text: Правильно ли я понимаю это слово как "местечко"? Знает ли кто-нибудь этимологию
+    этого слова?
+  replies:
+  - id: 20280
+    parent_id: 20279
+    date: 2005-01-28 16:43
+    poster: Art Neville
+    email: art@nb.com
+    subject: болото
+    deleted: false
+    text: swamp
+  - id: 20281
+    parent_id: 20279
+    date: 2005-01-28 16:46
+    poster: Art Neville
+    email: art@nb.com
+    subject: more
+    deleted: false
+    text: http://www.rambler.ru/dict/scripts/go.cgi?query=bayou&where=enru&start=0&count=15
+  - id: 20301
+    parent_id: 20279
+    date: 2005-01-30 16:27
+    poster: Elicaster
+    email: elicaster@mmmmmmail.ru
+    subject: Lingvo вот что говорит
+    deleted: false
+    text: 'Lingvo вот что говорит:
+
+      bayou - рукав реки, озера или морского залива
+
+      Почему-то раньше я думал что это означает "буёк", не знаю почему :-)'
+    replies:
+    - id: 20312
+      parent_id: 20301
+      date: 2005-01-31 08:24
+      poster: Cowboy Pete
+      email: cousins@yandex.ru
+      subject: Всегда думал, что просто залив.
+      deleted: false
+      text: 'Разве это не bay по-французски?
+
+
+        PS, да, в общем, словарь согласен с такой версией))))'
+  - id: 20359
+    parent_id: 20279
+    date: 2005-02-02 15:42
+    poster: Rugged
+    email: kirill@hillbilly.ru
+    subject: Это...
+    deleted: false
+    text: '...так называется заболоченный рукав реки или залив (короче - полуозеро,
+      полуболото) в штате Луизиана.
+
+
+      Слово действительно имеет французские корни, т. к. в заболоченных местах Луизианы
+      живут злобные кейджуны (эта местность так и называется - cajun country), которые
+      этнически являются выходцами из Франции :) С их легкой руки слово и попало в
+      американский английский.
+
+
+      Только не надо меня спрашивать про этимологию слова "кейджун" :)'

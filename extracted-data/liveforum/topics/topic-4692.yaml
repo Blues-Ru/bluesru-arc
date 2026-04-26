@@ -1,0 +1,23 @@
+topic_id: 4692
+slug: topic-4692
+title: Блюз ближе, чем Вам кажется!
+first_post: 2011-08-14 16:23
+last_post: 2011-08-29 14:15
+post_count: 2
+posts:
+- id: 37941
+  parent_id: null
+  date: 2011-08-14 16:23
+  poster: Cpt. Nemoff
+  subject: Блюз ближе, чем Вам кажется!
+  deleted: false
+  text: <iframe width="480" height="390" src="http://www.youtube.com/embed/_cdmqO3TWkU"
+    frameborder="0" allowfullscreen></iframe>
+  replies:
+  - id: 37948
+    parent_id: 37941
+    date: 2011-08-29 14:15
+    poster: Алексей Аграновский
+    subject: Cpt Nemoff presents
+    deleted: false
+    text: Клёво, молодец Женя. Вводная длинновата, где поезда без музыки. Где снимали?

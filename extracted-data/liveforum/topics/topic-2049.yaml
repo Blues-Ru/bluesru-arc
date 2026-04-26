@@ -1,0 +1,33 @@
+topic_id: 2049
+slug: topic-2049
+title: Нужен совет
+first_post: 2004-04-22 14:15
+last_post: 2004-04-22 20:26
+post_count: 2
+posts:
+- id: 18068
+  parent_id: null
+  date: 2004-04-22 14:15
+  poster: Анатолий Морозов
+  email: jam_rb@mail.ru
+  subject: Нужен совет
+  deleted: false
+  text: 'Вопрос техницский. Господа гитаристы, кто пользовал 10-ти дюймовые спикеры
+    Celestion  (Vintage 10; Silver series; G10C-30, G10E-50; Tube-10) в сочетании
+    с фендеровскими ламповыми усилителями. Ищу что-то потеплее, помягше чем фендер
+    “Blue alnico”. Может кто-то уже это проходил, поделились бы опытом. Может какие-то
+    другие: Jensen, JBL…, чтоб в Москве можно было найти. Какие конторы что возят?
+    Eminence не интересует. Где бы посмотреть АЧХ разных гитарных динамиков?  Буду
+    благодарен за любую, пусть минимальную информацию.'
+  replies:
+  - id: 18073
+    parent_id: 18068
+    date: 2004-04-22 20:26
+    poster: Владизвук
+    email: http://professional.celestion.com/products/tone/index.html
+    subject: Динамики
+    deleted: false
+    text: 'http://professional.celestion.com/products/tone/index.html
+
+
+      Жми на " G12-СЕНЧУРИ"'

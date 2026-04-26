@@ -1,0 +1,118 @@
+topic_id: 1079
+slug: topic-1079
+title: А будет ли фестиваль?
+first_post: 2002-03-03 14:51
+last_post: 2002-03-04 15:14
+post_count: 12
+posts:
+- id: 1770
+  parent_id: null
+  date: 2002-03-03 14:51
+  poster: Дима   (Казанцев)
+  email: dr.nick@blues.ru
+  subject: А будет ли фестиваль?
+  deleted: false
+  text: Я имею в виду Blues.ru 2002 (#2). Будет? Где и когда? Тут уже пару раз задавали
+    этот вопрос разные люди. Проясните ситуацию, гражданин Федоренко...
+  replies:
+  - id: 1771
+    parent_id: 1770
+    date: 2002-03-03 14:58
+    poster: Андрей PRG
+    email: peregnoy@mail.ru
+    subject: И ты пойдешь?!!!
+    deleted: false
+    text: Wow! Да ты крут! ;)
+    replies:
+    - id: 1772
+      parent_id: 1771
+      date: 2002-03-03 15:22
+      poster: Дима   (Казанцев)
+      email: dr.nick@blues.ru
+      subject: Что за вопрос?
+      deleted: false
+      text: Я был и играл на прошлом, почему бы и нет и в этом году? Дело за организаторами.
+      replies:
+      - id: 1787
+        parent_id: 1772
+        date: 2002-03-03 21:14
+        poster: Руслан Абдалов (RR)
+        email: RR@RAMBLER.RU
+        subject: Руками и ногами...
+        deleted: false
+        text: Я также был (в качестве слушателя) на прошлом и с ОГРОМНЫМ удовольствием
+          пойду на будущий (если конечно он состоится)... Надеюсь что так оно и будет
+          ...
+        replies:
+        - id: 1788
+          parent_id: 1787
+          date: 2002-03-03 21:34
+          poster: Андрей PRG
+          email: peregnoy@mail.ru
+          subject: Вот там и встретимся! (-)
+          deleted: false
+          text: '1'
+  - id: 1776
+    parent_id: 1770
+    date: 2002-03-03 16:21
+    poster: vr  (Stone Crazy)
+    email: volodya@blues.ru
+    subject: есть подозрение
+    deleted: false
+    text: что у организаторов на каждый год такого..  здоровья не хватит
+    replies:
+    - id: 1779
+      parent_id: 1776
+      date: 2002-03-03 16:32
+      poster: Андрей PRG
+      email: peregnoy@mail.ru
+      subject: А подозрение-то обоснованное?
+      deleted: false
+      text: Диагноз (насчёт здоровья) поставлен компетентным консилиумом?
+    - id: 1780
+      parent_id: 1776
+      date: 2002-03-03 16:32
+      poster: Дима   (Казанцев)
+      email: dr.nick@blues.ru
+      subject: А в чем там проблемы?
+      deleted: false
+      text: Что все в говно пьяные и неорганизованные? Это же очень просто устранить,
+        Вова. Ты же не жрешь хань когда надо работать или выступать? Вот ты и будешь
+        играть!
+  - id: 1817
+    parent_id: 1770
+    date: 2002-03-04 14:43
+    poster: Федор Романенко (fedor)
+    email: fedor@blues.ru
+    subject: Вопрос в...
+    deleted: false
+    text: '...деньгах (несколько тысяч долларов с возвратом). Пока их, как я понимаю,
+      нет. Будут деньги, будет и фестиваль.'
+    replies:
+    - id: 1821
+      parent_id: 1817
+      date: 2002-03-04 14:55
+      poster: Дима   (Казанцев)
+      email: dr.nick@blues.ru
+      subject: А в прошлом году кто давал?
+      deleted: false
+      text: Спонсоры были?
+      replies:
+      - id: 1824
+        parent_id: 1821
+        date: 2002-03-04 15:05
+        poster: Федор Романенко (fedor)
+        email: fedor@blues.ru
+        subject: Ну да, в каком-то смысле были...
+        deleted: false
+        text: Но без денег не получится...
+        replies:
+        - id: 1826
+          parent_id: 1824
+          date: 2002-03-04 15:14
+          poster: Дима   (Казанцев)
+          email: dr.nick@blues.ru
+          subject: Вот как мы живем
+          deleted: false
+          text: совсем плохо у нас с музыкой, да и с культурой вообще. Ведь деньги-то
+            и небольшие нужны, как я понял.

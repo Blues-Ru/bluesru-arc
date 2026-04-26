@@ -1,0 +1,108 @@
+topic_id: 2619
+slug: topic-2619
+title: Philadelphia Jerry Ricks
+first_post: 2005-06-12 05:47
+last_post: 2005-06-14 13:39
+post_count: 10
+posts:
+- id: 21721
+  parent_id: null
+  date: 2005-06-12 05:47
+  poster: Дима Казанцев (Dr. Nick)
+  email: dr.nick@blues.ru
+  subject: Philadelphia Jerry Ricks
+  deleted: false
+  text: 'Помните такого?
+
+
+    По просьбе Александра Панина я оцифровал его винил EMPTY BOTTLE BLUES. Запись
+    сделана в Венгрии (Будапешт) в апреле 1986 года. Это довольно редкий материал.
+    Душевный :)
+
+
+    Вот тут сделал мп3, послушайте. Если кому очень понравится, то могу записать альбом
+    или выслать мп3.
+
+
+    Enjoy!
+
+
+    http://www.ljplus.ru/img/dr_nick/AintNoFool.mp3
+
+
+    Это первая вещь на альбоме "Ain''t No Fool" (J. Ricks)'
+  replies:
+  - id: 21738
+    parent_id: 21721
+    date: 2005-06-12 18:12
+    poster: Дима Казанцев (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: типа Рикс никому не интересен?
+    deleted: false
+    replies:
+    - id: 21745
+      parent_id: 21738
+      date: 2005-06-13 09:12
+      poster: Wheel  (Wheel)
+      email: wheel@ua.fm
+      subject: типа интересен, но я живу далеко
+      deleted: false
+      text: В Днепропетровске :(
+      replies:
+      - id: 21747
+        parent_id: 21745
+        date: 2005-06-13 14:52
+        poster: Дима Казанцев (Dr. Nick)
+        email: dr.nick@blues.ru
+        subject: это не очень далеко :)
+        deleted: false
+        text: почта-то работает
+  - id: 21753
+    parent_id: 21721
+    date: 2005-06-13 18:26
+    poster: Wheel  (Wheel)
+    email: wheel@ua.fm
+    subject: Ок
+    deleted: false
+    text: как тогда договоримся?
+    replies:
+    - id: 21754
+      parent_id: 21753
+      date: 2005-06-13 18:29
+      poster: Wheel  (Wheel)
+      email: wheel@ua.fm
+      subject: и еще - спасибо :)
+      deleted: false
+      text: за перспективу
+    - id: 21756
+      parent_id: 21753
+      date: 2005-06-13 19:16
+      poster: Дима Казанцев (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: если интересно
+      deleted: false
+      text: напиши мне в мыло
+      replies:
+      - id: 21761
+        parent_id: 21756
+        date: 2005-06-13 23:17
+        poster: Wheel  (Wheel)
+        email: wheel@ua.fm
+        subject: отправил
+        deleted: false
+        replies:
+        - id: 21763
+          parent_id: 21761
+          date: 2005-06-14 06:16
+          poster: Дима Казанцев (Dr. Nick)
+          email: dr.nick@blues.ru
+          subject: а я не получил...
+          deleted: false
+          text: правда
+  - id: 21765
+    parent_id: 21721
+    date: 2005-06-14 13:39
+    poster: Andy McLetsoff (McL)
+    email: mcl@macbox.ru
+    subject: Очень понравилось!
+    deleted: false

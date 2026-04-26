@@ -1,0 +1,45 @@
+topic_id: 2318
+slug: topic-2318
+title: Сегодня у Михаила Бирюкова день рождения!
+first_post: 2004-11-18 21:52
+last_post: 2004-11-20 04:13
+post_count: 4
+posts:
+- id: 19818
+  parent_id: null
+  date: 2004-11-18 21:52
+  poster: Андрей Ордальонов (Андрей PRG)
+  email: peregnoy@mail.ru
+  subject: Сегодня у Михаила Бирюкова день рождения!
+  deleted: false
+  text: Миша! От всей души поздравляю :)
+  replies:
+  - id: 19821
+    parent_id: 19818
+    date: 2004-11-19 15:15
+    poster: Федор Романенко (fedor)
+    email: fedor@blues.ru
+    subject: Поздравляю!!!!
+    deleted: false
+    text: Хоть и с небольшим опозданием, третий день пьем за твое здоровье! Всега
+      наилучшего! ;))
+  - id: 19822
+    parent_id: 19818
+    date: 2004-11-19 16:05
+    poster: Алексей Аграновский (Док)
+    email: aaa@genebee.msu.su
+    subject: Мише - желаю здоровья и всяческого благополучия. Будь счастлив!
+    deleted: false
+    text: Ты хороший, а это - много!
+  - id: 19826
+    parent_id: 19818
+    date: 2004-11-20 04:13
+    poster: Михаил Бирюков (nECKAPb)
+    email: blackcat@blues.ru
+    subject: Спасибо!..
+    deleted: false
+    text: '... всем, кто помнит! :)) Вы и сами хорошие ;)
+
+      Фёдор! третий день за моё здоровье?! наверное, уже можно и остановиться ;)
+
+      Ещё раз спасибо :)))'

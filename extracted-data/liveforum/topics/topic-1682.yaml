@@ -1,0 +1,82 @@
+topic_id: 1682
+slug: topic-1682
+title: BB King ищу спутника
+first_post: 2003-12-17 13:21
+last_post: 2003-12-23 13:09
+post_count: 8
+posts:
+- id: 16303
+  parent_id: null
+  date: 2003-12-17 13:21
+  poster: Material Girl
+  email: mamapapasin@list.ru
+  subject: BB King ищу спутника
+  deleted: false
+  text: безумно увлеклась блюзом. но не разу не была на блюзовых вечерах, да и среди
+    друзей все больше тяготеют к электронной музыке... ищу гида по клубу, и посоветуйте
+    на какую группу или исполнителя лучше сходить. mamapapasin@list.ru
+  replies:
+  - id: 16306
+    parent_id: 16303
+    date: 2003-12-17 17:09
+    poster: Andrei V. Evdokimov (evdokimov)
+    email: evdokimov@blues.ru
+    subject: тут советчиков - море
+    deleted: false
+    text: 'и каждый - со своим советом :)
+
+      блюз - дело субъективное. Чтобы дать совет, надо бы сначала узнать: какой именно
+      блюз нравится?'
+  - id: 16310
+    parent_id: 16303
+    date: 2003-12-17 19:47
+    poster: Игорь Головачев (Игорь Г.)
+    email: sunny_city@mail.ru
+    subject: Ну что тут можно скакзать...
+    deleted: false
+    text: 'бегом прямо сейчас в BBKing,ну а там видно будет :)
+
+      Ну и для общего,так сказать,представления что к чему,к Вашим услугам BluesmAn.ru'
+  - id: 16312
+    parent_id: 16303
+    date: 2003-12-17 21:15
+    poster: Михаил Бирюков (nECKAPb)
+    email: blackcat@blues.ru
+    subject: вот, например, совет
+    deleted: false
+    text: <a href="http://svet-al.blues.ru/" target="_blank">svet-al.blues.ru</a>.
+      Правда, это в Минске.
+  - id: 16331
+    parent_id: 16303
+    date: 2003-12-18 11:42
+    poster: Andy mcletsoff (McL)
+    email: mcl@macbox.ru
+    subject: Right now
+    deleted: false
+    text: Да вот хоть прям сегодня, в четверг 18-го и сходи
+    replies:
+    - id: 16332
+      parent_id: 16331
+      date: 2003-12-18 12:21
+      poster: Material Girl
+      email: mamapapasin@list.ru
+      subject: ищу
+      deleted: false
+      text: спасибо:) а сегодня что-то особенное?
+  - id: 16375
+    parent_id: 16303
+    date: 2003-12-19 23:27
+    poster: Андрей Ордальонов (Андрей PRG)
+    email: peregnoy@mail.ru
+    subject: Было.
+    deleted: false
+    text: Ну и как результата? ;)
+    replies:
+    - id: 16432
+      parent_id: 16375
+      date: 2003-12-23 13:09
+      poster: Material Girl
+      email: mamapapasin@list.ru
+      subject: было
+      deleted: false
+      text: пока к сожалению никак. не удалось выбраться, да и гида не нашла:-)

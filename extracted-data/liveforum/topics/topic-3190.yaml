@@ -1,0 +1,55 @@
+topic_id: 3190
+slug: topic-3190
+title: Magic Sam
+first_post: 2006-04-06 14:43
+last_post: 2006-04-07 15:37
+post_count: 5
+posts:
+- id: 26878
+  parent_id: null
+  date: 2006-04-06 14:43
+  poster: Muddy Lives
+  email: mlives_6@hotmail
+  subject: Magic Sam
+  deleted: false
+  text: http://youtube.com/watch?v=tW0LEWAYQPI&search=magic%20sam
+  replies:
+  - id: 26879
+    parent_id: 26878
+    date: 2006-04-06 16:40
+    poster: Алексей Аграновский (Док)
+    email: aaa@genebee.msu.su
+    subject: Чудо!
+    deleted: false
+  - id: 26881
+    parent_id: 26878
+    date: 2006-04-06 20:21
+    poster: Старый Майор
+    email: gypsy@mail.ru
+    subject: Вот это да...
+    deleted: false
+    text: 'Джон, это лучший для меня подарок! Хорошо что ты нашел время излазить этот
+      сайт.
+
+
+      А почему у него на гитаре написано Earl Hooker, интересно>?'
+    replies:
+    - id: 26884
+      parent_id: 26881
+      date: 2006-04-07 10:00
+      poster: Muddy Lives
+      email: mlives_6@hotmail
+      subject: Наверно...
+      deleted: false
+      text: "потому что играл на гитаре Earl Hooker. :)    Похоже, что клипсы из Европы\
+        \ 1969 г. (American Folk Blues Festival).  Они были там вместе с Earl Hooker.\
+        \  По какой-то причине забрал его гитару.  А на басгитаре - это случайно не\
+        \ молодой Jimmy Johnson? Похож, но не могу решиться.  \n\nMuddy"
+      replies:
+      - id: 26888
+        parent_id: 26884
+        date: 2006-04-07 15:37
+        poster: Старый Майор
+        email: gypsy@mail.ru
+        subject: А я и старого Jimmi Kohnson не видел, так что не могу помочь с опознанием!
+        deleted: false

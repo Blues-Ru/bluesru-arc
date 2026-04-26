@@ -1,0 +1,24 @@
+topic_id: 2929
+slug: topic-2929
+title: не в тему, но забавно (вот где блюз)
+first_post: 2005-11-16 15:25
+last_post: 2006-01-23 10:57
+post_count: 2
+posts:
+- id: 24530
+  parent_id: null
+  date: 2005-11-16 15:25
+  poster: Axle
+  email: axledog@mail.ru
+  subject: не в тему, но забавно (вот где блюз)
+  deleted: false
+  text: http://blennus.com/video/zp.avi
+  replies:
+  - id: 25546
+    parent_id: 24530
+    date: 2006-01-23 10:57
+    poster: t
+    email: t
+    subject: Tes
+    deleted: false
+    text: <DIV align=center><IMG align=baseline alt="" border=0 hspace=0 src="http://image009.mylivepage.com/chunk9/26234/22/Wilcon%20Pickett.jpg"></DIV>

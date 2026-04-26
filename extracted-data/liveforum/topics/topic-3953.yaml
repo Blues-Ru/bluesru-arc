@@ -1,0 +1,52 @@
+topic_id: 3953
+slug: topic-3953
+title: Отзовитесь горнисты.....
+first_post: 2008-03-21 08:37
+last_post: 2008-03-23 14:53
+post_count: 5
+posts:
+- id: 35010
+  parent_id: null
+  date: 2008-03-21 08:37
+  poster: (Grem)
+  email: grems@yandex.ru
+  subject: Отзовитесь горнисты.....
+  deleted: false
+  text: Кто ходил на концерт Чака Берри не жадничайте, ваши впечатления плиз.
+  replies:
+  - id: 35011
+    parent_id: 35010
+    date: 2008-03-21 10:06
+    poster: Владимир Русинов (BluesCat)
+    email: volodya@blues.ru
+    subject: нажимаем :)
+    deleted: false
+    text: <A HREF="http://blog.yandex.ru/search.xml?ft=blog&text=%F7%E0%EA+%E1%E5%F0%F0%E8&p=0">http://blog.yandex.ru/search.xml?ft=blog&text=%F7%E0%EA+%E1%E5%F0%F0%E8&p=0</A>
+    replies:
+    - id: 35021
+      parent_id: 35011
+      date: 2008-03-21 18:31
+      poster: Владимир Русинов (BluesCat)
+      email: volodya@blues.ru
+      subject: по ссылке сверху
+      deleted: false
+      text: "Предлагаю срочно всех этих людей опросить \"нравится ли им Киркоров?\"\
+        . \nпотому что именно этот аргумент обычно приводят, когда людям нравится,\
+        \ то что не нравится знатокам......"
+  - id: 35024
+    parent_id: 35010
+    date: 2008-03-22 01:21
+    poster: Svetlana Kotelkova (Garpia)
+    email: garpia2@gmail.com
+    subject: Совсем немного, но все же...
+    deleted: false
+    text: http://garpia2.livejournal.com/274139.html#cutid1
+    replies:
+    - id: 35030
+      parent_id: 35024
+      date: 2008-03-23 14:53
+      poster: Julia
+      email: julia76@yandex.ru
+      subject: Впечатления
+      deleted: false
+      text: Ответила, но не в той теме. Извините. Читайте ниже.

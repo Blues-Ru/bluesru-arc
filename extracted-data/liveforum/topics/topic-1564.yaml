@@ -1,0 +1,66 @@
+topic_id: 1564
+slug: topic-1564
+title: Рассылка "Импровизировать может каждый"
+first_post: 2003-11-10 17:03
+last_post: 2003-11-11 15:00
+post_count: 6
+posts:
+- id: 15457
+  parent_id: null
+  date: 2003-11-10 17:03
+  poster: maksoo
+  email: maksoo@mail.ru
+  subject: Рассылка "Импровизировать может каждый"
+  deleted: false
+  text: 'Открыта рассылка "Импровизировать может каждый", ориентированная на музыкантов-самоучек.
+
+    Кто хочет повысить свой уровень или просто научиться - милости прошу подписываться
+    по адресу http://subscribe.ru/catalog/culture.music.improvise'
+  replies:
+  - id: 15458
+    parent_id: 15457
+    date: 2003-11-10 17:45
+    poster: Михан  (Ded Morozzz)
+    email: morozzz_ded@mail.ru
+    subject: :)))
+    deleted: false
+    text: '"... оказывается, импровизировать это очень просто. То, что
+
+      искусство импровизации доступно не каждому - не более чем миф, который не находит
+      подтверждения в реальности. Не важно на каком инструменте Вы играете, не важен
+      Ваш уровень подготовки... "'
+    replies:
+    - id: 15459
+      parent_id: 15458
+      date: 2003-11-10 17:46
+      poster: Михан  (Ded Morozzz)
+      email: morozzz_ded@mail.ru
+      subject: цитата оттуда :)
+      deleted: false
+      replies:
+      - id: 15462
+        parent_id: 15459
+        date: 2003-11-10 19:05
+        poster: maksoo
+        email: maksoo@mail.ru
+        subject: Ну, и?
+        deleted: false
+        text: Никто, правда, не обещает, что будет легко.
+        replies:
+        - id: 15469
+          parent_id: 15462
+          date: 2003-11-11 14:33
+          poster: Старый Майор
+          email: gypsy@mail.ru
+          subject: А вот ещё интересная рассылка "Увеличить ... на два дюйма может
+            каждый"
+          deleted: false
+          text: Адресок подсказать?
+      - id: 15470
+        parent_id: 15459
+        date: 2003-11-11 15:00
+        poster: maksoo
+        email: maksoo@mail.ru
+        subject: Текст
+        deleted: false
+        text: Спасибо за замечание. Текст действительно был дурацкий, я его заменил.

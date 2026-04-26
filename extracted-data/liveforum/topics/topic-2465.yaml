@@ -1,0 +1,25 @@
+topic_id: 2465
+slug: topic-2465
+title: bluesman.ru
+first_post: 2005-03-11 23:06
+last_post: 2005-03-14 17:57
+post_count: 2
+posts:
+- id: 20642
+  parent_id: null
+  date: 2005-03-11 23:06
+  poster: Валерий
+  email: ioby@yandex.ru
+  subject: bluesman.ru
+  deleted: false
+  text: Интересно, а когда на сайте bluesman.ru новые фотки появятся? Что-то этот
+    сайт давно не обновлялся
+  replies:
+  - id: 20656
+    parent_id: 20642
+    date: 2005-03-14 17:57
+    poster: Игорь Г.
+    email: sunny_city@mail.ru
+    subject: Есть чуток фоток и чуток звука.
+    deleted: false
+    text: Ближайшее время выложу.

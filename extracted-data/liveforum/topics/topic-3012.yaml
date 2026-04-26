@@ -1,0 +1,130 @@
+topic_id: 3012
+slug: topic-3012
+title: Jimmy Hendrix
+first_post: 2005-12-23 03:35
+last_post: 2005-12-26 23:58
+post_count: 13
+posts:
+- id: 25207
+  parent_id: null
+  date: 2005-12-23 03:35
+  poster: Немов Евгений
+  email: jnr_new@mail.ru
+  subject: Jimmy Hendrix
+  deleted: false
+  text: Каждый раз слушаю Хендрикса, как в первый раз. Гений, чёрт его дери!!!
+  replies:
+  - id: 25208
+    parent_id: 25207
+    date: 2005-12-23 07:58
+    poster: Валентин
+    email: voshalb@rambler.ru
+    subject: Кто бы возражал...
+    deleted: false
+    text: Хотя для меня он несколько жестковат...У него композиции трудно назвать
+      блюзовыми...ИМХО,разумеется...
+    replies:
+    - id: 25211
+      parent_id: 25208
+      date: 2005-12-23 10:44
+      poster: Andy McLetsoff (McL)
+      email: mcl@macbox.ru
+      subject: Это точно
+      deleted: false
+      text: А если трудно назвать блюзовыми - то и слушать трудно.
+  - id: 25212
+    parent_id: 25207
+    date: 2005-12-23 13:54
+    poster: Алексей Аграновский (Док)
+    email: aaa@genebee.msu.su
+    subject: Да, да, Женя
+    deleted: false
+    text: Гений. Номерные альбомы, всего несколько, фантастика - до сих пор, не "для
+      своего времени". Навсегда, очевидно. Про что редко говорят - слова очень хороши,
+      это не на поверхности, но разобрать стоит. Блюз - не блюз... ох, вечная тема.
+      Обсуждать можно, но не в кайф.
+    replies:
+    - id: 25230
+      parent_id: 25212
+      date: 2005-12-26 00:55
+      poster: Немов Евгений
+      email: jnr_new@mail.ru
+      subject: бисер
+      deleted: false
+      text: Понял. Что-то про бисер вспомнилось...,как там?.........
+      replies:
+      - id: 25235
+        parent_id: 25230
+        date: 2005-12-26 08:53
+        poster: Yggipop 69
+        email: yggi@blues.ru
+        subject: Наверное..
+        deleted: false
+        text: Бисер Киров
+        replies:
+        - id: 25258
+          parent_id: 25235
+          date: 2005-12-26 20:54
+          poster: Руслан Чифуров ()
+          email: chifuroff<sobaka>inbox.ru
+          subject: Ага- именно он!
+          deleted: false
+          text: 'Птица счастия зЪЯвтрашнева днЪЯ
+
+            ПрилЪЕтела крыльями звенЪЯ'
+  - id: 25231
+    parent_id: 25207
+    date: 2005-12-26 01:00
+    poster: Немов Евгений
+    email: jnr_new@mail.ru
+    subject: А если кому0то жестковат, то нужно чуточку потренироваться!
+    deleted: false
+    replies:
+    - id: 25233
+      parent_id: 25231
+      date: 2005-12-26 02:20
+      poster: Владимир Русинов (BluesCat)
+      email: volodya@blues.ru
+      subject: :)) ну эт всем надо тренироваться...
+      deleted: false
+      replies:
+      - id: 25234
+        parent_id: 25233
+        date: 2005-12-26 02:20
+        poster: Владимир Русинов (BluesCat)
+        email: volodya@blues.ru
+        subject: это я к общему расширению восприятия... :)
+        deleted: false
+        text: а Хендрикс - мой любимый музыкант. :)
+    - id: 25241
+      parent_id: 25231
+      date: 2005-12-26 12:58
+      poster: Алексей Аграновский (Док)
+      email: aaa@genebee.msu.su
+      subject: Если жестковат, надо просто послушать ещё
+      deleted: false
+      text: 'Нам нравится то, что мы много раз прослушали. Джими Хендрикс достоин
+        того, чтобы его часто прослушивать и любить. И тогда из  восприятия "шума"
+        всплывут великие вещи, одна за другой: Crosstown Traffic, Gypsy Eyes, Voodoo
+        Chile (1,2), Long Hot Summer Night, House Burning Down, 1983 (Merman I Should
+        Turn to Be), Rainy Day Dream Away, All Along The Watchtower (это только Electric
+        Ladyland, названия по памяти).'
+      replies:
+      - id: 25255
+        parent_id: 25241
+        date: 2005-12-26 19:49
+        poster: Валентин
+        email: voshalb@rambler.ru
+        subject: Cпасибо,Алексей...Попробую ишо...
+        deleted: false
+        text: Может,и преодолею ощущение жесткости...Кстати,я вовсе не утверждал,что
+          Хендрикс не достоин звания гиганта...Так что все насмешки явно не по адресу...мимо...просто
+          читать надо внимательнее...
+        replies:
+        - id: 25261
+          parent_id: 25255
+          date: 2005-12-26 23:58
+          poster: Немов Евгений
+          email: jnr_new@mail.ru
+          subject: :)))
+          deleted: false

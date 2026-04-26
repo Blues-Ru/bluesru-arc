@@ -1,0 +1,37 @@
+topic_id: 2231
+slug: topic-2231
+title: Блюзовый фестиваль во Владимире в это воскресенье
+first_post: 2004-09-07 20:06
+last_post: 2004-09-13 13:30
+post_count: 3
+posts:
+- id: 19228
+  parent_id: null
+  date: 2004-09-07 20:06
+  poster: Ded Morozzz
+  email: morozzz_ded@mail.ru
+  subject: Блюзовый фестиваль во Владимире в это воскресенье
+  deleted: false
+  text: "12-го сентября во владимирском Z-Клубе пройдет блюзовый фестиваль с участием\
+    \ крутейших банд Екатеринбурга, Москвы, Владимира и Минска :) выступают: \n- \"\
+    Blues Doctors\"\n- \"Louisiana Jumpin' Cats\" \n- \"Svet Boogie Band\"\n- \"Blackmailers\
+    \ Blues Band\"\n.\nСтоимость входного билета всего 50 рублей!\n.\nНачало в 18:00\n\
+    .\nПриезжайте :) будет здорово"
+  replies:
+  - id: 19230
+    parent_id: 19228
+    date: 2004-09-08 06:07
+    poster: Федор Романенко (fedor)
+    email: fedor@blues.ru
+    subject: Макарка зовет!
+    deleted: false
+    text: Может и приеду ;)
+    replies:
+    - id: 19249
+      parent_id: 19230
+      date: 2004-09-13 13:30
+      poster: Михан  (Ded Morozzz)
+      email: morozzz_ded@mail.ru
+      subject: Было круто!
+      deleted: false
+      text: Кто не был - все пропустил :)

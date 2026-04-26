@@ -1,0 +1,9 @@
+---
+id: 670
+slug: ike-turner-2
+title: Ike Turner
+date: 1931-11-05 00:00
+picture: 1105TurnerI.gif
+---
+
+в Кларксдейле, Миссиссипп, родился Изя Ластер Тернер, младший, он же просто Айк (Ike TURNER). Гитарист-самоучка, уроки игры на фортепиано он брал у самого Пайнтопа Перкинса. Его песню «Рокета-88» (1951 г.) решено считать первым настоящим рок-н-роллом. Талантливый музыкант, он был жестким лидером в своих коллективах. И широкая публика знает его не столько как первопроходца рок-н-ролла, сколько как злого гения и жестокого мужа Тины Тернер. Вот только он уже был звездой, когда принялся делать из деревенской девочки Энни Мэй Баллок звезду по имени Тина (и становится обратно Баллок она уже не захотела). Стремление к финансовому успеху заметно во всех начинаниях Тернера, но для себя он любил блюз, о чем свидетельствуют его домашние записи. zear Luster "Ike" Turner Jr. (November 5, 1931 – December 12, 2007) was an American musician, bandleader, songwriter, arranger, talent scout, and record producer. An early pioneer of 1950s rock and roll, he is best known for his work in the 1960s and 1970s with his then-wife Tina Turner as the leader of the Ike & Tina Turner Revue. Hailed as a "great innovator" of rock and roll by contemporaries such as Little Richard and Johnny Otis, Turner received critical acclaim as well. Rolling Stone magazine ranked Turner No. 61 on his list of 100 Greatest Guitarists and noted, "Turner was one of the first guitarists to successfully transplant the intensity of the blues into more-commercial music." Turner won five Grammy Awards, including two competitive awards and three Grammy Hall of Fame Awards. He was inducted into the Rock and Roll Hall of Fame with Tina Turner in 1991. He is also inducted into the St. Louis Walk of Fame, the Clarksdale Walk of Fame, the Mississippi Musicians Hall of Fame, the Blues Hall of Fame, and the Rhythm & Blues Hall of Fame.

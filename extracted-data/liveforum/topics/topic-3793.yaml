@@ -1,0 +1,53 @@
+topic_id: 3793
+slug: topic-3793
+title: Харп в России - краткое исследование - помогайте комментариями!
+first_post: 2007-11-10 15:55
+last_post: 2007-11-12 18:48
+post_count: 5
+posts:
+- id: 33862
+  parent_id: null
+  date: 2007-11-10 15:55
+  poster: Кожекин
+  email: kozhekin@mail.ru
+  subject: Харп в России - краткое исследование - помогайте комментариями!
+  deleted: false
+  text: http://kozhekin.livejournal.com/306902.html
+  replies:
+  - id: 33873
+    parent_id: 33862
+    date: 2007-11-10 21:34
+    poster: Andrei V. Evdokimov (evdokimov)
+    email: evdokimov@blues.ru
+    subject: объемное исследование
+    deleted: false
+    text: но блюз и блюз-рок на губной гармонике много играл Алик Микоян
+    replies:
+    - id: 33876
+      parent_id: 33873
+      date: 2007-11-12 17:09
+      poster: Алексей Аграновский (Док)
+      email: aaa@genebee.msu.su
+      subject: Я его слышал в 1972
+      deleted: false
+      text: в общаге МГУ. Алик играл на гармошке с Удачным Приобретением.
+      replies:
+      - id: 33877
+        parent_id: 33876
+        date: 2007-11-12 18:17
+        poster: кожекин
+        email: kozhekin@mail.ru
+        subject: Очень интересно!
+        deleted: false
+        text: Получается - первый наш харпер! Доктор, не могли бы вы написать небольшую
+          заметку (буквально три предложения) по этому поводу?
+        replies:
+        - id: 33878
+          parent_id: 33877
+          date: 2007-11-12 18:48
+          poster: Алексей Аграновский (Док)
+          email: aaa@genebee.msu.su
+          subject: Собственно, всё и написал...
+          deleted: false
+          text: Надо бы самого Алика или Петровича расспросить. Что, когда, как. Спросишь?
+            Могу добавить только короткие давние впечатления.

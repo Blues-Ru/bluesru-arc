@@ -1,0 +1,133 @@
+topic_id: 1700
+slug: topic-1700
+title: Наверное  не в тему,но.....
+first_post: 2003-12-20 00:11
+last_post: 2003-12-21 09:34
+post_count: 13
+posts:
+- id: 16376
+  parent_id: null
+  date: 2003-12-20 00:11
+  poster: Yuri Kaverkin (Gekko)
+  email: kaverkin@rol.ru
+  subject: Наверное  не в тему,но.....
+  deleted: false
+  text: 'в редактировании концертов осталась только дата 20 декабря, а Wrong Way будет
+    выступать в Сколдер Блюз Кафе завтра - 19-го... начало в 19.00...
+
+    Федор, я понимаю, что надо заблаговременно уведомлять, но мне только сегодня об
+    этом сообщили, так-что звиняйте...и если нельзя оставить, то удаляйте....Правильным
+    путем идет Wrong Way, товарищи!!!'
+  replies:
+  - id: 16377
+    parent_id: 16376
+    date: 2003-12-20 00:14
+    poster: Дима Казанцев (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: Юра
+    deleted: false
+    text: сегодня уже 20-е!
+    replies:
+    - id: 16381
+      parent_id: 16377
+      date: 2003-12-20 00:16
+      poster: Yuri Kaverkin (Gekko)
+      email: kaverkin@rol.ru
+      subject: Блин!!!! Ну я даю!!!! Федор!!! Удаляй !!!! Дима!!!!Спасибо!!!!
+      deleted: false
+  - id: 16378
+    parent_id: 16376
+    date: 2003-12-20 00:14
+    poster: Yuri Kaverkin (Gekko)
+    email: kaverkin@rol.ru
+    subject: Кстати, нельзя ли, что-бы при удалении...
+    deleted: false
+    text: на экране возникала жизнерадостная надпись "Новое сообщение успешно удалено"
+      - не так обидно будет:-))
+    replies:
+    - id: 16380
+      parent_id: 16378
+      date: 2003-12-20 00:15
+      poster: Дима Казанцев (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: ты каких грибов поел?
+      deleted: false
+      text: иль выпил чего? :)
+  - id: 16379
+    parent_id: 16376
+    date: 2003-12-20 00:15
+    poster: Федор Романенко (fedor)
+    email: fedor@blues.ru
+    subject: Юра!
+    deleted: false
+    text: Вынужден огорчить, завтра - не 19-е, а уже аж 21-е. Ты проспал свой концерт???
+    replies:
+    - id: 16383
+      parent_id: 16379
+      date: 2003-12-20 00:18
+      poster: Yuri Kaverkin (Gekko)
+      email: kaverkin@rol.ru
+      subject: Объясните Христа ради...Суббота это какое число??? Если 20 е то я еще
+        вполне нормален, но если 21-е...то грибы и выпивка были ничтяк;-)
+      deleted: false
+      replies:
+      - id: 16385
+        parent_id: 16383
+        date: 2003-12-20 00:19
+        poster: Федор Романенко (fedor)
+        email: fedor@blues.ru
+        subject: Часы на блюз.ру
+        deleted: false
+        text: 'Работают правильно. Посмотри на дату своего поста ;)
+
+
+          Ох, повеселил ;)'
+  - id: 16382
+    parent_id: 16376
+    date: 2003-12-20 00:18
+    poster: Greta
+    email: morehemp
+    subject: ну... и...? :)
+    deleted: false
+    text: кто завтра выступает? всё же? :)
+    replies:
+    - id: 16384
+      parent_id: 16382
+      date: 2003-12-20 00:19
+      poster: Федор Романенко (fedor)
+      email: fedor@blues.ru
+      subject: Завтра, в смысле, 19-го?
+      deleted: false
+      text: Или вчера 21-го?
+      replies:
+      - id: 16386
+        parent_id: 16384
+        date: 2003-12-20 00:20
+        poster: Greta
+        email: morehemp
+        subject: 31-го, позавчера :)))
+        deleted: false
+        text: завтра, конечно
+        replies:
+        - id: 16387
+          parent_id: 16386
+          date: 2003-12-20 00:29
+          poster: Yuri Kaverkin (Gekko)
+          email: kaverkin@rol.ru
+          subject: Все!!! Ни с кем разговаривать не буду!!! ;-))
+          deleted: false
+          text: 'В эту субботу (вчера, сегодня,завтра) Wrong Way Band дает гастроль
+            в Сколдер Блюз Кафе.
+
+            Ладно, я лопухнулся, но как все зашевелились - и от меня какая-никакая
+            польза. Опять-же теперь все точно знают, что у нас концерт - вот так и
+            надо объявлять о концертах;-))'
+  - id: 16391
+    parent_id: 16376
+    date: 2003-12-21 09:34
+    poster: Malcolm Ray Redriver
+    email: lifebythedrop@yandex.ru
+    subject: Time waits fo nobody
+    deleted: false
+    text: Помнится фильм был какой-то, где дату перепутали... чуть кого-то не казнили...
+      (помню, что фильм был, а чей и о чём там толком было не помню)

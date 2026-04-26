@@ -1,0 +1,47 @@
+topic_id: 3290
+slug: topic-3290
+title: Блоги на блюз.ру и спам...
+first_post: 2006-06-09 15:22
+last_post: 2006-06-09 19:13
+post_count: 4
+posts:
+- id: 27662
+  parent_id: null
+  date: 2006-06-09 15:22
+  poster: Федор Романенко (fedor)
+  email: fedor@blues.ru
+  subject: Блоги на блюз.ру и спам...
+  deleted: false
+  text: Мне временно пришлось заблокировать постинги в блоги на блюз.ру из-за спама.
+    Одновременно я вычистил 2500 комментов. Проблема в том, что авторам отдельных
+    сообщений приходило по почте по 50 нотификаций в день о спаммерских комментах.
+    Когда придумаю, как прикрыть от спаммеров, разблокирую обратно. Если кто-то из
+    уважаемых авторов захочет что-то срочно написать, дайте знать.
+  replies:
+  - id: 27663
+    parent_id: 27662
+    date: 2006-06-09 15:26
+    poster: Владимир Русинов (BluesCat)
+    email: volodya@blues.ru
+    subject: зашумленные картинки надо всовывать видимо
+    deleted: false
+    replies:
+    - id: 27664
+      parent_id: 27663
+      date: 2006-06-09 15:45
+      poster: Федор Романенко (fedor)
+      email: fedor@blues.ru
+      subject: Надо...
+      deleted: false
+      text: Но нужно пересобирать чужой код, искать модуль для генерации таких картинок
+        и пр...
+      replies:
+      - id: 27665
+        parent_id: 27664
+        date: 2006-06-09 19:13
+        poster: shkin
+        email: shkin
+        subject: captcha на все случаи жизни
+        deleted: false
+        text: 'А чего его искать? Дело-то вроде простое, даже для .Net варианты есть:
+          <a href="http://en.wikipedia.org/wiki/Captcha#.NET">http://en.wikipedia.org/wiki/Captcha#.NET</a>'

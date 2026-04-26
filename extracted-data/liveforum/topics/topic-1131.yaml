@@ -1,0 +1,84 @@
+topic_id: 1131
+slug: topic-1131
+title: Слайд гитаристы
+first_post: 2002-02-11 16:24
+last_post: 2002-02-11 21:56
+post_count: 7
+posts:
+- id: 1146
+  parent_id: null
+  date: 2002-02-11 16:24
+  poster: Федор Романенко (fedor)
+  email: fedor@blues.ru
+  subject: Слайд гитаристы
+  deleted: false
+  text: 'Попался мне пиратский диск Clarence "Gatemouth" Brown "Back to Bogalusa".
+    Пластинка - отличная, пожалуй, лучшая на мой вкус у CGB. Там дудки, аккордеон
+    и слайд гитаристы. В частности, Sonny Landreth, который помогал Джуниору Уэллсу
+    на другой моей любимой пластинке Come On In This House.
+
+    Интересно, кто-нибудь что-нибудь слышал еще хорошее у этого гитариста? Может у
+    него какие-нибудь крутые сольные пластинки есть?
+
+    Спасибо.'
+  replies:
+  - id: 1148
+    parent_id: 1146
+    date: 2002-02-11 16:48
+    poster: Andrei V. Evdokimov (evdokimov)
+    email: evdokimov@blues.ru
+    subject: будучи в восторге
+    deleted: false
+    text: "от \"гостейвой\" игры Сони, купил его альбом \"Blues Attack\" 1996 года.\
+      \ Пять лет прошло, а я все не знаю, куда бы девать это сокровище. \nНе смотря\
+      \ на наличие представителей обожаемого мною клана Шеньеров (брата и сына короля\
+      \ Зайдекоу) - полная скучища. Для любителей безэмоционального грамотного музицирования\
+      \ - то, что надо. Скучно, умело, голос хлипкий, барабаны с ватой... нежная такая\
+      \ атака.:)\nэээ, продать его, что ли? недорого!"
+    replies:
+    - id: 1150
+      parent_id: 1148
+      date: 2002-02-11 17:01
+      poster: Федор Романенко (fedor)
+      email: fedor@blues.ru
+      subject: Давай рассмотрим ;)
+      deleted: false
+      text: Надо проверить, у нас же вкусы разные, может мне понравится ;) Хотя, конечно,
+        очень возможно, что это отстой. В AMG у этой пластинки тоже мало звездочек.
+    - id: 1157
+      parent_id: 1148
+      date: 2002-02-11 18:37
+      poster: Дима Казанцев (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: А чего у тебя еще есть?
+      deleted: false
+      text: Недорого и фирменно?
+  - id: 1155
+    parent_id: 1146
+    date: 2002-02-11 17:50
+    poster: Дима Казанцев (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: Есть конечно
+    deleted: false
+    text: Есть 'The Man', 'Gate Swings' & 'San Antonio Ballbuster'. Еще у меня был
+      ранний диск где он играет 'Chicken' & '99 Dollars'. 'Gate Swings' тебе особенно
+      понравится при твоей любви к рокабилли ;) Могу меняться ;)
+    replies:
+    - id: 1169
+      parent_id: 1155
+      date: 2002-02-11 21:46
+      poster: Федор Романенко (fedor)
+      email: fedor@blues.ru
+      subject: Эээ, тормозишь...
+      deleted: false
+      text: У меня тоже есть несколько дисков CGB. Я говорил о Sonny Landreth.
+      replies:
+      - id: 1170
+        parent_id: 1169
+        date: 2002-02-11 21:56
+        poster: Дима Казанцев (Dr. Nick)
+        email: dr.nick@blues.ru
+        subject: Старею & тупею
+        deleted: false
+        text: "Неплохое название для блюза в стиле Rollin' & Tumblin'? Или нет? \n\
+          Что-то я и правда тормознул."

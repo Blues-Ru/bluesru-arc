@@ -1,0 +1,107 @@
+topic_id: 1280
+slug: topic-1280
+title: Прокат CD
+first_post: 2003-07-24 23:42
+last_post: 2003-07-26 10:57
+post_count: 10
+posts:
+- id: 13318
+  parent_id: null
+  date: 2003-07-24 23:42
+  poster: Андрей
+  email: rybalka27@yandex.ru
+  subject: Прокат CD
+  deleted: false
+  text: 'Народ!
+
+    Может кто посоветует, где в Москве можно взять CD в прокат.
+
+    На днях купил СD В.В. KING. Купил случайно, ради любопытства. Понравилось очень!
+    Хочу послушать подобное еще. Покупать CD по 700 рублей разорительно.'
+  replies:
+  - id: 13319
+    parent_id: 13318
+    date: 2003-07-25 08:15
+    poster: Андрей Ордальонов (Андрей PRG)
+    email: peregnoy@mail.ru
+    subject: Насколько я слышал,
+    deleted: false
+    text: единственный в Москве пункт проката CD закрыт (примерно с мая)  в связи
+      с переездом.
+  - id: 13322
+    parent_id: 13318
+    date: 2003-07-25 10:24
+    poster: Сергей Иванов (serge_ivanov)
+    email: serge_ivanov@hotmail.com
+    subject: на Полянке, рядом с "Молодой Гвардией" был
+    deleted: false
+    text: 'а 700 это круто.
+
+      В Москве можно купить блюз и по 300-350 рублев.'
+    replies:
+    - id: 13325
+      parent_id: 13322
+      date: 2003-07-25 12:26
+      poster: Greta
+      email: morehemp@mail.ru
+      subject: хотя
+      deleted: false
+      text: я не была там никогда при его жизни, но сейчас его закрыли.
+    - id: 13330
+      parent_id: 13322
+      date: 2003-07-25 13:22
+      poster: Barmaley
+      email: barmaley2k@beep.ru
+      subject: Можно и по 80
+      deleted: false
+      text: Если конечно моральные принципы позволяют или крутости не хватает..
+      replies:
+      - id: 13331
+        parent_id: 13330
+        date: 2003-07-25 13:25
+        poster: Сергей Иванов (serge_ivanov)
+        email: serge_ivanov@hotmail.com
+        subject: ну этот-то вариант очевиден :-)
+        deleted: false
+        text: видимо Андрей его сразу отбросил
+        replies:
+        - id: 13337
+          parent_id: 13331
+          date: 2003-07-25 16:47
+          poster: Barmaley
+          email: barmaley2k@beep.ru
+          subject: Чужая душа - Потемкин  ;)
+          deleted: false
+      - id: 13340
+        parent_id: 13330
+        date: 2003-07-25 19:04
+        poster: Старый Майор
+        email: gypsy@mail.ru
+        subject: Для тех, кто вправду крут. Чисто эксклюзив.
+        deleted: false
+        text: 'Открываю VIP-салон по продаже компактов. Всё то же, что на Горбушке,
+          но каждого клиента будет обслуживать персональный менеджер. Сигарная комната,
+          сауна, эскорт. Фейс-контроль.
+
+
+          Цена компактов договорная. Дорого.'
+  - id: 13333
+    parent_id: 13318
+    date: 2003-07-25 14:29
+    poster: Elena
+    email: doctors.ch@butovo.com
+    subject: блюз на CD
+    deleted: false
+    text: Прямо возле старого выхода из метро ВДНХ (к гостинице "Космос") стоит киоск
+      "Музыка, CD" и что-то там еще. Там довольно большой выбор музыки на CD - в частности,
+      блюза и джаза - и аудио, и МР3. Цены низкие - 80-150 рублей. Понятно, что не
+      лицензионные, но качество нормальное.  Рекомендую.
+    replies:
+    - id: 13343
+      parent_id: 13333
+      date: 2003-07-26 10:57
+      poster: :)
+      email: bluesbrothers@list.ru
+      subject: Вот спасибо!
+      deleted: false
+      text: Надо туда наведаться! :) Спасибо, Лена!

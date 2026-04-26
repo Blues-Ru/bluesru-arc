@@ -1,0 +1,53 @@
+topic_id: 1049
+slug: topic-1049
+title: doctor blues, blues deluxe
+first_post: 2002-02-21 09:01
+last_post: 2002-02-22 09:53
+post_count: 5
+posts:
+- id: 1462
+  parent_id: null
+  date: 2002-02-21 09:01
+  poster: Alexei
+  email: real_sokol@mail.ru
+  subject: doctor blues, blues deluxe
+  deleted: false
+  text: не подскажете, где эти передачи - на сайте они обозначены, но ни на третьей
+    кнопке, ни на любой другой я ничего не обнаружил, а на частоте 104,2 какое-то
+    танго, а не радио России...
+  replies:
+  - id: 1467
+    parent_id: 1462
+    date: 2002-02-21 09:54
+    poster: Костин Владимир (Volk)
+    email: volk21@land.ru
+    subject: полностью согласен с предыдущим оратором - кроме открытого
+    deleted: false
+    text: радио и эхо других не могу поймать по радио...
+    replies:
+    - id: 1477
+      parent_id: 1467
+      date: 2002-02-21 14:49
+      poster: Федор Романенко (fedor)
+      email: fedor@blues.ru
+      subject: Калачев
+      deleted: false
+      text: Там какие-то были перетасовки, не уверен, что Калачев сам очень хорошо
+        знает, как поймать его передачи ;)
+  - id: 1487
+    parent_id: 1462
+    date: 2002-02-21 19:04
+    poster: dmitry
+    email: acblues@chat.ru
+    subject: Калачев на открытом радио (+)
+    deleted: false
+    text: каждую среду с 22.00 до 23.00 частота 102,5 московского ФМа
+    replies:
+    - id: 1505
+      parent_id: 1487
+      date: 2002-02-22 09:53
+      poster: Костин Владимир (Volk)
+      email: volk21@land.ru
+      subject: Это слушаем регулярно.. а вот другие передачи егонные????
+      deleted: false
+      text: идут ди???

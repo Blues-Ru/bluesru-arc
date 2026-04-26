@@ -1,0 +1,87 @@
+topic_id: 3645
+slug: topic-3645
+title: Презентация диска в ДуДе
+first_post: 2007-05-27 00:42
+last_post: 2007-05-29 20:42
+post_count: 9
+posts:
+- id: 32966
+  parent_id: null
+  date: 2007-05-27 00:42
+  poster: Вадим Иващенко
+  email: vadikiv@mail.ru
+  subject: Презентация диска в ДуДе
+  deleted: false
+  text: Друзья и коллеги! Приглашаю вас на презентацию моего CD в "Дом у дороги" в
+    среду 30-го мая.
+  replies:
+  - id: 32969
+    parent_id: 32966
+    date: 2007-05-27 01:28
+    poster: Dmitri Kazantsev (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: дождитесь меня
+    deleted: false
+    text: я приеду в 23:30
+    replies:
+    - id: 32972
+      parent_id: 32969
+      date: 2007-05-28 01:13
+      poster: Вадим Иващенко
+      email: vadikiv@mail.ru
+      subject: само собой
+      deleted: false
+      text: дождемся
+      replies:
+      - id: 32977
+        parent_id: 32972
+        date: 2007-05-29 15:56
+        poster: Старый Майор
+        email: gypsy@mail.ru
+        subject: А я вообще утром приеду, опохмеляться
+        deleted: false
+        replies:
+        - id: 32978
+          parent_id: 32977
+          date: 2007-05-29 16:27
+          poster: Dmitri Kazantsev (Dr. Nick)
+          email: dr.nick@blues.ru
+          subject: откуда приедешь-то?
+          deleted: false
+          replies:
+          - id: 32980
+            parent_id: 32978
+            date: 2007-05-29 19:19
+            poster: Старый Майор
+            email: gypsy@mail.ru
+            subject: Оттуда.. (С) С.С.Горбунков
+            deleted: false
+            replies:
+            - id: 32982
+              parent_id: 32980
+              date: 2007-05-29 19:27
+              poster: Dmitri Kazantsev (Dr. Nick)
+              email: dr.nick@blues.ru
+              subject: оттуда - давай
+              deleted: false
+            - id: 32984
+              parent_id: 32980
+              date: 2007-05-29 20:21
+              poster: Эльдар
+              email: el@mail.com
+              subject: Будете у нас на Колыме...
+              deleted: false
+              text: Ты зачем усы сбрил?
+              replies:
+              - id: 32986
+                parent_id: 32984
+                date: 2007-05-29 20:42
+                poster: Dmitri Kazantsev (Dr. Nick)
+                email: dr.nick@blues.ru
+                subject: да чё там Колыма!
+                deleted: false
+                text: 'мы вчера вот играли с гармонистом с Сахалина! рост 210! играл
+                  хорошо!
+
+
+                  Кавер Кинг не даст соврать!'

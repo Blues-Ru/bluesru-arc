@@ -1,0 +1,66 @@
+topic_id: 9
+slug: topic-9
+title: Давайте не путать блюз с другими.
+first_post: 2002-01-24 15:27
+last_post: 2002-01-31 16:44
+post_count: 6
+posts:
+- id: 264
+  parent_id: null
+  date: 2002-01-24 15:27
+  poster: Captain Beefheart
+  email: crazy_bear@fomenko.ru
+  subject: Давайте не путать блюз с другими.
+  deleted: false
+  text: Наткнулся на сообщение - блюз - не рок. Давайте суп отдельно, а мух - отдельно.
+    Мух продадим китайцам! КСТАТИ!!! Кто знает, где отковырять Monster Mike Welch?
+  replies:
+  - id: 272
+    parent_id: 264
+    date: 2002-01-25 00:20
+    poster: AvA  ()
+    email: vad2908@mail.ru
+    subject: monster
+    deleted: false
+    text: У меня их два (в смысле - диска), Вам который?
+    replies:
+    - id: 333
+      parent_id: 272
+      date: 2002-01-26 15:42
+      poster: Captain Beefheart
+      email: crazy_bear@fomenko.ru
+      subject: A?
+      deleted: false
+      text: Какие альбомы? Говоря - конкретизируй! Буду признателен.
+      replies:
+      - id: 363
+        parent_id: 333
+        date: 2002-01-27 02:36
+        poster: AvA  ()
+        email: vad2908@mail.ru
+        subject: конкретно
+        deleted: false
+        text: '1. MONSTER MIKE WELCH "THESE BLUES ARE MINE" - 95 (Болванка [CD-R])
+
+          2. MONSTER MIKE WELCH "AXE TO GRIND" - 97 (Левый [т.е. Московский])'
+        replies:
+        - id: 532
+          parent_id: 363
+          date: 2002-01-31 16:44
+          poster: Кэп Бифхарт
+          email: сейм эз
+          subject: Понял!
+          deleted: false
+          text: Извини, понял! Просто два раза спросил, только щазз понял, что тут
+            твой ответ... А у меня, значит, Экс Ту Гринд (транслит - круто!)
+    - id: 531
+      parent_id: 272
+      date: 2002-01-31 16:42
+      poster: Captain Beefheart
+      email: same
+      subject: Oo?
+      deleted: false
+      text: А какие конкретно, уточни плз. У меня на мп3 был один, точно не помню...
+        А! Palm Of Her Hand! на той же коллекции были Livin` Blues The Hell`s Session
+        - лучший их альбом, имхо... Хотя мало - 5 вещей! Это же издевательство какое-то
+        прям!

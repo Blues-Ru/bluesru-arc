@@ -1,0 +1,54 @@
+topic_id: 544
+slug: topic-544
+title: Господа, а 1 января - среда, однако! А что у нас будет в БиБи?
+first_post: 2002-12-30 13:36
+last_post: 2002-12-30 18:42
+post_count: 6
+posts:
+- id: 9762
+  parent_id: null
+  date: 2002-12-30 13:36
+  poster: Старый Майор
+  email: gypsy@mail.ru
+  subject: Господа, а 1 января - среда, однако! А что у нас будет в БиБи?
+  deleted: false
+  replies:
+  - id: 9769
+    parent_id: 9762
+    date: 2002-12-30 15:08
+    poster: Greta
+    email: morehemp@mail.ru
+    subject: Ну так и что там будет в биби?
+    deleted: false
+  - id: 9780
+    parent_id: 9762
+    date: 2002-12-30 16:58
+    poster: Andrei V. Evdokimov (evdokimov)
+    email: evdokimov@blues.ru
+    subject: 1 и 2 - выходные в ББК
+    deleted: false
+    text: т.е., ничего не будет, всем расслабиться
+    replies:
+    - id: 9781
+      parent_id: 9780
+      date: 2002-12-30 17:08
+      poster: Старый Пьяный Майор
+      email: gypsy@mail.ru
+      subject: Безобразие!!! Я требую продолжения банкета!!!
+      deleted: false
+      replies:
+      - id: 9783
+        parent_id: 9781
+        date: 2002-12-30 17:43
+        poster: Somebody
+        email: smbd@mail.ru
+        subject: А за чей счет, уважаемый Майор?
+        deleted: false
+        replies:
+        - id: 9785
+          parent_id: 9783
+          date: 2002-12-30 18:42
+          poster: Старый Майор
+          email: gypsy@mail.ru
+          subject: Да хоть за мой... помещение и аппаратуру давай! ))
+          deleted: false

@@ -1,0 +1,119 @@
+topic_id: 2262
+slug: topic-2262
+title: Who Is Маша Левина?
+first_post: 2004-10-07 17:59
+last_post: 2004-10-11 05:10
+post_count: 12
+posts:
+- id: 19425
+  parent_id: null
+  date: 2004-10-07 17:59
+  poster: korvin
+  email: loco77@mail.ru
+  subject: Who Is Маша Левина?
+  deleted: false
+  text: 'А кто такая Маша Левина?
+
+    Во вторник в Ритм-Энд-Блюз Кафе играли Dr. Nick. К ним "подключились" Д. Казанцев
+    и Маша Левина.
+
+    Кто-нибудь знает, Who Is Маша Левина?'
+  replies:
+  - id: 19426
+    parent_id: 19425
+    date: 2004-10-07 18:44
+    poster: Lars
+    email: Lars@List.ru
+    subject: А что, понравилась? :)
+    deleted: false
+    text: А вот то, что Д.Казанцев "подключился" к Dr. Nick - это забавно :)
+    replies:
+    - id: 19428
+      parent_id: 19426
+      date: 2004-10-07 21:37
+      poster: korvin
+      email: loco77@mail.ru
+      subject: Понравилась
+      deleted: false
+      text: Я имел в виду буквально.
+      replies:
+      - id: 19430
+        parent_id: 19428
+        date: 2004-10-07 22:39
+        poster: Старый Майор
+        email: gypsy@mail.ru
+        subject: Очевидно, что Маша Левина - девушка. Ещё вопросы есть? ))
+        deleted: false
+        replies:
+        - id: 19432
+          parent_id: 19430
+          date: 2004-10-07 23:30
+          poster: korvin
+          email: loco77@mail.ru
+          subject: К Вам - нет!
+          deleted: false
+  - id: 19433
+    parent_id: 19425
+    date: 2004-10-08 10:44
+    poster: Mara Levin (Marianner)
+    email: illuzyi@narod.ru
+    subject: Вот она я "Маша Левина".
+    deleted: false
+    text: 'Не ожидала такого вопроса.
+
+      А в чем причина выяснения who is I?
+
+      Если хотите что-то у меня такого выяснить или припекло пообщаться - добро пожаловать
+      в ICQ#162016131 или мыло.
+
+
+      Слав, с тобой мы поговорим отдельно.'
+  - id: 19436
+    parent_id: 19425
+    date: 2004-10-08 20:40
+    poster: evergreib
+    email: evergreen@hotbox.ru
+    subject: На самом деле Маша Левина - это я.
+    deleted: false
+    text: Ну вот, собственно, и всё.
+    replies:
+    - id: 19437
+      parent_id: 19436
+      date: 2004-10-08 21:39
+      poster: korvin
+      email: loco77@mail.ru
+      subject: Всем спасибо, ...
+      deleted: false
+    - id: 19439
+      parent_id: 19436
+      date: 2004-10-09 13:10
+      poster: Mara Levin (Marianner)
+      email: illuzyi@narod.ru
+      subject: Это провокация!
+      deleted: false
+      text: Гриш, не смешно.
+    - id: 19440
+      parent_id: 19436
+      date: 2004-10-09 18:50
+      poster: Всегда Ваш - Флобер
+      email: ыпав"ыпав
+      subject: а я - мадам Бовари.
+      deleted: false
+      replies:
+      - id: 19442
+        parent_id: 19440
+        date: 2004-10-09 20:57
+        poster: Алексей Аграновский (Док)
+        email: aaa@genebee.msu.su
+        subject: Жорж Санд шепчет "Я Шопен"
+        deleted: false
+        text: В это время луна восходит...
+        replies:
+        - id: 19445
+          parent_id: 19442
+          date: 2004-10-11 05:10
+          poster: Михаил Бирюков (nECKAPb)
+          email: blackcat@blues.ru
+          subject: '... и заходит.'
+          deleted: false
+          text: А в тюрьме моей темно.

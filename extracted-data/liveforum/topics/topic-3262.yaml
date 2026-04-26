@@ -1,0 +1,104 @@
+topic_id: 3262
+slug: topic-3262
+title: Вы не подскажете, как пройти в закрома Родины?
+first_post: 2006-05-22 09:04
+last_post: 2006-05-22 21:39
+post_count: 3
+posts:
+- id: 27457
+  parent_id: null
+  date: 2006-05-22 09:04
+  poster: Митя
+  email: meis2000@mail.ru
+  subject: Вы не подскажете, как пройти в закрома Родины?
+  deleted: false
+  text: 'Два месяца назад наткнулся на ветку в форуме, объясняющую сабж (про MIRC,
+    канал #mp3blues - писал, кажется, Старый Майор). Но, увы и ах, информация утеряна,
+    в частности, интересует запуск поисковой системы в мирке.
+
+    Заранее благодарен.'
+  replies:
+  - id: 27461
+    parent_id: 27457
+    date: 2006-05-22 11:59
+    poster: Эльдар Музафаров
+    email: elicaster co6@ka мейл-d0t ru
+    subject: Как пройти к проспекту имени Закромов Родины?
+    deleted: false
+    text: 'Как пройти в Закрома Родины  - Старый Пират    (22/02 16:00)
+
+      Сообщаю в очередной раз.
+
+      Чтобы добраться до перацких архивов всей и всяческой музыки, нужно следующее:
+
+      1. Скачать клиент для сетей IRC - mIRC с сайта www.mirc.com
+
+      2. как продлить его срок действия сверх 30 дней триал-периода - объяснять не
+      буду ;)
+
+      3. Из списка сетей выбрать сеть UNDERNET, коннектиться лучше к Undernet, Random
+      US server
+
+      4. Зайдя в сеть, подключиться к каналу #Mp3blues
+
+      5. скачать файл-листы (командой @имя) следующих людей: @buzz, @davilo и @wldflwr
+      - у них самые приличные коллекции. Можно и других, но для того, чтобы понять,
+      кто в канале есть who, надо понаблюдать некоторое время за потоком сообщений.
+      Примечание: Скачивать файл-листы не обязательно, можно пользоваться поисковой
+      системой, см.ниже.
+
+      6. Файл-листы читаются простым нотепадом. Часть файл-листов и старую, но вполне
+      рабочую версию mIRC (без регистрации) можно скачать у меня с сайта: http://gypsy.bluesman.ru/mIRC/
+
+      7. Для поиска в канале можно использовать поисковую систему, которая вызывается
+      командой:
+
+      /ctcp cse !cse
+
+      У неё очень простой интерфейс и есть он-лайн хелп.
+
+      Пример:
+
+      .search Texas Flood - найти все исполнения Texas Flood у всех держателей архивов
+
+      На выходе будет строка примерно такого вида (получено прям щазз):
+
+      !buzz^ 07. stevie ray vaughan - texas flood.mp3 [8.3 MB]
+
+      !buzz^ willie nelson_milk cow blues - 15 texas flood (kenny wayne sheppard).mp3
+      [9.3 MB]
+
+      Полученные строчки, начиная с восклицательного знака, надо скопировать и отправить
+      в канал для того, чтобы скачать ЭТО.
+
+      !buzz^ willie nelson_milk cow blues - 15 texas flood (kenny wayne sheppard).mp3
+
+      Средняя скорость скачивания - 10-50 кбайт/сек, так что надо иметь терпение.
+
+      Ежели будут вопросы, то ответы и советы по работе с каналами IRC и программой
+      mIRC буду давать по мере их поступления.'
+  - id: 27469
+    parent_id: 27457
+    date: 2006-05-22 21:39
+    poster: Эльдар Музафаров
+    email: elicaster co6@ka мейл-d0t ru
+    subject: Для того что бы не открывать новую тему
+    deleted: false
+    text: 'Увидел <a href="http://bluesmatters.com/catalog/product_info.php/products_id/145?osCsid=30d90b7a873f5cf91ad1fa6545f0ac05">здесь</a>
+
+      <i>CD Opener  &#163;3.00
+
+      What a great idea?
+
+      Have you ever scratched, dented, cracked or broken a CD case while taking the
+      cellophane off?
+
+      If you have you will love these Blues Matters! CD Openers, run it across the
+      top of the CD case and the cellophane will just slide off.
+
+      This product was added to our catalog on Tuesday 16 May, 2006.</i>
+
+      Выложите ли вы 3 фунт стерлинга за эту архипалезную штуку.
+
+
+      <img src="http://bluesmatters.com/catalog/images/cdopener.jpg" align="bottom">'

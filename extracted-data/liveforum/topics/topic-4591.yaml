@@ -1,0 +1,71 @@
+topic_id: 4591
+slug: topic-4591
+title: Арутюнов вещает о Foghat
+first_post: 2011-04-26 02:28
+last_post: 2011-04-28 05:45
+post_count: 7
+posts:
+- id: 37664
+  parent_id: null
+  date: 2011-04-26 02:28
+  poster: Andrei V. Evdokimov
+  subject: Арутюнов вещает о Foghat
+  deleted: false
+  text: 'группа гремела в свое время, а ноне ее подзабыли. восстановить историческую
+    справедливость :
+
+
+    http://finam.fm/archive-view/4006/'
+  replies:
+  - id: 37668
+    parent_id: 37664
+    date: 2011-04-26 14:01
+    poster: Dmitri Kazantsev
+    subject: очень плохая группа
+    deleted: false
+    text: 'шумная и бестолковая
+
+
+      британцы-говномесы'
+    replies:
+    - id: 37670
+      parent_id: 37668
+      date: 2011-04-26 20:04
+      poster: Эльдар
+      subject: дежа ву :)))
+      deleted: false
+      text: Дим не обижайся, но так напомнил Сим Симыча Карнавалова из "Москва 2042"
+        Вл.Войновича :-D
+      replies:
+      - id: 37673
+        parent_id: 37670
+        date: 2011-04-27 00:38
+        poster: Dmitri Kazantsev
+        subject: я не в теме Войновича
+        deleted: false
+        text: но в теме группы Фогет
+    - id: 37672
+      parent_id: 37668
+      date: 2011-04-26 22:03
+      poster: Старый Майор
+      subject: Присоединяюсь к Диме
+      deleted: false
+      text: Слушать реально нечего, у них в запасе было 3-4 хард-роковых риффа, из
+        которых они умудрились настругать два десятка альбомов - ну прям как JLH =))
+  - id: 37674
+    parent_id: 37664
+    date: 2011-04-27 16:53
+    poster: grem
+    subject: байкерская группа
+    deleted: false
+    text: английская бэнд, популярный в Штатах благодаря выступлениям на байкерских
+      тусовках. Стиль примитивный блюз-буги, как раз то что нужно байкерам и их подругам.
+    replies:
+    - id: 37675
+      parent_id: 37674
+      date: 2011-04-28 05:45
+      poster: Dmitri Kazantsev
+      subject: разве блюз-буги они?
+      deleted: false
+      text: говномесы же явные. да потом ещё стали смотреть в сторону поп-металла
+        и АОРа

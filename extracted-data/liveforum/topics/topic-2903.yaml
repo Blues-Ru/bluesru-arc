@@ -1,0 +1,51 @@
+topic_id: 2903
+slug: topic-2903
+title: Хочется поздравить...
+first_post: 2005-11-03 13:55
+last_post: 2005-11-03 20:59
+post_count: 5
+posts:
+- id: 24268
+  parent_id: null
+  date: 2005-11-03 13:55
+  poster: VoV  (Barmaley)
+  email: barmaley-vov@yandex.ru
+  subject: Хочется поздравить...
+  deleted: false
+  text: Сашу Братецкого с днем рожденья! Ура!
+  replies:
+  - id: 24269
+    parent_id: 24268
+    date: 2005-11-03 13:58
+    poster: мишурис
+    email: mishuris@mail.ru
+    subject: C днем рождения, Саша!!!!!!!!!
+    deleted: false
+    replies:
+    - id: 24272
+      parent_id: 24269
+      date: 2005-11-03 14:09
+      poster: Алексей Аграновский (Док)
+      email: aaa@genebee.msu.su
+      subject: Юбиляр сегодня блистает
+      deleted: false
+      text: в одном клубе.
+  - id: 24275
+    parent_id: 24268
+    date: 2005-11-03 15:49
+    poster: Grem
+    email: grems@yandex.ru
+    subject: Как и всегда
+    deleted: false
+    text: Дуй Санек во все меха,пусть будет счастья до .... (много)
+  - id: 24284
+    parent_id: 24268
+    date: 2005-11-03 20:59
+    poster: Михаил Бирюков (nECKAPb)
+    email: blackcat@blues.ru
+    subject: мои самые искренние...
+    deleted: false
+    text: '... поздравления Александру! Он - один из ярчайших музыкантов нашей блюзовой
+      сцены!
+
+      Alexander, keep on blowin''! :)))'

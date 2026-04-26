@@ -1,0 +1,22 @@
+topic_id: 5199
+slug: topic-5199
+title: Сейчас "первом "
+first_post: 2014-10-18 01:11
+last_post: 2014-11-19 01:30
+post_count: 2
+posts:
+- id: 39238
+  parent_id: null
+  date: 2014-10-18 01:11
+  poster: Игорь Головачев
+  subject: Сейчас "первом "
+  deleted: false
+  text: Фильм "Хью Лори играет блюз". Смотрю 10 минут. Нравится.
+  replies:
+  - id: 39246
+    parent_id: 39238
+    date: 2014-11-19 01:30
+    poster: игнат дричкин
+    subject: тоже понравился.
+    deleted: false
+    text: тоже понравился.

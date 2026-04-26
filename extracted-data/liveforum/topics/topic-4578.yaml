@@ -1,0 +1,55 @@
+topic_id: 4578
+slug: topic-4578
+title: видали? :)
+first_post: 2011-04-10 00:08
+last_post: 2011-04-17 11:25
+post_count: 6
+posts:
+- id: 37626
+  parent_id: null
+  date: 2011-04-10 00:08
+  poster: Плакса
+  subject: видали? :)
+  deleted: false
+  text: http://www.youtube.com/watch?v=05pA5U-W32c
+  replies:
+  - id: 37629
+    parent_id: 37626
+    date: 2011-04-11 21:53
+    poster: Михаил Бирюков
+    subject: видали
+    deleted: false
+    text: В видео сделан такой мощный акцент на жопы танцорок, что поневоле возникает
+      впечатление, будто в притягательной силе собственно трека авторы были отнюдь
+      не уверены.
+    replies:
+    - id: 37630
+      parent_id: 37629
+      date: 2011-04-12 00:20
+      poster: Старый Майор
+      subject: Трек говно, обсуждать нечего.
+      deleted: false
+      replies:
+      - id: 37632
+        parent_id: 37630
+        date: 2011-04-12 04:54
+        poster: tavrichesky
+        subject: Olu Dara
+        deleted: false
+        text: у меня всегда вызывал подозрения.Как и Йорма Кауконен, впрочем.
+        replies:
+        - id: 37638
+          parent_id: 37632
+          date: 2011-04-15 21:40
+          poster: Muddy Lives
+          subject: Olu Dara
+          deleted: false
+          text: Очень хороший трубач
+          replies:
+          - id: 37643
+            parent_id: 37638
+            date: 2011-04-17 11:25
+            poster: tavrichesky
+            subject: Olu Dara-2
+            deleted: false
+            text: так и Стив Морс на гитаре хорошо играет. Продолжим?

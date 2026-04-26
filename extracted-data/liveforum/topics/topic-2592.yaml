@@ -1,0 +1,34 @@
+topic_id: 2592
+slug: topic-2592
+title: стильный сайтик - http://www.schkura.ru ))
+first_post: 2005-05-24 22:10
+last_post: 2005-05-26 18:05
+post_count: 3
+posts:
+- id: 21565
+  parent_id: null
+  date: 2005-05-24 22:10
+  poster: Старый майор
+  email: gypsy@mail.ru
+  subject: стильный сайтик - http://www.schkura.ru ))
+  deleted: false
+  text: Наверное, и клуб хороший? Кто был - дайте обратную связь, пожалуйста.
+  replies:
+  - id: 21566
+    parent_id: 21565
+    date: 2005-05-25 08:05
+    poster: Blutang
+    email: blutang@yandex.ru
+    subject: Обратная связь
+    deleted: false
+    text: Клуб в подвале жилого дома, поэтому работает до 23.00. Ценен не как клуб,
+      а как место, где можно послушать стильную музычку 50-60х гг. В начале июня закрывается
+      до сентября.
+    replies:
+    - id: 21578
+      parent_id: 21566
+      date: 2005-05-26 18:05
+      poster: Старый майор
+      email: gypsy@mail.ru
+      subject: Спасибо, дружище!
+      deleted: false

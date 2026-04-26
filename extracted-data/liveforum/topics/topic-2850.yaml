@@ -1,0 +1,26 @@
+topic_id: 2850
+slug: topic-2850
+title: Страя тема Bacon fat
+first_post: 2005-10-13 09:51
+last_post: 2005-10-13 13:51
+post_count: 2
+posts:
+- id: 23846
+  parent_id: null
+  date: 2005-10-13 09:51
+  poster: Огиенко Олег Валентинович
+  email: ogienkoov@nk.nornik.ru
+  subject: Страя тема Bacon fat
+  deleted: false
+  text: Сегодня получил пластинку этой группы, альбом Tough dude - 1971 (Walhalla
+    2004). Помоему все верно, это блюз (местами блюз-рок)и относить ее к другому жанру
+    я бы не стал. С уважением, О.О.В.
+  replies:
+  - id: 23858
+    parent_id: 23846
+    date: 2005-10-13 13:51
+    poster: Marat Dakota
+    email: mhobbit@mail.ru
+    subject: О!
+    deleted: false
+    text: А есть возможность её куда-нибудь выложить? Я могу открыть ftp для аплоада...

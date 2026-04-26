@@ -1,0 +1,174 @@
+topic_id: 313
+slug: topic-313
+title: Нашего полку прибыло
+first_post: 2002-09-04 04:00
+last_post: 2002-09-06 12:26
+post_count: 15
+posts:
+- id: 7339
+  parent_id: null
+  date: 2002-09-04 04:00
+  poster: Валентин
+  email: voshalb@rambler.ru
+  subject: Нашего полку прибыло
+  deleted: false
+  text: Поздравляю! Только что слышал, что выздоровевший после тяжелой болезни Крис
+    Ри обещал завязать с попсой и исполнять только госпел и блюз.Видно,проняло человека
+    (а шансов выздороветь у него было 50 на 50).
+  replies:
+  - id: 7340
+    parent_id: 7339
+    date: 2002-09-04 09:17
+    poster: Ксандр
+    email: Xander_park@yahoo.com
+    subject: chris rea
+    deleted: false
+    text: 'Совершенно случайно наткнулся на сайт. Слава богу, что люди слушают блюз.
+      Но только вот по теме готов поспорить: Крис Ри органически не способен играть
+      блюз - больной или здоровый. Это 24 carat попса...'
+    replies:
+    - id: 7344
+      parent_id: 7340
+      date: 2002-09-04 18:33
+      poster: Иван Иванов
+      email: www.geocities.com/drikasblues
+      subject: А почему и нет? Он вполне прилично играет блюз
+      deleted: false
+      text: 'На слайде и без.
+
+        Просто деньги заработал на попсу в свое времья.'
+      replies:
+      - id: 7348
+        parent_id: 7344
+        date: 2002-09-05 01:42
+        poster: Дима Казанцев (Dr. Nick)
+        email: dr.nick@blues.ru
+        subject: А где?
+        deleted: false
+        text: На каком альбоме-то? А то я вроде все слышал, но блюза там не наблюдал.
+        replies:
+        - id: 7351
+          parent_id: 7348
+          date: 2002-09-05 05:03
+          poster: Валентин
+          email: voshalb@rambler.ru
+          subject: На последнем
+          deleted: false
+          text: На последнем.Называется,кажется, Gospel and Blues.
+          replies:
+          - id: 7354
+            parent_id: 7351
+            date: 2002-09-05 11:50
+            poster: Дмитрий (fan)
+            email: leondmitr@freemail.ru
+            subject: Ха! Очень интересно.
+            deleted: false
+            text: Надо будет послушать. Вообще, мне очень нравится альбом "On The
+              Beach" (так, по-моему, он называется). Старые альбомы у меня почти все
+              есть, но после "Auberge" он мне совсем разонравился, и последующие альбомы
+              я даже не слушал.
+            replies:
+            - id: 7362
+              parent_id: 7354
+              date: 2002-09-05 16:44
+              poster: Дима Казанцев (Dr. Nick)
+              email: dr.nick@blues.ru
+              subject: У меня 4
+              deleted: false
+              text: оригинала на виниле. On The Beach - лучший по-любому. Ранние брать
+                не стал даже по 2 доллара в идеальном состоянии!
+        - id: 7355
+          parent_id: 7348
+          date: 2002-09-05 12:42
+          poster: Alexander Lokotkov
+          email: alex@fastwel.com
+          subject: Дмитрий, а как по-твоему, Tony Joe White?
+          deleted: false
+          text: "Получается у него блюз играть?;-) Или тока swamp-rock? \nВсеобщего\
+            \ восторга от его последнего альбома не разделяю."
+          replies:
+          - id: 7361
+            parent_id: 7355
+            date: 2002-09-05 16:43
+            poster: Дима Казанцев (Dr. Nick)
+            email: dr.nick@blues.ru
+            subject: Мне никак
+            deleted: false
+            text: 'Подделка какая-то. Что-то вроде Кеба Мо. Стилизация, искусственные
+              трюки на гитаре и деланный голос. Удивительно, что многие этого не слышат.
+              Попсит он тоже изрядно. Со вкусом у него тоже засада, звук на некоторых
+              альбомах просто жуткий.
+
+              Давай о чем-нибудь хорошем, а?'
+            replies:
+            - id: 7369
+              parent_id: 7361
+              date: 2002-09-06 12:26
+              poster: Дмитрий(fan)
+              email: leondmitr@freemail.ru
+              subject: Абсолютно согласен.
+              deleted: false
+        - id: 7356
+          parent_id: 7348
+          date: 2002-09-05 14:59
+          poster: Иван Иванов
+          email: www.geocities.com/drikasblues
+          subject: В Лондоне в клубе Хамерсмит-Одеон до болезни
+          deleted: false
+          text: 'Он устраивал хорошие концерты - кроме поп рока в репертуар входили
+            Дельта, Кейджун и Чикаго блюз. Мир его знает как поп-рокера а местные
+            фаны которые его знают более чем 30 лет с маленьких клубов и пабов, больше
+            его ценят за блюз.
+
+            По моему скоро появиться его новый альбом "Dancing Down The Stony Road"
+            который он записал после выздоровления и в котором (как утверждает журнал
+            "Blues Matters!") много блюза.'
+          replies:
+          - id: 7360
+            parent_id: 7356
+            date: 2002-09-05 16:41
+            poster: Дима Казанцев (Dr. Nick)
+            email: dr.nick@blues.ru
+            subject: Ну я рад за него
+            deleted: false
+            text: Мне кое-что нравится из его попсы. Пара вещей с "On The Beach".
+            replies:
+            - id: 7364
+              parent_id: 7360
+              date: 2002-09-05 18:05
+              poster: Иван Иванов
+              email: www.geocities.com/drikasblues
+              subject: Точно, голос у него приятный и Ирландско-Итальянская
+              deleted: false
+              text: 'кровь тоже помогает.
+
+                А "On The Beach" хщрошая попса.'
+              replies:
+              - id: 7367
+                parent_id: 7364
+                date: 2002-09-05 19:56
+                poster: Дима Казанцев (Dr. Nick)
+                email: dr.nick@blues.ru
+                subject: Вторая песня
+                deleted: false
+                text: уж больно хороша. Что-то типа "Little Blonde Platts". Приятная
+                  и грустная.
+                replies:
+                - id: 7368
+                  parent_id: 7367
+                  date: 2002-09-06 11:59
+                  poster: Дмитрий(fan)
+                  email: leondmitr@freemail.ru
+                  subject: Еще хороша песня
+                  deleted: false
+                  text: "\"Hello, friend\". Да и вообще альбом классный. Под Криса\
+                    \ лет двенадцать назад я проводил просто сказочные вечера со своей\
+                    \ будущей женой. Что-то на ностальгию потянуло, надо будет порыться\
+                    \ в старых бобинах и послушать, где-то она там на полке... \n\
+                    Да, еще неплохой альбомчик \"New Light Through Old Window\" года,\
+                    \ по-моему, 90-го. Где он перепел свои хиты в более ритмичном\
+                    \ стиле, в т.ч. \"On The Beach\", \"Josefie\" (возможно, в правописании\
+                    \ ошибаюсь), \"Windy Town\" и др. Помню, CD покупал на Невском\
+                    \ в \"Мелодии\" году так в 92-93м.\nХотя это конечно совсем не\
+                    \ блюз. Но до блюза я много чем увлекался. А сейчас кроме него\
+                    \ вообще ничего слушать не могу."

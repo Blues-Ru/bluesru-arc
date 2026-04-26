@@ -1,0 +1,54 @@
+topic_id: 3415
+slug: topic-3415
+title: надо бы поправить
+first_post: 2006-09-24 00:14
+last_post: 2006-10-04 18:03
+post_count: 5
+posts:
+- id: 28792
+  parent_id: null
+  date: 2006-09-24 00:14
+  poster: Dmitri Kazantsev (Dr. Nick)
+  email: dr.nick@blues.ru
+  subject: надо бы поправить
+  deleted: false
+  text: 'Петрович & Hot Rod Band Гармошка сейшн.Гости: В.Кажекин(Станция Мир), М.Владимиров(
+    Crossroadz), Jone Сорокин(Dr.Nick) - вход 500 руб
+
+
+    а то столько ошибок в одном предложении'
+  replies:
+  - id: 28882
+    parent_id: 28792
+    date: 2006-10-04 11:22
+    poster: John
+    email: lohn.su@mail.ru
+    subject: а может это фишка такая...
+    deleted: false
+    text: типа "красавчег", "зачот" и пр..
+  - id: 28883
+    parent_id: 28792
+    date: 2006-10-04 11:29
+    poster: Dmitri Kazantsev (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: может быть
+    deleted: false
+    text: но всем в итоге похуйу, так что уже и неважно
+    replies:
+    - id: 28889
+      parent_id: 28883
+      date: 2006-10-04 15:13
+      poster: Старый Майор
+      email: gypsy@mail.ru
+      subject: Пипл усйо хавает..
+      deleted: false
+      text: Наконец-то Дима стал взрослым и всё понял.
+      replies:
+      - id: 28892
+        parent_id: 28889
+        date: 2006-10-04 18:03
+        poster: Dmitri Kazantsev (Dr. Nick)
+        email: dr.nick@blues.ru
+        subject: да я всё надеялся
+        deleted: false
+        text: блин

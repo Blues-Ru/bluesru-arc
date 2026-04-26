@@ -1,0 +1,40 @@
+topic_id: 3355
+slug: topic-3355
+title: студия "Другая музыка"
+first_post: 2006-08-02 22:31
+last_post: 2006-08-03 16:13
+post_count: 4
+posts:
+- id: 28121
+  parent_id: null
+  date: 2006-08-02 22:31
+  poster: Andrey
+  email: lov-peace@yandex.ru
+  subject: студия "Другая музыка"
+  deleted: false
+  text: Люди, подскажите, пожалуйста, как можно связаться с этой студией??? Телефон
+    или точный адрес??? Очень надо!!! Жду ответа!
+  replies:
+  - id: 28122
+    parent_id: 28121
+    date: 2006-08-03 00:15
+    poster: Dima Krasivov (Dima)
+    email: dima@blues.ru
+    subject: Зачем тебе? Полный отстой студия то... :) (-)
+    deleted: false
+    replies:
+    - id: 28125
+      parent_id: 28122
+      date: 2006-08-03 13:39
+      poster: Andrey
+      email: lov-peace@yandex.ru
+      subject: Может кто-нибудь все же же подскажет?! Плиз!
+      deleted: false
+    - id: 28134
+      parent_id: 28122
+      date: 2006-08-03 16:13
+      poster: Алексей Аграновский (Док)
+      email: aaa@genebee.msu.su
+      subject: Дима, может человек
+      deleted: false
+      text: обложить хочет, зачем сбивать с мысли?

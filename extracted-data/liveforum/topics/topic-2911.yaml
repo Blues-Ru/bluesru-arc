@@ -1,0 +1,47 @@
+topic_id: 2911
+slug: topic-2911
+title: Уроки вокала
+first_post: 2005-11-09 22:00
+last_post: 2005-11-10 00:24
+post_count: 4
+posts:
+- id: 24402
+  parent_id: null
+  date: 2005-11-09 22:00
+  poster: Dima Krasivov (Dima)
+  email: dima@blues.ru
+  subject: Уроки вокала
+  deleted: false
+  text: "В начале ноября в Москву прилетает знаменитый педагог по вокалу, Маэстро\
+    \ Сэз Риггз. Его мастерство преподавателя вокала помогло стать супер-звездой таким\
+    \ исполнителям как Мадонна и Майкл Джексон, Рикки Мартин и Тина Тернер, Хулио\
+    \ Иглесиас и Барбара Стрейзанд. \n\nНе ходите к нему учиться -- он вас плохому\
+    \ научит! ;)"
+  replies:
+  - id: 24404
+    parent_id: 24402
+    date: 2005-11-09 22:47
+    poster: Marat Dakota
+    email: mhobbit@mail.ru
+    subject: Поподробнее
+    deleted: false
+    text: Можно узнать подробности? Как все это будет организовано, сколько будет
+      стоить? И не имелся ли в виду декабрь?
+    replies:
+    - id: 24405
+      parent_id: 24404
+      date: 2005-11-09 23:03
+      poster: Marat Dakota
+      email: mhobbit@mail.ru
+      subject: Тьфу
+      deleted: false
+      text: Прочитал вместо "не ходите" - "не хотите". Типа - не желаете ли научиться
+        плохому. Я вот с удовольствием бы сходил :))
+  - id: 24406
+    parent_id: 24402
+    date: 2005-11-10 00:24
+    poster: Dima Krasivov (Dima)
+    email: dima@blues.ru
+    subject: подробности
+    deleted: false
+    text: Когда кто-нибудь в форум пишет спам, я удаляю и пишу что это отстой ;)

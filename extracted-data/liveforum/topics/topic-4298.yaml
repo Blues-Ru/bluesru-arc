@@ -1,0 +1,38 @@
+topic_id: 4298
+slug: topic-4298
+title: Efes blues festival  2009.Как это будет в Турции.
+first_post: 2009-09-30 19:49
+last_post: 2009-10-19 17:30
+post_count: 4
+posts:
+- id: 36596
+  parent_id: null
+  date: 2009-09-30 19:49
+  poster: tavrichesky
+  subject: Efes blues festival  2009.Как это будет в Турции.
+  deleted: false
+  text: http://www.pozitif.info/2004/tr/festival/fest_master_program.asp?fest_master_id=97
+  replies:
+  - id: 36597
+    parent_id: 36596
+    date: 2009-10-01 04:21
+    poster: Федор Романенко
+    subject: Во, блин!!
+    deleted: false
+    text: Классно, спасибо за хорошие новости! Смешно, 10 секунд назад в письме какому-то
+      австралийскому любителю современной слайд-гитары порекомендовал послушать записи
+      Терри Эванса и Шемекии Копланд, ибо там есть слайд гитара ;) Какое совпадение...
+  - id: 36598
+    parent_id: 36596
+    date: 2009-10-01 04:26
+    poster: Федор Романенко
+    subject: Похоже, плохие новости для нас :((
+    deleted: false
+    text: У Шемекии и Терри Эванса на сайтах расписана программа Efes до 21 ноября
+      в Турции, там нет России. Похоже, из-за кризиса у нас ничего не будет :(
+  - id: 36637
+    parent_id: 36596
+    date: 2009-10-19 17:30
+    poster: Денис Покровский
+    subject: Неужели блюзфест в мск может быть убыточным?
+    deleted: false

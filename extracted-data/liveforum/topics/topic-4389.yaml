@@ -1,0 +1,86 @@
+topic_id: 4389
+slug: topic-4389
+title: Популярная блюзовая певица Людмила Соколова
+first_post: 2010-05-27 22:23
+last_post: 2010-06-05 05:49
+post_count: 9
+posts:
+- id: 36928
+  parent_id: null
+  date: 2010-05-27 22:23
+  poster: Andrei V. Evdokimov
+  subject: Популярная блюзовая певица Людмила Соколова
+  deleted: false
+  text: 'вот тут про нее пишут: <a href="http://www.newsmusic.ru/news_3_19623">http://www.newsmusic.ru/news_3_19623.htm</a>...
+    заметка, т.с., сенсационного характера.'
+  replies:
+  - id: 36929
+    parent_id: 36928
+    date: 2010-05-28 01:28
+    poster: grem
+    subject: 404 - not found
+    deleted: false
+    text: увы не удалось прочитать текста, но это никак не связано с Михаил Петровичем
+      Соколовым ?)
+    replies:
+    - id: 36930
+      parent_id: 36929
+      date: 2010-05-28 03:39
+      poster: Andrei V. Evdokimov
+      subject: кто-то заметает следы блюзовой певицы Людмилы Соколовой
+      deleted: false
+      text: никак - на этот раз Петрович не причем
+      replies:
+      - id: 36933
+        parent_id: 36930
+        date: 2010-05-28 16:53
+        poster: Алексей Аграновский
+        subject: Я знаю
+        deleted: false
+        text: Петрович - её Мать.
+        replies:
+        - id: 36934
+          parent_id: 36933
+          date: 2010-05-28 19:59
+          poster: grem
+          subject: сербы
+          deleted: false
+          text: опять сербы.)
+    - id: 36931
+      parent_id: 36929
+      date: 2010-05-28 11:49
+      poster: Эльдар
+      subject: found!!!
+      deleted: false
+      text: http://www.newsmusic.ru/news_5_19623.htm
+      replies:
+      - id: 36932
+        parent_id: 36931
+        date: 2010-05-28 13:31
+        poster: Dmitri Kazantsev
+        subject: прекрасная история!
+        deleted: false
+        text: особенно про шахида из ОАЭ
+        replies:
+        - id: 36936
+          parent_id: 36932
+          date: 2010-05-29 02:36
+          poster: Эльдар
+          subject: Блюз в ОАЭ
+          deleted: false
+          text: 'Ну, теперича мы знаем что самая популярная блюзовая певица в ОАЭ
+            это Ludmila Soko''lova
+
+            <a href="http://www.ludasokolova.com/biography.html">Утонченный вкус к
+            хорошей музыке был сформирован ее любимыми исполнителями, такими, как:
+            Tina Turner , Sade , Joe Cocker , Sting , Bryan Adams , а также многими
+            джазовыми и блюзовыми музыкантами.</a>'
+          replies:
+          - id: 36940
+            parent_id: 36936
+            date: 2010-06-05 05:49
+            poster: Эльдар
+            subject: Блюз в ОРТ
+            deleted: false
+            text: <a href="http://www.1tv.ru/anons/id=157966">Мелодрама "Мой осенний
+              блюз"</a>

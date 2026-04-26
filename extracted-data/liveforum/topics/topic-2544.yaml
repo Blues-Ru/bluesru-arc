@@ -1,0 +1,72 @@
+topic_id: 2544
+slug: topic-2544
+title: Sonny Landreth - Кто такой?
+first_post: 2005-04-25 15:18
+last_post: 2005-04-27 08:13
+post_count: 7
+posts:
+- id: 21238
+  parent_id: null
+  date: 2005-04-25 15:18
+  poster: Kiktev Sergej (Sergej)
+  email: kiktev@garant-ic.ru
+  subject: Sonny Landreth - Кто такой?
+  deleted: false
+  text: 'В буклете "Пурпурного Легиона" читал аннотацию на их диск 1995 года, в частности
+    написано, что с ним на этой пластинке играет сам Аллен Тюсо.
+
+    Слышал ли кто-нибудь? Какие впечатления?'
+  replies:
+  - id: 21239
+    parent_id: 21238
+    date: 2005-04-25 15:29
+    poster: (Grem)
+    email: grems@yandex.ru
+    subject: Хороший гитарист
+    deleted: false
+    text: 'Хороший гитарист: http://www.allmusic.com/cg/amg.dll?p=amg&sql=11:ym4uak4k5m3c~T1'
+    replies:
+    - id: 21247
+      parent_id: 21239
+      date: 2005-04-25 21:51
+      poster: Старый Майор
+      email: gypsy@mail.ru
+      subject: В закромах Родины есть пара альбомов.. ща скачаю и послушаю, потом
+        расскажу.
+      deleted: false
+    - id: 21248
+      parent_id: 21239
+      date: 2005-04-25 22:12
+      poster: Старый Майор
+      email: gypsy@mail.ru
+      subject: Пару песенок можно скачать тут...
+      deleted: false
+      text: 'http://gypsy.bluesman.ru/Sonny%20Landreth/
+
+
+        Послушал, странное впечатление.. голосок у него уж больно тонкий... кушал,
+        наверное, плохо.. однако тяжела жизнь западного блюзмена среди акул шоу-бизнеса..'
+      replies:
+      - id: 21267
+        parent_id: 21248
+        date: 2005-04-27 08:13
+        poster: Cowboy Pete
+        email: cousins@yandex.ru
+        subject: Скачал, слушаю :-))
+        deleted: false
+        text: Спасибо, очень понравилось)) А голос - вполне себе))
+  - id: 21250
+    parent_id: 21238
+    date: 2005-04-26 00:58
+    poster: Дима Казанцев (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: классный слайд-гитарист
+    deleted: false
+    text: много с кем играл. спец по блюзу и рут-року. интересен как сайдмен.
+  - id: 21254
+    parent_id: 21238
+    date: 2005-04-26 10:03
+    poster: Kiktev Sergej (Sergej)
+    email: kiktev@garant-ic.ru
+    subject: Спасибо
+    deleted: false

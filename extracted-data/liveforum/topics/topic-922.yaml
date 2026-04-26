@@ -1,0 +1,34 @@
+topic_id: 922
+slug: topic-922
+title: Lazy  Lester...
+first_post: 2002-06-21 02:11
+last_post: 2002-06-21 18:55
+post_count: 3
+posts:
+- id: 5618
+  parent_id: null
+  date: 2002-06-21 02:11
+  poster: Александр Мальчевский (Tonny)
+  email: heavyfuel@mtu-net.ru
+  subject: Lazy  Lester...
+  deleted: false
+  text: Граждане, господа и товарищи, есть у кого-нибудь пластиночки сего милого дядечки
+    Lazy Lester'a. Если есть, то поделитесь, дайте переписать, уж больно хорошо он
+    играет...
+  replies:
+  - id: 5627
+    parent_id: 5618
+    date: 2002-06-21 14:33
+    poster: MX
+    email: hchjcv
+    subject: у меня
+    deleted: false
+    text: есть,но я живу далеко...Очччень рекомендую аллигаторовский "Harp and Soul"
+  - id: 5637
+    parent_id: 5618
+    date: 2002-06-21 18:55
+    poster: Александр Мальчевский (Tonny)
+    email: heavyfuel@mtu-net.ru
+    subject: Разыскивается Lazy Lester
+    deleted: false
+    text: см выше.

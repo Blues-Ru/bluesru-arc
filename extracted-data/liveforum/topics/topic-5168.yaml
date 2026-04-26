@@ -1,0 +1,23 @@
+topic_id: 5168
+slug: topic-5168
+title: Carolina Chocolate Drops - небольшой концерт в дивном антураже
+first_post: 2014-02-15 05:23
+last_post: 2014-02-16 12:50
+post_count: 2
+posts:
+- id: 39176
+  parent_id: null
+  date: 2014-02-15 05:23
+  poster: Andrei V. Evdokimov
+  subject: Carolina Chocolate Drops - небольшой концерт в дивном антураже
+  deleted: false
+  text: <iframe width="560" height="315" src="//www.youtube.com/embed/EmPf1CJaF5s"
+    frameborder="0" allowfullscreen></iframe>
+  replies:
+  - id: 39177
+    parent_id: 39176
+    date: 2014-02-16 12:50
+    poster: Александр Сомов
+    subject: '...'
+    deleted: false
+    text: Шикарно, спасибо!

@@ -1,0 +1,37 @@
+topic_id: 4955
+slug: topic-4955
+title: Jazz-Квадрат о Mike Bloomfield
+first_post: 2012-12-03 03:07
+last_post: 2012-12-03 18:01
+post_count: 4
+posts:
+- id: 38642
+  parent_id: null
+  date: 2012-12-03 03:07
+  poster: Andrei V. Evdokimov
+  subject: Jazz-Квадрат о Mike Bloomfield
+  deleted: false
+  text: http://jazzquad.ru/index.pl?act=PRODUCT&id=2855
+  replies:
+  - id: 38643
+    parent_id: 38642
+    date: 2012-12-03 11:36
+    poster: Старый Майор
+    subject: Перепостил в сообщество ru_blues
+    deleted: false
+    text: http://ru-blues.livejournal.com/1142356.html
+    replies:
+    - id: 38644
+      parent_id: 38643
+      date: 2012-12-03 16:10
+      poster: Andrei V. Evdokimov
+      subject: лайк
+      deleted: false
+      replies:
+      - id: 38645
+        parent_id: 38644
+        date: 2012-12-03 18:01
+        poster: Старый Майор
+        subject: Ога, она самая.
+        deleted: false
+        text: <img src="http://cs416326.userapi.com/v416326886/993/FreXvw6SWsQ.jpg">

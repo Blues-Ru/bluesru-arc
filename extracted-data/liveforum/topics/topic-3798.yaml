@@ -1,0 +1,71 @@
+topic_id: 3798
+slug: topic-3798
+title: Есть ли у кого фотки с фестивая в ЦДХ?
+first_post: 2007-11-16 00:16
+last_post: 2007-11-19 08:13
+post_count: 7
+posts:
+- id: 33889
+  parent_id: null
+  date: 2007-11-16 00:16
+  poster: Леон
+  email: leonart1994@mail.ru
+  subject: Есть ли у кого фотки с фестивая в ЦДХ?
+  deleted: false
+  text: Народ, очень нужны качественные фотки, две-три, с блюзового фестиваля в ЦДХ
+    15 ноября. Пишу статью, некоммерческую, фотоматериала нет. :( Please help! leonart1994@mail.ru
+    Большое спасибо заранее.
+  replies:
+  - id: 33895
+    parent_id: 33889
+    date: 2007-11-16 10:56
+    poster: Grem
+    email: grems@yandex.ru
+    subject: Бэйкер и Ко
+    deleted: false
+    text: 'здесь фотки Бэйкера и Ко : http://dyor.livejournal.com/272407.html'
+    replies:
+    - id: 33915
+      parent_id: 33895
+      date: 2007-11-18 17:57
+      poster: Леон
+      email: leonart1994@mail.ru
+      subject: Спасибо!
+      deleted: false
+  - id: 33912
+    parent_id: 33889
+    date: 2007-11-18 13:04
+    poster: Andrei V. Evdokimov (evdokimov)
+    email: evdokimov@blues.ru
+    subject: Не ЦДХ, но его участники
+    deleted: false
+    text: 'Norwegian Blues Explosion В Доме у Дороги: <a href="http://blues.ru/bluesnews/07automn/Tinderholt/index.html">http://blues.ru/bluesnews/07automn/Tinderholt/index.html</a>
+
+      Blues Culture в БиБиКинге: <a href="http://blues.ru/bluesnews/07automn/baker/index.html">http://blues.ru/bluesnews/07automn/baker/index.html</a>'
+    replies:
+    - id: 33916
+      parent_id: 33912
+      date: 2007-11-18 18:00
+      poster: Леон
+      email: leonart1994@mail.ru
+      subject: Благодарю!
+      deleted: false
+      text: Joakim Tinderholt Express правда не выступали в ЦДХ, там из новержцев
+        был Ейрик Бергене.
+      replies:
+      - id: 33918
+        parent_id: 33916
+        date: 2007-11-19 02:01
+        poster: Andrei V. Evdokimov (evdokimov)
+        email: evdokimov@blues.ru
+        subject: елки
+        deleted: false
+        text: та же колода в другой расдаче
+  - id: 33919
+    parent_id: 33889
+    date: 2007-11-19 08:13
+    poster: mara levin
+    email: marianner@ya.ru
+    subject: 'есть немного:'
+    deleted: false
+    text: http://marianner.livejournal.com/tag/harpfest

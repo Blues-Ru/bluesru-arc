@@ -1,0 +1,84 @@
+topic_id: 4032
+slug: topic-4032
+title: моя любимая (теперь) телепередача...
+first_post: 2008-06-11 20:32
+last_post: 2008-06-16 12:44
+post_count: 8
+posts:
+- id: 35492
+  parent_id: null
+  date: 2008-06-11 20:32
+  poster: Andrei V. Evdokimov (evdokimov)
+  email: evdokimov@blues.ru
+  subject: моя любимая (теперь) телепередача...
+  deleted: false
+  text: '<a href="http://izrus.co.il/article.php?article=954">http://izrus.co.il/article.php?article=954</a>...
+
+    и в финале - клон регины дубовицкой'
+  replies:
+  - id: 35493
+    parent_id: 35492
+    date: 2008-06-11 21:20
+    poster: Старый Майор
+    email: gypsy@mail.ru
+    subject: Мдя...
+    deleted: false
+    text: '"Выросшие на таких гениях, как Би.Би.Кинг, Роберт Джонсон, Эрик Клэптон.."
+
+      Дяденьки сами возраста Эрика Клэптона, как они могли на ём вырасти, извините?'
+    replies:
+    - id: 35494
+      parent_id: 35493
+      date: 2008-06-12 01:24
+      poster: Dmitri Kazantsev (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: ну уж ты загнул
+      deleted: false
+      text: эта песня у эрика вышла в 78 году. им как раз было по 15.
+    - id: 35501
+      parent_id: 35493
+      date: 2008-06-14 03:01
+      poster: Игорь Г.
+      email: sunny_city@mail.ru
+      subject: Жисть тяжелая вот и выглядят так,
+      deleted: false
+      text: 'а вообще-то они практически юноши
+
+        trask.org.il'
+  - id: 35495
+    parent_id: 35492
+    date: 2008-06-12 01:25
+    poster: Dmitri Kazantsev (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: талса тайм :)
+    deleted: false
+    text: 'теперь буду знать, что это чёрный блюзовый шедевр :)
+
+
+      аранжировка у них слишком сложная, я её не понял до конца что-то...'
+  - id: 35497
+    parent_id: 35492
+    date: 2008-06-12 06:35
+    poster: Jumpin' Jack Flash
+    email: bjk
+    subject: муахаха!)))
+    deleted: false
+    text: пусть по-рокерски, но с драйвом все в норме. зачот не в славянскую пользу
+  - id: 35500
+    parent_id: 35492
+    date: 2008-06-14 02:54
+    poster: Игорь Г.
+    email: sunny_city@mail.ru
+    subject: Душевнeнько так
+    deleted: false
+    text: http://botinok.co.il/node/47333
+    replies:
+    - id: 35503
+      parent_id: 35500
+      date: 2008-06-16 12:44
+      poster: Игорь Головачев (Игорь Г.)
+      email: sunny_city@mail.ru
+      subject: Молодцы что ни говори, только вот
+      deleted: false
+      text: Гарольд никак не знает куда ему руки деть ;) Дали б ему гитару что ли,
+        ну мучается человек :)))  ...шучу конечно же.

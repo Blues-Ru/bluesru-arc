@@ -1,0 +1,47 @@
+topic_id: 1128
+slug: topic-1128
+title: Приколитесь!  :-)
+first_post: 2002-03-28 15:28
+last_post: 2002-03-30 00:28
+post_count: 4
+posts:
+- id: 2953
+  parent_id: null
+  date: 2002-03-28 15:28
+  poster: AlexIV
+  email: evergreens@mail.ru
+  subject: Приколитесь!  :-)
+  deleted: false
+  text: 'Смотрел тут как-то случайно MTV news. Америкосы сняли новое кино. Название
+    очень оригинальное: "Crossroads" (!) В одной из главных ролей - Бритни Спирз :-)
+    Её папу играет Дэн Эйкройд (!) И всё это, конечно, не имеет отношения ни к блюзу,
+    ни к легендарному киношедевру 1986 года. Сорри за оффтоп :-)'
+  replies:
+  - id: 2961
+    parent_id: 2953
+    date: 2002-03-28 20:25
+    poster: Андрей PRG
+    email: peregnoy@mail.ru
+    subject: А мне..
+    deleted: false
+    text: когда я месяца 4 назад искал приятелю блюзовый "Crossroads", его на Горбе
+      пытались впарить, причём аж в 3(!) точках. Но меня невозможно обмануть ;)
+    replies:
+    - id: 2971
+      parent_id: 2961
+      date: 2002-03-29 11:09
+      poster: AlexIV
+      email: evergreens@mail.ru
+      subject: месяца 4 назад?
+      deleted: false
+      text: :-)) Хорошие на MTV новости. Свежачок! :-)
+      replies:
+      - id: 3005
+        parent_id: 2971
+        date: 2002-03-30 00:28
+        poster: Андрей PRG
+        email: peregnoy@mail.ru
+        subject: Для них это
+        deleted: false
+        text: обычное дело. Всё равно все новости у них от агенства "Intermedia".
+          Разница лишь в том, что озвучиваются они с n-месячным опозданием.

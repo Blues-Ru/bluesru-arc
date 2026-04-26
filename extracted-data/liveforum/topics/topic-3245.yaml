@@ -1,0 +1,28 @@
+topic_id: 3245
+slug: topic-3245
+title: Новости на главной странице...
+first_post: 2006-05-09 01:06
+last_post: 2006-05-09 02:20
+post_count: 2
+posts:
+- id: 27284
+  parent_id: null
+  date: 2006-05-09 01:06
+  poster: Marat Dakota
+  email: mhobbit@mail.ru
+  subject: Новости на главной странице...
+  deleted: false
+  text: '"C 30 июля по 15 июня будет проходить юбилейный 40й Montreux Jazz Festival"
+
+
+    Это, конечно, замечательно, что такой хороший фестиваль затянется почти на год,
+    но слабо верится в то, что информация соответствует действительности :)'
+  replies:
+  - id: 27285
+    parent_id: 27284
+    date: 2006-05-09 02:20
+    poster: Andrei V. Evdokimov (evdokimov)
+    email: evdokimov@blues.ru
+    subject: еще приятней,
+    deleted: false
+    text: что хоть кто-то заходит не только в форум )

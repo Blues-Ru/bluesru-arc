@@ -1,0 +1,79 @@
+topic_id: 4255
+slug: topic-4255
+title: Сегодня ночью....
+first_post: 2009-07-04 19:45
+last_post: 2009-07-10 18:27
+post_count: 8
+posts:
+- id: 36452
+  parent_id: null
+  date: 2009-07-04 19:45
+  poster: Andrei V. Evdokimov
+  subject: Сегодня ночью....
+  deleted: false
+  text: 'в 02.оо, акурат по окончанию ночного концерта в ДуДе, на "Эхе М" (91,2FM)
+    - детальное продолжение истории преващения Little Charlie & the Nightcats в Rick
+    Estrin & the Nightcats. История длинная, так что продолжение будет и через неделю,
+    в ночь с субботы на воскресенье, и еще через неделю в то же время. В программе:
+    песни из каждого альбома плюс некоторые сторонние проекты. В общем, довольно нудное
+    въедливое подведение итогов.'
+  replies:
+  - id: 36453
+    parent_id: 36452
+    date: 2009-07-05 17:50
+    poster: Andrei V. Evdokimov
+    subject: P.F.
+    deleted: false
+    text: 'В довольно скверном качестве валяется тепеь тут: <a href="http://www.echo.msk.ru/programs/blues">http://www.echo.msk.ru/programs/blues</a>.'
+    replies:
+    - id: 36459
+      parent_id: 36453
+      date: 2009-07-07 10:58
+      poster: Konstantin
+      subject: Кстати, у Эстрина есть неплохой сольный проект
+      deleted: false
+      text: Без Найткэтс, альбом называется State Of Harp. В сети о нем минимум информации,
+        а ведь альбом-то хороший довольно!
+      replies:
+      - id: 36460
+        parent_id: 36459
+        date: 2009-07-07 11:07
+        poster: Konstantin
+        subject: Оговорился, альбом называется On The Harp Side
+        deleted: false
+        replies:
+        - id: 36461
+          parent_id: 36460
+          date: 2009-07-08 11:23
+          poster: Andrei V. Evdokimov
+          subject: однако
+          deleted: false
+          text: нигде в сети я не нашел упоминания об этом. Может, дадите ссылочку?
+          replies:
+          - id: 36462
+            parent_id: 36461
+            date: 2009-07-08 11:53
+            poster: Konstantin
+            subject: Вот иноформация о нем
+            deleted: false
+            text: 'Обзор
+
+              http://bushdogblues.blogspot.com/2008/09/rick-estrin.html
+
+              Чуть позже постараюсь выложить у себя в ЖЖ.'
+            replies:
+            - id: 36465
+              parent_id: 36462
+              date: 2009-07-09 13:15
+              poster: Andrei V. Evdokimov
+              subject: просьба
+              deleted: false
+              text: хотя бы пару треков в хор.качестве
+              replies:
+              - id: 36466
+                parent_id: 36465
+                date: 2009-07-10 18:27
+                poster: Konstantin
+                subject: Готово
+                deleted: false
+                text: Запостил ссылку на альбом к вам в ЖЖ.

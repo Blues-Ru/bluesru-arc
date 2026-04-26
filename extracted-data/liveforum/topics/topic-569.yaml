@@ -1,0 +1,43 @@
+topic_id: 569
+slug: topic-569
+title: Вы только посмотрите ;)
+first_post: 2003-01-14 18:13
+last_post: 2003-01-22 09:41
+post_count: 4
+posts:
+- id: 10035
+  parent_id: null
+  date: 2003-01-14 18:13
+  poster: Дима Казанцев (Казан)
+  email: dr.nick@blues.ru
+  subject: Вы только посмотрите ;)
+  deleted: false
+  text: 'http://news.bbc.co.uk/media/images/38629000/jpg/_38629685_cyprus100ap.jpg
+
+    Левана узнаете? ;)'
+  replies:
+  - id: 10039
+    parent_id: 10035
+    date: 2003-01-15 09:01
+    poster: Malcolm Ray  Redriver (Mike)
+    email: lifebythedrop@yandex.ru
+    subject: Ну...
+    deleted: false
+    text: а где это?
+    replies:
+    - id: 10041
+      parent_id: 10039
+      date: 2003-01-15 10:36
+      poster: Serge Sklyaroff (tigra)
+      email: bluesman@tut.by
+      subject: это
+      deleted: false
+      text: на турецкой части Кипра
+      replies:
+      - id: 10215
+        parent_id: 10041
+        date: 2003-01-22 09:41
+        poster: Malcolm Ray  Redriver (Mike)
+        email: lifebythedrop@yandex.ru
+        subject: Ништяк
+        deleted: false

@@ -1,0 +1,73 @@
+topic_id: 94
+slug: topic-94
+title: вчерашняя БЛЮЗОЛОГИЯ
+first_post: 2002-03-07 09:35
+last_post: 2002-03-08 02:23
+post_count: 6
+posts:
+- id: 1940
+  parent_id: null
+  date: 2002-03-07 09:35
+  poster: Сергей Иванов (serge_ivanov)
+  email: serge_ivanov@hotmail.com
+  subject: вчерашняя БЛЮЗОЛОГИЯ
+  deleted: false
+  text: 'Как вам блюзовые импровизации на тему Beatles? В Блюзологии крутили "The
+    Blues White Album" -
+
+    http://www.telarc.com/gscripts/title.asp?gsku=3553&mscssid=HP7HW9QD6HSR2P270G05AFURQNJV5QD1
+
+    Как народ считает, это профанация или хороший музыкант может и из "Yesterday"
+    блюз сделать?'
+  replies:
+  - id: 1941
+    parent_id: 1940
+    date: 2002-03-07 09:52
+    poster: Дима   (Казанцев)
+    email: dr.nick@blues.ru
+    subject: Может и получится
+    deleted: false
+    text: 'С Роллингами получилось вроде.
+
+      Главное чтобы Битлз не изуродовали, а блюза все равно не выйдет, но прикольно.'
+    replies:
+    - id: 1945
+      parent_id: 1941
+      date: 2002-03-07 11:45
+      poster: V.Tsubin (VOVAN)
+      email: vts13@hotmail.com
+      subject: Во всяком случае послушать стоит
+      deleted: false
+      text: Судя по 30-сек. фрагментам на cd.now,довольно любопытно,и народ там серьезный
+        присутствует.Хотя роллинги вроде к блюзу поближе,а там облади-облада:-)
+  - id: 1953
+    parent_id: 1940
+    date: 2002-03-07 14:40
+    poster: Михаил Бирюков (nECKAPb)
+    email: blackcat@blues.ru
+    subject: вообще-то
+    deleted: false
+    text: Естердей и сама по себе неплохая песня, написанная небездарным автором ;)
+    replies:
+    - id: 1956
+      parent_id: 1953
+      date: 2002-03-07 15:14
+      poster: Сергей Иванов (serge_ivanov)
+      email: serge_ivanov@hotmail.com
+      subject: кто спорит...
+      deleted: false
+      text: Да и другие песни записанные на этом диске, к примеру While My Guitar
+        Gently Weeps - тоже
+  - id: 1964
+    parent_id: 1940
+    date: 2002-03-08 02:23
+    poster: Вадим  (AVA)
+    email: vad2908@mail.ru
+    subject: '...Beatles и Blues...'
+    deleted: false
+    text: '...Если у кого есть возможмость послушать The Beatles "Unplugged" (P)1968...(это
+      акустический вариант Белого Альбома), то там, на домашних записях Битлз влияние
+      блюза прослеживается очень и очень явно, даже в таких темах, как Back in USSR,
+      блюзовые рифы слышны "невооруженным ухом"....
+
+      Вадим.'

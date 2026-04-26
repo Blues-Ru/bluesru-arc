@@ -1,0 +1,65 @@
+topic_id: 842
+slug: topic-842
+title: '- Bluezoology Vol. III -'
+first_post: 2003-05-13 14:33
+last_post: 2003-05-14 11:30
+post_count: 6
+posts:
+- id: 12450
+  parent_id: null
+  date: 2003-05-13 14:33
+  poster: Алексей Аграновский (Док)
+  email: aaa@genebee.msu.su
+  subject: '- Bluezoology Vol. III -'
+  deleted: false
+  text: "Очередная акция в защиту диких животных - Bluezoology Vol. III - \nсостоится\
+    \ в Московском зоопарке в субботу 24 мая (19:00). Адрес: Баррикадная 4А, идти\
+    \ от м. Баррикадной, пройти вход в зоопарк, искать железные ворота между ларьками\
+    \ с надписью \"4\". В глубине двора - 4А, подняться в детский театр \"Тик-Так\"\
+    ."
+  replies:
+  - id: 12451
+    parent_id: 12450
+    date: 2003-05-13 14:45
+    poster: Yuri Kaverkin (Gekko)
+    email: kaverkin@rol.ru
+    subject: 'Уточнение!!!! Адрес: ул. КРАСНАЯ ПРЕСНЯ дом 4а!!!'
+    deleted: false
+    replies:
+    - id: 12453
+      parent_id: 12451
+      date: 2003-05-13 15:18
+      poster: Алексей Аграновский (Док)
+      email: aaa@genebee.msu.su
+      subject: Заколдованное место, право, как у Гоголя.
+      deleted: false
+      text: Вроде и карту посмотрел, и Пресню видел, а написал, как и в прошлом году,
+        Баррикадную...
+      replies:
+      - id: 12463
+        parent_id: 12453
+        date: 2003-05-14 00:58
+        poster: Александр Мальчевский (Tonny)
+        email: heavyfuel@mtu-net.ru
+        subject: Главное, что не как у Булгакова
+        deleted: false
+        text: :):):):):)
+  - id: 12461
+    parent_id: 12450
+    date: 2003-05-13 22:08
+    poster: Андрей Ордальонов (Андрей PRG)
+    email: peregnoy@mail.ru
+    subject: То есть 24-го, а не 17-го, как
+    deleted: false
+    text: предварительно сообщалось ранее. Так?
+    replies:
+    - id: 12466
+      parent_id: 12461
+      date: 2003-05-14 11:30
+      poster: Алексей Аграновский (Док)
+      email: aaa@genebee.msu.su
+      subject: Sic! Tik!
+      deleted: false
+      text: 'Так!
+
+        24-го, точно.'

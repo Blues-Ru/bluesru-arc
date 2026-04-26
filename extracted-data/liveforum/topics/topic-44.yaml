@@ -1,0 +1,44 @@
+topic_id: 44
+slug: topic-44
+title: Ветка удалена
+first_post: 2002-02-07 12:59
+last_post: 2002-02-07 15:34
+post_count: 4
+posts:
+- id: 815
+  parent_id: null
+  date: 2002-02-07 12:59
+  poster: Федор Романенко (moderator)
+  email: fedor@blues.ru
+  subject: Ветка удалена
+  deleted: false
+  text: А то уж как-то совсем неприлично вышло, ай-ай-ай!
+  replies:
+  - id: 842
+    parent_id: 815
+    date: 2002-02-07 14:55
+    poster: Sergei  Kiritchenko (VoID)
+    email: skvoid@yahoo.com
+    subject: это чего же там неприличного было-то...
+    deleted: false
+    text: всего одно слово?! и вроде не особенно гадкое.. (или я чего-то пропустил
+      :) ). Но ведь правильно все было написано!
+    replies:
+    - id: 846
+      parent_id: 842
+      date: 2002-02-07 15:24
+      poster: Федор Романенко (fedor)
+      email: fedor@blues.ru
+      subject: Пропустил...
+      deleted: false
+      text: '... и слава Богу, дело зашло дальше Диброва.'
+      replies:
+      - id: 847
+        parent_id: 846
+        date: 2002-02-07 15:34
+        poster: Sergei  Kiritchenko (VoID)
+        email: skvoid@yahoo.com
+        subject: надо было оставить начало ветки ;)
+        deleted: false
+        text: пущай бы сабж сам почитал (а  вдруг), а то ему без "обратной связи"
+          тяжко небось - на концерты живые то он врядли решится :)

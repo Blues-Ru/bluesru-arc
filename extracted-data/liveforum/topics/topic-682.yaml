@@ -1,0 +1,53 @@
+topic_id: 682
+slug: topic-682
+title: А куда делся фрокен Брокк????
+first_post: 2003-03-18 19:29
+last_post: 2003-03-26 20:08
+post_count: 6
+posts:
+- id: 11052
+  parent_id: null
+  date: 2003-03-18 19:29
+  poster: Юрий Каверкин
+  email: kaverkin@rol.ru
+  subject: А куда делся фрокен Брокк????
+  deleted: false
+  replies:
+  - id: 11056
+    parent_id: 11052
+    date: 2003-03-19 00:02
+    poster: Фреккен Бок
+    email: FBokk@mail.ru
+    subject: Тута я, дорогой
+    deleted: false
+    text: Тоскуешь по мне, мой Кинг Каверов? ;)
+  - id: 11069
+    parent_id: 11052
+    date: 2003-03-20 14:22
+    poster: Andrei V. Evdokimov (evdokimov)
+    email: evdokimov@blues.ru
+    subject: :) весною ль думать об осенних свадьбах? (-)
+    deleted: false
+    replies:
+    - id: 11072
+      parent_id: 11069
+      date: 2003-03-20 15:19
+      poster: Юрий Каверкин
+      email: kaverkin@rol.ru
+      subject: Придет ревнивеца и твой черед.... Взалкав любви ...(дальше не придумал)
+      deleted: false
+      replies:
+      - id: 11073
+        parent_id: 11072
+        date: 2003-03-20 15:21
+        poster: Юрий Каверкин
+        email: kaverkin@rol.ru
+        subject: Sorry  -"ревнивица"
+        deleted: false
+      - id: 11245
+        parent_id: 11072
+        date: 2003-03-26 20:08
+        poster: Старый Майор
+        email: gypsy@mail.ru
+        subject: 'Вариант: Взалкав любви, копаю огород.'
+        deleted: false

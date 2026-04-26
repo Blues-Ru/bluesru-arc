@@ -1,0 +1,24 @@
+topic_id: 3873
+slug: topic-3873
+title: наповал!
+first_post: 2008-01-21 12:58
+last_post: 2008-01-21 17:31
+post_count: 2
+posts:
+- id: 34347
+  parent_id: null
+  date: 2008-01-21 12:58
+  poster: Andrei V. Evdokimov (evdokimov)
+  email: evdokimov@blues.ru
+  subject: наповал!
+  deleted: false
+  text: <a href="http://www.amazon.com/gp/mpd/permalink/m2ZPJD2R4LR8W8:mP3KSLKVOYJK3">http://www.amazon.com/gp/mpd/permalink/m2ZPJD2R4LR8W8:mP3KSLKVOYJK3</a>
+  replies:
+  - id: 34354
+    parent_id: 34347
+    date: 2008-01-21 17:31
+    poster: Dmitri Kazantsev (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: супер!
+    deleted: false
+    text: в южный рок подался

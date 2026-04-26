@@ -1,0 +1,113 @@
+topic_id: 1509
+slug: topic-1509
+title: наш доктор Аграновский серьезно приболел
+first_post: 2003-10-08 23:39
+last_post: 2003-10-13 13:33
+post_count: 12
+posts:
+- id: 15008
+  parent_id: null
+  date: 2003-10-08 23:39
+  poster: Andrei V. Evdokimov (evdokimov)
+  email: evdokimov@blues.ru
+  subject: наш доктор Аграновский серьезно приболел
+  deleted: false
+  text: 'гипертонический криз, однако.
+
+    Blues Spinners приглашают завтра в Сколдер-Блюз-Кафе, но без участия доктора.'
+  replies:
+  - id: 15009
+    parent_id: 15008
+    date: 2003-10-09 00:12
+    poster: Greta
+    email: morehemp
+    subject: насколько серьезно?
+    deleted: false
+    text: он в больнице?
+  - id: 15011
+    parent_id: 15008
+    date: 2003-10-09 02:36
+    poster: Михаил Бирюков (nECKAPb)
+    email: blackcat@blues.ru
+    subject: ну ёё...
+    deleted: false
+    text: Не имея непосредственного прямого канала связи, прошу, Андрей, если это
+      только возможно, передать Алексею самые настоятельные пожелания скорейшего выздоровления.
+      Заранее спасибо!
+  - id: 15013
+    parent_id: 15008
+    date: 2003-10-09 16:20
+    poster: Yuri Kaverkin (Gekko)
+    email: kaverkin@rol.ru
+    subject: Все будет нормально.... Док крепкий парень!
+    deleted: false
+  - id: 15015
+    parent_id: 15008
+    date: 2003-10-09 18:41
+    poster: Юрий Кривошеин (YuK)
+    email: scolderblues@yahoo.com
+    subject: Скорейшего выздоровления!
+    deleted: false
+    text: 'Доктору большой привет! Уверены, что всё будет хорошо!
+
+
+      По поводу завтра (пятницы), тут какя-то ошибка - в кафе Scolder Blues выступает
+      коллектив "Петрович & Bluesmakers". Ждём вас!'
+    replies:
+    - id: 15016
+      parent_id: 15015
+      date: 2003-10-09 23:36
+      poster: Andrei V. Evdokimov (evdokimov)
+      email: evdokimov@blues.ru
+      subject: за ошибку - сорри, что-то я перепутал
+      deleted: false
+      text: а сведений о доке, видимо, следует ждать от "Юрия". мобила у дока отключена.
+  - id: 15017
+    parent_id: 15008
+    date: 2003-10-10 09:22
+    poster: AlexIV
+    email: evergreens@mail.ru
+    subject: Док, поправляйся!
+    deleted: false
+    text: '...и возвращайся полон сил и бодрости духа!'
+  - id: 15018
+    parent_id: 15008
+    date: 2003-10-10 10:19
+    poster: Александр Мальчевский (Tonny)
+    email: heavyfuel@mtu-net.ru
+    subject: Скорейшего выздоровления....
+    deleted: false
+  - id: 15020
+    parent_id: 15008
+    date: 2003-10-10 13:10
+    poster: Игорь Головачев (Игорь Г.)
+    email: sunny_city@mail.ru
+    subject: Хворать в наше время непозволительная роскошь
+    deleted: false
+    text: так что поправляйся-ка,Док,скорее.
+    replies:
+    - id: 15021
+      parent_id: 15020
+      date: 2003-10-10 13:34
+      poster: Игорь Головачев (Игорь Г.)
+      email: sunny_city@mail.ru
+      subject: Док сегодня вечером уже будет дома. Так что все более-менее в порядке.
+      deleted: false
+      replies:
+      - id: 15022
+        parent_id: 15021
+        date: 2003-10-10 15:18
+        poster: Dr. Ika
+        email: ivanoff@blueskaput.com
+        subject: Доктору болеть низзззя !
+        deleted: false
+        text: Скорейщего Выздоровления Ал.
+        replies:
+        - id: 15025
+          parent_id: 15022
+          date: 2003-10-13 13:33
+          poster: Алексей Аграновский (Док)
+          email: aaa@genebee.msu.su
+          subject: НЕ ДОЖДЕТЕТЕСЬ!
+          deleted: false
+          text: Рабинович

@@ -1,0 +1,24 @@
+topic_id: 696
+slug: topic-696
+title: А куда пропали Ragtime?
+first_post: 2003-03-26 11:18
+last_post: 2003-03-26 11:55
+post_count: 2
+posts:
+- id: 11208
+  parent_id: null
+  date: 2003-03-26 11:18
+  poster: Alexey B.i Ilyichev
+  email: alex_z77@mail.ru
+  subject: А куда пропали Ragtime?
+  deleted: false
+  text: Их в афише давно не было видно и в ЦДХ их не будет... :-\
+  replies:
+  - id: 11212
+    parent_id: 11208
+    date: 2003-03-26 11:55
+    poster: Федор Романенко (fedor)
+    email: fedor@blues.ru
+    subject: Регтайм
+    deleted: false
+    text: Приедут на гастроли в конце мая...

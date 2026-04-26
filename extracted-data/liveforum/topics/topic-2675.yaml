@@ -1,0 +1,44 @@
+topic_id: 2675
+slug: topic-2675
+title: John Mayall. "Chicago Line" и "A Hard Road" нужны тексты
+first_post: 2005-07-31 15:41
+last_post: 2005-08-01 23:14
+post_count: 4
+posts:
+- id: 22141
+  parent_id: null
+  date: 2005-07-31 15:41
+  poster: Elicaster
+  email: elicaster(@)))mmmmmmmmmmail.ru
+  subject: John Mayall. "Chicago Line" и "A Hard Road" нужны тексты
+  deleted: false
+  text: 'Помогите найти тексты John Mayall''а "Chicago Line" и "A Hard Road".
+
+    Что-то не смог найти с помощью поисковиков :-(
+
+    Очень нужно нашему товарищу.'
+  replies:
+  - id: 22142
+    parent_id: 22141
+    date: 2005-07-31 20:00
+    poster: Диброва (Dibrova)
+    email: dibrova_blues@rambler.ru
+    subject: есть только это-"Chicago Line"
+    deleted: false
+    text: http://www.harmonica.ru/catalogs/melody/melody_439/
+    replies:
+    - id: 22143
+      parent_id: 22142
+      date: 2005-07-31 20:23
+      poster: Elicaster
+      email: elicaster(@))mmmmmmmmmail.ru
+      subject: О! Спасибо!
+      deleted: false
+  - id: 22170
+    parent_id: 22141
+    date: 2005-08-01 23:14
+    poster: Elicaster
+    email: elicaster(((@)))mmmmmmmmmmail.ru
+    subject: Ну, ещё бы и текст A Hard Road
+    deleted: false
+    text: был бы весьма благодарен

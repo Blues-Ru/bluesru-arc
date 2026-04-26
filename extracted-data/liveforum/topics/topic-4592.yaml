@@ -1,0 +1,21 @@
+topic_id: 4592
+slug: topic-4592
+title: ЮрИваныча с Днем Рождения!
+first_post: 2011-04-26 10:27
+last_post: 2011-04-26 13:26
+post_count: 2
+posts:
+- id: 37666
+  parent_id: null
+  date: 2011-04-26 10:27
+  poster: grem
+  subject: ЮрИваныча с Днем Рождения!
+  deleted: false
+  replies:
+  - id: 37667
+    parent_id: 37666
+    date: 2011-04-26 13:26
+    poster: Юрий Костин
+    subject: ЮрИваныча с Днем Рождения
+    deleted: false
+    text: Спасибо! Жду в гости сегодня! Сбор в 19.30

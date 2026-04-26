@@ -1,0 +1,76 @@
+topic_id: 959
+slug: topic-959
+title: Завтрашний джем in Би-Би
+first_post: 2002-06-25 19:23
+last_post: 2002-06-27 18:06
+post_count: 7
+posts:
+- id: 5732
+  parent_id: null
+  date: 2002-06-25 19:23
+  poster: Андрей PRG
+  email: peregnoy@mail.ru
+  subject: Завтрашний джем in Би-Би
+  deleted: false
+  text: "Граждане блюзрульствующие! \n\n1. Будет ли кто-нибудь из присутствующих здесь\
+    \ завтра на OJ with Old Men's Blues Band или сие мероприятие изначально отстойно?\n\
+    \n2. Соответствует ли персональный и инструментальный состав группы указанному\
+    \ здесь http://www.blues.ru/rblues/Old_Mens_Blues_Band/ ?"
+  replies:
+  - id: 5735
+    parent_id: 5732
+    date: 2002-06-25 19:27
+    poster: Александр Мальчевский (Tonny)
+    email: heavyfuel@mtu-net.ru
+    subject: Я может зайду
+    deleted: false
+    text: но играть не буду, просто послущаю, скорее всего...Гитарки-то пока нет,
+      вернее есть, но за ней пилить надо.
+  - id: 5738
+    parent_id: 5732
+    date: 2002-06-25 21:05
+    poster: Андрей Цыганков
+    email: gypsy@mail.ru
+    subject: Мы, традиционные завсегдатаи, не пропускаем ни одного джема...
+    deleted: false
+    text: '...поживем-увидим, что за Старый Мужицкий Блюз-Бэнд такой, и не таких видали
+      )))'
+    replies:
+    - id: 5743
+      parent_id: 5738
+      date: 2002-06-25 23:03
+      poster: Андрей PRG
+      email: peregnoy@mail.ru
+      subject: На CD "The Night Blues Festival" 1996 года
+      deleted: false
+      text: BB-то, может, был и старо-мужицкий, но вокал-то был вполне молодо-женский
+        ;)
+      replies:
+      - id: 5744
+        parent_id: 5743
+        date: 2002-06-25 23:30
+        poster: Федор Романенко (fedor)
+        email: fedor@blues.ru
+        subject: Вермишель....
+        deleted: false
+        text: Так она давно уже обратно в америке, так что этой тетки там не будет,
+          судя по всему.
+        replies:
+        - id: 5745
+          parent_id: 5744
+          date: 2002-06-25 23:32
+          poster: Андрей PRG
+          email: peregnoy@mail.ru
+          subject: Вот и мне так казалось :(
+          deleted: false
+          text: А кто же там, собственно, тогда ... гм... "вокализирует", да, и вообще
+            кто играет?
+    - id: 5766
+      parent_id: 5738
+      date: 2002-06-27 18:06
+      poster: AlexIV
+      email: evergreens@mail.ru
+      subject: Ну что, традиционные завсегдатаи?! С вас отчет о теперь уже прошедшем
+        мероприятии! ;-)
+      deleted: false
+      text: Только не здесь, а в новой теме, пожалуйста... :-)

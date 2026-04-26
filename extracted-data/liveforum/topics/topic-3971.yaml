@@ -1,0 +1,89 @@
+topic_id: 3971
+slug: topic-3971
+title: сегодня ДР Маккинли Морганфилда!
+first_post: 2008-04-04 00:29
+last_post: 2008-04-04 23:38
+post_count: 9
+posts:
+- id: 35200
+  parent_id: null
+  date: 2008-04-04 00:29
+  poster: Dmitri Kazantsev (Dr. Nick)
+  email: dr.nick@blues.ru
+  subject: сегодня ДР Маккинли Морганфилда!
+  deleted: false
+  text: ура!
+  replies:
+  - id: 35207
+    parent_id: 35200
+    date: 2008-04-04 12:42
+    poster: Юрий Каверкин (Gekko)
+    email: strophurus@yandex.ru
+    subject: Уууууууууррррррррррааааааааа!!!!!!!!!
+    deleted: false
+    replies:
+    - id: 35208
+      parent_id: 35207
+      date: 2008-04-04 12:52
+      poster: Jumpin' Jack Flash
+      email: fjjvjgj
+      subject: ура-ура-ура!!!!!!!!))
+      deleted: false
+  - id: 35209
+    parent_id: 35200
+    date: 2008-04-04 12:57
+    poster: Blues Man
+    email: bluesman@yandex.ru
+    subject: спасиба, что напомнил!!!
+    deleted: false
+    text: пашол я пакупать напитки!!!!
+    replies:
+    - id: 35212
+      parent_id: 35209
+      date: 2008-04-04 13:26
+      poster: Старый Майор
+      email: gypsy@mail.ru
+      subject: Употребляя напитки, надо регулярно...
+      deleted: false
+      text: ..после каждых 5-6 рюмок пытаться выговорить "Маккинли Морганфилд, Морганфилд
+        Маккинли". Когда вместо этого начнут получаться одни "хучи-кучи", а также
+        "ай эм э мэн", значит, праздник удался!
+  - id: 35213
+    parent_id: 35200
+    date: 2008-04-04 15:05
+    poster: Muddy Lives
+    email: mlives_6@hotmail.com
+    subject: 93 года тому назад...
+    deleted: false
+    text: Родился один великий boy-child-son-of-a-gun.
+    replies:
+    - id: 35217
+      parent_id: 35213
+      date: 2008-04-04 16:14
+      poster: Dmitri Kazantsev (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: великий блюзовый казах!
+      deleted: false
+      replies:
+      - id: 35218
+        parent_id: 35217
+        date: 2008-04-04 21:55
+        poster: Эльдар
+        email: Эльдар
+        subject: то бишь "акын" (по-тамошнему)
+        deleted: false
+        text: 'Акын добившыйся больших творческих узбеков.
+
+          Я ведь написал "добившыйся", а не "дo6ивший"...'
+  - id: 35223
+    parent_id: 35200
+    date: 2008-04-04 23:38
+    poster: К.Узник
+    email: nickk@newmail.ru
+    subject: ммать!..
+    deleted: false
+    text: '..я узнал об этом уже после 23.00.. Вам, может, и непонятно - но в Питере
+      в это время напитки уже не продают..
+
+
+      Что шокировало - и Гэри Мур (чур меня) родился в этот же день..'

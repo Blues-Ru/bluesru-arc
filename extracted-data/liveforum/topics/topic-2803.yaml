@@ -1,0 +1,66 @@
+topic_id: 2803
+slug: topic-2803
+title: Братья Блюз на канале Россия
+first_post: 2005-09-20 21:48
+last_post: 2005-09-22 16:38
+post_count: 4
+posts:
+- id: 23344
+  parent_id: null
+  date: 2005-09-20 21:48
+  poster: Elicaster
+  email: e@m.ru
+  subject: Братья Блюз на канале Россия
+  deleted: false
+  text: 'Сейчас по ящику идет ББ.
+
+    А нет ли у кого трек-листа песен звучащих в фильме? Очень интересны некоторые
+    песни.
+
+    И ещё: нет ли у кого полного текста этого фильма, как бы сценарий его? Мне как-то
+    попадались такие: все диалоги в фильмах, описание происходящего... Мне кажется
+    что некоторые моменты переведены на русский не корректно, неясно. естественно,
+    надо на английском.'
+  replies:
+  - id: 23345
+    parent_id: 23344
+    date: 2005-09-20 22:10
+    poster: Konstantin Kalugin
+    email: web@constant.net.ru
+    subject: У меня есть сценарий в pdf
+    deleted: false
+    text: Пиши в мыло - пришлю. Есть и само кино на английской, русском. По почте
+      слать не буду точно ;-) Но выложить могу куда-нить.
+    replies:
+    - id: 23359
+      parent_id: 23345
+      date: 2005-09-22 00:08
+      poster: Elicaster
+      email: elicaster(@))mmmmmmmmmail.ru
+      subject: Спасибо! То что надо.
+      deleted: false
+      text: 'Спасибо! То что надо.
+
+        Прикол:
+
+        В фильме после Everybody Needs Somebody to Love и перед началом Sweet Home
+        Chicago Джэйк говорит:
+
+        Thank you. That was for Wilson Picket. This is dedicated to the late great
+        magic sound.
+
+        А по телику был перевод:
+
+        Это была песня Уилсона Пикета. А следующая посвящена Великому Волшебному Сэму.
+
+        Пачему Сэму?
+
+        :-)'
+      replies:
+      - id: 23374
+        parent_id: 23359
+        date: 2005-09-22 16:38
+        poster: Konstantin Kalugin
+        email: web@constant.net.ru
+        subject: Там много таких "приколов"
+        deleted: false

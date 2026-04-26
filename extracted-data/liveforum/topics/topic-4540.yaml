@@ -1,0 +1,36 @@
+topic_id: 4540
+slug: topic-4540
+title: Вести из Иркутска
+first_post: 2011-03-01 21:40
+last_post: 2011-03-02 15:35
+post_count: 3
+posts:
+- id: 37379
+  parent_id: null
+  date: 2011-03-01 21:40
+  poster: Andrei V. Evdokimov
+  subject: Вести из Иркутска
+  deleted: false
+  text: "13 марта: Блюз. Концерт солистов филармонии из цикла «Страсти по жанру» \n\
+    памяти Гэри Мура В программе произведения Д.Гершвина - http://www.filarmoniya.irk.ru/\n\
+    \n<div align=\"center\"><img src=\"/bluesnews/11A/13III.jpg\" width=\"250\" height=\"\
+    267\" alt=\"\" title=\"\" border=\"0\" align=\"\" /></div>"
+  replies:
+  - id: 37380
+    parent_id: 37379
+    date: 2011-03-01 23:34
+    poster: Andrei V. Evdokimov
+    subject: а так?
+    deleted: false
+    text: http://www.filarmoniya.irk.ru/af/03.11/13.gif
+    replies:
+    - id: 37388
+      parent_id: 37380
+      date: 2011-03-02 15:35
+      poster: Dmitri Kazantsev
+      subject: адок
+      deleted: false
+      text: 'такой ад, да
+
+
+        гари мур и гершвин - сильная параллель'

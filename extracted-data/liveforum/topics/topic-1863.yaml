@@ -1,0 +1,32 @@
+topic_id: 1863
+slug: topic-1863
+title: Володя Кораблин, с днём рождения тебя! :)
+first_post: 2004-02-13 00:39
+last_post: 2004-02-13 09:13
+post_count: 3
+posts:
+- id: 17234
+  parent_id: null
+  date: 2004-02-13 00:39
+  poster: Андрей Ордальонов (Андрей PRG)
+  email: peregnoy@mail.ru
+  subject: Володя Кораблин, с днём рождения тебя! :)
+  deleted: false
+  replies:
+  - id: 17236
+    parent_id: 17234
+    date: 2004-02-13 08:22
+    poster: илья верховский
+    email: ilyav@aport2000.ru
+    subject: с днём рожд.! ханты-мансийских шишек)))
+    deleted: false
+    text: "искренне присоединяюсь!..\n\n\nАкустики, архаики, кайфа и драйва...\n\n\
+      Элмора Джеймса и Эбби Валлерстайна..\n\nхороших с Сашей Братецким игр\n\n и\
+      \ быть драйвовым аки тигр!)))))\n\nсчастливо отметить....\n\nив"
+  - id: 17237
+    parent_id: 17234
+    date: 2004-02-13 09:13
+    poster: (Grem)
+    email: sergei.sergeev@emersonprocess.ru
+    subject: Большому Кораблю - Большого плаванья по бескрайним просторам блюза...
+    deleted: false

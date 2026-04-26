@@ -1,0 +1,23 @@
+topic_id: 640
+slug: topic-640
+title: Никто не знает, как можно связаться с Петром Маевским?
+first_post: 2003-02-27 00:40
+last_post: 2003-02-27 14:16
+post_count: 2
+posts:
+- id: 10672
+  parent_id: null
+  date: 2003-02-27 00:40
+  poster: Жук
+  email: psihu@pisem.net
+  subject: Никто не знает, как можно связаться с Петром Маевским?
+  deleted: false
+  text: "Скиньте мне на мыло, пожалуйста. \nЯ к нему с добром сугубо"
+  replies:
+  - id: 10676
+    parent_id: 10672
+    date: 2003-02-27 14:16
+    poster: Жук
+    email: psihu@pisem.net
+    subject: Всё, спасибо Блэки!
+    deleted: false

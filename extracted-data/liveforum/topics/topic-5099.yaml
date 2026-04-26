@@ -1,0 +1,49 @@
+topic_id: 5099
+slug: topic-5099
+title: день рыбака
+first_post: 2013-07-17 08:42
+last_post: 2013-07-23 10:46
+post_count: 5
+posts:
+- id: 39036
+  parent_id: null
+  date: 2013-07-17 08:42
+  poster: burnus
+  subject: день рыбака
+  deleted: false
+  text: http://www.youtube.com/watch?v=pvucEGJBvLo&list=UU8ZO7svuG5NhI_dLgB3LdgA&feature=player_embedded    14.07.13
+    в Дмитрове
+  replies:
+  - id: 39037
+    parent_id: 39036
+    date: 2013-07-17 11:33
+    poster: Andrei V. Evdokimov
+    subject: Блеск!
+    deleted: false
+  - id: 39043
+    parent_id: 39036
+    date: 2013-07-22 10:00
+    poster: Егор Метлин
+    subject: В Дмитрове?!
+    deleted: false
+    text: В Дмитрове?! Рад приветствовать настоящего блюзмена-земляка! =)
+    replies:
+    - id: 39045
+      parent_id: 39043
+      date: 2013-07-22 12:25
+      poster: burnus
+      subject: подосинки
+      deleted: false
+      text: заходи в гости matzko@km.ru
+      replies:
+      - id: 39047
+        parent_id: 39045
+        date: 2013-07-23 10:46
+        poster: Егор Метлин
+        subject: Ну эт тоже недалеко)
+        deleted: false
+        text: 'ОК, спасибо за приглашение :)
+
+          Правда, меня в ближайший месяц в России почти не будет - отпуск :)
+
+          Если что, вот мой: yegor_2000@mail.ru'

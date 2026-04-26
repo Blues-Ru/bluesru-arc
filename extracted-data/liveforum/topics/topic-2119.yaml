@@ -1,0 +1,40 @@
+topic_id: 2119
+slug: topic-2119
+title: А тут так тихо-незаметно Юре Кривошеину 30 стукнул.. поздравляем!
+first_post: 2004-05-26 22:58
+last_post: 2004-05-28 15:10
+post_count: 4
+posts:
+- id: 18564
+  parent_id: null
+  date: 2004-05-26 22:58
+  poster: Старый Майор
+  email: gypsy@mail.ru
+  subject: А тут так тихо-незаметно Юре Кривошеину 30 стукнул.. поздравляем!
+  deleted: false
+  replies:
+  - id: 18570
+    parent_id: 18564
+    date: 2004-05-27 00:00
+    poster: Андрей Ордальонов (Андрей PRG)
+    email: peregnoy@mail.ru
+    subject: Ну, дык поздравляю,
+    deleted: false
+    text: стало быть! :)))
+  - id: 18588
+    parent_id: 18564
+    date: 2004-05-28 10:07
+    poster: Юрий Кривошеин (YuK)
+    email: scolderblues@yahoo.com
+    subject: Огромное спасибо!!!
+    deleted: false
+  - id: 18591
+    parent_id: 18564
+    date: 2004-05-28 15:10
+    poster: Игорь Г.
+    email: sunny_city@mail.ru
+    subject: Ох ты ё...
+    deleted: false
+    text: "Юрик,дружище,с прошедшим тебя.Дай Бог всего самого-самого хорошего !!!\
+      \ \n\nПраздничный залп из всех видов орудий!!! Троекратное УРА!!! Бурные и продолжительные\
+      \ апплодисменты переходящие в народные гуляния :)"

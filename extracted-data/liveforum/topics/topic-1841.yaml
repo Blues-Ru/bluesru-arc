@@ -1,0 +1,30 @@
+topic_id: 1841
+slug: topic-1841
+title: Разговоры о блюзе
+first_post: 2004-02-07 23:32
+last_post: 2004-02-08 00:10
+post_count: 3
+posts:
+- id: 17111
+  parent_id: null
+  date: 2004-02-07 23:32
+  poster: Григорий Богданов (flame)
+  email: bogdann@front.ru
+  subject: Разговоры о блюзе
+  deleted: false
+  text: Ребяты, просветите лоха, чем открывать "rm"-файлы?
+  replies:
+  - id: 17112
+    parent_id: 17111
+    date: 2004-02-07 23:42
+    poster: Андрей Ордальонов (Андрей PRG)
+    email: peregnoy@mail.ru
+    subject: А лоха - это, простите, кого? ;)
+    deleted: false
+  - id: 17113
+    parent_id: 17111
+    date: 2004-02-08 00:10
+    poster: vr  (Stone Crazy)
+    email: volodya@blues.ru
+    subject: real one player сейчас. :) www.real.com
+    deleted: false

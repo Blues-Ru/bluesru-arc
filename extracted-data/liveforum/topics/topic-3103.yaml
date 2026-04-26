@@ -1,0 +1,27 @@
+topic_id: 3103
+slug: topic-3103
+title: ЮРА! КАВЕРКИН!
+first_post: 2006-02-13 12:43
+last_post: 2006-02-13 14:01
+post_count: 2
+posts:
+- id: 26049
+  parent_id: null
+  date: 2006-02-13 12:43
+  poster: Алексей Аграновский (Док)
+  email: aaa@genebee.msu.su
+  subject: ЮРА! КАВЕРКИН!
+  deleted: false
+  text: 'Прими е-мейл, что я тебе послал сегодня на rol.ru - надо подумать вместе
+    кое о чем. Раз ты смотришь форум, значит, не пройдешь мимо... а е-мейл, кто его
+    знает сколько пролежит.
+
+    Это насчет Keith Dunn''a.'
+  replies:
+  - id: 26054
+    parent_id: 26049
+    date: 2006-02-13 14:01
+    poster: Юрий Каверкин(Gekko)
+    email: kaverkin@rol.ru
+    subject: ОК!
+    deleted: false

@@ -1,0 +1,36 @@
+topic_id: 2620
+slug: topic-2620
+title: Muddy Lives зажигал сегодня в БиБиКинге!
+first_post: 2005-06-12 22:55
+last_post: 2005-06-13 19:15
+post_count: 3
+posts:
+- id: 21739
+  parent_id: null
+  date: 2005-06-12 22:55
+  poster: Дима Казанцев (Dr. Nick)
+  email: dr.nick@blues.ru
+  subject: Muddy Lives зажигал сегодня в БиБиКинге!
+  deleted: false
+  text: 'Сыграл и классно спел три песни: Phone Booth, Get Down Blues и Money (That''s
+    What I Want). Было хорошо :)'
+  replies:
+  - id: 21750
+    parent_id: 21739
+    date: 2005-06-13 17:11
+    poster: Muddy Lives
+    email: mlives_6@hotmail.com
+    subject: :)
+    deleted: false
+    text: "Здорово было поиграть с вами.  Спасибо за приглашение.  Но по-моему не\
+      \ я зажигал.  \n\n\nMuddy"
+    replies:
+    - id: 21755
+      parent_id: 21750
+      date: 2005-06-13 19:15
+      poster: Дима Казанцев (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: ОК
+      deleted: false
+      text: Ты именно пел, а не зажигал. А это главное. И реакцию публики ты видел
+        и слышал.

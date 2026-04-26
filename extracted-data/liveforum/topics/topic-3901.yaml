@@ -1,0 +1,66 @@
+topic_id: 3901
+slug: topic-3901
+title: Ответьте на вопрос, please....
+first_post: 2008-02-09 13:55
+last_post: 2008-02-10 18:32
+post_count: 6
+posts:
+- id: 34595
+  parent_id: null
+  date: 2008-02-09 13:55
+  poster: Юрий Каверкин (Gekko)
+  email: strophurus@yandex.ru
+  subject: Ответьте на вопрос, please....
+  deleted: false
+  text: "... это правда что московские харперы самые крутые в мире?? \nЯ понял из\
+    \ того, что ПОЧТИ все из них проигнорировали концерты конечно не такого крутого\
+    \ как они, но тем не менее не плохого музыканта как Pera Joe... \nСегодня в ДУДе\
+    \ мастер класс и мне подумалось, может кто из отечественных виртуозов этого инструмента\
+    \ заглянет, чтобы показать парочку приемов заезжей знаменитости...  Типа, знай\
+    \ наших!!!"
+  replies:
+  - id: 34597
+    parent_id: 34595
+    date: 2008-02-09 16:08
+    poster: Dmitri Kazantsev (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: масковский блюз
+    deleted: false
+    text: 'самый крутой в мире!
+
+      особенно от понаехали! :)'
+    replies:
+    - id: 34637
+      parent_id: 34597
+      date: 2008-02-10 14:14
+      poster: Юрий Каверкин (Gekko)
+      email: strophurus@yandex.ru
+      subject: Уж...
+      deleted: false
+      text: '.... насчет от понаехали будь уверен!'
+      replies:
+      - id: 34640
+        parent_id: 34637
+        date: 2008-02-10 18:32
+        poster: Dmitri Kazantsev (Dr. Nick)
+        email: dr.nick@blues.ru
+        subject: пора собирать The Ponayekhalis
+        deleted: false
+  - id: 34615
+    parent_id: 34595
+    date: 2008-02-09 21:05
+    poster: Axle
+    email: jhfuytru@kugf.ru
+    subject: Наши тоже ничё.
+    deleted: false
+    text: <object width="425" height="355"><param name="movie" value="http://www.youtube.com/v/m5QjvTDulFg&rel=1"></param><param
+      name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/m5QjvTDulFg&rel=1"
+      type="application/x-shockwave-flash" wmode="transparent" width="425" height="355"></embed></object>
+    replies:
+    - id: 34621
+      parent_id: 34615
+      date: 2008-02-10 10:25
+      poster: Dmitri Kazantsev (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: боянъ
+      deleted: false

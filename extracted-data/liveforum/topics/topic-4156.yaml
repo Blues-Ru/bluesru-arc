@@ -1,0 +1,56 @@
+topic_id: 4156
+slug: topic-4156
+title: Где сейчас "Apple Jack"
+first_post: 2009-01-06 05:15
+last_post: 2009-01-07 02:26
+post_count: 5
+posts:
+- id: 36004
+  parent_id: null
+  date: 2009-01-06 05:15
+  poster: Tennesee Boy
+  email: loserman@inbox.ru
+  subject: Где сейчас "Apple Jack"
+  deleted: false
+  text: Единственный в России коллектив, который играет современный кантри-рок и который
+    мог бы  внести  свежесть и разнообразие в нашу блюзовую тусню, выжили практически
+    из всех клубов...Теперь эту группу мы не слышим ни в "Би Би Кинге", ни в "Music
+    Town"..Странно, что они ни разу не играли в "Доме у Дороги"..!!!! Нонсенс какой-то...И
+    непонятки...Знаю только, что у лидер-вокалиста, Дмитрия Новокольского есть ещё
+    какие-то параллельные проекты и он время от времени где-то выступает с разными
+    музыкантами...Да и это бывает нечасто. А где САМ коллектив? Чем они занимаются?
+  replies:
+  - id: 36006
+    parent_id: 36004
+    date: 2009-01-06 16:18
+    poster: сэм
+    email: vid1966@yandex.ru
+    subject: apple jack
+    deleted: false
+    text: в доме у дороги боятся здоровой конкуренции
+  - id: 36007
+    parent_id: 36004
+    date: 2009-01-06 16:28
+    poster: kometa
+    email: vid1966@yandex.ru
+    subject: мишурис боится или иващенко?
+    deleted: false
+    text: мишурис боится или иващенко?
+    replies:
+    - id: 36008
+      parent_id: 36007
+      date: 2009-01-06 20:24
+      poster: Tennesse Boy
+      email: loserman@inbox.ru
+      subject: Где Apple Jack?
+      deleted: false
+      text: Скорее Мишурис боится конкуренции))
+      replies:
+      - id: 36009
+        parent_id: 36008
+        date: 2009-01-07 02:26
+        poster: майор
+        email: vid1966@yandex.ru
+        subject: подонок всех обсирает
+        deleted: false
+        text: подонок всех обсирает

@@ -1,0 +1,41 @@
+topic_id: 434
+slug: topic-434
+title: Давайте помолчим, господа.
+first_post: 2002-10-28 11:37
+last_post: 2002-10-29 01:25
+post_count: 3
+posts:
+- id: 8562
+  parent_id: null
+  date: 2002-10-28 11:37
+  poster: Дмитрий(fan)
+  email: leondmitr@freemail.ru
+  subject: Давайте помолчим, господа.
+  deleted: false
+  text: 'Каждый сам решает..
+
+    Лично я замолкаю.
+
+    Слушать блюз буду, обсуждать - в эти дни - извините.'
+  replies:
+  - id: 8578
+    parent_id: 8562
+    date: 2002-10-29 00:49
+    poster: Greta
+    email: morehemp@mail.ru
+    subject: :(((......
+    deleted: false
+    text: "\"Новости сервера\"....\nhttp://www.zvuki.ru \nвот этот человек http://pasha.ru/fyi/\n\
+      .. вот ещё \"новость\"...\nhttp://www.rambler.ru/db/news/msg.html?mid=2923259&s=260004288\n\
+      ну почему ТАК рано?? что происходит с этой жизнью?"
+    replies:
+    - id: 8580
+      parent_id: 8578
+      date: 2002-10-29 01:25
+      poster: Александр Мальчевский (Tonny)
+      email: heavyfuel@mtu-net.ru
+      subject: Мы будем помнить...
+      deleted: false
+      text: 'Всего три дня не был в Москве... А сколько плохого случилось :(((((
+
+        Слов нет... Но я верю, что все еще будет...'

@@ -1,0 +1,122 @@
+topic_id: 471
+slug: topic-471
+title: а вот и повод!
+first_post: 2002-11-18 21:13
+last_post: 2002-11-20 12:13
+post_count: 10
+posts:
+- id: 8882
+  parent_id: null
+  date: 2002-11-18 21:13
+  poster: Andrei V. Evdokimov (evdokimov)
+  email: evdokimov@blues.ru
+  subject: а вот и повод!
+  deleted: false
+  text: Миша, дорогой, рости большой... и взращивай свой славный и очень нам нужный
+    сайт! <a href="http://www.blues.ru/BlackCat/">http://www.blues.ru/BlackCat/</a>
+  replies:
+  - id: 8883
+    parent_id: 8882
+    date: 2002-11-18 21:14
+    poster: Andrei V. Evdokimov (evdokimov)
+    email: evdokimov@blues.ru
+    subject: извините за ашипки! (-)
+    deleted: false
+  - id: 8884
+    parent_id: 8882
+    date: 2002-11-19 00:11
+    poster: shkin
+    email: shkin
+    subject: Happy Birthday!
+    deleted: false
+    text: 'Пока у меня еще восемнадцатое, присоединяюсь к поздравлению. :)
+
+      Будь здоров и счастлив.'
+  - id: 8891
+    parent_id: 8882
+    date: 2002-11-19 08:44
+    poster: илья верховский
+    email: ilyav@aport2000.ru
+    subject: архаическому Михаилу - поздравления из Сибири...
+    deleted: false
+    text: 'Миша, спасибо за сайт и древние блюзы..
+
+
+      пусть дело Сона Хауса живёт и побеждает!)
+
+      (а оно и так -не загнётся)... пока есть сайты, такие как Чёрный Кот.
+
+
+      счастливых всевох.
+
+
+      с рутблюзовыми пожеланиями хорошего настроения из Ханты-Мансийска!)
+
+
+      ИВ'
+    replies:
+    - id: 8896
+      parent_id: 8891
+      date: 2002-11-19 12:42
+      poster: tigra
+      email: bluesman@tut.by
+      subject: чем лучше корни
+      deleted: false
+      text: 'тем больше растительности ( любой - включая блюзовой )
+
+        здоровья и не забывай вовремя поливать'
+  - id: 8899
+    parent_id: 8882
+    date: 2002-11-19 13:19
+    poster: Дмитрий(fan)
+    email: leondmitr@freemail.ru
+    subject: Михаил! Я тоже очень поздравляю.
+    deleted: false
+    text: 'Спасибо большое за Архаику. Просто снимаю шляпу. Почитаешь Black Cat и
+      понимаешь, что никакой ты (в смысле -я) не любитель блюза, а щенок, которому
+      не кичиться, а учиться, учиться и еще раз учиться (в смысле изучать и слушать
+      блюзовую Архаику).
+
+      А сколько стукнуло -то?'
+  - id: 8905
+    parent_id: 8882
+    date: 2002-11-19 16:45
+    poster: Sergei  Kiritchenko (VoID)
+    email: skvoid@yahoo.com
+    subject: несомненные поздравления..
+    deleted: false
+    text: '.. и благодарности за так нужную работу в области просвещения в блюзе и
+      не только!
+
+      ... из Санкт-Петербурга
+
+      И успехов, и так держать!'
+  - id: 8914
+    parent_id: 8882
+    date: 2002-11-19 19:19
+    poster: AlexIV
+    email: evergreens@mail.ru
+    subject: Присоединям-с :-)
+    deleted: false
+    text: '... и еще раз поздравлям-с! :-)))'
+  - id: 8917
+    parent_id: 8882
+    date: 2002-11-19 20:05
+    poster: Андрей PRG
+    email: peregnoy@mail.ru
+    subject: И я праздравляю!
+    deleted: false
+    text: Чёрная кошка, белый кот... Здорово всё это! Спасибо, Михаил! :)
+  - id: 8932
+    parent_id: 8882
+    date: 2002-11-20 12:13
+    poster: Михаил Бирюков (nECKAPb)
+    email: blackcat@blues.ru
+    subject: всем, всем, всем...
+    deleted: false
+    text: '... огромное спасибо за поздравления и добрые слова, которых я по итогам
+      последнего года не слишком-то заслуживаю.
+
+      Т.е. мне выданы авансы, я так понимаю. Надо отрабатывать :)))
+
+      Ещё раз всем спасибо!'

@@ -1,0 +1,34 @@
+topic_id: 3122
+slug: topic-3122
+title: spasibo iz Kieva!!! об оперативности
+first_post: 2006-02-24 01:19
+last_post: 2006-03-01 16:10
+post_count: 3
+posts:
+- id: 26272
+  parent_id: null
+  date: 2006-02-24 01:19
+  poster: MX
+  email: gydregeh
+  subject: spasibo iz Kieva!!! об оперативности
+  deleted: false
+  text: раз в жизни зашел в интернет, и понял, что глуховато у нас. Про Криса Ри вы
+    уже знаете,а мы еще нет)))) И Пъяцца приезжает))) к вам)))
+  replies:
+  - id: 26273
+    parent_id: 26272
+    date: 2006-02-24 03:55
+    poster: Stoned
+    email: stoned@blues.ru
+    subject: О! Мы тут много чего знаем!
+    deleted: false
+    text: Про СРВ-Блюз, про Роллингов, про ЛЗ тоже знаем! Настоящие блЮзманы собрались!
+    replies:
+    - id: 26333
+      parent_id: 26273
+      date: 2006-03-01 16:10
+      poster: MX
+      email: chjcjwjcwj
+      subject: а билеты- то
+      deleted: false
+      text: минимальная цена 100 уе. Вот какие блЮзмены бывают))))

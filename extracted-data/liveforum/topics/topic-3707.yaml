@@ -1,0 +1,29 @@
+topic_id: 3707
+slug: topic-3707
+title: Die Hard 4.0 Blues
+first_post: 2007-08-04 19:05
+last_post: 2007-08-05 01:32
+post_count: 2
+posts:
+- id: 33329
+  parent_id: null
+  date: 2007-08-04 19:05
+  poster: Andrei V. Evdokimov (evdokimov)
+  email: evdokimov@blues.ru
+  subject: Die Hard 4.0 Blues
+  deleted: false
+  text: Новости по НТВ сегодня показывают Брюса Уиллиса, играющего блюза на мысе Канавер.
+    не глубоко, но мило.
+  replies:
+  - id: 33330
+    parent_id: 33329
+    date: 2007-08-05 01:32
+    poster: Dmitri Kazantsev (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: Bruce
+    deleted: false
+    text: 'он и альбомы хорошие выпускал :) на гармошке дул :) с ним даже TEMPTATIONS
+      пели :)
+
+
+      весёлый парень!'

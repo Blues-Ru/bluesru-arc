@@ -1,0 +1,59 @@
+topic_id: 3229
+slug: topic-3229
+title: Вот какую красоту я отыскал на eBay...
+first_post: 2006-04-25 16:45
+last_post: 2006-04-27 22:13
+post_count: 5
+posts:
+- id: 27125
+  parent_id: null
+  date: 2006-04-25 16:45
+  poster: Старый Майор
+  email: gypsy@mail.ru
+  subject: Вот какую красоту я отыскал на eBay...
+  deleted: false
+  text: 'Интересно, как такое чудо-юдо гитаростроения может звучать...
+
+
+    <a href=http://cgi.ebay.com/1968-Teisco-May-Queen-Very-Rare_W0QQitemZ7410058565QQcategoryZ119094QQrdZ1QQcmdZViewItem>Teisco
+    May Queen 1968</a>'
+  replies:
+  - id: 27133
+    parent_id: 27125
+    date: 2006-04-25 17:16
+    poster: (Grem)
+    email: grems@yandex.ru
+    subject: Вот эта получше будет
+    deleted: false
+    text: 'Ава...Аэлита -дочь мента:-)))
+
+      http://meatexz.com/cheesyguitars/tonika.html'
+    replies:
+    - id: 27135
+      parent_id: 27133
+      date: 2006-04-25 17:19
+      poster: Старый Майор
+      email: gypsy@mail.ru
+      subject: Ну ты сравнил..
+      deleted: false
+      text: Стильный инструмент с изделием N2 от ЧТЗ...
+  - id: 27219
+    parent_id: 27125
+    date: 2006-04-27 21:09
+    poster: Старый Майор
+    email: gypsy@mail.ru
+    subject: А вот ещё картиночка, достойная пера...
+    deleted: false
+    text: '<a href=http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&item=7410471590&indexURL=0&photoDisplayType=2#ebayphotohosting>Gibson
+      USA Map Guitar</a>
+
+
+      Комментарий: не дадим супостатам спуску! Выпустим балалайку в виде карты России!'
+    replies:
+    - id: 27220
+      parent_id: 27219
+      date: 2006-04-27 22:13
+      poster: Владимир Русинов (BluesCat)
+      email: volodya@blues.ru
+      subject: лучше барабан в виде карты москвы ;)
+      deleted: false

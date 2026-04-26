@@ -1,0 +1,10 @@
+---
+id: 1645
+slug: charles-brown-4
+title: Charles Brown
+date: 1922-09-13 00:00
+picture: 0913Brown.jpg
+---
+
+в Тексас-Сити, Техас, родился <a href="/data/albumsearch.aspx?artistname=Charles+Brown">Чарлз Браун</a> (Charles BROWN), гений фортепианного блюза и блюзовый Нэт Кинг Коул. Среди вечнозеленых тем, которые он подарил блюзу: «Кочевой блюз» (Driftin’ Blues) и «Черная ночь» (Black Night). Дипломированный химик, он работал учителем, а во время войны газовщиком на военно-морской базе. По образцу Nat King Cole начал петь романтические баллады, но был ближе к блюзу. В трио The Three Blazers играл с блестящим гитаристом Johnny Moore. За три года, начиная с 1949-го, семь их пластинок попали в первую десятку. А "Merry Christmas Baby" стала "вечнозеленой" рождественской песней в США. Ухватив настроение, он сочинил еще и вечную "Please Come Home for Christmas". Эта пластинка только в 1968 году разошлась миллионным тиражом и тоже обязательна под новый год до сих пор. Но в том же мягком тоне он записывал и мрачные блюзы:  "Trouble Blues", "In the Evening When the Sun Goes Down", "Homesick Blues", "My Baby's Gone" и "Hard Times". Но в 60-х музыкальный ветер стал жестче, и Браун укрылся в маленькие джаз клубы. Нехватку его 'салонного', но душевного блюза мир прочувствовал к 90-м, и Браун вернулся на большую сцену и в студию вместе с гитаристом Danny Caron и саксофонистом Clifford Solomon. Их ансамбль безупречен в своем стиле. Браун оказался и Зале славы и блюза,  и рок-н-ролла, удостоился National Endowment for the Arts (в Штатах это как народный артист СССР). Трижды лауреат Blues Music Awards и трижды номинант на Grammy. Ценители блюза без рока, но припудренного джазом, не пройдут мимо. Он уникально хорош в раннем блюзе Западного побережья.
+Tony Russell "Charles" Brown (September 13, 1922 – January 21, 1999) was an American singer and pianist whose soft-toned, slow-paced nightclub style influenced West Coast blues in the 1940s and 1950s. Between 1949 and 1952, Brown had seven Top 10 hits in the U.S. Billboard R&B chart. His best-selling recordings included "Driftin' Blues" and "Merry Christmas Baby".

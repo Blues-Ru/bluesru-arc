@@ -1,0 +1,69 @@
+topic_id: 4338
+slug: topic-4338
+title: Гитарист Sugar Blue.
+first_post: 2009-12-13 14:31
+last_post: 2009-12-20 02:27
+post_count: 8
+posts:
+- id: 36742
+  parent_id: null
+  date: 2009-12-13 14:31
+  poster: Pumpkinhead
+  subject: Гитарист Sugar Blue.
+  deleted: false
+  text: Просветите, как его его зовут?
+  replies:
+  - id: 36743
+    parent_id: 36742
+    date: 2009-12-13 17:37
+    poster: Алексей Старшинов
+    subject: Sugar Blue
+    deleted: false
+    text: James Whiting
+  - id: 36744
+    parent_id: 36742
+    date: 2009-12-13 17:38
+    poster: Алексей Старшинов
+    subject: Sugar Blue
+    deleted: false
+    text: Только он, пардон, не гитарист..... .
+  - id: 36745
+    parent_id: 36742
+    date: 2009-12-13 17:55
+    poster: Pumpkinhead
+    subject: См. название сообщения.
+    deleted: false
+    text: Как зовут гитариста, который выступал с Sugar Blue в Би.Би.Кинге?
+    replies:
+    - id: 36746
+      parent_id: 36745
+      date: 2009-12-14 00:25
+      poster: Федор Романенко
+      subject: Японец Moto Makino?
+      deleted: false
+      text: Он же Motoaki Makino. Только он мне совсем не понравился, играл какой-то
+        фьюжн невыразительный на блюзовом концерте....
+      replies:
+      - id: 36747
+        parent_id: 36746
+        date: 2009-12-14 01:28
+        poster: Pumpkinhead
+        subject: Да!
+        deleted: false
+        text: Спасибо! Я ММДМе, к сожалению, не был, а вот в клубе он прекрасно саккомпанировал,
+          весьма и весьма.
+  - id: 36755
+    parent_id: 36742
+    date: 2009-12-17 03:21
+    poster: Andrei V. Evdokimov
+    subject: Алексей, внеси ясность!
+    deleted: false
+    text: Я видел и снимал японца и нашего Колю Садикова. Так о ком речь?
+    replies:
+    - id: 36765
+      parent_id: 36755
+      date: 2009-12-20 02:27
+      poster: Pumpkinhead
+      subject: Вношу!..
+      deleted: false
+      text: Меня Motoaki Makino интересовал. Он молодец.

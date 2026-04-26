@@ -1,0 +1,45 @@
+topic_id: 3752
+slug: topic-3752
+title: Vsem Privet iz Clarksdale!
+first_post: 2007-10-05 22:27
+last_post: 2007-10-06 14:53
+post_count: 4
+posts:
+- id: 33587
+  parent_id: null
+  date: 2007-10-05 22:27
+  poster: Arsen
+  email: rag@mail.ru
+  subject: Vsem Privet iz Clarksdale!
+  deleted: false
+  text: 'Zdes dovolno zharko, zhivem v funky motele Southern Inn. Vse ochen po bluzovomu
+    )) Sejchas edem na Festival poslushat, igraem zavtra.
+
+    Vsem privet!
+
+    Arsen'
+  replies:
+  - id: 33588
+    parent_id: 33587
+    date: 2007-10-06 02:53
+    poster: Владимир Русинов (BluesCat)
+    email: volodya@blues.ru
+    subject: давай там! Все будет круто! :)
+    deleted: false
+    replies:
+    - id: 33589
+      parent_id: 33588
+      date: 2007-10-06 14:49
+      poster: Игорь Г
+      email: sunny_city@mail.ru
+      subject: Ага, дай им там "прикурить"!!! :))
+      deleted: false
+      text: Арсен,с кем играешь? С каким составом?
+      replies:
+      - id: 33590
+        parent_id: 33589
+        date: 2007-10-06 14:53
+        poster: Игорь Г
+        email: sunny_city@mail.ru
+        subject: Вопрос снимаетя. Все нашел.
+        deleted: false

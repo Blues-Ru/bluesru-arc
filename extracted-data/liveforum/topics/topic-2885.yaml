@@ -1,0 +1,43 @@
+topic_id: 2885
+slug: topic-2885
+title: Шерман Робертсон
+first_post: 2005-10-26 21:26
+last_post: 2005-10-27 00:35
+post_count: 4
+posts:
+- id: 24108
+  parent_id: null
+  date: 2005-10-26 21:26
+  poster: Doc.
+  email: mike@movinmusic.co.uk
+  subject: Шерман Робертсон
+  deleted: false
+  text: "Надеюсь приятно будет послушать пение от сердца.\nMake it Rain \nhttp://www.movinmusic-records.co.uk/sounds/make_it_rain_28.ram\
+    \ \n\nHome of the Blues \nhttp://www.movinmusic-records.co.uk/sounds/home_of_the_blues_28.ram\
+    \ \n\nБольше о Шермане здесь - http://www.bluesmatters.com/modules.php?name=Forums&file=viewtopic&t=288"
+  replies:
+  - id: 24110
+    parent_id: 24108
+    date: 2005-10-26 23:38
+    poster: Doc.
+    email: mike@muveingmusic.com
+    subject: Аудио и видео
+    deleted: false
+    text: Много Ау, Вд здесь - http://tela.sugarmegs.org/
+    replies:
+    - id: 24111
+      parent_id: 24110
+      date: 2005-10-26 23:54
+      poster: Фрекен Бокк
+      email: gypsy@mail.ru
+      subject: От сердца обычно валокордин помогает..
+      deleted: false
+      replies:
+      - id: 24112
+        parent_id: 24111
+        date: 2005-10-27 00:35
+        poster: Doc.
+        email: mike@mike.nl
+        subject: Вам виднее, пейте на здоровье !
+        deleted: false
+        text: А потом пойте от сердца :-)

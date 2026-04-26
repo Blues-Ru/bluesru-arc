@@ -1,0 +1,57 @@
+topic_id: 4698
+slug: topic-4698
+title: Sting – The Seventh Son
+first_post: 2011-09-04 22:28
+last_post: 2014-10-03 09:37
+post_count: 5
+posts:
+- id: 37953
+  parent_id: null
+  date: 2011-09-04 22:28
+  poster: Эльдар
+  subject: Sting – The Seventh Son
+  deleted: false
+  text: 'Sting & Jools Holland – The Seventh Son
+
+    Напомните, пожалуйста, про эту песню. Точнее для какого проекта она была записала.
+    Ведь там что-то было такое интересное.'
+  replies:
+  - id: 37954
+    parent_id: 37953
+    date: 2011-09-05 14:36
+    poster: Dmitri Kazantsev
+    subject: стинк
+    deleted: false
+    text: 'просто для альбома Джулз и друзья
+
+      она первая там и есть'
+    replies:
+    - id: 37956
+      parent_id: 37954
+      date: 2011-09-06 01:01
+      poster: Эльдар
+      subject: Jools Holland's Big Band Rhythm & Blues
+      deleted: false
+      text: 'Дима, пожалуйста, можно ссылку на инфу об этом альбоме? Его название:
+        Jools Holland''s Big Band Rhythm & Blues или может Small World Big Band???
+
+        А мне почему-то казалось что это типа Трибьют ту Вилли Диксон...'
+      replies:
+      - id: 37958
+        parent_id: 37956
+        date: 2011-09-06 01:14
+        poster: Эльдар
+        subject: Нашёл!
+        deleted: false
+        text: 'http://www.israbox.com/1146349946-jools-holland-his-rhythm-blues-orchestra-and-friends-small-world-big-band-2001.html
+
+          и вообще, интересный ресурс:
+
+          http://www.israbox.com/blues'
+  - id: 39228
+    parent_id: 37953
+    date: 2014-10-03 09:37
+    poster: Эльдар
+    subject: The Seventh Son
+    deleted: false
+    text: The <b>Seventh</b> <i>Son</i>

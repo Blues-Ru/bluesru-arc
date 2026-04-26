@@ -1,0 +1,36 @@
+topic_id: 2408
+slug: topic-2408
+title: Подскажите исполнителя и название песни, пожалуйста
+first_post: 2005-01-30 19:08
+last_post: 2005-01-31 22:43
+post_count: 3
+posts:
+- id: 20303
+  parent_id: null
+  date: 2005-01-30 19:08
+  poster: von Zeppelin
+  email: von_zeppelin@mail.ru
+  subject: Подскажите исполнителя и название песни, пожалуйста
+  deleted: false
+  text: Если помните, была на "Открытом радио" программа "Блюзология" А. Калачева.
+    В заставке к ней был одно время очень ритмичный блюз, что-то там про "fire" (текст
+    не помню совершенно). Не подскажете исполнителя и название трека? Спасибо.
+  replies:
+  - id: 20314
+    parent_id: 20303
+    date: 2005-01-31 11:04
+    poster: Mara Levin (Marianner)
+    email: illuzyi@narod.ru
+    subject: Не проще ли спросить у самого Калачева?
+    deleted: false
+    text: http://www.bluesnews.ru/
+  - id: 20338
+    parent_id: 20303
+    date: 2005-01-31 22:43
+    poster: Natasha
+    email: '@'
+    subject: помню только
+    deleted: false
+    text: песню Bad To the Bone в исполнении Джорджа Торогуда и Destroyers, но где
+      же там было про "fire"?.. Вроде, заставка была без слов... Значит, это другая?
+      :р

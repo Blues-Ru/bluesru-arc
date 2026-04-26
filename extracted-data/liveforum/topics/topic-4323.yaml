@@ -1,0 +1,36 @@
+topic_id: 4323
+slug: topic-4323
+title: Срочно! Зовём на джем сегодня!
+first_post: 2009-11-12 15:28
+last_post: 2009-11-21 03:39
+post_count: 3
+posts:
+- id: 36681
+  parent_id: null
+  date: 2009-11-12 15:28
+  poster: Dmitri Kazantsev
+  subject: Срочно! Зовём на джем сегодня!
+  deleted: false
+  text: 'в Double Bourbon
+
+
+    <img src="http://www.ljplus.ru/img4/d/r/dr_nick/db-jam.jpg" width=353 height=500
+    alt=''30.87 КБ''>'
+  replies:
+  - id: 36705
+    parent_id: 36681
+    date: 2009-11-21 02:36
+    poster: Плакса
+    subject: че за формат
+    deleted: false
+    text: привет. а в каком формате проходит джем? как в дуде?
+    replies:
+    - id: 36706
+      parent_id: 36705
+      date: 2009-11-21 03:39
+      poster: Dmitri Kazantsev
+      subject: джем
+      deleted: false
+      text: 'просто можно выходить и играть с нами блюзы
+
+        2 часа - с 21 до 23'

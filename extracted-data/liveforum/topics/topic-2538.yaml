@@ -1,0 +1,121 @@
+topic_id: 2538
+slug: topic-2538
+title: Бюск
+first_post: 2005-04-21 12:52
+last_post: 2005-04-22 21:03
+post_count: 13
+posts:
+- id: 21202
+  parent_id: null
+  date: 2005-04-21 12:52
+  poster: brujo
+  email: brujo@pisem.net
+  subject: Бюск
+  deleted: false
+  text: Ну что, приехали норвеги-то?
+  replies:
+  - id: 21203
+    parent_id: 21202
+    date: 2005-04-21 16:01
+    poster: Dima Krasivov (Dima)
+    email: dima@blues.ru
+    subject: Приехали. переживаешь? ;)
+    deleted: false
+    replies:
+    - id: 21204
+      parent_id: 21203
+      date: 2005-04-21 17:09
+      poster: Дима Казанцев (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: ну и как?
+      deleted: false
+      text: уже наебошились по этому поводу? :)
+      replies:
+      - id: 21207
+        parent_id: 21204
+        date: 2005-04-21 17:39
+        poster: Федор Романенко (fedor)
+        email: fedor@blues.ru
+        subject: ;)
+        deleted: false
+        text: Вчера Бюск без штанов выступал в Доме у Дороги ;)
+        replies:
+        - id: 21208
+          parent_id: 21207
+          date: 2005-04-21 19:42
+          poster: Дима Казанцев (Dr. Nick)
+          email: dr.nick@blues.ru
+          subject: я знал
+          deleted: false
+          text: 'что он гопник, но не знал, что до такой степени :)
+
+            значит наебенились все-таки :)'
+          replies:
+          - id: 21211
+            parent_id: 21208
+            date: 2005-04-21 22:43
+            poster: Блюзззофигист  ()
+            email: konstantin@inbox.nu
+            subject: Бюск
+            deleted: false
+            text: не гопник, он ФРИК!
+            replies:
+            - id: 21213
+              parent_id: 21211
+              date: 2005-04-22 02:16
+              poster: Дима Казанцев (Dr. Nick)
+              email: dr.nick@blues.ru
+              subject: это я имел в виду :)
+              deleted: false
+        - id: 21210
+          parent_id: 21207
+          date: 2005-04-21 21:31
+          poster: Дима Казанцев (Dr. Nick)
+          email: dr.nick@blues.ru
+          subject: Федя,
+          deleted: false
+          text: ты бы в ЖЖ написал подробно как происходил процесс превращения Бюска
+            в вандала :)
+          replies:
+          - id: 21212
+            parent_id: 21210
+            date: 2005-04-21 22:45
+            poster: Блюзззофигист  ()
+            email: konstantin@inbox.nu
+            subject: Не,
+            deleted: false
+            text: не в вандала, а в настоящего викинга. Назад к корням...
+            replies:
+            - id: 21214
+              parent_id: 21212
+              date: 2005-04-22 02:17
+              poster: Дима Казанцев (Dr. Nick)
+              email: dr.nick@blues.ru
+              subject: а викинги не вандалы что ли были? :)
+              deleted: false
+              replies:
+              - id: 21215
+                parent_id: 21214
+                date: 2005-04-22 02:27
+                poster: Блюзззофигист  ()
+                email: konstantin@inbox.nu
+                subject: Ну,
+                deleted: false
+                text: просто так точнее. Вандалов ведь и среди других народностей
+                  валом...
+            - id: 21217
+              parent_id: 21212
+              date: 2005-04-22 11:47
+              poster: VoV  (Barmaley)
+              email: barmaley-vov@yandex.ru
+              subject: Да уж позвольте...
+              deleted: false
+              text: От вандала у него кое-что есть... Увы.
+  - id: 21223
+    parent_id: 21202
+    date: 2005-04-22 21:03
+    poster: Andrei V. Evdokimov (evdokimov)
+    email: evdokimov@blues.ru
+    subject: как это было
+    deleted: false
+    text: <a href="/bluesnews/05Spring/busksreda/busk051.htm">http://www.blues.ru/bluesnews/05Spring/busksreda/busk051.htm</a>

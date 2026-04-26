@@ -1,0 +1,44 @@
+topic_id: 4096
+slug: topic-4096
+title: 9 дней без Света
+first_post: 2008-09-22 01:46
+last_post: 2008-09-23 02:06
+post_count: 4
+posts:
+- id: 35812
+  parent_id: null
+  date: 2008-09-22 01:46
+  poster: Dmitri Kazantsev (Dr. Nick)
+  email: dr.nick@blues.ru
+  subject: 9 дней без Света
+  deleted: false
+  text: 'http://photofile.ru/users/dr_nick/95207693/all/
+
+
+    немного фоток'
+  replies:
+  - id: 35814
+    parent_id: 35812
+    date: 2008-09-22 17:20
+    poster: Михаил Бирюков (nECKAPb)
+    email: blackcat@blues.ru
+    subject: До которого часа продолжалось мероприятие?
+    deleted: false
+    text: (я ушёл в пол-девятого)
+    replies:
+    - id: 35818
+      parent_id: 35814
+      date: 2008-09-22 20:59
+      poster: Grems
+      email: burgik@yandex.ru
+      subject: '23.00'
+      deleted: false
+      text: как и всегда до 23.00.
+    - id: 35820
+      parent_id: 35814
+      date: 2008-09-23 02:06
+      poster: Dmitri Kazantsev (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: играли до 23
+      deleted: false
+      text: но народ тусил до ночи

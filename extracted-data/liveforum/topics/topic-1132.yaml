@@ -1,0 +1,46 @@
+topic_id: 1132
+slug: topic-1132
+title: ТОП 10 продолжается!
+first_post: 2002-02-11 18:43
+last_post: 2002-02-12 10:40
+post_count: 4
+posts:
+- id: 1158
+  parent_id: null
+  date: 2002-02-11 18:43
+  poster: Дима Казанцев (Dr. Nick)
+  email: dr.nick@blues.ru
+  subject: ТОП 10 продолжается!
+  deleted: false
+  text: "Друзья мои!\nНе стесняйтесь, пишите свои списки! А кто стесняется, мыльте\
+    \ их мне! Есть такие, кто уже намылил ;)\nНе вижу мнения АЕ, Джона, Блэки и Ко.,\
+    \ Дока Аграновского и многих других. \nЭта тема все же интересна блюзрульцам,\
+    \ так что надо продолжать ;)"
+  replies:
+  - id: 1159
+    parent_id: 1158
+    date: 2002-02-11 19:03
+    poster: Андрей PRG
+    email: peregnoy@mail.ru
+    subject: '"Блюзрульцы" - это сильно!'
+    deleted: false
+    text: Классный термин. Думаю, стоит его внести в какие-нибудь соответствующие
+      анналы :-)
+    replies:
+    - id: 1162
+      parent_id: 1159
+      date: 2002-02-11 19:28
+      poster: Sergei  Kiritchenko (VoID)
+      email: skvoid@yahoo.com
+      subject: Лучше - "блюзрулезцы" :-) (-)
+      deleted: false
+      text: '1'
+      replies:
+      - id: 1186
+        parent_id: 1162
+        date: 2002-02-12 10:40
+        poster: Anonim
+        email: anonim@mail.ru
+        subject: Лучше не в аналы.... больно это...
+        deleted: false
+        text: или по крайней мере не всем

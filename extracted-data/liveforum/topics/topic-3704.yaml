@@ -1,0 +1,36 @@
+topic_id: 3704
+slug: topic-3704
+title: Блюз по-питерски? (ака ЗАЧЕМ?)
+first_post: 2007-08-02 20:47
+last_post: 2007-08-03 02:03
+post_count: 3
+posts:
+- id: 33323
+  parent_id: null
+  date: 2007-08-02 20:47
+  poster: Владимир Русинов (BluesCat)
+  email: volodya@blues.ru
+  subject: Блюз по-питерски? (ака ЗАЧЕМ?)
+  deleted: false
+  text: '<A HREF="http://bluesforum.ru/index.php?showtopic=577">http://bluesforum.ru/index.php?showtopic=577</A>
+
+
+    :)) Нашлось случайно!'
+  replies:
+  - id: 33324
+    parent_id: 33323
+    date: 2007-08-03 01:50
+    poster: блюзман
+    email: bm@blues.ru
+    subject: почему так ужасно выглядит дом?
+    deleted: false
+    text: и всё вокруг?
+    replies:
+    - id: 33325
+      parent_id: 33324
+      date: 2007-08-03 02:03
+      poster: Владимир Русинов (BluesCat)
+      email: volodya@blues.ru
+      subject: это отходняк ...
+      deleted: false
+      text: 'потом все прийдет в норму: и дом на фото... и все вокруг...'

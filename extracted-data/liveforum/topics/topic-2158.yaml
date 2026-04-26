@@ -1,0 +1,34 @@
+topic_id: 2158
+slug: topic-2158
+title: Ищу блюз ...
+first_post: 2004-06-29 00:01
+last_post: 2004-06-29 14:51
+post_count: 3
+posts:
+- id: 18838
+  parent_id: null
+  date: 2004-06-29 00:01
+  poster: (El)
+  email: El-Vassa@inbox.ru
+  subject: Ищу блюз ...
+  deleted: false
+  text: Darkside Blues - подозрительно похоже на Отиса Тэйлора , или кого-то другого
+    явно афроамериканского происхождения. Не знает ли кто нибудь что-то об этом? (
+    излазил все сайты).
+  replies:
+  - id: 18846
+    parent_id: 18838
+    date: 2004-06-29 14:31
+    poster: А... Меринов
+    email: ale-merinov@yandex.ru
+    subject: а все ли сайты излазил?:-))
+    deleted: false
+    text: http://www.yandex.ru/yandsearch?text=Darkside+Blues&stype=www&nl=0
+  - id: 18849
+    parent_id: 18838
+    date: 2004-06-29 14:51
+    poster: А... Меринов
+    email: ale-merinov@yandex.ru
+    subject: сорри:-((
+    deleted: false
+    text: Оппаньки,глюкануло-то как.....сорри..потрите меня почти всего

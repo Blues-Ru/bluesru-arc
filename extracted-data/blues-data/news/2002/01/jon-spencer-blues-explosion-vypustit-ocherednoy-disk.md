@@ -1,0 +1,16 @@
+---
+id: 25
+slug: jon-spencer-blues-explosion-vypustit-ocherednoy-disk
+title: Jon Spencer Blues Explosion выпустит очередной диск
+date: '2002-01-15'
+author: Алексей Калачев
+legacy_path: news/2002/01/jon-spencer-blues-explosion-vypustit-ocherednoy-disk.md
+source: bluesnews.ru
+---
+
+Панк группа Jon Spencer Blues 
+Explosion, известная поклонникам блюза в связи с её сотрудничеством с Ар Эл 
+Бенсайдом (и с названием), выпустит очередной диск 9 апреля. На альбоме &quot;Plastic 
+Fang&quot;, о характере звучания которого не сообщается, в качестве гостя 
+присутствует пианист Доктор Джон. Спродюсировал его известный музыкант,Стив Джордан,
+сотрудничавший с множеством артистов от Steely Dan до Би Би Кинга.</p>

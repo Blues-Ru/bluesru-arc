@@ -1,0 +1,49 @@
+topic_id: 2786
+slug: topic-2786
+title: А ББ Кингу уже 80 стукнуло!!!
+first_post: 2005-09-16 09:23
+last_post: 2005-09-16 12:06
+post_count: 4
+posts:
+- id: 23197
+  parent_id: null
+  date: 2005-09-16 09:23
+  poster: Wheel
+  email: wheel@ua.fm
+  subject: А ББ Кингу уже 80 стукнуло!!!
+  deleted: false
+  text: С днём рождения м-р Кинг!
+  replies:
+  - id: 23198
+    parent_id: 23197
+    date: 2005-09-16 09:39
+    poster: Алексей Фролов (Buchothk)
+    email: jokerthk@yandex.ru
+    subject: О да!!!!
+    deleted: false
+    text: 'Присоединяюсь к позхдравлениям!
+
+      С Днем Рождения, Великий Мастер!
+
+      Кстати, что-то я прошляпил - будут ли в Москве какие-нибудь мероприятия в честь
+      юбилея?'
+  - id: 23200
+    parent_id: 23197
+    date: 2005-09-16 11:23
+    poster: Илья Кривандин (Populoss)
+    email: ilija@bk.ru
+    subject: Воистину! С юбилеем, Человек-Эпоха!
+    deleted: false
+  - id: 23202
+    parent_id: 23197
+    date: 2005-09-16 12:06
+    poster: Иван (Van)
+    email: vanek_ko@ukr.net
+    subject: Присоединяюсь
+    deleted: false
+    text: 'Кстати вот что пишут на www.bbking.com:
+
+      B.B. KING BRINGS TOGETHER ERIC CLAPTON, ELTON JOHN AND OTHERS FOR NEW DUETS
+      ALBUM OF BLUES STANDARDS TO CELEBRATE THE BLUES GREAT’S 80TH BIRTHDAY
+
+      Хороший способ отпраздновать свой юбилей :)'

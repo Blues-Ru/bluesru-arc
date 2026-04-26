@@ -1,0 +1,81 @@
+topic_id: 1519
+slug: topic-1519
+title: типа подарочек в качестве прошедшего моего др :)
+first_post: 2003-10-19 00:08
+last_post: 2003-10-29 15:25
+post_count: 6
+posts:
+- id: 15080
+  parent_id: null
+  date: 2003-10-19 00:08
+  poster: vr  (Stone Crazy)
+  email: volodya@blues.ru
+  subject: типа подарочек в качестве прошедшего моего др :)
+  deleted: false
+  text: 'http://music.jimi.ru/bluescats_live_demo/04-Whos_been_talkin.mp3
+
+
+    :))
+
+
+    типа просто так. может понраивится кому ;)'
+  replies:
+  - id: 15093
+    parent_id: 15080
+    date: 2003-10-20 08:35
+    poster: илья верховский
+    email: ilyav@aport2000.ru
+    subject: запоздало  поздравляем bluescats))))))
+    deleted: false
+    text: 'Володя, поздравления мои!))))
+
+
+      Будь, как Бадди и Фил, а лучше сам собой)
+
+
+      bluescats - это теперь твой проект называется?
+
+
+      А у меня -дома живёт - блюзовый кот.)))))))))))
+
+
+      ив'
+    replies:
+    - id: 15098
+      parent_id: 15093
+      date: 2003-10-20 09:55
+      poster: vr  (Stone Crazy)
+      email: volodya@blues.ru
+      subject: типа того :)
+      deleted: false
+      text: 'это сокращенное название :)
+
+
+        привет твоему коту от моего ;))'
+    - id: 15099
+      parent_id: 15093
+      date: 2003-10-20 10:11
+      poster: Wals
+      email: alexerek@mail.ru
+      subject: Мои поздравления!
+      deleted: false
+      text: 'Удачи и хорошего блюза!! ;)
+
+
+        С прошедшим!'
+  - id: 15148
+    parent_id: 15080
+    date: 2003-10-21 17:09
+    poster: Игорь Головачев (Игорь Г.)
+    email: sunny_city@mail.ru
+    subject: П О З Д Р А В Л Я Ю  !!!
+    deleted: false
+    text: Вовик,здоровья,тебе,счастья и хорошего звука и красивого сочетания нот.
+  - id: 15280
+    parent_id: 15080
+    date: 2003-10-29 15:25
+    poster: Greta
+    email: morehemp
+    subject: happy birthday!
+    deleted: false
+    text: с опозданием, но всё ж :)

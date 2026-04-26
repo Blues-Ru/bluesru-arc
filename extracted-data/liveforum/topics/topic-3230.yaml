@@ -1,0 +1,63 @@
+topic_id: 3230
+slug: topic-3230
+title: полет шмеля
+first_post: 2006-04-25 17:30
+last_post: 2006-04-25 19:45
+post_count: 6
+posts:
+- id: 27139
+  parent_id: null
+  date: 2006-04-25 17:30
+  poster: Владимир Русинов (BluesCat)
+  email: volodya@blues.ru
+  subject: полет шмеля
+  deleted: false
+  text: 'без каких либо доп. эмоций  просто выкладываю видео,
+
+    где Зинчук играет этот самый полет :)
+
+
+    каждый может просто сам посмотреть и все. 5 мегабайт.
+
+
+    <A HREF="http://www.bluescats.ru/files/zinchuk.avi">http://www.bluescats.ru/files/zinchuk.avi</A>'
+  replies:
+  - id: 27143
+    parent_id: 27139
+    date: 2006-04-25 17:40
+    poster: Руслан Чифуров ()
+    email: chifuroff<inbox>inbox.ru
+    subject: А я кстати не видел ни разу :-)))))
+    deleted: false
+    replies:
+    - id: 27144
+      parent_id: 27143
+      date: 2006-04-25 17:48
+      poster: Владимир Русинов (BluesCat)
+      email: volodya@blues.ru
+      subject: посмотрел? ;)
+      deleted: false
+  - id: 27145
+    parent_id: 27139
+    date: 2006-04-25 17:50
+    poster: Руслан Чифуров ()
+    email: chifuroff<sobaka>inbox.ru
+    subject: Серьёзно!
+    deleted: false
+    text: Они там по компьютеру потом проверяли. Что это за передача такая была? Только
+      мне показалось, что это скорее фантазии на тему "Полёта Шмеля".
+  - id: 27146
+    parent_id: 27139
+    date: 2006-04-25 18:00
+    poster: Dmitri Kazantsev (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: вот это настоящий музон
+    deleted: false
+    text: и лица тоже симпатичные такие
+  - id: 27155
+    parent_id: 27139
+    date: 2006-04-25 19:45
+    poster: Улет
+    email: шмяля
+    subject: а ногами может?
+    deleted: false

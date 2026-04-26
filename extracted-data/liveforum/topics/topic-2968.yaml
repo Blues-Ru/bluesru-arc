@@ -1,0 +1,72 @@
+topic_id: 2968
+slug: topic-2968
+title: Продолжение славной традиции - Cowboy Pete с ДР!!!
+first_post: 2005-12-02 14:12
+last_post: 2005-12-03 08:29
+post_count: 8
+posts:
+- id: 24832
+  parent_id: null
+  date: 2005-12-02 14:12
+  poster: (Grem)
+  email: grems@yandex.ru
+  subject: Продолжение славной традиции - Cowboy Pete с ДР!!!
+  deleted: false
+  replies:
+  - id: 24833
+    parent_id: 24832
+    date: 2005-12-02 14:16
+    poster: Дмитрий Казанцев (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: уже да?
+    deleted: false
+    text: ура!
+  - id: 24834
+    parent_id: 24832
+    date: 2005-12-02 15:05
+    poster: Руслан Чифуров
+    email: chifuroff<sobaka>inbox.ru
+    subject: Congratulations!!!
+    deleted: false
+    text: С Днём Варенья Пит! И всего тебе самого наилучшего. Alabama Train!
+    replies:
+    - id: 24835
+      parent_id: 24834
+      date: 2005-12-02 15:10
+      poster: Руслан Чифуров
+      email: chifuroff<sobaka>inbox.ru
+      subject: И кстати...
+      deleted: false
+      text: Завтра в Доме У Дороги будет празднование этого события. Приглашаются
+        все желающие.
+  - id: 24836
+    parent_id: 24832
+    date: 2005-12-02 15:30
+    poster: Cowboy Pete
+    email: cousins@yandex.ru
+    subject: Спасибо, спасибо, ребяты :-))) но - все-таки - завтра :-)))
+    deleted: false
+    text: :-)))
+    replies:
+    - id: 24837
+      parent_id: 24836
+      date: 2005-12-02 15:38
+      poster: Дмитрий Казанцев (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: вот и я так подумал
+      deleted: false
+  - id: 24842
+    parent_id: 24832
+    date: 2005-12-03 04:26
+    poster: Махач Мухайдинов (mahatma)
+    email: mahatma@nm.ru
+    subject: Поздраляю! тчк.
+    deleted: false
+  - id: 24843
+    parent_id: 24832
+    date: 2005-12-03 08:29
+    poster: Сергей Бабаев (S.B.)
+    email: from30@mail.ru
+    subject: '!!!'
+    deleted: false
+    text: Петя! Будь здоров, дружище!

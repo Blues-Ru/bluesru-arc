@@ -1,0 +1,26 @@
+topic_id: 3234
+slug: topic-3234
+title: Андерсон
+first_post: 2006-04-27 14:40
+last_post: 2006-04-27 20:52
+post_count: 2
+posts:
+- id: 27216
+  parent_id: null
+  date: 2006-04-27 14:40
+  poster: Dmitri Kazantsev (Dr. Nick)
+  email: dr.nick@blues.ru
+  subject: Андерсон
+  deleted: false
+  text: 'блюзит с Гаем Дэвисом:
+
+    http://www.guydavis.com/Ian%20Anderson%20on%20flute.MPG'
+  replies:
+  - id: 27218
+    parent_id: 27216
+    date: 2006-04-27 20:52
+    poster: Старый Майор
+    email: gypsy@mail.ru
+    subject: Впечатляющее выступление )))
+    deleted: false
+    text: целых 12 секунд ))))

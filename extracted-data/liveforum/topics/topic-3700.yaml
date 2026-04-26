@@ -1,0 +1,62 @@
+topic_id: 3700
+slug: topic-3700
+title: Куда ж мы катимся?!
+first_post: 2007-07-30 23:13
+last_post: 2007-08-02 19:24
+post_count: 6
+posts:
+- id: 33309
+  parent_id: null
+  date: 2007-07-30 23:13
+  poster: AlexBluesSoul
+  email: soulman@bk.ru
+  subject: Куда ж мы катимся?!
+  deleted: false
+  text: "На сайте bluesnews.ru \nhttp://www.bluesnews.ru/news/?id=3290\n\nChaka Khan\
+    \ позорно названа ПЕВЦОМ. Ё-моё! и это на блюзовом сайте!!!"
+  replies:
+  - id: 33310
+    parent_id: 33309
+    date: 2007-07-31 00:10
+    poster: блюзман
+    email: bm@blues.ru
+    subject: Чака Кан - это вроде не блюзовый певец!
+    deleted: false
+    text: Это вроде соул-певец! Плохо поёт - очень много визга!
+    replies:
+    - id: 33319
+      parent_id: 33310
+      date: 2007-08-02 17:56
+      poster: АлексБлюзСоул
+      email: soulman@bk.ru
+      subject: Певица это, певица...
+      deleted: false
+      text: Певица это, певица...
+      replies:
+      - id: 33320
+        parent_id: 33319
+        date: 2007-08-02 19:12
+        poster: блюзман
+        email: bm@blues.ru
+        subject: очень много визга
+        deleted: false
+        text: неважно - певец или певица
+  - id: 33312
+    parent_id: 33309
+    date: 2007-07-31 00:33
+    poster: Старый Майор
+    email: gypsy@mail.ru
+    subject: Ла уж.. промашка вышла.. напишите Калачёву про ЭТО
+    deleted: false
+    replies:
+    - id: 33321
+      parent_id: 33312
+      date: 2007-08-02 19:24
+      poster: блюзман
+      email: bm@blues.ru
+      subject: Калочёв - великий знаток
+      deleted: false
+      text: 'он точно знает кто певец, а кто певица!
+
+
+        он настоящий блюзман!'

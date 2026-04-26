@@ -1,0 +1,24 @@
+topic_id: 720
+slug: topic-720
+title: Диск  Blues Cousins за 50 руб на концерте Политехническом музее
+first_post: 2003-04-02 13:23
+last_post: 2003-04-04 11:07
+post_count: 2
+posts:
+- id: 11370
+  parent_id: null
+  date: 2003-04-02 13:23
+  poster: Игорь Головачев (Игорь Г.)
+  email: sunny_city@mail.ru
+  subject: Диск  Blues Cousins за 50 руб на концерте Политехническом музее
+  deleted: false
+  text: см BLUES-COUSINS.RU А если три флаера сделать...? ;)
+  replies:
+  - id: 11387
+    parent_id: 11370
+    date: 2003-04-04 11:07
+    poster: Alexei Sokolov (falcon)
+    email: real_sokol@mail.ru
+    subject: если делать три флаера......
+    deleted: false
+    text: ', то надо делать три билета... ;)'

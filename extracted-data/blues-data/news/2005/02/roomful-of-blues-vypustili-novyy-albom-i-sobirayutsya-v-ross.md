@@ -1,0 +1,12 @@
+---
+id: 162
+slug: roomful-of-blues-vypustili-novyy-albom-i-sobirayutsya-v-ross
+title: Roomful Of Blues выпустили новый альбом и собираются в Россию
+date: '2005-02-04'
+author: Федор Романенко
+legacy_path: news/2005/02/roomful-of-blues-vypustili-novyy-albom-i-sobirayutsya-v-ross.md
+---
+
+В начале 2005 года группа <b><a href="http://www.blues.ru/efes/roomful.asp">Roomful Of Blues</a></b> издала свой 18-й по счету альбом под названием <b>"Standing Room Only"</b>, что, вероятно, является намеком на то, что эту музыку нельзя слушать сидя. Сайт <a href="http://www.bluesnews.ru/"><b>BluesNews.ru</b></a> уже разместил вполне <a href="http://www.bluesnews.ru/novinka/">восторженную рецензию</a> на этот альбом - <i> думаю, что это лучшая пластинка румфуловцев, возвращающая группу на уровень качества середины 90-х годов – качества периода расцвета</i>.
+
+А изучение сайта <b><a href="http://www.roomful.com">roomful.com</a></b> привело к приятному и неожиданному открытию - 7 и 8 октября 2005 года группа собирается выступить в Москве и Санкт-Петербурге! В 2003 году Roomful Of Blues уже приезжали в Россию на <a href="http://www.blues.ru/efes/">Efes Pilsener Blues Festival</a>, однако на этот раз любители смогут послушать полный концерт группы в зале с великолепным звуком - в <a href="http://www.mmdm.ru">Московском Международном Доме Музыки</a>.

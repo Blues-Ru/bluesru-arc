@@ -1,0 +1,41 @@
+topic_id: 3170
+slug: topic-3170
+title: Weekend  в  столице (вопрос)
+first_post: 2006-03-21 21:11
+last_post: 2006-03-22 19:38
+post_count: 3
+posts:
+- id: 26728
+  parent_id: null
+  date: 2006-03-21 21:11
+  poster: Юрий Шахматов (yurish)
+  email: yurish_xx@mail.ru
+  subject: Weekend  в  столице (вопрос)
+  deleted: false
+  text: 'Доброго времени суток.
+
+    Сами мы не местные :), в смысле-я не москвич. Но буду в столице и в связи с этим
+    хотелось бы узнать, что многоуважаемые участники форума могут посоветовать посетить  по
+    топику в течении  ближайших  выходных в Москве (прим.-  с дамой:)).
+
+    Заранее благодарен всем откликнувшимся.'
+  replies:
+  - id: 26731
+    parent_id: 26728
+    date: 2006-03-22 09:11
+    poster: (Grem)
+    email: grems@yandex.ru
+    subject: Загляните сюда
+    deleted: false
+    text: "Можно и выбрать:http://www.blues.ru/gigs.asp\nhttp://www.zvuki.ru/N/L/\n\
+      http://www.parter.ru/category.asp?sect=24\nЕсли с дамой то советую посетить\
+      \ концерт  Мишуриса в \"Форте\" \nУдачи"
+    replies:
+    - id: 26741
+      parent_id: 26731
+      date: 2006-03-22 19:38
+      poster: Юрий Шахматов (yurish)
+      email: yurish_xx@mail.ru
+      subject: Премного благодарен.
+      deleted: false
+      text: Спасибо.

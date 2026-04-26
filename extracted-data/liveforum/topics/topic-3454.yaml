@@ -1,0 +1,37 @@
+topic_id: 3454
+slug: topic-3454
+title: Хороший сайтик
+first_post: 2006-10-20 12:10
+last_post: 2006-10-24 04:52
+post_count: 3
+posts:
+- id: 29137
+  parent_id: null
+  date: 2006-10-20 12:10
+  poster: Игорь Головачев (Игорь Г.)
+  email: sunny_city@mail.ru
+  subject: Хороший сайтик
+  deleted: false
+  text: 'Хорошие вещи с хорошим качеством
+
+
+    http://musicmp3.spb.ru/genres/'
+  replies:
+  - id: 29138
+    parent_id: 29137
+    date: 2006-10-20 16:51
+    poster: Бэлла
+    email: belka09@rambler.ru
+    subject: Хороший сайтик
+    deleted: false
+    text: Спасибо за инфо. И действительно, хороший сайтик...
+  - id: 29161
+    parent_id: 29137
+    date: 2006-10-24 04:52
+    poster: Мария
+    email: m_m@rambler.ru
+    subject: O.K.!
+    deleted: false
+    text: Глючил раньше, не удавалось скачивать вещи, хотя находилось все, что надо
+      именно там.  Сейчас вроде о.к., но не без проблем все же. Без менеджера для
+      скачивания не получится оттуда взять файлы. По крайней мере, у меня не получилось.

@@ -1,0 +1,87 @@
+topic_id: 2109
+slug: topic-2109
+title: 'Пресса о прощальном концерте Би Би Кинга в Москве: zvuki.ru'
+first_post: 2004-05-20 14:07
+last_post: 2004-05-21 01:25
+post_count: 8
+posts:
+- id: 18501
+  parent_id: null
+  date: 2004-05-20 14:07
+  poster: Михаил Бирюков (nECKAPb)
+  email: blackcat@blues.ru
+  subject: 'Пресса о прощальном концерте Би Би Кинга в Москве: zvuki.ru'
+  deleted: false
+  text: <a href="http://www.zvuki.ru/R/P/11506" target="_blank">http://www.zvuki.ru/R/P/11506</a>
+  replies:
+  - id: 18507
+    parent_id: 18501
+    date: 2004-05-20 23:48
+    poster: Михаил Бирюков (nECKAPb)
+    email: blackcat@blues.ru
+    subject: izvestia.ru
+    deleted: false
+    text: <a href="http://izvestia.ru/culture/article110198" target="_blank">http://izvestia.ru/culture/article110198</a>
+    replies:
+    - id: 18511
+      parent_id: 18507
+      date: 2004-05-21 00:54
+      poster: Andrei V. Evdokimov (evdokimov)
+      email: evdokimov@blues.ru
+      subject: все хорого, но не мог не посмеяться...
+      deleted: false
+      text: '... прочитав, что Эрик Клэптон стал для БиБиКинга "образцом для подражания".
+        Это примерно как если бы Ленин для Маркса был образцом для подражания.'
+      replies:
+      - id: 18512
+        parent_id: 18511
+        date: 2004-05-21 00:57
+        poster: Михаил Бирюков (nECKAPb)
+        email: blackcat@blues.ru
+        subject: а на материале со звуков...
+        deleted: false
+        text: '... ничего смешного не нашел? ;)
+
+          Вообще странно известинский корреспондент слушал на пресс-конференции. Всё
+          перепутал.'
+  - id: 18508
+    parent_id: 18501
+    date: 2004-05-20 23:51
+    poster: Михаил Бирюков (nECKAPb)
+    email: blackcat@blues.ru
+    subject: utro.ru
+    deleted: false
+    text: <a href="http://www.utro.ru/articles/2004/05/19/309525.shtml" target="_blank">http://www.utro.ru/articles/2004/05/19/309525.shtml</a>
+  - id: 18509
+    parent_id: 18501
+    date: 2004-05-20 23:55
+    poster: Михаил Бирюков (nECKAPb)
+    email: blackcat@blues.ru
+    subject: izvestia.ru (2)
+    deleted: false
+    text: <a href="http://izvestia.ru/culture/article111480" target="_blank">http://izvestia.ru/culture/article111480</a>
+    replies:
+    - id: 18513
+      parent_id: 18509
+      date: 2004-05-21 01:25
+      poster: Andrei V. Evdokimov (evdokimov)
+      email: evdokimov@blues.ru
+      subject: дичь крупным помолом
+      deleted: false
+      text: "Ок, фраза \"Еще я тогда побывал в детской больнице и надеюсь снова туда\
+        \ попасть.\" - просто неловко сформулирована. Ок, \"приезжал три года назад\"\
+        \ - что-то не правильно понято. Но когда Great Spirit перевели как \"Большой\
+        \ Босс\" - я не смог дальше читать. \nблин, а в другой статье: \"прощальный\
+        \ концерт - это как похороны\" - изящно как сказано! \nОткуда все это берется?\
+        \ Я три раза сказал \"Еженедельному журналу\", что \"Дельта Миссиссиппи\"\
+        \ - название района, а не географический термин... Все равно написали с маленькой.\
+        \ В статье у меня сказано, что приехал он в четвертый раз. Все равно, в подзаголовке\
+        \ статьи редакция пишет \"в третий\"..."
+  - id: 18510
+    parent_id: 18501
+    date: 2004-05-21 00:06
+    poster: Михаил Бирюков (nECKAPb)
+    email: blackcat@blues.ru
+    subject: izvestia.ru (3)
+    deleted: false
+    text: <a href="http://izvestia.ru/culture/article113111" target="_blank">http://izvestia.ru/culture/article113111</a>

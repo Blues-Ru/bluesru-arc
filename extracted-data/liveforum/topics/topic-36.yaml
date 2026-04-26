@@ -1,0 +1,43 @@
+topic_id: 36
+slug: topic-36
+title: У меня День Рождения
+first_post: 2002-01-05 09:52
+last_post: 2002-01-05 19:24
+post_count: 4
+posts:
+- id: 24
+  parent_id: null
+  date: 2002-01-05 09:52
+  poster: Grey Wolf
+  email: Harmonica@blues.ru
+  subject: У меня День Рождения
+  deleted: false
+  text: 'Всех приглашаю отметить его в клубе "2-й этаж" 6-го января.
+
+    Приходите. Буду пивом угощять. :-)'
+  replies:
+  - id: 26
+    parent_id: 24
+    date: 2002-01-05 12:47
+    poster: Alex  (Mao)
+    email: shou_dao@hotmail.com
+    subject: Поздравляю
+    deleted: false
+    text: Опять напьешься ))))))Дисциплину хулиганить будешь.))))
+  - id: 27
+    parent_id: 24
+    date: 2002-01-05 18:18
+    poster: Андрей PRG
+    email: peregnoy@mail.ru
+    subject: С днём варенья!
+    deleted: false
+    text: ;-)))
+  - id: 28
+    parent_id: 24
+    date: 2002-01-05 19:24
+    poster: Руслан Абдалов (RR)
+    email: RR@RAMBLER.RU
+    subject: Поздравляю ...
+    deleted: false
+    text: Желаю удачи и творческих успехов ! :) Главное чтобы голова была в надежных
+      руках :))

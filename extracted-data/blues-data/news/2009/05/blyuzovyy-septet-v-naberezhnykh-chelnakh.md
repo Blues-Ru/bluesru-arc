@@ -1,0 +1,12 @@
+---
+id: 644
+slug: blyuzovyy-septet-v-naberezhnykh-chelnakh
+title: Блюзовый септет в Набережных Челнах
+date: '2009-05-13'
+author: Blues.Ru
+legacy_path: news/2009/05/blyuzovyy-septet-v-naberezhnykh-chelnakh.md
+---
+
+<a href="http://www.chelnyltd.ru/news/chelnyi-klub/posts/blues-division-band" target="_blank">Челны L.T.D. соообщает</a>:
+
+В четверг в "Цунами" в рок-баре London резидентские права получила новая челнинская блюзовая группа Blues Division Band. У всех или почти у всех участников колектива до объединения уже был опыт работы в известных и очень хорошо известных командах Челнов. В репертуаре BDB можно найти блюзовые стандарты в собственной аранжировке. Общая продолжительность программы в режиме нонстоп на сегодня доходит до одного часа. Теперь в городе есть блюзовое место, а следующий концерт Blues Division Band назначен на 21 мая.

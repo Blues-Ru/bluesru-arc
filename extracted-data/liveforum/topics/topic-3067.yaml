@@ -1,0 +1,71 @@
+topic_id: 3067
+slug: topic-3067
+title: Гестбуки
+first_post: 2006-01-31 02:28
+last_post: 2006-02-01 18:41
+post_count: 6
+posts:
+- id: 25681
+  parent_id: null
+  date: 2006-01-31 02:28
+  poster: Федор Романенко (fedor)
+  email: fedor@blues.ru
+  subject: Гестбуки
+  deleted: false
+  text: Я по большей части решил проблему автоматического спама в гестбуке, остались
+    блоги, там кошмар, вообще ;) Если найдете какой-нибудь сломанный гестбук на сайтах,
+    которые имеют отношение к блюз.ру, дайте знать, я поправлю. Спасибо!
+  replies:
+  - id: 25693
+    parent_id: 25681
+    date: 2006-01-31 16:13
+    poster: VoV  (Barmaley)
+    email: barmaley-vov@yandex.ru
+    subject: Вот оно, ЩЩЩАСТЬЕ!
+    deleted: false
+    text: 'http://svetboogieband.com/GuestBook.asp
+
+      :)'
+    replies:
+    - id: 25696
+      parent_id: 25693
+      date: 2006-01-31 17:22
+      poster: Федор Романенко (fedor)
+      email: fedor@blues.ru
+      subject: Нуууу...
+      deleted: false
+      text: Битва со спаммерами - бесконечна ;) Они тоже - люди хитрые. По крайней
+        мере, мы отсечем большую часть спама. И некоторые настроенные постилки сломаются
+        через 2 дня. Кстати, кроме svetboogieband.com, за сегодня спама в остальные
+        10 гестбуков не было. Может, дело в том, что сайты в домене .com - более привлекательные?
+      replies:
+      - id: 25731
+        parent_id: 25696
+        date: 2006-02-01 17:09
+        poster: VoV  (Barmaley)
+        email: barmaley-vov@yandex.ru
+        subject: Не-а... Кажысь не починилось...
+        deleted: false
+  - id: 25732
+    parent_id: 25681
+    date: 2006-02-01 17:10
+    poster: Александр Олейник (letuciennik)
+    email: aleksandr@svetboogieband.com
+    subject: svetboogieband.blues.ru
+    deleted: false
+    text: вот там то и находится сломанный гестбук. Сможете починить?
+    replies:
+    - id: 25735
+      parent_id: 25732
+      date: 2006-02-01 18:41
+      poster: Федор Романенко (fedor)
+      email: fedor@blues.ru
+      subject: svetboogieband.com/guestbook.asp
+      deleted: false
+      text: Ну он не сломанный, а спама скушал некоторое количества. Как я заметил
+        сегодня, там было много спама за 31-е число, но не было за 1-е. Т.е., судя
+        по всему, злодеи настроили робота 31-го, но сегодня робот, может, сломался.
+        Хотя, ломаться у них должно только завтра, может, они просто не постили ничего.
+        Поживем, увидим... Я не могу заблокировать ручной постинг, только некоторое
+        подмножество автоматов, которые настраивают один раз, а потом они фигачат
+        каждый день по несколько лет.

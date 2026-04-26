@@ -1,0 +1,33 @@
+topic_id: 1436
+slug: topic-1436
+title: Если кто собрался на Дилейна...
+first_post: 2003-09-04 14:18
+last_post: 2003-09-04 16:37
+post_count: 2
+posts:
+- id: 14121
+  parent_id: null
+  date: 2003-09-04 14:18
+  poster: John
+  email: ssy@ac.com.ru
+  subject: Если кто собрался на Дилейна...
+  deleted: false
+  text: 'форте - 600р.
+
+    ритмблюз - 500р.
+
+    правда в ритмблюзе "дипозит стула" (я так понял, это если посидеть хочешь)  ещё
+    500р.
+
+    Я пойду в ритмблюз.
+
+    Интересно, ещё кто-нибудь собирается? Или все на стадион пойдут?'
+  replies:
+  - id: 14134
+    parent_id: 14121
+    date: 2003-09-04 16:37
+    poster: Anton Klepikov (Antokha)
+    email: antokha@yandex.ru
+    subject: в R&B...
+    deleted: false
+    text: депозит 500р. действительно взяли, но обещали вернуть! :-))

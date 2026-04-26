@@ -1,0 +1,81 @@
+topic_id: 2369
+slug: topic-2369
+title: Blues Brothers
+first_post: 2004-12-31 14:55
+last_post: 2005-01-09 10:11
+post_count: 8
+posts:
+- id: 20091
+  parent_id: null
+  date: 2004-12-31 14:55
+  poster: Петр Кунарев (Eastwood2002)
+  email: cousins@yandex.ru
+  subject: Blues Brothers
+  deleted: false
+  text: А кто знает, Эйкройд и парнишка из BB 2000 сами на гармошках играют, или просто
+    изображают? Уж очинно нравится их "дуэль" на Turn on your lovelights и когда парень
+    в Ghost riders зажигает.
+  replies:
+  - id: 20093
+    parent_id: 20091
+    date: 2005-01-01 12:34
+    poster: Валентин
+    email: voshalb@rambler.ru
+    subject: А кстати,какой дурак поставил в проградва фильма про Братьев Блюз почти
+      одновременно в программу ...
+    deleted: false
+  - id: 20099
+    parent_id: 20091
+    date: 2005-01-04 08:51
+    poster: Malcolm Ray  Redriver (Mike)
+    email: lifebythedrop@yandex.ru
+    subject: Быр-быр-быр-р-р-р
+    deleted: false
+    text: Я конечно может и не в тему, но может просвятите. А где там этот... ну тот
+      про которого в статье написано, чья цитата приводится, вроде он музыкальных
+      фильмов не любит, так где он там Спилберга увидел? Или он его в Френком Озом
+      перепутал?
+    replies:
+    - id: 20100
+      parent_id: 20099
+      date: 2005-01-04 14:14
+      poster: Andrei V. Evdokimov (evdokimov)
+      email: evdokimov@blues.ru
+      subject: Спилберга
+      deleted: false
+      text: там можно увидеть в титрах... а на рожу я его плохо знаю.
+  - id: 20106
+    parent_id: 20091
+    date: 2005-01-04 18:26
+    poster: Gbiz
+    email: gbiz@pisem.net
+    subject: Спилберг - в ББ-1
+    deleted: false
+    text: это клерк в налоговой инспекции
+    replies:
+    - id: 20127
+      parent_id: 20106
+      date: 2005-01-09 10:11
+      poster: Malcolm Ray  Redriver (Mike)
+      email: lifebythedrop@yandex.ru
+      subject: Ну надо же... надо бы приглядеться.
+      deleted: false
+  - id: 20107
+    parent_id: 20091
+    date: 2005-01-04 18:29
+    poster: Gbiz
+    email: gbiz@pisem.net
+    subject: Не знаю как маленький брат,
+    deleted: false
+    text: но Дэн Эйкройд точно сам играет на гармошке.
+    replies:
+    - id: 20114
+      parent_id: 20107
+      date: 2005-01-05 04:22
+      poster: AlexIV
+      email: www.beatween.ru
+      subject: За маленького брата...
+      deleted: false
+      text: '...насколько я знаю, играет John Popper из "Blues Traveler"
+
+        http://www.bluestraveler.com/memberBio.php?mid=1'

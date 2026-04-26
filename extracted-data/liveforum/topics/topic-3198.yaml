@@ -1,0 +1,52 @@
+topic_id: 3198
+slug: topic-3198
+title: Теперь вот ещё и Дюк...
+first_post: 2006-04-11 00:14
+last_post: 2006-04-17 00:11
+post_count: 5
+posts:
+- id: 26907
+  parent_id: null
+  date: 2006-04-11 00:14
+  poster: Alexey B. Ilyichev
+  email: нету
+  subject: Теперь вот ещё и Дюк...
+  deleted: false
+  text: "http://www.rosebudus.com/tourdates/robillard.html\n\n2/17/2007\tMoscow International\
+    \ Performing Arts Centre\tMoscow\t\tRUSSIA\tEvening with\n\nНу прямо нашествие\
+    \ какое-то!"
+  replies:
+  - id: 26909
+    parent_id: 26907
+    date: 2006-04-11 03:10
+    poster: Федор Романенко (fedor)
+    email: fedor@blues.ru
+    subject: Вота!
+    deleted: false
+    text: У меня в связи с этой серией концертов возникла идея... Их приглашают в
+      ММДМ с условием эксклюзивности, т.е. единственный концерт ... в Москве. Надо
+      их всех скатать во Владимир, скажем, и там послушать в непринужденной обстановке
+      ;)
+    replies:
+    - id: 26910
+      parent_id: 26909
+      date: 2006-04-11 03:13
+      poster: Владимир Русинов (BluesCat)
+      email: volodya@blues.ru
+      subject: лучше еще проще - например в Мытищи! :)
+      deleted: false
+      replies:
+      - id: 26950
+        parent_id: 26910
+        date: 2006-04-17 00:11
+        poster: Alexey B. Ilyichev
+        email: нету
+        subject: Или Зеленоград!
+        deleted: false
+    - id: 26912
+      parent_id: 26909
+      date: 2006-04-11 15:34
+      poster: Marat Dakota
+      email: mhobbit@mail.ru
+      subject: только бы еще клуб со звуком покруче, чем в Z-Club-е...
+      deleted: false

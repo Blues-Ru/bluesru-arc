@@ -1,0 +1,77 @@
+topic_id: 205
+slug: topic-205
+title: Happy Birthday!
+first_post: 2002-05-16 11:31
+last_post: 2002-05-17 11:52
+post_count: 7
+posts:
+- id: 4403
+  parent_id: null
+  date: 2002-05-16 11:31
+  poster: Алексей Аграновский (Док)
+  email: aaa@genebee.msu.su
+  subject: Happy Birthday!
+  deleted: false
+  text: 'Блюзовый гитарист и певец Юрий Каверкин родился (не)много лет назад в Tbilisi
+    (Georgia). С днем рождения, Юра!
+
+
+    Отмечать начали вчера в Би Би Кинге. Было весело. Сегодня вторая серия.'
+  replies:
+  - id: 4404
+    parent_id: 4403
+    date: 2002-05-16 12:26
+    poster: AlexIV
+    email: evergreens@mail.ru
+    subject: Happy Birthday, Юрий CoverKing! :-)
+    deleted: false
+    text: Да не обидится на меня юбиляр! :-) Здоровья тебе и исполнения желаний!
+    replies:
+    - id: 4419
+      parent_id: 4404
+      date: 2002-05-17 11:52
+      poster: Юрий Каверкин
+      email: kaverkin@rol.ru
+      subject: Thanks !
+      deleted: false
+      text: 'Всем огромный thanks за поздравления !!!
+
+        Всех благ и т.д и т.п.'
+  - id: 4406
+    parent_id: 4403
+    date: 2002-05-16 13:51
+    poster: YODES
+    email: yodes
+    subject: Не знал.... Присоединяюсть....
+    deleted: false
+    text: 'Дядя Юра ! Огромной удачи, больших денег и нормального здоровья тебе!!!
+
+      С меня...
+
+      Дима С едой.'
+  - id: 4408
+    parent_id: 4403
+    date: 2002-05-17 07:52
+    poster: Malcolm Ray    Readriver (Mike)
+    email: Mrg_mike@rambler.ru
+    subject: Great
+    deleted: false
+    text: Присоединяюсь к поздравлениям
+  - id: 4410
+    parent_id: 4403
+    date: 2002-05-17 09:48
+    poster: Ильницкий Евгений
+    email: ev-il@mail.ru
+    subject: респект
+    deleted: false
+    text: с днем рождения:)
+  - id: 4417
+    parent_id: 4403
+    date: 2002-05-17 11:37
+    poster: Arsen
+    email: shomakhov@yahoo.com
+    subject: Happy B-day!
+    deleted: false
+    text: 'Many happy returns of the day!
+
+      Keep on jamming! :)'

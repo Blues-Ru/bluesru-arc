@@ -1,0 +1,24 @@
+topic_id: 3111
+slug: topic-3111
+title: 'Ту Док Аграновский и всем желающим:'
+first_post: 2006-02-16 11:44
+last_post: 2006-02-17 16:06
+post_count: 2
+posts:
+- id: 26136
+  parent_id: null
+  date: 2006-02-16 11:44
+  poster: Петр Кунарев (Eastwood2002)
+  email: cousins@yandex.ru
+  subject: 'Ту Док Аграновский и всем желающим:'
+  deleted: false
+  text: http://cowboy-pete.livejournal.com/309915.html
+  replies:
+  - id: 26174
+    parent_id: 26136
+    date: 2006-02-17 16:06
+    poster: Алексей Аграновский (Док)
+    email: aaa@genebee.msu.su
+    subject: Удачи, ребята!
+    deleted: false
+    text: Попутного ветра в гиг и шесть футов под бом-брамселем.

@@ -1,0 +1,24 @@
+topic_id: 2954
+slug: topic-2954
+title: Son House "Pearline"
+first_post: 2005-11-27 13:25
+last_post: 2005-11-27 13:27
+post_count: 2
+posts:
+- id: 24745
+  parent_id: null
+  date: 2005-11-27 13:25
+  poster: Зы
+  email: korpiklaani@mail15.com
+  subject: Son House "Pearline"
+  deleted: false
+  text: ОЧень нужна ваша помощь!!!
+  replies:
+  - id: 24746
+    parent_id: 24745
+    date: 2005-11-27 13:27
+    poster: Зы
+    email: korpiklaani@mail15.com
+    subject: Son House "Pearline"
+    deleted: false
+    text: Как её сыграть?!!

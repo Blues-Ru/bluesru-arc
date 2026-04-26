@@ -1,0 +1,25 @@
+topic_id: 504
+slug: topic-504
+title: Bo Diddley
+first_post: 2002-12-09 23:25
+last_post: 2002-12-09 23:35
+post_count: 2
+posts:
+- id: 9278
+  parent_id: null
+  date: 2002-12-09 23:25
+  poster: Александр
+  email: rambow@mail.ru
+  subject: Bo Diddley
+  deleted: false
+  text: Люди подскажите где можно найти текс песни I Can't Tell You и ещё текст Hard
+    Way, последнюю и Johnny Winter и Ragtime исполняют.
+  replies:
+  - id: 9279
+    parent_id: 9278
+    date: 2002-12-09 23:35
+    poster: Александр
+    email: rambow@mail.ru
+    subject: Bo Diddley
+    deleted: false
+    text: Люди, блюз называется не "I Can't Tell You", а "I can tell"

@@ -1,0 +1,47 @@
+topic_id: 21
+slug: topic-21
+title: http://www.realmusic.ru/music/blues/
+first_post: 2002-02-02 07:03
+last_post: 2002-02-03 04:36
+post_count: 4
+posts:
+- id: 578
+  parent_id: null
+  date: 2002-02-02 07:03
+  poster: nick
+  email: kuku@hotmail.com
+  subject: http://www.realmusic.ru/music/blues/
+  deleted: false
+  text: http://www.realmusic.ru/music/blues/
+  replies:
+  - id: 579
+    parent_id: 578
+    date: 2002-02-02 07:44
+    poster: Дима Казанцев (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: Вот послушай, Федор ;)
+    deleted: false
+    text: 'А ты говоришь нет талантов!
+
+      Как туда Женя Санчилло попал?'
+    replies:
+    - id: 598
+      parent_id: 579
+      date: 2002-02-03 03:39
+      poster: Федор Романенко (fedor)
+      email: fedor@blues.ru
+      subject: Точно! ;)
+      deleted: false
+      text: Подполье поет блюзы (интернационал) под звуки сливающейся в унитаз воды,
+        чтобы враг не услышал. В первых рядах супер-группа "Потуги Жопочки"! ;)))
+        Хорошая ссылка. ;)
+      replies:
+      - id: 599
+        parent_id: 598
+        date: 2002-02-03 04:36
+        poster: Дима Казанцев (Dr. Nick)
+        email: dr.nick@blues.ru
+        subject: А вот вчера было не так!
+        deleted: false
+        text: Тогда был Санчилло на первом с 'Bright Light Big City'. Все же "Жопочка"
+          посильнее будет (и более подпольная к тому же).

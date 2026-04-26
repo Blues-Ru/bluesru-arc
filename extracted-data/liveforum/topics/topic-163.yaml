@@ -1,0 +1,35 @@
+topic_id: 163
+slug: topic-163
+title: bluues rhythm section 19 апреля в "вудстоке"
+first_post: 2002-04-17 10:45
+last_post: 2002-04-18 12:42
+post_count: 3
+posts:
+- id: 3748
+  parent_id: null
+  date: 2002-04-17 10:45
+  poster: Ильницкий
+  email: ev-il@mail.ru
+  subject: bluues rhythm section 19 апреля в "вудстоке"
+  deleted: false
+  text: 'Приходите
+
+    часов в 9 - 10 вечера'
+  replies:
+  - id: 3797
+    parent_id: 3748
+    date: 2002-04-18 12:20
+    poster: Slavik Chernov (Blacky)
+    email: Blacky@softhome.net
+    subject: Братецкий бутет с вами играть?
+    deleted: false
+    text: Я тогда вас в свою афишку на гармонике внесу :-)
+    replies:
+    - id: 3798
+      parent_id: 3797
+      date: 2002-04-18 12:42
+      poster: Ильницкий
+      email: ev-il@mail.ru
+      subject: ага
+      deleted: false
+      text: будет разумеется

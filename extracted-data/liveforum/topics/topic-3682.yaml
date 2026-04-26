@@ -1,0 +1,40 @@
+topic_id: 3682
+slug: topic-3682
+title: Странно что-то
+first_post: 2007-07-13 20:34
+last_post: 2007-07-14 11:31
+post_count: 4
+posts:
+- id: 33180
+  parent_id: null
+  date: 2007-07-13 20:34
+  poster: Стивентайлер
+  email: steven@steven
+  subject: Странно что-то
+  deleted: false
+  text: Никто не пишет про концерт блюзовой группы "Аэросмит"... Не был что ли никто?
+  replies:
+  - id: 33181
+    parent_id: 33180
+    date: 2007-07-13 20:39
+    poster: Старый Майор
+    email: gypsy@mail.ru
+    subject: Вот когда Аэросмит придет в Дом У, тогда мы на них и сходим..
+    deleted: false
+    text: ..а по всяким гламурно-пафосным заведениям мы не ходцы, звиняйте..
+  - id: 33182
+    parent_id: 33180
+    date: 2007-07-14 05:54
+    poster: Гаримур
+    email: gary@blues.ru
+    subject: да, чётко было
+    deleted: false
+    text: настоящие блюзы! чёрные как кукушка!
+  - id: 33183
+    parent_id: 33180
+    date: 2007-07-14 11:31
+    poster: джоэбанамасса
+    email: joe@joy.ru
+    subject: оффтоп в оффтопку
+    deleted: false
+    text: А мне больше ваша дочка нраитса! Long live Liv Tyler! Нраааится...

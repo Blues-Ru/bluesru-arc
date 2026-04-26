@@ -1,0 +1,34 @@
+topic_id: 993
+slug: topic-993
+title: Hendrix
+first_post: 2002-05-09 07:57
+last_post: 2002-05-09 11:23
+post_count: 3
+posts:
+- id: 4318
+  parent_id: null
+  date: 2002-05-09 07:57
+  poster: Malcolm Ray    Readriver (Mike)
+  email: Mrg_mike@rambler.ru
+  subject: Hendrix
+  deleted: false
+  text: 'мне тут сообщили, что Хендрикс играл кое-где слайдом, случайно никто не знает:
+    а где именно?'
+  replies:
+  - id: 4319
+    parent_id: 4318
+    date: 2002-05-09 10:50
+    poster: Дима Казанцев (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: Cry Of Love
+    deleted: false
+    text: Послушай этот альбом, чем он там только не играет.
+    replies:
+    - id: 4320
+      parent_id: 4319
+      date: 2002-05-09 11:23
+      poster: Malcolm Ray    Readriver (Mike)
+      email: Mrg_mike@rambler.ru
+      subject: Доку Нику
+      deleted: false
+      text: Уже слышал. Послушаю еще. Мерси и с праздничком

@@ -1,0 +1,86 @@
+topic_id: 529
+slug: topic-529
+title: Посоветуйте music в типа Hound Dog Taylor'а
+first_post: 2002-12-24 17:17
+last_post: 2002-12-25 20:09
+post_count: 7
+posts:
+- id: 9615
+  parent_id: null
+  date: 2002-12-24 17:17
+  poster: KL
+  email: Lucheev@vpost.ru
+  subject: Посоветуйте music в типа Hound Dog Taylor'а
+  deleted: false
+  text: 'Добрый день. Никогда не любил песни старых негров о тяжелой доле, а
+
+    тут случайно наткнулся на диск Hound Dog Taylor & HouseRockers.
+
+    Замечательная вещь. Посоветуйте еще, чего-нибудь. Спасибо.'
+  replies:
+  - id: 9626
+    parent_id: 9615
+    date: 2002-12-25 14:57
+    poster: Алексей Аграновский (Док)
+    email: aaa@genebee.msu.su
+    subject: Так
+    deleted: false
+    text: поздно уже Вам советовать. Нашли уже самостоятельно.
+    replies:
+    - id: 9628
+      parent_id: 9626
+      date: 2002-12-25 16:57
+      poster: KL
+      email: Lucheev@vpost.ru
+      subject: Так он же, наверно, не один.
+      deleted: false
+      text: 'Есть же всякие (слышал только имя) Studebeker''ы.
+
+        Ведь как здорово, гады, играют, а инф. про них мало.'
+      replies:
+      - id: 9631
+        parent_id: 9628
+        date: 2002-12-25 18:26
+        poster: Andrei V. Evdokimov (evdokimov)
+        email: evdokimov@blues.ru
+        subject: нелегко найти ответ
+        deleted: false
+        text: "Как архитип, ХДТ и обычен и неповторим одновременно. \nЧто касается\
+          \ идеологии, то схожий блюз, т.е., безыскуссный и высокоэнергичный, играют\
+          \ подопечные лейбла Fat Possum. R.L.Burnside - в первую голову. Paul Wine\
+          \ Jones - еще ближе по звучанию, но сильно отстает по энергетике (во всяуком\
+          \ случае, в своих студийных альбомах).\nКогда Thorogood мочит буги-вуги,\
+          \ это напоминает не только JLH, но и HDT.\nПо слайдовому звучанию, Тейлор\
+          \ ориентировался на J.B.Hutto. Однако по сравнению с анархизмом Тейлор,\
+          \ Хьютто - слишком организован. \nЧто касается анархизма, то тут непривзойден\
+          \ Hubert Sumlin. Его брейки в хаулинвулфовских песнях сколь нелогичны, столь\
+          \ и абсолютно к месту. (сольные записи Самлина - это долгая история).\n\
+          вообще, стоит просто повнимательней изучать современников и земляков: послушать\
+          \ записи не самых известных чикагских артистов конца 60-х. Наверное, так\
+          \ найдется кто-то \"типа\"."
+        replies:
+        - id: 9634
+          parent_id: 9631
+          date: 2002-12-25 20:08
+          poster: KL
+          email: Lucheev@sobin.ru
+          subject: Спасибо. Узнал много нового.
+          deleted: false
+          text: 'Послушать и отобрать редко удается. Часто надо знать совершенно
+
+            конкретно, что хочешь найти.'
+      - id: 9632
+        parent_id: 9628
+        date: 2002-12-25 18:27
+        poster: Andrei V. Evdokimov (evdokimov)
+        email: evdokimov@blues.ru
+        subject: Studebaker John?
+        deleted: false
+        replies:
+        - id: 9635
+          parent_id: 9632
+          date: 2002-12-25 20:09
+          poster: KL
+          email: lucheev@vpost.ru
+          subject: Да.
+          deleted: false

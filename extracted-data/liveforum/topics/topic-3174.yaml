@@ -1,0 +1,76 @@
+topic_id: 3174
+slug: topic-3174
+title: программеры балуются
+first_post: 2006-03-23 18:47
+last_post: 2006-03-24 12:42
+post_count: 8
+posts:
+- id: 26766
+  parent_id: null
+  date: 2006-03-23 18:47
+  poster: Andrei V. Evdokimov (evdokimov)
+  email: evdokimov@blues.ru
+  subject: программеры балуются
+  deleted: false
+  text: http://www.desktopblues.lichtlabor.ch/
+  replies:
+  - id: 26769
+    parent_id: 26766
+    date: 2006-03-23 19:31
+    poster: Алексей Аграновский (Док)
+    email: aaa@genebee.msu.su
+    subject: Кто бы побаловался немножко и здесь -
+    deleted: false
+    text: с разделом "В этот день..." А то неизвестно, что ещё случилось в этот день,
+      а за окном темнеет.
+    replies:
+    - id: 26776
+      parent_id: 26769
+      date: 2006-03-23 21:31
+      poster: Старый Майор
+      email: gypsy@mail.ru
+      subject: Ответственный - Евдокимов!
+      deleted: false
+      text: Евдокимов, приди к ответственности!
+    - id: 26777
+      parent_id: 26769
+      date: 2006-03-23 23:24
+      poster: Andrei V. Evdokimov (evdokimov)
+      email: evdokimov@blues.ru
+      subject: простите,
+      deleted: false
+      text: а что не так?
+      replies:
+      - id: 26778
+        parent_id: 26777
+        date: 2006-03-23 23:26
+        poster: Andrei V. Evdokimov (evdokimov)
+        email: evdokimov@blues.ru
+        subject: братцы
+        deleted: false
+        text: это к федору! наполнение есть, показ - отсутствует
+        replies:
+        - id: 26785
+          parent_id: 26778
+          date: 2006-03-24 12:42
+          poster: Федор Романенко (fedor)
+          email: fedor@blues.ru
+          subject: Глюк...
+          deleted: false
+          text: Там в тексте сообщения в ссылке href= не хватало закрывающей кавычки,
+            я поправил.
+  - id: 26771
+    parent_id: 26766
+    date: 2006-03-23 20:02
+    poster: Игорь Головачев (Игорь Г.)
+    email: sunny_city@mail.ru
+    subject: Класссссссссссссссссссс !!!!
+    deleted: false
+  - id: 26783
+    parent_id: 26766
+    date: 2006-03-24 08:57
+    poster: Эльдар Музафаров
+    email: elicaster co6@ka мейл-d0t ru
+    subject: Кулъ! Рулезъ! Риспектъ!
+    deleted: false
+    text: Панравилась...

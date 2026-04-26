@@ -1,0 +1,127 @@
+topic_id: 3491
+slug: topic-3491
+title: Мишурис
+first_post: 2006-11-14 15:26
+last_post: 2006-11-17 02:40
+post_count: 13
+posts:
+- id: 29364
+  parent_id: null
+  date: 2006-11-14 15:26
+  poster: Алексей Фролов (Buchothk)
+  email: jokerthk@yandex.ru
+  subject: Мишурис
+  deleted: false
+  text: Купил вот на днях в Ашане диск за 20 рублей... Мишурис "Здравствуй, моряк"..
+    2000 что ли года... забавно :))))
+  replies:
+  - id: 29368
+    parent_id: 29364
+    date: 2006-11-14 16:36
+    poster: Игорь Головачев (Игорь Г.)
+    email: sunny_city@mail.ru
+    subject: И мне приятель принес такую пластинку
+    deleted: false
+    text: Чудеса и только :)
+    replies:
+    - id: 29369
+      parent_id: 29368
+      date: 2006-11-14 17:04
+      poster: Михаил Мишурис (mishouris)
+      email: mishouris@mail.ru
+      subject: Чудеса...
+      deleted: false
+      text: 'Вам чудеса, а меня тогда Петрович от блюза отлучил...
+
+        Правда потом обратно принял, но это ж годы прошли!'
+      replies:
+      - id: 29371
+        parent_id: 29369
+        date: 2006-11-14 22:12
+        poster: Kot Matraskin (KotMatraskin)
+        email: kotmatrs@mail.ru
+        subject: Где тот АШАН?
+        deleted: false
+        text: В каком из? Я этот диск уже лет 5 как ищу!!!
+        replies:
+        - id: 29373
+          parent_id: 29371
+          date: 2006-11-15 00:55
+          poster: Михаил Мишурис (mishouris)
+          email: mishouris@mail.ru
+          subject: Диск
+          deleted: false
+          text: А у меня спросить слабо что ли?
+          replies:
+          - id: 29375
+            parent_id: 29373
+            date: 2006-11-15 08:36
+            poster: Dmitri Kazantsev (Dr. Nick)
+            email: dr.nick@blues.ru
+            subject: я тебя спрашивал
+            deleted: false
+            text: ты сказал, что нет его более
+            replies:
+            - id: 29376
+              parent_id: 29375
+              date: 2006-11-15 11:09
+              poster: Михаил Мишурис (mishouris)
+              email: mishouris@mail.ru
+              subject: Диск
+              deleted: false
+              text: Ну переписать-то есть...
+              replies:
+              - id: 29377
+                parent_id: 29376
+                date: 2006-11-15 12:41
+                poster: Dmitri Kazantsev (Dr. Nick)
+                email: dr.nick@blues.ru
+                subject: а настоящий?
+                deleted: false
+                replies:
+                - id: 29378
+                  parent_id: 29377
+                  date: 2006-11-15 12:52
+                  poster: Михаил Мишурис (mishouris)
+                  email: mishouris@mail.ru
+                  subject: Диск.
+                  deleted: false
+                  text: Видимо, настоящий в Ашане. У меня только один остался.
+                  replies:
+                  - id: 29379
+                    parent_id: 29378
+                    date: 2006-11-15 13:22
+                    poster: Dmitri Kazantsev (Dr. Nick)
+                    email: dr.nick@blues.ru
+                    subject: что есть Ашан и где он?
+                    deleted: false
+                    replies:
+                    - id: 29381
+                      parent_id: 29379
+                      date: 2006-11-15 21:42
+                      poster: Алексей Фролов (Buchothk)
+                      email: jokerthk@yandex.ru
+                      subject: Ашан
+                      deleted: false
+                      text: 'Ашан - есть зло. Но иногда там распродают Мишуриса :)
+
+                        А было это в Ашане Мытищи, что на Осташковском шоссе.. и Мишуриса
+                        там было много. ;)
+
+                        Кстати, очень рекомендую. Хорошая музыка, хоть и совсем-совсем
+                        мягко скажем ОКОЛОблюзовая. :))))'
+  - id: 29386
+    parent_id: 29364
+    date: 2006-11-16 14:21
+    poster: Илья Кривандин
+    email: ilija@bk.ru
+    subject: а мне понравилось
+    deleted: false
+  - id: 29389
+    parent_id: 29364
+    date: 2006-11-17 02:40
+    poster: Руслан Чифуров ()
+    email: chifuroff<sobaka>inbox.ru
+    subject: Мне диск понравился
+    deleted: false
+    text: Хорошая такая поп-музыка. И музыканты классно играют.

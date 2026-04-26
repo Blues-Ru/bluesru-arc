@@ -1,0 +1,65 @@
+topic_id: 227
+slug: topic-227
+title: А вот мне интересно
+first_post: 2002-07-23 17:13
+last_post: 2002-07-24 08:42
+post_count: 6
+posts:
+- id: 6264
+  parent_id: null
+  date: 2002-07-23 17:13
+  poster: Дима Казанцев (Dr. Nick)
+  email: dr.nick@blues.ru
+  subject: А вот мне интересно
+  deleted: false
+  text: Завтра вроде как джем в БиБи, который я должен вести. Жара страшная. Кто-нибудь
+    подтянется, как Вы думаете?
+  replies:
+  - id: 6268
+    parent_id: 6264
+    date: 2002-07-23 19:13
+    poster: Greta
+    email: morehemp@mail.ru
+    subject: Дим,
+    deleted: false
+    text: Саша Мальчевский просил тебя записать его на джем. У него нет сейчас интернета,
+      а дозвониться он до тебя не может. Ответь здесь, пожалуйста.
+    replies:
+    - id: 6277
+      parent_id: 6268
+      date: 2002-07-23 22:36
+      poster: Дима Казанцев (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: Саше Мальчевскому
+      deleted: false
+      text: 'Саша, я запишу тебя на джем.
+
+        Дима.'
+  - id: 6291
+    parent_id: 6264
+    date: 2002-07-24 00:18
+    poster: Андрей PRG
+    email: peregnoy@mail.ru
+    subject: Ask?!!!
+    deleted: false
+    text: Без вопросов! :)
+    replies:
+    - id: 6294
+      parent_id: 6291
+      date: 2002-07-24 00:34
+      poster: Дима Казанцев (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: Берите с собой
+      deleted: false
+      text: кондиционеры что ли ;)
+      replies:
+      - id: 6308
+        parent_id: 6294
+        date: 2002-07-24 08:42
+        poster: Андрей PRG
+        email: peregnoy@mail.ru
+        subject: А это, наверное,
+        deleted: false
+        text: как со своим пивом в пабы не пускают, так и с кондом в Би-Би на входе
+          замочут ;) Или, может быть, кондиционер - это аналог "стиральной доски"?
+          Тогда я только за! ;)

@@ -1,0 +1,56 @@
+topic_id: 2222
+slug: topic-2222
+title: Nottoden 2004 -Спасибо!!!!!!
+first_post: 2004-08-30 17:24
+last_post: 2004-08-31 13:17
+post_count: 5
+posts:
+- id: 19178
+  parent_id: null
+  date: 2004-08-30 17:24
+  poster: Grem
+  email: grems@yandex.ru
+  subject: Nottoden 2004 -Спасибо!!!!!!
+  deleted: false
+  text: 'Спасибо ребята!!!
+
+    Очень классный репортаж и фотки тоже.Эх, как хочется туда.....'
+  replies:
+  - id: 19181
+    parent_id: 19178
+    date: 2004-08-30 17:35
+    poster: Михан  (Ded Morozzz)
+    email: morozzz_ded@mail.ru
+    subject: Так ведь...
+    deleted: false
+    text: '... в чем проблема? У vr в статье как раз описывается способ скататься
+      на фест за 400-500 баксов :) я вот уже думаю.'
+  - id: 19182
+    parent_id: 19178
+    date: 2004-08-30 17:47
+    poster: Grem
+    email: grems@yandex.ru
+    subject: Эх, если это было сейчас....
+    deleted: false
+    text: 'Эх, если это было сейчас, а то прийдется ждать будущего года.
+
+      Но вариант VR достоин рассмотрения.
+
+      Кстати, у Володьки такой талант публициста дремал....'
+  - id: 19183
+    parent_id: 19178
+    date: 2004-08-30 20:30
+    poster: Ded Morozzz
+    email: morozzz_ded@mail.ru
+    subject: Ну, есть время солидно подготовиться :)
+    deleted: false
+    text: Начинать можно уже прямо сейчас.
+  - id: 19189
+    parent_id: 19178
+    date: 2004-08-31 13:17
+    poster: Алексей Аграновский (Док)
+    email: aaa@genebee.msu.su
+    subject: Действительно, хорошие репортажи,
+    deleted: false
+    text: сделанные настоящими энтузиастами. Без таких материалов этот сайт был бы
+      гораздо более серым и однообразным!

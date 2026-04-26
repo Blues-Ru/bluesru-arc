@@ -1,0 +1,36 @@
+topic_id: 1520
+slug: topic-1520
+title: Effes Blues  на Горбушке...
+first_post: 2003-10-20 11:05
+last_post: 2003-10-24 11:31
+post_count: 3
+posts:
+- id: 15100
+  parent_id: null
+  date: 2003-10-20 11:05
+  poster: (Grem)
+  email: sergei.sergeev@emersonprocess.ru
+  subject: Effes Blues  на Горбушке...
+  deleted: false
+  text: 'Был тут на сайте silencepro и вдруг увидел, что Blues fest будет не в УСЗ
+    "Дружба" , а в ДК "Горбунова". В остальном изменений вроде бы нет.
+
+    Участники как и ранее заявлено. Три концерта -14,15 и 16 ноября.'
+  replies:
+  - id: 15101
+    parent_id: 15100
+    date: 2003-10-20 12:05
+    poster: Сергей Сергеев (Grem)
+    email: sergei.sergeev@emersonprocess.ru
+    subject: Забыл сообщить...
+    deleted: false
+    text: 'Забыл сообщить...билеты уже можно заказывать тел. 263 46 77.
+
+      Цена 300 р. + доставка. Всем привет.'
+  - id: 15206
+    parent_id: 15100
+    date: 2003-10-24 11:31
+    poster: Юрий
+    email: body_and_soul@mail.ru
+    subject: на сайте цдк млчание. спасибо за silencepro
+    deleted: false

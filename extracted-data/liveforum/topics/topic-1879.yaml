@@ -1,0 +1,25 @@
+topic_id: 1879
+slug: topic-1879
+title: Книжки
+first_post: 2004-02-20 11:04
+last_post: 2004-02-20 11:51
+post_count: 2
+posts:
+- id: 17315
+  parent_id: null
+  date: 2004-02-20 11:04
+  poster: Дима
+  email: meis2000@newmail.ru
+  subject: Книжки
+  deleted: false
+  text: Люди! Помогите, кто чем можете))). Может, кто знает, где есть книжки в Сети,
+    как блюз на пианино играется? Очень благодарен буду.
+  replies:
+  - id: 17316
+    parent_id: 17315
+    date: 2004-02-20 11:51
+    poster: Daniil Jeshkov (J.D.)
+    email: jimi@opfr.spb.ru
+    subject: Я точно знаю где! ж)
+    deleted: false
+    text: emule скачай и поищи там точно есть сёдня видел тока!

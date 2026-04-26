@@ -1,0 +1,97 @@
+topic_id: 3441
+slug: topic-3441
+title: а как вы думаете
+first_post: 2006-10-10 16:39
+last_post: 2006-10-10 19:24
+post_count: 9
+posts:
+- id: 29071
+  parent_id: null
+  date: 2006-10-10 16:39
+  poster: Dmitri Kazantsev (Dr. Nick)
+  email: dr.nick@blues.ru
+  subject: а как вы думаете
+  deleted: false
+  text: 'Откроют ли "Ритм-н-блюз кафе" заново?
+
+
+    Какова судьба этого Мираба Сухумского и его коллег?'
+  replies:
+  - id: 29072
+    parent_id: 29071
+    date: 2006-10-10 17:07
+    poster: Владимир Русинов (BluesCat)
+    email: volodya@blues.ru
+    subject: спроси про судьбу у тех кто ее решает...
+    deleted: false
+    text: "а тут что  - просто так устроить тотализатор чтоли? \n\nбудем надеятся\
+      \ что вернтся... очень хочется..."
+    replies:
+    - id: 29073
+      parent_id: 29072
+      date: 2006-10-10 17:31
+      poster: (Grem)
+      email: grems@yandex.ru
+      subject: время покажет.....
+      deleted: false
+      text: 'Я думаю пройдет немного времени и все будет как и прежде.
+
+        Это компания, а они у нас громко начинаются и также быстро тихо заканчиваются.'
+      replies:
+      - id: 29074
+        parent_id: 29073
+        date: 2006-10-10 17:43
+        poster: Владимир Русинов (BluesCat)
+        email: volodya@blues.ru
+        subject: '... не хотлось бы об этом тут ...'
+        deleted: false
+        text: 'но ничего не заканчивается.. заканчивается только шум вокруг этого....
+
+          а само по себе "все это" только продолжается и ширится... так что .. ;)'
+        replies:
+        - id: 29077
+          parent_id: 29074
+          date: 2006-10-10 18:06
+          poster: Dmitri Kazantsev (Dr. Nick)
+          email: dr.nick@blues.ru
+          subject: то есть?
+          deleted: false
+          text: 'чего ты еще ждешь?
+
+
+            казино все отменят, как думаешь?'
+          replies:
+          - id: 29078
+            parent_id: 29077
+            date: 2006-10-10 18:46
+            poster: Владимир Русинов (BluesCat)
+            email: volodya@blues.ru
+            subject: ясно чего. расстреляют всех нах. чего ж еще ждать
+            deleted: false
+            replies:
+            - id: 29079
+              parent_id: 29078
+              date: 2006-10-10 19:24
+              poster: Dmitri Kazantsev (Dr. Nick)
+              email: dr.nick@blues.ru
+              subject: кого всех-то?
+              deleted: false
+      - id: 29076
+        parent_id: 29073
+        date: 2006-10-10 18:05
+        poster: Dmitri Kazantsev (Dr. Nick)
+        email: dr.nick@blues.ru
+        subject: кАмпания - ты имел в виду :)
+        deleted: false
+        text: "Да, это две предвыборные кампании: идиота Миши и наша российская политическая\
+          \ подлость. Всё как обычно. \n\nА пойманных воров в законе нам так и не\
+          \ показывают, кстати! Удивительно, что даже наши великие журналисты молчат.\
+          \ \n\nА музычку вот играть нельзя более."
+    - id: 29075
+      parent_id: 29072
+      date: 2006-10-10 18:03
+      poster: Dmitri Kazantsev (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: А кто решает-то?
+      deleted: false
+      text: Я лично не понимаю...

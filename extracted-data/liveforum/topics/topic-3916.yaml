@@ -1,0 +1,51 @@
+topic_id: 3916
+slug: topic-3916
+title: нога и три струны
+first_post: 2008-02-23 10:28
+last_post: 2008-02-24 13:50
+post_count: 5
+posts:
+- id: 34789
+  parent_id: null
+  date: 2008-02-23 10:28
+  poster: Dmitri Kazantsev (Dr. Nick)
+  email: dr.nick@blues.ru
+  subject: нога и три струны
+  deleted: false
+  text: http://www.youtube.com/watch?v=pNoPNC3ebYQ
+  replies:
+  - id: 34790
+    parent_id: 34789
+    date: 2008-02-23 13:55
+    poster: Эльдар
+    email: Эльдар
+    subject: Seasick Steve LIVE ON JOOLS HOLLAND
+    deleted: false
+    text: 'А кто этот Jools Hollands?
+
+      Гдет я слышал это имя... не могу вспомнить где...'
+    replies:
+    - id: 34794
+      parent_id: 34790
+      date: 2008-02-24 00:17
+      poster: Dmitri Kazantsev (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: играл в группе Squeeze
+      deleted: false
+    - id: 34796
+      parent_id: 34790
+      date: 2008-02-24 13:50
+      poster: Dmitri Kazantsev (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: клавиши/вокал
+      deleted: false
+  - id: 34792
+    parent_id: 34789
+    date: 2008-02-23 18:34
+    poster: Grem
+    email: grems@yandex.ru
+    subject: cочно...
+    deleted: false
+    text: Хороший такой сочный блюз, одного не могу понять, а что он так свой инструмент
+      (это про гитару) не любит...три струны осталось, а под конец вааапще е...швырнул
+      ее, почти как молодой рокер-недоумок.

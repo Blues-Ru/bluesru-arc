@@ -1,0 +1,92 @@
+topic_id: 2720
+slug: topic-2720
+title: Вадима Подымского с  Днем Рождения!!!!
+first_post: 2005-08-25 09:05
+last_post: 2005-08-26 14:51
+post_count: 10
+posts:
+- id: 22479
+  parent_id: null
+  date: 2005-08-25 09:05
+  poster: (Grem)
+  email: grems@yandex.ru
+  subject: Вадима Подымского с  Днем Рождения!!!!
+  deleted: false
+  text: 'Вадим,
+
+    Желаем тебе здоровья, любви ,больших успехов в твоем благородном деле, приятных
+    встреч и знакомств....короче всего самого.
+
+    Grem и Надюха'
+  replies:
+  - id: 22483
+    parent_id: 22479
+    date: 2005-08-25 10:47
+    poster: VoV  (Barmaley)
+    email: barmaley-vov@yandex.ru
+    subject: Присоединяюсь!
+    deleted: false
+    text: УРА! УРА!!
+  - id: 22488
+    parent_id: 22479
+    date: 2005-08-25 11:45
+    poster: Yuri Kaverkin (Gekko)
+    email: kaverkin@rol.ru
+    subject: А как же!!!! Всяческих благ великому собирателю и пропагандисту!!! Во-как....
+    deleted: false
+    replies:
+    - id: 22489
+      parent_id: 22488
+      date: 2005-08-25 11:47
+      poster: Yuri Kaverkin (Gekko)
+      email: kaverkin@rol.ru
+      subject: или пропогандисту? Старый Майор, поправь....
+      deleted: false
+      replies:
+      - id: 22490
+        parent_id: 22489
+        date: 2005-08-25 11:52
+        poster: Старый Майор
+        email: gypsy@mail.ru
+        subject: черес А оно пишеццо однозначно!
+        deleted: false
+        text: Проверочное слово - "Паганини".
+  - id: 22491
+    parent_id: 22479
+    date: 2005-08-25 11:54
+    poster: vr  (Stone Crazy)
+    email: volodya@blues.ru
+    subject: УРА!!
+    deleted: false
+  - id: 22499
+    parent_id: 22479
+    date: 2005-08-25 17:00
+    poster: Федор Романенко (fedor)
+    email: fedor@blues.ru
+    subject: И я!
+    deleted: false
+    text: Вадим, с днем рождения! ;))
+  - id: 22503
+    parent_id: 22479
+    date: 2005-08-25 18:19
+    poster: Дмитрий Казанцев (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: Именно! Ура!
+    deleted: false
+    text: Всех благ!
+  - id: 22506
+    parent_id: 22479
+    date: 2005-08-26 12:48
+    poster: Junior
+    email: gurps@nm.ru
+    subject: С днём рожденья!
+    deleted: false
+    text: Побольше тебе хорошей музыки и хороших людей вокруг!
+    replies:
+    - id: 22508
+      parent_id: 22506
+      date: 2005-08-26 14:51
+      poster: Диброва (Dibrova)
+      email: dibrova_blues@rambler.ru
+      subject: Присоединяюсь к поздравлениям!!!!!
+      deleted: false

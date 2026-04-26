@@ -1,0 +1,66 @@
+topic_id: 858
+slug: topic-858
+title: С детства ищу тексты Too Young To Know и  Sad Sad Day
+first_post: 2003-05-21 00:00
+last_post: 2003-05-21 21:38
+post_count: 6
+posts:
+- id: 12583
+  parent_id: null
+  date: 2003-05-21 00:00
+  poster: Эльдap Mузaфaрoв (Benjamin & Blues Friends)
+  email: elicaster@online.tm
+  subject: С детства ищу тексты Too Young To Know и  Sad Sad Day
+  deleted: false
+  text: 'Пожалуйста, помогите найти тексты Muddy Waters''a "Too Young To Know" и  "Sad
+    Sad Day" (автор песен - он же: McKinley Morganfield).
+
+    Ищу уже лет 15, с того момента как достал винил Muddy Waters "King Bee" 1981.'
+  replies:
+  - id: 12587
+    parent_id: 12583
+    date: 2003-05-21 01:03
+    poster: Дима Казанцев (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: Если так любишь Мадди
+    deleted: false
+    text: 'то вот ссылка неплохая, хоть тех двух песен тут и нет.
+
+
+      http://www.geocities.com/BourbonStreet/Delta/2541/blmwater.htm#hoochie'
+    replies:
+    - id: 12588
+      parent_id: 12587
+      date: 2003-05-21 01:05
+      poster: Дима Казанцев (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: А вот еще
+      deleted: false
+      text: http://www.bluesforpeace.com/lyrics1.htm
+      replies:
+      - id: 12589
+        parent_id: 12588
+        date: 2003-05-21 01:06
+        poster: Дима Казанцев (Dr. Nick)
+        email: dr.nick@blues.ru
+        subject: А вот и еще ;)
+        deleted: false
+        text: http://www.howlin-wolf.de/mwde-index/Lyrics_MW/lyrics_mw.html
+        replies:
+        - id: 12590
+          parent_id: 12589
+          date: 2003-05-21 01:14
+          poster: Дима Казанцев (Dr. Nick)
+          email: dr.nick@blues.ru
+          subject: А вот это уже всем должно быть интересно ;))
+          deleted: false
+          text: http://www.luckymojo.com/blues.html
+          replies:
+          - id: 12623
+            parent_id: 12590
+            date: 2003-05-21 21:38
+            poster: Эльдар Музафаров
+            email: elicaster@online.tm
+            subject: Так и не нашел их :о(
+            deleted: false
+            text: 'Облазил все ссылки: нет ни одной не другой песни :о('

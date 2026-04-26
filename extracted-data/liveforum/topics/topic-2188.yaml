@@ -1,0 +1,24 @@
+topic_id: 2188
+slug: topic-2188
+title: Обратил  внимание что с заглавной страницы исчезла картинка  с пивом 'Очаково'
+first_post: 2004-08-03 02:47
+last_post: 2004-08-03 06:53
+post_count: 2
+posts:
+- id: 19038
+  parent_id: null
+  date: 2004-08-03 02:47
+  poster: Игорь Г.
+  email: sunny_city@mail.ru
+  subject: Обратил  внимание что с заглавной страницы исчезла картинка  с пивом 'Очаково'
+  deleted: false
+  text: Но тайные надежды на продолжение фестиваля 'Очаково-блюз' еще остались. Или
+    зря надеюсь? Сотрудники и партнеры компании 'Другая музыка' развейте сомнения.
+  replies:
+  - id: 19040
+    parent_id: 19038
+    date: 2004-08-03 06:53
+    poster: Dima Krasivov (Dima)
+    email: dima@blues.ru
+    subject: Забудь... (-)
+    deleted: false

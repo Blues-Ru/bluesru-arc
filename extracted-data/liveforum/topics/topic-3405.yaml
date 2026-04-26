@@ -1,0 +1,80 @@
+topic_id: 3405
+slug: topic-3405
+title: efes
+first_post: 2006-09-15 15:04
+last_post: 2006-09-22 21:14
+post_count: 7
+posts:
+- id: 28747
+  parent_id: null
+  date: 2006-09-15 15:04
+  poster: Алексей Фролов (Buchothk)
+  email: jokerthk@yandex.ru
+  subject: efes
+  deleted: false
+  text: 'Буду признателен, если кто-нибудь даст интересные ссылочки или просто расскажет
+    что-нибудь о Syl Johnson, Zora Yang и "Форум Холле".
+
+    Спасибо. :)'
+  replies:
+  - id: 28748
+    parent_id: 28747
+    date: 2006-09-15 15:06
+    poster: Алексей Фролов (Buchothk)
+    email: jokerthk@yandex.ru
+    subject: упс
+    deleted: false
+    text: что-то у меня с обновлением.... каюс
+  - id: 28751
+    parent_id: 28747
+    date: 2006-09-15 16:37
+    poster: Dmitri Kazantsev (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: ранние все нужны на Hi Records
+    deleted: false
+    text: http://allmusic.com/cg/amg.dll?p=amg&token=ADFEAEE67817DF4CA47320C0993E5EC8BA67E10CC863FD831F29461BDFBA3C54B72320B94CD1B9A8FDF36AB57CB0FD2EA45C43DBC0ED50F6DE6E2D4CF0&sql=11:o266mpc39f6o~T2
+    replies:
+    - id: 28755
+      parent_id: 28751
+      date: 2006-09-15 18:25
+      poster: Dmitri Kazantsev (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: опечатка
+      deleted: false
+      text: 'ранние два и все на Hi Records
+
+
+        ибо первые два на Twinight Records, конечно'
+  - id: 28757
+    parent_id: 28747
+    date: 2006-09-15 19:25
+    poster: Алексей
+    email: нету...
+    subject: Форум Холл
+    deleted: false
+    text: О "Форум Холле" расскажу после 30-го - там будет концерт Горана Бреговича.
+  - id: 28766
+    parent_id: 28747
+    date: 2006-09-18 09:45
+    poster: Алексей Фролов (Buchothk)
+    email: jokerthk@yandex.ru
+    subject: '...'
+    deleted: false
+    text: "вот приобрел диски \"Two Johnsons are better than one\" (Evidence) и \"\
+      Tore up from the floor up\" Зоры Янг.\nМне понравилось. Хотя вокал Джонсона\
+      \ я почему-то представлял себе несколько иначе. На деле это оказалась некая\
+      \ смесь Дабл-ю Си Кларка и Фентона Робинсона. :) Хотя это альбом поздний и,\
+      \ может быть, раньше голос Джонсона звучал по-другому.\nТакже не совсем понятно:\
+      \ неужели на фестивале не будет сольного исполнителя с акустической гитарой?\
+      \ :(( Вроде как все из заявленных играют с бэндами...\nОт Зоры Янг просто в\
+      \ восторге. Низкий, грубый вокал. Достаточно резкий, но мощный. Внушаитъ! :)\
+      \ Настоящий блюз. \nА вот альбом Джонсонов я бы скорее отнес к некому соулфанку.\
+      \ :)"
+  - id: 28790
+    parent_id: 28747
+    date: 2006-09-22 21:14
+    poster: Dr-Blues
+    email: doctor-blues@yandex.ru
+    subject: косяк какой-то
+    deleted: false
+    text: 'Что то я не понял : ФЕСТИВАЛЬ К НАМ (В е-БУРГ) НЕ ЗАЕДЕТ?'

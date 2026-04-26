@@ -1,0 +1,257 @@
+topic_id: 2550
+slug: topic-2550
+title: McCracklin
+first_post: 2005-04-29 08:49
+last_post: 2005-05-04 18:25
+post_count: 22
+posts:
+- id: 21287
+  parent_id: null
+  date: 2005-04-29 08:49
+  poster: Дима Казанцев (Dr. Nick)
+  email: dr.nick@blues.ru
+  subject: McCracklin
+  deleted: false
+  text: 'http://www.blues.ru/data/album.aspx?cdid=586
+
+
+    Еще один невероятный музыкант и альбом!'
+  replies:
+  - id: 21296
+    parent_id: 21287
+    date: 2005-04-29 20:47
+    poster: Старый Майор
+    email: gypsy@mail.ru
+    subject: Дима, на указанной странице - пусто! Правильная ссылка http://www.blues.ru/data/albumview.aspx?cdid=586#598
+    deleted: false
+    replies:
+    - id: 21297
+      parent_id: 21296
+      date: 2005-04-29 21:20
+      poster: Дима Казанцев (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: вот так не пусто?
+      deleted: false
+      text: http://www.blues.ru/data/albumview.aspx?cdid=586
+    - id: 21298
+      parent_id: 21296
+      date: 2005-04-29 21:21
+      poster: Дима Казанцев (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: у меня работает. надо Федю спросить!
+      deleted: false
+      text: странно...
+      replies:
+      - id: 21300
+        parent_id: 21298
+        date: 2005-04-29 21:56
+        poster: Федор Романенко (fedor)
+        email: fedor@blues.ru
+        subject: Ничего странного
+        deleted: false
+        text: Ты послал ссылку на страницу редактирования альбома, а права есть на
+          это не у всех...
+        replies:
+        - id: 21301
+          parent_id: 21300
+          date: 2005-04-29 22:24
+          poster: Дима Казанцев (Dr. Nick)
+          email: dr.nick@blues.ru
+          subject: то есть я всё не так делаю?
+          deleted: false
+          text: 'беда :(
+
+
+            а как надо?'
+        - id: 21302
+          parent_id: 21300
+          date: 2005-04-29 22:25
+          poster: Дима Казанцев (Dr. Nick)
+          email: dr.nick@blues.ru
+          subject: так тоже не верно?
+          deleted: false
+          text: http://www.blues.ru/data/albumview.aspx?cdid=586
+          replies:
+          - id: 21305
+            parent_id: 21302
+            date: 2005-04-30 03:27
+            poster: Федор Романенко (fedor)
+            email: fedor@blues.ru
+            subject: А вот это правильно!
+            deleted: false
+            text: Как сказали бы у Марины Королевой...
+            replies:
+            - id: 21306
+              parent_id: 21305
+              date: 2005-04-30 10:00
+              poster: Дима Казанцев (Dr. Nick)
+              email: dr.nick@blues.ru
+              subject: кто это?
+              deleted: false
+              text: Марина?...
+              replies:
+              - id: 21311
+                parent_id: 21306
+                date: 2005-04-30 14:35
+                poster: Руслан Чифуров ()
+                email: chifuroff@inbox.ru
+                subject: Ответ смотри ниже
+                deleted: false
+                text: Не туда пост кинул :-)))))
+  - id: 21310
+    parent_id: 21287
+    date: 2005-04-30 14:32
+    poster: Руслан Чифуров ()
+    email: chifuroff@inbox.ru
+    subject: Если я не ошибаюсь...
+    deleted: false
+    text: '... она по "Эху Москвы" ведёт программу "Говорим по-русски":-))))) Там
+      учат как правильно слова произносить :-))))) Полезная передача.'
+  - id: 21323
+    parent_id: 21287
+    date: 2005-05-02 02:36
+    poster: Muddy Lives
+    email: mlives_6@hotmail.com
+    subject: Jimmy McCracklin
+    deleted: false
+    text: "Великолепный артист!   Мне особенно нравятся записи его собственной группы\
+      \ с Lafayette \"Thing\" Thomas на гитаре. Был потрясающий диск \"The Walk: Jimmy\
+      \ McCracklin at His Best (Razor & Tie RE 2124-2).\"    \nИ есть два хороших\
+      \ диска ранних записей \"The Modern Recordings (Ace Records)\"\n\nЯ согласен,\
+      \ что \"From High on the Blues\" - удачная пластинка.  Среди его более поздного\
+      \ творчества мне очень нравится \"My Story (Bullseye Blues NETCD 9506, 1991).\"\
+      \    \n\n\nMuddy"
+    replies:
+    - id: 21331
+      parent_id: 21323
+      date: 2005-05-03 17:06
+      poster: Старый Майор
+      email: gypsy@mail.ru
+      subject: Не, нравица мне как эти филоманы хвастаются..
+      deleted: false
+      text: ..а у меня такой диск есть, а у меня сякой диск есть.. а что пролетариату
+        делать, у которого никаких дисков нетути?
+      replies:
+      - id: 21333
+        parent_id: 21331
+        date: 2005-05-03 17:50
+        poster: Дима Казанцев (Dr. Nick)
+        email: dr.nick@blues.ru
+        subject: это ты-то пролетариат?
+        deleted: false
+        text: пролетариат обычно пролетает мимо всего этого...
+        replies:
+        - id: 21334
+          parent_id: 21333
+          date: 2005-05-03 20:02
+          poster: Старый Майор
+          email: gypsy@mail.ru
+          subject: ну дык я и пролетаю.. хорошо, что добрые самаритяне помогают иногда
+            =)
+          deleted: false
+      - id: 21337
+        parent_id: 21331
+        date: 2005-05-03 21:36
+        poster: Muddy Lives
+        email: mlives_6@hotmal.com
+        subject: Простити
+        deleted: false
+        text: "если похожо, что хвастаюсь.  Просто я сам вырастал в раионе, где жил\
+          \ и играл господин McCracklin.  Его музыка очень близка к моему сердцу.\
+          \ \n\nЯ могу воздержаться от подобных постингов в будущем.  \n\n\nMuddy"
+        replies:
+        - id: 21340
+          parent_id: 21337
+          date: 2005-05-03 23:16
+          poster: Старый Майор
+          email: gypsy@mail.ru
+          subject: Muddy, don't worry ))
+          deleted: false
+          text: 'У меня на форуме определённая виртуальная физиономия бретёра и подстрекателя,
+            ничего общего не имеющая с моей реальной внешностью и характером.
+
+            Поэтому воздерживаться от подобных постингов не следует, они весьма полезны
+            для развития общей эрудиции.
+
+            Просто не все ещё в России могут покупать лицензионные CD на Амазоне,
+            как ни призывает к тому брат Казанцев. И не все ещё живут по соседству
+            с блюзменами...
+
+            Не можем же мы поощрять пиратство, лицемерно воскликнул я, и как всегда
+            оказался прав!'
+          replies:
+          - id: 21344
+            parent_id: 21340
+            date: 2005-05-04 00:30
+            poster: Руслан Чифуров ()
+            email: chifuroff@inbox.ru
+            subject: Подстрекатель- это точно сказано :-)))))
+            deleted: false
+            replies:
+            - id: 21350
+              parent_id: 21344
+              date: 2005-05-04 15:39
+              poster: Старый Майор
+              email: gypsy@mail.ru
+              subject: Толстый! я тебя убью как паймаю!!! Ты поял??? )))
+              deleted: false
+              replies:
+              - id: 21351
+                parent_id: 21350
+                date: 2005-05-04 15:47
+                poster: vr  (Stone Crazy)
+                email: volodya@blues.ru
+                subject: подстрекатель не должен быть ронимым и мстительным ;)
+                deleted: false
+                replies:
+                - id: 21352
+                  parent_id: 21351
+                  date: 2005-05-04 18:25
+                  poster: Старый Майор
+                  email: gypsy@mail.ru
+                  subject: Ронимый - это которого роняют всю дорогу, даа? =))
+                  deleted: false
+        - id: 21341
+          parent_id: 21337
+          date: 2005-05-03 23:19
+          poster: Старый Майор
+          email: gypsy@mail.ru
+          subject: вдогонку..
+          deleted: false
+          text: 'Просто поискавши по сусекам в районе #mp3blues4u, я не нашёл ничего,
+            кроме The Blues Collection- Disk 66 - Jimmy McCracklin - San Francisco
+            Blues, та подборка мне показалась достаточно традиционной, вот что в ней
+            было:
+
+
+            The Walk
+
+            I''m To Blame
+
+            Minnie Lee
+
+            Take Care Of Yourself
+
+            Suffer
+
+            Get Tough
+
+            Later On
+
+            Everybody_Rock
+
+            Come On
+
+            I Know
+
+            Country Baby
+
+            He Knows The Rules
+
+            The Wobble
+
+            I''m Through
+
+            Hurt Me
+
+            I''ll Take The Blame'

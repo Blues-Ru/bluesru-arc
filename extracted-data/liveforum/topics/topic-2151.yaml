@@ -1,0 +1,48 @@
+topic_id: 2151
+slug: topic-2151
+title: Литература по блюзу на клавишных
+first_post: 2004-06-22 12:07
+last_post: 2004-07-01 16:00
+post_count: 4
+posts:
+- id: 18776
+  parent_id: null
+  date: 2004-06-22 12:07
+  poster: Alexey Radetsky (rad)
+  email: rad@rad.kiev.ua
+  subject: Литература по блюзу на клавишных
+  deleted: false
+  text: "Всем доброго дня. \n\n Ищу в интернет литературу, материалы по исполнению/технике\
+    \ блюза на клавишных. Ничего найти не могу. Поделитесь информацией, если у кого\
+    \ есть. Сам в Киеве, посему посетить Российские книжные магазины не предлагать.\
+    \ :) \n\n Немного о себе: на клавишах с восьми лет, на гитаре с десяти. Сейчас\
+    \ мне почти 27 лет. \n\n Спасибо."
+  replies:
+  - id: 18824
+    parent_id: 18776
+    date: 2004-06-28 17:13
+    poster: Theodor
+    email: dfedorov@parter.ru
+    subject: www.keyboards.ru
+    deleted: false
+    text: Кое-что есть.
+    replies:
+    - id: 18842
+      parent_id: 18824
+      date: 2004-06-29 11:40
+      poster: Alexey Radetsky (rad)
+      email: rad@rad.kiev.ua
+      subject: Спасибо!
+      deleted: false
+      text: Кое что есть и на 7HOT.RU
+  - id: 18870
+    parent_id: 18776
+    date: 2004-07-01 16:00
+    poster: Theodor
+    email: dfedorov@parter.ru
+    subject: А еще на английском, журнал Keyboard
+    deleted: false
+    text: 'http://archive.keyboardonline.com/index_old.htm
+
+
+      Многое оттуда было взято и переведено для keyboards.ru'

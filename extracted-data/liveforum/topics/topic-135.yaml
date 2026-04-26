@@ -1,0 +1,54 @@
+topic_id: 135
+slug: topic-135
+title: From now on
+first_post: 2002-04-02 01:27
+last_post: 2002-04-02 11:23
+post_count: 5
+posts:
+- id: 3167
+  parent_id: null
+  date: 2002-04-02 01:27
+  poster: Дима Казанцев (Dr. Nick)
+  email: dr.nick@blues.ru
+  subject: From now on
+  deleted: false
+  text: I don't speak any Russian here! Sick of it! Malcolm opened my eyes and from
+    this moment I write in English only! If you don't like it, it's your fucking problem,
+    morons... You hear me? ROCKANDROLL is not dead! It just smells funny :)
+  replies:
+  - id: 3178
+    parent_id: 3167
+    date: 2002-04-02 02:53
+    poster: Федор Романенко (fedor)
+    email: fedor@blues.ru
+    subject: Abrahatuur maraatz!
+    deleted: false
+    text: "Yar mahen sirc di mi naht! Ur yam toohels??? Ficks yah! \n\nSoonirs & Ri............"
+    replies:
+    - id: 3179
+      parent_id: 3178
+      date: 2002-04-02 09:11
+      poster: vr  (Stone Crazy)
+      email: volodya@blues.ru
+      subject: бамбарбия
+      deleted: false
+      replies:
+      - id: 3193
+        parent_id: 3179
+        date: 2002-04-02 11:23
+        poster: Andrei V. Evdokimov (evdokimov)
+        email: evdokimov@blues.ru
+        subject: well I don't know but most of all know English is knows, man
+        deleted: false
+        text: "- должно стать эпиграфом форума. мы ведь не модерируем, мы ждем рождения\
+          \ коллективного разума. \n\"жаль в эту пору прекрасную....\""
+    - id: 3180
+      parent_id: 3178
+      date: 2002-04-02 09:17
+      poster: Malcolm Ray    Readriver (Mike)
+      email: Mrg_mike@rambler.ru
+      subject: Hey Bro...
+      deleted: false
+      text: Did your mama ever tell ya that it realy bad, to use unknown language
+        ,'cos this language...well I don't know but most of all know English is knows,
+        man. Now I have yo go 'cos my many a all gone. Thanks , Doc

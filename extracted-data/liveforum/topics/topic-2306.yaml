@@ -1,0 +1,40 @@
+topic_id: 2306
+slug: topic-2306
+title: Гитарная ручка громкости найдена в Клубе на Брестской после Феста
+first_post: 2004-11-03 18:12
+last_post: 2004-12-13 20:54
+post_count: 4
+posts:
+- id: 19736
+  parent_id: null
+  date: 2004-11-03 18:12
+  poster: Кожекин
+  email: kozhekin@mail.ru
+  subject: Гитарная ручка громкости найдена в Клубе на Брестской после Феста
+  deleted: false
+  text: Кто потерял?
+  replies:
+  - id: 19737
+    parent_id: 19736
+    date: 2004-11-03 18:20
+    poster: Алексей Аграновский (Док)
+    email: aaa@genebee.msu.su
+    subject: Есть идея.
+    deleted: false
+    text: Надо её примерить, как хрустальный башмачок, на все гитары королевства.
+  - id: 19760
+    parent_id: 19736
+    date: 2004-11-04 22:14
+    poster: Кожекин
+    email: kozhekin@mail.ru
+    subject: Все - нашли!
+    deleted: false
+    text: Ура!
+  - id: 19944
+    parent_id: 19736
+    date: 2004-12-13 20:54
+    poster: d
+    email: d@D
+    subject: нашли
+    deleted: false
+    text: <s> нашли </s>

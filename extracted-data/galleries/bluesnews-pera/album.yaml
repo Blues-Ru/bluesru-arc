@@ -1,0 +1,38 @@
+slug: bluesnews-pera
+title: Pera
+source_dir: bluesnews/Pera
+legacy_url: /bluesnews/Pera/
+date_hint: ''
+generator: image-collection
+photo_count: 6
+photos:
+- filename: DSCN0024.JPG
+  source_path: bluesnews/Pera/DSCN0024.JPG
+  thumbnail: bluesnews/Pera/TN_DSCN0024.jpg
+  caption: ''
+  page_html: ''
+- filename: DSCN0033.JPG
+  source_path: bluesnews/Pera/DSCN0033.JPG
+  thumbnail: bluesnews/Pera/TN_DSCN0033.jpg
+  caption: ''
+  page_html: ''
+- filename: DSCN0037s.jpg
+  source_path: bluesnews/Pera/DSCN0037s.jpg
+  thumbnail: bluesnews/Pera/TN_DSCN0037s.jpg
+  caption: ''
+  page_html: ''
+- filename: DSCN0046.JPG
+  source_path: bluesnews/Pera/DSCN0046.JPG
+  thumbnail: bluesnews/Pera/TN_DSCN0046.jpg
+  caption: ''
+  page_html: ''
+- filename: DSCN0072.JPG
+  source_path: bluesnews/Pera/DSCN0072.JPG
+  thumbnail: bluesnews/Pera/TN_DSCN0072.jpg
+  caption: ''
+  page_html: ''
+- filename: DSCN0087s.jpg
+  source_path: bluesnews/Pera/DSCN0087s.jpg
+  thumbnail: bluesnews/Pera/TN_DSCN0087s.jpg
+  caption: ''
+  page_html: ''

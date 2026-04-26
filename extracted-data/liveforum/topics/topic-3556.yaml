@@ -1,0 +1,34 @@
+topic_id: 3556
+slug: topic-3556
+title: Борис Булкин И Stainless Blues Band
+first_post: 2007-01-23 18:18
+last_post: 2007-01-25 11:55
+post_count: 3
+posts:
+- id: 30678
+  parent_id: null
+  date: 2007-01-23 18:18
+  poster: Сева
+  email: bass-man@mail.ru
+  subject: Борис Булкин И Stainless Blues Band
+  deleted: false
+  text: Ребята, расскажите мне, как вам Боря Булкин, стоит сходить? Я давно о нем
+    слышал, а еще ни разу не слышал!
+  replies:
+  - id: 30689
+    parent_id: 30678
+    date: 2007-01-24 13:34
+    poster: Игорь Головачев (Игорь Г.)
+    email: sunny_city@mail.ru
+    subject: Загляни на  borisbulkin.ru
+    deleted: false
+    text: там было много видео и звука. Нормальные ребята уровень примерно как у всех.
+  - id: 30705
+    parent_id: 30678
+    date: 2007-01-25 11:55
+    poster: Антоха
+    email: sexyman65@mail.ru
+    subject: СЕГОДНЯ ОНИ ИГРАЮТ В ТАБУЛЕ РАССЕ!!! ПРИХОДИ!!!
+    deleted: false
+    text: СЕГОДНЯ ОНИ ИГРАЮТ В ТАБУЛЕ РАССЕ!!! ПРИХОДИ!!! ВХОД ВСЕГО 150р, А МУЗЫКА
+      СУПЕРРРР!!!

@@ -1,0 +1,23 @@
+topic_id: 679
+slug: topic-679
+title: HI Ruslan :-)
+first_post: 2003-03-17 16:29
+last_post: 2003-03-18 09:56
+post_count: 2
+posts:
+- id: 11037
+  parent_id: null
+  date: 2003-03-17 16:29
+  poster: Игорь
+  email: markiz_@mail.ru
+  subject: HI Ruslan :-)
+  deleted: false
+  text: Руслан Абдалов, плз. отзовись.
+  replies:
+  - id: 11048
+    parent_id: 11037
+    date: 2003-03-18 09:56
+    poster: Абдалов Руслан (RR)
+    email: RR@RAMBLER.RU
+    subject: Спамить то зачем, я на мыле всегда бываю (-)
+    deleted: false

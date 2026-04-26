@@ -1,0 +1,43 @@
+topic_id: 210
+slug: topic-210
+title: Sky Stranger & Dr.Nick
+first_post: 2002-05-21 21:32
+last_post: 2002-05-22 10:40
+post_count: 4
+posts:
+- id: 4573
+  parent_id: null
+  date: 2002-05-21 21:32
+  poster: V.Tsubin (VOVAN)
+  email: vts13@hotmail.com
+  subject: Sky Stranger & Dr.Nick
+  deleted: false
+  text: С удовольствием послушал остальные треки.Дима,не знал,что ты поклонник Сантаны.А
+    кто на соло-гитаре?
+  replies:
+  - id: 4574
+    parent_id: 4573
+    date: 2002-05-21 21:54
+    poster: Greta
+    email: morehemp@mail.ru
+    subject: Правда ведь
+    deleted: false
+    text: Slower Baby забавно получилась? :) Мне нравится.
+  - id: 4578
+    parent_id: 4573
+    date: 2002-05-21 22:31
+    poster: Дима Казанцев (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: Там же все написано ;)
+    deleted: false
+    text: На гитаре играет Слава Шин - наш соло-гитарист. Для первого дубля неплохо
+      вышло, я согласен. А Сантану мы все любим в коллективе.
+    replies:
+    - id: 4583
+      parent_id: 4578
+      date: 2002-05-22 10:40
+      poster: V.Tsubin (VOVAN)
+      email: vts13@hotmail
+      subject: Действительно
+      deleted: false
+      text: глупо получилось:-)Так увлекся прослушиванием,что прочитать забыл.

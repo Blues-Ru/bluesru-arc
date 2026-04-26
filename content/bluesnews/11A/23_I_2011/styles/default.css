@@ -1,0 +1,79 @@
+html, body{height:100%;}
+body{margin:0; padding:0; background:#000000; font-size:65.5%;}
+.mainTable{height:100%; width:100%;}
+.header{background:url(../images/header_bg.gif) repeat-x;}
+
+.title{white-space:nowrap; padding-left:50px; text-align:left; padding-top:6px; padding-bottom:8px; vertical-align:top;}
+.title a{font-family: Arial, Verdana, Helvetica, sans-serif; font-size:30px; color:#817359; vertical-align:top; text-decoration:none;}
+.title a:hover{color:#c6b79b;}
+
+.pagerContainer{padding-right:30px; width:100%; text-align:right; vertical-align:bottom;}
+.buttonsContainer{padding-left:45px; white-space:nowrap;}
+
+.buttonUp, .buttonSlideshow {white-space:nowrap; margin-right:20px; color:#000000; font-size:11px; font-family:Verdana, Arial, Helvetica, sans-serif; text-decoration:none; line-height:16px; background:url(../images/button_up.gif) no-repeat; width:105px; display:block; text-align:center;}
+.buttonUp:hover, .buttonSlideshow:hover{color:#6a3911;}
+.buttonSlideshow{float:right;}
+
+.pagerContainer div{background:url(../images/pager_bg.gif) repeat-x; float:right;}
+.pager{font-size:11px; background:url(../images/pager_bg_r.gif) no-repeat right; width:430px;}
+.pager td{white-space:nowrap;}
+.pager, .pager a{color:#000000; text-decoration:none; font-family: Verdana, Arial, Helvetica, sans-serif;}
+.pager a:hover, .currentPage{color:#6a3911;}
+.nthPage, .currentPage{display:block; width:28px; white-space:nowrap; text-align:center;}
+.pager .firstPage{padding-left:11px;}
+.pager .lastPage{padding-right:11px;}
+
+.photoName{color:#574d39; font-family:Arial, Helvetica, sans-serif; font-size:1em; text-align:center; padding-top:3px;}
+
+.thumbPager{position:relative; margin-top:10px;}
+
+.pagerButtonEnabled {cursor:pointer;}
+.pagerButtonDisabled {cursor:default;}
+#thumbPagerContainer{position: relative; width:800px; overflow: hidden; text-align:left;}
+.thumbPagerCell, .currentThumbPagerCell {vertical-align:middle; white-space:nowrap; cursor:pointer; padding: 0px 3px 0px 3px;}
+
+.currentThumbPagerCell img{
+filter:progid:DXImageTransform.Microsoft.Alpha(opacity=100); /* IE 5.5+*/
+-moz-opacity: 1.0; /* Mozilla 1.6- */
+-khtml-opacity: 1.0; /* Konqueror 3.1, Safari 1.1 */
+opacity: 1.0;
+zoom: 1;}
+
+.thumbPagerCell img{
+filter:progid:DXImageTransform.Microsoft.Alpha(opacity=70); /* IE 5.5+*/
+-moz-opacity: 0.7; /* Mozilla 1.6- */
+-khtml-opacity: 0.7; /* Konqueror 3.1, Safari 1.1 */
+opacity: 0.7;
+zoom: 1;
+}
+
+.frameLeft{background:#242424 url(../images/frame_l.gif) repeat-y left;}
+.frameRight{background:#242424 url(../images/frame_r.gif) repeat-y right;}
+.frameTop{background:#242424 url(../images/frame_t.gif) repeat-x top;}
+.frameBottom{background:#242424 url(../images/frame_b.gif) repeat-x bottom;}
+.frameCenter{text-align:center; vertical-align:middle; background:#242424; width:100%; padding:1px;}
+
+.slideImg{position:relative; margin:-7px; display:block; z-index:100;}
+
+#backButton{background:#242424 url(../images/frame_l.gif) repeat-y left; padding-left:12px; padding-right:4px; }
+#forwardButton{background:#242424 url(../images/frame_r.gif) repeat-y right; padding-right:12px; padding-left:4px; }
+.thumbPagerCenter{background:#242424;}
+
+.buttonFullsize{color:#6d6c6c; text-decoration:none; white-space:nowrap; font-family:Arial, Verdana, Helvetica, sans-serif; top:0px; left:0px; position:absolute; text-align:center;}
+.buttonFullsize:hover{color:#fefefe;}
+
+.noscriptText{font-family:Arial, Verdana, Helvetica, sans-serif; font-size:1.1em; text-align:center; font-weight:bold; color:#574d39;}
+.noscriptText a{color:#7f7157;}
+
+.text{font-family:Arial, Verdana, Helvetica, sans-serif; text-align:center; color:#574d39; height:25px; padding-top:10px;}
+.text a{color:#7f7157; text-decoration:none;}
+.text a span{text-decoration:underline;}
+.text a:hover{color:#e6d9c2;}
+.text a img{display:inline; vertical-align:middle; border:0; margin-right:2px;}
+
+.exif{width:820px;}
+.exifTop{border-top:1px solid #242424;}
+.exifBottom{border-bottom:1px solid #242424;}
+.exifLeft{border-left:1px solid #242424;}
+.exifRight{border-right:1px solid #242424;}
+.exitText{font-family:Verdana, Arial, Helvetica, sans-serif; font-size:0.9em; color:#4f4d4d; width:100%; padding:10px 5px 10px 5px;}

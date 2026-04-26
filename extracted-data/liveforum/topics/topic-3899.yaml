@@ -1,0 +1,90 @@
+topic_id: 3899
+slug: topic-3899
+title: Это будет, пожалуй, альбом года!
+first_post: 2008-02-08 14:03
+last_post: 2008-02-22 17:12
+post_count: 8
+posts:
+- id: 34582
+  parent_id: null
+  date: 2008-02-08 14:03
+  poster: Konstantin  (Wheel)
+  email: wheel.k@gmail.com
+  subject: Это будет, пожалуй, альбом года!
+  deleted: false
+  text: 'Кто-нибудь слушал уже?
+
+    <img src="http://ecx.images-amazon.com/images/I/41slF3R2nuL._SS500_.jpg">
+
+    Otis Taylor, Corey Harris, Keb Mo, Guy Davis  - это же сливки современного акустического
+    блюза и вообще нет слов!
+
+    <a href="http://www.allmusic.com/cg/amg.dll?p=amg&sql=10:hjfuxzlhldje">allmusic</a>
+
+    Инфо с лэйбла <a href="http://www.telarc.com/Blues/title.asp?sku=CD-83667">Telarc</a>
+
+    Инфо с <a href="http://www.washingtonpost.com/wp-dyn/content/article/2008/01/31/AR2008013101162.html">Washingtonpost</a>
+
+    <a href="http://www.amazon.com/Recapturing-Banjo-Otis-Taylor/dp/B0010VD7FS">amazon</a>'
+  replies:
+  - id: 34589
+    parent_id: 34582
+    date: 2008-02-08 17:46
+    poster: Федор Гребуньков
+    email: qwertyu@mail.ru
+    subject: это в шляпе Шуфутинский,чтоль?
+    deleted: false
+    text: это в шляпе Шуфутинский,чтоль?
+  - id: 34590
+    parent_id: 34582
+    date: 2008-02-08 18:43
+    poster: Andrei V. Evdokimov (evdokimov)
+    email: evdokimov@blues.ru
+    subject: состав - супер!!!
+    deleted: false
+    text: если не найду - перепишешь?
+    replies:
+    - id: 34591
+      parent_id: 34590
+      date: 2008-02-08 21:53
+      poster: Konstantin  (Wheel)
+      email: wheel.k@gmail.com
+      subject: конечно
+      deleted: false
+      text: перепишу, наладим контакт. Альбом свежак - 5 числа вышел только! :)
+      replies:
+      - id: 34612
+        parent_id: 34591
+        date: 2008-02-09 18:49
+        poster: Andrei V. Evdokimov (evdokimov)
+        email: evdokimov@blues.ru
+        subject: спасибо
+        deleted: false
+        text: жду
+        replies:
+        - id: 34645
+          parent_id: 34612
+          date: 2008-02-11 11:09
+          poster: Konstantin  (Wheel)
+          email: wheel.k@gmail.com
+          subject: как только он у меня появится, что-нибудь придумаю
+          deleted: false
+        - id: 34785
+          parent_id: 34612
+          date: 2008-02-22 17:12
+          poster: Konstantin  (Wheel)
+          email: wheel.k@gmail.com
+          subject: А вот этот альбом слышали уже?
+          deleted: false
+          text: 'Год так хорошо начался!
+
+            <a href="http://www.allmusic.com/cg/amg.dll?p=amg&sql=10:0vfixzuhldse"><img
+            src="http://image.allmusic.com/00/amg/cov200/drj200/j220/j22009vp28f.jpg"></a>'
+    - id: 34604
+      parent_id: 34590
+      date: 2008-02-09 16:53
+      poster: Dmitri Kazantsev (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: тут шаффла не будет :)
+      deleted: false
+      text: и маршей тоже :)

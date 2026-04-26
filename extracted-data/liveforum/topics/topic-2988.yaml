@@ -1,0 +1,68 @@
+topic_id: 2988
+slug: topic-2988
+title: Happy BEERthday 2 Сергей Бабаев
+first_post: 2005-12-11 09:40
+last_post: 2005-12-13 16:43
+post_count: 6
+posts:
+- id: 24977
+  parent_id: null
+  date: 2005-12-11 09:40
+  poster: Elicaster (Эльдар Музафаров)
+  email: e@m.r
+  subject: Happy BEERthday 2 Сергей Бабаев
+  deleted: false
+  text: 'Поздравляю с ДР!
+
+    Здоровья,
+
+    Удачи,
+
+    Творческих тебе узбеков, а также туркмен, русских, татарских, армянских, американских
+    :-)'
+  replies:
+  - id: 24978
+    parent_id: 24977
+    date: 2005-12-11 11:35
+    poster: Elicaster
+    email: elicaster(@))mmmmmmmmmail.ru
+    subject: Продолжение славной традиции (Part II) или ежегодный Баян :)))
+    deleted: false
+    text: 'Сравнительно за небольшой промежуток времени (за полтора месяца) на форуме
+      прошли Днюхи у многих людей: Валерий Серегин 05/12, Cowboy Pete 02/12, Андрей
+      Евдокимов 30/11, Grem 28/11, Боря Булкин 24/11, Арсена 22/11, Михаил Бирюков
+      (nECKAPb) 17/11, Сергей Воронов 15/11, Саша Братецкий 03/11, Фёдор Романенко
+      29/10, а ещё ранее: Володя Русинов 18/10...
+
+      Кароче гаваря: Празник Кажды Дэн!'
+  - id: 24998
+    parent_id: 24977
+    date: 2005-12-12 15:39
+    poster: Алексей Аграновский (Док)
+    email: aaa@genebee.msu.su
+    subject: С днем рождения, Сережа!
+    deleted: false
+    text: Будь благополучен.
+  - id: 25022
+    parent_id: 24977
+    date: 2005-12-12 22:05
+    poster: Игорь Головачев (Игорь Г.)
+    email: sunny_city@mail.ru
+    subject: Серега, дружище ,ПОЗДРАВЛЯЮ !!!!
+    deleted: false
+    text: Удачи,счастья!!!!! Не сходи с путЯ истиного :)!!!!  Всех благ!!! Приезжай!!!
+  - id: 25023
+    parent_id: 24977
+    date: 2005-12-13 01:17
+    poster: Yuri Kaverkin (Gekko)
+    email: kaverkin@rol.ru
+    subject: С днем рождения!! Всех благ!!!!
+    deleted: false
+    replies:
+    - id: 25040
+      parent_id: 25023
+      date: 2005-12-13 16:43
+      poster: Сергей Бабаев (S.B.)
+      email: from30@mail.ru
+      subject: Спасибо, друзья!
+      deleted: false

@@ -1,0 +1,53 @@
+topic_id: 2995
+slug: topic-2995
+title: Приходите на концерт!
+first_post: 2005-12-14 01:01
+last_post: 2005-12-14 16:36
+post_count: 5
+posts:
+- id: 25052
+  parent_id: null
+  date: 2005-12-14 01:01
+  poster: Немов Евгений
+  email: jnr_new@mail.ru
+  subject: Приходите на концерт!
+  deleted: false
+  text: Привет всем! Хочу пригласить Вас на концерт Gadjes Band, который состоится
+    14 дек. (в среду, т.е. сегодня) в "Доме у дороги", хоть это и не блюз, но будет
+    интересно.
+  replies:
+  - id: 25058
+    parent_id: 25052
+    date: 2005-12-14 11:43
+    poster: Валентин
+    email: voshalb@rambler.ru
+    subject: А что же это будет???
+    deleted: false
+    text: К чему готовиться-то???)))
+    replies:
+    - id: 25059
+      parent_id: 25058
+      date: 2005-12-14 13:59
+      poster: Игорь Головачев (Игорь Г.)
+      email: sunny_city@mail.ru
+      subject: А вот что
+      deleted: false
+      text: http://harmonica.ru/catalogs/records/vladimirov/
+  - id: 25060
+    parent_id: 25052
+    date: 2005-12-14 14:10
+    poster: Алексей Аграновский (Док)
+    email: aaa@genebee.msu.su
+    subject: Ради такого дела -
+    deleted: false
+    text: ни в коем случае сегодня не приходите на концерт группы "Чёрный Хлеб"! Даже
+      не буду упоминать, где он пройдёт. Жертвуем самым святым, что у нас есть - слушателями.
+    replies:
+    - id: 25061
+      parent_id: 25060
+      date: 2005-12-14 16:36
+      poster: Алексей Аграновский (Док)
+      email: aaa@genebee.msu.su
+      subject: 'Да, забыл добавить:'
+      deleted: false
+      text: а Gadjes Band - это наши друзья и настоящие музыканты.

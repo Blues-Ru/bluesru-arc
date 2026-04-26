@@ -1,0 +1,18 @@
+BODY {background-color: #FDD898; margin: 0% 5%} 
+HR {color: black} 
+H1, H2, H3, H4, P, DIV, UL, SPAN {font-family: Verdana, Arial, sans-serif;} 
+H1, H2, H3, H4, .CENT, .PODP {text-align: center} 
+.PRAV {text-align: right} 
+.LEV {text-align: left} 
+.JUST {text-align: justify} 
+H1 {font-size: 32pt} 
+H2 {font-size:17pt} 
+H3, SPAN {font-size: 12pt} 
+H4, P, DIV, UL {font-size: 10pt} 
+.SMALL, .PODP {font-size: 9pt} 
+.PODP {font-style: italic} 
+P, DIV, UL {text-align: justify} 
+A {color: black} 
+A:hover {color: #CC3300; text-decoration: underline} 
+A:active {color: green; text-decoration: underline} 
+A:visited {color: #660099} 

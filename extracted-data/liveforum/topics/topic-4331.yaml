@@ -1,0 +1,66 @@
+topic_id: 4331
+slug: topic-4331
+title: Андрея Евдокимова с ДР!
+first_post: 2009-11-30 09:59
+last_post: 2009-12-01 13:38
+post_count: 8
+posts:
+- id: 36708
+  parent_id: null
+  date: 2009-11-30 09:59
+  poster: grem
+  subject: Андрея Евдокимова с ДР!
+  deleted: false
+  text: Удачи, здоровья,всех благ и хороших блюзов.
+  replies:
+  - id: 36709
+    parent_id: 36708
+    date: 2009-11-30 16:49
+    poster: Алексей Аграновский
+    subject: С Днём рождения!
+    deleted: false
+    text: Благополучия и счастья, старина.
+  - id: 36710
+    parent_id: 36708
+    date: 2009-11-30 17:16
+    poster: Andrei V. Evdokimov
+    subject: да заходите все желающие
+    deleted: false
+    text: в ДуД, к 21оо
+    replies:
+    - id: 36711
+      parent_id: 36710
+      date: 2009-11-30 18:08
+      poster: Федор Романенко
+      subject: Андрей, поздравляю!
+      deleted: false
+      text: Желаю тебе всего приятного и полезного, а также больших творческих успехов!
+        ;)
+  - id: 36712
+    parent_id: 36708
+    date: 2009-11-30 18:38
+    poster: tavrichesky
+    subject: с днём рождения
+    deleted: false
+    text: здоровья,вдохновения, мира и много нового блюза в раздел "любимое".
+  - id: 36713
+    parent_id: 36708
+    date: 2009-11-30 20:25
+    poster: Arsen
+    subject: C Рождения!
+    deleted: false
+    text: Мысленно в ДУДе ;)
+  - id: 36714
+    parent_id: 36708
+    date: 2009-11-30 20:27
+    poster: Arsen
+    subject: С Днем Рождения!
+    deleted: false
+    text: Мысленно в ДУДе ;)
+  - id: 36716
+    parent_id: 36708
+    date: 2009-12-01 13:38
+    poster: Вадим Подымский
+    subject: Вадим блюз
+    deleted: false
+    text: Андрей ! С днем рождения !

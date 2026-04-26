@@ -1,0 +1,35 @@
+topic_id: 2313
+slug: topic-2313
+title: Билеты в Домжур
+first_post: 2004-11-10 23:43
+last_post: 2004-11-11 18:07
+post_count: 3
+posts:
+- id: 19779
+  parent_id: null
+  date: 2004-11-10 23:43
+  poster: Anna
+  email: udod@pacc.ru
+  subject: Билеты в Домжур
+  deleted: false
+  text: Уважаемые господа организаторы концерта в ДЖ! Когда появятся в продаже билеты?
+    Домжуровские бабульки говорят, что билетов не будет вообще. Может у вас некорректная
+    реклама и этот концерт состоится не для всех любителей блюза, а для ограниченного
+    круга лиц?
+  replies:
+  - id: 19780
+    parent_id: 19779
+    date: 2004-11-11 12:52
+    poster: vr  (Stone Crazy)
+    email: volodya@blues.ru
+    subject: думаю. что билеты будут продаваться на входе просто :)
+    deleted: false
+    text: т.е. плантый вход :)
+  - id: 19783
+    parent_id: 19779
+    date: 2004-11-11 18:07
+    poster: Andrei V. Evdokimov (evdokimov)
+    email: evdokimov@blues.ru
+    subject: концерт очень даже для всех!
+    deleted: false
+    text: приходите - билеты будут!

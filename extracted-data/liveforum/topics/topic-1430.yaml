@@ -1,0 +1,53 @@
+topic_id: 1430
+slug: topic-1430
+title: Какая-то фигня с билетами на фест:(((
+first_post: 2003-09-03 23:13
+last_post: 2003-09-04 07:39
+post_count: 5
+posts:
+- id: 14088
+  parent_id: null
+  date: 2003-09-03 23:13
+  poster: Андрей Ордальонов (Андрей PRG)
+  email: peregnoy@mail.ru
+  subject: Какая-то фигня с билетами на фест:(((
+  deleted: false
+  text: Обошёл сегодня 4 кассы (м.Октябрьская, м.Юго-Западная, м.Пр.Вернадского, м.Университет)
+    - билетов нет. Более того, в кассах даже не знают об их существовании. Ясно, что,
+    наверное, в кассах самого "Динамо" билеты существуют. Но где они есть ещё? Кто-нибудь
+    видел?
+  replies:
+  - id: 14090
+    parent_id: 14088
+    date: 2003-09-04 02:34
+    poster: Andrei V. Evdokimov (evdokimov)
+    email: evdokimov@blues.ru
+    subject: я видел
+    deleted: false
+    text: в переходе с театральной на охотный ряд... или наоборот? но точно видел.
+    replies:
+    - id: 14091
+      parent_id: 14090
+      date: 2003-09-04 03:23
+      poster: vr  (Stone Crazy)
+      email: volodya@blues.ru
+      subject: а я на пушкинской
+      deleted: false
+  - id: 14092
+    parent_id: 14088
+    date: 2003-09-04 03:32
+    poster: Федор Романенко (fedor)
+    email: fedor@blues.ru
+    subject: Билетные кассы
+    deleted: false
+    text: Проблемы с кассами в метро были, но где-то они точно есть. На Динамо - заведомо
+      есть.
+    replies:
+    - id: 14094
+      parent_id: 14092
+      date: 2003-09-04 07:39
+      poster: Андрей Ордальонов (Андрей PRG)
+      email: peregnoy@mail.ru
+      subject: Ага! :) Всем спасибо.
+      deleted: false
+      text: Поскачу сегодня повторно.

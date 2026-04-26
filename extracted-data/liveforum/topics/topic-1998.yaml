@@ -1,0 +1,30 @@
+topic_id: 1998
+slug: topic-1998
+title: Tino Gonzales
+first_post: 2002-06-29 17:15
+last_post: 2002-06-30 00:02
+post_count: 2
+posts:
+- id: 5821
+  parent_id: null
+  date: 2002-06-29 17:15
+  poster: МХ
+  email: оамолыат
+  subject: Tino Gonzales
+  deleted: false
+  text: Может ли кто-нибудь посоветовать,где есть почитать об этом замечтательном
+    музыканте?
+  replies:
+  - id: 5822
+    parent_id: 5821
+    date: 2002-06-30 00:02
+    poster: Иван Иванов
+    email: ivan@hotmail.com
+    subject: Блюз-Рокер Тино
+    deleted: false
+    text: 'Привет МХ,
+
+
+      Жми сюда
+
+      http://www.tinogonzales.ws/'

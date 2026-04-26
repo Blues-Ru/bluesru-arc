@@ -1,0 +1,60 @@
+topic_id: 3925
+slug: topic-3925
+title: Jamming Hats и Jumping Cats - это случайно не родственники?
+first_post: 2008-02-28 16:06
+last_post: 2008-02-29 18:56
+post_count: 6
+posts:
+- id: 34818
+  parent_id: null
+  date: 2008-02-28 16:06
+  poster: Старый Майор
+  email: gypsy@mail.ru
+  subject: Jamming Hats и Jumping Cats - это случайно не родственники?
+  deleted: false
+  text: 'Посмотрел афишу на сегодня и задался таким вот необычным вопросом.
+
+    Жду ответа от аффилированных лиц ))'
+  replies:
+  - id: 34821
+    parent_id: 34818
+    date: 2008-02-28 18:03
+    poster: Dmitri Kazantsev (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: а Jerking Bats?
+    deleted: false
+    replies:
+    - id: 34822
+      parent_id: 34821
+      date: 2008-02-28 19:39
+      poster: Старый Майор
+      email: gypsy@mail.ru
+      subject: Зачотный вариант!
+      deleted: false
+      text: 'Дима, вот уж не знал о твоих талантах англоязычного каламбуриста.
+
+        Прямо гляжу на тебя новыми глазами )))'
+      replies:
+      - id: 34823
+        parent_id: 34822
+        date: 2008-02-29 01:47
+        poster: Dmitri Kazantsev (Dr. Nick)
+        email: dr.nick@blues.ru
+        subject: ага, Jiving Pets
+        deleted: false
+        replies:
+        - id: 34824
+          parent_id: 34823
+          date: 2008-02-29 03:57
+          poster: Старый Майор
+          email: gypsy@mail.ru
+          subject: Pets или Pots или Potz? ))
+          deleted: false
+          replies:
+          - id: 34828
+            parent_id: 34824
+            date: 2008-02-29 18:56
+            poster: Игорь Г.
+            email: sunny_city@mail.ru
+            subject: Тю,фулюганы, отстаньте от попрыгунчика -Каца :)
+            deleted: false

@@ -1,0 +1,52 @@
+topic_id: 2401
+slug: topic-2401
+title: Господа! Казанцев просил всем передать, что Би Би Кинг - гений!
+first_post: 2005-01-26 15:36
+last_post: 2005-01-27 22:23
+post_count: 5
+posts:
+- id: 20267
+  parent_id: null
+  date: 2005-01-26 15:36
+  poster: Старый Майор
+  email: gypsy@mail.ru
+  subject: Господа! Казанцев просил всем передать, что Би Би Кинг - гений!
+  deleted: false
+  text: Но лично он так не считает. Он просто меня просил всем передать. Что я с удовольствием
+    и делаю.
+  replies:
+  - id: 20268
+    parent_id: 20267
+    date: 2005-01-26 17:11
+    poster: King Floyd
+    email: king_floyd@soul.com
+    subject: точно!
+    deleted: false
+    text: А Фредди, Кэрол и Алберт - дважды гении!
+  - id: 20272
+    parent_id: 20267
+    date: 2005-01-27 00:48
+    poster: Энгельберт Хампердинк
+    email: marxen@bnn
+    subject: Очень странно
+    deleted: false
+    text: Гений только один- Энгельберт Хампердинк
+    replies:
+    - id: 20273
+      parent_id: 20272
+      date: 2005-01-27 00:52
+      poster: Филипп К.
+      email: fkirkorov(@)yandex.ru
+      subject: Я все равно лучше
+      deleted: false
+      replies:
+      - id: 20276
+        parent_id: 20273
+        date: 2005-01-27 22:23
+        poster: Энгельберт Хампердинк
+        email: marxen@bnn
+        subject: Нет- я!
+        deleted: false
+        text: 'Посмотрите какой я красавец! Король да и только!
+
+          <img src="http://www.hifinews.ru/image/articles/11104102.jpg"/>'

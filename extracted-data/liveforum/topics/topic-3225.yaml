@@ -1,0 +1,60 @@
+topic_id: 3225
+slug: topic-3225
+title: Где можно научиться делать блюз?
+first_post: 2006-04-24 16:51
+last_post: 2006-04-24 18:41
+post_count: 6
+posts:
+- id: 27081
+  parent_id: null
+  date: 2006-04-24 16:51
+  poster: Fox
+  email: foxfox@rambler.ru
+  subject: Где можно научиться делать блюз?
+  deleted: false
+  text: Я впринципе немного сочиняю музыку
+  replies:
+  - id: 27084
+    parent_id: 27081
+    date: 2006-04-24 17:00
+    poster: Старый Майор
+    email: gypsy@mail.ru
+    subject: Вестимо, в Америке, на плантации...
+    deleted: false
+    replies:
+    - id: 27091
+      parent_id: 27084
+      date: 2006-04-24 18:20
+      poster: Владимир Русинов (BluesCat)
+      email: volodya@blues.ru
+      subject: врядли.
+      deleted: false
+      text: сейчас там просто какойнить негр в наушниках с хипхопом   комбайном переедет......
+      replies:
+      - id: 27095
+        parent_id: 27091
+        date: 2006-04-24 18:40
+        poster: Старый Майор
+        email: gypsy@mail.ru
+        subject: Помню, в молодости пел я песню..
+        deleted: false
+        text: '..слова там были такие "На меня наехал трактор «Беларусь»"...
+
+
+          Привет Свету, кстати!'
+  - id: 27093
+    parent_id: 27081
+    date: 2006-04-24 18:35
+    poster: Fox
+    email: foxfox@rambler.ru
+    subject: Как вы относитесь к Yолке?
+    deleted: false
+    text: помоему в R"n"B ей нет равных.
+    replies:
+    - id: 27096
+      parent_id: 27093
+      date: 2006-04-24 18:41
+      poster: Старый Майор
+      email: gypsy@mail.ru
+      subject: А хто это?
+      deleted: false

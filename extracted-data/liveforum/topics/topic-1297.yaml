@@ -1,0 +1,33 @@
+topic_id: 1297
+slug: topic-1297
+title: Антон Клепиков свяжитесь плиз с Биг Вэлом!!!
+first_post: 2003-08-01 17:41
+last_post: 2003-08-02 18:52
+post_count: 3
+posts:
+- id: 13430
+  parent_id: null
+  date: 2003-08-01 17:41
+  poster: baltika
+  email: baltika-blues@yandex.ru
+  subject: Антон Клепиков свяжитесь плиз с Биг Вэлом!!!
+  deleted: false
+  text: Фёдор и все-все-все - простите мне это сообщение. Если возможно - не удаляйте
+    сегодня! а потом - я за всё отвечу)
+  replies:
+  - id: 13437
+    parent_id: 13430
+    date: 2003-08-02 18:49
+    poster: Anton Klepikov
+    email: antokha@yandex.ru
+    subject: Спамибо! Все нашлись! Можно удалять...
+    deleted: false
+    text: Только вот модераторы все, похоже, на Севере! :-))
+    replies:
+    - id: 13438
+      parent_id: 13437
+      date: 2003-08-02 18:52
+      poster: Anton Klepikov
+      email: antokha@yandex.ru
+      subject: Т.е. спасибо! (-)
+      deleted: false

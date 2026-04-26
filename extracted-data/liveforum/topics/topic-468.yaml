@@ -1,0 +1,57 @@
+topic_id: 468
+slug: topic-468
+title: Объявления в форуме
+first_post: 2002-11-17 19:18
+last_post: 2002-11-19 07:49
+post_count: 6
+posts:
+- id: 8862
+  parent_id: null
+  date: 2002-11-17 19:18
+  poster: Федор Романенко (fedor)
+  email: fedor@blues.ru
+  subject: Объявления в форуме
+  deleted: false
+  text: Будут нещадно удаляться. Объявление про рыбу я удаляю уже в восьмой раз, сколько
+    можно? Если это будет продолжаться, придется ввести обязательную регистрацию для
+    постинга на форуме, ничего не поделаешь.
+  replies:
+  - id: 8863
+    parent_id: 8862
+    date: 2002-11-17 23:53
+    poster: Александр Мальчевский (Tonny)
+    email: heavyfuel@mtu-net.ru
+    subject: Пора пора...
+    deleted: false
+    text: полностью согласен!
+  - id: 8877
+    parent_id: 8862
+    date: 2002-11-18 17:22
+    poster: Жук
+    email: psihu@pisem.net
+    subject: а можно объявления имеющие отношение к теме?
+    deleted: false
+  - id: 8879
+    parent_id: 8862
+    date: 2002-11-18 17:29
+    poster: Пикейные жилеты
+    email: gypsy@mail.ru
+    subject: Ой, и шо там такое про рибу? А может именно нам её таки-надо?
+    deleted: false
+  - id: 8881
+    parent_id: 8862
+    date: 2002-11-18 17:54
+    poster: Дмитрий(fan)
+    email: leondmitr@freemail.ru
+    subject: А про клубничку можно?
+    deleted: false
+    text: "Была тут клубничка как-то раз и мне лично понравилась, правда она была\
+      \ в контексте блюза. \nНо все равно ведь это была клубничка..."
+  - id: 8887
+    parent_id: 8862
+    date: 2002-11-19 07:49
+    poster: Malcolm Ray  Redriver (Mike)
+    email: lifebythedrop@yandex.ru
+    subject: Рыба, клубника и помидоры...
+    deleted: false
+    text: Захады, дарарагой...

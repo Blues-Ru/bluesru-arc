@@ -1,0 +1,100 @@
+topic_id: 3529
+slug: topic-3529
+title: Прочитал блюзовые новости - стало смешно. Извините.
+first_post: 2006-12-20 02:00
+last_post: 2006-12-26 21:28
+post_count: 9
+posts:
+- id: 30010
+  parent_id: null
+  date: 2006-12-20 02:00
+  poster: Борис
+  email: nosbig2005@hotmail.com
+  subject: Прочитал блюзовые новости - стало смешно. Извините.
+  deleted: false
+  text: "09.12  Умер Джей МакШенн \n19.11  \"Мисс Ритм\" покинула этот мир \n29.10\
+    \  Ушел из жизни Snooky Pryor \n28.09  Фестиваль \"МИНСК БЛЮЗ 2006\" \n26.09 \
+    \ Умер Генри Таунсенд"
+  replies:
+  - id: 30015
+    parent_id: 30010
+    date: 2006-12-20 03:41
+    poster: Lars
+    email: s@ddd.dd
+    subject: Ну хоть в Минске что-то хорошее произошло )
+    deleted: false
+    replies:
+    - id: 30018
+      parent_id: 30015
+      date: 2006-12-20 05:35
+      poster: Muddy Lives
+      email: mlives_6@hotmail.com
+      subject: Сквозь слезы, я надеюсь
+      deleted: false
+      text: 'Вместо события в Минске следовало бы еще написать "умер Роберт Локвуд."
+
+
+
+        Ьгввн'
+      replies:
+      - id: 30027
+        parent_id: 30018
+        date: 2006-12-20 10:21
+        poster: Andrei V. Evdokimov (evdokimov)
+        email: evdokimov@blues.ru
+        subject: да.... я впишу задним числом
+        deleted: false
+        text: насколько я понимаю, именно пропуск этой кончины и вызвал радостный
+          смех Бориса, которым он продлил себе жизнь. диалектика, однако.
+  - id: 30021
+    parent_id: 30010
+    date: 2006-12-20 06:47
+    poster: Эльдар
+    email: еlicaster мeйлтoчкapy
+    subject: блин!
+    deleted: false
+    text: 'Может там должно было быть написано так?
+
+      28.09 Фестиваль "МИНСК БЛЮЗ 2006" отменён'
+  - id: 30073
+    parent_id: 30010
+    date: 2006-12-22 18:19
+    poster: Andrei V. Evdokimov (evdokimov)
+    email: evdokimov@blues.ru
+    subject: хотите посмеяться? прошу в новости!
+    deleted: false
+  - id: 30076
+    parent_id: 30010
+    date: 2006-12-22 22:19
+    poster: Эльдар
+    email: еlicaster мeйлтoчкapy
+    subject: Да что ж такое творится...
+    deleted: false
+    text: '# 22.12  Скончался Ahmet Ertegun
+
+      # 22.12  Ушел из жизни Homesick James
+
+      # 09.12  Умер Джей МакШенн
+
+      # 19.11  "Мисс Ритм" покинула этот мир
+
+      # 29.10  Ушел из жизни Snooky Pryor'
+    replies:
+    - id: 30121
+      parent_id: 30076
+      date: 2006-12-25 12:31
+      poster: Илья Кривандин
+      email: ilija@bk.ru
+      subject: Умер Джеймс Браун
+      deleted: false
+      replies:
+      - id: 30173
+        parent_id: 30121
+        date: 2006-12-26 21:28
+        poster: Александр
+        email: soulman@bk.ru
+        subject: Уходит музыка
+        deleted: false
+        text: 'Да. Уходит музыка. Скоро не останется никого...
+
+          Здоровья тебе, B.B. King! Энергии и сил тебе, Buddy Guy!'

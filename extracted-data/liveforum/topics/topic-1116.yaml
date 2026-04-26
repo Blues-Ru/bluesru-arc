@@ -1,0 +1,34 @@
+topic_id: 1116
+slug: topic-1116
+title: как называется тема из рекламы чипсов Pringles??????/?
+first_post: 2002-03-07 15:00
+last_post: 2002-03-08 18:45
+post_count: 3
+posts:
+- id: 1955
+  parent_id: null
+  date: 2002-03-07 15:00
+  poster: sergei
+  email: pozdeev2000@mail.ru
+  subject: как называется тема из рекламы чипсов Pringles??????/?
+  deleted: false
+  text: как называется тема из рекламы чипсов Pringles где крокодил???????
+  replies:
+  - id: 1957
+    parent_id: 1955
+    date: 2002-03-07 15:14
+    poster: Anton Klepikov (antokha)
+    email: antokha@yandex.ru
+    subject: I put a spell on you (-)
+    deleted: false
+    text: '-'
+  - id: 1970
+    parent_id: 1955
+    date: 2002-03-08 18:45
+    poster: Михаил Бирюков (nECKAPb)
+    email: blackcat@blues.ru
+    subject: по-моему...
+    deleted: false
+    text: '... это уже второй вопрос на эту тему.
+
+      Так раскрутить в России Скримин Джея Хокинса при жизни, по-моему, не удавалось.'

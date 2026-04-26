@@ -1,0 +1,46 @@
+topic_id: 3686
+slug: topic-3686
+title: Chris Walz в ДуД
+first_post: 2007-07-18 15:01
+last_post: 2007-07-19 01:22
+post_count: 4
+posts:
+- id: 33196
+  parent_id: null
+  date: 2007-07-18 15:01
+  poster: Юрий Костин (zelen)
+  email: domudorogi@mtu-net.ru
+  subject: Chris Walz в ДуД
+  deleted: false
+  text: во вторник 24-го июля у нас будет выступать американский гражданин и музыкант
+    по имени Chris Walz. Он преподаёт гитару в Old Town Scool of Folk Music(Chicago).
+    К нам его сосватал Миша Владимиров, а Михаил Мишурис настолько был восхищён искуством
+    этого артиста, что пожертвовал своим запланированным концертом!!! "Наши люди"(те
+    кто уже слышали и видели Криса) отзываются о нём в превосходных тонах. Крис в
+    совершенстве владеет разнообразной гитарной техникой и очень хорошо поёт. Концерт
+    у нас будет происходить при участии Михаила Владимирова(гармоника). Вход на концерт
+    в этот день будет совершенно свободным для всех, так что не проморгайте!
+  replies:
+  - id: 33198
+    parent_id: 33196
+    date: 2007-07-18 18:43
+    poster: Старый Майор
+    email: gypsy@mail.ru
+    subject: Мы обязательно придём слушать гражданина музыканта! ))
+    deleted: false
+    replies:
+    - id: 33203
+      parent_id: 33198
+      date: 2007-07-19 01:20
+      poster: Dmitri Kazantsev (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: и только попробуй обмануть!
+      deleted: false
+      replies:
+      - id: 33204
+        parent_id: 33203
+        date: 2007-07-19 01:22
+        poster: Старый Майор
+        email: gypsy@mail.ru
+        subject: Это предложение или угроза?
+        deleted: false

@@ -1,0 +1,62 @@
+topic_id: 3413
+slug: topic-3413
+title: вот такие новоси
+first_post: 2006-09-20 14:41
+last_post: 2006-09-24 22:07
+post_count: 5
+posts:
+- id: 28784
+  parent_id: null
+  date: 2006-09-20 14:41
+  poster: Andrei V. Evdokimov (evdokimov)
+  email: evdokimov@blues.ru
+  subject: вот такие новоси
+  deleted: false
+  text: http://blues.ru/news/?p=200609#332
+  replies:
+  - id: 28785
+    parent_id: 28784
+    date: 2006-09-20 23:38
+    poster: Эльдар Музафаров
+    email: elicaster co6@kaмейл-d0t ru
+    subject: 'А как вам вот такая новость:'
+    deleted: false
+    text: 'А как вам вот такая новость:
+
+      <a href="http://top.rbc.ru/index.shtml?/news/funs/2006/09/18/18205211_bod.shtml">Современная
+      музыка пагубно влияет на молодежь</a>
+
+      Оказывется House, R&B, Trance, хип-хоп - всё это способствует криминалу. Ну,
+      Америки тем самым мне и не открыли (я всегда знал что паразиты и тунеядцы),
+      но вот там же досталось и "поклонникам блюзовых ритмов"...
+
+      P.S. может там не корректный перевод? имели в виду R&B (мелодии и "блюзовые
+      ритмы" зарубежной эстрады)? хотя с другой стороны, R&B уже упамянали там...'
+    replies:
+    - id: 28786
+      parent_id: 28785
+      date: 2006-09-20 23:39
+      poster: Эльдар Музафаров
+      email: elicaster co6@kaмейл-d0t ru
+      subject: А вообще-то,
+      deleted: false
+      text: 'Мои поздравления с семейнами торжествами и Мишуриса, и Шеперда.
+
+        Love and Happiness'
+      replies:
+      - id: 28794
+        parent_id: 28786
+        date: 2006-09-24 22:07
+        poster: BOODOOLAI
+        email: timot@mail.ru
+        subject: ++++ СОВЕТЪ да ЛЮБОВЬ ++++
+        deleted: false
+    - id: 28788
+      parent_id: 28785
+      date: 2006-09-21 23:38
+      poster: Алексей
+      email: нету
+      subject: насчёт R&B
+      deleted: false
+      text: Дело в том, что сейчас R&B - это не только Rhythm and Blues, но ещё и
+        Rhythm and Bass - совсем другая штуковина. Послушайте как-нибудь на досуге.

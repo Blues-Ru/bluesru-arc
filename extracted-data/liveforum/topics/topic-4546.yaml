@@ -1,0 +1,23 @@
+topic_id: 4546
+slug: topic-4546
+title: Mellow
+first_post: 2011-03-11 15:08
+last_post: 2011-03-11 15:13
+post_count: 2
+posts:
+- id: 37420
+  parent_id: null
+  date: 2011-03-11 15:08
+  poster: Andrei V. Evdokimov
+  subject: Mellow
+  deleted: false
+  text: В прошый чктверг я был в Дуде. Кстати, презентция удалвсь… цветы – это ВИА
+    70-х. но красиво было у  Mellow -  на втором этаже
+  replies:
+  - id: 37421
+    parent_id: 37420
+    date: 2011-03-11 15:13
+    poster: Andrei V. Evdokimov
+    subject: просто
+    deleted: false
+    text: "хочу добавить\n\n алилуйя была божественно хлроша. вы все красавцы!"

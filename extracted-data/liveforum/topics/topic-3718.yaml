@@ -1,0 +1,88 @@
+topic_id: 3718
+slug: topic-3718
+title: А чо там насчет Лефортово??
+first_post: 2007-08-13 16:35
+last_post: 2007-08-16 23:50
+post_count: 8
+posts:
+- id: 33371
+  parent_id: null
+  date: 2007-08-13 16:35
+  poster: Валентин
+  email: voshalb@rambler.ru
+  subject: А чо там насчет Лефортово??
+  deleted: false
+  text: Где ж вы, любители блюза?? Отпишите, плиз, ваши впечатления...Иль жара, август
+    и всех сморило???
+  replies:
+  - id: 33372
+    parent_id: 33371
+    date: 2007-08-13 19:24
+    poster: Андрей
+    email: lissovoy@yahoo.com
+    subject: Был классный концерт
+    deleted: false
+    text: 'Послушал всех наших за один день. Разве плохо?
+
+
+      Погода была прекрасная, музыка хорошая и разная. Чего ещё желать?
+
+
+      П.С. Записал по куску соло каждого ансамбля на мыльничное видео. Получилось
+      сносно. Теперь все российские блюзмены буквально у меня в кармане.'
+  - id: 33374
+    parent_id: 33371
+    date: 2007-08-14 00:44
+    poster: Руслан Чифуров ()
+    email: chifuroff@inbox.ru
+    subject: Полазий в ЖЖ :-))))) Там много кто чего написАл :-)))))
+    deleted: false
+    text: <a href="http://chifuroff.livejournal.com/164094.html">Вот например мой
+      скромный отчётец</a>
+  - id: 33375
+    parent_id: 33371
+    date: 2007-08-14 00:56
+    poster: Руслан Чифуров ()
+    email: chifuroff<sobaka>inbox.ru
+    subject: Ещё отчёты
+    deleted: false
+    text: '<a href="http://vrbluescat.livejournal.com/52565.html">Фотоотчёт Вовы Русинова</a>
+
+      <a href="http://tyomson.livejournal.com/53339.html">Отчёт Тёмсона</a>
+
+      <a href="http://grems.livejournal.com/26009.html">Отчёт Грема</a>'
+  - id: 33376
+    parent_id: 33371
+    date: 2007-08-14 01:02
+    poster: Руслан Чифуров ()
+    email: chifuroff<sobaka>inbox.ru
+    subject: И ещё
+    deleted: false
+    text: <a href="http://saltuarius.livejournal.com/6045.html">Отчёт Юрия Каверкина</a>
+  - id: 33382
+    parent_id: 33371
+    date: 2007-08-15 10:00
+    poster: Надежда  (Надежда)
+    email: hope28@mail.ru
+    subject: мой отчет
+    deleted: false
+    text: Ну и я тоже внесу скромную лепту http://pitiova.livejournal.com/1141.html
+    replies:
+    - id: 33383
+      parent_id: 33382
+      date: 2007-08-15 10:06
+      poster: (Grem)
+      email: grems@yandex.ru
+      subject: Еще рецензии в рунете
+      deleted: false
+      text: 'http://www.intermedia.ru/index.php3?action=view&id=85977
+
+        http://afisha.rambler.ru/message.html?id=12407429'
+  - id: 33387
+    parent_id: 33371
+    date: 2007-08-16 23:50
+    poster: Андрей
+    email: tyttyyt@yuj
+    subject: И еще
+    deleted: false
+    text: http://www.intermedia.ru/index.php3?action=view&id=85980

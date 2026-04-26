@@ -1,0 +1,93 @@
+topic_id: 4396
+slug: topic-4396
+title: погиб Саша Бородин
+first_post: 2010-06-13 23:36
+last_post: 2017-02-06 21:10
+post_count: 9
+posts:
+- id: 36951
+  parent_id: null
+  date: 2010-06-13 23:36
+  poster: Dmitri Kazantsev
+  subject: погиб Саша Бородин
+  deleted: false
+  text: "СЕГОДНЯ УТРОМ ТРАГИЧЕСКИ ПОГИБЛИ АЛЕКСАНДР И КИРА БОРОДИНЫ. \n\nразбились\
+    \ на частном самолете под Москвой...\n\nСаша - лидер группы Сколдер-блюз. Певец\
+    \ и саксофонист."
+  replies:
+  - id: 36952
+    parent_id: 36951
+    date: 2010-06-13 23:41
+    poster: baltika
+    subject: ужас (-)
+    deleted: false
+    replies:
+    - id: 37034
+      parent_id: 36952
+      date: 2010-08-25 19:33
+      poster: varprof
+      subject: ужас
+      deleted: false
+      text: 'Это ужасно....
+
+
+
+
+
+        -----
+
+        http://svarprof.ru/production/227'
+  - id: 36953
+    parent_id: 36951
+    date: 2010-06-14 00:31
+    poster: Федор Романенко
+    subject: Прочитал днем новости, думал, нас не касается :((
+    deleted: false
+    text: Ужасно!!
+  - id: 36954
+    parent_id: 36951
+    date: 2010-06-14 13:48
+    poster: Плакса
+    subject: '?'
+    deleted: false
+    text: это было на р. Ока?
+    replies:
+    - id: 36955
+      parent_id: 36954
+      date: 2010-06-14 14:33
+      poster: Федор Романенко
+      subject: Нет, какое-то озеро
+      deleted: false
+      text: 'Вот тут подробности, много СМИ написало про это
+
+
+        http://news.yandex.ru/yandsearch?cl4url=rusnovosti.ru%2Fnews%2F94472%2F'
+  - id: 36957
+    parent_id: 36951
+    date: 2010-06-14 15:48
+    poster: Плакса
+    subject: ну да
+    deleted: false
+    text: мы в это время гоняли по оке в том районе (совсем рядом). нас тормознули
+      гимсы за жилеты, и в процессе рассказали подробности получасовой давности. "из
+      первых уст" звучало конечно ужасно. надо сказать, что в предыдущий день много
+      кто летал - от паропланов - до самолетов. но вчера было штормовое предупреждение,
+      ураган и т.п. - ни одного летательного аппарата в небе не было с утра до вечера.
+      думаю ребята погибли по незнанке...
+    replies:
+    - id: 36958
+      parent_id: 36957
+      date: 2010-06-15 03:15
+      poster: Dmitri Kazantsev
+      subject: ужас
+      deleted: false
+      text: http://www.lifenews.ru/news/27881
+  - id: 39437
+    parent_id: 36951
+    date: 2017-02-06 21:10
+    poster: Eva
+    subject: Загляни
+    deleted: false
+    text: 'посмотри новинки <a href="http://www.new-project.biz/
+
+      ">тут</a>'

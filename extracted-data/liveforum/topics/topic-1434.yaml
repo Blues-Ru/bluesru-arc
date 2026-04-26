@@ -1,0 +1,129 @@
+topic_id: 1434
+slug: topic-1434
+title: Подскажите, плиз!
+first_post: 2003-09-04 13:51
+last_post: 2003-09-05 15:28
+post_count: 12
+posts:
+- id: 14110
+  parent_id: null
+  date: 2003-09-04 13:51
+  poster: Greta
+  email: morehemp
+  subject: Подскажите, плиз!
+  deleted: false
+  text: "кто сегодня джемует с Доком в Вудстоке? \nОбычная программа, привычные, знакомые\
+    \ гости, или будут Дилейны всякие..?\nСпасибо"
+  replies:
+  - id: 14115
+    parent_id: 14110
+    date: 2003-09-04 14:03
+    poster: Старый Майор
+    email: gypsy@mail.ru
+    subject: Щас два раза... придёт Дилейн в Вудсток...
+    deleted: false
+    text: Лёша сказал, что придёт Big Val и Svet, ну и все как обычно.
+    replies:
+    - id: 14118
+      parent_id: 14115
+      date: 2003-09-04 14:12
+      poster: baltika
+      email: baltika-blues@yandex.ru
+      subject: Svet&Al и Big Val не одни придут))с кузнецом!))...
+      deleted: false
+      text: даже с кузнецаМИ!!! И что значит "как обычно"? Как обычно, когда эти ребята
+        играют в Вудстоке?;)))))))))))
+    - id: 14119
+      parent_id: 14115
+      date: 2003-09-04 14:14
+      poster: Greta
+      email: morehempp
+      subject: а что..
+      deleted: false
+      text: 'ему в падлу в Вудсток..??
+
+        Или немецким блюзовым гениям.. спеть "ду хаст михь"..? :о)'
+      replies:
+      - id: 14125
+        parent_id: 14119
+        date: 2003-09-04 14:38
+        poster: Andrei V. Evdokimov (evdokimov)
+        email: evdokimov@blues.ru
+        subject: фанаберия какая-то
+        deleted: false
+        text: иностранные ребята приехали не на экскурсию, а по контракту. играют
+          стадион и по два клубных концерта. а джем - это уж по настроению. поэтому
+          никто ничего не опровергает. но и подтврдить участие немецких и прочих гениев
+          в джемах - никак не возможно
+        replies:
+        - id: 14131
+          parent_id: 14125
+          date: 2003-09-04 14:56
+          poster: Greta
+          email: morehemp
+          subject: фана..
+          deleted: false
+          text: 'простите, что..? :)
+
+            спасибо за информацию, теперь всё понятно'
+        - id: 14133
+          parent_id: 14125
+          date: 2003-09-04 16:21
+          poster: Михаил Бирюков (nECKAPb)
+          email: blackcat@blues.ru
+          subject: Андрей!
+          deleted: false
+          text: Так когда всё-таки будет джем Аграновского с минчанами?! В программе
+            написано - 5-го, в Афише 5-го про белорусских гостей ни слова; а здесь
+            уже пишут, что все вместе играют 4-го... Просвети хоть ты, плиз.
+          replies:
+          - id: 14146
+            parent_id: 14133
+            date: 2003-09-05 11:13
+            poster: Andrei V. Evdokimov (evdokimov)
+            email: evdokimov@blues.ru
+            subject: дык
+            deleted: false
+            text: "все по расписанию. Один  джем был с их участием вчера, в Вудстоке.\
+              \ Это было по желанию, а не по расписанию.\nа сегодня, в пятницу, будут\
+              \ они в Алабаме. \nобращаю внимание и на это:\nПонедельник, 8 сентября\n\
+              «Алабама» 21-00 Вечер блюзовой архаики Svet, Al and Big Val (Минск),\
+              \ Юрий Каверкин и Wrong Way Band"
+            replies:
+            - id: 14149
+              parent_id: 14146
+              date: 2003-09-05 13:28
+              poster: Алексей Аграновский (Док)
+              email: aaa@genebee.msu.su
+              subject: Вот именно.
+              deleted: false
+              text: Вчера минчане играли с нами в Вудстоке, сегодня ждем их в Алабаме.
+                И Юру Каверкина с группой. И вас всех, кто хочет послушать.
+            - id: 14151
+              parent_id: 14146
+              date: 2003-09-05 14:17
+              poster: Михаил Бирюков (nECKAPb)
+              email: blackcat@blues.ru
+              subject: спасибо!
+              deleted: false
+              text: На 8-е внимание уже обратил. Постараюсь быть везде, где только
+                смогу.
+  - id: 14114
+    parent_id: 14110
+    date: 2003-09-04 14:03
+    poster: baltika
+    email: baltika-blues@yandex.ru
+    subject: Svet&Al & Big Val если я не ошибаюсь!
+    deleted: false
+  - id: 14154
+    parent_id: 14110
+    date: 2003-09-05 15:28
+    poster: Natasha
+    email: www.moonlit-valley.narod.ru
+    subject: джем :)
+    deleted: false
+    text: "Всем музыкантам и особенно, конечно, многоуважаемому Доку спасибо за вчерашний\
+      \ джем! :) Было очень классно!!! \nА я вот впервые вчера услыхала Svet&Al&Big\
+      \ Val - удивительная команда! Колоритные персонажи, действительно классно исполняют\
+      \ архаику, а что вытворял их гармошечник-вокалист в сольном номере :)) Я такого\
+      \ никогда не видела и не слышала :) Очень здорово! ;)"

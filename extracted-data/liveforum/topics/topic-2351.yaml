@@ -1,0 +1,87 @@
+topic_id: 2351
+slug: topic-2351
+title: Bob Margolin "My Blues&My Guitar" + Li'l Ed "Chicken, Gravy & Biscuits"
+first_post: 2004-12-18 23:18
+last_post: 2004-12-27 14:58
+post_count: 5
+posts:
+- id: 19981
+  parent_id: null
+  date: 2004-12-18 23:18
+  poster: Vladimir Sorokin (BluesJammer)
+  email: bob_mail@rambler.ru
+  subject: Bob Margolin "My Blues&My Guitar" + Li'l Ed "Chicken, Gravy & Biscuits"
+  deleted: false
+  text: 'Народ! У кого-нибудь есть эти альбомы?
+
+    Нужно буквально по 2-3 трека оттуда:
+
+
+    Bob Margolin:
+
+    Falling Star,
+
+    My Old Friend.
+
+
+    Lil'' Ed and the Blues Imperials:
+
+    Blues for Jeanette *
+
+    Chicken, Gravy and Biscuits *
+
+    Midnight Rider.
+
+
+    Luther Allison:
+
+    Big City.'
+  replies:
+  - id: 20003
+    parent_id: 19981
+    date: 2004-12-20 23:47
+    poster: disik
+    email: denis1482@mail.ru
+    subject: http://emule-project.net/
+    deleted: false
+    text: 'http://emule-project.net/
+
+      там альбомы
+
+      ed2k://|file|Steady%20Rollin''%20Bob%20Margolin_My%20Blues%20&%20My%20Guitar_Covers_Mp3-192.rar|88063541|CE1DA92579681EF0D9FF324DB61A80C7|/
+
+      ed2k://|file|Lil''%20Ed%20and%20The%20Blues%20Imperials.rar|23412295|DB785FC3F5FCA4E8B2972EB68BB403A3|/
+
+      или ишешь по трекам, например
+
+      ed2k://|file|lil''%20ed%20and%20the%20blues%20imperials%20-%20chicken%20gravy%20&%20biscuits%20-%2005%20-%20blues%20for%20Jeanette.mp3|5768220|44752BCA3B63D71DE4DA704BBF8AC77D|/
+
+      Кто ищет, тот всегда найдет.'
+    replies:
+    - id: 20037
+      parent_id: 20003
+      date: 2004-12-24 13:00
+      poster: BluesJammer
+      email: jamtracks@narod.ru
+      subject: Спасибо, Денис :)
+      deleted: false
+      text: "Спаибо за ссылки :) \nК сожалению, у меня eMule не может \nнайти достаточно\
+        \ пользователей :(\nЕсли не секрет - на каком именно \nсервере eMule нашлись\
+        \ эти альбомы?\nЯ даже на Razorback не мог найти...\nПопробую поискать еще."
+      replies:
+      - id: 20064
+        parent_id: 20037
+        date: 2004-12-27 05:38
+        poster: disik
+        email: denis1482@mail.ru
+        subject: Поиск в режиме Server (Global) происходит сразу по всем известным
+          серверам
+        deleted: false
+        replies:
+        - id: 20067
+          parent_id: 20064
+          date: 2004-12-27 14:58
+          poster: BluesJammer
+          email: jamtracks@narod.ru
+          subject: Спасибо, уже скачиваю :)))
+          deleted: false

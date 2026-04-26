@@ -1,0 +1,56 @@
+topic_id: 1093
+slug: topic-1093
+title: Не могу не поделиться радостью! ;)
+first_post: 2002-03-26 22:22
+last_post: 2002-03-27 11:44
+post_count: 5
+posts:
+- id: 2815
+  parent_id: null
+  date: 2002-03-26 22:22
+  poster: Greta
+  email: morehemp@rambler.ru
+  subject: Не могу не поделиться радостью! ;)
+  deleted: false
+  text: 'Уж извините ;))  раз блюз не едет.. ;)
+
+
+    http://news.mail.ru//news.html?134191'
+  replies:
+  - id: 2836
+    parent_id: 2815
+    date: 2002-03-27 00:47
+    poster: Федор Романенко (fedor)
+    email: fedor@blues.ru
+    subject: Оззи - лучший!!!
+    deleted: false
+    text: 'Та-таа... Та-таа...
+
+      He-He! It sounds like Ozzy!'
+    replies:
+    - id: 2856
+      parent_id: 2836
+      date: 2002-03-27 01:45
+      poster: Greta
+      email: morehemp@mail.ru
+      subject: Странные у Вас какие-то
+      deleted: false
+      text: "песнопения :) \nTimes have changed and times are strange\nHere I come,\
+        \ but I ain't the same\nMaamaaa, I'm Coming Hoome... ;)))"
+  - id: 2870
+    parent_id: 2815
+    date: 2002-03-27 10:00
+    poster: Дима   (Казанцев)
+    email: dr.nick@blues.ru
+    subject: Оззи рулез!
+    deleted: false
+    text: Только его и могу слушать из так называемого МЕТАЛЛа.
+    replies:
+    - id: 2881
+      parent_id: 2870
+      date: 2002-03-27 11:44
+      poster: Greta
+      email: morehemp@mail.ru
+      subject: Какой же это
+      deleted: false
+      text: металл? :) Хорошая поп-музыка родом из детства :)

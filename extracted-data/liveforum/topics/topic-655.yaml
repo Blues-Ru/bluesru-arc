@@ -1,0 +1,67 @@
+topic_id: 655
+slug: topic-655
+title: 'Про BLUESMAKERS: действительно всё так круто?'
+first_post: 2003-03-04 19:34
+last_post: 2003-03-08 02:40
+post_count: 7
+posts:
+- id: 10780
+  parent_id: null
+  date: 2003-03-04 19:34
+  poster: Андрей PRG
+  email: peregnoy@mail.ru
+  subject: 'Про BLUESMAKERS: действительно всё так круто?'
+  deleted: false
+  text: См. http://zvuki.ru/R/P/9004/
+  replies:
+  - id: 10787
+    parent_id: 10780
+    date: 2003-03-04 21:22
+    poster: Юрий Каверкин
+    email: kaverkin@rol.ru
+    subject: Состав впечетляет, ничего не скажешь.....
+    deleted: false
+    replies:
+    - id: 10789
+      parent_id: 10787
+      date: 2003-03-04 21:33
+      poster: Андрей PRG
+      email: peregnoy@mail.ru
+      subject: А вживую,
+      deleted: false
+      text: Юр, Вам ещё не приходилось их слышать?
+      replies:
+      - id: 10790
+        parent_id: 10789
+        date: 2003-03-04 22:05
+        poster: Юрий Каверкин
+        email: kaverkin@rol.ru
+        subject: Только каждого по отдельности...
+        deleted: false
+  - id: 10793
+    parent_id: 10780
+    date: 2003-03-05 08:37
+    poster: Юрий Кривошеин (YuK)
+    email: scolderblues@yahoo.com
+    subject: И это ещё не всё...
+    deleted: false
+    text: На клавишах у Bluesmakers теперь играет Денис Мажуков, ещё один бэнд-лидер.
+      Программа очень разнообразная и интересная. Так что стоит это увидеть и услышать!
+  - id: 10799
+    parent_id: 10780
+    date: 2003-03-05 16:56
+    poster: Дмитрий(fan))
+    email: leondmitr@freemail.ru
+    subject: Вот спасибочки!
+    deleted: false
+    text: "информация весьма кстати! \nВот на них наверное и сходим..."
+  - id: 10864
+    parent_id: 10780
+    date: 2003-03-08 02:40
+    poster: Петя
+    email: voliak@cityline.ru
+    subject: Про состав
+    deleted: false
+    text: Сегодня у нас на вечерине выступали Bluesmakers. В составе восьми человек.
+      На гитаре играл, кстати, Немов. В общем, сыграли они весьма и весьма клево..и
+      очень профессионально

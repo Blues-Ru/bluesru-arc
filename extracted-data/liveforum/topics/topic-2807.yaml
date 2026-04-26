@@ -1,0 +1,67 @@
+topic_id: 2807
+slug: topic-2807
+title: John Primer
+first_post: 2005-09-22 13:01
+last_post: 2005-09-25 11:01
+post_count: 6
+posts:
+- id: 23369
+  parent_id: null
+  date: 2005-09-22 13:01
+  poster: Алексей Аграновский (Док)
+  email: aaa@genebee.msu.su
+  subject: John Primer
+  deleted: false
+  text: 'Джон Праймер сегодня утром прилетел. Все заявленные концерты состоятся по
+    расписанию.
+
+    Приходите!'
+  replies:
+  - id: 23380
+    parent_id: 23369
+    date: 2005-09-23 12:48
+    poster: shade33
+    email: vyaroshevich@gmail.com
+    subject: Диски Праймера
+    deleted: false
+    text: А диски его достать где-нибудь можно? У него с собой нет случаем, а то dvd
+      мне ну просто ни к чему.
+    replies:
+    - id: 23381
+      parent_id: 23380
+      date: 2005-09-23 15:39
+      poster: мишурис
+      email: mishouris@yandex.ru
+      subject: Диски есть
+      deleted: false
+      text: Я у Олега на Горбушке купил 2-есть там такой блюзовый столик С2-142. Фирменные
+        тоже думаю не проблема там где блюз продают\Трансильвания там и пр.\ И даже
+        в "Союзе" мой знакомый купил CD правда,говорит искали долго.
+  - id: 23385
+    parent_id: 23369
+    date: 2005-09-24 10:42
+    poster: Muddy Lives
+    email: mlives_6@hotmail.com
+    subject: Большое спасибо
+    deleted: false
+    text: 'всем организаторам концертов Праймера.  Я получил огромное удовольствие!
+
+
+
+      Muddy'
+  - id: 23387
+    parent_id: 23369
+    date: 2005-09-24 23:04
+    poster: Kot Matraskin (KotMatraskin)
+    email: kotmatrs@mail.ru
+    subject: да, славно было. Клевый дядька Праймер. Спасибо - док.
+    deleted: false
+    replies:
+    - id: 23394
+      parent_id: 23387
+      date: 2005-09-25 11:01
+      poster: Алексей Аграновский (Док)
+      email: aaa@genebee.msu.su
+      subject: Ребята, спасибо и вам всем
+      deleted: false
+      text: В Рязани был просто потрясающий концерт. Сегодня Джон улетел домой.

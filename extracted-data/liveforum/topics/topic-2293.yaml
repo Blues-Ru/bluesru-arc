@@ -1,0 +1,24 @@
+topic_id: 2293
+slug: topic-2293
+title: Как оно там вчера у Арсена-то всё прошло? Расскажите.
+first_post: 2004-10-28 10:09
+last_post: 2004-10-28 13:11
+post_count: 2
+posts:
+- id: 19560
+  parent_id: null
+  date: 2004-10-28 10:09
+  poster: Игорь Головачев (Игорь Г.)
+  email: sunny_city@mail.ru
+  subject: Как оно там вчера у Арсена-то всё прошло? Расскажите.
+  deleted: false
+  replies:
+  - id: 19567
+    parent_id: 19560
+    date: 2004-10-28 13:11
+    poster: Федор Романенко (fedor)
+    email: fedor@blues.ru
+    subject: Дурь!
+    deleted: false
+    text: Арсен ко второму отделению особенно разошелся. Джем с Демьяновым получился
+      отличный! Сегодня продолжим в БиБиКинге ;)

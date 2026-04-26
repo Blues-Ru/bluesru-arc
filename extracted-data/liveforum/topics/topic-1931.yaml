@@ -1,0 +1,30 @@
+topic_id: 1931
+slug: topic-1931
+title: кто исполняет?
+first_post: 2004-03-16 12:03
+last_post: 2004-03-16 14:04
+post_count: 2
+posts:
+- id: 17597
+  parent_id: null
+  date: 2004-03-16 12:03
+  poster: Vitalij
+  email: vitalisp@takas.lt
+  subject: кто исполняет?
+  deleted: false
+  text: Однажды слышал блюзовую композицию которая мне очень понравилась. В песне
+    звучал очень выразителный мужской голос с очень ясным произношением (особенно
+    правильно и красиво звучали гласные буквы). Запомнились только такие отрывки "how
+    long, how long can it last" и "i'm about to loose my mind". Композиция медленная.
+    Может кому придет на ум кто это мог быть. Спасибо!
+  replies:
+  - id: 17601
+    parent_id: 17597
+    date: 2004-03-16 14:04
+    poster: Vitalij
+    email: vitalisp@takas.lt
+    subject: Все, уже узнал!!!
+    deleted: false
+    text: 'Это было ROOMFUL OF BLUES "HOW LONG WILL IT LAST"
+
+      Спасибо всем.'

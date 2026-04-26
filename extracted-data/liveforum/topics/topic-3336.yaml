@@ -1,0 +1,41 @@
+topic_id: 3336
+slug: topic-3336
+title: Какого дьявола тут у вас творится!!!?
+first_post: 2006-07-16 07:27
+last_post: 2006-07-23 08:56
+post_count: 4
+posts:
+- id: 27911
+  parent_id: null
+  date: 2006-07-16 07:27
+  poster: Malcolm Ray  Redriver (Mike)
+  email: lifebythedrop@yandex.ru
+  subject: Какого дьявола тут у вас творится!!!?
+  deleted: false
+  replies:
+  - id: 27912
+    parent_id: 27911
+    date: 2006-07-16 07:30
+    poster: Malcolm Ray  Redriver (Mike)
+    email: lifebythedrop@yandex.ru
+    subject: простите, поясню
+    deleted: false
+    text: что это за уйма топиков...
+    replies:
+    - id: 27914
+      parent_id: 27912
+      date: 2006-07-16 09:11
+      poster: Эльдар Музафаров
+      email: elicaster co6@kaмейл-d0t ru
+      subject: 'усё просто: СПАМ-с'
+      deleted: false
+      text: вот такая влт фигня...
+      replies:
+      - id: 27965
+        parent_id: 27914
+        date: 2006-07-23 08:56
+        poster: Malcolm Ray Redriver (Mike)
+        email: lifebythedrop@yandex.ru
+        subject: А что, ничего сделать нельзя?
+        deleted: false
+        text: На других сайтах такой фигни я не видел...

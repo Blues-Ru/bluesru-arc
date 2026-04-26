@@ -1,0 +1,99 @@
+topic_id: 2779
+slug: topic-2779
+title: там, эта, на первой странице...
+first_post: 2005-09-15 15:41
+last_post: 2005-09-16 02:16
+post_count: 10
+posts:
+- id: 23116
+  parent_id: null
+  date: 2005-09-15 15:41
+  poster: Дмитрий Казанцев (Dr. Nick)
+  email: dr.nick@blues.ru
+  subject: там, эта, на первой странице...
+  deleted: false
+  text: возле блюзового кумира Дио Heavy Metal с двумя L написан! :)
+  replies:
+  - id: 23166
+    parent_id: 23116
+    date: 2005-09-15 18:47
+    poster: Andrei V. Evdokimov (evdokimov)
+    email: evdokimov@blues.ru
+    subject: да убивать таких надо
+    deleted: false
+    text: я только не понимаю, как ты, достойнейший, попал в команию диких и необразованх
+      идиотов.... впрочем - понимаю!
+    replies:
+    - id: 23169
+      parent_id: 23166
+      date: 2005-09-15 19:26
+      poster: Moderator
+      email: fedor@blues.ru
+      subject: Оффтопик
+      deleted: false
+      text: Просьба закончить обсуждение темы, связанной с личностями участников.
+    - id: 23191
+      parent_id: 23166
+      date: 2005-09-16 01:42
+      poster: Дмитрий Казанцев (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: это была шутка, Андрей
+      deleted: false
+      text: ужель ты не видишь?
+  - id: 23170
+    parent_id: 23116
+    date: 2005-09-15 19:28
+    poster: Andrei V. Evdokimov (evdokimov)
+    email: evdokimov@blues.ru
+    subject: просьба убрать больных с форума
+    deleted: false
+  - id: 23172
+    parent_id: 23116
+    date: 2005-09-15 19:31
+    poster: Moderator
+    email: fedor@blues.ru
+    subject: Оффтопик
+    deleted: false
+    text: Данное высказывание не относится ни к кому лично, тем самым не нарушает
+      правило N5. Однако, обсуждение здоровья участников форума "вообще" является
+      оффтопиком, ибо не имеет отношения к блюзу и пр. Количество оффтопика превышает
+      допустимые нормы (на усмотрение модератора). Просьба от модератора остановится
+      согласно пункту 1 правил.
+    replies:
+    - id: 23176
+      parent_id: 23172
+      date: 2005-09-15 19:36
+      poster: Andrei V. Evdokimov (evdokimov)
+      email: evdokimov@blues.ru
+      subject: модератору
+      deleted: false
+      text: и всем читателям форума приношу свои извинения. однако причину постоянной
+        гнусности в форуме вижу в другом его активном участнике. за что выношу модератору
+        свое замечание. ибо так и будет вечно, пока есть чел, считающий свое мнение
+        - единственно правильным.
+      replies:
+      - id: 23177
+        parent_id: 23176
+        date: 2005-09-15 19:38
+        poster: Moderator
+        email: fedor@blues.ru
+        subject: Замечание...
+        deleted: false
+        text: '... принято к сведению модератором. Спасибо за фидбек.'
+    - id: 23192
+      parent_id: 23172
+      date: 2005-09-16 01:43
+      poster: Дмитрий Казанцев (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: ты-то хоть понял, что это шутка?
+      deleted: false
+      text: я просто хотел разрядить обстановку
+      replies:
+      - id: 23195
+        parent_id: 23192
+        date: 2005-09-16 02:16
+        poster: Федор Романенко (fedor)
+        email: fedor@blues.ru
+        subject: Я промазал с реплаем...
+        deleted: false
+        text: он был не на твое сообщение...

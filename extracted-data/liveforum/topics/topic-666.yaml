@@ -1,0 +1,15 @@
+topic_id: 666
+slug: topic-666
+title: Блюз по радио
+first_post: 2003-03-09 13:08
+last_post: 2003-03-09 13:08
+post_count: 1
+posts:
+- id: 10878
+  parent_id: null
+  date: 2003-03-09 13:08
+  poster: Джон
+  email: label-ok@mail.ru
+  subject: Блюз по радио
+  deleted: false
+  text: Слушайте блюз на Радио-России по вторникам около 22:00 по Москве. Это интересно!

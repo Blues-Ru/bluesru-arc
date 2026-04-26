@@ -1,0 +1,37 @@
+topic_id: 2223
+slug: topic-2223
+title: Efes 2004
+first_post: 2004-09-02 14:45
+last_post: 2004-09-06 10:38
+post_count: 3
+posts:
+- id: 19207
+  parent_id: null
+  date: 2004-09-02 14:45
+  poster: Andrei V. Evdokimov (evdokimov)
+  email: evdokimov@blues.ru
+  subject: Efes 2004
+  deleted: false
+  text: 'участвуют:
+
+    Fruteland Jackson, Little Charlie & the Nightcats, Mighty Sam McClain.
+
+    Литл Чарли уже был превознесет тут (и справедливо), но Майти Сэм в хороший вечер
+    - это на высшем уровне.'
+  replies:
+  - id: 19208
+    parent_id: 19207
+    date: 2004-09-02 17:00
+    poster: vr  (Stone Crazy)
+    email: volodya@blues.ru
+    subject: ого
+    deleted: false
+    text: '... состав участников все крутеет и крутеет!'
+  - id: 19221
+    parent_id: 19207
+    date: 2004-09-06 10:38
+    poster: Slavik Chernov (Blacky)
+    email: Blacky@softhome.net
+    subject: Ага, Silence Pro уже вывесили описалово
+    deleted: false
+    text: http://www.silencepro.ru/will/will_4.html

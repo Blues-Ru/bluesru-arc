@@ -1,0 +1,35 @@
+topic_id: 2022
+slug: topic-2022
+title: Посоветуйте клуб в Москве
+first_post: 2002-07-12 12:19
+last_post: 2002-07-12 14:28
+post_count: 3
+posts:
+- id: 6031
+  parent_id: null
+  date: 2002-07-12 12:19
+  poster: Ninza
+  email: nadianhb@mail.ru
+  subject: Посоветуйте клуб в Москве
+  deleted: false
+  text: 'Куда сходить сегодня вечером, послушать живую музыку?
+
+    "форте" - не предлагать - закрыт до вторника :('
+  replies:
+  - id: 6032
+    parent_id: 6031
+    date: 2002-07-12 12:44
+    poster: AlexIV
+    email: evergreens@mail.ru
+    subject: Толстый Мо
+    deleted: false
+    text: там сегодня Modern Blues Band должен быть. очень рекомендую.
+    replies:
+    - id: 6033
+      parent_id: 6032
+      date: 2002-07-12 14:28
+      poster: Vadim VK
+      email: e-kvant@mail.ru
+      subject: Толстый Мо
+      deleted: false
+      text: ..только надо заранее столик заказать, у них обычно аншлаг на MBB

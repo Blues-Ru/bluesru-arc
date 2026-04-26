@@ -1,0 +1,46 @@
+topic_id: 4190
+slug: topic-4190
+title: Вову Демьянова с юбилеем!
+first_post: 2009-02-25 16:13
+last_post: 2009-02-27 17:50
+post_count: 4
+posts:
+- id: 36181
+  parent_id: null
+  date: 2009-02-25 16:13
+  poster: Федор Романенко (fedor)
+  email: fedor@blues.ru
+  subject: Вову Демьянова с юбилеем!
+  deleted: false
+  text: '... поздравляем горячо! Желаем тебе, чтобы ты приезжал к нам играть почаще
+    ;))'
+  replies:
+  - id: 36182
+    parent_id: 36181
+    date: 2009-02-25 19:17
+    poster: tavrichesky
+    email: hghjhj
+    subject: с днём рождения!
+    deleted: false
+    text: чтоб гитара строила и душа пела
+  - id: 36184
+    parent_id: 36181
+    date: 2009-02-27 06:37
+    poster: Демьянов
+    email: dv1979@mail.ru
+    subject: Спасибо ,друззья!)))
+    deleted: false
+    text: Спасибо,Федор!)))Как только-так сразу)))
+  - id: 36185
+    parent_id: 36181
+    date: 2009-02-27 17:50
+    poster: Игорь Г.
+    email: sunny_city@mail.ru
+    subject: Вовкин , прими :)
+    deleted: false
+    text: 'и мои поздравления!!!
+
+      Всего,тебе,хорошего. Счастья !!!! УДАЧИ!!!
+
+      Приезжай на самом деле. Мы хорошим людям, а тем более хорошим людям - хорошим
+      музыкантам завсегда рады :))'

@@ -1,0 +1,48 @@
+topic_id: 96
+slug: topic-96
+title: 'MBCBlues: 11.03.2002'
+first_post: 2002-03-11 04:14
+last_post: 2002-03-11 14:11
+post_count: 3
+posts:
+- id: 2001
+  parent_id: null
+  date: 2002-03-11 04:14
+  poster: Михаил Бирюков (nECKAPb)
+  email: blackcat@blues.ru
+  subject: 'MBCBlues: 11.03.2002'
+  deleted: false
+  text: 'На <a href="http://www.blues.ru/BlackCat/" target="_blank">Блюзовой архаике</a>,
+    после долгого затишья, наконец-то изменения.
+
+    Добавлен новый раздел <a href="http://www.blues.ru/BlackCat/index7.htm" target="_blank">"CDs"</a>,
+    в рамках которого планируется вести два подраздела: "Mean Black Cat Blues рекомендует"
+    (где будут даваться рекомендации блюзоархаических дисков к прослушиванию) и "Обмен"
+    (предполагается, что при его посредстве можно будет организовать некий круговорот
+    дисков соответственной тематики между меломанами).
+
+    Первый подраздел <a href="http://www.blues.ru/BlackCat/cdrcmmnd.htm" target="_blank">уже
+    запущен</a> и можно прочитать аннотации к пяти CD-релизам. Второй - <a href="http://www.blues.ru/BlackCat/undercon.htm"
+    target="_blank">пока нет</a>.
+
+    Кроме того, учитывая некоторые пожелания, некардинально изменён фасад сайта.
+
+    Все заинтересованные лица приглашаются заценить указанные обновления.'
+  replies:
+  - id: 2004
+    parent_id: 2001
+    date: 2002-03-11 12:49
+    poster: Алексей Аграновский (Док)
+    email: aaa@genebee.msu.su
+    subject: Обновления и изменения
+    deleted: false
+    text: Следует признать удачными, а Мишу поблагодарить за хорошую работу и славный
+      сайт.
+  - id: 2010
+    parent_id: 2001
+    date: 2002-03-11 14:11
+    poster: Greta
+    email: morehemp@mail.ru
+    subject: Хорошая идея с рецензиями
+    deleted: false
+    text: и давно напрашивалась :)

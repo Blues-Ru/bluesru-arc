@@ -1,0 +1,91 @@
+topic_id: 2639
+slug: topic-2639
+title: мой архивчик.
+first_post: 2005-06-30 17:13
+last_post: 2005-07-09 09:14
+post_count: 9
+posts:
+- id: 21917
+  parent_id: null
+  date: 2005-06-30 17:13
+  poster: vr  (Stone Crazy)
+  email: volodya@blues.ru
+  subject: мой архивчик.
+  deleted: false
+  text: "лист вот тут http://music.jimi.ru/list.txt\n\nчто касается доступа -  я его\
+    \ даю _каждому_ желающему.\nно только персонально и для личного пользования. \n\
+    если есть еще ктото знакомый - то пусть также обращается ко мне. \n\nа так не\
+    \ жалко. добавления и пр. приветсвуются :)))"
+  replies:
+  - id: 21918
+    parent_id: 21917
+    date: 2005-06-30 17:29
+    poster: Дмитрий (фан)
+    email: leonidovd@mail.ru
+    subject: А мне можно попросить?
+    deleted: false
+    text: Я только для личного буду, даю честное благородное слово!
+    replies:
+    - id: 21919
+      parent_id: 21918
+      date: 2005-06-30 17:32
+      poster: vr  (Stone Crazy)
+      email: volodya@blues.ru
+      subject: конечно. пишити плиз емейлом :)
+      deleted: false
+  - id: 21921
+    parent_id: 21917
+    date: 2005-06-30 18:40
+    poster: Elicaster
+    email: elicaster(@)))mmmmmmmmmmail.ru
+    subject: Ни чего себе "архивчик"... АРХИВИВИЩЕ!!!
+    deleted: false
+    text: 'Cтолько там всего! Кладезь! Сим-сим открылся :-)
+
+      Спасибо Аграмаднае!'
+    replies:
+    - id: 21924
+      parent_id: 21921
+      date: 2005-06-30 20:45
+      poster: Федор Романенко (fedor)
+      email: fedor@blues.ru
+      subject: Хочу погреться в лучах славы
+      deleted: false
+      text: Почти все Вова у нас с Димой переписал, хотя я снимаю с себя ответственность
+        за распространение пиратской продукции ;)
+      replies:
+      - id: 21925
+        parent_id: 21924
+        date: 2005-06-30 20:49
+        poster: vr  (Stone Crazy)
+        email: volodya@blues.ru
+        subject: ну не все :) процентов 60-70% :)))
+        deleted: false
+        text: но конечно спасибо огромное :)))))
+  - id: 21928
+    parent_id: 21917
+    date: 2005-07-01 00:46
+    poster: Дмитрий Казанцев (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: мне дашь доступ? )
+    deleted: false
+    replies:
+    - id: 21930
+      parent_id: 21928
+      date: 2005-07-01 00:51
+      poster: vr  (Stone Crazy)
+      email: volodya@blues.ru
+      subject: а тебе вот не дам :))))
+      deleted: false
+      text: дам конечно. кинь мне письмо на ящик. я там разом все запросы обработаю.
+        :)
+  - id: 21966
+    parent_id: 21917
+    date: 2005-07-09 09:14
+    poster: Chris
+    email: b_chris@mail.ru
+    subject: Доступ
+    deleted: false
+    text: 'Могу ли просить Вас чтобы и мне доступ к этому архиву открыли?
+
+      Заранее благодарен. С уважением, Крис. г. Ростов-на-Дону'

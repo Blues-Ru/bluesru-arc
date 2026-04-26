@@ -1,0 +1,26 @@
+path: 10Spring/Castro
+type: custom
+title: 'Томми Кастро: интервью триумфатора Blues Music Awards 2010 - за год до триумфа'
+date: null
+photo_count: 7
+captioned: 3
+index_files:
+- CastroInt.htm
+extra_text: null
+photos:
+- file: BluesMusicAwards.jpg
+- file: Castro_bw.jpg
+- file: TommyCastro_byJoesephA_Rosen-200x300.jpg
+  caption: Когда Кастро впервые задумался о работе музыканта?
+- file: Tommy_Castro_Award_2008.jpg
+- file: Tommy_Castro_blue.jpg
+  caption: Правильное чувство
+- file: castro1.jpg
+- file: tcbogart.jpg
+  caption: c Дианой Богарт на церемонии вручения BMA-2008
+canonical_date: 2010-04
+clean_title: Tommy Castro в Москве, весна 2010
+slug: tommy-castro-moscow-spring-2010
+description: Tommy Castro выступает в Москве, весна 2010.
+source_article: null
+exclude: true

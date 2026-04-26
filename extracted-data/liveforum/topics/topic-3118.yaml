@@ -1,0 +1,182 @@
+topic_id: 3118
+slug: topic-3118
+title: Ищу текст песни Диксона "People like that"
+first_post: 2006-02-21 14:42
+last_post: 2006-02-28 18:19
+post_count: 20
+posts:
+- id: 26210
+  parent_id: null
+  date: 2006-02-21 14:42
+  poster: Кожекин
+  email: kozhekin@mail.ru
+  subject: Ищу текст песни Диксона "People like that"
+  deleted: false
+  text: Вот
+  replies:
+  - id: 26212
+    parent_id: 26210
+    date: 2006-02-21 14:53
+    poster: Dmitri Kazantsev (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: Там простые слова
+    deleted: false
+    text: Снять можно легко. Если не найдешь, я напишу.
+    replies:
+    - id: 26213
+      parent_id: 26212
+      date: 2006-02-21 15:01
+      poster: Кожекин
+      email: kozhekin@mail.ru
+      subject: Угу! Можно просто ссылку на мпег!
+      deleted: false
+      replies:
+      - id: 26214
+        parent_id: 26213
+        date: 2006-02-21 15:27
+        poster: Dmitri Kazantsev (Dr. Nick)
+        email: dr.nick@blues.ru
+        subject: ссылки нет, могу кинуть почтой!
+        deleted: false
+        replies:
+        - id: 26220
+          parent_id: 26214
+          date: 2006-02-21 16:03
+          poster: Кожекин
+          email: kozhekin@mail.ru
+          subject: А давай!
+          deleted: false
+          text: Спасибо большое!
+          replies:
+          - id: 26221
+            parent_id: 26220
+            date: 2006-02-21 16:10
+            poster: Dmitri Kazantsev (Dr. Nick)
+            email: dr.nick@blues.ru
+            subject: послал 2 варианта
+            deleted: false
+            replies:
+            - id: 26223
+              parent_id: 26221
+              date: 2006-02-21 16:16
+              poster: Кожекин
+              email: kozhekin@mail.ru
+              subject: Пока не пришли
+              deleted: false
+              replies:
+              - id: 26224
+                parent_id: 26223
+                date: 2006-02-21 16:18
+                poster: Dmitri Kazantsev (Dr. Nick)
+                email: dr.nick@blues.ru
+                subject: они ползут!
+                deleted: false
+                replies:
+                - id: 26225
+                  parent_id: 26224
+                  date: 2006-02-21 16:37
+                  poster: Кожекин
+                  email: kozhekin@mail.ru
+                  subject: Ура!!! Спасибо!!!
+                  deleted: false
+                  replies:
+                  - id: 26226
+                    parent_id: 26225
+                    date: 2006-02-21 16:39
+                    poster: Dmitri Kazantsev (Dr. Nick)
+                    email: dr.nick@blues.ru
+                    subject: На здоровье!
+                    deleted: false
+                    text: Еще одна ползёт!
+  - id: 26216
+    parent_id: 26210
+    date: 2006-02-21 15:34
+    poster: Muddy Lives
+    email: mlives_6@hotmail
+    subject: Имеется ввиду Why are People Like That?
+    deleted: false
+    text: "Песня не Диксона, а Bobby Charles.  \n\nMuddy"
+    replies:
+    - id: 26218
+      parent_id: 26216
+      date: 2006-02-21 15:54
+      poster: Кожекин
+      email: kozhekin@mail.ru
+      subject: Век живи - век учись!
+      deleted: false
+    - id: 26222
+      parent_id: 26216
+      date: 2006-02-21 16:15
+      poster: Dmitri Kazantsev (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: Бобби
+      deleted: false
+      text: 'Это волшебный, белый, южный человек :)
+
+        У меня есть два его альбома - супер!'
+  - id: 26217
+    parent_id: 26210
+    date: 2006-02-21 15:36
+    poster: Михаил Мишурис (мишурис)
+    email: mishuris@mail.ru
+    subject: А та ли песня ?
+    deleted: false
+    text: Если имеется ввиду "Why are people like that?" , то это не Диксона, а вовсе
+      белого парня по имени Bobby Charles. Кстати, не вполне и блюзмена. А слова и
+      впрямь простые -я всё понял.
+    replies:
+    - id: 26219
+      parent_id: 26217
+      date: 2006-02-21 15:55
+      poster: Кожекин
+      email: kozhekin@mail.ru
+      subject: Она-она
+      deleted: false
+      text: Теперь нужно, чтобы я тоже понял.
+    - id: 26243
+      parent_id: 26217
+      date: 2006-02-22 09:16
+      poster: Дмитрий (фан)
+      email: leonidovd@mail.ru
+      subject: Очень классная песенка.
+      deleted: false
+      text: Мне особенно нравится в исполнении Джуниора Веллса
+  - id: 26282
+    parent_id: 26210
+    date: 2006-02-27 20:17
+    poster: Эльдар Музафаров
+    email: elicaster co6@ka mail d0t ru
+    subject: Muddy Water & Paul Butterfield - Why Are People Like That?
+    deleted: false
+    text: 'Gitanes Blues Harmonica
+
+      Хорошая песня :-)
+
+      Тоже хочу текст. Можно и мне на мыло?'
+    replies:
+    - id: 26285
+      parent_id: 26282
+      date: 2006-02-27 22:14
+      poster: Dmitri Kazantsev (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: так тебе текст или песни нужны? :)
+      deleted: false
+      replies:
+      - id: 26290
+        parent_id: 26285
+        date: 2006-02-28 10:12
+        poster: Эльдар Музафаров
+        email: el(@))mmmmmmmmmail.ru
+        subject: Текст нужен
+        deleted: false
+        text: Песня у меня есть на диске Gitanes Blues Harmonica в исполн. Muddy Water
+          & Paul Butterfield
+        replies:
+        - id: 26310
+          parent_id: 26290
+          date: 2006-02-28 18:19
+          poster: Dmitri Kazantsev (Dr. Nick)
+          email: dr.nick@blues.ru
+          subject: Кожекин-то снял наверное
+          deleted: false
+          text: Попроси его

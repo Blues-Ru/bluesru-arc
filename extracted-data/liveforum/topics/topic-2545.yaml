@@ -1,0 +1,164 @@
+topic_id: 2545
+slug: topic-2545
+title: Вопрос по гитарной примочке
+first_post: 2005-04-25 18:27
+last_post: 2005-04-29 18:34
+post_count: 16
+posts:
+- id: 21243
+  parent_id: null
+  date: 2005-04-25 18:27
+  poster: Elicaster
+  email: elicaster(@)))mmmmmmmmmmail.ru
+  subject: Вопрос по гитарной примочке
+  deleted: false
+  text: 'Извините за офф-топик. Просто я бываю на соответствующих форумах, а, думаю,
+    здесь наверняка есть сведующие товарищи.
+
+    Вот что меня интересует:  лет 10-15 назад нередко видел на выступлениях харденьких
+    команд (типа Бон Джови, Мотли Кру...) гитарист применял ттакую штуковину: она
+    стояла как микрофон вокалиста на стойке и гитарист, не к столу будет сказано,
+    брал её в рот и регулировал ею с помощью рта (ну, типа ножная педаль, но только
+    во рту), звук получался интересный: гитара+роботоподобный вокал, мне тогда очень
+    это нравилось.
+
+    Уже давно нигде такого я не слышал. Подскажите, что это такое, кто из известных
+    музыкантов практикует такое дело? Хочется послушать. Может кого посоветуюте? Очень
+    хочется послушать, хотя и не знаю как сейчас это будет слушаться...'
+  replies:
+  - id: 21244
+    parent_id: 21243
+    date: 2005-04-25 18:29
+    poster: Elicaster
+    email: elicaster(@)))mmmmmmmmmmail.ru
+    subject: 'Опечатка:'
+    deleted: false
+    text: 'Читать надо:
+
+      Просто я НЕ бываю на соответствующих форумах'
+  - id: 21249
+    parent_id: 21243
+    date: 2005-04-26 00:57
+    poster: Дима Казанцев (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: это вокодер. или войсбокс.
+    deleted: false
+    text: Питер Фремптон сделал из этого звука культ, но потом сам за это и поплатился.
+      Гилмор использовал его. Джо Уолш. Много кто.
+    replies:
+    - id: 21270
+      parent_id: 21249
+      date: 2005-04-28 09:14
+      poster: Серега Алексеев (Sharikoff)
+      email: sharikoff@pochta.ru
+      subject: Продаётся ли он? И если да, то где??
+      deleted: false
+      text: Всю жизнь мучусь этим вопросом.
+      replies:
+      - id: 21272
+        parent_id: 21270
+        date: 2005-04-28 16:22
+        poster: Дима Казанцев (Dr. Nick)
+        email: dr.nick@blues.ru
+        subject: не могу знать
+        deleted: false
+        text: спроси у "настоящих" гитаристов :)
+        replies:
+        - id: 21278
+          parent_id: 21272
+          date: 2005-04-28 20:45
+          poster: Руслан Чифуров ()
+          email: chifuroff@inbox.ru
+          subject: Это у кого это? :-)))))
+          deleted: false
+          replies:
+          - id: 21280
+            parent_id: 21278
+            date: 2005-04-28 22:27
+            poster: Дима Казанцев (Dr. Nick)
+            email: dr.nick@blues.ru
+            subject: у твоих кумиров, конечно
+            deleted: false
+            text: ну ты знаешь о ком я...
+            replies:
+            - id: 21284
+              parent_id: 21280
+              date: 2005-04-29 03:13
+              poster: Руслан Чифуров ()
+              email: chifuroff@inbox.ru
+              subject: Далеко они все живут, фиг доберёшься
+              deleted: false
+              replies:
+              - id: 21286
+                parent_id: 21284
+                date: 2005-04-29 07:14
+                poster: Elicaster
+                email: elicaster(@)))mmmmmmmmmmail.ru
+                subject: Могу спросить у одного моего товарища
+                deleted: false
+                text: 'Блин, как я сразу и не подумал!? У меня есть товарищ, живет
+                  в Голливуде, там закончил Музыкальный Институт по классу гитары,
+                  с кем только не джемовал: Скотт Хендерсон, Стив Вай, Маккалпин...
+                  Наш пацан, бакинец. Он точно в курсе таких дел. Спрошу его поподробнее,
+                  потом и вам расскажу.'
+                replies:
+                - id: 21288
+                  parent_id: 21286
+                  date: 2005-04-29 10:27
+                  poster: Дима Казанцев (Dr. Nick)
+                  email: dr.nick@blues.ru
+                  subject: да нет же :)
+                  deleted: false
+                  text: все его настоящие гитаристы-кумиры тут живут :)
+                  replies:
+                  - id: 21291
+                    parent_id: 21288
+                    date: 2005-04-29 17:26
+                    poster: Руслан Чифуров ()
+                    email: chifuroff@inbox.ru
+                    subject: Не сотвори себе кумира.
+                    deleted: false
+                  - id: 21292
+                    parent_id: 21288
+                    date: 2005-04-29 18:19
+                    poster: Руслан Чифуров ()
+                    email: chifuroff@inbox.ru
+                    subject: Ах да, вспомнил :-)))))
+                    deleted: false
+                    text: Это наши с тобой общие кумиры :-)))))
+                    replies:
+                    - id: 21293
+                      parent_id: 21292
+                      date: 2005-04-29 18:34
+                      poster: Дима Казанцев (Dr. Nick)
+                      email: dr.nick@blues.ru
+                      subject: ну нет
+                      deleted: false
+                      text: это ж ты мне шлешь их фотки и ссылки, а не я тебе :)
+  - id: 21257
+    parent_id: 21243
+    date: 2005-04-26 14:48
+    poster: Руслан Чифуров ()
+    email: chifuroff@inbox.ru
+    subject: Joe Walsh - Rocky Mountain Way
+    deleted: false
+    text: Классический пример использования вокодера.
+  - id: 21268
+    parent_id: 21243
+    date: 2005-04-27 11:21
+    poster: Elicaster
+    email: elicaster(@)))mmmmmmmmmmail.ru
+    subject: Спасибо за инфу
+    deleted: false
+  - id: 21269
+    parent_id: 21243
+    date: 2005-04-28 07:29
+    poster: Malcolm Rey Redriver (Mike)
+    email: lifebythedrop@yandex.ru
+    subject: Это такая штуковина...
+    deleted: false
+    text: '... ну в общем там голос этого гитариста по трубочке идёт в коробочку,
+      а в той же коробочке находится один динамик и микрофон. Из динамика изсодит
+      звук от гитары и он смешивается с голосом и идет на микрофон. Признаться честно
+      мне эта штука как и её звучание не очень нравятся. Лучше с обычной квакой или
+      с воуодером ( который с частотными фильтрами)'

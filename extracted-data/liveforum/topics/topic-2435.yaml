@@ -1,0 +1,26 @@
+topic_id: 2435
+slug: topic-2435
+title: Где купить "Lightning in a bottle"?
+first_post: 2005-02-17 17:03
+last_post: 2005-02-21 17:31
+post_count: 2
+posts:
+- id: 20489
+  parent_id: null
+  date: 2005-02-17 17:03
+  poster: Валерий
+  email: vklishin@pts-russia.com
+  subject: Где купить "Lightning in a bottle"?
+  deleted: false
+  text: "Коллеги, подскажите, где в Москве можно купить DVD или CD\nLightning in a\
+    \ bottle? \n\nВ Трансильвании и П.легионе отсутствуют. \n \nЗаранее благодарен.\n\
+    Валерий"
+  replies:
+  - id: 20541
+    parent_id: 20489
+    date: 2005-02-21 17:31
+    poster: Старый Майор
+    email: gypsy@mail.ru
+    subject: Этот что ли?
+    deleted: false
+    text: http://music.barnesandnoble.com/search/product.asp?userid=iM4DNtnAI5&EAN=827969286029&ITM=1

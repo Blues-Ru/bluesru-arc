@@ -1,0 +1,26 @@
+topic_id: 1496
+slug: topic-1496
+title: Хочу  извиниться перед всеми кто вчера пришел на концерт Wrong Way...
+first_post: 2003-10-02 11:43
+last_post: 2003-10-05 10:48
+post_count: 2
+posts:
+- id: 14944
+  parent_id: null
+  date: 2003-10-02 11:43
+  poster: Yuri Kaverkin (Gekko)
+  email: kaverkin@rol.ru
+  subject: Хочу  извиниться перед всеми кто вчера пришел на концерт Wrong Way...
+  deleted: false
+  text: Вышло недопонимание между администрацией и участниками группы и концерт пришлось
+    отменить. Надеюсь (уверенным в этом деле быть нельзя), что в воскресенье  концерт
+    состоится в Сколдер Блюз Кафе....Еще раз извинеите все кто пришел в Последние
+    Деньги....
+  replies:
+  - id: 14982
+    parent_id: 14944
+    date: 2003-10-05 10:48
+    poster: Yuri Kaverkin (Gekko)
+    email: kaverkin@rol.ru
+    subject: Но сегодня мы будем выступать в Сколдер Блюз Кафе  (19.00)  ;-)
+    deleted: false

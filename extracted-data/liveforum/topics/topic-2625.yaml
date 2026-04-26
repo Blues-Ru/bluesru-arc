@@ -1,0 +1,38 @@
+topic_id: 2625
+slug: topic-2625
+title: Качайте пока дают!
+first_post: 2005-06-18 10:54
+last_post: 2005-06-19 01:17
+post_count: 3
+posts:
+- id: 21807
+  parent_id: null
+  date: 2005-06-18 10:54
+  poster: Дима Казанцев (Dr. Nick)
+  email: dr.nick@blues.ru
+  subject: Качайте пока дают!
+  deleted: false
+  text: http://www2.skynet.ca/~nickdrake/
+  replies:
+  - id: 21811
+    parent_id: 21807
+    date: 2005-06-18 19:43
+    poster: Elicaster
+    email: elicaster(@)))mmmmmmmmmmail.ru
+    subject: А кто этот Nick Drake?
+    deleted: false
+    text: 'А кто такой этот Nick Drake?
+
+      Откудава он, когда были сделаны эти записи (как я понял, это было ещё в виниловые
+      времена)?
+
+      Извиняюсь, но я никогда не слыхал это имя.'
+    replies:
+    - id: 21815
+      parent_id: 21811
+      date: 2005-06-19 01:17
+      poster: Дима Казанцев (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: великий фолкер из Англии
+      deleted: false
+      text: умер в 1974 году в возрасте 26 лет. покончил с собой.

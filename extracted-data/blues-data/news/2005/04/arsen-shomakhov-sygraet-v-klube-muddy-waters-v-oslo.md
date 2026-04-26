@@ -1,0 +1,12 @@
+---
+id: 174
+slug: arsen-shomakhov-sygraet-v-klube-muddy-waters-v-oslo
+title: Арсен Шомахов сыграет в клубе Muddy Waters в Осло
+date: '2005-04-05'
+author: Федор Романенко
+legacy_path: news/2005/04/arsen-shomakhov-sygraet-v-klube-muddy-waters-v-oslo.md
+---
+
+Лидер блюзовой группы <a href="http://ragtime.blues.ru"><b>Ragtime</b></a> гитарист <a href="http://arsenic.blues.ru"><b>Арсен Шомахов</b></a> в субботу и воскресенье 7-8 мая сыграет два концерта в клубе <a href="http://www.muddywaters.no"><b>Muddy Waters</b></a> в Осло. Вместе с Арсеном программу из его оригинальных композиций будут исполнять басист <b>Билл Трояни</b> и барабанщик <b>Александр Петтерсен</b>, неоднократно посещавшие Москву с лучшими норвежскими блюзовыми музыкантами.
+
+Напомним, что Арсен и Регтайм недавно <a href="http://www.blues.ru/rblues/Ragtime/ibc2005report.htm">вернулись из Мемфиса</a>, где представляли сайт <a href="http://www.blues.ru"><b>blues.ru</b></a> на конкурсе <a href="http://www.blues.org/ibc/"><b>International Blues Challenge 2005</b></a>.

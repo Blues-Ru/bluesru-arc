@@ -1,0 +1,54 @@
+topic_id: 2783
+slug: topic-2783
+title: я вот тут диск слушал
+first_post: 2005-09-15 16:53
+last_post: 2005-09-15 18:28
+post_count: 5
+posts:
+- id: 23149
+  parent_id: null
+  date: 2005-09-15 16:53
+  poster: Дмитрий Казанцев (Dr. Nick)
+  email: dr.nick@blues.ru
+  subject: я вот тут диск слушал
+  deleted: false
+  text: и понял, что это - http://www.amazon.com/gp/product/images/B0006FO83Y/ref=dp_product-image-only_0/103-4760402-0911009?%5Fencoding=UTF8&n=5174&s=music
+    - что-то среднее по внешности между Русиновым и Чифуровым :)
+  replies:
+  - id: 23152
+    parent_id: 23149
+    date: 2005-09-15 16:56
+    poster: Владимир Русинов (BluesCat)
+    email: volodya@blues.ru
+    subject: даааа.... даже возразить нечего :)
+    deleted: false
+  - id: 23154
+    parent_id: 23149
+    date: 2005-09-15 16:58
+    poster: Ded Morozzz
+    email: morozzz_ded@mail.ru
+    subject: Ну и колбасит же некоторых....
+    deleted: false
+  - id: 23162
+    parent_id: 23149
+    date: 2005-09-15 17:51
+    poster: Руслан Чифуров
+    email: chifuroff@inbox.ru
+    subject: Точно!
+    deleted: false
+    text: Чувак под нас с Русиновым косит явно :-)))))
+    replies:
+    - id: 23163
+      parent_id: 23162
+      date: 2005-09-15 18:28
+      poster: Doc.
+      email: davidhenderson@hotmail.com
+      subject: Сонни Ландрет
+      deleted: false
+      text: 'Ну что вы! что вы!
+
+        Вы намного моложе и красивее :-)
+
+        вот отличный слайд шоу с его концерта
+
+        http://www.flickr.com/photos/davidhenderson/sets/693601/show/'

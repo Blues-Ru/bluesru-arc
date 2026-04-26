@@ -1,0 +1,31 @@
+topic_id: 2374
+slug: topic-2374
+title: Оксану Кочубей с Днём Варенья!
+first_post: 2005-01-10 00:04
+last_post: 2005-01-11 13:07
+post_count: 3
+posts:
+- id: 20133
+  parent_id: null
+  date: 2005-01-10 00:04
+  poster: Руслан Чифуров (T. W. Ridxehn)
+  email: chifuroff@inbox.ru
+  subject: Оксану Кочубей с Днём Варенья!
+  deleted: false
+  text: Оксана! Всего тебе самого наилучшего и чтобы вдохновение тебя не покидало!
+  replies:
+  - id: 20135
+    parent_id: 20133
+    date: 2005-01-10 19:44
+    poster: ААА
+    email: aaa@genebee.msu.su
+    subject: Оксана, я тебя люблю!
+    deleted: false
+    text: Будь счастлива!
+  - id: 20140
+    parent_id: 20133
+    date: 2005-01-11 13:07
+    poster: Старый Майор
+    email: gypsy@mail.ru
+    subject: Присоединяюсь к предыдущему оратору!
+    deleted: false

@@ -1,0 +1,32 @@
+topic_id: 3002
+slug: topic-3002
+title: Не видел ли кто
+first_post: 2005-12-19 20:58
+last_post: 2005-12-27 16:10
+post_count: 3
+posts:
+- id: 25149
+  parent_id: null
+  date: 2005-12-19 20:58
+  poster: Алексей Аграновский (Док)
+  email: aaa@genebee.msu.su
+  subject: Не видел ли кто
+  deleted: false
+  text: 'в клубах микрофонную стойку-журавль с белой меткой на подставке: ААА. Где-то
+    забыли, а теперь поди вспомни... Спасибо!'
+  replies:
+  - id: 25274
+    parent_id: 25149
+    date: 2005-12-27 15:25
+    poster: Немов Евгений
+    email: jnr_new@mail.ru
+    subject: Пропили уже...
+    deleted: false
+    replies:
+    - id: 25276
+      parent_id: 25274
+      date: 2005-12-27 16:10
+      poster: Алексей Аграновский (Док)
+      email: aaa@genebee.msu.su
+      subject: Ужас, на ..!
+      deleted: false

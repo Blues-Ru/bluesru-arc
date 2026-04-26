@@ -1,0 +1,8 @@
+---
+id: 65
+slug: novaya-portsiya-mp3-dlya-lyubiteley-raritetov-kontsertnoe-is
+title: null
+date: 2001-01-26 00:00
+---
+
+Новая порция MP3! Для любителей раритетов - концертное исполнение <a href="/afisha/sound/canned%20heat.mp3"><i>СНОВА В ДОРОГЕ</i></a> группы <b>CANNED HEAT</b>. Для любителей экспериментов хипхопнутый вариант классического <a href="/afisha/sound/nma_shakeemondown.mp3"><i>ОТРИНЬ ВСЕ БЕДЫ ПРОЧЬ</i></a> в исполнении <b>North Mississippi Allstars</b>. Недавние триумфаторы на Сенне <b>BLUES COUSINS</b> предлагают по одной песне с каждого из двух своих альбомов.

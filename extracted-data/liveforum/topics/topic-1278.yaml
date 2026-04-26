@@ -1,0 +1,150 @@
+topic_id: 1278
+slug: topic-1278
+title: Никто не видел...LZ DVD set
+first_post: 2003-07-24 15:33
+last_post: 2003-07-27 08:22
+post_count: 15
+posts:
+- id: 13310
+  parent_id: null
+  date: 2003-07-24 15:33
+  poster: (Grem)
+  email: sergei.sergeev@emersonprocess.ru
+  subject: Никто не видел...LZ DVD set
+  deleted: false
+  text: Подскажите плиз, есть ли на Горбе или где-либо еще этот dvd box set и почем
+    он нынче там. Это я имею ввиду новую ремастированную нарезку с трех концертов
+    Led Zeppelin (73,76,79).
+  replies:
+  - id: 13311
+    parent_id: 13310
+    date: 2003-07-24 18:51
+    poster: Дима Казанцев (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: Есть в ПЛ
+    deleted: false
+    text: Красивая коробка с двумя ДВД - 30 долларов.
+  - id: 13320
+    parent_id: 13310
+    date: 2003-07-25 09:18
+    poster: Sergei  Kiritchenko (VoID)
+    email: skvoid@mail.ru
+    subject: есть давно
+    deleted: false
+    text: 'В Легионе по цене 1017 рублев.
+
+      И пираты еще раньше выпустили на 2х стороннем диске, но это не для нас - берите
+      "фирму", там 2 толстенных буклета с редкими фотографиями и интересными замечаниями.
+      Сильно рекомендую! :)'
+  - id: 13323
+    parent_id: 13310
+    date: 2003-07-25 10:52
+    poster: Sanya
+    email: sanya@cterra.ru
+    subject: На горбушке есть оба варианта
+    deleted: false
+    text: 'и пиратский, и фирменный.
+
+      Только второй, боюсь, не по 1017.
+
+      А, вообще-то, эта цена впоне приемлема, все-таки отношение 400/1017 (да еще
+      буклет надо учесть), это не 80/700, где и в 80 буклет входит.
+
+      Да, там не только 73 76 79. Весь первый диск - концерт в альберт холле 70го
+      года.'
+  - id: 13324
+    parent_id: 13310
+    date: 2003-07-25 11:05
+    poster: (Grem)
+    email: sergei.sergeev@emersonprocess.ru
+    subject: Cпасибо братцы:-))))
+    deleted: false
+    text: Спасибо братцы, завтра бегу в Легион.
+  - id: 13326
+    parent_id: 13310
+    date: 2003-07-25 13:01
+    poster: vr (Stone Crazy)
+    email: volodya@blues.ru
+    subject: кстати это все :)
+    deleted: false
+    text: уже есть на антивоенной в divx :)
+    replies:
+    - id: 13327
+      parent_id: 13326
+      date: 2003-07-25 13:04
+      poster: Дима Казанцев (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: Как же ты халяву любишь ;)
+      deleted: false
+      text: 'Инет на работе, музыка и видео на Антивоенной ;)
+
+        Только не забывай, что бесплатно - только сыр в мышеловке ;)
+
+        За все придется платить когда-то...'
+    - id: 13332
+      parent_id: 13326
+      date: 2003-07-25 13:55
+      poster: vr (sc)
+      email: volodya@blues.ru
+      subject: кому-то... :)
+      deleted: false
+      text: да ладно придираться :) все тяжким трудом :)
+      replies:
+      - id: 13335
+        parent_id: 13332
+        date: 2003-07-25 15:01
+        poster: Дима Казанцев (Dr. Nick)
+        email: dr.nick@blues.ru
+        subject: ой ой ой
+        deleted: false
+        text: какие мы трудоголики и пролетарии ;)
+    - id: 13342
+      parent_id: 13326
+      date: 2003-07-26 07:11
+      poster: shkin
+      email: shkin
+      subject: Прости мою тупость,...
+      deleted: false
+      text: '...но что есть такое антивоенная?'
+      replies:
+      - id: 13344
+        parent_id: 13342
+        date: 2003-07-26 16:43
+        poster: Андрей Ордальонов (Андрей PRG)
+        email: peregnoy@mail.ru
+        subject: mp3.int.ru
+        deleted: false
+        replies:
+        - id: 13346
+          parent_id: 13344
+          date: 2003-07-26 21:01
+          poster: shkin
+          email: shkin
+          subject: По этому адресу вроде нету ни http, ни ftp...
+          deleted: false
+          text: Как туда попадают?
+          replies:
+          - id: 13355
+            parent_id: 13346
+            date: 2003-07-27 08:22
+            poster: Сергей Иванов (serge_ivanov)
+            email: serge_ivanov@hotmail.com
+            subject: могут быть проблемы с доступом
+            deleted: false
+            text: если Вы не в России.
+        - id: 13347
+          parent_id: 13344
+          date: 2003-07-26 21:10
+          poster: Dima Krasivov (Dima)
+          email: dima@blues.ru
+          subject: http://mp3files.int.ru/ (-)
+          deleted: false
+          replies:
+          - id: 13353
+            parent_id: 13347
+            date: 2003-07-27 01:22
+            poster: Андрей PRG
+            email: peregnoy@mail.ru
+            subject: Гениально! ;) Разве это не тоже самое?
+            deleted: false
+            text: 'Тогда уж: ftp://mp3.int.ru/pub/mp3/ls-lR'

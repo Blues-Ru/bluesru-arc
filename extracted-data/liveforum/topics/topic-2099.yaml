@@ -1,0 +1,98 @@
+topic_id: 2099
+slug: topic-2099
+title: Happy Birthday!!!
+first_post: 2004-05-17 12:23
+last_post: 2004-05-18 23:19
+post_count: 10
+posts:
+- id: 18441
+  parent_id: null
+  date: 2004-05-17 12:23
+  poster: Алексей Аграновский (Док)
+  email: aaa@genebee.msu.su
+  subject: Happy Birthday!!!
+  deleted: false
+  text: "Гитаристу и певцу Юрию Каверкину исполнилось 50. \nЭто юная возрастная категория\
+    \ для исполнителя блюза. Но все же звучащая солидно.\nЮра, здоровья и счастья\
+    \ тебе!\nПоздравляем изо всех сил!!!"
+  replies:
+  - id: 18442
+    parent_id: 18441
+    date: 2004-05-17 13:20
+    poster: Игорь Г.
+    email: sunny_city@mail.ru
+    subject: Вот это ДА !!!!! П-о-з-д-р-а-в-л-я-ю !!!!
+    deleted: false
+    text: Дай Бог всего самого наилучшего!!!!
+    replies:
+    - id: 18446
+      parent_id: 18442
+      date: 2004-05-17 16:24
+      poster: Игорь Г.
+      email: sunny_city@mail.ru
+      subject: Праздничный салют на BluesmAn-e или
+      deleted: false
+      text: 'продолжение "архаики в Алабаме".
+
+        Что-то вроде подарка юбиляру :)'
+  - id: 18443
+    parent_id: 18441
+    date: 2004-05-17 13:26
+    poster: vr
+    email: volodya@blues.ru
+    subject: УРААААААААААААаа!!!!!!!!!!!!!!!!!!
+    deleted: false
+    text: Поздравляю! :)
+  - id: 18445
+    parent_id: 18441
+    date: 2004-05-17 15:06
+    poster: Andy McLetsoff (McL)
+    email: mcl@macbox.ru
+    subject: Поздравления, цветы, оркестр!
+    deleted: false
+  - id: 18450
+    parent_id: 18441
+    date: 2004-05-17 20:20
+    poster: Junior
+    email: gurpsfiles@nm.ru
+    subject: Это же 50 пирогов и одна свечка! :-)
+    deleted: false
+    text: Поздравляем!
+  - id: 18451
+    parent_id: 18441
+    date: 2004-05-17 21:44
+    poster: Андрей Ордальонов (Андрей PRG)
+    email: peregnoy@mail.ru
+    subject: Музыканту и человеку
+    deleted: false
+    text: 'Юрию Каверкину - Ура! Ура! Ура!
+
+
+      Юра, мы Вас любим! ;)'
+  - id: 18456
+    parent_id: 18441
+    date: 2004-05-18 11:09
+    poster: Grem
+    email: grems@yandex.ru
+    subject: ПАААЗДЗАВЛЯЮ!!!!
+    deleted: false
+    text: Многих лет, здоровья и всего самого.... Правильной дорогой идешь с "Wrong
+      Way"...
+  - id: 18462
+    parent_id: 18441
+    date: 2004-05-18 16:08
+    poster: Михаил Бирюков (nECKAPb)
+    email: blackcat@blues.ru
+    subject: мои поздравления
+    deleted: false
+    text: Юрий, поздравляю от всей души! Желаю здоровья, счастья и успехов во всех
+      начинаниях. Что же до твоего блюзового музицирования, то мне почему-то кажется,
+      что самое интересное от тебя нам ещё предстоит услышать :))) ждём-с!
+    replies:
+    - id: 18465
+      parent_id: 18462
+      date: 2004-05-18 23:19
+      poster: Yuri Kaverkin (Gekko)
+      email: kaverkin@rol.ru
+      subject: Преогромнейшее всем СПАСИБО!!!! Всем всяческих благ и здоровья!!!!
+      deleted: false

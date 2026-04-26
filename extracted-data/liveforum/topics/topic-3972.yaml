@@ -1,0 +1,28 @@
+topic_id: 3972
+slug: topic-3972
+title: Ответ
+first_post: 2008-04-06 01:44
+last_post: 2008-04-07 04:14
+post_count: 2
+posts:
+- id: 35228
+  parent_id: null
+  date: 2008-04-06 01:44
+  poster: Сергей Радин (Ворчун)
+  email: SRV90@mail.ru
+  subject: Ответ
+  deleted: false
+  text: 'Blues Man, а Вы 30 марта были в ММДМ вот это настоящие слезы.
+
+    Или хотя бы послушайте Ломидзе "Дождь".'
+  replies:
+  - id: 35230
+    parent_id: 35228
+    date: 2008-04-07 04:14
+    poster: Jumpin' Jack Flash
+    email: fjhg
+    subject: а зачем
+    deleted: false
+    text: 'тут Snooks Eaglin оффтопик.
+
+      Буянить смысла нет.'

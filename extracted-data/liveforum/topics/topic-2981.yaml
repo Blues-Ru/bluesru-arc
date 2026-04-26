@@ -1,0 +1,79 @@
+topic_id: 2981
+slug: topic-2981
+title: Ровно через неделю
+first_post: 2005-12-06 15:45
+last_post: 2005-12-06 19:10
+post_count: 7
+posts:
+- id: 24884
+  parent_id: null
+  date: 2005-12-06 15:45
+  poster: Дмитрий Казанцев (Dr. Nick)
+  email: dr.nick@blues.ru
+  subject: Ровно через неделю
+  deleted: false
+  text: '13-го декабря состоится презентация альбома Dr. Nick в клубе "Дом у дороги".
+
+
+    Начало будет в 21:00, как обычно. Вход будет всего 100 рублей, и за эти деньги
+    Вы получите свою копию альбома Made At Home. Вход для журналистов бесплатный.
+
+
+    Будет много гостей и джемующих, так что приходите обязательно! Юриваныч и мы готовы
+    к празднику :)'
+  replies:
+  - id: 24887
+    parent_id: 24884
+    date: 2005-12-06 16:38
+    poster: Илья Кривандин (Populoss)
+    email: ilija@bk.ru
+    subject: Предложение, от которого невозможно отказаться!
+    deleted: false
+    text: Будем! :)
+    replies:
+    - id: 24888
+      parent_id: 24887
+      date: 2005-12-06 16:46
+      poster: Дмитрий Казанцев (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: можно,
+      deleted: false
+      text: но не стоит отказываться :)
+      replies:
+      - id: 24895
+        parent_id: 24888
+        date: 2005-12-06 18:54
+        poster: Алексей Фролов (Buchothk)
+        email: jokerthk@yandex.ru
+        subject: Проявим меркантильность!!! ;))))))
+        deleted: false
+        text: 'Копию альбома или альбом? ;)))))))))))
+
+          Шютка.
+
+          Постараюсь быть.'
+        replies:
+        - id: 24897
+          parent_id: 24895
+          date: 2005-12-06 19:09
+          poster: Дмитрий Казанцев (Dr. Nick)
+          email: dr.nick@blues.ru
+          subject: Альбом :)
+          deleted: false
+          text: Настоящий :) Могу подписать :)
+      - id: 24896
+        parent_id: 24888
+        date: 2005-12-06 19:01
+        poster: Илья Кривандин (Populoss)
+        email: ilija@bk.ru
+        subject: Договорились :)
+        deleted: false
+        replies:
+        - id: 24898
+          parent_id: 24896
+          date: 2005-12-06 19:10
+          poster: Дмитрий Казанцев (Dr. Nick)
+          email: dr.nick@blues.ru
+          subject: именно!
+          deleted: false
+          text: надеюсь, что всё получится...

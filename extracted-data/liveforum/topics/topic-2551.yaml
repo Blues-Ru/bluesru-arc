@@ -1,0 +1,24 @@
+topic_id: 2551
+slug: topic-2551
+title: Брозман-то приезжает в мае или как?
+first_post: 2005-04-29 23:05
+last_post: 2005-04-30 03:26
+post_count: 2
+posts:
+- id: 21303
+  parent_id: null
+  date: 2005-04-29 23:05
+  poster: Fan
+  email: '@@@'
+  subject: Брозман-то приезжает в мае или как?
+  deleted: false
+  text: Сообщите плз.
+  replies:
+  - id: 21304
+    parent_id: 21303
+    date: 2005-04-30 03:26
+    poster: Федор Романенко (fedor)
+    email: fedor@blues.ru
+    subject: В процессе...
+    deleted: false
+    text: Есть сложности с визой... Некоторая определенность появится 3-го мая.

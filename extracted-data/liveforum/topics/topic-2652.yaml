@@ -1,0 +1,57 @@
+topic_id: 2652
+slug: topic-2652
+title: Дельта Невы - маленький фотоотчет
+first_post: 2005-07-13 14:03
+last_post: 2005-07-13 18:32
+post_count: 5
+posts:
+- id: 21998
+  parent_id: null
+  date: 2005-07-13 14:03
+  poster: Forrest Gump
+  email: srv@hotmail.ru
+  subject: Дельта Невы - маленький фотоотчет
+  deleted: false
+  text: 'К сожалению, не все команды - фотограф припозднился...
+
+
+    http://musicmp3.spb.ru/events/cat.php
+
+
+    Всех благ.'
+  replies:
+  - id: 22000
+    parent_id: 21998
+    date: 2005-07-13 14:49
+    poster: vr  (Stone Crazy)
+    email: volodya@blues.ru
+    subject: красиво! :) клевые фотки.
+    deleted: false
+    replies:
+    - id: 22002
+      parent_id: 22000
+      date: 2005-07-13 14:55
+      poster: Ded Morozzz
+      email: morozzz_ded@mail.ru
+      subject: товарищи без штанов :)
+      deleted: false
+      text: хе хе :) знакомо знакомо
+  - id: 22006
+    parent_id: 21998
+    date: 2005-07-13 17:54
+    poster: Mike
+    email: mike@ru
+    subject: а на чем играл Ляпин ?
+    deleted: false
+    text: 'http://musicmp3.spb.ru/events/big.php?c=0&img=24
+
+      что это за инструмент?'
+    replies:
+    - id: 22007
+      parent_id: 22006
+      date: 2005-07-13 18:32
+      poster: vr  (Stone Crazy)
+      email: volodya@blues.ru
+      subject: это стик.
+      deleted: false
+      text: на нем Тони Левин играл например в Кинг Кримсон. :)

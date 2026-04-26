@@ -1,0 +1,52 @@
+topic_id: 3894
+slug: topic-3894
+title: Новости блюза на главной странице
+first_post: 2008-02-07 17:31
+last_post: 2008-02-08 13:32
+post_count: 4
+posts:
+- id: 34560
+  parent_id: null
+  date: 2008-02-07 17:31
+  poster: Konstantin  (Wheel)
+  email: wheel.k@gmail.com
+  subject: Новости блюза на главной странице
+  deleted: false
+  text: 'В последнее время они стали регулярно появляться!
+
+    Это интересно!
+
+    Спасибо большое'
+  replies:
+  - id: 34561
+    parent_id: 34560
+    date: 2008-02-07 18:27
+    poster: Andrei V. Evdokimov (evdokimov)
+    email: evdokimov@blues.ru
+    subject: Many thanks
+    deleted: false
+    text: 'большое спасибо надо сказать Юрию Ивановичу и его клубу "Дом у Дороги".
+      Благодаря ему же будут регулярно пополняться и другие разделы на блюз-ру.
+
+      А в нынешнее воскресенье, в 15.30 в этом клубе Вовка Кожекин будет рассказывать
+      о мастурах игры на губной гармонике в рамках еженедельных воскресных сессий
+      "Блюзовой академии".'
+  - id: 34570
+    parent_id: 34560
+    date: 2008-02-08 01:17
+    poster: Федор Романенко (fedor)
+    email: fedor@blues.ru
+    subject: Тебе спасибо! ;)
+    deleted: false
+    text: 'Ждем от тебя новых свершений!
+
+
+      И Юр.Иванычу, конечно же!'
+    replies:
+    - id: 34581
+      parent_id: 34570
+      date: 2008-02-08 13:32
+      poster: Konstantin  (Wheel)
+      email: wheel.k@gmail.com
+      subject: Свершениям быть! :)
+      deleted: false

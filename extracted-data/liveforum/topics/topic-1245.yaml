@@ -1,0 +1,73 @@
+topic_id: 1245
+slug: topic-1245
+title: real video
+first_post: 2003-07-03 02:17
+last_post: 2003-07-03 21:27
+post_count: 6
+posts:
+- id: 13117
+  parent_id: null
+  date: 2003-07-03 02:17
+  poster: vr (Stone Crazy)
+  email: volodya@blues.ru
+  subject: real video
+  deleted: false
+  text: "http://www.bluesebrother.hpg.ig.com.br/rvideo.htm\nнемного блюза в рилвидео.\
+    \ не всетам к сожалению открывается, но\nJames Harman например просто супер :)\
+    \ целый концерт. \nи Luther Allison есть :) но его я еще там не посмотрел..."
+  replies:
+  - id: 13122
+    parent_id: 13117
+    date: 2003-07-03 09:41
+    poster: Михан  (Ded Morozzz)
+    email: morozzz_ded@mail.ru
+    subject: И еще до кучи...
+    deleted: false
+    text: 'http://mp3files.int.ru/pub/mp3/DISK_5/Albert_Collins_1988_Ohne_Filter_video/collins.rm
+      - концерт Коллинза
+
+
+      http://mp3files.int.ru/pub/mp3/DISK_2/Stevie_Ray_Vaughan/85-08-25_Rockpalast_show/srv1.rm
+      - концерт СРВ'
+  - id: 13123
+    parent_id: 13117
+    date: 2003-07-03 09:47
+    poster: Михан  (Ded Morozzz)
+    email: morozzz_ded@mail.ru
+    subject: И еще до кучи...
+    deleted: false
+    text: 'http://mp3files.int.ru/pub/mp3/DISK_5/Albert_Collins_1988_Ohne_Filter_video/collins.rm
+      - концерт Коллинза
+
+
+      http://mp3files.int.ru/pub/mp3/DISK_2/Stevie_Ray_Vaughan/85-08-25_Rockpalast_show/srv1.rm
+      - концерт СРВ'
+    replies:
+    - id: 13124
+      parent_id: 13123
+      date: 2003-07-03 10:23
+      poster: vr  (Stone Crazy)
+      email: volodya@blues.ru
+      subject: ну это то все видели :)
+      deleted: false
+      text: а вот Хармана где еще увидишь ;(
+      replies:
+      - id: 13148
+        parent_id: 13124
+        date: 2003-07-03 20:06
+        poster: Федор Романенко (fedor)
+        email: fedor@blues.ru
+        subject: Вова, молодец!
+        deleted: false
+        text: 'Раскопал ;) А билет-то у тебя на Хармана есть? А то я забыл? ;)
+
+          Приеду, посмотрю...'
+        replies:
+        - id: 13156
+          parent_id: 13148
+          date: 2003-07-03 21:27
+          poster: vr  (Stone Crazy)
+          email: volodya@blues.ru
+          subject: я идьёт. блин. ну может еще выгорит какнить
+          deleted: false
+          text: меня оправдывает то что я тогда его толком еще не послушал :)

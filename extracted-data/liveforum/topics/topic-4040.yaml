@@ -1,0 +1,30 @@
+topic_id: 4040
+slug: topic-4040
+title: Eric Clapton
+first_post: 2008-06-27 06:09
+last_post: 2008-06-27 17:18
+post_count: 2
+posts:
+- id: 35522
+  parent_id: null
+  date: 2008-06-27 06:09
+  poster: Helgi
+  email: helgi4181@gmail.com
+  subject: Eric Clapton
+  deleted: false
+  text: 'Доброе время!
+
+    Прошу Вас помочь. Прочитал в журнале рецензию на DVD Эрика Клептона. Этот диск
+    записывался на ранчо (или дома) три вечера с группой. Записывали вживую. Подскажите,
+    пожайлуста,  название этого концерта.
+
+    Спасибо всем.'
+  replies:
+  - id: 35523
+    parent_id: 35522
+    date: 2008-06-27 17:18
+    poster: Jumpin' Jack Flash
+    email: nvbdfh
+    subject: Песни Роберта Джонсона (США). Исполняет Э. Клептон (Великобритания)
+    deleted: false
+    text: http://allmusic.com/cg/amg.dll?p=amg&sql=10:k9foxqysld6e

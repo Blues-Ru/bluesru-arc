@@ -1,0 +1,235 @@
+topic_id: 3788
+slug: topic-3788
+title: efes bluesfest
+first_post: 2007-11-06 17:24
+last_post: 2007-11-10 16:50
+post_count: 22
+posts:
+- id: 33809
+  parent_id: null
+  date: 2007-11-06 17:24
+  poster: disik
+  email: denis1482@mail.ru
+  subject: efes bluesfest
+  deleted: false
+  text: Я хочу, чтобы меня поправили, потому что чувствую, что в чем-то не прав. Но
+    у меня твердое впечатление, что на нынешнем блюзфесте блюза было совсем мало,
+    блюз я услышал только от Ларри Гарнера, три-четыре композиции, что же было остальное?
+    Некий "фанк"?
+  replies:
+  - id: 33810
+    parent_id: 33809
+    date: 2007-11-06 20:19
+    poster: Bluser
+    email: bluser@rambler.ru
+    subject: Ну...
+    deleted: false
+    text: если исходить из того, что блюз - это Гари Мур и Эрик Клэптон - то да, на
+      Эфесе был не совсем блюз.
+    replies:
+    - id: 33811
+      parent_id: 33810
+      date: 2007-11-06 23:10
+      poster: Dmitri Kazantsev (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: Эрик
+      deleted: false
+      text: всё же у Эрика-то есть блюзовые песни и альбомы.
+    - id: 33812
+      parent_id: 33810
+      date: 2007-11-07 09:19
+      poster: disik
+      email: denis1482@mail.ru
+      subject: http://ru.wikipedia.org/wiki/Блюз
+      deleted: false
+      text: '"... блюз, в основе формы которого лежал 12-тактовый период с общей схемой
+        гармонических последовательностей: первая 4-тактовая фраза — T, вторая — S,
+        третья — D и T. Такой период соответствует трёхстрочной стихотворной строфе."
+
+        "Для мелодики блюза характерны вопросно-ответная структура и использование
+        блюзового лада."
+
+
+        За несколько лет я полюбил блюз и привык узнавать его на слух. См. мое первое
+        сообщение.'
+      replies:
+      - id: 33813
+        parent_id: 33812
+        date: 2007-11-07 09:47
+        poster: Dmitri Kazantsev (Dr. Nick)
+        email: dr.nick@blues.ru
+        subject: узнавать на слух?
+        deleted: false
+        text: или такты считаете?
+        replies:
+        - id: 33814
+          parent_id: 33813
+          date: 2007-11-07 10:27
+          poster: disik
+          email: denis1482@mail.ru
+          subject: Неужели я единственный,
+          deleted: false
+          text: кто заметил отличия в том, что исполнял Гарнер, и том, что было остальное
+            на фесте?
+          replies:
+          - id: 33816
+            parent_id: 33814
+            date: 2007-11-07 13:32
+            poster: Алексей Аграновский (Док)
+            email: aaa@genebee.msu.su
+            subject: Не единственный
+            deleted: false
+            text: Мне тоже очень понравился Ларри Гарнер. Это и был блюз.
+          - id: 33822
+            parent_id: 33814
+            date: 2007-11-07 18:14
+            poster: Dmitri Kazantsev (Dr. Nick)
+            email: dr.nick@blues.ru
+            subject: вот Вам Док ответил вроде
+            deleted: false
+      - id: 33815
+        parent_id: 33812
+        date: 2007-11-07 10:28
+        poster: Владимир Русинов (BluesCat)
+        email: volodya@blues.ru
+        subject: определение блюза
+        deleted: false
+        text: <A HREF="http://vrbluescat.livejournal.com/57433.html">http://vrbluescat.livejournal.com/57433.html</A>
+  - id: 33823
+    parent_id: 33809
+    date: 2007-11-07 21:02
+    poster: Bluser
+    email: bluser@rambler.ru
+    subject: У Эрика конечно есть блюзовые альбомы
+    deleted: false
+    text: "Но к сожалению широко распространены 2 заблуждения:\n\n1) блюз - это джаз\n\
+      2) блюз это медленная грустная песня.\n\nНасчет \"какого-то фанка\". Фанк -\
+      \ это вообще-то одно из направлений блюза и есть. \n\nИ я не заметил особого\
+      \ отличия в сторону \"блюзовости\" у Гарнера. На мой взгляд очень интересный\
+      \ Маккрэй (особенно в третий день - в первые два дня басист его полностью затмевал).\
+      \ Шерри Уильямс - очень неплохо. Сакс Гордон добавил драйва. А вот Гарнер какой-то\
+      \ как раз непонятный был (за исключением последней песни, которую они все вместе\
+      \ пели)."
+    replies:
+    - id: 33825
+      parent_id: 33823
+      date: 2007-11-07 21:40
+      poster: Dmitri Kazantsev (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: фанк?
+      deleted: false
+      text: это совсем не часть блюза
+  - id: 33824
+    parent_id: 33809
+    date: 2007-11-07 21:05
+    poster: Bluser
+    email: bluser@rambler.ru
+    subject: Зайдеко.
+    deleted: false
+    text: А то что было на Эфесах, когда там Зайдекеры были (ну там со стиральными
+      досками, аккордеоном, дудками) - это тоже наверно не блюз?
+    replies:
+    - id: 33826
+      parent_id: 33824
+      date: 2007-11-07 21:41
+      poster: Dmitri Kazantsev (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: не блюз, но зайдеко
+      deleted: false
+      text: но очень близко к блюзу
+  - id: 33849
+    parent_id: 33809
+    date: 2007-11-10 12:20
+    poster: Bluser
+    email: bluser@rambler.ru
+    subject: Конечно же фанк это часть блюза.
+    deleted: false
+    text: 'Lowel Fulson (Tramp и т.п.), Множество прифанкованных песен у всех классиков
+      блюза (Buddy Guy, Albert King, BB King, James Cotton и т.д.)
+
+
+      Funky blues это тоже блюз, как и Jazzy blues, jump blues, bluesrock и т.д.'
+    replies:
+    - id: 33852
+      parent_id: 33849
+      date: 2007-11-10 14:12
+      poster: Dmitri Kazantsev (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: это Вы сами придумали?
+      deleted: false
+      text: смешно
+  - id: 33858
+    parent_id: 33809
+    date: 2007-11-10 15:04
+    poster: Bluser
+    email: bluser@rambler.ru
+    subject: А мне не смешно
+    deleted: false
+    text: Нормально так :))
+    replies:
+    - id: 33859
+      parent_id: 33858
+      date: 2007-11-10 15:28
+      poster: Dmitri Kazantsev (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: а Вы спец по блюзу или по фанку?
+      deleted: false
+      text: а то мы можем спросить спецов
+  - id: 33860
+    parent_id: 33809
+    date: 2007-11-10 15:45
+    poster: Bluser
+    email: bluser@rambler.ru
+    subject: Ну Tramp это блюз или фанк или фанки блюз?
+    deleted: false
+    text: "Ваше мнение хотелось бы. \n\nА сам я по блюзу больше, и фанки-блюз (как\
+      \ и многие другие разновидности блюза) меня всегда тоже прикалывал.\n\nПусть\
+      \ спецы скажут если есть."
+    replies:
+    - id: 33861
+      parent_id: 33860
+      date: 2007-11-10 15:48
+      poster: Dmitri Kazantsev (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: Tramp - это 1967 год
+      deleted: false
+      text: 'когда фанк уже играли вовсю
+
+
+        и, конечно, его начали не блюзмены'
+  - id: 33866
+    parent_id: 33809
+    date: 2007-11-10 16:28
+    poster: Bluser
+    email: bluser@rambler.ru
+    subject: А я разве сказал, что блюзмены начали?
+    deleted: false
+    text: 'Просто фанк, после своего появления, просочился во многие стили (включая
+      блюз). И появилось огромное количество tramp-подобных песен (очень клевых) у
+      многих БЛЮЗМЕНОВ. + медляки, с фанковым ритмом (гитаркой, клавишами, басом).
+
+
+      Меня покорбило что "некий фанк" противопоставляется блюзу. Когда есть объединяющий
+      их стиль, фанки-блюз, который и был обильно представлен на Эфесе.
+
+
+      Короче блюзовый квадрат, положенный на фанковый ритм - это и есть для меня фанки-блюз.'
+    replies:
+    - id: 33867
+      parent_id: 33866
+      date: 2007-11-10 16:37
+      poster: Dmitri Kazantsev (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: Вы написали, что фанк - это часть блюза
+      deleted: false
+      text: есть фанки-блюз, конечно. есть ещё соул-блюз, ритм-н-блюз, госпел-блюз
+        и т.д.
+  - id: 33868
+    parent_id: 33809
+    date: 2007-11-10 16:50
+    poster: Bluser
+    email: bluser@rambler.ru
+    subject: Ну так значит нам не о чем спорить.
+    deleted: false
+    text: Я тоже так считаю. Там в сообщении поясняется. А в теме может не совсем
+      правильно сформулировал.

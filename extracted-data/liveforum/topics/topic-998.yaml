@@ -1,0 +1,50 @@
+topic_id: 998
+slug: topic-998
+title: Norwegian Blues-Magazine
+first_post: 2002-05-13 23:03
+last_post: 2002-05-15 15:54
+post_count: 4
+posts:
+- id: 4360
+  parent_id: null
+  date: 2002-05-13 23:03
+  poster: Blues-Stikka Magazine c/o Bjorn Wiksaas
+  email: bjomaria@frisurf.no
+  subject: Norwegian Blues-Magazine
+  deleted: false
+  text: 'Hi guys.  For reviews in our magazine we search for russian blues-bands.  Send
+    me a note if you now of any.
+
+
+    Bjorn Wiksaas
+
+    Blues-Stikka magazine
+
+    Editor'
+  replies:
+  - id: 4361
+    parent_id: 4360
+    date: 2002-05-14 01:33
+    poster: Федор Романенко (fedor)
+    email: fedor@blues.ru
+    subject: The answer ...
+    deleted: false
+    text: '...I''ve sent you by e-mail ;)'
+    replies:
+    - id: 4362
+      parent_id: 4361
+      date: 2002-05-14 02:10
+      poster: Михаил Бирюков (nECKAPb)
+      email: blackcat@blues.ru
+      subject: was it...
+      deleted: false
+      text: '... about Ragtime? ;)'
+      replies:
+      - id: 4385
+        parent_id: 4362
+        date: 2002-05-15 15:54
+        poster: Дима Казанцев (Dr. Nick)
+        email: dr.nick@blues.ru
+        subject: Sure it was :)
+        deleted: false
+        text: Ragtime is a thing to talk about :)

@@ -1,0 +1,23 @@
+topic_id: 302
+slug: topic-302
+title: Сегодня - день памяти S.R.V....
+first_post: 2002-08-27 12:12
+last_post: 2002-08-28 12:55
+post_count: 2
+posts:
+- id: 7220
+  parent_id: null
+  date: 2002-08-27 12:12
+  poster: AlexIV
+  email: evergreens@mail.ru
+  subject: Сегодня - день памяти S.R.V....
+  deleted: false
+  replies:
+  - id: 7238
+    parent_id: 7220
+    date: 2002-08-28 12:55
+    poster: Sergei  Kiritchenko (VoID)
+    email: skvoid@yahoo.com
+    subject: Помним и чтим. (-)
+    deleted: false
+    text: :(

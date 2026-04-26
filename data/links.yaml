@@ -1,0 +1,1215 @@
+categories:
+- id: '1'
+  name: Блюзовые ссылки
+  parent_id: ''
+  description: Коллекция ссылок сайта blues.ru с необъективными комментариями составителей.
+- id: '3'
+  name: Гармоника
+  parent_id: '9'
+  description: Сайты о гармонике
+- id: '4'
+  name: Гитара
+  parent_id: '9'
+  description: Сайты о гитаре
+- id: '5'
+  name: Наши блюзмены
+  parent_id: '1'
+  description: Сайты российских блюзовых групп
+- id: '9'
+  name: Для музыкантов
+  parent_id: '1'
+  description: ''
+- id: '17'
+  name: По-русски о блюзе
+  parent_id: '1'
+  description: Блюзовые сайты на русском языке
+- id: '18'
+  name: Клубы
+  parent_id: '1'
+  description: Официальные сайты музыкальных клубов, в которых замечено появление
+    блюзовых музыкантов.
+- id: '19'
+  name: Фестивали
+  parent_id: '1'
+  description: Сайты блюзовых фестивалей
+- id: '20'
+  name: Концерты
+  parent_id: '1'
+  description: Сайты, на которых регулярно публикуется расписание концертов в клубах.
+- id: '21'
+  name: Питер
+  parent_id: '20'
+  description: Концерты в Питере
+- id: '22'
+  name: Москва
+  parent_id: '20'
+  description: Сайты, содержащие расписание клубных концертов в Москве.
+- id: '24'
+  name: Не только о  блюзе
+  parent_id: '1'
+  description: Интересные музыкальные русскоязычные сайты, не подпадающие под исключительно
+    блюзовую тематику.
+- id: '25'
+  name: Ссылки Вера-и-свет.ру
+  parent_id: ''
+  description: Коллекция ссылок сайта www.vera-i-svet.ru
+- id: '26'
+  name: '"Вера и Свет" и "Ковчег"'
+  parent_id: ''
+  description: ''
+- id: '27'
+  name: Христианские ресурсы в Сети
+  parent_id: ''
+  description: ''
+- id: '29'
+  name: Разное и неклассифицируемое
+  parent_id: '25'
+  description: ''
+- id: '30'
+  name: '"Вера и Свет" и "Ковчег"'
+  parent_id: '25'
+  description: Сайты общины "Ковчег" и движения "Вера и Свет"
+- id: '31'
+  name: Умственная отсталость и нарушения эмоционально-волевой сферы
+  parent_id: '25'
+  description: Медицинские и прочие ресурсы в помощь родителям
+- id: '32'
+  name: Публикации в СМИ
+  parent_id: '25'
+  description: Публикации о движении "Вера и Свет" и "Ковчеге", а также по проблемам
+    социальной адаптации семей с умственно отсталыми людьми
+- id: '33'
+  name: История блюза
+  parent_id: '1'
+  description: Ссылки на источники об истории блюза
+sites:
+- id: '157'
+  name: Живой звук в Киеве
+  url: http://www.live.kiev.ua
+  description: Информация об украинских музыкантах разных стилей и клубах, где исполняют
+    живую музыку в Киеве.
+  categories:
+  - '17'
+  - '20'
+  status: dead
+- id: '158'
+  name: The Outback
+  url: http://the-outback.narod.ru
+  description: Сайт ритм-н-блюзовой группы из Смоленска
+  categories:
+  - '5'
+  status: live
+- id: '160'
+  name: The Red Saunders Research Foundation
+  url: http://hubcap.clemson.edu/~campber/rsrf.html
+  description: "История лейбла Чесс по выпущенным синглам и другая полезная информация.\r\
+    \n\r\nSince 1997, the Red Saunders Research Foundation has been dedicated to increasing\
+    \ our knowledge of the musicians who filled the clubs and recording studios of\
+    \ Chicago with great music during the two decades after World War II."
+  categories:
+  - '33'
+  status: dead
+- id: '183'
+  name: B.B.Max
+  url: http://www.bbmax.ru
+  description: Сайт группы гитариста Юрия Максимова
+  categories:
+  - '5'
+  status: dead
+- id: '1'
+  name: Блюз в России
+  url: http://www.blues.ru
+  description: Сайт о блюзе в России. А также о блюзе вообще на русском языке.
+  categories:
+  - '17'
+  status: live
+- id: '2'
+  name: Гармоника.Ру
+  url: http://harmonica.ru
+  description: Все об игре на гармонике на постоянно обновляемом и живом сайте, который
+    появился как спутник blues.ru. Заслуга авторства принадлежит Сергею Алексеенко
+    и Славе Чернову.
+  categories:
+  - '3'
+  - '17'
+  status: live
+- id: '3'
+  name: Guitar Studio
+  url: http://www.guitar.ru
+  description: Информация для гитаристов
+  categories:
+  - '4'
+  status: live
+- id: '4'
+  name: Мой блюз
+  url: http://www.blues.bip.ru/
+  description: Сайт о блюзе - коллекция таблатур, ссылок на mp3, заметок Ильи Верховского,
+    а также русскоязычных статей о блюзе, почерпнутых из иных источников.
+  categories:
+  - '17'
+  status: dead
+- id: '5'
+  name: Blues Cousins
+  url: http://www.blues-cousins.ru
+  description: Официальный сайт группы, возглавляемой виртуозным гитаристом-пулеметчиком
+    Леваном Ломидзе.
+  categories:
+  - '5'
+  status: dead
+- id: '6'
+  name: Crossroadz
+  url: http://www.thecrossroadz.ru
+  description: Официальный сайт группы и ее лидера Сергея Воронова.
+  categories:
+  - '5'
+  status: live
+- id: '8'
+  name: Mean Black Cat Blues
+  url: http://www.old-blues.ru
+  description: Сайт, посвященный довоенному (т.н. архаичному или традиционному) блюзу.
+    Эта энциклопедия содержит более сотни статей о музыкантах этого жанра, с дискографиями,
+    фотографиями и музыкальными фрагментами. Создание сайта - всецело заслуга Михаила
+    Бирюкова.
+  categories:
+  - '17'
+  status: dead
+- id: '10'
+  name: Jazz-квадрат - ежемесячный журнал
+  url: http://www.nestor.minsk.by/jz/
+  description: Единственный бумажный русскоязычный журнал о джазе содержит блюзовый
+    раздел, в котором периодически публикуются статьи о блюзе, а также блюзовые CD-обзоры.
+  categories:
+  - '17'
+  status: redirected
+- id: '11'
+  name: Форте
+  url: http://www.forteclub.com/
+  description: Известный московский музыкальный клуб с джазово-блюзовой направленностью.
+  categories:
+  - '18'
+  status: dead
+- id: '12'
+  name: B.B.King
+  url: http://www.bbkingclub.ru
+  description: Один из первых блюзовых клубов в Москве.
+  categories:
+  - '18'
+  status: dead
+- id: '13'
+  name: Юрий Наумов
+  url: http://www.russianblues.com/
+  description: Страница известного гитариста, которую он называет "Домом русского
+    блюза".
+  categories:
+  - '5'
+  status: dead
+- id: '165'
+  name: Блюзовые концерты в Москве на blues.ru
+  url: http://www.blues.ru/gigs/
+  description: Расписание клубных блюзовых концертов, пополняемое клубами и музыкантами.
+  categories:
+  - '22'
+  status: live
+- id: '181'
+  name: Афиша.Ру
+  url: http://www.afisha.ru/msk/schedule_concert/
+  description: Самый большой ресурс с расписаниями концертов
+  categories:
+  - '22'
+  status: live
+- id: '175'
+  name: Фестивали клуба B.B.King
+  url: http://www.blues.ru/bbkingfest/
+  description: Блюзовые фестивали в Лефортово, оргранизованные московским клубом B.B.King
+  categories:
+  - '19'
+  status: live
+- id: '17'
+  name: Вольный Стиль
+  url: http://www.copris.com/vs/
+  description: Сайт одной из двух групп гитариста Бориса Булкина - знаменитого Вольного
+    Стиля, российского варианта ZZ Top.
+  categories:
+  - '5'
+  status: dead
+- id: '18'
+  name: Big Blues Revival
+  url: http://www.bigbluesrevival.ru/
+  description: Сайт блюзового коллектива из Питера, исполняющего традиционный чикагский
+    блюз в расширенном составе.
+  categories:
+  - '5'
+  status: dead
+- id: '19'
+  name: 'Энциклопедия К&М: Блюзовый раздел'
+  url: http://mega.km.ru/rock/alphabet.asp?rubr=15
+  description: Коллекция из 55 справок о блюзменах с биографическими данными и дискографиями,
+    написанная когда-то Андреем Евдокимовым специально для музыкальной энциклопедии
+    К&М. По каким-то причинам, в августе 1998г. К&М решили приостановить работу над
+    блюзовым разделом, а позже опубликовали эти справки в интернете, не имея на это
+    юридических прав и оставив их в неотредактированном и неправленом - недоработанном
+    - виде.
+  categories:
+  - '17'
+  status: dead
+- id: '182'
+  name: Яндекс.Афиша
+  url: http://afisha.yandex.ru/msk/events/?category=concert
+  description: Клубные концерты
+  categories:
+  - '22'
+  status: redirected
+- id: '21'
+  name: Энциклопедия Прогрессивного Рока
+  url: http://www.agharta.net/Encyclopedy/Encyclopedy.html
+  description: Или "сибирская энциклопедия" - серьезный труд, созданный Николаем Мефодьевичем
+    Слынько в годы застоя. Он посвящен рок-музыке в разных ее проявлениях, в связи
+    с этим энциклопедия содержит ряд статей о британском блюзе, а также некоторых
+    представителях блюз-рока.
+  categories:
+  - '17'
+  status: live
+- id: '22'
+  name: Дельта Невы
+  url: http://www.nevadelta.ru
+  description: Сайт питерского блюзового фестиваля, который впервые прошел летом 2001
+    года под руководством организатора Сергея "Стива" Некрасова.
+  categories:
+  - '19'
+  status: dead
+- id: '184'
+  name: Jimmy Woodser Blues Band
+  url: http://jw-band.com/
+  description: Блюзовая группа из Орла
+  categories:
+  - '5'
+  status: dead
+- id: '24'
+  name: Блюз в России - фестиваль
+  url: http://blues-blues.narod.ru/
+  description: Сайт известного фестиваля, произошедшего в 1992 году. Blues.ru носит
+    такое же полное имя с любезного разрешения организатора фестиваля Александра Демидова.
+  categories:
+  - '19'
+  status: live
+- id: '25'
+  name: Blue Miles
+  url: http://bluemiles.barbershop.ru
+  description: Сайт для учеников-гитаристов. Содержит на данный момент статью и нотный
+    разбор блюзовой композии Matt Murphy.
+  categories:
+  - '4'
+  status: dead
+- id: '26'
+  name: 'Сайт Семена Хизгияева '
+  url: http://hsemen.narod.ru/
+  description: Биографии 4х блюзменов с дискографией.
+  categories:
+  - '17'
+  status: live
+- id: '27'
+  name: Страница студии Кота Матраскина
+  url: http://kotmatrs.rinet.ru/
+  description: Замечательно оформленный сайт посвящен различным музыкантам русского
+    рока, бардам, а также подпольным блюзменам. В частности, на нем находятся страницы
+    Станции Мир, Кожекина, Умки и т.д.
+  categories:
+  - '5'
+  status: dead
+- id: '28'
+  name: Blues Summit
+  url: http://www.blues-summit.ru/
+  description: Московский блюзовый фестиваль, который проходил уже дважды при довольно
+    странных обстоятельствах, и совершенно неожиданно для всех нас подаривший выступления
+    таких замечательных музыкантов, как Paul Lamb & King Snakes, Yardbirds, Chris
+    Farlowe и др. Фестиваль организовывает компания Ghost Music
+  categories:
+  - '19'
+  status: dead
+- id: '29'
+  name: Efes Pilsener Blues Festival - Blues.ru
+  url: http://www.blues.ru/efes/
+  description: Большой сайт на blues.ru, посвященный пивному интернациональному блюзовому
+    фестивалю, который прошел уже в 12 раз, а в Москве - в третий.
+  categories:
+  - '19'
+  status: live
+- id: '30'
+  name: Efes Pilsener Blues Festival - Silence Pro
+  url: http://www.silencepro.ru/blues12/
+  description: Официальный мини-сайт фестиваля на сервере его организатора Silence
+    Pro. Обратите внимание на ссылки, посвященные двум предыдущим EPBF.
+  categories:
+  - '19'
+  status: dead
+- id: '185'
+  name: Blues Division Band
+  url: http://vk.com/club9128608
+  description: Блюз из Набережных Челнов
+  categories:
+  - '5'
+  status: live
+- id: '186'
+  name: Блог Oleg_Spb - блюзовые рецензии
+  url: http://olegspbblues.blogspot.ru/
+  description: Более 100 обзоров интересных блюзовых дисков
+  categories:
+  - '17'
+  status: redirected
+- id: '38'
+  name: Джаз в России - Концерты
+  url: http://www.jazz.ru/html/afisha.htm
+  description: Расписание джазовых концертов в Москве и других городах. Расписание
+    некоторых клубов блюзово-джазовой направленности.
+  categories:
+  - '21'
+  - '22'
+  status: live
+- id: '39'
+  name: Звуки.Ру - Концерты
+  url: http://www.zvuki.ru/N/L/
+  description: Расписание клубных концертов молодежных групп, среди которых попадаются
+    блюзовые исполнители.
+  categories:
+  - '22'
+  status: live
+- id: '41'
+  name: Notodden Blues Festival
+  url: http://www.bluesfest.no
+  description: Самый крупный в Европе блюзовый фестиваль, который проходит в городе
+    Нотодден, Норвегия.
+  categories:
+  - '19'
+  status: live
+- id: '42'
+  name: Фестиваль BLUES.RU-2001
+  url: http://www.blues.ru/bluesnews/Fest01/bluesru01.htm
+  description: Страница фестиваля BLUES.RU-2001, собравшего в 2001 более 20 наиболее
+    известных российских блюзовых исполнителей.
+  categories:
+  - '19'
+  status: live
+- id: '43'
+  name: Scolder Blues
+  url: http://www.blues.ru/rblues/Scolder_Blues/
+  description: Сайт новой московской группы с дудками Scolder Blues.
+  categories:
+  - '5'
+  status: dead
+- id: '44'
+  name: Ragtime
+  url: http://ragtime.blues.ru
+  description: Сайт блюзовой группы Ragtime из Нальчика.
+  categories:
+  - '5'
+  status: dead
+- id: '45'
+  name: Джаз в России
+  url: http://www.jazz.ru
+  description: Главный русскоязычный сайт о джазе. Сайт был создан Петром Ганнушкиным,
+    а на данный момент главным его редактором является известный джазовый журналист
+    Кирилл Мошков.
+  categories:
+  - '24'
+  status: live
+- id: '46'
+  name: Rockabilly Swing
+  url: http://www.rockabillyswing.boom.ru
+  description: Сайт о рок-н-ролле, рокабилли, свинге, джамп-н-джайве, неорок-н-ролле
+    и неосвинге.
+  categories:
+  - '24'
+  status: dead
+- id: '47'
+  name: ЗаппазУхОй
+  url: http://www.blues.ru/zappazuhoi/
+  description: Русский регулярный бюллетень для поклонников американского композитора
+    Frank'а Vincent'а Zappa'ы под авторстом ведущего российского и всемирного запповеда
+    - Владимира Советова.
+  categories:
+  - '24'
+  status: live
+- id: '49'
+  name: The Ethno Trip
+  url: http://ethnotrip.blues.ru
+  description: "Современная этно-музыка мира. \r\nМузыканты. Инструменты. Терминология."
+  categories:
+  - '24'
+  status: live
+- id: '52'
+  name: Кельтская музыка в России
+  url: http://www.celtic.ru/
+  description: Информация о кельтской музыке в России. Новости, музыканты, расписание
+    концертов, музыка, форум, ссылки и др. На русском и английском языках.
+  categories:
+  - '24'
+  status: dead
+- id: '53'
+  name: Одесский блюз-клуб
+  url: http://rockshop.te.net.ua/bluz/
+  description: Блюз-клуб "Сусанин" - БЛЮЗ-КЛУБ на Большой Арнаутской... Звучит почти
+    как шутка, но это одесская реальность! Сайт не без анекдотов, тоже, видимо, местная
+    специфика. И, все-таки, приятно найти братьев по разуму.
+  categories:
+  - '18'
+  status: dead
+- id: '54'
+  name: Blackmailers Blues Band
+  url: http://blackmailers.blues.ru/
+  description: Сайт известной группы из Владимира под руководством лидера-гитариста
+    Алексея Барышева.
+  categories:
+  - '5'
+  status: dead
+- id: '55'
+  name: Benjamin
+  url: http://www.ben2jamm.narod.ru/
+  description: Блюзовая группа из Ашхабада (Туркменистан) под руководством гитариста
+    Сергея Бабаева.
+  categories:
+  - '5'
+  status: dead
+- id: '56'
+  name: 'Underground Sunburn '
+  url: http://www.realmusic.ru/underground_sunburn/
+  description: Страница с музыкой группы из Питера.
+  categories:
+  - '5'
+  status: redirected
+- id: '57'
+  name: Spoonfull
+  url: http://spoonfull.narod.ru/
+  description: Сайт блюзовой группы из Минска.
+  categories:
+  - '5'
+  status: dead
+- id: '58'
+  name: Станция Мир
+  url: http://mir.sporu.net
+  description: Сайт группы В.Кожекина и И.Жука.
+  categories:
+  - '5'
+  status: live
+- id: '59'
+  name: Forrest Gump
+  url: http://www.forrestgump.spb.ru
+  description: 'Блюзовая группа из Питера под руководством гитариста Виталия "Малыша"
+    Силантьева. '
+  categories:
+  - '5'
+  status: dead
+- id: '60'
+  name: Дикий Мед
+  url: http://www.dikeymed.narod.ru/
+  description: Сайт легендарной группы из Донецка, в которой выросли многие известные
+    отечественные блюзовые музыканты.
+  categories:
+  - '5'
+  status: dead
+- id: '61'
+  name: Богословская библиотека
+  url: http://www.areopag.com/library.html
+  description: Кой-какие полезные тексты
+  categories:
+  - '29'
+  status: dead
+- id: '62'
+  name: http://www.welcome.to/kosma
+  url: http://www.welcome.to/kosma
+  description: Сайт храма свв. бсср. Космы и Дамиана в Шубине
+  categories: []
+  status: dead
+- id: '63'
+  name: http://www.welcome.to/kosma
+  url: http://www.welcome.to/kosma
+  description: Храм свв. бессребренников Космы и Дамиана в Шубине
+  categories:
+  - '29'
+  status: dead
+- id: '64'
+  name: http://www.larchecanada.org/
+  url: http://www.larchecanada.org/
+  description: Сайт общины "Ковчег" (L'Arche) в Канаде
+  categories:
+  - '30'
+  status: live
+- id: '68'
+  name: http://blazhenny.narod.ru/
+  url: http://blazhenny.narod.ru/
+  description: Сайт про юродивых - канонизированных и не очень
+  categories:
+  - '29'
+  status: dead
+- id: '69'
+  name: 'Школа спасения '
+  url: http://archive.1september.ru/upr/1998/upr40.htm
+  description: 'Статья В.Жулева в газете "Первое сентября" о московской школе"Ковчег" '
+  categories:
+  - '32'
+  status: dead
+- id: '70'
+  name: 'Нас лечат их раны '
+  url: http://news.1september.ru/psy/1999/psy37-1.htm
+  description: Статья О.Филипповской в газете "Первое сентября"
+  categories:
+  - '32'
+  status: dead
+- id: '71'
+  name: 'Стойкий оловянный солдатик и его соломинка  '
+  url: http://www.dux.ru/spbved/2000/arts/spbved-2379-art-45.html
+  description: Статья в "Санкт-Петербургских Ведомостях" о фильме И.Шадхана "Знакомство"
+  categories:
+  - '32'
+  status: dead
+- id: '72'
+  name: 'http://www.cl.ru/education/lib/data/r00136.htm '
+  url: 'http://www.cl.ru/education/lib/data/r00136.htm '
+  description: Другое измерение общества. Семья и школа, №9, 2000, С.15-19
+  categories:
+  - '32'
+  status: redirected
+- id: '74'
+  name: 'Обогрей, Господь, Твоих любимых...  '
+  url: http://bpc056-01.psy.msu.ru/~kosma/gazeta/10.html
+  description: "Статья О. Ерохиной на сайте храма свв. бессребреников Космы и Дамиана\r\
+    \n"
+  categories:
+  - '32'
+  status: dead
+- id: '75'
+  name: '"Вера и Свет" - боль и праздник. '
+  url: http://religion.russ.ru/people/20011123-erohina.html
+  description: 'Cтатья Ольги Ерохиной '
+  categories:
+  - '32'
+  status: dead
+- id: '76'
+  name: 'Сегодня Хелен улыбнулась мне '
+  url: http://bpc056-01.psy.msu.ru/~kosma/gazeta/10.html
+  description: Выступление Жана Ванье в Москве
+  categories:
+  - '32'
+  status: dead
+- id: '77'
+  name: 'Мой ребенок не такой, как все.... '
+  url: http://www.mama.ru/club/mybaby/
+  description: Раздел на сайте mama.ru, посвященный детям-инвалидам
+  categories:
+  - '31'
+  status: dead
+- id: '79'
+  name: 'Русское Иппотерапевтическое Сообщество '
+  url: http://www.hippotherapy.ru/
+  description: Сайт Общероссийской Ассоциации "Русское Иппотерапевтическое Сообщество"
+  categories:
+  - '31'
+  status: live
+- id: '80'
+  name: http://autist.narod.ru/
+  url: http://autist.narod.ru/
+  description: Сайт, созданный О.Власовой, матерью ребенка-аутиста. Много материалов
+    и ссылок по проблеме раннего детского аутизма
+  categories:
+  - '31'
+  status: live
+- id: '81'
+  name: Информационная система «Особый ребенок»
+  url: http://webcenter.ru/~scdl/
+  description: 'Сборник текстов (спец.педагогика, законодательство и проч.), создан,
+    в частности, сотрудниками Центра лечебной педагогики '
+  categories:
+  - '31'
+  status: dead
+- id: '82'
+  name: 'Санкт-Петербургская Лига Жизненной помощи людям с проблемами развития '
+  url: http://vitalhelp.chat.ru/
+  description: Сайт общественной организации "Лига жизненной помощи людям с проблемами
+    развития"
+  categories:
+  - '31'
+  status: live
+- id: '83'
+  name: 'Центр Лечебной Педагогики (Москва) '
+  url: http://curative.chat.ru/
+  description: И этим все сказано!:)
+  categories:
+  - '31'
+  status: live
+- id: '85'
+  name: Modern Blues Band
+  url: http://www.modernbluesband.ru/
+  description: Сайт гитарного трио под руководством Гии Дзагнидзе.
+  categories:
+  - '5'
+  status: live
+- id: '86'
+  name: Биография Жана Ванье
+  url: http://www.larchecanada.org/frset1.html
+  description: Биография Жана Ванье (англ.)
+  categories:
+  - '30'
+  status: dead
+- id: '87'
+  name: 'www.faithandlight.net '
+  url: http://www.faithandlight.net/
+  description: Сайт общины из Колорадо-Спрингс (США)
+  categories:
+  - '30'
+  status: dead
+- id: '88'
+  name: 'foietlumiere.free.fr '
+  url: http://foietlumiere.free.fr/
+  description: 'Международный сайт движения "Вера и Свет" '
+  categories:
+  - '30'
+  status: dead
+- id: '89'
+  name: 'www.stmarkschurchgillingham.co.uk/faith&light.htm '
+  url: http://www.stmarkschurchgillingham.co.uk/faith&light.htm
+  description: 'Сайт общины при приходе Св.Марка в городе Диллингхем (Кент) '
+  categories:
+  - '30'
+  status: dead
+- id: '90'
+  name: 'www.faithandlight.faithweb.com '
+  url: http://www.faithandlight.faithweb.com/
+  description: '"Вера и Свет" на Украине'
+  categories:
+  - '30'
+  status: live
+- id: '92'
+  name: Капитан Дик
+  url: http://www.geocad.ru/~gena/cd/cdabs.htm
+  description: Группа из Новосибирска.
+  categories:
+  - '5'
+  status: dead
+- id: '93'
+  name: Dr. Ika
+  url: http://www.drika.biz
+  description: Группа Ираклия Киквадзе, английского блюзмена родом из Тбилиси - кузницы
+    российского блюза.
+  categories:
+  - '5'
+  status: changed
+- id: '94'
+  name: '...И я перестала бояться'
+  url: http://ps.1september.ru/1999/26/6-1.htm
+  description: Интервью с Таней Будильцевой из московской ВиС
+  categories:
+  - '32'
+  status: dead
+- id: '96'
+  name: Svet Boogie Band
+  url: http://www.svetboogieband.com
+  description: Сайт группы Света Ходоновича из Минска.
+  categories:
+  - '5'
+  status: changed
+- id: '97'
+  name: Mishouris & His Orchestra
+  url: http://www.mishouris.ru/
+  description: Сайт группы Михаила Мишуриса.
+  categories:
+  - '5'
+  status: dead
+- id: '98'
+  name: Русский Блюз
+  url: http://www.rusblues.ru/
+  description: Сайт, посвященный исполнению блюза на русском языке.
+  categories:
+  - '17'
+  status: live
+- id: '99'
+  name: Blues Doctors
+  url: http://www.bluesdoctors.ru/
+  description: Сайт блюзовой группы Blues Doctors из Екатеринбурга под руководством
+    гитариста Владимира Демьянова.
+  categories:
+  - '5'
+  status: live
+- id: '100'
+  name: Народный благотворительный проект "Создание центра досуга для детей-инвалидов"
+  url: http://www.yuliuss.narod.ru
+  description: "Инициатором проекта по созданию Центра досуга для детей-инвалидов\
+    \ является Елена Гриб - мама девочки-инвалида Евгении, девочки, имеющей диагноз\
+    \ ДЦП. \r\n"
+  categories: []
+  status: dead
+- id: '101'
+  name: Народный благотворительный проект "Создание центра досуга для детей-инвалидов"
+  url: http://www.yuliuss.narod.ru
+  description: "Инициатором проекта по созданию Центра досуга для детей-инвалидов\
+    \ является Елена Гриб - мама девочки-инвалида Евгении, девочки, имеющей диагноз\
+    \ ДЦП. \r\n"
+  categories: []
+  status: dead
+- id: '102'
+  name: Народный благотворительный проект "Создание центра досуга для детей-инвалидов"
+  url: http://www.yuliuss.narod.ru
+  description: "Инициатором проекта по созданию Центра досуга для детей-инвалидов\
+    \ является Елена Гриб - мама девочки-инвалида Евгении, девочки, имеющей диагноз\
+    \ ДЦП. \r\n"
+  categories: []
+  status: dead
+- id: '103'
+  name: Народный благотворительный проект "Создание центра досуга для детей-инвалидов"
+  url: http://www.yuliuss.narod.ru
+  description: "Инициатором проекта по созданию Центра досуга для детей-инвалидов\
+    \ является Елена Гриб - мама девочки-инвалида Евгении, девочки, имеющей диагноз\
+    \ ДЦП. \r\n"
+  categories: []
+  status: dead
+- id: '104'
+  name: Народный благотворительный проект "Создание центра досуга для детей-инвалидов"
+  url: http://www.yuliuss.narod.ru/
+  description: "Инициатором проекта по созданию Центра досуга для детей-инвалидов\
+    \ является Елена Гриб - мама девочки-инвалида Евгении, девочки, имеющей диагноз\
+    \ ДЦП. \r\nПроект является благотворительным, и не предполагает поддержку государства."
+  categories:
+  - '31'
+  status: dead
+- id: '105'
+  name: SpecialNeeds.ru
+  url: http://www.specialneeds.ru
+  description: интернет-проект о детях с особенностями развития. В его основе - база
+    данных образовательных и развивающих учреждений города Москвы, работающих в области
+    специальной педагогики и психологии. Она была составлена на основе проведенного
+    исследования 400 детских учреждений в 2003 г.
+  categories:
+  - '31'
+  status: redirected
+- id: '106'
+  name: '"Wiara i Swiatlo" ("Вера и Свет" в Польше) '
+  url: http://www.mateusz.pl/wis/spl
+  description: Большой ресурс с множеством разделов, который объединяет информацию
+    о жизни общин "Вера и Свет" в Польше
+  categories:
+  - '30'
+  status: redirected
+- id: '107'
+  name: Знаменитый гуманист Жан Ванье выступил с лекцией в Москве
+  url: http://www.regnum.ru/expnews/159526.html
+  description: Статья на сайте www.regnum.ru, рассказывающая о лекции Ж.Ванье в РГГУ
+    (Москва) 22.09.2003
+  categories:
+  - '32'
+  status: dead
+- id: '108'
+  name: 'РЕПОРТАЖ: «Люди прекрасны. Просто многие не знают того, что они прекрасны»'
+  url: http://portal-credo.ru/site/?act=news&id=13580&cf=
+  description: Репортаж на сайте www.credo.ru, посвященный визиту Ж.Ванье в Россию
+    в 2003 году
+  categories:
+  - '32'
+  status: dead
+- id: '109'
+  name: Андрей Козловский
+  url: http://kozlovsky.blues.ru
+  description: Сайт известного барда, исполняющего блюзовую программу на русском языке.
+  categories:
+  - '5'
+  status: dead
+- id: '110'
+  name: 'Богослов Ванье: я тоже, оказывается, ущербен'
+  url: http://news.bbc.co.uk/hi/russian/russia/newsid_3130000/3130536.stm
+  description: Статья о Ж.Ванье, а также небольшие интервью с участниками московской
+    ВиС, и все это на сайте BBC (не военно-воздушных сил, а би-би-си :-)))
+  categories:
+  - '32'
+  status: live
+- id: '111'
+  name: '"Хорошие новости не попадают в газетные заголовки"'
+  url: http://www.russ.ru/ist_sovr/20030926_vanier.html
+  description: Интервью Ж.Ванье "Русскому Журналу"
+  categories:
+  - '32'
+  status: dead
+- id: '166'
+  name: Минск Блюз
+  url: http://minskblues.com/
+  description: Сайт фестиваля, ежегодно проходящего в клубах Минска начиная с осени
+    2006 года.
+  categories:
+  - '19'
+  status: live
+- id: '113'
+  name: Звуки.ру - Звуки блюза
+  url: http://zvuki.ru/R/L/8634/
+  description: Блюзовая рубрика на крупнейшем отечественном музыкальном сайте.
+  categories:
+  - '17'
+  status: live
+- id: '115'
+  name: 'Божьи люди: чужие среди своих'
+  url: http://www.zhukovskiy.ru/smi/zhukvesty/view.php?id=1610031803
+  description: Статья Юрия Агеева в газете "Жуковские вести", посвященная проблемам
+    существования инвалидов в современном обществе и приезду Ж.Ванье
+  categories:
+  - '32'
+  status: dead
+- id: '116'
+  name: 'Божьи люди: чужие среди своих'
+  url: http://www.zhukovskiy.ru/smi/zhukvesty/view.php?id=1610031803
+  description: Статья Юрия Агеева в газете "Жуковские вести", посвященная проблемам
+    существования инвалидов в современном обществе и приезду Ж.Ванье
+  categories:
+  - '32'
+  status: dead
+- id: '117'
+  name: Все о Led Zeppelin
+  url: http://www.ledzeppelin.ru
+  description: Главный русскоязычный ресурс о легендарной рок-группе.
+  categories:
+  - '24'
+  status: live
+- id: '118'
+  name: Сайт духовного центра общин "Ковчег" в Троли (Франция)
+  url: http://www.lafermediffusion.com
+  description: Самый первый сайт общин "Ковчег". В частности, есть коллекция ссылок
+    на сайты общин "Ковчег"
+  categories:
+  - '30'
+  status: dead
+- id: '119'
+  name: Notodden Blues Festival на Blues.Ru
+  url: http://www.blues.ru/nbf/
+  description: Большой раздел со статьями и фотографиями на Blues.ru, посвященный
+    крупнейшему европейскому фестивалю.
+  categories:
+  - '19'
+  status: live
+- id: '120'
+  name: JAM
+  url: http://jam.blues.ru/
+  description: Англоязычный сайт группы из Нижнего Новгорода
+  categories:
+  - '5'
+  status: dead
+- id: '121'
+  name: BluesNews.ru
+  url: http://www.bluesnews.ru
+  description: Сайт с авторскими материалами Алексея Калачева. Новости, чарты, CD-обзоры,
+    музыканты.
+  categories:
+  - '17'
+  status: live
+- id: '122'
+  name: The Jumpin' Cats
+  url: http://www.bluescats.ru
+  description: Сайт группы The Jumpin' Cats под руководством Володи Русинова.
+  categories:
+  - '5'
+  status: dead
+- id: '123'
+  name: Overdrive Blues Band
+  url: http://www.youtube.com/SergKuznetsov
+  description: Сайт группы из Ярославля.
+  categories:
+  - '5'
+  status: live
+- id: '126'
+  name: Сайт Николая Арутюнова
+  url: http://www.arutunov.ru/
+  description: Сайт известного вокалиста - лидера легендарной Лиги Блюза. Сегодня
+    Арутюнов участвует в проектах Четверг Арутюнова и Funk You.
+  categories:
+  - '5'
+  status: dead
+- id: '127'
+  name: Chill Out Blues Band
+  url: http://www.myspace.com/danieljeshkov
+  description: Группа гитариста Даниила Жешкова из Санкт-Петербуга.
+  categories:
+  - '5'
+  status: dead
+- id: '128'
+  name: Arsen Shomakhov
+  url: http://www.arsenshomakhov.com
+  description: Англоязычный сайт об Арсене Шомахове, гитаристе и авторе песен группы
+    Регтайм.
+  categories:
+  - '5'
+  status: dead
+- id: '130'
+  name: Ритм Блюз Кафе
+  url: http://rhythm-blues-cafe.ru/
+  description: Сайт блюзового клуба в Москве
+  categories:
+  - '18'
+  status: live
+- id: '131'
+  name: Blues Hammer Band
+  url: http://www.blueshammerband.ru
+  description: Сайт Николая Садикова и его группы Blues Hammer Band. Доступен также
+    по адресу www.sadikov.ru.
+  categories:
+  - '5'
+  status: dead
+- id: '132'
+  name: Очаково-Блюз 2003
+  url: http://www.blues.ru/fest/
+  description: Страницы международного фестиваля, организованного blues.ru вместе
+    с компанией Другая Музыка.
+  categories:
+  - '19'
+  status: live
+- id: '133'
+  name: Сергей Кашин
+  url: http://serge-k.com/
+  description: Сайт гитариста Сергея Кашина, исполняющего песни Эрика Клэптона.
+  categories:
+  - '5'
+  status: dead
+- id: '134'
+  name: Old Rock
+  url: http://www.old-rock.ru
+  description: "Сайт посвящен рок-музыке 60-70 годов, содержит некоторое количество\
+    \ статей по\r\nблюз-року. Bruce (Jack), Chicken Shack, Clapton (Eric),\r\nDavies\
+    \ (Cyril),Fleetwood Mac, Groundhogs, Alexis Corner, John Mayall,\r\nSavoy Brown,\
+    \ Stone The Crows, Ten Years After.........."
+  categories:
+  - '24'
+  status: changed
+- id: '135'
+  name: Декларация о правах умственно отсталых лиц
+  url: http://www.hro.org/docs/ilex/un/mentally.htm
+  description: "Провозглашена резолюцией 2856 (XXVI) Генеральной Ассамблеи ООН от\
+    \ 20 декабря 1971 года \r\n\r\n \r\n\r\n"
+  categories:
+  - '25'
+  status: dead
+- id: '136'
+  name: Доктор Блюз на Радио России
+  url: http://www.radiorus.ru/section.html?rid=736
+  description: Текстовые материалы по мотивам передачи А.Калачева "Доктор Блюз"
+  categories:
+  - '17'
+  status: redirected
+- id: '137'
+  name: Петрович "Harmonica Man"
+  url: http://www.harmonicaman.ru/
+  description: Сайт гармониста Михаила "Петровича" Соколова.
+  categories:
+  - '5'
+  status: dead
+- id: '138'
+  name: JamTracks
+  url: http://www.jamtracks.ru
+  description: Бесплатные минусовки для музыкантов - блюз, джаз, фанк, рок, кантри,
+    регги.
+  categories:
+  - '4'
+  status: live
+- id: '139'
+  name: BluesGuitar.ru
+  url: http://www.bluesguitar.ru
+  description: "Сайт о блюзовой и слайд-гитаре. Уроки, статьи,\r\nсправочная информация."
+  categories:
+  - '4'
+  status: dead
+- id: '140'
+  name: Петрович бэнд / Уездные хроники
+  url: http://www.realmusic.ru/victor/
+  description: Блюзовая группа из Вологды во главе с Виктором Колесовым.
+  categories:
+  - '5'
+  status: redirected
+- id: '142'
+  name: Мир Музыки
+  url: http://www.livejournal.com/community/mirmuzyki/profile
+  description: Сообщество в ЖЖ, созданное Вовой Кожекиным, в котором описана блюзовая
+    и прочая не очень коммерческая музыка, с которой он имеет дело.
+  categories:
+  - '17'
+  status: live
+- id: '143'
+  name: Edison Band
+  url: http://www.edisonband.ru
+  description: Сайт группы гитариста Эдуарда Губайдуллина.
+  categories:
+  - '5'
+  status: dead
+- id: '144'
+  name: Борис Булкин
+  url: http://www.borisbulkin.ru/
+  description: Сайт гитариста, лидера групп Stainless Blues Band и Вольный Стиль.
+  categories:
+  - '5'
+  status: live
+- id: '145'
+  name: Efes Pilsener Blues Festival
+  url: http://www.bluesfest.ru
+  description: Сайт фестиваля с 2006 года.
+  categories:
+  - '19'
+  status: dead
+- id: '146'
+  name: Richie's Blues Band
+  url: http://richiesbluesband.narod.ru/
+  description: Страница группы гитариста "Ричи".
+  categories:
+  - '5'
+  status: dead
+- id: '147'
+  name: Rockin' Dad
+  url: http://www.rockindad.ru/
+  description: Сайт блюзовой группы из подмосковного Троицка под руководством Виктора
+    Чернова.
+  categories:
+  - '5'
+  status: dead
+- id: '148'
+  name: Вадим Иващенко и The Boneshakers
+  url: http://ivaschenko.blues.ru/
+  description: Сайт блюзового гитариста Вадима Иващенко.
+  categories:
+  - '5'
+  status: live
+- id: '149'
+  name: Эдуард Губайдуллин
+  url: http://www.edisonmusic.ru
+  description: Edison Band и Эдуард Губайдуллин
+  categories:
+  - '5'
+  status: dead
+- id: '167'
+  name: bob-dylan.ru
+  url: http://www.bob-dylan.ru
+  description: Сайт Антона Ворожеева о Бобе Дилане.
+  categories:
+  - '24'
+  status: live
+- id: '151'
+  name: Soul Mate
+  url: http://www.soulmate-live.narod.ru
+  description: Сайт группы Soul Mate.
+  categories:
+  - '5'
+  status: dead
+- id: '152'
+  name: Сергей Курек
+  url: http://www.kurek.nm.ru
+  description: Блюзовый гитарист из Беларуси.
+  categories:
+  - '5'
+  status: dead
+- id: '153'
+  name: Старая Гвардия
+  url: http://www.staraya-guardia.com/
+  description: Сайт группы Алика Сикорского.
+  categories:
+  - '5'
+  status: dead
+- id: '154'
+  name: Backstage
+  url: http://backstage.net.ru
+  description: Сайт блюз-роковой группы гитариста Юрия Новгородского
+  categories:
+  - '5'
+  status: dead
+- id: '155'
+  name: Professor Blue & Jackknife Rockabilly Orchestra
+  url: http://www.bluesband.ru
+  description: Сайт Александра Джалашова и рокабильного трио JackKnife
+  categories:
+  - '5'
+  status: changed
+- id: '156'
+  name: Holly Rollers Blues Band
+  url: http://www.hollyrollers.ru
+  description: Блюзовая группа из Рязани.
+  categories:
+  - '5'
+  status: changed
+- id: '188'
+  name: Cross-Eyed Cats
+  url: http://www.xecats.ru
+  description: Сайт московской группы Андрея Сорокина
+  categories:
+  - '5'
+  status: dead
+- id: '169'
+  name: Улица Звуков
+  url: http://www.streetofsounds.mrsu.ru/
+  description: Блюзовая группа из Саранска
+  categories:
+  - '5'
+  status: dead
+- id: '187'
+  name: Дом у Дороги
+  url: http://www.blueshouse.ru
+  description: Популярный московский блюзовый клуб надолго обосновался в новом месте
+    на Проспекте Мира
+  categories:
+  - '18'
+  status: live
+- id: '170'
+  name: Легенды фанк-музыки
+  url: http://www.funkmasters.ru
+  description: История фанка в деталях
+  categories:
+  - '24'
+  status: changed
+- id: '163'
+  name: Blues Line
+  url: http://www.bluesline.ru
+  description: Сайт группы из Нижнего Тагила
+  categories: []
+  status: dead
+- id: '164'
+  name: Blues Line
+  url: http://www.bluesline.ru
+  description: Сайт группы из Нижнего Тагила.
+  categories:
+  - '5'
+  status: dead
+- id: '172'
+  name: Dynamic James
+  url: http://www.dynamicjames.ru/
+  description: Группа, исполняющая Old School блюз
+  categories:
+  - '5'
+  status: dead
+- id: '173'
+  name: Rock-n-Roll.Ru
+  url: http://www.rock-n-roll.ru/clubs.php
+  description: Лучшее расписание питерских живых концертов
+  categories:
+  - '21'
+  status: live
+- id: '176'
+  name: Евгений Немов
+  url: http://www.evgenynemov.ru/
+  description: сайт московского блюзового гитариста
+  categories:
+  - '5'
+  status: changed
+- id: '177'
+  name: ЖЖ - Блюз в Украине
+  url: http://community.livejournal.com/blues_ukraine
+  description: переводы статей, общение, афиши концертов
+  categories:
+  - '17'
+  status: live
+- id: '180'
+  name: Юрий Наумов
+  url: http://www.yurinaumov.ru/
+  description: Русскоязычный сайт
+  categories:
+  - '5'
+  status: changed
+- id: '179'
+  name: Блюз-клуб Новосибирска
+  url: http://nsk-blues.narod.ru
+  description: Новосибирский сайт о блюзе.
+  categories:
+  - '17'
+  status: live
+- id: '174'
+  name: Live Band
+  url: http://www.liveband.ru
+  description: Афиша клубных концертов живой музыки
+  categories:
+  - '20'
+  status: live

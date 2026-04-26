@@ -1,0 +1,33 @@
+topic_id: 2100
+slug: topic-2100
+title: 'ВУДСТОК: подтверждение'
+first_post: 2004-05-17 18:54
+last_post: 2004-05-18 11:32
+post_count: 3
+posts:
+- id: 18448
+  parent_id: null
+  date: 2004-05-17 18:54
+  poster: Алексей Аграновский (Док)
+  email: aaa@genebee.msu.su
+  subject: 'ВУДСТОК: подтверждение'
+  deleted: false
+  text: "Джем в ВУДСТОКЕ действительно состоится в эту среду 19.05 в 21:30. \nГлубоким\
+    \ прискорбием также сообщаем невозможность посетить концерт группы \"Стародуб\"\
+    \ связи отъездом другой город тчк"
+  replies:
+  - id: 18452
+    parent_id: 18448
+    date: 2004-05-17 21:45
+    poster: Андрей Ордальонов (Андрей PRG)
+    email: peregnoy@mail.ru
+    subject: А присутствие господина именинника ожидается? :)
+    deleted: false
+    replies:
+    - id: 18457
+      parent_id: 18452
+      date: 2004-05-18 11:32
+      poster: Алексей Аграновский (Док)
+      email: aaa@genebee.msu.su
+      subject: Не исключается...
+      deleted: false

@@ -1,0 +1,86 @@
+topic_id: 4147
+slug: topic-4147
+title: Я надесюь, что волна мракобесия не захлестнет "Дом у дороги" сегодня?
+first_post: 2008-12-09 12:46
+last_post: 2008-12-11 17:50
+post_count: 9
+posts:
+- id: 35966
+  parent_id: null
+  date: 2008-12-09 12:46
+  poster: cowboy_pete
+  email: kreshta@yandex.ru
+  subject: Я надесюь, что волна мракобесия не захлестнет "Дом у дороги" сегодня?
+  deleted: false
+  text: А то слухи какие-то пошли...
+  replies:
+  - id: 35967
+    parent_id: 35966
+    date: 2008-12-09 14:22
+    poster: Алексей Аграновский (Док)
+    email: aaa@genebee.msu.su
+    subject: Ты о чём это толкуешь?
+    deleted: false
+    text: Непонятно. В любом случае, "волна мракобесия", захлестывающая Дом у дороги
+      - впечатляющий образ.
+    replies:
+    - id: 35968
+      parent_id: 35967
+      date: 2008-12-09 16:17
+      poster: Старый Майор
+      email: gypsy@mail.ru
+      subject: Я уже волнуюсь.
+      deleted: false
+      text: 'Наверное, они блюз на русском будут петь.
+
+        А мракобесы - это противники исконно-посконного блюеза.'
+      replies:
+      - id: 35969
+        parent_id: 35968
+        date: 2008-12-09 17:27
+        poster: Алексей Аграновский (Док)
+        email: aaa@genebee.msu.su
+        subject: 'Более того:'
+        deleted: false
+        text: основным инструментом мракобесов являются маракасы. Ох.
+        replies:
+        - id: 35970
+          parent_id: 35969
+          date: 2008-12-09 17:35
+          poster: Владимир Русинов (BluesCat)
+          email: volodya@blues.ru
+          subject: нене... мракобасы!
+          deleted: false
+          replies:
+          - id: 35971
+            parent_id: 35970
+            date: 2008-12-09 18:26
+            poster: Старый Майор
+            email: gypsy@mail.ru
+            subject: Русинов! Ты же главный мракобес! )))
+            deleted: false
+            replies:
+            - id: 35972
+              parent_id: 35971
+              date: 2008-12-09 18:51
+              poster: Владимир Русинов (BluesCat)
+              email: volodya@blues.ru
+              subject: Я ж нет! Я только платформу предоставляю... :))
+              deleted: false
+  - id: 35973
+    parent_id: 35966
+    date: 2008-12-11 06:57
+    poster: Эльдар
+    email: Эльдар
+    subject: Что это было?
+    deleted: false
+    text: Так что же было 9-ого в Доме У Дороги? Опасения и слухи потвердились?
+    replies:
+    - id: 35975
+      parent_id: 35973
+      date: 2008-12-11 17:50
+      poster: Старый Майор
+      email: gypsy@mail.ru
+      subject: Танцы мракобесов с маракасами прошли с аншлагом...
+      deleted: false
+      text: '...плавно переходящим в аншлюс...'

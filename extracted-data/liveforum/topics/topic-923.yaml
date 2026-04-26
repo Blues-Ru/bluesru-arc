@@ -1,0 +1,45 @@
+topic_id: 923
+slug: topic-923
+title: Hughes
+first_post: 2002-06-21 08:54
+last_post: 2002-06-21 12:06
+post_count: 4
+posts:
+- id: 5619
+  parent_id: null
+  date: 2002-06-21 08:54
+  poster: Malcolm Ray    Readriver (Mike)
+  email: Mrg_mike@rambler.ru
+  subject: Hughes
+  deleted: false
+  text: Люди, у кого-нибудь есть стихи Ленгстона Хьюза, ну прямо блыскался, нигде
+    и нифига!!!
+  replies:
+  - id: 5622
+    parent_id: 5619
+    date: 2002-06-21 11:21
+    poster: Дима Казанцев (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: Taj & Hughes
+    deleted: false
+    text: У меня есть диск Тажа на стихи Хьюза, но я не помню есть ли там тексты.
+      Посмотрю и скажу.
+  - id: 5624
+    parent_id: 5619
+    date: 2002-06-21 11:43
+    poster: Сергей Иванов (serge_ivanov)
+    email: serge_ivanov@hotmail.com
+    subject: здесь есть немного
+    deleted: false
+    text: http://www.poets.org/poets/poets.cfm?prmID=84
+  - id: 5625
+    parent_id: 5619
+    date: 2002-06-21 12:06
+    poster: Сергей Иванов (serge_ivanov)
+    email: serge_ivanov@hotmail.com
+    subject: а еще здесь куча ссылок
+    deleted: false
+    text: 'http://falcon.jmu.edu/~ramseyil/hughes.htm
+
+      Там внизу посмотри  - E-Texts. Кстати, там по одной ссылке мпеги и рилаудио
+      - сможешь даже послушать.'

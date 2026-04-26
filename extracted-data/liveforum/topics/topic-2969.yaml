@@ -1,0 +1,36 @@
+topic_id: 2969
+slug: topic-2969
+title: Этот трек должен знать каждый :)
+first_post: 2005-12-02 17:39
+last_post: 2005-12-02 23:35
+post_count: 3
+posts:
+- id: 24838
+  parent_id: null
+  date: 2005-12-02 17:39
+  poster: Дмитрий Казанцев (Dr. Nick)
+  email: dr.nick@blues.ru
+  subject: Этот трек должен знать каждый :)
+  deleted: false
+  text: http://www.realmusic.ru/songs/157357/
+  replies:
+  - id: 24839
+    parent_id: 24838
+    date: 2005-12-02 22:46
+    poster: :-)
+    email: :-)
+    subject: Oooooooooooooo!
+    deleted: false
+    text: Вам нравиться Динг-Донг?
+  - id: 24840
+    parent_id: 24838
+    date: 2005-12-02 23:35
+    poster: Дмитрий Казанцев (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: Goin down town
+    deleted: false
+    text: 'Gonna see my gal
+
+      Gonna sing her a song
+
+      Gonna show her my ding-dong'

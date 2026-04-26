@@ -1,0 +1,31 @@
+topic_id: 3005
+slug: topic-3005
+title: Холмстром и Кашмар в Рязани ;)
+first_post: 2005-12-20 13:27
+last_post: 2005-12-21 15:23
+post_count: 3
+posts:
+- id: 25164
+  parent_id: null
+  date: 2005-12-20 13:27
+  poster: Федор Романенко (fedor)
+  email: fedor@blues.ru
+  subject: Холмстром и Кашмар в Рязани ;)
+  deleted: false
+  text: http://newspaper.ryazan.ru/archive/2005/45/zag13.html
+  replies:
+  - id: 25165
+    parent_id: 25164
+    date: 2005-12-20 14:27
+    poster: Федор Романенко (fedor)
+    email: fedor@blues.ru
+    subject: Митча с ДР
+    deleted: false
+    text: Ему сегодня 45 ;)
+  - id: 25192
+    parent_id: 25164
+    date: 2005-12-21 15:23
+    poster: Старый Майор
+    email: gypsy@mail.ru
+    subject: Кашмар на улице Вязов... серия следующая, далеко не последняя )))
+    deleted: false

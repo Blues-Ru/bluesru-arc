@@ -1,0 +1,27 @@
+topic_id: 2598
+slug: topic-2598
+title: Интервью с Серёжей Вороновым
+first_post: 2005-05-28 12:50
+last_post: 2005-05-28 15:37
+post_count: 2
+posts:
+- id: 21598
+  parent_id: null
+  date: 2005-05-28 12:50
+  poster: Диброва (Dibrova)
+  email: dibrova_blues@rambler.ru
+  subject: Интервью с Серёжей Вороновым
+  deleted: false
+  text: 'Вот на этом сайте можно послушать
+
+    http://www.radiomayak.ru/schedules/11/21895-audio.html'
+  replies:
+  - id: 21601
+    parent_id: 21598
+    date: 2005-05-28 15:37
+    poster: Диброва (Dibrova)
+    email: dibrova_blues@rambler.ru
+    subject: А ещё.....
+    deleted: false
+    text: Там же можно послушать песню " В одиночестве есть кайф", которая записана
+      на новом альбоме группы Crossroadz "15:0"

@@ -1,0 +1,45 @@
+topic_id: 1281
+slug: topic-1281
+title: Когда был Фёдор маленький, с кудрявой головой...
+first_post: 2003-07-25 13:19
+last_post: 2003-07-25 18:43
+post_count: 4
+posts:
+- id: 13329
+  parent_id: null
+  date: 2003-07-25 13:19
+  poster: Старый Майор
+  email: gypsy@mail.ru
+  subject: Когда был Фёдор маленький, с кудрявой головой...
+  deleted: false
+  text: '..писал такие тексты он, писатель наш родной :))
+
+
+    http://guitclub.chat.ru/sovety/sovet_01.html'
+  replies:
+  - id: 13334
+    parent_id: 13329
+    date: 2003-07-25 14:54
+    poster: Дима Казанцев (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: А ведь все верно написано!
+    deleted: false
+    text: Умен, гад...
+    replies:
+    - id: 13336
+      parent_id: 13334
+      date: 2003-07-25 15:05
+      poster: Федор Романенко (fedor)
+      email: fedor@blues.ru
+      subject: Не говори ;)
+      deleted: false
+      text: Видел в своей жизни три гитары и четыре комбика, и составил интуитивное
+        представление. Потом кто-то из сообщения фидо дернул в ФАК. ;)))
+      replies:
+      - id: 13339
+        parent_id: 13336
+        date: 2003-07-25 18:43
+        poster: Старый Майор
+        email: gypsy@mail.ru
+        subject: Хорошо, что В, а не ЗА :)))
+        deleted: false

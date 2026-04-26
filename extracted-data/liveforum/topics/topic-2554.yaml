@@ -1,0 +1,50 @@
+topic_id: 2554
+slug: topic-2554
+title: 1 мая - ура!
+first_post: 2005-04-30 22:30
+last_post: 2005-05-01 18:24
+post_count: 4
+posts:
+- id: 21314
+  parent_id: null
+  date: 2005-04-30 22:30
+  poster: Дима Казанцев (Dr. Nick)
+  email: dr.nick@blues.ru
+  subject: 1 мая - ура!
+  deleted: false
+  text: 'приходите празднично и акустически джемануть :)
+
+    мы начинаем в 20:00
+
+
+    всех поздравляем с Пасхой, Первомаем и т.д.'
+  replies:
+  - id: 21315
+    parent_id: 21314
+    date: 2005-05-01 02:25
+    poster: Дима Казанцев (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: забыл сообщить
+    deleted: false
+    text: приходить надо в клуб БиБиКинг :)
+    replies:
+    - id: 21317
+      parent_id: 21315
+      date: 2005-05-01 06:31
+      poster: ShureBrothers51
+      email: markus_72@mail.ru
+      subject: Сколько вход?
+      deleted: false
+      text: 1 мая,сколько на входе платить? Хочу синячить за Литтл Волтера. В Англии
+        он отлично обозначился в классных командах, и плюс мой Блюз Инкор-Меллоу Даун
+        Иази любимая тема.
+      replies:
+      - id: 21319
+        parent_id: 21317
+        date: 2005-05-01 18:24
+        poster: Дима Казанцев (Dr. Nick)
+        email: dr.nick@blues.ru
+        subject: позвоните туда
+        deleted: false
+        text: я не могу знать сколько будет вход. обычно рублей 200, кажется. цены
+          назначают менеджеры, но не мы.

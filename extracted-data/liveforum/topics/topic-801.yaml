@@ -1,0 +1,33 @@
+topic_id: 801
+slug: topic-801
+title: Jason Webley в Москве
+first_post: 2003-04-29 19:49
+last_post: 2003-05-01 09:36
+post_count: 3
+posts:
+- id: 12154
+  parent_id: null
+  date: 2003-04-29 19:49
+  poster: Андрей Ордальонов (Андрей PRG)
+  email: peregnoy@mail.ru
+  subject: Jason Webley в Москве
+  deleted: false
+  text: 'Проект ОГИ: 24 мая, сб, 22.00'
+  replies:
+  - id: 12171
+    parent_id: 12154
+    date: 2003-05-01 00:03
+    poster: Greta
+    email: morehemp@mail.ru
+    subject: Так
+    deleted: false
+    text: он уже, кажется, приезжал..?
+    replies:
+    - id: 12178
+      parent_id: 12171
+      date: 2003-05-01 09:36
+      poster: Андрей Ордальонов (Андрей PRG)
+      email: peregnoy@mail.ru
+      subject: И опять приезжает.
+      deleted: false
+      text: Мне по рассылке инфа пришла.

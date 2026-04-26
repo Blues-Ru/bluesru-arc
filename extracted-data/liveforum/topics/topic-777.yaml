@@ -1,0 +1,48 @@
+topic_id: 777
+slug: topic-777
+title: Очень рекомендую...
+first_post: 2003-04-22 09:55
+last_post: 2003-04-23 01:35
+post_count: 4
+posts:
+- id: 11958
+  parent_id: null
+  date: 2003-04-22 09:55
+  poster: Седой Дмитрий (YODES)
+  email: yodes_116@pochtamt.ru
+  subject: Очень рекомендую...
+  deleted: false
+  text: "Snowi White 2002 \"Restless\"\nОчень сильно!!! Как всегда не совсем блюз,\
+    \ не совсем джаз и не рок.\nНо как ЗДЕЛАННО!!!\n И не одной гармошки...\n Радует.\n\
+    С важением Седой. 22,04,2003."
+  replies:
+  - id: 11961
+    parent_id: 11958
+    date: 2003-04-22 11:17
+    poster: Grem
+    email: grems@yandex.ru
+    subject: А  что же это такое..
+    deleted: false
+    text: 'Не блюз, не рок, не джаз... и без гармошки
+
+      Это пурга или метель какая-то:-))))
+
+      Аааа, или фьюзион то бишь...'
+    replies:
+    - id: 11971
+      parent_id: 11961
+      date: 2003-04-22 14:55
+      poster: Egor
+      email: egskor@mail.ru
+      subject: Насколько я знаю...
+      deleted: false
+      text: Snowi White - гитарист, долгое время работавший с Pink Floyd. Интересно
+        было бы послушать его сольные работы.
+  - id: 11988
+    parent_id: 11958
+    date: 2003-04-23 01:35
+    poster: V.Tsubin (VOVAN)
+    email: vts@hotmail.com
+    subject: хороший альбом
+    deleted: false
+    text: Наверное лучший из всего сольного Снуви,хотя на других блюза бывало и по-больше.

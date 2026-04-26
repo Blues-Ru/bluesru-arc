@@ -1,0 +1,55 @@
+topic_id: 4028
+slug: topic-4028
+title: Уф,  дождался :))) Думаю чутьё не подведет :)
+first_post: 2008-06-08 03:33
+last_post: 2008-06-11 17:26
+post_count: 5
+posts:
+- id: 35482
+  parent_id: null
+  date: 2008-06-08 03:33
+  poster: Игорь Г.
+  email: sunny_city@mail.ru
+  subject: Уф,  дождался :))) Думаю чутьё не подведет :)
+  deleted: false
+  text: в понедельник в "Доме У..." редкое явление(что-то вроде падения крупного метеорита)
+    в московской блюзовой тусовке - Серега Бабаев (Туркмения, гитара), да еще и с
+    Димой Казанцевым&Co. Практически уверен что вечер не будет томным :)))
+  replies:
+  - id: 35483
+    parent_id: 35482
+    date: 2008-06-08 03:54
+    poster: Dmitri Kazantsev (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: вечер будет тёмным!
+    deleted: false
+    replies:
+    - id: 35488
+      parent_id: 35483
+      date: 2008-06-10 11:29
+      poster: Игорь Головачев (Игорь Г.)
+      email: sunny_city@mail.ru
+      subject: НЕ УСПЕЛ :((
+      deleted: false
+      text: а так хотелось...
+      replies:
+      - id: 35489
+        parent_id: 35488
+        date: 2008-06-11 10:19
+        poster: Dmitri Kazantsev (Dr. Nick)
+        email: dr.nick@blues.ru
+        subject: а зря
+        deleted: false
+        text: 'было круто
+
+
+          есть тут на сайте статья и фотки )'
+        replies:
+        - id: 35491
+          parent_id: 35489
+          date: 2008-06-11 17:26
+          poster: Игорь Головачев (Игорь Г.)
+          email: sunny_city@mail.ru
+          subject: Да уж догадываюсь.
+          deleted: false
+          text: Одно радует что чутие мое не обмануло.

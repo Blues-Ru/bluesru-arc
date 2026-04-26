@@ -1,0 +1,39 @@
+topic_id: 1639
+slug: topic-1639
+title: Нам бы вот этот заказать. Хотя бы один на всех.
+first_post: 2003-12-05 00:11
+last_post: 2003-12-05 01:12
+post_count: 3
+posts:
+- id: 16108
+  parent_id: null
+  date: 2003-12-05 00:11
+  poster: Дима Казанцев (Dr. Nick)
+  email: dr.nick@blues.ru
+  subject: Нам бы вот этот заказать. Хотя бы один на всех.
+  deleted: false
+  text: 'http://www.fleetwoodmac.net/penguin/albums/bluesdontchange.htm
+
+
+    А то только на гигах и через их сайт - это не серьезно!'
+  replies:
+  - id: 16110
+    parent_id: 16108
+    date: 2003-12-05 00:32
+    poster: Sergei  Kiritchenko (VoID)
+    email: skvoid@mail.ru
+    subject: а что тебе мешает..
+    deleted: false
+    text: заказать через сайт?
+    replies:
+    - id: 16112
+      parent_id: 16110
+      date: 2003-12-05 01:12
+      poster: Дима Казанцев (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: доставка и прочие совковые глупости
+      deleted: false
+      text: я завязал с заказами ОТТУДА. мне не пришло аж 4 посылки с Амазона и я
+        попросил их вернуть деньги. они вернули, но больше я ничего не заказываю.
+        еще много не пришло раньше из ДВД, но деньги я так и не вернул. надоело! тут
+        воруют везде, сукины дети!

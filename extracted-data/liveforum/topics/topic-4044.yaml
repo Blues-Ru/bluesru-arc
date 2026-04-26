@@ -1,0 +1,92 @@
+topic_id: 4044
+slug: topic-4044
+title: блюзовая сатира :)
+first_post: 2008-07-03 16:06
+last_post: 2008-07-05 14:27
+post_count: 9
+posts:
+- id: 35535
+  parent_id: null
+  date: 2008-07-03 16:06
+  poster: Dmitri Kazantsev (Dr. Nick)
+  email: dr.nick@blues.ru
+  subject: блюзовая сатира :)
+  deleted: false
+  text: 'http://www.youtube.com/watch?v=ke5Qm02MhEU
+
+
+    Мартин Малл :)'
+  replies:
+  - id: 35536
+    parent_id: 35535
+    date: 2008-07-03 17:24
+    poster: Старый Майор
+    email: gypsy@mail.ru
+    subject: Дима, он очень быстро тараторит ))
+    deleted: false
+    text: "Не все ещё советские люди свободно владеют нерусским языком!\nЯ не все\
+      \ его шутки юмора успеваю понять, а два раза переслушивать его ботву лениво..\
+      \ \nТы это.. конспект его шуток привёл бы для тех, кто в танке."
+    replies:
+    - id: 35537
+      parent_id: 35536
+      date: 2008-07-03 17:39
+      poster: Dmitri Kazantsev (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: да брось
+      deleted: false
+      text: 'там всё прозрачно :)
+
+
+        особенно про тощих британских парней :)'
+      replies:
+      - id: 35538
+        parent_id: 35537
+        date: 2008-07-03 17:55
+        poster: Старый Майор
+        email: gypsy@mail.ru
+        subject: Дима, ну серьёзно ))
+        deleted: false
+        text: "Я плохо на слух воспринимаю бла-бла. \nИзвините, за границей не жил,\
+          \ и с вероятным противником редко общался.\n\nТак что там про тощих британских\
+          \ парней?"
+        replies:
+        - id: 35539
+          parent_id: 35538
+          date: 2008-07-04 02:06
+          poster: Старый Майор
+          email: gypsy@mail.ru
+          subject: Казанцев - толстый сноб!
+          deleted: false
+          replies:
+          - id: 35540
+            parent_id: 35539
+            date: 2008-07-04 08:26
+            poster: Dmitri Kazantsev (Dr. Nick)
+            email: dr.nick@blues.ru
+            subject: сам дурак
+            deleted: false
+            replies:
+            - id: 35541
+              parent_id: 35540
+              date: 2008-07-05 05:46
+              poster: Старый Майор
+              email: gypsy@mail.ru
+              subject: Казанцев - сам дурак )))
+              deleted: false
+              replies:
+              - id: 35542
+                parent_id: 35541
+                date: 2008-07-05 10:25
+                poster: Dmitri Kazantsev (Dr. Nick)
+                email: dr.nick@blues.ru
+                subject: иди учи язык
+                deleted: false
+                replies:
+                - id: 35544
+                  parent_id: 35542
+                  date: 2008-07-05 14:27
+                  poster: Старый Майор
+                  email: gypsy@mail.ru
+                  subject: Ацтань занудо!
+                  deleted: false

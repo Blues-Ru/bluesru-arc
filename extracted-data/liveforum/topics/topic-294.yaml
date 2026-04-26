@@ -1,0 +1,82 @@
+topic_id: 294
+slug: topic-294
+title: предварительно от Аллигатор
+first_post: 2002-08-21 16:38
+last_post: 2002-08-22 19:09
+post_count: 7
+posts:
+- id: 7023
+  parent_id: null
+  date: 2002-08-21 16:38
+  poster: vr  (Stone Crazy)
+  email: volodya@blues.ru
+  subject: предварительно от Аллигатор
+  deleted: false
+  text: "http://www.alligator.com/ontour/custom.cfm?col=Venue&val=Blues%20Festival\n\
+    \n----------------------------------------------------------------------\nNov.\
+    \ 5, 2002    Lil' Ed & The Blues Imperials    Blues Festival    Moscow, RUSSIA\
+    \     \n----------------------------------------------------------------------\n\
+    Nov. 5, 2002    C.J. Chenier    Blues Festival    Moscow, RUSSIA     \n----------------------------------------------------------------------\n\
+    Nov. 6, 2002    Lil' Ed & The Blues Imperials    Blues Festival    Moscow, RUSSIA\
+    \     \n----------------------------------------------------------------------\n\
+    Nov. 6, 2002    C.J. Chenier    Blues Festival    Moscow, RUSSIA     \n----------------------------------------------------------------------\n\
+    Nov. 7, 2002    C.J. Chenier    Blues Festival    Moscow, RUSSIA     \n---------------------------------------------------------------------\
+    \ \nNov. 9, 2002    Lil' Ed & The Blues Imperials    Blues Festival    Rostov,\
+    \ RUSSIA     \n----------------------------------------------------------------------\n\
+    Nov. 9, 2002    C.J. Chenier    Blues Festival    Rostov, Russia     \n----------------------------------------------------------------------\n\
+    Nov. 12, 2002    Lil' Ed & The Blues Imperials    Blues Festival    St. Petersburg,\
+    \ RUSSIA     \n----------------------------------------------------------------------\n\
+    Nov. 12, 2002    C.J. Chenier    Blues Festival    St. Petersburg, RUSSIA"
+  replies:
+  - id: 7027
+    parent_id: 7023
+    date: 2002-08-21 16:57
+    poster: Федор Романенко (fedor)
+    email: fedor@blues.ru
+    subject: Супер!
+    deleted: false
+    text: Может это и не самые любимые вами музыканты, но будет здорово!
+    replies:
+    - id: 7043
+      parent_id: 7027
+      date: 2002-08-21 22:08
+      poster: Дима Казанцев (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: А точно все состоится?
+      deleted: false
+      text: Или как в прошлые разы?
+      replies:
+      - id: 7051
+        parent_id: 7043
+        date: 2002-08-21 23:31
+        poster: Федор Романенко (fedor)
+        email: fedor@blues.ru
+        subject: Предварительно...
+        deleted: false
+        text: Это все предварительная и неподтвержденная информация. Но, если переживем
+          11 сентября без происшествий, то почему бы ему и не состояться?
+        replies:
+        - id: 7053
+          parent_id: 7051
+          date: 2002-08-22 01:32
+          poster: Дима Казанцев (Dr. Nick)
+          email: dr.nick@blues.ru
+          subject: Будем надеяться
+          deleted: false
+          text: что все выйдет на этот раз.
+      - id: 7066
+        parent_id: 7043
+        date: 2002-08-22 16:07
+        poster: Александр Мальчевский (Tonny)
+        email: heavyfuel@mtu-net.ru
+        subject: A chto eto budet?
+        deleted: false
+        text: Pardon, ja ne v kurse...
+        replies:
+        - id: 7076
+          parent_id: 7066
+          date: 2002-08-22 19:09
+          poster: Дима Казанцев (Dr. Nick)
+          email: dr.nick@blues.ru
+          subject: А ты читай выше
+          deleted: false

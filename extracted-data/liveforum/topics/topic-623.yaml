@@ -1,0 +1,40 @@
+topic_id: 623
+slug: topic-623
+title: чепуха, а приятно....
+first_post: 2003-02-15 04:11
+last_post: 2003-02-15 21:43
+post_count: 3
+posts:
+- id: 10567
+  parent_id: null
+  date: 2003-02-15 04:11
+  poster: Andrei V. Evdokimov (evdokimov)
+  email: evdokimov@blues.ru
+  subject: чепуха, а приятно....
+  deleted: false
+  text: 'вот есть сайт (http://www.analizfamilii.ru/trade.php3), который дает словам
+    (в принципе - названиям фирмы и т.п.) фоносемантический анализ. так вот, слово
+    блюз на слух, оказывается, вот какое: хорошее, красивое, яркое, радостное, лёгкое.
+
+    хехе...'
+  replies:
+  - id: 10568
+    parent_id: 10567
+    date: 2003-02-15 11:37
+    poster: Дима Казанцев (Казан)
+    email: dr.nick@blues.ru
+    subject: Да, сайт клевый ;)
+    deleted: false
+    text: 'Мы его часто по работе используем при создании новых брендов ;)
+
+      БЛЮЗ - хороший бренд!'
+    replies:
+    - id: 10570
+      parent_id: 10568
+      date: 2003-02-15 21:43
+      poster: Ded Morozzz
+      email: morozzz_ded@mail.ru
+      subject: Оказывается, что...
+      deleted: false
+      text: '... фамилия ХРЮКИН должна вызывать у человека нежные, женственные, тихое-слабые
+        ассоциации :)'

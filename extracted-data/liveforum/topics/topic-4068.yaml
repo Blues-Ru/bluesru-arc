@@ -1,0 +1,31 @@
+topic_id: 4068
+slug: topic-4068
+title: Ушел Phil Guy
+first_post: 2008-08-21 09:37
+last_post: 2008-08-29 13:46
+post_count: 3
+posts:
+- id: 35686
+  parent_id: null
+  date: 2008-08-21 09:37
+  poster: Muddy Lives
+  email: mlives_6@hotmail.com
+  subject: Ушел Phil Guy
+  deleted: false
+  text: Умер вчера замечательный блюзовый музыкант и брат Бадди.  Раком болел.  :(
+  replies:
+  - id: 35687
+    parent_id: 35686
+    date: 2008-08-21 16:11
+    poster: Jumpin' Jack Flash
+    email: vbn bn bn b
+    subject: RIP
+    deleted: false
+  - id: 35704
+    parent_id: 35686
+    date: 2008-08-29 13:46
+    poster: mvstudio
+    email: mixersound@mail.ru
+    subject: PHIL R.I.P.
+    deleted: false
+    text: http://rapidshare.com/files/140363214/PHIL_GUY_LIVE_MOSCOW_03-2007.mp3

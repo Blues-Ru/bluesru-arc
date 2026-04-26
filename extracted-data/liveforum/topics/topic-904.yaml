@@ -1,0 +1,53 @@
+topic_id: 904
+slug: topic-904
+title: Новый альбом Van Morrison
+first_post: 2002-05-25 14:18
+last_post: 2002-05-28 13:39
+post_count: 5
+posts:
+- id: 4665
+  parent_id: null
+  date: 2002-05-25 14:18
+  poster: Cpt.Beefheart
+  email: rhythmeen1911@inbox.ru
+  subject: Новый альбом Van Morrison
+  deleted: false
+  text: Кто его слышал? Стоит ли его покупать? С Джоном Ли (Хукером) альбомы Моррисона
+    - это круто! А так - хорошая музыка - кто слышал - есть там блюз?
+  replies:
+  - id: 4670
+    parent_id: 4665
+    date: 2002-05-25 17:04
+    poster: Groza
+    email: ivan@hotmail.com
+    subject: альбом
+    deleted: false
+    text: Отличный альбом!
+    replies:
+    - id: 4671
+      parent_id: 4670
+      date: 2002-05-25 18:01
+      poster: Мормоко
+      email: may@cool.ru
+      subject: альбом - 2
+      deleted: false
+      text: Может быть, отличный. Но это не ответ
+  - id: 4672
+    parent_id: 4665
+    date: 2002-05-25 18:07
+    poster: Дима Казанцев (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: Новый пока не слышал
+    deleted: false
+    text: но все "старые" нужны.
+    replies:
+    - id: 4746
+      parent_id: 4672
+      date: 2002-05-28 13:39
+      poster: Cpt.Beefheart
+      email: rhythmeen1911@inbox.ru
+      subject: Старые?
+      deleted: false
+      text: А какого года диск Philosopher Stone, не знаешь? ИМХО, квинтэссенция его
+        творчества. Он с 197* года постоянно записывался с Джоном Ли Хукером, и, как
+        я помню, с Canned Heat тоже. Он записал новый альбом, и в США уже был релиз.

@@ -1,0 +1,33 @@
+topic_id: 1698
+slug: topic-1698
+title: Блюз Литература
+first_post: 2003-12-19 12:05
+last_post: 2003-12-22 21:25
+post_count: 3
+posts:
+- id: 16353
+  parent_id: null
+  date: 2003-12-19 12:05
+  poster: Zhendoz
+  email: Zhendoz@mail.ru
+  subject: Блюз Литература
+  deleted: false
+  text: Не подскажет ли кто-нибудь, есть ли в сети художественная литература по блюзовой
+    тематике? Что-то вроде фильма Crossroads только в текстовом варианьте. Спасибо.
+  replies:
+  - id: 16357
+    parent_id: 16353
+    date: 2003-12-19 15:29
+    poster: Lars
+    email: lars@list.ru
+    subject: Керуак "В дороге" - в некотором смысле, тоже блюз.. :)
+    deleted: false
+  - id: 16416
+    parent_id: 16353
+    date: 2003-12-22 21:25
+    poster: wheel
+    email: wheel
+    subject: Керуак "В дороге" скорее джазовая импровизация, советую...
+    deleted: false
+    text: Есть такой старый американский писатель Роналд Фэр, он пишет о неграх и
+      иногда о блюзе.

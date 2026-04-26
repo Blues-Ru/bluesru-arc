@@ -1,0 +1,43 @@
+topic_id: 673
+slug: topic-673
+title: Green
+first_post: 2003-03-12 00:50
+last_post: 2003-03-12 01:06
+post_count: 3
+posts:
+- id: 10961
+  parent_id: null
+  date: 2003-03-12 00:50
+  poster: Дима Казанцев (Казан)
+  email: dr.nick@blues.ru
+  subject: Green
+  deleted: false
+  text: 'http://www.fleetwoodmac.net/penguin/albums/bluesdontchange.htm
+
+    Оказывается был еще один диск, а я и не знал.
+
+
+    Вот сижу и слушаю новый. Хорошая музыка. Даже удивительно что это 2003 год. Вторая
+    вещь звучала как из 70-х. Удивительная атмосфера.'
+  replies:
+  - id: 10962
+    parent_id: 10961
+    date: 2003-03-12 00:52
+    poster: Дима Казанцев (Казан)
+    email: dr.nick@blues.ru
+    subject: Ага...
+    deleted: false
+    text: '"Blues Don''t Change" можно было преобрести ТОЛЬКО на концертах Питера!
+
+      Вот Вам и редкость.
+
+      Так уже делал Рой Харпер с одним альбомом, но потом все же переиздал его на
+      СиДи и сделал доступным для всех.'
+  - id: 10963
+    parent_id: 10961
+    date: 2003-03-12 01:06
+    poster: Дима Казанцев (Казан)
+    email: dr.nick@blues.ru
+    subject: Забыл сказать
+    deleted: false
+    text: Грин-то с бонусом - EP с четыремя старыми вещами периода ФМ.

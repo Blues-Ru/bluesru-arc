@@ -1,0 +1,43 @@
+topic_id: 2451
+slug: topic-2451
+title: Господа модераторы, на Мин Блэк Кэт блюзе ссылки не работают :((
+first_post: 2005-02-27 21:28
+last_post: 2005-03-08 18:54
+post_count: 4
+posts:
+- id: 20593
+  parent_id: null
+  date: 2005-02-27 21:28
+  poster: Cowboy Pete
+  email: cousins@yandex .ru
+  subject: Господа модераторы, на Мин Блэк Кэт блюзе ссылки не работают :((
+  deleted: false
+  text: Блайнд Вилли Мактелла хотел послушать :-((
+  replies:
+  - id: 20594
+    parent_id: 20593
+    date: 2005-02-28 16:42
+    poster: Федор Романенко (fedor)
+    email: fedor@blues.ru
+    subject: Это к Пескарю
+    deleted: false
+    text: blackcat@blues.ru
+  - id: 20608
+    parent_id: 20593
+    date: 2005-03-03 02:05
+    poster: Михаил Бирюков (nECKAPb)
+    email: blackcat@blues.ru
+    subject: 1000 извинений
+    deleted: false
+    text: 'Теперь поправлено.
+
+      Welcome и спасибо за сигнал.'
+    replies:
+    - id: 20618
+      parent_id: 20608
+      date: 2005-03-08 18:54
+      poster: Cowboy Pete
+      email: cousins@yandex.ru
+      subject: Не за что :-)
+      deleted: false
+      text: Вам спасибо :-))

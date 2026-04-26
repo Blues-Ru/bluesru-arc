@@ -1,0 +1,34 @@
+topic_id: 2674
+slug: topic-2674
+title: экстренная новость о фестивале 31 июля
+first_post: 2005-07-30 13:13
+last_post: 2005-08-01 17:41
+post_count: 3
+posts:
+- id: 22137
+  parent_id: null
+  date: 2005-07-30 13:13
+  poster: Andrei V. Evdokimov (evdokimov)
+  email: evdokimov@blues.ru
+  subject: экстренная новость о фестивале 31 июля
+  deleted: false
+  text: 'Место проведения фестиваля переносится из Крылатского в парк "Лефортово"
+    (М."Байманская")... то есть, туда же, где он проходил в прошлом году.
+
+
+    ПРОЧТИ И ПЕРЕДАЙ ТОВАРИЩУ!'
+  replies:
+  - id: 22140
+    parent_id: 22137
+    date: 2005-07-31 01:23
+    poster: Руслан Чифуров ()
+    email: chifuroff@inbox.ru
+    subject: А будут ли изменения в программе?
+    deleted: false
+  - id: 22160
+    parent_id: 22137
+    date: 2005-08-01 17:41
+    poster: Игорь Г
+    email: sunny_city@mail.ru
+    subject: Во,блин,а я всё  Крылатское в потемках исколесил по незнанию
+    deleted: false

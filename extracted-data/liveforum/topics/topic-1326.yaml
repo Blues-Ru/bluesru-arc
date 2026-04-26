@@ -1,0 +1,69 @@
+topic_id: 1326
+slug: topic-1326
+title: Внимание! Всем прочитать!   vvv
+first_post: 2003-08-16 03:11
+last_post: 2003-08-18 16:03
+post_count: 7
+posts:
+- id: 13623
+  parent_id: null
+  date: 2003-08-16 03:11
+  poster: Федор Романенко (fedor)
+  email: fedor@blues.ru
+  subject: Внимание! Всем прочитать!   vvv
+  deleted: false
+  text: '... это все, что я могу сделать ....'
+  replies:
+  - id: 13624
+    parent_id: 13623
+    date: 2003-08-16 07:58
+    poster: Malcolm Ray Redriver
+    email: lifebythedrop@yandex.ru
+    subject: Извините за дуратский вопрос
+    deleted: false
+    text: А что читать-то?
+  - id: 13625
+    parent_id: 13623
+    date: 2003-08-16 12:12
+    poster: Юрий Каверкин (Gekko)
+    email: kaverkin@rol.ru
+    subject: Это было крайне интересно....Я бы еще почитал...
+    deleted: false
+  - id: 13662
+    parent_id: 13623
+    date: 2003-08-18 13:01
+    poster: (Grem)
+    email: sergei.sergeev@emersonprocess.ru
+    subject: Это типа шифровка какая-то...
+    deleted: false
+    text: Это типа шифровка какая-то..."Над всей Испанией -безоблачное небо".
+    replies:
+    - id: 13666
+      parent_id: 13662
+      date: 2003-08-18 15:52
+      poster: Федор Романенко (fedor)
+      email: fedor@blues.ru
+      subject: Ребус
+      deleted: false
+      text: Это был слишком сложный ребус. vvv - это стрелки вниз, а ^^^ - стрелки
+        вверх. Я призывал прочитать сообщение между стрелками... ;)
+  - id: 13667
+    parent_id: 13623
+    date: 2003-08-18 15:59
+    poster: Игорь Головачев (Игорь Г.)
+    email: sunny_city@mail.ru
+    subject: Да-а, видно хорошо прИнял :). Эка как в три-то часа ночи "завернул".Лихо
+      однако :))
+    deleted: false
+    text: А если чуть серьёзней,то по-моему VVV это три стрелочки вниз.Если глянуть
+      по форуму то чуть ниже явно просматриваются и три стрелочки вверх. А может и
+      нет ;)
+    replies:
+    - id: 13668
+      parent_id: 13667
+      date: 2003-08-18 16:03
+      poster: Игорь Головачев (Игорь Г.)
+      email: sunny_city@mail.ru
+      subject: Опередил меня Федор с разгадкой.
+      deleted: false
+      text: Отвлекают.Собаки! :)

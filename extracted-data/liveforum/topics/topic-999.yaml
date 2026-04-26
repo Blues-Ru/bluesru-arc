@@ -1,0 +1,51 @@
+topic_id: 999
+slug: topic-999
+title: вопрос
+first_post: 2002-04-03 14:21
+last_post: 2002-04-03 15:38
+post_count: 4
+posts:
+- id: 3298
+  parent_id: null
+  date: 2002-04-03 14:21
+  poster: Veteran
+  email: рор@synergy.ru
+  subject: вопрос
+  deleted: false
+  text: Где можно найти текст "Who's Been Talking" Howlin' Wolf?
+  replies:
+  - id: 3299
+    parent_id: 3298
+    date: 2002-04-03 14:25
+    poster: Dima Krasivov (Dima)
+    email: dima@blues.ru
+    subject: В интернете...
+    deleted: false
+    text: "My baby caught the train, left me all alone \nMy baby caught the train,\
+      \ left me all alone \nShe knows I love her, she doin' me wrong \nMy baby bought\
+      \ the ticket, long as her right arm \nMy baby bought the ticket, long as my\
+      \ right arm \nShe says she's gonna ride, long as I been from home \n\nWell who\
+      \ been talking, everything that I do \nWell who been talking, everything that\
+      \ I do \nWell you is my baby, I hate to lose \n\nWell good bye baby, hate to\
+      \ see you go \nWell good bye baby, hate to see you go \nYou know I love you,\
+      \ I'm the causin of it all \nI'm the causin' of it all \nI'm the causin' of\
+      \ it all \nI'm the causin' of it all \nI'm the causin' of it all \n\nby Chester\
+      \ Burnett a.k.a. Howlin' Wolf"
+    replies:
+    - id: 3300
+      parent_id: 3299
+      date: 2002-04-03 14:38
+      poster: Veteran
+      email: рор@synergy.ru
+      subject: вопрос
+      deleted: false
+      text: 'Большое спасибо.
+
+        Еще два текста если возможно:"Mr.Big" и "Chill Out"'
+  - id: 3309
+    parent_id: 3298
+    date: 2002-04-03 15:38
+    poster: AlexIV
+    email: evergreens@mail.ru
+    subject: Аппетит приходит во время еды :-))   (-)
+    deleted: false

@@ -1,0 +1,39 @@
+topic_id: 2635
+slug: topic-2635
+title: а ещё...
+first_post: 2005-06-29 06:04
+last_post: 2005-06-29 18:25
+post_count: 3
+posts:
+- id: 21886
+  parent_id: null
+  date: 2005-06-29 06:04
+  poster: Дмитрий Казанцев (Dr. Nick)
+  email: dr.nick@blues.ru
+  subject: а ещё...
+  deleted: false
+  text: '24 июня стукнуло 34 года Диме Ветерану. Его ДР отмечали на сцене в кафе Блюз
+    (где-то далеко на юге Москвы). Но такому человеку и музыканту стоит оказать больше
+    внимания, так что приходите сегодня в БиБиКинг и дарите ему радость и подарки
+    :)
+
+
+    Димон, с Днём Рождения!'
+  replies:
+  - id: 21897
+    parent_id: 21886
+    date: 2005-06-29 15:14
+    poster: John John (John)
+    email: ssy@ac.com.ru
+    subject: ура три раза
+    deleted: false
+    text: 'Ветерану огромный респект по-жизни и мои поздравления.
+
+      Ох! сегодня что-то в ббк произойдёт. ребята готовтесь.'
+  - id: 21904
+    parent_id: 21886
+    date: 2005-06-29 18:25
+    poster: AlexIV
+    email: alex@beatween.ru
+    subject: Присоединяюсь к поздравлениям!
+    deleted: false

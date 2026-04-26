@@ -1,0 +1,48 @@
+topic_id: 4143
+slug: topic-4143
+title: Совсем хреновая новость.
+first_post: 2008-12-03 17:59
+last_post: 2008-12-05 19:14
+post_count: 4
+posts:
+- id: 35958
+  parent_id: null
+  date: 2008-12-03 17:59
+  poster: Andrei V. Evdokimov (evdokimov)
+  email: evdokimov@blues.ru
+  subject: Совсем хреновая новость.
+  deleted: false
+  text: 'Мне этот ваш баррак – поровну – карамельный негр.
+
+    Но я знаю, что для Одетты избрание президента было воплощением мечты. Она должна
+    была спеть на инаугурации.'
+  replies:
+  - id: 35959
+    parent_id: 35958
+    date: 2008-12-03 20:46
+    poster: myshelove
+    email: wap-eye@yandex.ru
+    subject: ///
+    deleted: false
+    text: R.I.P.
+  - id: 35960
+    parent_id: 35958
+    date: 2008-12-04 13:19
+    poster: Игорь Г.
+    email: sunny_city@mail.ru
+    subject: Наш баррак - это сильно :))))
+    deleted: false
+    text: Речь,я так понимаю, о баракабаме.
+  - id: 35962
+    parent_id: 35958
+    date: 2008-12-05 19:14
+    poster: Эльдар
+    email: Эльдар
+    subject: Умерла легенда американской фолк-музыки Одетта
+    deleted: false
+    text: 'Известная американская певица Одетта скончалась в США в возрасте 77 лет.
+      Голос Одетты называли одним из самых мощных в мире, а ее манера пения неоднократно
+      заимствовалась молодым поколением музыкантов. На счету певицы – около 30 успешных
+      пластинок, и несколько номинаций на премию «Грэмми».
+
+      http://today.rambler.ru/Russia/music/1460983/'

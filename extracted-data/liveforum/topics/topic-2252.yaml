@@ -1,0 +1,54 @@
+topic_id: 2252
+slug: topic-2252
+title: если кто в курсе.
+first_post: 2004-09-29 10:06
+last_post: 2004-12-27 17:04
+post_count: 5
+posts:
+- id: 19362
+  parent_id: null
+  date: 2004-09-29 10:06
+  poster: John
+  email: ssy@ac.com.ru
+  subject: если кто в курсе.
+  deleted: false
+  text: 'проясните плиз, что за проект Omar Itcovici & The Boogie Bottles?
+
+    Кто такой Омар более или менее понятно, интересует кто такие The Boogie Bottles?'
+  replies:
+  - id: 19364
+    parent_id: 19362
+    date: 2004-09-29 11:53
+    poster: Федор Романенко (fedor)
+    email: fedor@blues.ru
+    subject: Омар
+    deleted: false
+    text: The Boogie Bottles - Новосибирская группа, с которой долго играл Омар, пока
+      жил и работал в Новосибирске. Он ими был весьма доволен ;)
+    replies:
+    - id: 19368
+      parent_id: 19364
+      date: 2004-09-30 09:42
+      poster: John
+      email: ssy@ac.com.ru
+      subject: спасибо Фёдор.
+      deleted: false
+  - id: 19378
+    parent_id: 19362
+    date: 2004-10-02 01:30
+    poster: Vadim (VK)
+    email: e-kvant@mail.ru
+    subject: в "Доме у дороги"..
+    deleted: false
+    text: они  выступили прекрасно, легко, ярко, от души, излучая энергетику и хорошее
+      настроение. Омар - классный музыкант и обаятельный человек. И великолепно исполнил
+      слайд стаканом, как-то по-чикагски :). Правда, количество слушателей в зале
+      было почти равно количеству музыкантов, неловко и жаль...
+  - id: 20068
+    parent_id: 19362
+    date: 2004-12-27 17:04
+    poster: ян
+    email: director@boogiebottles.com
+    subject: да
+    deleted: false
+    text: очень интересно было увидеть ваши рассуждения на тему Омар и  Boogie Bottles

@@ -1,0 +1,122 @@
+topic_id: 793
+slug: topic-793
+title: на Болеро
+first_post: 2003-04-25 21:44
+last_post: 2003-04-28 17:07
+post_count: 10
+posts:
+- id: 12065
+  parent_id: null
+  date: 2003-04-25 21:44
+  poster: Сергей Иванов (serge_ivanov)
+  email: serge_ivanov@hotmail.com
+  subject: на Болеро
+  deleted: false
+  text: 'куча дешевых дисков непонятного происхождения по блюзу и джазу
+
+    типа этого - http://www.bolero.ru/index.php?level=4&pid=4245905
+
+    кто нибудь знает - что это?'
+  replies:
+  - id: 12069
+    parent_id: 12065
+    date: 2003-04-26 01:02
+    poster: Дима Казанцев (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: Вот такие тематические сборники ;)
+    deleted: false
+    text: Не так уж и дешево для подобный изданий.
+    replies:
+    - id: 12074
+      parent_id: 12069
+      date: 2003-04-26 08:24
+      poster: Сергей Иванов (serge_ivanov)
+      email: serge_ivanov@hotmail.com
+      subject: оказывается это продают не только у нас
+      deleted: false
+      text: 'www.ekz.de/files/SilverLine.pdf.pdf
+
+        Серия - Past Perfect Silver Line'
+      replies:
+      - id: 12083
+        parent_id: 12074
+        date: 2003-04-26 19:00
+        poster: Сергей Иванов (serge_ivanov)
+        email: serge_ivanov@hotmail.com
+        subject: оказалось
+        deleted: false
+        text: 'Past Perfect - лейбл такой. Даже на Allmusic есть.
+
+          Интересно, кто там покупает такие сидюки за 4-7$ и как эти "бюджетные" лейблы
+          живут?'
+        replies:
+        - id: 12088
+          parent_id: 12083
+          date: 2003-04-27 11:17
+          poster: VoID (Sergei Kiritchenko)
+          email: skvoid@mail.ru
+          subject: Не совсем так
+          deleted: false
+          text: "Те озоновские диски выпущены другим бюджетным лейблом TIM (http://www.timcompany.com/timcompany/),\
+            \ который в свою очередь переиздает многие диски бюджетного Past Perfect'а.\
+            \ \nИздания TIM в принципе стоят своих денег (на Озоне, понятно дело,\
+            \ цена слегка завышена) и там бывает многое интересное (и не только с\
+            \ Паст Перфекта). В частности из интересного переиздания Rhino'вской"
+        - id: 12089
+          parent_id: 12083
+          date: 2003-04-27 11:19
+          poster: VoID (Sergei Kiritchenko)
+          email: skvoid@mail.ru
+          subject: Не совсем так
+          deleted: false
+          text: "Те озоновские диски выпущены другим бюджетным лейблом TIM (http://www.timcompany.com/timcompany/),\
+            \ который в свою очередь переиздает многие диски бюджетного Past Perfect'а.\
+            \ \nИздания TIM в принципе стоят своих денег (на Озоне, понятно дело,\
+            \ цена слегка завышена) и там бывает многое интересное (и не только с\
+            \ Паст Перфекта). В частности из интересного - переиздания Rhino'вской\
+            \ коробки Nothing But The Blues и раннего Хукера в 5-ти дисковой серии\
+            \ Hall Of Fame.\nНа Озоне надо покупать осторожно, узнавая о каждом диске\
+            \ - у них там в продаже много никчемных сборников."
+          replies:
+          - id: 12090
+            parent_id: 12089
+            date: 2003-04-27 12:28
+            poster: Сергей Иванов (serge_ivanov)
+            email: serge_ivanov@hotmail.com
+            subject: спасибо за уточнение :-)
+            deleted: false
+            text: 'только это на Болеро
+
+              Посмотрим, какой такой TIM - заказал себе Hopkins Lightnin "Lightnin''s
+              Boogie" ( http://www.bolero.ru/index.php?level=4&pid=4257113 )
+
+              надеюсь что это будет похоже на это - http://www.allmusic.com/cg/amg.dll?p=amg&uid=4:23:38|AM&sql=Apsw67uw020j0'
+        - id: 12105
+          parent_id: 12083
+          date: 2003-04-28 09:42
+          poster: Sergei  Kiritchenko (VoID)
+          email: skvoid@mail.ru
+          subject: Да, конечно, речь о Болеро.ру
+          deleted: false
+          text: '.. вечно путаю озон и болеро :)
+
+            Лайтнинг тот же.'
+          replies:
+          - id: 12107
+            parent_id: 12105
+            date: 2003-04-28 10:31
+            poster: Сергей Иванов (serge_ivanov)
+            email: serge_ivanov@hotmail.com
+            subject: а откуда их берет Болеро, интересно
+            deleted: false
+            text: кто-то же ими торгует. у всех этих инет магазинов склада своего
+              почти нет.
+            replies:
+            - id: 12128
+              parent_id: 12107
+              date: 2003-04-28 17:07
+              poster: Sergei  Kiritchenko (VoID)
+              email: skvoid@mail.ru
+              subject: вопрос собственно к болеро
+              deleted: false
+              text: А вообще у TIM можно заказывать мелким оптом. Может там и берут.

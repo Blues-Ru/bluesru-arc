@@ -1,0 +1,231 @@
+topic_id: 1729
+slug: topic-1729
+title: Интересное фото ;)
+first_post: 2003-12-26 01:35
+last_post: 2003-12-28 17:26
+post_count: 19
+posts:
+- id: 16467
+  parent_id: null
+  date: 2003-12-26 01:35
+  poster: Андрей Ордальонов (Андрей PRG)
+  email: peregnoy@mail.ru
+  subject: Интересное фото ;)
+  deleted: false
+  text: 'Угадайте, кто это. На оборот чур не подсматривать :)
+
+
+    http://www.zoo.ru/Moscow/image.asp?pic=images/s_00034b'
+  replies:
+  - id: 16468
+    parent_id: 16467
+    date: 2003-12-26 02:02
+    poster: Elicaster
+    email: elicaster@mmmmmmail.ru
+    subject: Вы случайно не были в Сочи? А в кино не снимались?
+    deleted: false
+    text: 'Где-то я его видел.
+
+      Кажется в зоопарке (я про того что на плече :-)
+
+      А вот кто тот, с бородой? Не знаю...
+
+      <DIV align=center><IMG align=baseline alt="" border=0 hspace=0 src="http://www.zoo.ru/Moscow/images/s_00034b.jpg"></DIV>'
+    replies:
+    - id: 16469
+      parent_id: 16468
+      date: 2003-12-26 02:24
+      poster: Yuri Kaverkin (Gekko)
+      email: kaverkin@rol.ru
+      subject: Я вот знаю кто этот с  бородой, а вот кто на плече????
+      deleted: false
+      replies:
+      - id: 16472
+        parent_id: 16469
+        date: 2003-12-26 05:09
+        poster: Elicaster
+        email: elicaster@mmmmail.ru
+        subject: На ZZ Top вродь не похож :о)
+        deleted: false
+        text: 'Ну канечно... Вы там, в белокаменной все друг дружку знаете...
+
+          Куда уж нам, азиатам :-)
+
+          Хотя... Есть у меня догадка одна, но боюсь облажаться (а вдруг не он. может
+          оскорбиться :((( неудобно будет...
+
+          Уж лучше промолчу. Погодю когда кто-нибудь признает этого дядьку.
+
+          P.S. На плече у него потомок основателя блюзового лейбла Alligator :-)'
+        replies:
+        - id: 16481
+          parent_id: 16472
+          date: 2003-12-26 14:08
+          poster: baltika
+          email: baltika-rock@yandex.ru
+          subject: Relax!!! Это Я!)))...
+          deleted: false
+          text: '...в смысле - на плече которое....))'
+    - id: 16492
+      parent_id: 16468
+      date: 2003-12-27 01:38
+      poster: Андрей Ордальонов (Андрей PRG)
+      email: peregnoy@mail.ru
+      subject: А что, картинку
+      deleted: false
+      text: я тоже могу сюда вставить? Не понял. Как это?
+      replies:
+      - id: 16496
+        parent_id: 16492
+        date: 2003-12-27 12:19
+        poster: Elicaster
+        email: elicaster@mmmmmmmmail.ru
+        subject: Колись Андрей. Так кто же это?
+        deleted: false
+        text: 'Конечно можешь! Это может каждый.
+
+          Картинка вставляется так:
+
+          <img src="ЗДЕСЬ ПОЛНЫЙ АДРЕС КАРТИНКИ В ИНТЕРНЕТЕ" align="bottom">
+
+          Именно адрес картинки, а не странички, т.е. в данном случае это было
+
+          http://www.zoo.ru/Moscow/images/s_00034b.jpg
+
+          Ну, ещё и такая фишка: можно здесь и гиперссылку разместить. Делается это
+          так:
+
+          <a href="ССЫЛКА">CЛОВО</a>
+
+          Например:
+
+          <a href="http://www.blues.ru/vocabulary.htm">Словарь блюза. Доктор Аграновский.</a>'
+        replies:
+        - id: 16497
+          parent_id: 16496
+          date: 2003-12-27 12:33
+          poster: Андрей Ордальонов (Андрей PRG)
+          email: peregnoy@mail.ru
+          subject: Ну, погодим ещё чуть-чуть..
+          deleted: false
+          text: А за разъяснение пасипа! :)
+        - id: 16499
+          parent_id: 16496
+          date: 2003-12-27 12:51
+          poster: Elicaster
+          email: elicaster@mmmmmmmai.ru
+          subject: Блин! Не получилось :-)
+          deleted: false
+          text: 'Точнее перестарался. Попробуем вот так:
+
+            Картинку вставлять так:
+
+            >img src="ЗДЕСЬ ПОЛНЫЙ АДРЕС КАРТИНКИ В ИНТЕРНЕТЕ" align="bottom"<
+
+            Гиперссылку так:
+
+            >a href="ссылка">слово</a<
+
+            В обоих случаях я перевернул крайние (справа и слева) < и >
+
+            Соответственно, их надо поменять на > и <'
+          replies:
+          - id: 16500
+            parent_id: 16499
+            date: 2003-12-27 12:56
+            poster: Elicaster
+            email: elicaster@mmmmmail.ru
+            subject: Опять лажа :о)
+            deleted: false
+            text: 'Гиперссылка так:
+
+              >a href="ссылка">слово</a<
+
+              Ну, те же дела с крайними < и >'
+      - id: 16502
+        parent_id: 16492
+        date: 2003-12-27 13:13
+        poster: Elicaster
+        email: elicaster@mmmmmmmmmmmmmmmmail.ru
+        subject: И ещё одна попытка
+        deleted: false
+        text: '(a href="ссылка")слово(/a)
+
+          здесь < и > заменены на ( и )'
+  - id: 16485
+    parent_id: 16467
+    date: 2003-12-26 15:31
+    poster: Александр Мальчевский (Tonny)
+    email: heavyfuel@mtu-net.ru
+    subject: Я знаю....
+    deleted: false
+    text: Достоевский!
+  - id: 16508
+    parent_id: 16467
+    date: 2003-12-27 19:36
+    poster: Iguana
+    email: iguana@zoo.ru
+    subject: Кто-кто...
+    deleted: false
+    text: Фролов, замдир Московского зоопарка, он же - басист группы Wrong Way Blues
+      Band
+    replies:
+    - id: 16510
+      parent_id: 16508
+      date: 2003-12-28 01:11
+      poster: Yuri Kaverkin (Gekko)
+      email: kaverkin@rol.ru
+      subject: Уточнение - группа называется "The Wrong Way"
+      deleted: false
+      replies:
+      - id: 16517
+        parent_id: 16510
+        date: 2003-12-28 12:03
+        poster: Iguana
+        email: iguana@zoo.ru
+        subject: Извините, я не нарочно. :) Вам - респект. :)
+        deleted: false
+    - id: 16513
+      parent_id: 16508
+      date: 2003-12-28 06:20
+      poster: Elicaster
+      email: elicaster@mmmmmmmmail.ru
+      subject: А в какой группе играет
+      deleted: false
+      text: 'А в какой группе играет директор Московского зоопарка?
+
+        КСТАТИ! Где-то лет 20 назад у нас во дворе была свадьба (по традиции человек
+        на 200) и "особым гостем" объявили как раз таки директора Московского зоопарка.
+
+        Как говориться, "на безгенералье и директор зоопарка - генерал".'
+      replies:
+      - id: 16516
+        parent_id: 16513
+        date: 2003-12-28 11:58
+        poster: Yuri Kaverkin (Gekko)
+        email: kaverkin@rol.ru
+        subject: Директор Московского Зоопарка играет в той же команде,   что  и директор
+          Ашхабадского зоопарка :-) Группа такая -на 200 человек , название "Почетные
+          Гости"
+        deleted: false
+        replies:
+        - id: 16518
+          parent_id: 16516
+          date: 2003-12-28 12:24
+          poster: Андрей Ордальонов (Андрей PRG)
+          email: peregnoy@mail.ru
+          subject: 'Вопрос из зала:'
+          deleted: false
+          text: Скажите, пожалуйста, когда ожидается московская гастроль коллектива
+            под скромным названием "Почётные гости"? ;)
+          replies:
+          - id: 16526
+            parent_id: 16518
+            date: 2003-12-28 17:26
+            poster: Elicaster
+            email: elicaster@mmmmail.ru
+            subject: Ответ из банкетного зала :-)
+            deleted: false
+            text: У них сейчас как раз по столицам бывших союзных республик большое
+              турне "Pochёtnыe Гosti Бig Banд - Generalы Tour". Работают на больших
+              банкетах и свадьбах :о)

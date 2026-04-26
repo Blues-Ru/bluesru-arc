@@ -1,0 +1,125 @@
+                         
+                    Life Without You
+
+                 by Stevie Ray Vaughan
+              from his album "Soul to Soul"
+
+by J.C.T. Kelly  jck7u@virginia.edu
+
+PRELIMINARY NOTES:
+SRV tuned down one half-step, so his E, A, D, G, B and E 
+strings were at Eb, Ab, Gb, Gb, Db, and Eb, respectively.  
+The chords listed here take this into account... that is, 
+you must lower them all by one half-step or tune your guitar 
+down by a half-step in order to duplicate the pitches on his 
+recording.
+
+STYLISTIC NOTES:  This song, more than any other (I think), 
+shows the influence that Jimi Hendrix had on SRV.  So, 
+before you play this song, I recommend that you do a little 
+outside listening, specifically a lot of Hendrix, preferably 
+"Little Wing" and "Bold as Love" in order to get the feel of 
+this tune.  You might also try listening to SRV's cut of 
+"Little Wing."  It would be possible for me to tab out all 
+of the little intricacies of the tune, but there's nothing 
+*special* in it... that is, these little licks are all over 
+Stevie Ray's and Jimi's tunes.  [Note:  For a more 
+contemporary example of these licks in action, listen to 
+Pearl Jam's "Yellow Leadbetter" (sp?)].
+
+Anyway, here's my transcription of the tune (Please forgive 
+any lyric mistakes I have made).  Enjoy!  (April '95)
+
+TRANSCRIPTION NOTES:
+Since there are three distinctive voicings of the E chord 
+used in this song, I've listed all three of them and 
+identified them separately as E1, E2 and E3.  These names 
+have no meaning outside of this transcription:  these chords 
+are all E major chords, but for this, they should be played 
+in the voicings I indicate.
+
+(Chords are listed in order of appearance):
+
+           String
+_____
+Chord\ 6  5  4  3  2  1
+     | 
+E1:    x  x  x  4  5  4
+A:     5  7  7  6  5  5
+G#m:   4  6  6  4  4  4
+F#m:   2  4  4  2  2  2
+B:     7  9  9  8  7  7
+C:     8 10 10  9  8  8
+C#:    9 11 11 10  9  9
+D:    10 12 12 11 10 10
+E2:    x  7  9  9  9  7
+F:     1  3  3  2  1  1
+E3:    0  2  2  1  0  0
+D#:   11 13 13 12 11 11
+A#:    6  8  8  7  6  6
+G#     4  6  6  5  4  4
+G:     3  5  5  4  3  3
+E7+9:  0  7  6  7  8 (0)
+
+
+INTRO (long and drawn out, with only two chords):
+
+A    F#m
+
+
+BODY:
+
+E1  E1    A              A   G#m          F#m
+Oh, hello baby, tell me, how high have you been
+
+    E1     A                    G#m  F#m
+We all have missed you, and the...      way you grin
+
+E1  E1     A            A  B  C   C#
+Day is necessary, every no-ow and then.
+
+                   D   D      C#   C     B
+The sun could move on, givin' life back again...  aaah
+
+B   B   B   B  A   A   B   C  C#
+Fly on, fly on,    fly on, my friend.
+
+    D                 E2 [organ: E, then E7]
+Go on...    live again, love again.
+
+E1  E1    A        A  G#m        F#m
+Day after day, ni-ight    after night
+
+E1    E1     A
+Suddenly singin', every minute
+
+       A G#m   F#m
+As the years go   passin' by....  by, by, by...
+
+F#m  F    E3 D#  D             D    C#   C  B
+Long look in the mirror, we've come face to face.
+
+B   A#  A   G#  G
+Wishin' all the love... we took for granted
+
+G     F#   F       E7+9
+Lord, we'd have today....   aaahhh  aaahhh
+
+E1   E1     A                 A G#m F#m
+Life without you, all the love...       we passed our way
+
+    E1 E1       A
+The angels have waited for so long...
+
+    G#m  F#m
+Now they have their way...  take your place
+
+
+CODA (Repeat and fade out while soloing long and slow):
+
+A      F#m
+--
+--------------------------------------
+|  J.C.T. Kelly  jck7u@virginia.edu  |
+--------------------------------------
+

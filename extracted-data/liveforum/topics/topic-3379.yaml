@@ -1,0 +1,43 @@
+topic_id: 3379
+slug: topic-3379
+title: Blind Melon Chitlin'
+first_post: 2006-08-26 15:33
+last_post: 2006-08-27 10:17
+post_count: 4
+posts:
+- id: 28489
+  parent_id: null
+  date: 2006-08-26 15:33
+  poster: Dmitri Kazantsev (Dr. Nick)
+  email: dr.nick@blues.ru
+  subject: Blind Melon Chitlin'
+  deleted: false
+  text: http://drnick.mylivepage.ru/file/158/1267/05+Blind+Melon+Chitlin_.mp3
+  replies:
+  - id: 28492
+    parent_id: 28489
+    date: 2006-08-26 16:21
+    poster: Andrei V. Evdokimov (evdokimov)
+    email: evdokimov@blues.ru
+    subject: жуть! )))
+    deleted: false
+  - id: 28497
+    parent_id: 28489
+    date: 2006-08-27 10:02
+    poster: Kot Matraskin (KotMatraskin)
+    email: kotmatrs@mail.ru
+    subject: Обычное дело.
+    deleted: false
+    text: Нормальная ситуация когда пишешь блюзменов. Бывало, и прямо на сцене.
+    replies:
+    - id: 28498
+      parent_id: 28497
+      date: 2006-08-27 10:17
+      poster: Dmitri Kazantsev (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: что именно?
+      deleted: false
+      text: 'на сцене
+
+
+        и какая нормальная ситуация?'

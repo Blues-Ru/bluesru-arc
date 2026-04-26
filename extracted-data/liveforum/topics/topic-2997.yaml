@@ -1,0 +1,34 @@
+topic_id: 2997
+slug: topic-2997
+title: Woke up this mornin', sold a couple thousand records :))
+first_post: 2005-12-15 17:33
+last_post: 2005-12-20 16:25
+post_count: 3
+posts:
+- id: 25094
+  parent_id: null
+  date: 2005-12-15 17:33
+  poster: Marat Dakota
+  email: mhobbit@mail.ru
+  subject: Woke up this mornin', sold a couple thousand records :))
+  deleted: false
+  text: 'http://www.cartoonstock.com/lowres/rro0098l.jpg
+
+
+    :)))'
+  replies:
+  - id: 25133
+    parent_id: 25094
+    date: 2005-12-16 22:43
+    poster: Andrei V. Evdokimov (evdokimov)
+    email: evdokimov@blues.ru
+    subject: блеск! кто первым возьмет эту картинку в юзерпик? (-)
+    deleted: false
+  - id: 25168
+    parent_id: 25094
+    date: 2005-12-20 16:25
+    poster: Старый Майор
+    email: gypsy@mail.ru
+    subject: А там вообще отличная подборка картинок на тему блюза!
+    deleted: false
+    text: http://www.cartoonstock.com/search.asp?Boolean=Or&Category=Not+Selected&Artist=Not+Selected&x=a&keyword=blues

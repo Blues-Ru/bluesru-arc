@@ -1,0 +1,177 @@
+topic_id: 3202
+slug: topic-3202
+title: Как получить видео для локального просмотра
+first_post: 2006-04-12 17:21
+last_post: 2006-04-16 13:33
+post_count: 8
+posts:
+- id: 26922
+  parent_id: null
+  date: 2006-04-12 17:21
+  poster: Старый Майор
+  email: gypsy@mail.ru
+  subject: Как получить видео для локального просмотра
+  deleted: false
+  text: "Уважаемый Grey Wolf (Harmonica.Ru) по моей просьбе предоставил алгоритм сохранения\
+    \ видео-файлов с сайта www.YOUTUBE.com для локального просмотра. \n\nПредставленные\
+    \ на сайте файлы имеют внутренний стримовый формат Macromedia Flash под названием\
+    \ FLV, который ну никак не просматривается стандартными плеерами типа WinAmp и\
+    \ Windows Media Player.\n\nПоэтому сначала скачаем и установим freeware FLV Player\
+    \ размером чуть более 1 мегабайта отсюда:\n\nhttp://www.download.com/FLV-Player/3000-2139_4-10505954.html\
+    \ \n\nДалее для примера возьмём прекрасное исполнение Howling Wolf'ом песни Love\
+    \ Me Darling, изображение чёрно-белое и следовательно небольшое по размеру - всего\
+    \ 9 мегабайт. \n\nИсходный адрес его такой: \n\nhttp://youtube.com/watch?v=3MCyYM-GQK0\n\
+    \nВ таком виде файл просматривается с удалённого сайта и никак не хочет сохраняться\
+    \ на локальном диске, т.е. хочешь посмотреть ещё раз - опять здравствуй трафик.\
+    \ Как говорят, нафиг этот трафик, нормальные герои всегда идут в обход.\n\nВ качестве\
+    \ броузера используем стандартный IE версии 6.0.\n\nИз адреса надо выделить последнюю\
+    \ часть - бессвязный набор букв и цифр и подставить его в строку следующего вида:\
+    \ \n\nhttp://www3.youtube.com/get_video?video_id=3MCyYM-GQK0\n\nПосле этого файл\
+    \ будет предложено открыть (Open) или сохранить на вашем локальном диске (Save),\
+    \ выберите Save.\n\nПоскольку все файлы по умолчанию будут называться одинаково\
+    \ - get_video (без расширения), то перед сохранением файлу надо дать человеческое\
+    \ имя, для чего в поле File Name формы Save As.. введите что-нибудь типа HW-LoveMeDarling.FLV\
+    \ \nОбратите внимание, что сохраняемый файл ОБЯЗАТЕЛЬНО должен иметь расширение\
+    \ FLV, поэтому не забудьте его добавить!\n\nПосле того, как файл загрузится, и\
+    \ если перед этим FLV-плеер был успешно установлен, то можете кликнуть и наслаждаться!\n\
+    \n(c) Grey Wolf (Harmonica.ru) - алгоритм, \n(С) Gypsy (Gypsy.bluesman.ru) - текст."
+  replies:
+  - id: 26924
+    parent_id: 26922
+    date: 2006-04-12 20:15
+    poster: Эльдар Музафаров
+    email: el(@))mmmmmmmmmail.ru
+    subject: Спасибо большое! Кажись то что и искал.
+    deleted: false
+    text: 'О! Это же как раз ответ на мой насушный вапрос (я совсем недавно об этом
+      здесь спрашивал).
+
+      Спасибо большое!
+
+      Только что скачал эту программу.'
+    replies:
+    - id: 26926
+      parent_id: 26924
+      date: 2006-04-12 20:57
+      poster: Старый Майор
+      email: gypsy@mail.ru
+      subject: Хотел спросить..
+      deleted: false
+      text: '..добрался ли уважаемый Эльдар или кто-либо из посетителей форума до
+        Закромов Родины, о которых я подробно писал давеча?
+
+
+        Напоминаю: программа mIRC, сеть UNDERGROUND, канал #mp3blues...'
+      replies:
+      - id: 26927
+        parent_id: 26926
+        date: 2006-04-12 21:50
+        poster: Эльдар Музафаров
+        email: elicaster(@))mmmmmmmmmail.ru
+        subject: Закрома Родины
+        deleted: false
+        text: 'Стыдно сказать, но пока руки не дошли :-(
+
+          Отчасти это из-за невысокой скорости скачивания у меня: вот ты пишешь "Средняя
+          скорость скачивания - 10-50 кбайт/сек, так что надо иметь терпение", а у
+          меня максимальная скорость 5 кбайт/сек. как бы терпения понадобиться, как
+          минимум, в 2 раза больше :-) Но я обязательно попробую эту лазейку в Закрома
+          Родины. За что ещё раз Спасибо.'
+  - id: 26932
+    parent_id: 26922
+    date: 2006-04-14 00:43
+    poster: Эльдар Музафаров
+    email: el(@))mmmmmmmmmail.ru
+    subject: Я сделал чуть по-другому + SRV на youtube.com
+    deleted: false
+    text: "Я сделал чуть по-другому, мне кажется проще, удобнее и быстрее:\nВзяв ссылку\
+      \ Stevie Wonder,Stevie R Vaughan,Jody Watley Superstition\nhttp://www.youtube.com/watch?v=UtSeS5kL-mM&search=STEVIE%20RAY%20VAUGHAN\n\
+      по приведенному тобою способу получил новую ссылку\nhttp://www3.youtube.com/get_video?video_id=UtSeS5kL-mM&search=STEVIE%20RAY%20VAUGHAN\n\
+      - к http://www3.youtube.com/get_video?video_id= добавил концовку моей ссылки\
+      \ UtSeS5kL-mM&search=STEVIE%20RAY%20VAUGHAN\nПолученную ссылку вставил в свой\
+      \ менеджер закачек (FlashGet, ReGet, Download Master...) и закачал файл get_video\
+      \ (без расширения). И потом его переименовал как мне угодно и также дал файлу\
+      \ расширение .flv\nНу, вот и всё.\nP.S. Прислал мне друг кучу ссылок на SRV.\
+      \ Кое что есть у меня, но не всё. Может кому будет тоже интересно:\nSRV IN JAPAN\
+      \  (SCUTTLE BUTTIN’)\nhttp://www.youtube.com/watch?v=YrCZ3AonhhY&search=STEVIE%20RAY%20VAUGHAN\n\
+      Stevie Ray Vaughan - Rude Mood Live ACL 1983\nhttp://www.youtube.com/watch?v=rMZg0vUZyWs&search=SRV\n\
+      SRV TEXAS FLOOD SOLO  ACL 1983\nhttp://www.youtube.com/watch?v=4DJshgftkzk&search=SRV\n\
+      LIFE WITHOUT YOU (4-22- 1988) LIVE\nhttp://www.youtube.com/watch?v=f_gp1ZpUj3c&search=STEVIE%20RAY%20VAUGHAN\n\
+      Stevie Ray Vaughan BB King Albert Collins \"Texas Flood\" 4-22-88\nhttp://www.youtube.com/watch?v=nPnXtfSY3LQ&search=STEVIE%20RAY%20VAUGHAN\n\
+      Stevie Ray Vaughan and Albert collins - Frosty 1988 \nhttp://www.youtube.com/watch?v=nTtrCU8SQXo&search=STEVIE%20RAY%20VAUGHAN\n\
+      Stevie Ray Vaughan - Testify - MTV Unplugged 1990\nhttp://www.youtube.com/watch?v=WZZyv_UAApo&search=STEVIE%20RAY%20VAUGHAN\n\
+      Albert King and Stevie Ray Vaughan MAXBOX BLUES\nhttp://www.youtube.com/watch?v=-nPsIBky8Rg&search=STEVIE%20RAY%20VAUGHAN\n\
+      Little Wing - SRV - El Macambo\nhttp://www.youtube.com/watch?v=C2Qrxp-IItE&search=STEVIE%20RAY%20VAUGHAN\n\
+      Stevie Wonder,Stevie R Vaughan,Jody Watley Superstition\nhttp://www.youtube.com/watch?v=UtSeS5kL-mM&search=STEVIE%20RAY%20VAUGHAN\n\
+      Little wing clip\nhttp://www.youtube.com/watch?v=y-oO11qodaI&search=STEVIE%20RAY%20VAUGHAN\n\
+      VOODOO CHILE (EL MOCAMBO 83)\nhttp://www.youtube.com/watch?v=1GSpbuFSr2o&search=STEVIE%20RAY%20VAUGHAN\n\
+      SRV - Lenny  (EL MOCAMBO 83)\nhttp://www.youtube.com/watch?v=gMSnQL58-BA&search=STEVIE%20RAY%20VAUGHAN\n\
+      COLD SHOOT CLIP :-)))\nhttp://www.youtube.com/watch?v=LHBYh_6EU2A&search=STEVIE%20RAY%20VAUGHAN\n\
+      LIFE WITHOUT YOU Stevie Ray Vaughan in Finland, 17-7-85 Pori Jazz Festival \n\
+      http://www.youtube.com/watch?v=kxgrnmf0V2g&search=STEVIE%20RAY%20VAUGHAN\nSRV\
+      \ & Jeff Beck “I’m Down” live from the UCP Arena\nhttp://www.youtube.com/watch?v=VIJVusB6Sms&search=STEVIE%20RAY%20VAUGHAN\n\
+      SRV “CROSSFIRE” (NBC Night Music)\nhttp://www.youtube.com/watch?v=g7CUuWgZdh4&search=STEVIE%20RAY%20VAUGHAN\n\
+      Stevie Ray Vaughan, B.B. King, Albert King, Paul Butterfield - The Sky Is Crying!\n\
+      http://www.youtube.com/watch?v=_YSBtd7Ao-I&search=STEVIE%20RAY%20VAUGHAN\nStevie\
+      \ Ray Vaughan goes crazy at El-Mocambo 83 (THIRD STONE FROM THE SUN)\nhttp://www.youtube.com/watch?v=bLpCZR3BUDg&search=SRV\n\
+      SRV Superstition (Outtake) \nhttp://www.youtube.com/watch?v=zCiYqGrUr_M&search=STEVIE%20WONDER"
+    replies:
+    - id: 26943
+      parent_id: 26932
+      date: 2006-04-14 18:16
+      poster: Старый Майор
+      email: gypsy@mail.ru
+      subject: Особенно рекомендую..
+      deleted: false
+      text: 'Albert King and Stevie Ray Vaughan MATCHBOX BLUES
+
+
+        http://www.youtube.com/watch?v=-nPsIBky8Rg'
+      replies:
+      - id: 26944
+        parent_id: 26943
+        date: 2006-04-14 19:22
+        poster: Эльдар Музафаров
+        email: el(@))mmmmmmmmmail.ru
+        subject: Размер 15,5 Mb
+        deleted: false
+        text: 'Блин! нехилые там размерчики...
+
+          Боюсь, не осилю :(((
+
+          Кстати, <a href="http://www.beatles.ru/postman/forum_messages.asp?cfrom=1&msg_id=12769&cpage=1&forum_id=2">здесь</a>
+          я выложил некоторые соображения по поводу скачивания с youtube.com'
+  - id: 26949
+    parent_id: 26922
+    date: 2006-04-16 13:33
+    poster: Эльдар Музафаров
+    email: el(@))mmmmmmmmmail.ru
+    subject: Ещё несколько ссылок на SRV (тьюб)
+    deleted: false
+    text: 'Stevie Ray Vaughan Interview 1988 - 16.4Mb
+
+      http://www.youtube.com/watch?v=WHCx8Nbqea8
+
+      B.B. King & Buddy Guy - I Can''t Quit You Baby - 6.9Mb
+
+      http://www.youtube.com/watch?v=On0C-9BWbxQ
+
+      Stevie Ray Vaughan "Insturmental" - 6.3Mb
+
+      http://www.youtube.com/watch?v=b0sQ9S1eGRY
+
+      Stevie Ray Vaughan "Life Without You"
+
+      http://www.youtube.com/watch?v=f_gp1ZpUj3c
+
+      SRV in Finland 1985 - Pori Jazz - 23.5Mb
+
+      http://www.youtube.com/watch?v=kxgrnmf0V2g
+
+      FREDDY KING - HIDE AWAY
+
+      http://www.youtube.com/watch?v=PVaxZyxWRG4
+
+      Matchbox Blues
+
+      http://www.youtube.com/watch?v=-nPsIBky8Rg'

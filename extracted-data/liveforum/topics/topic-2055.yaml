@@ -1,0 +1,26 @@
+topic_id: 2055
+slug: topic-2055
+title: notodden 2004
+first_post: 2004-04-25 02:23
+last_post: 2004-04-25 10:44
+post_count: 2
+posts:
+- id: 18101
+  parent_id: null
+  date: 2004-04-25 02:23
+  poster: vr  (Stone Crazy)
+  email: volodya@blues.ru
+  subject: notodden 2004
+  deleted: false
+  text: http://www.bluesfest.no/program/dager
+  replies:
+  - id: 18102
+    parent_id: 18101
+    date: 2004-04-25 10:44
+    poster: Федор Романенко (fedor)
+    email: fedor@blues.ru
+    subject: Класс!
+    deleted: false
+    text: Довольно сильная программа. Также стоит отметить положительное изменение
+      - концерты "хедлайнеров" в четверг и в воскресенье, что позволит больше посмотреть
+      в пятницу и субботу. ;)

@@ -1,0 +1,23 @@
+topic_id: 3635
+slug: topic-3635
+title: Проба
+first_post: 2007-05-12 14:14
+last_post: 2007-05-14 21:11
+post_count: 2
+posts:
+- id: 32853
+  parent_id: null
+  date: 2007-05-12 14:14
+  poster: Алексей Аграновский (Док)
+  email: aaa@genebee.msu.su
+  subject: Проба
+  deleted: false
+  text: Я не знаю, что получится.
+  replies:
+  - id: 32869
+    parent_id: 32853
+    date: 2007-05-14 21:11
+    poster: Алексей Фролов (Buchothk)
+    email: jokerthk@yandex.ru
+    subject: '+1'
+    deleted: false

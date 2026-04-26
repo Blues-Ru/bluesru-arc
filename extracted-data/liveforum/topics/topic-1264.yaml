@@ -1,0 +1,44 @@
+topic_id: 1264
+slug: topic-1264
+title: Дикий мед
+first_post: 2003-07-15 12:31
+last_post: 2003-07-15 18:25
+post_count: 4
+posts:
+- id: 13214
+  parent_id: null
+  date: 2003-07-15 12:31
+  poster: For
+  email: nevoda@fromru.com
+  subject: Дикий мед
+  deleted: false
+  text: Что был за проект и существует ли сейчас?Насколько я помню группа донецкая,прилично
+    играли парни.
+  replies:
+  - id: 13217
+    parent_id: 13214
+    date: 2003-07-15 13:40
+    poster: For
+    email: nevoda@fromru.com
+    subject: Дикий мед
+    deleted: false
+    text: 'Ссылки-то,кстати,на яндексе есть,но что-то ни одна не открывается.
+
+
+      Где бы купить-послушать?-интересует "мамина дочка".'
+  - id: 13218
+    parent_id: 13214
+    date: 2003-07-15 15:09
+    poster: (Grem)
+    email: sergei.sergeev@emersonprocess.ru
+    subject: Кликни сюды
+    deleted: false
+    text: http://www.dikeymed.narod.ru/
+    replies:
+    - id: 13220
+      parent_id: 13218
+      date: 2003-07-15 18:25
+      poster: For
+      email: nevoda@fromru.com
+      subject: отлично,благодарен.
+      deleted: false

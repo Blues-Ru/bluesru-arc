@@ -1,0 +1,107 @@
+topic_id: 1095
+slug: topic-1095
+title: не совсем то, о чём я думал
+first_post: 2002-03-27 01:06
+last_post: 2002-03-29 01:01
+post_count: 11
+posts:
+- id: 2846
+  parent_id: null
+  date: 2002-03-27 01:06
+  poster: Михаил Аранышев (мишка)
+  email: aranysh@mac.com
+  subject: не совсем то, о чём я думал
+  deleted: false
+  text: Сейчас имеется всего два уровня иерархии - форум и тема. Но как правило любой
+    тред обрастает подветками - мысли разбегаются. То есть какое-то разделение внутри
+    каждого треда присутствует. Чтобы не ломать голову над тем как это разделение
+    формализовать, по моему разумно применить body under subject view не для всего
+    дерева, а только для текущего сообщения.
+  replies:
+  - id: 2849
+    parent_id: 2846
+    date: 2002-03-27 01:14
+    poster: Федор Романенко (fedor)
+    email: fedor@blues.ru
+    subject: Может быть, надо подумать...
+    deleted: false
+    replies:
+    - id: 2873
+      parent_id: 2849
+      date: 2002-03-27 10:09
+      poster: Дима   (Казанцев)
+      email: dr.nick@blues.ru
+      subject: Дерево
+      deleted: false
+      text: Федь, без дерева не понятно кто и кому что отвечал! Читаемость пропала,
+        понимаешь?
+      replies:
+      - id: 2937
+        parent_id: 2873
+        date: 2002-03-28 01:28
+        poster: Михаил Аранышев (мишка)
+        email: aranysh@mac.com
+        subject: так ведь дерево никуда не делось
+        deleted: false
+        text: просто индентирование невнятное. может ну её на фиг, параболу? пусть
+          себе уезжает вправо
+        replies:
+        - id: 2945
+          parent_id: 2937
+          date: 2002-03-28 11:44
+          poster: Дима Казанцев (Dr. Nick)
+          email: dr.nick@blues.ru
+          subject: Миша
+          deleted: false
+          text: У меня вообще ничего не работает в IE и OmniWeb.
+          replies:
+          - id: 2952
+            parent_id: 2945
+            date: 2002-03-28 15:06
+            poster: Михаил Аранышев (мишка)
+            email: aranysh@mac.com
+            subject: непорядок, в мозилле работает
+            deleted: false
+            replies:
+            - id: 2954
+              parent_id: 2952
+              date: 2002-03-28 15:31
+              poster: Сергей Иванов (serge_ivanov)
+              email: serge_ivanov@hotmail.com
+              subject: и в Linux-овой мозилле тоже ОК
+              deleted: false
+            - id: 2956
+              parent_id: 2952
+              date: 2002-03-28 18:22
+              poster: Дима Казанцев (Dr. Nick)
+              email: dr.nick@blues.ru
+              subject: Мозилла
+              deleted: false
+              text: и есть Netscape, поэтому и работает.
+            - id: 2964
+              parent_id: 2952
+              date: 2002-03-29 00:50
+              poster: Дима Казанцев (Dr. Nick)
+              email: dr.nick@blues.ru
+              subject: Mozilla one more time
+              deleted: false
+              text: Поставил Мозиллу под 10-ку и тоже все нормально работает. В ИЭ
+                никак! Кто-нибудь может объяснить что происходит?
+            - id: 2965
+              parent_id: 2952
+              date: 2002-03-29 00:50
+              poster: Дима Казанцев (Dr. Nick)
+              email: dr.nick@blues.ru
+              subject: Mozilla one more time
+              deleted: false
+              text: Поставил Мозиллу под 10-ку и тоже все нормально работает. В ИЭ
+                никак! Кто-нибудь может объяснить что происходит?
+            - id: 2966
+              parent_id: 2952
+              date: 2002-03-29 01:01
+              poster: Дима Казанцев (Dr. Nick)
+              email: dr.nick@blues.ru
+              subject: And one more
+              deleted: false
+              text: Если я отключаю опцию "Allow other fonts" в Мозилле, то тоже не
+                работает! Дело видимо в Style Sheets? Или как это еще объяснить?

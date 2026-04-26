@@ -1,0 +1,134 @@
+topic_id: 3530
+slug: topic-3530
+title: Down to Missisippi
+first_post: 2006-12-23 02:34
+last_post: 2006-12-29 16:22
+post_count: 8
+posts:
+- id: 30078
+  parent_id: null
+  date: 2006-12-23 02:34
+  poster: Немов Евгений
+  email: jnr_new@mail.ru
+  subject: Down to Missisippi
+  deleted: false
+  text: Народ! Помогите найти текст песни Down to Missisippi, плз!
+  replies:
+  - id: 30127
+    parent_id: 30078
+    date: 2006-12-25 15:31
+    poster: Little Albert ()
+    email: ovanez@gmail.com
+    subject: 'Re: Down to Missisippi'
+    deleted: false
+    text: в чьём исполнении то вещь?
+    replies:
+    - id: 30132
+      parent_id: 30127
+      date: 2006-12-25 23:24
+      poster: Немов Евгений
+      email: jnr_new@mail.ru
+      subject: а хрен его знает...
+      deleted: false
+      text: а хрен его знает...
+  - id: 30133
+    parent_id: 30078
+    date: 2006-12-25 23:36
+    poster: Little Albert ()
+    email: ovanez@gmail.com
+    subject: вот что находит гугл в лучшем случае
+    deleted: false
+    text: 'http://www.azlyrics.com/lyrics/sugarland/downinmississippiuptonogood.html
+
+
+      только это не совсем _to_ Mississippi'
+  - id: 30139
+    parent_id: 30078
+    date: 2006-12-26 00:54
+    poster: Митя
+    email: meis2000@mail.ru
+    subject: Это не та ли ...
+    deleted: false
+    text: 'Down To Missisippi, которая в саундтреке к фильму "Перекресток"?
+
+      В фильме так и не прозвучала, кстате'
+    replies:
+    - id: 30141
+      parent_id: 30139
+      date: 2006-12-26 01:05
+      poster: Митя
+      email: meis2000@mail.ru
+      subject: если да, тогда ...
+      deleted: false
+      text: '...вот:
+
+        DOWN IN MISSISSIPPI&#12288; JB Lenoir "Vietnam Blues"(Evidence ECD 26068-2)
+
+
+        As far back as I can remember
+
+        I either had to plow or hoe
+
+        [With] One of those long, old nine foot [cotton] sacks
+
+        Staring down the old dirt road
+
+        Down in Mississippi
+
+
+        &#12288;&#12288;Down in Mississippi
+
+        &#12288;&#12288;Down in Mississippi where I was born
+
+        &#12288;&#12288;Down in Mississippi where I come from
+
+
+        Nothing I got against Mississippi
+
+        It also was the home of my wife
+
+        But I feel just like I''m a lucky man
+
+        To get away with my life
+
+        Down in Mississippi
+
+
+        &#12288;&#12288;Down in Mississippi
+
+        &#12288;&#12288;Down in Mississippi where I was born
+
+        &#12288;&#12288;Down in Mississippi where I come from
+
+
+        They had a huntin'' season on the rabbits
+
+        shoot one, you went to jail
+
+        The seaon was always open on me
+
+        Didn''t nobody need no bail
+
+        Down in Mississippi
+
+
+        Down in Mississippi
+
+        Down in Mississippi where I was born
+
+        Down in Mississippi where I come from'
+    - id: 30218
+      parent_id: 30139
+      date: 2006-12-29 15:16
+      poster: Немов Евгений
+      email: jnr_new@mail.ru
+      subject: Да! Это она, спасибо большое!!!
+      deleted: false
+      replies:
+      - id: 30220
+        parent_id: 30218
+        date: 2006-12-29 16:22
+        poster: Митя
+        email: meis2000@mail.ru
+        subject: Не во что! С наступающим Новым Годом!
+        deleted: false

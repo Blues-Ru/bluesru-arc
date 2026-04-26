@@ -1,0 +1,12 @@
+BODY {BACKGROUND-COLOR: #FDD898; MARGIN: 0% 3%} HR {COLOR: black} .ZAG1 {FONT-FAMILY: 
+Verdana, Arial, sans-serif; FONT-SIZE: 26pt; FONT-WEIGHT: bold; TEXT-ALIGN: center} 
+.ZAG2 {FONT-FAMILY: Verdana, Arial, sans-serif; FONT-SIZE: 16pt; FONT-WEIGHT: 
+bold; TEXT-ALIGN: center} .ZAG3 {FONT-FAMILY: Verdana, Arial, sans-serif; FONT-SIZE: 
+12pt; FONT-WEIGHT: bold; TEXT-ALIGN: center} .ZAG4 {FONT-FAMILY: Verdana, Arial, 
+sans-serif; FONT-SIZE: 10pt; FONT-WEIGHT: bold; TEXT-ALIGN: center} .PRAV {TEXT-ALIGN: 
+right} .CENT {TEXT-ALIGN: center} .PODP {FONT-STYLE: italic; FONT-FAMILY: Verdana, 
+Arial, sans-serif; FONT-SIZE: 8pt; TEXT-ALIGN: center} P, DIV, UL {FONT-FAMILY: 
+Verdana, Arial, sans-serif; FONT-SIZE: 10pt; TEXT-ALIGN: justify} SPAN {FONT-SIZE: 
+12pt; FONT-WEIGHT: bold} A {COLOR: black} A:hover {COLOR: #CC3300; TEXT-DECORATION: 
+underline} A:active {COLOR: green; TEXT-DECORATION: underline} A:visited {COLOR: 
+#660099}

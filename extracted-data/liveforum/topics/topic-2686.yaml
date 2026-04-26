@@ -1,0 +1,51 @@
+topic_id: 2686
+slug: topic-2686
+title: Домогаров сел в лужу кока-колы
+first_post: 2005-08-04 18:12
+last_post: 2005-08-05 15:06
+post_count: 5
+posts:
+- id: 22226
+  parent_id: null
+  date: 2005-08-04 18:12
+  poster: Gor
+  email: Angei888@rambler.ru
+  subject: Домогаров сел в лужу кока-колы
+  deleted: false
+  text: Лучше всех про Путинку на сайте www.rockmusic ru А про Домогарова интересно
+    было другое. Я лично видел как он уселся на стол, а там лужа кока-колы была пролитая.
+    Задница в белых штанах промокла сразу. В общем сплошной блюз получился
+  replies:
+  - id: 22227
+    parent_id: 22226
+    date: 2005-08-04 19:21
+    poster: Дмитрий Казанцев (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: а кто это?
+    deleted: false
+    replies:
+    - id: 22228
+      parent_id: 22227
+      date: 2005-08-04 19:26
+      poster: Диброва (Dibrova)
+      email: dibrova_blues@rambler.ru
+      subject: это актёр такой
+      deleted: false
+      replies:
+      - id: 22233
+        parent_id: 22228
+        date: 2005-08-05 00:30
+        poster: Дмитрий Казанцев (Dr. Nick)
+        email: dr.nick@blues.ru
+        subject: ааа...
+        deleted: false
+        text: великий наверное?
+        replies:
+        - id: 22235
+          parent_id: 22233
+          date: 2005-08-05 15:06
+          poster: Руслан Чифуров
+          email: chifuroff@inbox.ru
+          subject: Ещё бы!
+          deleted: false
+          text: Каждый вечер по телику сериалы с его участием.

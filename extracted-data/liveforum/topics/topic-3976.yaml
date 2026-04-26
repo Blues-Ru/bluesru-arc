@@ -1,0 +1,32 @@
+topic_id: 3976
+slug: topic-3976
+title: Юбилей! В.Зинчуку - 50!!!
+first_post: 2008-04-08 17:45
+last_post: 2008-04-09 17:36
+post_count: 3
+posts:
+- id: 35237
+  parent_id: null
+  date: 2008-04-08 17:45
+  poster: Старый Майор
+  email: gypsy@mail.ru
+  subject: Юбилей! В.Зинчуку - 50!!!
+  deleted: false
+  text: Удивительно, что никто не отмечает )))
+  replies:
+  - id: 35238
+    parent_id: 35237
+    date: 2008-04-08 22:15
+    poster: Yngwie Malmsteen
+    email: yngwie@malmsteen.com
+    subject: Ya plokho govorit po russki
+    deleted: false
+    text: No khochu pozdravit yubilyara, luchshego rossiyskogo bluesovogo guitarista
+      Victora Zinchuka.
+  - id: 35240
+    parent_id: 35237
+    date: 2008-04-09 17:36
+    poster: Зенчуг
+    email: зеня@blues.ru
+    subject: как это никто? а битлз глазами?
+    deleted: false

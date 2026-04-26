@@ -1,0 +1,57 @@
+topic_id: 523
+slug: topic-523
+title: :)
+first_post: 2002-12-21 15:29
+last_post: 2002-12-23 19:47
+post_count: 5
+posts:
+- id: 9544
+  parent_id: null
+  date: 2002-12-21 15:29
+  poster: Greta
+  email: morehemp@mail.ru
+  subject: :)
+  deleted: false
+  text: http://www.rambler.ru/db/news/msg.html?pd=1&mid=3064226
+  replies:
+  - id: 9555
+    parent_id: 9544
+    date: 2002-12-22 15:58
+    poster: Lars
+    email: Lars@List.ru
+    subject: грамотно конечно, но про блюз там ни слова не нашел
+    deleted: false
+    replies:
+    - id: 9557
+      parent_id: 9555
+      date: 2002-12-22 19:45
+      poster: Юрий Каверкин
+      email: kaverkin@rol.ru
+      subject: Спасибо ,Грета..По-моему, там все про блюз....С другой стороны...
+      deleted: false
+      text: '...если человек готов к блюзу,то последний его сам найдет....Блюз - это
+        просто слово,а просто блюз -это состояние (кто-то из великих говорил, мне
+        так кааааца...)'
+    - id: 9568
+      parent_id: 9555
+      date: 2002-12-23 16:04
+      poster: Greta
+      email: morehemp@mail.ru
+      subject: Lars..
+      deleted: false
+      text: 'Lars..? Von Trier? Ulrich? :)
+
+        Есть в Вашей строгости что-то знакомое..
+
+        Да ну, что Вы.. Там сплошь real blues всё между строк. Юрию это близко, видимо,
+        потому как человек блюзовый..'
+      replies:
+      - id: 9588
+        parent_id: 9568
+        date: 2002-12-23 19:47
+        poster: Lars
+        email: Lars@List.ru
+        subject: Не, я другой
+        deleted: false
+        text: а я и не блюзовый вовсе, просто притворяюсь %)) Уж и попротворяться
+          нельзя

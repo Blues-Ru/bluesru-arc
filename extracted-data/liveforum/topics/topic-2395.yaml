@@ -1,0 +1,65 @@
+topic_id: 2395
+slug: topic-2395
+title: Я никогда не увижу Миссисипи
+first_post: 2005-01-23 23:51
+last_post: 2005-02-02 02:51
+post_count: 6
+posts:
+- id: 20246
+  parent_id: null
+  date: 2005-01-23 23:51
+  poster: Митя
+  email: meis2000@mail.ru
+  subject: Я никогда не увижу Миссисипи
+  deleted: false
+  text: Собственно, где взять сабж? У нас в Рязани блюз не приживается, ни пластинок
+    купить, ни живьем послушать. Интересно узнать, чем дышат русские блюзмены.. Где
+    взять треки с этой пластинки (сабж)? Заранее благодарен.
+  replies:
+  - id: 20251
+    parent_id: 20246
+    date: 2005-01-25 19:37
+    poster: boogie  (boogie)
+    email: bluesman@pochta.ws
+    subject: 'ре: где взять'
+    deleted: false
+    text: Покупаешь журнал «салон AudioVideo», думаю, что он в Рязани продается, в
+      нем есть форма заказа дисков, которые когда-либо распространялися через этот
+      журнал, ну и заказываешь что тебе надо :) Этот диск там точно есть...
+    replies:
+    - id: 20252
+      parent_id: 20251
+      date: 2005-01-25 19:39
+      poster: boogie  (boogie)
+      email: bluesman@pochta.ws
+      subject: 'ре: где взять'
+      deleted: false
+      text: Или попробуй через сайт http://www.salonav.com/ этого журнала связаться
+        с кем-нибудь и узнать, как можно приобрести этот диск.
+      replies:
+      - id: 20253
+        parent_id: 20252
+        date: 2005-01-25 19:40
+        poster: boogie  (boogie)
+        email: bluesman@pochta.ws
+        subject: 'ре: где взять'
+        deleted: false
+        text: А диски можно покупать не только в Рязанских магазинах ;) ---> http://www.bluesnews.ru/take/
+  - id: 20265
+    parent_id: 20246
+    date: 2005-01-26 12:07
+    poster: Михан  (Ded Morozzz)
+    email: morozzz_ded@mail.ru
+    subject: Кажется, на каком-то сайте
+    deleted: false
+    text: 'я видел полностью все треки на свободную скачку
+
+      кажется на гитарсру'
+    replies:
+    - id: 20354
+      parent_id: 20265
+      date: 2005-02-02 02:51
+      poster: disik
+      email: denis1482@mail.ru
+      subject: ROTFLMAO!!! http://www.guitars.ru/06/info.php?z998
+      deleted: false

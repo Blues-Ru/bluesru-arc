@@ -1,0 +1,88 @@
+topic_id: 4151
+slug: topic-4151
+title: Ачепятка
+first_post: 2008-12-20 15:05
+last_post: 2008-12-22 21:14
+post_count: 8
+posts:
+- id: 35983
+  parent_id: null
+  date: 2008-12-20 15:05
+  poster: Malcolm   ()
+  email: lifebythedrop@yandex.ru
+  subject: Ачепятка
+  deleted: false
+  text: "В 1967 году (41 г. назад) в Блэкпуле, Англия, трое из участников развалившегося\
+    \ John Evans Blues Band приняли решение о создании новой группы: Jethro Tall.\n\
+    если это о Яне Андерсоне и компании... то группа, поименовавшая себя в честь английского\
+    \ агронома \n\nhttp://en.wikipedia.org/wiki/Jethro_Tull_(agriculturist) \n\nразработавшего\
+    \ конструкцию сеялки называлась Джетеро Талл (Jethro Tull) а не Джетеро Толл (Jethro\
+    \ Tall)"
+  replies:
+  - id: 35984
+    parent_id: 35983
+    date: 2008-12-20 15:08
+    poster: Malcolm   ()
+    email: lifebythedrop@yandex.ru
+    subject: кстати, кто знает - вопрос
+    deleted: false
+    text: а это правда, что Андерсон первоначально хотел, что бы на гитаре в Tull
+      был Тонни Айоми ?
+    replies:
+    - id: 35986
+      parent_id: 35984
+      date: 2008-12-21 09:53
+      poster: джет ратал
+      email: джет@blues.ru
+      subject: а он там и был
+      deleted: false
+      text: и видео даже есть вроде
+      replies:
+      - id: 35988
+        parent_id: 35986
+        date: 2008-12-21 12:52
+        poster: Malcolm   ()
+        email: lifebythedrop@yandex.ru
+        subject: Не знаю, не знаю.
+        deleted: false
+        text: У меня есть такая информация, что господин Айоми не смог присоединиться
+          к JT потому что у него начались большие дела с Black Sabbath
+        replies:
+        - id: 35989
+          parent_id: 35988
+          date: 2008-12-21 14:28
+          poster: Dmitri Kazantsev (Dr. Nick)
+          email: dr.nick@blues.ru
+          subject: ещё как был
+          deleted: false
+          text: 'The group went through two hastily recruited and rejected replacements,
+            future Black Sabbath guitarist Tony Iommi (who was in Tull for a week,
+            just long enough to show up in their appearance on the Rolling Stones''
+            Rock ''N Roll Circus extravaganza)
+
+
+            даже на ДВД есть с Роллингами'
+        - id: 35990
+          parent_id: 35988
+          date: 2008-12-21 14:34
+          poster: Dmitri Kazantsev (Dr. Nick)
+          email: dr.nick@blues.ru
+          subject: video
+          deleted: false
+          text: http://www.youtube.com/watch?v=pBmXacFgUBs
+          replies:
+          - id: 35992
+            parent_id: 35990
+            date: 2008-12-22 21:14
+            poster: Malcolm   ()
+            email: lifebythedrop@yandex.ru
+            subject: Спасибо большое
+            deleted: false
+            text: действительно - весьма интересно
+  - id: 35985
+    parent_id: 35983
+    date: 2008-12-20 15:35
+    poster: Andrei V. Evdokimov (evdokimov)
+    email: evdokimov@blues.ru
+    subject: быть по сему (-)
+    deleted: false

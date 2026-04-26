@@ -1,0 +1,63 @@
+topic_id: 2880
+slug: topic-2880
+title: Что за песня?
+first_post: 2005-10-25 23:52
+last_post: 2005-10-26 22:29
+post_count: 4
+posts:
+- id: 24091
+  parent_id: null
+  date: 2005-10-25 23:52
+  poster: Elicaster (Эльдар Музафаров)
+  email: elicaster(@))mmmmmmmmmail.ru
+  subject: Что за песня?
+  deleted: false
+  text: 'Понравилась песня: у Ragtime услышал на их выступлении. Запомнились несколько
+    фраз:
+
+    So, put your arms around my waist,
+
+    Look me straight to my face
+
+    Тема похожа на Send Me Some Lovin'' и Honest I Do.
+
+    Что за песня? Кто автор? Подскажите, пожалуйста.
+
+    Было б здорово если и mp3 можно б было скачать. И текст тоже бы найти.'
+  replies:
+  - id: 24094
+    parent_id: 24091
+    date: 2005-10-26 00:54
+    poster: Федор Романенко (fedor)
+    email: fedor@blues.ru
+    subject: T-Bone Walker?
+    deleted: false
+    text: Про Blue Mood? Может. Пусть лучше Арсен ответит ;)
+    replies:
+    - id: 24096
+      parent_id: 24094
+      date: 2005-10-26 01:41
+      poster: Arsen
+      email: ragtime@blues.ru
+      subject: Buddy Guy
+      deleted: false
+      text: "Эту песню я услышал на альбоме Heavy Love Бадди Гая, называется она \n\
+        Let me show you\n\nLet me show you I love you\nEach and every day\nI would\
+        \ not havin'\nAny other way\n\nMy mother she taught me\nHow to show you my\
+        \ love\nBecause my way's in action\nSpeak much louder than words\n\nPut your\
+        \ arms around my waist\nAnd look direct in my face\nAnd I'll show you I love\
+        \ you\nAnd no one else can take your place\n\n\nLet me show you I love you\n\
+        Each and every day\nBecause I would not never havin'\nAny other way\n\nPut\
+        \ your arms around my waist\nAnd look me direct in my face\nAnd I'll show\
+        \ you I love you\nAnd no one else can take your place"
+      replies:
+      - id: 24109
+        parent_id: 24096
+        date: 2005-10-26 22:29
+        poster: Elicaster
+        email: e@m.r
+        subject: Она самая!
+        deleted: false
+        text: 'Она самая!
+
+          Спасибо.'

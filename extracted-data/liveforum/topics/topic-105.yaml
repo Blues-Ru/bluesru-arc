@@ -1,0 +1,57 @@
+topic_id: 105
+slug: topic-105
+title: Андрею Евдокимову
+first_post: 2002-03-19 16:31
+last_post: 2002-03-20 18:56
+post_count: 5
+posts:
+- id: 2327
+  parent_id: null
+  date: 2002-03-19 16:31
+  poster: Дима   (Казанцев)
+  email: dr.nick@blues.ru
+  subject: Андрею Евдокимову
+  deleted: false
+  text: Андрей, если соберешься в БиБи в среду, прихвати моего Грина, а я тебе принесу
+    Ивана блюзового, что тебе записал уж давно ;)
+  replies:
+  - id: 2328
+    parent_id: 2327
+    date: 2002-03-19 18:08
+    poster: Andrei V. Evdokimov (evdokimov)
+    email: evdokimov@blues.ru
+    subject: вот хороший образец
+    deleted: false
+    text: '...Ведь по аське и мылом можно б было. Ну ладно, будем здесь договариваться,
+      когда в баню пойдем.
+
+      По любому, Грина прихвачу
+
+      А уж за ваню - отдельное безразмерное спасибо.'
+    replies:
+    - id: 2329
+      parent_id: 2328
+      date: 2002-03-19 18:29
+      poster: Дима   (Казанцев)
+      email: dr.nick@blues.ru
+      subject: Прости, старина
+      deleted: false
+      text: Аську переставил, тебя потерял, а про мыло в голову не пришло ;( Зато
+        поймал тебя тут точно ;)
+    - id: 2349
+      parent_id: 2328
+      date: 2002-03-20 15:17
+      poster: Дима   (Казанцев)
+      email: dr.nick@blues.ru
+      subject: Минутку внимания
+      deleted: false
+      text: Ивана взял, так что жду ;)
+      replies:
+      - id: 2357
+        parent_id: 2349
+        date: 2002-03-20 18:56
+        poster: Andrei V. Evdokimov (evdokimov)
+        email: evdokimov@blues.ru
+        subject: неисправимый :) (-)
+        deleted: false
+        text: '-'

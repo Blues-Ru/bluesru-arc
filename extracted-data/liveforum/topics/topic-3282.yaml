@@ -1,0 +1,127 @@
+topic_id: 3282
+slug: topic-3282
+title: Да, запахло жареным...
+first_post: 2006-06-06 14:18
+last_post: 2006-06-25 14:08
+post_count: 10
+posts:
+- id: 27594
+  parent_id: null
+  date: 2006-06-06 14:18
+  poster: Федор Романенко (fedor)
+  email: fedor@blues.ru
+  subject: Да, запахло жареным...
+  deleted: false
+  text: Поздравляю всех с первым ссылочным спамом в этом форуме. Чувствую, по прошествии
+    многих лет и очень скоро придется вводить принудительную регистрацию для постинга
+    в форум, увы...
+  replies:
+  - id: 27595
+    parent_id: 27594
+    date: 2006-06-06 16:11
+    poster: Руслан Чифуров
+    email: chifuroff<sobaka>inbox.ru
+    subject: У нас таким макаром...
+    deleted: false
+    text: '... всю гостевую книгу на сайте засрали. Пришлось закрыть...'
+    replies:
+    - id: 27598
+      parent_id: 27595
+      date: 2006-06-06 17:27
+      poster: Федор Романенко (fedor)
+      email: fedor@blues.ru
+      subject: Форум
+      deleted: false
+      text: Форум на блюз.ру держался много лет только по одной причине, он был почти
+        случайно (только чтобы не создавать нагрузки) закрыт от поисковых машин через
+        robots.txt. Т.е. его нельзя найти через поисковики. Достаточно хотя бы одному
+        западному спаммеру найти урл нашего форума, за**ут в момент.
+      replies:
+      - id: 27601
+        parent_id: 27598
+        date: 2006-06-06 18:13
+        poster: Старый Майор
+        email: gypsy@mail.ru
+        subject: Не, ну вы прикиньте, какие законопослушные спаммеры...
+        deleted: false
+        text: 'они сначала читают ROBOTS.TXT, и если видят, что там написано /forum
+          : Disallow, то они разворачиваются и уходят...'
+      - id: 27603
+        parent_id: 27598
+        date: 2006-06-06 23:35
+        poster: Руслан Чифуров ()
+        email: chifuroff<sobaka>inbox.ru
+        subject: Ну всё- началось блин :-(
+        deleted: false
+      - id: 27771
+        parent_id: 27598
+        date: 2006-06-25 14:08
+        poster: BennyBTraveler
+        email: bennybtraveler@cashette.com
+        subject: New ideas for travel routes
+        deleted: false
+        text: "This poll is a joke, but in every joke there is a part of a joke, u\
+          \ know ;)\n\nBy the way, there is so little place in that poll :) so let\
+          \ me finish .. :))))\n\nImagine: i want to sell you anykind of stuff.. Let\
+          \ it be ticket service, or water-polo balls.. it doesn`t matter.:) \nAnd\
+          \ in one certain moment (just like this one) i can offer you never to buy\
+          \ from me! Never! :) \nAm i stupid enough? :) Maybe, but... you always can\
+          \  buy  tickets in the airport and balls in a sportstore.. So it`s stupid\
+          \ to offer you anything like that.. And we in (c) BennyB thinked out something,\
+          \ you will find nowhere but here. :)\n\nYou know, I hate when someone is\
+          \ trying to help me (damn-damn!), but i always rate highly any true support\
+          \ that people sometimes can provide each other. \nSo, my point is simple\
+          \ - there is someone nearby capable to provide with all required support,\
+          \ but rarely it is possible to find one in time Remeber us, remember BennyB\
+          \ The Traveller when times of trouble comes to you during your way. We are\
+          \ all - one world-wide family - and, who knows, maybe one day we will meet\
+          \ somewhere during your next round-a-world trip. :)\n\nBest wishes,\n  \
+          \              <a href=http://bennyb.cn/index.htm>BennyB the Traveler shortcuts.</a>\n\
+          \n<a href=http://www.bennyb.cn/sitemap/sitemap.html>Foreign travelers exchange\
+          \ system. Check list for your name.:)</a>"
+  - id: 27604
+    parent_id: 27594
+    date: 2006-06-06 23:43
+    poster: Эльдар Музафаров
+    email: elicaster co6@kaмейл-d0t ru
+    subject: Как насчёт спама на мыло теперь?
+    deleted: false
+    text: 'спамом на форуме. есть ли вероятность того что теперь спам-роботы будут
+      и смотреть на форуме е-мейл адреса и затем засылать туда спам?
+
+      Если таковая вероятность высока, может есть смысл участникам форума как-то от
+      этого защититься? например как это делаю я: см. мой адрес.'
+    replies:
+    - id: 27605
+      parent_id: 27604
+      date: 2006-06-06 23:45
+      poster: Владимир Русинов (BluesCat)
+      email: volodya@blues.ru
+      subject: я лично давно не защищаюсь :)
+      deleted: false
+      text: один фиг на этот ящик приходит 200-300 писем спама в сутки :))))
+      replies:
+      - id: 27607
+        parent_id: 27605
+        date: 2006-06-07 01:07
+        poster: Dmitri Kazantsev (Dr. Nick)
+        email: dr.nick@blues.ru
+        subject: у меня меньше
+        deleted: false
+        text: 'но тоже до фига
+
+          (именно на собака.блюз.ру)'
+        replies:
+        - id: 27615
+          parent_id: 27607
+          date: 2006-06-07 07:01
+          poster: Эльдар Музафаров
+          email: elicaster co6@kaмейл-d0t ru
+          subject: Ну, конечно
+          deleted: false
+          text: 'Ну, конечно при ТАКОМ количестве спама уже наверное и нет смысла
+            защищаться (поздно, батенька :)))
+
+            У меня этот ящик уже лет 5. пользуюсь я им редко (он не основной у меня),
+            но спама туда почти не приходит: пару песем за месяц. и так уже всё это
+            время.'

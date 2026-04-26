@@ -1,0 +1,91 @@
+topic_id: 348
+slug: topic-348
+title: 2 Dr.Nick(+)
+first_post: 2002-09-24 12:37
+last_post: 2002-09-24 14:00
+post_count: 8
+posts:
+- id: 7598
+  parent_id: null
+  date: 2002-09-24 12:37
+  poster: Alexander Lokotkov
+  email: alex@fastwel.com
+  subject: 2 Dr.Nick(+)
+  deleted: false
+  text: "Слушал демо-треки с блюзмен.ру. Долго думал(с). Cale и Santana угрюмо курят\
+    \ в сторонке ;-))\nВопросы: \n1. Гитарные соло ты сам играл или кто-то из группы?\n\
+    2. Откуда такой \"аутентичный\" английский?"
+  replies:
+  - id: 7600
+    parent_id: 7598
+    date: 2002-09-24 13:06
+    poster: Дима Казанцев (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: Ответы
+    deleted: false
+    text: 'Гитарные соло играл Слава Шин.
+
+      Что значит "аутентичный английский"?'
+    replies:
+    - id: 7603
+      parent_id: 7600
+      date: 2002-09-24 13:16
+      poster: Alexander Lokotkov
+      email: alex@fastwel.com
+      subject: Значит, как у нэтив спикеров(-)
+      deleted: false
+      text: '-'
+      replies:
+      - id: 7604
+        parent_id: 7603
+        date: 2002-09-24 13:20
+        poster: Дима Казанцев (Dr. Nick)
+        email: dr.nick@blues.ru
+        subject: Так получилось
+        deleted: false
+        text: Я много играл и общался с американцами. Да и 3 года в Европе не прошли
+          даром. Люблю я английский, короче.
+        replies:
+        - id: 7606
+          parent_id: 7604
+          date: 2002-09-24 13:23
+          poster: Alexander Lokotkov
+          email: alex@fastwel.com
+          subject: Спасибо за ответы. А можно где-нибудь(+)
+          deleted: false
+          text: скачать еще твоих вещей, желательно "без ансамбля"?
+          replies:
+          - id: 7608
+            parent_id: 7606
+            date: 2002-09-24 13:41
+            poster: Дима Казанцев (Dr. Nick)
+            email: dr.nick@blues.ru
+            subject: У меня нет записей
+            deleted: false
+            text: Я страшно ленив. Лучше приходи в Черчилль Паб в октябре-ноябре.
+              Я буду там играть акустическую фолк-блюз программу.
+            replies:
+            - id: 7610
+              parent_id: 7608
+              date: 2002-09-24 13:51
+              poster: Alexander Lokotkov
+              email: alex@fastwel.com
+              subject: Понятно(+)
+              deleted: false
+              text: Жалко, жалко... К несчастию, я плохо перевариваю блюз под стук
+                вилок и выкрики подвыпившей публики. Кроме того, на джемах имеет место
+                некоторая э-э-э..., так скажем, перенасыщенность... народ с "электричеством"
+                напрочь перекрывает тех, кто играет на акустике.
+              replies:
+              - id: 7611
+                parent_id: 7610
+                date: 2002-09-24 14:00
+                poster: Дима Казанцев (Dr. Nick)
+                email: dr.nick@blues.ru
+                subject: Не так все плохо
+                deleted: false
+                text: 'в Черчилле.
+
+                  А запильщиков я сам не очень жалую. Но как бывший соло-гитарист
+                  прекрасно понимаю их желание играть много и обильно. К счастью музыка
+                  - это совсем другое.'

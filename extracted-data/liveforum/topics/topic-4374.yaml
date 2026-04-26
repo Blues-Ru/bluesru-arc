@@ -1,0 +1,72 @@
+topic_id: 4374
+slug: topic-4374
+title: Вопрос по поводу Бёртона в ММДМ.
+first_post: 2010-04-12 00:10
+last_post: 2010-04-15 15:27
+post_count: 8
+posts:
+- id: 36865
+  parent_id: null
+  date: 2010-04-12 00:10
+  poster: Pumpkinhead
+  subject: Вопрос по поводу Бёртона в ММДМ.
+  deleted: false
+  text: Подскажите, пожалуйста, как звали музыкантов, которые с Бёртоном в ММДМ играли.
+  replies:
+  - id: 36866
+    parent_id: 36865
+    date: 2010-04-12 02:22
+    poster: Andrei V. Evdokimov
+    subject: lineup
+    deleted: false
+    text: 'Billy Watts - guitar, Terry Wilson - bass, Red Young - keaboards, Brannen
+      Temple - drums.
+
+      Старший в этой банде - Red Young, про него есть <a href="http://en.wikipedia.org/wiki/Red_Young"
+      target="_blank">в Википедии</a>.'
+  - id: 36867
+    parent_id: 36865
+    date: 2010-04-12 13:26
+    poster: Pumpkinhead
+    subject: Ещё вопрос)
+    deleted: false
+    text: Спасибо, Андрей, еще вопрос, можно ли использовать пару ваших фото с концерта
+      для отчёта на сайте Jamsession.ru?
+    replies:
+    - id: 36869
+      parent_id: 36867
+      date: 2010-04-12 14:04
+      poster: Andrei V. Evdokimov
+      subject: да, можно.
+      deleted: false
+      text: валяйте. с сайта jamsession - литр jameson! )
+      replies:
+      - id: 36870
+        parent_id: 36869
+        date: 2010-04-12 14:21
+        poster: Pumpkinhead
+        subject: Ура!
+        deleted: false
+        text: Спасибо!!!))
+  - id: 36871
+    parent_id: 36865
+    date: 2010-04-12 21:57
+    poster: Федор Романенко
+    subject: Бёрдон
+    deleted: false
+    text: Главное не путать Эрика Бёрдона и Гарри Бёртона ;)
+    replies:
+    - id: 36873
+      parent_id: 36871
+      date: 2010-04-14 03:23
+      poster: Dmitri Kazantsev
+      subject: burb
+      deleted: false
+      text: и Бёртона Каммингза!
+    - id: 36875
+      parent_id: 36871
+      date: 2010-04-15 15:27
+      poster: Pumpkinhead
+      subject: И...
+      deleted: false
+      text: '...Тима Бёртона!'

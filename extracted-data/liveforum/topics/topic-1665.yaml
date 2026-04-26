@@ -1,0 +1,73 @@
+topic_id: 1665
+slug: topic-1665
+title: подскажите исполнителя
+first_post: 2003-12-11 13:23
+last_post: 2003-12-13 23:21
+post_count: 7
+posts:
+- id: 16186
+  parent_id: null
+  date: 2003-12-11 13:23
+  poster: Alexei
+  email: real_sokol@mail.ru
+  subject: подскажите исполнителя
+  deleted: false
+  text: и название альбома - фортепьяно + вокал (муж) все медленные композиции, больше
+    похоже на джаз, чем на блюз и там есть песня Black night is falling должна быть
+    3-им номером, но может, и не 3-им
+  replies:
+  - id: 16197
+    parent_id: 16186
+    date: 2003-12-12 02:52
+    poster: Дима Казанцев (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: Dr. John
+    deleted: false
+    text: In A Sentimental Mood - 1989, например.
+    replies:
+    - id: 16207
+      parent_id: 16197
+      date: 2003-12-12 10:41
+      poster: Alexei
+      email: real_sokol@mail.ru
+      subject: нет, не он
+      deleted: false
+      text: поет спокойно, голос широкий и не ржавый как у этого доктора Джона
+      replies:
+      - id: 16209
+        parent_id: 16207
+        date: 2003-12-12 15:50
+        poster: Дима Казанцев (Dr. Nick)
+        email: dr.nick@blues.ru
+        subject: вот ты как
+        deleted: false
+        text: ржавый голос? а вот именно на этом диске он поет попсово и не ржаво!
+        replies:
+        - id: 16215
+          parent_id: 16209
+          date: 2003-12-13 14:39
+          poster: Андрей Ордальонов (Андрей PRG)
+          email: peregnoy@mail.ru
+          subject: А по-моему,
+          deleted: false
+          text: характеристика "ржавый голос" - лучший комплимент для Dr.John'а. Про
+            кого бы ещё так сказали? Не-е-ет, ребяты,  узнаваемость, драйв, способность
+            к модуляциям - это всё Dr.John. Замечательный голос. Слцшаешь -  и аж
+            мурашки по спине бегут! Во как!
+          replies:
+          - id: 16218
+            parent_id: 16215
+            date: 2003-12-13 23:21
+            poster: Дима Казанцев (Dr. Nick)
+            email: dr.nick@blues.ru
+            subject: это я и имел в виду
+            deleted: false
+            text: его голос уникален и запоминается.
+  - id: 16205
+    parent_id: 16186
+    date: 2003-12-12 04:51
+    poster: Дима Казанцев (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: here
+    deleted: false
+    text: http://www.allmusic.com/cg/amg.dll?p=amg&uid=UIDMISS70311092119511123&sql=Aseh1z8bajyv5

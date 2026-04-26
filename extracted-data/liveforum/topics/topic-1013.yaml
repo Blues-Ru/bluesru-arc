@@ -1,0 +1,24 @@
+topic_id: 1013
+slug: topic-1013
+title: Леван Ломидзе
+first_post: 2002-04-05 10:56
+last_post: 2002-04-05 14:00
+post_count: 2
+posts:
+- id: 3411
+  parent_id: null
+  date: 2002-04-05 10:56
+  poster: Игорь Г.
+  email: sunny_city@mail.ru
+  subject: Леван Ломидзе
+  deleted: false
+  text: сегодня в ЦДХ не в 19.00 а в 19.30,причем на афише в кассе написано в 20.00.
+    Вот так и живем.
+  replies:
+  - id: 3446
+    parent_id: 3411
+    date: 2002-04-05 14:00
+    poster: boogie beard
+    email: chern@ints.ru
+    subject: Удачи !!!   (-)
+    deleted: false

@@ -1,0 +1,61 @@
+topic_id: 3954
+slug: topic-3954
+title: Новость
+first_post: 2008-03-23 20:55
+last_post: 2008-03-24 19:32
+post_count: 6
+posts:
+- id: 35032
+  parent_id: null
+  date: 2008-03-23 20:55
+  poster: Сергей Радин (Ворчун)
+  email: SRV90@mail.ru
+  subject: Новость
+  deleted: false
+  text: '18.04.08. в БИ-1, в 21.00. цена-1500р.
+
+    Гарри Мур!!!!'
+  replies:
+  - id: 35033
+    parent_id: 35032
+    date: 2008-03-24 01:26
+    poster: Dmitri Kazantsev (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: ну наконец-то!
+    deleted: false
+    text: 'столько лет его ждали!
+
+      хоть кто-то даст жару в этой дыре!'
+  - id: 35036
+    parent_id: 35032
+    date: 2008-03-24 02:54
+    poster: Руслан Чифуров
+    email: chifuroff <sobaka> inbox.ru
+    subject: Когда же Мальмстин наконец-то приедет?!
+    deleted: false
+    replies:
+    - id: 35037
+      parent_id: 35036
+      date: 2008-03-24 02:56
+      poster: Dmitri Kazantsev (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: я уже и не надеюсь :(
+      deleted: false
+      text: он так может по блюзу дать!
+      replies:
+      - id: 35040
+        parent_id: 35037
+        date: 2008-03-24 18:43
+        poster: К.Узник
+        email: nickk@newmail.ru
+        subject: Нда..
+        deleted: false
+        text: Ну ладно, не переживайте вы так. Зинчук вас утешит.
+        replies:
+        - id: 35041
+          parent_id: 35040
+          date: 2008-03-24 19:32
+          poster: Dmitri Kazantsev (Dr. Nick)
+          email: dr.nick@blues.ru
+          subject: да и зенчук что-то на джемы не приходит :(
+          deleted: false

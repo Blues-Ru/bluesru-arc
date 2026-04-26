@@ -1,0 +1,114 @@
+topic_id: 992
+slug: topic-992
+title: Ищу группу
+first_post: 2002-05-09 02:27
+last_post: 2002-05-15 16:03
+post_count: 11
+posts:
+- id: 4315
+  parent_id: null
+  date: 2002-05-09 02:27
+  poster: Александр Мальчевский (Tonny)
+  email: heavyfuel@mtu-net.ru
+  subject: Ищу группу
+  deleted: false
+  text: 'Ищу группу, хочу играть. Опыт есть ( две мои предыдущие команды умерли страшной
+    смертью). Сам ритм -гитарист
+
+    Играю может и не мастерски зато надежно'
+  replies:
+  - id: 4316
+    parent_id: 4315
+    date: 2002-05-09 02:31
+    poster: Дима Казанцев (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: Готов
+    deleted: false
+    text: Давай поиграем.
+    replies:
+    - id: 4329
+      parent_id: 4316
+      date: 2002-05-10 01:01
+      poster: Александр Мальчевский (Tonny)
+      email: heavyfuel@mtu-net.ru
+      subject: Ищу группу
+      deleted: false
+      text: Без проблем.  Только сообщи на чем играешь  и т. п. (материал (если есть),
+        идеи (если есть) и о других музыкантах (если есть)
+      replies:
+      - id: 4330
+        parent_id: 4329
+        date: 2002-05-10 01:12
+        poster: Дима Казанцев (Dr. Nick)
+        email: dr.nick@blues.ru
+        subject: Материала и идей дурь
+        deleted: false
+        text: А вот где искать басиста/барабанщика не знаю. Я играю на гитарах и пою
+          (в основном первым голосом).
+        replies:
+        - id: 4332
+          parent_id: 4330
+          date: 2002-05-10 01:20
+          poster: Александр Мальчевский (Tonny)
+          email: heavyfuel@mtu-net.ru
+          subject: Ищу Группу
+          deleted: false
+          text: "Слушай если есть ICQ то номер мой 155468993, если нет то -E-mailheavyfuel@mtu-net.ru\
+            \ \nА бассист и барабанщик найдуться, главное начать"
+          replies:
+          - id: 4335
+            parent_id: 4332
+            date: 2002-05-10 14:28
+            poster: '- Александр Мальчевский (Tonny)'
+            email: heavyfuel@mtu-net.ru
+            subject: ау музыканты и группы
+            deleted: false
+            text: если есть идеи пишите буду рад и счастлив принять участие в любом
+              проекте
+            replies:
+            - id: 4343
+              parent_id: 4335
+              date: 2002-05-11 14:30
+              poster: Александр Мальчевский (Tonny)
+              email: heavyfuel@mtu-net.ru
+              subject: Доку Нику
+              deleted: false
+              text: Пиши, договоримся. Очень хочется поиграть хорошую интересную музыку
+          - id: 4364
+            parent_id: 4332
+            date: 2002-05-14 13:26
+            poster: Slavik Chernov (Blacky)
+            email: Blacky@softhome.net
+            subject: E Димки ооочень завышенные требования к ритм секции
+            deleted: false
+            text: У них там с Ветераном какой то рейтинг драммеров существует, я из
+              него только Зизака помню, так вот, если кто-то из барабанщиков не в
+              этом списке, Дима играет без удовольствия, IMHO :-)
+            replies:
+            - id: 4388
+              parent_id: 4364
+              date: 2002-05-15 16:03
+              poster: Дима Казанцев (Dr. Nick)
+              email: dr.nick@blues.ru
+              subject: Не совсем так
+              deleted: false
+              text: Ветеран играет без удовольствия, а я уже всместе с ним ;) Кстати,
+                в Москве только 6 нормальных драммеров.
+  - id: 4340
+    parent_id: 4315
+    date: 2002-05-11 13:09
+    poster: Александр Мальчевский (Tonny)
+    email: heavyfuel@mtu-net.ru
+    subject: To Dr.Nick
+    deleted: false
+    text: Если ты серьезно насчет совместного творчества, то давай сконектимся как-нибудь
+      и побеседуем по подробнее
+    replies:
+    - id: 4345
+      parent_id: 4340
+      date: 2002-05-11 16:26
+      poster: Дима Казанцев (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: Так пиши в мыло, блин!
+      deleted: false
+      text: Разве это так сложно? ;)

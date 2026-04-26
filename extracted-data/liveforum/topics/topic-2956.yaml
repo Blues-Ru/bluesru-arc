@@ -1,0 +1,73 @@
+topic_id: 2956
+slug: topic-2956
+title: Grem-a c Днем рождения!!!
+first_post: 2005-11-28 00:21
+last_post: 2005-11-29 17:42
+post_count: 8
+posts:
+- id: 24752
+  parent_id: null
+  date: 2005-11-28 00:21
+  poster: (burgik)
+  email: burgik@yandex.ru
+  subject: Grem-a c Днем рождения!!!
+  deleted: false
+  replies:
+  - id: 24753
+    parent_id: 24752
+    date: 2005-11-28 00:24
+    poster: Дмитрий Казанцев (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: yep!
+    deleted: false
+    text: 'HB 2 U !!!
+
+      I wish you all the best !'
+  - id: 24754
+    parent_id: 24752
+    date: 2005-11-28 01:14
+    poster: Руслан Чифуров ()
+    email: chifuroff@inbox.ru
+    subject: Ну и месяц- одни дни рождения :-)))))
+    deleted: false
+    text: Присоединяюсь конечно же! И всего, всего, всего самого наилучшего!
+    replies:
+    - id: 24755
+      parent_id: 24754
+      date: 2005-11-28 01:57
+      poster: Ара Блюзмен
+      email: ara@blues.ru
+      subject: ибануцце надо!
+      deleted: false
+      text: блин ващще!
+  - id: 24758
+    parent_id: 24752
+    date: 2005-11-28 11:23
+    poster: Arsen Shomakhov
+    email: ragtime@blues.ru
+    subject: Happy B-day!
+    deleted: false
+    text: С днем рожденья! Всех благ!
+  - id: 24762
+    parent_id: 24752
+    date: 2005-11-29 10:40
+    poster: (Grem)
+    email: grems@yandex.ru
+    subject: Cпасибо всем!!!
+    deleted: false
+    replies:
+    - id: 24765
+      parent_id: 24762
+      date: 2005-11-29 11:22
+      poster: Дмитрий Казанцев (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: 13-го у нас презентация
+      deleted: false
+      text: Ждем тебя в Доме! С девками и журналистами :)
+  - id: 24783
+    parent_id: 24752
+    date: 2005-11-29 17:42
+    poster: Владимир Русинов (BluesCat)
+    email: volodya@blues.ru
+    subject: УРА! :)
+    deleted: false

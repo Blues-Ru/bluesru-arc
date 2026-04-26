@@ -1,0 +1,38 @@
+topic_id: 2009
+slug: topic-2009
+title: ГИТАРИСТКИ
+first_post: 2002-07-07 16:37
+last_post: 2002-07-09 13:18
+post_count: 3
+posts:
+- id: 5900
+  parent_id: null
+  date: 2002-07-07 16:37
+  poster: Иван Иванов
+  email: ivan@hotmail.com
+  subject: ГИТАРИСТКИ
+  deleted: false
+  text: 'Отличный сайт гитаристок разных стилей, включая блюз.
+
+    http://www.ladysixstring.com/'
+  replies:
+  - id: 5915
+    parent_id: 5900
+    date: 2002-07-08 17:52
+    poster: Сергей  Бабаев
+    email: ben2jamm@yahoo.com
+    subject: Da!!! Privet vsem!
+    deleted: false
+    text: Davno otkopal etot sait.Osobenno rekomenduiu The Lydia Warren Band...vot
+      eto glotka!!!http://www.thewebworks.com/~mattam/loveme.mp3
+    replies:
+    - id: 5952
+      parent_id: 5915
+      date: 2002-07-09 13:18
+      poster: Петр Кунарев (Eastwood2002)
+      email: cousins@yandex.ru
+      subject: Серееееегааа)))))
+      deleted: false
+      text: 'Пропал куда?)) Ты в столидзе исчо? Или улетел в солнечный Ашхабад?)))
+
+        Блин, с работы ухожу, в и-нете редко((( Пиши, звони)))))'

@@ -1,0 +1,36 @@
+topic_id: 552
+slug: topic-552
+title: Di & His Magical Pedals
+first_post: 2003-01-03 16:33
+last_post: 2003-01-03 17:15
+post_count: 3
+posts:
+- id: 9829
+  parent_id: null
+  date: 2003-01-03 16:33
+  poster: Федор Романенко (fedor)
+  email: fedor@blues.ru
+  subject: Di & His Magical Pedals
+  deleted: false
+  text: Димон с Микояном и своими новыми Волшебными Педальками выступает сегодня в
+    БиБиКинге. ;) Не пропустите! ;)
+  replies:
+  - id: 9830
+    parent_id: 9829
+    date: 2003-01-03 17:13
+    poster: Дима Казанцев (Казан)
+    email: dr.nick@blues.ru
+    subject: Может все же
+    deleted: false
+    text: 'DEE &...?
+
+      А то Lady Di звали принцессу Дайну. Женское это имя и звучит как die...'
+    replies:
+    - id: 9831
+      parent_id: 9830
+      date: 2003-01-03 17:15
+      poster: Дима Казанцев (Казан)
+      email: dr.nick@blues.ru
+      subject: Опечатка ;)
+      deleted: false
+      text: Дайану, конечно ;)

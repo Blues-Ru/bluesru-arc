@@ -1,0 +1,54 @@
+topic_id: 906
+slug: topic-906
+title: Tribute J.H.
+first_post: 2002-05-28 00:17
+last_post: 2002-05-30 16:24
+post_count: 5
+posts:
+- id: 4729
+  parent_id: null
+  date: 2002-05-28 00:17
+  poster: Андрей PRG
+  email: peregnoy@mail.ru
+  subject: Tribute J.H.
+  deleted: false
+  text: Интересно, а будет ли в Москве что-нибудь происходить в ознаменование 60-летия
+    Хендрикса? Вроде ещё и не скоро, но ведь мёртвый сезон же наступает... Вот в Сиэттле
+    и в Париже... (см.http://www.zvuki.ru/R/P/7408/)
+  replies:
+  - id: 4731
+    parent_id: 4729
+    date: 2002-05-28 00:39
+    poster: Ильницкий
+    email: ev_il@mail.ru
+    subject: конкурс
+    deleted: false
+    text: на guitars.ru происходит конкурс гитаристов, каждый желающий может прислать
+      свою версию little wing
+    replies:
+    - id: 4736
+      parent_id: 4731
+      date: 2002-05-28 02:54
+      poster: Вадим  (AVA)
+      email: vad2908@mail.ru
+      subject: на hendrix.ru....
+      deleted: false
+      text: '...это вообще простоянная рубрика....'
+      replies:
+      - id: 4738
+        parent_id: 4736
+        date: 2002-05-28 07:17
+        poster: Андрей PRG
+        email: peregnoy@mail.ru
+        subject: Я вообще-то...
+        deleted: false
+        text: говорил немного о другом. Вот, например, если кто помнит, в декабре
+          1997 года в B.B.King'e проходило мероприятие "J.Hendrix Tribute Party ..."
+  - id: 4821
+    parent_id: 4729
+    date: 2002-05-30 16:24
+    poster: Хелен
+    email: gromko@land.ru
+    subject: Оно и...
+    deleted: false
+    text: в 2001 там же проходило :)

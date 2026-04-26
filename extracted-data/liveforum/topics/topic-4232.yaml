@@ -1,0 +1,25 @@
+topic_id: 4232
+slug: topic-4232
+title: подскажите, кто исполняет
+first_post: 2009-05-29 12:18
+last_post: 2009-05-29 15:38
+post_count: 2
+posts:
+- id: 36339
+  parent_id: null
+  date: 2009-05-29 12:18
+  poster: manny
+  subject: подскажите, кто исполняет
+  deleted: false
+  text: http://www.2x2tv.ru/movie/e429b15cec58186b0a7cd550f27e19d3
+  replies:
+  - id: 36340
+    parent_id: 36339
+    date: 2009-05-29 15:38
+    poster: Старый Майор
+    subject: Я сделал кросс-посты, следите за обсуждениями там
+    deleted: false
+    text: 'http://community.livejournal.com/ru_blues/712486.html
+
+
+      http://bluesforum.ru/index.php?showtopic=1363'

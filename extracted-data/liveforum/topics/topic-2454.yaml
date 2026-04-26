@@ -1,0 +1,37 @@
+topic_id: 2454
+slug: topic-2454
+title: Маленькое дополнение к отчету Арсена Шомахова
+first_post: 2005-03-02 13:38
+last_post: 2005-03-02 19:15
+post_count: 3
+posts:
+- id: 20602
+  parent_id: null
+  date: 2005-03-02 13:38
+  poster: ИгорьГ
+  email: sunny_city@mail.ru
+  subject: Маленькое дополнение к отчету Арсена Шомахова
+  deleted: false
+  text: 'о его поездке с группой Регтайм на International Blues Challenge 2005
+
+
+    Информация об участниках.Попадаются фото и демки.
+
+    http://www.sonicbids.com/events/event_view.asp?event_id=284'
+  replies:
+  - id: 20604
+    parent_id: 20602
+    date: 2005-03-02 18:30
+    poster: Elicaster
+    email: elicaster(@)))mmmmmmmmmmail.ru
+    subject: 'или вот такая ссылка:'
+    deleted: false
+    text: http://www.sonicbids.com/epk/epk.asp?epk_id=23337
+    replies:
+    - id: 20606
+      parent_id: 20604
+      date: 2005-03-02 19:15
+      poster: Игорь Г
+      email: sunny_city@mail.ru
+      subject: Ну есссественно :)))
+      deleted: false

@@ -1,0 +1,63 @@
+topic_id: 3655
+slug: topic-3655
+title: Ода пиву Пит
+first_post: 2007-06-05 09:18
+last_post: 2007-06-05 23:59
+post_count: 5
+posts:
+- id: 33055
+  parent_id: null
+  date: 2007-06-05 09:18
+  poster: Эльдар
+  email: El@ma.ru
+  subject: Ода пиву Пит
+  deleted: false
+  text: 'Каджый дэн, тачнэе ближэ к ноч, по ТВ таварищь Д.Казанцев паёт про каково-то
+    БальшогоЧилавека. Типа риклама пива. А на самом-то деле это завуалированное воспевание
+    <a href="http://dirty.ru/comments/215198">нарушения семейных ценностей</a>.
+
+    Сегодня ты пьёшь пиво ПИТ,
+
+    А завтра Родину продашь!
+
+    P.S. Что скажет княгиня Брэд Пит???'
+  replies:
+  - id: 33056
+    parent_id: 33055
+    date: 2007-06-05 18:51
+    poster: Эльдар
+    email: el@ma.ru
+    subject: Точнее здесь
+    deleted: false
+    text: 'Точнее здесь всё написано:
+
+      <a href="http://www.nr2.ru/122283.html">Телевизионная реклама пива «Пит» оскорбляет
+      семейные ценности (ВИДЕО)</a>'
+    replies:
+    - id: 33057
+      parent_id: 33056
+      date: 2007-06-05 18:55
+      poster: Эльдар
+      email: el@ma.ru
+      subject: Или здесь
+      deleted: false
+      text: http://lenta.ru/news/2007/06/04/beer/
+      replies:
+      - id: 33058
+        parent_id: 33057
+        date: 2007-06-05 20:31
+        poster: Dmitri Kazantsev (Dr. Nick)
+        email: dr.nick@blues.ru
+        subject: безобразие!
+        deleted: false
+        replies:
+        - id: 33059
+          parent_id: 33058
+          date: 2007-06-05 23:59
+          poster: Фрекен Бокк
+          email: gypsy@mail.ru
+          subject: Я за семейные ценности!
+          deleted: false
+          text: "Тем более, что семьи у меня.. мнэээээ... никогда и не было..\nПусть\
+            \ пачкает ковёр, пусть топчет клумбу, пусть съест все плюшки вместе с\
+            \ холодильником.. \nОн обещал вернуться...."

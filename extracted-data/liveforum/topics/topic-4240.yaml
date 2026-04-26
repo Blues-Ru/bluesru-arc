@@ -1,0 +1,50 @@
+topic_id: 4240
+slug: topic-4240
+title: Куда пропал Юртй Каверкин?
+first_post: 2009-06-07 16:28
+last_post: 2009-06-09 22:49
+post_count: 6
+posts:
+- id: 36367
+  parent_id: null
+  date: 2009-06-07 16:28
+  poster: Elena
+  subject: Куда пропал Юртй Каверкин?
+  deleted: false
+  text: Очень хочется сходить на концерт Юрия. Но не могу найти ни сайта, ни странички
+    в интернете о его концертах. Может подскажите ближайшие. Заранее спасибо.
+  replies:
+  - id: 36368
+    parent_id: 36367
+    date: 2009-06-07 22:44
+    poster: tavr
+    subject: его жж
+    deleted: false
+    text: http://saltuarius.livejournal.com
+  - id: 36370
+    parent_id: 36367
+    date: 2009-06-08 09:44
+    poster: Grem
+    subject: Совсем скоро
+    deleted: false
+    text: 10 июня в "Доме у дороги" http://www.roadhouse.ru/12.html
+  - id: 36372
+    parent_id: 36367
+    date: 2009-06-09 22:20
+    poster: тавр
+    subject: куда он денется с подводной лоддки
+    deleted: false
+  - id: 36373
+    parent_id: 36367
+    date: 2009-06-09 22:33
+    poster: Елена
+    subject: А куда подевался Юрй Отверткин
+    deleted: false
+    replies:
+    - id: 36374
+      parent_id: 36373
+      date: 2009-06-09 22:49
+      poster: минотавр
+      subject: Почетный гость в с Синей Птице каждую
+      deleted: false
+      text: почетный гость в птице каждую среду

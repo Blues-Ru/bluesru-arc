@@ -1,0 +1,61 @@
+topic_id: 3724
+slug: topic-3724
+title: поправка!
+first_post: 2007-08-22 19:59
+last_post: 2007-09-07 01:06
+post_count: 6
+posts:
+- id: 33394
+  parent_id: null
+  date: 2007-08-22 19:59
+  poster: Dmitri Kazantsev (Dr. Nick)
+  email: dr.nick@blues.ru
+  subject: поправка!
+  deleted: false
+  text: 'мы сегодня в Мьюзик Тауне, но начало в 22, а не в 21!
+
+
+    приходите!'
+  replies:
+  - id: 33395
+    parent_id: 33394
+    date: 2007-08-23 13:03
+    poster: Бурбулятор
+    email: burrrr@blues.ru
+    subject: поправка Джексона-Веника
+    deleted: false
+    replies:
+    - id: 33399
+      parent_id: 33395
+      date: 2007-08-23 19:01
+      poster: Валентин
+      email: voshalb@rambler.ru
+      subject: Веника, блин, не вижу)))
+      deleted: false
+      text: Так вот.
+      replies:
+      - id: 33402
+        parent_id: 33399
+        date: 2007-08-24 13:34
+        poster: Старый Майор
+        email: gypsy@mail.ru
+        subject: Повязали Веника...
+        deleted: false
+        replies:
+        - id: 33429
+          parent_id: 33402
+          date: 2007-09-05 12:41
+          poster: Arsen
+          email: rag@blues.ru
+          subject: Хуже...
+          deleted: false
+          text: http://www.korrespondent.net/main/205415/
+          replies:
+          - id: 33448
+            parent_id: 33429
+            date: 2007-09-07 01:06
+            poster: Старый Майор
+            email: gypsy@mail.ru
+            subject: Мдя..
+            deleted: false
+            text: Мир праху его.. всем бы нам дожить до 94 лет...

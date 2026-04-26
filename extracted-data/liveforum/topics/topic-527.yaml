@@ -1,0 +1,25 @@
+topic_id: 527
+slug: topic-527
+title: вот, сыграли)))
+first_post: 2002-12-23 02:03
+last_post: 2002-12-23 21:44
+post_count: 2
+posts:
+- id: 9561
+  parent_id: null
+  date: 2002-12-23 02:03
+  poster: Петр Кунарев (Eastwood2002)
+  email: cousins@yandex.ru
+  subject: вот, сыграли)))
+  deleted: false
+  text: 'Backsliders дали первый концерт))) Совместно со Сколдерами в Старом Мельнике)))
+
+    Проба пера прошла нормально. Приглашаем :))))'
+  replies:
+  - id: 9595
+    parent_id: 9561
+    date: 2002-12-23 21:44
+    poster: The Midnight Lady
+    email: midnight_lady@rbcmail.ru
+    subject: Приглашаете - подробнее..куда и когда....
+    deleted: false

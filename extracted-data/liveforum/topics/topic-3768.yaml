@@ -1,0 +1,86 @@
+topic_id: 3768
+slug: topic-3768
+title: Володю Русинова с ДР!
+first_post: 2007-10-17 22:56
+last_post: 2007-10-23 16:15
+post_count: 8
+posts:
+- id: 33669
+  parent_id: null
+  date: 2007-10-17 22:56
+  poster: Эльдар
+  email: Эльдар
+  subject: Володю Русинова с ДР!
+  deleted: false
+  text: 'Тут мне аська сообщает:
+
+    Завтра, 18.10.2007 исполнится 32 годика.
+
+    Если аська не врёт, то с вышеозначенным я вышеупамянутого
+
+    ПОЗДРАВЛЯЮ!
+
+    ВСЕГО И СРАЗУ!
+
+    ВСЕГО САМОГО ХОРОШЕГО (в т.ч. и МУЗЫКИ)
+
+    p.s. как там пакистан-то? на месте? чё там делал-то?'
+  replies:
+  - id: 33670
+    parent_id: 33669
+    date: 2007-10-18 00:15
+    poster: Вадим  Иващенко (fingerpicker)
+    email: vadikiv@mail.ru
+    subject: c ДР,Володя!
+    deleted: false
+    text: Здоровья и творческих успехов!  ДР в Непале-это круто!
+  - id: 33680
+    parent_id: 33669
+    date: 2007-10-19 18:23
+    poster: Руслан Чифуров
+    email: chifuroff<sobaka>indox.ru
+    subject: Присоединяюсь!
+    deleted: false
+  - id: 33692
+    parent_id: 33669
+    date: 2007-10-22 20:03
+    poster: vr
+    email: volodya@blues.ru
+    subject: spasibo! :)))
+    deleted: false
+    text: tut ochen horosho... ;) podrobnosti v lj i pozgee :)
+    replies:
+    - id: 33694
+      parent_id: 33692
+      date: 2007-10-23 01:36
+      poster: Dmitri Kazantsev (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: ара, возвращайся
+      deleted: false
+      text: играть бум
+      replies:
+      - id: 33696
+        parent_id: 33694
+        date: 2007-10-23 14:06
+        poster: Andrei V. Evdokimov (evdokimov)
+        email: evdokimov@blues.ru
+        subject: спускается с гор Русинов новорожденный...
+        deleted: false
+        text: '...жители долин бегут в панике покидают дома'
+        replies:
+        - id: 33697
+          parent_id: 33696
+          date: 2007-10-23 16:14
+          poster: Dmitri Kazantsev (Dr. Nick)
+          email: dr.nick@blues.ru
+          subject: канэшна
+          deleted: false
+          text: далина малина!
+          replies:
+          - id: 33698
+            parent_id: 33697
+            date: 2007-10-23 16:15
+            poster: Dmitri Kazantsev (Dr. Nick)
+            email: dr.nick@blues.ru
+            subject: или Ралф Молина?
+            deleted: false

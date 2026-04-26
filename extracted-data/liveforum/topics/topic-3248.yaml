@@ -1,0 +1,83 @@
+topic_id: 3248
+slug: topic-3248
+title: Помогите идентифицировать песню Джеймса Брауна
+first_post: 2006-05-10 23:57
+last_post: 2006-05-11 20:37
+post_count: 6
+posts:
+- id: 27292
+  parent_id: null
+  date: 2006-05-10 23:57
+  poster: Dan_In_Black
+  email: daninblack@mail.ru
+  subject: Помогите идентифицировать песню Джеймса Брауна
+  deleted: false
+  text: 'Здравствуйте!
+
+    Есть mp3 с песней Джеймса Брауна. Никак не удается определить название и, соответственно,
+    в каком году и на каком альбоме она была.
+
+    Выложил сюда:
+
+    http://www.meetfile.com/files/5714
+
+    Размер - 1,54 Мб
+
+    Помогите, плз! Спасибо!'
+  replies:
+  - id: 27296
+    parent_id: 27292
+    date: 2006-05-11 10:03
+    poster: Muddy Lives
+    email: mlives_6@hotmail
+    subject: Again
+    deleted: false
+    text: '"Again" вышел на альбоме "Prisoner of Love" в 1963 г. (King 851).  King
+      также ее выпустил а качестве 45 в 1964 г. вместе с "How Long Darling." (King
+      5876).
+
+
+      Muddy'
+    replies:
+    - id: 27301
+      parent_id: 27296
+      date: 2006-05-11 15:25
+      poster: Dan_In_Black
+      email: daninblack@mail.ru
+      subject: А где купить?
+      deleted: false
+      text: 'Спасибо огромное!!!
+
+        А может подскажете, где в Москве можно купить вышеупомянутый альбом "Prisoner
+        of Love"?'
+      replies:
+      - id: 27302
+        parent_id: 27301
+        date: 2006-05-11 15:59
+        poster: Muddy Lives
+        email: mlives_6@hotmail
+        subject: хороший вопрос
+        deleted: false
+        text: "Будет наверно нелегко найти.  Насколько я знаю, компактный диск еще\
+          \ не вышел (но возможно японцы выпустили).  Существует компактный диск с\
+          \ тем же названием, но это сборник хитов, и не включает \"Again.\"  В ebay\
+          \ предлагается.  Но это не Москва!  \nhttp://cgi.ebay.com/James-Brown-Prisoner-of-Love-LP-Sealed_W0QQitemZ4878220379QQcategoryZ306QQssPageNameZWDVWQQrdZ1QQcmdZViewItem\n\
+          Если нравится браунское исполнение баллад, существует недавно вышедщий сборник\
+          \ \"Ballads.\"  Нет \"Again,\" но есть подобные исполнения, которые (по-моему)\
+          \ не хуже.  \n\nMuddy"
+      - id: 27309
+        parent_id: 27301
+        date: 2006-05-11 20:12
+        poster: Старый Майор
+        email: gypsy@mail.ru
+        subject: Prisoner of Love - сама  по себе отличная песня..
+        deleted: false
+        text: слушаю исполнение с альбома Live at Apollo, красота...
+        replies:
+        - id: 27312
+          parent_id: 27309
+          date: 2006-05-11 20:37
+          poster: Muddy Lives
+          email: mlives_6@hotmail
+          subject: Верно!
+          deleted: false

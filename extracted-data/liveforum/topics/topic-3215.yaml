@@ -1,0 +1,90 @@
+topic_id: 3215
+slug: topic-3215
+title: Lurrie Bell at Roadhouse 19.04.2006
+first_post: 2006-04-20 01:22
+last_post: 2006-04-23 06:28
+post_count: 9
+posts:
+- id: 27009
+  parent_id: null
+  date: 2006-04-20 01:22
+  poster: Владимир Русинов (BluesCat)
+  email: volodya@blues.ru
+  subject: Lurrie Bell at Roadhouse 19.04.2006
+  deleted: false
+  text: http://www.bluescats.ru/files/20060419.bell/
+  replies:
+  - id: 27013
+    parent_id: 27009
+    date: 2006-04-20 09:57
+    poster: (Grem)
+    email: grems@yandex.ru
+    subject: Да, дядька очень хорош
+    deleted: false
+    text: 'Потрясающий Lurrie - вот он настоящий безбашенный чикагский блюзмен.
+
+      Столько драйва, грува или хрен знает чего еще. Эффесы -отдыхают.
+
+      Доку и Ко отдельное спасибо, что привозит таких перцев....тенденция роста качества.
+      Одно небольшое "но" - слишком много стандартов (хотелось побольше его вещей
+      услышать), но наверное трудности первого концерта и сыгранности с King Size.
+      Парень то не просто хорошо играет -он живет этой музыкой.'
+    replies:
+    - id: 27024
+      parent_id: 27013
+      date: 2006-04-20 15:00
+      poster: Владимир Русинов (BluesCat)
+      email: volodya@blues.ru
+      subject: а если бы
+      deleted: false
+      text: Эфесовцы выступили в доме у дороги, а в самолетных ангарах :) - то думаю
+        эффект был бы очень даже сильный ....
+      replies:
+      - id: 27043
+        parent_id: 27024
+        date: 2006-04-20 19:38
+        poster: Grem
+        email: grems@yandex.ru
+        subject: А это тема
+        deleted: false
+        text: Юр Иванычу надо подумать:-)))
+        replies:
+        - id: 27045
+          parent_id: 27043
+          date: 2006-04-21 00:12
+          poster: Владимир Русинов (BluesCat)
+          email: volodya@blues.ru
+          subject: уже пробовали :) Эфес не даст такой фокус сделать.
+          deleted: false
+  - id: 27056
+    parent_id: 27009
+    date: 2006-04-22 03:41
+    poster: Mara Levin (Marianner)
+    email: illuzyi@narod.ru
+    subject: Фотографии с третьего концерта Lurrie Bell'a концерта в Доме у Дороги
+    deleted: false
+    text: http://marianner.livejournal.com/652230.html
+    replies:
+    - id: 27057
+      parent_id: 27056
+      date: 2006-04-22 18:40
+      poster: Dmitri Kazantsev (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: клёво!
+      deleted: false
+      replies:
+      - id: 27058
+        parent_id: 27057
+        date: 2006-04-23 00:36
+        poster: Владимир Русинов (BluesCat)
+        email: volodya@blues.ru
+        subject: ты бы лучше сам пришел :)
+        deleted: false
+        replies:
+        - id: 27059
+          parent_id: 27058
+          date: 2006-04-23 06:28
+          poster: Dmitri Kazantsev (Dr. Nick)
+          email: dr.nick@blues.ru
+          subject: я работал
+          deleted: false

@@ -1,0 +1,27 @@
+topic_id: 2993
+slug: topic-2993
+title: Блюз под пиво (Отчет с фестиваля блюза “Efes Pilsner”).
+first_post: 2005-12-13 01:46
+last_post: 2005-12-13 08:16
+post_count: 2
+posts:
+- id: 25024
+  parent_id: null
+  date: 2005-12-13 01:46
+  poster: him
+  email: a@mail.ru
+  subject: Блюз под пиво (Отчет с фестиваля блюза “Efes Pilsner”).
+  deleted: false
+  text: 'Блюз под пиво (Отчет с фестиваля блюза “Efes Pilsner”).
+
+
+    http://www.openmusic.ru/articles-respond-events/0299-efes_pilsner_blues1/index.shtml'
+  replies:
+  - id: 25028
+    parent_id: 25024
+    date: 2005-12-13 08:16
+    poster: Валентин
+    email: voshalb@rambler.ru
+    subject: Да...отзыв весьма средней парщивости...
+    deleted: false
+    text: Малоинформативно...Ну и на том спасибо...

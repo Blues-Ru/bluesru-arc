@@ -1,0 +1,33 @@
+topic_id: 4018
+slug: topic-4018
+title: Очередной рассёр,очередное деление?
+first_post: 2008-05-29 15:15
+last_post: 2008-05-30 03:15
+post_count: 2
+posts:
+- id: 35457
+  parent_id: null
+  date: 2008-05-29 15:15
+  poster: Игорь Головачев (Игорь Г.)
+  email: sunny_city@mail.ru
+  subject: Очередной рассёр,очередное деление?
+  deleted: false
+  text: 'www.lexiconorchestra.ru
+
+    и
+
+    www.lexiconswing.ru
+
+
+    Если я правильно понимаю,то Коля Второв остался один.
+
+    Жаль,очень жаль.'
+  replies:
+  - id: 35459
+    parent_id: 35457
+    date: 2008-05-30 03:15
+    poster: витя еблан
+    email: victor@blues.ru
+    subject: а кто это?
+    deleted: false
+    text: блюзовые звёзды?

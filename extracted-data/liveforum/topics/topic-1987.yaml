@@ -1,0 +1,65 @@
+topic_id: 1987
+slug: topic-1987
+title: Битва титанов
+first_post: 2004-04-14 11:28
+last_post: 2004-04-14 20:25
+post_count: 6
+posts:
+- id: 17964
+  parent_id: null
+  date: 2004-04-14 11:28
+  poster: Анна
+  email: udod@pacc.ru
+  subject: Битва титанов
+  deleted: false
+  text: 'В объявлении о концерте указано время начала концерта 19-30, а на билетах
+    - 18-00. Вопрос: во сколько начнется концерт?'
+  replies:
+  - id: 17967
+    parent_id: 17964
+    date: 2004-04-14 13:17
+    poster: Andrei V. Evdokimov (evdokimov)
+    email: evdokimov@blues.ru
+    subject: очепятка, корректора - уволю!  :)
+    deleted: false
+    text: а Вам спасибо за внимание и помощь
+    replies:
+    - id: 17969
+      parent_id: 17967
+      date: 2004-04-14 13:56
+      poster: Анна
+      email: udod@pacc.ru
+      subject: Спасибо Вам за уточнение.
+      deleted: false
+    - id: 17970
+      parent_id: 17967
+      date: 2004-04-14 13:59
+      poster: Анна
+      email: udod@pacc.ru
+      subject: Андрей, скажите, а концерт будет записываться?
+      deleted: false
+      replies:
+      - id: 17977
+        parent_id: 17970
+        date: 2004-04-14 19:22
+        poster: Игорь Г.
+        email: sunny_city@mail.ru
+        subject: Вопрос кончно же не ко мне ,но
+        deleted: false
+        text: 'если имелось ввиду появится ли ЭТО на bluesmAn.ru,то я очень сильно!!!
+          сомневаюсь.Может быть старик Матраскин что-нибудь поведает на сей счет?
+          Или еще кто?
+
+          p.s
+
+          Да,на bluesmAn-e звуковое затишье,но обещаю все будет,будет обязательно!!!'
+        replies:
+        - id: 17979
+          parent_id: 17977
+          date: 2004-04-14 20:25
+          poster: Андрей Ордальонов (Андрей PRG)
+          email: peregnoy@mail.ru
+          subject: Да и ваще
+          deleted: false
+          text: что-то bluesman и bluesmen последнее время отвратительно грузятся.
+            Вот даже гармоника.ру, вроде, прочихалась.

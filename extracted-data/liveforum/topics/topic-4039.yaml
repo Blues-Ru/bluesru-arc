@@ -1,0 +1,33 @@
+topic_id: 4039
+slug: topic-4039
+title: Larry Taylor.надо починить.
+first_post: 2008-06-25 03:59
+last_post: 2008-06-25 12:44
+post_count: 3
+posts:
+- id: 35514
+  parent_id: null
+  date: 2008-06-25 03:59
+  poster: Jumpin' Jack Flash
+  email: nkl,nkl
+  subject: Larry Taylor.надо починить.
+  deleted: false
+  text: там в поздравительной статье он "вокалист" и "она" )))
+  replies:
+  - id: 35515
+    parent_id: 35514
+    date: 2008-06-25 11:03
+    poster: Andrei V. Evdokimov (evdokimov)
+    email: evdokimov@blues.ru
+    subject: я починил, конечно...
+    deleted: false
+    text: но стоило ли? столько лет провисел в календаре как "она" - и ничего! )))
+    replies:
+    - id: 35516
+      parent_id: 35515
+      date: 2008-06-25 12:44
+      poster: Jumpin' Jack Flash
+      email: njnjkn
+      subject: )))
+      deleted: false
+      text: главное чтоб петь от этого не начал )))

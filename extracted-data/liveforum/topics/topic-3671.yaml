@@ -1,0 +1,64 @@
+topic_id: 3671
+slug: topic-3671
+title: Помогите найти песеню
+first_post: 2007-07-04 18:05
+last_post: 2007-10-04 16:00
+post_count: 7
+posts:
+- id: 33132
+  parent_id: null
+  date: 2007-07-04 18:05
+  poster: Gika
+  email: Gika_mshawia@mail.ru
+  subject: Помогите найти песеню
+  deleted: false
+  text: Кто знает где скачать эту песню Lord have mercy on me вышлите ссылку очень
+    надо спасибо за внмание.
+  replies:
+  - id: 33134
+    parent_id: 33132
+    date: 2007-07-04 22:33
+    poster: Dmitri Kazantsev (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: чья песня-то?
+    deleted: false
+  - id: 33135
+    parent_id: 33132
+    date: 2007-07-04 22:34
+    poster: Dmitri Kazantsev (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: может это Stormy Monday?
+    deleted: false
+  - id: 33136
+    parent_id: 33132
+    date: 2007-07-05 14:39
+    poster: Вадим Иващенко
+    email: vadikiv@mail,ru
+    subject: В чьем исполнении?
+    deleted: false
+    text: Это может быть песня Рэя Чарлза.Вы могли слышать ее в исполнении Клэптона
+      на "From the cradle"
+  - id: 33582
+    parent_id: 33132
+    date: 2007-10-04 16:00
+    poster: Rozario Agro
+    email: rs_beast@inbox.ru
+    subject: Lord have mercy
+    deleted: false
+    text: http://musicmp3.spb.ru/album/1022/no_more_whiskey.htm
+  - id: 33583
+    parent_id: 33132
+    date: 2007-10-04 16:00
+    poster: Rozario Agro
+    email: rs_beast@inbox.ru
+    subject: Lord have mercy
+    deleted: false
+    text: http://musicmp3.spb.ru/album/1022/no_more_whiskey.htm
+  - id: 33584
+    parent_id: 33132
+    date: 2007-10-04 16:00
+    poster: Rozario Agro
+    email: rs_beast@inbox.ru
+    subject: Lord have mercy
+    deleted: false
+    text: http://musicmp3.spb.ru/album/1022/no_more_whiskey.htm

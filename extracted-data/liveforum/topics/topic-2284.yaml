@@ -1,0 +1,73 @@
+topic_id: 2284
+slug: topic-2284
+title: Харп-фест
+first_post: 2004-10-24 02:43
+last_post: 2004-10-25 14:57
+post_count: 7
+posts:
+- id: 19520
+  parent_id: null
+  date: 2004-10-24 02:43
+  poster: Кожекин
+  email: kozhekin@mail.ru
+  subject: Харп-фест
+  deleted: false
+  text: Господа! Принимаю соображения и пожелания по поводу Харп-феста! Очень прошу
+    - откликнитесь на мое сообщение и закидайте меня советами!
+  replies:
+  - id: 19521
+    parent_id: 19520
+    date: 2004-10-24 08:30
+    poster: Ded Morozzz
+    email: morozzz_ded@mail.ru
+    subject: Пожелания...
+    deleted: false
+    text: 'http://blues.ru/blog/fedor/posts/434.aspx
+
+      .
+
+      гы гы гы :)'
+    replies:
+    - id: 19522
+      parent_id: 19521
+      date: 2004-10-24 10:08
+      poster: Андрей Ордальонов (Андрей PRG)
+      email: peregnoy@mail.ru
+      subject: А к чему относится
+      deleted: false
+      text: '"гы гы гы :)"? Это, наверное, жутко смешно?'
+  - id: 19524
+    parent_id: 19520
+    date: 2004-10-24 13:37
+    poster: Ded Morozzz
+    email: morozzz_ded@mail.ru
+    subject: Ну это так, случайно вырвалось...
+    deleted: false
+    text: "... вот. \n.\nА ссылка была на то, что действительно можно считать харп-фестом\
+      \ :)"
+    replies:
+    - id: 19526
+      parent_id: 19524
+      date: 2004-10-24 14:01
+      poster: Кожекин
+      email: kozhekin@mail.ru
+      subject: Так в первый день Харп-феста они и выступают
+      deleted: false
+      text: С Петровичем на разогреве. Во второй кого звать. Дорогой Дед Мороз - харе
+        меня запутывать.
+  - id: 19525
+    parent_id: 19520
+    date: 2004-10-24 13:42
+    poster: Кожекин
+    email: kozhekin@mail.ru
+    subject: Да нет - это-то понятно
+    deleted: false
+    text: Кого звать КРОМЕ иностранцев. Молодежь какую звать?
+  - id: 19532
+    parent_id: 19520
+    date: 2004-10-25 14:57
+    poster: Aleksei Denisoff (KotMatraskin)
+    email: kotmatrs@mail.ru
+    subject: Петрович-Братецкий-Гегард-Владимиров-Кожекин
+    deleted: false
+    text: Неужели опять? Те же рожи и в тех же позах...

@@ -1,0 +1,52 @@
+topic_id: 2360
+slug: topic-2360
+title: Сергей Воронов
+first_post: 2004-12-24 22:34
+last_post: 2004-12-29 19:32
+post_count: 5
+posts:
+- id: 20049
+  parent_id: null
+  date: 2004-12-24 22:34
+  poster: Клариси
+  email: klarisi@yandex.ru
+  subject: Сергей Воронов
+  deleted: false
+  text: У кого есть фото Сергея Воронова?????? Куплю за любые деньги!!!!!!!
+  replies:
+  - id: 20050
+    parent_id: 20049
+    date: 2004-12-25 00:48
+    poster: vr  (Stone Crazy)
+    email: volodya@blues.ru
+    subject: на официальном сайте :)
+    deleted: false
+    text: просто море фото :))
+  - id: 20066
+    parent_id: 20049
+    date: 2004-12-27 11:22
+    poster: Andy McLetsoff (McL)
+    email: mcl@macbox.ru
+    subject: Фото Воронова
+    deleted: false
+    text: 'Есть даже с дарственным автографом - не продам ни за какие деньги ;)
+
+      А сходить на концерт - нет возможности?'
+  - id: 20073
+    parent_id: 20049
+    date: 2004-12-28 15:50
+    poster: VoV  (Barmaley)
+    email: barmaley-vov@yandex.ru
+    subject: Ох поймать бы на слове.... :)
+    deleted: false
+  - id: 20081
+    parent_id: 20049
+    date: 2004-12-29 19:32
+    poster: А...Меринов
+    email: ale-merinov@yandex.ru
+    subject: фотки
+    deleted: false
+    text: '.....впарить что ли....с Лондону...неформальные...поправить своё горизонтальное
+      мат.положение...
+
+      :-)))'

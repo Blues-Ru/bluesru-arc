@@ -1,0 +1,8 @@
+---
+id: 716
+slug: nothing-personal-v-sostave-yuriy-kaverkin-gitara-vokal-d
+title: null
+date: 2014-02-14 00:00
+---
+
+Nothing Personal в составе: Юрий Каверкин (гитара, вокал), Денис Липатов (ударные), Антон Родин (бас-гитара), Денис Шевченко (гитара) и внезапно примкнувший к ним Pera Joe (губная гармоника) - клуб <a href="http://blueshouse.ru/" target="_blank"><b>Дом у Дороги</b></a>12.II.2014. <a href="/bluesnews/14/14_02_12_Kaverkin_PeraJoe/"><b><i>Два десятка фотографий >>></i></b></a>

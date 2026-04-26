@@ -1,0 +1,118 @@
+topic_id: 127
+slug: topic-127
+title: Про листики
+first_post: 2002-03-27 12:50
+last_post: 2002-03-28 01:14
+post_count: 11
+posts:
+- id: 2893
+  parent_id: null
+  date: 2002-03-27 12:50
+  poster: Дима   (Казанцев)
+  email: dr.nick@blues.ru
+  subject: Про листики
+  deleted: false
+  text: Может их и сделать кодировкой последних сообщений? Это будет более графично,
+    чем дата.
+  replies:
+  - id: 2895
+    parent_id: 2893
+    date: 2002-03-27 12:55
+    poster: Федор Романенко (fedor)
+    email: fedor@blues.ru
+    subject: Да, собираюсь...
+    deleted: false
+  - id: 2899
+    parent_id: 2893
+    date: 2002-03-27 13:16
+    poster: Slavik Chernov (Blacky)
+    email: Blacky@softhome.net
+    subject: Казанцев, включи Асю!
+    deleted: false
+    text: Разговор есть.
+    replies:
+    - id: 2901
+      parent_id: 2899
+      date: 2002-03-27 13:35
+      poster: Дима   (Казанцев)
+      email: dr.nick@blues.ru
+      subject: Не включу!
+      deleted: false
+      text: Работы дурь, пиши тут!
+      replies:
+      - id: 2904
+        parent_id: 2901
+        date: 2002-03-27 13:42
+        poster: Slavik Chernov (Blacky)
+        email: Blacky@softhome.net
+        subject: Запиши меня на джем на четверг...
+        deleted: false
+        text: 'и глянь в наш форум, там народ харперский тоже желает.
+
+          На прошлый джем Олег флейту принес, и очень достойно отыграл. Мож опять
+          получится? Всем, кажись, понравилось?
+
+          Рому звать?'
+        replies:
+        - id: 2918
+          parent_id: 2904
+          date: 2002-03-27 14:52
+          poster: Дима   (Казанцев)
+          email: dr.nick@blues.ru
+          subject: Куда записывать-то?
+          deleted: false
+          text: Как там все это устроено?
+          replies:
+          - id: 2923
+            parent_id: 2918
+            date: 2002-03-27 16:13
+            poster: Slavik Chernov (Blacky)
+            email: Blacky@softhome.net
+            subject: Аграновский те отпишет...
+            deleted: false
+            text: 'Я так понял схема простая. Ему по почте или еще как народ пишет,
+              кто придет. А уже перед концертом он садится и мин 10-15 уже утрясает
+              список и кто и с кем что сыграет.
+
+              Другой вопрос, успеешь ли ты всё. Тогда имеет смысл полдойти пораньше.
+              Часам к 19,00.'
+            replies:
+            - id: 2935
+              parent_id: 2923
+              date: 2002-03-28 01:14
+              poster: Дима Казанцев (Dr. Nick)
+              email: dr.nick@blues.ru
+              subject: Уже написал!
+              deleted: false
+              text: 'Спасибо коллеге Доку!
+
+                Постараюсь сам к семи, но точно уже заслал туда Ветерана. Он парень
+                жесткий, но опаздывать любит ;)
+
+                Ты собирай своих архаровцев дударей энд флейтистов и решайте кто где
+                дудит. Кто минор, кто мажор, кто быстро, кто медленно...'
+    - id: 2902
+      parent_id: 2899
+      date: 2002-03-27 13:36
+      poster: Дима   (Казанцев)
+      email: dr.nick@blues.ru
+      subject: Не включу!
+      deleted: false
+      text: Работы дурь, пиши тут!
+      replies:
+      - id: 2907
+        parent_id: 2902
+        date: 2002-03-27 13:49
+        poster: Slavik Chernov (Blacky)
+        email: Blacky@softhome.net
+        subject: И еще!
+        deleted: false
+        text: Закатал бы ты мне диск с Томом Боллом к завтрему. Давно ж уже обещал!
+      - id: 2917
+        parent_id: 2902
+        date: 2002-03-27 14:50
+        poster: Дима   (Казанцев)
+        email: dr.nick@blues.ru
+        subject: Не могу, Слава!
+        deleted: false
+        text: У меня 4 гига подряд и засада по работе, выжить бы в этой обстановке...

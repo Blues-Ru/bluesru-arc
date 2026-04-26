@@ -1,0 +1,33 @@
+topic_id: 4747
+slug: topic-4747
+title: Lucky Peterson in Moscow
+first_post: 2011-11-13 23:45
+last_post: 2011-11-14 16:54
+post_count: 3
+posts:
+- id: 38066
+  parent_id: null
+  date: 2011-11-13 23:45
+  poster: Igor Sazonov
+  subject: Lucky Peterson in Moscow
+  deleted: false
+  text: 'Лаки Питерсон выступит в Доме Музыки 4 декабря.
+
+    С ним будут, как и в прошлый раз (2009), трио Шона Келлермана (Shawn Kellerman),
+    и Тамара Питерсон.'
+  replies:
+  - id: 38070
+    parent_id: 38066
+    date: 2011-11-14 15:23
+    poster: Владимир Русинов
+    subject: жалко место только крайне не подходящее :(
+    deleted: false
+    text: А прошлый раз был летом на Усадьбе Джазз кстати :)
+    replies:
+    - id: 38071
+      parent_id: 38070
+      date: 2011-11-14 16:54
+      poster: Igor Sazonov
+      subject: Лаки Питерсон
+      deleted: false
+      text: Я имел в виду прошлый раз в Доме Музыки, не в Москве в целом.

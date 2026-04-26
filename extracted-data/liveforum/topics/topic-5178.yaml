@@ -1,0 +1,70 @@
+topic_id: 5178
+slug: topic-5178
+title: Мой блюзовый альбом в России
+first_post: 2014-05-05 23:32
+last_post: 2014-06-15 00:38
+post_count: 6
+posts:
+- id: 39197
+  parent_id: null
+  date: 2014-05-05 23:32
+  poster: Konstantin (Wheel)
+  subject: Мой блюзовый альбом в России
+  deleted: false
+  text: "Привет всему форуму :)\nВ общем, свершилось и я записал альбом блюзовой и\
+    \ около музыки с днепропетровскими и киевскими музыкантами. \nВот парочка роликов\
+    \ с нарезками из материала для ознакомления:\n<object width=\"420\" height=\"\
+    315\"><param name=\"movie\" value=\"//www.youtube.com/v/xKetEv70xF4?hl=uk_UA&amp;version=3\"\
+    ></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"\
+    allowscriptaccess\" value=\"always\"></param><embed src=\"//www.youtube.com/v/xKetEv70xF4?hl=uk_UA&amp;version=3\"\
+    \ type=\"application/x-shockwave-flash\" width=\"420\" height=\"315\" allowscriptaccess=\"\
+    always\" allowfullscreen=\"true\"></embed></object>\n<object width=\"420\" height=\"\
+    315\"><param name=\"movie\" value=\"//www.youtube.com/v/NjCNXMyZGVk?hl=uk_UA&amp;version=3\"\
+    ></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"\
+    allowscriptaccess\" value=\"always\"></param><embed src=\"//www.youtube.com/v/NjCNXMyZGVk?hl=uk_UA&amp;version=3\"\
+    \ type=\"application/x-shockwave-flash\" width=\"420\" height=\"315\" allowscriptaccess=\"\
+    always\" allowfullscreen=\"true\"></embed></object>\nА вот тут его можно приобрести\
+    \ в России, если вас заинтересовала музыка, тут же можно прочитать и отзывы западных\
+    \ музыкантов об альбоме.\nhttp://harpshop.ru/learn/posob/item/konstantin-kolesnichenko.html"
+  replies:
+  - id: 39198
+    parent_id: 39197
+    date: 2014-05-05 23:33
+    poster: Konstantin (Wheel)
+    subject: Встраивание видео :)
+    deleted: false
+    text: "Почему-то не сработало встраивание, на всякий случай, вот ролики через\
+      \ ифрейм: \n<iframe width=\"420\" height=\"315\" src=\"//www.youtube.com/embed/xKetEv70xF4\"\
+      \ frameborder=\"0\" allowfullscreen></iframe>\n<iframe width=\"420\" height=\"\
+      315\" src=\"//www.youtube.com/embed/NjCNXMyZGVk\" frameborder=\"0\" allowfullscreen></iframe>"
+  - id: 39199
+    parent_id: 39197
+    date: 2014-05-07 23:43
+    poster: Александр Сомов
+    subject: .
+    deleted: false
+    text: Судя по всему - хороший альбом)
+    replies:
+    - id: 39200
+      parent_id: 39199
+      date: 2014-05-08 23:37
+      poster: Konstantin (Wheel)
+      subject: Спасибо! :)
+      deleted: false
+  - id: 39213
+    parent_id: 39197
+    date: 2014-06-02 13:21
+    poster: Алексей Аграновский
+    subject: Харп CD
+    deleted: false
+    text: 'Хорошие фрагменты. Удачи!
+
+      Dr.  Agranovsky'
+    replies:
+    - id: 39217
+      parent_id: 39213
+      date: 2014-06-15 00:38
+      poster: Konstantin (Wheel)
+      subject: Спасибо!
+      deleted: false
+      text: Спасибо большое!

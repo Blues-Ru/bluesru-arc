@@ -1,0 +1,25 @@
+topic_id: 4395
+slug: topic-4395
+title: Просто замечательно!!!
+first_post: 2010-06-11 17:00
+last_post: 2010-06-13 16:53
+post_count: 2
+posts:
+- id: 36947
+  parent_id: null
+  date: 2010-06-11 17:00
+  poster: Игорь Головачев
+  subject: Просто замечательно!!!
+  deleted: false
+  text: 'http://www.infox.ru/blog/72075/2010/06/08/Iz_chyego_dyelayutsy.phtml
+
+
+    А.А.,спасибо за отличное начинание.'
+  replies:
+  - id: 36950
+    parent_id: 36947
+    date: 2010-06-13 16:53
+    poster: Федор Романенко
+    subject: RSS
+    deleted: false
+    text: Жаль, нет RSS у видеоблога....

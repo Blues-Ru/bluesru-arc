@@ -1,0 +1,30 @@
+topic_id: 4783
+slug: topic-4783
+title: Каверкин - Воронеж - Ст. Мир
+first_post: 2012-01-11 22:18
+last_post: 2012-01-16 11:02
+post_count: 2
+posts:
+- id: 38138
+  parent_id: null
+  date: 2012-01-11 22:18
+  poster: Andrei V. Evdokimov
+  subject: Каверкин - Воронеж - Ст. Мир
+  deleted: false
+  text: http://vrntimes.ru/news/view/3717-Mastyera_blyuza_posyetili.html
+  replies:
+  - id: 38147
+    parent_id: 38138
+    date: 2012-01-16 11:02
+    poster: Антон
+    subject: о какой гармошке речь в статье?
+    deleted: false
+    text: 'гиблая?
+
+      грибная?
+
+      гнилая?
+
+      губная?
+
+      :)'

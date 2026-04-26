@@ -1,0 +1,102 @@
+topic_id: 3438
+slug: topic-3438
+title: Никого тут не узнаёте?
+first_post: 2006-10-09 19:54
+last_post: 2006-10-10 15:58
+post_count: 10
+posts:
+- id: 29053
+  parent_id: null
+  date: 2006-10-09 19:54
+  poster: Dmitri Kazantsev (Dr. Nick)
+  email: dr.nick@blues.ru
+  subject: Никого тут не узнаёте?
+  deleted: false
+  text: http://www.ljplus.ru/img/d/r/dr_nick/oknoxz4.jpg
+  replies:
+  - id: 29054
+    parent_id: 29053
+    date: 2006-10-09 20:23
+    poster: Эльдар
+    email: elicaster мeйлтoчкapy
+    subject: Windows 88
+    deleted: false
+    text: 'Это, кажись, группа Окно (угар Перестройки, тексты не-в-бровь-а-в-глаз,
+      передача Взгляд...)
+
+      Суды по стёртостям на картинке, это виниловая пластинка.'
+  - id: 29055
+    parent_id: 29053
+    date: 2006-10-09 20:27
+    poster: Эльдар
+    email: elicaster мeйлтoчкapy
+    subject: Ничего личного
+    deleted: false
+    text: 'Ничего личного не нашёл (то бишь персонально никого не идентифицировал)
+
+
+      <img src="http://kproxy.com/servlet/redirect.srv/p5.p1.pbcd.putaxhg.phl/img/d/r/dr_nick/oknoxz4.jpg">'
+    replies:
+    - id: 29058
+      parent_id: 29055
+      date: 2006-10-10 00:16
+      poster: Руслан Чифуров ()
+      email: chifuroff<sobaka>inbox.ru
+      subject: Второй справа- Петрович!
+      deleted: false
+  - id: 29057
+    parent_id: 29053
+    date: 2006-10-09 22:10
+    poster: Алексей Фролов (Buchothk)
+    email: buchothk@yahoo.com
+    subject: ух ты, забавно ))
+    deleted: false
+  - id: 29065
+    parent_id: 29053
+    date: 2006-10-10 12:19
+    poster: Fatima & Taita
+    email: fatima@aftermath.ru
+    subject: Как жизнь?!:)))
+    deleted: false
+  - id: 29066
+    parent_id: 29053
+    date: 2006-10-10 12:21
+    poster: Fatima & Taita
+    email: fatima@aftermath.ru
+    subject: Как жизнь, Дима?!:)
+    deleted: false
+    replies:
+    - id: 29068
+      parent_id: 29066
+      date: 2006-10-10 14:52
+      poster: Dmitri Kazantsev (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: жизнь идёт )
+      deleted: false
+      text: а как у вас?
+      replies:
+      - id: 29069
+        parent_id: 29068
+        date: 2006-10-10 14:55
+        poster: Fatima &Taita
+        email: fatima@aftermath.ru
+        subject: Все круто!
+        deleted: false
+        text: 'Закончили с альбомом. Репетируем новые песни.
+
+          "Made at home" - нам понравилось!:)'
+        replies:
+        - id: 29070
+          parent_id: 29069
+          date: 2006-10-10 15:58
+          poster: Dmitri Kazantsev (Dr. Nick)
+          email: dr.nick@blues.ru
+          subject: я рад
+          deleted: false
+          text: 'я польщён
+
+
+            успехов!
+
+
+            приходите!'

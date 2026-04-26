@@ -1,0 +1,116 @@
+topic_id: 3907
+slug: topic-3907
+title: Bill SZYMCZYK
+first_post: 2008-02-13 07:32
+last_post: 2008-02-16 01:14
+post_count: 12
+posts:
+- id: 34688
+  parent_id: null
+  date: 2008-02-13 07:32
+  poster: Andrei V. Evdokimov (evdokimov)
+  email: evdokimov@blues.ru
+  subject: Bill SZYMCZYK
+  deleted: false
+  text: кто точно скажет, он "Шимчук" или "Шимчик"? разница принципиальная )))
+  replies:
+  - id: 34690
+    parent_id: 34688
+    date: 2008-02-13 15:54
+    poster: Надежда  (Надежда)
+    email: hope28@mail.ru
+    subject: второе, Y не может как "у" читаться
+    deleted: false
+    replies:
+    - id: 34691
+      parent_id: 34690
+      date: 2008-02-13 16:38
+      poster: Andrei V. Evdokimov (evdokimov)
+      email: evdokimov@blues.ru
+      subject: ответ найден...
+      deleted: false
+      text: он так причудливо читается, что все сайты с его биографией приводят транскрипцию
+        его фамилии.
+      replies:
+      - id: 34710
+        parent_id: 34691
+        date: 2008-02-15 12:20
+        poster: wadim
+        email: aniskin@pto.ru
+        subject: Всё зависит от того
+        deleted: false
+        text: как свою фамилию произносит её обладатель. Вообще-то это польская фамилия
+          и произносится как Шымчык (с ударением на первом слоге) --- в русском написании
+          Шимчик. В американском же варианте возможны самые разные её прочтения.
+        replies:
+        - id: 34712
+          parent_id: 34710
+          date: 2008-02-15 13:19
+          poster: Andrei V. Evdokimov (evdokimov)
+          email: evdokimov@blues.ru
+          subject: сайты про звукоинженерию
+          deleted: false
+          text: пестрят транскрипциями его фамилии. Видать и в Америке были проблемы
+            с ее прочтением вслух. Я поменял в календаре рускую транскрипцию в соответствии
+            с мнением американского большинства.
+        - id: 34736
+          parent_id: 34710
+          date: 2008-02-16 01:14
+          poster: Dmitri Kazantsev (Dr. Nick)
+          email: dr.nick@blues.ru
+          subject: он произносит Симсик
+          deleted: false
+    - id: 34693
+      parent_id: 34690
+      date: 2008-02-13 17:12
+      poster: Dmitri Kazantsev (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: это как так?
+      deleted: false
+      text: а Lynyrd Skynyrd?
+      replies:
+      - id: 34694
+        parent_id: 34693
+        date: 2008-02-13 19:56
+        poster: Надежда  (Надежда)
+        email: hope28@mail.ru
+        subject: что-то типа "линирд скинирд"?
+        deleted: false
+        text: Похоже на имя какого-то мультяшного персонажа :)))
+        replies:
+        - id: 34695
+          parent_id: 34694
+          date: 2008-02-14 01:46
+          poster: Dmitri Kazantsev (Dr. Nick)
+          email: dr.nick@blues.ru
+          subject: леонард скиннер
+          deleted: false
+          text: их учитель по физкультуре
+          replies:
+          - id: 34696
+            parent_id: 34695
+            date: 2008-02-14 11:52
+            poster: Надежда  (Надежда)
+            email: hope28@mail.ru
+            subject: На его месте я бы поменяла написание имени и фамилии :)
+            deleted: false
+            text: Никто и никогда не прочитает ЭТО так, как ты озвучил, и не запишет
+              правильно то, что услышал. Это надо заранее знать. :)
+            replies:
+            - id: 34704
+              parent_id: 34696
+              date: 2008-02-14 23:41
+              poster: Dmitri Kazantsev (Dr. Nick)
+              email: dr.nick@blues.ru
+              subject: ты про Скинирд?
+              deleted: false
+              text: 'это они так спецом сделали
+
+                так звучит его имя по обкурке'
+  - id: 34692
+    parent_id: 34688
+    date: 2008-02-13 17:11
+    poster: Dmitri Kazantsev (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: симсик
+    deleted: false

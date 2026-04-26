@@ -1,0 +1,90 @@
+topic_id: 2695
+slug: topic-2695
+title: ДР
+first_post: 2005-08-11 15:57
+last_post: 2005-08-15 10:19
+post_count: 9
+posts:
+- id: 22276
+  parent_id: null
+  date: 2005-08-11 15:57
+  poster: baltika
+  email: baltika-blues@yandex.ru
+  subject: ДР
+  deleted: false
+  text: Мобыть я что-то путаю, но вроде у некоего Игоря (как там бишь Головачёва по
+    батюшке?) сёня типа ДР... Может какие-то новые правила появились типа "в форуме
+    с праздавлениями не флудить!", но пока модератор в отъезде, а некоторые ваапще
+    позволяют себе гибсонами торговать:)) так вот... Игорь! С ДР!
+  replies:
+  - id: 22278
+    parent_id: 22276
+    date: 2005-08-11 18:18
+    poster: Андрей Ордальонов (Андрей PRG)
+    email: peregnoy@mail.ru
+    subject: Да, именно сегодня:)
+    deleted: false
+    text: Игорь, с днём рожденья!:)))
+    replies:
+    - id: 22279
+      parent_id: 22278
+      date: 2005-08-11 18:19
+      poster: Moderator
+      email: fedor@blues.ru
+      subject: Отъехавший модератор...
+      deleted: false
+      text: '... горячо поздравляет Игоря! ;)))'
+      replies:
+      - id: 22280
+        parent_id: 22279
+        date: 2005-08-11 18:34
+        poster: Крыша Модератора
+        email: roof_mod@blues.ru
+        subject: Присоединяется и...
+        deleted: false
+        text: '...от всей души!'
+  - id: 22283
+    parent_id: 22276
+    date: 2005-08-11 22:46
+    poster: Andrei V. Evdokimov (evdokimov)
+    email: evdokimov@blues.ru
+    subject: безобразия!
+    deleted: false
+    text: 'опять псефдонимы!
+
+      Игорь был поздравлен лично!'
+  - id: 22284
+    parent_id: 22276
+    date: 2005-08-12 00:14
+    poster: Руслан Чифуров ()
+    email: chifuroff@inbox.ru
+    subject: Присоединяюсь!
+    deleted: false
+  - id: 22287
+    parent_id: 22276
+    date: 2005-08-12 10:28
+    poster: Yuri Kaverkin (Gekko)
+    email: kaverkin@rol.ru
+    subject: Рфззн Ишкервфн Ещ Нщг (nj ,bim c lytv hj;ltybz!) !!! - запутался в клавиатуре....
+      С днем Рождения, Игорь!!!
+    deleted: false
+  - id: 22307
+    parent_id: 22276
+    date: 2005-08-12 18:46
+    poster: Elicaster
+    email: elicaster(@))mmmmmmmmmail.ru
+    subject: Паздравляю Игорь!
+    deleted: false
+    text: 'Здоровья, Удачи!
+
+      Спасиба за всё что ты делаешь в деле "(до)нести музыку до слушателей".'
+    replies:
+    - id: 22318
+      parent_id: 22307
+      date: 2005-08-15 10:19
+      poster: Игорь Головачев
+      email: sunny_city@mail.ru
+      subject: ОГРОМНОЕ  С  П  А  С  И  Б  О, ДРУЗЬЯ   !!!!!!!
+      deleted: false
+      text: Извиняюсь за то что только сегодня отозвался.Три части 'мармезонского
+        балета':) отобрали слишком много сил

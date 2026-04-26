@@ -1,0 +1,25 @@
+topic_id: 953
+slug: topic-953
+title: Сайт "Кроссроудза" снова ожил
+first_post: 2002-04-25 19:35
+last_post: 2002-04-26 01:29
+post_count: 2
+posts:
+- id: 4117
+  parent_id: null
+  date: 2002-04-25 19:35
+  poster: Андрей PRG
+  email: peregnoy@mail.ru
+  subject: Сайт "Кроссроудза" снова ожил
+  deleted: false
+  text: Но фоток с декабрьского "Blues Summit'а", вроде как кем-то обещанных, так
+    и нет.
+  replies:
+  - id: 4120
+    parent_id: 4117
+    date: 2002-04-26 01:29
+    poster: Федор Романенко (fedor)
+    email: fedor@blues.ru
+    subject: А также...
+    deleted: false
+    text: Сайт Регтайма ;)

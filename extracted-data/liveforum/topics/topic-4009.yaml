@@ -1,0 +1,26 @@
+topic_id: 4009
+slug: topic-4009
+title: мама дорогая!
+first_post: 2008-05-15 14:29
+last_post: 2008-05-15 22:38
+post_count: 2
+posts:
+- id: 35403
+  parent_id: null
+  date: 2008-05-15 14:29
+  poster: Jumpin' Jack Flash
+  email: vghvj
+  subject: мама дорогая!
+  deleted: false
+  text: 'http://www.youtube.com/watch?v=SjQJetx593o
+
+    самое интересное с минуты четвертой,досмотрите, вам понравится))'
+  replies:
+  - id: 35404
+    parent_id: 35403
+    date: 2008-05-15 22:38
+    poster: Старый Майор
+    email: gypsy@mail.ru
+    subject: Вот я Маре нашей Левиной тоже говорю-говорю "Дуй, Маня!", а она всё не
+      дует...
+    deleted: false

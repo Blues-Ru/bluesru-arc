@@ -1,0 +1,69 @@
+topic_id: 4211
+slug: topic-4211
+title: Muddy Water & Paul Butterfield - Why Are People Like That?
+first_post: 2009-04-12 10:11
+last_post: 2009-04-12 20:33
+post_count: 4
+posts:
+- id: 36278
+  parent_id: null
+  date: 2009-04-12 10:11
+  poster: Эльдар
+  email: Эльдар
+  subject: Muddy Water & Paul Butterfield - Why Are People Like That?
+  deleted: false
+  text: 'Muddy Water & Paul Butterfield - Why Are People Like That?
+
+    Уже который день хожу с этой вещью в голове. Как она мне нравится! Очень нравится
+    звук!
+
+    Может кто поможет прояснить несколько вопросов по ней.
+
+    С какого она альбома, какого года? Кто на гитаре играет и особо интересует ритм-секция:
+    кто на барабанах и на басе???
+
+
+    they take your love and your money
+
+    they take your sugar and your honey
+
+    they take you skinny or fat
+
+    hey how come people act like that'
+  replies:
+  - id: 36279
+    parent_id: 36278
+    date: 2009-04-12 10:20
+    poster: Эльдар
+    email: Эльдар
+    subject: Конечно же Muddy Waters
+    deleted: false
+    text: ошибся. опечатка в сабже вышла...
+    replies:
+    - id: 36281
+      parent_id: 36279
+      date: 2009-04-12 20:33
+      poster: Эльдар
+      email: Эльдар
+      subject: О! Спасибо
+      deleted: false
+      text: 'Большое спасибо Андрей!
+
+        Вопрос прояснён.
+
+        Буду качать теперь это альбом.
+
+
+        P.S. Я прям-таки этой песней алколдован :-)'
+  - id: 36280
+    parent_id: 36278
+    date: 2009-04-12 15:01
+    poster: Andrei V. Evdokimov (evdokimov)
+    email: evdokimov@blues.ru
+    subject: Woodstock Album - Chess, 1975
+    deleted: false
+    text: "Из группы Мадди Уотерса:\nBob Margolin - guitar\nPinetop Perkins - piano\n\
+      Из группы The Band:\nLevon Helm - drums\nFred Carter - bass \nHoward Johnson\
+      \ - keyb, accordeon, sax\nСам по себе из джаза весьма именитый Howard Johnson\
+      \ - sax\n\nпесенка Бобби Чарлза, белового вокалиста и композитораЮ, сотрудничавшего\
+      \ с Chess"

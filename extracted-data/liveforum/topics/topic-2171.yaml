@@ -1,0 +1,33 @@
+topic_id: 2171
+slug: topic-2171
+title: чуток фоток с Джимми Смита.
+first_post: 2004-07-09 23:33
+last_post: 2004-07-10 02:28
+post_count: 3
+posts:
+- id: 18937
+  parent_id: null
+  date: 2004-07-09 23:33
+  poster: vr  (Stone Crazy)
+  email: volodya@blues.ru
+  subject: чуток фоток с Джимми Смита.
+  deleted: false
+  text: Там можно увидеть и знакомые лица ;)
+  replies:
+  - id: 18938
+    parent_id: 18937
+    date: 2004-07-10 02:27
+    poster: Федор Романенко (fedor)
+    email: fedor@blues.ru
+    subject: А ссылку дать?
+    deleted: false
+    text: ;)
+    replies:
+    - id: 18939
+      parent_id: 18938
+      date: 2004-07-10 02:28
+      poster: vr  (Stone Crazy)
+      email: volodya@blues.ru
+      subject: http://www.bluescats.ru/files/20040705.jimmy_smith/
+      deleted: false
+      text: ой :)

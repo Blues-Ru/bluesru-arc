@@ -1,0 +1,196 @@
+topic_id: 3631
+slug: topic-3631
+title: Спам-фильтр
+first_post: 2007-05-11 21:01
+last_post: 2007-05-15 19:37
+post_count: 21
+posts:
+- id: 32842
+  parent_id: null
+  date: 2007-05-11 21:01
+  poster: Федор Романенко (fedor)
+  email: fedor@blues.ru
+  subject: Спам-фильтр
+  deleted: false
+  text: Я вчера прикрутил к форуму простой спам-фильтр... Спама сегодня не было, но
+    и новых сообщений... Интересно, тут никто не пишет потому, что не получается?
+    ;)
+  replies:
+  - id: 32844
+    parent_id: 32842
+    date: 2007-05-11 21:36
+    poster: Эльдар
+    email: el@mail.com
+    subject: FireFox не смог запостить, а Internet Explorer смог
+    deleted: false
+    text: Вышеприведенный пост "запостился" с помощью IE, FF не прошел...
+    replies:
+    - id: 32845
+      parent_id: 32844
+      date: 2007-05-11 22:20
+      poster: Федор Романенко (fedor)
+      email: fedor@blues.ru
+      subject: Пофиксил?
+      deleted: false
+      text: Вроде бы, работает теперь в обоих браузерах. Вероятно, и в остальных с
+        поддержкой javascript...
+  - id: 32849
+    parent_id: 32842
+    date: 2007-05-12 13:30
+    poster: Dmitri Kazantsev (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: я не могу постить
+    deleted: false
+    text: тест
+  - id: 32850
+    parent_id: 32842
+    date: 2007-05-12 13:30
+    poster: Dmitri Kazantsev (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: Firefox не работает
+    deleted: false
+    text: 'Safari работает
+
+
+      другие браузеры не проверял'
+    replies:
+    - id: 32858
+      parent_id: 32850
+      date: 2007-05-12 23:50
+      poster: Федор Романенко (fedor)
+      email: fedor@blues.ru
+      subject: Проверь-ка еще раз...
+      deleted: false
+      text: 'У тебя ждава скрипт включен? Еще подожди 5 секунд, прежде чем на кнопку
+        жать...
+
+
+        FireFox на писи - уже нормально.'
+      replies:
+      - id: 32859
+        parent_id: 32858
+        date: 2007-05-13 08:40
+        poster: Эльдар
+        email: el@mail.com
+        subject: FF так и не работает
+        deleted: false
+        text: Кстати, у меня раньше в FF для этого форума Java всегда был выключен
+          и всё работало...
+        replies:
+        - id: 32863
+          parent_id: 32859
+          date: 2007-05-14 10:54
+          poster: Федор Романенко (fedor)
+          email: fedor@blues.ru
+          subject: Без javascript работать не будет...
+          deleted: false
+          text: Раньше - работало, действительно...
+          replies:
+          - id: 32874
+            parent_id: 32863
+            date: 2007-05-15 00:38
+            poster: Dmitri Kazantsev (Dr. Nick)
+            email: dr.nick@blues.ru
+            subject: ява всегда включена
+            deleted: false
+            text: но не работает
+      - id: 32860
+        parent_id: 32858
+        date: 2007-05-13 23:44
+        poster: Dmitri Kazantsev (Dr. Nick)
+        email: dr.nick@blues.ru
+        subject: неа
+        deleted: false
+        text: пишу из Сафари
+        replies:
+        - id: 32864
+          parent_id: 32860
+          date: 2007-05-14 10:55
+          poster: Федор Романенко (fedor)
+          email: fedor@blues.ru
+          subject: А ты 5 секунд подождал?
+          deleted: false
+          text: После загрузки формы?
+          replies:
+          - id: 32873
+            parent_id: 32864
+            date: 2007-05-15 00:38
+            poster: Dmitri Kazantsev (Dr. Nick)
+            email: dr.nick@blues.ru
+            subject: да никак не работает
+            deleted: false
+            text: точно тебе говорю
+            replies:
+            - id: 32880
+              parent_id: 32873
+              date: 2007-05-15 12:50
+              poster: Федор Романенко (fedor)
+              email: fedor@blues.ru
+              subject: Попробуй еще раз, пж-ста...
+              deleted: false
+              replies:
+              - id: 32887
+                parent_id: 32880
+                date: 2007-05-15 15:42
+                poster: Dmitri Kazantsev (Dr. Nick)
+                email: dr.nick@blues.ru
+                subject: а вот щас не работал :(
+                deleted: false
+  - id: 32854
+    parent_id: 32842
+    date: 2007-05-12 21:44
+    poster: Эльдар
+    email: e@ma.ru
+    subject: Opera присоединяется
+    deleted: false
+    text: Работаеть!
+  - id: 32870
+    parent_id: 32842
+    date: 2007-05-14 21:17
+    poster: Руслан Чифуров
+    email: chifuroff<sobaka>>>>>inbox.ru
+    subject: Firefox не работает!!!
+    deleted: false
+    text: Java Script вроде как включён и всёравно не работает. Пишу из эксплорера
+    replies:
+    - id: 32878
+      parent_id: 32870
+      date: 2007-05-15 12:49
+      poster: Федор Романенко (fedor)
+      email: fedor@blues.ru
+      subject: А ну-ка
+      deleted: false
+      text: А так? Пишу из firefox...
+      replies:
+      - id: 32879
+        parent_id: 32878
+        date: 2007-05-15 12:49
+        poster: Федор Романенко (fedor)
+        email: fedor@blues.ru
+        subject: А теперь из msie
+        deleted: false
+        text: '... тест ....'
+        replies:
+        - id: 32886
+          parent_id: 32879
+          date: 2007-05-15 15:41
+          poster: Dmitri Kazantsev (Dr. Nick)
+          email: dr.nick@blues.ru
+          subject: ФаяФокс работает!
+          deleted: false
+      - id: 32883
+        parent_id: 32878
+        date: 2007-05-15 13:40
+        poster: Эльдар
+        email: е@gh.tn
+        subject: FireFox заrulil
+        deleted: false
+        text: Rabotaetь!
+  - id: 32890
+    parent_id: 32842
+    date: 2007-05-15 19:37
+    poster: Руслан Чифуров
+    email: chifuroff<sobaka> inbox.ru
+    subject: Проба Firefox
+    deleted: false
+    text: Заработало!

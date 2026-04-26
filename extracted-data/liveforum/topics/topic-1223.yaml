@@ -1,0 +1,48 @@
+topic_id: 1223
+slug: topic-1223
+title: Поиск фильмы про Джоплин
+first_post: 2003-06-17 13:33
+last_post: 2003-06-20 13:58
+post_count: 4
+posts:
+- id: 12988
+  parent_id: null
+  date: 2003-06-17 13:33
+  poster: Алексей Аграновский (Док)
+  email: aaa@genebee.msu.su
+  subject: Поиск фильмы про Джоплин
+  deleted: false
+  text: Нет ли у кого фильма "Роза" с Бетт Мидлер в заглавной роли? Это для Оксаны
+    Ефремовой.
+  replies:
+  - id: 13005
+    parent_id: 12988
+    date: 2003-06-20 00:38
+    poster: О.Е.
+    email: morrah@rambler.ru
+    subject: А фильм-то...
+    deleted: false
+    text: Мяу, я жду!
+  - id: 13007
+    parent_id: 12988
+    date: 2003-06-20 02:20
+    poster: Andrei V. Evdokimov (evdokimov)
+    email: evdokimov@blues.ru
+    subject: док... неужто не у кого спросить было? :)
+    deleted: false
+    text: 'в общем так, клади каце, получишт гравицапу. (отдашь СБВ - получишь Розу
+      на родной кассете)
+
+
+      толька эта... там из Джоплин только одна цитатка: do i look old? все остальное
+      фикшн.'
+    replies:
+    - id: 13008
+      parent_id: 13007
+      date: 2003-06-20 13:58
+      poster: Алексей Аграновский (Док)
+      email: aaa@genebee.msu.su
+      subject: Это нужно моей любимой певице Оксане,
+      deleted: false
+      text: не мне. У нея не было возможности самой поместить это объявление. Но теперь
+        сама разберется с каце, цека, лаве и т.д., я надеюсь и верю.

@@ -1,0 +1,72 @@
+topic_id: 55
+slug: topic-55
+title: наш ли человек - George Thorogood?
+first_post: 2002-02-10 19:59
+last_post: 2002-02-11 01:38
+post_count: 6
+posts:
+- id: 1101
+  parent_id: null
+  date: 2002-02-10 19:59
+  poster: Сергей Иванов (serge_ivanov)
+  email: serge_ivanov@hotmail.com
+  subject: наш ли человек - George Thorogood?
+  deleted: false
+  text: Уважаемые знатоки! А хотелось бы услышать ваше мнение о George Thorogood &
+    the Destroyers. С одной стороны молоточно-забойный драйв, а с другой - с Хукером
+    записывался да и в репертуаре порядочно блюзовых классиков (по крайней мере на
+    "Haircut")
+  replies:
+  - id: 1107
+    parent_id: 1101
+    date: 2002-02-10 21:21
+    poster: Дима Казанцев (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: Мое мнение
+    deleted: false
+    text: Не нравится вообще и нет к нему ни грамма уважения, ни дюйма сочувствия
+      ;))) Он и блюз - полярные вещи. А Хукер писался со всеми подряд.
+    replies:
+    - id: 1108
+      parent_id: 1107
+      date: 2002-02-10 22:17
+      poster: Сергей Иванов (serge_ivanov)
+      email: serge_ivanov@hotmail.com
+      subject: в чем он виноват?
+      deleted: false
+      text: 'Ну насчет полярных вещей - не согласен. Мне кажется что он взял из блюза
+        одну из его граней и довел ее до абсурда(гротеска или шаржа, если хотите).
+        В этом то и состоит его прикол. Потом и на гитаре он играет как то необычно
+        - у других я такого не слышал.
+
+        Но конечно "Не нравится вообще и нет к нему ни грамма... " - это сильный аргумент.
+        Жаль, я остался в неведении кто же этот самый Thorogood и в чем он виноват.
+        Слышал то я всего один его диск и дуэт с Хукером.'
+      replies:
+      - id: 1111
+        parent_id: 1108
+        date: 2002-02-10 23:25
+        poster: V.Tsubin (VOVAN)
+        email: vts13@hotmail.com
+        subject: Весь Этот Блюз
+        deleted: false
+        text: Сергей,посмотрите этот раздел,там кое-что есть по интересующему Вас
+          вопросу.
+        replies:
+        - id: 1113
+          parent_id: 1111
+          date: 2002-02-10 23:55
+          poster: V.Tsubin (VOVAN)
+          email: vts13@hotmail.com
+          subject: сорри...
+          deleted: false
+          text: Ошибка вышла,слишком понадеялся на свою память:-((
+  - id: 1117
+    parent_id: 1101
+    date: 2002-02-11 01:38
+    poster: Вадим  (AVA)
+    email: vad2908@mail.ru
+    subject: наш, наш...
+    deleted: false
+    text: '...а как же, и хотя он (Thorogood) не играет Блюз в чистом виде, его записи
+      стоит послушать! Вадим.'

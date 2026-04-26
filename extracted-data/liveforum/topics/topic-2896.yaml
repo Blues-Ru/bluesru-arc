@@ -1,0 +1,24 @@
+topic_id: 2896
+slug: topic-2896
+title: Фотографии с эфеса :)
+first_post: 2005-10-29 19:29
+last_post: 2005-10-31 10:50
+post_count: 2
+posts:
+- id: 24184
+  parent_id: null
+  date: 2005-10-29 19:29
+  poster: Владимир Русинов (BluesCat)
+  email: volodya@blues.ru
+  subject: Фотографии с эфеса :)
+  deleted: false
+  text: <A HREF="http://www.bluescats.ru/files/20051027.efes/">http://www.bluescats.ru/files/20051027.efes/</A>
+  replies:
+  - id: 24223
+    parent_id: 24184
+    date: 2005-10-31 10:50
+    poster: Малыш
+    email: kazmin@sbank.ru
+    subject: Еще фоты с феста
+    deleted: false
+    text: http://www.rusblues.ru/galery/fest/fest11.shtml

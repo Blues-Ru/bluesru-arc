@@ -1,0 +1,23 @@
+topic_id: 3511
+slug: topic-3511
+title: Джем у Горбатого отменяется!!! Ура!!!!!
+first_post: 2006-11-29 14:31
+last_post: 2006-12-10 02:55
+post_count: 2
+posts:
+- id: 29449
+  parent_id: null
+  date: 2006-11-29 14:31
+  poster: Юрий Каверкин (Gekko)
+  email: kaverkin@rol.ru
+  subject: Джем у Горбатого отменяется!!! Ура!!!!!
+  deleted: false
+  replies:
+  - id: 29713
+    parent_id: 29449
+    date: 2006-12-10 02:55
+    poster: Валентин
+    email: voshalb@rambler.ru
+    subject: А жаль...
+    deleted: false
+    text: Далеко не худшее место в Москве для блюзовой музыки было...

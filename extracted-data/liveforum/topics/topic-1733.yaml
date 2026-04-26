@@ -1,0 +1,102 @@
+topic_id: 1733
+slug: topic-1733
+title: Продолжаем изучать интересные фотки :)
+first_post: 2003-12-28 14:22
+last_post: 2004-01-02 03:10
+post_count: 10
+posts:
+- id: 16521
+  parent_id: null
+  date: 2003-12-28 14:22
+  poster: Андрей Ордальонов (Андрей PRG)
+  email: peregnoy@mail.ru
+  subject: Продолжаем изучать интересные фотки :)
+  deleted: false
+  text: 'Ну, а это то кто? Все знают? :)
+
+
+    <img src="http://www.rakurs.ru/archive/snc/evdok.jpg" align="bottom">
+
+
+    И опять чур не подглядывать! :o)'
+  replies:
+  - id: 16522
+    parent_id: 16521
+    date: 2003-12-28 14:32
+    poster: Андрей Ордальонов (Андрей PRG)
+    email: peregnoy@mail.ru
+    subject: Убедительная просьба!
+    deleted: false
+    text: Кто уже знает, порезвитесь пока вокруг да около, дайте потрахаться другим!
+      :)
+  - id: 16524
+    parent_id: 16521
+    date: 2003-12-28 15:41
+    poster: Дима Казанцев (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: это еа в роли бг :)
+    deleted: false
+  - id: 16525
+    parent_id: 16521
+    date: 2003-12-28 17:25
+    poster: Elicaster
+    email: elicaster@mmmmmail.ru
+    subject: Ну, коль уж такая пьянка пошла...
+    deleted: false
+    text: 'А это кто узнаете?
+
+      >img src="http://music.advertka.ru/op.jpg" align="bottom"<'
+    replies:
+    - id: 16527
+      parent_id: 16525
+      date: 2003-12-28 17:37
+      poster: Elicaster
+      email: Elicaster@mmmmmail.ru
+      subject: Да что ж такое!
+      deleted: false
+      text: 'Да что ж такое! Опять не получилось.
+
+        Попробую так:
+
+        <DIV align=center><IMG align=baseline alt="" border=0 hspace=0 src="http://music.advertka.ru/op.jpg"></DIV>'
+      replies:
+      - id: 16534
+        parent_id: 16527
+        date: 2003-12-29 16:46
+        poster: станислав
+        email: stas1969@land.ru
+        subject: а с каких пор онстал левшой?
+        deleted: false
+        text: а с каких пор онстал левшой?
+        replies:
+        - id: 16568
+          parent_id: 16534
+          date: 2004-01-02 03:10
+          poster: Сергей
+          email: '@@@@'
+          subject: Наверно что бы запутать
+          deleted: false
+          text: Эта фоторгафия Dr. Nick с сайта реалмюзик видимо и переверунта.
+      - id: 16544
+        parent_id: 16527
+        date: 2003-12-30 07:58
+        poster: Сегрей
+        email: '@@@@'
+        subject: Ба
+        deleted: false
+        text: Знакомые все лица
+  - id: 16528
+    parent_id: 16521
+    date: 2003-12-28 18:23
+    poster: Andrei V. Evdokimov (evdokimov)
+    email: evdokimov@blues.ru
+    subject: это день закрытия SNC - и мне не нравится эта затея с угадыванием
+    deleted: false
+    replies:
+    - id: 16533
+      parent_id: 16528
+      date: 2003-12-29 15:42
+      poster: Sanya
+      email: sanya@cterra.ru
+      subject: Печальный день...
+      deleted: false

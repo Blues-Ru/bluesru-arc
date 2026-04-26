@@ -1,0 +1,8 @@
+---
+id: 843
+slug: segodnya-70-let-so-dnya-rozhdeniya-grega-ollmana-gregg-allma
+title: null
+date: 2017-12-08 00:00
+---
+
+Сегодня 70 лет со дня рождения Грега Оллмана (Gregg Allman), вокалиста и мультиинструменталиста, одного из <a href="/bluesmen/Allman_Brothers/">the Allman Brothers</a>, всей душой преданного южному року, кантри-музыке и всегда с особой любовью относившегося к блюзу. Программа "Весь Этот Блюз" к его юбилею: <a href="/ATB/atb_17_12_04_Allman_I.mp3"><b>Часть первая >>></b></a>; <a href="/ATB/atb_17_12_04_Allman_II.mp3"><b>Часть вторая >>></b></a>.

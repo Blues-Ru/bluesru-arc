@@ -1,0 +1,123 @@
+topic_id: 1608
+slug: topic-1608
+title: Чертовски хочется поздравить Борю Булкина с с теперь уже прошедшим днем рожденья
+first_post: 2003-11-25 12:39
+last_post: 2003-11-26 14:54
+post_count: 12
+posts:
+- id: 15891
+  parent_id: null
+  date: 2003-11-25 12:39
+  poster: Игорь Головачев (Игорь Г.)
+  email: sunny_city@mail.ru
+  subject: Чертовски хочется поздравить Борю Булкина с с теперь уже прошедшим днем
+    рожденья
+  deleted: false
+  text: и пожелать ему всего самого-пресамого наилучшего и обязательно крепкого здоровья.
+  replies:
+  - id: 15892
+    parent_id: 15891
+    date: 2003-11-25 13:39
+    poster: Федор Романенко (fedor)
+    email: fedor@blues.ru
+    subject: А также
+    deleted: false
+    text: 'Поздравить Арсена Шомахова с прошедшим в субботу!
+
+
+      Все здоровья и больших творческих успехов!!! ;)'
+    replies:
+    - id: 15893
+      parent_id: 15892
+      date: 2003-11-25 15:25
+      poster: Игорь Головачев (Игорь Г.)
+      email: sunny_city@mail.ru
+      subject: Арсен,успехов,успехов и еще раз успехов !!!!
+      deleted: false
+      replies:
+      - id: 15894
+        parent_id: 15893
+        date: 2003-11-25 15:34
+        poster: (Grem)
+        email: sergei.sergeev@emersonprocess.ru
+        subject: Всем большим людям - больших блюзов!!!
+        deleted: false
+        text: А также всех Стрельцов ...
+  - id: 15897
+    parent_id: 15891
+    date: 2003-11-25 15:40
+    poster: Игорь Головачев (Игорь Г.)
+    email: sunny_city@mail.ru
+    subject: А ещё-ё-ё ;-) ,наверное,можно поздравить и Федора и Андрея и всех,всех,всех
+      !!!
+    deleted: false
+    text: 'http://blues.ru/about.htm
+
+      Ну и пожелать чтобы к людЯм(и к друг другу есс-но) мы все относились помягше,а
+      на на вопросы смотрели ширше.Долгих лет этому замечательнейшему сайту.'
+    replies:
+    - id: 15900
+      parent_id: 15897
+      date: 2003-11-25 16:53
+      poster: Федор Романенко (fedor)
+      email: fedor@blues.ru
+      subject: Точно! День рождения Blues.ru!
+      deleted: false
+      text: Сегодня исполняется 7 лет. Помню, как два года назад пили водку до случаю
+        5-летия, после чего пирог с 5 свечками провисел в течении года ;) Сняли по
+        случаю 6-летия ;)
+      replies:
+      - id: 15903
+        parent_id: 15900
+        date: 2003-11-25 18:36
+        poster: Александр Мальчевский (Tonny)
+        email: heavyfuel@mtu-net.ru
+        subject: Ну с праздником тады!!!
+        deleted: false
+        text: '7 число счастливое, соответственно будущий год сложиться наилучшим
+          образом :))))
+
+          Успехов!'
+      - id: 15904
+        parent_id: 15900
+        date: 2003-11-25 18:51
+        poster: Дмитрий(fan)
+        email: leonidovd@mail.ru
+        subject: И я поздравляю ВСЕХ-ВСЕХ-ВСЕХ с огромным удовольствием!
+        deleted: false
+        text: "И отцов-основателей сайта, и музыкантов, и всех любителей-ценителей\
+          \ этой замечательной музыки !!!\nИ даже поздравляю самого себя...\nСпасибо\
+          \ за сайт, спасибо за добрую и полезную информацию, за анонсы, за любимый\
+          \ Форум! \nЛОНГ ЛИВ БЛЮЗ РУ!!!"
+      - id: 15921
+        parent_id: 15900
+        date: 2003-11-26 14:54
+        poster: Greta
+        email: morehemp
+        subject: С днем рождения!
+        deleted: false
+        text: чего уж там.. :)
+  - id: 15901
+    parent_id: 15891
+    date: 2003-11-25 17:33
+    poster: Andy mcletsoff (McL)
+    email: mcl@macbox.ru
+    subject: Поздравляю от себя и о души
+    deleted: false
+  - id: 15902
+    parent_id: 15891
+    date: 2003-11-25 18:14
+    poster: AlexIV
+    email: evergreens@mail.ru
+    subject: Ура! Всех с  ДР!
+    deleted: false
+    text: Присоединяюсь ко всем поздравлениям и пожеланиям!
+  - id: 15910
+    parent_id: 15891
+    date: 2003-11-26 01:59
+    poster: Андрей (jumbo)
+    email: info@oraculclub.ru
+    subject: ПОЗДРАВЛЕНИЯ!
+    deleted: false
+    text: Клуб "ОРАКУЛ БОЖЕСТВЕННОЙ БУТЫЛКИ" и я лично,поздравляем BLUES.RU с СЕМИЛЕТИЕМ!Больше
+      блюза,доброго и вечного!

@@ -1,0 +1,17 @@
+---
+topic_id: 5013
+slug: topic-5013
+title: Две колыбельные на ночь...
+post_count: 1
+first_post: 2013-03-19 00:51
+last_post: 2013-03-19 00:51
+---
+
+## Две колыбельные на ночь...
+**From:** Старый Майор  **Date:** 2013-03-19 00:51  **Post:** #38820
+
+Великолепная совместная работа Percy Mayfield с The Phillip Walker Blues Band. Must listen!
+
+http://ru-blues.livejournal.com/1160617.html
+
+---

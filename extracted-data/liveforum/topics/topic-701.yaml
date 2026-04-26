@@ -1,0 +1,85 @@
+topic_id: 701
+slug: topic-701
+title: Если кого интересует - выложил фотографии с последнего джема в вудстоке
+first_post: 2003-03-27 19:39
+last_post: 2003-03-31 22:04
+post_count: 8
+posts:
+- id: 11281
+  parent_id: null
+  date: 2003-03-27 19:39
+  poster: Сергей Петров
+  email: jesus@nm.ru
+  subject: Если кого интересует - выложил фотографии с последнего джема в вудстоке
+  deleted: false
+  text: На сайт <a href='http://blues.by.ru'>blues.by.ru положил немножко фотографий
+    с последнего джема в вудстоке. Фотографии не представляют никакой художественной
+    ценности, но могут быть интересны кому-нибудь. Есть пара интересных кадров Братецкого
+    :)
+  replies:
+  - id: 11282
+    parent_id: 11281
+    date: 2003-03-27 20:43
+    poster: vr  (Stone Crazy)
+    email: volodya@blues.ru
+    subject: спасибо :))
+    deleted: false
+    text: 'первый раз меня с этим моим гибсоном на сцене сфоткали :)))
+
+      а тут еще и Юру с нимже ;))))))))) Юра - в след раз  я принесу G&L  на ней ты
+      еще не играл :)))))'
+    replies:
+    - id: 11283
+      parent_id: 11282
+      date: 2003-03-27 22:44
+      poster: Петров Сергей
+      email: jesus@nm.ru
+      subject: да пожалуйста
+      deleted: false
+      text: Собственно я теперь буду пытаться фотографировать побольше и получше.
+        И обязательно выкладывать. Ох и достану я всех со своим фотоаппаратом :) Только
+        вот боюсь, скоро не будет хватать денег на билет :(
+    - id: 11301
+      parent_id: 11282
+      date: 2003-03-28 17:32
+      poster: Алексей Аграновский (Док)
+      email: aaa@genebee.msu.su
+      subject: Спасибо, старина, тебе -
+      deleted: false
+      text: сыграл удачно. Помогай-то Бог.
+  - id: 11295
+    parent_id: 11281
+    date: 2003-03-28 15:50
+    poster: Игорь Головачев (Игорь Г.)
+    email: sunny_city@mail.ru
+    subject: И  на BluesmAn.ru кое-что
+    deleted: false
+    text: наконец-то выложено.Совсем обленился.Каюсь.
+    replies:
+    - id: 11310
+      parent_id: 11295
+      date: 2003-03-28 21:29
+      poster: Старый Майор
+      email: gypsy@mail.ru
+      subject: Меньше паштета надо кушать! )))
+      deleted: false
+      text: Который из гусни.. то есть из гусья :)))
+  - id: 11300
+    parent_id: 11281
+    date: 2003-03-28 17:30
+    poster: Алексей Аграновский (Док)
+    email: aaa@genebee.msu.su
+    subject: Да у Братецкого интересных кадров даже не пара, существенно больше...
+    deleted: false
+    replies:
+    - id: 11334
+      parent_id: 11300
+      date: 2003-03-31 22:04
+      poster: Фрекен Бокк
+      email: gypsy@mail.ru
+      subject: Вот, например, мой любимый кадр...
+      deleted: false
+      text: 'http://www.bluesman.ru/2002/foto/25_07_2002/pages/P1001457_1_jpg.htm
+
+
+        Он просто душка, правда? :)))))))))'

@@ -1,0 +1,32 @@
+topic_id: 3254
+slug: topic-3254
+title: День Рожденья Юрия Каверкина в Доме у Дороги
+first_post: 2006-05-15 13:37
+last_post: 2006-05-16 22:15
+post_count: 3
+posts:
+- id: 27370
+  parent_id: null
+  date: 2006-05-15 13:37
+  poster: Юрий Костин (zelen)
+  email: domudorogi@mtu-net.ru
+  subject: День Рожденья Юрия Каверкина в Доме у Дороги
+  deleted: false
+  text: Всем привет! Хочу напомнить, что завтра во вторник у нас в Доме концерт Юрия
+    Каверкина и его же День Рожденья! Приходите поздравить Настоящего блюзмена и Человека!
+  replies:
+  - id: 27371
+    parent_id: 27370
+    date: 2006-05-15 13:43
+    poster: Игорь Головачев (Игорь Г.)
+    email: sunny_city@mail.ru
+    subject: Помним,помним  :)))))
+    deleted: false
+  - id: 27412
+    parent_id: 27370
+    date: 2006-05-16 22:15
+    poster: Владимир Русинов (BluesCat)
+    email: volodya@blues.ru
+    subject: Юра! УРа! Поздравляю! :)
+    deleted: false
+    text: Прийти к сожаланию не смог - заболел блин :)

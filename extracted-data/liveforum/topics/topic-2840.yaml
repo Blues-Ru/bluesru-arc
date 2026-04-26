@@ -1,0 +1,96 @@
+topic_id: 2840
+slug: topic-2840
+title: Вчера в Доме у дороги...
+first_post: 2005-10-06 17:21
+last_post: 2005-10-08 14:28
+post_count: 10
+posts:
+- id: 23652
+  parent_id: null
+  date: 2005-10-06 17:21
+  poster: мишурис
+  email: mike@ mishouris.ru
+  subject: Вчера в Доме у дороги...
+  deleted: false
+  text: '...чудесно сыграли местные жители Старый Майор и Muddy Lives с блюз-бэндом
+    Мишуриса. Спасибо !!!!! Не пора ли вам объединяться в группу, друзья????? Вылазьте
+    из оффисов уже!!!'
+  replies:
+  - id: 23654
+    parent_id: 23652
+    date: 2005-10-06 17:28
+    poster: Старый Майор
+    email: gypsy@mail.ru
+    subject: В офисе так хорошооо.... кондиционер, длинноногие секретарши... ))
+    deleted: false
+    text: Неужто мы променяем всё енто великолепие на жизнь традиционного блюзмена???
+  - id: 23660
+    parent_id: 23652
+    date: 2005-10-06 17:39
+    poster: Владимир Русинов (BluesCat)
+    email: volodya@blues.ru
+    subject: самое сложное
+    deleted: false
+    text: отыскать в офисах ритмсекцию.. потом дело пойдет :)
+    replies:
+    - id: 23662
+      parent_id: 23660
+      date: 2005-10-06 17:41
+      poster: Старый Майор
+      email: gypsy@mail.ru
+      subject: да мы уже Кудрину предлагали на ударных полабать, он сказал что подумает
+        )))
+      deleted: false
+      replies:
+      - id: 23664
+        parent_id: 23662
+        date: 2005-10-06 17:49
+        poster: Muddy Lives
+        email: mlives_6@hotmail
+        subject: Ему длинноногих секретарш тоже хватает
+        deleted: false
+        replies:
+        - id: 23683
+          parent_id: 23664
+          date: 2005-10-06 19:34
+          poster: Старый Майор
+          email: gypsy@mail.ru
+          subject: Длинноногих секретарш никогда много не бывает!
+          deleted: false
+          text: Организм требует разнообразия!
+  - id: 23669
+    parent_id: 23652
+    date: 2005-10-06 18:14
+    poster: Игорь Г
+    email: sunny_city@mail.ru
+    subject: Андрей,заметь,это не я сказал  ;)
+    deleted: false
+  - id: 23685
+    parent_id: 23652
+    date: 2005-10-06 19:50
+    poster: Илья Кривандин (Populoss)
+    email: ilija@bk.ru
+    subject: Ув. Старый Майор
+    deleted: false
+    text: Как правильно заметил Володя Русинов, главное - отыскать в офисе ритммсецию.
+      Но, знаете ли, практически в каждом офисе она есть, главное ее заметить. В основном
+      она там, где серетарши. :)
+    replies:
+    - id: 23687
+      parent_id: 23685
+      date: 2005-10-06 19:59
+      poster: Старый Майор
+      email: gypsy@mail.ru
+      subject: Прошу не путать ритмсекцию с машинописными барышнями ))
+      deleted: false
+      text: "У них чувство ритма постоянно страдает! \nХотя 300 ударов в минуту некоторые\
+        \ молотят так, что любая дискотека обзавидуется! И главное, что при этом получаются\
+        \ вполне осмысленные тексты!"
+  - id: 23756
+    parent_id: 23652
+    date: 2005-10-08 14:28
+    poster: Jutsy
+    email: morrah@yandex.ru
+    subject: Одноногие секретарши! О!
+    deleted: false
+    text: Бьют в ледяной бубен!!!! ФАРЕВА!!!!!

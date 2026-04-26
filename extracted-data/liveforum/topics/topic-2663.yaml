@@ -1,0 +1,36 @@
+topic_id: 2663
+slug: topic-2663
+title: mp3 блуз - большими порциями
+first_post: 2005-07-25 03:11
+last_post: 2005-08-06 18:14
+post_count: 3
+posts:
+- id: 22069
+  parent_id: null
+  date: 2005-07-25 03:11
+  poster: Andrei V. Evdokimov (evdokimov)
+  email: evdokimov@blues.ru
+  subject: mp3 блуз - большими порциями
+  deleted: false
+  text: http://www.avaxhome.ru/publication.php?action=userpubs&id=5366
+  replies:
+  - id: 22246
+    parent_id: 22069
+    date: 2005-08-06 18:12
+    poster: BigBlues
+    email: BigBlues@mail.ru
+    subject: mp3 блуз - большими порциями
+    deleted: false
+    text: 'О группе БигБлюзРивайвл (немножко):
+
+      http://www.blatata.com/pers2/BigBluesRevival.htm'
+  - id: 22247
+    parent_id: 22069
+    date: 2005-08-06 18:14
+    poster: BigBlues
+    email: BigBlues@mail.ru
+    subject: О группе БигБлюзРивайвл (немножко)
+    deleted: false
+    text: 'О группе БигБлюзРивайвл (немножко):
+
+      http://www.blatata.com/pers2/BigBluesRevival.htm'

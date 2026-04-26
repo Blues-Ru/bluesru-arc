@@ -1,0 +1,39 @@
+topic_id: 2324
+slug: topic-2324
+title: Блюзовые посиделки в Ростове на Дону
+first_post: 2004-11-24 19:13
+last_post: 2004-11-29 19:22
+post_count: 3
+posts:
+- id: 19848
+  parent_id: null
+  date: 2004-11-24 19:13
+  poster: Блюзмен с дельты Дона (bluesman)
+  email: bluesman@pochta.ws
+  subject: Блюзовые посиделки в Ростове на Дону
+  deleted: false
+  text: 'Молодые люди душой и сердцем влюбленные в корневую американскую музыку приглашаются
+    на блюзовые посиделки, с пивом и хорошей музыкой.За подробностями обращайтесь
+    на bluesman@pochta.ws
+
+
+    З.Ы. Короче, ищу единомышленников в Ростове на Дону для совместного так сказать
+    культурного досуга :)'
+  replies:
+  - id: 19867
+    parent_id: 19848
+    date: 2004-11-29 11:27
+    poster: VoV  (Barmaley)
+    email: barmaley-vov@yandex.ru
+    subject: Скоро!
+    deleted: false
+    text: Гастроли минской команды Svet Boogie Band в Ростове и Таганроге!
+    replies:
+    - id: 19868
+      parent_id: 19867
+      date: 2004-11-29 19:22
+      poster: Блюзмен с дельты Дона (bluesman)
+      email: bluesman@pochta.ws
+      subject: Придем :)
+      deleted: false
+      text: Придем :)А как же иначе?

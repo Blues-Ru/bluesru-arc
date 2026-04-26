@@ -1,0 +1,23 @@
+topic_id: 1415
+slug: topic-1415
+title: efes pilsen
+first_post: 2003-08-30 19:30
+last_post: 2003-08-31 23:34
+post_count: 2
+posts:
+- id: 13972
+  parent_id: null
+  date: 2003-08-30 19:30
+  poster: MX
+  email: hfeh
+  subject: efes pilsen
+  deleted: false
+  text: по предварительным сведениям в России будет с 14 по 25 ноябряб о составе позже
+  replies:
+  - id: 13982
+    parent_id: 13972
+    date: 2003-08-31 23:34
+    poster: Daniil Jeshkov (Ji][v][i)
+    email: jimi@opfr.spb.ru
+    subject: Я слышал Roomfull of Blues заедут ;)
+    deleted: false

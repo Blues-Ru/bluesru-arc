@@ -1,0 +1,38 @@
+topic_id: 4691
+slug: topic-4691
+title: Блюз в Нью-Йорке и Бостоне
+first_post: 2011-08-14 02:13
+last_post: 2011-08-15 17:20
+post_count: 3
+posts:
+- id: 37936
+  parent_id: null
+  date: 2011-08-14 02:13
+  poster: Pumpkinhead
+  subject: Блюз в Нью-Йорке и Бостоне
+  deleted: false
+  text: Буду там во второй половине августа. Кто может подсказать клубы/фестивали
+    в это время? Акромя B.B. King и Теrra Blues Club?
+  replies:
+  - id: 37943
+    parent_id: 37936
+    date: 2011-08-15 01:39
+    poster: Федор Романенко
+    subject: Расписание
+    deleted: false
+    text: 'Я бы охотился за конкретными исполнителями через расписание
+
+
+      Например,
+
+      http://www.bostonblues.com/cal.php
+
+
+      про NY можно поискать... Не обязательно идти именно в блюзовый клуб.'
+  - id: 37944
+    parent_id: 37936
+    date: 2011-08-15 17:20
+    poster: grem
+    subject: фестиваль
+    deleted: false
+    text: Дим, вот будет интересный блюзовый фестиваль в это время http://www.chenangobluesfest.org/

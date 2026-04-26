@@ -1,0 +1,53 @@
+topic_id: 760
+slug: topic-760
+title: Amund Maarud - у нас.
+first_post: 2003-04-14 20:21
+last_post: 2003-04-17 08:36
+post_count: 5
+posts:
+- id: 11847
+  parent_id: null
+  date: 2003-04-14 20:21
+  poster: Ded Morozzz
+  email: morozzz_ded@mail.ru
+  subject: Amund Maarud - у нас.
+  deleted: false
+  text: "Один из норвежских блюзовых вундеркиндов собирается приехать 15-го мая в\
+    \ Москву; здесь он пробудет до 18-го числа, а потом даст концерт во Владимире\
+    \ :) здорово :) \n\nОфициальный сайт: http://www.amundmaarud.no\n\nНа блюзру я\
+    \ тоже про него что-то находил; кажется про выступление на Nottoden Blues Fest."
+  replies:
+  - id: 11852
+    parent_id: 11847
+    date: 2003-04-14 21:04
+    poster: Федор Романенко (fedor)
+    email: fedor@blues.ru
+    subject: Дууууурь!
+    deleted: false
+    text: Что значит - круто ;) Спасибо за информацию! ;) Я собирался написать об
+      этом чуть попозже ;)))
+    replies:
+    - id: 11904
+      parent_id: 11852
+      date: 2003-04-16 21:10
+      poster: Ded Morozzz
+      email: morozzz_ded@mail.ru
+      subject: Что-то никто не проперся...
+      deleted: false
+      text: '... ваще странно, да?'
+      replies:
+      - id: 11906
+        parent_id: 11904
+        date: 2003-04-16 22:22
+        poster: vr  (Stone Crazy)
+        email: volodya@blues.ru
+        subject: а что уже был концерт?:))))))))))
+        deleted: false
+        replies:
+        - id: 11908
+          parent_id: 11906
+          date: 2003-04-17 08:36
+          poster: Ded Morozzz
+          email: morozzz_ded@mail.ru
+          subject: :) Нет, но проперываться надо уже сейчас :)
+          deleted: false

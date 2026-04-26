@@ -1,0 +1,63 @@
+topic_id: 3157
+slug: topic-3157
+title: Вот такой вопрос
+first_post: 2006-03-15 21:19
+last_post: 2006-03-24 19:02
+post_count: 6
+posts:
+- id: 26592
+  parent_id: null
+  date: 2006-03-15 21:19
+  poster: qwerty
+  email: high-wire@mail.ru
+  subject: Вот такой вопрос
+  deleted: false
+  text: Поведайте, пожалуйста, где можно  поджемовать в Москве, как туда попасть и
+    что для этого надо (ну, кроме инструмента и умения играть, разумеется). Уж очень
+    хочется поиграть...
+  replies:
+  - id: 26593
+    parent_id: 26592
+    date: 2006-03-15 21:34
+    poster: Джемовод
+    email: jam@blues.ru
+    subject: Джемы
+    deleted: false
+    text: проходят каждую среду в клубе Би Би Кинг и каждое воскресение в Доме У Дороги.
+      На джем может придти любой желающий. Кроме инструмента и умения играть ничего
+      не нужно.
+    replies:
+    - id: 26596
+      parent_id: 26593
+      date: 2006-03-16 08:07
+      poster: Kot Matraskin (KotMatraskin)
+      email: kotmatrs@mail.ru
+      subject: вот, такое скажем мнение, об энтих джемах.
+      deleted: false
+      text: http://schizowave.livejournal.com/131682.html
+      replies:
+      - id: 26600
+        parent_id: 26596
+        date: 2006-03-16 10:56
+        poster: Владимир Русинов (BluesCat)
+        email: volodya@blues.ru
+        subject: это типичное раздувание фантазий....
+        deleted: false
+        text: и я вчера как раз слышал мнение другой стороны о человеке, которому
+          там не дали поиграть.... они было более смешным и педали там роли не играли
+          ;) Сам я не слышал не знаю. :)))
+        replies:
+        - id: 26791
+          parent_id: 26600
+          date: 2006-03-24 19:02
+          poster: Старый Майор
+          email: gypsy@mail.ru
+          subject: Дави педали, пока не дали ))
+          deleted: false
+      - id: 26610
+        parent_id: 26596
+        date: 2006-03-16 12:33
+        poster: Dmitri Kazantsev (Dr. Nick)
+        email: dr.nick@blues.ru
+        subject: и правильно сделал Юриваныч
+        deleted: false

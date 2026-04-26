@@ -1,0 +1,47 @@
+topic_id: 4971
+slug: topic-4971
+title: www.pastblues.com
+first_post: 2012-12-27 02:34
+last_post: 2013-02-09 08:28
+post_count: 4
+posts:
+- id: 38687
+  parent_id: null
+  date: 2012-12-27 02:34
+  poster: kishinevets
+  subject: www.pastblues.com
+  deleted: false
+  text: 'пишут...
+
+
+    The 1973 oil crisis began, causing shortages of the vinyl needed to manufacture
+    records. A number of new albums were either delayed or only available in limited
+    quantities until after the holiday season.
+
+
+    и другие познавательные новости в рубрике "Это было, было"...'
+  replies:
+  - id: 38690
+    parent_id: 38687
+    date: 2012-12-28 21:29
+    poster: Старый Майор
+    subject: Очень хороший и полезный сайт.
+    deleted: false
+    text: 'Ему бы ещё Daily или Weekly Digest на e-mail, было бы вообще прекрасно.
+
+
+      Вот только раздел "Memorium" прирастает с каждым днём...'
+  - id: 38753
+    parent_id: 38687
+    date: 2013-02-08 17:10
+    poster: Николай
+    subject: еще один полезный сайт
+    deleted: false
+    text: Вот еще один полезный сайт для любителей гитары http://rock-akkords.ru/articles.php
+  - id: 38758
+    parent_id: 38687
+    date: 2013-02-09 08:28
+    poster: Назим
+    subject: ПОСЕТИТЕ
+    deleted: false
+    text: http://bluessyle.wordpress.com/

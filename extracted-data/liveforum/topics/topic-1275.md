@@ -1,0 +1,192 @@
+---
+topic_id: 1275
+slug: topic-1275
+title: Пара блюзовых текста.
+post_count: 6
+first_post: 2003-07-21 20:32
+last_post: 2003-07-22 14:34
+---
+
+## Пара блюзовых текста.
+**From:** Михан  (Ded Morozzz)  **Date:** 2003-07-21 20:32  **Post:** #13285
+
+Может кто-нибудь подкинет тексты таких вещей, как Ain't That Loving You Baby и Railroad Station Blues или даст ссылочку на сайт с блюзовой лирикой, где эти вещи есть?
+
+---
+
+## Блин, разумеется "текстов" :)
+**From:** Михан  (Ded Morozzz)  **Date:** 2003-07-21 20:34  **Post:** #13286
+
+---
+
+## this one from Harry?
+**From:** Anton Klepikov (Antokha)  **Date:** 2003-07-21 21:22  **Post:** #13287
+
+You build my hopes so high
+Didn't let me down so low
+It makes no difference baby
+I still love you more and more
+
+And every very time you smile
+Woman I smile with you
+Every time you cry
+Woman, you know I cry with you
+
+Now ain't that lovin' you baby
+Ain't that lovin' you baby
+Lord, ain't that lovin' you
+
+I don't believe
+I don't believe you know what I'm talkin' about
+I don't believe
+I don't believe you know what I'm talkin' about
+
+I'm talkin' about love, love, love
+I'm talkin' about love, love, love
+I'm talkin' about love, love, love
+I'm talkin' about love, love, love
+
+You know I told you baby
+I would never let you down
+It makes no difference that
+I will always be around
+
+You treat me like a schoolboy
+And that you know is true
+It makes no difference by you
+I'll be there with you
+
+Ain't that lovin' you
+Ain't that lovin' you baby
+Lord, ain't that lovin' you
+
+I don't believe
+You know I'm smiling with you
+Oh, ain't that loving you baby
+You know, that's loving you
+
+---
+
+## Нет, я имел в виду песню...
+**From:** Михан  (Ded Morozzz)  **Date:** 2003-07-22 08:21  **Post:** #13292
+
+... которую пел Jimmy Reed на альбоме "Bright Lights, Big City".
+
+---
+
+## Ain't That Lovin' You Baby
+**From:** AlexIV  **Date:** 2003-07-22 12:08  **Post:** #13293
+
+Ain't That Lovin' You Baby (Version 1)
+
+by Jimmy Reed
+recording of 1955
+from The Best of Jimmy Reed (GNP GNPD-2-10006)
+
+Know I love ya babe?
+Know I love ya babe?
+Know I love ya babe?
+But you don't even know my name
+
+Let me tell ya baby
+I'll tell ya what I would do
+I would rob, steal, kill somebody
+Just ta get back home ta you
+
+Ain't that lovin' ya, baby?
+Ain't that lovin' ya, babe?
+Ain't that lovin' ya, babe?
+But you don't even know my name
+
+Let me tell ya baby
+Don't sound like it's true
+They could drop me in the ocean
+I'd swim to the bank
+An' crawl home ta you
+
+Ain't that lovin' ya baby?
+Ain't that lovin' ya babe?
+Ain't that lovin' ya baby?
+But you don't even know my name
+
+They may kill me baby, bury me like they do
+My body might lie but my spirit gonna rise
+And come home to you
+
+Ain't that lovin' ya baby?
+Ain't that lovin' ya babe?
+Ain't that lovin' ya baby?
+But you don't even know my name
+
+http://blueslyrics.tripod.com/artistswithsongs/jimmy_reed_1.htm#ain_t_that_lovin_you_baby_version_1
+
+
+Ain't That Lovin' You Baby (version 2)
+
+by Jimmy Reed
+recording of 1961 resp. 1985
+from Jimmy Reed at Carnegie Hall (Suite Beat 3001) & Upside Your Head (Charly 1003)
+
+Know I love you baby
+Know I love you, baby,
+Know I love you, baby
+But you don't even know my name
+Let me tell you baby, tell you what I'm gon' do
+I would rob, steal, kill somebody just to get back home to you
+
+Ain't that lovin' you baby?
+Ain't that lovin' you baby?
+Ain't that lovin' you baby?
+
+But you don't even know my name
+Let me tell you, baby, don't sound like it's true
+You could drop me in the ocean,
+I'd swim to the bank, and crawl right home to you
+
+Ain't that lovin' you baby?
+Ain't that lovin' you baby?
+Ain't that lovin' you baby?
+
+They may kill me, baby, baby, just like they do
+My body gonna lie but my spirit gonna rise and come back home to you
+
+Ain't that lovin' you baby?
+Ain't that lovin' you baby?
+Ain't that lovin' you baby?
+
+
+Ain't That Lovin' You
+by Jimmy Reed
+
+You don't know me, baby,
+Like I know myself.
+I just want to love you, baby,
+But you leave me on the shelf.
+
+Ain't that lovin' you, baby?
+Ain't that lovin' you, baby?
+Ain't that lovin' you, baby?
+But you don't even know my name.
+
+Let me tell you something,
+I swear to God it's true.
+If you give your love to me,
+I'm gonna give it all to you, you know it's true.
+
+Chorus
+
+They may kill me, baby,
+And bury me like they do.
+My body will lie, but my spirit's gonna find
+Only you.
+
+Chorus
+
+http://www.eric-clapton.co.uk/ecla/lyrics/aint-that-lovin-you.html
+
+---
+
+## Спасиба :)
+**From:** Михан  (Ded Morozzz)  **Date:** 2003-07-22 14:34  **Post:** #13295
+
+---

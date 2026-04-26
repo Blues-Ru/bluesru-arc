@@ -1,0 +1,36 @@
+topic_id: 507
+slug: topic-507
+title: Zap Mama
+first_post: 2002-12-14 21:27
+last_post: 2002-12-18 01:01
+post_count: 3
+posts:
+- id: 9328
+  parent_id: null
+  date: 2002-12-14 21:27
+  poster: Жук
+  email: psihu@pisem.net
+  subject: Zap Mama
+  deleted: false
+  text: "Когда-то обсуждали, помню, коллектив Zap Mama!\nА вот у кого-то есть 2 их\
+    \ первых альбома, которые до 7 и где поют больше, а меньше на басу и барабанах\
+    \ играют? \nПожалуйста, чтоб оффтопик не разводить, напишите мне на мыло - есть\
+    \ дело. (а мыло можно не есть)"
+  replies:
+  - id: 9359
+    parent_id: 9328
+    date: 2002-12-16 22:16
+    poster: Greta
+    email: morehemp@mail.ru
+    subject: один
+    deleted: false
+    text: есть у меня - Adventures In Afropea 1.
+    replies:
+    - id: 9418
+      parent_id: 9359
+      date: 2002-12-18 01:01
+      poster: Жук
+      email: psihu@pisem.net
+      subject: Greta, большое спасибо за отклик, все в порядке, Zap Mama обнаружена
+        в переизбытке у Димы Казанцева и ДЕЛО с ней совершено
+      deleted: false

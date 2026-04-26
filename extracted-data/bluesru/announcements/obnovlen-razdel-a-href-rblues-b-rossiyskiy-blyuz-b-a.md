@@ -1,0 +1,8 @@
+---
+id: 110
+slug: obnovlen-razdel-a-href-rblues-b-rossiyskiy-blyuz-b-a
+title: null
+date: 2001-06-04 00:00
+---
+
+Обновлен раздел <a href="/rblues/"><b>Российский Блюз</b></a>. Проставлены многочисленные ссылки на записи наших музыкантов, подготовленные к фестивалю <b>BLUES.RU-2001</b>. Появились новые страницы групп <a href="/rblues/Dr_Nick/"><b>Dr. Nick</b></a> и <a href="/rblues/The_Way/"><b>The Way</b></a>.

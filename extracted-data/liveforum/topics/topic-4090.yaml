@@ -1,0 +1,26 @@
+topic_id: 4090
+slug: topic-4090
+title: Концерт памяти Света
+first_post: 2008-09-16 13:02
+last_post: 2008-09-16 13:26
+post_count: 2
+posts:
+- id: 35789
+  parent_id: null
+  date: 2008-09-16 13:02
+  poster: Иванов
+  email: svetbb@yandex.ru
+  subject: Концерт памяти Света
+  deleted: false
+  text: 'В воскресенье, 21 сентября, в клубе "Дом у дороги" состоится концерт памяти
+    Святослава (Svet) Ходоновича. Обещали приехать Эл и братья Золотовы.
+
+    Приходите к 16 часам. Передайте всем, для кого это важно.'
+  replies:
+  - id: 35790
+    parent_id: 35789
+    date: 2008-09-16 13:26
+    poster: Игорь Г.
+    email: sunny_city@mail.ru
+    subject: Вова,спасибо тебе огромное!!!
+    deleted: false

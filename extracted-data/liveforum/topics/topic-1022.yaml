@@ -1,0 +1,43 @@
+topic_id: 1022
+slug: topic-1022
+title: Очень интересный адресок
+first_post: 2002-03-21 19:21
+last_post: 2002-03-22 21:53
+post_count: 3
+posts:
+- id: 2379
+  parent_id: null
+  date: 2002-03-21 19:21
+  poster: Игорь Г.
+  email: sunny_city@mail.ru
+  subject: Очень интересный адресок
+  deleted: false
+  text: 'http://genres.mp3.com/music/blues/
+
+
+    Море блюза на любой вкус хорошего качества.
+
+    Качается хорошо.Ходил недолго, но Izzy Chait, Blues Fools, Bill Johnson успели
+    понравиться.
+
+
+    Рекомендую всем этот сайт.'
+  replies:
+  - id: 2436
+    parent_id: 2379
+    date: 2002-03-22 21:16
+    poster: Доброжелатель
+    email: '-'
+    subject: А вот ещё более интересный ))
+    deleted: false
+    text: http://mp3.int.ru/pub/mp3/ - неужели кто-то ещё не знает ???
+    replies:
+    - id: 2438
+      parent_id: 2436
+      date: 2002-03-22 21:53
+      poster: Михаил Бирюков (nECKAPb)
+      email: blackcat@blues.ru
+      subject: это вы...
+      deleted: false
+      text: '... по пятому кругу уже пошли. Нельзя ж до такой степени добра желать
+        людям.'

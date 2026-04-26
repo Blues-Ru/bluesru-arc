@@ -1,0 +1,81 @@
+topic_id: 3141
+slug: topic-3141
+title: Умер Али Фарка.
+first_post: 2006-03-08 00:24
+last_post: 2006-03-09 22:38
+post_count: 7
+posts:
+- id: 26499
+  parent_id: null
+  date: 2006-03-08 00:24
+  poster: Kot Matraskin (KotMatraskin)
+  email: kotmatrs@mail.ru
+  subject: Умер Али Фарка.
+  deleted: false
+  text: One of Africa's best known musicians, Ali Farka Toure, dies in his home country,
+    Mali, after a long illness. (BBC News)
+  replies:
+  - id: 26500
+    parent_id: 26499
+    date: 2006-03-08 01:03
+    poster: MX
+    email: gcwdcdwehj
+    subject: serdze razorvalos na kuski
+    deleted: false
+    text: u menya, po krayney mere...
+  - id: 26504
+    parent_id: 26499
+    date: 2006-03-09 15:57
+    poster: Старый Майор
+    email: gypsy@mail.ru
+    subject: Он играл волшебную музыку..
+    deleted: false
+    text: "..те, кто ещё не слышал - послушайте это:\nhttp://gypsy.bluesman.ru/1/$$WorldMusic/Ali%20Farka%20Toure/01.%20Debe.mp3\
+      \ \nhttp://gypsy.bluesman.ru/1/$$WorldMusic/Ali%20Farka%20Toure/10.%20Kadi%20Kadi.mp3"
+    replies:
+    - id: 26506
+      parent_id: 26504
+      date: 2006-03-09 17:08
+      poster: Andrei V. Evdokimov (evdokimov)
+      email: evdokimov@blues.ru
+      subject: это из его Грэммиего альбома 2005 года In the Heart of the Moon
+      deleted: false
+      replies:
+      - id: 26507
+        parent_id: 26506
+        date: 2006-03-09 20:06
+        poster: Старый Майор
+        email: gypsy@mail.ru
+        subject: да-да, именно оттуда!
+        deleted: false
+        text: 'я забыл указать альбом когда копировал с локалки на сервер
+
+
+          У меня ещё есть его альбомов..'
+        replies:
+        - id: 26509
+          parent_id: 26507
+          date: 2006-03-09 21:52
+          poster: Kot Matraskin (KotMatraskin)
+          email: kotmatrs@mail.ru
+          subject: Talking Timbuktu?
+          deleted: false
+          text: 'Буду безмерно благодарен.
+
+            Удивительного света музыка. Сплошная радость.'
+          replies:
+          - id: 26514
+            parent_id: 26509
+            date: 2006-03-09 22:38
+            poster: Старый Майор
+            email: gypsy@mail.ru
+            subject: Кот, а ты сам через IRC стащить можешь?
+            deleted: false
+            text: 'У меня в локальном архиве нету, а вот у людей есть:
+
+
+              !wldflwr ali farka tour&#233; & ry cooder - talking timbuktu - 01 -
+              bonde.mp3  [6.3 MB]... (весь список не привожу из экономии)
+
+
+              (сеть UNDERNET, канал #mp3blues)'

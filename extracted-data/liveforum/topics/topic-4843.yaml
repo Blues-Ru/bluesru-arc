@@ -1,0 +1,30 @@
+topic_id: 4843
+slug: topic-4843
+title: Новости про Джек Уайт
+first_post: 2012-03-13 19:25
+last_post: 2012-03-14 19:59
+post_count: 2
+posts:
+- id: 38311
+  parent_id: null
+  date: 2012-03-13 19:25
+  poster: Andrei V. Evdokimov
+  subject: Новости про Джек Уайт
+  deleted: false
+  text: 'из небезызвестной и, по мнению некоторых, блюзовой группы White Stripes в
+    журнале ROLLING STONE:
+
+
+    http://www.rollingstone.ru/articles/music/article/10594.html'
+  replies:
+  - id: 38314
+    parent_id: 38311
+    date: 2012-03-14 19:59
+    poster: Старый Майор
+    subject: Женская тема раскрыта!
+    deleted: false
+    text: '"...в оркестре мистера Уайта было шесть женщин, причем одна из них была
+      серьезно беременна..."
+
+
+      Очевидно, остальные были беременны понарошку.'

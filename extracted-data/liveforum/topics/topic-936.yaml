@@ -1,0 +1,316 @@
+topic_id: 936
+slug: topic-936
+title: simple blues
+first_post: 2002-06-07 08:42
+last_post: 2002-06-10 12:13
+post_count: 31
+posts:
+- id: 5079
+  parent_id: null
+  date: 2002-06-07 08:42
+  poster: Alexei
+  email: real_sokol@mail.ru
+  subject: simple blues
+  deleted: false
+  text: Назовите, пожалуйста, какой-нибудь простой блюз для акустичской гитары, который
+    можно научиться играть человеку, не умеющему играть ни на чем, не имеющему ни
+    малейшего музыкального образования, и не знающему нот. Если есть такой блюз, то
+    где достать аккорды?
+  replies:
+  - id: 5080
+    parent_id: 5079
+    date: 2002-06-07 10:40
+    poster: Slavik Chernov (Blacky)
+    email: Blacky@softhome.net
+    subject: Аккорды для кастрюли :-)
+    deleted: false
+    text: 'ТЫ же сказал, что не умеешь ни на чем играть?
+
+      Верный путь - это стучать на чем нить и душевно петь.
+
+      В данном случае, всё равно что :-)
+
+      Играть аккорды в определенной последовательности, это еще не будет блюз :-('
+    replies:
+    - id: 5187
+      parent_id: 5080
+      date: 2002-06-09 12:20
+      poster: Alexei
+      email: real_sokol@mail.ru
+      subject: пробовал
+      deleted: false
+      text: 'стучать пробовал - дома ругаются, хотя, когда на гитаре брынчу - тоже
+        ругаются: медведь наступил и так далее, а у меня постоянно кто-нить дома есть
+        вот :('
+      replies:
+      - id: 5191
+        parent_id: 5187
+        date: 2002-06-09 12:24
+        poster: Дима Казанцев (Dr. Nick)
+        email: dr.nick@blues.ru
+        subject: Купи
+        deleted: false
+      - id: 5192
+        parent_id: 5187
+        date: 2002-06-09 12:24
+        poster: Дима Казанцев (Dr. Nick)
+        email: dr.nick@blues.ru
+        subject: Купи
+        deleted: false
+        text: электро-гитару и занимайся ;)
+        replies:
+        - id: 5200
+          parent_id: 5192
+          date: 2002-06-09 12:29
+          poster: Alexei
+          email: real_sokol@mail.ru
+          subject: min $2000 or higher? :)
+          deleted: false
+          replies:
+          - id: 5204
+            parent_id: 5200
+            date: 2002-06-09 17:33
+            poster: Дима Казанцев (Dr. Nick)
+            email: dr.nick@blues.ru
+            subject: Откуда такая цена?
+            deleted: false
+            replies:
+            - id: 5209
+              parent_id: 5204
+              date: 2002-06-09 20:02
+              poster: Alexei
+              email: real_sokol@mail.ru
+              subject: price
+              deleted: false
+              text: 'я точно не поню, сколько тысяч, помню, что не одна
+
+                мне друг говорил
+
+                так что, меньше или больше?'
+              replies:
+              - id: 5214
+                parent_id: 5209
+                date: 2002-06-09 21:00
+                poster: Дима Казанцев (Dr. Nick)
+                email: dr.nick@blues.ru
+                subject: Цена
+                deleted: false
+                text: насколько я знаю, хороший американский Фендер можно купить долларов
+                  за 700. А если б/у, так и дешевле.
+                replies:
+                - id: 5228
+                  parent_id: 5214
+                  date: 2002-06-10 10:17
+                  poster: General
+                  email: tangojerry@hotmail.com
+                  subject: ну зачем...
+                  deleted: false
+                  text: '...начинающему сразу штатовский Фендер?! Эт все равно, что
+                    посадить новичка за руль Порше... Вполне хватит и мексиканца (значительно
+                    дешевле)... Или вот по гитарным сайтам пущщай посмотрит объявы:
+                    там всякого оборудования по хорошим ценам много...'
+  - id: 5083
+    parent_id: 5079
+    date: 2002-06-07 11:42
+    poster: Ильницкий
+    email: ev-il@mail.ru
+    subject: хххх
+    deleted: false
+    text: строишь гитару в открытый строй и играешь, никаких аккордов не нужно, тока
+      ритмику чувствуй
+    replies:
+    - id: 5085
+      parent_id: 5083
+      date: 2002-06-07 12:10
+      poster: Slavik Chernov (Blacky)
+      email: Blacky@softhome.net
+      subject: Или купи губную гармошку
+      deleted: false
+      text: 'Принцип тот же, всё состроено аккордами в терцию.
+
+        Чередуй только вдох-выдох :-)'
+      replies:
+      - id: 5096
+        parent_id: 5085
+        date: 2002-06-07 15:33
+        poster: MX
+        email: dfvhsukvh
+        subject: или варган))))
+        deleted: false
+        replies:
+        - id: 5185
+          parent_id: 5096
+          date: 2002-06-09 12:17
+          poster: Alexei
+          email: real_sokol@mail.ru
+          subject: что это такое?
+          deleted: false
+      - id: 5183
+        parent_id: 5085
+        date: 2002-06-09 12:15
+        poster: Alexei
+        email: real_sokol@mail.ru
+        subject: если я еще
+        deleted: false
+        text: не научился на гитаре играть, то нет гарантии, что научусь на гармошке
+          :) сначала надо использовать гитару, чтобы не простаивала, а уж затем делать
+          дополнительные вложения
+        replies:
+        - id: 5190
+          parent_id: 5183
+          date: 2002-06-09 12:23
+          poster: Дима Казанцев (Dr. Nick)
+          email: dr.nick@blues.ru
+          subject: Возьми
+          deleted: false
+          text: аккорд Ми7 и пытайся правой рукой найти правильные ритмические движения
+            - это главное. Если надоест, попробуй добавлять Ля7 - этого достаточно
+            для блюза уже.
+          replies:
+          - id: 5194
+            parent_id: 5190
+            date: 2002-06-09 12:26
+            poster: Alexei
+            email: real_sokol@mail.ru
+            subject: Это можно для Хукера взять?
+            deleted: false
+          - id: 5195
+            parent_id: 5190
+            date: 2002-06-09 12:26
+            poster: Alexei
+            email: real_sokol@mail.ru
+            subject: Это можно для Хукера взять?
+            deleted: false
+          - id: 5196
+            parent_id: 5190
+            date: 2002-06-09 12:26
+            poster: Alexei
+            email: real_sokol@mail.ru
+            subject: Это можно для Хукера взять?
+            deleted: false
+            replies:
+            - id: 5198
+              parent_id: 5196
+              date: 2002-06-09 12:27
+              poster: Дима Казанцев (Dr. Nick)
+              email: dr.nick@blues.ru
+              subject: Хукер умер
+              deleted: false
+              text: ему все одно уже...
+              replies:
+              - id: 5201
+                parent_id: 5198
+                date: 2002-06-09 12:30
+                poster: Alexei
+                email: real_sokol@mail.ru
+                subject: ясно
+                deleted: false
+    - id: 5182
+      parent_id: 5083
+      date: 2002-06-09 12:11
+      poster: Alexei
+      email: real_sokol@mail.ru
+      subject: что такое открытый строй?
+      deleted: false
+      text: не могли бы объяснить или указать какой-нить сайт с описанием или книжку,
+        а вообще мне нужна песня какая-нить и описание, как пальцы ставить и каки
+        струны перебирать, знаете, как типа аккорды для чайников есть, вот... не поможете?
+      replies:
+      - id: 5188
+        parent_id: 5182
+        date: 2002-06-09 12:20
+        poster: Дима Казанцев (Dr. Nick)
+        email: dr.nick@blues.ru
+        subject: Открытый строй
+        deleted: false
+        text: это ре-си-соль-ре-соль-ре - открытая тональность соль.
+        replies:
+        - id: 5193
+          parent_id: 5188
+          date: 2002-06-09 12:24
+          poster: Alexei
+          email: real_sokol@mail.ru
+          subject: какими струнами?
+          deleted: false
+          text: 'а где можно посмотреть соответсвтие струнам, т.е. наприм ре - это
+            какая струна на каком ладу? хотя, наверное, это не сложно найти
+
+            спасибо'
+      - id: 5230
+        parent_id: 5182
+        date: 2002-06-10 12:13
+        poster: Ильницкий
+        email: ev-il@mail.ru
+        subject: открытый строй
+        deleted: false
+        text: 'открытым строем называется такой при котором открытые струны звучат
+          в аккорд, можно всяких напридумывать, но для блюза чаще используют соль
+          или ми (1-6: ми, си, соль диез, ми, си, ми) особенно удобны открытые строи
+          для игры слайдом, но можно и без него, пальцами. часто открытые строи в
+          народной музыке используются, американской в числе прочих.
+
+
+          смотри www.guitars.ru особенно раздел bluemiles Кирилла Пресли.'
+  - id: 5112
+    parent_id: 5079
+    date: 2002-06-08 02:17
+    poster: Вадим  (AVA)
+    email: vad2908@mail.ru
+    subject: John Lee Hooker обычно...
+    deleted: false
+    text: '....обходился одним аккордом (Ми, например)'
+    replies:
+    - id: 5179
+      parent_id: 5112
+      date: 2002-06-09 12:05
+      poster: Alexei
+      email: real_sokol@mail.ru
+      subject: а можно пример песни?
+      deleted: false
+      text: обычно- это понятно, но можно какую-нить песню для примера, с которой
+        можно начинать? или несколько, чтобы чередовать, а то одна надоесть может
+        Please!
+      replies:
+      - id: 5186
+        parent_id: 5179
+        date: 2002-06-09 12:18
+        poster: Дима Казанцев (Dr. Nick)
+        email: dr.nick@blues.ru
+        subject: Пой такую
+        deleted: false
+        text: 'Baby please don''t go
+
+          Baby please don''t go
+
+          Baby please don''t go down to New Orleans
+
+          You know I love you so
+
+          Baby please don''t go'
+        replies:
+        - id: 5189
+          parent_id: 5186
+          date: 2002-06-09 12:22
+          poster: Alexei
+          email: real_sokol@mail.ru
+          subject: а струны?
+          deleted: false
+          text: какие струны и в какой послед-ти и какие зажимать на каких ладах?
+          replies:
+          - id: 5197
+            parent_id: 5189
+            date: 2002-06-09 12:26
+            poster: Дима Казанцев (Dr. Nick)
+            email: dr.nick@blues.ru
+            subject: Один аккорд
+            deleted: false
+            text: Ми мажор. И мизинцем выводи мелодию через третий лад на первой и
+              второй струнах. Пробуй и слушай!
+            replies:
+            - id: 5199
+              parent_id: 5197
+              date: 2002-06-09 12:28
+              poster: Alexeii
+              email: real_sokol@mail.ru
+              subject: ok thanks! i'll try!
+              deleted: false

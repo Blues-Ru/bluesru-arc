@@ -1,0 +1,71 @@
+topic_id: 1778
+slug: topic-1778
+title: Happy New Year again ( Old version)
+first_post: 2004-01-13 18:42
+last_post: 2004-01-14 20:57
+post_count: 7
+posts:
+- id: 16812
+  parent_id: null
+  date: 2004-01-13 18:42
+  poster: Serge Sklyaroff (tigra)
+  email: bluesman@tut.by
+  subject: Happy New Year again ( Old version)
+  deleted: false
+  text: 'Написал и подумал... Веет чем то таки блюзовым. Старый Новый Год. Куча народа
+    наверно уже и не помнит из - за чего, ладно к делу собственно.
+
+
+    Желаю всем крепкого здоровья, семей, струн, нервов и так далее...'
+  replies:
+  - id: 16814
+    parent_id: 16812
+    date: 2004-01-13 20:32
+    poster: Игорь Головачев (Игорь Г.)
+    email: sunny_city@mail.ru
+    subject: Спасибо
+    deleted: false
+    text: Тостующий пьет до дна ! :)))
+    replies:
+    - id: 16815
+      parent_id: 16814
+      date: 2004-01-13 20:50
+      poster: Андрей Ордальонов (Андрей PRG)
+      email: peregnoy@mail.ru
+      subject: А тоскующий ? ;)
+      deleted: false
+      replies:
+      - id: 16816
+        parent_id: 16815
+        date: 2004-01-14 00:34
+        poster: Александр Мальчевский (Tonny)
+        email: heavyfuel@mtu-net.ru
+        subject: до утра :)))))))
+        deleted: false
+        replies:
+        - id: 16817
+          parent_id: 16816
+          date: 2004-01-14 07:31
+          poster: Андрей Ордальонов (Андрей PRG)
+          email: peregnoy@mail.ru
+          subject: А если
+          deleted: false
+          text: с утра на работу? ;)
+          replies:
+          - id: 16829
+            parent_id: 16817
+            date: 2004-01-14 20:57
+            poster: Дмитрий(фан)
+            email: leonidovd@mail.ru
+            subject: млять, вот уже два года без блюза ни дня.......
+            deleted: false
+            text: 'И пьян от блюза и  без алкоголя...
+
+              а под алкоголь вааще писец...'
+  - id: 16820
+    parent_id: 16812
+    date: 2004-01-14 11:34
+    poster: Andy mcletsoff (McL)
+    email: mcl@macbox.ru
+    subject: с утра с похмелья на работу - это блюз
+    deleted: false

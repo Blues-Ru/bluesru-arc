@@ -1,0 +1,28 @@
+topic_id: 3674
+slug: topic-3674
+title: Статья в "Русском репортере" - "Русские мифы о блюзе"
+first_post: 2007-07-09 07:55
+last_post: 2007-07-09 14:58
+post_count: 2
+posts:
+- id: 33150
+  parent_id: null
+  date: 2007-07-09 07:55
+  poster: Вова
+  email: burg2003@ngs.ru
+  subject: Статья в "Русском репортере" - "Русские мифы о блюзе"
+  deleted: false
+  text: 'http://www.expert.ru/printissues/russian_reporter/2007/07/interview_urban/
+
+
+    много интересного'
+  replies:
+  - id: 33156
+    parent_id: 33150
+    date: 2007-07-09 14:58
+    poster: Arsen
+    email: ragtime@blues.ru
+    subject: Действительно
+    deleted: false
+    text: 'интересно. Особенно вот это, вырываю из контекста, но все таки: "москвичи
+      создали миф о том, что блюз — это мировая культура, что культура блюза универсальна"...'

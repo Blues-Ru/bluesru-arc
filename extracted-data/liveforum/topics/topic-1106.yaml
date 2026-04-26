@@ -1,0 +1,124 @@
+topic_id: 1106
+slug: topic-1106
+title: Просьба ко всем
+first_post: 2002-02-07 17:45
+last_post: 2002-02-08 16:40
+post_count: 9
+posts:
+- id: 857
+  parent_id: null
+  date: 2002-02-07 17:45
+  poster: Дима Казанцев (Dr. Nick)
+  email: dr.nick@blues.ru
+  subject: Просьба ко всем
+  deleted: false
+  text: 'Если не трудно, не могли бы Вы составить Top 10 своих любимых блюзовых/блюзроковых
+    музыкантов. Мне это нужно для дальнейшей работы над материалами о музыкантах.
+
+    Спасибо.'
+  replies:
+  - id: 872
+    parent_id: 857
+    date: 2002-02-08 04:18
+    poster: Вадим  (AVA)
+    email: vad2908@mail.ru
+    subject: прошу уточнить...
+    deleted: false
+    text: '...по поводу Top10; 1. если в 10 не уложусь, ругать не будешь?
+
+      2. Куда посылать (в смысле список)? Вадим.'
+    replies:
+    - id: 876
+      parent_id: 872
+      date: 2002-02-08 09:54
+      poster: Дима Казанцев (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: Посылай хоть Top 100
+      deleted: false
+      text: Можешь тут выложить, а можешь мне на мыло выслать.
+      replies:
+      - id: 920
+        parent_id: 876
+        date: 2002-02-08 15:32
+        poster: V.tsubin (VOVAN)
+        email: vts13@hotmail.com
+        subject: Начнем,пожалуй
+        deleted: false
+        text: "Судя по всему,народ здесь осторожный,стеснительный:-)Я уже свое отстеснялся,к\
+          \ тому же у каждого свой блюз.У меня,как у бывшего рок-гитариста,и десятка\
+          \ соответствующая (на сегодняшний день,без ряда напряжений):\nMuddy Waters\n\
+          Otis Rush\nBuddy Guy\nAlbert King\nHubert Sumlin\nPeter Green\nJoe Beard\n\
+          SRV\nRonnie Earl\nJohn Campbell\n Первый запасной Albert Collins:-)\n Второй\
+          \ запасной Eric Clapton:-))"
+        replies:
+        - id: 927
+          parent_id: 920
+          date: 2002-02-08 16:07
+          poster: Дима Казанцев (Dr. Nick)
+          email: dr.nick@blues.ru
+          subject: Спасибо!
+          deleted: false
+          text: Хорошая у тебя команда получилась!
+  - id: 878
+    parent_id: 857
+    date: 2002-02-08 10:35
+    poster: Volk
+    email: volk21@land.ru
+    subject: Молодец Доктор!!!!!! Правильно !!!! Нужное это дело
+    deleted: false
+    text: 'И опять таки всем польза....
+
+      А если каждый хотя бы про одного музыканта свой материал найденный выложит...
+
+      это же будет.... это же будет....
+
+      классная подборка'
+  - id: 902
+    parent_id: 857
+    date: 2002-02-08 14:33
+    poster: Greta
+    email: morehemp@rambler.ru
+    subject: sorry, не в тему
+    deleted: false
+    text: 'Проснулась сегодня утром с проигрывающейся в голове "Jockey Full of Bourbon"
+      в исполнении Hammond(a) (сто пудов - offtopic ;-)
+
+      Список не скажу, хотя бы потому, чтобы не стоять потом у стенки в качестве игрушки
+      "дартс";-) Нет, извините, но личные вкусы - это нечто интимное, не пристало
+      их развешивать вот так вот просто. Если, конечно, Вы не являетесь ходячей энциклопедией,
+      и Ваши вкусы с точки зрения истории безупречны. Nothing personal ;-)'
+    replies:
+    - id: 912
+      parent_id: 902
+      date: 2002-02-08 14:50
+      poster: Дима Казанцев (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: Дело Ваше
+      deleted: false
+      text: Мне это для работы надо, но не для фана.
+  - id: 939
+    parent_id: 857
+    date: 2002-02-08 16:40
+    poster: Anton Klepikov (antokha)
+    email: antokha@yandex.ru
+    subject: list, unsorted
+    deleted: false
+    text: 'T-Bone Walker
+
+      Buddy Guy
+
+      Muddy Waters
+
+      Skip James
+
+      B.B. King
+
+      Lightin Hopkins
+
+      Memphis Slim
+
+      Brownie McGhee
+
+      Howlin Wolf
+
+      Sonny Boy Williamson II'

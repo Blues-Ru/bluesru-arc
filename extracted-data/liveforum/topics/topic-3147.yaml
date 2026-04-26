@@ -1,0 +1,46 @@
+topic_id: 3147
+slug: topic-3147
+title: А гармошке учиццо тут!
+first_post: 2006-03-09 22:27
+last_post: 2006-03-10 13:17
+post_count: 3
+posts:
+- id: 26513
+  parent_id: null
+  date: 2006-03-09 22:27
+  poster: Старый Майор
+  email: gypsy@mail.ru
+  subject: А гармошке учиццо тут!
+  deleted: false
+  text: 'Впервые в России
+
+    Обучение игре на Губной Гармонике
+
+
+    Занятия ведет известный музыкант
+
+    исполнитель на Губной Гармонике (харпер)
+
+
+    Михаил Владимиров
+
+
+
+    http://harpschool.ru/'
+  replies:
+  - id: 26517
+    parent_id: 26513
+    date: 2006-03-09 22:54
+    poster: Aleksey
+    email: real_sokol@mail.ru
+    subject: а раньше почему молчали?
+    deleted: false
+    replies:
+    - id: 26531
+      parent_id: 26517
+      date: 2006-03-10 13:17
+      poster: Старый Майор
+      email: gypsy@mail.ru
+      subject: Не понял претензии.
+      deleted: false
+      text: Я только вчера ЭТО увидел, вот и отреагировал.

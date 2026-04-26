@@ -1,0 +1,94 @@
+topic_id: 447
+slug: topic-447
+title: Блюзовый басист
+first_post: 2002-11-05 12:09
+last_post: 2002-11-06 13:01
+post_count: 9
+posts:
+- id: 8683
+  parent_id: null
+  date: 2002-11-05 12:09
+  poster: Кожекин
+  email: bluesman@high.ru
+  subject: Блюзовый басист
+  deleted: false
+  text: Очень интересно мнение форума - кто в Москве лучше всего на басу блюз играет?
+    (бас-гитара или контрабас не важно) Маевского и Ветерана не называть.
+  replies:
+  - id: 8689
+    parent_id: 8683
+    date: 2002-11-05 15:46
+    poster: Дима Казанцев (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: А почему их не называть?
+    deleted: false
+    text: Они вне конкуренции или слишком эрудированны для блюза?
+    replies:
+    - id: 8699
+      parent_id: 8689
+      date: 2002-11-05 19:12
+      poster: Жук
+      email: psuhu@pisem.net
+      subject: Они уже заняты в этот день :)
+      deleted: false
+  - id: 8695
+    parent_id: 8683
+    date: 2002-11-05 18:15
+    poster: ilnitski
+    email: ev-il@mail.ru
+    subject: я
+    deleted: false
+    text: по моему, я.
+  - id: 8696
+    parent_id: 8683
+    date: 2002-11-05 18:24
+    poster: ilnitski
+    email: ev-il@mail.ru
+    subject: а
+    deleted: false
+    text: а вообще конечно Санчил рулит.
+  - id: 8700
+    parent_id: 8683
+    date: 2002-11-05 19:17
+    poster: Игорь Головачев (Игорь Г.)
+    email: sunny_city@mail.ru
+    subject: Лучший - не лучший, но
+    deleted: false
+    text: 'по-моему очень перспективен Василий (фамилию не знаю,он еще "выводит рулады
+      на губах")которого можно часто видеть на джемах в B.B.King(e)
+
+      Если не сопьется (шутка), то толк будет.
+
+      Только не судите строго это мое личное мнение - человека в общем-то постороннего.'
+    replies:
+    - id: 8703
+      parent_id: 8700
+      date: 2002-11-05 20:40
+      poster: Дима Казанцев (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: Отличный парень
+      deleted: false
+      text: Но ему еще надо многому учиться. Пальцы-то у него работают, а вот музыки
+        слышал он мало, от этого может быть и скудность в игре. Но он настолько молод,
+        что это не беда вообще ;)
+      replies:
+      - id: 8718
+        parent_id: 8703
+        date: 2002-11-06 12:51
+        poster: AlexIV
+        email: evergreens@mail.ru
+        subject: парня этого зовут...
+        deleted: false
+        text: 'Вася Рогожин. Он ученик Петра Маевского. Координаты Василия у меня
+          есть. Обращайтесь.
+
+          ...С коммерческими предложениями :-)))'
+        replies:
+        - id: 8719
+          parent_id: 8718
+          date: 2002-11-06 13:01
+          poster: Дима Казанцев (Dr. Nick)
+          email: dr.nick@blues.ru
+          subject: А я-то думал
+          deleted: false
+          text: что он ученик Горбунова.

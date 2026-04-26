@@ -1,0 +1,87 @@
+topic_id: 397
+slug: topic-397
+title: Paul Lamb. Вот дела...
+first_post: 2002-10-12 14:51
+last_post: 2002-10-14 14:23
+post_count: 8
+posts:
+- id: 8166
+  parent_id: null
+  date: 2002-10-12 14:51
+  poster: Andrei V. Evdokimov (evdokimov)
+  email: evdokimov@blues.ru
+  subject: Paul Lamb. Вот дела...
+  deleted: false
+  text: 'Билетики в рунете: <a href="http://www.kontramarka.ru/is-bin/INTERSHOP.enfinity/eCS/Store/ru/-/RUR/DisplayProductInformation-Start;%24sid%24Pag8cD2n_Gwai86EFIq1eP2JaNMN4eaI?ProductID=rQ%2esEAcCfAcAAADw1THwV81F">http://www.kontramarka.ru/is-bin/INTERSHOP.enfinity/eCS/Store/ru/-/RUR/ActDescription-Start;%24sid%24Pag8cD2n_Gwai86EFIq1eP2JaNMN4eaI?CatalogCategoryID=Y0qsEAcCYXMAAADwNg5yKbAT</a>
+
+    Умиляет краткое описание артиста. Замечательный пример того, что называется "слышал
+    звон, да не знает, где он".
+
+    Но по настоящему восхищает 1300 руб. за самые дешовые места в партере.'
+  replies:
+  - id: 8169
+    parent_id: 8166
+    date: 2002-10-12 16:30
+    poster: Дима Казанцев (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: А мы-то куда идем?
+    deleted: false
+    text: В Нэо? Или в БиБиК?
+    replies:
+    - id: 8173
+      parent_id: 8169
+      date: 2002-10-13 01:58
+      poster: Александр Мальчевский (Tonny)
+      email: heavyfuel@mtu-net.ru
+      subject: Кто куда, а я в сберкассу!!!
+      deleted: false
+      text: '....'
+    - id: 8181
+      parent_id: 8169
+      date: 2002-10-13 12:57
+      poster: Алексей Дагаев (axle)
+      email: axledog@zebratelecom.ru
+      subject: Paul Lamb в НЕО и дешевые цены на вход.
+      deleted: false
+      text: 'Дима, есть определенная договоренность о концерте Paul Lamb в НЕО.
+
+        Как всегда для блюзру большие скидки на вход.
+
+        Флайер будет размещен позже.'
+      replies:
+      - id: 8183
+        parent_id: 8181
+        date: 2002-10-13 16:58
+        poster: Дима Казанцев (Dr. Nick)
+        email: dr.nick@blues.ru
+        subject: У меня еще есть контрамарка
+        deleted: false
+        text: которую я не использовал на Тито? ;)
+    - id: 8182
+      parent_id: 8169
+      date: 2002-10-13 14:20
+      poster: Федор Романенко (fedor)
+      email: fedor@blues.ru
+      subject: А мы пойдем...
+      deleted: false
+      text: '... на все концерты, вот как!'
+      replies:
+      - id: 8184
+        parent_id: 8182
+        date: 2002-10-13 16:59
+        poster: Дима Казанцев (Dr. Nick)
+        email: dr.nick@blues.ru
+        subject: Вам журналистам
+        deleted: false
+        text: всегда все проще ;)
+  - id: 8199
+    parent_id: 8166
+    date: 2002-10-14 14:23
+    poster: Andrei V. Evdokimov (evdokimov)
+    email: evdokimov@blues.ru
+    subject: ожиданно приятное развитие событий
+    deleted: false
+    text: "для посетителей блюз-ру билет в NEO (на П.Лэмба) будет стоить 200р. специльный\
+      \ флайер будет размещен на сайте. \nТем временем дружба сайта с клубом крепнет.\
+      \ в чем внимательный блюз-нет-серфер может убедится (если, конечно, он досерфирует\
+      \ до майн-кампф-пейджа)."

@@ -1,0 +1,52 @@
+topic_id: 3288
+slug: topic-3288
+title: Плохие новости...
+first_post: 2006-06-08 12:50
+last_post: 2006-06-08 22:01
+post_count: 4
+posts:
+- id: 27647
+  parent_id: null
+  date: 2006-06-08 12:50
+  poster: VoV  (Barmaley)
+  email: barmaley-vov@yandex.ru
+  subject: Плохие новости...
+  deleted: false
+  text: 'Российские рейдеры пытаются захватить завод, выпускающий лампы для усилителей.
+
+    "Если ламповый завод погибнет, вместе с ним уйдет в небытие и рок-н-ролльный звук,
+    каким мы его знаем последние полвека..."
+
+
+    http://www.inosmi.ru/translation/227517.html'
+  replies:
+  - id: 27648
+    parent_id: 27647
+    date: 2006-06-08 12:56
+    poster: Владимир Русинов (BluesCat)
+    email: volodya@blues.ru
+    subject: угу...
+    deleted: false
+    text: "это Sovtek.Я как раз неделю назад купил лампу с лейблом Fender сделанную\
+      \ в саратове... в России есть еще завод Electro-Harmonix  - в питере... больше\
+      \ вроде нет. \n\nИ в китае еще есть ламповые заводы."
+    replies:
+    - id: 27652
+      parent_id: 27648
+      date: 2006-06-08 20:12
+      poster: Doc.
+      email: D@d
+      subject: Да нериятная история!!!
+      deleted: false
+      text: Хотья заводы есть в Чехий - JJ tubes и Groove Tubes в США. они намного
+        дороже но также качественнее.
+      replies:
+      - id: 27655
+        parent_id: 27652
+        date: 2006-06-08 22:01
+        poster: Руслан Чифуров ()
+        email: chifuroff<sobaka>inbox.ru
+        subject: По-моему ещё...
+        deleted: false
+        text: '...в городе Фрязино Московской области когда-то такие лампы выпускали,
+          но что-то мне кажется, что его давно уже закрыли.'

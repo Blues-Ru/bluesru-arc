@@ -1,0 +1,37 @@
+topic_id: 1136
+slug: topic-1136
+title: Какая же красота все же
+first_post: 2002-02-11 23:21
+last_post: 2002-02-12 09:49
+post_count: 3
+posts:
+- id: 1175
+  parent_id: null
+  date: 2002-02-11 23:21
+  poster: Дима Казанцев (Dr. Nick)
+  email: dr.nick@blues.ru
+  subject: Какая же красота все же
+  deleted: false
+  text: на альбоме John Hammond 'Got Love If You Want It' 1992! И J.J. Cale продюсер,
+    и John Lee Hooker на второй вещи поет 'Driftin' Blues', и Тома Уэтса он исполняет,
+    и Спунер Олдэм на клавишах, и Тим Драммонд на басу. Звук отличный! Что странно,
+    он у меня на виниле - поздновато для виниловой эры.
+  replies:
+  - id: 1178
+    parent_id: 1175
+    date: 2002-02-12 01:38
+    poster: Ворон
+    email: info@crossroadz.ru
+    subject: '444'
+    deleted: false
+    text: Остынь  and play
+    replies:
+    - id: 1182
+      parent_id: 1178
+      date: 2002-02-12 09:49
+      poster: Дима Казанцев (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: Во как сказал ;)
+      deleted: false
+      text: "От чего остыть-то? Музыка - это серьезный drug для меня, так что остыть\
+        \ не получится. \nА вот play придется отменить совсем, видимо."

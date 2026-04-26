@@ -1,0 +1,38 @@
+topic_id: 4142
+slug: topic-4142
+title: Андрея Евдокимова с ДР!!!
+first_post: 2008-11-30 14:55
+last_post: 2008-12-02 10:13
+post_count: 3
+posts:
+- id: 35953
+  parent_id: null
+  date: 2008-11-30 14:55
+  poster: Grem
+  email: grem@yandex.ru
+  subject: Андрея Евдокимова с ДР!!!
+  deleted: false
+  text: 'Удачи, любви, здоровья и всего всего...
+
+    Да, и конечно много новых хороших блюзов!
+
+    Ура!!!!!'
+  replies:
+  - id: 35954
+    parent_id: 35953
+    date: 2008-12-01 14:31
+    poster: Алексей Аграновский (Док)
+    email: aaa@genebee.msu.su
+    subject: С Днём Рождения, Андрюша!
+    deleted: false
+    text: Будь здоров, старина.
+  - id: 35956
+    parent_id: 35953
+    date: 2008-12-02 10:13
+    poster: илья верховский
+    email: verhovskiyia@admhmao.ru
+    subject: зайт гезунт
+    deleted: false
+    text: 'Чтоб вы были здоровы, о блюзовый Кинг Бисквит всея Руси!:)
+
+      И - всегда хорошего настроения. И везде.'

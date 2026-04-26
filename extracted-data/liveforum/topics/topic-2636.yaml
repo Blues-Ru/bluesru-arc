@@ -1,0 +1,81 @@
+topic_id: 2636
+slug: topic-2636
+title: Запись из Дома у Дороги (вчера :)
+first_post: 2005-06-29 14:11
+last_post: 2005-07-01 00:48
+post_count: 8
+posts:
+- id: 21891
+  parent_id: null
+  date: 2005-06-29 14:11
+  poster: vr  (Stone Crazy)
+  email: volodya@blues.ru
+  subject: Запись из Дома у Дороги (вчера :)
+  deleted: false
+  text: 'http://www.bluescats.ru/files/Three_O_Clock_Blues.ogg
+
+
+    можно послушать, если интересно :)'
+  replies:
+  - id: 21898
+    parent_id: 21891
+    date: 2005-06-29 16:07
+    poster: Дмитрий Казанцев (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: блин, а почему OGG?
+    deleted: false
+    text: эти уроды не выпустили драйвер по QuickTime 7. не переставлять же шестой
+      из-за этого...
+    replies:
+    - id: 21899
+      parent_id: 21898
+      date: 2005-06-29 16:15
+      poster: vr  (Stone Crazy)
+      email: volodya@blues.ru
+      subject: ну просто ogg самый компактный при сохранении какчества
+      deleted: false
+      replies:
+      - id: 21900
+        parent_id: 21899
+        date: 2005-06-29 18:18
+        poster: Дмитрий Казанцев (Dr. Nick)
+        email: dr.nick@blues.ru
+        subject: точно?
+        deleted: false
+        replies:
+        - id: 21901
+          parent_id: 21900
+          date: 2005-06-29 18:19
+          poster: vr  (Stone Crazy)
+          email: volodya@blues.ru
+          subject: приблизительно :)
+          deleted: false
+    - id: 21911
+      parent_id: 21898
+      date: 2005-06-30 10:18
+      poster: Andy McLetsoff (McL)
+      email: mcl@macbox.ru
+      subject: Дмитрий, уж не на Маке ли Вы сидите? ;)
+      deleted: false
+      text: 'Тогда понятно, АСС там рулит, никаким оггам не снилось ;)
+
+        Так что в принципе все же предпочтительнее мр3'
+      replies:
+      - id: 21914
+        parent_id: 21911
+        date: 2005-06-30 13:19
+        poster: vr  (Stone Crazy)
+        email: volodya@blues.ru
+        subject: ну хорошо :) если это будет вообще комунить надо, то можно и мп3
+          :))
+        deleted: false
+        text: :)))
+      - id: 21929
+        parent_id: 21911
+        date: 2005-07-01 00:48
+        poster: Дмитрий Казанцев (Dr. Nick)
+        email: dr.nick@blues.ru
+        subject: про АСС я знаю, а вот ОГГ не торопится сделать нормальный файл для
+          Тигра и 7-го КвикТайма
+        deleted: false
+        text: да, у меня дома Маки.

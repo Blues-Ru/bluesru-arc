@@ -1,0 +1,50 @@
+topic_id: 2738
+slug: topic-2738
+title: Ооооох......
+first_post: 2005-09-02 01:39
+last_post: 2005-09-03 00:12
+post_count: 4
+posts:
+- id: 22639
+  parent_id: null
+  date: 2005-09-02 01:39
+  poster: Федор Романенко (fedor)
+  email: fedor@blues.ru
+  subject: Ооооох......
+  deleted: false
+  text: 'В Новом Орлеане после урагана "Катрина" пропал знаменитый музыкант Фэтс Домино
+    (Fats Domino), сообщает CNN.
+
+
+    http://www.lenta.ru/news/2005/09/02/domino/'
+  replies:
+  - id: 22643
+    parent_id: 22639
+    date: 2005-09-02 08:52
+    poster: Arsen
+    email: ragtime@blues.ru
+    subject: Похоже, его спасли
+    deleted: false
+    text: 'Его дочь сообщила, что спасатели вывезли Фэтса из затопленного квартала:
+
+
+      http://news.yahoo.com/news?tmpl=story&u=/ap/20050902/ap_en_ce/katrina_fats_domino_7'
+  - id: 22666
+    parent_id: 22639
+    date: 2005-09-02 21:25
+    poster: Elicaster
+    email: elicaster(@))mmmmmmmmmail.ru
+    subject: Дом надо-то ставить на холме
+    deleted: false
+    text: 'Дом надо-то ставить на холме, желательно на голубично-черничном. В противном
+      случае нам пришлось бы печалится.
+
+      Ешь тов. Домино много и вкусно и не болей! Живи долго!'
+    replies:
+    - id: 22681
+      parent_id: 22666
+      date: 2005-09-03 00:12
+      poster: Axle
+      email: axledog@mail.ru
+      subject: '...... а если они уже заняты, то на сваях, как вьетнамцы'
+      deleted: false

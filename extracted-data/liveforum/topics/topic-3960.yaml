@@ -1,0 +1,41 @@
+topic_id: 3960
+slug: topic-3960
+title: Квартет живьем. Плиз Нужны комменты!!!
+first_post: 2008-03-27 23:17
+last_post: 2008-03-27 23:24
+post_count: 2
+posts:
+- id: 35122
+  parent_id: null
+  date: 2008-03-27 23:17
+  poster: Алекс Микулинский
+  email: dzz_gomel@tut.by
+  subject: Квартет живьем. Плиз Нужны комменты!!!
+  deleted: false
+  text: 'Для большей обьективности Нужны комменты!!!
+
+    Записанно на днях живьем. Квартет: Гитара, Басс, Барабаны и Саксофон. Инструментал.
+    Заранее спасибо.
+
+
+    http://asdemo.org/music/SomethingGonnaHappen.mp3  4мб
+
+
+    http://asdemo.org/music/chineseflowrs.mp3  2мб
+
+
+
+    СПАСИБО!!!'
+  replies:
+  - id: 35123
+    parent_id: 35122
+    date: 2008-03-27 23:24
+    poster: Алекс Микулинский
+    email: dzz_gomel@tut.by
+    subject: ой ссылки
+    deleted: false
+    text: '<a href="http://asdemo.org/music/SomethingGonnaHappen.mp3">SomethingGonnaHappen.mp3</a>
+
+
+
+      <a href="http://asdemo.org/music/chineseflowrs.mp3">ChineseFlowers.mp3</a>'

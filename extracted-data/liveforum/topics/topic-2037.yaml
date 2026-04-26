@@ -1,0 +1,41 @@
+topic_id: 2037
+slug: topic-2037
+title: Вопрос о записи в виде табулатур(+)
+first_post: 2002-07-18 10:51
+last_post: 2002-07-18 15:24
+post_count: 3
+posts:
+- id: 6119
+  parent_id: null
+  date: 2002-07-18 10:51
+  poster: Alexander Lokotkov
+  email: alex@fastwel.com
+  subject: Вопрос о записи в виде табулатур(+)
+  deleted: false
+  text: 'Не могли бы уважаемые коллеги подсказать мне хорошую ссылочку на матчасть,
+    в которой описан сей способ записи музыки на бумагу?
+
+
+    Или, быть может, всё настолько просто, что кто-нибудь сможет прямо здесь объяснить?'
+  replies:
+  - id: 6129
+    parent_id: 6119
+    date: 2002-07-18 14:50
+    poster: Иван Иванов
+    email: ivan@hotmail.com
+    subject: Power Tab Editor
+    deleted: false
+    text: 'Можеш бесплатно скачать этот софт.
+
+      http://www.hitsquad.com/smm/programs/Power_Tab/
+
+      Ты играеш - она пишет в таб.'
+    replies:
+    - id: 6130
+      parent_id: 6129
+      date: 2002-07-18 15:24
+      poster: Alexander Lokotkov
+      email: alex@fastwel.com
+      subject: Спасибо! То, что нужно!(-)
+      deleted: false
+      text: '*'

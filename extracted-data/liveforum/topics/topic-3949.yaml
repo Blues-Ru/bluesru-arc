@@ -1,0 +1,50 @@
+topic_id: 3949
+slug: topic-3949
+title: Professor's Blues Band
+first_post: 2008-03-18 19:34
+last_post: 2008-03-20 21:42
+post_count: 4
+posts:
+- id: 34975
+  parent_id: null
+  date: 2008-03-18 19:34
+  poster: Professor
+  email: liladick@rambler.ru
+  subject: Professor's Blues Band
+  deleted: false
+  text: "www.bluesband.ru\n\nРостовский коллектив Professor Blue & JACKKNIFE Rockabilly\
+    \ Orchestra переехал на постоянное место проживания в Москву.\nБудем рады видеть\
+    \ всех поклонников блюза на наших выступлениях.\n Следите за рекламой...   :0)\n\
+    \nwww.bluesband.ru"
+  replies:
+  - id: 34982
+    parent_id: 34975
+    date: 2008-03-18 23:59
+    poster: Федор Романенко (fedor)
+    email: fedor@blues.ru
+    subject: Добро пожаловать!
+    deleted: false
+    text: 'Какие творческие планы? В ДуД уже записались? Будете теперь все вместе
+      в Москве играть? С Иващенко уже встречались? ;)
+
+
+      P.S. wma файлы в Музыке пожаты неправильно. 15 мегабайт на файл - это уж слишком....'
+  - id: 35005
+    parent_id: 34975
+    date: 2008-03-20 21:39
+    poster: Эльдар
+    email: Эльдар
+    subject: 5+
+    deleted: false
+    text: Ну просто здОрово!!! Всё понравилось! Scoodle Doo Doo Blues прям-таки слезу
+      прошибла - вспомнил себя лет 15 назад, тогда её...
+    replies:
+    - id: 35006
+      parent_id: 35005
+      date: 2008-03-20 21:42
+      poster: Эльдар
+      email: Эльдар
+      subject: Skoodle Do Do
+      deleted: false
+      text: 'Scoodle Doo Doo Blues прям-таки слезу прошибла - вспомнил себя лет 15
+        назад, тогда её слушал в исполнении Биг Билл Брунзи: Skoodle Do Do'

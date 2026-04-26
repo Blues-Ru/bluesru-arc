@@ -1,0 +1,139 @@
+topic_id: 2334
+slug: topic-2334
+title: Андрея с днем рождения!
+first_post: 2004-12-01 00:49
+last_post: 2004-12-02 19:28
+post_count: 14
+posts:
+- id: 19876
+  parent_id: null
+  date: 2004-12-01 00:49
+  poster: Федор Романенко (fedor)
+  email: fedor@blues.ru
+  subject: Андрея с днем рождения!
+  deleted: false
+  text: Как обычно, с опозданием на 40 минут, но программисты, как известно, живут
+    по Гринвичу. Сердешные поздравления Андрею Евдокимову с днем рождения! Больших
+    творческих, финансовых и других успехов в личной жизни на всеобщее благо! Ура!
+    Ура! Ура!!! ;)
+  replies:
+  - id: 19877
+    parent_id: 19876
+    date: 2004-12-01 00:52
+    poster: Федор Романенко (fedor)
+    email: fedor@blues.ru
+    subject: И Свету!
+    deleted: false
+    text: Не менее горячо поздравляем Свету Фунтусову с ее днем рождения! Всего наилучшего!
+      И огромное спасибо, без Светы в Москву не приехал бы ни один из блюзовых музыкантов,
+      которых мы привозили.
+    replies:
+    - id: 19881
+      parent_id: 19877
+      date: 2004-12-01 09:49
+      poster: Arsen
+      email: ragtime@blues.ru
+      subject: Поздравляю!!!!
+      deleted: false
+    - id: 19882
+      parent_id: 19877
+      date: 2004-12-01 09:49
+      poster: Arsen
+      email: ragtime@blues.ru
+      subject: Поздравляю!!!!
+      deleted: false
+    - id: 19894
+      parent_id: 19877
+      date: 2004-12-02 19:28
+      poster: Олег Усманов
+      email: eeek@gurgle-gurgle-gurgle.ru
+      subject: Пздрвляю!
+      deleted: false
+      text: 'Пздрвляю!
+
+        Бзвомздно..
+
+        Даешь новые джазовые и свинговые достижеиня. Пусть будут сюрпризы для публики.'
+  - id: 19878
+    parent_id: 19876
+    date: 2004-12-01 01:59
+    poster: vr  (Stone Crazy)
+    email: volodya@blues.ru
+    subject: УРААААААААААААААААААА!!!!!!!!!!!
+    deleted: false
+  - id: 19879
+    parent_id: 19876
+    date: 2004-12-01 07:16
+    poster: Андрей Ордальонов (Андрей PRG)
+    email: peregnoy@mail.ru
+    subject: С днём рождения, Андрей!
+    deleted: false
+  - id: 19880
+    parent_id: 19876
+    date: 2004-12-01 09:05
+    poster: (Grem)
+    email: grems@yandex.ru
+    subject: Паааздравляю...
+    deleted: false
+    text: 'Желаю всего самого самого....больше хороших статей, передач, встреч
+
+      с настоящими блюзовыми музыкантами и конечно богатырского здоровья!!!!
+
+      P.S а также всех блюзовых Стрельцов , в т.ч себя с 45-летием....'
+  - id: 19883
+    parent_id: 19876
+    date: 2004-12-01 10:02
+    poster: Михан  (Ded Morozzz)
+    email: morozzz_ded@mail.ru
+    subject: Присоединяюсь к поздравлениям :)
+    deleted: false
+    text: Желаю, чтоб у именинников все было круто и здорово!
+  - id: 19884
+    parent_id: 19876
+    date: 2004-12-01 13:03
+    poster: Алексей Аграновский (Док)
+    email: aaa@genebee.msu.su
+    subject: C днём рождения тебя, старина!
+    deleted: false
+    text: С днем рождения, Андрей.
+  - id: 19885
+    parent_id: 19876
+    date: 2004-12-01 16:23
+    poster: Andrei V. Evdokimov (evdokimov)
+    email: evdokimov@blues.ru
+    subject: троекратное ура!
+    deleted: false
+  - id: 19889
+    parent_id: 19876
+    date: 2004-12-01 21:45
+    poster: SKash
+    email: skash@yandex.ru
+    subject: Здоровья, прежде всего!
+    deleted: false
+  - id: 19891
+    parent_id: 19876
+    date: 2004-12-02 00:27
+    poster: Михаил Бирюков (nECKAPb)
+    email: blackcat@blues.ru
+    subject: '... и мои,...'
+    deleted: false
+    text: '... и мои запоздалые пять копеек. А может и рублей.
+
+      Андрей, с днём рождения. Здоровья. Счастья. Успехов. Радости. Музыки хорошей
+      вокруг.
+
+      И шампаньскива. Или чего ты там сам захочешь.'
+  - id: 19893
+    parent_id: 19876
+    date: 2004-12-02 19:23
+    poster: Олег Усманов
+    email: try2recall@bow-wow.ru
+    subject: Happy B-day
+    deleted: false
+    text: 'Андрей!
+
+      Стрельбан!
+
+      Мноо-о-о-о-о-ги-яяя....
+
+      ЛЕЕЕЕЕЕ-ТААА!'

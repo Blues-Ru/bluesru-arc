@@ -1,0 +1,50 @@
+topic_id: 1813
+slug: topic-1813
+title: Сами мы не местные...короче...в список..
+first_post: 2004-01-30 11:28
+last_post: 2004-01-30 20:08
+post_count: 4
+posts:
+- id: 17019
+  parent_id: null
+  date: 2004-01-30 11:28
+  poster: Yuri Kaverkin (Gekko)
+  email: kaverkin@rol.ru
+  subject: Сами мы не местные...короче...в список..
+  deleted: false
+  text: 'концертов я эту информацию втиснуть не смог - образования не хватило...
+
+    8-го Февраля в ББКинге (начало в 19.00) пройдет акустический концерт с участием
+    Михаила Владимирова Jr., Вадима Иващенко и вашего покорного слуги Ю.Каверкина...Попробуем
+    замутить...'
+  replies:
+  - id: 17020
+    parent_id: 17019
+    date: 2004-01-30 16:55
+    poster: Дима Казанцев (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: То есть наш с тобой проект накрылся?
+    deleted: false
+    text: 'Леша оказался болтуном?
+
+
+      А мы тут с Джоном начали пробовать записываться живьем: http://www.realmusic.ru/albums/1558/
+
+
+      Жаль...'
+    replies:
+    - id: 17021
+      parent_id: 17020
+      date: 2004-01-30 20:07
+      poster: Yuri Kaverkin (Gekko)
+      email: kaverkin@rol.ru
+      subject: Ничего у нас не накрылось....данный проект лишь прелюдия...
+      deleted: false
+      replies:
+      - id: 17022
+        parent_id: 17021
+        date: 2004-01-30 20:08
+        poster: Yuri Kaverkin (Gekko)
+        email: kaverkin@rol.ru
+        subject: Кстати, Леша тут совершенно ни причем...Объясню в письме...
+        deleted: false

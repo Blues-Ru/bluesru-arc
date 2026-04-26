@@ -1,0 +1,85 @@
+topic_id: 1235
+slug: topic-1235
+title: Ритм энд Блюз
+first_post: 2003-06-28 22:04
+last_post: 2003-07-05 22:43
+post_count: 8
+posts:
+- id: 13080
+  parent_id: null
+  date: 2003-06-28 22:04
+  poster: Алексей Алексеевич
+  email: gorillaz1@hotbox.ru
+  subject: Ритм энд Блюз
+  deleted: false
+  text: 'мне очень нравиться ритм энд блюзовые композиции BLUES BRATHERS BAND
+
+    что ещё в подобном весёлом и зажигательном репертуаре есть в этом мире ???'
+  replies:
+  - id: 13081
+    parent_id: 13080
+    date: 2003-06-29 01:38
+    poster: Дима Казанцев (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: Да полно
+    deleted: false
+    text: Booker T & The MG's, Otis Redding, Al Green, Dr. John...
+    replies:
+    - id: 13082
+      parent_id: 13081
+      date: 2003-06-29 10:15
+      poster: Алексей Алексеевич
+      email: gorillaz1@hotbox.ru
+      subject: продолжение ...
+      deleted: false
+      text: 'кстати имею ещё вопрос сколько фильмов братья блюз существует в природе
+        (судя по сайту три:вдвоём против всех, возвращаются, 2000)
+
+        , но все продавцы всегда скольк я не искал говорят что их всего два ...'
+  - id: 13084
+    parent_id: 13080
+    date: 2003-06-29 22:30
+    poster: Дима Казанцев (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: Их всего два
+    deleted: false
+    text: Откуда третий-то?
+    replies:
+    - id: 13087
+      parent_id: 13084
+      date: 2003-06-30 00:04
+      poster: vr  (Stone Crazy)
+      email: volodya@blues.ru
+      subject: а как же... "Классные Парни наносят ответный Удар" ?
+      deleted: false
+      replies:
+      - id: 13088
+        parent_id: 13087
+        date: 2003-06-30 00:44
+        poster: Дима Казанцев (Dr. Nick)
+        email: dr.nick@blues.ru
+        subject: Это еще что?
+        deleted: false
+        text: Шутка?
+        replies:
+        - id: 13089
+          parent_id: 13088
+          date: 2003-06-30 20:10
+          poster: Дмитрий (fan)
+          email: leondmitr@freemail.ru
+          subject: Это наверное, какая-нибудь дурка - пародия....
+          deleted: false
+          text: 'Тоже своего рода популяризация блюза....
+
+            Смеюсь...'
+          replies:
+          - id: 13171
+            parent_id: 13089
+            date: 2003-07-05 22:43
+            poster: Алексей Алексеевич
+            email: gorillaz1@hotbox.ru
+            subject: ну так сколько их ???
+            deleted: false
+            text: '??? сколько их ???
+
+              и что ещё есть в такомже роде ???'

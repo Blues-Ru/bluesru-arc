@@ -1,0 +1,53 @@
+topic_id: 225
+slug: topic-225
+title: Makes me mad
+first_post: 2002-07-23 10:09
+last_post: 2002-07-24 08:46
+post_count: 5
+posts:
+- id: 6239
+  parent_id: null
+  date: 2002-07-23 10:09
+  poster: Malcolm Ray  Redriver (Mike)
+  email: lifebythedrop@yandex.ru
+  subject: Makes me mad
+  deleted: false
+  text: Когда люди, нифига не понимающие в музыке, конкретно обси...т великое искусство,
+    ставя сопливого-язык не поворачивается сказать музыканта бона жови-выше Джими
+    ХЕНДРИКСА, я конечно понимаю, что попса она и есть попса, но это все-равно бесит...
+  replies:
+  - id: 6254
+    parent_id: 6239
+    date: 2002-07-23 15:57
+    poster: Dima Krasivov (Dima)
+    email: dima@blues.ru
+    subject: И чего? (-)
+    deleted: false
+    replies:
+    - id: 6292
+      parent_id: 6254
+      date: 2002-07-24 00:26
+      poster: Андрей PRG
+      email: peregnoy@mail.ru
+      subject: Наверное,
+      deleted: false
+      text: то был просто крик души ;) Вырвалось, так сказать.
+      replies:
+      - id: 6295
+        parent_id: 6292
+        date: 2002-07-24 00:36
+        poster: Дима Казанцев (Dr. Nick)
+        email: dr.nick@blues.ru
+        subject: Плющит чувака
+        deleted: false
+        text: Конкретно зарубает ;)
+        replies:
+        - id: 6309
+          parent_id: 6295
+          date: 2002-07-24 08:46
+          poster: Андрей PRG
+          email: peregnoy@mail.ru
+          subject: Я бы даже сказал колбасит не по-детски
+          deleted: false
+          text: прямо-таки по-черному (хотя нет,... черные все-таки тут не причем
+            ;))

@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Блюз в России. Музыканты.</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <link rel="shortcut icon" href="/images/bluesru.ico">
+  <style>
+    body { max-width: 900px; margin: 0 auto; padding: 0 1em; }
+    #artist-filter { font-size: 1em; padding: 3px 6px; width: 200px; margin-left: 8px; }
+    .artist-entry { display: none; }
+    .artist-entry.visible { display: block; }
+    .letter-section { display: none; }
+    .letter-section.visible { display: block; }
+    .artist-xref { color: #666; font-size: 0.95em; }
+    .artist-res { font-size: 0.85em; }
+  </style>
+{{ site_css_tag | safe }}
+  {{ ga_snippet | safe }}
+</head>
+<body bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#5511CC" alink="#00BB00">
+
+<table cellpadding="4" cellspacing="0" border="0">
+<tr>
+<td><img src="/images/bluesman.gif" align="left" hspace="0" WIDTH="385" HEIGHT="98"></td>
+<td><a href="/" target="_top"><img src="/images/blues_top5.gif" align="left" hspace="0" WIDTH="108" HEIGHT="98" border="0"></a></td>
+</tr>
+</table>
+
+<p><big><b>
+{% for letter in letters %}
+{% if letter_has_artists[letter] %}<a href="#{{ letter }}">{{ letter }}</a>{% else %}{{ letter }}{% endif %}&#32;
+{% endfor %}
+</b></big>
+<input type="text" id="artist-filter" placeholder="Поиск музыканта..." oninput="filterArtists(this.value)" autofocus>
+</p>
+
+{% for letter in letters %}
+{% if letter_has_artists[letter] %}
+<div class="letter-section visible" id="section-{{ letter }}">
+<p><a name="{{ letter }}"><big><b>{{ letter }}</b></big></a></p>
+{% for artist in artists_by_letter[letter] %}
+{% if artist.secondary %}
+<div class="artist-entry visible artist-xref" data-name="{{ artist.name | lower | e }} {{ artist.sort_name | lower | e }}">{{ artist.sort_name | e }} → <a href="#{{ artist.slug }}">{{ artist.name | e }}</a></div>
+{% elif artist.legacy_dir and not artist.external %}
+<div class="artist-entry visible" data-name="{{ artist.name | lower | e }} {{ artist.sort_name | lower | e }}"><a name="{{ artist.slug }}"></a><a href="/artist/{{ artist.legacy_dir }}/">{{ artist.name | e }}</a>{% if artist.resource_links %} — <small class="artist-res">{{ artist.resource_links | safe }}</small>{% endif %}</div>
+{% else %}
+<div class="artist-entry visible" data-name="{{ artist.name | lower | e }} {{ artist.sort_name | lower | e }}">{{ artist.name | e }}</div>
+{% endif %}
+{% endfor %}
+</div>
+{% endif %}
+{% endfor %}
+
+<p align="center">
+<a href="/"><b>Blues.Ru</b></a> -
+<a href="/news/">Новости</a> |
+<a href="/updates/">Обновления</a> |
+<a href="/artist/">Музыканты</a> |
+<a href="/review/">CD Обзор</a> |
+<a href="/atb/">Весь этот блюз</a> |
+<a href="/forum/">Форум</a>
+</p>
+
+<script>
+function filterArtists(query) {
+  var terms = query.toLowerCase().trim().split(/\s+/).filter(Boolean);
+  var sections = document.querySelectorAll('.letter-section');
+  sections.forEach(function(sec) {
+    var entries = sec.querySelectorAll('.artist-entry');
+    var sectionVisible = false;
+    entries.forEach(function(e) {
+      var name = e.getAttribute('data-name') || '';
+      var match = terms.length === 0 || terms.every(function(t) { return name.indexOf(t) >= 0; });
+      e.classList.toggle('visible', match);
+      if (match) sectionVisible = true;
+    });
+    sec.classList.toggle('visible', sectionVisible || terms.length === 0);
+  });
+}
+</script>
+</body>
+</html>

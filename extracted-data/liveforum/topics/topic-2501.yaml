@@ -1,0 +1,58 @@
+topic_id: 2501
+slug: topic-2501
+title: Новость года!
+first_post: 2005-04-01 17:18
+last_post: 2005-04-02 11:01
+post_count: 6
+posts:
+- id: 20977
+  parent_id: null
+  date: 2005-04-01 17:18
+  poster: New Musical Espresso
+  email: chifuroff_@_inbox.ru
+  subject: Новость года!
+  deleted: false
+  text: В честь московской блюзовой тусовки, популярный престарелый музыкант Би Би
+    Кинг (B. B. King) готов открыть в Лос-Анджелесе клуб под названием Sergei Voronoff.
+  replies:
+  - id: 20979
+    parent_id: 20977
+    date: 2005-04-01 18:38
+    poster: Lars
+    email: Lars@List.ru
+    subject: ну да
+    deleted: false
+    text: шутка юмора..
+  - id: 20980
+    parent_id: 20977
+    date: 2005-04-01 18:52
+    poster: Elicaster
+    email: elicaster(@)))mmmmmmmmmmail.ru
+    subject: SRV - Sергей Rоманович Vоронов
+    deleted: false
+    text: За отчество не ручаюсь, но сегодня можно. Надеюсь, "Романыч" не обидится
+      :-)
+  - id: 20981
+    parent_id: 20977
+    date: 2005-04-01 18:52
+    poster: Elicaster
+    email: elicaster(@)))mmmmmmmmmmail.ru
+    subject: SRV - Sергей Rоманович Vоронов :o)
+    deleted: false
+    text: За отчество не ручаюсь, но сегодня можно. Надеюсь, "Романыч" не обидится
+      :-)
+    replies:
+    - id: 20984
+      parent_id: 20981
+      date: 2005-04-01 23:46
+      poster: Диброва (Dibrova)
+      email: dibrova_blues@rambler.ru
+      subject: Вообще-то  он Сергей Юрьевич Воронов
+      deleted: false
+  - id: 20987
+    parent_id: 20977
+    date: 2005-04-02 11:01
+    poster: Axle
+    email: axledog@mail.ru
+    subject: У кого то сегодня пальцы не слушаются
+    deleted: false

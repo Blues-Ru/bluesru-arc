@@ -1,0 +1,34 @@
+topic_id: 1825
+slug: topic-1825
+title: Так что насчет Eirik Bergene Band?
+first_post: 2004-02-05 15:21
+last_post: 2004-02-06 02:19
+post_count: 3
+posts:
+- id: 17075
+  parent_id: null
+  date: 2004-02-05 15:21
+  poster: Михан  (Ded Morozzz)
+  email: morozzz_ded@mail.ru
+  subject: Так что насчет Eirik Bergene Band?
+  deleted: false
+  text: Едут молОдцы-то? На их сайте давно ужо написано про четыре дня в Москве :)
+    а здесь что-то не слухом, не духом.
+  replies:
+  - id: 17077
+    parent_id: 17075
+    date: 2004-02-05 18:37
+    poster: Федор Романенко (fedor)
+    email: fedor@blues.ru
+    subject: Все будет!
+    deleted: false
+    text: Сегодня-завтра уточняем детали ;) В Москве, правда, будет чуть меньше концертов,
+      чем ожидалось.
+  - id: 17085
+    parent_id: 17075
+    date: 2004-02-06 02:19
+    poster: Дима Казанцев (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: это еще что за чухонцы?
+    deleted: false
+    text: где? кто? на чем? каво? какой музак? пачиму ничиво ни знаем?

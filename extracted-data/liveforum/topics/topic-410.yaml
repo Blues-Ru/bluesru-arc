@@ -1,0 +1,54 @@
+topic_id: 410
+slug: topic-410
+title: Kevin Brown
+first_post: 2002-10-16 11:54
+last_post: 2002-10-19 02:02
+post_count: 4
+posts:
+- id: 8265
+  parent_id: null
+  date: 2002-10-16 11:54
+  poster: Михаил Бирюков (nECKAPb)
+  email: blackcat@blues.ru
+  subject: Kevin Brown
+  deleted: false
+  text: 'Знающие люди любезно приглашаются проинформировать о сабже.
+
+    All-Music Guide на этот счёт весьма скуп, ограничиваясь общими сведениями периода
+    1979 - 1993 гг.
+
+    А между тем альбом 2002 года "Mojave Dust" мне показался весьма занятным (для
+    любителей традиции, акустики и слайда). Может быть, и не откровение, но крепкая,
+    честная, ровная, выдержанная работа.'
+  replies:
+  - id: 8334
+    parent_id: 8265
+    date: 2002-10-18 00:48
+    poster: Вадим  (AVA)
+    email: vad2908@mail.ru
+    subject: K. Brown - 96
+    deleted: false
+    text: 'Есть у меня его один альбом "Goin'' Back to Mississippi" - 96 года.
+
+      Скажу коротко - прилежный "ученик" J. Kimbrough и R.L. Burnside -
+
+      недаром на альбоме есть пара вещей этих исполнителей "современного дельта-блюза".
+      Ещё KB был "замечен" мною на альбомах вышеуказанных исполнителей, в качестве
+      "второго" гитариста (!).'
+    replies:
+    - id: 8345
+      parent_id: 8334
+      date: 2002-10-18 10:51
+      poster: Sergei  Kiritchenko (VoID)
+      email: skvoid@yahoo.com
+      subject: и ты молчал?! :) (-)
+      deleted: false
+      replies:
+      - id: 8411
+        parent_id: 8345
+        date: 2002-10-19 02:02
+        poster: Вадим  (AVA)
+        email: vad2908@mail.ru
+        subject: '...ну, дык, ты же знаешь...'
+        deleted: false
+        text: '...мою скромность ;)))))'

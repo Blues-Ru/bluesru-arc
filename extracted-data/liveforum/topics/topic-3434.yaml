@@ -1,0 +1,34 @@
+topic_id: 3434
+slug: topic-3434
+title: The Real Book Of Blues
+first_post: 2006-10-05 22:13
+last_post: 2006-10-05 22:16
+post_count: 2
+posts:
+- id: 28950
+  parent_id: null
+  date: 2006-10-05 22:13
+  poster: Федор Романенко (fedor)
+  email: fedor@blues.ru
+  subject: The Real Book Of Blues
+  deleted: false
+  text: 'Если кому-нибудь интересно, The Real Book Of Blues - 225 стандартов (ноты
+    для голоса + текст + гармония)
+
+
+    http://notes.tarakanov.net/standard/realbook-blues.zip
+
+
+    303 страницы, 28 мегабайт в формате PDF
+
+
+    Там полно джазовых стандартов, но есть кой-чего интересное.'
+  replies:
+  - id: 28951
+    parent_id: 28950
+    date: 2006-10-05 22:16
+    poster: Федор Романенко (fedor)
+    email: fedor@blues.ru
+    subject: Ссылки на остальные джазовые стандарты вот тут
+    deleted: false
+    text: http://notes.tarakanov.net/standard.htm

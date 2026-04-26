@@ -1,0 +1,28 @@
+---
+id: 879
+slug: grammy-2011
+title: Grammy-2011
+date: '2011-02-14'
+author: Blues.Ru
+legacy_path: news/2011/02/grammy-2011.md
+---
+
+Вчера определились лауреаты Grammy-2011. Любителям блюза будет интересны следующие позиции:
+
+Best Traditional Blues Album</br> Joined At The Hip</br> Pinetop Perkins & Willie 'Big Eyes' Smith</br> [Telarc].
+
+Best Contemporary Blues Album</br> Living Proof</br> Buddy Guy</br> [Silvertone/Jive].
+
+Best Traditional Folk Album</br> Genuine Negro Jig</br> Carolina Chocolate Drops</br> [Nonesuch].
+
+Best Americana Album</br> You Are Not Alone</br> Mavis Staples</br> [ANTI-].
+
+Best Jazz Vocal Album</br> Eleanora Fagan (1915-1959): To Billie With Love From Dee Dee</br> Dee Dee Bridgewater</br> [Emarcy].
+
+Best Gospel Performance</br> Grace</br> BeBe & CeCe Winans</br> Track from: Still</br> [B&C/Malaco].
+
+Best Gospel Song</br> It's What I Do</br> Jerry Peters & Kirk Whalum, songwriters (Kirk Whalum & Lalah Hathaway)</br> Track from: The Gospel According To Jazz Chapter III</br> [Rendezvous Music/ Mack Avenue Records; Publishers: Whalumusic/Jerry Peters Music].
+
+Best Traditional Gospel Album</br> Downtown Church</br> Patty Griffin</br> [Credential Recordings].
+
+Best Zydeco Or Cajun Music Album</br> Zydeco Junkie</br> Chubby Carrier And The Bayou Swamp Band</br> [Swampadellic Records].

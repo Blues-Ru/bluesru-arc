@@ -1,0 +1,24 @@
+topic_id: 1759
+slug: topic-1759
+title: Вопрос Евдокимову
+first_post: 2004-01-09 18:20
+last_post: 2004-01-09 18:22
+post_count: 2
+posts:
+- id: 16745
+  parent_id: null
+  date: 2004-01-09 18:20
+  poster: Андрей
+  email: krup2@yahoo.com
+  subject: Вопрос Евдокимову
+  deleted: false
+  text: Скажите, радиопередача "Блюзология"  где-нибудь выходит?
+  replies:
+  - id: 16746
+    parent_id: 16745
+    date: 2004-01-09 18:22
+    poster: Андрей
+    email: krup2@yahoo.com
+    subject: уточнение
+    deleted: false
+    text: Извините, вопрос скорее Калачеву

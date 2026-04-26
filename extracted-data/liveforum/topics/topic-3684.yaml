@@ -1,0 +1,30 @@
+topic_id: 3684
+slug: topic-3684
+title: Kaverkin's Phone
+first_post: 2007-07-16 12:22
+last_post: 2007-07-16 14:54
+post_count: 2
+posts:
+- id: 33193
+  parent_id: null
+  date: 2007-07-16 12:22
+  poster: SOBO Dan
+  email: sobodan SABAKA gmail.com
+  subject: Kaverkin's Phone
+  deleted: false
+  text: 'Privet, kak mne najti Yury?
+
+
+    mowet est` u kogo telefon?
+
+
+    spasibo'
+  replies:
+  - id: 33194
+    parent_id: 33193
+    date: 2007-07-16 14:54
+    poster: Юрий Каверкин(Gekko)
+    email: kaverkin@rol.ru
+    subject: phone
+    deleted: false
+    text: Prishliu po pochte

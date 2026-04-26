@@ -1,0 +1,27 @@
+topic_id: 3964
+slug: topic-3964
+title: наши фестивали
+first_post: 2008-03-30 10:35
+last_post: 2008-03-30 19:33
+post_count: 2
+posts:
+- id: 35147
+  parent_id: null
+  date: 2008-03-30 10:35
+  poster: Julia №1
+  email: julia76@yandex.ru
+  subject: наши фестивали
+  deleted: false
+  text: 'Интересно, а какие фестивали планируются на лето. И будет ли в этом году
+    Дельта? И кто поедет из Московских комоанд, если будет.?
+
+    А ещё может кто знает, были ли когда нибудь благотворительные блюзовые концерты?'
+  replies:
+  - id: 35148
+    parent_id: 35147
+    date: 2008-03-30 19:33
+    poster: Dmitri Kazantsev (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: наши фесты самые лучшие!
+    deleted: false
+    text: они будут! мы верим в них! :)

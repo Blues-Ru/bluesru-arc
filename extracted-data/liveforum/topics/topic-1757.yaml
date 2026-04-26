@@ -1,0 +1,31 @@
+topic_id: 1757
+slug: topic-1757
+title: Господа подскажите , где и когда сегодня у А.Калачева будет встреча..
+first_post: 2004-01-09 11:12
+last_post: 2004-01-09 19:53
+post_count: 3
+posts:
+- id: 16725
+  parent_id: null
+  date: 2004-01-09 11:12
+  poster: (Grem)
+  email: sergei.sergeev@emersonprocess.ru
+  subject: Господа подскажите , где и когда сегодня у А.Калачева будет встреча..
+  deleted: false
+  replies:
+  - id: 16735
+    parent_id: 16725
+    date: 2004-01-09 16:29
+    poster: Lars
+    email: Lars@List.ru
+    subject: да вроде бы в том же клубе, в Лужниках.. время не помню
+    deleted: false
+  - id: 16750
+    parent_id: 16725
+    date: 2004-01-09 19:53
+    poster: Игорь Головачев (Игорь Г.)
+    email: sunny_city@mail.ru
+    subject: Уже поздно ,но на всякий случай
+    deleted: false
+    text: Бар открыт с 18.00, выступление артистов начинается в 19.30. Места только
+      сидячие. Справки по телефону – 201-17-68

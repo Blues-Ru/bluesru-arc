@@ -1,0 +1,128 @@
+topic_id: 2607
+slug: topic-2607
+title: Любимая песнь Вовы "VR" Русинова в ассортименте!
+first_post: 2005-06-03 23:08
+last_post: 2005-06-07 18:55
+post_count: 12
+posts:
+- id: 21662
+  parent_id: null
+  date: 2005-06-03 23:08
+  poster: Старый Майор
+  email: gypsy@mail.ru
+  subject: Любимая песнь Вовы "VR" Русинова в ассортименте!
+  deleted: false
+  text: 'Продолжая практику ознакомления местной общественности с новинками и старинками
+    звукозаписи, предлагаю для заслушивания подборку произведения Harlem Nocturne
+    в исполнении разнообразных коллективов.
+
+
+    Отдельный респект VR за конгениальное исполнение сего шедевра!
+
+
+    http://gypsy.bluesman.ru/HarlemNocturne/ - тут оно, тут!'
+  replies:
+  - id: 21663
+    parent_id: 21662
+    date: 2005-06-03 23:09
+    poster: vr  (Stone Crazy)
+    email: volodya@blues.ru
+    subject: я его конгениально содрал у Видар Бюска :)
+    deleted: false
+    replies:
+    - id: 21665
+      parent_id: 21663
+      date: 2005-06-03 23:12
+      poster: Старый Майор
+      email: gypsy@mail.ru
+      subject: Кстати послушай из моей подборки  The Ventures - очень приятный чисто
+        гитарный аранжировка, даа!
+      deleted: false
+    - id: 21672
+      parent_id: 21663
+      date: 2005-06-05 07:00
+      poster: shkin
+      email: shkin
+      subject: Lounge Lizards
+      deleted: false
+      text: 'А где там твоя версия?
+
+
+        Все не слушал, но любимой моей в исполнении Lounge Lizards в подборке-то и
+        нет.'
+  - id: 21669
+    parent_id: 21662
+    date: 2005-06-04 17:10
+    poster: Junior
+    email: gurps@nm.ru
+    subject: Классно!
+    deleted: false
+    text: 'Спасибо, отличная подборка!
+
+      А почему бы и правда не выложить до кучи версию Бюска?'
+    replies:
+    - id: 21673
+      parent_id: 21669
+      date: 2005-06-06 15:32
+      poster: Старый Майор
+      email: gypsy@mail.ru
+      subject: А у меня просто нету Бюска и Lounge Lizards ((
+      deleted: false
+      text: Ну не попались при поиске через пиринговые сети..
+      replies:
+      - id: 21676
+        parent_id: 21673
+        date: 2005-06-06 22:50
+        poster: Elicaster
+        email: elicaster(@)))mmmmmmmmmmail.ru
+        subject: 'Вариант Бюска: есть у одного товарища'
+        deleted: false
+        text: 'Вариант Бюска есть у Русинова. Спроси у него, он не откажет.
+
+          У него много чего есть хорошего.'
+        replies:
+        - id: 21677
+          parent_id: 21676
+          date: 2005-06-06 22:53
+          poster: Старый Майор
+          email: gypsy@mail.ru
+          subject: Товарищ Русинов! А ну выдай Бюска для коллекции! Пожааалуйста ))
+          deleted: false
+          replies:
+          - id: 21680
+            parent_id: 21677
+            date: 2005-06-07 01:43
+            poster: vr  (Stone Crazy)
+            email: volodya@blues.ru
+            subject: Федор уже выдал :)
+            deleted: false
+  - id: 21678
+    parent_id: 21662
+    date: 2005-06-06 23:33
+    poster: Федор Романенко (fedor)
+    email: fedor@blues.ru
+    subject: Вот тебе еще  ;)))
+    deleted: false
+    text: 'http://www.bluesman.ru/download/12_04_2005/HarlemNocturne.ogg
+
+
+      http://www.blues.ru/zzz/hn/Junior_Watson-Harlem_Nocturne.mp3
+
+
+      http://www.blues.ru/zzz/hn/Vidar_Busk-Harlem_nocturne.MP3'
+    replies:
+    - id: 21679
+      parent_id: 21678
+      date: 2005-06-07 01:03
+      poster: vr  (Stone Crazy)
+      email: volodya@blues.ru
+      subject: Джуниора Ватсона это просто ... нечто особенное :)
+      deleted: false
+      replies:
+      - id: 21682
+        parent_id: 21679
+        date: 2005-06-07 18:55
+        poster: Старый Майор
+        email: gypsy@mail.ru
+        subject: угу.. мне тоже понра! особенно хор пианых подпевал =))
+        deleted: false

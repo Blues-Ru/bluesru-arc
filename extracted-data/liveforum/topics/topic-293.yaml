@@ -1,0 +1,34 @@
+topic_id: 293
+slug: topic-293
+title: Все время забываю сказать,
+first_post: 2002-08-21 10:25
+last_post: 2002-08-21 17:45
+post_count: 3
+posts:
+- id: 7003
+  parent_id: null
+  date: 2002-08-21 10:25
+  poster: (Sanya)
+  email: sanya@mailandnews.com
+  subject: Все время забываю сказать,
+  deleted: false
+  text: хотя, может, кто-то уже писал. Полторы недели назад видел в Доме Книги неск.
+    англоязычных книжек с текстами, нотами, аккордами. Есть блюзовая. 455 руб за сотню
+    с лишним наиклассичнейших стандартов.
+  replies:
+  - id: 7006
+    parent_id: 7003
+    date: 2002-08-21 11:23
+    poster: Alexander Lokotkov
+    email: alex@fastwel.com
+    subject: На Н.Арбате что-ли?(-)
+    deleted: false
+    text: '*'
+    replies:
+    - id: 7032
+      parent_id: 7006
+      date: 2002-08-21 17:45
+      poster: (Sanya)
+      email: sanya@mailandnews.com
+      subject: Ага.
+      deleted: false

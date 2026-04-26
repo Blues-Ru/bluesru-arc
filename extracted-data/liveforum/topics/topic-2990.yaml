@@ -1,0 +1,130 @@
+topic_id: 2990
+slug: topic-2990
+title: Дом у дороги. Вторник. Презентация альбома Dr. Nick
+first_post: 2005-12-12 12:03
+last_post: 2005-12-15 12:18
+post_count: 12
+posts:
+- id: 24988
+  parent_id: null
+  date: 2005-12-12 12:03
+  poster: Дмитрий Казанцев (Dr. Nick)
+  email: dr.nick@blues.ru
+  subject: Дом у дороги. Вторник. Презентация альбома Dr. Nick
+  deleted: false
+  text: 'Концерт и презентация состоятся в клубе "Дом у дороги" (ул. Доватора, 8,
+    метро Спортивная). http://roadhouse.blues.ru/karta.htm
+
+    Начало в 20:00. Вход - 100 рублей, и за эти деньги вы получаете диск группы Dr.
+    Nick!
+
+    Будет много гостей-музыкантов, концерт и джем.
+
+    (Для журналистов вход и альбом - бесплатно, конечно) :)
+
+
+    Мы ждём вас всех!'
+  replies:
+  - id: 24989
+    parent_id: 24988
+    date: 2005-12-12 12:07
+    poster: Дмитрий Казанцев (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: Вторник, 13 декабря
+    deleted: false
+    replies:
+    - id: 25029
+      parent_id: 24989
+      date: 2005-12-13 08:19
+      poster: Валентин
+      email: voshalb@rambler.ru
+      subject: А 13,кстати,весьма неплохое число...
+      deleted: false
+      text: Поэтому будем надеяться...
+      replies:
+      - id: 25035
+        parent_id: 25029
+        date: 2005-12-13 14:10
+        poster: Дмитрий Казанцев (Dr. Nick)
+        email: dr.nick@blues.ru
+        subject: на что надеяться?
+        deleted: false
+        replies:
+        - id: 25047
+          parent_id: 25035
+          date: 2005-12-13 17:49
+          poster: Валентин
+          email: voshalb@rambler.ru
+          subject: На лучшее...
+          deleted: false
+          text: Все будет пучком...)))
+          replies:
+          - id: 25050
+            parent_id: 25047
+            date: 2005-12-13 18:09
+            poster: Дмитрий Казанцев (Dr. Nick)
+            email: dr.nick@blues.ru
+            subject: да уж...
+            deleted: false
+            text: где только народ размещать... я на нервах...
+        - id: 25048
+          parent_id: 25035
+          date: 2005-12-13 17:50
+          poster: Валентин
+          email: voshalb@rambler.ru
+          subject: На лучшее...
+          deleted: false
+          text: Все будет пучком...)))
+  - id: 25062
+    parent_id: 24988
+    date: 2005-12-14 17:33
+    poster: Старый Майор
+    email: gypsy@mail.ru
+    subject: Ну расскажите же, как оно было?
+    deleted: false
+    replies:
+    - id: 25064
+      parent_id: 25062
+      date: 2005-12-14 18:16
+      poster: Дмитрий Казанцев (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: было много народу
+      deleted: false
+      text: длинный концерт-джем. мне всё понравилось, но я страшно нервничал. много
+        друзей так и не смогло придти (ты, например). я был как в тумане, пусть кто-то
+        другой напишет.
+    - id: 25066
+      parent_id: 25062
+      date: 2005-12-14 18:34
+      poster: Дмитрий Казанцев (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: вот пишут очевидцы
+      deleted: false
+      text: 'http://www.livejournal.com/users/irritus/21242.html?mode=reply&style=mine
+
+        http://www.livejournal.com/users/iv_s/919892.html?style=mine'
+      replies:
+      - id: 25072
+        parent_id: 25066
+        date: 2005-12-14 21:09
+        poster: Старый Майор
+        email: gypsy@mail.ru
+        subject: Чифуров! я тя убю как поймаю!
+        deleted: false
+        text: 'Инфант териблин.. цитирует меня, а я вспомнить не могу, говорил ли
+          я такое вообще про гармошки и комбик - у меня ж склероз в полный рост!
+
+          С моим склерозом очень удобно, как кому надо какую-нить гадость сказать
+          про кого-нить, так надо её предварить словами "как сказал Цыганков.." -
+          я ж все равно не упомню...'
+    - id: 25081
+      parent_id: 25062
+      date: 2005-12-15 12:18
+      poster: Валентин
+      email: voshalb@rambler.ru
+      subject: Да уж пора проценты с высказываний брать,Майор
+      deleted: false
+      text: 'Один я скока задолжал...Цитирую ведь нагло в Реале налево и направо...Правда,источник
+        всегда стараюсь называть)))
+
+        Сразу разбогатеешь...)))'

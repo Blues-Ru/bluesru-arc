@@ -1,0 +1,27 @@
+topic_id: 3922
+slug: topic-3922
+title: Новое шоу Евдокимова!
+first_post: 2008-02-27 20:25
+last_post: 2008-02-27 20:49
+post_count: 2
+posts:
+- id: 34802
+  parent_id: null
+  date: 2008-02-27 20:25
+  poster: Старый Майор
+  email: gypsy@mail.ru
+  subject: Новое шоу Евдокимова!
+  deleted: false
+  text: 'Афиши по всей Москве! Посвящается женщинам )))
+
+
+    <img src=http://gypsy.bluesman.ru/evdokimov.jpg>'
+  replies:
+  - id: 34804
+    parent_id: 34802
+    date: 2008-02-27 20:49
+    poster: Dmitri Kazantsev (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: а кто на фотке?
+    deleted: false
+    text: это явно не Андрей! но вроде мужик!

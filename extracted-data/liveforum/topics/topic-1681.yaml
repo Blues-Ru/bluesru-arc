@@ -1,0 +1,135 @@
+topic_id: 1681
+slug: topic-1681
+title: Читайте блоги ;)
+first_post: 2003-12-17 00:38
+last_post: 2003-12-19 08:34
+post_count: 12
+posts:
+- id: 16291
+  parent_id: null
+  date: 2003-12-17 00:38
+  poster: Федор Романенко (fedor)
+  email: fedor@blues.ru
+  subject: Читайте блоги ;)
+  deleted: false
+  text: Интересные, хотя еще и очень неподтвержденные новости ;)
+  replies:
+  - id: 16292
+    parent_id: 16291
+    date: 2003-12-17 00:50
+    poster: Дима Казанцев (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: а я вот...
+    deleted: false
+    text: 'не шел с работы...
+
+      сижу дома и поэтому даже не знаю о чем писать в этом блоге...
+
+      мне нечего сказать людям - это творческая смерть.'
+    replies:
+    - id: 16293
+      parent_id: 16292
+      date: 2003-12-17 01:09
+      poster: Михаил Бирюков (nECKAPb)
+      email: blackcat@blues.ru
+      subject: Death is not the End
+      deleted: false
+      text: Это в предсмертной творческой агонии из тебя рецензии таким фонтаном бьют?
+        ;))
+      replies:
+      - id: 16294
+        parent_id: 16293
+        date: 2003-12-17 01:37
+        poster: Дима Казанцев (Dr. Nick)
+        email: dr.nick@blues.ru
+        subject: ну уж нет ;)
+        deleted: false
+        text: 'Рецензии - это МИМОЛЕТНОЕ ощущение, а не творчество.
+
+          Любишь Дилана поцитировать?'
+        replies:
+        - id: 16295
+          parent_id: 16294
+          date: 2003-12-17 01:42
+          poster: Михаил Бирюков (nECKAPb)
+          email: blackcat@blues.ru
+          subject: просто вспомнилось
+          deleted: false
+          text: А вот к малым формам ты, как видно, относишься не слишком серьёзно,
+            раз допускаешь такие заявления... Разве ты не вкладываешь душу в свои
+            рецензии?
+          replies:
+          - id: 16297
+            parent_id: 16295
+            date: 2003-12-17 01:56
+            poster: Дима Казанцев (Dr. Nick)
+            email: dr.nick@blues.ru
+            subject: вкладываю
+            deleted: false
+            text: но пишу очень быстро и обычно не получаю большой радости как от
+              настоящего творчества.
+            replies:
+            - id: 16301
+              parent_id: 16297
+              date: 2003-12-17 02:31
+              poster: Александр Мальчевский (Tonny)
+              email: heavyfuel@mtu-net.ru
+              subject: Напиши..
+              deleted: false
+              text: 'Большую статью о ком-либо....
+
+                Ты же массу всего знаешь :)))
+
+                Люди только спасибо скажут... Я так думаю...'
+              replies:
+              - id: 16302
+                parent_id: 16301
+                date: 2003-12-17 03:00
+                poster: Дима Казанцев (Dr. Nick)
+                email: dr.nick@blues.ru
+                subject: неохота
+                deleted: false
+                text: это долго и депрессивно ;)
+  - id: 16298
+    parent_id: 16291
+    date: 2003-12-17 02:07
+    poster: Elicaster
+    email: elicaster@mmmmmmail.ru
+    subject: Только не ругайте
+    deleted: false
+    text: 'но вот ужо не в первой здесь упомянаются эти блоги, а я не знаю о чём это
+      речь идёт.
+
+      Прошу поясните, чё это и где это читается?'
+    replies:
+    - id: 16300
+      parent_id: 16298
+      date: 2003-12-17 02:29
+      poster: Александр Мальчевский (Tonny)
+      email: heavyfuel@mtu-net.ru
+      subject: На главной странице...
+      deleted: false
+      text: 'Сразу под надписью "Форум" есть надпись "Блоги - блюзовые журналы"...
+
+        Плюс внизу, под расписанием концертов, идет лента новостей блогов :)))
+
+
+        Инджой...'
+  - id: 16305
+    parent_id: 16291
+    date: 2003-12-17 16:13
+    poster: vr  (Stone Crazy)
+    email: volodya@blues.ru
+    subject: да - чтото очень
+    deleted: false
+    text: даже не официальном сайте бибикинга пока такого нет... но это пропустить
+      будет низя. никак.
+  - id: 16345
+    parent_id: 16291
+    date: 2003-12-19 08:34
+    poster: Алексей Ильичёв (Alex_z77)
+    email: alex_z77@mail.ru
+    subject: Так мы бы их читали, но...
+    deleted: false
+    text: На первых парах они ещё как-то транслировались в ЖЖ blogru_feed, а сейчас
+      перестали... А было здорово :-)

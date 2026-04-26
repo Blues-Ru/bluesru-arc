@@ -1,0 +1,131 @@
+topic_id: 1524
+slug: topic-1524
+title: Свершилось =)
+first_post: 2003-10-21 19:04
+last_post: 2003-10-23 09:57
+post_count: 12
+posts:
+- id: 15150
+  parent_id: null
+  date: 2003-10-21 19:04
+  poster: Илья Иваничкин (Childovsky)
+  email: childovsky@inbox.ru
+  subject: Свершилось =)
+  deleted: false
+  text: 'Наконец-то дошли мои руки... нет... закончили мои руки делать... а в прочем...
+    какая разница.. смотрите! =)
+
+    http://www.scolder-blues.ru'
+  replies:
+  - id: 15153
+    parent_id: 15150
+    date: 2003-10-21 22:07
+    poster: Старый Майор
+    email: gypsy@mail.ru
+    subject: Человек с такими талантами как брат Илья, должен быть немедленно востребован!
+    deleted: false
+    text: 'Брат Илья, свяжись со мной, пожалуйста, дело есть...
+
+      ICQ 28345886'
+    replies:
+    - id: 15154
+      parent_id: 15153
+      date: 2003-10-22 00:37
+      poster: Игорь Головачев (Игорь Г.)
+      email: sunny_city@mail.ru
+      subject: Андрей,Илья это тот хороший человек о котором я тебе однажды рассказывал,но...
+      deleted: false
+      text: И вот теперь я от души рад что "Человек с такими талантами как брат Илья,должен
+        быть немедленно востребован!".Заметьте,друзья мои,я ни на что не намекаю.
+      replies:
+      - id: 15156
+        parent_id: 15154
+        date: 2003-10-22 01:45
+        poster: Илья Иваничкин (Childovsky)
+        email: childovsky@inbox.ru
+        subject: Я сейчас покраснею =)
+        deleted: false
+        text: 'Честно говоря, просто приспичело Сколдерам сайт сделать.. ещё в ..
+          дай бог памяти.. декабре прошлого года =)))
+
+
+          Сказанно - сделанно.. год прошёл и сайт готов =)'
+  - id: 15155
+    parent_id: 15150
+    date: 2003-10-22 00:39
+    poster: Игорь Головачев (Игорь Г.)
+    email: sunny_city@mail.ru
+    subject: Илюш,сработано супер !!!
+    deleted: false
+  - id: 15158
+    parent_id: 15150
+    date: 2003-10-22 06:25
+    poster: Wals
+    email: alexerek@mail.ru
+    subject: Мммм....
+    deleted: false
+    text: "Вот здесь: http://www.scolder-blues.ru/about.php\nесть такая фраза: \"\
+      Группа долго сыгрывалась, но уже к 2000 году закрепился основной косяк, к 2-м\
+      \ братьям прибавился гитарист Юра, тоже постоянный музыкант этого коллектива.\"\
+      \  \nЭ-э-э... Может все же не косяк, а костяк? :))))\n\nИ ещё,вопрос -  что\
+      \ это за гитара у парня:\nhttp://www.scolder-blues.ru/photoalbum/db/1/8.jpg\n\
+      С машинкой под левую руку... Одна из реинкарнация фендера?"
+    replies:
+    - id: 15160
+      parent_id: 15158
+      date: 2003-10-22 08:35
+      poster: Илья Иваничкин (Childovsky)
+      email: childovsky@inbox.ru
+      subject: =)
+      deleted: false
+      text: 'Пасиба =) Исправил...
+
+        Угу... У Младшего Брата машинка на страте именно под левую руку... =)'
+      replies:
+      - id: 15165
+        parent_id: 15160
+        date: 2003-10-22 12:21
+        poster: Старый Майор
+        email: gypsy@mail.ru
+        subject: У Младшего Брата обе руки левые ? :)))))))
+        deleted: false
+  - id: 15167
+    parent_id: 15150
+    date: 2003-10-22 15:17
+    poster: Михаил Бирюков (nECKAPb)
+    email: blackcat@blues.ru
+    subject: Мммм...-2
+    deleted: false
+    text: Слово "силуэт" (замечено в меню-"оглавлении") пишется через "э"...
+    replies:
+    - id: 15168
+      parent_id: 15167
+      date: 2003-10-22 18:24
+      poster: Илья
+      email: webmaster@scolder-blues.ru
+      subject: Серьёзно? =))))
+      deleted: false
+      text: Бум знать... ща полезу исправлять на двух сайтах в 6 местах... пардон..
+        в 8 =((( ох.. ну и задолбаюсь же я..
+      replies:
+      - id: 15169
+        parent_id: 15168
+        date: 2003-10-22 18:57
+        poster: Илья
+        email: webmaster@scolder-blues.ru
+        subject: усё упарядке шэф =)
+        deleted: false
+        text: 'А если серьёзно - огромное всем спасибо за замечания и исправления
+          =)
+
+          Без вас никуда =('
+        replies:
+        - id: 15192
+          parent_id: 15169
+          date: 2003-10-23 09:57
+          poster: Wals
+          email: alexerek@mail.ru
+          subject: усё упарядке шэф =)
+          deleted: false
+          text: Ну... хорошая группа, хороший сайт. Наверное хороший человек делал
+            это дело - почему бы не помочь! :))

@@ -1,0 +1,32 @@
+topic_id: 823
+slug: topic-823
+title: Помогите,если сможете,господа знатоки...
+first_post: 2003-05-08 07:14
+last_post: 2003-05-08 12:31
+post_count: 3
+posts:
+- id: 12275
+  parent_id: null
+  date: 2003-05-08 07:14
+  poster: Валентин
+  email: voshalb@rambler.ru
+  subject: Помогите,если сможете,господа знатоки...
+  deleted: false
+  text: Недавно на Серебряном дожде услышал красивейшую блюзовую обработку известной
+    мелодии Шестнадцать тонн.Кто бы это мог быть.И еще просьба - занесите,наконец,адрес
+    и телефон в информацию о клубе Последние деньги,пожалуйста.
+  replies:
+  - id: 12278
+    parent_id: 12275
+    date: 2003-05-08 11:25
+    poster: Dima Krasivov (Dima)
+    email: dima@blues.ru
+    subject: Мишурис ;) (-)
+    deleted: false
+  - id: 12287
+    parent_id: 12275
+    date: 2003-05-08 12:31
+    poster: Бармалей (VoV)
+    email: barmaley2k@beep.ru
+    subject: www.lastmoney.ru
+    deleted: false

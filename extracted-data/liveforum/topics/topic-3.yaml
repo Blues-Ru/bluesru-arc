@@ -1,0 +1,36 @@
+topic_id: 3
+slug: topic-3
+title: MUSICFORUMS.RU - еще одни форумы для музыкантов
+first_post: 2002-01-15 02:53
+last_post: 2002-04-16 00:37
+post_count: 3
+posts:
+- id: 165
+  parent_id: null
+  date: 2002-01-15 02:53
+  poster: MUSICFORUMS.RU
+  email: musicforums@musicforums.ru
+  subject: MUSICFORUMS.RU - еще одни форумы для музыкантов
+  deleted: false
+  text: 'Уважаемые музыканты, музыкальные форумы www.musicforums.ru ждут Вас !
+
+    Нас посещают более 1000 различных музыкантов ежедневно :-)'
+  replies:
+  - id: 269
+    parent_id: 165
+    date: 2002-01-24 15:37
+    poster: Captain Beefheart
+    email: crazy_bear@fomenko.ru
+    subject: Угу, кончно.
+    deleted: false
+    text: Не всё то музыка, что звучит! Можно и сходить, но 1000000 музыкантов ежедневно
+      - загоняет в подозрения.
+  - id: 3710
+    parent_id: 165
+    date: 2002-04-16 00:37
+    poster: Dima
+    email: dimon57@hotmail.com
+    subject: Rebyata pomogite c saund blasterom
+    deleted: false
+    text: Rebyata pomogite pogaluycto pocovetuyte kakuu kartochku kupit v predelah
+      300$ budu ochen priznatelen.

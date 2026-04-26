@@ -1,0 +1,39 @@
+topic_id: 4905
+slug: topic-4905
+title: Какого года страт у Vidar Busk'а ?
+first_post: 2012-07-24 17:43
+last_post: 2012-07-25 15:57
+post_count: 4
+posts:
+- id: 38482
+  parent_id: null
+  date: 2012-07-24 17:43
+  poster: Старый Майор
+  subject: Какого года страт у Vidar Busk'а ?
+  deleted: false
+  text: 'Имеется в виду его ободранный страт, с которым он приезжал в Москву:
+
+
+    http://www.youtube.com/watch?v=n5znf27as34'
+  replies:
+  - id: 38483
+    parent_id: 38482
+    date: 2012-07-24 18:22
+    poster: Владимир Русинов
+    subject: vintage reissue начала 80х
+    deleted: false
+    replies:
+    - id: 38484
+      parent_id: 38483
+      date: 2012-07-25 01:45
+      poster: Старый Майор
+      subject: Володя, спасибо!
+      deleted: false
+      text: Дерево хорошее.. интересно, почем это реишью.
+  - id: 38485
+    parent_id: 38482
+    date: 2012-07-25 15:57
+    poster: Dima Krasivov
+    subject: reissue
+    deleted: false
+    text: http://www.ebay.com/itm/1982-3-57-Strat-USA-Fullerton-Stratocaster-Reissue-NEAR-MINT-orig-HS-case-/280927895089?pt=Guitar&hash=item41689b7e31

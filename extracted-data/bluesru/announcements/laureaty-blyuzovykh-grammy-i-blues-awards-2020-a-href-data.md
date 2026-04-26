@@ -1,0 +1,8 @@
+---
+id: 961
+slug: laureaty-blyuzovykh-grammy-i-blues-awards-2020-a-href-data
+title: null
+date: 2020-05-10 00:00
+---
+
+Лауреаты блюзовых GRAMMY и Blues Awards 2020: <a href="/data/artistview.aspx?aid=195"><b>Delbert МcClinton</b></a>, <b>Gary Clarke, Jr.</b>, <b>Christone "Kingfish" Ingram </b>, <a href="/data/artistview.aspx?aid=270"><b>Bobby Rush</b></a>,<b>Nick Moss</b>, <a href="http://blues.ru/bluesmen/Bob_Margolin/"><b>Bob Margolin</b></a>. <a href="/ATB/atb_20_05_11.mp3"><b><i>Весь Этот Блюз >>></i></b></a>

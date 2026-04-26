@@ -1,0 +1,164 @@
+topic_id: 363
+slug: topic-363
+title: двойной гриф
+first_post: 2002-09-30 09:36
+last_post: 2002-10-03 08:30
+post_count: 15
+posts:
+- id: 7793
+  parent_id: null
+  date: 2002-09-30 09:36
+  poster: Сергей Иванов (serge_ivanov)
+  email: serge_ivanov@hotmail.com
+  subject: двойной гриф
+  deleted: false
+  text: 'вчера видел по телеку Воронова с гитарой с двойным грифом.
+
+    меня , непросвещенного немузыканта, давно интересовал вопрос (с тех пор как я
+    увидел ее у Пейджа) а это действительно удобно и нужно? Или это понты, извиняюсь
+    :-)'
+  replies:
+  - id: 7794
+    parent_id: 7793
+    date: 2002-09-30 10:10
+    poster: Александр Мальчевский (Tonny)
+    email: heavyfuel@mtu-net.ru
+    subject: Вот Пейджу было нужно...
+    deleted: false
+    text: 'В некоторых вещах, где была и шести и 12-струнная гитара.
+
+      Ричи Самбора иногда тоже на двухгрифной гитаре рубиться...
+
+      Ну она по-моему нужна если быстро с 6 на 120струнку перейти и все...
+
+      Может кто лучше объяснит?'
+    replies:
+    - id: 7795
+      parent_id: 7794
+      date: 2002-09-30 10:45
+      poster: Сергей Иванов (serge_ivanov)
+      email: serge_ivanov@hotmail.com
+      subject: так он один был ...
+      deleted: false
+      text: а в Crossroads два гитариста :-)
+      replies:
+      - id: 7796
+        parent_id: 7795
+        date: 2002-09-30 11:55
+        poster: Александр Мальчевский (Tonny)
+        email: heavyfuel@mtu-net.ru
+        subject: Ну может...
+        deleted: false
+        text: на случай если второй заболеет :), или еще там зачем-нибудь
+    - id: 7803
+      parent_id: 7794
+      date: 2002-09-30 23:34
+      poster: Андрей PRG
+      email: peregnoy@mail.ru
+      subject: А как 12-струнка
+      deleted: false
+      text: в принципе строится, а?
+      replies:
+      - id: 7806
+        parent_id: 7803
+        date: 2002-10-01 00:04
+        poster: Александр Мальчевский (Tonny)
+        email: heavyfuel@mtu-net.ru
+        subject: Не понял вопроса?
+        deleted: false
+        replies:
+        - id: 7807
+          parent_id: 7806
+          date: 2002-10-01 00:08
+          poster: Александр Мальчевский (Tonny)
+          email: heavyfuel@mtu-net.ru
+          subject: Ну вот здесь вроде написано
+          deleted: false
+          text: http://grenada.al.ru/enciklopedia/gui12.htm
+          replies:
+          - id: 7808
+            parent_id: 7807
+            date: 2002-10-01 00:12
+            poster: Андрей PRG
+            email: peregnoy@mail.ru
+            subject: То есть
+            deleted: false
+            text: 'струны настраиваются просто попарно, да?
+
+              Извини, я ж не гитарист... ;('
+      - id: 7809
+        parent_id: 7803
+        date: 2002-10-01 00:15
+        poster: Александр Мальчевский (Tonny)
+        email: heavyfuel@mtu-net.ru
+        subject: Чисто технически дело так обстоит
+        deleted: false
+        text: "Чем же, собственно отличается этот инструмент от \"стандартной 6-струнной\
+          \ гитары\"? Чисто внешне почти ничем, кроме того, что все 6 струн на нем\
+          \ спарены и настроены в унисон. Присмотревшись ближе видно, что начиная\
+          \ с третьей струны все пары не одинаковые - одна струна в паре толще (как\
+          \ на шестиструнке), а другая гораздо тоньше и без обмотки. Сделано это для\
+          \ того, что бы струны в парах настраивались одна на октаву выше другой.\
+          \ Другими словами - эти пары настроены хоть и в унисон, но одна из струн\
+          \ на октаву выше другой. \n\nА теперь представьте на секунду какой при этом\
+          \ получается звук?! Объемный, мощный, почти такой как-будто играют два инструмента.\
+          \ \n\nСтроится 12-струнка так же как и ее 6-тиструнная сестричка. Естественно,\
+          \ учитывая то, что описано выше. \n\n\n1 струна - E (ми) - обе струны одинаково\
+          \ \n2 струна - B (си) - обе струны одинаково \n3 струна - G (соль) - тонкая\
+          \ на октаву выше толстой \n4 струна - D (рэ) - тонкая на октаву выше толстой\
+          \ \n5 струна - A (ля) - тонкая на октаву выше толстой \n6 струна - E (ми)\
+          \ - тонкая на октаву выше толстой."
+        replies:
+        - id: 7810
+          parent_id: 7809
+          date: 2002-10-01 00:22
+          poster: Андрей PRG
+          email: peregnoy@mail.ru
+          subject: Во спасибо-то!
+          deleted: false
+          text: Я чё-то такое сто лет назад слышал, но видно совсем на старости лет-то...
+            кхе-кхе... забыл.
+          replies:
+          - id: 7811
+            parent_id: 7810
+            date: 2002-10-01 00:26
+            poster: Александр Мальчевский (Tonny)
+            email: heavyfuel@mtu-net.ru
+            subject: ты подробней на
+            deleted: false
+            text: www.guitars.ru  прочитаешь... Там побольше этому посвящено :) :)
+        - id: 7820
+          parent_id: 7809
+          date: 2002-10-01 08:25
+          poster: Malcolm Ray  Redriver (Mike)
+          email: lifebythedrop@yandex.ru
+          subject: Два грифа
+          deleted: false
+          text: Ну хорошо, а я видел фотку SRV где он со своим братом и двухгрифовой
+            гитарой, но не 12 и 6 струн, а 2 по 6 струн, только с разной мензурой,
+            как это понимать?
+          replies:
+          - id: 7829
+            parent_id: 7820
+            date: 2002-10-01 13:54
+            poster: Александр Мальчевский (Tonny)
+            email: heavyfuel@mtu-net.ru
+            subject: Не знаю...(-)
+            deleted: false
+    - id: 7824
+      parent_id: 7794
+      date: 2002-10-01 12:32
+      poster: V.Tsubin (VOVAN)
+      email: vts13@hotmail.com
+      subject: У Пейджа и трёхгрифовая гитара есть:-)  (-)
+      deleted: false
+      replies:
+      - id: 7909
+        parent_id: 7824
+        date: 2002-10-03 08:30
+        poster: Malcolm Ray  Redriver (Mike)
+        email: lifebythedrop@yandex.ru
+        subject: Оно не совсем гитара
+        deleted: false
+        text: Две гмтары и что-то вроде мандалины. А я вот видел фотку где у чувака
+          аж восемь гифов. По моему перебор и выпенбрёж DВ^/

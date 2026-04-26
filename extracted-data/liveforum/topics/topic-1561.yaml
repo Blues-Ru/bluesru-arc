@@ -1,0 +1,27 @@
+topic_id: 1561
+slug: topic-1561
+title: А куда ...
+first_post: 2003-11-08 21:43
+last_post: 2003-11-10 01:51
+post_count: 2
+posts:
+- id: 15437
+  parent_id: null
+  date: 2003-11-08 21:43
+  poster: Voland
+  email: volyak@mail.ru
+  subject: А куда ...
+  deleted: false
+  text: пропал Д. Казанцев? Кто знает?
+  replies:
+  - id: 15451
+    parent_id: 15437
+    date: 2003-11-10 01:51
+    poster: Дима Казанцев (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: я уже почти повился
+    deleted: false
+    text: 'говорю плохо и двигаюсь с большим трудом, но через неделю хочу быть в полном
+      порядке...
+
+      а что за вопрос-то?'

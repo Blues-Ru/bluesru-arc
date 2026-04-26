@@ -1,0 +1,50 @@
+topic_id: 4948
+slug: topic-4948
+title: Для судей решительных и строгих...
+first_post: 2012-11-15 12:20
+last_post: 2012-11-17 16:00
+post_count: 5
+posts:
+- id: 38598
+  parent_id: null
+  date: 2012-11-15 12:20
+  poster: Андрей
+  subject: Для судей решительных и строгих...
+  deleted: false
+  text: 'Коллеги, хочу поделиться своим творением. Записали быстро, снимали долго.
+    Кажется, что-то приличное получилось. Велкам, так сказать)
+
+    http://www.youtube.com/watch?v=cd2-SiPPoOM'
+  replies:
+  - id: 38599
+    parent_id: 38598
+    date: 2012-11-16 14:36
+    poster: Старый Майор
+    subject: Запостите на ru_blues.livejournal.com
+    deleted: false
+    text: 'Там аудитория побольше будет.
+
+      Но писать отзывы тоже ленятся.'
+    replies:
+    - id: 38601
+      parent_id: 38599
+      date: 2012-11-17 16:00
+      poster: Андрей
+      subject: Спасибо,
+      deleted: false
+      text: сейчас попробую)
+  - id: 38600
+    parent_id: 38598
+    date: 2012-11-17 13:50
+    poster: Владимир Русинов
+    subject: Привет Андрей :)
+    deleted: false
+    text: Мне понравилось! :) Заезжайте что ли к нам? :)
+    replies:
+    - id: 38602
+      parent_id: 38600
+      date: 2012-11-17 16:00
+      poster: Андрей
+      subject: Вова,
+      deleted: false
+      text: и тебе спасибо) Идея, как говорится, не нова)))

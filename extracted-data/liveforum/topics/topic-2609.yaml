@@ -1,0 +1,85 @@
+topic_id: 2609
+slug: topic-2609
+title: Я тут прикинул.. у меня прям целая коллекция выросла!
+first_post: 2005-06-07 19:00
+last_post: 2005-06-14 15:52
+post_count: 8
+posts:
+- id: 21683
+  parent_id: null
+  date: 2005-06-07 19:00
+  poster: Старый Майор
+  email: gypsy@mail.ru
+  subject: Я тут прикинул.. у меня прям целая коллекция выросла!
+  deleted: false
+  text: 'Я уже почти год собираю песенки в разных исполнениях..
+
+    Кароче я на своём сайте всё закинул в директорию LovelyTunes по соответствующим
+    папочкам, welcome!'
+  replies:
+  - id: 21684
+    parent_id: 21683
+    date: 2005-06-07 19:21
+    poster: Игорь Г
+    email: suuny_city@mail.ru
+    subject: Андрюш,ты всё ж конкретизируй,
+    deleted: false
+    text: а то народец как начнет ломиться что у меня канал,чисто-конкретно, просядет
+      :)))))А по балде я всега успею плучить и без того :)))
+  - id: 21685
+    parent_id: 21683
+    date: 2005-06-07 19:34
+    poster: Старый Майор
+    email: gypsy@mail.ru
+    subject: Игорь, это же на моём личном сервере!
+    deleted: false
+    text: "Расслабься и потряси кистями )) \nДаже ДНС и тот мой, тебе ничего не грозит\
+      \ кроме медали \"30 лет в эполетах\"!"
+    replies:
+    - id: 21687
+      parent_id: 21685
+      date: 2005-06-07 20:49
+      poster: Игорь Г
+      email: sunny_city@mail.ru
+      subject: Я только и исключительно о толщине канала
+      deleted: false
+      text: Не хотел никого обидеть.Чесслово!
+      replies:
+      - id: 21769
+        parent_id: 21687
+        date: 2005-06-14 15:52
+        poster: Старый Майор
+        email: gypsy@mail.ru
+        subject: С толщиной канала у нас всё в порядке, всех удовлетворяет! =)))
+        deleted: false
+  - id: 21691
+    parent_id: 21683
+    date: 2005-06-08 10:10
+    poster: Дмитрий(фан)
+    email: leonidovd@mail.ru
+    subject: Господин майор, а...
+    deleted: false
+    text: ссылочку на Ваш сайтик можно попросить?
+    replies:
+    - id: 21697
+      parent_id: 21691
+      date: 2005-06-08 14:20
+      poster: Старый Майор
+      email: gypsy@mail.ru
+      subject: Дмитрий, я это.. секречусь, чтобы не обвинили в распространении!
+      deleted: false
+      text: 'Подсказка: посмотри в предыдущем постинге про "песни в ассортименте".
+        Читаешь невнимательно форум, хе-хе ))'
+      replies:
+      - id: 21704
+        parent_id: 21697
+        date: 2005-06-10 13:40
+        poster: Дмитрий (фан)
+        email: leonidovd@mail.ru
+        subject: Сенькс.
+        deleted: false
+        text: 'ага, есть немного.
+
+          Спасибки, буду слушать.
+
+          Биг Мама Торнтон ух как хороша в "Boll And Chain"...'

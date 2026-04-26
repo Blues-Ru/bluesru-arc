@@ -1,0 +1,40 @@
+topic_id: 2348
+slug: topic-2348
+title: а модераторы у форума есть?
+first_post: 2004-12-16 23:17
+last_post: 2004-12-17 01:45
+post_count: 4
+posts:
+- id: 19968
+  parent_id: null
+  date: 2004-12-16 23:17
+  poster: disik
+  email: denis1482@mail.ru
+  subject: а модераторы у форума есть?
+  deleted: false
+  replies:
+  - id: 19969
+    parent_id: 19968
+    date: 2004-12-16 23:50
+    poster: Андрей Ордальонов (Андрей PRG)
+    email: peregnoy@mail.ru
+    subject: Рыбаки давно дремлют. Ночь на дворе.
+    deleted: false
+    replies:
+    - id: 19970
+      parent_id: 19969
+      date: 2004-12-17 00:28
+      poster: Андрей Ордальонов (Андрей PRG)
+      email: peregnoy@mail.ru
+      subject: О, смотри-ка, проснулись :)
+      deleted: false
+      replies:
+      - id: 19971
+        parent_id: 19970
+        date: 2004-12-17 01:45
+        poster: Федор Романенко (fedor)
+        email: fedor@blues.ru
+        subject: Модераторы не спят
+        deleted: false
+        text: Это кто еще тут спит???? Ни один из имеющихся модераторов раньше 4-х
+          ночи не ложится ;) Просто мы не читаем форум каждые пол-часа ;)

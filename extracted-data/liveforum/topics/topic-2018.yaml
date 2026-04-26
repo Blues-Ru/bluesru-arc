@@ -1,0 +1,54 @@
+topic_id: 2018
+slug: topic-2018
+title: Johnson
+first_post: 2002-07-11 09:34
+last_post: 2002-07-11 17:07
+post_count: 5
+posts:
+- id: 5993
+  parent_id: null
+  date: 2002-07-11 09:34
+  poster: Malcolm Ray  Redriver (Mike)
+  email: lifebythedrop@yandex.ru
+  subject: Johnson
+  deleted: false
+  text: 'Скажите, а тот Sweet home Chicago, что у Роберта Джонсона, это тоже, что
+    и Братья Блюз исполняли (зарание извиняюсь: Джонсона я слышал мало)'
+  replies:
+  - id: 5994
+    parent_id: 5993
+    date: 2002-07-11 09:50
+    poster: Дима Казанцев (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: Да, это тот
+    deleted: false
+    text: но переделанный и адаптированный под три дурацких аккорда ;)
+    replies:
+    - id: 5995
+      parent_id: 5994
+      date: 2002-07-11 09:56
+      poster: Malcolm Ray  Redriver (Mike)
+      email: lifebythedrop@yandex.ru
+      subject: Djn rk`dj
+      deleted: false
+      text: 'Яхотел сказать: вот клёво'
+    - id: 5997
+      parent_id: 5994
+      date: 2002-07-11 10:35
+      poster: AlexIV
+      email: evergreens@mail.ru
+      subject: Но...
+      deleted: false
+      text: '...на диске Blues Brothers the Original Soundtrack Recording фамилии
+        Johnson не значится, а указано: Words & Music by Woody Payne.'
+      replies:
+      - id: 6002
+        parent_id: 5997
+        date: 2002-07-11 17:07
+        poster: Дима Казанцев (Dr. Nick)
+        email: dr.nick@blues.ru
+        subject: Это так
+        deleted: false
+        text: Но мы-то знаем где собака порылась. Опять же вспоминается история с
+          Цеппелинами и изменениями авторства и названия вещей на раздых изданиях
+          ранних пластинок.

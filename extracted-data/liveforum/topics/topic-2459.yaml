@@ -1,0 +1,25 @@
+topic_id: 2459
+slug: topic-2459
+title: Если кто тут собирается прийти 9ого в бибикинг к нам на джем...
+first_post: 2005-03-06 21:25
+last_post: 2005-03-07 17:36
+post_count: 2
+posts:
+- id: 20614
+  parent_id: null
+  date: 2005-03-06 21:25
+  poster: vr  (Stone Crazy)
+  email: volodya@blues.ru
+  subject: Если кто тут собирается прийти 9ого в бибикинг к нам на джем...
+  deleted: false
+  text: :) Если несложно - спишитесь со мной заранее на тему что и как хочется сыграть...
+    Некоторая польза от этого точно будет :)
+  replies:
+  - id: 20615
+    parent_id: 20614
+    date: 2005-03-07 17:36
+    poster: Дима Казанцев (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: а в чем проблема-то?
+    deleted: false
+    text: а?

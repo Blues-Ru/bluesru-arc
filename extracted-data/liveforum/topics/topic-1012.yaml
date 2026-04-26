@@ -1,0 +1,109 @@
+topic_id: 1012
+slug: topic-1012
+title: Форум
+first_post: 2002-04-05 02:46
+last_post: 2002-04-05 20:07
+post_count: 11
+posts:
+- id: 3401
+  parent_id: null
+  date: 2002-04-05 02:46
+  poster: Федор Романенко (fedor)
+  email: fedor@blues.ru
+  subject: Форум
+  deleted: false
+  text: Как некоторые, возможно, заметили, я прикрутил надпись NEW к сообщениям. Судя
+    по всему, не все просекли, что она означает. ;) Какие есть предположения? ;)
+  replies:
+  - id: 3403
+    parent_id: 3401
+    date: 2002-04-05 05:37
+    poster: Дима Казанцев (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: А чёта она типа не работает щас
+    deleted: false
+    text: Эта фича твоя. Залез типа в форум, а нету этих НЬЮ совсем.
+    replies:
+    - id: 3420
+      parent_id: 3403
+      date: 2002-04-05 11:54
+      poster: Федор Романенко (fedor)
+      email: fedor@blues.ru
+      subject: А ты зарегистрируйся!
+      deleted: false
+      text: Фича в том, что номер последнего сообщения хранится на сервере, так что
+        если читаешь дома и на работе, она дома покажет, что ты недочитал на работе...
+      replies:
+      - id: 3430
+        parent_id: 3420
+        date: 2002-04-05 12:50
+        poster: Anton Klepikov (antokha)
+        email: antokha@yandex.ru
+        subject: а где регистрация-то?
+        deleted: false
+        text: я только "мои настройки" вижу и все. А NEW у меня чей-то не апдейтится,
+          только экспайрится со временем.
+        replies:
+        - id: 3463
+          parent_id: 3430
+          date: 2002-04-05 15:45
+          poster: Федор Романенко (fedor)
+          email: fedor@blues.ru
+          subject: Мои настройки...
+          deleted: false
+          text: '- и есть регистрация. NEW показывает новые сообщения с последнего
+            сеанса. Т.е. надо закрыть браузер и открыть, тогда метки NEW с сообщений
+            предыдущего сеанса пропадут.'
+          replies:
+          - id: 3487
+            parent_id: 3463
+            date: 2002-04-05 20:07
+            poster: Anton Klepikov (antokha)
+            email: antokha@yandex.ru
+            subject: Ага! Понятно..
+            deleted: false
+            text: Тогда работает!
+  - id: 3404
+    parent_id: 3401
+    date: 2002-04-05 05:43
+    poster: Дима Казанцев (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: Дурь какая-то
+    deleted: false
+    text: А вот теперь появилось НЬЮ после моего постинга, но я опять не вижу вообще
+      своих сообщений, посланных мною с 12 до 01.
+  - id: 3408
+    parent_id: 3401
+    date: 2002-04-05 09:50
+    poster: Костин Владимир (Volk)
+    email: volk21@land.ru
+    subject: А у меня все работает нормально
+    deleted: false
+    text: не жалуюсь
+  - id: 3417
+    parent_id: 3401
+    date: 2002-04-05 11:38
+    poster: Андрей PRG
+    email: peregnoy@mail.ru
+    subject: Ну теперь,
+    deleted: false
+    text: по крайней мере, разворачивается всё, что ниже и свежее. И это уже лучше
+      :)
+    replies:
+    - id: 3432
+      parent_id: 3417
+      date: 2002-04-05 13:15
+      poster: Дима Казанцев (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: Это у меня уже работало ;)
+      deleted: false
+      text: Теперь не работает "появление собственных сообщений" ;)
+      replies:
+      - id: 3433
+        parent_id: 3432
+        date: 2002-04-05 13:19
+        poster: Андрей PRG
+        email: peregnoy@mail.ru
+        subject: То есть? (-)
+        deleted: false
+        text: '1'

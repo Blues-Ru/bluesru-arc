@@ -1,0 +1,26 @@
+topic_id: 3759
+slug: topic-3759
+title: а вот и русский блюз
+first_post: 2007-10-12 02:04
+last_post: 2007-10-13 21:17
+post_count: 2
+posts:
+- id: 33641
+  parent_id: null
+  date: 2007-10-12 02:04
+  poster: Dmitri Kazantsev (Dr. Nick)
+  email: dr.nick@blues.ru
+  subject: а вот и русский блюз
+  deleted: false
+  text: 'http://rutube.ru/tracks/127976.html?v=b6d002d7a0ce3d172790522fd4c1cf18
+
+
+    чем хуже гаримура?'
+  replies:
+  - id: 33654
+    parent_id: 33641
+    date: 2007-10-13 21:17
+    poster: Eugene Krivdyuk (snoopy)
+    email: ekrivdyuk@gmail.com
+    subject: ужасы на ночь...
+    deleted: false

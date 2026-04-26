@@ -1,0 +1,53 @@
+topic_id: 5004
+slug: topic-5004
+title: памяти Элвина Ли
+first_post: 2013-03-07 02:58
+last_post: 2013-04-26 19:29
+post_count: 5
+posts:
+- id: 38795
+  parent_id: null
+  date: 2013-03-07 02:58
+  poster: Andrei V. Evdokimov
+  subject: памяти Элвина Ли
+  deleted: false
+  text: 'But they asked me to say "Ten Years After"
+
+
+    <iframe width="420" height="315" src="http://www.youtube.com/embed/Ii5ATu4FUzg"
+    frameborder="0" allowfullscreen></iframe>'
+  replies:
+  - id: 38796
+    parent_id: 38795
+    date: 2013-03-07 04:30
+    poster: Dmitri Kazantsev
+    subject: ну и ну
+    deleted: false
+    text: зачем же самый жуткий диск?
+    replies:
+    - id: 38797
+      parent_id: 38796
+      date: 2013-03-07 20:10
+      poster: Andrei V. Evdokimov
+      subject: а я его в детстве полюбил
+      deleted: false
+      text: и теперь не разлюблю уж никогда и ни за что
+      replies:
+      - id: 38800
+        parent_id: 38797
+        date: 2013-03-07 23:53
+        poster: Сергей
+        subject: памяти Элвина Ли
+        deleted: false
+        text: 'UNDEAD - первый из альбомов Ten Years After, который я приобрел когда-то,
+          и тоже очень люблю его.
+
+          RIP Alvin...'
+  - id: 38922
+    parent_id: 38795
+    date: 2013-04-26 19:29
+    poster: Андрей Шишкин
+    subject: Вопрос знатокам
+    deleted: false
+    text: Альбом Alvin Lee & TYA PURE BLUES (1995) это оригинальная запись? сборник?
+      Спасибо за разъяснение!

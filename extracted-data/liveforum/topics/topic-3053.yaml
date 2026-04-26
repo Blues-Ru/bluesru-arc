@@ -1,0 +1,35 @@
+topic_id: 3053
+slug: topic-3053
+title: 24 го, во вторник в Дуде......
+first_post: 2006-01-22 23:30
+last_post: 2006-01-25 10:00
+post_count: 3
+posts:
+- id: 25544
+  parent_id: null
+  date: 2006-01-22 23:30
+  poster: Yuri Kaverkin (Gekko)
+  email: kaverkin@rol.ru
+  subject: 24 го, во вторник в Дуде......
+  deleted: false
+  text: будет акустический концерт в котором примет участие (кроме меня и Новоселова)
+    один из наиболее интересных музыкантов которых я слышал - скрипач Сергей Рыженко.
+    Играем без подключения, т.е.честно :-)
+  replies:
+  - id: 25556
+    parent_id: 25544
+    date: 2006-01-23 21:20
+    poster: Алексей Фролов (Buchothk)
+    email: jokerthk@yandex.ru
+    subject: Тот самый??????? Ничего себе....
+    deleted: false
+  - id: 25564
+    parent_id: 25544
+    date: 2006-01-25 10:00
+    poster: Алексей Фролов (Buchothk)
+    email: jokerthk@yandex.ru
+    subject: Нет слов....
+    deleted: false
+    text: 'Это было гениально! Спасибо!
+
+      Если Вы не повторите ЭТО, я повешусь! :))))))))))))))))))'

@@ -1,0 +1,123 @@
+topic_id: 3921
+slug: topic-3921
+title: Хотелось бы услышать ваше мнение
+first_post: 2008-02-27 12:36
+last_post: 2008-02-28 16:03
+post_count: 10
+posts:
+- id: 34800
+  parent_id: null
+  date: 2008-02-27 12:36
+  poster: tubeman
+  email: wbox@bk.ru
+  subject: Хотелось бы услышать ваше мнение
+  deleted: false
+  text: 'Это наш первый опыт записи. Играем вместе уже более полугода. Собрались вместе
+    на почве большой любви к блюзу :) Вокал мой, и до этого я никогда не пел. Нужна
+    оценка со стороны знающих людей.
+
+    http://slil.ru/25520815 кавер на Рев Брауна
+
+    http://slil.ru/25520832 слова Лонни Джонсона (музыка наша:) )
+
+
+    С уважением
+
+    Марат
+
+    группа GTown'
+  replies:
+  - id: 34801
+    parent_id: 34800
+    date: 2008-02-27 17:12
+    poster: Алексей Аграновский (Док)
+    email: aaa@genebee.msu.su
+    subject: Мнение
+    deleted: false
+    text: "Молодцы. Вокал понравился.\n\"Рев Брауна\" - это круто сказано. \n\"Преп.\
+      \ Брауна\" лучше..."
+    replies:
+    - id: 34811
+      parent_id: 34801
+      date: 2008-02-28 11:00
+      poster: tubeman
+      email: wbox@bk.ru
+      subject: Rev Brown
+      deleted: false
+      text: Это не тот преподобный Реверенд Браун, что жил в америке, а вот этот http://www.cduniverse.com/search/xx/music/pid/6665911/a/Bare+In+Charge.htm
+    - id: 34812
+      parent_id: 34801
+      date: 2008-02-28 11:37
+      poster: tubeman
+      email: wbox@bk.ru
+      subject: ??
+      deleted: false
+      text: Вы тот самый Dr.Agranovsky - Черный Хлеб ?
+      replies:
+      - id: 34814
+        parent_id: 34812
+        date: 2008-02-28 13:15
+        poster: Алексей Аграновский (Док)
+        email: aaa@genebee.msu.su
+        subject: Да вроде бы я.
+        deleted: false
+        text: За пояснения преподобности спасибо.
+        replies:
+        - id: 34815
+          parent_id: 34814
+          date: 2008-02-28 13:28
+          poster: tubeman
+          email: wbox@bk.ru
+          subject: )))))
+          deleted: false
+          text: Ха)))) Расскажу сегодня друзьям, обрадую )))
+  - id: 34808
+    parent_id: 34800
+    date: 2008-02-28 05:37
+    poster: Jumpin' Jack Flash
+    email: hgjhgjh
+    subject: зачет
+    deleted: false
+    text: еще ))
+    replies:
+    - id: 34810
+      parent_id: 34808
+      date: 2008-02-28 10:56
+      poster: tubeman
+      email: wbox@bk.ru
+      subject: еще :)
+      deleted: false
+      text: 'http://slil.ru/25524739 это перепевка Status Quo - Let Me Fly
+
+        http://slil.ru/25524780 а это Willie Dixon - 29 Ways
+
+        живем мы в Грозном :)
+
+
+        С уважением
+
+        Марат
+
+        группа GTown'
+  - id: 34816
+    parent_id: 34800
+    date: 2008-02-28 13:47
+    poster: tubeman
+    email: wbox@bk.ru
+    subject: Спасибо всем за поддержку )))
+    deleted: false
+    text: "Получить на этом сайте позитивный отзыв - это здорово))) \nА мы еще и другие\
+      \ вещи играем :) \nZZTop - Gimmie All Your Lovin, Pearl Neklace\nWillie Dixon\
+      \ - Hoochie Coochie Man\nChuck Berry - Jonny Be Good, Nadine \nPeter Green -\
+      \ Need Your Love So Bad \nElvis Presly - Blue Suede Shoes \nJimmy McCracklin\
+      \ - The Walk\nно пока еще не записывали - too much day gig (((\nСпасибо еще\
+      \ раз\n\nС уважением\nМарат\nгруппа GTown"
+    replies:
+    - id: 34817
+      parent_id: 34816
+      date: 2008-02-28 16:03
+      poster: Старый Майор
+      email: gypsy@mail.ru
+      subject: Я бы Jimmy McCracklin - The Walk послушал ))
+      deleted: false
+      text: Хороший выбор, говорит о знании предмета ))

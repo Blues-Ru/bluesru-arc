@@ -1,0 +1,61 @@
+topic_id: 2033
+slug: topic-2033
+title: Хорошо живёт на свете Винни Мур
+first_post: 2002-07-17 09:19
+last_post: 2002-07-19 01:47
+post_count: 6
+posts:
+- id: 6101
+  parent_id: null
+  date: 2002-07-17 09:19
+  poster: Malcolm Ray  Redriver (Mike)
+  email: lifebythedrop@yandex.ru
+  subject: Хорошо живёт на свете Винни Мур
+  deleted: false
+  text: Кстати, что-нибудь мне скажет толком, кто это такой и имеет ли отношение какое-нибудь
+    к Гарри Муру?
+  replies:
+  - id: 6103
+    parent_id: 6101
+    date: 2002-07-17 14:42
+    poster: МХ
+    email: оммвол
+    subject: а зачем
+    deleted: false
+    text: это тебе, если не секрет?вопрос жизни и смерти?)))
+    replies:
+    - id: 6114
+      parent_id: 6103
+      date: 2002-07-18 08:39
+      poster: Malcolm Ray  Redriver (Mike)
+      email: lifebythedrop@yandex.ru
+      subject: Зачем так сразу
+      deleted: false
+      text: Нееее... просто интересно
+      replies:
+      - id: 6122
+        parent_id: 6114
+        date: 2002-07-18 11:32
+        poster: Дима Казанцев (Dr. Nick)
+        email: dr.nick@blues.ru
+        subject: Отстой это
+        deleted: false
+        text: к Гари не имеет отношения, хотя он тоже отстой ;)
+      - id: 6149
+        parent_id: 6114
+        date: 2002-07-19 01:47
+        poster: Вадим  (AVA)
+        email: vad2908@mail.ru
+        subject: '...вааще-то у них Муров, как у нас...'
+        deleted: false
+        text: '...Петровых,,,,есть среди них более заслуживающие внимания, напр. James
+          Moore (в блюзовом мире - Slim Harpo)....'
+  - id: 6140
+    parent_id: 6101
+    date: 2002-07-18 20:47
+    poster: V.Tsubin (VOVAN)
+    email: vts13@hotmail.com
+    subject: неоклассика это называется
+    deleted: false
+    text: Типа Ингви Мальмстина.Связи с блюзом не замечал.Исполнил  While My Guitar
+      Gently Weeps (Harrison ) инструментально.

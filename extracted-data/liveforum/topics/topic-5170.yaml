@@ -1,0 +1,39 @@
+topic_id: 5170
+slug: topic-5170
+title: линк
+first_post: 2014-03-25 22:55
+last_post: 2014-03-29 16:20
+post_count: 4
+posts:
+- id: 39180
+  parent_id: null
+  date: 2014-03-25 22:55
+  poster: Andrei V. Evdokimov
+  subject: На сайте появился перевод статьи о Boogie Bill Webb
+  deleted: false
+  text: В раздел "Музыканты" добавлена справка о певце-гитаристе Буги-Билле Уэббе
+    (<a href="/bluesmen/Boogie_Bill_Webb/Boogie_Bill_Webb.html"><b>Boogie Bill Webb</b></a>),
+    довольно мало известном, но весьма самобытном и интересном.
+  replies:
+  - id: 39181
+    parent_id: 39180
+    date: 2014-03-25 22:55
+    poster: Andrei V. Evdokimov
+    subject: линк
+    deleted: false
+    text: http://blues.ru/bluesmen/Boogie_Bill_Webb/Boogie_Bill_Webb.html
+  - id: 39182
+    parent_id: 39180
+    date: 2014-03-29 12:03
+    poster: Дмитрий Мейсигов
+    subject: ссылка не работает.
+    deleted: false
+    text: Почему?
+    replies:
+    - id: 39183
+      parent_id: 39182
+      date: 2014-03-29 16:20
+      poster: Федор Романенко
+      subject: Правильная ссылка
+      deleted: false
+      text: http://www.blues.ru/bluesmen/Boogie_Bill_Webb/

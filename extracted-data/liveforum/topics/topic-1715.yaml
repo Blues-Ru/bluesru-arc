@@ -1,0 +1,34 @@
+topic_id: 1715
+slug: topic-1715
+title: что за фигня? :)
+first_post: 2003-12-23 01:13
+last_post: 2003-12-23 06:15
+post_count: 3
+posts:
+- id: 16417
+  parent_id: null
+  date: 2003-12-23 01:13
+  poster: Andrei V. Evdokimov (evdokimov)
+  email: evdokimov@blues.ru
+  subject: что за фигня? :)
+  deleted: false
+  text: '"культура" словно взялась радовать по ночам.
+
+    не знаю только, кто ж так по-черному блюз фанкует напропалуЙю.'
+  replies:
+  - id: 16418
+    parent_id: 16417
+    date: 2003-12-23 01:18
+    poster: Andrei V. Evdokimov (evdokimov)
+    email: evdokimov@blues.ru
+    subject: Это был Дон Черри (-)
+    deleted: false
+    replies:
+    - id: 16425
+      parent_id: 16418
+      date: 2003-12-23 06:15
+      poster: Дима Казанцев (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: Don Cherry rulezzz!
+      deleted: false
+      text: oh yeah mother for ya!

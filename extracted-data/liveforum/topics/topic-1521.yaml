@@ -1,0 +1,55 @@
+topic_id: 1521
+slug: topic-1521
+title: с прискорбием сообщаем,...
+first_post: 2003-10-20 15:46
+last_post: 2003-10-21 14:41
+post_count: 4
+posts:
+- id: 15116
+  parent_id: null
+  date: 2003-10-20 15:46
+  poster: Ruby Tooz
+  email: rubytooz@rambler.ru
+  subject: с прискорбием сообщаем,...
+  deleted: false
+  text: 'что вчера в полночь скончалось "Открытое Радио".
+
+    Нас покинули "Блюзология", "Рок-территория", "Дым под водой" и другие...
+
+
+    Соболезнования принимаются.
+
+
+
+    P.S. на этом месте сейчас Радио ПОПСА (sic!).'
+  replies:
+  - id: 15140
+    parent_id: 15116
+    date: 2003-10-21 12:38
+    poster: Wals
+    email: alexerek@mail.ru
+    subject: Хе-хе... Мы тут немного пообсуждали... :)))
+    deleted: false
+    text: http://guitars.ru/forum/thread.pl?id=38894&page=1
+    replies:
+    - id: 15141
+      parent_id: 15140
+      date: 2003-10-21 13:41
+      poster: Юрий Кривошеин (YuK)
+      email: scolderblues@yahoo.com
+      subject: '"Эллочка Щукина легко и свободно обходилась тридцатью..." (-)'
+      deleted: false
+      text: '-'
+      replies:
+      - id: 15142
+        parent_id: 15141
+        date: 2003-10-21 14:41
+        poster: Wals
+        email: alexerek@mail.ru
+        subject: Зато это были ТАКИЕ 30 СЛОВ!!!! :))))))))
+        deleted: false
+        text: 'Извините, что этой пошлой ссылкой задел ваше высокоэстетское начало.
+          Ну или конец....
+
+
+          =))'

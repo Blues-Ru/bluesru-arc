@@ -1,0 +1,154 @@
+topic_id: 2797
+slug: topic-2797
+title: так ощущение...
+first_post: 2005-09-19 01:22
+last_post: 2005-09-20 10:39
+post_count: 16
+posts:
+- id: 23245
+  parent_id: null
+  date: 2005-09-19 01:22
+  poster: Владимир Русинов (BluesCat)
+  email: volodya@blues.ru
+  subject: так ощущение...
+  deleted: false
+  text: "что по этому форуму плачет психиатор :))) \nхорошая тема для научный работы\
+    \ :))))))))))"
+  replies:
+  - id: 23248
+    parent_id: 23245
+    date: 2005-09-19 01:42
+    poster: психиaster
+    email: elicaster(@))mmmmmmmmmail.ru
+    subject: :)))
+    deleted: false
+    text: Я плакаль...
+  - id: 23257
+    parent_id: 23245
+    date: 2005-09-19 11:39
+    poster: Старый Майор
+    email: gypsy@mail.ru
+    subject: А ты почитай другие форумы ))
+    deleted: false
+    text: Например, тот, который по ссылке ниже "Во где накал страстей.."
+    replies:
+    - id: 23261
+      parent_id: 23257
+      date: 2005-09-19 14:10
+      poster: Владимир Русинов (BluesCat)
+      email: volodya@blues.ru
+      subject: а там ничего интересного... обыденно :)
+      deleted: false
+      replies:
+      - id: 23264
+        parent_id: 23261
+        date: 2005-09-19 14:32
+        poster: Старый Майор
+        email: gypsy@mail.ru
+        subject: Ну значит тут собрались баальшие оригиналы в ассортименте ))
+        deleted: false
+        replies:
+        - id: 23268
+          parent_id: 23264
+          date: 2005-09-19 16:12
+          poster: Владимир Русинов (BluesCat)
+          email: volodya@blues.ru
+          subject: это точно.........
+          deleted: false
+          replies:
+          - id: 23285
+            parent_id: 23268
+            date: 2005-09-19 21:25
+            poster: Kot Matraskin (KotMatraskin)
+            email: kotmatrs@mail.ru
+            subject: Все психи - точно
+            deleted: false
+            text: "Да и можно ли признать сколь нибудь \"нормальными\" людьми предпочитающих\
+              \ слушать, играть и создавать музыку североамериканских негров в нашей\
+              \ северной, промозглой стране? \nДа вы на себя посмотрите то! И вокруг.\n\
+              дурдом на выезде...."
+            replies:
+            - id: 23286
+              parent_id: 23285
+              date: 2005-09-19 21:26
+              poster: Старый Майор
+              email: gypsy@mail.ru
+              subject: А чё, разве ещё какая-то другая музыка бывает?
+              deleted: false
+            - id: 23288
+              parent_id: 23285
+              date: 2005-09-19 22:02
+              poster: Владимир Русинов (BluesCat)
+              email: volodya@blues.ru
+              subject: это уже давно интернациональная музыка...
+              deleted: false
+              text: и видели мы как в еще более промозглых странах все это играют...
+                ;)
+              replies:
+              - id: 23289
+                parent_id: 23288
+                date: 2005-09-19 22:25
+                poster: Старый Майор
+                email: gypsy@mail.ru
+                subject: И играют прямо в варежках, заметьте!
+                deleted: false
+                replies:
+                - id: 23291
+                  parent_id: 23289
+                  date: 2005-09-19 22:54
+                  poster: Владимир Русинов (BluesCat)
+                  email: volodya@blues.ru
+                  subject: вах! в рэзиновых пэрчатках на электричестве играют!
+                  deleted: false
+                  replies:
+                  - id: 23292
+                    parent_id: 23291
+                    date: 2005-09-19 23:04
+                    poster: Руслан Чифуров ()
+                    email: chifuroff@inbox.ru
+                    subject: Это ты фильм "Танцор Диско" вспомнил? :-)))))
+                    deleted: false
+                    text: Помню ещё в детском саду был, когда этот фильм во всех кинотеатрах
+                      шел- меня тогда жутко напугала сцена, когда главному герою на
+                      массу подали фазное напряжение, но его вовремя матушка спасла,
+                      которая выцепила у него из рук гитару и сама погибла. Вот я
+                      тогда так напугался, подумал какой это риск играть на электрогитаре
+                      и про себя подумал, что никогда не буду на этом инструменте
+                      играть :-))))) (Никогда не говори "никогда" - вот это уж точно).
+                    replies:
+                    - id: 23294
+                      parent_id: 23292
+                      date: 2005-09-19 23:16
+                      poster: Старый Майор
+                      email: gypsy@mail.ru
+                      subject: Руслан, а кто тебе сказал что ты играешь? )))
+                      deleted: false
+                      text: Я видел - у тебя в гитаре батарейка, а ты пальцами мимо
+                        струн машешь!
+                      replies:
+                      - id: 23295
+                        parent_id: 23294
+                        date: 2005-09-19 23:23
+                        poster: Руслан Чифуров ()
+                        email: chifuroff@inbox.ru
+                        subject: Вот как :-))))) И ничего не скроешь от Старого Майора
+                          :-)))))
+                        deleted: false
+                    - id: 23298
+                      parent_id: 23292
+                      date: 2005-09-19 23:55
+                      poster: Владимир Русинов (BluesCat)
+                      email: volodya@blues.ru
+                      subject: Вах! Такой Бальшой Малчик, а кинофильму "Мимино" нэ
+                        знает!
+                      deleted: false
+                    - id: 23326
+                      parent_id: 23292
+                      date: 2005-09-20 10:39
+                      poster: VoV  (Barmaley)
+                      email: barmaley-vov@yandex.ru
+                      subject: Фильм называлсо "Мимино"
+                      deleted: false
+                      text: 'Или "Мимонот"...
+
+                        Кикабидзе в роли Раджа Капура.'

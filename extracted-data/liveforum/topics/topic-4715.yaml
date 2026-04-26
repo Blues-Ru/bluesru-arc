@@ -1,0 +1,22 @@
+topic_id: 4715
+slug: topic-4715
+title: '... они как сговорились все!'
+first_post: 2011-09-22 19:34
+last_post: 2011-09-26 15:58
+post_count: 2
+posts:
+- id: 37992
+  parent_id: null
+  date: 2011-09-22 19:34
+  poster: Andrei V. Evdokimov
+  subject: '... они как сговорились все!'
+  deleted: false
+  text: '<b>Выставка кошек "Осенний блюз"</b> состоится в Южно-Сахалинске: http://www.sakhalin.info/news/70797/'
+  replies:
+  - id: 37996
+    parent_id: 37992
+    date: 2011-09-26 15:58
+    poster: Алексей Аграновский
+    subject: Первый приз
+    deleted: false
+    text: '"Мартовский кот года"'

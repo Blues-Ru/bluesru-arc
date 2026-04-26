@@ -1,0 +1,25 @@
+topic_id: 668
+slug: topic-668
+title: Блюз в ДАСе
+first_post: 2003-03-10 20:18
+last_post: 2003-03-11 12:52
+post_count: 2
+posts:
+- id: 10933
+  parent_id: null
+  date: 2003-03-10 20:18
+  poster: Gilt
+  email: gilt@design.ru
+  subject: Блюз в ДАСе
+  deleted: false
+  text: Планируется? (Док, наверное, к вам вопрос? ;)
+  replies:
+  - id: 10938
+    parent_id: 10933
+    date: 2003-03-11 12:52
+    poster: Алексей Аграновский (Док)
+    email: aaa@genebee.msu.su
+    subject: 27-го марта (в четверг)
+    deleted: false
+    text: В ДАСе состоится концерт The Blues Spinners. Special guest - Борис Булкин.
+      В конце будет джем с участием 3-4 приглашенных. Приходите, зовите друзей.

@@ -1,0 +1,49 @@
+topic_id: 1965
+slug: topic-1965
+title: Я тут кое-чего записал, послушайте...
+first_post: 2004-04-01 08:48
+last_post: 2004-04-02 14:40
+post_count: 4
+posts:
+- id: 17820
+  parent_id: null
+  date: 2004-04-01 08:48
+  poster: Михан  (Ded Morozzz)
+  email: morozzz_ded@mail.ru
+  subject: Я тут кое-чего записал, послушайте...
+  deleted: false
+  text: "Записал, значит, я штуковину; очень старался косить под Джуниора Ватсона,\
+    \ уж не знаю как у меня это получилось :) \n\nКачается оно здесь: \nhttp://www.vlgu.ru/i01/db/files/dm_springwalk.mp3\
+    \ - 2.7 Мб, 128 kbps \nhttp://www.vlgu.ru/i01/db/files/dm_springwalk_lq.mp3 -\
+    \ 1.7 Мб, 80 kbps \nhttp://www.vlgu.ru/i01/db/files/dm_springwalk.ra - 0.3 Мб,\
+    \ realaudio \n\nВот такие дела; очень большая просьба всем послушать, оценить\
+    \ и чего-нибудь ругательное написать."
+  replies:
+  - id: 17827
+    parent_id: 17820
+    date: 2004-04-01 14:23
+    poster: Старый Майор
+    email: gypsy@mail.ru
+    subject: Блистательный пример жанра "Ча-ча-ча" =))
+    deleted: false
+    text: Я бы рекомендовал облегчить партию ударных, уж очень низко и грузно звучат,
+      несколько не соответствует настроению "Весенней прогулки", ну разве только по
+      нерастаявшим сугробам в вотчине Деда Мороззза?
+    replies:
+    - id: 17850
+      parent_id: 17827
+      date: 2004-04-01 21:41
+      poster: vr
+      email: volodya@blues.ru
+      subject: главное что не тындындындын
+      deleted: false
+      text: ;)
+      replies:
+      - id: 17855
+        parent_id: 17850
+        date: 2004-04-02 14:40
+        poster: Веснолюб Прогулкин
+        email: zumpelkukel@bubu.com
+        subject: Молодец Мыхань!!! Очунь даж хоросссо
+        deleted: false
+        text: :-))

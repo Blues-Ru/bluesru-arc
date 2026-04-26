@@ -1,0 +1,40 @@
+topic_id: 1218
+slug: topic-1218
+title: Оцените мидишный шаффл.
+first_post: 2003-06-09 15:53
+last_post: 2003-06-15 13:08
+post_count: 3
+posts:
+- id: 12956
+  parent_id: null
+  date: 2003-06-09 15:53
+  poster: Михан  (Ded Morozzz)
+  email: morozzz_ded@mail.ru
+  subject: Оцените мидишный шаффл.
+  deleted: false
+  text: 'Вот файлик на 70 килобайт:
+
+
+    http://dedmorozzz.nm.ru/drums.mp3
+
+
+    В нем 4 такта мидишных барабанов, в которые я попытался забить шаффл. Хочется
+    узнать, насколько хорошо/плохо у меня это получилось.'
+  replies:
+  - id: 12962
+    parent_id: 12956
+    date: 2003-06-10 09:04
+    poster: Malcolm Ray  Redriver (Mike)
+    email: lifebythedrop@yandex.ru
+    subject: Получилось
+    deleted: false
+    text: Теперь поразнообразнее его сделать надо...
+    replies:
+    - id: 12981
+      parent_id: 12962
+      date: 2003-06-15 13:08
+      poster: Михан  (Ded Morozzz)
+      email: morozzz_ded@mail.ru
+      subject: Что-то мало ответов :)
+      deleted: false
+      text: Где же все понимающие в шаффле?

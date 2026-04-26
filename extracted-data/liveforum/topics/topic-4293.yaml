@@ -1,0 +1,114 @@
+topic_id: 4293
+slug: topic-4293
+title: Lucky Peterson в Москве.
+first_post: 2009-09-18 00:53
+last_post: 2009-10-17 14:22
+post_count: 12
+posts:
+- id: 36574
+  parent_id: null
+  date: 2009-09-18 00:53
+  poster: tavrichesky
+  subject: Lucky Peterson в Москве.
+  deleted: false
+  text: "Додскажите, пожалуйста, какого именно октября Лаки будет в Москве-в официальном\
+    \ расписании значится следующее:\noktober\n16th  thru  19th \nRussian Blues Festival\
+    \                         Russia\nдействительно 4 дня? и все дни блюзовый фестиваль?"
+  replies:
+  - id: 36575
+    parent_id: 36574
+    date: 2009-09-18 03:16
+    poster: Andrei V. Evdokimov
+    subject: 'я только что проверил: происк по сайту работает!'
+    deleted: true
+    text: <a href="/news/?iid=669">http://www.blues.ru/news/?iid=669</a>
+  - id: 36576
+    parent_id: 36574
+    date: 2009-09-18 03:18
+    poster: Andrei V. Evdokimov
+    subject: 'я только что проверил: оказывается, поиск по сайту все-таки работает!'
+    deleted: false
+    text: <a href="/news/?iid=669">http://www.blues.ru/news/?iid=669</a>
+  - id: 36577
+    parent_id: 36574
+    date: 2009-09-18 13:10
+    poster: tavrichesky
+    subject: спасибо.это, конечно, более чем замечательно,
+    deleted: false
+    text: 'но данная информация, к сожалению, не проясняет ситуации по поводу 16,
+      17 октября и блюз фестиваля.
+
+      Или же это очередная информационная ошибка организующих сторон?'
+    replies:
+    - id: 36584
+      parent_id: 36577
+      date: 2009-09-25 19:28
+      poster: Igor Sazonov
+      subject: Lucky Peterson in Moscow
+      deleted: false
+      text: 'Даты с 16 по 19 октября означают что Лаки выезжает в Москву 16-го и возвращается
+        19-го.
+
+        По поводу фестиваля - это вэбмастер так назвал серию концертов "Герои блюза",
+        частью которой является концерт Лаки в Доме Музыки 18 октября.'
+      replies:
+      - id: 36592
+        parent_id: 36584
+        date: 2009-09-28 16:07
+        poster: tavrichesky
+        subject: Игорь,спасибо за информацию!Каков будет ценовой диапазон билетов?
+        deleted: false
+        text: спасибо
+  - id: 36578
+    parent_id: 36574
+    date: 2009-09-18 22:00
+    poster: Andrei V. Evdokimov
+    subject: все как всегда
+    deleted: false
+    text: Концерт в ММДМ проходит в воскресенье - один день.
+  - id: 36579
+    parent_id: 36574
+    date: 2009-09-20 02:09
+    poster: Алексей Сечкин
+    subject: Lucky Peterson в Москве
+    deleted: false
+    text: 'Фантастика! И не наядеялся, что Lucky нас посетит.
+
+      Надеюсь он хаммонд привезет.'
+    replies:
+    - id: 36585
+      parent_id: 36579
+      date: 2009-09-25 19:31
+      poster: Igor Sazonov
+      subject: Lucky Peterson in Moscow
+      deleted: false
+      text: Орган он с собой, конечно, везти не будет. Поскольку во всей Москве не
+        оказалось В3, играть будет на Korg CX3 (и на гитаре).
+      replies:
+      - id: 36586
+        parent_id: 36585
+        date: 2009-09-25 22:43
+        poster: Fedor Romanenko
+        subject: Игорь!
+        deleted: false
+        text: Спасибо за исчерпывающую информацию. Передавайте привет Питерсену ;)
+        replies:
+        - id: 36608
+          parent_id: 36586
+          date: 2009-10-05 09:30
+          poster: Алексей Сечкин
+          subject: Hammond C3 для Lucky Peterson
+          deleted: false
+          text: 'Федор,
+
+            Можно попробовать Hammond C3 для Lucky Peterson организовать. Я тебе письмо
+            послал. Дай знать если это актуально.'
+  - id: 36633
+    parent_id: 36574
+    date: 2009-10-17 14:22
+    poster: Ярослав
+    subject: Кстати в ММДМ Lucky заявлен как единственный участник
+    deleted: false
+    text: 'значит ли это, что он приехал без ансамбля и будет выступать в одиночку?
+
+      кто-нибудь в курсе?'

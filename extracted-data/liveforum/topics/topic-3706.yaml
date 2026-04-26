@@ -1,0 +1,36 @@
+topic_id: 3706
+slug: topic-3706
+title: Здравствуй, Москва ))
+first_post: 2007-08-03 12:10
+last_post: 2007-08-03 12:34
+post_count: 2
+posts:
+- id: 33327
+  parent_id: null
+  date: 2007-08-03 12:10
+  poster: Макс таврический
+  email: рад3лоа
+  subject: Здравствуй, Москва ))
+  deleted: false
+  text: 'Уважаемые любители и ценители блюза. Киевский блюзсоюз с превеликим нетерпением
+    уже )) ждет встречи с вами
+
+    8 августа B.B.King
+
+    9 августа Music Town
+
+    11 августа фестиваль в Лефортово
+
+    just play the blues for you'
+  replies:
+  - id: 33328
+    parent_id: 33327
+    date: 2007-08-03 12:34
+    poster: блюзман
+    email: bm@blues.ru
+    subject: а как мы вас ждём!
+    deleted: false
+    text: 'так редко бывают тут иностранные гастролёры!
+
+
+      ура!'

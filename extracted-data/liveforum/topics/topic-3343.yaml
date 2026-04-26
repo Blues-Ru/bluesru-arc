@@ -1,0 +1,31 @@
+topic_id: 3343
+slug: topic-3343
+title: Мой ЖЖ http://nemovjnr.livejournal.com/
+first_post: 2006-07-22 17:14
+last_post: 2006-07-23 00:38
+post_count: 3
+posts:
+- id: 27959
+  parent_id: null
+  date: 2006-07-22 17:14
+  poster: Немов Евгений
+  email: jnr_new@mail.ru
+  subject: Мой ЖЖ http://nemovjnr.livejournal.com/
+  deleted: false
+  text: http://nemovjnr.livejournal.com/
+  replies:
+  - id: 27962
+    parent_id: 27959
+    date: 2006-07-22 20:23
+    poster: Dmitri Kazantsev (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: и чё ты не отвечаешь?
+    deleted: false
+    replies:
+    - id: 27963
+      parent_id: 27962
+      date: 2006-07-23 00:38
+      poster: Немов Евгений
+      email: jnr_new@mail.ru
+      subject: Некогда было...Но я рад первому гостю, тем более, что это ты!
+      deleted: false

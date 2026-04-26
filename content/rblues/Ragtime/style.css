@@ -1,0 +1,9 @@
+body {font-family: Arial, Verdana, Helvetica, sans-serif;}
+
+A:link    {COLOR: #606060; TEXT-DECORATION: none}
+A:active  {COLOR: #666666; TEXT-DECORATION: none}
+A:visited {COLOR: #808080; TEXT-DECORATION: none}
+A:hover   {COLOR: #FF0000; TEXT-DECORATION: none}
+
+.right, .right td {FONT-SIZE: 9pt; COLOR: #000000; text-align: justify;}
+.left {FONT-SIZE: 9pt; COLOR: #888888;}

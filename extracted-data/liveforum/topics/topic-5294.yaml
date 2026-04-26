@@ -1,0 +1,55 @@
+topic_id: 5294
+slug: topic-5294
+title: I'm drinkin TNT, I'm smokin dynamite,
+first_post: 2017-12-01 19:16
+last_post: 2021-01-11 20:02
+post_count: 7
+posts:
+- id: 39489
+  parent_id: null
+  date: 2017-12-01 19:16
+  poster: олег
+  subject: I'm drinkin TNT, I'm smokin dynamite,
+  deleted: false
+  text: Курит динамит,а что он пьёт?
+  replies:
+  - id: 39490
+    parent_id: 39489
+    date: 2017-12-03 03:58
+    poster: Геннадий
+    subject: TNT - тринитротолуол, он же тротил
+    deleted: false
+  - id: 39491
+    parent_id: 39489
+    date: 2017-12-03 08:30
+    poster: олег
+    subject: Спасибо!
+    deleted: false
+  - id: 39594
+    parent_id: 39489
+    date: 2019-08-06 15:54
+    poster: sarge
+    subject: .
+    deleted: true
+    text: http://sportstavki.online/mobilnaya-versiya-i-prilozhenie-dlya-stavok-1xbet
+  - id: 39595
+    parent_id: 39489
+    date: 2019-08-06 15:55
+    poster: sarge
+    subject: ..
+    deleted: true
+    text: '[url=https://sportstavki.online/mobilnaya-versiya-i-prilozhenie-dlya-stavok-1xbet]https://sportstavki.online/mobilnaya-versiya-i-prilozhenie-dlya-stavok-1xbet[/url]'
+  - id: 39596
+    parent_id: 39489
+    date: 2019-08-06 15:56
+    poster: sarge
+    subject: //
+    deleted: true
+    text: http://www.sportstavki.online/mobilnaya-versiya-i-prilozhenie-dlya-stavok-1xbet
+  - id: 39686
+    parent_id: 39489
+    date: 2021-01-11 20:02
+    poster: Владимир
+    subject: Грузовое такси Грузовозка
+    deleted: true
+    text: https://gruzovozka.dp.ua/ - Грузоперевозки Днепр

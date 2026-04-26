@@ -1,0 +1,42 @@
+topic_id: 2193
+slug: topic-2193
+title: странно, однако...
+first_post: 2004-08-12 12:04
+last_post: 2004-08-21 13:51
+post_count: 4
+posts:
+- id: 19054
+  parent_id: null
+  date: 2004-08-12 12:04
+  poster: John
+  email: ssy@ac.com.ru
+  subject: странно, однако...
+  deleted: false
+  text: вчера в ббк такой интересный джем был, а никто не делится впечатлениями....
+  replies:
+  - id: 19057
+    parent_id: 19054
+    date: 2004-08-12 17:15
+    poster: Руслан Чифуров (T. W. Ridxehn)
+    email: chifuroff@inbox.ru
+    subject: А джемы с Dr. Nick всегда праздник!
+    deleted: false
+    text: Джем действительно удался на славу! Все играли просто отпадно! Действительно
+      настоящий джем, а не сольный концерт с бэк-подтанцовками :-))))). Спасибо Dr.
+      Nick!
+  - id: 19064
+    parent_id: 19054
+    date: 2004-08-13 14:33
+    poster: John
+    email: ssy@ac.com.ru
+    subject: особенно порадовало
+    deleted: false
+    text: то, что некоторые молодые исполнители, выходящие на сцену, действительно,
+      отыграли очень интересно и профессионально.
+  - id: 19103
+    parent_id: 19054
+    date: 2004-08-21 13:51
+    poster: молодой исполнитель
+    email: s.e.r.g.e@newmail.ru
+    subject: Страшно было... а потом ничего, атмосфера расположила
+    deleted: false

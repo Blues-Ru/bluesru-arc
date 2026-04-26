@@ -1,0 +1,25 @@
+topic_id: 2573
+slug: topic-2573
+title: мы сегодня играем в новом для нас месте
+first_post: 2005-05-13 06:48
+last_post: 2005-05-14 15:30
+post_count: 2
+posts:
+- id: 21458
+  parent_id: null
+  date: 2005-05-13 06:48
+  poster: Дима Казанцев (Dr. Nick)
+  email: dr.nick@blues.ru
+  subject: мы сегодня играем в новом для нас месте
+  deleted: false
+  text: 'приходите в гости!
+
+    http://www.livejournal.com/community/ru_blues/124312.html?mode=reply'
+  replies:
+  - id: 21466
+    parent_id: 21458
+    date: 2005-05-14 15:30
+    poster: Старый майор
+    email: gypsy@mail.ru
+    subject: на новом месте приснись жених невесте
+    deleted: false

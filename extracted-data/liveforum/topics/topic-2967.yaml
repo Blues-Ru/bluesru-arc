@@ -1,0 +1,59 @@
+topic_id: 2967
+slug: topic-2967
+title: Paul Lamb!!!
+first_post: 2005-12-02 02:02
+last_post: 2005-12-05 01:53
+post_count: 6
+posts:
+- id: 24827
+  parent_id: null
+  date: 2005-12-02 02:02
+  poster: Федор Романенко (fedor)
+  email: fedor@blues.ru
+  subject: Paul Lamb!!!
+  deleted: false
+  text: Обалденно, лучший состав, пожалуй, ураган и пр.! Протрясли Форте, будь здоров.
+  replies:
+  - id: 24829
+    parent_id: 24827
+    date: 2005-12-02 10:08
+    poster: Владимир Русинов (BluesCat)
+    email: volodya@blues.ru
+    subject: да... невероятно круто было
+    deleted: false
+    replies:
+    - id: 24845
+      parent_id: 24829
+      date: 2005-12-03 13:26
+      poster: Валентин
+      email: voshalb@rambler.ru
+      subject: А скока билеты-то стоили???
+      deleted: false
+      text: Колитесь...)))
+      replies:
+      - id: 24846
+        parent_id: 24845
+        date: 2005-12-03 17:02
+        poster: Владимир Русинов (BluesCat)
+        email: volodya@blues.ru
+        subject: 1500р
+        deleted: false
+        text: но это был единственный полноценный концерт Лемба тут. :) в ЦДХ то будет
+          только один сет.
+        replies:
+        - id: 24849
+          parent_id: 24846
+          date: 2005-12-05 01:39
+          poster: Валентин
+          email: voshalb@rambler.ru
+          subject: No comments...
+          deleted: false
+          text: Чо-то вообще...цена явно   не    блюзовая)))
+          replies:
+          - id: 24850
+            parent_id: 24849
+            date: 2005-12-05 01:53
+            poster: Владимир Русинов (BluesCat)
+            email: volodya@blues.ru
+            subject: цена как в норвегии на блюз фесте ;)
+            deleted: false

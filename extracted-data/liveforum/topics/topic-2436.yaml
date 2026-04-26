@@ -1,0 +1,92 @@
+topic_id: 2436
+slug: topic-2436
+title: был такой фильм
+first_post: 2005-02-17 19:34
+last_post: 2005-02-18 11:43
+post_count: 8
+posts:
+- id: 20493
+  parent_id: null
+  date: 2005-02-17 19:34
+  poster: s.g.
+  email: sergey@freemail.hu
+  subject: был такой фильм
+  deleted: false
+  text: People, кто помнит название фильма про молодого парнишку, который учился на
+    классической гитаре, но при этом постоянно косил в сторону джаза, а потом вместе
+    со стариком-негром отправился на Юг, к истокам джаза... Там этот старикашка еще
+    трейн на губной гармошке демонстрирует. В конце фильма парнишка на ринге соревнуется
+    с одним гитаристом и делает его. Как фильм-то назывался, помнит кто?
+  replies:
+  - id: 20495
+    parent_id: 20493
+    date: 2005-02-17 19:51
+    poster: Aleksei Denisoff (KotMatraskin)
+    email: kotmatrs@mail.ru
+    subject: Да, да!
+    deleted: false
+    text: "Да, да! Авиатр! Или Авиатор. В Финале еще звучит такая песня - Селин Дион\
+      \ поет, и корабль плывет. Или тонет. Не помню точно. Вроде - Боба Фосса фильм.\
+      \ И у него что то там со здоровьем. \nТолько учился он не на гитаре. А на скрипке.\
+      \ И не негр там был,Латинос, которого играл Джекки Чан. А вместо гитары, он\
+      \ пулемет носил и из него всех косил."
+  - id: 20496
+    parent_id: 20493
+    date: 2005-02-17 20:10
+    poster: Федор Романенко (fedor)
+    email: fedor@blues.ru
+    subject: Перекресток ;)
+    deleted: false
+    replies:
+    - id: 20497
+      parent_id: 20496
+      date: 2005-02-17 20:22
+      poster: s.g.
+      email: sergey@freemail.hu
+      subject: Точно, Crossroads - спасибо!
+      deleted: false
+      text: 'Точно! Crossroads, режиссер Walter Hill, 1986 г.
+
+        Есть рецензия на www.guitar.ru/review/video/crossroads/
+
+        Спасибо, Федор Романенко!'
+    - id: 20498
+      parent_id: 20496
+      date: 2005-02-17 23:02
+      poster: Andrei V. Evdokimov (evdokimov)
+      email: evdokimov@blues.ru
+      subject: в форуме нужен дежурный ответ на дежурный вопрос =)
+      deleted: false
+      text: '? А что за фильм...
+
+        ! Кроссроудз'
+      replies:
+      - id: 20499
+        parent_id: 20498
+        date: 2005-02-17 23:51
+        poster: Федор Романенко (fedor)
+        email: fedor@blues.ru
+        subject: Дежурный ответ ;)
+        deleted: false
+        text: Такой же был ответ две темы назад на вопрос, какого блюза послушать,
+          кроме Хендрикса? Кроссроадз! ;))
+        replies:
+        - id: 20504
+          parent_id: 20499
+          date: 2005-02-18 10:49
+          poster: (White Rabbit)
+          email: zooko8@mail.ru
+          subject: не было такого ответа
+          deleted: false
+          text: был другой.. хороший.
+        - id: 20507
+          parent_id: 20499
+          date: 2005-02-18 11:43
+          poster: Elicaster
+          email: elicaster(@)))mmmmmmmmmmail.ru
+          subject: Дежурное пояснение :o)
+          deleted: false
+          text: 'Не путать с фильмом Перекресток с участием Бритни Спирз (это не щютка).
+
+            Также не рекомендуется смотреть российский фильм Перекресток с участием
+            Ярмольника (в фильме звучат(-ит) песни(-ня) Макаревича)'

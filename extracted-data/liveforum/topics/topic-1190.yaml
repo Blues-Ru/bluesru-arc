@@ -1,0 +1,55 @@
+topic_id: 1190
+slug: topic-1190
+title: Big Blues Revival (СПб)
+first_post: 2003-05-28 17:04
+last_post: 2003-05-28 19:04
+post_count: 5
+posts:
+- id: 12823
+  parent_id: null
+  date: 2003-05-28 17:04
+  poster: Andrei V. Evdokimov (evdokimov)
+  email: evdokimov@blues.ru
+  subject: Big Blues Revival (СПб)
+  deleted: false
+  text: "играют сегодня в Последних деньгах. \nподробности на морде лица сайта"
+  replies:
+  - id: 12824
+    parent_id: 12823
+    date: 2003-05-28 17:07
+    poster: Алексей Аграновский (Док)
+    email: aaa@genebee.msu.su
+    subject: А почему число вчерашнее?
+    deleted: false
+    text: 27-го я дома сказал, что буду в Би-2. И вроде был...
+    replies:
+    - id: 12825
+      parent_id: 12824
+      date: 2003-05-28 17:26
+      poster: Дмитрий Кумченко (Kumchenko)
+      email: kumchenko@mail.ru
+      subject: Позвонил в ПД - сказали, что BBR выступают 29-го  [-]
+      deleted: false
+      text: '-'
+  - id: 12827
+    parent_id: 12823
+    date: 2003-05-28 18:04
+    poster: Andrei V. Evdokimov (evdokimov)
+    email: evdokimov@blues.ru
+    subject: доктор, спасибо за сочувствие :)
+    deleted: false
+    text: 'что касается, ПД, то Вам еще повезло.
+
+      Когда я туда позвонил, мне сказали, что я очень невовремя, потому что у них
+      идут поминки.
+
+      юмор чёоооорный.'
+    replies:
+    - id: 12833
+      parent_id: 12827
+      date: 2003-05-28 19:04
+      poster: Алексей Аграновский (Док)
+      email: aaa@genebee.msu.su
+      subject: Поминки по Финегану
+      deleted: false
+      text: Мы с Де Блюз Спиннерс все-таки завтра играем в ПД - сейчас подтвердилось.

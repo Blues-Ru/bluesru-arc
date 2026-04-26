@@ -1,0 +1,35 @@
+topic_id: 4518
+slug: topic-4518
+title: Народ...А что, Гари Мур умер???
+first_post: 2011-02-06 22:31
+last_post: 2011-02-07 20:11
+post_count: 3
+posts:
+- id: 37312
+  parent_id: null
+  date: 2011-02-06 22:31
+  poster: Валентин Балашов
+  subject: Народ...А что, Гари Мур умер???
+  deleted: false
+  text: ведь молодой...блин...
+  replies:
+  - id: 37313
+    parent_id: 37312
+    date: 2011-02-06 23:16
+    poster: Дмитрий Мейсигов
+    subject: '...'
+    deleted: false
+    text: 'http://www.bbc.co.uk/russian/entertainment/2011/02/110206_gary_moore_dies.shtml
+
+
+      Упокой, Господи, душу его..'
+  - id: 37314
+    parent_id: 37312
+    date: 2011-02-07 20:11
+    poster: Эльдар
+    subject: passed away
+    deleted: false
+    text: "http://www.gary-moore.com/ \nIt is with deep sorrow and regret, that we\
+      \ have to announce that Gary Moore passed away while on holiday in Spain last\
+      \ night. \nOur thoughts are with his children, family and friends at this sad\
+      \ time. \nGary Moore, RIP\n1952-2011"

@@ -1,0 +1,33 @@
+topic_id: 990
+slug: topic-990
+title: Пафос
+first_post: 2002-04-02 15:55
+last_post: 2002-04-02 17:34
+post_count: 3
+posts:
+- id: 3248
+  parent_id: null
+  date: 2002-04-02 15:55
+  poster: Ильницкий
+  email: ev-il@mail.ru
+  subject: Пафос
+  deleted: false
+  text: что то блюзмены стали такими пафосными, куда деваться
+  replies:
+  - id: 3260
+    parent_id: 3248
+    date: 2002-04-02 17:33
+    poster: Петр Кунарев (Eastwood2002)
+    email: cousins@yandex.ru
+    subject: Мнение
+    deleted: false
+    text: Беда всякой более или менее закрытой "касты"...Часто приводит от самосозерцания
+      к самовырождению ;))))
+  - id: 3261
+    parent_id: 3248
+    date: 2002-04-02 17:34
+    poster: Петр Кунарев (Eastwood2002)
+    email: cousins@yandex.ru
+    subject: Как грится
+    deleted: false
+    text: Как грится, будь проще и к тебе потянутся ;)))))

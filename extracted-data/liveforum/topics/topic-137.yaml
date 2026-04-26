@@ -1,0 +1,105 @@
+topic_id: 137
+slug: topic-137
+title: Есчо раз про Рому.
+first_post: 2002-04-02 10:04
+last_post: 2002-04-02 20:16
+post_count: 8
+posts:
+- id: 3182
+  parent_id: null
+  date: 2002-04-02 10:04
+  poster: John
+  email: ssy@ac.com.ru
+  subject: Есчо раз про Рому.
+  deleted: false
+  text: 'Очень рад за Рому, что он едет в арабские эмираты, мне же он вчера, позвонив
+    в 23-00, сообщил совсем другое. В одном из постингов я написал, что Рома был пьяный,
+    чем обидел его и его супругу, так как Рома практически не пьёт. Масса роминых
+    доброжелателей тут же сообщила ему об этом (сообщив при этом мой телефон). Публично
+    опровергаю своё заявление, о том, что Рома был пьяный - пьяный был я ( очень уж
+    люблю это состояние тела), РОМА БЫЛ ТРЕЗВЫЙ. Роме и его супруге приношу сильнейшие
+    извинения.
+
+    Ромины доброжелатели, надеюсь эта информация поступит к Гегарту так же быстро.
+
+    Ё-моё, страна сексотов, теперь интернетных.'
+  replies:
+  - id: 3185
+    parent_id: 3182
+    date: 2002-04-02 10:14
+    poster: Дима Казанцев (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: Fucking guys, John!
+    deleted: false
+    text: Yeah, you're right! This country is fucked up! Bunch of stupid arseholes!
+      You're good, pal :)
+    replies:
+    - id: 3204
+      parent_id: 3185
+      date: 2002-04-02 12:20
+      poster: Андрей Цыганков (gypsy)
+      email: gypsy@mail.ru
+      subject: Дима, я правильно понимаю, что у тебя наличествует самоирония в отношении
+        своего английского?
+      deleted: false
+      text: Так же как у нормального российского блюзмена присутствует самоирония
+        в отношении своего понимания блюза. Зачем нам пафос?
+      replies:
+      - id: 3209
+        parent_id: 3204
+        date: 2002-04-02 12:28
+        poster: Дима Казанцев (Dr. Nick)
+        email: dr.nick@blues.ru
+        subject: Yes you're right :)
+        deleted: false
+        text: Do you like Zappa? I do!
+        replies:
+        - id: 3215
+          parent_id: 3209
+          date: 2002-04-02 12:46
+          poster: Андрей Цыганков (gypsy)
+          email: gypsy@mail.ru
+          subject: So do I !
+          deleted: false
+          text: 'While dropping off to sleep I used to murmur "Don''t Eat The Yellow
+            Snow" :)
+
+
+            BTW what the hell you mention Zappa??? As an example of a self-irony guy?'
+  - id: 3191
+    parent_id: 3182
+    date: 2002-04-02 10:51
+    poster: vr  (Stone Crazy)
+    email: volodya@blues.ru
+    subject: способ научиться политкорректности
+    deleted: false
+    text: 'чуствовать себя свободным сказать одно и тоже, как за глаза, так и в глаза.
+      тогда никакие "доброжелатели" не страшны. впрочем говорить о ком либо в надежде
+      сам объект не узнает  - так это ничем не лучше "доброжелательства", особенно
+      если мнение высказывается в  публичном месте.
+
+
+      обычно это ошибка молодых критиков, которые еще не встречались со своими объектами
+      лично... хотя бывают и другие случаи - более тяжелые.
+
+      что гоовриться - плавали знаем :)))'
+  - id: 3264
+    parent_id: 3182
+    date: 2002-04-02 17:52
+    poster: Grey Wolf
+    email: Harmonica@blues.ru
+    subject: Рома тот еще кадр и очень обидчивый
+    deleted: false
+    text: "Мне он вчера позвонил вообще в пол-первого и около часа жаловался как его\
+      \ \"в интернете обижают\"... \nВпечатлительный он очень. :-) \nВы с ним поосторожнее\
+      \ :-)"
+    replies:
+    - id: 3276
+      parent_id: 3264
+      date: 2002-04-02 20:16
+      poster: AlexIV
+      email: evergreens@mail.ru
+      subject: Насколько я понимаю
+      deleted: false
+      text: Рома сам форум не читает, а информацию ему передают, мягко говоря, не
+        совсем точно :-) Испорченный телефон, короче...

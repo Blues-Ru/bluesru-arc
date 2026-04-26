@@ -1,0 +1,69 @@
+topic_id: 338
+slug: topic-338
+title: ЯМАХА SBH-400 XOРОШАЯ ГИТАРА,?
+first_post: 2002-09-19 11:08
+last_post: 2002-09-19 15:59
+post_count: 7
+posts:
+- id: 7522
+  parent_id: null
+  date: 2002-09-19 11:08
+  poster: ДАНИЛА
+  email: danilitch@mail.ru
+  subject: ЯМАХА SBH-400 XOРОШАЯ ГИТАРА,?
+  deleted: false
+  text: СОВСЕМ НЕДАВНО КУПИЛ В КОМКЕ,А ОПРАВДЫВАЕТ ЛИ ОНА СВОЮ ЦЕНУ?
+  replies:
+  - id: 7523
+    parent_id: 7522
+    date: 2002-09-19 13:15
+    poster: Алексей Аграновский (Док)
+    email: aaa@genebee.msu.su
+    subject: Хороших и плохих гитар не бывает
+    deleted: false
+    text: а чего заглавными буквами-то? До завтра можешь обратно в прикуп снести?
+    replies:
+    - id: 7526
+      parent_id: 7523
+      date: 2002-09-19 14:41
+      poster: Дима Казанцев (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: Когда
+      deleted: false
+      text: в преф-то будем играть? Я страшно соскучился по старым временам преферансно-водочных
+        заседаний ;)
+      replies:
+      - id: 7527
+        parent_id: 7526
+        date: 2002-09-19 14:47
+        poster: Алексей Аграновский (Док)
+        email: aaa@genebee.msu.su
+        subject: I'm Sittin' off Top of the World
+        deleted: false
+        text: Сейчас нас отседова попросят! Но ты прав - надо. Тысячу лет уже не брал
+          в руки, кроме как в качестве джем-талонов на пиво...
+        replies:
+        - id: 7528
+          parent_id: 7527
+          date: 2002-09-19 15:59
+          poster: Дима Казанцев (Dr. Nick)
+          email: dr.nick@blues.ru
+          subject: А пора бы
+          deleted: false
+          text: снова вспомнить про полковника-суку, что пасовал при трех тузах. И
+            про "будем посмотреть".
+  - id: 7524
+    parent_id: 7522
+    date: 2002-09-19 14:27
+    poster: Дед Прохор
+    email: Старгород@до-востребования
+    subject: Кому-то и кобыла - невеста, а ямаха - гитара
+    deleted: false
+    text: .
+  - id: 7525
+    parent_id: 7522
+    date: 2002-09-19 14:40
+    poster: Дима Казанцев (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: А какая цена-то?
+    deleted: false

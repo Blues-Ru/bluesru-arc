@@ -1,0 +1,32 @@
+topic_id: 3662
+slug: topic-3662
+title: Be famous blues
+first_post: 2007-06-22 18:06
+last_post: 2007-06-29 22:18
+post_count: 3
+posts:
+- id: 33097
+  parent_id: null
+  date: 2007-06-22 18:06
+  poster: Игорь
+  email: paul@ultranet.ru
+  subject: Be famous blues
+  deleted: false
+  text: Здравствуйте. Скажите, состоится ли в этом году фестиваль Be famous blues
+    в парке Лефортово ?
+  replies:
+  - id: 33099
+    parent_id: 33097
+    date: 2007-06-23 17:07
+    poster: Dmitri Kazantsev (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: говорят, что будет
+    deleted: false
+  - id: 33119
+    parent_id: 33097
+    date: 2007-06-29 22:18
+    poster: Axle
+    email: fglwekg@jfg.ru
+    subject: 11 августа
+    deleted: false
+    text: '"IV Московский Международный Фестиваль Блюза" называется'

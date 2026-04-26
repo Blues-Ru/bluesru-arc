@@ -1,0 +1,51 @@
+A:hover {
+	COLOR: #a3001d
+}
+A.MainMenu {
+	FONT-WEIGHT: bold; FONT-SIZE: medium; COLOR: #ffffff; TEXT-INDENT: 5pt; FONT-FAMILY: Georgia; TEXT-DECORATION: none
+; font-style: normal; line-height: normal
+}
+A.MainMenu:hover {
+	COLOR: #00ff66; TEXT-DECORATION: none
+}
+A.TopSubMenu {
+	COLOR: #ffffff; TEXT-DECORATION: none
+}
+A.TopSubMenu:hover {
+	COLOR: #ffffff; TEXT-DECORATION: none
+}
+A.SubMenuLink {
+	COLOR: #ffffff; TEXT-DECORATION: none
+}
+A.SubMenuLink:hover {
+	COLOR: #080d46; TEXT-DECORATION: none
+}
+A.QuickMenuLink {
+	FONT-WEIGHT: normal; COLOR: #ff0000; TEXT-DECORATION: none
+; font-family: Georgia; font-size: small
+}
+A.QuickMenuLink:hover {
+	COLOR: #ffffff; TEXT-DECORATION: none
+}
+A.BottomBar {
+	COLOR: #a3001d; TEXT-DECORATION: none
+}
+A.BottomBar:hover {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+.News_Top {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; PADDING-BOTTOM: 2px; COLOR: #00ffcc; PADDING-TOP: 2px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #000066; TEXT-ALIGN: center; TEXT-DECORATION: none
+}
+.news_date {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #ffffff; TEXT-INDENT: 10pt; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #ff0000
+}
+.QuickMenu {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; FONT-WEIGHT: normal; FONT-SIZE: 10px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.BodyText {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.White_Body {
+	FONT-WEIGHT: normal; FONT-SIZE: 10px; COLOR: #ffffff; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.unnamed1 {  font-family: "Times New Roman", Times, serif; color: #FFFFFF}

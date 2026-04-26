@@ -1,0 +1,33 @@
+topic_id: 2259
+slug: topic-2259
+title: Немного фоток с SRV-50 в  B.B.King :)
+first_post: 2004-10-06 12:49
+last_post: 2004-10-09 00:27
+post_count: 3
+posts:
+- id: 19406
+  parent_id: null
+  date: 2004-10-06 12:49
+  poster: vr  (Stone Crazy)
+  email: volodya@blues.ru
+  subject: Немного фоток с SRV-50 в  B.B.King :)
+  deleted: false
+  text: <A HREF="http://www.bluescats.ru/files/20041003.srv"> http://www.bluescats.ru/files/20041003.srv
+    </A>
+  replies:
+  - id: 19422
+    parent_id: 19406
+    date: 2004-10-07 17:21
+    poster: Старый Майор
+    email: gypsy@mail.ru
+    subject: Эх, жаль, меня не было...  (((
+    deleted: false
+    replies:
+    - id: 19438
+      parent_id: 19422
+      date: 2004-10-09 00:27
+      poster: er
+      email: erwe@dd.frt
+      subject: Wish I were there
+      deleted: false
+      text: Эх, жаль, меня не было=Wish I were there

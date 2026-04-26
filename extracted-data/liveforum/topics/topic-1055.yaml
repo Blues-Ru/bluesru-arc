@@ -1,0 +1,49 @@
+topic_id: 1055
+slug: topic-1055
+title: Поздравляю всех с Днем рождения Н.Арутюнова!
+first_post: 2002-04-11 11:23
+last_post: 2002-04-11 14:10
+post_count: 4
+posts:
+- id: 3628
+  parent_id: null
+  date: 2002-04-11 11:23
+  poster: Казачков
+  email: kazachkov@medsi.ru
+  subject: Поздравляю всех с Днем рождения Н.Арутюнова!
+  deleted: false
+  replies:
+  - id: 3631
+    parent_id: 3628
+    date: 2002-04-11 12:34
+    poster: Алексей Аграновский (Док)
+    email: aaa@genebee.msu.su
+    subject: Раз пошла такая пьянка
+    deleted: false
+    text: 'Позвольте также поздравить всех с днем рождения исполнителей блюза, известных
+      менее, чем Коля, но все же:
+
+
+      John Lee Granderson (1913)
+
+
+      Robert Lee "R.L." Fox (1921)
+
+
+      Luther "Guitar Jr." Johnson (1939)'
+  - id: 3633
+    parent_id: 3628
+    date: 2002-04-11 13:18
+    poster: Дима Казанцев (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: А ты где прячешься-то?
+    deleted: false
+    text: Мы тут как-то джемовали, а тебя не было.
+  - id: 3635
+    parent_id: 3628
+    date: 2002-04-11 14:10
+    poster: Костин Владимир (Volk)
+    email: volk21@land.ru
+    subject: Хочу присоединиться....
+    deleted: false
+    text: мне нравится как он поет

@@ -1,0 +1,46 @@
+path: puppy/content
+type: lightroom
+title: null
+date: null
+photo_count: 11
+captioned: 0
+index_files: null
+extra_text: null
+photos:
+- file: nib/puppy1.jpg
+  thumb: nib/images/thumb/puppy1.jpg
+  page_html: puppy1_large.html
+- file: nib/puppy2.jpg
+  thumb: nib/images/thumb/puppy2.jpg
+  page_html: puppy2_large.html
+- file: nib/puppy3.jpg
+  thumb: nib/images/thumb/puppy3.jpg
+  page_html: puppy3_large.html
+- file: nib/puppy4.jpg
+  thumb: nib/images/thumb/puppy4.jpg
+  page_html: puppy4_large.html
+- file: nib/puppy5.jpg
+  thumb: nib/images/thumb/puppy5.jpg
+  page_html: puppy5_large.html
+- file: nib/puppy6.jpg
+  thumb: nib/images/thumb/puppy6.jpg
+  page_html: puppy6_large.html
+- file: nib/puppy6a.jpg
+  thumb: nib/images/thumb/puppy6a.jpg
+  page_html: puppy6a_large.html
+- file: nib/puppy7.jpg
+  thumb: nib/images/thumb/puppy7.jpg
+  page_html: puppy7_large.html
+- file: nib/puppy8.jpg
+  thumb: nib/images/thumb/puppy8.jpg
+  page_html: puppy8_large.html
+- file: nib/puppy99.jpg
+  thumb: nib/images/thumb/puppy99.jpg
+  page_html: puppy99_large.html
+- file: nib/puppy9.jpg
+  thumb: nib/images/thumb/puppy9.jpg
+  page_html: puppy9_large.html
+canonical_date: '2007'
+clean_title: Puppy — галерея
+slug: puppy-gallery
+description: Фотогалерея.

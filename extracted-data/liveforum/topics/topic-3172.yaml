@@ -1,0 +1,24 @@
+topic_id: 3172
+slug: topic-3172
+title: The Blues I Love...
+first_post: 2006-03-22 19:00
+last_post: 2006-03-23 20:08
+post_count: 2
+posts:
+- id: 26740
+  parent_id: null
+  date: 2006-03-22 19:00
+  poster: Старый Майор
+  email: gypsy@mail.ru
+  subject: The Blues I Love...
+  deleted: false
+  text: http://gypsy.bluesman.ru/1/charles%20brown/Charles%20Brown_Honey%20Dripper%20-%2001%20-%20News%20All%20Over%20Town.mp3
+  replies:
+  - id: 26772
+    parent_id: 26740
+    date: 2006-03-23 20:08
+    poster: Игорь Головачев (Игорь Г.)
+    email: sunny_city@mail.ru
+    subject: Оч.хор.
+    deleted: false
+    text: Очень хорошая вещица.Главное - ничего лишнего!!! Уважил!

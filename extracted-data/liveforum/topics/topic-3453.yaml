@@ -1,0 +1,55 @@
+topic_id: 3453
+slug: topic-3453
+title: Ритм-н-блюз кафе опять открывается!
+first_post: 2006-10-18 22:25
+last_post: 2006-10-23 22:55
+post_count: 5
+posts:
+- id: 29132
+  parent_id: null
+  date: 2006-10-18 22:25
+  poster: Юрий Кривошеин (YuK)
+  email: scolder@blues.ru
+  subject: Ритм-н-блюз кафе опять открывается!
+  deleted: false
+  text: В связи с чем всех поздравляем и приглашаем в эту субботу, 21 октября, в 21:00
+    на наше выступление. Scolder Blues.
+  replies:
+  - id: 29142
+    parent_id: 29132
+    date: 2006-10-20 21:24
+    poster: arbuz
+    email: mister-hipster@yandex.ru
+    subject: Сомневаюсь что это подходящий повод для поздравлений..
+    deleted: false
+    text: Сомневаюсь что это подходящий повод для поздравлений..
+    replies:
+    - id: 29153
+      parent_id: 29142
+      date: 2006-10-22 23:43
+      poster: Юрий Кривошеин (YuK)
+      email: scolder@blues.ru
+      subject: Отбросьте все сомнения!
+      deleted: false
+      text: Чем больше хороших клубов у нас будет функционировать, тем лучше будет
+        всем.
+      replies:
+      - id: 29156
+        parent_id: 29153
+        date: 2006-10-23 20:59
+        poster: Старый Майор
+        email: gypsy@mail.ru
+        subject: Юра, а зачем ты ко мне в аську стучался?
+        deleted: false
+        text: '...с многозначительным "Доообрый вееечер"?
+
+
+          Дело было или просто так?'
+        replies:
+        - id: 29157
+          parent_id: 29156
+          date: 2006-10-23 22:55
+          poster: Юрий Кривошеин (YuK)
+          email: scolder@blues.ru
+          subject: Ответил в аське (-)
+          deleted: false

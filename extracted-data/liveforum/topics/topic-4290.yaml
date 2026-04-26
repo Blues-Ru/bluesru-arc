@@ -1,0 +1,31 @@
+topic_id: 4290
+slug: topic-4290
+title: bluesnews.ru
+first_post: 2009-09-13 16:14
+last_post: 2009-09-13 16:16
+post_count: 2
+posts:
+- id: 36568
+  parent_id: null
+  date: 2009-09-13 16:14
+  poster: Федор Романенко
+  subject: bluesnews.ru
+  deleted: false
+  text: 'А кто знает, что с ним случилось?
+
+
+    http://www.bluesnews.ru/
+
+
+    Работа сервера остановлена
+
+    Обратитесь в службу поддержки.'
+  replies:
+  - id: 36569
+    parent_id: 36568
+    date: 2009-09-13 16:16
+    poster: Владимир Русинов
+    subject: просто хостинг приостановлен.
+    deleted: false
+    text: Если интересно - можно обратиться ко мне - я выдам бесплатный надежный хостинг
+      под этот проект и с огромным удовольствием :)

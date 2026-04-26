@@ -1,0 +1,91 @@
+topic_id: 778
+slug: topic-778
+title: Nina Simone....... :(((
+first_post: 2003-04-22 11:11
+last_post: 2003-04-23 01:12
+post_count: 8
+posts:
+- id: 11959
+  parent_id: null
+  date: 2003-04-22 11:11
+  poster: Greta
+  email: morehemp@mail.ru
+  subject: Nina Simone....... :(((
+  deleted: false
+  text: http://www.rambler.ru/db/news/msg.html?mid=3381615&s=260004288
+  replies:
+  - id: 11960
+    parent_id: 11959
+    date: 2003-04-22 11:15
+    poster: Дима Казанцев (Казан)
+    email: dr.nick@blues.ru
+    subject: Очень жаль...
+    deleted: false
+    replies:
+    - id: 11962
+      parent_id: 11960
+      date: 2003-04-22 11:23
+      poster: Юрий Каверкин
+      email: kaverkin@rol.ru
+      subject: Только недавно радовался, что она еще жива и по слухам должна была
+        приехать в Москву....
+      deleted: false
+      replies:
+      - id: 11963
+        parent_id: 11962
+        date: 2003-04-22 11:34
+        poster: Greta
+        email: morehemp@mail.ru
+        subject: увы..
+        deleted: false
+        text: жизнь непредсказуема..
+        replies:
+        - id: 11964
+          parent_id: 11963
+          date: 2003-04-22 11:48
+          poster: Grem
+          email: grems@yandex.ru
+          subject: А еще и Earl King...
+          deleted: false
+          text: 'Уф, как жаль... (-)
+
+            А еще и Earl King, это который Hendrix "Come on (Let the good time roll)"
+            (----)'
+  - id: 11966
+    parent_id: 11959
+    date: 2003-04-22 12:43
+    poster: Алексей Аграновский (Док)
+    email: aaa@genebee.msu.su
+    subject: Царствие небесное ей.
+    deleted: false
+    text: Настоящие шедевры - исполнение Ниной Симон Gimme a Pigfoot, My Babe Don't
+      Care, Willow Weep For Me, Children... перечислять можно бесконечно. Если это
+      джаз, то не скучный; если блюз, просто тушите газ. А красивая какая была покойница.
+      Это просто совершенство было.
+    replies:
+    - id: 11987
+      parent_id: 11966
+      date: 2003-04-23 01:12
+      poster: Жук
+      email: psihu@pisem.net
+      subject: А какая пианистка...
+      deleted: false
+      text: 'я всё мучался - кто ж у ней такой аккомпаниатор?
+
+        а это она сама...
+
+        она вообще на академпианистку училась - это в кабаке ей петь велели.
+
+        I`m feeling good
+
+        I put a spell on you
+
+        Lilac Wine...'
+  - id: 11973
+    parent_id: 11959
+    date: 2003-04-22 15:17
+    poster: Старый Майор
+    email: gypsy@mail.ru
+    subject: Немного файлов... по моему личному выбору...
+    deleted: false
+    text: http://greta.bluesman.ru/NinaSimone/

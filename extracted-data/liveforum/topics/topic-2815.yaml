@@ -1,0 +1,36 @@
+topic_id: 2815
+slug: topic-2815
+title: Скачал офигенный фильм!
+first_post: 2005-09-26 19:02
+last_post: 2005-09-28 22:21
+post_count: 3
+posts:
+- id: 23403
+  parent_id: null
+  date: 2005-09-26 19:02
+  poster: Дмитрий Казанцев (Dr. Nick)
+  email: dr.nick@blues.ru
+  subject: Скачал офигенный фильм!
+  deleted: false
+  text: 'http://www.allmovie.com/cg/avg.dll?p=avg&sql=1:291860
+
+
+    Надо искать ДВД!'
+  replies:
+  - id: 23458
+    parent_id: 23403
+    date: 2005-09-28 20:11
+    poster: Павел Семилетков (stratman)
+    email: magazine84@mail.ru
+    subject: Дима а как его скачивать?
+    deleted: false
+    text: Дима будь добр скажи как его можно скачать?
+    replies:
+    - id: 23460
+      parent_id: 23458
+      date: 2005-09-28 22:21
+      poster: Дмитрий Казанцев (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: сложно это
+      deleted: false
+      text: я скачал на сайте www.demonoid.com (там много чего есть)

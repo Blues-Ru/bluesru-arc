@@ -1,0 +1,57 @@
+topic_id: 2739
+slug: topic-2739
+title: А Вы уже слышали
+first_post: 2005-09-02 15:01
+last_post: 2005-09-02 22:00
+post_count: 5
+posts:
+- id: 22650
+  parent_id: null
+  date: 2005-09-02 15:01
+  poster: Дмитрий Казанцев (Dr. Nick)
+  email: dr.nick@blues.ru
+  subject: А Вы уже слышали
+  deleted: false
+  text: новое безобразие от Эрика Клэптона?
+  replies:
+  - id: 22654
+    parent_id: 22650
+    date: 2005-09-02 17:04
+    poster: Дмитрий(фан)
+    email: leonidovd@mail.ru
+    subject: Неа...
+    deleted: false
+    text: А што у него там?
+    replies:
+    - id: 22657
+      parent_id: 22654
+      date: 2005-09-02 17:54
+      poster: Дмитрий Казанцев (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: ооо... у него там такое...
+      deleted: false
+      text: соул-поп с жутким продюсером.
+      replies:
+      - id: 22665
+        parent_id: 22657
+        date: 2005-09-02 21:23
+        poster: Elicaster
+        email: elicaster(@))mmmmmmmmmail.ru
+        subject: Имена, пароли, факты!!!
+        deleted: false
+        text: 'А хто продюсер-то?
+
+          Дай ссылочку на оллмьюзик, пжлста.'
+        replies:
+        - id: 22670
+          parent_id: 22665
+          date: 2005-09-02 22:00
+          poster: Дмитрий Казанцев (Dr. Nick)
+          email: dr.nick@blues.ru
+          subject: Дык, альбом-то уж вышел 30 августа еще
+          deleted: false
+          text: 'http://www.allmusic.com/cg/amg.dll?p=amg&sql=10:zux8b5c4xsqa
+
+
+            Продюсер Саймон Клайми. Тот самый, что сделал его уродство Pilgrim. Он
+            еще и песни с Эриком пишет. Жуть.'

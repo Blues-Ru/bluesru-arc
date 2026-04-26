@@ -1,0 +1,33 @@
+topic_id: 1242
+slug: topic-1242
+title: Подскажите, please...
+first_post: 2003-07-02 13:58
+last_post: 2003-07-02 15:59
+post_count: 3
+posts:
+- id: 13102
+  parent_id: null
+  date: 2003-07-02 13:58
+  poster: Egor Skorokhodov (String)
+  email: egskor@mail.ru
+  subject: Подскажите, please...
+  deleted: false
+  text: Кто автор и исполнитель(и) основной музыкальной темы фильма "Ва-банк"?
+  replies:
+  - id: 13104
+    parent_id: 13102
+    date: 2003-07-02 15:44
+    poster: (Grem)
+    email: sergei.sergeev@emersonprocess.ru
+    subject: Oops- так это же не блюз....
+    deleted: false
+    text: Музыку к/ф "Ва-Банк" (Ю. Махульского наверное)написал Хенрик Кузняк.
+  - id: 13105
+    parent_id: 13102
+    date: 2003-07-02 15:59
+    poster: Barmaley
+    email: barmaley2k@beep.ru
+    subject: Если речь о польском фильме 81 года,
+    deleted: false
+    text: то композитором там значится Henryk Kuzniak (по данным www.allmovie.com).
+      Если о югославском 93 года, то не знаю.

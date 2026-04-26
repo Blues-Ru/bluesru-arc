@@ -1,0 +1,48 @@
+topic_id: 2015
+slug: topic-2015
+title: Какой такой сякой МакКой?
+first_post: 2002-07-09 19:33
+last_post: 2002-07-10 13:56
+post_count: 3
+posts:
+- id: 5954
+  parent_id: null
+  date: 2002-07-09 19:33
+  poster: Иван Иванов
+  email: ivan@hotmail.com
+  subject: Какой такой сякой МакКой?
+  deleted: false
+  text: 'На Colne R&B фестиваль (The great British R&B festival) приезжает блюз группа
+    из Россий BLUES MOBILE???
+
+    Кто такие? ни где не смог найти инфо.
+
+    Напишите кто знает пожалуиста!'
+  replies:
+  - id: 5955
+    parent_id: 5954
+    date: 2002-07-09 20:58
+    poster: Сергей Иванов (serge_ivanov)
+    email: serge_ivanov@hotmail.com
+    subject: вот о них на сайте LeClub
+    deleted: false
+    text: 'http://www.le-club.ru/rus/viewnews.php4?id=f5dacf5d88e479604e9136a1cb6503aa&PHPSESSID=8805e12007d7dd5a97a1940d1fd8f94e
+
+
+      28 апреля. Ле Клуб и Игорь Бутман представляют: International Blues Jam - группа
+      "BLUES MOBILE BAND" (Грузия), DAVID ROTUNDO and "THE BLUE CANADIANS" (Канада)
+
+
+      Группа из Тбилиси (Грузия) исполняет свою собственную бескомпромиссную версию
+      блюза, базирующуюся на роковом драйве ...
+
+      ну и далее по тексту...'
+    replies:
+    - id: 5981
+      parent_id: 5955
+      date: 2002-07-10 13:56
+      poster: Иван Иванов
+      email: ivan@hotmail.com
+      subject: СПОСИБО СЕРГЕЙ
+      deleted: false
+      text: .

@@ -1,0 +1,26 @@
+topic_id: 1485
+slug: topic-1485
+title: Magic ушли в декретный отпуск, все,..
+first_post: 2003-09-24 02:46
+last_post: 2003-09-24 12:56
+post_count: 2
+posts:
+- id: 14755
+  parent_id: null
+  date: 2003-09-24 02:46
+  poster: Magic
+  email: gruppamagic@narod.ru
+  subject: Magic ушли в декретный отпуск, все,..
+  deleted: false
+  text: 'А также выражаем спасибо А.Аграновскому, что не забыл про нас :))
+
+    Читали мы тут журнал "Итоги"... Неожиданное приятное.'
+  replies:
+  - id: 14759
+    parent_id: 14755
+    date: 2003-09-24 12:56
+    poster: Алексей Аграновский (Док)
+    email: aaa@genebee.msu.su
+    subject: Девушки, до встреч в эфире!
+    deleted: false
+    text: Удачи в до и послеродовой период!

@@ -1,0 +1,70 @@
+topic_id: 1183
+slug: topic-1183
+title: Снова Waits
+first_post: 2003-05-25 22:02
+last_post: 2003-05-26 12:20
+post_count: 5
+posts:
+- id: 12773
+  parent_id: null
+  date: 2003-05-25 22:02
+  poster: Greta
+  email: morehemp@mail.ru
+  subject: Снова Waits
+  deleted: false
+  text: 'Дорогие граждане, может кто-нибудь знает, где взять "Sea Of Love" (Baptiste/Khoury),
+    ту, что пел когда-то Phil Phillips, но в исполнении Тома Уэйтса?
+
+    Нашла только в сети mp3-шку отвратительного качества, а на альбомах она не издавалась.
+
+    Или может кто-нибудь подскажет, как сделать аудио трек с DVD? У меня есть DVD
+    одноименного фильма с Пачино, а эта песня там в титрах..
+
+    Спасибо за любую информацию..'
+  replies:
+  - id: 12777
+    parent_id: 12773
+    date: 2003-05-25 22:35
+    poster: Сергей Иванов (serge_ivanov)
+    email: serge_ivanov@hotmail.com
+    subject: ссылка насчет получение  аудио  с DVD
+    deleted: false
+    text: 'http://www.3dnews.ru/reviews/multimedia/divx-sound
+
+      судя по всему, занятие довольно муторное :-('
+    replies:
+    - id: 12784
+      parent_id: 12777
+      date: 2003-05-26 01:49
+      poster: Greta
+      email: morehemp@mail.ru
+      subject: Спасибо..
+      deleted: false
+      text: сейчас почитаю..
+  - id: 12787
+    parent_id: 12773
+    date: 2003-05-26 11:31
+    poster: shkin
+    email: shkin
+    subject: Почему не издавалась?
+    deleted: false
+    text: 'Вот это?
+
+      http://www.allmusic.com/cg/amg.dll?p=amg&uid=CASS805130014&sql=Aanfqxqe5ldhe
+
+
+      Думаю, что и mp3 приличного качества найти несложно.
+
+      Начать, конечно, надо вот тут: www.raindogftp.com.'
+    replies:
+    - id: 12789
+      parent_id: 12787
+      date: 2003-05-26 12:20
+      poster: Greta
+      email: morehemp@mail.ru
+      subject: ага..
+      deleted: false
+      text: 'вот саундтрек я и забыла посмотреть.. правда, из всего этого саундтрека
+        только Уэйтс и интересует.
+
+        Спасибо за ссылку, поищу.'

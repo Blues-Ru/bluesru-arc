@@ -1,0 +1,45 @@
+topic_id: 5181
+slug: topic-5181
+title: Волнуюсь
+first_post: 2014-05-26 11:23
+last_post: 2014-06-01 17:43
+post_count: 5
+posts:
+- id: 39203
+  parent_id: null
+  date: 2014-05-26 11:23
+  poster: Игорь Головачев
+  subject: Волнуюсь
+  deleted: false
+  text: С главной страницы Blues.ru исчезла афиша "Дома у дороги". Чую недоброе. Кто
+    в курсе расскажите в чем дело.
+  replies:
+  - id: 39204
+    parent_id: 39203
+    date: 2014-05-26 11:57
+    poster: Владимир
+    subject: ДуД
+    deleted: false
+    text: Бар закрылся. Вчера. Все концерты отменили.
+  - id: 39205
+    parent_id: 39203
+    date: 2014-05-27 15:35
+    poster: Andrei V. Evdokimov
+    subject: да вот - коротко и ясно
+    deleted: false
+    text: http://www.blueshouse.ru/
+    replies:
+    - id: 39206
+      parent_id: 39205
+      date: 2014-05-27 18:23
+      poster: Игорь Головачев
+      subject: Всё понятно,
+      deleted: false
+      text: правда "картинка" вчера была чуть иная. Вопросов больше нет.
+  - id: 39211
+    parent_id: 39203
+    date: 2014-06-01 17:43
+    poster: Светлана Мироненко
+    subject: не понятно
+    deleted: false
+    text: так что же все-таки случилось?

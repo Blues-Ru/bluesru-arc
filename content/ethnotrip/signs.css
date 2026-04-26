@@ -1,0 +1,24 @@
+body {background: #fbd39e; scrollbar-arrow-color: #faebd7; scrollbar-3dlight-color: #9A2801; scrollbar-highlight-color: #FE9304; scrollbar-face-color: #b4390e; scrollbar-shadow-color: #9A2801; scrollbar-track-color: #fbd39e; scrollbar-darkshadow-color: #FE9304}
+
+td { font-family: Arial, sans-serif; font-size: 10pt; color: #242424}
+.bottom { font-size: 8pt }
+.bottom_m { font-size: 8pt; color: #697a87 }
+.cit { color:#b4390e; text-align: right } 
+.cit2 { color:#b4390e }
+.lett { color:#b4390e; font-size: 13pt; font-weight:600 }
+.espe { font-size: 13pt; font-family: Arial, sans-serif; color: #004080; font-weight: 600 }
+.espe1 { font-size: 11pt; font-family: Arial, sans-serif; color: #b4390e; font-weight: 600 }
+.cursiv { color: #000000; font-weight: 500 }
+.subtitle { color: #b4390e; font-weight: bold }
+.subtitle2 { color: #e32624; font-weight: bold }
+
+.q { font-family: Tahoma, sans-serif; font-size: 13pt; font-weight: bold }
+
+.first { font-size: 20pt; font-weight: 400 }
+.name{ font-size: 11pt; font-weight: 600; color: #5e1800 }
+a:link {color: #b4390e }
+a:active { color: #ff9900 }
+a:visited { color: #b4390e }
+
+.code a:link { text-decoration: none }
+

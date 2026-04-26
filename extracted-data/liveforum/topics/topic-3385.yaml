@@ -1,0 +1,181 @@
+topic_id: 3385
+slug: topic-3385
+title: Как скачивать с Youtube.com с помощью Mozila Firefox
+first_post: 2006-08-31 07:22
+last_post: 2006-09-04 23:12
+post_count: 12
+posts:
+- id: 28547
+  parent_id: null
+  date: 2006-08-31 07:22
+  poster: Эльдар Музафаров
+  email: elicaster co6@kaмейл-d0t ru
+  subject: Как скачивать с Youtube.com с помощью Mozila Firefox
+  deleted: false
+  text: 'Оффтопик, но крайне полезный.
+
+    http://elicaster.mylj.ru/6618.html
+
+    Браузер Mozila Firefox "рассекречен" тоже:
+
+
+    Download videos from Youtube, Google, Metacafe, iFilm, Dailymotion... and other
+    60+ video sites ! And all embedded objects on a webpage (movies, mp3s, flash,
+    quicktime, etc) ! Directly !
+
+    VideoDownloader 1.0
+
+    https://addons.mozilla.org/firefox/2390/
+
+    http://javimoya.com/blog/youtube_en.php
+
+
+    Загрузчик видеофайлов для Firefox
+
+    http://pda.computerra.ru/?action=article&id=266766
+
+
+    и ещё несколько обсуждений на эту тему:
+
+    http://www.reply.lv/index.php?topic=16578.new
+
+    http://russian-hockey.ru/forum/viewtopic.php?...ight=&sid=f43b40349ef817c6e427c93c853860c1
+
+
+    MPlayer
+
+    http://www.martijndevisser.com/blog/article/flv-player-updated
+
+    Riva FLV Player 1
+
+    http://www.download.com/Riva-FLV-Player/3000-2194_4-10442977.html?tag=lst-0-2'
+  replies:
+  - id: 28548
+    parent_id: 28547
+    date: 2006-08-31 10:07
+    poster: Konstantin  (Wheel)
+    email: wheel.k@gmail.com
+    subject: А есть ли flv-плеер для w98?
+    deleted: false
+    text: 'Если бы еще найти flv-плеер для W98.
+
+      У вас, случайно, нет ссылки на что-то подобное?
+
+      Спасибо.'
+    replies:
+    - id: 28551
+      parent_id: 28548
+      date: 2006-08-31 13:39
+      poster: Эльдар Музафаров
+      email: elicaster co6@kaмейл-d0t ru
+      subject: Riva FLV Player и FLVPlayer
+      deleted: false
+      text: 'Я думаю и оба приведенных выше плейэра: и Riva FLV Player и FLVPlayer
+        будут прекрасно работать под любой операционной системой семества Windows.
+
+        Tckb xnj? nj vyjubt jndtns pltcm^
+
+        http://elicaster.mylj.ru/6618.html'
+      replies:
+      - id: 28560
+        parent_id: 28551
+        date: 2006-09-01 09:29
+        poster: Konstantin  (Wheel)
+        email: wheel.k@gmail.com
+        subject: Спасибо!
+        deleted: false
+        replies:
+        - id: 28566
+          parent_id: 28560
+          date: 2006-09-02 11:07
+          poster: Эльдар Музафаров
+          email: elicaster co6@kaмейл-d0t ru
+          subject: 'Наверное самое простое решение проблемки:'
+          deleted: false
+          text: http://www.blues.ru/forum/?id=46125&page=0&body=1#46125
+  - id: 28552
+    parent_id: 28547
+    date: 2006-08-31 14:05
+    poster: Руслан Чифуров
+    email: chifuroff<sobaka>inbox.ru
+    subject: Вот бы найти ещё бесплатную программу...
+    deleted: false
+    text: для переконвертации в другой формат
+    replies:
+    - id: 28553
+      parent_id: 28552
+      date: 2006-08-31 19:13
+      poster: Эльдар Музафаров
+      email: elicaster co6@kaмейл-d0t ru
+      subject: Есть такая партия!
+      deleted: false
+      text: <a href="http://elicaster.mylj.ru/6618.html">Здесь</a> есть два конвертора
+        flv файлов в другой удобоваримый формат. Они оба бесплатные и оба работают
+        корректно.
+      replies:
+      - id: 28558
+        parent_id: 28553
+        date: 2006-09-01 08:12
+        poster: Руслан Чифуров ()
+        email: chifuroff<sobaka>inbox.ru
+        subject: Спасибо!
+        deleted: false
+        text: Вечером скачаю!
+      - id: 28568
+        parent_id: 28553
+        date: 2006-09-02 18:59
+        poster: Руслан Чифуров ()
+        email: chifuroff@inbox.ru
+        subject: Установил Cinema Forge...
+        deleted: false
+        text: '...- всё конвертирует хорошо! Спасибо!'
+  - id: 28565
+    parent_id: 28547
+    date: 2006-09-02 07:44
+    poster: Эльдар Музафаров
+    email: elicaster co6@kaмейл-d0t ru
+    subject: Просмотр flv файлов в полноэкранном режиме
+    deleted: false
+    text: "У вышеприведенных плейеров есть один недостаток: видео воспроизводится\
+      \ в маленьком окошке, нет возможности воспроизведения на весь экран.\nЯ нашел\
+      \ такое решение этой проблемки:\nСкачал и установил \n<a href=\"http://download.betanews.com/download/945901171/tcmdr655.exe\"\
+      >Total Commander</a> и <a href=\"http://wincmd.ru/files/wlx_swflst_2.0s_.zip\"\
+      >плагин SWF Lister plugin 2.0 for Total Commander</a>\nВ ReadMe файле плагина\
+      \ описано что далеше надо делать.\nПосле несложных процедур мы можем смотреть\
+      \ flv файлы в полноэкранном режиме"
+    replies:
+    - id: 28567
+      parent_id: 28565
+      date: 2006-09-02 17:30
+      poster: Эльдар Музафаров
+      email: elicaster co6@kaмейл-d0t ru
+      subject: Регистрация плагина SWF Lister plugin 2.0
+      deleted: false
+      text: 'Кстати, у плагина SWF Lister plugin 2.0 такая прикольненькая регистрация:
+        надо ввести в Name: xUSSR и жмём OK. далее будет вопросик по математике, ну
+        и усё :-)'
+    - id: 28585
+      parent_id: 28565
+      date: 2006-09-04 23:12
+      poster: Эльдар Музафаров
+      email: elicaster co6@kaмейл-d0t ru
+      subject: 'SWF Lister: совет от автора плагина'
+      deleted: false
+      text: 'В плагине SWF Lister реализован полноэкранный режим (чего нет в вышеназванных
+        плейерах), но вот появился другой момент: несколько мешает трэкбар (кнопки
+        воспр/пауза и вкл/выкл звука). Конечно, он нетрудно исчезает как только увести
+        курсор влево. Но было бы намного удобнее если бы с самого начала запуска он
+        не появлялся бы сам, если бы он вызывался.
+
+        И ещё, было б очень удобно если была б возможность перемотки при воспроизведении
+        *.flv файлов.
+
+        Я спросил об этом автора этого плагина - <a href="http://tcplugs.shuriksoft.com/">Shurik</a>''а.
+        Вот что по этому поводу он сказал: <i>уберите использование скина вообще,
+        для этого в lsplugin.ini (этот файл обычно лежит в корневой папке Total Commander''а)
+        найдите flvSkin=??????.swf  и сотрите этот параметр, а лучше оставить вот
+        так flvSkin=
+
+        По поводу перемотки во время воспроизведения *.flv файлов. Эта возможность
+        зависит от типа flv, если он потоковый то перемотки нет. А вот как раз файлы
+        с youtube в основном потоковые</i>'

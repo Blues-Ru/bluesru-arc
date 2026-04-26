@@ -1,0 +1,88 @@
+topic_id: 3374
+slug: topic-3374
+title: На всякий случай и сюда опровержение по просьбе Саши Братецкого
+first_post: 2006-08-21 12:34
+last_post: 2006-08-25 19:06
+post_count: 9
+posts:
+- id: 28437
+  parent_id: null
+  date: 2006-08-21 12:34
+  poster: Кожекин
+  email: kozhekin@mail.ru
+  subject: На всякий случай и сюда опровержение по просьбе Саши Братецкого
+  deleted: false
+  text: http://forum.harmonica.ru/viewtopic.php?t=123108
+  replies:
+  - id: 28449
+    parent_id: 28437
+    date: 2006-08-24 04:14
+    poster: Федор Романенко (fedor)
+    email: fedor@blues.ru
+    subject: Я тоже!!!
+    deleted: false
+    text: Не буду участвовать в фестивале гармоники в качестве исполнителя!!! Думаю,
+      за оставшееся время вряд ли научусь. Заранее опровергаю свое участие, если кто-то
+      вдруг покусится на использование моего доброго имени в афишах. Это не шутки!!!
+    replies:
+    - id: 28450
+      parent_id: 28449
+      date: 2006-08-24 04:18
+      poster: Старый Майор
+      email: gypsy@mail.ru
+      subject: Паранойя косит наши ряды...
+      deleted: false
+    - id: 28454
+      parent_id: 28449
+      date: 2006-08-24 12:08
+      poster: Dima Krasivov (Dima)
+      email: dima@blues.ru
+      subject: А чего? Слабо?
+      deleted: false
+      text: А то давай! Гармошка -- простой инструмент... Главное подходящую гармошку
+        взять для нужной тональности, а там -- куда ни дунь, везде попадёшь. Останется
+        только сказать, что так было задумано... До фестиваля как раз осилишь... :)
+  - id: 28456
+    parent_id: 28437
+    date: 2006-08-24 13:15
+    poster: Кожекин
+    email: kozhekin@mail.ru
+    subject: А какой у тебя райдер? Может все-таки логоворимся?
+    deleted: false
+    text: http://www.sanchillo.com/orgkon.html#anchor
+    replies:
+    - id: 28474
+      parent_id: 28456
+      date: 2006-08-25 15:36
+      poster: Федор Романенко (fedor)
+      email: fedor@blues.ru
+      subject: Подумаю...
+      deleted: false
+      text: А может как почетный гость? А что мне за это будет?
+    - id: 28479
+      parent_id: 28456
+      date: 2006-08-25 17:39
+      poster: Эльдар Музафаров
+      email: elicaster co6@kaмейл-d0t ru
+      subject: Си Си Райдер
+      deleted: false
+      text: Теперича я знаю о чём пела Мама Рейни...
+      replies:
+      - id: 28481
+        parent_id: 28479
+        date: 2006-08-25 17:46
+        poster: Алексей Аграновский (Док)
+        email: aaa@genebee.msu.su
+        subject: Ну конечно
+        deleted: false
+        text: Она пела о райдере Братецкого. Какое гениальное предвидение!
+        replies:
+        - id: 28484
+          parent_id: 28481
+          date: 2006-08-25 19:06
+          poster: Эльдар Музафаров
+          email: elicaster co6@kaмейл-d0t ru
+          subject: А может...
+          deleted: false
+          text: '? А может о Братеце Райдерского <img src="http://img.otvali.ru/templates/smiley/s16.gif"
+            align="bottom">'

@@ -1,0 +1,43 @@
+topic_id: 4200
+slug: topic-4200
+title: Venues/Festivals
+first_post: 2009-03-13 20:31
+last_post: 2009-03-16 09:50
+post_count: 3
+posts:
+- id: 36224
+  parent_id: null
+  date: 2009-03-13 20:31
+  poster: Dave Fields
+  email: dbfields1@aol.com
+  subject: Venues/Festivals
+  deleted: false
+  text: "Hi-\n\nI'm going to be in Russia in the near future and I would like to get\
+    \ my new CD ALL WOUND UP in the hands of some Russian DJ's. Also I would love\
+    \ to be involved with any festivals or venues in Russia. \n\nMy band consists\
+    \ of \"the Prince of Beale St' and BMA nominated harp phenom Billy Gibson and\
+    \ co-producer of the movie \"Last of The Mississippi Jukes\" Dave Hughes. \n\n\
+    I would appreciate any guidance into who I can contact.\n\nThanks\n\nDave Fields\n\
+    \nwww.davefields.com\nwww.myspace.com/davefieldsmusic"
+  replies:
+  - id: 36225
+    parent_id: 36224
+    date: 2009-03-14 02:00
+    poster: Федор Романенко (fedor)
+    email: fedor@blues.ru
+    subject: Hi!
+    deleted: false
+    text: "Be sure to visit Roadhouse club - the place we all are hanging around.\
+      \ You can leave your CD there, so Andrei Evdokimov will pick it up in case you'll\
+      \ have no chance to meet each other. Let us know when you arrive. \n\nI had\
+      \ a chance to meet Mr.Gibson last summer in Notodden there he was playing with\
+      \ Bill & Alex fra Norway, and you know, these guys are coming next month to\
+      \ Russia. A lot of cool buzz is gonna happen next month here. ;)"
+  - id: 36226
+    parent_id: 36224
+    date: 2009-03-16 09:50
+    poster: Andrei V. Evdokimov (evdokimov)
+    email: evdokimov@blues.ru
+    subject: hi
+    deleted: false
+    text: Welcome!

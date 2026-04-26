@@ -1,0 +1,9 @@
+---
+id: 892
+slug: blyuzovye-novinki-i-pereizdaniya-marta
+title: Блюзовые новинки и переиздания марта
+date: 2011-03-01 22:25
+author: Blues.Ru
+---
+
+<ul type="disk"> <li>100 Years of Robert Johnson by Big Head Blues Club and Big Head Todd & the Monsters </li> <li>Icon by Chuck Berry </li> <li>Girls With Guitars by Samantha Smith, Cassie Taylor & Binnie Wildw</li> <li>Brand New Eyes by Doug Macleod</li> <li>Mr. So Radio by Brown Boy</li> <li>Roots 52 by Nasty Ned</li> <li>London Days by B.B. & The Blues Shaks </li> <li>Alligator Records 40th Anniversary Collection </li> <li>Tough Woman - The Early Recordings 1955-60 [ORIGINAL RECORDINGS REMASTERED] </li> <li>Louisiana Blues by Robert Pete Williams (Vinyl - 2011) </li> <li>Moose on the Loose by Bullmoose Jackson (Vinyl - 2011)</li> <li>The Singles As & Bs 1952-60 [ORIGINAL RECORDINGS REMASTERED] by Little Walter</li> <li>I'm A Man - The Singles As & Bs 1955-59 [ORIGINAL RECORDINGS REMASTERED] by Bo Diddley </li> <li>100 Hits Legends-B.B. King by B.B. King </li> <li>Best of Harvey Mandel </li> <li>13: Featuring Lester Butler </li> <li>King of the Honking Sax by Big Jay McNeely</li> <li>Playful Baby by Wynonie Harris</li> <li>I'm Gonna Push on by Charles Brown (Vinyl - 2011) </li> <li>I Don't Dig It by Big Joe Turner (Vinyl - 2011) </li> <li>His Aladdin Chicken Shackers 1947-57 by Amos Milburn (Vinyl - 2011)</li> <li>You're My Best Poker Hand: Definitive Collection </li> <li>Roadside Attractions by Marcia Ball </li> <li>Lucky Man by Henry Gray </li> <li>Shake Em on Down: Tribute to Mississippi Fred McDowell</li> <li>Blues in Disguise by Tj Nix and Paul Plumeri</li> <li>Lightning Strikes by Sultans of Slide </li> <li>All Original by John Primer</li> <li>Harmonica Globetrotter by Lars-Luis Linek</li> </ul>

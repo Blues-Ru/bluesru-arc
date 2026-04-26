@@ -1,0 +1,34 @@
+topic_id: 3842
+slug: topic-3842
+title: БелГазета пишет о Svet Boogie Band
+first_post: 2007-12-25 17:05
+last_post: 2007-12-25 21:04
+post_count: 3
+posts:
+- id: 34193
+  parent_id: null
+  date: 2007-12-25 17:05
+  poster: Andrei V. Evdokimov (evdokimov)
+  email: evdokimov@blues.ru
+  subject: БелГазета пишет о Svet Boogie Band
+  deleted: false
+  text: <a href="/news/?p=200712&admin=1">http://blues.ru/news/?p=200712&admin=1</a>
+  replies:
+  - id: 34194
+    parent_id: 34193
+    date: 2007-12-25 17:38
+    poster: Andrei V. Evdokimov (evdokimov)
+    email: evdokimov@blues.ru
+    subject: что такое блюз?
+    deleted: false
+    text: '<a href="http://svetboogieband.com/GuestBook.asp" target="_blank">http://svetboogieband.com/GuestBook.asp</a>
+
+      Там одна барышня предлагает свое определение сабжу )))'
+    replies:
+    - id: 34196
+      parent_id: 34194
+      date: 2007-12-25 21:04
+      poster: Старый Майор
+      email: gypsy@mail.ru
+      subject: У Света скоро появятся группи гёлз...
+      deleted: false

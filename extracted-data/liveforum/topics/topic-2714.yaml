@@ -1,0 +1,25 @@
+topic_id: 2714
+slug: topic-2714
+title: Труба!
+first_post: 2005-08-22 23:27
+last_post: 2005-08-23 09:55
+post_count: 2
+posts:
+- id: 22417
+  parent_id: null
+  date: 2005-08-22 23:27
+  poster: LeVON
+  email: bigphatband@mail.ru
+  subject: Труба!
+  deleted: false
+  text: Не ужели никто не может помочь?
+  replies:
+  - id: 22427
+    parent_id: 22417
+    date: 2005-08-23 09:55
+    poster: Старый Майор
+    email: gypsy@mail.ru
+    subject: Брат Левон, ты не туда попал. Тебе к джазменам на форум надо.
+    deleted: false
+    text: Ступай, брат, на www.jazz.ru и там издавай гласы вопиющего, пожалуйста.
+      Там тебе скорее помогут.

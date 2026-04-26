@@ -1,0 +1,158 @@
+topic_id: 2656
+slug: topic-2656
+title: 'Вопросы про Крылатское:'
+first_post: 2005-07-18 15:23
+last_post: 2005-07-20 18:34
+post_count: 15
+posts:
+- id: 22026
+  parent_id: null
+  date: 2005-07-18 15:23
+  poster: Cowboy Pete
+  email: cousins@yandex.ru
+  subject: 'Вопросы про Крылатское:'
+  deleted: false
+  text: '1) Сколько будут стоить билеты? Интересуют наиболее дешевые варианты, если
+    таковые имеются :-))
+
+    2) Можно ли будет купить их непосредственно на месте, или надо озаботиться этим
+    заранее?
+
+    3) Гарик Сукачев и Александр Ф. Скляр вроде должны были приехать в качестве VIP-гостей
+    и на ДР БиБиКннга в прошлом году, и еще на какой-то подобный сейшн, но что-то
+    никто их не помнит))) Это в очередной раз мощная шутка? Очень интересно послушать
+    что за блюз играет группа Ва-Банкъ))'
+  replies:
+  - id: 22028
+    parent_id: 22026
+    date: 2005-07-19 13:19
+    poster: Анна Мадатова (Нюся)
+    email: anjuta1982@bk.ru
+    subject: А в Крылатском...
+    deleted: false
+    text: "билеты уже в продаже. Цена - 550 руб. Их можно купить в кассах города,\
+      \ через сайт kontramarka.ru или на месте, т.е. 31-го в Крылатском.\nСукачев\
+      \ и Ва-Банк будут ТОЧНО, они подписали договор. Все по-взрослому. \nКакой блюз\
+      \ они будут играть - не знаю... Мне тоже интересно..."
+    replies:
+    - id: 22030
+      parent_id: 22028
+      date: 2005-07-19 13:57
+      poster: Дмитрий Казанцев (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: 550 рублей?
+      deleted: false
+      text: Цена взрослая.
+      replies:
+      - id: 22032
+        parent_id: 22030
+        date: 2005-07-19 14:02
+        poster: Axle
+        email: axledog
+        subject: Ага, взрослая,
+        deleted: false
+        text: 'сходить на группу балалаишников стоит дешевле ))
+
+          Дима прошу тебя и всех понимать размах (ну, или замах).'
+        replies:
+        - id: 22039
+          parent_id: 22032
+          date: 2005-07-19 19:02
+          poster: Дмитрий Казанцев (Dr. Nick)
+          email: dr.nick@blues.ru
+          subject: Я всё понимаю :)
+          deleted: false
+          text: Но офигеваю :)
+          replies:
+          - id: 22042
+            parent_id: 22039
+            date: 2005-07-20 15:50
+            poster: Руслан Чифуров ()
+            email: chifuroff@inbox.ru
+            subject: А я не совсем...
+            deleted: false
+            text: Сделай билеты по 200 рублей- так и народу придет в 3 раза больше.
+      - id: 22044
+        parent_id: 22030
+        date: 2005-07-20 18:34
+        poster: Axle
+        email: axledog@mail.ru
+        subject: Вот такие цены - 450 - билет, для блюз ру - 250
+        deleted: false
+  - id: 22029
+    parent_id: 22026
+    date: 2005-07-19 13:21
+    poster: Анна Мадатова (Нюся)
+    email: anjuta1982@bk.ru
+    subject: А в Крылатском...
+    deleted: false
+    text: "билеты уже в продаже. Цена - 550 руб. Их можно купить в кассах города,\
+      \ через сайт kontramarka.ru или на месте, т.е. 31-го в Крылатском.\nСукачев\
+      \ и Ва-Банк будут ТОЧНО, они подписали договор. Все по-взрослому. \nКакой блюз\
+      \ они будут играть - не знаю... Мне тоже интересно..."
+  - id: 22031
+    parent_id: 22026
+    date: 2005-07-19 13:58
+    poster: Axle
+    email: axledog@mail.ru
+    subject: Вам дешевле
+    deleted: false
+    text: "Для зарегестрированных пользователей blues.ru цена билета - 350 р. расечатайте\
+      \ флайер и в Би Би Кинг. На месте платить придется по полной (550). \nШтука\
+      \ будет та еще ))."
+    replies:
+    - id: 22034
+      parent_id: 22031
+      date: 2005-07-19 15:22
+      poster: Cowboy Pete
+      email: cousins@yandex.ru
+      subject: 'Флаер:'
+      deleted: false
+      text: Можно будет распечатать только 31-го числа?
+      replies:
+      - id: 22035
+        parent_id: 22034
+        date: 2005-07-19 15:27
+        poster: Axle
+        email: axledog@mail.ru
+        subject: вот-вот появится
+        deleted: false
+        text: 'Флайер вот-вот появится
+
+          Этим сейчас занимаются'
+  - id: 22033
+    parent_id: 22026
+    date: 2005-07-19 14:10
+    poster: Axle
+    email: axledog@mail.ru
+    subject: НАПОМИНАЮ
+    deleted: false
+    text: В Би Би Кинге - к музыкантам особое отношение, посему, все кто регулярно
+      посещает наши джемы могут подходить ко мне за билетами (денег не надо), плюс,
+      как всегда, пиво на площадке.
+    replies:
+    - id: 22036
+      parent_id: 22033
+      date: 2005-07-19 15:33
+      poster: Руслан Чифуров
+      email: chifuroff@inbox.ru
+      subject: Стало быть нам бесплатно :-)))))
+      deleted: false
+  - id: 22040
+    parent_id: 22026
+    date: 2005-07-20 00:37
+    poster: Andrei V. Evdokimov (evdokimov)
+    email: evdokimov@blues.ru
+    subject: ух-ты! скидочка!
+    deleted: false
+    text: 'Для зарегистрированных блюзрушников имеется скидка: можно купить два билета
+      по 350 руб. за каждый. <a href="/bbking/mutinka.asp">Флаер здесь!</a>'
+    replies:
+    - id: 22041
+      parent_id: 22040
+      date: 2005-07-20 15:13
+      poster: Andrei V. Evdokimov (evdokimov)
+      email: evdokimov@blues.ru
+      subject: извините, ошибочка вышла
+      deleted: false
+      text: по одному билету со скидкой - на каждый флаер

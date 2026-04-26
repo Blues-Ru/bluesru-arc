@@ -1,0 +1,48 @@
+topic_id: 2715
+slug: topic-2715
+title: The Big Phat Band
+first_post: 2005-08-22 23:40
+last_post: 2005-08-23 17:10
+post_count: 4
+posts:
+- id: 22418
+  parent_id: null
+  date: 2005-08-22 23:40
+  poster: LeVON
+  email: bigphatband@mail.ru
+  subject: The Big Phat Band
+  deleted: false
+  text: Никто не знает откуда можно закачать DVD-The Gordon Goodwins Big Phat Band-Swingin
+    For The Fencens?
+  replies:
+  - id: 22428
+    parent_id: 22418
+    date: 2005-08-23 10:29
+    poster: Старый Майор
+    email: gypsy@mail.ru
+    subject: Откуда у парня испанская грусть..
+    deleted: false
+    text: 'Я, конечно, не знаток испанского языка, но обнаруженный на альбоме трек
+      с названием "Mueva los Huesos" звучит как-то странно для русскоязычного уха...
+
+
+      Источник: http://www.allmusic.com/cg/amg.dll?p=amg&token=&sql=33:npkvuh2kan8k'
+    replies:
+    - id: 22435
+      parent_id: 22428
+      date: 2005-08-23 15:47
+      poster: Lars
+      email: lars@list.ru
+      subject: :)
+      deleted: false
+  - id: 22437
+    parent_id: 22418
+    date: 2005-08-23 17:10
+    poster: Старый Майор
+    email: gypsy@mail.ru
+    subject: А в переводе это означает...
+    deleted: false
+    text: '"Move The Bones"!!!
+
+
+      Пришлось испанский выучить.. спасибо http://babelfish.altavista.com =))'

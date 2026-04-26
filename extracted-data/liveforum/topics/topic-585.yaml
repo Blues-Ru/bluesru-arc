@@ -1,0 +1,106 @@
+topic_id: 585
+slug: topic-585
+title: Кожекин сообщает ;)
+first_post: 2003-01-23 00:44
+last_post: 2003-01-23 19:39
+post_count: 10
+posts:
+- id: 10241
+  parent_id: null
+  date: 2003-01-23 00:44
+  poster: Андрей PRG
+  email: peregnoy@mail.ru
+  subject: Кожекин сообщает ;)
+  deleted: false
+  text: 'См. http://zvuki.ru/R/P/8746/
+
+
+    И в связи с этим вопрос Алексею Аграновскому: 26-го во сколько и где именно в
+    ГЗ?'
+  replies:
+  - id: 10249
+    parent_id: 10241
+    date: 2003-01-23 14:56
+    poster: Алексей Аграновский (Док)
+    email: aaa@genebee.msu.su
+    subject: В 17:30 начнем.
+    deleted: false
+    text: 'Будут гости: Тамара К., Селуянов, Каверкин (возможно, и Кожекин с Жуком,
+      если успеют из Тольятти и Петербурга, respectively).'
+    replies:
+    - id: 10250
+      parent_id: 10249
+      date: 2003-01-23 15:46
+      poster: Andrei V. Evdokimov (evdokimov)
+      email: evdokimov@blues.ru
+      subject: так а все-таки, где именно?
+      deleted: false
+      replies:
+      - id: 10251
+        parent_id: 10250
+        date: 2003-01-23 17:24
+        poster: Алексей Аграновский (Док)
+        email: aaa@genebee.msu.su
+        subject: Всем, кто хочет прийти
+        deleted: false
+        text: Это будет в "аудитории 02" на первом этаже Главного здания МГУ. В этот
+          день там охрана, как никогда. Поэтому напишите мне по мылу ФИО (ники не
+          хиляют) для включения в список. Андрей Евдокимов! я взял на себя смелость
+          внести тебя в этот список. Вернешь с глоточком.
+        replies:
+        - id: 10258
+          parent_id: 10251
+          date: 2003-01-23 19:01
+          poster: ddd
+          email: вы
+          subject: почембилет?
+          deleted: false
+        - id: 10259
+          parent_id: 10251
+          date: 2003-01-23 19:07
+          poster: Greta
+          email: morehemp@mail.ru
+          subject: А
+          deleted: false
+          text: именинницам приходить можно..? :)
+          replies:
+          - id: 10264
+            parent_id: 10259
+            date: 2003-01-23 19:35
+            poster: Алексей Аграновский (Док)
+            email: aaa@genebee.msu.su
+            subject: Владимир Ильич! Говорите точно, сколько вещать!
+            deleted: false
+            text: "Друзья! прекрасен наш союз. Рифму придумали? \nСтоп, причем тут\
+              \ союз-апполон...\nФамилии, имена, отчества пришлите мне по е-мейл.\
+              \ Я понимаю святость тайны ника, но охранники не понимают. Постараюсь\
+              \ всех внести в список, если будут проблемы - напишу не позднее пятницы\
+              \ вечера. Башлять не надо ничего."
+        - id: 10263
+          parent_id: 10251
+          date: 2003-01-23 19:35
+          poster: Андрей PRG
+          email: peregnoy@mail.ru
+          subject: Небось
+          deleted: false
+          text: с утра надо подползать занимать места, да? А то на люстре, кхе-кхе,
+            целый вечер боязно висеть-то ;)
+          replies:
+          - id: 10265
+            parent_id: 10263
+            date: 2003-01-23 19:37
+            poster: Алексей Аграновский (Док)
+            email: aaa@genebee.msu.su
+            subject: Авось
+            deleted: false
+            text: ничего, продержитесь. Молодость - страшнаясила. Подходить лучше
+              к пяти. Вечера.
+            replies:
+            - id: 10266
+              parent_id: 10265
+              date: 2003-01-23 19:39
+              poster: Андрей PRG
+              email: peregnoy@mail.ru
+              subject: Самое ценное -
+              deleted: false
+              text: это последнее уточнение ;)

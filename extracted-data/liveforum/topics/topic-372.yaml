@@ -1,0 +1,48 @@
+topic_id: 372
+slug: topic-372
+title: Радость
+first_post: 2002-10-03 08:54
+last_post: 2002-10-03 10:31
+post_count: 4
+posts:
+- id: 7910
+  parent_id: null
+  date: 2002-10-03 08:54
+  poster: Дима Казанцев (Dr. Nick)
+  email: dr.nick@blues.ru
+  subject: Радость
+  deleted: false
+  text: "Вот хочу поделиться радостью, - я купил на виниле четыре редких альбома Тажа\
+    \ (редкие потому, что я не видел таких сидюков, и даже не слышал о них). Альбомы\
+    \ такие: \"Happy Just To Be Like I Am\", \"Recycling The Blues & Other Related\
+    \ Stuff\", \"Oooh So Good 'N Blues\", \"Satisfied And Tickled Too\". \nНу что\
+    \ Вам сказать, полный улет! Его исполнения Stealin', Chevrolet, Crossroad Blues,\
+    \ Built For Comfort, Dust My Broom, Frankie And Albert, - просто великолепны!\n\
+    Найти эти альбомы крайне трудно, так что могу прописать на компакты, а там уже\
+    \ копируйте, если надо.\nTaj rules!"
+  replies:
+  - id: 7912
+    parent_id: 7910
+    date: 2002-10-03 10:14
+    poster: John
+    email: ssy@ac.com.ru
+    subject: Дима, запиши мне, плиз
+    deleted: false
+    text: болванки я тебе вроде давал..
+    replies:
+    - id: 7914
+      parent_id: 7912
+      date: 2002-10-03 10:31
+      poster: Дима Казанцев (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: Ага, запишу
+      deleted: false
+      text: Щас все оцифрую сначала и начну всем писАть ;)
+  - id: 7913
+    parent_id: 7910
+    date: 2002-10-03 10:14
+    poster: John
+    email: ssy@ac.com.ru
+    subject: Дима, запиши мне, плиз
+    deleted: false
+    text: болванки я тебе вроде давал..

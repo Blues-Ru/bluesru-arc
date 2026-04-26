@@ -1,0 +1,69 @@
+topic_id: 4212
+slug: topic-4212
+title: Про черный бриллиант в золоченой оправе, чьи вокальные данные поражали даже
+  видавших виды.
+first_post: 2009-04-12 23:33
+last_post: 2009-04-14 16:34
+post_count: 7
+posts:
+- id: 36282
+  parent_id: null
+  date: 2009-04-12 23:33
+  poster: Andrei V. Evdokimov (evdokimov)
+  email: evdokimov@blues.ru
+  subject: Про черный бриллиант в золоченой оправе, чьи вокальные данные поражали
+    даже видавших виды.
+  deleted: false
+  text: "тут - \n<a href=\"http://www.dni.ru/showbiz/2009/3/29/162724.html\" target=\"\
+    _blank\">http://www.dni.ru/showbiz/2009/3/29/162724.html</a>"
+  replies:
+  - id: 36283
+    parent_id: 36282
+    date: 2009-04-13 03:12
+    poster: Старый Майор
+    email: gypsy@mail.ru
+    subject: Андрей, тебе нравятся чёрные сисьге 6-го нумера?
+    deleted: false
+    replies:
+    - id: 36284
+      parent_id: 36283
+      date: 2009-04-13 05:07
+      poster: Andrei V. Evdokimov (evdokimov)
+      email: evdokimov@blues.ru
+      subject: теоретически? или с точки зрения популярной жур-ки?
+      deleted: false
+      replies:
+      - id: 36286
+        parent_id: 36284
+        date: 2009-04-13 11:42
+        poster: Старый Майор
+        email: gypsy@mail.ru
+        subject: Да по-любому!
+        deleted: false
+        text: Но ты явно к Мари-Пьер неравнодушен!
+        replies:
+        - id: 36287
+          parent_id: 36286
+          date: 2009-04-13 14:50
+          poster: Andrei V. Evdokimov (evdokimov)
+          email: evdokimov@blues.ru
+          subject: жам боку Мэри Пьер (иск.франц.)
+          deleted: false
+          replies:
+          - id: 36289
+            parent_id: 36287
+            date: 2009-04-14 16:34
+            poster: Алексей Аграновский (Док)
+            email: aaa@genebee.msu.su
+            subject: В 99-м году
+            deleted: false
+            text: мы со старшей сестрой встретились на одном корпоративе. Она пела
+              с каким-то джазом. Поговорили. In corpora впечатляет. Море обаяния.
+  - id: 36288
+    parent_id: 36282
+    date: 2009-04-13 17:33
+    poster: Dmitri Kazantsev (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: ты радуешь
+    deleted: false
+    text: кого-то из них видел тут недалеко от бауманской

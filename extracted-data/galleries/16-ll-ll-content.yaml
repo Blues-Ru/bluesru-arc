@@ -1,0 +1,43 @@
+path: _16/LL/LL/content
+type: lightroom
+title: null
+date: null
+photo_count: 10
+captioned: 0
+index_files: null
+extra_text: null
+photos:
+- file: OLY05222.jpg
+  thumb: images/thumb/OLY05222.jpg
+  page_html: OLY05222_large.html
+- file: OLY05289.jpg
+  thumb: images/thumb/OLY05289.jpg
+  page_html: OLY05289_large.html
+- file: OLY05307.jpg
+  thumb: images/thumb/OLY05307.jpg
+  page_html: OLY05307_large.html
+- file: OLY05320.jpg
+  thumb: images/thumb/OLY05320.jpg
+  page_html: OLY05320_large.html
+- file: OLY05368.jpg
+  thumb: images/thumb/OLY05368.jpg
+  page_html: OLY05368_large.html
+- file: OLY05404.jpg
+  thumb: images/thumb/OLY05404.jpg
+  page_html: OLY05404_large.html
+- file: OLY05428.jpg
+  thumb: images/thumb/OLY05428.jpg
+  page_html: OLY05428_large.html
+- file: OLY05429.jpg
+  thumb: images/thumb/OLY05429.jpg
+  page_html: OLY05429_large.html
+- file: OLY05430.jpg
+  thumb: images/thumb/OLY05430.jpg
+  page_html: OLY05430_large.html
+- file: OLY05431.jpg
+  thumb: images/thumb/OLY05431.jpg
+  page_html: OLY05431_large.html
+canonical_date: '2016'
+clean_title: Lil' Louis, 2016
+slug: ll-ll
+description: null

@@ -1,0 +1,92 @@
+topic_id: 1018
+slug: topic-1018
+title: Блюз в нагрузку к Linux (  Федор, спокойно :-)  )
+first_post: 2002-05-17 19:41
+last_post: 2002-05-20 12:09
+post_count: 7
+posts:
+- id: 4449
+  parent_id: null
+  date: 2002-05-17 19:41
+  poster: Сергей Иванов (serge_ivanov)
+  email: serge_ivanov@hotmail.com
+  subject: Блюз в нагрузку к Linux (  Федор, спокойно :-)  )
+  deleted: false
+  text: 'Купил тут новый дистрибутив а к нему в подарок диск
+
+    И что же я там слышу - Черный Хлеб и Д-р Аграновский, Станция Мир. Честно говоря
+    слышал их  в первый раз.
+
+    Док - это класс.
+
+    Зря меня Федор ругает - и от юниксов польза бывает :-) (тираж - несколько тысяч)'
+  replies:
+  - id: 4451
+    parent_id: 4449
+    date: 2002-05-17 20:34
+    poster: Andrei V. Evdokimov (evdokimov)
+    email: evdokimov@blues.ru
+    subject: плиз... детали происшествия? (-)
+    deleted: false
+    replies:
+    - id: 4457
+      parent_id: 4451
+      date: 2002-05-17 22:27
+      poster: Сергей Иванов (serge_ivanov)
+      email: serge_ivanov@hotmail.com
+      subject: детали
+      deleted: false
+      text: 'Детали на http://om.lrn.ru
+
+        Все исполнители с этого сайта есть на диске, лежащем в коробке дистрибутива
+        AltLinux Master 2.0. (www.altlinux.ru)
+
+        Диск - подарок, а сам дистрибутив стоит 1300 руб (это кстати о якобы любителях
+        халявы :-) )
+
+        Насколько я знаю, все исполнители дали официальное разрешение на размещение
+        своих песен на этом сборнике. Сборник - не audio-cd, а в формате .ogg
+
+        Интересно было бы узнать, что думают Док и Жук по этому поводу.
+
+        Еще раз скажу - Док это класс!'
+      replies:
+      - id: 4474
+        parent_id: 4457
+        date: 2002-05-18 12:11
+        poster: Алексей Аграновский (Док)
+        email: aaa@genebee.msu.su
+        subject: Сергею про огг-песни
+        deleted: false
+        text: 'Действительно, я дал разрешение этим людям на использование двух вещей
+          с нашего диска. Ну и на здоровье. Все равно нажиться никак не удается...
+
+          Спасибо за высокую оценку!'
+        replies:
+        - id: 4514
+          parent_id: 4474
+          date: 2002-05-19 08:45
+          poster: Сергей Иванов (serge_ivanov)
+          email: serge_ivanov@hotmail.com
+          subject: где бы диск теперь купить?
+          deleted: false
+          text: вот и нажива будет :-)
+          replies:
+          - id: 4530
+            parent_id: 4514
+            date: 2002-05-20 10:52
+            poster: Алексей Аграновский (Док)
+            email: aaa@genebee.msu.su
+            subject: В мире чистогана
+            deleted: false
+            text: Диск можно купить на выступлениях групп The Blues Spinners и Черный
+              Хлеб. Цена договорная, обычно 10 у.е. А ты этот диск имел в виду ?!
+            replies:
+            - id: 4531
+              parent_id: 4530
+              date: 2002-05-20 12:09
+              poster: Сергей Иванов (serge_ivanov)
+              email: serge_ivanov@hotmail.com
+              subject: этот - с которого 2 песни на сборнике
+              deleted: false
+              text: Придется собраться с силами и сходить наконец на концерт :-)

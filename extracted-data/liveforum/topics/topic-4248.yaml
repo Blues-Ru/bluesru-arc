@@ -1,0 +1,22 @@
+topic_id: 4248
+slug: topic-4248
+title: Володе Русинову
+first_post: 2009-06-17 10:04
+last_post: 2009-06-18 00:55
+post_count: 2
+posts:
+- id: 36408
+  parent_id: null
+  date: 2009-06-17 10:04
+  poster: michael (furious bluesman)
+  subject: Володе Русинову
+  deleted: false
+  text: Спасибо огромное за вчерашний концерт в "Доме". Было очень тепло и чудесно.
+    Надеюсь, Ксении цветы понравились ...))
+  replies:
+  - id: 36417
+    parent_id: 36408
+    date: 2009-06-18 00:55
+    poster: Владимир Русинов
+    subject: понравились безусловно! :)
+    deleted: false

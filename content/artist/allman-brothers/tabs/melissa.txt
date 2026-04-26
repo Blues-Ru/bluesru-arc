@@ -1,0 +1,199 @@
+
+                                    Melissa
+                                 Allman Brothers
+
+I haven't picked out the tab for the lead for Melissa but here is the chord
+progression as close as I can get to what Greg Allman plays.  The F#m7 and
+Emaj7 are a pretty good stretch until you get used to playing them, but they
+get easier.  Note the two forms of C#m.  The first form is played throughout
+except in the line 'Pick up your gear and gypsy roll on' in the chorus.
+
+
+
+     E     F#m7   Emaj7    A    Bm11    C#m    B    D    C   C#m2
+E|---------------------------------------------2--------------4------------
+B|-----------2------4------2-----3-------5-----4---------1----5------------
+G|---1-------2------4------2-----4-------6-----4--------------6------------
+D|---2-------4------6------2-----4-------6-----4---------2----6------------
+A|---2-------4------6------------5-------7-----2---------3----4------------
+E|-------------------------------------------------------------------------
+
+
+Intro - E, F#m7, Emaj7,F#m7
+
+Verse1
+
+  E       F#m7             Emaj7  F#m7
+Crossroads seem to come and go, yeah
+ E                             F#m7
+The gypsy flies from coast to coast
+  A      Bm11       C#m   Bm11
+Knowing many loving arms
+ E       F#m7           Emaj7   A
+bearing sorrow, having fun
+ C                          B
+but back home he'll always run
+           E       F#m7   Emaj7
+To sweet Melissa
+
+Verse2
+Same chord progression as verse 1.
+
+Freight train, each car looks the same
+All the same
+and no one knows the gypsy's name
+no one hears his lonely sigh
+there are no blankets where he lies
+and in deepest dreams the gypsy flies
+to sweet Melissa
+
+
+Chorus
+
+E
+Again the morning comes
+D
+again he's on the run
+A
+sunbeam shining through his hair
+B
+appearing not to have a care
+C#m (second version)         A
+pick up your gear and gypsy roll on
+B
+roll on
+
+
+Verse 3 (same as 1 & 2 until end)
+Crossroads, will you ever let him go, No, no, no
+or will you hide the dead man ghost
+or will he lie beneath the plain
+or will his spirit float away
+but I know that he won't stay
+           E      F#m7,
+without Melissa
+C                         B
+Yes I know that he won't stay
+                 F#m7
+without Melissa
+ Emaj7           F#m7
+No, no he just won't stay
+
+repeat and fade (E, F#m7, Emaj7,F#m7)
+
+
+Andy King
+Ck27362@uarksysb.edu
+
+************************************************
+                                    Melissa
+                                 Allman Brothers
+
+
+I have some preferences on the playing of the _chords_ in 'Melissa' that
+differ a bit from his, which I think you'll find easier to play (and maybe
+even sound better):
+
+
+(excuse the lack of rhythm & timing, but I think you can figure it out)
+
+
+e--0----0----0----0--/--0----0----0----0----0----0----0----0----0----0--
+B--0----0----0----0--/--0----0----2----3----5----0----0----0----0----0--
+G--1----2----4----2--/--1----2----2----4----6----6----1----2----4----6--
+D--2----4----6----4--/--2----4----2----4----6----7----2----4----6----7--
+A--2----4----6----4--/--2----4----0----2----4----7----2----4----6----7--
+E--0----0----0----0--/--0----0----x----x----x----5----0----0----0----5--
+
+
+               (still the mornin' comes...)  
+
+e--0----0---/---0----2----0----x----0----0----x------0----0--
+B--0----0---/---0----3----2----4----5----0----4------0----0--
+G--0----2---/---1----2----2----4----6----6----4-(or)-8----2--  (back to
+D--2----2---/---2----0----2----4----6----7----4------9----2--   start)  
+A--3----2---/---2---------0----2----4----7----2------9----2--
+E--3----0---/---0---------x----x----x----5-----------7----0--
+
+
+
+This song is REALLY meant for a 12-string -- with all that open-string
+resonance, it really rings!
+
+Hope this gives you more of what you're looking for!
+
+
+J Smith
+Sunnyvale, CA
+
+*************************************************
+
+              MELISSA
+          Allman Brothers
+
+From: Harlan L Thompson <harlant@hawaii.edu>
+
+TUINING: E B E G# B E
+
+E  F#m  G#m  F#m   E  F#m  G#m  F#m
+
+  E       F#m              G#m   F#m 
+Crossroads seem to come and go, yeah
+ E                             F#m 
+The gypsy flies from coast to coast
+  A      Bm         C#m   Bm
+Knowing many, loving none
+ E       F#m            G#m  F#m
+Bearing sorrow, having fun
+ C                          B  (n.c.)
+But back home he'll always run
+           E      F#m  G#m  F#m 
+To sweet Melissa        mmmm
+
+Freight train, each car looks the same, all the same
+And no one knows the gypsy's name
+No one hears his lonely sigh
+There are no blankets where he lies
+Lord, in deepest dreams the gypsy flies
+To sweet Melissa, mmmmm
+
+BRIDGE:
+E
+Again the morning comes
+D
+Again he's on the run
+A
+Sunbeam shining through his hair
+B
+Appearing not to have a care
+C#m                          A        B       (n.c.)
+Pick up your gear and gypsy roll on, roll on
+
+Crossroads, will you ever let him go, no, no, no
+Or will you hide the dead man ghost
+Or will he lie beneath the plain
+Or will his spirit float away
+But I know that he won't stay
+          E      F#m
+Without Melissa
+
+C                         B             E    F#m
+Yes I know that he won't stay without Melissa
+ G#m            F#m 
+No, no he just won't stay
+
+E  F#m  G#m  F#m    (repeat and fade)
+
+CHORDS:
+     E  F#m  G#m  A  B  Bm  C#m  C  D
+E    0   2    4   5  7  7    9   8  10          
+B    0   2    4   5  7  7    9   8  10           
+G#   0   1    3   5  7  6    8   8  10          
+E    0   2    4   5  7  7    9   8  10              
+B    0   x    x   5  7  x    x   8  10             
+E    0   2    4   5  7  7    9   8  10
+               
+
+NOTE:  This song may or may not be in this tuning, I'm not sure.  But I 
+think it's easier and more fun playing it this way than in standard.  
+

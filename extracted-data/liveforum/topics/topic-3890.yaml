@@ -1,0 +1,61 @@
+topic_id: 3890
+slug: topic-3890
+title: Известный американский пианист выступит в Москве
+first_post: 2008-02-06 13:10
+last_post: 2008-02-06 21:29
+post_count: 6
+posts:
+- id: 34539
+  parent_id: null
+  date: 2008-02-06 13:10
+  poster: Andrei V. Evdokimov (evdokimov)
+  email: evdokimov@blues.ru
+  subject: Известный американский пианист выступит в Москве
+  deleted: false
+  text: '<a href="http://www.utro.ru/news/2008/02/04/713924.shtml" target="blank">http://www.utro.ru/news/2008/02/04/713924.shtml</a>
+
+    где пианист? )'
+  replies:
+  - id: 34540
+    parent_id: 34539
+    date: 2008-02-06 15:01
+    poster: Владимир Русинов (BluesCat)
+    email: volodya@blues.ru
+    subject: :))))))))))))))))))))
+    deleted: false
+    replies:
+    - id: 34542
+      parent_id: 34540
+      date: 2008-02-06 16:34
+      poster: Алексей Аграновский (Док)
+      email: aaa@genebee.msu.su
+      subject: Говорили нам, говорили,
+      deleted: false
+      text: что радио Свобода всё врёт. И вот до чего дело дошло. До краю практически.
+        До пианизма.
+  - id: 34545
+    parent_id: 34539
+    date: 2008-02-06 19:10
+    poster: Dmitri Kazantsev (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: а про экспромты?
+    deleted: false
+    text: жгут!
+  - id: 34549
+    parent_id: 34539
+    date: 2008-02-06 19:42
+    poster: Andrei V. Evdokimov (evdokimov)
+    email: evdokimov@blues.ru
+    subject: завоевать аудиторию!
+    deleted: false
+    text: '"Ведь для того чтобы завоевать аудиторию, важно почувствовать еe, и специально
+      для каждого сидящего в зале подобрать именно его композицию." - если будет аншлаг,
+      бедолаге придется подобрать 1734 "композиции".'
+    replies:
+    - id: 34550
+      parent_id: 34549
+      date: 2008-02-06 21:29
+      poster: Dmitri Kazantsev (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: ан шлак точно будет
+      deleted: false

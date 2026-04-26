@@ -1,0 +1,27 @@
+topic_id: 243
+slug: topic-243
+title: John Campbell,
+first_post: 2002-08-01 20:33
+last_post: 2002-08-02 18:48
+post_count: 2
+posts:
+- id: 6510
+  parent_id: null
+  date: 2002-08-01 20:33
+  poster: Yuri
+  email: yurish_xx@mail.ru
+  subject: John Campbell,
+  deleted: false
+  text: Джентельмены, подскажите, где можно найти CD John Campbell "One Believer".  А
+    может, где лежат MP3? Заранее  благодарен.
+  replies:
+  - id: 6519
+    parent_id: 6510
+    date: 2002-08-02 18:48
+    poster: Иван Иванов
+    email: ivan@hotmail.com
+    subject: На "eBay".com, стойт $5.
+    deleted: false
+    text: 'Жми сюда!
+
+      http://search.ebay.com/search/search.dll?query=john+campbell&newu=1'

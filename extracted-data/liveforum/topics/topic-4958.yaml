@@ -1,0 +1,30 @@
+topic_id: 4958
+slug: topic-4958
+title: '"Товарищ Камрад" -  28.11.2012 -  Элита Татарстана'
+first_post: 2012-12-07 02:13
+last_post: 2012-12-08 17:42
+post_count: 3
+posts:
+- id: 38650
+  parent_id: null
+  date: 2012-12-07 02:13
+  poster: Andrei V. Evdokimov
+  subject: '"Товарищ Камрад" -  28.11.2012 -  Элита Татарстана'
+  deleted: false
+  text: http://elitat.ru/?rub=5&st=3712&type=3&s=1
+  replies:
+  - id: 38652
+    parent_id: 38650
+    date: 2012-12-08 04:00
+    poster: kishinevets
+    subject: С Би Би Кингом уже, наверное, не успею,
+    deleted: false
+    text: потому что он пожилой!
+    replies:
+    - id: 38653
+      parent_id: 38652
+      date: 2012-12-08 17:42
+      poster: Эльдар
+      subject: А вот с Эриком Клэптоном упеет, потому что
+      deleted: false
+      text: был на его концерте.

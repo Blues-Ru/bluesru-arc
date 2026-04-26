@@ -1,0 +1,69 @@
+topic_id: 2985
+slug: topic-2985
+title: Мне приснился страшный сон - Петрович сбрил бороду!! И вот вам пожалуйста -
+  Петрович дед Мороз!!! Вот и не верь снам после этого....
+first_post: 2005-12-07 12:27
+last_post: 2005-12-08 13:58
+post_count: 7
+posts:
+- id: 24914
+  parent_id: null
+  date: 2005-12-07 12:27
+  poster: Yuri Kaverkin (Gekko)
+  email: kaverkin@rol.ru
+  subject: Мне приснился страшный сон - Петрович сбрил бороду!! И вот вам пожалуйста
+    - Петрович дед Мороз!!! Вот и не верь снам после этого....
+  deleted: false
+  replies:
+  - id: 24915
+    parent_id: 24914
+    date: 2005-12-07 13:29
+    poster: Алексей Фролов (Buchothk)
+    email: jokerthk@yandex.ru
+    subject: Ничего не понял....
+    deleted: false
+    text: 'Это о чем?
+
+      В понедельник у Петровича борода была....'
+    replies:
+    - id: 24916
+      parent_id: 24915
+      date: 2005-12-07 13:35
+      poster: Илья Кривандин (Populoss)
+      email: ilija@bk.ru
+      subject: Афишу "Новый Год в B.B. King'e" посмотри
+      deleted: false
+      text: на главной...
+      replies:
+      - id: 24917
+        parent_id: 24916
+        date: 2005-12-07 13:52
+        poster: Алексей Фролов (Buchothk)
+        email: jokerthk@yandex.ru
+        subject: мама дорогая.....
+        deleted: false
+        replies:
+        - id: 24918
+          parent_id: 24917
+          date: 2005-12-07 13:54
+          poster: Илья Кривандин (Populoss)
+          email: ilija@bk.ru
+          subject: ага, представляешь...
+          deleted: false
+          text: тут кроме форума еще и сайт есть...   :-Р
+          replies:
+          - id: 24925
+            parent_id: 24918
+            date: 2005-12-08 13:42
+            poster: Маша Диброва (Dibrova)
+            email: dibrova_blues@mail.ru
+            subject: а какой у Петровича сайт??
+            deleted: false
+            replies:
+            - id: 24926
+              parent_id: 24925
+              date: 2005-12-08 13:58
+              poster: Алексей Фролов (Buchothk)
+              email: jokerthk@yandex.ru
+              subject: harmonicaman.ru
+              deleted: false

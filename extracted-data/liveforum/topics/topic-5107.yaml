@@ -1,0 +1,48 @@
+topic_id: 5107
+slug: topic-5107
+title: день рождения Маленькой Евы
+first_post: 2013-07-29 19:32
+last_post: 2013-07-30 00:20
+post_count: 4
+posts:
+- id: 39053
+  parent_id: null
+  date: 2013-07-29 19:32
+  poster: Олег
+  subject: день рождения Маленькой Евы
+  deleted: false
+  text: 'Привет, ребята, подправьте ленту "Блюзового календаря", день рождения Маленькой
+    Евы был месяц  назад (70 лет)29 июня. Андрею Евдокимову  и всем функционерам сайта
+    - мое почтение и всех благ.
+
+
+    oleg_Spb
+
+    ------------------------------
+
+    Welcome to http://olegspbblues.blogspot.ru/'
+  replies:
+  - id: 39054
+    parent_id: 39053
+    date: 2013-07-29 19:50
+    poster: Andrei V. Evdokimov
+    subject: ошиблись, правда
+    deleted: false
+    text: 'мы с таким удовольствием праздновали в фейсбуке...
+
+      но истина дороже, за поправку - спасибо!'
+    replies:
+    - id: 39056
+      parent_id: 39054
+      date: 2013-07-29 21:05
+      poster: Старый Майор
+      subject: Да-да, хорошо праздновали!
+      deleted: false
+      text: Порвали два баяна, и накостыляли Махалычу (как всегда).
+      replies:
+      - id: 39057
+        parent_id: 39056
+        date: 2013-07-30 00:20
+        poster: Andrei V. Evdokimov
+        subject: он на нас не так посмотрел! ну и правильно, что дали
+        deleted: false

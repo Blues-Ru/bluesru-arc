@@ -1,0 +1,60 @@
+topic_id: 37
+slug: topic-37
+title: Вопрос по технике игры слайдом (Bottleneck)
+first_post: 2002-01-07 22:46
+last_post: 2002-01-08 11:21
+post_count: 5
+posts:
+- id: 30
+  parent_id: null
+  date: 2002-01-07 22:46
+  poster: Олег Рахманов (Harper)
+  email: 171282@mail.ru
+  subject: Вопрос по технике игры слайдом (Bottleneck)
+  deleted: false
+  text: Хотелось бы побольше узнать о приемах игры слайдом.
+  replies:
+  - id: 31
+    parent_id: 30
+    date: 2002-01-08 01:09
+    poster: AvA  ()
+    email: vad2908@mail.ru
+    subject: slide
+    deleted: false
+    text: 'вариант: настрой гитару на ми-мажор, попробуй, - понравится.'
+    replies:
+    - id: 33
+      parent_id: 31
+      date: 2002-01-08 04:00
+      poster: Alexei Perel (Mad_Pappa)
+      email: alexperel@chat.ru
+      subject: slide
+      deleted: false
+      text: A chto imenno ti hochesh uznat?
+  - id: 34
+    parent_id: 30
+    date: 2002-01-08 09:58
+    poster: Дима Казанцев (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: Прежде всего
+    deleted: false
+    text: "подготовь саму гитару. Струны должны быть толстые (минимум 12) и должны\
+      \ высоко отстоять от ладов. \nСтроить можно на открытый соль, ре или ми. Сам\
+      \ понимаешь, пальцы надо тренировать, вибрато тоже. В каждой позиции можно сыграть\
+      \ лишь один-два вида композиций. Перестраиваться все время - гемор, так что\
+      \ лучше сразу несколько гитар иметь. И еще одну с нормальным строем и тонкими\
+      \ (относительно) струнами.\nВсе это очень сложное дело, даже если знаешь куда\
+      \ \"нажимать\". Я, похоже, сдался. В студии могу что-то прописать, но получить\
+      \ от этого удовольствие на концерте мне трудно - чувствую себя несвободно."
+  - id: 35
+    parent_id: 30
+    date: 2002-01-08 11:21
+    poster: AlexIV ("The Evergreens")
+    email: evergreens@mail.ru
+    subject: Может это поможет...
+    deleted: false
+    text: 'http://www.guitars.ru/play/slide.html
+
+      http://www.guitars.ru/guitarplayer/a02.html
+
+      http://www.guitars.ru/guitarworld/13/g03.html'

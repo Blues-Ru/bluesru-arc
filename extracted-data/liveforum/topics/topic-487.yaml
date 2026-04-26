@@ -1,0 +1,56 @@
+topic_id: 487
+slug: topic-487
+title: Long live B. B. King
+first_post: 2002-11-29 17:05
+last_post: 2002-11-30 08:54
+post_count: 5
+posts:
+- id: 9083
+  parent_id: null
+  date: 2002-11-29 17:05
+  poster: Malcolm Ray  Redriver (Mike)
+  email: lifebythedrop@yandex.ru
+  subject: Long live B. B. King
+  deleted: false
+  text: Сегодня мне кто-то взял да и сказал, когда я упомянул БиБиКа что мол помер
+    Король Блюза, вчера сообщали... Ну я ему не поверил сначала, но всё равно решил
+    проверить... Ну этим лохам всё равно что Би Би что Фреди... что Джими, дай Бог
+    прожить Би. Би. еще столько же. Ну и помилуй душу покойного...
+  replies:
+  - id: 9084
+    parent_id: 9083
+    date: 2002-11-29 17:11
+    poster: Алексей Аграновский (Док)
+    email: aaa@genebee.msu.su
+    subject: Малкольм!
+    deleted: false
+    text: Закусывать надо, а не занюхивать.
+    replies:
+    - id: 9086
+      parent_id: 9084
+      date: 2002-11-29 17:33
+      poster: tigra
+      email: bluesman@tut.by
+      subject: майк ты это.... ну ты понял....
+      deleted: false
+      text: и так инфаркт среди населения резко "помолодел".
+      replies:
+      - id: 9087
+        parent_id: 9086
+        date: 2002-11-29 17:35
+        poster: Дмитрий(fan)
+        email: leondmitr@freemail.ru
+        subject: Да уж!
+        deleted: false
+        text: Десять раз перепроверь, а потом уж вещай. Такое.
+        replies:
+        - id: 9106
+          parent_id: 9087
+          date: 2002-11-30 08:54
+          poster: Malcolm Ray  Redriver (Mike)
+          email: lifebythedrop@yandex.ru
+          subject: Well
+          deleted: false
+          text: Вот я и перепроверил, и делал это очень долго, а когда узнал, что
+            с БиБиКом всё в порядке, чертовски обрадовался, буд-то вы бы не обрадовались
+            на моём месте...

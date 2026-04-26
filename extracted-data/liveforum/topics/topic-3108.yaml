@@ -1,0 +1,131 @@
+topic_id: 3108
+slug: topic-3108
+title: Rod Piazza
+first_post: 2006-02-15 01:17
+last_post: 2006-02-18 23:59
+post_count: 15
+posts:
+- id: 26087
+  parent_id: null
+  date: 2006-02-15 01:17
+  poster: Владимир Русинов (BluesCat)
+  email: volodya@blues.ru
+  subject: Rod Piazza
+  deleted: false
+  text: "CONCERT SCHEDULE\n       \nMoscow, RUS   Include Surrounding Cities  \n\n\
+    Sat 12/09/06   Rod Piazza & The Mighty Flyers  International Performing Arts Centr"
+  replies:
+  - id: 26089
+    parent_id: 26087
+    date: 2006-02-15 08:03
+    poster: Ded Morozzz
+    email: morozzz_ded@mail.ru
+    subject: Отвал башни :)
+    deleted: false
+  - id: 26094
+    parent_id: 26087
+    date: 2006-02-15 12:23
+    poster: Илья Кривандин (Populoss)
+    email: ilija@bk.ru
+    subject: Вот это да!
+    deleted: false
+    text: Г-ну Русинову пиво за отличные новости! :)
+  - id: 26095
+    parent_id: 26087
+    date: 2006-02-15 12:52
+    poster: Федор Романенко (fedor)
+    email: fedor@blues.ru
+    subject: Ааааа.........!
+    deleted: false
+    replies:
+    - id: 26101
+      parent_id: 26095
+      date: 2006-02-15 16:50
+      poster: Marat Dakota
+      email: mhobbit@mail.ru
+      subject: ббб!!! :))
+      deleted: false
+      text: Федор, а ты можешь попробовать как-то связаться с организаторами/с группой,
+        чтоб еще хотя бы парочку клубных концертов сделать? А то один концерт - несерьезно...
+        :)
+      replies:
+      - id: 26103
+        parent_id: 26101
+        date: 2006-02-15 16:52
+        poster: Marat Dakota
+        email: mhobbit@mail.ru
+        subject: и мастер-класс типа как с Эстриным... и ваще... :)
+        deleted: false
+        replies:
+        - id: 26106
+          parent_id: 26103
+          date: 2006-02-15 19:07
+          poster: Федор Романенко (fedor)
+          email: fedor@blues.ru
+          subject: Связаться
+          deleted: false
+          text: Ну я уже подумал про это, но, думаю, денег не хватит ;) Хотя, стоит
+            того, на мой взгляд. Я попробую, время до декабря есть... Вполне возможно,
+            что они на один день прилетят.
+          replies:
+          - id: 26173
+            parent_id: 26106
+            date: 2006-02-17 16:05
+            poster: Dmitri Kazantsev (Dr. Nick)
+            email: dr.nick@blues.ru
+            subject: Федь,
+            deleted: false
+            text: это Пицца, он настоящий СРВ-Блюз исполняет, я надеюсь? :)
+            replies:
+            - id: 26187
+              parent_id: 26173
+              date: 2006-02-18 17:50
+              poster: Marat Dakota
+              email: mhobbit@mail.ru
+              subject: мда...
+              deleted: false
+              text: 'и этот человек постоянно страдает: "откуда в людях столько злости"...'
+              replies:
+              - id: 26189
+                parent_id: 26187
+                date: 2006-02-18 23:59
+                poster: Dmitri Kazantsev (Dr. Nick)
+                email: dr.nick@blues.ru
+                subject: ты это мне?
+                deleted: false
+                text: поясни
+  - id: 26098
+    parent_id: 26087
+    date: 2006-02-15 15:08
+    poster: Muddy Lives
+    email: mlives_6@hotmail
+    subject: Да, здорово
+    deleted: false
+  - id: 26102
+    parent_id: 26087
+    date: 2006-02-15 16:52
+    poster: Marat Dakota
+    email: mhobbit@mail.ru
+    subject: Теперь будет год мучительных ожиданий - до декабря... :))
+    deleted: false
+  - id: 26115
+    parent_id: 26087
+    date: 2006-02-15 22:13
+    poster: Alexey B. Ilyichev
+    email: no-mail
+    subject: Разрыв башки.
+    deleted: false
+  - id: 26120
+    parent_id: 26087
+    date: 2006-02-15 23:26
+    poster: Marat Dakota
+    email: mhobbit@mail.ru
+    subject: Перелом черепа?
+    deleted: false
+  - id: 26121
+    parent_id: 26087
+    date: 2006-02-15 23:26
+    poster: Marat Dakota
+    email: mhobbit@mail.ru
+    subject: Отвал конечностей? :))
+    deleted: false

@@ -1,0 +1,91 @@
+topic_id: 409
+slug: topic-409
+title: вышли в свет и продаются с Москве
+first_post: 2002-10-16 11:50
+last_post: 2002-10-17 02:40
+post_count: 9
+posts:
+- id: 8264
+  parent_id: null
+  date: 2002-10-16 11:50
+  poster: Михаил Бирюков (nECKAPb)
+  email: blackcat@blues.ru
+  subject: вышли в свет и продаются с Москве
+  deleted: false
+  text: "Shemekia Copeland \"Talking to Strangers\" \nThe Blind Boys of Alabama \"\
+    Higher Ground\""
+  replies:
+  - id: 8266
+    parent_id: 8264
+    date: 2002-10-16 12:05
+    poster: Natalia
+    email: autozona@hotmail.com
+    subject: Михаил, а где же они продаются в Москве?
+    deleted: false
+    text: Я про The Blind Boys of Alabama? На сайте Пурпурного написано, что там они
+      уже закончились :(
+    replies:
+    - id: 8267
+      parent_id: 8266
+      date: 2002-10-16 12:28
+      poster: Михаил Бирюков (nECKAPb)
+      email: blackcat@blues.ru
+      subject: э...
+      deleted: false
+      text: '... выходит, я последний забрал, что ли?... ;('
+      replies:
+      - id: 8272
+        parent_id: 8267
+        date: 2002-10-16 13:04
+        poster: Музыкальный пират
+        email: gypsy@mail.ru
+        subject: Ну дык делов-то.. в ближайший гастроном за болванками и пишем, пишем...
+        deleted: false
+        text: '...по трояку продавать будем?'
+      - id: 8273
+        parent_id: 8267
+        date: 2002-10-16 14:13
+        poster: Natalia
+        email: autozona@hotmail.com
+        subject: ну...
+        deleted: false
+        text: '...и как Вам пластинка? Такая же суперская, как и предыдущая ("Spirit
+          of the Century")?'
+      - id: 8279
+        parent_id: 8267
+        date: 2002-10-16 21:30
+        poster: Andrei V. Evdokimov (evdokimov)
+        email: evdokimov@blues.ru
+        subject: видел в пурлеге два часа назад -
+        deleted: false
+        text: лежит
+        replies:
+        - id: 8281
+          parent_id: 8279
+          date: 2002-10-17 01:26
+          poster: Дима Казанцев (Dr. Nick)
+          email: dr.nick@blues.ru
+          subject: Не купил?
+          deleted: false
+          text: Если купил, расскажи о музыке, плиз.
+          replies:
+          - id: 8282
+            parent_id: 8281
+            date: 2002-10-17 01:53
+            poster: Andrei V. Evdokimov (evdokimov)
+            email: evdokimov@blues.ru
+            subject: увы
+            deleted: false
+            text: "Все деньги потратил на японские издания бони М и смоков. \nно в\
+              \ сети читал, мол, не так классно, как предыдущий, но классно все равно.\
+              \ как хошь, так и понимай такие рецензии."
+            replies:
+            - id: 8284
+              parent_id: 8282
+              date: 2002-10-17 02:40
+              poster: Дима Казанцев (Dr. Nick)
+              email: dr.nick@blues.ru
+              subject: Бони и Смоки
+              deleted: false
+              text: Советую тебе срочно прикупить японские издания Сюзи Кватро - отличная
+                тетка ващще! ;)

@@ -1,0 +1,24 @@
+topic_id: 980
+slug: topic-980
+title: 3.16 blues
+first_post: 2002-06-12 18:49
+last_post: 2002-06-12 19:44
+post_count: 2
+posts:
+- id: 5274
+  parent_id: null
+  date: 2002-06-12 18:49
+  poster: bbknight
+  email: Chernetskey@yahoo.com
+  subject: 3.16 blues
+  deleted: false
+  text: У кого есть этот блюз
+  replies:
+  - id: 5276
+    parent_id: 5274
+    date: 2002-06-12 19:44
+    poster: Дима Казанцев
+    email: doctor_nick@mail.ru
+    subject: Может
+    deleted: false
+    text: тебе нужен 32-20 Blues?

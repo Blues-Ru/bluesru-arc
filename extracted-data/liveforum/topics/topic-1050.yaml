@@ -1,0 +1,34 @@
+topic_id: 1050
+slug: topic-1050
+title: Увидел Аграновский будет в Манхетенне выступать
+first_post: 2002-02-21 10:01
+last_post: 2002-02-22 09:51
+post_count: 3
+posts:
+- id: 1468
+  parent_id: null
+  date: 2002-02-21 10:01
+  poster: Костин Владимир (Volk)
+  email: volk21@land.ru
+  subject: Увидел Аграновский будет в Манхетенне выступать
+  deleted: false
+  text: интересно как он туда пробился - не иначе как металлисты походотайствовали
+    - там же блюза по моему и не слыхивали
+  replies:
+  - id: 1495
+    parent_id: 1468
+    date: 2002-02-22 00:34
+    poster: Вадим  (AVA)
+    email: vad2908@mail.ru
+    subject: '...это в котором?'
+    deleted: false
+    text: '...Я знаю один в Питере...(AvA).'
+    replies:
+    - id: 1504
+      parent_id: 1495
+      date: 2002-02-22 09:51
+      poster: Костин Владимир (Volk)
+      email: volk21@land.ru
+      subject: Не знаю - здесь на сайте расписание концертов...
+      deleted: false
+      text: наверное в москве

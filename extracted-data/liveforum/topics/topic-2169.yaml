@@ -1,0 +1,45 @@
+topic_id: 2169
+slug: topic-2169
+title: что с блогами?
+first_post: 2004-07-07 12:21
+last_post: 2004-07-08 15:07
+post_count: 4
+posts:
+- id: 18916
+  parent_id: null
+  date: 2004-07-07 12:21
+  poster: Михаил Бирюков (nECKAPb)
+  email: blackcat@blues.ru
+  subject: что с блогами?
+  deleted: false
+  text: 'Хотел сделать запись в собственный блог - а он не открывается. Раз за разом
+    показывает пустую страницу и всё.
+
+    Так и не получилось запись сделать. :('
+  replies:
+  - id: 18920
+    parent_id: 18916
+    date: 2004-07-08 12:14
+    poster: Алексей Аграновский (Док)
+    email: aaa@genebee.msu.su
+    subject: А, знаю, Миша
+    deleted: false
+    text: про что ты хотел написать. Про Джимми Смита, конечно! И персона того стоит.
+      А вот что с блогами, непонятно. Я спокойно редактировал свой не далее как.
+    replies:
+    - id: 18924
+      parent_id: 18920
+      date: 2004-07-08 14:54
+      poster: Михаил Бирюков (nECKAPb)
+      email: blackcat@blues.ru
+      subject: правда твоя :)
+      deleted: false
+      text: О нём!..
+    - id: 18925
+      parent_id: 18920
+      date: 2004-07-08 15:07
+      poster: Михаил Бирюков (nECKAPb)
+      email: blackcat@blues.ru
+      subject: всё, порядок
+      deleted: false
+      text: Заработало.

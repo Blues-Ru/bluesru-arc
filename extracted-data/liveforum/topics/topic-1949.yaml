@@ -1,0 +1,77 @@
+topic_id: 1949
+slug: topic-1949
+title: Поздравляю Алексея Меринова с HB
+first_post: 2004-03-25 12:27
+last_post: 2004-03-26 14:21
+post_count: 8
+posts:
+- id: 17715
+  parent_id: null
+  date: 2004-03-25 12:27
+  poster: (Grem)
+  email: sergei.sergeev@emersonprocess.ru
+  subject: Поздравляю Алексея Меринова с HB
+  deleted: false
+  text: 'Желаю Лехе
+
+    Любви, здоровья, побед "коням" и хорошего блюза - всегда...'
+  replies:
+  - id: 17716
+    parent_id: 17715
+    date: 2004-03-25 14:16
+    poster: Владимир  Иванов (Barmaley)
+    email: '@'
+    subject: Ура-ура! Алексею,
+    deleted: false
+    text: который делает нашу жизнь веселее! :)
+    replies:
+    - id: 17717
+      parent_id: 17716
+      date: 2004-03-25 16:51
+      poster: MUSICBOX
+      email: baltika-blues@yandex.ru
+      subject: Ура ему!
+      deleted: false
+      text: ;)
+    - id: 17723
+      parent_id: 17716
+      date: 2004-03-25 21:37
+      poster: Старый Майор (gypsy)
+      email: gypsy@mail.ru
+      subject: Алексей! Делай жизнь веселей! ну и это.. держи кисть бодрей!
+      deleted: false
+      text: .. или чем ты там рисуешь.. впрочем, неважно! главное, что клёво! =))
+  - id: 17720
+    parent_id: 17715
+    date: 2004-03-25 19:22
+    poster: Дима Казанцев (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: оу йес!
+    deleted: false
+    text: да! с ДР! так держать!
+    replies:
+    - id: 17724
+      parent_id: 17720
+      date: 2004-03-26 00:36
+      poster: Юрий Каверкин (Gekko)
+      email: kaverkin@rol.ru
+      subject: Многие лета!!! И другие времена года...
+      deleted: false
+  - id: 17732
+    parent_id: 17715
+    date: 2004-03-26 12:50
+    poster: Andrei V. Evdokimov (evdokimov)
+    email: evdokimov@blues.ru
+    subject: ну, что тут сказать - тут чокнуться нужно :)
+    deleted: false
+    text: 'А вообще радностно видеть этого человека на блюзовых концертах.
+
+      (лично АМ: книжки будут доставлены в субботу вечером. В четверг я там не побывал.)'
+  - id: 17736
+    parent_id: 17715
+    date: 2004-03-26 14:21
+    poster: Alexander Lokotkov
+    email: lokotkov-2003@yandex.ru
+    subject: С ДР, Алексей Викторыч!:))(-)
+    deleted: false
+    text: '-'

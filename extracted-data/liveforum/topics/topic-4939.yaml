@@ -1,0 +1,22 @@
+topic_id: 4939
+slug: topic-4939
+title: может, просветит кто?
+first_post: 2012-10-16 01:27
+last_post: 2012-10-22 16:05
+post_count: 2
+posts:
+- id: 38571
+  parent_id: null
+  date: 2012-10-16 01:27
+  poster: Andrei V. Evdokimov
+  subject: может, просветит кто?
+  deleted: false
+  text: чей-то? http://music.yandex.ru/#!/artist/586974
+  replies:
+  - id: 38572
+    parent_id: 38571
+    date: 2012-10-22 16:05
+    poster: Старый Майор
+    subject: Это бред
+    deleted: false
+    text: ..и тема для общения с местной abuse team

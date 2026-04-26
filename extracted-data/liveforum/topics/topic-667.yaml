@@ -1,0 +1,33 @@
+topic_id: 667
+slug: topic-667
+title: Материалы для учёбы в интернет
+first_post: 2003-03-10 03:14
+last_post: 2003-03-10 04:30
+post_count: 3
+posts:
+- id: 10895
+  parent_id: null
+  date: 2003-03-10 03:14
+  poster: Alexey B. Ilyichev
+  email: alex_z77@mail.ru
+  subject: Материалы для учёбы в интернет
+  deleted: false
+  text: А где бы в интернете найти что-нибудь (например текстик какой или текстик
+    со звуком), что бы помогло научиться играть блюз на гитаре?
+  replies:
+  - id: 10897
+    parent_id: 10895
+    date: 2003-03-10 04:29
+    poster: Прохожий
+    email: qeyep@hotmail.ru
+    subject: Поиск в Googly
+    deleted: false
+    text: Да вот, хотя бы http://blues.about.com/cs/blueslessons/
+  - id: 10898
+    parent_id: 10895
+    date: 2003-03-10 04:30
+    poster: Прохожий
+    email: qeyep@hotmail.ru
+    subject: Поиск в Googly
+    deleted: false
+    text: Да вот, хотя бы http://blues.about.com/cs/blueslessons/

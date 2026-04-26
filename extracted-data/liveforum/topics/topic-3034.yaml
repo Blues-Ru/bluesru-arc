@@ -1,0 +1,35 @@
+topic_id: 3034
+slug: topic-3034
+title: зацените или обосрите, новая версия известной мелодии, очень смешная!!! (хоть
+  и не блюззз) www.realmusic.ru/songs/164425/
+first_post: 2006-01-08 16:33
+last_post: 2006-01-08 19:27
+post_count: 3
+posts:
+- id: 25346
+  parent_id: null
+  date: 2006-01-08 16:33
+  poster: Немов Евгений
+  email: jnr_new@mail.ru
+  subject: зацените или обосрите, новая версия известной мелодии, очень смешная!!!
+    (хоть и не блюззз) www.realmusic.ru/songs/164425/
+  deleted: false
+  text: www.realmusic.ru/songs/164425/
+  replies:
+  - id: 25348
+    parent_id: 25346
+    date: 2006-01-08 17:33
+    poster: Анти
+    email: anti@mail.ru
+    subject: Полный кайф!!!!
+    deleted: false
+    text: Полный кайф!!!!
+  - id: 25351
+    parent_id: 25346
+    date: 2006-01-08 19:27
+    poster: Doc.
+    email: doc@doc
+    subject: Очень весёлая мелодия, отлично ........
+    deleted: false
+    text: подойдет как соундтрэк к фильмам - Кавказская пленница, Приключения Шурика
+      и т.д.

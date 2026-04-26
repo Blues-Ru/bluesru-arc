@@ -1,0 +1,145 @@
+topic_id: 233
+slug: topic-233
+title: Кое-что
+first_post: 2002-07-25 20:04
+last_post: 2002-08-01 11:15
+post_count: 14
+posts:
+- id: 6356
+  parent_id: null
+  date: 2002-07-25 20:04
+  poster: Игорь Головачев (Игорь Г.)
+  email: sunny_city@mail.ru
+  subject: Кое-что
+  deleted: false
+  text: "из того что удалось подсмотреть :)\nStainless Blues Band в клубе Золотая\
+    \ лестница и\nDr.Nick в клубе BB.King \nПока фото,позже - звук :))\nна  BluesmAn.ru"
+  replies:
+  - id: 6360
+    parent_id: 6356
+    date: 2002-07-26 04:06
+    poster: Дима Казанцев (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: А вот вопрос
+    deleted: false
+    text: 'А почему все такое красное и малиновое? Это недостатки цифровой камеры
+      или освещения?
+
+      И как я понял, Игорь, тебе очень понравилась девушка Юля; ее там больше всех
+      ;)'
+    replies:
+    - id: 6371
+      parent_id: 6360
+      date: 2002-07-26 13:04
+      poster: Андрей Цыганков
+      email: gypsy@mail.ru
+      subject: Дима, тебя там тоже много в кадре, значит, ты тоже понравился Игорю?
+        :))
+      deleted: false
+      text: "Ой, и меня тоже... плохой признак :(((\n\nА эту картинку я повешу в своей\
+        \ спаленке, чтобы любоваться на неё долгими зимними вечерами: \nhttp://www.bluesman.ru/foto/24_07_2002/pages/P1001365_jpg.htm"
+      replies:
+      - id: 6385
+        parent_id: 6371
+        date: 2002-07-26 20:49
+        poster: Дима Казанцев (Dr. Nick)
+        email: dr.nick@blues.ru
+        subject: Ну так
+        deleted: false
+        text: я же был ведущий ;) А вот ты только одну вещь сыграл, а сколько раз
+          в кадр попал ;)
+      - id: 6388
+        parent_id: 6371
+        date: 2002-07-27 01:42
+        poster: Юрий Каверкин
+        email: kaverkin@rol.ru
+        subject: Классная картинка!!!! Я тоже на неё внимание обратил.
+        deleted: false
+        replies:
+        - id: 6413
+          parent_id: 6388
+          date: 2002-07-29 11:55
+          poster: khvorik
+          email: khvorik@blues.ru
+          subject: блюз-фото года! :)
+          deleted: false
+          text: http://www.bluesman.ru/foto/24_07_2002/pages/P1001392_jpg.htm
+          replies:
+          - id: 6415
+            parent_id: 6413
+            date: 2002-07-29 12:53
+            poster: Дима Казанцев (Dr. Nick)
+            email: dr.nick@blues.ru
+            subject: Да уж ;)
+            deleted: false
+            text: Эта хороша ;) Безликие такие получились ;) Но бас в ракурсе!
+            replies:
+            - id: 6463
+              parent_id: 6415
+              date: 2002-07-31 10:53
+              poster: AlexIV
+              email: evergreens@mail.ru
+              subject: А может....
+              deleted: false
+              text: '...конкурс устроить? или голосование? на тему блюз-фото года.
+                Здесь или на BluesmAn''e. Федор, Игорь и все,  что скажете? ;-)
+
+                .
+
+                Вот еще хороший кадр - Братец Кий! втречайте! :-)
+
+                http://bluesman.ru/foto/25_07_2002/images/P1001457_1_jpg.jpg'
+              replies:
+              - id: 6465
+                parent_id: 6463
+                date: 2002-07-31 13:09
+                poster: Игорь Головачев (Игорь Г.)
+                email: sunny_city@mail.ru
+                subject: Я - за
+                deleted: false
+                text: только на BLUESре,а то у нас(на BLUESMANе)и голосовать-то негде
+                  :)
+                replies:
+                - id: 6486
+                  parent_id: 6465
+                  date: 2002-08-01 11:15
+                  poster: Дима Казанцев (Dr. Nick)
+                  email: dr.nick@blues.ru
+                  subject: Игорю лично
+                  deleted: false
+                  text: Игорь, я получил твое мыло. Жду тебя сегодня у себя, тут и
+                    решим. Я надеюсь ты получил мое мыло?
+              - id: 6482
+                parent_id: 6463
+                date: 2002-08-01 07:34
+                poster: Дима Казанцев (Dr. Nick)
+                email: dr.nick@blues.ru
+                subject: Нет уж ;)
+                deleted: false
+                text: 'Такой Братец Кий нам не нужен ;) Это надо в специальные журналы
+                  помещать (для любителей кожаных штанов и кепок) ;)
+
+                  Очень симпатичный ;)'
+      - id: 6389
+        parent_id: 6371
+        date: 2002-07-27 02:10
+        poster: Дима Казанцев (Dr. Nick)
+        email: dr.nick@blues.ru
+        subject: Вопрос Цыгану
+        deleted: false
+        text: Андрей, а кто с тобой на фото в коридоре? Может я его забыл вызвать?
+    - id: 6412
+      parent_id: 6360
+      date: 2002-07-29 10:45
+      poster: Игорь Головачев (Игорь Г.)
+      email: sunny_city@mail.ru
+      subject: Сам не знаю. Похоже освещение
+      deleted: false
+  - id: 6364
+    parent_id: 6356
+    date: 2002-07-26 10:01
+    poster: (Sanya)
+    email: sanya@mailandnews.com
+    subject: Э-э (застенчиво), а звука к фото от 12 июня (выложено 10 июля) не будет?
+      :^) (-)
+    deleted: false

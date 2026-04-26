@@ -1,0 +1,50 @@
+topic_id: 723
+slug: topic-723
+title: Нужен совет
+first_post: 2003-04-03 22:49
+last_post: 2003-04-05 16:39
+post_count: 5
+posts:
+- id: 11383
+  parent_id: null
+  date: 2003-04-03 22:49
+  poster: Даня
+  email: delga@yandex.ru
+  subject: Нужен совет
+  deleted: false
+  text: Нужен совет профи, любителей и таких же новичков в области блюза, как и я!!!
+    Сфера деятельности велика, и с какой стороны к ней лучше подойти ПОКА ЕЩЕ не известно.
+    Будь добры и посоветуйте, с чего же лучше начинать. Огромное спасибо)))
+  replies:
+  - id: 11384
+    parent_id: 11383
+    date: 2003-04-04 05:26
+    poster: Nick Goodcorn (BLUESMAN)
+    email: sunburn2001@mail.ru
+    subject: Познакомься с Keith Richards)))))))))))))))))
+    deleted: false
+    text: Познакомься с Keith Richards)))))))))))))))))
+  - id: 11401
+    parent_id: 11383
+    date: 2003-04-05 08:52
+    poster: Malcolm Ray Redriver
+    email: lifebythedrop@yandex.ru
+    subject: А что тебе нравится?
+    deleted: false
+    text: Можно как многие с прирокенроленного ритмэндблюза, а можно ещё с чего.
+  - id: 11407
+    parent_id: 11383
+    date: 2003-04-05 16:30
+    poster: Жук
+    email: jouk@newmail.net
+    subject: Посмотри фильм "Перекрёсток":))))
+    deleted: false
+    text: Это многих славный путь!
+  - id: 11408
+    parent_id: 11383
+    date: 2003-04-05 16:39
+    poster: Андрей Ордальонов (Андрей PRG)
+    email: peregnoy@mail.ru
+    subject: Подкрадись сзади,
+    deleted: false
+    text: только чтоб никто не заметил ;) Тут то всё и начнётся :)

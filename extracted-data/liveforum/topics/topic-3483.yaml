@@ -1,0 +1,47 @@
+topic_id: 3483
+slug: topic-3483
+title: Андрей Е. :-)))). (я про календарь)
+first_post: 2006-11-07 02:16
+last_post: 2006-11-09 16:55
+post_count: 5
+posts:
+- id: 29301
+  parent_id: null
+  date: 2006-11-07 02:16
+  poster: Axle
+  email: axledg@mail.ru
+  subject: Андрей Е. :-)))). (я про календарь)
+  deleted: false
+  text: abkjcjd (читать - Филосов)
+  replies:
+  - id: 29302
+    parent_id: 29301
+    date: 2006-11-07 04:38
+    poster: Andrei V. Evdokimov (evdokimov)
+    email: evdokimov@blues.ru
+    subject: можно уточнить?
+    deleted: false
+    text: дату и сабджект?
+  - id: 29303
+    parent_id: 29301
+    date: 2006-11-07 11:36
+    poster: Axle
+    email: axledog@milo.ru
+    subject: Уставший караул и матроса Железняка, естствно
+    deleted: false
+    replies:
+    - id: 29305
+      parent_id: 29303
+      date: 2006-11-07 16:35
+      poster: Axle
+      email: axledog@mil.ru
+      subject: который разогнал, таки Учредительное собрание
+      deleted: false
+  - id: 29329
+    parent_id: 29301
+    date: 2006-11-09 16:55
+    poster: Andrei V. Evdokimov (evdokimov)
+    email: evdokimov@blues.ru
+    subject: нельзя ж та к нервировать )
+    deleted: false
+    text: я думал опять jgtxfnrf

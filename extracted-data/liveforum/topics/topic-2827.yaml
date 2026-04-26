@@ -1,0 +1,24 @@
+topic_id: 2827
+slug: topic-2827
+title: ищу Гургена Джангиряна!
+first_post: 2005-10-01 13:22
+last_post: 2005-10-03 13:49
+post_count: 2
+posts:
+- id: 23500
+  parent_id: null
+  date: 2005-10-01 13:22
+  poster: Ваня Жук
+  email: psihu@pisem.net
+  subject: ищу Гургена Джангиряна!
+  deleted: false
+  text: есть к нему дело срочно!
+  replies:
+  - id: 23517
+    parent_id: 23500
+    date: 2005-10-03 13:49
+    poster: xxx
+    email: gesh@nm.ru
+    subject: tel.
+    deleted: false
+    text: 8 903 140 88 67

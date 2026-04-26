@@ -1,0 +1,113 @@
+topic_id: 619
+slug: topic-619
+title: Blues dj
+first_post: 2003-02-12 02:40
+last_post: 2003-02-15 21:28
+post_count: 11
+posts:
+- id: 10518
+  parent_id: null
+  date: 2003-02-12 02:40
+  poster: Евгений
+  email: eugene@sacura.net
+  subject: Blues dj
+  deleted: false
+  text: Я тут поспорил с одним диджеем, что они, тобишь диджеи, тоже могут играть
+    (придумывать) блюз. Кто-нибудь знает что-то подобное или диджеи действительно
+    не блюзят, а только его ставят?
+  replies:
+  - id: 10521
+    parent_id: 10518
+    date: 2003-02-12 10:02
+    poster: Сергей Иванов (serge_ivanov)
+    email: serge_ivanov@hotmail.com
+    subject: а они вообще могут играть?
+    deleted: false
+    text: вот удивил ты меня :-)
+  - id: 10526
+    parent_id: 10518
+    date: 2003-02-12 12:14
+    poster: AlexIV
+    email: evergreens@mail.ru
+    subject: Иногда...
+    deleted: false
+    text: Вот Sonny Boy Williamson II диджействовал в своё время... И B.B.King тоже...
+  - id: 10555
+    parent_id: 10518
+    date: 2003-02-13 19:58
+    poster: Ded Morozzz
+    email: morozzz_ded@mail.ru
+    subject: Не верю! Что это за пурга...
+    deleted: false
+    text: '... про БиБи Кинга за диджейскими вертушками?'
+  - id: 10557
+    parent_id: 10518
+    date: 2003-02-14 08:38
+    poster: Malcolm Ray  Redriver (Mike)
+    email: lifebythedrop@yandex.ru
+    subject: БиБиК на радио работал и вёл передачи музыкальные.
+    deleted: false
+    text: О какого типа dj-ях речь идет о тех кро на радио записи ставят или о тех
+      к то на дискотеках пластинки крутят. Если первое- могу поверить, если второе...
+      " не смешите, таки, мои тапочки"
+    replies:
+    - id: 10558
+      parent_id: 10557
+      date: 2003-02-14 10:03
+      poster: vr  (Stone Crazy)
+      email: volodya@blues.ru
+      subject: в связи с этим есть идея..
+      deleted: false
+      text: надо научить Евдокимова играть на гитаре и петь. Язык он и так отлично
+        знает :)
+      replies:
+      - id: 10559
+        parent_id: 10558
+        date: 2003-02-14 12:46
+        poster: Старый Майор
+        email: gypsy@mail.ru
+        subject: Если зайца долго бить, он мясо есть будет...
+        deleted: false
+        text: Если бы Евдокимов хотел, давно бы научился и петь, и играть... однако
+          же вырос он совсем в другую сторону, и теперь всех тока критикует.. чегтовски
+          удобная позиция, батенька :)))
+        replies:
+        - id: 10564
+          parent_id: 10559
+          date: 2003-02-14 20:22
+          poster: vr  (Stone Crazy)
+          email: volodya@blues.ru
+          subject: я лично думаю
+          deleted: false
+          text: "что Евдокимов то как раз действительно научился тому, чему учился....\
+            \ \nмне кажется,что не все могут этим  похвастаться."
+          replies:
+          - id: 10565
+            parent_id: 10564
+            date: 2003-02-14 20:51
+            poster: Старый Майор
+            email: gypsy@mail.ru
+            subject: Как приятно, что мы думаем одно и то же )))
+            deleted: false
+  - id: 10562
+    parent_id: 10518
+    date: 2003-02-14 15:04
+    poster: Andrei V. Evdokimov (evdokimov)
+    email: evdokimov@blues.ru
+    subject: не ем я мясо
+    deleted: false
+    text: "да и старую собаку новым трюкам не научишь.\nа БиБиКинг на радио диджейстовал\
+      \ и даже рекламные джинглы сочинял. довольно противные. \nесть сейчас чувакелло\
+      \ один, который старые блюзы использовал. как бишь его? о, Моби!\nа вот зачем\
+      \ диджею блюз играть в дискотеке - я не понимаю. всё должно быть к месту и ко\
+      \ времени."
+    replies:
+    - id: 10569
+      parent_id: 10562
+      date: 2003-02-15 21:28
+      poster: Ded Morozzz
+      email: morozzz_ded@mail.ru
+      subject: Про место и время...
+      deleted: false
+      text: '... один местный "начной клабб" как-то хотел устроить жуткий сейшн: один
+        парень крутит пластинки, другой пилит что-то на гитаре :)'

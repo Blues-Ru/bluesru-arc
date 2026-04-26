@@ -1,0 +1,8 @@
+---
+id: 661
+slug: den-rozhdeniya-a-href-http-www-djangoband-com-target
+title: null
+date: 2012-03-25 00:00
+---
+
+День Рождения <a href="http://www.djangoband.com/" target="_blank"><b>Djangoband!</b></a> "Дом у Дороги / Ритм-энд-блюз Кафе", 23 марта 2012 г. Гости на сцене: Георгий Осмоловский (скрипка) и Михаил Владимиров-мл. (губная гармоника). <a href="/bluesnews/_12A/12_03_25_DUDdjango/"><b><i>Две дюжины фотографий >>></i> </b></a>

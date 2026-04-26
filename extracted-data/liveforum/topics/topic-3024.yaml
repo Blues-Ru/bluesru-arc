@@ -1,0 +1,80 @@
+topic_id: 3024
+slug: topic-3024
+title: Друзья!
+first_post: 2005-12-31 08:19
+last_post: 2005-12-31 22:26
+post_count: 6
+posts:
+- id: 25321
+  parent_id: null
+  date: 2005-12-31 08:19
+  poster: Дмитрий Казанцев (Dr. Nick)
+  email: dr.nick@blues.ru
+  subject: Друзья!
+  deleted: false
+  text: 'С наступающим Новым Годом!
+
+    Будьте здоровы и счастливы!
+
+    Лишь бы не было войны!
+
+    Peace!
+
+    Respect!'
+  replies:
+  - id: 25322
+    parent_id: 25321
+    date: 2005-12-31 14:10
+    poster: Elicaster
+    email: eee
+    subject: Присоединяюсь к сказанному
+    deleted: false
+    text: 'И много хорошей музыки.
+
+      Всем здоровья и удачи!'
+  - id: 25323
+    parent_id: 25321
+    date: 2005-12-31 14:20
+    poster: Grem
+    email: grems@yandex.ru
+    subject: Тоже хочу добавить
+    deleted: false
+    text: 'Желаю всем в новом году здоровья и удачи!!!!
+
+      Музыкантам новых вещей, хороших гигов и ангажементов (и гонораров конечно)....'
+  - id: 25324
+    parent_id: 25321
+    date: 2005-12-31 14:27
+    poster: Валентин
+    email: voshalb@rambler.ru
+    subject: Все сказано правильно...Присоединяюсь и хочу добавить три принципа...
+    deleted: false
+    text: 'Облегчающие жизнь-
+
+      1 Жизнь тяжела,но не скушна.
+
+      2 Не парься!
+
+      3 Зажигай!'
+  - id: 25325
+    parent_id: 25321
+    date: 2005-12-31 14:46
+    poster: Magic  (Guitaristka)
+    email: gruppamagic@narod.ru
+    subject: '2006'
+    deleted: false
+    text: 'HAPPY NEW YEAR !!!
+
+      http://www.videosvyaz.ru/happy_new_year.htm
+
+      Я сегодня работаю всю ночь в Селятино в 3-х должностях : гитаристка, звукорежиссер
+      и перетаскиватель аппарата...'
+  - id: 25326
+    parent_id: 25321
+    date: 2005-12-31 22:26
+    poster: Esbarro
+    email: dragonrider@inbox.ru
+    subject: И вас the same way!))
+    deleted: false
+    text: Ура, товарищи!) Побольше блюза в духе и поменьше в душе. Счастливого года
+      всем.

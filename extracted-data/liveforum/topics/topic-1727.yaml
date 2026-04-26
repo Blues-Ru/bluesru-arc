@@ -1,0 +1,60 @@
+topic_id: 1727
+slug: topic-1727
+title: Что случилось?  Волнуюсь...
+first_post: 2003-12-25 22:09
+last_post: 2003-12-26 22:11
+post_count: 6
+posts:
+- id: 16465
+  parent_id: null
+  date: 2003-12-25 22:09
+  poster: Игорь Г.
+  email: sunny_city@mail.ru
+  subject: Что случилось?  Волнуюсь...
+  deleted: false
+  text: http://kotmatrs.rinet.ru:8080/
+  replies:
+  - id: 16480
+    parent_id: 16465
+    date: 2003-12-26 14:02
+    poster: baltika
+    email: baltika-blues@yandex.ru
+    subject: а если немного задержацца на странице - всё ОК!)))
+    deleted: false
+    text: Игорь, если полминутки подождать - открываеца http://kotmatrs.rinet.ru:8080/index_.html
+    replies:
+    - id: 16487
+      parent_id: 16480
+      date: 2003-12-26 18:26
+      poster: Андрей Ордальонов (Андрей PRG)
+      email: peregnoy@mail.ru
+      subject: 'От этого суть не меняется:'
+      deleted: false
+      text: студии больше нет! :((((
+      replies:
+      - id: 16488
+        parent_id: 16487
+        date: 2003-12-26 18:48
+        poster: baltika
+        email: baltika-rock@yandex.ru
+        subject: не понятно...
+        deleted: false
+        text: "\"не помню когда именно\" этого года - случайно познакомилась с Татьяной\
+          \ Захаровой и от неё узнала, что студия is over... \nА как тада с акустическим\
+          \ альбомом Каверкина-Аграновского? Беготня по студиям вряд ли способствует\
+          \ творческому процессу...((( Выходит долго ещё ждать..."
+        replies:
+        - id: 16490
+          parent_id: 16488
+          date: 2003-12-26 20:43
+          poster: Игорь Г.
+          email: sunny_city@mail.ru
+          subject: Етит-тыть, о том и спич !!!
+          deleted: false
+        - id: 16491
+          parent_id: 16488
+          date: 2003-12-26 22:11
+          poster: Андрей Ордальонов (Андрей PRG)
+          email: peregnoy@mail.ru
+          subject: Выходит, что так.. :(
+          deleted: false

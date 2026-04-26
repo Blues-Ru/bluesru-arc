@@ -1,0 +1,23 @@
+topic_id: 5014
+slug: topic-5014
+title: Полчасика на утубе с сегодняшним именинником!
+first_post: 2013-03-20 13:01
+last_post: 2013-03-21 11:00
+post_count: 2
+posts:
+- id: 38821
+  parent_id: null
+  date: 2013-03-20 13:01
+  poster: Andrei V. Evdokimov
+  subject: Полчасика на утубе с сегодняшним именинником!
+  deleted: false
+  text: <iframe width="560" height="315" src="http://www.youtube.com/embed/_iBrNGqStKw"
+    frameborder="0" allowfullscreen></iframe>
+  replies:
+  - id: 38822
+    parent_id: 38821
+    date: 2013-03-21 11:00
+    poster: Arsen
+    subject: ДР ДВ
+    deleted: false
+    text: Спасибо!

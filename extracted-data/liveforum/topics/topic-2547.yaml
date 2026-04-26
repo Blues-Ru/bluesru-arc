@@ -1,0 +1,43 @@
+topic_id: 2547
+slug: topic-2547
+title: Обратите внимание!
+first_post: 2005-04-27 06:14
+last_post: 2005-04-28 18:51
+post_count: 3
+posts:
+- id: 21266
+  parent_id: null
+  date: 2005-04-27 06:14
+  poster: Дима Казанцев (Dr. Nick)
+  email: dr.nick@blues.ru
+  subject: Обратите внимание!
+  deleted: false
+  text: 'http://www.blues.ru/data/albumview.aspx?cdid=583
+
+    http://www.blues.ru/data/albumview.aspx?cdid=582
+
+    Чувак нереально крут!'
+  replies:
+  - id: 21274
+    parent_id: 21266
+    date: 2005-04-28 18:49
+    poster: Muddy Lives
+    email: mlives_6@hotmail.com
+    subject: Куда делся Little Sonny?
+    deleted: false
+    text: 'Насколько я знаю, он еще жив.  Но я давно не слышал о его выступлениях.
+
+
+
+      Muddy'
+    replies:
+    - id: 21275
+      parent_id: 21274
+      date: 2005-04-28 18:51
+      poster: Дима Казанцев (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: а фиг знает
+      deleted: false
+      text: 'это тебе, Мадди, виднее :)
+
+        мужик был обалденный!'

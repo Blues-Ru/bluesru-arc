@@ -1,0 +1,31 @@
+topic_id: 2486
+slug: topic-2486
+title: Народ!!! А кто знает,что это такое - Планета льда??И где она??
+first_post: 2005-03-25 12:15
+last_post: 2005-03-25 13:26
+post_count: 3
+posts:
+- id: 20890
+  parent_id: null
+  date: 2005-03-25 12:15
+  poster: Валентин
+  email: voshalb@rambler.ru
+  subject: Народ!!! А кто знает,что это такое - Планета льда??И где она??
+  deleted: false
+  replies:
+  - id: 20891
+    parent_id: 20890
+    date: 2005-03-25 13:25
+    poster: Федор Романенко (fedor)
+    email: fedor@blues.ru
+    subject: Это - керлинг-клуб в Орехово-Борисово ;)
+    deleted: false
+    text: http://www.curlingclub.ru/mainpage.htm
+  - id: 20892
+    parent_id: 20890
+    date: 2005-03-25 13:26
+    poster: Yuri Kaverkin (Gekko)
+    email: kaverkin@rol.ru
+    subject: Надеюсь, что не на Северном Полюсе..а если кому интересно то это...
+    deleted: false
+    text: ..Воронежская улица дом 13/3 (метро Домодедовская) тел.109 80 50....

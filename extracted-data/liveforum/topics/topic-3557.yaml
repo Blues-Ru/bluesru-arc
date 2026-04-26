@@ -1,0 +1,31 @@
+topic_id: 3557
+slug: topic-3557
+title: Много разных фоток. Думал, что кому интересно.
+first_post: 2007-01-24 17:06
+last_post: 2007-01-26 10:10
+post_count: 3
+posts:
+- id: 30692
+  parent_id: null
+  date: 2007-01-24 17:06
+  poster: Axle
+  email: axledog@mal.ru
+  subject: Много разных фоток. Думал, что кому интересно.
+  deleted: false
+  text: http://www.nga.ch/sits/Blue%20sits/blues%20gallery.htm
+  replies:
+  - id: 30694
+    parent_id: 30692
+    date: 2007-01-24 18:51
+    poster: Алексей Аграновский (Док)
+    email: aaa@genebee.msu.su
+    subject: Ух ты!
+    deleted: false
+    text: Хорошие фото. И немало.
+  - id: 30716
+    parent_id: 30692
+    date: 2007-01-26 10:10
+    poster: Игорь Головачев (Игорь Г.)
+    email: sunny_city@mail.ru
+    subject: Полный восторг!!!
+    deleted: false

@@ -1,0 +1,36 @@
+topic_id: 580
+slug: topic-580
+title: Загадка
+first_post: 2003-01-20 01:28
+last_post: 2003-01-20 22:59
+post_count: 3
+posts:
+- id: 10117
+  parent_id: null
+  date: 2003-01-20 01:28
+  poster: vr  (Stone Crazy)
+  email: volodya@blues.ru
+  subject: Загадка
+  deleted: false
+  text: 'http://music.jimi.ru/blues.mp3
+
+
+    угадайте песню и исполнителя :) файлик 1метр.'
+  replies:
+  - id: 10118
+    parent_id: 10117
+    date: 2003-01-20 09:04
+    poster: arsen
+    email: shomakhov¦@yahoo.com
+    subject: Похоже на
+    deleted: false
+    text: in the court of the crimson king ;)
+    replies:
+    - id: 10157
+      parent_id: 10118
+      date: 2003-01-20 22:59
+      poster: vr  (Stone Crazy)
+      email: volodya@blues.ru
+      subject: ага :))
+      deleted: false
+      text: даже Фрипп играл "дадададада" :))))))))

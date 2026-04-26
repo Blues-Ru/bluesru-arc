@@ -1,0 +1,33 @@
+topic_id: 729
+slug: topic-729
+title: Не... на роликах это круто!!! Среди блюзменов наверное только Аграновский сможет
+  на роликах.... Stormy Monday например....
+first_post: 2003-04-06 21:28
+last_post: 2003-04-06 23:28
+post_count: 3
+posts:
+- id: 11413
+  parent_id: null
+  date: 2003-04-06 21:28
+  poster: Юрий Каверкин
+  email: kaverkin@rol.ru
+  subject: Не... на роликах это круто!!! Среди блюзменов наверное только Аграновский
+    сможет на роликах.... Stormy Monday например....
+  deleted: false
+  replies:
+  - id: 11414
+    parent_id: 11413
+    date: 2003-04-06 21:42
+    poster: Greta
+    email: morehemp@mail.ru
+    subject: Да, только вот вопрос..
+    deleted: false
+    text: а где ж в "Запаснике" на роликах кататься? :) Там сцена с пятачок..
+    replies:
+    - id: 11418
+      parent_id: 11414
+      date: 2003-04-06 23:28
+      poster: Юрий Каверкин
+      email: kaverkin@rol.ru
+      subject: А стены, потолок, столы???? !!!
+      deleted: false

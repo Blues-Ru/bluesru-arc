@@ -1,0 +1,26 @@
+topic_id: 2658
+slug: topic-2658
+title: PLEASE HALP! WANTED!
+first_post: 2005-07-21 00:26
+last_post: 2005-07-21 18:00
+post_count: 2
+posts:
+- id: 22045
+  parent_id: null
+  date: 2005-07-21 00:26
+  poster: Born under bad sign
+  email: zloykak@yahoo.com
+  subject: PLEASE HALP! WANTED!
+  deleted: false
+  text: На "Открытом Радио" передавали как-то русский блюз, со словами, что-то типа
+    " стою на остановке, холодно, денег нет и не будет..." Так может кто-нибудь подскажет
+    что за коллектив играл ( играет )?ПОЖАЛУЙСТА! Вспомните, please! Хотя это уже
+    давно было...
+  replies:
+  - id: 22049
+    parent_id: 22045
+    date: 2005-07-21 18:00
+    poster: Lars
+    email: Lars@List.ru
+    subject: уже обсуждалось в форуме месяц назад
+    deleted: false

@@ -1,0 +1,30 @@
+topic_id: 5081
+slug: topic-5081
+title: Вера Кузницова
+first_post: 2013-06-17 15:57
+last_post: 2013-06-18 12:53
+post_count: 3
+posts:
+- id: 38997
+  parent_id: null
+  date: 2013-06-17 15:57
+  poster: Плакса
+  subject: Вера Кузницова
+  deleted: false
+  text: <iframe width="560" height="315" src="http://www.youtube.com/embed/5L2dfQLoL_I"
+    frameborder="0" allowfullscreen></iframe>
+  replies:
+  - id: 38998
+    parent_id: 38997
+    date: 2013-06-17 15:58
+    poster: Плакса
+    subject: опечатка
+    deleted: false
+    text: конечно же Кузнецова! исправьте плз опечатку.
+    replies:
+    - id: 39000
+      parent_id: 38998
+      date: 2013-06-18 12:53
+      poster: Andrei V. Evdokimov
+      subject: форум не правится
+      deleted: false

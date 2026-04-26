@@ -1,0 +1,52 @@
+topic_id: 3678
+slug: topic-3678
+title: SOBO in Moscow
+first_post: 2007-07-09 22:42
+last_post: 2007-07-10 23:56
+post_count: 5
+posts:
+- id: 33158
+  parent_id: null
+  date: 2007-07-09 22:42
+  poster: SOBO Dan
+  email: sobodan ПСИНА gmail.com
+  subject: SOBO in Moscow
+  deleted: false
+  text: "Привет всем!\n\nмы собираемся прилететь в Москву в Августе по приглашению\
+    \ Сергея Воронова, на фестиваль в Лефортово,\n\nменя интересует вопрос жилья в\
+    \ Москве, \nнет ли у кого свободной квартиры на сьем на неделю с 8 до 13 августа,\n\
+    время летнее, многие на дачах и в разьездах, так что возможно кому-то это может\
+    \ быть выгодно.\n\nзаранее благодарен, \n\nC U all soon ;)\n\nwww.sobo.co.il"
+  replies:
+  - id: 33160
+    parent_id: 33158
+    date: 2007-07-10 03:02
+    poster: Старый майор
+    email: gypsy@mail.ru
+    subject: Лучший сайт по съему квартир посуточно  - CIAN,RU
+    deleted: false
+    replies:
+    - id: 33167
+      parent_id: 33160
+      date: 2007-07-10 23:56
+      poster: SOBO Dan
+      email: sobodan Pesik gmail.com
+      subject: cool
+      deleted: false
+      text: thanks, возьму на учет ;)
+    - id: 33168
+      parent_id: 33160
+      date: 2007-07-10 23:56
+      poster: SOBO Dan
+      email: sobodan Pesik gmail.com
+      subject: cool
+      deleted: false
+      text: thanks, возьму на учет ;)
+  - id: 33162
+    parent_id: 33158
+    date: 2007-07-10 14:14
+    poster: Федор Романенко (fedor)
+    email: fedor@blues.ru
+    subject: Напиши мне....
+    deleted: false
+    text: Обсудим!

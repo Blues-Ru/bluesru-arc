@@ -1,0 +1,25 @@
+topic_id: 1152
+slug: topic-1152
+title: Ищем Chris Farlowe
+first_post: 2002-01-26 16:02
+last_post: 2002-01-26 17:34
+post_count: 2
+posts:
+- id: 340
+  parent_id: null
+  date: 2002-01-26 16:02
+  poster: Captain Beefheart
+  email: crazy_bear@fomenko.ru
+  subject: Ищем Chris Farlowe
+  deleted: false
+  text: Кто знает такого, ответьте (слово то сложное какое:))! Для тех, кто не знает,
+    скажу - КРУТАА-ААААА-аа...
+  replies:
+  - id: 346
+    parent_id: 340
+    date: 2002-01-26 17:34
+    poster: Дима Казанцев (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: И чего там крутого-то?
+    deleted: false
+    text: Ты же вроде о Блюзе "базаришь", при чем тут Фарлоу-то???

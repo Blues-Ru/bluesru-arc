@@ -1,0 +1,35 @@
+topic_id: 2481
+slug: topic-2481
+title: Федор,
+first_post: 2005-03-23 19:45
+last_post: 2005-03-23 23:34
+post_count: 3
+posts:
+- id: 20858
+  parent_id: null
+  date: 2005-03-23 19:45
+  poster: Алексей Аграновский (Док)
+  email: aaa@genebee.msu.su
+  subject: Федор,
+  deleted: false
+  text: а что это на гостевой книге здесь делается? Кислотная вечеринка?
+  replies:
+  - id: 20863
+    parent_id: 20858
+    date: 2005-03-23 20:19
+    poster: Elicaster
+    email: elicaster(@)))mmmmmmmmmmail.ru
+    subject: http://www.blues.ru/GuestBook.asp
+    deleted: false
+    text: 'Шо это?
+
+      <img src="http://www.mondials.com/Official.jpg">'
+  - id: 20867
+    parent_id: 20858
+    date: 2005-03-23 23:34
+    poster: Федор Романенко (fedor)
+    email: fedor@blues.ru
+    subject: Гестбук
+    deleted: false
+    text: Да, уже не в первый раз ;) Я только что принял меры. Любой html в гестбуке
+      беззубо пойдет в исходном виде и будет висеть, пока я его не удалю...

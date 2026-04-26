@@ -1,0 +1,71 @@
+topic_id: 600
+slug: topic-600
+title: Что за концетник сегодня играл?..
+first_post: 2003-02-02 23:34
+last_post: 2003-02-04 16:56
+post_count: 6
+posts:
+- id: 10383
+  parent_id: null
+  date: 2003-02-02 23:34
+  poster: Антон В. Зенин
+  email: zav@mx.ihep.su
+  subject: Что за концетник сегодня играл?..
+  deleted: false
+  text: '... в "Эфес Блюз Баре" на 102.5, с участием Buddy Guy & Junior Wells, начало
+    я благополучно пропустил, а по дороге -- ни года, ни другой зацепки не услышал.
+    На allmusic.com тоже ничего не идентифецировалось. Подскажите, кто слушал сначала.
+
+
+    Антон'
+  replies:
+  - id: 10386
+    parent_id: 10383
+    date: 2003-02-03 02:21
+    poster: Федор Романенко (fedor)
+    email: fedor@blues.ru
+    subject: Efes Blues Bar
+    deleted: false
+    text: Я тоже слышал треть этого хорошего концерта. Вообще-то, они крутят концерты
+      BBC, на которые покупают права. Вероятно, это был один из BBC-концертов, который
+      отдельно, наверняка, не издавался. С другой стороны, Бадди Гай и Дж.Веллс сыграли
+      вместе не одну сотню концертов, поэтому нет причин, чтобы искать именно этот
+      ;)
+  - id: 10392
+    parent_id: 10383
+    date: 2003-02-03 12:06
+    poster: McL
+    email: mcl@macbox.ru
+    subject: Buddy Guy & Junior Wells
+    deleted: false
+    text: 'Давно такое можно найти в интернете, наверное, сами знаете где ;))))
+
+      Я себе уже скачал ;)))'
+    replies:
+    - id: 10404
+      parent_id: 10392
+      date: 2003-02-03 17:41
+      poster: Антон В. Зенин
+      email: zav@mx.ihep.su
+      subject: Угу!
+      deleted: false
+      text: 'Мысль хорошая, только подскажите, все-таки, ВЧЕРАШНИЙ это какого года???
+        В пресловутом месте я нашел похожий от 1993 года, это оно? :-)
+
+
+        Антон'
+  - id: 10394
+    parent_id: 10383
+    date: 2003-02-03 12:37
+    poster: Дмитрий(fan))
+    email: leondmitr@freemail.ru
+    subject: Бери все подряд - не ошибешься!
+    deleted: false
+    replies:
+    - id: 10428
+      parent_id: 10394
+      date: 2003-02-04 16:56
+      poster: Антон В. Зенин
+      email: zav@mx.ihep.su
+      subject: Совет пральный! Всем спасибо!!! :-)
+      deleted: false

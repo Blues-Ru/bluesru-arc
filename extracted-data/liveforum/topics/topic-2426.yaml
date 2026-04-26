@@ -1,0 +1,44 @@
+topic_id: 2426
+slug: topic-2426
+title: Fender Party
+first_post: 2005-02-13 21:08
+last_post: 2005-02-14 01:03
+post_count: 4
+posts:
+- id: 20439
+  parent_id: null
+  date: 2005-02-13 21:08
+  poster: Диброва
+  email: dibrova_blues@rambler.ru
+  subject: Fender Party
+  deleted: false
+  text: Кто знает, где можно посмотреть фотки с последнего Fender Party?
+  replies:
+  - id: 20446
+    parent_id: 20439
+    date: 2005-02-13 22:34
+    poster: vr  (Stone Crazy)
+    email: volodya@blues.ru
+    subject: вот у нас есть немного
+    deleted: false
+    text: <A HREF="http://www.bluescats.ru/files/20041211.fender/">http://www.bluescats.ru/files/20041211.fender/</A>
+    replies:
+    - id: 20447
+      parent_id: 20446
+      date: 2005-02-13 23:46
+      poster: Диброва
+      email: dibrova_blues@rambler.ru
+      subject: посмотрела
+      deleted: false
+      text: Что-то мало фотографий Воронова
+      replies:
+      - id: 20448
+        parent_id: 20447
+        date: 2005-02-14 01:03
+        poster: vr  (Stone Crazy)
+        email: volodya@blues.ru
+        subject: ну звиняйте :))
+        deleted: false
+        text: "сколько есть :)) все на добровольной основе :))))  нафоткали как могли.\
+          \ больше всего нас, так как фотки наши ;) \n\nнадо было приходить и фоткать\
+          \ самостоятельно :))))))"

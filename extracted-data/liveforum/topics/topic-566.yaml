@@ -1,0 +1,55 @@
+topic_id: 566
+slug: topic-566
+title: Звук из Пупера с первого дня гармошечного фестиваля
+first_post: 2003-01-13 19:24
+last_post: 2003-01-17 15:11
+post_count: 5
+posts:
+- id: 10013
+  parent_id: null
+  date: 2003-01-13 19:24
+  poster: Игорь Головачев (Игорь Г.)
+  email: sunny_city@mail.ru
+  subject: Звук из Пупера с первого дня гармошечного фестиваля
+  deleted: false
+  text: 'Не хотел выкладывать,но многие,как выяснилось,интересуются.
+
+    Не густо конечно,ну что вышло то вышло. Заранее прошу пардону если что не так.'
+  replies:
+  - id: 10023
+    parent_id: 10013
+    date: 2003-01-14 12:18
+    poster: Игорь Головачев (Игорь Г.)
+    email: sunny_city@mail.ru
+    subject: Ой, это все на BluesmAn.ru
+    deleted: false
+    text: "Архив за 2002 год пока так \nhttp://bluesman.ru/2002/"
+    replies:
+    - id: 10031
+      parent_id: 10023
+      date: 2003-01-14 15:23
+      poster: Slavik Chernov (Blacky)
+      email: Blacky@softhome.net
+      subject: Это замечательно, но
+      deleted: false
+      text: 'Игорек, где же ссылка на сайте на архив 2002 года?
+
+        Те, кто не читает этот форум, не догадаются где искать 2002-й.
+
+        (или так и задумывалось ;-)'
+      replies:
+      - id: 10040
+        parent_id: 10031
+        date: 2003-01-15 10:15
+        poster: Игорь Головачев (Игорь Г.)
+        email: sunny_city@mail.ru
+        subject: Всё будет исправлено ближайшее время
+        deleted: false
+        replies:
+        - id: 10087
+          parent_id: 10040
+          date: 2003-01-17 15:11
+          poster: Игорь Головачев (Игорь Г.)
+          email: sunny_city@mail.ru
+          subject: Уже исправлено :)))
+          deleted: false

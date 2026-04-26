@@ -1,0 +1,24 @@
+topic_id: 2866
+slug: topic-2866
+title: А куда подевался Marat Dakota?
+first_post: 2005-10-20 06:43
+last_post: 2005-10-20 11:57
+post_count: 2
+posts:
+- id: 24007
+  parent_id: null
+  date: 2005-10-20 06:43
+  poster: Огиенко Олег Валентинович
+  email: ogienkoov@nk.nornik.ru
+  subject: А куда подевался Marat Dakota?
+  deleted: false
+  text: Марат ты получил мое последнее письмо по мылу?
+  replies:
+  - id: 24008
+    parent_id: 24007
+    date: 2005-10-20 11:57
+    poster: Marat Dakota
+    email: mhobbit@mail.ru
+    subject: получил!
+    deleted: false
+    text: и только что ответил.

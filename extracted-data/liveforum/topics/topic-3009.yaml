@@ -1,0 +1,32 @@
+topic_id: 3009
+slug: topic-3009
+title: запоздалые фотки Пола Лемба из ЦДХ :)
+first_post: 2005-12-22 01:52
+last_post: 2005-12-22 11:42
+post_count: 3
+posts:
+- id: 25201
+  parent_id: null
+  date: 2005-12-22 01:52
+  poster: Владимир Русинов (BluesCat)
+  email: volodya@blues.ru
+  subject: запоздалые фотки Пола Лемба из ЦДХ :)
+  deleted: false
+  text: <A HREF="http://www.bluescats.ru/files/20051203.paullamb/">http://www.bluescats.ru/files/20051203.paullamb/</A>
+  replies:
+  - id: 25202
+    parent_id: 25201
+    date: 2005-12-22 07:31
+    poster: Ded Morozzz
+    email: morozzz_ded@mail.tu
+    subject: Картинки не грузяццо!
+    deleted: false
+    text: Иррор, блин!
+    replies:
+    - id: 25203
+      parent_id: 25202
+      date: 2005-12-22 11:42
+      poster: Владимир Русинов (BluesCat)
+      email: volodya@blues.ru
+      subject: починил! :)
+      deleted: false

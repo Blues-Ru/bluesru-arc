@@ -1,0 +1,44 @@
+topic_id: 2387
+slug: topic-2387
+title: Господа, помогите! Есть ли такой исполнитель - Джек Джонсон? +
+first_post: 2005-01-19 19:52
+last_post: 2005-01-20 00:56
+post_count: 3
+posts:
+- id: 20203
+  parent_id: null
+  date: 2005-01-19 19:52
+  poster: Olli
+  email: sky_on@land.ru
+  subject: Господа, помогите! Есть ли такой исполнитель - Джек Джонсон? +
+  deleted: false
+  text: 'Слышала музыку - очень мне понравилось, спросила кто поет, сказали Джек Джонсон.
+    Но в инете такого товарища как-то не нашлось, то ли я напутала, то ли наврали
+    %-)
+
+
+    Что-то в духе Марка Нофлера, гитара и мужской вокал. Пожалуй, можно отнести к
+    блюз-року.
+
+
+    Может есть мысли, кто бы это мог быть?:)
+
+    Музычка очень достойная.'
+  replies:
+  - id: 20206
+    parent_id: 20203
+    date: 2005-01-19 21:00
+    poster: Muddy Lives
+    email: mlives_6@hotmail.com
+    subject: Возможно имеется ввиду Big Jack Johnson?
+    deleted: false
+    text: http://www.thebluesjoint.com/jjohnson.htm
+    replies:
+    - id: 20209
+      parent_id: 20206
+      date: 2005-01-20 00:56
+      poster: Olli
+      email: sky_on@land.ru
+      subject: Послушала - не он... Судя по голосу, тот скорее белый (-)
+      deleted: false
+      text: .

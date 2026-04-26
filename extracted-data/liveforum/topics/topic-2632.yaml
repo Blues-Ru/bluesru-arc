@@ -1,0 +1,32 @@
+topic_id: 2632
+slug: topic-2632
+title: Новые Lovely Tunes на моём сервере.
+first_post: 2005-06-27 17:17
+last_post: 2005-06-28 10:59
+post_count: 2
+posts:
+- id: 21867
+  parent_id: null
+  date: 2005-06-27 17:17
+  poster: Старый Майор
+  email: gypsy@mail.ru
+  subject: Новые Lovely Tunes на моём сервере.
+  deleted: false
+  text: 'В директорию Lovely Tunes выложил подборку разных исполнителей двух старых
+    добрых блюзов:
+
+
+    1) Hold That Train
+
+    2) Blue Shadows
+
+
+    Адрес не изменился =))'
+  replies:
+  - id: 21872
+    parent_id: 21867
+    date: 2005-06-28 10:59
+    poster: Дмитрий (фан)
+    email: leonidovd@mail.ru
+    subject: А ссылочку плиз можно попросить?
+    deleted: false

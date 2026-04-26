@@ -1,0 +1,43 @@
+topic_id: 4084
+slug: topic-4084
+title: братцы
+first_post: 2008-09-13 15:59
+last_post: 2008-09-14 01:08
+post_count: 4
+posts:
+- id: 35767
+  parent_id: null
+  date: 2008-09-13 15:59
+  poster: Andrei V. Evdokimov (evdokimov)
+  email: evdokimov@blues.ru
+  subject: братцы
+  deleted: false
+  text: кто-нибудь знает точно? хватит слухи распускать!
+  replies:
+  - id: 35773
+    parent_id: 35767
+    date: 2008-09-13 23:07
+    poster: Маша Левин
+    email: marianner@ya.ru
+    subject: Лучшие из нас уходят первыми.
+    deleted: false
+    text: .
+  - id: 35774
+    parent_id: 35767
+    date: 2008-09-13 23:08
+    poster: Маша Левин
+    email: marianner@ya.ru
+    subject: Лучшие из нас уходят первыми.
+    deleted: false
+    text: .
+    replies:
+    - id: 35776
+      parent_id: 35774
+      date: 2008-09-14 01:08
+      poster: Andrei V. Evdokimov (evdokimov)
+      email: evdokimov@blues.ru
+      subject: это точно
+      deleted: false
+      text: 'но я прошу тетбя написатьоб этом...
+
+        я просто не могу'

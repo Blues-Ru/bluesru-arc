@@ -1,0 +1,36 @@
+topic_id: 63
+slug: topic-63
+title: Вопрос Фёдору...
+first_post: 2002-02-15 00:49
+last_post: 2002-02-15 05:27
+post_count: 3
+posts:
+- id: 1284
+  parent_id: null
+  date: 2002-02-15 00:49
+  poster: Вадим  (AVA)
+  email: vad2908@mail.ru
+  subject: Вопрос Фёдору...
+  deleted: false
+  text: '...в чём дело, на гл. стр. появилась инфа о Кокомо, сллыка на него работает,
+    а вот ссылка на: ... далее>>, выдает ошибку HTTP500???
+
+    Может я чего не так делаю? Вадим.'
+  replies:
+  - id: 1285
+    parent_id: 1284
+    date: 2002-02-15 05:14
+    poster: зам.зав.
+    email: evdokimov@blues.ru
+    subject: починили, и ладно. к чему подробности?
+    deleted: false
+    text: '-'
+    replies:
+    - id: 1286
+      parent_id: 1285
+      date: 2002-02-15 05:27
+      poster: Вадим  (AVA)
+      email: vad2908@mail.ru
+      subject: спасибо....
+      deleted: false
+      text: '1'

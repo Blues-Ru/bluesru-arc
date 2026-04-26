@@ -1,0 +1,33 @@
+topic_id: 1958
+slug: topic-1958
+title: Eddie "The Chief" Clearwater feat. Los Straitjackets "Rock'N'Roll City"
+first_post: 2004-03-28 18:18
+last_post: 2004-03-29 07:22
+post_count: 3
+posts:
+- id: 17778
+  parent_id: null
+  date: 2004-03-28 18:18
+  poster: Spoiler
+  email: frenzy@etel.ru
+  subject: Eddie "The Chief" Clearwater feat. Los Straitjackets "Rock'N'Roll City"
+  deleted: false
+  text: Уважаемые любители блюза, очень интересно Ваше мнение об этой пластинке.
+  replies:
+  - id: 17781
+    parent_id: 17778
+    date: 2004-03-29 00:03
+    poster: Федор Романенко (fedor)
+    email: fedor@blues.ru
+    subject: Eddie & Los
+    deleted: false
+    text: Я ничего не знаю о пластинке, но послушаю этих музыкантов вместе через полтора
+      месяца в Голландии ;)
+    replies:
+    - id: 17787
+      parent_id: 17781
+      date: 2004-03-29 07:22
+      poster: Spoiler
+      email: frenzy@etel.ru
+      subject: Везет :)
+      deleted: false

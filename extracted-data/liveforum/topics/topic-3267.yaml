@@ -1,0 +1,26 @@
+topic_id: 3267
+slug: topic-3267
+title: blues on the water
+first_post: 2006-05-24 22:07
+last_post: 2006-05-25 14:03
+post_count: 2
+posts:
+- id: 27481
+  parent_id: null
+  date: 2006-05-24 22:07
+  poster: Ирина Севастьянова (jess)
+  email: irinapromo@mail.ru
+  subject: blues on the water
+  deleted: false
+  text: В Петербурге проходит серия концертов на теплоходах Blues on the water. Два
+    - три часа водной прогулки по Неве, белые ночи, суперическая музыка.....Расписание
+    на www.mojoclub.ru.
+  replies:
+  - id: 27485
+    parent_id: 27481
+    date: 2006-05-25 14:03
+    poster: Владимир Русинов (BluesCat)
+    email: volodya@blues.ru
+    subject: может я не туда посмотрел
+    deleted: false
+    text: но как раз расписания то я и не нашел :)

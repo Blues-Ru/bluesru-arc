@@ -1,0 +1,171 @@
+topic_id: 526
+slug: topic-526
+title: А вот еще радость ;)
+first_post: 2002-12-23 01:09
+last_post: 2002-12-24 22:43
+post_count: 17
+posts:
+- id: 9560
+  parent_id: null
+  date: 2002-12-23 01:09
+  poster: Дима Казанцев (Казан)
+  email: dr.nick@blues.ru
+  subject: А вот еще радость ;)
+  deleted: false
+  text: 'Наконец-то у меня есть Таж на ДВД. Очень приятный человек ;)
+
+    http://www.allmusic.com/cg/amg.dll?p=amg&uid=SEARCH&sql=Apl5g8qczbtq4
+
+    На гитаре играет только он, и делает он это отлично.'
+  replies:
+  - id: 9563
+    parent_id: 9560
+    date: 2002-12-23 13:06
+    poster: Федор Романенко (fedor)
+    email: fedor@blues.ru
+    subject: Дууууууурь!
+    deleted: false
+    text: И где ты его купил? Лицензионный? Там он один выступает без ансамбля?
+    replies:
+    - id: 9579
+      parent_id: 9563
+      date: 2002-12-23 18:29
+      poster: Дима Казанцев (Казан)
+      email: dr.nick@blues.ru
+      subject: Настоящий
+      deleted: false
+      text: В ПурЛеге и недорого.
+      replies:
+      - id: 9609
+        parent_id: 9579
+        date: 2002-12-24 12:03
+        poster: Дмитрий(fan))
+        email: leondmitr@freemail.ru
+        subject: А недорого и в ПурЛеге -
+        deleted: false
+        text: это вообще сколько? Ну, хоть порядок стоимости.
+        replies:
+        - id: 9620
+          parent_id: 9609
+          date: 2002-12-24 22:43
+          poster: Дима Казанцев (Казан)
+          email: dr.nick@blues.ru
+          subject: Порядок
+          deleted: false
+          text: это 23 доллара. Бывают там диски и от 17. Есть и дороже, конечно.
+  - id: 9569
+    parent_id: 9560
+    date: 2002-12-23 16:19
+    poster: Greta
+    email: morehemp@mail.ru
+    subject: здорово! а где, в пурлеге?
+    deleted: false
+    text: а недавно, где-то месяц назад, был какой-то малозначительный фильм по TV,
+      но у него была одна достопримечательность - на заднем плане, в качестве бэнда
+      уличного кафе выступал Таж со своей изумительной красоты The Calypsonians..
+    replies:
+    - id: 9597
+      parent_id: 9569
+      date: 2002-12-23 22:10
+      poster: Федор Романенко (fedor)
+      email: fedor@blues.ru
+      subject: 7 дней, 7 ночей
+      deleted: false
+      text: С Харрисоном Фордом, кажись?
+      replies:
+      - id: 9598
+        parent_id: 9597
+        date: 2002-12-23 22:30
+        poster: Дима Казанцев (Казан)
+        email: dr.nick@blues.ru
+        subject: С каких это пор
+        deleted: false
+        text: ты так любишь и "знаешь" Тажа? ;)
+        replies:
+        - id: 9603
+          parent_id: 9598
+          date: 2002-12-24 00:38
+          poster: Федор Романенко (fedor)
+          email: fedor@blues.ru
+          subject: Кино
+          deleted: false
+          text: 'Да я просто это немного глуповатое кино смотрел ;)
+
+            Кстати, эта тема уже обсуждалась, но почему-то все забыли. Ты, Дим, еще
+            всех на allmovies посылал.'
+      - id: 9602
+        parent_id: 9597
+        date: 2002-12-24 00:32
+        poster: Greta
+        email: morehemp@mail.ru
+        subject: Six Days, Seven Nights
+        deleted: false
+        text: 'Скорее всего, да. Вот честно - не помню. Таж затмил собою всё! :) Хоть
+          и в эпизоде на заднем плане. Видимо, он там был главное действующее лицо.
+
+          И Харрисонов Фордов, и уж тем более тематику кино.. нэ помню :)'
+        replies:
+        - id: 9604
+          parent_id: 9602
+          date: 2002-12-24 00:40
+          poster: Greta
+          email: morehemp@mail.ru
+          subject: Да,
+          deleted: false
+          text: 'уточнила, этот фильм.
+
+            А на allmovie.com о Таже в инфе по фильму ни слова :(
+
+            Фильм - ни о чем.. но Таж - !!! :) Не совсем понятно, что он там делал,
+            и как он там оказался..'
+  - id: 9572
+    parent_id: 9560
+    date: 2002-12-23 17:17
+    poster: Дмитрий(fan))
+    email: leondmitr@freemail.ru
+    subject: Поздравляю! Завидую белой завистью.
+    deleted: false
+    text: Так это видео или аудио-диск?
+    replies:
+    - id: 9577
+      parent_id: 9572
+      date: 2002-12-23 18:01
+      poster: Serge Sklyaroff (tigra)
+      email: bluesman@tut.by
+      subject: Live at Ronnie Scott's [DVD]
+      deleted: false
+    - id: 9580
+      parent_id: 9572
+      date: 2002-12-23 18:30
+      poster: Дима Казанцев (Казан)
+      email: dr.nick@blues.ru
+      subject: Это DVD :)
+      deleted: false
+      text: И то и другое ;)
+      replies:
+      - id: 9606
+        parent_id: 9580
+        date: 2002-12-24 11:34
+        poster: Дмитрий(fan))
+        email: leondmitr@freemail.ru
+        subject: А вот еще глупый вопрос.
+        deleted: false
+        text: А бывает DVD только аудио?
+        replies:
+        - id: 9608
+          parent_id: 9606
+          date: 2002-12-24 11:45
+          poster: Дима
+          email: dima@dima.ru
+          subject: Бывает
+          deleted: false
+          text: формат DVD-Audio. DVD - это Digital Versality Disc, а не Digital Video
+            Disc.
+      - id: 9607
+        parent_id: 9580
+        date: 2002-12-24 11:35
+        poster: Дмитрий(fan))
+        email: leondmitr@freemail.ru
+        subject: А вот еще глупый вопрос.
+        deleted: false
+        text: А бывает DVD только аудио?

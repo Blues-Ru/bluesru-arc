@@ -1,0 +1,83 @@
+topic_id: 3543
+slug: topic-3543
+title: Оксану Кочубей с Днём Варенья!
+first_post: 2007-01-10 00:10
+last_post: 2007-01-15 09:04
+post_count: 8
+posts:
+- id: 30430
+  parent_id: null
+  date: 2007-01-10 00:10
+  poster: Руслан Чифуров
+  email: chifuroff<sobaka>>>>inbox.ru
+  subject: Оксану Кочубей с Днём Варенья!
+  deleted: false
+  text: Счастья, добра, удачи, радости и крепкого здоровья! :-)))))
+  replies:
+  - id: 30431
+    parent_id: 30430
+    date: 2007-01-10 01:15
+    poster: Dmitri Kazantsev (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: да! да!
+    deleted: false
+    replies:
+    - id: 30440
+      parent_id: 30431
+      date: 2007-01-10 12:52
+      poster: Валентин
+      email: voshalb@rambler.ru
+      subject: И я присоединяюсь...
+      deleted: false
+      text: Оксана очень редкое и уникальное явление в нашей музыкальной жизни...Желаю
+        самого наилуччего...и как блюзовый ретроград - побольше блюза в программе...Такая
+        Болл енд чейн...насквозь прошибает...
+      replies:
+      - id: 30449
+        parent_id: 30440
+        date: 2007-01-11 04:24
+        poster: Старый Майор
+        email: gypsy@mail.ru
+        subject: Hugs and kisses to O! =))
+        deleted: false
+        text: 'Ага, прямо чейном по боллз прошибает, согласен.
+
+          Особливо когда мегафоном в микрофон.'
+      - id: 30460
+        parent_id: 30440
+        date: 2007-01-11 15:34
+        poster: Dmitri Kazantsev (Dr. Nick)
+        email: dr.nick@blues.ru
+        subject: она же вроде совсем не блюзовая?
+        deleted: false
+        text: или мы о разных дамах говорим? они ездили в Лондон с современным звуком.
+        replies:
+        - id: 30466
+          parent_id: 30460
+          date: 2007-01-11 19:59
+          poster: Старый Майор
+          email: gypsy@mail.ru
+          subject: Дима, так что ж теперь, и с ДР не поздравлять?
+          deleted: false
+          text: странная у тя логика какая-то
+          replies:
+          - id: 30475
+            parent_id: 30466
+            date: 2007-01-12 05:00
+            poster: Dmitri Kazantsev (Dr. Nick)
+            email: dr.nick@blues.ru
+            subject: конечно поздравлять!
+            deleted: false
+            text: где я обратное говорил?
+  - id: 30549
+    parent_id: 30430
+    date: 2007-01-15 09:04
+    poster: Митя
+    email: meis2000@mail.ru
+    subject: +1 ..
+    deleted: false
+    text: '.. к поздравлениям - от города Рязани. Редкий талант, аффигительный голос
+      и просто очень милая барышня...)))) Здоровья, счастья, удачи!
+
+
+      З.Ы. Приезжать к нам почаще))'

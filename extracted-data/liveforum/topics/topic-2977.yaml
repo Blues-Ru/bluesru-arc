@@ -1,0 +1,71 @@
+topic_id: 2977
+slug: topic-2977
+title: Запись
+first_post: 2005-12-05 19:39
+last_post: 2005-12-05 22:22
+post_count: 6
+posts:
+- id: 24862
+  parent_id: null
+  date: 2005-12-05 19:39
+  poster: Владимир Русинов (BluesCat)
+  email: volodya@blues.ru
+  subject: Запись
+  deleted: false
+  text: 'Eirik Bergene & The Jumping Cats
+
+
+    <A HREF="http://www.bluescats.ru/files/20051204.Eirik_and_theJC/">http://www.bluescats.ru/files/20051204.Eirik_and_theJC/</A>
+
+
+    Записал для тех кому интересно не обосрать ;)'
+  replies:
+  - id: 24866
+    parent_id: 24862
+    date: 2005-12-05 20:25
+    poster: Yuri Kaverkin (Gekko)
+    email: kaverkin@rol.ru
+    subject: Так ведь могут и обоссать...народ то все простой, суровый......
+    deleted: false
+    replies:
+    - id: 24870
+      parent_id: 24866
+      date: 2005-12-05 21:57
+      poster: Владимир Русинов (BluesCat)
+      email: volodya@blues.ru
+      subject: как бы не так
+      deleted: false
+      text: нет у нас простого народу.. у нас весь народ хитровые...анный...
+      replies:
+      - id: 24874
+        parent_id: 24870
+        date: 2005-12-05 22:12
+        poster: Ded Morozzz
+        email: morozzz_ded@mail.ru
+        subject: Не, а чо...
+        deleted: false
+        text: "... все реально сыграно. Пацаны нормально так лабают и даже поют в\
+          \ целом отлично. Есть там разные фиговины, но так как фиговины самим пацанам\
+          \ известны - то не вижу смысла тут их расписывать. \n<br>\nА если чо кому\
+          \ не нравится - ну так это надо проще быть и не выеживатся по всяким непотребностям.\
+          \ Вот. Мое такое мнение."
+        replies:
+        - id: 24875
+          parent_id: 24874
+          date: 2005-12-05 22:22
+          poster: Ded Morozzz
+          email: morozzz_ded@mail.ru
+          subject: '....упдэйд вдогонку так сказать'
+          deleted: false
+          text: "Пафосу не добавлял по разным причинам. \nНуждающимся же рекомендуется\
+            \ вставить перед каждым существительным подходящие формы прилагательных\
+            \ \"крутое\", \"зубодробительное\", \"аццкое\", \"бурлящее\", \"кипящее\"\
+            , \"неземное\" и т.д."
+          replies:
+          - id: 24876
+            parent_id: 24875
+            date: 2005-12-05 22:22
+            poster: Владимир Русинов (BluesCat)
+            email: volodya@blues.ru
+            subject: Духовное! Блюзовоатмосферное!
+            deleted: false

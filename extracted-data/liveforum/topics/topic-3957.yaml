@@ -1,0 +1,42 @@
+topic_id: 3957
+slug: topic-3957
+title: Приходите на джем с Волтером Траутом!
+first_post: 2008-03-25 19:45
+last_post: 2008-03-26 19:44
+post_count: 4
+posts:
+- id: 35054
+  parent_id: null
+  date: 2008-03-25 19:45
+  poster: Axle
+  email: gfsduy6re@jygf7y.ru
+  subject: Приходите на джем с Волтером Траутом!
+  deleted: false
+  text: "30 марта с 22.00 в Би Би Кинге. С музыкантов, кого знаю денег не возьму (даже\
+    \ если предложите). Для всех цена не более 400 рублей. \nВот."
+  replies:
+  - id: 35059
+    parent_id: 35054
+    date: 2008-03-26 07:46
+    poster: Dmitri Kazantsev (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: наш гиг отменяется?
+    deleted: false
+    replies:
+    - id: 35069
+      parent_id: 35059
+      date: 2008-03-26 19:10
+      poster: Axle
+      email: ohjo@j.ru
+      subject: Нет
+      deleted: false
+      text: не отменяется
+      replies:
+      - id: 35070
+        parent_id: 35069
+        date: 2008-03-26 19:44
+        poster: Dmitri Kazantsev (Dr. Nick)
+        email: dr.nick@blues.ru
+        subject: окей
+        deleted: false
+        text: буду тогда звать народ

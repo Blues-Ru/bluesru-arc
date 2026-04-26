@@ -1,0 +1,65 @@
+topic_id: 3354
+slug: topic-3354
+title: БЕЗПЕРСПЕКТИВНЯК
+first_post: 2006-08-02 21:50
+last_post: 2006-08-04 19:28
+post_count: 6
+posts:
+- id: 28120
+  parent_id: null
+  date: 2006-08-02 21:50
+  poster: ИЛЬЯ
+  email: IIURT@ELKALUGA
+  subject: БЕЗПЕРСПЕКТИВНЯК
+  deleted: false
+  text: ПРИВЕТ!В КАЛУГЕ БЛЮЗА НЕТ!ТОСКУЕМ БЕСПРЕДЕЛЬНО!СПИВАЕМСЯ!!!             ПОМОГИТЕ
+    МОРАЛЬНО!                                                     НАС ВСЕГО ТРОЕ,И
+    БОЛЬШЕ НИКОГО ЗДЕСЬ!                                  ХОТЕЛОСЬ БЫ ПООБЩАТЬСЯ С
+    ЛЮДЬМИ!                                       ЖУК
+  replies:
+  - id: 28123
+    parent_id: 28120
+    date: 2006-08-03 12:27
+    poster: brujo
+    email: brujo@pisem.net
+    subject: не скажи..
+    deleted: false
+    text: 9-го сентября приходи на калужскую театральную площадь. И будет тебе щастье.
+    replies:
+    - id: 28135
+      parent_id: 28123
+      date: 2006-08-03 16:18
+      poster: илья
+      email: iiurt@elkaluga
+      subject: бесперспективняк
+      deleted: false
+      text: 'Ага!"Синие кузены"! А что еще?
+
+        Хотелось бы архаичного!Сам играешь?'
+    - id: 28149
+      parent_id: 28123
+      date: 2006-08-03 18:34
+      poster: BOODOOLAI
+      email: timot@mail.ru
+      subject: СЧАСТЬЕ И ПРАЗДНИК
+      deleted: false
+      text: Всё будет! ЖДИ!
+      replies:
+      - id: 28151
+        parent_id: 28149
+        date: 2006-08-03 18:41
+        poster: Andrei V. Evdokimov (evdokimov)
+        email: evdokimov@blues.ru
+        subject: ага, жди... БУДУЛАЯ С КЛАРОЙ ЛУЧКО
+        deleted: false
+        text: устроит тебе ЦЫГАН АРХА-ЯИЧНЫЙ блюз - гарантировано, с телкой уйдешь,
+          у них для этого специальная программа подготорвлена.
+        replies:
+        - id: 28180
+          parent_id: 28151
+          date: 2006-08-04 19:28
+          poster: илья
+          email: iiurt@elkaluga
+          subject: бесперспективняк
+          deleted: false
+          text: Во-обще я женат,а яйца ем на завтрак.Стоит ли приезжать?

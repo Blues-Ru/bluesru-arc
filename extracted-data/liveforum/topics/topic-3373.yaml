@@ -1,0 +1,46 @@
+topic_id: 3373
+slug: topic-3373
+title: Руслана Чифурова с Днём Рождения!
+first_post: 2006-08-21 11:31
+last_post: 2006-08-21 21:07
+post_count: 5
+posts:
+- id: 28433
+  parent_id: null
+  date: 2006-08-21 11:31
+  poster: Михаил Мишурис (mishouris)
+  email: mishouris@mail.ru
+  subject: Руслана Чифурова с Днём Рождения!
+  deleted: false
+  text: Ура!
+  replies:
+  - id: 28434
+    parent_id: 28433
+    date: 2006-08-21 11:53
+    poster: Dmitri Kazantsev (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: да, Чифурыч, ура!
+    deleted: false
+  - id: 28435
+    parent_id: 28433
+    date: 2006-08-21 12:30
+    poster: Руслан Чифуров
+    email: chifuroff<sobaka>inbox.ru
+    subject: Спасибо огромное! :-)))))
+    deleted: false
+    replies:
+    - id: 28439
+      parent_id: 28435
+      date: 2006-08-21 19:51
+      poster: Yuri Kaverkin (Gekko)
+      email: kaverkin@rol.ru
+      subject: Happy Birthday !!!!
+      deleted: false
+      replies:
+      - id: 28440
+        parent_id: 28439
+        date: 2006-08-21 21:07
+        poster: Руслан Чифуров ()
+        email: chifuroff (((((((<inbox>hhjhinbox.ru
+        subject: Thanks! :-)))))
+        deleted: false

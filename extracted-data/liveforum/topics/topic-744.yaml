@@ -1,0 +1,47 @@
+topic_id: 744
+slug: topic-744
+title: поем с нами
+first_post: 2003-04-09 17:50
+last_post: 2003-04-10 10:55
+post_count: 4
+posts:
+- id: 11571
+  parent_id: null
+  date: 2003-04-09 17:50
+  poster: миталисты
+  email: митал@митал.ру
+  subject: поем с нами
+  deleted: false
+  text: 'http://roze.lv/kewl/growlkaraoke_cigarfar_skum.swf
+
+    это вам не блюз'
+  replies:
+  - id: 11579
+    parent_id: 11571
+    date: 2003-04-09 18:23
+    poster: Дима Казанцев (Казан)
+    email: dr.nick@blues.ru
+    subject: Это по-взрослому!
+    deleted: false
+    text: Так даже Петрович не споет! Очень здорово!
+  - id: 11605
+    parent_id: 11571
+    date: 2003-04-10 02:43
+    poster: Andrei V. Evdokimov (evdokimov)
+    email: evdokimov@blues.ru
+    subject: как не подпрыгнет Дима :)
+    deleted: false
+    text: 'а вот так:
+
+      http://www.viva-graphics.com/graphics/tamanimals/index.html
+
+      и заметьте! их можно шпынять, а можно подкручивать.'
+    replies:
+    - id: 11615
+      parent_id: 11605
+      date: 2003-04-10 10:55
+      poster: Дима Казанцев (Казан)
+      email: dr.nick@blues.ru
+      subject: Ващще РОК!
+      deleted: false
+      text: э лот ов фан!

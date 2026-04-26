@@ -1,0 +1,32 @@
+topic_id: 1742
+slug: topic-1742
+title: Иван - с днем рождения.
+first_post: 2004-01-05 02:45
+last_post: 2004-01-06 17:26
+post_count: 3
+posts:
+- id: 16584
+  parent_id: null
+  date: 2004-01-05 02:45
+  poster: КотМатраскин
+  email: kotmatrs@mail.ru
+  subject: Иван - с днем рождения.
+  deleted: false
+  replies:
+  - id: 16592
+    parent_id: 16584
+    date: 2004-01-05 19:46
+    poster: Михаил Бирюков (nECKAPb)
+    email: blackcat@blues.ru
+    subject: Иван - с днем рождения.
+    deleted: false
+  - id: 16611
+    parent_id: 16584
+    date: 2004-01-06 17:26
+    poster: Greta
+    email: morehemp
+    subject: Иван - с днем рождения :)
+    deleted: false
+    text: "А вообшче, всем родившимся в декаду до и после Нового года необходимо перенести\
+      \ день рождения на лето :) \nподальше от всеобщего рождественского синдрома\
+      \ :о)"

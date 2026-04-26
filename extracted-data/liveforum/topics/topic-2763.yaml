@@ -1,0 +1,34 @@
+topic_id: 2763
+slug: topic-2763
+title: 'DVD: Session for Robert J. by Eric Clapton'
+first_post: 2005-09-12 17:28
+last_post: 2005-09-13 12:14
+post_count: 3
+posts:
+- id: 22977
+  parent_id: null
+  date: 2005-09-12 17:28
+  poster: Elicaster
+  email: elicaster(@))mmmmmmmmmail.ru
+  subject: 'DVD: Session for Robert J. by Eric Clapton'
+  deleted: false
+  text: 'Друган увидел в магазине этот ДВД. Спрашивает меня  об этом, а я не знаю...
+
+    Кто смотрел или знает: интересная ли штука, стоит ли брать?'
+  replies:
+  - id: 22989
+    parent_id: 22977
+    date: 2005-09-12 22:43
+    poster: Дмитрий Казанцев (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: нудно
+    deleted: false
+    text: но местами и интересно
+  - id: 22996
+    parent_id: 22977
+    date: 2005-09-13 12:14
+    poster: Илья Кривандин (Populoss)
+    email: ilija@bk.ru
+    subject: Весьма странноватое качество записи...
+    deleted: false
+    text: '...во всяком случае на том CD, что у меня. Даже неожиданно как-то.'

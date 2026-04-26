@@ -1,0 +1,34 @@
+topic_id: 4115
+slug: topic-4115
+title: Led Zeppelin blues-праздник 3 ноября
+first_post: 2008-10-18 22:52
+last_post: 2008-10-20 10:49
+post_count: 3
+posts:
+- id: 35863
+  parent_id: null
+  date: 2008-10-18 22:52
+  poster: Димитрий О'Парин (LedZep)
+  email: 5064212@mail.ru
+  subject: Led Zeppelin blues-праздник 3 ноября
+  deleted: false
+  text: "Подслушав на репе, как одна из них (Plumbum Dreams) поёт, не понял как это\
+    \ мог спеть мужик, т.е. Плант! \nhttp://ledzeppelin.ru/cgi-bin/newsscript.pl?record=19"
+  replies:
+  - id: 35864
+    parent_id: 35863
+    date: 2008-10-19 11:19
+    poster: Grem
+    email: grem@yandex.ru
+    subject: Плюмбум - хорошая игра
+    deleted: false
+    text: Похоже что "одна из них", это Оксана Кочубей
+    replies:
+    - id: 35867
+      parent_id: 35864
+      date: 2008-10-20 10:49
+      poster: Димитрий О'Парин (LedZep)
+      email: 5064212@mail.ru
+      subject: Да, так и есть, часть программы споёт она
+      deleted: false
+      text: Да, так и есть, часть программы споёт она

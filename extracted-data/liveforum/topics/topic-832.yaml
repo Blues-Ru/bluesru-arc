@@ -1,0 +1,67 @@
+topic_id: 832
+slug: topic-832
+title: Ребяты!
+first_post: 2003-05-11 01:28
+last_post: 2003-05-11 12:22
+post_count: 6
+posts:
+- id: 12373
+  parent_id: null
+  date: 2003-05-11 01:28
+  poster: Федор Романенко (fedor)
+  email: fedor@blues.ru
+  subject: Ребяты!
+  deleted: false
+  text: Ударим политкорректностью по грубости и бескультурью! Очень жаль, что в результате
+    этой истории, нам пришлось соприкоснуться с миром, в которым грубость, публичный
+    мат и оскорбления - в порядке вещей. И очень жаль, что это подействовало на стилистику
+    в этом форуме. Давайте разговаривать вежливо, даже, если с нами говорят недостаточно
+    вежливо ;)
+  replies:
+  - id: 12374
+    parent_id: 12373
+    date: 2003-05-11 02:29
+    poster: Daniel Kriman (SOBO)
+    email: sobodan@hotmail.com
+    subject: на войне как на войне
+    deleted: false
+  - id: 12375
+    parent_id: 12373
+    date: 2003-05-11 02:36
+    poster: Александр Мальчевский (Tonny)
+    email: heavyfuel@mtu-net.ru
+    subject: Согласен...
+    deleted: false
+    text: Матюкайщина и пошлость начали утомлять...
+  - id: 12379
+    parent_id: 12373
+    date: 2003-05-11 04:03
+    poster: Andrei V. Evdokimov (evdokimov)
+    email: evdokimov@blues.ru
+    subject: ну и?
+    deleted: false
+    text: 'то есть, чтобы по-поцански оттянуться, я должен зарегистрироваться на гитарз-ру?
+      Федька, а ты помнишь, что написано на морде у тех, кто упрекает тебя в пафосности?
+      цитирую:
+
+      Добро Пожаловать на самый главный гитарный ресурс вселенной.
+
+      я конкретно предлагаю: открыть зенчук-ру, и могу сделать фтки голых теток в
+      зеленке: петрушка, укроп и т.д.'
+    replies:
+    - id: 12389
+      parent_id: 12379
+      date: 2003-05-11 12:18
+      poster: Yuri Kaverkin (Gekko)
+      email: kaverkin@rol.ru
+      subject: Даешь голых теток !!!! В укропе!!!! Урррраааа!!!
+      deleted: false
+      replies:
+      - id: 12390
+        parent_id: 12389
+        date: 2003-05-11 12:22
+        poster: Александр Мальчевский (Tonny)
+        email: heavyfuel@mtu-net.ru
+        subject: С яблоком во рту и хрустящей корочкой. :):):):):):)
+        deleted: false
+        text: '..............'

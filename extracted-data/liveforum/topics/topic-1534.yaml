@@ -1,0 +1,51 @@
+topic_id: 1534
+slug: topic-1534
+title: Альбомы Blues Hammer Band
+first_post: 2003-10-28 12:00
+last_post: 2003-10-31 09:17
+post_count: 4
+posts:
+- id: 15256
+  parent_id: null
+  date: 2003-10-28 12:00
+  poster: Дмитрий
+  email: swallowed@mail.ru
+  subject: Альбомы Blues Hammer Band
+  deleted: false
+  text: 'Подскажите кто-нибудь, где можно заказать записи
+
+    Blues Hammer Band ?'
+  replies:
+  - id: 15260
+    parent_id: 15256
+    date: 2003-10-28 13:53
+    poster: baltika
+    email: baltika-blues@yandex.ru
+    subject: кста Кораблин-Братецкий диск...
+    deleted: false
+    text: 'можно приобрести у них) на концертах "Delta-blues".
+
+
+      Всё остальное есть смысл поискать у Калачёва - gonzo321@mtu-net.ru'
+  - id: 15314
+    parent_id: 15256
+    date: 2003-10-30 18:35
+    poster: Юрий Кривошеин (YuK)
+    email: scolderblues@yahoo.com
+    subject: Как вариант...
+    deleted: false
+    text: По средам в клубе Forte можно убить сразу 2-х зайцев - услышать новый проект
+      Петровича "Bluesmakers", а заодно и приобрести диски с записью его предыдущего
+      коллектива "Blues Hammer Band".
+    replies:
+    - id: 15325
+      parent_id: 15314
+      date: 2003-10-31 09:17
+      poster: Дмитрий Абдрашитов (swallowed)
+      email: swallowed@mail.ru
+      subject: Далековато...
+      deleted: false
+      text: 'Да, но я вот живу далеко от Москвы(г. Саранск)
+
+        поэтому, было бы хорошо узнать, можно ли заказать их диски через интернет.
+        Искал через интернет-магазины, но ничего не нашел...'

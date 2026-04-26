@@ -1,0 +1,80 @@
+topic_id: 3820
+slug: topic-3820
+title: гармошка офигенная
+first_post: 2007-12-04 17:14
+last_post: 2007-12-10 15:23
+post_count: 7
+posts:
+- id: 34057
+  parent_id: null
+  date: 2007-12-04 17:14
+  poster: Dmitri Kazantsev (Dr. Nick)
+  email: dr.nick@blues.ru
+  subject: гармошка офигенная
+  deleted: false
+  text: 'http://www.youtube.com/watch?v=2N7VQM-pegg
+
+
+    и песня, конечно'
+  replies:
+  - id: 34072
+    parent_id: 34057
+    date: 2007-12-06 15:10
+    poster: Эльдар
+    email: Эльдар
+    subject: Где Muddy Lives?
+    deleted: false
+    text: '(что б новую темку не создавать)
+
+      А куда пропал Muddy Lives?
+
+      Давно его не видно тут.'
+    replies:
+    - id: 34073
+      parent_id: 34072
+      date: 2007-12-06 18:30
+      poster: Dmitri Kazantsev (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: да вроде тут он
+      deleted: false
+      replies:
+      - id: 34078
+        parent_id: 34073
+        date: 2007-12-08 03:43
+        poster: Старый Майор
+        email: gypsy@mail.ru
+        subject: Далеко он и занят сильно...
+        deleted: false
+        text: ..пассать сходить некогда, а в форум писАть - тем более.
+      - id: 34079
+        parent_id: 34073
+        date: 2007-12-08 10:05
+        poster: Muddy Lives
+        email: mlives_6@hotmail.com
+        subject: Да, я тут
+        deleted: false
+        text: 'Господину Майору больше не нaливать.
+
+
+
+          Muddy'
+        replies:
+        - id: 34088
+          parent_id: 34079
+          date: 2007-12-09 00:24
+          poster: Старый Майор
+          email: gypsy@mail.ru
+          subject: А кто-то год назад мне ящик красненького обещал?
+          deleted: false
+          text: До сих пор жду!
+        - id: 34108
+          parent_id: 34079
+          date: 2007-12-10 15:23
+          poster: Эльдар
+          email: Эльдар
+          subject: Давно не видно было
+          deleted: false
+          text: 'Собственно, просто спросил куда пропали... А то давно здесь не было
+            видно...
+
+            Рад что вы здесь.'

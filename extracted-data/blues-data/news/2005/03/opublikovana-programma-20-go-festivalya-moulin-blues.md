@@ -1,0 +1,14 @@
+---
+id: 168
+slug: opublikovana-programma-20-go-festivalya-moulin-blues
+title: Опубликована программа 20-го фестиваля Moulin Blues
+date: '2005-03-24'
+author: Федор Романенко
+legacy_path: news/2005/03/opublikovana-programma-20-go-festivalya-moulin-blues.md
+---
+
+<a href="http://www.moulin.blues.nl"><b>Moulin Blues</b></a> (Оспел, Нидерланды) - один из старейших и крупнейших европейских блюзовых фестивалей. По традиции он проходит в первые выходные мая в сельской местности на юге Голландии. На два дня практически в чистом поле вырастает огромный блюзовый лагерь, включающий в себя две гигантские крытые сцены, палаточный городок, парковку, рынок, магазины, туалеты, душевые, столовую, кофе-шоп, операционную, банкомат и пр. В 2004-м году делегация <b>blues.ru</b> впервые посетила этот замечательный фестиваль и ознакомилась с планировкой и, собственно, с блюзовой программой.
+
+В этом году фестиваль пройдет 6-7 мая и отметит свое 20-летие. На <a href="http://www.moulin.blues.nl">сайте</a> фестиваля все готово к приему блюзовых паломников. Программа 2005 года включает в себя такие имена, как <a href="http://www.fabulousthunderbirds.com/">The Fabulous Thunderbirds</a>, <a href="http://www.blues.ru/bluesmen/James_Harman/">James Harman</a> feat. <a href="http://www.blues.ru/bluesmen/Kid_Ramos/">Kid Ramos</a>, блюз-рокеров - Joe Bonamassa, Walter Trout и Drive By Truckers, а также - Melvin Taylor, John Lee Hooker Jr. и других.
+
+Хедлайнер фестиваля <b>The Fabulous Thunderbirds</b> сейчас выступает сразу с двумя выдающимися гитаристами. О первом - Кирке Флетчере - написано очень много теплых слов в репортаже с прошлогоднего <a href="http://www.blues.ru/nbf/">Notodden Blues Festival</a>. А с сентября 2004 к T-Birds временно присоединился великолепный молодой гитарист, обладатель премии Хэнди и автор нескольких стилистически-изысканных пластинок - <b>Nick Curran</b>. В таком составе группа прокатится по северной Европе, в частности заглянет в небезызвестный клуб <a href="http://www.muddywaters.no">Muddy Waters</a> в Осло.

@@ -1,0 +1,41 @@
+topic_id: 3517
+slug: topic-3517
+title: Тексты блюзовых стандартов
+first_post: 2006-12-04 22:57
+last_post: 2006-12-05 22:18
+post_count: 4
+posts:
+- id: 29575
+  parent_id: null
+  date: 2006-12-04 22:57
+  poster: MaxBox
+  email: maxbox73@mail.ru
+  subject: Тексты блюзовых стандартов
+  deleted: false
+  text: Господа блюзмены, будьте добры, подскажите ссылочки, где можно найти искомое!
+    Спасибо!
+  replies:
+  - id: 29577
+    parent_id: 29575
+    date: 2006-12-05 00:50
+    poster: адресом   Гарри
+    email: расроуроклы
+    subject: да, неплохо было познакомить всех  с очередным
+    deleted: false
+  - id: 29601
+    parent_id: 29575
+    date: 2006-12-05 21:45
+    poster: Митя
+    email: meis2000@mail.ru
+    subject: дык google вроде все еще ...
+    deleted: false
+    text: '... рулит...?'
+    replies:
+    - id: 29602
+      parent_id: 29601
+      date: 2006-12-05 22:18
+      poster: MaxBox
+      email: maxbox73@mail.ru
+      subject: Спасибо, Митя!!!
+      deleted: false
+      text: Всё, что требовалось, успешно найдено! Дай Бог тебе здоровья!!!

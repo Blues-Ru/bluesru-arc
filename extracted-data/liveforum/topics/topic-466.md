@@ -1,0 +1,23 @@
+---
+topic_id: 466
+slug: topic-466
+title: BO DIDDLEY DECLARES "WE AIN'T SCARED"
+post_count: 1
+first_post: 2002-11-14 18:24
+last_post: 2002-11-14 18:24
+---
+
+## BO DIDDLEY DECLARES "WE AIN'T SCARED"
+**From:** David Blakey  **Date:** 2002-11-14 18:24  **Post:** #8833
+
+Rock legend Bo Diddley and the funk/soul band Munkeez Strikin' Matchiz have recently recorded and are set to release a brand new, hard-hitting song titled "We Ain't Scared". Written to capture the feelings of patriotism that Bo Diddley has felt from the audiences at his US concerts since the terrorist attacks of September 11th 2001, the song's lyrics throw out a stark and direct challenge to America's enemies.
+
+To listen to an audio sample of "We Ain't Scared", to read the transcript of a no punches pulled interview with Bo Diddley on the occasion of the recent broadcast debut of the song, or to e-mail him directly with their comments about this new song, Bo Diddley's many fans around the world are currently being invited to visit his new "Bo Bo Diddley's Turnup Root" website at http://www.turnup-root.com/
+
+A deservedly early inductee into the Rock & Roll Hall of Fame, plaudits bestowed upon Bo Diddley in recent years have included Lifetime Achievement Awards from the Rhythm & Blues Foundation and from the Recording Academy, a Pioneer in Entertainment Award from the National Association of Black Owned Broadcasters and in May of this year an inaugural Icon Award from the performing rights organization BMI. That award is inscribed with the following few simple words that succinctly validate Bo Diddley's contribution to popular music: "In recognition of your unique and indelible influence on generations of music makers".
+
+In conjunction with his new website, Bo Diddley is also currently shaping up to release CDs of brand new recordings as well as a series of exciting limited edition collectors' CDs of previously unreleased archive material recorded in his various home studios during the past 40 years. Additionally, and in response to his fans' many requests at concerts for T-shirts, stickers and other official merchandise, in conjunction with the launch of his new website Bo Diddley is currently inviting visitors to view and purchase a range of exclusive, limited edition Bo Diddley authorised designs available from the new Bo Diddley's Online Store powered by CafePress.com.
+
+For further information, please visit: "Bo Bo Diddley's Turnup Root" at http://www.turnup-root.com/
+
+---

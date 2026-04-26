@@ -1,0 +1,52 @@
+topic_id: 3004
+slug: topic-3004
+title: Зацените блюз!
+first_post: 2005-12-20 02:56
+last_post: 2005-12-20 16:09
+post_count: 6
+posts:
+- id: 25151
+  parent_id: null
+  date: 2005-12-20 02:56
+  poster: Alex1974
+  email: ladyguin@mail.ru
+  subject: Зацените блюз!
+  deleted: false
+  text: Сайт русского гитариста Алексея Ладыгина www.ladyguin.narod.ru
+  replies:
+  - id: 25153
+    parent_id: 25151
+    date: 2005-12-20 08:55
+    poster: Dima Krasivov (Dima)
+    email: dima@blues.ru
+    subject: Отстой :) (-)
+    deleted: false
+    replies:
+    - id: 25154
+      parent_id: 25153
+      date: 2005-12-20 10:03
+      poster: Игорь Головачев (Игорь Г.)
+      email: sunny_city@mail.ru
+      subject: Согласен
+      deleted: false
+  - id: 25158
+    parent_id: 25151
+    date: 2005-12-20 10:45
+    poster: Дмитрий Казанцев (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: шутите что ли? :)
+    deleted: false
+  - id: 25159
+    parent_id: 25151
+    date: 2005-12-20 11:46
+    poster: Axle
+    email: axledog@mail.ru
+    subject: '"блюз разбитых надежд" на первом месте - это не спроста'
+    deleted: false
+  - id: 25166
+    parent_id: 25151
+    date: 2005-12-20 16:09
+    poster: Старый Майор
+    email: gypsy@mail.ru
+    subject: Мдя.. а инде там блюз-то? Это гаримур какой-то..
+    deleted: false

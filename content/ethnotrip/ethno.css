@@ -1,0 +1,9 @@
+body {background: #120a0e; scrollbar-arrow-color: #faebd7; scrollbar-3dlight-color: #faebd7; scrollbar-highlight-color: #331602; scrollbar-face-color: #480000; scrollbar-shadow-color: #e47823; scrollbar-track-color: #331602; scrollbar-darkshadow-color: #331602}
+
+td { font-size: 10pt; font-family: Arial, sans-serif; color: #faebd7}
+.first { font-size: 20pt; font-weight: 400 }
+.name{ font-size: 11pt; font-weight: 600; color: #b4390e }
+
+a:link {color: #f7b791}
+a:active { color: #ec5800}
+a:visited { color: #faebd7}

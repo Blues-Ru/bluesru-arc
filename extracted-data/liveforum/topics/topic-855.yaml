@@ -1,0 +1,36 @@
+topic_id: 855
+slug: topic-855
+title: Еще о фильмах из евроньюсов
+first_post: 2003-05-20 11:00
+last_post: 2003-05-20 14:58
+post_count: 3
+posts:
+- id: 12564
+  parent_id: null
+  date: 2003-05-20 11:00
+  poster: Sanya
+  email: sanya@cterra.ru
+  subject: Еще о фильмах из евроньюсов
+  deleted: false
+  text: В Канне Вим Вендерс представлял свою часть скорсезевого сериала - the Soul
+    of a Man. Говорил, что его любимые соул артисты - Блайнд Вилли Джонсон, Скип Джеймс
+    и Джей Би Ленуар. Что Ленуар незаслуженно менее известен, а по Джонсону и Джеймсу
+    практически нет архивных материалов. Видимо, поэтому, кроме прочих мелькали голос
+    Бонни Райт и лицо Лу Рида. :^)
+  replies:
+  - id: 12566
+    parent_id: 12564
+    date: 2003-05-20 12:15
+    poster: John John (John)
+    email: ssy@ac.com.ru
+    subject: я тоже видел
+    deleted: false
+    text: интересно будет посмотреть
+  - id: 12570
+    parent_id: 12564
+    date: 2003-05-20 14:58
+    poster: Михаил Бирюков (nECKAPb)
+    email: blackcat@blues.ru
+    subject: ухх!
+    deleted: false
+    text: Правильный дядька Вим Вендерс!

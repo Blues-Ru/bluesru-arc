@@ -1,0 +1,34 @@
+topic_id: 2819
+slug: topic-2819
+title: во сюрприз! сейчас по ТВ3!
+first_post: 2005-09-27 20:26
+last_post: 2005-09-28 13:05
+post_count: 3
+posts:
+- id: 23428
+  parent_id: null
+  date: 2005-09-27 20:26
+  poster: Andrei V. Evdokimov (evdokimov)
+  email: evdokimov@blues.ru
+  subject: во сюрприз! сейчас по ТВ3!
+  deleted: false
+  text: 'фильм про Айка и Тину Тернер: 20:00 Фильм ‘При чём здесь любовь’ США, 1993'
+  replies:
+  - id: 23436
+    parent_id: 23428
+    date: 2005-09-28 09:30
+    poster: Дмитрий(фан)
+    email: leonidovd@mail.ru
+    subject: Ага, смотрели:))
+    deleted: false
+    text: Айк ИМХО внешне оч. даже похож получился. А вот кто пел за главную героиню?
+      Не сама ли Тина Тернер?
+    replies:
+    - id: 23442
+      parent_id: 23436
+      date: 2005-09-28 13:05
+      poster: Алексей Аграновский (Док)
+      email: aaa@genebee.msu.su
+      subject: Пришлось уехать из дому после первой сцены,
+      deleted: false
+      text: где Тина поёт на конкурсе "А ну-ка, девушки", но запись я включил...

@@ -1,0 +1,132 @@
+topic_id: 1946
+slug: topic-1946
+title: Помогите найти песню
+first_post: 2004-03-24 09:15
+last_post: 2004-03-31 17:54
+post_count: 13
+posts:
+- id: 17706
+  parent_id: null
+  date: 2004-03-24 09:15
+  poster: Олег
+  email: mon@polenet.ru
+  subject: Помогите найти песню
+  deleted: false
+  text: Году в 87-м была популярной у нас песня. По жанру - блюз, поёт мужик (по-моему,
+    чёрный). Ничего не знаю про исполнителя и про название. Мне кажется, в куплете
+    есть выражение sexy sucsess, а в припеве - только очень жалостные "Бубу-бу...".
+    Может, кто знает, пришлите на мыло...
+  replies:
+  - id: 17708
+    parent_id: 17706
+    date: 2004-03-24 13:18
+    poster: Andrei V. Evdokimov (evdokimov)
+    email: evdokimov@blues.ru
+    subject: это же моя любимая песня! :)
+    deleted: false
+    text: а вот кто поет и как называется - сам не знаю :(
+    replies:
+    - id: 17709
+      parent_id: 17708
+      date: 2004-03-24 19:16
+      poster: Михаил Бирюков (nECKAPb)
+      email: blackcat@blues.ru
+      subject: попробуйте...
+      deleted: false
+      text: '... на All Music Guide поиском поискать; ключевое слово "Boo Boo Boo".'
+  - id: 17713
+    parent_id: 17706
+    date: 2004-03-25 02:32
+    poster: НеЯ
+    email: neya13@mail.ru
+    subject: Кажется, так...
+    deleted: false
+    text: 'Исполнитель - Oskar Benton,
+
+      композиция "Bensonhurst blues"'
+  - id: 17714
+    parent_id: 17706
+    date: 2004-03-25 10:59
+    poster: Олег
+    email: mon@polenet.ru
+    subject: Всем спасибо!
+    deleted: false
+    text: "Всем спасибо, особенно НеЯ! Это действительно оказалась \nкомпозиция \"\
+      Bensonhurst blues\", исполнитель - Oskar Benton."
+  - id: 17718
+    parent_id: 17706
+    date: 2004-03-25 17:01
+    poster: Эликастер
+    email: elicaster@mmmmmmail.ru
+    subject: Блин! Помню, было дело, услышал в 97
+    deleted: false
+    text: 'на каком-то сборнике типа Бест Блюз, эта вещь была первой...
+
+      Как и тогда она мне, мягко говоря, не понравилась, так и сейчас не могу её слышать...
+      Просто ужастик.
+
+      Обознался, наверное, Андрей. Сомневаюсь что она его любимая песня! :)'
+    replies:
+    - id: 17719
+      parent_id: 17718
+      date: 2004-03-25 17:39
+      poster: baltika
+      email: baltika-blues@yandex.ru
+      subject: заинтриговали уже млин...))
+      deleted: false
+      text: дайте послушать что за вирш такой!
+      replies:
+      - id: 17722
+        parent_id: 17719
+        date: 2004-03-25 20:54
+        poster: Старый Майор (gypsy)
+        email: gypsy@mail.ru
+        subject: Ну послушай вот тут.. но предупреждаю, гадостная песнь!
+        deleted: false
+        text: "По многочисленной просьбе Евдокимова - \nhttp://gypsy.bluesman.ru/Oscar%20Benton/\
+          \ =)))"
+        replies:
+        - id: 17738
+          parent_id: 17722
+          date: 2004-03-26 15:42
+          poster: baltika
+          email: baltika-blues@yandex.ru
+          subject: уж послала так послаала...
+          deleted: false
+          text: на редкость глухой линк))
+          replies:
+          - id: 17753
+            parent_id: 17738
+            date: 2004-03-26 17:19
+            poster: Старый Майор (gypsy)
+            email: gypsy@mail.ru
+            subject: технические проблемы, чуть пожжже попробуй
+            deleted: false
+        - id: 17815
+          parent_id: 17722
+          date: 2004-03-31 17:54
+          poster: Ruby Tooz
+          email: rubytooz@rambler.ru
+          subject: ну, не то, чтобы гадостная,
+          deleted: false
+          text: 'но я всегда ее описывал так:
+
+            "Шуфутинский, поющий по-английски песню Розенбаума "Нинка как картинка..."'
+    - id: 17721
+      parent_id: 17718
+      date: 2004-03-25 20:11
+      poster: Andrei V. Evdokimov (evdokimov)
+      email: evdokimov@blues.ru
+      subject: хуже
+      deleted: false
+      text: я пошутил. неудачно.
+      replies:
+      - id: 17761
+        parent_id: 17721
+        date: 2004-03-26 17:47
+        poster: Dima Krasivov (Dima)
+        email: dima@blues.ru
+        subject: Дурь! ;)
+        deleted: false
+        text: У нас на работе в буфете местный лабух такую играл ;) У него очень смешно
+          получалось ;)))

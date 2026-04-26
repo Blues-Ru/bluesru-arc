@@ -1,0 +1,44 @@
+topic_id: 2935
+slug: topic-2935
+title: у группы Dr. Nick вышел альбом
+first_post: 2005-11-17 18:52
+last_post: 2005-11-18 00:30
+post_count: 3
+posts:
+- id: 24554
+  parent_id: null
+  date: 2005-11-17 18:52
+  poster: Дмитрий Казанцев (Dr. Nick)
+  email: dr.nick@blues.ru
+  subject: у группы Dr. Nick вышел альбом
+  deleted: false
+  text: название Made At Home. лэйбл Blues Time (BT 002). купить его можно на наших
+    концертах.
+  replies:
+  - id: 24571
+    parent_id: 24554
+    date: 2005-11-17 23:02
+    poster: Wheel  (Wheel)
+    email: wheel@ua.fm
+    subject: Может, кто поможет
+    deleted: false
+    text: 'Друзья, очень интересно мне творчество этой группы. Но купить диск на концерте
+      у меня нет возможности, так как живу в Днепропетровске. Если кто-то может помочь
+      с покупкой и пересылкой мне этого альбома - пишите мне на адрес, указанный в
+      подписи.
+
+      Буду очень признателен, деньги вышлю почтовым переводом (идут всего сутки).
+
+      А Дмитрия Казанцева хочется попросить об автографе :).'
+  - id: 24572
+    parent_id: 24554
+    date: 2005-11-18 00:30
+    poster: Muddy Lives
+    email: mlives_6@hotmail.com
+    subject: Поздравляю!
+    deleted: false
+    text: 'Вы с группой заслужили бутылки только что вышедшего Beaujolais Nouveau.  И
+      не одной бутылки!
+
+
+      Muddy'

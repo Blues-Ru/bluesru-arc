@@ -1,0 +1,25 @@
+topic_id: 2350
+slug: topic-2350
+title: наш чел в горбухе
+first_post: 2004-12-18 15:05
+last_post: 2004-12-20 03:50
+post_count: 2
+posts:
+- id: 19977
+  parent_id: null
+  date: 2004-12-18 15:05
+  poster: Andrei V. Evdokimov (evdokimov)
+  email: evdokimov@blues.ru
+  subject: наш чел в горбухе
+  deleted: false
+  text: http://www.bluescats.ru/files/20041211.fender/
+  replies:
+  - id: 19992
+    parent_id: 19977
+    date: 2004-12-20 03:50
+    poster: Михаил Бирюков (nECKAPb)
+    email: blackcat@blues.ru
+    subject: этот?
+    deleted: false
+    text: <a href="http://www.bluescats.ru/files/20041211.fender/Data/page.htm?31,0"
+      target="_blank">http://www.bluescats.ru/files/20041211.fender/Data/page.htm?31,0</a>

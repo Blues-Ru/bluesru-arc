@@ -1,0 +1,35 @@
+topic_id: 3897
+slug: topic-3897
+title: всем советую
+first_post: 2008-02-08 12:31
+last_post: 2008-02-11 17:37
+post_count: 3
+posts:
+- id: 34579
+  parent_id: null
+  date: 2008-02-08 12:31
+  poster: Dmitri Kazantsev (Dr. Nick)
+  email: dr.nick@blues.ru
+  subject: всем советую
+  deleted: false
+  text: 'http://dr-nick.livejournal.com/1743819.html
+
+
+    ударникам обязательно'
+  replies:
+  - id: 34657
+    parent_id: 34579
+    date: 2008-02-11 16:08
+    poster: Egor
+    email: egskor@mail.ru
+    subject: Где взять???
+    deleted: false
+    text: Хочу!!!
+    replies:
+    - id: 34663
+      parent_id: 34657
+      date: 2008-02-11 17:37
+      poster: Dmitri Kazantsev (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: компакт есть
+      deleted: false

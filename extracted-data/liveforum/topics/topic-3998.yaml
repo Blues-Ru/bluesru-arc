@@ -1,0 +1,45 @@
+topic_id: 3998
+slug: topic-3998
+title: завтра Джеймсу Брауну 75... было бы
+first_post: 2008-05-02 17:33
+last_post: 2008-05-02 22:09
+post_count: 4
+posts:
+- id: 35347
+  parent_id: null
+  date: 2008-05-02 17:33
+  poster: Andrei V. Evdokimov (evdokimov)
+  email: evdokimov@blues.ru
+  subject: завтра Джеймсу Брауну 75... было бы
+  deleted: false
+  text: Блюзовое собрание его записей можно послушать на "Эхе" в ВЭБе завтра, в два
+    часа ночи.
+  replies:
+  - id: 35348
+    parent_id: 35347
+    date: 2008-05-02 18:15
+    poster: Dmitri Kazantsev (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: а вроде неизвестна точная дата его рождения?
+    deleted: false
+    replies:
+    - id: 35349
+      parent_id: 35348
+      date: 2008-05-02 18:32
+      poster: Andrei V. Evdokimov (evdokimov)
+      email: evdokimov@blues.ru
+      subject: проверено по куче источников
+      deleted: false
+      text: 'сам там не был. но, как мог, сверил: все про третье мая говрят.
+
+        вот только старинная, но любимая: The Penguin Encyclopedia of Popular Music
+        сказала, что родился он 3 мая, но в 1928 году... )))'
+      replies:
+      - id: 35350
+        parent_id: 35349
+        date: 2008-05-02 22:09
+        poster: Dmitri Kazantsev (Dr. Nick)
+        email: dr.nick@blues.ru
+        subject: ещё где-то я читал про 28 год
+        deleted: false
+        text: что он скрывал свой возраст

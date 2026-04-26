@@ -1,0 +1,31 @@
+topic_id: 2333
+slug: topic-2333
+title: блюзовая группа
+first_post: 2004-11-30 21:17
+last_post: 2004-12-03 01:19
+post_count: 3
+posts:
+- id: 19874
+  parent_id: null
+  date: 2004-11-30 21:17
+  poster: Диброва ()
+  email: dibrova_blues@rambler.ru
+  subject: блюзовая группа
+  deleted: false
+  text: Создаю блюз-группы! Нужны музыканты из Питера
+  replies:
+  - id: 19875
+    parent_id: 19874
+    date: 2004-12-01 00:32
+    poster: bigbluesrevival
+    email: bigbluesrevival@mail.ru
+    subject: blues bands from spb
+    deleted: false
+    text: Мы музыканты из Питера.
+  - id: 19895
+    parent_id: 19874
+    date: 2004-12-03 01:19
+    poster: Nick Goodcorn
+    email: sunburn2001@mail.ru
+    subject: И что после Создания?
+    deleted: false

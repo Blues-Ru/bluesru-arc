@@ -1,0 +1,51 @@
+topic_id: 2466
+slug: topic-2466
+title: Антон
+first_post: 2005-03-11 23:09
+last_post: 2005-03-14 17:20
+post_count: 4
+posts:
+- id: 20643
+  parent_id: null
+  date: 2005-03-11 23:09
+  poster: где можно скачать видео?
+  email: olx1@yandex.ru
+  subject: Антон
+  deleted: false
+  text: Кто знает, где скачать можно видео группы Crossroadz? И ещё один вопрос, у
+    этой группы есть видеоклипы? Если да, где можно посмотреть?
+  replies:
+  - id: 20645
+    parent_id: 20643
+    date: 2005-03-12 08:48
+    poster: Andrei V. Evdokimov (evdokimov)
+    email: evdokimov@blues.ru
+    subject: у этой группы есть великий видеоклип
+    deleted: false
+    text: про бриллиантовый дождь. Это был хит во времена "музыкального обоза". а
+      спрашивать про него надо на именном сайте группы.
+    replies:
+    - id: 20646
+      parent_id: 20645
+      date: 2005-03-12 09:58
+      poster: Антон
+      email: i@rambler.ru
+      subject: как раз на сайте ничего нет
+      deleted: false
+      text: только MP3. Может есть ещё какие-нибудь источники, где можно посмотреть
+        этот клип?
+      replies:
+      - id: 20651
+        parent_id: 20646
+        date: 2005-03-14 17:20
+        poster: Старый Майор
+        email: gypsy@mail.ru
+        subject: Алгоритм действий
+        deleted: false
+        text: '1. Прийти в клуб "Б.Б.Кинг"
+
+          2. Поймать лично тов.Воронова
+
+          3. Потребовать выдать клип тотчас же, а то будет как вчера.
+
+          4. Наслаждаться реакцией.'

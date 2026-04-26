@@ -1,0 +1,60 @@
+topic_id: 2845
+slug: topic-2845
+title: для обладателей толстых коннектов!
+first_post: 2005-10-08 20:01
+last_post: 2005-10-10 07:04
+post_count: 5
+posts:
+- id: 23760
+  parent_id: null
+  date: 2005-10-08 20:01
+  poster: Andrei V. Evdokimov (evdokimov)
+  email: evdokimov@blues.ru
+  subject: для обладателей толстых коннектов!
+  deleted: false
+  text: 'http://www.avaxhome.ru/music/2005/10/08/taj_mahal_mule_bone/#full
+
+
+    там лежит диск Тадж Махала на стихи Л.Хьюза, что говорит само за себя!'
+  replies:
+  - id: 23762
+    parent_id: 23760
+    date: 2005-10-08 23:39
+    poster: Дмитрий Казанцев (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: ага, забавный
+    deleted: false
+    text: у меня есть давно. нельзя сказать, что это лучшая его работа, но там есть
+      что слушать.
+    replies:
+    - id: 23773
+      parent_id: 23762
+      date: 2005-10-09 23:20
+      poster: Диброва (Dibrova)
+      email: dibrova_blues@rambler.ru
+      subject: Мне лично понравилось....
+      deleted: false
+      text: Не плохо
+  - id: 23771
+    parent_id: 23760
+    date: 2005-10-09 22:38
+    poster: Elicaster
+    email: elicaster(@))mmmmmmmmmail.ru
+    subject: А хто это такой?
+    deleted: false
+    text: 'Л.Хьюз
+
+      А кто это такой?
+
+      Извиняйте, но я не знаю: сами -панимаете: Азия - тёмные луди.'
+    replies:
+    - id: 23775
+      parent_id: 23771
+      date: 2005-10-10 07:04
+      poster: Дмитрий Казанцев (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: кратко
+      deleted: false
+      text: "Это чёрный поэт-битник. Борец за права и т.д. еще до Мартина Лютера Кинга.\
+        \ Умер в 1967 году. \n\nhttp://www.allmusic.com/cg/amg.dll?p=amg&sql=11:0ifuxqt5ldde\n\
+        \nhttp://www.poets.org/poet.php/prmPID/83"

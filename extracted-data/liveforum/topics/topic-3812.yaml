@@ -1,0 +1,129 @@
+topic_id: 3812
+slug: topic-3812
+title: а чё такой мертвяк-то?
+first_post: 2007-11-27 18:43
+last_post: 2007-12-08 23:57
+post_count: 13
+posts:
+- id: 33962
+  parent_id: null
+  date: 2007-11-27 18:43
+  poster: Dmitri Kazantsev (Dr. Nick)
+  email: dr.nick@blues.ru
+  subject: а чё такой мертвяк-то?
+  deleted: false
+  text: 'мп3 что ли закончились? или шаффлы перестали у нас играть с маршами?
+
+    на выборы-то идёте, блюзманы? а?'
+  replies:
+  - id: 33969
+    parent_id: 33962
+    date: 2007-11-28 12:54
+    poster: Владимир Русинов (BluesCat)
+    email: volodya@blues.ru
+    subject: ну если хочешь вот тебе mp3 про выборы... почти шаффл... ;)
+    deleted: false
+    text: <A HREF="http://music.jimi.ru/dv/02.mp3">http://music.jimi.ru/dv/02.mp3</A>
+    replies:
+    - id: 33971
+      parent_id: 33969
+      date: 2007-11-28 15:28
+      poster: Эльдар
+      email: Эльдар
+      subject: Блин, а я купился :-(
+      deleted: false
+      text: 'какая-то дрень на русском языке про выборы...
+
+        злая шютка, вова...'
+      replies:
+      - id: 33972
+        parent_id: 33971
+        date: 2007-11-28 15:34
+        poster: Владимир Русинов (BluesCat)
+        email: volodya@blues.ru
+        subject: а помоему отличная песня про выборы :)))))
+        deleted: false
+        replies:
+        - id: 33987
+          parent_id: 33972
+          date: 2007-11-30 14:29
+          poster: Старый Майор
+          email: gypsy@mail.ru
+          subject: Вова, ты за КПСС или за КПК?
+          deleted: false
+          replies:
+          - id: 34000
+            parent_id: 33987
+            date: 2007-12-02 03:00
+            poster: Владимир Русинов (BluesCat)
+            email: volodya@blues.ru
+            subject: я за СКС
+            deleted: false
+            replies:
+            - id: 34001
+              parent_id: 34000
+              date: 2007-12-02 10:16
+              poster: Эльдар
+              email: Эльдар
+              subject: ABC, FBI, CIA, BBC, BBKing, RnB, TCCP
+              deleted: false
+              text: нынче я за <a href="http://www.blues.ru/forum/?id=54571&page=1&body=1#54571">FSB</a>
+              replies:
+              - id: 34004
+                parent_id: 34001
+                date: 2007-12-02 16:18
+                poster: Старый Майор
+                email: gypsy@mail.ru
+                subject: Вова, СКС - это самая крутая из всех партий!
+                deleted: false
+                text: Я тоже за них голосовать буду )))
+                replies:
+                - id: 34005
+                  parent_id: 34004
+                  date: 2007-12-02 16:27
+                  poster: Эльдар
+                  email: Эльдар
+                  subject: СКС
+                  deleted: false
+                  text: 'Это Союз Крайних Сил? или Самая Крутая Сила?
+
+                    а я так и не пошел голосовать: избир. участок далековато. лень.'
+                - id: 34006
+                  parent_id: 34004
+                  date: 2007-12-02 16:27
+                  poster: Эльдар
+                  email: Эльдар
+                  subject: СКС
+                  deleted: false
+                  text: 'Это Союз Крайних Сил? или Самая Крутая Сила?
+
+                    а я так и не пошел голосовать: избир. участок далековато. лень.'
+                - id: 34010
+                  parent_id: 34004
+                  date: 2007-12-02 20:23
+                  poster: Владимир Русинов (BluesCat)
+                  email: volodya@blues.ru
+                  subject: это Cтуктурированная Кабельная Сеть
+                  deleted: false
+                  text: терминатора все смотрели? вот так то...
+                  replies:
+                  - id: 34026
+                    parent_id: 34010
+                    date: 2007-12-03 17:33
+                    poster: Старый Майор
+                    email: gypsy@mail.ru
+                    subject: Угу, а Генеральный Сисадмин - самый страшный человек!
+                    deleted: false
+                    text: 'Если он Генеральную СКС ножиком чик-чик, то у всех Интернет
+                      отключится!
+
+                      Что тогда будете делать, рабы лампы? )))'
+                    replies:
+                    - id: 34087
+                      parent_id: 34026
+                      date: 2007-12-08 23:57
+                      poster: BOODOOLAI
+                      email: timot@mail.ru
+                      subject: '...'
+                      deleted: false
+                      text: Inshallah...

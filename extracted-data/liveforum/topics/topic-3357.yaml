@@ -1,0 +1,43 @@
+topic_id: 3357
+slug: topic-3357
+title: привет :)
+first_post: 2006-08-03 23:35
+last_post: 2006-08-04 02:28
+post_count: 4
+posts:
+- id: 28160
+  parent_id: null
+  date: 2006-08-03 23:35
+  poster: Дмитрий Честных (Ветеран)
+  email: veteran71@mail.ru
+  subject: привет :)
+  deleted: false
+  text: вот и я в сети :)
+  replies:
+  - id: 28162
+    parent_id: 28160
+    date: 2006-08-03 23:51
+    poster: Владимир Русинов (BluesCat)
+    email: volodya@blues.ru
+    subject: привет!! :)
+    deleted: false
+    text: Ты пришел в день большой битвы тут.. на форуме. гыгыгы. :)
+    replies:
+    - id: 28164
+      parent_id: 28162
+      date: 2006-08-04 00:58
+      poster: Дмитрий Честных (Ветеран)
+      email: veteran71@mail.ru
+      subject: вопрос?
+      deleted: false
+      text: 'Я, к сожалению, не в курсе событий. А читать всё это лень.
+
+        Так и не узнаю ни хрена!'
+      replies:
+      - id: 28165
+        parent_id: 28164
+        date: 2006-08-04 02:28
+        poster: Владимир Русинов (BluesCat)
+        email: volodya@blues.ru
+        subject: и слава богу! :))
+        deleted: false

@@ -1,0 +1,66 @@
+topic_id: 3756
+slug: topic-3756
+title: Давайте скажем спасибо Юриванычу и родному ДуДу :-))
+first_post: 2007-10-09 17:50
+last_post: 2007-10-11 13:14
+post_count: 6
+posts:
+- id: 33607
+  parent_id: null
+  date: 2007-10-09 17:50
+  poster: Петр Кунарев (Eastwood2002)
+  email: cousins@yandex.ru
+  subject: Давайте скажем спасибо Юриванычу и родному ДуДу :-))
+  deleted: false
+  text: 'Началось голосование "Лучший ресторан Москвы -2007" на сайте www.menu.ru/
+
+
+    Голосуем за
+
+
+    Дом у Дороги
+
+
+    (Единомышленники могут сделать это здесь: http://menu.ru/transformer/action__pv/id__270534.html)'
+  replies:
+  - id: 33608
+    parent_id: 33607
+    date: 2007-10-09 18:02
+    poster: Dmitri Kazantsev (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: ага
+    deleted: false
+    text: как за демократичное заведение надо
+  - id: 33620
+    parent_id: 33607
+    date: 2007-10-10 16:14
+    poster: Игорь Г
+    email: sunny_city@mail.ru
+    subject: Да,да и только ДА!! !!!
+    deleted: false
+  - id: 33625
+    parent_id: 33607
+    date: 2007-10-10 23:45
+    poster: Andrei V. Evdokimov (evdokimov)
+    email: evdokimov@blues.ru
+    subject: 'есть теперь на ютубе: RoadhouseMoscow'
+    deleted: false
+    replies:
+    - id: 33628
+      parent_id: 33625
+      date: 2007-10-11 10:58
+      poster: Эльдар
+      email: Эльдар
+      subject: youtube.com
+      deleted: false
+      text: 'http://youtube.com/results?search_query=RoadhouseMoscow&search=Search
+
+        http://youtube.com/results?search_query=Roadhouse+Moscow&search=Search'
+      replies:
+      - id: 33630
+        parent_id: 33628
+        date: 2007-10-11 13:14
+        poster: Andrei V. Evdokimov (evdokimov)
+        email: evdokimov@blues.ru
+        subject: http://youtube.com/user/RoadhouseMoscow
+        deleted: false

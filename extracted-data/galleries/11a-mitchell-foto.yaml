@@ -1,0 +1,32 @@
+path: 11A/Mitchell_foto
+type: custom
+title: Джордж Митчелл - фотограф, архивариус, исследователь, пропагандист
+date: null
+photo_count: 7
+captioned: 5
+index_files:
+- G_Mitchell.htm
+extra_text: Джордж Митчелл - фотограф, архивариус, исследователь, пропагандист Бадди
+  Мосс, 60-е годы Уилльям Грант, фото 1981 г. Диксон Хант с супругой, 1969 г. Альбом
+  Джимми Ли Харриса в "Коллекции Джорджа Митчелла", переиздание Fats Possum. Джордж
+  Митчел играет на oil-can bass, 2005 г. Blues.Ru - Новости | Музыканты | Стили |
+  CD Обзор | Концерты | Live Band | Лента | Форум
+photos:
+- file: GMitchell1.jpg
+  caption: Dixon Hunt and his wife pose for the camera in Dranesville, Georgia, in
+    1969
+- file: GMitchell2.jpg
+  caption: Джордж Митчел играет на oil-can bass, 2005 г.
+- file: GMitchell_Buddy_Moss60s.jpg
+  caption: Buddy Moss - 60's
+- file: GMitchell_William_Grant_81.jpg
+  caption: William Grant, 1981
+- file: JLharris.jpg
+  caption: Jimmy Lee Harris album
+- file: george-mitchell.jpg
+- file: george-mitchell2.jpg
+canonical_date: '2011'
+clean_title: Джордж Митчелл - фотограф, архивариус, исследователь, пропагандист
+slug: 11a-mitchell-foto
+description: null
+exclude: true

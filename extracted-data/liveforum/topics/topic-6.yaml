@@ -1,0 +1,25 @@
+topic_id: 6
+slug: topic-6
+title: 'Вот тут нашел:'
+first_post: 2002-01-24 01:05
+last_post: 2002-01-24 15:35
+post_count: 2
+posts:
+- id: 254
+  parent_id: null
+  date: 2002-01-24 01:05
+  poster: AvA  ()
+  email: vad2908@mail.ru
+  subject: 'Вот тут нашел:'
+  deleted: false
+  text: пару сайтов, кому интересно, www.12bar.com (можно послушать много старого
+    блюза), www.electricblues.com (списки, рейтинг ихний...)
+  replies:
+  - id: 268
+    parent_id: 254
+    date: 2002-01-24 15:35
+    poster: Captain Beefheart
+    email: crazy_bear@fomenko.ru
+    subject: СПАСИБО!
+    deleted: false
+    text: Ищи ещё, мне понравилось.

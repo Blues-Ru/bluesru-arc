@@ -1,0 +1,50 @@
+topic_id: 4836
+slug: topic-4836
+title: моё старое бетаканжо
+first_post: 2012-02-27 13:01
+last_post: 2012-03-01 14:43
+post_count: 6
+posts:
+- id: 38286
+  parent_id: null
+  date: 2012-02-27 13:01
+  poster: burnus
+  subject: моё старое бетаканжо
+  deleted: false
+  text: http://www.youtube.com/watch?v=qJR3Jc6zAE0&feature=related
+  replies:
+  - id: 38287
+    parent_id: 38286
+    date: 2012-02-27 17:29
+    poster: Andrei V. Evdokimov
+    subject: круть! мне клип очень понравился. (-)
+    deleted: false
+  - id: 38292
+    parent_id: 38286
+    date: 2012-03-01 10:18
+    poster: burnus
+    subject: а де  там клип ?
+    deleted: false
+    text: а де  там клип ?
+    replies:
+    - id: 38294
+      parent_id: 38292
+      date: 2012-03-01 13:44
+      poster: Andrei V. Evdokimov
+      subject: что такое клип - каждый понимает по своему
+      deleted: false
+      text: Ну, так примерно дети теперь пишут в школьных сочинениях )))
+  - id: 38293
+    parent_id: 38286
+    date: 2012-03-01 12:53
+    poster: Алексей Аграновский
+    subject: И мне понравился
+    deleted: false
+    text: Напоминает прежние времена и людей
+  - id: 38295
+    parent_id: 38286
+    date: 2012-03-01 14:43
+    poster: burnus
+    subject: давно это было
+    deleted: false
+    text: http://www.youtube.com/watch?v=pXAWuVPhJkY&list=UU8ZO7svuG5NhI_dLgB3LdgA&index=1&feature=plcp

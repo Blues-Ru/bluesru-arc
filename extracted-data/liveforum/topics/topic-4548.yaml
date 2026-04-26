@@ -1,0 +1,106 @@
+topic_id: 4548
+slug: topic-4548
+title: Негры поют
+first_post: 2011-03-13 19:13
+last_post: 2011-03-28 00:45
+post_count: 11
+posts:
+- id: 37423
+  parent_id: null
+  date: 2011-03-13 19:13
+  poster: Cpt. Nemoff
+  subject: Негры поют
+  deleted: false
+  text: <iframe title="YouTube video player" width="480" height="390" src="http://www.youtube.com/embed/Sjn6lqcHzGE"
+    frameborder="0" allowfullscreen></iframe>
+  replies:
+  - id: 37424
+    parent_id: 37423
+    date: 2011-03-13 20:44
+    poster: Andrei V. Evdokimov
+    subject: оспади
+    deleted: false
+    text: это откуда?
+    replies:
+    - id: 37425
+      parent_id: 37424
+      date: 2011-03-13 20:56
+      poster: Dmitri Kazantsev
+      subject: это боянъ
+      deleted: false
+      text: ты чего вообще ))
+      replies:
+      - id: 37428
+        parent_id: 37425
+        date: 2011-03-13 22:53
+        poster: Эльдар
+        subject: 'ФОРУМ : Разговоры о блюзе : Негры поют'
+        deleted: false
+        text: '> ФОРУМ : Разговоры о блюзе : Негры поют - Cpt. Nemoff
+
+          у меня ютьб заблокирован :-(
+
+          что там? Негры поют о блюзе на боянъе?'
+  - id: 37429
+    parent_id: 37423
+    date: 2011-03-14 01:05
+    poster: Andrei V. Evdokimov
+    subject: какойто савецкий филмль
+    deleted: false
+    replies:
+    - id: 37430
+      parent_id: 37429
+      date: 2011-03-14 09:28
+      poster: Эльдар
+      subject: Майкл?
+      deleted: false
+      text: '- Это кто ж такие поють?
+
+        - Это негры, Майкл.'
+    - id: 37431
+      parent_id: 37429
+      date: 2011-03-14 19:51
+      poster: Эльдар
+      subject: Adelaide Hall — The Blues I Love to Sing
+      deleted: false
+      text: 'в комментах там есть:
+
+        Отрывок из фильма Сергея Герасимова  «Учитель». Сын вернулся в родную деревню
+        и даёт послушать «зарубежную эстраду», привезённую из Москвы.
+
+        Песня, кстате, звучит эта: Adelaide Hall — The Blues I Love to Sing
+
+        Стёбная&#65279; по ходу тоже.'
+      replies:
+      - id: 37433
+        parent_id: 37431
+        date: 2011-03-15 13:09
+        poster: Старый Майор
+        subject: С оркестром Эллингтона, кстати
+        deleted: false
+        text: 'http://www.youtube.com/watch?v=alYo2kXgK4s
+
+          Та часть, которая слышна в фильме, где-то в районе 2-й минуты.'
+        replies:
+        - id: 37435
+          parent_id: 37433
+          date: 2011-03-18 11:08
+          poster: олег
+          subject: '!!!'
+          deleted: false
+          text: Вполне приличная песня!
+          replies:
+          - id: 37438
+            parent_id: 37435
+            date: 2011-03-19 02:51
+            poster: Старый Майор
+            subject: А то!
+            deleted: false
+            text: У Эллингтона всё приличное!
+          - id: 37454
+            parent_id: 37435
+            date: 2011-03-28 00:45
+            poster: Михаил Бирюков
+            subject: '...'
+            deleted: false
+            text: Идеологически невыдержанная...

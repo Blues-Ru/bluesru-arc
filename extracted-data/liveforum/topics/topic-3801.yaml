@@ -1,0 +1,51 @@
+topic_id: 3801
+slug: topic-3801
+title: Расчет блюза :)
+first_post: 2007-11-17 17:15
+last_post: 2007-11-19 18:41
+post_count: 5
+posts:
+- id: 33900
+  parent_id: null
+  date: 2007-11-17 17:15
+  poster: Владимир Русинов (BluesCat)
+  email: volodya@blues.ru
+  subject: Расчет блюза :)
+  deleted: false
+  text: '<A HREF="http://vrbluescat.livejournal.com/59627.html">http://vrbluescat.livejournal.com/59627.html</A>
+
+
+    :)'
+  replies:
+  - id: 33901
+    parent_id: 33900
+    date: 2007-11-17 20:21
+    poster: OnlyOne
+    email: corrgon@mail.ru
+    subject: все прочитал - нифига не понял...
+    deleted: false
+    text: Владимир, поясни на пальцах. В двух словах.. зачем и о чем вся эта дискуссия?
+    replies:
+    - id: 33909
+      parent_id: 33901
+      date: 2007-11-18 03:39
+      poster: Владимир Русинов (BluesCat)
+      email: volodya@blues.ru
+      subject: не могу не ответить прямо...  дискуссия ни о чем посути :)))
+      deleted: false
+      replies:
+      - id: 33913
+        parent_id: 33909
+        date: 2007-11-18 15:41
+        poster: Johnny Guitar
+        email: hgg
+        subject: например
+        deleted: false
+        text: 'как это происходит у соседей: www.harmonica.org.ua/harpforum'
+  - id: 33924
+    parent_id: 33900
+    date: 2007-11-19 18:41
+    poster: А. Морозов
+    email: jam_rb@mail.ru
+    subject: что имеем не храним, потерявши плачем
+    deleted: false

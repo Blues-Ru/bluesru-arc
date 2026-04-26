@@ -1,0 +1,35 @@
+topic_id: 3006
+slug: topic-3006
+title: 21 декабря, Курс, Кожекин и Некрасов
+first_post: 2005-12-20 20:52
+last_post: 2005-12-20 22:53
+post_count: 3
+posts:
+- id: 25171
+  parent_id: null
+  date: 2005-12-20 20:52
+  poster: Штирлиц
+  email: just_smile@bk.ru
+  subject: 21 декабря, Курс, Кожекин и Некрасов
+  deleted: false
+  text: 'Завтра, в курсе в 21:30 - выступление Макса Некрасова.
+
+    После - концерт Станции Мир.
+
+    Имхо - вполне себе продолжение гармошечного феста ))'
+  replies:
+  - id: 25172
+    parent_id: 25171
+    date: 2005-12-20 21:50
+    poster: Мюллер-гармонист
+    email: a@a.com
+    subject: Штрилиц, я всегда жалел что вы работаете не на меня!
+    deleted: false
+    replies:
+    - id: 25173
+      parent_id: 25172
+      date: 2005-12-20 22:53
+      poster: Штирлиц
+      email: just_smile@bk.ru
+      subject: Таки шо я могу поделать когда Моссад больше платит! :)
+      deleted: false

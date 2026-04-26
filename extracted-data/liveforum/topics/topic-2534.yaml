@@ -1,0 +1,38 @@
+topic_id: 2534
+slug: topic-2534
+title: Московская музыкальная биржа -- отстой!!! ;)
+first_post: 2005-04-19 23:11
+last_post: 2005-04-20 07:52
+post_count: 4
+posts:
+- id: 21188
+  parent_id: null
+  date: 2005-04-19 23:11
+  poster: Dima Krasivov (Dima)
+  email: dima@blues.ru
+  subject: Московская музыкальная биржа -- отстой!!! ;)
+  deleted: false
+  replies:
+  - id: 21189
+    parent_id: 21188
+    date: 2005-04-19 23:13
+    poster: Dima Krasivov (Dima)
+    email: dima@blues.ru
+    subject: А ещё дизайн-студия "АртОтряд" предлагающая полиграфические услуги...
+      Никогда не обращайтесь туда!!! ;)
+    deleted: false
+  - id: 21191
+    parent_id: 21188
+    date: 2005-04-20 03:46
+    poster: Федор Романенко (fedor)
+    email: fedor@blues.ru
+    subject: Биржа рулит!
+    deleted: false
+    text: Ты не прав! ;)
+  - id: 21193
+    parent_id: 21188
+    date: 2005-04-20 07:52
+    poster: Дима Казанцев (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: а что это?
+    deleted: false

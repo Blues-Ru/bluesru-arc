@@ -1,0 +1,40 @@
+topic_id: 841
+slug: topic-841
+title: Noel Redding died yesterday,,,
+first_post: 2003-05-13 04:10
+last_post: 2003-05-15 10:51
+post_count: 4
+posts:
+- id: 12440
+  parent_id: null
+  date: 2003-05-13 04:10
+  poster: Nick Goodcorn (UNDERGROUND SUNBURN)
+  email: sunburn2001@mail.ru
+  subject: Noel Redding died yesterday,,,
+  deleted: false
+  text: "Rock musician Noel Redding, best known for his stint \nas the bass player\
+    \ with the Jimi Hendrix Experience, \ndied yesterday (May 11) in Ireland of unknown\
+    \ causes. \nHe was 57."
+  replies:
+  - id: 12460
+    parent_id: 12440
+    date: 2003-05-13 21:35
+    poster: Yuri Kaverkin (Gekko)
+    email: kaverkin@rol.ru
+    subject: Ну они с Джимми там закрутят.....
+    deleted: false
+  - id: 12476
+    parent_id: 12440
+    date: 2003-05-15 10:50
+    poster: Malcolm Ray Redriver
+    email: lifebythedrop@yandex.ru
+    subject: Memento mori
+    deleted: false
+  - id: 12477
+    parent_id: 12440
+    date: 2003-05-15 10:51
+    poster: Malcolm Ray Redriver
+    email: lifebythedrop@yandex.ru
+    subject: Memento mori
+    deleted: false
+    text: :.(

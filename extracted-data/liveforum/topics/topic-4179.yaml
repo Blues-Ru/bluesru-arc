@@ -1,0 +1,51 @@
+topic_id: 4179
+slug: topic-4179
+title: Друг ищет гитару
+first_post: 2009-02-17 11:28
+last_post: 2009-02-19 08:57
+post_count: 5
+posts:
+- id: 36114
+  parent_id: null
+  date: 2009-02-17 11:28
+  poster: Алексей Аграновский (Док)
+  email: aaa@genebee.msu.su
+  subject: Друг ищет гитару
+  deleted: false
+  text: '"Fender Stratocaster or Gibson 335 models" (цит.) Если кто-то слышал про
+    такие инструменты на продажу, пришлите мне е-письмо.'
+  replies:
+  - id: 36116
+    parent_id: 36114
+    date: 2009-02-17 18:35
+    poster: Алексей Аграновский (Док)
+    email: aaa@genebee.msu.su
+    subject: Вопрос решен
+    deleted: false
+    text: Всем спасибо!
+  - id: 36127
+    parent_id: 36114
+    date: 2009-02-18 22:04
+    poster: А.Морозов
+    email: jam_rb@mail.ru
+    subject: а комбик то, комбик!!!
+    deleted: false
+    text: вашему другу просто жизненно необходим твидовый Blues DeVille 93 год, made
+      in USA, аппарат в Москве, ждёт нового хозяина :))
+    replies:
+    - id: 36136
+      parent_id: 36127
+      date: 2009-02-19 07:38
+      poster: tavrichesky
+      email: hvhj
+      subject: а деньги то, деньги!!!
+      deleted: false
+      text: такой комбик не только под гитару необходим)))
+  - id: 36137
+    parent_id: 36114
+    date: 2009-02-19 08:57
+    poster: морозов
+    email: jam_rb@mail.ru
+    subject: как это верно!
+    deleted: false
+    text: 'насчёт денег сюда: jam_rb@mail.ru'

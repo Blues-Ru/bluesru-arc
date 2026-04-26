@@ -1,0 +1,41 @@
+topic_id: 3046
+slug: topic-3046
+title: Гарри- где он теперь?
+first_post: 2006-01-18 01:03
+last_post: 2006-01-18 02:44
+post_count: 4
+posts:
+- id: 25488
+  parent_id: null
+  date: 2006-01-18 01:03
+  poster: MX
+  email: gwxwjx
+  subject: Гарри- где он теперь?
+  deleted: false
+  text: Всех с Новым Годом! Если кто в курсе, подскажите где находится Гарри и его
+    Блюз Лирикс?
+  replies:
+  - id: 25489
+    parent_id: 25488
+    date: 2006-01-18 02:40
+    poster: Андрей Ефименко (LNJ)
+    email: anefim@mail.ru
+    subject: гарри
+    deleted: false
+    text: http://blueslyrics.tripod.COM/
+  - id: 25490
+    parent_id: 25488
+    date: 2006-01-18 02:44
+    poster: Дмитрий Казанцев (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: Гарри Поттер что ли?
+    deleted: false
+    text: :)
+  - id: 25491
+    parent_id: 25488
+    date: 2006-01-18 02:44
+    poster: Андрей Ефименко (LNJ)
+    email: anefim@mail.ru
+    subject: гарри
+    deleted: false
+    text: http://blueslyrics.tripod.COM/

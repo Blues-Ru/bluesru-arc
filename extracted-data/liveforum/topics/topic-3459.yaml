@@ -1,0 +1,29 @@
+topic_id: 3459
+slug: topic-3459
+title: Блюз в С-Петербурге
+first_post: 2006-10-25 01:35
+last_post: 2006-10-25 02:27
+post_count: 2
+posts:
+- id: 29174
+  parent_id: null
+  date: 2006-10-25 01:35
+  poster: Евгений Павлюченков (Steive)
+  email: Vaughan@yandex.ru
+  subject: Блюз в С-Петербурге
+  deleted: false
+  text: Народ!неужели в Питере нет ни одного блюзово-информационного портала, в котором
+    можно узнать где и когда проходят интересные выступления интересных музыкантов.
+    Куда ни глянь все о Москве, неверю, что в Питере так мало людей, преданных этой
+    музыке?
+  replies:
+  - id: 29176
+    parent_id: 29174
+    date: 2006-10-25 02:27
+    poster: Goodcorn
+    email: sunburn2001@mail.ru
+    subject: в Питере
+    deleted: false
+    text: 'www.rock-n-roll.ru
+
+      http://musicmp3.spb.ru/live.php?subject=1'

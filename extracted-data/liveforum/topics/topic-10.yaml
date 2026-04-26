@@ -1,0 +1,114 @@
+topic_id: 10
+slug: topic-10
+title: Animals Forever!
+first_post: 2002-01-24 15:41
+last_post: 2002-02-01 02:37
+post_count: 9
+posts:
+- id: 271
+  parent_id: null
+  date: 2002-01-24 15:41
+  poster: Captain Beefheart
+  email: crazy_bear@fomenko.ru
+  subject: Animals Forever!
+  deleted: false
+  text: Мой отец в советские времена создал фэн-клаб Animals! Д.Светозаров, если интересно,
+    кто такого знает - пишите письма! Заранее привет и спасибо. Он просто ищет своих
+    знакомых и соклубников!
+  replies:
+  - id: 338
+    parent_id: 271
+    date: 2002-01-26 15:59
+    poster: Captain Beefheart
+    email: crazy_bear@fomenko.ru
+    subject: ОТВЕЧАЮ сам себе
+    deleted: false
+    text: Кто родился в танке - Animals - это группа времён British Invasion 60-s
+      (Beatles, Rolling Stones & Animals), ведомая Eric Burdon`ом, играли Рок-н-ролл,
+      Хукера, Джимми Рида, Бо Диддли и так далее.
+    replies:
+    - id: 349
+      parent_id: 338
+      date: 2002-01-26 17:44
+      poster: Дима Казанцев (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: А про остальных ты забыл?
+      deleted: false
+      text: А где в твоем списке The Who & Kinks? А ты вот, умник, в курсе, что "Звери"
+        записали лишь три альбома в оригинальном "нужном" составе? Как можно о фэн-клабе
+        говорить при таком раскладе?
+      replies:
+      - id: 520
+        parent_id: 349
+        date: 2002-01-31 14:10
+        poster: Alexei Perel (Mad_Pappa)
+        email: alexperel@chat.ru
+        subject: Animals
+        deleted: false
+        text: '"Nuzhnij sostaw"  - eto kakoj? S Alanom Price''om? Ili s Rawberry,
+          no esche so Steelom? o kakih 3-h albomah ti goworish?'
+      - id: 521
+        parent_id: 349
+        date: 2002-01-31 16:01
+        poster: Captain Beefheart
+        email: crazy_bear@fomenko.ru
+        subject: Ответ
+        deleted: false
+        text: 'Хорошо, а как можно говорить о фэн-клабе Д.Хендрикса, если у него тоже
+          был далеко не один состав? Который Experience, или Band Of Gypsys? Или,
+          может, Electric Red Church? Если ты и дальше собираешься цепляться к каждому
+          МОЕМУ слову, то, обещаю, будут и другие флеймы. Так-что, могу ответить тебе
+          в стиле "сам дурак", но это напоминает разборку шпаны в подворотне. Так
+          что, "умник", больше думай об интересных темах. И не утверждай, что фэн-клаб
+          Зверей невозможен - в любом случае они назывались Animals (Eric Burdon and
+          The Animals, The New Animals...) и играли классную музыку. Надеюсь, вопрос
+          закрыт. Спасибо за внимание, умник.
+
+          :)'
+        replies:
+        - id: 553
+          parent_id: 521
+          date: 2002-02-01 01:33
+          poster: Alexei Perel (Mad_Pappa)
+          email: alexperel@chat.ru
+          subject: Animals Again
+          deleted: false
+          text: Nu wot, pohozhe, zagloh topic o klassnoj komande....Ochen zhal:-((
+          replies:
+          - id: 554
+            parent_id: 553
+            date: 2002-02-01 02:09
+            poster: Дима Казанцев (Dr. Nick)
+            email: dr.nick@blues.ru
+            subject: Ну давай продолжим
+            deleted: false
+            text: Лично мне больше всего нравится Eric Burdon & War. Больше, чем любой
+              альбом Animals. У меня есть два первых альбома "Зверей". Оба монофонические,
+              но очень прикольные. Еще Animalism надо найти, ибо я считаю, что без
+              Прайса - это уже сольники Эрика. Сольники его не очень люблю; раньше
+              владел тремя - все поменял. Там были и хорошие вещи, правда. Кстати,
+              гитарист Police - Andy Summers начинал играть именно у Бердона! Во как
+              бывает ;)))
+            replies:
+            - id: 555
+              parent_id: 554
+              date: 2002-02-01 02:24
+              poster: AvA  ()
+              email: vad2908@mail.ru
+              subject: кстати....
+              deleted: false
+              text: '...есть ещё альбом ERIC BURDON / JIMMY WITHERSPOON "BLACK & WHITE
+                BLUES" (P)''76 - если "Москва" не врёт....'
+              replies:
+              - id: 556
+                parent_id: 555
+                date: 2002-02-01 02:37
+                poster: Дима Казанцев (Dr. Nick)
+                email: dr.nick@blues.ru
+                subject: Есть такой альбом
+                deleted: false
+                text: 'В оригинале он назывался ''Guilty!'' и вышел в 71-ом году,
+                  но потом был переиздан в Штатах как ''B&W Blues''. На "антивоенной"
+                  выложен в мп3. Слушать можно, но не шедевр.
+
+                  Может вынесем эту тему наверх? Про Бердона?'

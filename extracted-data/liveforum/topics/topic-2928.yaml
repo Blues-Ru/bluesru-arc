@@ -1,0 +1,27 @@
+topic_id: 2928
+slug: topic-2928
+title: Послушал нового Бадди. Мне понравилось!
+first_post: 2005-11-16 08:29
+last_post: 2005-11-17 20:54
+post_count: 2
+posts:
+- id: 24528
+  parent_id: null
+  date: 2005-11-16 08:29
+  poster: Дмитрий Казанцев (Dr. Nick)
+  email: dr.nick@blues.ru
+  subject: Послушал нового Бадди. Мне понравилось!
+  deleted: false
+  text: 'http://www.livejournal.com/community/ru_blues/223343.html?mode=reply
+
+
+    Спасибо Бирюкову!'
+  replies:
+  - id: 24565
+    parent_id: 24528
+    date: 2005-11-17 20:54
+    poster: Старый Майор
+    email: gypsy@mail.ru
+    subject: И я послушал.. отличный альбом! Очень интересный!
+    deleted: false
+    text: Спасибо Интернету!

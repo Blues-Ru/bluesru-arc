@@ -1,0 +1,35 @@
+topic_id: 4549
+slug: topic-4549
+title: блюз
+first_post: 2011-03-13 21:48
+last_post: 2011-03-18 16:12
+post_count: 4
+posts:
+- id: 37426
+  parent_id: null
+  date: 2011-03-13 21:48
+  poster: Иван
+  subject: блюз
+  deleted: false
+  replies:
+  - id: 37427
+    parent_id: 37426
+    date: 2011-03-13 21:49
+    poster: Иван
+    subject: блюз
+    deleted: false
+    text: Все кто любит и играет блюз давай сюда !!!!
+    replies:
+    - id: 37436
+      parent_id: 37427
+      date: 2011-03-18 16:12
+      poster: Дикий Пчёл
+      subject: блюз
+      deleted: false
+      text: Даю, я уже здесь. О чем поговорим?
+  - id: 37434
+    parent_id: 37426
+    date: 2011-03-16 21:00
+    poster: Старый Майор
+    subject: А чего давать-то??? Oo
+    deleted: false

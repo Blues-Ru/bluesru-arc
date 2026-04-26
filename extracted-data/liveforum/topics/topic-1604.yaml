@@ -1,0 +1,33 @@
+topic_id: 1604
+slug: topic-1604
+title: я сочинил блуес
+first_post: 2003-11-24 23:02
+last_post: 2003-11-24 23:19
+post_count: 2
+posts:
+- id: 15876
+  parent_id: null
+  date: 2003-11-24 23:02
+  poster: papa_john (Ilnitski)
+  email: ev-il@mail.ru
+  subject: я сочинил блуес
+  deleted: false
+  text: 'я сочинил блуес
+
+    http://www.satriani.ru/rr/pjblues.mp3'
+  replies:
+  - id: 15879
+    parent_id: 15876
+    date: 2003-11-24 23:19
+    poster: papa_john
+    email: ev-il@mail.ru
+    subject: surfy lounge
+    deleted: false
+    text: 'http://www.satriani.ru/rr/patate_fritte.mp3
+
+
+      на контрабасе Санчилло
+
+      вокал - Вера Агапова
+
+      остальное - papa_john'

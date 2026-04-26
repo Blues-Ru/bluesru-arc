@@ -1,0 +1,36 @@
+topic_id: 2673
+slug: topic-2673
+title: Вот и о нас пишут
+first_post: 2005-07-29 17:47
+last_post: 2005-07-30 15:42
+post_count: 3
+posts:
+- id: 22132
+  parent_id: null
+  date: 2005-07-29 17:47
+  poster: Дмитрий Казанцев (Dr. Nick)
+  email: dr.nick@blues.ru
+  subject: Вот и о нас пишут
+  deleted: false
+  text: http://context.themoscowtimes.com/stories/2005/07/29/103.html
+  replies:
+  - id: 22135
+    parent_id: 22132
+    date: 2005-07-30 01:18
+    poster: Денис Покровский (disik)
+    email: denis1482@mail.ru
+    subject: Sergei "John" Sorokin
+    deleted: false
+    text: '[quote]Sergei "John" Sorokin, one of Moscow''s foremost -- and no doubt,
+      few -- blues harpists[/quote]
+
+      Это так переводится Михаил "Петрович" Соколов? ;-)'
+    replies:
+    - id: 22138
+      parent_id: 22135
+      date: 2005-07-30 15:42
+      poster: Дмитрий Казанцев (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: да нет
+      deleted: false
+      text: Сергей Сорокин - это отдельный человек и гармонист.

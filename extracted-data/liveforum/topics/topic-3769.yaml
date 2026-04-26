@@ -1,0 +1,79 @@
+topic_id: 3769
+slug: topic-3769
+title: Рассказывайте про м-ра Дрэггера
+first_post: 2007-10-18 23:36
+last_post: 2007-10-22 22:51
+post_count: 8
+posts:
+- id: 33676
+  parent_id: null
+  date: 2007-10-18 23:36
+  poster: Илья Кривандин
+  email: ilijaсцобачкоbk.ru
+  subject: Рассказывайте про м-ра Дрэггера
+  deleted: false
+  text: Колитесь уже, кто ходил, как сегодня было! Вернее нет, как хорошо сегодня
+    было!
+  replies:
+  - id: 33681
+    parent_id: 33676
+    date: 2007-10-19 21:59
+    poster: Алексей Фролов (Buchothk)
+    email: jokerthk@yandex.ru
+    subject: '...'
+    deleted: false
+    text: 'Никто не был что ли? Или так плохо, что написать нечего? Или наоборот?
+
+      Поделитесь, действительно...'
+  - id: 33682
+    parent_id: 33676
+    date: 2007-10-20 00:40
+    poster: Юрий Каверкин (Gekko)
+    email: strophurus@yandex.ru
+    subject: Не знаю как для кого, но для меня это и есть блюз.
+    deleted: false
+    replies:
+    - id: 33690
+      parent_id: 33682
+      date: 2007-10-21 23:51
+      poster: Илья Кривандин
+      email: ilijaсцобачкоbk.ru
+      subject: Согласен полностью
+      deleted: false
+      text: У буржуев есть правильное слово "pure". Вот это про него. Спасибо всем,
+        кто организовал эти концерты. Большая радость.
+      replies:
+      - id: 33691
+        parent_id: 33690
+        date: 2007-10-22 19:32
+        poster: Алексей Аграновский (Док)
+        email: aaa@genebee.msu.su
+        subject: Спасибо всем, кто пришел в Дом у Дороги и  Джаз Таун!
+        deleted: false
+        text: Вы здорово поддержали. Дрэггеру были очень в кайф слушатели.
+        replies:
+        - id: 33693
+          parent_id: 33691
+          date: 2007-10-22 22:51
+          poster: Grem
+          email: grems@yandex.ru
+          subject: Спасибо  Омару
+          deleted: false
+          text: Спасибо Омару и всем тем, кто устроил этот настоящий праздник блюза.
+  - id: 33688
+    parent_id: 33676
+    date: 2007-10-21 14:10
+    poster: Andrei V. Evdokimov (evdokimov)
+    email: evdokimov@blues.ru
+    subject: фотографии
+    deleted: false
+    text: <a href="http://blues.ru/bluesnews/07automn/Tail/content/index.html">http://blues.ru/bluesnews/07automn/Tail/content/index.html</a>
+    replies:
+    - id: 33689
+      parent_id: 33688
+      date: 2007-10-21 14:25
+      poster: Dmitri Kazantsev (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: что-то он совсем грустный
+      deleted: false
+      text: болеет?

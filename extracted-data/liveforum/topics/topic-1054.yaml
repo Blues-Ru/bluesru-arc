@@ -1,0 +1,61 @@
+topic_id: 1054
+slug: topic-1054
+title: Bluesology
+first_post: 2002-04-11 08:28
+last_post: 2002-04-12 14:56
+post_count: 5
+posts:
+- id: 3626
+  parent_id: null
+  date: 2002-04-11 08:28
+  poster: Malcolm Ray    Readriver (Mike)
+  email: Mrg_mike@rambler.ru
+  subject: Bluesology
+  deleted: false
+  text: 'Ох, люди, вчера такая клёвая блюзология была по "Открытому", прямо зашиbeatles,
+    я имею в виду- я обожаю госспел и аккустику. Не всё-таки клёво. в простом тыкинии
+    по нотам нет ничего интересного, о вот игра на pedal steel или просто слайдом,
+    дабл стопы там всякие... А как они пели!!!... Это же офигеть.
+
+    P.S. Кстати, to Cowboy Pete: Hello, bluesman, and tell me how ''re ya doin''.
+    An'' I tell ya I''m doin'' just well...'
+  replies:
+  - id: 3627
+    parent_id: 3626
+    date: 2002-04-11 11:21
+    poster: Михаил Бирюков (nECKAPb)
+    email: blackcat@blues.ru
+    subject: поподробнее, плиз
+    deleted: false
+    text: А кого передавали-то?
+    replies:
+    - id: 3629
+      parent_id: 3627
+      date: 2002-04-11 11:56
+      poster: Malcolm Ray    Readriver (Mike)
+      email: Mrg_mike@rambler.ru
+      subject: ОО, много кого
+      deleted: false
+      text: Я уже названий всех не помню, кто мне запомнился особенно, так это Blind
+        Boys From Alabama и какой-то чувак, офигенно играющий на педал стиле ( к сожалению
+        забыл как зовут, но успел записать, никик не найду где). И Тадж-Махал. Чёрт,
+        жаль ты не слышал...
+      replies:
+      - id: 3630
+        parent_id: 3629
+        date: 2002-04-11 12:02
+        poster: Михаил Бирюков (nECKAPb)
+        email: blackcat@blues.ru
+        subject: вот я и спрашиваю
+        deleted: false
+        text: 'чтоб понять, жаль или нет. :)
+
+          Блайнд Бойз - хорошо, Тадж меня не прёт, осталось выяснить имя чувака с
+          педалстилом ;)'
+      - id: 3658
+        parent_id: 3629
+        date: 2002-04-12 14:56
+        poster: shkin
+        email: shkin
+        subject: А чувака зовут не Robert Randolph?
+        deleted: false

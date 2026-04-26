@@ -1,0 +1,35 @@
+topic_id: 2439
+slug: topic-2439
+title: как скачать песню?
+first_post: 2005-02-18 19:41
+last_post: 2005-02-19 17:02
+post_count: 3
+posts:
+- id: 20517
+  parent_id: null
+  date: 2005-02-18 19:41
+  poster: Диброва
+  email: dibrova_blues@rambler.ru
+  subject: как скачать песню?
+  deleted: false
+  text: На сайте bluesman.ru хотела скачать песню группы Crossroadz, но она записана
+    в формате OGG. И прослушать нереально! Что нужно сделать?
+  replies:
+  - id: 20520
+    parent_id: 20517
+    date: 2005-02-18 22:23
+    poster: Ded Morozzz
+    email: morozzz_ded@mail.ru
+    subject: Нет, определенно...
+    deleted: false
+    text: '... форум блюзру последнее время крепко жжот :) моя плакалЪ :) афтар, пиши
+      исчо :)'
+  - id: 20530
+    parent_id: 20517
+    date: 2005-02-19 17:02
+    poster: Алексей Аграновский (Док)
+    email: aaa@genebee.msu.su
+    subject: Там же
+    deleted: false
+    text: на сайте выставлены программы. Их надо скачать и наслаждаться после этого
+      ОГГ.

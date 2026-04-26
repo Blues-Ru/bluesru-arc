@@ -1,0 +1,71 @@
+topic_id: 3326
+slug: topic-3326
+title: Ваше мнение о нашей группе "The Aftermath" - www.aftermath.ru
+first_post: 2006-07-10 13:39
+last_post: 2006-07-18 16:16
+post_count: 6
+posts:
+- id: 27849
+  parent_id: null
+  date: 2006-07-10 13:39
+  poster: Aftermath
+  email: fatima@aftermath.ru
+  subject: Ваше мнение о нашей группе "The Aftermath" - www.aftermath.ru
+  deleted: false
+  replies:
+  - id: 27852
+    parent_id: 27849
+    date: 2006-07-10 18:11
+    poster: Старый Майор
+    email: gypsy@mail.ru
+    subject: Хорошая музыка для Евровидения
+    deleted: false
+    text: Я без иронии, в хорошем смысле =)
+    replies:
+    - id: 27853
+      parent_id: 27852
+      date: 2006-07-10 18:13
+      poster: Алексей Аграновский (Док)
+      email: aaa@genebee.msu.su
+      subject: Был такой лонгплей Роллинг Стоунз
+      deleted: false
+      text: В таком же хорошем смысле.
+      replies:
+      - id: 27854
+        parent_id: 27853
+        date: 2006-07-10 18:37
+        poster: Эльдар Музафаров
+        email: elicaster co6@kaмейл-d0t ru
+        subject: Извиняюсь, не в тему
+        deleted: false
+        text: 'Извиняюсь, не в тему.
+
+          В конце 80-ых в одной областной газете (типа "Комсомолец Оренбуржья") печатали
+          биографию Битлз написанную тамошним любителем Битлз (кстати (ВАЖНО!) учителем
+          английского языка). Там говорилось про 1966 г., что после выхода битловского
+          Револьвера, роллинги выпустили альбом под названием Автомат (Aftermath).
+          Типа, перестрелка :)))
+
+          Вот такие вот последствия перевода Aftermath - Automat...'
+  - id: 27891
+    parent_id: 27849
+    date: 2006-07-13 21:49
+    poster: Мария
+    email: m_m@rambler.ru
+    subject: '-'
+    deleted: false
+    text: Слушала один раз живьем на фестивале в Нальчике. Мне понравилось, хотя,
+      как мне показалось тогда, одна из девчонок сильно нервничала.  Необычный стиль.
+      Очень ценю вашего гитариста О. Кодзокова (к слову сказать он отыграл зимой один
+      концерт как гость с Ragtime)
+    replies:
+    - id: 27922
+      parent_id: 27891
+      date: 2006-07-18 16:16
+      poster: Aftermath
+      email: fatima@aftermath.ru
+      subject: '*'
+      deleted: false
+      text: 'Спасибо.
+
+        Олег - для нас не просто гитарист. Он - наш лучший друг!'

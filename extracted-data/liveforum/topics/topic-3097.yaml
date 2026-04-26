@@ -1,0 +1,48 @@
+topic_id: 3097
+slug: topic-3097
+title: Завтра, в понедельник
+first_post: 2006-02-12 12:04
+last_post: 2006-02-14 00:54
+post_count: 3
+posts:
+- id: 26001
+  parent_id: null
+  date: 2006-02-12 12:04
+  poster: Дмитрий Казанцев (Dr. Nick)
+  email: dr.nick@blues.ru
+  subject: Завтра, в понедельник
+  deleted: false
+  text: 'мы с Ветераном играем акустический концерт в "Доме у дороги".
+
+    Второе отделение хотим посвятить организованному джему (как и обычно, в общем).
+
+
+    Кто хочет культурно акустически поджемовать? Петь и играть на гитаре или гармошке.
+    На перкуссии, скрипке, аккордеоне и т.д.
+
+
+    Дайте знать!
+
+
+    А вообще, начало в 21:00. Вход бесплатный!
+
+
+    http://roadhouse.blues.ru/konc.htm'
+  replies:
+  - id: 26003
+    parent_id: 26001
+    date: 2006-02-12 15:37
+    poster: Esbarro
+    email: dragonrider@inbox.ru
+    subject: Завтра, в понедельник
+    deleted: false
+    text: Прийду скорее всего.
+    replies:
+    - id: 26076
+      parent_id: 26003
+      date: 2006-02-14 00:54
+      poster: Esbarro
+      email: dragonrider@inbox.ru
+      subject: порадовало
+      deleted: false
+      text: буду заходить.

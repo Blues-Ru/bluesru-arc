@@ -1,0 +1,75 @@
+topic_id: 3833
+slug: topic-3833
+title: Зовут его, конечно, странно...
+first_post: 2007-12-19 13:54
+last_post: 2007-12-22 10:42
+post_count: 6
+posts:
+- id: 34150
+  parent_id: null
+  date: 2007-12-19 13:54
+  poster: Старый Майор
+  email: gypsy@mail.ru
+  subject: Зовут его, конечно, странно...
+  deleted: false
+  text: '...выглядит тоже, и поёт не очень, но играет он прекрасно!
+
+
+    http://www.youtube.com/watch?v=VYaY7bNA4MQ&feature=related
+
+
+    А кто не налюбовался - см. сюда:
+
+
+    http://www.youtube.com/watch?v=3_c86x-Xmcg&feature=related'
+  replies:
+  - id: 34152
+    parent_id: 34150
+    date: 2007-12-20 11:44
+    poster: Andrei V. Evdokimov (evdokimov)
+    email: evdokimov@blues.ru
+    subject: красавчег!
+    deleted: false
+    text: я про гитару
+  - id: 34155
+    parent_id: 34150
+    date: 2007-12-20 20:05
+    poster: Руслан Чифуров
+    email: chifuroff (sobaka) inbox.ru
+    subject: Порадовал!
+    deleted: false
+    text: И звучок гитары такой приятственный!
+    replies:
+    - id: 34157
+      parent_id: 34155
+      date: 2007-12-21 00:25
+      poster: Старый Майор
+      email: gypsy@mail.ru
+      subject: Мне не нравятся его запилы а-ля пьяный Хендрикс..
+      deleted: false
+      text: "..но когда он играет более древнюю классику, сразу слышна старая школа.\
+        \ \nУчителя у него, видать, были отменные. \nФразировочка, тайминг - всё как\
+        \ у больших чёрных парней.\nМногие белые гитар-херы (guitar heroes - англ.)\
+        \ грешат именно тем, что будучи не в силах асилить блюзовую \"школу\", начинают\
+        \ придумывать своё, многонотное, основанное на беглости пальцев. \nНе буду\
+        \ приводить примеры, дабы не затевать новую возню фпесочнице, они и так у\
+        \ всех на слуху =))"
+  - id: 34156
+    parent_id: 34150
+    date: 2007-12-21 00:18
+    poster: Илья Кривандин
+    email: ilija@bk.ru
+    subject: Чудо, как хорош
+    deleted: false
+    text: Он ведь, кажется, как-то связан с Blind Pig Records и, особенно здорово
+      смотрится их совместое фото с Мэджик Слимом на одном из дисков. Просто колорита
+      у обоих  - больше некуда. ,)))
+  - id: 34166
+    parent_id: 34150
+    date: 2007-12-22 10:42
+    poster: Malcolm Ray  Redriver (Mike)
+    email: lifebythedrop@yandex.ru
+    subject: И вправду хорош...
+    deleted: false
+    text: Какой к лешему кенниуэйншепперд... во, чувак- играет и петь не обламывается...
+      и всё так вкусно

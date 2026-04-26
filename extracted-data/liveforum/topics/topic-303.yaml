@@ -1,0 +1,30 @@
+topic_id: 303
+slug: topic-303
+title: Друзья как вам BLUES DOCTORS
+first_post: 2002-08-27 23:16
+last_post: 2002-08-28 12:57
+post_count: 2
+posts:
+- id: 7227
+  parent_id: null
+  date: 2002-08-27 23:16
+  poster: Bobr
+  email: mv1978@mail.ru
+  subject: Друзья как вам BLUES DOCTORS
+  deleted: false
+  text: 'Я тут послушал. Интересно ,что вы оних скажете.
+
+    На мой взгляд -тяжеловато ,но все таки стильно и крепко.
+
+    Где можно услышать их живьём?Может кто знает?Спасибо.'
+  replies:
+  - id: 7239
+    parent_id: 7227
+    date: 2002-08-28 12:57
+    poster: Sergei  Kiritchenko (VoID)
+    email: skvoid@yahoo.com
+    subject: хорошая команда
+    deleted: false
+    text: 'Выступали у нас в Питере на фестивале недавно. Понравились.
+
+      Услышать их можно наверное в их родном городе только.'

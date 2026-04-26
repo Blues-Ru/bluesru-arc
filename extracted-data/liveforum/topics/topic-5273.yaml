@@ -1,0 +1,89 @@
+topic_id: 5273
+slug: topic-5273
+title: Биография Buddy Guy - When I Left Home
+first_post: 2017-02-25 14:03
+last_post: 2017-07-18 23:14
+post_count: 6
+posts:
+- id: 39445
+  parent_id: null
+  date: 2017-02-25 14:03
+  poster: Александр Сомов
+  subject: Биография Buddy Guy - When I Left Home
+  deleted: false
+  text: 'Здравствуйте. А подскажите, пожалуйста - в Москве реально эту книгу найти
+    или только через инет заказывать?
+
+
+    https://www.amazon.com/When-Left-Home-My-Story/dp/0306821796'
+  replies:
+  - id: 39446
+    parent_id: 39445
+    date: 2017-02-26 08:52
+    poster: Эльдар
+    subject: books.google
+    deleted: false
+    text: 'https://books.google.com/books?id=W5T_AgAAQBAJ
+
+
+      В помощь для скачивания программки:
+
+      Google Books Downloader
+
+      FSS Google Books Downloader
+
+      но лучше всего с помощью сайта http://www.books43.com/'
+    replies:
+    - id: 39447
+      parent_id: 39446
+      date: 2017-02-26 17:46
+      poster: Эльдар
+      subject: books.google
+      deleted: false
+      text: 'https://books.google.com/books?id=hu4cfvHr19AC
+
+        https://books.google.com/books?id=Xb3h5cv2MK4C'
+    - id: 39448
+      parent_id: 39446
+      date: 2017-02-26 23:31
+      poster: Александр Сомов
+      subject: '...'
+      deleted: false
+      text: 'О, благодарю за ссылки. попробую скачать при помощи программ - books43
+        говорит We''re sorry, but books43 is temporarily unavailable for Free Users.
+
+        Reason: not enough disk space.
+
+
+        p.s. оказывается там не все страницы отображаются - буду искать где купить
+        бумажный вариант.'
+      replies:
+      - id: 39449
+        parent_id: 39448
+        date: 2017-02-27 03:10
+        poster: Эльдар
+        subject: books43.com
+        deleted: false
+        text: 'Ещё в январе сайт books43.com нормально работал.
+
+          С его помощью я скачал книгу Ника Кона Awopbopaloobop Alopbamboom (1969).
+          Из 256 страниц удалось заполучить 246.
+
+          На books43.com ввёл ссылку и сайт дней 10 скачивал с books.google страницы.
+          И потом сайт выдал ссылку на скачивание все скаченных им страниц.
+
+          Поподробнее о скачивании книг <a href="http://www.beatles.ru/postman/forum_messages.asp?cfrom=1&msg_id=27290">здесь</a>'
+  - id: 39467
+    parent_id: 39445
+    date: 2017-07-18 23:14
+    poster: Эльдар
+    subject: Газета "Советская молодёжь", 24 августа 1974г.
+    deleted: false
+    text: 'Газета "Советская молодёжь", Иркутск, № 102, 24 августа 1974г.
+
+      АМЕРИКА ПОЁТ БЛЮЗ
+
+      А. Петров, А. Поддубный
+
+
+      http://beatlespress.com.ua/1974/1974-08-03_sov_mol4_big.jpg'

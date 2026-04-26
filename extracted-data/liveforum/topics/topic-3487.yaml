@@ -1,0 +1,35 @@
+topic_id: 3487
+slug: topic-3487
+title: Фестиваль Гармоники
+first_post: 2006-11-09 20:23
+last_post: 2006-11-10 00:54
+post_count: 3
+posts:
+- id: 29332
+  parent_id: null
+  date: 2006-11-09 20:23
+  poster: Федор Романенко (fedor)
+  email: fedor@blues.ru
+  subject: Фестиваль Гармоники
+  deleted: false
+  text: Уфф... Только что закончил двухчасовую верстку. Призываю всех отвлечься от
+    форума и просмотреть афишный блок на первой странице! Крутой фестиваль ожидается
+    ;)
+  replies:
+  - id: 29335
+    parent_id: 29332
+    date: 2006-11-09 23:27
+    poster: Dmitri Kazantsev (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: там дни перепутаны
+    deleted: false
+    text: мы должны играть 19-го, а не 18-го
+    replies:
+    - id: 29337
+      parent_id: 29335
+      date: 2006-11-10 00:54
+      poster: Федор Романенко (fedor)
+      email: fedor@blues.ru
+      subject: Да, известный баг
+      deleted: false
+      text: Уже исправлен, только что...

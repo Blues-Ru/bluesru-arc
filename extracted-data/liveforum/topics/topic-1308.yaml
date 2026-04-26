@@ -1,0 +1,52 @@
+topic_id: 1308
+slug: topic-1308
+title: Это что, если не секрет?
+first_post: 2003-08-07 12:36
+last_post: 2003-08-07 16:21
+post_count: 5
+posts:
+- id: 13501
+  parent_id: null
+  date: 2003-08-07 12:36
+  poster: Anton Klepikov (Antokha)
+  email: antokha@yandex.ru
+  subject: Это что, если не секрет?
+  deleted: false
+  text: 07.08 Louisiana Alligators, Scolder Blues (Арбат 24), 20:00
+  replies:
+  - id: 13502
+    parent_id: 13501
+    date: 2003-08-07 13:39
+    poster: Федор Романенко (fedor)
+    email: fedor@blues.ru
+    subject: Это Вова!!!
+    deleted: false
+    text: ;)))
+    replies:
+    - id: 13505
+      parent_id: 13502
+      date: 2003-08-07 15:56
+      poster: Anton Klepikov (Antokha)
+      email: antokha@yandex.ru
+      subject: Спасибо! Но ...
+      deleted: false
+      text: '... фамилию ты тик и не сказал! :-))
+
+
+        Кожекин, Русинов или Путин?'
+  - id: 13503
+    parent_id: 13501
+    date: 2003-08-07 14:34
+    poster: Daniil Jeshkov (Ji][v][i)
+    email: jimi@opfr.spb.ru
+    subject: Жаль я не в москве ж((((
+    deleted: false
+    text: заглянул бы ж))
+  - id: 13506
+    parent_id: 13501
+    date: 2003-08-07 16:21
+    poster: Daniil Jeshkov (Ji][v][i)
+    email: jimi@opfr.spb.ru
+    subject: А итак все догадались ж)))
+    deleted: false
+    text: ;)))

@@ -1,0 +1,56 @@
+topic_id: 717
+slug: topic-717
+title: К нам едут Rolling Stones
+first_post: 2003-04-01 10:02
+last_post: 2003-04-01 15:54
+post_count: 4
+posts:
+- id: 11338
+  parent_id: null
+  date: 2003-04-01 10:02
+  poster: Grem
+  email: grems@yandex.ru
+  subject: К нам едут Rolling Stones
+  deleted: false
+  text: "Последние новости...\nВ связи с тем, что концерты в Сингапуре и Китае отменены\
+    \ или перенесены на более далекий срок,менеджмент RS решил провести незапланированные\
+    \ концерты в России. Отмена концертов вызвана эпидемиями атипичной пневмонии и\
+    \ хламидиоза в странах ЮВА.\nПереговоры в России ведутся с JSA, по последним сведениям\
+    \ концерты могут состоятся в КДС. \nКто имеет более достоверную информацию....прошу\
+    \ поделиться"
+  replies:
+  - id: 11342
+    parent_id: 11338
+    date: 2003-04-01 12:40
+    poster: Федор Романенко (fedor)
+    email: fedor@blues.ru
+    subject: Подтверждаю
+    deleted: false
+    text: Они тоже, кстати, собирались прийти на заключительный джем в ЦДХ.
+    replies:
+    - id: 11348
+      parent_id: 11342
+      date: 2003-04-01 15:39
+      poster: Михаил Бирюков (nECKAPb)
+      email: blackcat@blues.ru
+      subject: слышал!
+      deleted: false
+      text: 'Но там же говорили, что в связи с какими-то трудностями Кит Ричардс вынужден
+        будет на это время отъехать назад в Штаты и по просьбе группы его заменит
+        Гари Мур.
+
+        С одной стороны жаль, конечно. А с другой - уникальная возможность услышать
+        подобный состав!'
+      replies:
+      - id: 11349
+        parent_id: 11348
+        date: 2003-04-01 15:54
+        poster: Алексей Аграновский (Док)
+        email: aaa@genebee.msu.su
+        subject: Bluff, I will play for him
+        deleted: false
+        text: 'I got this invitation first and this is my money.
+
+          Since early, Slow Hand
+
+          P.S. Thank u Doc for giving me an opportunity to post this here.'

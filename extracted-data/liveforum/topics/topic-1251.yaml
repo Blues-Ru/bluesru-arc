@@ -1,0 +1,23 @@
+topic_id: 1251
+slug: topic-1251
+title: Не... не горит ни разу!
+first_post: 2003-07-04 06:05
+last_post: 2003-07-04 11:08
+post_count: 2
+posts:
+- id: 13162
+  parent_id: null
+  date: 2003-07-04 06:05
+  poster: Dima Krasivov (Dima)
+  email: dima@blues.ru
+  subject: Не... не горит ни разу!
+  deleted: false
+  text: А "Евдокимов ленится" -- твоё второе имя... ;)))
+  replies:
+  - id: 13164
+    parent_id: 13162
+    date: 2003-07-04 11:08
+    poster: Юрий Каверкин (Gekko)
+    email: kaverkin@rol.ru
+    subject: А "Евдокимов ленин" - первое????
+    deleted: false

@@ -1,0 +1,58 @@
+topic_id: 2017
+slug: topic-2017
+title: To Fedor
+first_post: 2002-07-10 14:04
+last_post: 2002-07-11 09:28
+post_count: 5
+posts:
+- id: 5982
+  parent_id: null
+  date: 2002-07-10 14:04
+  poster: Malcolm Ray    Readriver (Mike)
+  email: Mrg_mike@rambler.ru
+  subject: To Fedor
+  deleted: false
+  text: Уже который раз прошу, а видимо этот д%№%+%ый Интернет не доносит, либо тебе
+    некогда. Так вот, я сменил ящик , ф как мне его сменить в регестрации?
+  replies:
+  - id: 5986
+    parent_id: 5982
+    date: 2002-07-10 17:56
+    poster: Dima Krasivov (Dima)
+    email: dima@blues.ru
+    subject: на первой странице сайта
+    deleted: false
+    text: 'Там где написано
+
+      Добрый день, Malcolm Ray Readriver!
+
+      Мои настройки
+
+
+      Тыкать мышой в "Мои настройки"'
+    replies:
+    - id: 5987
+      parent_id: 5986
+      date: 2002-07-10 19:09
+      poster: Федор Романенко (fedor)
+      email: fedor@blues.ru
+      subject: Точно!
+      deleted: false
+      text: Я хотел тебя поймать на том, что адрес-то менять нельзя, но только что
+        вспомнил, что я это уже исправил. ;)
+      replies:
+      - id: 5990
+        parent_id: 5987
+        date: 2002-07-11 09:07
+        poster: Malcolm Ray    Readriver (Mike)
+        email: Mrg_mike@rambler.ru
+        subject: Thanks a lot
+        deleted: false
+      - id: 5992
+        parent_id: 5987
+        date: 2002-07-11 09:28
+        poster: Malcolm Ray    Readriver (Mike)
+        email: Mrg_mike@rambler.ru
+        subject: Э...
+        deleted: false
+        text: А как это сделать?

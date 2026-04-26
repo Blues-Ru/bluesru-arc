@@ -1,0 +1,58 @@
+topic_id: 1027
+slug: topic-1027
+title: Blues is everywhere
+first_post: 2002-04-06 08:48
+last_post: 2002-04-08 07:51
+post_count: 5
+posts:
+- id: 3517
+  parent_id: null
+  date: 2002-04-06 08:48
+  poster: Malcolm Ray    Readriver (Mike)
+  email: Mrg_mike@rambler.ru
+  subject: Blues is everywhere
+  deleted: false
+  text: 'Я не на долго, вы тут поболтайте на тему, а я посмотрю(как-нибудь), тема
+    такая: Вы заметили, что сердце бьётся в ритме шаффл?'
+  replies:
+  - id: 3520
+    parent_id: 3517
+    date: 2002-04-06 14:35
+    poster: Дима Казанцев (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: Срочно к кардиологу! :-)
+    deleted: false
+    text: Нет, Миша, слава Господу, сердце бьется ровно, но иногда быстрее или медленнее,
+      что совсем недопустимо для хорошего барабанщика ;)
+    replies:
+    - id: 3538
+      parent_id: 3520
+      date: 2002-04-07 07:28
+      poster: Malcolm Ray    Readriver (Mike)
+      email: Mrg_mike@rambler.ru
+      subject: Not only
+      deleted: false
+      text: Не-а. Дима, не всё так просто сердечный ритм, который ya call ровно состоит
+        из серии сокращений, расслаблений, и периодов отдыха, которые как раз укладываются
+        в триоли. Эти чуваки с Миссиссипи были не промах и знали что делали. И при
+        чём здесь хороший барабанщик вернее ударник. "Барабанщик" звучит как-то по
+        пионерски. Вот так PВ-).
+      replies:
+      - id: 3539
+        parent_id: 3538
+        date: 2002-04-07 13:39
+        poster: Дима Казанцев (Dr. Nick)
+        email: dr.nick@blues.ru
+        subject: А ударник
+        deleted: false
+        text: 'очень по-советски. Предлагаю два других понятия: "перкуссионист" и
+          "арранжировщик партии ударных инструментов".'
+        replies:
+        - id: 3545
+          parent_id: 3539
+          date: 2002-04-08 07:51
+          poster: Malcolm Ray    Readriver (Mike)
+          email: Mrg_mike@rambler.ru
+          subject: All right
+          deleted: false
+          text: Пойдёт и так. Звучит гораздо благороднее.

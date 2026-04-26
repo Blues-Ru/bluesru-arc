@@ -1,0 +1,25 @@
+topic_id: 1428
+slug: topic-1428
+title: Джем сегодня?
+first_post: 2003-09-03 16:15
+last_post: 2003-09-03 16:37
+post_count: 2
+posts:
+- id: 14077
+  parent_id: null
+  date: 2003-09-03 16:15
+  poster: Theodor
+  email: fedorovu@rol.ru
+  subject: Джем сегодня?
+  deleted: false
+  text: Будет джем или просто концерт?
+  replies:
+  - id: 14078
+    parent_id: 14077
+    date: 2003-09-03 16:37
+    poster: Алексей Аграновский (Док)
+    email: aaa@genebee.msu.su
+    subject: Это как на строительстве Байкало-амерской магистрали -
+    deleted: false
+    text: если встречные ветки сойдутся, будет одноколейка, а если нет - двухколейка.
+      Конечно же.

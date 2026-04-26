@@ -1,0 +1,51 @@
+topic_id: 2951
+slug: topic-2951
+title: Харпфест - нужна помощь
+first_post: 2005-11-25 13:15
+last_post: 2005-12-03 09:10
+post_count: 4
+posts:
+- id: 24736
+  parent_id: null
+  date: 2005-11-25 13:15
+  poster: Кожекин
+  email: kozhekin@mail.ru
+  subject: Харпфест - нужна помощь
+  deleted: false
+  text: 'Не справляюсь с рекламой харпфеста - помогайте.
+
+    http://www.livejournal.com/users/kozhekin/145232.html'
+  replies:
+  - id: 24743
+    parent_id: 24736
+    date: 2005-11-27 01:49
+    poster: Дмитрий Казанцев (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: Вов, а можно вопрос?
+    deleted: false
+    text: "Можно? \nПочему ты не зовешь на фест Сорокина? Он ведь сильно играет, сильнее\
+      \ многих. И он хорошо разбирается в музыке и стилях - то, что нужно на подобных\
+      \ фестах.\nИ где в этот раз Братецкий?\n\nСпасибо за ответы!"
+    replies:
+    - id: 24841
+      parent_id: 24743
+      date: 2005-12-03 01:40
+      poster: Кожекин
+      email: kozhekin@mail.ru
+      subject: Спасибо за вопросы!
+      deleted: false
+      text: "Братецкий попросил очень много денег. \nЕсли позвать Сорокина возникнет\
+        \ вопрос, почему не звать ещё по крайней мере двух других харперов. Решил\
+        \ сделать отсев по принципу - харпер со своей личной активно концертирующей\
+        \ бандой."
+      replies:
+      - id: 24844
+        parent_id: 24841
+        date: 2005-12-03 09:10
+        poster: Дмитрий Казанцев (Dr. Nick)
+        email: dr.nick@blues.ru
+        subject: денег?
+        deleted: false
+        text: 'странно.
+
+          у Джона есть банда, если ты не знал.'

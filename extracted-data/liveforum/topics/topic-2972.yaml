@@ -1,0 +1,40 @@
+topic_id: 2972
+slug: topic-2972
+title: Пол Лэмб во Владимире
+first_post: 2005-12-05 09:52
+last_post: 2005-12-06 15:09
+post_count: 3
+posts:
+- id: 24851
+  parent_id: null
+  date: 2005-12-05 09:52
+  poster: Ded Morozzz
+  email: morozzz_ded@mail.ru
+  subject: Пол Лэмб во Владимире
+  deleted: false
+  text: 'Офигительнейший концертище :) пожалуй, одно из самых лучших выступлений мною
+    виденных :)
+
+    <br>
+
+    Потрясающее шоу, отличные музыканты, море танцующего народа, позитив и все такое
+    :) Одним словом, мегакруто :)'
+  replies:
+  - id: 24852
+    parent_id: 24851
+    date: 2005-12-05 09:54
+    poster: Ded Morozzz
+    email: morozzz_ded@mail.ru
+    subject: '... вдогонку :)'
+    deleted: false
+    text: видел делегацию московских-питерских харпистов :) теперь еще больше людей
+      знает, что во Владимире проходят самые крутые и драйвовые концерты :) несмотря
+      на плохой звук и прочие дела :)
+    replies:
+    - id: 24881
+      parent_id: 24852
+      date: 2005-12-06 15:09
+      poster: Дмитрий (фан)
+      email: leonidovd@mail.ru
+      subject: Да, Владимир рулит!!! Молодцы!
+      deleted: false

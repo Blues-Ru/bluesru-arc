@@ -1,0 +1,24 @@
+topic_id: 3687
+slug: topic-3687
+title: Exchange
+first_post: 2007-07-20 17:29
+last_post: 2007-07-20 18:34
+post_count: 2
+posts:
+- id: 33206
+  parent_id: null
+  date: 2007-07-20 17:29
+  poster: Mik
+  email: konewkafurnit@wp.pl
+  subject: Exchange
+  deleted: false
+  text: Obmen Bluesom
+  replies:
+  - id: 33207
+    parent_id: 33206
+    date: 2007-07-20 18:34
+    poster: Dmitri Kazantsev (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: точно!
+    deleted: false
+    text: с чего начнём? у меня много винила на обмен!

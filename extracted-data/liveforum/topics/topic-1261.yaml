@@ -1,0 +1,26 @@
+topic_id: 1261
+slug: topic-1261
+title: Taj Mahal! Где его можно скачать!
+first_post: 2003-07-14 10:42
+last_post: 2003-07-14 11:39
+post_count: 2
+posts:
+- id: 13206
+  parent_id: null
+  date: 2003-07-14 10:42
+  poster: Михаил
+  email: asilov@yandex.ru
+  subject: Taj Mahal! Где его можно скачать!
+  deleted: false
+  text: "Добрый День!\nНарод!\n\nЯ месяц назад в передаче \"Весь Этот Блюз\" услышал\
+    \ Taj Mahal'а\nMissisipi-Mali Blues! И Заболел!\n Где его скачать!\n\n Спасибо!\n\
+    \n Заранее!"
+  replies:
+  - id: 13207
+    parent_id: 13206
+    date: 2003-07-14 11:39
+    poster: Дима Казанцев (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: Всё там же
+    deleted: false
+    text: http://mp3.int.ru/directory.html

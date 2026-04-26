@@ -1,0 +1,34 @@
+topic_id: 1618
+slug: topic-1618
+title: Прошу вас помочь в поиске ...
+first_post: 2003-11-28 10:22
+last_post: 2003-11-28 23:33
+post_count: 3
+posts:
+- id: 15955
+  parent_id: null
+  date: 2003-11-28 10:22
+  poster: Оксана Кочубей
+  email: morrah@yandex.ru
+  subject: Прошу вас помочь в поиске ...
+  deleted: false
+  text: сайтов, содержащих тексты песен Криденс, Хендрикса, Джоплин. На новой работе
+    халявный Нэт, а опыта поиска нет и времени маловато.
+  replies:
+  - id: 15956
+    parent_id: 15955
+    date: 2003-11-28 10:32
+    poster: Оксана Кочубей
+    email: morrah@yandex.ru
+    subject: Ой, нашла!
+    deleted: false
+  - id: 15974
+    parent_id: 15955
+    date: 2003-11-28 23:33
+    poster: Димитрий О'Парин (LedZep)
+    email: 81267@bk.ru
+    subject: Так где нашла то, мыльни что-ли
+    deleted: false
+    text: 'сам бы Джоплин спел...
+
+      Была в Баку? Так вот..., мерси боку!'

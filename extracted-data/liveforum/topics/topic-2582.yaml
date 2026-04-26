@@ -1,0 +1,56 @@
+topic_id: 2582
+slug: topic-2582
+title: Crossroadz
+first_post: 2005-05-19 22:21
+last_post: 2005-05-24 16:16
+post_count: 5
+posts:
+- id: 21511
+  parent_id: null
+  date: 2005-05-19 22:21
+  poster: Диброва (Dibrova)
+  email: dibrova_blues@rambler.ru
+  subject: Crossroadz
+  deleted: false
+  text: К сожалению, я не смогла придти на 15-летие группы Кроссроудз. Если кто ходил,
+    расскажите, please, что там было интересного?
+  replies:
+  - id: 21553
+    parent_id: 21511
+    date: 2005-05-23 09:59
+    poster: (Grem)
+    email: grems@yandex.ru
+    subject: 10-15-....
+    deleted: false
+    text: Если Вы были на 10 -е группы, то Вы ничего не потеряли...те же песни и гости.
+    replies:
+    - id: 21557
+      parent_id: 21553
+      date: 2005-05-23 21:38
+      poster: Дима Казанцев (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: ты жив!
+      deleted: false
+      text: куда пропал?
+      replies:
+      - id: 21561
+        parent_id: 21557
+        date: 2005-05-24 12:16
+        poster: (Grem)
+        email: grems@yandex.ru
+        subject: Still alive
+        deleted: false
+        text: 'Время нет ни на что....ходил на Брозмана и Кроссроудс.
+
+          Брозман -это маг и волшебник. Человек удивительной музыкальной эрудиции,
+          слов нет . А Кроссроудс порадовал тем, что Серега в хорошей форме и дай
+          бог ему не растерять этого...'
+        replies:
+        - id: 21562
+          parent_id: 21561
+          date: 2005-05-24 16:16
+          poster: Дима Казанцев (Dr. Nick)
+          email: dr.nick@blues.ru
+          subject: угу
+          deleted: false
+          text: ну ты хоть пиши. в ЖЖ чёнить чиркни...

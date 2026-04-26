@@ -1,0 +1,61 @@
+topic_id: 1150
+slug: topic-1150
+title: Насчет четверга и второго этажа...
+first_post: 2002-03-13 09:44
+last_post: 2002-03-14 15:07
+post_count: 6
+posts:
+- id: 2087
+  parent_id: null
+  date: 2002-03-13 09:44
+  poster: Костин Владимир (Volk)
+  email: volk21@land.ru
+  subject: Насчет четверга и второго этажа...
+  deleted: false
+  text: 'простите за тупость а в этот четверг джем будет???
+
+    Типа да или нет'
+  replies:
+  - id: 2091
+    parent_id: 2087
+    date: 2002-03-13 10:25
+    poster: Slavik Chernov (Blacky)
+    email: Blacky@softhome.net
+    subject: типа да.
+    deleted: false
+    text: Жуки с Кожекиными вести будуть :-)
+  - id: 2093
+    parent_id: 2087
+    date: 2002-03-13 10:28
+    poster: Игорь Г.
+    email: sunny_city@mail.ru
+    subject: Да будет, будет
+    deleted: false
+    text: и похоже Жук и компания затеяли что-то интересное. Посмотрим.
+    replies:
+    - id: 2096
+      parent_id: 2093
+      date: 2002-03-13 11:28
+      poster: Г. (не Игорь)
+      email: sunny_boy@mail.ru
+      subject: Посмотрим :-)
+      deleted: false
+      text: Жук говорит, что у них новый басист УМЕЕТ ИГРАТЬ на басу! Вот уж заинтриговал!
+        :-))
+      replies:
+      - id: 2111
+        parent_id: 2096
+        date: 2002-03-13 17:37
+        poster: Дима   (Казанцев)
+        email: dr.nick@blues.ru
+        subject: А что же
+        deleted: false
+        text: сделали со старым-то? Неужели уволили?
+  - id: 2149
+    parent_id: 2087
+    date: 2002-03-14 15:07
+    poster: Ваня  Жук
+    email: jouk@newmail.net
+    subject: Типа да, будет, будет.
+    deleted: false
+    text: Не знаю как с интересным...

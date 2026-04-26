@@ -1,0 +1,30 @@
+topic_id: 4264
+slug: topic-4264
+title: Валерий Писигин "Пришествие блюза", Москва, 2009
+first_post: 2009-07-31 02:32
+last_post: 2009-08-10 15:17
+post_count: 3
+posts:
+- id: 36485
+  parent_id: null
+  date: 2009-07-31 02:32
+  poster: Федор Романенко
+  subject: Валерий Писигин "Пришествие блюза", Москва, 2009
+  deleted: false
+  text: <a href="http://www.collectable-records.ru/pisigin/vol6/">http://www.collectable-records.ru/pisigin/vol6/</a>
+  replies:
+  - id: 36488
+    parent_id: 36485
+    date: 2009-08-10 09:22
+    poster: Надежда
+    subject: Спасибо за ссылку!
+    deleted: false
+    text: Интереснейшая вещь, прочитала на одном дыхании.
+    replies:
+    - id: 36489
+      parent_id: 36488
+      date: 2009-08-10 15:17
+      poster: Федор Романенко
+      subject: Спасибо за ссылку Илье Верховскому!
+      deleted: false
+      text: и самому Валерию Писигину ;)

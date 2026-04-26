@@ -1,0 +1,31 @@
+topic_id: 5157
+slug: topic-5157
+title: А я всё про блюзовый календарь
+first_post: 2014-01-14 09:08
+last_post: 2014-01-14 09:36
+post_count: 3
+posts:
+- id: 39158
+  parent_id: null
+  date: 2014-01-14 09:08
+  poster: Александр Сомов
+  subject: А я всё про блюзовый календарь
+  deleted: false
+  text: "Андрей, всё пишу вам на email исправления, но ответов давно не было.. \n\
+    В дополнение к отосланному, ещё сегодня родился\n\nPaul \"Lil' Buck\" SInegal,\
+    \ но не sEnegal."
+  replies:
+  - id: 39159
+    parent_id: 39158
+    date: 2014-01-14 09:23
+    poster: Andrei V. Evdokimov
+    subject: пишется то так, то эдак...
+    deleted: false
+    text: счас проверим, конечно
+  - id: 39160
+    parent_id: 39158
+    date: 2014-01-14 09:36
+    poster: Александр Сомов
+    subject: Ну на албожках своих альбомов он всегда пишет через I.
+    deleted: false
+    text: http://www.bluessearchengine.com/img/Lil_Buck_Sinegal.jpg

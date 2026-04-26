@@ -1,0 +1,27 @@
+topic_id: 2445
+slug: topic-2445
+title: блюзовые сайты
+first_post: 2005-02-22 01:27
+last_post: 2005-02-22 03:37
+post_count: 2
+posts:
+- id: 20562
+  parent_id: null
+  date: 2005-02-22 01:27
+  poster: ioby
+  email: ioby@yandex.ru
+  subject: блюзовые сайты
+  deleted: false
+  text: Народ! Есть ли ещё какие-нибудь сайты, где можно почитать о наших блюзменах
+    кроме blues.ru и bluesman.ru?
+  replies:
+  - id: 20563
+    parent_id: 20562
+    date: 2005-02-22 03:37
+    poster: Федор Романенко (fedor)
+    email: fedor@blues.ru
+    subject: bluesnews.ru
+    deleted: false
+    text: '- но там не так много про наших музыкантов. Также достоен изучения раздел
+      <a href="http://www.blues.ru/links/">http://www.blues.ru/links/</a>, там есть
+      куча ссылок на официальные сайты музыкантов.'

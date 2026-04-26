@@ -1,0 +1,117 @@
+topic_id: 3058
+slug: topic-3058
+title: Моцарт
+first_post: 2006-01-27 12:22
+last_post: 2006-01-30 14:07
+post_count: 10
+posts:
+- id: 25582
+  parent_id: null
+  date: 2006-01-27 12:22
+  poster: Фредерик Ржевский
+  email: amateris@rambler.ru
+  subject: Моцарт
+  deleted: false
+  text: 'Господа, имею честь поздравить всех вас с днем рождения Моцарта! Конечно,
+    блюз он не играл, но «он же гений, как ты да я»…
+
+    Думаю, клубная публика будет рыдать от восторга, если среди сегодняшних блюзовых
+    композиций услышит в вашем исполнении хотя бы совсем небольшую цитату «из Моцарта»,
+    и несказанно будет гордиться собой, если «вдруг» вспомнит, что это именно Моцарт,
+    и тем более, если определит из какого это произведения...'
+  replies:
+  - id: 25583
+    parent_id: 25582
+    date: 2006-01-27 14:52
+    poster: Ара Блюзмен
+    email: ara@blues.ru
+    subject: Да, ара! Амадей был реальный хобо!
+    deleted: false
+    text: Настоящий блюзмен и джазмен! Ура!
+  - id: 25584
+    parent_id: 25582
+    date: 2006-01-27 15:48
+    poster: Федор Романенко (fedor)
+    email: fedor@blues.ru
+    subject: Моцарт
+    deleted: false
+    text: Мне всегда интересовал такой гипотетический вопрос. ;) Что бы случилось
+      в голове какого-нибудь музыкального монстра типа Моцарта, если бы ему дали послушать
+      пару часов какой-нибудь стоящей музыки из 20-го века. Например, джаз какой-нибудь
+      с новыми гармониями и ритмами.
+    replies:
+    - id: 25585
+      parent_id: 25584
+      date: 2006-01-27 16:10
+      poster: Любитель Классики
+      email: classics_rules@blues.ru
+      subject: а ты чё ващще
+      deleted: false
+      text: Амадея не ценишь что ли?
+    - id: 25586
+      parent_id: 25584
+      date: 2006-01-27 16:27
+      poster: Алексей Фролов (Buchothk)
+      email: jokerthk@yandex.ru
+      subject: Гы...
+      deleted: false
+      text: 'Альтернативная история...
+
+        Amadeus King... B.B.Beethoven
+
+        Little Apple Shubert
+
+        Magic List..... :))))))))))))'
+    - id: 25587
+      parent_id: 25584
+      date: 2006-01-27 16:41
+      poster: Владимир Русинов (BluesCat)
+      email: volodya@blues.ru
+      subject: гораздо интереснее - чтобы было
+      deleted: false
+      text: еслибы древним римлянам дали ядрену бобмбу
+      replies:
+      - id: 25589
+        parent_id: 25587
+        date: 2006-01-27 16:58
+        poster: Дмитрий Казанцев (Dr. Nick)
+        email: dr.nick@blues.ru
+        subject: точно
+        deleted: false
+        text: 'ты - панк :) злобный :) а я тебе не верил :)
+
+
+          римляне не нужны. в Палестине к власти официально пришли террористы...'
+        replies:
+        - id: 25590
+          parent_id: 25589
+          date: 2006-01-27 17:31
+          poster: Алексей Фролов (Buchothk)
+          email: jokerthk@yandex.ru
+          subject: :)))
+          deleted: false
+          text: 'Чудесная ветка получается. Обо всём. Ну раз пошла такая пьянка: а
+            нас в группе на Евро-2008 Англия. :)))'
+          replies:
+          - id: 25591
+            parent_id: 25590
+            date: 2006-01-27 17:48
+            poster: Дмитрий Казанцев (Dr. Nick)
+            email: dr.nick@blues.ru
+            subject: это я тоже знаю
+            deleted: false
+            text: 'и еще серьезные команды
+
+              так что в этот раз можно даже и не париться
+
+              там две юговские команды нас порвут + Англия...'
+  - id: 25635
+    parent_id: 25582
+    date: 2006-01-30 14:07
+    poster: Sandoval
+    email: bigphatband@mail.ru
+    subject: спсибо
+    deleted: false
+    text: 'Спасибо!
+
+      Приятно,что на свете ещё есть люди,которые помнят великих композиторов!'

@@ -1,0 +1,157 @@
+topic_id: 4202
+slug: topic-4202
+title: John Cephas
+first_post: 2009-03-18 11:07
+last_post: 2009-03-21 08:49
+post_count: 14
+posts:
+- id: 36230
+  parent_id: null
+  date: 2009-03-18 11:07
+  poster: Andrei V. Evdokimov (evdokimov)
+  email: evdokimov@blues.ru
+  subject: John Cephas
+  deleted: false
+  text: кто точно знает, как произносится его фамилия?
+  replies:
+  - id: 36231
+    parent_id: 36230
+    date: 2009-03-18 13:10
+    poster: Алексей Аграновский (Док)
+    email: aaa@genebee.msu.su
+    subject: Неточно
+    deleted: false
+    text: 'По наититю: Кефас.'
+    replies:
+    - id: 36233
+      parent_id: 36231
+      date: 2009-03-18 13:17
+      poster: Алексей Аграновский (Док)
+      email: aaa@genebee.msu.su
+      subject: 'Точнее: Кифа'
+      deleted: false
+      text: Это из Библии. Камень (греч.), сиречь Пётр.
+    - id: 36239
+      parent_id: 36231
+      date: 2009-03-19 06:16
+      poster: Andrei V. Evdokimov (evdokimov)
+      email: evdokimov@blues.ru
+      subject: понятно, что ничего не понятно
+      deleted: false
+      text: однако, спасибо за неравнодушие и помощь.
+  - id: 36235
+    parent_id: 36230
+    date: 2009-03-18 19:00
+    poster: Старый Езыковед
+    email: gypsy@mail.ru
+    subject: Андрей, пройди по сцылочке за подробностями
+    deleted: false
+    text: 'http://www.phatmass.com/phorum/index.php?showtopic=14791
+
+
+      1) In Aramaic, Cephas sounds more like KAY-fas, but the English transliteration
+      often pronounces it SEE-phas. Hope this helps.
+
+
+      2) In the Passion of Christ, Mary runs to Peter just outside of the Temple where
+      they''ve taken Jesus to be judged by the Sanhedrin and she sees Peter and cries
+      "Keefa."
+
+
+      Короче, если тебе надо "как по правилам английской фонетики" - то [si:fez],
+      а "по-церковному" - Кифа (русская традиция) или Kephas, что в сущности одно
+      и то же, последнее -as может редуцироваться.
+
+
+      * Petrus, от греческого слова &#959; &#960;&#941;&#964;&#961;&#959;&#962; =
+      камень, скала, арамейское Kephas=Cephas)'
+    replies:
+    - id: 36240
+      parent_id: 36235
+      date: 2009-03-19 08:08
+      poster: Andrei V. Evdokimov (evdokimov)
+      email: evdokimov@blues.ru
+      subject: Петрусь - это трогательно.
+      deleted: false
+      text: 'KAY-fas, but the English transliteration often pronounces it SEE-phas.
+
+        ----
+
+        В принципе-то мне надо знать, как его представляли на концертах.'
+      replies:
+      - id: 36243
+        parent_id: 36240
+        date: 2009-03-19 13:25
+        poster: Алексей Аграновский (Док)
+        email: aaa@genebee.msu.su
+        subject: 'В принципе, трогательно будет и так:'
+        deleted: false
+        text: Дамы и господа, а сейчас выступит какой-то американский хер
+  - id: 36237
+    parent_id: 36230
+    date: 2009-03-19 03:56
+    poster: Dmitri Kazantsev (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: должен быть Сифас
+    deleted: false
+    text: Сифас
+    replies:
+    - id: 36238
+      parent_id: 36237
+      date: 2009-03-19 04:18
+      poster: tavrichesky
+      email: hjkh
+      subject: американец говорил Сефас
+      deleted: false
+      text: но с учётом произношения американца и момента разговора это вполне мог
+        быть и Сифас
+      replies:
+      - id: 36244
+        parent_id: 36238
+        date: 2009-03-19 18:58
+        poster: Dmitri Kazantsev (Dr. Nick)
+        email: dr.nick@blues.ru
+        subject: ну у них же свои звуки :)
+        deleted: false
+        text: 'не Е и не И :)
+
+
+          правильно бы было по-русски писать Сэфас'
+  - id: 36245
+    parent_id: 36230
+    date: 2009-03-20 12:14
+    poster: Yuri Kaverkin (Gekko)
+    email: strophurus@yandex.ru
+    subject: Мне о нем ...
+    deleted: false
+    text: рассказывал Кит Данн, который с ним дружил и в этом году собирался к нему
+      в гости.. Так вот Кит называл его Цифас...
+    replies:
+    - id: 36246
+      parent_id: 36245
+      date: 2009-03-20 16:12
+      poster: Andrei V. Evdokimov (evdokimov)
+      email: evdokimov@blues.ru
+      subject: ну вот
+      deleted: false
+      text: кром общался с нм, значит, знает, как его называть.
+      replies:
+      - id: 36248
+        parent_id: 36246
+        date: 2009-03-21 08:49
+        poster: tavrichesky
+        email: gffvgh
+        subject: аааа...
+        deleted: false
+        text: ну понятно...)))для чего ещё в Москве интернет))))))))
+    - id: 36247
+      parent_id: 36245
+      date: 2009-03-21 07:45
+      poster: Dmitri Kazantsev (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: этаа
+      deleted: false
+      text: 'у них там нету Ц в языке в начале слова :)
+
+
+        так что Сифас он явно :)'

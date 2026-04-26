@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<?xml-stylesheet type="text/xsl" href="artists.xsl"?>
+<festivals>
+  <countries>
+    <c n="USA" c="USA" />
+    <c n="Norway" c="N" />
+    <c n="United Kingdom" c="UK" />
+    <c n="Sweden" c="S" />
+    <c n="Germany" c="GER" />
+    <c n="Kingdom of Denmark" c="DK" />
+    <c n="Georgia" c="GEO" />
+    <c n="Holland" c="HOL" />
+  </countries>
+  <fest y="1988">
+    <a n="Tom Principato" c="USA" />
+    <a n="Howlin' Wilf And The Vee Jays" c="UK" />
+    <a n="The Balham Alligators" c="UK" />
+    <a n="Barry Cuda" c="USA" />
+    <a n="Good Time Charlie" c="N" />
+    <a n="Notodden Blues Band" c="N" />
+    <a n="The R&amp;B Express" c="N" />
+  </fest>
+  <fest y="1989">
+    <a n="Lazy Lester" c="USA" />
+    <a n="Chris Cain" c="USA" />
+    <a n="Mannish Boys" c="USA" />
+    <a n="Ford Blues Band" c="USA" />
+    <a n="Roy Book Binder" c="USA" />
+    <a n="Smalltown Blyes Band" c="DK" />
+    <a n="Hungry John &amp; The Blue Shadows" c="N" />
+    <a n="Notodden Blues Band" c="N" />
+    <a n="Steinar Albrigtsen" c="N" />
+    <a n="The R&amp;B Express" c="N" />
+    <a n="Two For The Blues" c="N" />
+    <a n="Malvina" c="N" />
+    <a n="Kеre Virud" c="N" />
+    <a n="Just Married" c="N" />
+    <a n="Jaybirds" c="N" />
+    <a n="Blеmenn" c="N" />
+  </fest>
+  <fest y="1990">
+    <a n="Joe Louis Walker &amp; The Boss Talkers" c="USA" />
+    <a n="Katie Webster" c="USA" />
+    <a n="Lowell Fulson" c="USA" />
+    <a n="Charlie Musselwhite" c="USA" />
+    <a n="Diamond Teeth Mary" c="USA" />
+    <a n="Big Town Playboys" c="UK" />
+    <a n="Robert Kyle" c="USA" />
+    <a n="Alan Haynes" c="USA" />
+    <a n="Lynwood Slim Band" c="USA" />
+    <a n="Rock Bottom &amp; The Cutaways" c="USA" />
+    <a n="Reidar Larsen" c="N" />
+    <a n="Barfly Squatters" c="N" />
+    <a n="Solid Slim With Solid Support" c="N" />
+    <a n="The R&amp;B Express" c="N" />
+    <a n="Sanni's Kжmpingvogn" c="N" />
+    <a n="Just Married" c="N" />
+    <a n="Tom &amp; The Tom Toms" c="N" />
+  </fest>
+  <fest y="1991">
+    <a n="Jimmy Witherspoon &amp; Robben Ford" c="USA" />
+    <a n="Lonnie Brooks Band" c="USA" />
+    <a n="Earl King" c="USA" />
+    <a n="Jimmy Rogers &amp; Bob Margolin Band" c="USA" />
+    <a n="Stan Webb's Chicken Shack" c="UK" />
+    <a n="Chris Cain Band" c="USA" />
+    <a n="Bobby Mack &amp; Night Train" c="USA" />
+    <a n="Barry Cuda" c="USA" />
+    <a n="Pelle Lindstrцm &amp; Blow Your Blues" c="S" />
+    <a n="Ba Ba Blues" c="S" />
+    <a n="Shades Of Blue" c="DK" />
+    <a n="Chicago Blues Meeting" c="N" />
+    <a n="The Boys In The Band" c="N" />
+    <a n="Sugar Daddies" c="N" />
+    <a n="Corny Horns" c="N" />
+    <a n="Sizz &amp; The Blue Bag" c="N" />
+    <a n="Just Married Band" c="N" />
+    <a n="The R&amp;B Express" c="N" />
+    <a n="Notodden Blues Band" c="N" />
+  </fest>
+  <fest y="1992">
+    <a n="Junior Wells" c="USA" />
+    <a n="Charles Brown" c="USA" />
+    <a n="Koko Taylor" c="USA" />
+    <a n="The Five Blind Boys Of Alabama" c="USA" />
+    <a n="Lou Ann Barton" c="USA" />
+    <a n="James Harman Band" c="USA" />
+    <a n="The Smokin' Joe Kubek Band" c="USA" />
+    <a n="Debbie Davies Band" c="USA" />
+    <a n="King Pleasure And The Biscuit Boys" c="UK" />
+    <a n="Little Charlie &amp; The Nightcats" c="USA" />
+    <a n="Mick Abrahams' Blodwyn Pig" c="UK" />
+    <a n="The Down Home Cooking Blues Band" c="S" />
+    <a n="Nightcats" c="S" />
+    <a n="Gцran Wennerbrandt" c="S" />
+    <a n="Notodden Blues Band" c="N" />
+    <a n="Barfly Squatters" c="N" />
+    <a n="Kеre Virud" c="N" />
+    <a n="Toini &amp; The Tomcats" c="N" />
+    <a n="The R&amp;B Express" c="N" />
+    <a n="Boye's Combo" c="N" />
+    <a n="Blжster" c="N" />
+    <a n="Wentzel" c="N" />
+    <a n="Vidar Busk &amp; The Bushmen" c="N" />
+    <a n="Oddvar Solheim &amp; The Hard Luck Blues Band" c="N" />
+    <a n="Broke'n'Proud" c="N" />
+    <a n="Florrie &amp; Nattergalene" c="N" />
+    <a n="Mulens Portland Combo" c="N" />
+    <a n="Jigsaw Puzzle" c="N" />
+    <a n="Notodden Blues Band" c="N" />
+    <a n="Just Married Band" c="N" />
+  </fest>
+  <fest y="1993">
+    <a n="Clarence Gatemouth Brown" c="USA" />
+    <a n="Rod Piazza &amp; The Mighty Flyers" c="USA" />
+    <a n="Duke Robillard Band" c="USA" />
+    <a n="Kenny Neal" c="USA" />
+    <a n="C.J. Chenier &amp; His Hot Rods" c="USA" />
+    <a n="Kim Simmonds &amp; Savoy Brown" c="UK/USA" />
+    <a n="Otis Grand And The Big Blues Band" c="UK" />
+    <a n="Louisiana Red &amp; Carey Bell" c="USA" />
+    <a n="Diz Watson Band" c="UK" />
+    <a n="Hans Theessink &amp; Blue Groove" c="HOL" />
+    <a n="Jimmy Thackery &amp; The Drivers" c="USA" />
+    <a n="Thomas Stelzer" c="GER" />
+    <a n="Voices Of Spirit" c="DK" />
+    <a n="Sven Zetterberg &amp; Chicago Express" c="S" />
+    <a n="Stefan Sjцholm" c="S" />
+    <a n="Norsk Utflukt" c="N" />
+    <a n="Marianne Antonsen Band" c="N" />
+    <a n="The R&amp;B Express" c="N" />
+    <a n="Mulens Portland Combo" c="N" />
+    <a n="The Dicemen" c="N" />
+    <a n="Black Cat Bones" c="N" />
+    <a n="Barfly Squatters" c="N" />
+    <a n="Frets" c="N" />
+    <a n="Painless" c="N" />
+    <a n="First Water" c="N" />
+    <a n="Bjшrn Berge &amp; Jan Flaaten" c="N" />
+  </fest>
+  <fest y="1994">
+    <a n="Johnny Guitar Watson" c="USA" />
+    <a n="Denise LaSalle" c="USA" />
+    <a n="Elvin Bishop" c="USA" />
+    <a n="Charlie Musselwhite" c="USA" />
+    <a n="Mick Taylor's All Star Blues Band" c="UK" />
+    <a n="Homesick James" c="USA" />
+    <a n="Gospel Harmoneers" c="USA" />
+    <a n="Chris Farlowe" c="UK" />
+    <a n="Sherman Robertson Band" c="USA" />
+    <a n="Mike Morgan &amp; The Crawl" c="USA" />
+    <a n="R.J. Mischo Blues Band" c="USA" />
+    <a n="Guy Forsyth Band" c="USA" />
+    <a n="Tom Pomposello" c="USA" />
+    <a n="Queen Bee &amp; The Zydeco Amigos" c="S" />
+    <a n="Bluesvдder" c="S" />
+    <a n="Frimer Band" c="DK" />
+    <a n="Reidar Larsen" c="N" />
+    <a n="Hungry John &amp; The Blues Shadows" c="N" />
+    <a n="Bald'n'Delicious" c="N" />
+    <a n="Six Pack" c="N" />
+    <a n="Berge &amp; Flaaten" c="N" />
+    <a n="Crawlin' Kingsnakes" c="N" />
+    <a n="Nickels &amp; Dimes" c="N" />
+    <a n="C.I.A." c="N" />
+    <a n="T.I.'s Blue Master" c="N" />
+    <a n="Barfly Squatters" c="N" />
+    <a n="Turnpike Road" c="N" />
+    <a n="First Water" c="N" />
+    <a n="Stratoblasters" c="N" />
+    <a n="JB's Low-Key-Crew" c="N" />
+  </fest>
+  <fest y="1995">
+    <a n="The Fabulous Thunderbirds" c="USA" />
+    <a n="Roomful Of Blues" c="USA" />
+    <a n="Billy Boy Arnold" c="USA" />
+    <a n="Johnnie Johnson" c="USA" />
+    <a n="John Hammond" c="USA" />
+    <a n="The Mighty Clouds Of Joy" c="USA" />
+    <a n="Lonnie Pitchford" c="USA" />
+    <a n="Little Charlie &amp; The Nightcats" c="USA" />
+    <a n="Earl Thomas" c="USA" />
+    <a n="Bob Margolin" c="USA" />
+    <a n="Jess Roden &amp; The Humans" c="UK" />
+    <a n="Teddy Morgan &amp; The Sevilles" c="USA" />
+    <a n="Alan Haynes" c="USA" />
+    <a n="Lee Oskar" c="USA" />
+    <a n="Bluescasters" c="GER" />
+    <a n="Knut Reiersrud" c="N" />
+    <a n="Reidar Larsen &amp; The Boogie Bastards with The Spirit Of Love Singers" c="(N/USA)" />
+    <a n="Clement's Blue Corner" c="DK" />
+    <a n="Sue Sergel &amp; Jump 4 Joy" c="S" />
+    <a n="Sven Zetterberg &amp; Chicago Express" c="S" />
+    <a n="Blues Bag" c="S" />
+    <a n="Good Time Charlie" c="N" />
+    <a n="Notodden Super Session" c="N" />
+    <a n="Larsen's Last Chance" c="N" />
+    <a n="Buckshot Hunters" c="N" />
+    <a n="Mulens Portland Combo" c="N" />
+    <a n="Hard Luck Blues Band" c="N" />
+    <a n="The R&amp;B Express" c="N" />
+    <a n="Power Supply" c="N" />
+    <a n="Painless" c="N" />
+    <a n="Frets" c="N" />
+    <a n="First Water" c="N" />
+    <a n="Turnpike Road" c="N" />
+    <a n="Roland All Stars" c="N" />
+  </fest>
+  <fest y="1996">
+    <a n="The Robert Cray Band" c="USA" />
+    <a n="Splinter Group featuring Peter Green" c="UK" />
+    <a n="Luther Allison" c="USA" />
+    <a n="Canned Heat" c="USA" />
+    <a n="Bernie Marsden &amp; Snowy White" c="UK" />
+    <a n="Omar &amp; The Howlers" c="USA" />
+    <a n="The Soul Stirrers" c="USA" />
+    <a n="Magic Slim &amp; The Teardrops" c="USA" />
+    <a n="Roy Rogers &amp; The Delta Rhythm Kings" c="USA" />
+    <a n="R.L. Burnside Trio" c="USA" />
+    <a n="Corey Harris" c="USA" />
+    <a n="Gary Primich" c="USA" />
+    <a n="Dana Gillespie" c="UK" />
+    <a n="Mississippi Heat" c="USA" />
+    <a n="The Persuasions" c="USA" />
+    <a n="B.B. &amp; The Blues Shacks" c="GER" />
+    <a n="Blues Mobile Band" c="GEO" />
+    <a n="Big Man Clayton &amp; The 44s" c="UK" />
+    <a n="J. Leino &amp; Blues Guys" c="FIN" />
+    <a n="Tommy Cougar &amp; The Stingrays" c="S" />
+    <a n="Black Cat Bones" c="N" />
+    <a n="Bryggerigangen Bluesband" c="N" />
+    <a n="Daryl McDade" c="N" />
+    <a n="Earl Wilson" c="N" />
+    <a n="Knut Nordhagen" c="N" />
+    <a n="Kristin Berglund" c="N" />
+    <a n="Notodden Super Session" c="N" />
+    <a n="Peer Gynt" c="N" />
+    <a n="Spoonful Of Blues" c="N" />
+    <a n="Tale Lid Lerheim" c="N" />
+    <a n="Talgшenga Blueslag" c="N" />
+    <a n="Tiger City Jukes" c="N" />
+  </fest>
+  <fest y="1997">
+    <a n="B.B. King" c="USA" />
+    <a n="Ike Turner Revue" c="USA" />
+    <a n="Otis Rush" c="USA" />
+    <a n="Doug Sahm &amp; The Last Real Texas Blues Band" c="USA" />
+    <a n="Angela Strehli" c="USA" />
+    <a n="Johnny Adams" c="USA" />
+    <a n="Blue Rock'it Records Blues Revue" c="USA" />
+    <a n="The Paul deLay Band" c="USA" />
+    <a n="The Persuasions" c="USA" />
+    <a n="Stan Webb's Chicken Shack" c="UK" />
+    <a n="Alvin Youngblood Hart" c="USA" />
+    <a n="Louisiana Red" c="USA" />
+    <a n="Joanna Connor" c="USA" />
+    <a n="John Primer" c="USA" />
+    <a n="Eddie Bo Trio" c="USA" />
+    <a n="Big Jack Johnson &amp; The Oilers" c="USA" />
+    <a n="King Pleasure &amp; The Biscuit Boys" c="UK" />
+    <a n="Big Town Playboys" c="UK" />
+    <a n="Debbie Davies" c="USA" />
+    <a n="Monster Mike Welch" c="USA" />
+    <a n="KnockOut Greg &amp; Blue Weather" c="S" />
+    <a n="Harmonica Henry &amp; The Blues Rockers" c="S" />
+    <a n="Norsk Utflukt" c="N" />
+    <a n="Wentzel" c="N" />
+    <a n="Notodden Blues Band" c="N" />
+    <a n="The R&amp;B Express" c="N" />
+    <a n="Backbone" c="N" />
+    <a n="Vidar Busk &amp; His True Believers" c="N" />
+    <a n="Mulens Portland Combo" c="N" />
+    <a n="Pigalle Blues Band" c="N" />
+    <a n="Chicago Bound" c="N" />
+    <a n="Cajun Gumbo" c="N" />
+    <a n="The Blue Juke Lords" c="N" />
+    <a n="Maarud-kara" c="N" />
+  </fest>
+  <fest y="1998">
+        <a n="Bo Diddley" c="USA" />
+        <a n="The Blues Brothers Band" c="USA" />
+        <a n="The Fabulous Thunderbirds" c="USA" />
+        <a n="James Cotton" c="USA" />
+        <a n="Kim Wilson's Blues Express" c="USA" comm="featuring Big Al Blake, Fred Kaplan, Rusty Zinn, Larry Taylor, Richard Innes" />
+        <a n="Marcia Ball" c="USA" />
+        <a n="Chubby Carrier" c="USA" />
+        <a n="Pinetop Perkins" c="USA" />
+        <a n="Steady Rollin' Bob Margolin" c="USA" />
+        <a n="Deborah Coleman" c="USA" />
+        <a n="Johnny Dyer" c="USA" />
+        <a n="Super Chikan" c="USA" />
+        <a n="Terry Hanck &amp; The Soulrockers" c="USA" />
+        <a n="Mason Ruffner" c="USA" />
+        <a n="The Myles Family" c="USA" />
+        <a n="Nine Below Zero" c="UK" />
+        <a n="Hans Theessink" c="HOL" />
+        <a n="B.B. &amp; The Blues Shacks" c="GER" />) 
+<a n="Rolf Wikstrцm" c="S" /><a n="Matti Norlin" c="S" /><a n="Reidar Larsen &amp; The Spirit Of Love Singers" c="(N/USA)" /><a n="Knut Reiersrud" c="N" /><a n="Vidar Busk &amp; His True Believers" c="N" /><a n="Marianne Antonsen Band" c="N" /><a n="Buzz Brothers" c="N" /><a n="Good Time Charlie" c="N" /><a n="Knut Nordhagen &amp; Blue Rhythm Pack" c="N" /><a n="Kristin Berglund" c="N" /><a n="Late Night Show" c="N" /><a n="M.B. &amp; The Conmen" c="N" /><a n="Bjшrn Berge" c="N" /><a n="Pure Pleasure Band" c="N" /><a n="Union Blues Band" c="N" /><a n="Blues In A Cop" c="N" /></fest>
+  <fest y="1999">
+    <a n="Buddy Guy" c="USA" />
+    <a n="Jimmie Vaughan" c="USA" />
+    <a n="Bobby Rush" c="USA" />
+    <a n="Mighty Sam McClain" c="USA" />
+    <a n="Trudy Lynn" c="USA" />
+    <a n="The Duke Robillard Band" c="USA" />
+    <a n="Walter Trout" c="USA" />
+    <a n="Sista Monica" c="USA" />
+    <a n="Larry McCray" c="USA" />
+    <a n="Roy Gaines with The R&amp;B Express" c="(USA/N)" />
+    <a n="The Love Dogs" c="USA" />
+    <a n="Philadelphia Jerry Ricks" c="USA" />
+    <a n="Paul Rishell &amp; Annie Raines" c="USA" />
+    <a n="Eric Bibb" c="USA" />
+    <a n="Michelle Wilson" c="USA" />
+    <a n="Johnny Hoy and The Bluefish" c="USA" />
+    <a n="Rock Bottom" c="USA" />
+    <a n="Harmony Harmoneers" c="USA" />
+    <a n="Karen Carroll" c="USA" />
+    <a n="Big Man Clayton" c="UK" />
+    <a n="Big Joe Louis &amp; His Blues Kings" c="UK" />
+    <a n="El Fish" c="B" />
+    <a n="Sven Zetterberg Blues Band" c="S" />
+    <a n="Bluebirds" c="S" />
+    <a n="Vidar Busk &amp; His Treu Believers" c="N" />
+    <a n="Bjшrn Berge" c="N" />
+    <a n="Notodden Blues Band" c="N" />
+    <a n="Tiger City Jukes" c="N" />
+    <a n="Hungry John" c="N" />
+    <a n="Chicago Buond" c="N" />
+    <a n="Margit Bakkens Bluesorkester" c="N" />
+    <a n="Backbone" c="N" />
+    <a n="Pure Pleasure Kings" c="N" />
+    <a n="Spoonful of Blues" c="N" />
+    <a n="Jolly Jumper &amp; Big Moe" c="N" />
+    <a n="Kongsberg Groove Department" c="N" />
+    <a n="Never too Late" c="N" />
+    <a n="Up to Fly" c="N" />
+    <a n="Hjartdal Storband" c="N" />
+    <a n="Terry Lehns Orkester" c="N" />
+  </fest>
+  <fest y="2000">
+    <a n="Taj Mahal" c="USA" />
+    <a n="Wilson Pickett" c="USA" />
+    <a n="Keb' Mo'" c="USA" />
+    <a n="Little Milton" c="USA" />
+    <a n="Rod Piazza &amp; The Mighty Flyers" c="USA" />
+    <a n="Mighty Sam McClain" c="USA" />
+    <a n="Lucky Peterson" c="USA" />
+    <a n="Bernard Allison" c="USA" />
+    <a n="Rory Block" c="USA" />
+    <a n="John Sebastian" c="USA" />
+    <a n="Mitch Woods" c="USA" />
+    <a n="Eric Sardinas" c="USA" />
+    <a n="Mighty Mo Rodgers" c="USA" />
+    <a n="Robert Cage" c="USA" />
+    <a n="C. J. Chenier &amp; His Red Hot Louisiana Band" c="USA" />
+    <a n="Alex Schultz &amp; Tad Robinson" c="USA" />
+    <a n="Larry Johnson" c="USA" />
+    <a n="The Fins" c="USA" />
+    <a n="Luddy Samms" c="UK" />
+    <a n="Angela Brown &amp; The Mighty 45s" c="UK" />
+    <a n="The Extraorinaires" c="UK" />
+    <a n="Peps Persson" c="S" />
+    <a n="Mцnsterеs Blues Band" c="S" />
+    <a n="Blue Magic" c="DK" />
+    <a n="SP-Just-Frost" c="DK" />
+    <a n="H. P. Lange" c="DK" />
+    <a n="Groovey Eyes" c="FIN" />
+    <a n="Big Bang" c="N" />
+    <a n="Kеre Virud" c="N" />
+    <a n="Reidar Larsen &amp; The Spirit of Love Singers" c="N/USA" />
+    <a n="Good Time Charlie" c="N" />
+    <a n="Knut Nordhagen &amp; Bluepack" c="N" />
+    <a n="J. T. Lauritsen &amp; Buckshot Hunters" c="N" />
+    <a n="Texas Twisters" c="N" />
+    <a n="Pigalle Guitar Ensemble" c="N" />
+    <a n="Kristin Berglund" c="N" />
+    <a n="Spoonful of Blues" c="N" />
+    <a n="Margit Bakken Blues Orkester m/Trond Ytterbш" c="N" />
+    <a n="Hydramatix" c="N" />
+    <a n="DJ Strangefruit" c="N" />
+    <a n="DJ Dust" c="N" />
+    <a n="Ronnie Jacobsen vs Digitality" c="N" />
+    <a n="Up To Fly" c="N" />
+    <a n="Hot Little Mama" c="N" />
+    <a n="Jolly Jumper &amp; Big Moe" c="N" />
+    <a n="Last Train Home" c="N" />
+    <a n="First Water" c="N" />
+    <a n="Square One" c="N" />
+    <a n="Terry Lehns" c="N" />
+  </fest>
+  <fest y="2001">
+    <a n="Clarence &quot;Gatemouth&quot; Brown and Gate's Express" c="USA" />
+    <a n="Charlie Musselwhite" c="USA" />
+    <a n="Al Kooper and the Funky Faculty" c="USA" />
+    <a n="Elvin Bishop and Little Smokey Smothers" c="USA" />
+    <a n="Anson Funderburgh and the Rockets Featuring Sam Myers" c="USA" />
+    <a n="Snooks Eaglin" c="USA" />
+    <a n="Shemekia Copeland" c="USA" />
+    <a n="The Blues Band" c="UK" />
+    <a n="Terry Evans" c="USA" />
+    <a n="Candye Kane" c="USA" />
+    <a n="Geoff Muldaur with Stephen Bruton &amp; Bill Rich" c="USA" />
+    <a n="Paul Jones and Dave Kelly" c="UK" />
+    <a n="Earl Thomas" c="USA" />
+    <a n="Bob Hall" c="UK" />
+    <a n="Little George and the Blue Stars" c="UK" />
+    <a n="Michael Roach" c="UK" />
+    <a n="John Crampton" c="UK" />
+    <a n="Blues Mobile" c="GEO" />
+    <a n="Reidar Larsen" c="N" />
+    <a n="Bjorn Berge" c="N" />
+    <a n="Vidar Busk" c="N" />
+    <a n="Kеre Virud" c="N" />
+    <a n="Kristin Berglund Band" c="N" />
+    <a n="Steinar Albrigtsen" c="N" />
+    <a n="Spoonful of Blues" c="N" />
+    <a n="Tiger City Jukes" c="N" />
+    <a n="Texas Twisters" c="N" />
+    <a n="Frode Alnжs" c="N" />
+    <a n="Ronnie J / Salvador" c="N" />
+    <a n="Jolly Jumper &amp; Big Moe" c="N" />
+    <a n="Knut Hem" c="N" />
+    <a n="Amund Maarud Band" c="N" />
+    <a n="Daniel and The Sacred Harp" c="N" />
+    <a n="Vetrhus Blues Band" c="N" />
+    <a n="The Blue Devils" c="N" />
+    <a n="Up to Fly" c="N" />
+    <a n="DJ Darknorse" c="N" />
+    <a n="Tommy Tee" c="N" />
+    <a n="Warlocks" c="N" />
+    <a n="Opaque" c="N" />
+    <a n="Diaz" c="N" />
+    <a n="N-Light-N" c="N" />
+    <a n="DJ Gordon" c="N" />
+    <a n="Olle Abstract" c="N" />
+    <a n="Little Andrew and the Blue Masters" c="N" />
+    <a n="Hydramatix" c="N" />
+    <a n="BluesTown Gospel Choir" c="N" />
+    <a n="Harry Banks Buzzers" c="N" />
+    <a n="Terry Lehns" c="N" />
+  </fest>
+</festivals>

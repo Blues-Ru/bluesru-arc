@@ -1,0 +1,84 @@
+topic_id: 3208
+slug: topic-3208
+title: Блюз и еще раз блюз
+first_post: 2006-04-17 19:06
+last_post: 2006-04-18 21:49
+post_count: 8
+posts:
+- id: 26953
+  parent_id: null
+  date: 2006-04-17 19:06
+  poster: Strat
+  email: 13 sox
+  subject: Блюз и еще раз блюз
+  deleted: false
+  text: Кто умеет играть блюз отзовись
+  replies:
+  - id: 26961
+    parent_id: 26953
+    date: 2006-04-18 14:24
+    poster: Старый Майор
+    email: gypsy@mail.ru
+    subject: Как показывает практика, играть блюз у нас не умеет никто...
+    deleted: false
+    text: Поэтому все из скромности молчат.
+  - id: 26962
+    parent_id: 26953
+    date: 2006-04-18 17:11
+    poster: Игорь Головачев (Игорь Г.)
+    email: sunny_city@mail.ru
+    subject: Газета "Московкий комсомолец" от 18.04.2006
+    deleted: false
+    text: 'http://mk.ru/numbers/2133/article73828.htm
+
+
+      Краткое содержание,сторого по теме :))
+
+
+      ...Галкин и музыканты веселили всех как могли. Начали, конечно, с пародий и
+      еще с блюзовой классики. Тут и Алла вошла в раж...'
+    replies:
+    - id: 26963
+      parent_id: 26962
+      date: 2006-04-18 17:46
+      poster: Владимир Русинов (BluesCat)
+      email: volodya@blues.ru
+      subject: настоящие профи из Ража не выходят.
+      deleted: false
+      text: так и ходят в РажУ...
+  - id: 26967
+    parent_id: 26953
+    date: 2006-04-18 18:11
+    poster: Andrei V. Evdokimov (evdokimov)
+    email: evdokimov@blues.ru
+    subject: раж без причины - ...
+    deleted: false
+    text: когда галкин начнет с блюзовой классики, тут и я, вслед за Аллой, войду
+      в ражжж
+  - id: 26968
+    parent_id: 26953
+    date: 2006-04-18 18:23
+    poster: Старый Майор
+    email: gypsy@mail.ru
+    subject: Страшно даже подумать...
+    deleted: false
+    text: '...чем это может закончиться... не иначе, как коллективным пением "Ой Мороз,
+      Мороз, Не Морозь Меня", как нынче принято писать названия Непреходящих Шедевров...'
+  - id: 26971
+    parent_id: 26953
+    date: 2006-04-18 19:03
+    poster: Игорь Головачев (Игорь Г.)
+    email: sunny_city@mail.ru
+    subject: А судя по наличию ключевого слова 'конечно'
+    deleted: false
+    text: можно сделать вывод что они всегда именно так и делают. Ну любят блюз и
+      всё тут! Да и диаппазон интересов поразителен! Это ж какие масштабы,какие перспективы...
+    replies:
+    - id: 26975
+      parent_id: 26971
+      date: 2006-04-18 21:49
+      poster: Andrei V. Evdokimov (evdokimov)
+      email: evdokimov@blues.ru
+      subject: конечная
+      deleted: false
+      text: 'а и то - как звучит: "начали конечно".'

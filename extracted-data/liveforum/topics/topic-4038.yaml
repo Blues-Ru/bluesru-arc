@@ -1,0 +1,39 @@
+topic_id: 4038
+slug: topic-4038
+title: сегодня - ДР Ветерана!
+first_post: 2008-06-24 01:20
+last_post: 2008-06-25 15:35
+post_count: 3
+posts:
+- id: 35510
+  parent_id: null
+  date: 2008-06-24 01:20
+  poster: Dmitri Kazantsev (Dr. Nick)
+  email: dr.nick@blues.ru
+  subject: сегодня - ДР Ветерана!
+  deleted: false
+  text: 'басист Дима Честных родился 37 лет назад в городе Москве!
+
+
+    14 лет мы общаемся с ним и играем музыку
+
+
+    всех благ ему!'
+  replies:
+  - id: 35511
+    parent_id: 35510
+    date: 2008-06-24 08:32
+    poster: Andrei V. Evdokimov (evdokimov)
+    email: evdokimov@blues.ru
+    subject: Да вот же он!
+    deleted: false
+    text: <a href="/bluesnews/08Summer/Veteran/">терзал на днях укулеле</a> в Доме
+      у Дороги.
+  - id: 35518
+    parent_id: 35510
+    date: 2008-06-25 15:35
+    poster: Руслан Чифуров
+    email: chifuroff sobaka inbox.ru
+    subject: Присоединяюсь к поздравлениям!
+    deleted: false
+    text: Крепкого здоровья, счастья и всяческих успехов творческих!

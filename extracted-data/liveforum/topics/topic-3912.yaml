@@ -1,0 +1,88 @@
+topic_id: 3912
+slug: topic-3912
+title: про маёра и джуниора
+first_post: 2008-02-21 20:49
+last_post: 2008-02-24 00:16
+post_count: 8
+posts:
+- id: 34764
+  parent_id: null
+  date: 2008-02-21 20:49
+  poster: Dmitri Kazantsev (Dr. Nick)
+  email: dr.nick@blues.ru
+  subject: про маёра и джуниора
+  deleted: false
+  text: 'маёр не любит джуниора! как можно его не любить? какой голос, какая манера
+    и экспрессия!
+
+    предлагаю обсудить и осудить хунту пеночетов!'
+  replies:
+  - id: 34767
+    parent_id: 34764
+    date: 2008-02-22 02:50
+    poster: Старый Майор
+    email: gypsy@mail.ru
+    subject: Ацтань пративный!
+    deleted: false
+    text: Сам его люби, штафирка штатская.
+    replies:
+    - id: 34774
+      parent_id: 34767
+      date: 2008-02-22 12:49
+      poster: Dmitri Kazantsev (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: сам пративный
+      deleted: false
+      text: иди к русинову!
+      replies:
+      - id: 34781
+        parent_id: 34774
+        date: 2008-02-22 15:21
+        poster: Старый Майор
+        email: gypsy@mail.ru
+        subject: А чо это я?
+        deleted: false
+        text: Сам к нему иди, ты ж с ним концерты играл ))))
+  - id: 34777
+    parent_id: 34764
+    date: 2008-02-22 14:32
+    poster: Митя
+    email: meis2000@mail.ru
+    subject: А правда, почему..
+    deleted: false
+    text: ..Майор не любит Джуниора??
+    replies:
+    - id: 34779
+      parent_id: 34777
+      date: 2008-02-22 15:16
+      poster: Старый Майор
+      email: gypsy@mail.ru
+      subject: Я на досуге подумаю почему
+      deleted: false
+      text: 'Очевидно, есть какие-то причины.
+
+        Пока воспринимайте как констатацию факта.
+
+        Хотя вряд ли кому интересно, какая система слушания блюза сложилась в моей
+        персональной голове за последние 35 лет.
+
+
+        А с другой стороны, кому какая разница. Мало ли кто кого любит или не любит.
+
+        Главное, чтобы с топорами за людями не гонялися, и войны не было.'
+  - id: 34791
+    parent_id: 34764
+    date: 2008-02-23 17:57
+    poster: Muddy Lives
+    email: mlives_6@hotmail.com
+    subject: Джуниор?
+    deleted: false
+    text: О ком идет речь?  Parker? Wells? Watson? Walker? Mance?
+    replies:
+    - id: 34793
+      parent_id: 34791
+      date: 2008-02-24 00:16
+      poster: Dmitri Kazantsev (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: уэллс
+      deleted: false

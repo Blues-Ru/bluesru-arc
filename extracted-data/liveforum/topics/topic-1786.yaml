@@ -1,0 +1,121 @@
+topic_id: 1786
+slug: topic-1786
+title: Перемены перемещаемых
+first_post: 2004-01-19 12:10
+last_post: 2004-01-20 16:03
+post_count: 12
+posts:
+- id: 16861
+  parent_id: null
+  date: 2004-01-19 12:10
+  poster: Алексей Аграновский (Док)
+  email: aaa@genebee.msu.su
+  subject: Перемены перемещаемых
+  deleted: false
+  text: Дорогие друзья, концерт группы "Черный хлеб" в баре Олимпийского комитета
+    переносится на четверг 22 января. Дело в Кобзоне и Пахмутовой, которые забили
+    там пятницу.
+  replies:
+  - id: 16862
+    parent_id: 16861
+    date: 2004-01-19 14:12
+    poster: Оксана Кочубей
+    email: morrah@yandex.ru
+    subject: Жаль
+    deleted: false
+    text: мне не получится, видимо, поспеть к вам,ведь у Бори Булкина 10-летие группы
+      в "Доме у Дороги". В котором часу начало концерта у "Чёрного хлеба"?
+    replies:
+    - id: 16868
+      parent_id: 16862
+      date: 2004-01-19 15:44
+      poster: Алексей Аграновский (Док)
+      email: aaa@genebee.msu.su
+      subject: В  20:00!
+      deleted: false
+      replies:
+      - id: 16883
+        parent_id: 16868
+        date: 2004-01-20 03:28
+        poster: Оксана Кочубей
+        email: morrah@yandex.ru
+        subject: Клёво,
+        deleted: false
+        text: значит час у меня есть!
+    - id: 16870
+      parent_id: 16862
+      date: 2004-01-19 16:30
+      poster: Федор Романенко (fedor)
+      email: fedor@blues.ru
+      subject: Ухх!
+      deleted: false
+      text: Вообще-то, при всем уважении к Боре и Алексею, 22-го будет довольно интересный
+        концерт в Б-2 ;)
+      replies:
+      - id: 16871
+        parent_id: 16870
+        date: 2004-01-19 16:56
+        poster: Алексей Аграновский (Док)
+        email: aaa@genebee.msu.su
+        subject: Эх,..
+        deleted: false
+        text: но при всем уважении к Феде и Гарри, мы не в состоянии отменить свои
+          гиги, чтобы его, уважение, засвидетельствовать.
+        replies:
+        - id: 16882
+          parent_id: 16871
+          date: 2004-01-20 03:25
+          poster: Оксана Кочубей
+          email: morrah@yandex.ru
+          subject: Ой,
+          deleted: false
+          text: ребята я ж не к тому, что всё брошу и порвусь пополам между выступлением
+            и Лёшиным концертом... честное слово, так жаль. :)))
+    - id: 16879
+      parent_id: 16862
+      date: 2004-01-20 01:01
+      poster: Дима Казанцев (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: а вот Д-ру Нику тоже 10 лет в этом году
+      deleted: false
+      text: тоже отмечать нужно? а то все что-то отмечают, только зачем все это?
+      replies:
+      - id: 16887
+        parent_id: 16879
+        date: 2004-01-20 13:34
+        poster: Старый Майор
+        email: gypsy@mail.ru
+        subject: Чтобы выразить свои респекты, брат!
+        deleted: false
+        replies:
+        - id: 16892
+          parent_id: 16887
+          date: 2004-01-20 15:44
+          poster: Дима Казанцев (Dr. Nick)
+          email: dr.nick@blues.ru
+          subject: ну спасибо!
+          deleted: false
+          text: 'я теперь после каждого объявления о концерте буду подписывать: В
+            Рамках 10-летия Группы и В Рамках 15-летия Моего Музицирования.
+
+
+            А еще закажу статью про всех 100+ человек, которые играли в группе! Вот
+            будет супер! А главное интересно и полезно-то как...'
+          replies:
+          - id: 16893
+            parent_id: 16892
+            date: 2004-01-20 15:56
+            poster: Anton Klepikov (Antokha)
+            email: antokha@yandex.ru
+            subject: Ага! И обязательно В рамках 30-летия В Блюзе! :-)) (-)
+            deleted: false
+            text: '-'
+            replies:
+            - id: 16894
+              parent_id: 16893
+              date: 2004-01-20 16:03
+              poster: Дима Казанцев (Dr. Nick)
+              email: dr.nick@blues.ru
+              subject: 32-летия, Антоха!
+              deleted: false
+              text: сколько лет-то уже парюсь!

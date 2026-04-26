@@ -1,0 +1,27 @@
+topic_id: 3702
+slug: topic-3702
+title: Efes Blues
+first_post: 2007-07-31 01:39
+last_post: 2007-07-31 22:30
+post_count: 2
+posts:
+- id: 33313
+  parent_id: null
+  date: 2007-07-31 01:39
+  poster: Дядя Женя
+  email: johnny_bgoode@mail.ru
+  subject: Efes Blues
+  deleted: false
+  text: Уважаемые все, подскажите, можно ли где-то в интернете или где-то ещё накопать
+    программу Efes Blues? Интересует, в каких городах он будет проходить в этом году...
+    Может кто знает? Я вообще ничего не нашёл, только прошлогоднюю рекламу с предолжениями
+    купить билеты :)
+  replies:
+  - id: 33314
+    parent_id: 33313
+    date: 2007-07-31 22:30
+    poster: Bluser
+    email: bluser@rambler.ru
+    subject: Москва - Питер
+    deleted: false
+    text: http://www.silencepro.ru/will/

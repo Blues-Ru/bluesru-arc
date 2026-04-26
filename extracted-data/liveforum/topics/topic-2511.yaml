@@ -1,0 +1,47 @@
+topic_id: 2511
+slug: topic-2511
+title: Вчерашние записи c  LJ Cats  JAM
+first_post: 2005-04-08 22:27
+last_post: 2005-04-11 11:16
+post_count: 4
+posts:
+- id: 21040
+  parent_id: null
+  date: 2005-04-08 22:27
+  poster: vr  (Stone Crazy)
+  email: volodya@blues.ru
+  subject: Вчерашние записи c  LJ Cats  JAM
+  deleted: false
+  text: '<A HREF="http://www.bluescats.ru/files/20050407.rjclubjam/">http://www.bluescats.ru/files/20050407.rjclubjam/</A>
+
+
+    Во всех кроме Hold On играет также Вадим Иващенко :)
+
+    в 5-10-15/WokeUp он также поет.'
+  replies:
+  - id: 21063
+    parent_id: 21040
+    date: 2005-04-11 10:32
+    poster: илья верховский
+    email: ilyav@aport2000.ru
+    subject: shpasibo!
+    deleted: false
+    text: Класс. Спасибо, Володя. Звучит здорово. А кто поёт в первых трёх?
+    replies:
+    - id: 21065
+      parent_id: 21063
+      date: 2005-04-11 11:13
+      poster: Алексей Ильичёв (Alex_z77)
+      email: alex_z77@mail.ru
+      subject: Дайте-ка угадаю...
+      deleted: false
+      text: Петя Репин, вокалист (и клавишник) Louisiana Jumping Cats? :)
+      replies:
+      - id: 21066
+        parent_id: 21065
+        date: 2005-04-11 11:16
+        poster: Алексей Ильичёв (Alex_z77)
+        email: alex_z77@mail.ru
+        subject: Только не в трёх
+        deleted: false
+        text: ', а в двух - "Hold On" и "T-Bone Boogie".'

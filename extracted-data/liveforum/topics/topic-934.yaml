@@ -1,0 +1,179 @@
+topic_id: 934
+slug: topic-934
+title: Станция Мир
+first_post: 2002-06-06 03:15
+last_post: 2002-06-07 16:35
+post_count: 17
+posts:
+- id: 5046
+  parent_id: null
+  date: 2002-06-06 03:15
+  poster: Жук
+  email: jouk@newmail.net
+  subject: Станция Мир
+  deleted: false
+  text: Не желая привлечь чьего-либо внимания и нездорового любопытства, а просто
+    как порядочный человек, поясняю к афише на 6е, что во Втором Этаже джема, естественно,
+    не будет, а в Вудстоке мы будем играть в акустике оригинальным составом Кожекин-Жук-Русинов
+    англоязычную программу. (под девизом Bell Bottom Blues nearly makes me cry:)
+  replies:
+  - id: 5048
+    parent_id: 5046
+    date: 2002-06-06 09:44
+    poster: Andrei V. Evdokimov (evdokimov)
+    email: evdokimov@blues.ru
+    subject: я вашу полечку перепер на русский...
+    deleted: false
+    text: 'тоска с пупка ,
+
+      я чуть не плачу...'
+    replies:
+    - id: 5051
+      parent_id: 5048
+      date: 2002-06-06 11:48
+      poster: Дима Казанцев (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: Ты эта...
+      deleted: false
+      text: Bell-bottom и belly button не путай, а то осмеют ведь ;)
+    - id: 5060
+      parent_id: 5048
+      date: 2002-06-06 15:52
+      poster: Andrei V. Evdokimov (evdokimov)
+      email: evdokimov@blues.ru
+      subject: а пофиг... я и исправитсья могу
+      deleted: false
+      text: 'тоска звонка
+
+        и т.д.'
+      replies:
+      - id: 5062
+        parent_id: 5060
+        date: 2002-06-06 16:08
+        poster: Andrei V. Evdokimov (evdokimov)
+        email: evdokimov@blues.ru
+        subject: и с третьей попытки
+        deleted: false
+        text: 'тоска в клешах...
+
+          почти рыдаю.'
+        replies:
+        - id: 5068
+          parent_id: 5062
+          date: 2002-06-06 18:06
+          poster: Михаил Бирюков (nECKAPb)
+          email: blackcat@blues.ru
+          subject: сместим акцент
+          deleted: false
+          text: '"В клешах тоска..."
+
+            Далее по тексту.'
+          replies:
+          - id: 5076
+            parent_id: 5068
+            date: 2002-06-07 01:36
+            poster: Andrei V. Evdokimov (evdokimov)
+            email: evdokimov@blues.ru
+            subject: глубжее
+            deleted: false
+            text: 'на кнопку я звонка не жал - тоска
+
+              она не так центральна как момент пупка
+
+              но шире чем клеша... моя тоска.'
+  - id: 5057
+    parent_id: 5046
+    date: 2002-06-06 13:03
+    poster: Жук
+    email: jouk@newmail.net
+    subject: Уточнения
+    deleted: false
+    text: "Ваня! не в Таксмане а в Вудстоке - это важно!\nАндрей! я к тебе зайду щас,\
+      \ всё мне объяснишь, что имел в виду.\nДима! моё уважение к тебе не знает границ!\
+      \ ты хочешь сказать что во всех местах, где я встречал песню Клэптона начала\
+      \ семидесятых \n\"Bell Bottom Blues nearly makes me cry I don`t wanna lose this\
+      \ feeling\" и т.д.- с модуляцией из С в А на припев - ВЕЗДЕ БЫЛА ОШИБКА! ТЕБЕ\
+      \ я конечно верю больше чем своим ушам и информации на альбоме - так что-извини\
+      \ за серость. \nА я-то думал - так трогательно, Bell Bottom,клеша, хипповский\
+      \ блюз..."
+    replies:
+    - id: 5061
+      parent_id: 5057
+      date: 2002-06-06 15:55
+      poster: Жук
+      email: jouk@newmail.net
+      subject: Извинения
+      deleted: false
+      text: 'А, начал понимать.
+
+        Так Дима не на меня наехал, а на Андрея. Беру тонкую иронию обратно. Приходи,
+        кстати,  Дима в Вудсток сегодня, спой On the road again.'
+    - id: 5064
+      parent_id: 5057
+      date: 2002-06-06 17:56
+      poster: Дима Казанцев (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: Ванёк, не садись на пенёк ;)
+      deleted: false
+      text: И читай внимательнее ;) Это у нас АЕ шибко грамотный, вот я его чутка
+        и поправил ;)
+      replies:
+      - id: 5077
+        parent_id: 5064
+        date: 2002-06-07 01:47
+        poster: Andrei V. Evdokimov (evdokimov)
+        email: evdokimov@blues.ru
+        subject: братья ломакс шлют привет борцу с совками
+        deleted: false
+        text: вперед, безупречный
+        replies:
+        - id: 5078
+          parent_id: 5077
+          date: 2002-06-07 02:19
+          poster: Дима Казанцев (Dr. Nick)
+          email: dr.nick@blues.ru
+          subject: Опять хамишь ;)
+          deleted: false
+          text: Нехорошо, старшОй...
+        - id: 5098
+          parent_id: 5077
+          date: 2002-06-07 15:41
+          poster: Алексей Аграновский (Док)
+          email: aaa@genebee.msu.su
+          subject: Два голубя как два родные брата жили
+          deleted: false
+          text: А есть ли у тебя с наливкою бутыли?
+          replies:
+          - id: 5102
+            parent_id: 5098
+            date: 2002-06-07 16:32
+            poster: МХ
+            email: росвсро
+            subject: тут у нас
+            deleted: false
+            text: в Херсоне с этим не проблема,приезжай.)))
+            replies:
+            - id: 5104
+              parent_id: 5102
+              date: 2002-06-07 16:35
+              poster: МХ
+              email: сримы
+              subject: вишь,как много
+              deleted: false
+              text: всего,аж внутренний флуд пошел!!))
+          - id: 5103
+            parent_id: 5098
+            date: 2002-06-07 16:34
+            poster: МХ
+            email: ваывосывол
+            subject: а как же! тут у нас
+            deleted: false
+            text: в Херсоне с этим все нормально,приезжай)))
+        - id: 5099
+          parent_id: 5077
+          date: 2002-06-07 15:43
+          poster: МХ
+          email: аирмк
+          subject: а там еще
+          deleted: false
+          text: и братья были?))Тогда привет им от Палмеров!

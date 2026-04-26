@@ -1,0 +1,124 @@
+topic_id: 2031
+slug: topic-2031
+title: Eric Clapton
+first_post: 2002-07-16 20:16
+last_post: 2002-07-18 20:56
+post_count: 11
+posts:
+- id: 6094
+  parent_id: null
+  date: 2002-07-16 20:16
+  poster: Ovsik
+  email: ovsik@bk.ru
+  subject: Eric Clapton
+  deleted: false
+  text: Товарищи поклонники этого легенларного исполнителя. Может пообщаемся? Обсудим
+    композиции, поделимся мнениями и т.д.?
+  replies:
+  - id: 6098
+    parent_id: 6094
+    date: 2002-07-16 21:57
+    poster: Демьяныч
+    email: dv1979@mail.ru
+    subject: Пиши!
+    deleted: false
+    replies:
+    - id: 6099
+      parent_id: 6098
+      date: 2002-07-16 21:59
+      poster: Демьяныч
+      email: dv1979@mail.ru
+      subject: Еще раз пиши!
+      deleted: false
+      text: Вот мой адрес :dv1979@mail.ru Пиши!Меня зовут Вован.
+  - id: 6100
+    parent_id: 6094
+    date: 2002-07-17 09:16
+    poster: Malcolm Ray  Redriver (Mike)
+    email: lifebythedrop@yandex.ru
+    subject: Ё... с радостью!!!
+    deleted: false
+    text: Валяй, о Клептоне поговорим, меня особенно его концертные слайдовые исполнения
+      прут вроде rollin' and tumblin'
+    replies:
+    - id: 6107
+      parent_id: 6100
+      date: 2002-07-17 17:04
+      poster: Ovsik
+      email: Ovsik@bk.ru
+      subject: Ранний
+      deleted: false
+      text: Мне больше нравится ранний типа Derek and Dominios. Из сольного например
+        JounerMan, August, Homeboy. Ща убиваюсь по Layla. Кста, кто смотрел по ОРТ
+        6 июня концерт в Англии... Там Клэптом Лэйлу мочканул . Суперррр
+      replies:
+      - id: 6111
+        parent_id: 6107
+        date: 2002-07-17 20:09
+        poster: Дима Казанцев (Dr. Nick)
+        email: dr.nick@blues.ru
+        subject: Не туда написал
+        deleted: false
+        text: сообщение "Ты меня прости, конечно". Оно было адресовано тебе.
+        replies:
+        - id: 6116
+          parent_id: 6111
+          date: 2002-07-18 08:52
+          poster: Malcolm Ray  Redriver (Mike)
+          email: lifebythedrop@yandex.ru
+          subject: OOPS!!!
+          deleted: false
+          text: Сею поправку я заметил чуть позже, пардон!!!
+    - id: 6110
+      parent_id: 6100
+      date: 2002-07-17 20:08
+      poster: Дима Казанцев (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: Ты меня прости, конечно
+      deleted: false
+      text: "Но ты назвал самые \"ненужные\" альбомы Эрика. К ним относится и August,\
+        \ и Behind The Sun, и Pilgrim. Хорошие альбомы: Eric Clapton (1970), Ocean\
+        \ Boulevard, There Is One In Every Crowd, No Reason To Cry, Slowhand, Backless,\
+        \ Another Ticket, Money And Cigarettes, From The Cradle, Riding With The King,\
+        \ Riptide. Концерты: E.C. Was Here, Just One Night, Unplugged. Остальное либо\
+        \ слабее, либо вообще не нужно. Derek & The Dominos нормально, но это не совсем\
+        \ Эрик (концертник совсем слабый), Rainbow Concert плох, Journeyman слушать\
+        \ можно, 24 Nights длинный и местами пафосный и попсовый. Про три кошмарных\
+        \ альбома я уже написал. Behind The Sun можно слушать только треть, Август\
+        \ пару вещей, Пилигрим вообще нельзя. \nВот мое мнение на вскидку.\nCream\
+        \ хорош весь, Blind Faith тоже, Эрик с Мейаллом мне не нравится, хотя альбом\
+        \ ровный и грамотный. Просто когда пришел Грин, стало гораздо лучше."
+      replies:
+      - id: 6115
+        parent_id: 6110
+        date: 2002-07-18 08:50
+        poster: Malcolm Ray  Redriver (Mike)
+        email: lifebythedrop@yandex.ru
+        subject: Clapton
+        deleted: false
+        text: 'Дмитрий, я, конечно, понимаю, что в Блюзе ты разбираешся огого как,
+          а я- лишь начинающий, но я не слышал толком не одного альбома, кроме, разве
+          что Ppilgrim( мне он не понравился, как-то... не так), From the Cradle и
+          Ridin'' With The King( эти мне понравились, причём второй больше), Всё остальное,
+          что у меня есть из Клептона: обычные, пиратские и самопальные( по сути-
+          тоже пиратские) а слайдовые его вещи мне просто нравятся... ну потому, что
+          мне нравится как звучит слайд'
+        replies:
+        - id: 6123
+          parent_id: 6115
+          date: 2002-07-18 11:33
+          poster: Дима Казанцев (Dr. Nick)
+          email: dr.nick@blues.ru
+          subject: Ну так слушать надо
+          deleted: false
+          text: а не языком чесать ;)
+          replies:
+          - id: 6141
+            parent_id: 6123
+            date: 2002-07-18 20:56
+            poster: V.Tsubin (VOVAN)
+            email: vts13@hotmail.com
+            subject: Дима про альбомы все правильно сказал
+            deleted: false
+            text: Полностью присоединяюсь,за исключением того,что слишком строг оказался
+              к работе с Мэйаллом.Но это уже ИМХО:-)

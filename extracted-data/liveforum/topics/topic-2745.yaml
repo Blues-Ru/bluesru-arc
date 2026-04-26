@@ -1,0 +1,59 @@
+topic_id: 2745
+slug: topic-2745
+title: Баракуда
+first_post: 2005-09-06 09:55
+last_post: 2005-09-07 06:31
+post_count: 5
+posts:
+- id: 22732
+  parent_id: null
+  date: 2005-09-06 09:55
+  poster: Олег Валентинович Огиенко ()
+  email: ogienkoov@nk.nornik.ru
+  subject: Баракуда
+  deleted: false
+  text: 'Ребята кто знает блюзовую группу Barracuda альбом Open fire 70-е годы.
+
+    Где только не искал но по этим названиям выскакивает харда.А может у меня вообще
+    ошибочная информация? С уважением О.О.В.'
+  replies:
+  - id: 22747
+    parent_id: 22732
+    date: 2005-09-06 13:06
+    poster: VoV  (Barmaley)
+    email: barmaley-vov@yandex.ru
+    subject: Хевиметал давай!! Хевиметал! :)
+    deleted: false
+    text: 'Как-то вот так получается.
+
+      http://www.allmusic.com/cg/amg.dll?p=amg&token=&sql=10:9earqj3ioj0a
+
+
+      И группа такая была, и альбом даже. Но хевиметал.. :)'
+    replies:
+    - id: 22749
+      parent_id: 22747
+      date: 2005-09-06 13:12
+      poster: Владимир Русинов (BluesCat)
+      email: volodya@blues.ru
+      subject: малоли что там написано на алмузике :)
+      deleted: false
+      text: У нас все что надо - будет называться блюзом! вроде же уже договорились?  тут
+        уже против танков не попрешь.... :))
+      replies:
+      - id: 22752
+        parent_id: 22749
+        date: 2005-09-06 13:22
+        poster: VoV  (Barmaley)
+        email: barmaley-vov@yandex.ru
+        subject: Да, я и забыл. Старею. :)
+        deleted: false
+        replies:
+        - id: 22785
+          parent_id: 22752
+          date: 2005-09-07 06:31
+          poster: Олег Валентинович Огиенко ()
+          email: ogienkoov@nk.nornik.ru
+          subject: Баракуда
+          deleted: false
+          text: Понял. Хреновая у меня информация.

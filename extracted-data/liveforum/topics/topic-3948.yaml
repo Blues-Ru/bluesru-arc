@@ -1,0 +1,48 @@
+topic_id: 3948
+slug: topic-3948
+title: Арсен в Канаде!
+first_post: 2008-03-18 15:56
+last_post: 2008-03-19 00:13
+post_count: 5
+posts:
+- id: 34972
+  parent_id: null
+  date: 2008-03-18 15:56
+  poster: Dmitri Kazantsev (Dr. Nick)
+  email: dr.nick@blues.ru
+  subject: Арсен в Канаде!
+  deleted: false
+  text: http://img-2008-03.photosight.ru/17/2596388.jpg
+  replies:
+  - id: 34974
+    parent_id: 34972
+    date: 2008-03-18 17:55
+    poster: Владимир Русинов (BluesCat)
+    email: volodya@blues.ru
+    subject: Казанцев в Израиле!
+    deleted: false
+    text: <IMG SRC="http://www.jerusalem-korczak-home.com/jek/OD/rina1/rina-vol0040.jpg">
+    replies:
+    - id: 34983
+      parent_id: 34974
+      date: 2008-03-19 00:13
+      poster: Dmitri Kazantsev (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: у меня нет такой классной гитары :(
+      deleted: false
+  - id: 34977
+    parent_id: 34972
+    date: 2008-03-18 21:13
+    poster: Эльдар
+    email: Эльдар
+    subject: Это не Арсен!
+    deleted: false
+    text: Это же Гоша Куценко (был такой советский артист кино) с гитарой :-)
+    replies:
+    - id: 34978
+      parent_id: 34977
+      date: 2008-03-18 21:36
+      poster: Владимир Русинов (BluesCat)
+      email: volodya@blues.ru
+      subject: я рад, что по второму пункту возражений не последовало....
+      deleted: false

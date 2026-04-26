@@ -1,0 +1,38 @@
+topic_id: 2251
+slug: topic-2251
+title: Сегодня в Ритм энд Блюз мы (Dirty Dozen) ,будем выступать без балалайки....Так-вот.......
+first_post: 2004-09-28 12:33
+last_post: 2004-09-29 11:44
+post_count: 3
+posts:
+- id: 19355
+  parent_id: null
+  date: 2004-09-28 12:33
+  poster: Yuri Kaverkin (Gekko)
+  email: kaverkin@rol.ru
+  subject: Сегодня в Ритм энд Блюз мы (Dirty Dozen) ,будем выступать без балалайки....Так-вот.......
+  deleted: false
+  replies:
+  - id: 19359
+    parent_id: 19355
+    date: 2004-09-28 23:24
+    poster: Михаил Бирюков (nECKAPb)
+    email: blackcat@blues.ru
+    subject: вопросец...
+    deleted: false
+    text: 'Юр, а когда с балалайкой?.. По прежнему желаю посетить ваш концерт в полном
+      составе, с июля всё никак не получается. В данную минуту, например, сижу на
+      работе, и не просто так...
+
+      Тем более за мной должок.
+
+      Заранее спасибо за ответ.'
+    replies:
+    - id: 19363
+      parent_id: 19359
+      date: 2004-09-29 11:44
+      poster: Yuri Kaverkin (Gekko)
+      email: kaverkin@rol.ru
+      subject: Теперь уже не скоро...наверное в Ноябре...Октябрь у нас практически
+        выпадает...
+      deleted: false

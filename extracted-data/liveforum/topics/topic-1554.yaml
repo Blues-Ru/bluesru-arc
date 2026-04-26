@@ -1,0 +1,52 @@
+topic_id: 1554
+slug: topic-1554
+title: интересно,а кто играл в Примусе?
+first_post: 2003-11-05 11:23
+last_post: 2003-11-07 14:52
+post_count: 5
+posts:
+- id: 15412
+  parent_id: null
+  date: 2003-11-05 11:23
+  poster: For
+  email: a_a@hotbox.ru
+  subject: интересно,а кто играл в Примусе?
+  deleted: false
+  text: '...в частности на Путешествии в рок-н-ролл,и чем сейчас эти люди занимаются?'
+  replies:
+  - id: 15420
+    parent_id: 15412
+    date: 2003-11-05 23:44
+    poster: vr  (Stone Crazy)
+    email: volodya@blues.ru
+    subject: вот кто играл в праймус :)
+    deleted: false
+    text: Tim "Herb" Alexander  Les Claypool  Jay Lane  Brian "Brain" Mantia  Larry
+      LaLonde  Todd Huth  Tim "Curveball" Wright
+  - id: 15421
+    parent_id: 15412
+    date: 2003-11-06 01:38
+    poster: For
+    email: a_a@hotbox.ru
+    subject: на гитаре,на гитаре-то кто?
+    deleted: false
+    text: в примусе с лозой? :)
+    replies:
+    - id: 15422
+      parent_id: 15421
+      date: 2003-11-06 11:42
+      poster: Val.End
+      email: val. end@gambler.ru
+      subject: Д а, Кот Бегемот играл там на гитаре...
+      deleted: false
+      text: 'Д а, Кот Бегемот играл там на гитаре и примус с ним был.
+
+        А вот, чтоб с лозой ... Не помню.'
+  - id: 15431
+    parent_id: 15412
+    date: 2003-11-07 14:52
+    poster: For
+    email: a_a@hotbox.ru
+    subject: никакой информации в сети,странно
+    deleted: false
+    text: неужели никто не знает?

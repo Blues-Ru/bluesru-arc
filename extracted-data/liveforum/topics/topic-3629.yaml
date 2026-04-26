@@ -1,0 +1,44 @@
+topic_id: 3629
+slug: topic-3629
+title: Есть ли мнения по поводу
+first_post: 2007-05-08 18:11
+last_post: 2007-05-14 18:01
+post_count: 4
+posts:
+- id: 32791
+  parent_id: null
+  date: 2007-05-08 18:11
+  poster: Игорь Головачев (Игорь Г.)
+  email: sunny_city@mail.ru
+  subject: Есть ли мнения по поводу
+  deleted: false
+  text: 'творчества Hubert Sumlin?
+
+    Вот сейчас "поедаю со вкусом" его альбом "About Them Shoes" - ой,хороший!!! собака!!!'
+  replies:
+  - id: 32793
+    parent_id: 32791
+    date: 2007-05-08 19:32
+    poster: Алексей Аграновский (Док)
+    email: aaa@genebee.msu.su
+    subject: Гитарист великий
+    deleted: false
+    text: 'И скромный. Этот альбом мне не близок, честно говоря. Затея: бенефис Самлина
+      с великими мира сего. Что-то получилось, что-то не очень. Сам лин какой-то усталый
+      на этой записи. Но ты меня не слушай, если нравится, значит, хороший.'
+    replies:
+    - id: 32866
+      parent_id: 32793
+      date: 2007-05-14 16:54
+      poster: Старый Майор
+      email: gypsy@mail.ru
+      subject: Док, доживем до возраста Сам Лина, будем тоже усталые от жизни...
+      deleted: false
+      replies:
+      - id: 32868
+        parent_id: 32866
+        date: 2007-05-14 18:01
+        poster: Алексей Аграновский (Док)
+        email: aaa@genebee.msu.su
+        subject: Хотелось бы попробовать...
+        deleted: false

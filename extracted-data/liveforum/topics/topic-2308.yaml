@@ -1,0 +1,34 @@
+topic_id: 2308
+slug: topic-2308
+title: Кто слыхал последний альбом Kenny Wayne Shepherd? В продаже-то он есть? И какие
+  впечатления? Прошлогодний опус от Jonny Lang просто поверг в тупое исступление.
+first_post: 2004-11-04 10:53
+last_post: 2004-11-05 07:45
+post_count: 3
+posts:
+- id: 19746
+  parent_id: null
+  date: 2004-11-04 10:53
+  poster: СЕРЕЖА
+  email: oops@mail.ru
+  subject: Кто слыхал последний альбом Kenny Wayne Shepherd? В продаже-то он есть?
+    И какие впечатления? Прошлогодний опус от Jonny Lang просто поверг в тупое исступление.
+  deleted: false
+  replies:
+  - id: 19747
+    parent_id: 19746
+    date: 2004-11-04 11:13
+    poster: (Grem)
+    email: grems@yandex.ru
+    subject: Такой как и у Jonny.....
+    deleted: false
+    text: Сплошной рок и достаточно тяжелый (наверное кризис переходного возраста).
+      На сайте у Калачева есть фотка.... http://www.bluesnews.ru/notice/?id=1935
+    replies:
+    - id: 19761
+      parent_id: 19747
+      date: 2004-11-05 07:45
+      poster: СЕРЕЖА
+      email: oops@mail.ru
+      subject: Мдааа. Вот 'Live On' нормальная штука была.
+      deleted: false

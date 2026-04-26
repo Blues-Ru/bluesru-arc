@@ -1,0 +1,27 @@
+topic_id: 3300
+slug: topic-3300
+title: А что так тихо на форуме стало. Куда делись яросьные баталии? Тихо стареем
+  что ли?
+first_post: 2006-06-17 21:10
+last_post: 2006-06-18 02:02
+post_count: 2
+posts:
+- id: 27718
+  parent_id: null
+  date: 2006-06-17 21:10
+  poster: Axle
+  email: axledog@mail.ru
+  subject: А что так тихо на форуме стало. Куда делись яросьные баталии? Тихо стареем
+    что ли?
+  deleted: false
+  text: 1 июля призываю всех собраться в парке Лефортово на празднике жизни. Гарантирую
+    нехилый творческий импульс. Постарался все сделать на нужном уровне, с учетом
+    прошлогодних ошибок. :-)
+  replies:
+  - id: 27721
+    parent_id: 27718
+    date: 2006-06-18 02:02
+    poster: Dmitri Kazantsev (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: Все смотрят футбол :)
+    deleted: false

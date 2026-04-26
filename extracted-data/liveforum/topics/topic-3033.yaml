@@ -1,0 +1,41 @@
+topic_id: 3033
+slug: topic-3033
+title: 10-го января в ДУДе будет концерт Дмитрий Калинин (балалайка), Александр Новоселов
+  (гитара-добро) и немножко я (вокал, гитара)...
+first_post: 2006-01-08 15:31
+last_post: 2006-01-08 23:49
+post_count: 4
+posts:
+- id: 25345
+  parent_id: null
+  date: 2006-01-08 15:31
+  poster: Yuri Kaverkin (Gekko)
+  email: kaverkin@rol.ru
+  subject: 10-го января в ДУДе будет концерт Дмитрий Калинин (балалайка), Александр
+    Новоселов (гитара-добро) и немножко я (вокал, гитара)...
+  deleted: false
+  replies:
+  - id: 25357
+    parent_id: 25345
+    date: 2006-01-08 20:35
+    poster: Дмитрий Казанцев (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: слушай,
+    deleted: false
+    text: а Новоселов не любит джемовать? а то давно я не играл с Добро-гитарой...
+    replies:
+    - id: 25361
+      parent_id: 25357
+      date: 2006-01-08 23:35
+      poster: Yuri Kaverkin (Gekko)
+      email: kaverkin@rol.ru
+      subject: Я у него спрошу....
+      deleted: false
+      replies:
+      - id: 25363
+        parent_id: 25361
+        date: 2006-01-08 23:49
+        poster: Дмитрий Казанцев (Dr. Nick)
+        email: dr.nick@blues.ru
+        subject: it's tomorrow
+        deleted: false

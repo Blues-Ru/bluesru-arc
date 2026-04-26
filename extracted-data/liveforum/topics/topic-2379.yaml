@@ -1,0 +1,72 @@
+topic_id: 2379
+slug: topic-2379
+title: Professor Longhair
+first_post: 2005-01-11 15:18
+last_post: 2005-01-13 12:10
+post_count: 6
+posts:
+- id: 20142
+  parent_id: null
+  date: 2005-01-11 15:18
+  poster: Kiktev Sergej (Sergej)
+  email: kiktev@garant-ic.ru
+  subject: Professor Longhair
+  deleted: false
+  text: 'Пожалуйста, скажите что можно и НУЖНО слушать этого человека.
+
+
+    Есть голландский сборник Mojo Gumbo, но там какие-то странные записи: повторяются
+    песни под разными именами, и качество оставляет желать лучшего.
+
+    Помогите разобраться, пожалуйста.'
+  replies:
+  - id: 20144
+    parent_id: 20142
+    date: 2005-01-11 19:08
+    poster: Muddy Lives
+    email: mlives_6@hotmail.com
+    subject: Best Fess
+    deleted: false
+    text: "Мне очень нравится Crawfish Fiesta на Alligator Records.  Professor Longhair\
+      \ в прекрасной форме исполняет свои лучшие песни. Качество звука записи - высокое.\
+      \  Доктор Джон его поддерживает на гитаре.  \n\nКонечно, и очень стоит приобрести\
+      \ его классические записи на Atlantic Records.   \n\nMuddy"
+    replies:
+    - id: 20148
+      parent_id: 20144
+      date: 2005-01-13 09:45
+      poster: Kiktev Sergej (Sergej)
+      email: kiktev@garant-ic.ru
+      subject: Спасибо за ответ
+      deleted: false
+      text: А где можно получить ещё какую-либо информацию об этом человеке.
+      replies:
+      - id: 20149
+        parent_id: 20148
+        date: 2005-01-13 10:09
+        poster: Muddy Lives
+        email: mlives_6@hotmail.com
+        subject: Если знаете английский язык
+        deleted: false
+        text: 'неплохую короткую биографию можно читать здесь:  http://www.jazzitude.com/professor_longhair.htm
+
+
+          Muddy'
+        replies:
+        - id: 20150
+          parent_id: 20149
+          date: 2005-01-13 11:45
+          poster: Kiktev Sergej (Sergej)
+          email: kiktev@garant-ic.ru
+          subject: Спасибо.
+          deleted: false
+          replies:
+          - id: 20151
+            parent_id: 20150
+            date: 2005-01-13 12:10
+            poster: Kiktev Sergej (Sergej)
+            email: kiktev@garant-ic.ru
+            subject: Прочитал
+            deleted: false
+            text: 'Огромное спасибо за ссылку: там не только про Longhair, там ещё
+              и про DR. John и ещё про Jelly Roll Morton. И это я только начал читать.'

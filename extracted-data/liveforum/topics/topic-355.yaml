@@ -1,0 +1,32 @@
+topic_id: 355
+slug: topic-355
+title: Диме Казанцеву. А кто исполняет Pride and Joy?(+)
+first_post: 2002-09-27 14:25
+last_post: 2002-09-27 16:16
+post_count: 3
+posts:
+- id: 7748
+  parent_id: null
+  date: 2002-09-27 14:25
+  poster: Alexander Lokotkov
+  email: alex@fastwel.com
+  subject: Диме Казанцеву. А кто исполняет Pride and Joy?(+)
+  deleted: false
+  text: Во время джема 24 июля в ББК?
+  replies:
+  - id: 7751
+    parent_id: 7748
+    date: 2002-09-27 16:02
+    poster: Дима Казанцев (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: ДК
+    deleted: false
+    text: Его исполняет Доктор Дмитрий Казачков ;)
+    replies:
+    - id: 7755
+      parent_id: 7751
+      date: 2002-09-27 16:16
+      poster: Alexander Lokotkov
+      email: alex@fastwel.com
+      subject: Понятно(-)
+      deleted: false

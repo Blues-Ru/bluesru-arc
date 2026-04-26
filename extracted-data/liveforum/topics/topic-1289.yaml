@@ -1,0 +1,66 @@
+topic_id: 1289
+slug: topic-1289
+title: Оцените ресурс!
+first_post: 2003-07-30 01:44
+last_post: 2003-07-31 18:11
+post_count: 6
+posts:
+- id: 13377
+  parent_id: null
+  date: 2003-07-30 01:44
+  poster: Дима Казанцев (Dr. Nick)
+  email: dr.nick@blues.ru
+  subject: Оцените ресурс!
+  deleted: false
+  text: 'http://www.bsnpubs.com/discog.html
+
+
+    Вот это уже интересно. Лишь бы не исчез.'
+  replies:
+  - id: 13396
+    parent_id: 13377
+    date: 2003-07-31 01:12
+    poster: Andrei V. Evdokimov (evdokimov)
+    email: evdokimov@blues.ru
+    subject: спасибо,
+    deleted: false
+    text: архиполезный ресурс
+    replies:
+    - id: 13400
+      parent_id: 13396
+      date: 2003-07-31 10:41
+      poster: Дима Казанцев (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: Рад
+      deleted: false
+      text: 'что хоть тебе это интересно!
+
+        На двух сайтах дал ссылку, никто даже не пишет ничего; а ведь инфы там море
+        нужной!'
+      replies:
+      - id: 13402
+        parent_id: 13400
+        date: 2003-07-31 12:55
+        poster: Иван Иванов
+        email: ivanoff@blues.nema
+        subject: А море пловцов пугает !  вот был бы прудик :-))
+        deleted: false
+        text: "А сайт супер, таких не часто найти.\nСпасибо.\nА может этот сайт заинтересует\
+          \ :  \n\nhttp://www.oafb.net/onceblu1.html"
+        replies:
+        - id: 13405
+          parent_id: 13402
+          date: 2003-07-31 13:48
+          poster: Дима Казанцев (Dr. Nick)
+          email: dr.nick@blues.ru
+          subject: Интересный сайт
+          deleted: false
+          text: Тока инфы мало ;)
+      - id: 13408
+        parent_id: 13400
+        date: 2003-07-31 18:11
+        poster: Михаил Бирюков (nECKAPb)
+        email: blackcat@blues.ru
+        subject: спакойна!
+        deleted: false
+        text: Хороший сайт, на благо людям. Спасибо!

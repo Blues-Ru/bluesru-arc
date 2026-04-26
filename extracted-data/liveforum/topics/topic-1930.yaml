@@ -1,0 +1,25 @@
+topic_id: 1930
+slug: topic-1930
+title: Robet Johnson
+first_post: 2004-03-15 15:07
+last_post: 2004-03-15 15:58
+post_count: 2
+posts:
+- id: 17593
+  parent_id: null
+  date: 2004-03-15 15:07
+  poster: Zhendoz
+  email: zhendoz@mail.ru
+  subject: Robet Johnson
+  deleted: false
+  text: Кто нибудь знает, можно ли скачать композиции Johnsona в формате мр3 из нета.
+    В моем городе найти его записи невозможно. Если кто-то знает, подкинте пожалуйста
+    ссылочку. Спасибо.
+  replies:
+  - id: 17594
+    parent_id: 17593
+    date: 2004-03-15 15:58
+    poster: Lars
+    email: lars@list.ru
+    subject: http://www.grammy.ru/mp3/Robert%20Johnson.songs
+    deleted: false

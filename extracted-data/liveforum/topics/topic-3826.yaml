@@ -1,0 +1,24 @@
+topic_id: 3826
+slug: topic-3826
+title: а что-нить новенькое где нарыть плизз?
+first_post: 2007-12-10 23:03
+last_post: 2007-12-11 12:24
+post_count: 2
+posts:
+- id: 34111
+  parent_id: null
+  date: 2007-12-10 23:03
+  poster: кэт
+  email: murena-999@mail.ru
+  subject: а что-нить новенькое где нарыть плизз?
+  deleted: false
+  text: а что-нить новенькое где нарыть плизз?
+  replies:
+  - id: 34116
+    parent_id: 34111
+    date: 2007-12-11 12:24
+    poster: Митя
+    email: meis2000@mail.ru
+    subject: Торренты
+    deleted: false
+    text: Я через торренты качаю...

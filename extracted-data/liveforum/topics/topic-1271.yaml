@@ -1,0 +1,28 @@
+topic_id: 1271
+slug: topic-1271
+title: вот так номер! (номер 1)
+first_post: 2003-07-18 18:39
+last_post: 2003-07-20 16:41
+post_count: 2
+posts:
+- id: 13252
+  parent_id: null
+  date: 2003-07-18 18:39
+  poster: Andrei V. Evdokimov (evdokimov)
+  email: evdokimov@blues.ru
+  subject: вот так номер! (номер 1)
+  deleted: false
+  text: 'The #1 album this week is -- are you ready for this? -- Led Zeppelin''s How
+    The West Was Won'
+  replies:
+  - id: 13265
+    parent_id: 13252
+    date: 2003-07-20 16:41
+    poster: Sergei  Kiritchenko (VoID)
+    email: skvoid@mail.ru
+    subject: и в чем интрига? :)
+    deleted: false
+    text: 'Это действительно потрясающий тройник ремастированных концертных записей
+      1972 года легендарной группы.
+
+      Всем рекомендуемо три раза :)'

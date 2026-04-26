@@ -1,0 +1,46 @@
+topic_id: 3444
+slug: topic-3444
+title: просьбa найти программу
+first_post: 2006-10-13 12:42
+last_post: 2006-10-13 18:07
+post_count: 3
+posts:
+- id: 29106
+  parent_id: null
+  date: 2006-10-13 12:42
+  poster: Эльдар
+  email: elicaster мeйлтoчкapy
+  subject: просьбa найти программу
+  deleted: false
+  text: 'Есть просьба:
+
+    Ко мне товарищ обратился с просьбой найти в Интернете программу Lateral Solution
+    Guitar Synth v2.0, дело в том что у меня есть доступ в Интернет (что чуть ли не
+    роскошь у нас). Так вот, нигде не могу найти её, только кряки к ней. Странно что
+    даже сайта производителя не нашёл...
+
+    Не подскажите ли где ссылку найти, иль сайт производителя.
+
+    Буду премного благодарен.'
+  replies:
+  - id: 29107
+    parent_id: 29106
+    date: 2006-10-13 16:54
+    poster: Danery
+    email: danery@yandex.ru
+    subject: Guitar Synth
+    deleted: false
+    text: Лови ссылочку http://dc.ultimanet.ru/findit/list.php?sid=1&path=81fec11e38f7a6c964088df4f4b105a5
+    replies:
+    - id: 29108
+      parent_id: 29107
+      date: 2006-10-13 18:07
+      poster: Эльдар
+      email: еlicaster мeйлтoчкapy
+      subject: Ссылка не работает :-(
+      deleted: false
+      text: 'Да, я на эту ссылку тоже вчера нарвался, но она не пашет :(((
+
+        Друг, может что ещё сможешь найти.
+
+        Anyway, Спасибо даже за эту ссылочку.'

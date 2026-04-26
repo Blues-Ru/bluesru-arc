@@ -1,0 +1,42 @@
+topic_id: 1425
+slug: topic-1425
+title: Muddy Waters Live?
+first_post: 2003-09-02 21:49
+last_post: 2003-09-03 01:59
+post_count: 3
+posts:
+- id: 14042
+  parent_id: null
+  date: 2003-09-02 21:49
+  poster: Дима Казанцев (Dr. Nick)
+  email: dr.nick@blues.ru
+  subject: Muddy Waters Live?
+  deleted: false
+  text: 'У меня вот этот лайв на виниле:
+
+    http://www.allmusic.com/cg/amg.dll?p=amg&uid=MISS70309021331&sql=A8srx284r05na
+
+
+    Chess-LP 114
+
+
+    Какой год записи? Кто знает?
+
+    Этот лайв в Mister Kelly''s. Около 1971-го?'
+  replies:
+  - id: 14050
+    parent_id: 14042
+    date: 2003-09-03 01:20
+    poster: Михаил Бирюков (nECKAPb)
+    email: blackcat@blues.ru
+    subject: это...
+    deleted: false
+    text: '...июнь 1971-го.'
+    replies:
+    - id: 14053
+      parent_id: 14050
+      date: 2003-09-03 01:59
+      poster: Дима Казанцев (Dr. Nick)
+      email: dr.nick@blues.ru
+      subject: спасибо!
+      deleted: false

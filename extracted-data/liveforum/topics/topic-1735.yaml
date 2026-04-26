@@ -1,0 +1,30 @@
+topic_id: 1735
+slug: topic-1735
+title: новости о "Svet & Al Boogie Band"
+first_post: 2003-12-29 17:11
+last_post: 2003-12-29 18:09
+post_count: 2
+posts:
+- id: 16535
+  parent_id: null
+  date: 2003-12-29 17:11
+  poster: baltika
+  email: baltika-blues@yandex.ru
+  subject: новости о "Svet & Al Boogie Band"
+  deleted: false
+  text: 'http://www.svet-al.blues.ru
+
+    На сайте полностью обновлён дизайн! Имхо получилось очень здОрово!
+
+    Сходите, посмотрите, зацените сами.
+
+    С Наступающим вас, господа!'
+  replies:
+  - id: 16536
+    parent_id: 16535
+    date: 2003-12-29 18:09
+    poster: Sergei  Kiritchenko (VoID)
+    email: skvoid@mail.ru
+    subject: отличный, надо заметить, дизайн...
+    deleted: false
+    text: "рад за ребят! \nС Наступающим вас, дамы и господа!"

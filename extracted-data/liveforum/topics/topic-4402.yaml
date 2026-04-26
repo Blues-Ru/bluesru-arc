@@ -1,0 +1,86 @@
+topic_id: 4402
+slug: topic-4402
+title: Подскажите новичку в блюзе, что слушать.
+first_post: 2010-06-29 20:27
+last_post: 2010-07-02 03:17
+post_count: 6
+posts:
+- id: 36970
+  parent_id: null
+  date: 2010-06-29 20:27
+  poster: TramHijacker
+  subject: Подскажите новичку в блюзе, что слушать.
+  deleted: false
+  text: 'Доброе время суток, уважаемые ценители блюза:)
+
+    Мне хочется послушать хорошего _акустического_ блюза, желательно, чтоб вообще
+    только одна гитара и один вокалист. Что можете посоветовать хорошего?
+
+
+    P.S. Роберта Джонсона и Мадди Уотерса слышал, хочется больше:)'
+  replies:
+  - id: 36971
+    parent_id: 36970
+    date: 2010-06-30 11:52
+    poster: ilya
+    subject: акустика
+    deleted: false
+    text: 'Рекомендую TramHijacker
+
+      Honeyboy Edvards
+
+      Mississippi John Heart
+
+      Rev.Gary Davis
+
+      John Lee Hooker (alone)
+
+      Tony TS McPhee пластинку Slide to Slide,это solo project гитаристa из Groundhogs
+
+      Илья'
+    replies:
+    - id: 36974
+      parent_id: 36971
+      date: 2010-07-01 09:15
+      poster: Вова
+      subject: Hooker
+      deleted: false
+      text: 'Хукер все-таки скорее электрический блюз
+
+        акустика у него канешно есть, в ранний период - до Детройта, но молодой Хукер,
+        на мой взгляд, не очень интересен - очень шумный и голос без характерного
+        дрожания, а старческий голос - это 90% хукеровского обаяния'
+  - id: 36972
+    parent_id: 36970
+    date: 2010-07-01 01:00
+    poster: Федор Романенко
+    subject: old-blues.ru
+    deleted: false
+    text: "Из современных мне еще нравится Corey Haris. \n\nВообще, полный список\
+      \ есть у Пескаря на \n\nhttp://old-blues.ru\n\nТолько там более 100 артистов,\
+      \ без посторонней помощи можно и не разобраться."
+  - id: 36973
+    parent_id: 36970
+    date: 2010-07-01 08:58
+    poster: Вова
+    subject: ещё акустика
+    deleted: false
+    text: 'Tommy Johnson
+
+      Son House
+
+      Pink Anderson
+
+      Mississippi Fred McDowell
+
+
+      у Luther Allison есть отличный акустический альбом
+
+      Hand Me Down My Moonshine (1994)'
+  - id: 36975
+    parent_id: 36970
+    date: 2010-07-02 03:17
+    poster: TramHijacker
+    subject: Спасибо)
+    deleted: false
+    text: Спасибо за советы!:)

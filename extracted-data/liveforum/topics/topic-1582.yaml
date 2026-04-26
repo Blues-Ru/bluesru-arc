@@ -1,0 +1,92 @@
+topic_id: 1582
+slug: topic-1582
+title: Не лепо ли ны бяшеть, братие,
+first_post: 2003-11-19 16:51
+last_post: 2003-11-21 12:33
+post_count: 9
+posts:
+- id: 15599
+  parent_id: null
+  date: 2003-11-19 16:51
+  poster: Алексей Аграновский (Док)
+  email: aaa@genebee.msu.su
+  subject: Не лепо ли ны бяшеть, братие,
+  deleted: false
+  text: 'поздравить Старого Майора с днем рождения?
+
+    Андрей, здоровья тебе и творческих успехов!'
+  replies:
+  - id: 15607
+    parent_id: 15599
+    date: 2003-11-19 18:21
+    poster: Игорь Г.
+    email: sunny_city@mail.ru
+    subject: Праздничный залп из всех орудий. И троекратное УРА !!!
+    deleted: false
+    text: Здоровья,счастья,желания(в смысле чтоб не пропадало :))) )и не давай ржаветь
+      струнам.
+    replies:
+    - id: 15616
+      parent_id: 15607
+      date: 2003-11-19 22:43
+      poster: Старый Майор
+      email: gypsy@mail.ru
+      subject: Служу отечественному блюзу!!! )))
+      deleted: false
+      text: а Советскому Союзу я уже отслужил.. ))
+      replies:
+      - id: 15620
+        parent_id: 15616
+        date: 2003-11-20 00:48
+        poster: Федор Романенко (fedor)
+        email: fedor@blues.ru
+        subject: Поздравляем!
+        deleted: false
+        text: Творческих успехов! ;))
+  - id: 15621
+    parent_id: 15599
+    date: 2003-11-20 00:57
+    poster: Дима Казанцев (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: Будь здоров!
+    deleted: false
+    text: И продолжай играть на гитаре!
+  - id: 15640
+    parent_id: 15599
+    date: 2003-11-20 02:01
+    poster: Юрий Каверкин (Gekko)
+    email: kaverkin@rol.ru
+    subject: Хаппи БёрдзДей Ту Ю!
+    deleted: false
+  - id: 15655
+    parent_id: 15599
+    date: 2003-11-20 03:55
+    poster: Александр Мальчевский (Tonny)
+    email: heavyfuel@mtu-net.ru
+    subject: Троекратное ура....
+    deleted: false
+    text: 'И долгие аплодисменты....
+
+
+      Андрей, здоровья, счастья и всего всего...'
+  - id: 15704
+    parent_id: 15599
+    date: 2003-11-20 21:00
+    poster: Дмитрий(fan)
+    email: Leondmitr@freemail.ru
+    subject: Старшой сержант запасу Загорулько...
+    deleted: false
+    text: 'Скромно присоединяется к поздравлениям!
+
+      Надеюсь когда-нить услышать Старого Майора живьем, а не тока встречаться на
+      Форуме!
+
+      Долгих лет, хорошей музыки, здоровья и всех благ!'
+  - id: 15740
+    parent_id: 15599
+    date: 2003-11-21 12:33
+    poster: Андрей Ордальонов (Андрей PRG)
+    email: peregnoy@mail.ru
+    subject: Ну, такысь..
+    deleted: false
+    text: присоединяюсь. АНдрюш, с днём варенья тебя и всего-всего-всего! :)

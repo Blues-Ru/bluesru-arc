@@ -1,0 +1,43 @@
+topic_id: 2180
+slug: topic-2180
+title: Фильм "Перекресток"
+first_post: 2004-07-19 12:22
+last_post: 2004-07-20 00:45
+post_count: 3
+posts:
+- id: 18985
+  parent_id: null
+  date: 2004-07-19 12:22
+  poster: Владимир
+  email: vroisman@mail.ru
+  subject: Фильм "Перекресток"
+  deleted: false
+  text: 'Кто-нибудь может подсказать где можно найти фильм "Перекресток" на DVD на
+    английском (у меня идет на немецком языке с переводом на русский)?
+
+
+    Буду весьма.'
+  replies:
+  - id: 18988
+    parent_id: 18985
+    date: 2004-07-20 00:40
+    poster: Вадим  (aVa)
+    email: vad2908@mail.ru
+    subject: в Питере есть ...
+    deleted: false
+    text: 'в маг. на Большом пр. ПС (дом 62)
+
+      на болванке - запись с НТВ+ - стерео - англ / русс
+
+      цена = 200р.
+
+      (сам там покупал)'
+  - id: 18989
+    parent_id: 18985
+    date: 2004-07-20 00:45
+    poster: vr  (Stone Crazy)
+    email: volodya@blues.ru
+    subject: у меня есть.
+    deleted: false
+    text: "в Москве. в вполне качественном Divx на английском. \nмогу записать или\
+      \ дать слить. \n\nобо всем пишите емылом :)"

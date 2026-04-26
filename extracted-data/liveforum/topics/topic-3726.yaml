@@ -1,0 +1,27 @@
+topic_id: 3726
+slug: topic-3726
+title: John Mooney !!!
+first_post: 2007-08-26 05:31
+last_post: 2007-08-26 11:48
+post_count: 2
+posts:
+- id: 33408
+  parent_id: null
+  date: 2007-08-26 05:31
+  poster: Dmitri Kazantsev (Dr. Nick)
+  email: dr.nick@blues.ru
+  subject: John Mooney !!!
+  deleted: false
+  text: 'http://www.blues.ru/data/albumview.aspx?cdid=1081
+
+
+    давно так не кайфовал !!!'
+  replies:
+  - id: 33410
+    parent_id: 33408
+    date: 2007-08-26 11:48
+    poster: Andrei V. Evdokimov (evdokimov)
+    email: evdokimov@blues.ru
+    subject: да он вообще парень хоть куда!
+    deleted: false
+    text: не слыхал пока что у него плохих альбомов. (знамо дело, слышал не все)

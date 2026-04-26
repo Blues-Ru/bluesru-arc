@@ -1,0 +1,64 @@
+topic_id: 1368
+slug: topic-1368
+title: Во !!
+first_post: 2003-08-22 15:28
+last_post: 2003-08-23 11:17
+post_count: 6
+posts:
+- id: 13806
+  parent_id: null
+  date: 2003-08-22 15:28
+  poster: Daniil Jeshkov (Ji][v][i)
+  email: jimi@opfr.spb.ru
+  subject: Во !!
+  deleted: false
+  text: 'http://net.unl.edu/musicFeat/backstage/movies/shoefits.mov
+
+    http://net.unl.edu/musicFeat/backstage/movies/littlegirl.mov
+
+
+    ;)))'
+  replies:
+  - id: 13809
+    parent_id: 13806
+    date: 2003-08-22 16:55
+    poster: Федор Романенко (fedor)
+    email: fedor@blues.ru
+    subject: Piazza
+    deleted: false
+    text: Там еще есть кино с Rod Piazza. Сейчас скачаю... ;)
+  - id: 13814
+    parent_id: 13806
+    date: 2003-08-22 23:27
+    poster: Daniil Jeshkov (Ji][v][i)
+    email: jimi@opfr.spb.ru
+    subject: А чё там за гитарист с ним???
+    deleted: false
+    replies:
+    - id: 13827
+      parent_id: 13814
+      date: 2003-08-23 04:04
+      poster: Федор Романенко (fedor)
+      email: fedor@blues.ru
+      subject: Угадай с трех раз
+      deleted: false
+      text: Разумеется, Rick Holmstrom. Узнается по ушам и гитарному стилю. Но, конечно,
+        бездуховности полно ;) Особенно от рояля ;) Но звучит хорошо ;))
+      replies:
+      - id: 13829
+        parent_id: 13827
+        date: 2003-08-23 10:34
+        poster: Daniil Jeshkov (Ji][v][i)
+        email: jimi@opfr.spb.ru
+        subject: А мне его не скачать ж) дай ссылку то...
+        deleted: false
+        text: спасибо! ж)
+        replies:
+        - id: 13830
+          parent_id: 13829
+          date: 2003-08-23 11:17
+          poster: vr  (Stone Crazy)
+          email: volodya@blues.ru
+          subject: ссылка вот
+          deleted: false
+          text: http://net.unl.edu/musicFeat/backstage/movies/piazza1_LAN.mov

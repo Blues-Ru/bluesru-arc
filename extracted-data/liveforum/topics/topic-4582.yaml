@@ -1,0 +1,48 @@
+topic_id: 4582
+slug: topic-4582
+title: клавишники в блюзе
+first_post: 2011-04-15 13:11
+last_post: 2011-04-16 05:21
+post_count: 5
+posts:
+- id: 37635
+  parent_id: null
+  date: 2011-04-15 13:11
+  poster: Эльдар
+  subject: клавишники в блюзе
+  deleted: false
+  text: 'товарищ спрашивает:
+
+    <i>кто именно на клавишах блюз играет? посоветуй клавишника послушать....плз...</i>
+
+    я в клавишниках далеко не спец. пожалуйста, помогите с именами.'
+  replies:
+  - id: 37636
+    parent_id: 37635
+    date: 2011-04-15 15:02
+    poster: Andrei V. Evdokimov
+    subject: клавишники
+    deleted: false
+    text: пайнто перкинс, отис спэн, новоорлеанские дядьки... брюс катц из белых.
+  - id: 37637
+    parent_id: 37635
+    date: 2011-04-15 15:43
+    poster: Старый Майор
+    subject: Список блюзовых пианистов
+    deleted: false
+    text: http://en.wikipedia.org/wiki/Category:American_blues_pianists
+    replies:
+    - id: 37639
+      parent_id: 37637
+      date: 2011-04-16 03:46
+      poster: Эльдар
+      subject: Ike Turner
+      deleted: false
+      text: ого! я и не знал что он и пианист...
+      replies:
+      - id: 37640
+        parent_id: 37639
+        date: 2011-04-16 05:21
+        poster: Dmitri Kazantsev
+        subject: еще какой!
+        deleted: false

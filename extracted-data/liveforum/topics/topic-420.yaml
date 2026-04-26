@@ -1,0 +1,72 @@
+topic_id: 420
+slug: topic-420
+title: Efes Pilsner Blues Festival
+first_post: 2002-10-21 17:14
+last_post: 2002-10-23 19:04
+post_count: 6
+posts:
+- id: 8440
+  parent_id: null
+  date: 2002-10-21 17:14
+  poster: Castilias
+  email: gfjf
+  subject: Efes Pilsner Blues Festival
+  deleted: false
+  text: 'сколько времени выступает каждый коллектив ?
+
+    Вообще, сколько длится коцерт?
+
+    Надеюсь к 7 ому со звуком разбирутся
+
+    В Дружбе всегда был отвратный звук'
+  replies:
+  - id: 8441
+    parent_id: 8440
+    date: 2002-10-21 20:55
+    poster: Федор Романенко (fedor)
+    email: fedor@blues.ru
+    subject: Фестиваль
+    deleted: false
+    text: 'Каждый коллектив выступает час-полтора примерно, каждый день одна и та
+      же программа.
+
+      И еще раз, на всякий случай, предупреждение всем. Билеты лучше покупать заранее!
+      Я не знаю, какого размера эта Дружба, но с МДМ все 3 прошедших года были проблемы
+      с билетами, они все до одного распродавались заранее...'
+    replies:
+    - id: 8463
+      parent_id: 8441
+      date: 2002-10-22 13:39
+      poster: Андрей PRG
+      email: peregnoy@mail.ru
+      subject: И несмотря на это,
+      deleted: false
+      text: по рассказам очевидцев, с рук потом продавались пачками. Причём чуть  ли
+        не дешевле кассово
+    - id: 8464
+      parent_id: 8441
+      date: 2002-10-22 13:41
+      poster: Андрей PRG
+      email: peregnoy@mail.ru
+      subject: Пардон, видно пальцы с холоду пухнут ;)
+      deleted: false
+      text: '... кассовой цены. Это правда или враки?'
+      replies:
+      - id: 8465
+        parent_id: 8464
+        date: 2002-10-22 14:35
+        poster: Дмитрий Казачков (Доктор)
+        email: kazachkov@medsi.ru
+        subject: Билеты
+        deleted: false
+        text: ПОка я шел от метро предлагали билеты втридорога, но я дощел до кассы
+          и без проблем купил. Так было, по-моему, в позепрошлом году.
+  - id: 8473
+    parent_id: 8440
+    date: 2002-10-23 19:04
+    poster: Castilias
+    email: srhfd
+    subject: 7oe
+    deleted: false
+    text: скупил все билеты на 7 в центре. Пойдём группой в 20-30 человек! БЕРЕГИСЬ
+      ДРУЖБА.ДАЁШЬ БЛЮЗ

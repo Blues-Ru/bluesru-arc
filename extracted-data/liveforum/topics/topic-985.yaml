@@ -1,0 +1,24 @@
+topic_id: 985
+slug: topic-985
+title: Закрытие blues.ru
+first_post: 2002-04-02 12:27
+last_post: 2002-04-02 12:29
+post_count: 2
+posts:
+- id: 3208
+  parent_id: null
+  date: 2002-04-02 12:27
+  poster: Сергей  Бабаев (Benjamin)
+  email: ben2jamm@yahoo.com
+  subject: Закрытие blues.ru
+  deleted: false
+  text: По поводу закрытия сайта:это была первоапрельская шутка или правда?
+  replies:
+  - id: 3210
+    parent_id: 3208
+    date: 2002-04-02 12:29
+    poster: Дима Казанцев (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: It was a joke
+    deleted: false
+    text: Come on, boy, read it all again :)

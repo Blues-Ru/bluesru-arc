@@ -1,0 +1,58 @@
+topic_id: 911
+slug: topic-911
+title: '"Джазофрения", Busk...'
+first_post: 2002-05-30 20:52
+last_post: 2002-05-30 23:54
+post_count: 5
+posts:
+- id: 4838
+  parent_id: null
+  date: 2002-05-30 20:52
+  poster: Андрей PRG
+  email: peregnoy@mail.ru
+  subject: '"Джазофрения", Busk...'
+  deleted: false
+  text: 'Что Игорь Бутман нам расскажет?
+
+    "Джазофрения" ль нам покажет
+
+    как рокабилли Бюск играет?
+
+    Ведь пятница почти уж наступает... :)'
+  replies:
+  - id: 4839
+    parent_id: 4838
+    date: 2002-05-30 21:02
+    poster: Федор Романенко (fedor)
+    email: fedor@blues.ru
+    subject: Так уж показали на прошлой неделе...
+    deleted: false
+    replies:
+    - id: 4842
+      parent_id: 4839
+      date: 2002-05-30 22:25
+      poster: Андрей PRG
+      email: peregnoy@mail.ru
+      subject: Хе! То было то, а то это ;)
+      deleted: false
+      text: А что, на московских концертах Видара вообще не снимали? ;0
+      replies:
+      - id: 4845
+        parent_id: 4842
+        date: 2002-05-30 22:37
+        poster: Федор Романенко (fedor)
+        email: fedor@blues.ru
+        subject: Нет, не снимали.............
+        deleted: false
+        text: Ваащето, это как бы запрещено. А видео в прошлой джазофрении было с
+          DVD-диска - гитарной школы Бюска.
+        replies:
+        - id: 4848
+          parent_id: 4845
+          date: 2002-05-30 23:54
+          poster: Андрей PRG
+          email: peregnoy@mail.ru
+          subject: Печально, однако :(
+          deleted: false
+          text: А "как бы запрещено" - это запрещено или 'типа запрещено', но если
+            очень хоца, то можно? ;)

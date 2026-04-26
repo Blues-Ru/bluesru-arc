@@ -1,0 +1,32 @@
+topic_id: 770
+slug: topic-770
+title: а чего это не все комменты видно?
+first_post: 2003-04-18 11:24
+last_post: 2003-04-18 17:03
+post_count: 3
+posts:
+- id: 11926
+  parent_id: null
+  date: 2003-04-18 11:24
+  poster: Сергей Иванов (serge_ivanov)
+  email: serge_ivanov@hotmail.com
+  subject: а чего это не все комменты видно?
+  deleted: false
+  text: некоторые видны только если зайти в тему и нажать ВСЯ ТЕМА
+  replies:
+  - id: 11927
+    parent_id: 11926
+    date: 2003-04-18 14:07
+    poster: Ded Morozzz
+    email: morozzz_ded@mail.ru
+    subject: Точно, есть такая байда...
+    deleted: false
+    replies:
+    - id: 11930
+      parent_id: 11927
+      date: 2003-04-18 17:03
+      poster: Дима Казанцев (Казан)
+      email: dr.nick@blues.ru
+      subject: Точно есть!
+      deleted: false
+      text: И я уже жаловался на это!

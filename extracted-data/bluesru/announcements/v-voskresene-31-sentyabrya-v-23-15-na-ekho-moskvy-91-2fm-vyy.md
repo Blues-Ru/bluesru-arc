@@ -1,0 +1,8 @@
+---
+id: 354
+slug: v-voskresene-31-sentyabrya-v-23-15-na-ekho-moskvy-91-2fm-vyy
+title: null
+date: 2003-08-31 00:00
+---
+
+В воскресенье 31 сентября в 23:15 на Эхо Москвы 91.2FM выйдет вторая передача <b><a href="/atb/">Весь Этот Блюз</a></b> о <b>Jimmy D.Lane</b> (США) - детство, отрочество, юность: <a href="/atb/ra/Lane_21.ram"><b>часть I</b></a> & <a href="/atb/ra/Lane_22.ram"><b>часть II.</b></a>.

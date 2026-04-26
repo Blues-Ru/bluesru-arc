@@ -1,0 +1,89 @@
+topic_id: 2089
+slug: topic-2089
+title: Лига Блюза
+first_post: 2004-05-08 15:16
+last_post: 2004-05-13 11:03
+post_count: 9
+posts:
+- id: 18381
+  parent_id: null
+  date: 2004-05-08 15:16
+  poster: finger
+  email: zimadimin@rambler.ru
+  subject: Лига Блюза
+  deleted: false
+  text: Народ, всем привет, помогите найти "Лигу Блюза", хотим организовать их концерт
+    в Калининграде. Помогите контактами. Я так понял сайта у них нет. Можно на мыло
+    zimadimin@rambler.ru
+  replies:
+  - id: 18382
+    parent_id: 18381
+    date: 2004-05-08 15:18
+    poster: vr  (Stone Crazy)
+    email: volodya@blues.ru
+    subject: лига блюза давно уже не существует.
+    deleted: false
+    text: У Арутюнова фанк-проект.
+    replies:
+    - id: 18383
+      parent_id: 18382
+      date: 2004-05-08 15:21
+      poster: finger
+      email: zimadimin@rambler.ru
+      subject: опаньки
+      deleted: false
+      text: А чего за проект? Как связаться.
+      replies:
+      - id: 18403
+        parent_id: 18383
+        date: 2004-05-11 10:55
+        poster: Владимир  Ройзман (Владимир)
+        email: vroisman@mail.ru
+        subject: Как связаться
+        deleted: false
+        text: 'Пока можете писать на мой адрес vroisman@mail.ru. А в ближайшее время
+          появиться адрес на сайте Николая: www.arutunov.ru'
+  - id: 18391
+    parent_id: 18381
+    date: 2004-05-09 01:08
+    poster: Andrei V. Evdokimov (evdokimov)
+    email: evdokimov@blues.ru
+    subject: свяжем
+    deleted: false
+    text: я передам емейл
+    replies:
+    - id: 18395
+      parent_id: 18391
+      date: 2004-05-09 23:14
+      poster: Andrei V. Evdokimov (evdokimov)
+      email: evdokimov@blues.ru
+      subject: Арутюнов-Ру
+      deleted: false
+      text: http://arutunov.ru/
+      replies:
+      - id: 18400
+        parent_id: 18395
+        date: 2004-05-10 18:32
+        poster: Андрей Ордальонов (Андрей PRG)
+        email: peregnoy@mail.ru
+        subject: Ну, наконец-то!
+        deleted: false
+        text: Николай созрел! И это очень приятно! :)))
+  - id: 18424
+    parent_id: 18381
+    date: 2004-05-13 11:03
+    poster: Владимир  Ройзман (Владимир)
+    email: vroisman@mail.ru
+    subject: Сайт Арутюнова
+    deleted: false
+    text: До конца недели на сайте должна появиться контактная информация, а также
+      пройдут обновления.
+  - id: 18425
+    parent_id: 18381
+    date: 2004-05-13 11:03
+    poster: Владимир  Ройзман (Владимир)
+    email: vroisman@mail.ru
+    subject: Сайт Арутюнова
+    deleted: false
+    text: До конца недели на сайте должна появиться контактная информация, а также
+      пройдут обновления.

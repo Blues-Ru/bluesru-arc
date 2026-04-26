@@ -1,0 +1,58 @@
+topic_id: 298
+slug: topic-298
+title: Blues Hammer Band
+first_post: 2002-08-23 19:58
+last_post: 2002-08-24 14:15
+post_count: 5
+posts:
+- id: 7124
+  parent_id: null
+  date: 2002-08-23 19:58
+  poster: Карла
+  email: aaa@aa.aa
+  subject: Blues Hammer Band
+  deleted: false
+  text: 'Привет!
+
+    Не могу найти ни в одной афише объявления о выступлении Blues Hammer Band... Неужели
+    они не выступают?!'
+  replies:
+  - id: 7129
+    parent_id: 7124
+    date: 2002-08-23 22:40
+    poster: Федор Романенко (fedor)
+    email: fedor@blues.ru
+    subject: Blues Hammer Band
+    deleted: false
+    text: Как известно, Петрович с Садиковым разошлись, поэтому группы вроде бы и
+      нет такой уже. Сейчас Садиков играет с Женей Лепихиным из Джема в Lonesome Blues
+      Band.
+    replies:
+    - id: 7131
+      parent_id: 7129
+      date: 2002-08-23 23:06
+      poster: Карла
+      email: aaa@aa.aa
+      subject: Blues Hammer Band
+      deleted: false
+      text: Упс... А что с Петровичем?
+      replies:
+      - id: 7135
+        parent_id: 7131
+        date: 2002-08-24 11:13
+        poster: vintage
+        email: chern@ints.ru
+        subject: BHB больше не будет
+        deleted: false
+        text: 'Он в надежном месте :-))
+
+          время еще не пришло...'
+        replies:
+        - id: 7136
+          parent_id: 7135
+          date: 2002-08-24 14:15
+          poster: Карла
+          email: aaa@aa.aa
+          subject: А всего год назад было так здорово...
+          deleted: false
+          text: Или это был сон...

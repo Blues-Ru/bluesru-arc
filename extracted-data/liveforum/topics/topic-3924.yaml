@@ -1,0 +1,45 @@
+topic_id: 3924
+slug: topic-3924
+title: Умер Бадди Майлз
+first_post: 2008-02-28 10:40
+last_post: 2008-03-05 10:38
+post_count: 4
+posts:
+- id: 34809
+  parent_id: null
+  date: 2008-02-28 10:40
+  poster: Arsen
+  email: rag@mail.ru
+  subject: Умер Бадди Майлз
+  deleted: false
+  text: 'Buddy Miles  9/5/1947 – 2/26/2008
+
+    Legendary Drummer Buddy Miles  passed away this Tuesday, peacefully at  his home
+    in Austin, TX. He was (60) sixty years old. He suffered from  congestive heart
+    failure but the official cause of death is not known.'
+  replies:
+  - id: 34813
+    parent_id: 34809
+    date: 2008-02-28 11:49
+    poster: Dmitri Kazantsev (Dr. Nick)
+    email: dr.nick@blues.ru
+    subject: ой блииин
+    deleted: false
+    text: мой любимый
+  - id: 34845
+    parent_id: 34809
+    date: 2008-03-03 21:12
+    poster: ЕВГЕНИЙ
+    email: jane.52@list.ru
+    subject: REMEMBER
+    deleted: false
+    text: ЖАЛЬ ОЧЕНЬ.ТАКИХ БОЛЬШЕ НЕБУДЕТ.
+  - id: 34858
+    parent_id: 34809
+    date: 2008-03-05 10:38
+    poster: Игорь
+    email: degtiariouk@hotmail.com
+    subject: comment
+    deleted: false
+    text: Уходят барабанщики... Нет русских Матвеева и Хащенко. Нет и Майлза - одного
+      из последних соратников Хендрикса. Земля им пухом...

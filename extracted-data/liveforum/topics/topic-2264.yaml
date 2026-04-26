@@ -1,0 +1,57 @@
+topic_id: 2264
+slug: topic-2264
+title: Концерт имени Дня Рождения MAGIC
+first_post: 2004-10-10 16:14
+last_post: 2004-10-16 14:53
+post_count: 6
+posts:
+- id: 19444
+  parent_id: null
+  date: 2004-10-10 16:14
+  poster: Magic  (Guitaristka)
+  email: gruppamagic@narod.ru
+  subject: Концерт имени Дня Рождения MAGIC
+  deleted: false
+  text: 11 октября 2004г., понедельник.Клуб Швайн (м. Бауманская, Лефортовский пер,
+    12, рядом с рынком.) Концерт имени Дня Рождения московской женской рок-н-рольной
+    группы MAGIC. Вход 150 рублей. Начало в 22:00. Приглашаем на пятилетие девушек!
+  replies:
+  - id: 19452
+    parent_id: 19444
+    date: 2004-10-11 15:34
+    poster: Старый Майор
+    email: gypsy@mail.ru
+    subject: Ночной концерт с участием пятилетних девушек ... гм...
+    deleted: false
+    replies:
+    - id: 19457
+      parent_id: 19452
+      date: 2004-10-12 06:40
+      poster: Magic  (Guitaristka)
+      email: gruppamagic@narod.ru
+      subject: Вашими бы устами. А то нолики...нолики..
+      deleted: false
+  - id: 19464
+    parent_id: 19444
+    date: 2004-10-12 21:06
+    poster: Старый Майор
+    email: gypsy@mail.ru
+    subject: Какие-такие нолики??? Моя не понимать...
+    deleted: false
+    replies:
+    - id: 19465
+      parent_id: 19464
+      date: 2004-10-13 05:44
+      poster: Magic  (Guitaristka)
+      email: gruppamagic@narod.ru
+      subject: Ну если прямым текстом, то полтинники, полтинники...Каждой уж по полтиннику,
+        а все пятилетние...
+      deleted: false
+      replies:
+      - id: 19481
+        parent_id: 19465
+        date: 2004-10-16 14:53
+        poster: Старый Майор
+        email: gypsy@mail.ru
+        subject: Да ладно-то на ся наговаривать.. вы исчо девчонки хоть куда =))
+        deleted: false
