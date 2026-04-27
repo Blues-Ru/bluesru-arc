@@ -1,0 +1,32 @@
+slug: blues-news-spring-2003
+canonical_date: 2003-03
+title: Блюз-новости весны 2003
+type: custom
+exclude: true
+path: 03Spring
+photo_count: 6
+captioned: false
+description: ATB Blues News, весна 2003.
+index_files:
+- 03Spring.htm
+- AM-bbk.html
+- index.html
+photos:
+- file: aDSCN0001.jpg
+  thumb: tn_aDSCN0001.jpg
+  page_html: aDSCN0001.html
+- file: aDSCN0002.jpg
+  thumb: tn_aDSCN0002.jpg
+  page_html: aDSCN0002.html
+- file: aDSCN0005.jpg
+  thumb: tn_aDSCN0005.jpg
+  page_html: aDSCN0005.html
+- file: aDSCN0007.jpg
+  thumb: tn_aDSCN0007.jpg
+  page_html: aDSCN0007.html
+- file: aDSCN0009.jpg
+  thumb: tn_aDSCN0009.jpg
+  page_html: aDSCN0009.html
+- file: back.jpg
+  thumb: tn_back.jpg
+  page_html: back.html

@@ -1,0 +1,27 @@
+slug: blues-news-july-2000
+canonical_date: 2000-07
+title: Блюз-новости июля 2000
+type: custom
+exclude: true
+path: 00July
+photo_count: 11
+captioned: true
+description: 'ATB Blues News, июль 2000: Buena Vista Social Club, новости из мира блюза.'
+index_files:
+- 00Jul.htm
+- 00Jul_BV.htm
+- 00Jul_Maxw.htm
+- 00Jul_billb.htm
+photos:
+- file: 00PL.jpg
+  caption: Петрович и Paul Lamb в московском саду &quot;Эрмитаж&quot;
+- file: atbLight.jpg
+- file: atbtile.jpg
+- file: atbtileL.jpg
+- file: bluesru.jpg
+- file: buena.jpg
+- file: buena_vista1.jpg
+- file: buena_vista2.jpg
+- file: buena_vista3.jpg
+- file: buennaa.jpg
+- file: zbrownCh.jpg

@@ -57,26 +57,68 @@ BEEFHEART  = CONTENT / "beefheart"
 ETHNOTRIP  = CONTENT / "ethnotrip"
 ZAPPAZUHOI = CONTENT / "zappazuhoi"
 # Calendar images: prefer committed copy inside ARC, fall back to workspace
-CAL_IMGS   = (ARC / "blues-calendar") if (ARC / "blues-calendar").exists() \
-             else (_ws_root / "blues-calendar")
+CAL_IMGS   = next((d for d in [ARC / "calendar", ARC / "blues-calendar", _ws_root / "blues-calendar"] if d.exists()), ARC / "calendar")
 
 # Extracted data: prefer inside ARC (for CF Pages), fall back to workspace
-_extracted_local = _ws_root / "extracted-data"
-_extracted_arc   = ARC / "extracted-data"
-EXTRACTED        = _extracted_arc if _extracted_arc.exists() else _extracted_local
-ARTISTS_YAML    = EXTRACTED / "blues-data" / "artists.yaml"
-ALBUMS_DIR      = EXTRACTED / "blues-data" / "albums"
-REVIEWS_DIR     = EXTRACTED / "blues-data" / "reviews"
-EVENTS_DIR      = EXTRACTED / "blues-data" / "events"
-ANNOUNCE_DIR    = EXTRACTED / "bluesru" / "announcements"
-NEWS_DIR        = EXTRACTED / "blues-data" / "news"
-TOPICS_INDEX    = EXTRACTED / "liveforum" / "topics-index.yaml"
-TOPICS_DIR      = EXTRACTED / "liveforum" / "topics"
-RESOURCES_YAML  = EXTRACTED / "blues-data" / "resources.yaml"
-STREAMING_ARTISTS = EXTRACTED / "streaming" / "artists.yaml"
-STREAMING_ALBUMS  = EXTRACTED / "streaming" / "albums.yaml"
-GALLERIES_YAML    = EXTRACTED / "galleries" / "galleries.yaml"
-GALLERIES_DIR     = EXTRACTED / "galleries"
+DATA = ARC / "data"
+
+
+ARTISTS_YAML    = DATA / "artists.yaml"
+ALBUMS_DIR      = DATA / "albums"
+REVIEWS_DIR     = DATA / "albums"      # reviews now embedded in album files
+EVENTS_DIR      = DATA / "calendar.yaml"   # single file (used as path, checked in generator)
+ANNOUNCE_DIR    = DATA / "announcements"
+NEWS_DIR        = DATA / "news"
+TOPICS_DIR      = DATA / "forum" / "topics"
+
+def _load_topics_index():
+    """Build topics index in memory from YYYY/YYYY-MM-DD-topic-N.yaml files.
+    Falls back to topics-index.yaml if it still exists (migration compat)."""
+    index_yaml = DATA / "forum" / "topics-index.yaml"
+    if index_yaml.exists():
+        return yaml.safe_load(index_yaml.read_text(encoding='utf-8')) or []
+    topics = []
+    for p in TOPICS_DIR.glob('*/*.yaml'):
+        d = yaml.safe_load(p.read_text(encoding='utf-8')) or {}
+        if d.get('topic_id'):
+            topics.append({
+                'topic_id': d['topic_id'],
+                'slug': d.get('slug', f"topic-{d['topic_id']}"),
+                'title': d.get('title', ''),
+                'first_post': str(d.get('first_post', '') or ''),
+                'last_post': str(d.get('last_post', '') or ''),
+                'post_count': d.get('post_count', 0),
+                '_path': p,
+            })
+    return topics
+
+def _find_topic_yaml(topic_id):
+    """Find the YAML file for a topic_id in the year-subdir structure."""
+    # Try year subdirs first
+    for p in TOPICS_DIR.glob(f'*/*-topic-{topic_id}.yaml'):
+        return p
+    # Fallback: flat file (old structure)
+    flat = TOPICS_DIR / f'topic-{topic_id}.yaml'
+    return flat if flat.exists() else None
+RESOURCES_YAML  = DATA / "artists.yaml"    # resources now in artists.yaml
+STREAMING_ARTISTS = DATA / "artists.yaml"  # streaming now in artists.yaml
+STREAMING_ALBUMS  = DATA / "albums"        # streaming now in album files
+GALLERIES_YAML    = DATA / "galleries" / "index.yaml"
+GALLERIES_DIR     = DATA / "galleries"
+CALENDAR_YAML     = DATA / "calendar.yaml"
+
+# Gallery YAML files may live flat in GALLERIES_DIR or in year subdirs (YYYY/slug.yaml)
+_gallery_yaml_map = None
+def _gallery_yaml(slug):
+    global _gallery_yaml_map
+    if _gallery_yaml_map is None:
+        _gallery_yaml_map = {}
+        for p in GALLERIES_DIR.glob('*.yaml'):
+            if p.stem != 'index':
+                _gallery_yaml_map[p.stem] = p
+        for p in GALLERIES_DIR.glob('*/*.yaml'):
+            _gallery_yaml_map[p.stem] = p
+    return _gallery_yaml_map.get(slug)
 
 # ── Jinja2 environment ─────────────────────────────────────────────────────────
 JINJA_ENV = jinja2.Environment(
@@ -461,24 +503,45 @@ STREAMING_PLATFORM_LABELS = {
     'youtube_playlist': 'YouTube',
 }
 
-def _load_streaming(path):
-    if path.exists():
-        return yaml.safe_load(path.read_text(encoding='utf-8')) or {}
-    return {}
-
 _STREAMING_ARTISTS = None
 _STREAMING_ALBUMS = None
 
 def get_streaming_artists():
+    """Return {slug: {platform_id: value}} from new artists.yaml (streaming IDs merged in)."""
     global _STREAMING_ARTISTS
     if _STREAMING_ARTISTS is None:
-        _STREAMING_ARTISTS = _load_streaming(STREAMING_ARTISTS)
+        result = {}
+        if ARTISTS_YAML.exists():
+            artists = yaml.safe_load(ARTISTS_YAML.read_text(encoding='utf-8')) or []
+            for a in artists:
+                slug = a.get('slug', '')
+                ids = {}
+                for key in ('spotify_id', 'apple_music_id', 'deezer_id', 'ytmusic_id'):
+                    if a.get(key):
+                        ids[key] = a[key]
+                if ids:
+                    result[slug] = ids
+        _STREAMING_ARTISTS = result
     return _STREAMING_ARTISTS
 
 def get_streaming_albums():
+    """Return {slug: {platform_id: value}} from new albums/*.yaml (streaming IDs merged in)."""
     global _STREAMING_ALBUMS
     if _STREAMING_ALBUMS is None:
-        _STREAMING_ALBUMS = _load_streaming(STREAMING_ALBUMS)
+        result = {}
+        for p in ALBUMS_DIR.glob('*/*.yaml'):
+            a = yaml.safe_load(p.read_text(encoding='utf-8'))
+            if not a:
+                continue
+            slug = a.get('slug', p.stem)
+            ids = {}
+            for key in ('spotify_id', 'apple_music_id', 'deezer_id', 'ytmusic_id',
+                        'youtube_video_id', 'youtube_playlist_id'):
+                if a.get(key):
+                    ids[key] = a[key]
+            if ids:
+                result[slug] = ids
+        _STREAMING_ALBUMS = result
     return _STREAMING_ALBUMS
 
 def streaming_links_html(slug, kind='artist'):
@@ -490,7 +553,8 @@ def streaming_links_html(slug, kind='artist'):
     templates = ARTIST_URL_TEMPLATES if kind == 'artist' else ALBUM_URL_TEMPLATES
     parts = []
     for platform, tmpl in templates.items():
-        aid = info.get(f'{platform}_id')
+        key = f'{platform}_id'
+        aid = info.get(key)
         if aid:
             url = tmpl.format(aid)
             label = STREAMING_PLATFORM_LABELS[platform]
@@ -505,40 +569,72 @@ def load_artists():
 
 def load_albums():
     albums = {}
-    for p in ALBUMS_DIR.glob('*.yaml'):
+    for p in ALBUMS_DIR.glob('*/*.yaml'):
         a = yaml.safe_load(p.read_text(encoding='utf-8'))
         if a and a.get('id'):
             albums[str(a['id'])] = a
     return albums
 
 def load_reviews():
-    """Returns list of (meta, body) and album_id→review_slug map."""
+    """Returns list of (meta, body) and album_id→review_slug map.
+    Reviews are now embedded in albums/*.yaml under the 'reviews' key."""
     reviews = []
     review_by_album = {}
-    for p in sorted(REVIEWS_DIR.glob('review-*.md')):
-        text = p.read_text(encoding='utf-8')
-        m = re.match(r'^---\s*\n(.*?)\n---\s*\n(.*)', text, re.DOTALL)
-        if not m:
+    for p in sorted(ALBUMS_DIR.glob('*/*.yaml')):
+        album = yaml.safe_load(p.read_text(encoding='utf-8'))
+        if not album:
             continue
-        meta = yaml.safe_load(m.group(1))
-        body = m.group(2).strip()
-        reviews.append((meta, body))
-        album_id = str(meta.get('album_id', ''))
-        if album_id:
-            review_by_album[album_id] = meta.get('slug', '')
+        album_id = str(album.get('id', ''))
+        for rv in album.get('reviews', []):
+            meta = {
+                'id': rv.get('id'),
+                'album_id': album.get('id'),
+                'album': album.get('title', ''),
+                'artist': album.get('artist', ''),
+                'artist_id': album.get('artist_id'),
+                'author': rv.get('author', ''),
+                'mark': rv.get('mark'),
+                'date': rv.get('date'),
+                'slug': f"review-{rv.get('id', '')}",
+            }
+            body = rv.get('text', '')
+            reviews.append((meta, body))
+            if album_id and album_id not in review_by_album:
+                review_by_album[album_id] = meta['slug']
     return reviews, review_by_album
 
 RE_FM = re.compile(r'^---\s*\n(.*?)\n---\s*\n(.*)', re.DOTALL)
 
 
 def load_resources():
-    """Return dict: artist_id (str) → list of resource dicts."""
-    if not RESOURCES_YAML.exists():
+    """Return dict: artist_id (str) → list of resource dicts.
+    Resources are now embedded in artists.yaml under the 'resources' key."""
+    if not ARTISTS_YAML.exists():
         return {}
-    data = yaml.safe_load(RESOURCES_YAML.read_text(encoding='utf-8'))
+    data = yaml.safe_load(ARTISTS_YAML.read_text(encoding='utf-8'))
     if not data:
         return {}
-    return {str(entry['artist_id']): entry['resources'] for entry in data}
+    result = {}
+    for artist in data:
+        aid = str(artist.get('id', ''))
+        res = artist.get('resources', [])
+        if aid and res:
+            # Convert new format {type, url} to old format {type_id, type_short, url}
+            type_map = {'page': 1, 'article': 2, 'discography': 3, 'photos': 4,
+                        'tabs': 5, 'lyrics': 6, 'video': 7, 'audio': 8, 'links': 9, 'interview': 10}
+            type_short_map = {'page': 'Страница', 'article': 'Статья', 'discography': 'Диски',
+                              'photos': 'Фото', 'tabs': 'Ноты', 'lyrics': 'Тексты',
+                              'video': 'Видео', 'audio': 'Аудио', 'interview': 'Интервью'}
+            compat = []
+            for r in res:
+                rtype = r.get('type', 'link')
+                compat.append({
+                    'type_id': type_map.get(rtype, 0),
+                    'type_short': type_short_map.get(rtype, rtype),
+                    'url': r.get('url', ''),
+                })
+            result[aid] = compat
+    return result
 
 
 # ── Forum rendering ────────────────────────────────────────────────────────────
@@ -769,8 +865,7 @@ def _topic_is_all_deleted(topic_data):
 
 def generate_forum():
     print("Generating forum pages...")
-    with open(TOPICS_INDEX) as f:
-        topics_index = yaml.safe_load(f)
+    topics_index = _load_topics_index()
 
     # Sort by integer topic_id descending (NOT string sort)
     topics_sorted = sorted(
@@ -781,8 +876,8 @@ def generate_forum():
 
     # Filter out topics whose every post is deleted
     def topic_is_visible(tm):
-        tf = TOPICS_DIR / f'topic-{tm["topic_id"]}.yaml'
-        if not tf.exists():
+        tf = tm.get('_path') or _find_topic_yaml(tm["topic_id"])
+        if not tf or not tf.exists():
             return False
         td = yaml.safe_load(tf.read_text())
         return not _topic_is_all_deleted(td)
@@ -805,8 +900,8 @@ def generate_forum():
         # Load and render topic data
         rendered_topics = []
         for tm in page_topics_meta:
-            tf = TOPICS_DIR / f'topic-{tm["topic_id"]}.yaml'
-            td = yaml.safe_load(tf.read_text()) if tf.exists() else None
+            tf = tm.get('_path') or _find_topic_yaml(tm["topic_id"])
+            td = yaml.safe_load(tf.read_text()) if (tf and tf.exists()) else None
             rendered_topics.append(render_topic_html(td, tm, full=False))
 
         fname = 'index.html' if page_num == 0 else f'page{page_num + 1}.html'
@@ -832,8 +927,8 @@ def generate_forum():
     generated = 0
     for tm in topics_visible:
         topic_id = tm.get('topic_id')
-        tf = TOPICS_DIR / f'topic-{topic_id}.yaml'
-        if not tf.exists():
+        tf = tm.get('_path') or _find_topic_yaml(topic_id)
+        if not tf or not tf.exists():
             continue
         td = yaml.safe_load(tf.read_text())
         posts = td.get('posts', [])
@@ -889,7 +984,7 @@ def generate_reviews():
         if slug:
             return slug
         # Fallback: derive from legacy_path
-        lp = artist.get('legacy_path', '').strip('/')
+        lp = ( artist.get('legacy_path') or '' ).strip('/')
         parts = lp.split('/')
         legacy_dir = parts[-1] if (parts and parts[-1]) else ''
         if legacy_dir and '.' not in legacy_dir and not legacy_dir.startswith('www.'):
@@ -1298,6 +1393,12 @@ def generate_news():
         slug = meta.get('slug', f'story{nid}')
         url = (f'/news/{date_str[:4]}/{date_str[5:7]}/{date_str[8:10]}/story{nid}/'
                if date_str else '#')
+        image_path = None
+        if nid:
+            for ext in ('.jpg', '.gif', '.png'):
+                if (CONTENT / 'newsimg' / f'{nid}{ext}').exists():
+                    image_path = f'/newsimg/{nid}{ext}'
+                    break
         return {
             'id': nid,
             'slug': slug,
@@ -1308,7 +1409,7 @@ def generate_news():
             'author': meta.get('author', '') or '',
             'source': meta.get('source', '') or '',
             'url': url,
-            'image_path': None,
+            'image_path': image_path,
         }
 
     all_items = [make_news_item(meta, body) for meta, body in items]
@@ -1472,7 +1573,7 @@ def generate_updates():
 
     items = []
     atb_skipped = 0
-    for p in sorted(ANNOUNCE_DIR.glob('*.md')):
+    for p in sorted(ANNOUNCE_DIR.rglob('*.md')):
         text = p.read_text(encoding='utf-8')
         if _atb_re.search(text):
             atb_skipped += 1
@@ -1695,7 +1796,7 @@ def generate_bluesmen():
         if letter not in letter_has:
             letter = '#'
 
-        lp = a.get('legacy_path', '').strip('/')
+        lp = ( a.get('legacy_path') or '' ).strip('/')
         parts = lp.split('/')
         legacy_dir = parts[-1] if (parts and parts[-1]) else ''
         external = '.' in legacy_dir or legacy_dir.startswith('www.')
@@ -1790,7 +1891,7 @@ def generate_bluesmen():
     # (orphaned dirs: no DB legacy_path or DB legacy_path points to wrong name)
     processed_dirs = set()
     for a in artists:
-        lp = a.get('legacy_path', '').strip('/')
+        lp = ( a.get('legacy_path') or '' ).strip('/')
         parts = lp.split('/')
         legacy_dir = parts[-1] if (parts and parts[-1]) else ''
         if legacy_dir and '.' not in legacy_dir and not legacy_dir.startswith('www.'):
@@ -1974,10 +2075,18 @@ def _gallery_dir_prefixes():
     galleries = yaml.safe_load(GALLERIES_YAML.read_text(encoding='utf-8')) or []
     prefixes = set()
     for g in galleries:
-        gpath = g.get('path', '')
         gtype = g.get('type', '')
-        if not gpath or gtype == 'custom':
+        if gtype == 'custom':
             continue  # custom galleries have real content HTMs, don't skip them
+        # gpath may be in index.yaml or in per-gallery YAML
+        gpath = g.get('path', '')
+        if not gpath:
+            slug = g.get('slug', '')
+            per = _gallery_yaml(slug)
+            if per and per.exists():
+                gpath = (yaml.safe_load(per.read_text(encoding='utf-8')) or {}).get('path', '')
+        if not gpath:
+            continue
         prefixes.add(f"bluesnews/{gpath}/")
         if gpath.endswith('/content'):
             prefixes.add(f"bluesnews/{gpath[:-8]}/")
@@ -1995,16 +2104,21 @@ def _build_custom_gallery_media_map():
     galleries = yaml.safe_load(GALLERIES_YAML.read_text(encoding='utf-8')) or []
     result = {}
     for g in galleries:
-        gpath = g.get('path', '')
         gtype = g.get('type', '')
-        if not gpath or gtype != 'custom':
+        if gtype != 'custom':
             continue
-        yaml_slug = re.sub(r'[^a-z0-9]+', '-', gpath.lower()).strip('-')
-        per_yaml = GALLERIES_DIR / f"{yaml_slug}.yaml"
-        data = {}
-        if per_yaml.exists():
-            data = yaml.safe_load(per_yaml.read_text(encoding='utf-8')) or {}
+        yaml_slug = g.get('slug', '')
+        if not yaml_slug:
+            gpath_raw = g.get('path', '')
+            yaml_slug = re.sub(r'[^a-z0-9]+', '-', gpath_raw.lower()).strip('-')
+        per_yaml = _gallery_yaml(yaml_slug)
+        if not per_yaml or not per_yaml.exists():
+            continue
+        data = yaml.safe_load(per_yaml.read_text(encoding='utf-8')) or {}
         if data.get('exclude'):
+            continue
+        gpath = data.get('path', '') or g.get('path', '')
+        if not gpath:
             continue
         canonical_rel, _ = _gallery_canonical_url(data, gpath)
         prefix = f"bluesnews/{gpath}/"
@@ -2085,7 +2199,7 @@ def _gallery_canonical_url(data, gpath):
 
 
 def generate_galleries():
-    """Generate gallery index pages from extracted-data/galleries/ YAML.
+    """Generate gallery index pages from data/galleries/ YAML.
 
     Canonical URL: /photo/YYYY/YYYY-MM-DD-slug/
     Legacy URL /bluesnews/{path}/ gets a 301 redirect (written to _redirects).
@@ -2100,22 +2214,25 @@ def generate_galleries():
     redirects = []  # list of (old_path, new_path) for _redirects
 
     for g in galleries:
-        gpath = g.get('path', '')
-        yaml_slug = re.sub(r'[^a-z0-9]+', '-', gpath.lower()).strip('-')
-        per_yaml = GALLERIES_DIR / f"{yaml_slug}.yaml"
-        if not per_yaml.exists():
+        # Support both 'slug' (new structure) and 'path' (old structure)
+        yaml_slug = g.get('slug', '')
+        if not yaml_slug:
+            gpath = g.get('path', '')
+            yaml_slug = re.sub(r'[^a-z0-9]+', '-', gpath.lower()).strip('-')
+        per_yaml = _gallery_yaml(yaml_slug)
+        if not per_yaml or not per_yaml.exists():
             continue
         data = yaml.safe_load(per_yaml.read_text(encoding='utf-8')) or {}
         if data.get('exclude'):
             continue  # Explicitly excluded gallery
+        # gpath from per-yaml (authoritative) or index.yaml fallback
+        gpath = data.get('path', '') or g.get('path', yaml_slug)
         photos = [p for p in (data.get('photos') or []) if isinstance(p, dict) and p.get('file')]
 
         # For galleries indexed as {parent}/content, output at the parent level.
-        # The content/ subdir is just a Lightroom export artifact; the canonical URL is parent/.
-        # Prefix photo paths with 'content/' to keep image URLs correct.
         legacy_path = gpath
         if gpath.endswith('/content'):
-            legacy_path = gpath[:-8]  # strip '/content'
+            legacy_path = gpath[:-8]
             photos = [dict(p, file='content/' + p['file']) for p in photos]
 
         # Canonical URL path (relative to site/)
@@ -2279,18 +2396,23 @@ def generate_photo_index():
 
     cards = []
     for g in galleries:
+        # Support new slug-based structure and old path-based structure
+        yaml_slug = g.get('slug', '')
         gpath = g.get('path', '')
-        if not gpath:
+        if not yaml_slug and gpath:
+            yaml_slug = re.sub(r'[^a-z0-9]+', '-', gpath.lower()).strip('-')
+        if not yaml_slug:
             continue
 
-        # Load per-gallery YAML for enriched metadata
-        yaml_slug = re.sub(r'[^a-z0-9]+', '-', gpath.lower()).strip('-')
-        per_yaml = GALLERIES_DIR / f"{yaml_slug}.yaml"
+        per_yaml = _gallery_yaml(yaml_slug)
         data = {}
-        if per_yaml.exists():
+        if per_yaml and per_yaml.exists():
             data = yaml.safe_load(per_yaml.read_text(encoding='utf-8')) or {}
         if data.get('exclude'):
             continue  # Explicitly excluded gallery
+        # Use path from per-gallery YAML if index.yaml doesn't have it
+        if not gpath:
+            gpath = data.get('path', yaml_slug)
 
         canonical_rel, year_str = _gallery_canonical_url(data, gpath)
 
@@ -2484,7 +2606,7 @@ def generate_content():
             dst.parent.mkdir(parents=True, exist_ok=True)
             shutil.copy2(img, dst)
             cal_count += 1
-    print(f"  blues-calendar/: {cal_count} images")
+    print(f"  calendar/: {cal_count} images")
 
     # blues-ru static sections live at the root of content/
     # (ad/ was excluded by populate.py)
@@ -2492,7 +2614,7 @@ def generate_content():
         'rblues', 'style', 'bsfest', 'bbkingfest', 'efes', 'nbf',
         'svalbard', 'nepal', 'august', 'handy', 'mojobook', 'book',
         'reading', 'vocabulary.htm', 'about.htm', 'label',
-        'ww', 'club', 'css', 'images', 'js', 'newsimg', 'stuff',
+        'ww', 'club', 'stuff',
         'fest', 'article', 'harp', 'lessons', 'andrey', 'fedor', 'arc',
     ]
     sec_total = 0
@@ -2522,7 +2644,9 @@ def generate_content():
 
     # Copy static assets from bluesru-arc/static/
     _copy_dir(STATIC / 'js', SITE / 'static' / 'js')
+    _copy_dir(STATIC / 'js', SITE / 'js')       # legacy content pages reference /js/wwscript.js
     _copy_dir(STATIC / 'css', SITE / 'static' / 'css')
+    _copy_dir(STATIC / 'css', SITE / 'css')     # legacy content pages reference /css/ww.css
     _copy_dir(STATIC / 'forum', SITE / 'forum')
     if (STATIC / 'covers').exists():
         _copy_dir(STATIC / 'covers', SITE / 'static' / 'covers')
@@ -2563,13 +2687,13 @@ def _generate_content_from_sources():
             dst.parent.mkdir(parents=True, exist_ok=True)
             shutil.copy2(img, dst)
             cal_count += 1
-    print(f"  blues-calendar/: {cal_count} images")
+    print(f"  calendar/: {cal_count} images")
 
     static_sections = [
         'rblues', 'style', 'bsfest', 'bbkingfest', 'efes', 'nbf',
         'svalbard', 'nepal', 'august', 'handy', 'mojobook', 'book',
         'reading', 'vocabulary.htm', 'about.htm', 'label',
-        'ww', 'club', 'css', 'images', 'js', 'newsimg', 'stuff',
+        'ww', 'club', 'stuff',
         'fest', 'article', 'harp', 'lessons', 'andrey', 'fedor',
     ]
     for section in static_sections:
@@ -2590,7 +2714,9 @@ def _generate_content_from_sources():
             _copy_section(src, dst, BLUES_RU)
 
     _copy_dir(STATIC / 'js', SITE / 'static' / 'js')
+    _copy_dir(STATIC / 'js', SITE / 'js')
     _copy_dir(STATIC / 'css', SITE / 'static' / 'css')
+    _copy_dir(STATIC / 'css', SITE / 'css')
     _copy_dir(STATIC / 'forum', SITE / 'forum')
     for fname in ['_redirects', '_headers', '404.html']:
         src = ARC / fname
@@ -2709,7 +2835,7 @@ def _copy_dir(src, dst):
             shutil.copy2(f, dst / f.name)
 
 
-ATB_EPISODES_YAML  = EXTRACTED / "atb" / "episodes.yaml"
+ATB_EPISODES_YAML  = DATA / "atb" / "episodes.yaml"
 
 
 def _atb_episode_slug(ep):
@@ -2723,7 +2849,7 @@ def generate_atb():
     print("Generating ATB (Весь этот блюз) section...")
 
     if not ATB_EPISODES_YAML.exists():
-        print("  WARNING: extracted-data/atb/episodes.yaml not found. Run blues-dev/etl/extract_atb_mp3s.py first.")
+        print("  WARNING: data/atb/episodes.yaml not found. Run blues-dev/etl/extract_atb_mp3s.py first.")
         return
 
     episodes = yaml.safe_load(ATB_EPISODES_YAML.read_text(encoding='utf-8')) or []

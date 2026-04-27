@@ -79,31 +79,27 @@ echo "10. Generate calendar page..."
 $PY "$S/generate_calendar_page.py"
 
 echo ""
-echo "11. Generate review RSS feed..."
-$PY "$S/generate_rss.py"
-
-echo ""
-echo "12. Generate ATB (Весь этот блюз) section..."
+echo "11. Generate ATB (Весь этот блюз) section..."
 $PY "$S/generate.py" --section atb
 
 echo ""
-echo "13. Generate anagrams page..."
+echo "12. Generate anagrams page..."
 $PY "$S/generate_anagrams.py"
 
 echo ""
-echo "14. Generate gallery pages..."
+echo "13. Generate gallery pages..."
 $PY "$S/generate.py" --section galleries
 
 echo ""
-echo "14b. Generate NBF photo galleries..."
+echo "13b. Generate NBF photo galleries..."
 $PY "$S/generate.py" --section nbf
 
 echo ""
-echo "14c. Generate photo index..."
+echo "13c. Generate photo index..."
 $PY "$S/generate.py" --section photo
 
 echo ""
-echo "15. Post-process dead links across all generated HTML..."
+echo "14. Post-process dead links across all generated HTML..."
 $PY "$S/generate.py" --section postprocess
 
 echo ""

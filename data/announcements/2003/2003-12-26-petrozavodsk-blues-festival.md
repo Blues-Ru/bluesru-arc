@@ -1,0 +1,7 @@
+---
+id: 416
+title: Блюз-фестиваль в Петрозаводске
+date: '2003-12-26'
+---
+
+<a href="http://www.blues.ru/bluesnews/03Autumn/03Autumn.htm"><b>Блюз-фестиваль в Петрозаводске</b></a>

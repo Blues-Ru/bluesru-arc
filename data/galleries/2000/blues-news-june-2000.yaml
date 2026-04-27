@@ -1,0 +1,38 @@
+slug: blues-news-june-2000
+canonical_date: 2000-06
+title: Блюз-новости июня 2000
+type: custom
+exclude: true
+path: 00June
+photo_count: 10
+captioned: true
+description: ATB Blues News, июнь 2000.
+index_files:
+- 00Jun.htm
+- 00JunAudio.htm
+- 00JunBill.htm
+- 00JunNYBF.htm
+- 00JunNet.htm
+- 00JunRJ.htm
+- 00JunRec.htm
+- 00JunVid.htm
+- 00May.htm
+- Contest.htm
+- Contest1.htm
+- Contest2.htm
+- Contest3.htm
+- ww_HarmF.htm
+photos:
+- file: 00JunBBK.jpg
+  page_html: 00JunBBK.htm
+- file: 00JunCF.jpg
+  page_html: 00JunCF.htm
+- file: 00JunKC.jpg
+- file: 00PL.jpg
+  caption: Петрович и Paul Lamb в московском саду &quot;Эрмитаж&quot;
+- file: Lending.jpg
+- file: atbtile.jpg
+- file: atbtileL.jpg
+- file: test1.jpg
+- file: test2.jpg
+- file: test3.jpg

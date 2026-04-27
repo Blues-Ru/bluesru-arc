@@ -1,0 +1,24 @@
+slug: blues-news-january-2000
+canonical_date: 2000-01
+title: Блюз-новости января 2000
+type: custom
+exclude: true
+path: Jan2000
+photo_count: 7
+captioned: true
+description: ATB Blues News, январь 2000.
+index_files:
+- jan2000.htm
+photos:
+- file: 2000handyposter.jpg
+  caption: XXI W.C.HANDY official poster
+- file: Curtis.jpg
+  caption: Roots Curtis (
+- file: Grammy.jpg
+  caption: http://www.grammy.com/
+- file: atbback.JPG
+- file: document.jpg
+  caption: Document Recods
+- file: rec.jpg
+- file: spencer.jpg
+  caption: Jeremy Spencer в 1999г.

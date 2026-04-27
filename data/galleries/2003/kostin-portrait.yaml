@@ -1,0 +1,20 @@
+slug: kostin-portrait
+canonical_date: '2003'
+title: Костин — портрет
+type: custom
+exclude: true
+path: Kostin
+photo_count: 7
+captioned: true
+description: Фотографии музыканта Костина.
+index_files:
+- i_Kostin2015.htm
+photos:
+- file: i_Ko_M.jpg
+  caption: Михаил Мишурис
+- file: i_Ko_Pis.jpg
+- file: i_Kostin.jpg
+- file: i_Kostin2.jpg
+- file: i_Kostin3.jpg
+- file: i_Kostin4.jpg
+- file: i_KostinLH.jpg

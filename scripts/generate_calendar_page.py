@@ -10,15 +10,16 @@ Run from /Users/fedor/bluesru/
 """
 
 import re
+import yaml
 from pathlib import Path
 from collections import defaultdict
 
 import os
 ARC = Path(__file__).resolve().parent.parent
 _ws = Path(os.environ.get('BLUESRU_ROOT', str(ARC.parent)))
-_extracted_arc = ARC / "extracted-data"
-_extracted = _extracted_arc if _extracted_arc.exists() else _ws / "extracted-data"
-EVENTS_DIR = _extracted / "blues-data" / "events"
+DATA = ARC / "data"
+CALENDAR_YAML = DATA / "calendar.yaml"
+EVENTS_DIR = DATA / "blues-data" / "events"  # fallback for old structure
 DST = Path(os.environ.get('BLUESRU_SITE', str(_ws / 'bluesru-site'))) / "calendar"
 
 
@@ -92,26 +93,42 @@ def generate_calendar_index():
 
 def generate_year_pages():
     """Generate /calendar/YYYY/index.html for each year with events."""
-    # Load all events, group by year then by date
-    by_year = defaultdict(list)  # year_str → list of (date_str, fm, body)
+    by_year = defaultdict(list)
 
-    for fpath in sorted(EVENTS_DIR.glob("*.md")):
-        fm, body = read_yaml_frontmatter(fpath)
-        date_str = fm.get('date', '')
-        if not date_str or len(date_str) < 10 or date_str.startswith('null'):
-            continue
-        year = date_str[:4]
-        if not year.isdigit():
-            continue
-        picture = fm.get('picture', '') or ''
-        if picture in ('null', 'None', 'none'):
-            picture = ''
-        by_year[year].append({
-            'date': date_str,
-            'title': fm.get('title', ''),
-            'picture': picture,
-            'text': body,
-        })
+    if CALENDAR_YAML.exists():
+        events = yaml.safe_load(CALENDAR_YAML.read_text(encoding='utf-8')) or []
+        for ev in events:
+            date_str = str(ev.get('date', ''))
+            if not date_str or len(date_str) < 10:
+                continue
+            year = date_str[:4]
+            if not year.isdigit():
+                continue
+            picture = ev.get('picture', '') or ''
+            by_year[year].append({
+                'date': date_str,
+                'title': ev.get('title', ''),
+                'picture': picture,
+                'text': ev.get('text', ''),
+            })
+    elif EVENTS_DIR.exists():
+        for fpath in sorted(EVENTS_DIR.glob("*.md")):
+            fm, body = read_yaml_frontmatter(fpath)
+            date_str = fm.get('date', '')
+            if not date_str or len(date_str) < 10 or date_str.startswith('null'):
+                continue
+            year = date_str[:4]
+            if not year.isdigit():
+                continue
+            picture = fm.get('picture', '') or ''
+            if picture in ('null', 'None', 'none'):
+                picture = ''
+            by_year[year].append({
+                'date': date_str,
+                'title': fm.get('title', ''),
+                'picture': picture,
+                'text': body,
+            })
 
     all_years = sorted(by_year.keys())
 

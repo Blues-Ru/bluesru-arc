@@ -1,0 +1,7 @@
+---
+id: 186
+title: 'Mean Black Cat Blues : 30 лет назад ,'
+date: '2002-05-04'
+---
+
+<b><a href="http://www.blues.ru/BlackCat/" target="_blank">Mean Black Cat Blues</a></b>: <b><font color="#FF3333" size="4">30</font> лет назад</b>, 5 мая 1972 года в Хэммонтоне (Hammonton), штат Нью-Джерси, в возрасте 76 лет <b>скончался</b> один из виднейших виртуозов блюзовой, рэгтаймовой и госпел- двенадцатиструнной гитары, соратник Блайнд Боя Фуллера и Сонни Терри, одно из главных открытий фолк-блюзового бума начала 60-х гг. - <b><a href="http://www.blues.ru/BlackCat/bgd.htm" target="_blank">Преподобный (Слепой) Гэри Дэвис (Rev. (Blind) Gary Davis)</a></b>.

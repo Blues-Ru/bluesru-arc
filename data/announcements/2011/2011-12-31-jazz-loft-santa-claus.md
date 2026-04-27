@@ -1,0 +1,7 @@
+---
+id: 649
+title: The Jazz Loft в роли Санта-Клаусов.
+date: '2011-12-31'
+---
+
+The Jazz Loft в роли Санта-Клаусов. Дом у Дороги, не то три, не то четыре дня до НовГода. <a href="http://www.blues.ru/bluesnews/11B/11_12_28_The Jazz Loft/"><b><i>Дюжина фотографий >>></i></b></a>
