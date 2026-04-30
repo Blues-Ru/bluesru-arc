@@ -269,9 +269,9 @@ ANALYTICS_PATTERNS = [
 ]
 AD_SCRIPTS = re.compile(r'<script[^>]*(?:bluesad|googleapis)[^>]*></script>', re.IGNORECASE)
 
-RE_INCLUDE_VIRTUAL = re.compile(r'<!--#include\s+virtual\s*=\s*"([^"]+)"\s*-->', re.IGNORECASE)
-RE_INCLUDE_FILE    = re.compile(r'<!--#include\s+file\s*=\s*"([^"]+)"\s*-->', re.IGNORECASE)
-RE_DYNAMIC_ASPX    = re.compile(r'<!--#include\s+virtual\s*=\s*"/data/dynamic\.aspx"\s*-->', re.IGNORECASE)
+RE_INCLUDE_VIRTUAL = re.compile(r'<\\?!--#include\s+virtual\s*=\s*"([^"]+)"\s*-->', re.IGNORECASE)
+RE_INCLUDE_FILE    = re.compile(r'<\\?!--#include\s+file\s*=\s*"([^"]+)"\s*-->', re.IGNORECASE)
+RE_DYNAMIC_ASPX    = re.compile(r'<\\?!--#include\s+virtual\s*=\s*"/data/dynamic\.aspx"\s*-->', re.IGNORECASE)
 RE_UNRESOLVED      = re.compile(r'<!--\s*virtual include not resolved:\s*[^-]+?-->', re.IGNORECASE)
 
 SKIP_EXTENSIONS = {

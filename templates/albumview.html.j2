@@ -1,6 +1,6 @@
 <HTML>
   <HEAD>
-    <title>Blues.Ru - {{ artist_name }}{% if artist_name %} - {% endif %}{{ album.title }}{% if album.year %}, {{ album.year }}{% endif %}</title>
+    <title>Blues.Ru - {{ artist_name }}{% if album.title %} - {{ album.title }}{% if album.year %}, {{ album.year }}{% endif %}{% endif %}</title>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <link rel="shortcut icon" href="/images/bluesru.ico">
     <style>body { max-width: 900px; margin: 0 auto; padding: 0 1em; }</style>
@@ -30,12 +30,14 @@
 <table cellpadding="4" cellspacing="0" border="0">
   <tr>
     <td valign="top">
+{% if album.title %}
       <h3>
 {% if album.artist %}{{ album.artist }} - {% endif %}{{ album.title }}
 {% if album.year %}
   ({{ album.year }})
 {% endif %}
 </h3>
+{% endif %}
       <table cellpadding="4" border="0" cellspacing="0">
         <tr>
           <td colspan="2">{% if cover_url %}<img src="{{ cover_url }}" align="left">{% endif %}</td>
