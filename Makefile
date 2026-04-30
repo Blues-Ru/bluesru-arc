@@ -5,11 +5,12 @@ SITE       = $(ROOT)/bluesru-site
 MEDIA      = $(ROOT)/bluesru-media
 CACHE      = $(ROOT)/bluesru-media.cache
 R2         = r2:bluesru-media
-SHARD_DIR  = $(ROOT)/forum-shards
+SHARD_DIR  = .forum-shards
 NSHARDS    = 8
 SHARDS     = 0 1 2 3 4 5 6 7
 
-RUN = BLUESRU_ROOT=$(ROOT) $(PYTHON)
+# On CF Pages BLUESRU_ROOT is not set; generate.py falls back to repo-relative paths
+RUN = $(if $(wildcard $(ROOT)),BLUESRU_ROOT=$(ROOT),) $(PYTHON)
 
 # ── Full sequential build (default) ──────────────────────────────────────────
 
