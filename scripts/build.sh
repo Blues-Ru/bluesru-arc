@@ -35,72 +35,68 @@ PY="python3"
 S="$SCRIPT_DIR"
 export BLUESRU_SITE="$SITE_DIR"
 
-echo "1. Fix encoding (restore corrupted Win-1251 files from git)..."
-$PY "$S/fix_encoding.py"
-
-echo ""
-echo "2. Generate _redirects and Cloudflare CSV..."
-$PY "$S/generate_redirects.py"
-
-echo ""
-echo "3. Generate JSON data files (calendar, news, artist albums)..."
+echo "1. Generate JSON data files (calendar, news, artist albums)..."
 $PY "$S/generate_data_json.py"
 
 echo ""
-echo "4. Generate homepage + links pages..."
+echo "2. Generate homepage + links pages..."
 $PY "$S/generate.py" --section homepage
 
 echo ""
-echo "5. Process static content (bluesnews, atb, beefheart, etc.)..."
+echo "3. Process static content (bluesnews, atb, beefheart, etc.)..."
 $PY "$S/generate.py" --section content
 
 echo ""
-echo "6. Generate artist pages..."
+echo "4. Generate artist pages..."
 $PY "$S/generate.py" --section bluesmen
 
 echo ""
-echo "7. Generate review (albumview) pages..."
+echo "5. Generate review (albumview) pages..."
 $PY "$S/generate.py" --section reviews
 
 echo ""
-echo "8. Generate news archive..."
+echo "6. Generate news archive..."
 $PY "$S/generate.py" --section news
 
 echo ""
-echo "9. Generate forum pages..."
+echo "7. Generate forum pages..."
 $PY "$S/generate.py" --section forum
 
 echo ""
-echo "9b. Generate site updates..."
+echo "7b. Generate site updates..."
 $PY "$S/generate.py" --section updates
 
 echo ""
-echo "10. Generate calendar page..."
+echo "8. Generate calendar page..."
 $PY "$S/generate_calendar_page.py"
 
 echo ""
-echo "11. Generate ATB (Весь этот блюз) section..."
+echo "9. Generate ATB (Весь этот блюз) section..."
 $PY "$S/generate.py" --section atb
 
 echo ""
-echo "12. Generate anagrams page..."
+echo "10. Generate anagrams page..."
 $PY "$S/generate_anagrams.py"
 
 echo ""
-echo "13. Generate gallery pages..."
+echo "11. Generate gallery pages..."
 $PY "$S/generate.py" --section galleries
 
 echo ""
-echo "13b. Generate NBF photo galleries..."
+echo "11b. Generate NBF photo galleries..."
 $PY "$S/generate.py" --section nbf
 
 echo ""
-echo "13c. Generate photo index..."
+echo "11c. Generate photo index..."
 $PY "$S/generate.py" --section photo
 
 echo ""
-echo "14. Post-process dead links across all generated HTML..."
+echo "12. Post-process dead links across all generated HTML..."
 $PY "$S/generate.py" --section postprocess
+
+echo ""
+echo "13. Copy root CF Pages files (_redirects, _headers, 404.html)..."
+$PY "$S/generate.py" --section deploy
 
 echo ""
 echo "=== Build complete ==="

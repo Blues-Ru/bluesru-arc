@@ -2741,12 +2741,7 @@ def generate_content():
         _copy_dir(STATIC / 'covers', SITE / 'static' / 'covers')
     print("  static/: JS + CSS + forum assets + covers copied")
 
-    # Copy root files
-    for fname in ['_redirects', '_headers', '404.html']:
-        src = ARC / fname
-        if src.exists():
-            shutil.copy2(src, SITE / fname)
-    print("  Root files: _redirects, _headers, 404.html")
+    print("  static/: done")
 
 
 
@@ -3417,6 +3412,19 @@ def _generate_links_page(categories, sites):
     print(f"  links/index.html: {len(blues_sites)} live blues sites ({dead_count} dead filtered)")
 
 
+def copy_root_files():
+    """Copy _redirects, _headers, 404.html from ARC root → SITE root.
+
+    Run this AFTER all generators (including galleries) have finished appending
+    to ARC/_redirects, so SITE gets the complete redirect list.
+    """
+    for fname in ['_redirects', '_headers', '404.html']:
+        src = ARC / fname
+        if src.exists():
+            shutil.copy2(src, SITE / fname)
+    print("  Root files: _redirects, _headers, 404.html")
+
+
 # ── Main ───────────────────────────────────────────────────────────────────────
 SECTIONS = {
     'content':     generate_content,
@@ -3430,6 +3438,7 @@ SECTIONS = {
     'photo':       generate_photo_index,
     'homepage':    generate_homepage,
     'postprocess': postprocess_dead_links,
+    'deploy':      copy_root_files,
 }
 
 
