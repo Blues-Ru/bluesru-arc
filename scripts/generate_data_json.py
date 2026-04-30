@@ -95,10 +95,14 @@ def generate_calendar():
             }
             by_day.setdefault(mm_dd, []).append(event)
 
-    out_path = OUT / "calendar.json"
-    with out_path.open('w', encoding='utf-8') as f:
-        json.dump(by_day, f, ensure_ascii=False, indent=2)
-    print(f"calendar.json: {len(by_day)} days, {sum(len(v) for v in by_day.values())} events")
+    # Write per-day files: data/calendar/MM-DD.json
+    cal_dir = OUT / "calendar"
+    cal_dir.mkdir(exist_ok=True)
+    for mmdd, events in by_day.items():
+        day_path = cal_dir / f"{mmdd}.json"
+        with day_path.open('w', encoding='utf-8') as f:
+            json.dump(events, f, ensure_ascii=False, indent=2)
+    print(f"calendar/: {len(by_day)} day files, {sum(len(v) for v in by_day.values())} events")
 
 
 # ─── main ──────────────────────────────────────────────────────────────────

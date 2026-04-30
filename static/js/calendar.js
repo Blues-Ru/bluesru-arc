@@ -102,13 +102,27 @@
     el.innerHTML = html;
     var hash = window.location.hash;
     if (hash) {
-      var target = document.querySelector(hash);
+      var id = hash.slice(1);
+      var target = document.getElementById(id);
       if (target) target.scrollIntoView();
     }
   }
 
-  fetch('/data/calendar.json')
-    .then(function(r) { return r.ok ? r.json() : null; })
-    .then(function(data) { shortMode ? renderShort(data) : renderFull(data); })
+  function fetchDay(mmdd) {
+    return fetch('/data/calendar/' + mmdd + '.json')
+      .then(function(r) { return r.ok ? r.json() : []; })
+      .catch(function() { return []; });
+  }
+
+  var days = shortMode
+    ? [toMmDd(now)]
+    : [toMmDd(addDays(now, -1)), toMmDd(now), toMmDd(addDays(now, +1))];
+
+  Promise.all(days.map(fetchDay))
+    .then(function(results) {
+      var calData = {};
+      days.forEach(function(mmdd, i) { calData[mmdd] = results[i]; });
+      shortMode ? renderShort(calData) : renderFull(calData);
+    })
     .catch(function() { el.innerHTML = '<p><i>Ошибка загрузки календаря.</i></p>'; });
 })();

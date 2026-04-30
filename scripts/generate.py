@@ -2706,7 +2706,7 @@ def generate_content():
         'reading', 'vocabulary.htm', 'about.htm', 'label',
         'ww', 'club', 'stuff',
         'fest', 'article', 'harp', 'lessons', 'andrey', 'fedor', 'arc',
-        'images',
+        'images', 'newsimg',
     ]
     sec_total = 0
     for section in static_sections:
