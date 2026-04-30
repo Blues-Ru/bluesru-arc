@@ -10,6 +10,14 @@
     h2 { font-size: 1.15rem; margin-top: 2em; border-bottom: 1px solid #ddd; padding-bottom: 0.3em; }
     p { line-height: 1.7; text-align: justify; }
     .subtitle { color: #555; font-size: 1rem; margin-top: -0.5em; margin-bottom: 1.5em; }
+    .claude-badge {
+      display: inline-flex; align-items: center; gap: 10px;
+      background: #1a1a1a; color: #fff; border-radius: 8px;
+      padding: 10px 16px; text-decoration: none; font-family: monospace;
+      font-size: 0.9rem; margin: 1em 0; border: 1px solid #333;
+    }
+    .claude-badge:hover { background: #2a2a2a; }
+    .claude-badge svg { flex-shrink: 0; }
   </style>
 </head>
 <body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#5511cc" alink="#00bb00">
@@ -54,9 +62,22 @@
 Сейчас сайт - это репозиторий на https://github.com/, коллекция медиа файлов на облачном хранилище, 
 и один Python-скрипт, который за 20 секунд перегенерирует финальное представление в виде html файлов.</p>
 
-<p>Это стало возможным благодаря развитию AI, для переделки сайта использовался Claude Code, который
-помощью LLM-моделей от Anthropic переписывал html, переименовывал файлы, добывал информацию из старого
-сайта и из интернета. Конечно, под нашим пристальным вниманием, за много итераций.</p>
+<p>Это стало возможным благодаря развитию AI, для переделки сайта использовался
+<a href="https://claude.ai/code"><b>Claude Code</b></a>, который с помощью LLM-моделей от
+<a href="https://www.anthropic.com/">Anthropic</a> переписывал html, переименовывал файлы, добывал
+информацию из старого сайта и из интернета. Конечно, под нашим пристальным вниманием, за много итераций.</p>
+
+<p>
+<a href="https://claude.ai/code" class="claude-badge">
+  <svg width="28" height="28" viewBox="0 0 28 28" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <rect width="28" height="28" rx="6" fill="#CC785C"/>
+    <!-- Anthropic-style A mark: two angled strokes forming a tent/peak -->
+    <path d="M14 5 L22 22 H18.5 L14 12 L9.5 22 H6 Z" fill="white"/>
+    <path d="M10.5 17 H17.5 V19.5 H10.5 Z" fill="#CC785C"/>
+  </svg>
+  Built with Claude Code · Anthropic
+</a>
+</p>
 
 <p>Удивительным образом, упрощение позволило улучшить работу архива, а также открыло возможность
 использовать AI для публикации новых материалов и проведения любых улучшений. В ближайшем будущем 

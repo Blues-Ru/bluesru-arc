@@ -83,11 +83,7 @@ echo "11. Generate gallery pages..."
 $PY "$S/generate.py" --section galleries
 
 echo ""
-echo "11b. Generate NBF photo galleries..."
-$PY "$S/generate.py" --section nbf
-
-echo ""
-echo "11c. Generate photo index..."
+echo "11b. Generate photo index..."
 $PY "$S/generate.py" --section photo
 
 echo ""
