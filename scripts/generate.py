@@ -2701,7 +2701,7 @@ def generate_content():
     # blues-ru static sections live at the root of content/
     # (ad/ was excluded by populate.py)
     static_sections = [
-        'rblues', 'style', 'bsfest', 'bbkingfest', 'efes', 'nbf',
+        'band', 'style', 'bsfest', 'bbkingfest', 'efes', 'nbf',
         'svalbard', 'nepal', 'august', 'handy', 'mojobook', 'book',
         'reading', 'vocabulary.htm', 'about.htm', 'label',
         'ww', 'club', 'stuff',
@@ -3154,9 +3154,9 @@ def _rewrite_links(content):
             atag = atag.replace(f'href="{m.group(1)}"', f'href="{href}"', 1)
         if not href.startswith('/') or href.startswith('//'):
             return atag
-        # Normalize TitleCase/underscore filenames in /artist/ and /rblues/ paths.
+        # Normalize TitleCase/underscore filenames in /artist/ and /band/ paths.
         # e.g. /artist/jimi-hendrix/hendrix_guy.htm → /artist/jimi-hendrix/hendrix-guy.html
-        _m = re.match(r'^(/(?:artist|rblues)/[^/]+/)([^/]+)$', href)
+        _m = re.match(r'^(/(?:artist|band)/[^/]+/)([^/]+)$', href)
         if _m:
             prefix, fname = _m.group(1), _m.group(2)
             if '_' in fname or (fname != fname.lower() and '.' in fname):
