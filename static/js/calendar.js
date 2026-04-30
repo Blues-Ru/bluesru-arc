@@ -35,7 +35,7 @@
     var header = '<a name="' + ev.id + '">В ' + yearLink + agoStr + '</a>';
     var html = '<p>';
     if (ev.picture) {
-      html += '<img src="/calendar/' + ev.picture + '" border="0" align="left" vspace="4" hspace="8" style="max-width:180px;max-height:120px;">';
+      html += '<img src="/calendar/' + ev.picture + '" border="0" align="right" vspace="4" hspace="8" style="max-width:180px;max-height:120px;">';
     }
     html += header + ' ' + ev.text;
     if (ev.picture) html += '<br clear="both">';

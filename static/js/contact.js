@@ -7,4 +7,7 @@
     a.textContent = addr;
     el.appendChild(a);
   });
+  document.querySelectorAll('.contact-email-plain').forEach(function (el) {
+    el.textContent = addr;
+  });
 })();

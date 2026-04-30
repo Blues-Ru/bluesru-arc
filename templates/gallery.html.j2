@@ -84,7 +84,7 @@
 {%- for photo in photos %}
 <div class="gallery-thumb">
   <a href="{{ photo.file }}" data-idx="{{ loop.index0 }}"{% if photo.caption %} title="{{ photo.caption }}"{% endif %}>
-    <img src="{{ photo.file }}" loading="lazy" alt="{{ photo.caption or '' }}">
+    <img src="{{ photo.thumb }}" loading="lazy" alt="{{ photo.caption or '' }}">
   </a>
   {%- if photo.caption and photo.caption != (title or path) %}
   <div class="thumb-caption">{{ photo.caption }}</div>

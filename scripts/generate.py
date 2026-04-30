@@ -489,7 +489,7 @@ def _build_album_list_html(artist_slug, artist_id, albums_by_artist):
 
 def process_html(content, source_dir, source_root, artist_slug=None,
                  artist_name=None, artist_legacy_dir=None, artist_resources=None,
-                 artist_albums_html=None):
+                 artist_albums_html=None, artist_atb_html=None):
     content = strip_analytics(content)
     content = re.sub(r'charset\s*=\s*["\']?windows-1251["\']?', 'charset=utf-8',
                      content, flags=re.IGNORECASE)
@@ -514,6 +514,8 @@ def process_html(content, source_dir, source_root, artist_slug=None,
             res_links = (res_links + ' | ' if res_links else '') + stream_html
         if res_links:
             nav_block += f'<p>{res_links}</p>\n'
+        if artist_atb_html:
+            nav_block += f'<p>{artist_atb_html}</p>\n'
         album_block = f'\n{nav_block}'
         if artist_albums_html:
             album_block += artist_albums_html
@@ -921,47 +923,91 @@ def _topic_is_all_deleted(topic_data):
     return not has_visible(topic_data.get('posts', []))
 
 
-def generate_forum():
-    print("Generating forum pages...")
+def _forum_visible_topics():
+    """Return (topics_visible, topic_to_page) — shared by index and topic generators."""
     topics_index = _load_topics_index()
-
-    # Sort by integer topic_id descending (NOT string sort)
     topics_sorted = sorted(
         topics_index,
         key=lambda t: int(t.get('topic_id', 0)),
         reverse=True,
     )
-
-    # Filter out topics whose every post is deleted
-    def topic_is_visible(tm):
-        tf = tm.get('_path') or _find_topic_yaml(tm["topic_id"])
+    topics_visible = []
+    for tm in topics_sorted:
+        tf = tm.get('_path') or _find_topic_yaml(tm['topic_id'])
         if not tf or not tf.exists():
-            return False
+            continue
         td = yaml.safe_load(tf.read_text())
-        return not _topic_is_all_deleted(td)
+        if not _topic_is_all_deleted(td):
+            topics_visible.append(tm)
+    PAGE_SIZE = 50
+    topic_to_page = {
+        tm['topic_id']: (i // PAGE_SIZE) + 1
+        for i, tm in enumerate(topics_visible)
+    }
+    return topics_visible, topic_to_page
 
-    topics_visible = [tm for tm in topics_sorted if topic_is_visible(tm)]
-    print(f"  Topics: {len(topics_sorted)} total, {len(topics_visible)} visible")
 
+def generate_forum():
+    """Generate full forum (index + all topics). Used by make forum / build.sh."""
+    print("Generating forum pages...")
+    topics_visible, topic_to_page = _forum_visible_topics()
+    print(f"  Topics: {len(topics_visible)} visible")
+    _generate_forum_index(topics_visible)
+    _generate_forum_topics(topics_visible, topic_to_page)
+    _copy_forum_static()
+
+
+def generate_forum_index():
+    """Generate forum index pages only (make forum-index)."""
+    print("Generating forum index pages...")
+    topics_visible, _ = _forum_visible_topics()
+    _generate_forum_index(topics_visible)
+    _copy_forum_static()
+    print(f"  Topics visible: {len(topics_visible)}")
+
+
+def generate_forum_topics_from_shard(shard_file):
+    """Generate topic HTML files listed in shard_file (make forum-shard-N)."""
+    path = Path(shard_file)
+    if not path.exists():
+        print(f"Shard file not found: {shard_file}", file=sys.stderr)
+        sys.exit(1)
+
+    # Parse shard file: topic_id<TAB>page_num
+    entries = []
+    for line in path.read_text(encoding='utf-8').splitlines():
+        line = line.strip()
+        if not line:
+            continue
+        parts = line.split('\t')
+        entries.append((parts[0], int(parts[1])))
+
+    # Build a lookup from the full index for topic metadata
+    topics_index = _load_topics_index()
+    meta_by_id = {str(tm['topic_id']): tm for tm in topics_index}
+
+    print(f"Generating {len(entries)} forum topics from {path.name}...")
+    _generate_forum_topics(
+        [meta_by_id[tid] for tid, _ in entries if tid in meta_by_id],
+        {tid: page for tid, page in entries},
+    )
+    print(f"  Done: {path.name}")
+
+
+def _generate_forum_index(topics_visible):
     PAGE_SIZE = 50
     total = len(topics_visible)
     pages = max(1, (total + PAGE_SIZE - 1) // PAGE_SIZE)
-
     tmpl_index = JINJA_ENV.get_template('forum_index.html.j2')
-    tmpl_topic = JINJA_ENV.get_template('forum_topic.html.j2')
 
-    # Generate paginated index pages
     for page_num in range(pages):
         start = page_num * PAGE_SIZE
         page_topics_meta = topics_visible[start:start + PAGE_SIZE]
-
-        # Load and render topic data
         rendered_topics = []
         for tm in page_topics_meta:
-            tf = tm.get('_path') or _find_topic_yaml(tm["topic_id"])
+            tf = tm.get('_path') or _find_topic_yaml(tm['topic_id'])
             td = yaml.safe_load(tf.read_text()) if (tf and tf.exists()) else None
             rendered_topics.append(render_topic_html(td, tm, full=False))
-
         fname = 'index.html' if page_num == 0 else f'page{page_num + 1}.html'
         dst = SITE / 'forum' / fname
         dst.parent.mkdir(parents=True, exist_ok=True)
@@ -969,21 +1015,16 @@ def generate_forum():
             page=page_num + 1,
             has_next=page_num + 1 < pages,
             topics=rendered_topics,
-            render_topic=lambda t, full=False: t,  # already rendered
+            render_topic=lambda t, full=False: t,
         )
         dst.write_text(out, encoding='utf-8')
-
     print(f"  Forum index: {pages} pages")
 
-    # Build topic_id → forum page number map (for correct backlinks)
-    PAGE_SIZE = 50
-    topic_to_page = {}
-    for i, tm in enumerate(topics_visible):
-        topic_to_page[tm.get('topic_id')] = (i // PAGE_SIZE) + 1
 
-    # Generate individual topic pages as flat files: topicN.html (no dash, matches live site URL)
+def _generate_forum_topics(topics_meta, topic_to_page):
+    tmpl_topic = JINJA_ENV.get_template('forum_topic.html.j2')
     generated = 0
-    for tm in topics_visible:
+    for tm in topics_meta:
         topic_id = tm.get('topic_id')
         tf = tm.get('_path') or _find_topic_yaml(topic_id)
         if not tf or not tf.exists():
@@ -992,26 +1033,24 @@ def generate_forum():
         posts = td.get('posts', [])
         if not posts:
             continue
-
         first = posts[0]
-        fp = topic_to_page.get(topic_id, 1)
+        fp = topic_to_page.get(str(topic_id), topic_to_page.get(topic_id, 1))
         rendered = render_topic_html(td, tm, full=True, forum_page=fp)
         out = tmpl_topic.render(
             topic=tm,
             first_poster=html_mod.escape(first.get('poster', '') or ''),
             render_topic=lambda t, full=True: rendered,
         )
-        # Use topicN.html (no dash) to match live site URL /forum/topicN
         dst = SITE / 'forum' / f'topic{topic_id}.html'
         dst.parent.mkdir(parents=True, exist_ok=True)
         dst.write_text(out, encoding='utf-8')
         generated += 1
+    print(f"  Forum topics: {generated}")
 
-    # Copy forum static files
+
+def _copy_forum_static():
     for f in (STATIC / 'forum').iterdir():
         shutil.copy2(f, SITE / 'forum' / f.name)
-
-    print(f"  Forum topics: {generated}")
 
 
 def _strip_artist_prefix(a_slug, album_slug):
@@ -1815,7 +1854,7 @@ def _load_artist_reviews():
     return by_artist
 
 
-def _generate_stub_artist_page(artist, reviews_list, albums):
+def _generate_stub_artist_page(artist, reviews_list, albums, artist_atb_html=None):
     """Generate a stub page for an artist with reviews but no static bio."""
     import html as html_mod2
 
@@ -1856,6 +1895,7 @@ def _generate_stub_artist_page(artist, reviews_list, albums):
         reviews=reviews_data,
         streaming_links='',
         artist_streaming_links=streaming_links_html(slug, kind='artist'),
+        artist_atb_links=artist_atb_html or '',
         footer=FOOTER,
     )
 
@@ -1865,11 +1905,43 @@ def _generate_stub_artist_page(artist, reviews_list, albums):
     return dst
 
 
+def _build_atb_by_slug():
+    """Build {artist_slug: [list of {summary, page_url, date}]} from episodes.yaml."""
+    if not ATB_EPISODES_YAML.exists():
+        return {}
+    episodes = yaml.safe_load(ATB_EPISODES_YAML.read_text(encoding='utf-8')) or []
+    index = {}
+    for ep in episodes:
+        for tag in (ep.get('artists_tags') or []):
+            slug = tag.get('slug', '') if isinstance(tag, dict) else tag
+            if not slug:
+                continue
+            index.setdefault(slug, []).append({
+                'summary': ep.get('summary') or ep.get('topic') or ep['slug'],
+                'page_url': f"/atb/{ep['slug']}/",
+                'date': ep.get('date', ''),
+            })
+    return index
+
+
+def _atb_links_html(atb_episodes):
+    """Build 'Весь этот блюз: ep1 · ep2' HTML for artist pages."""
+    if not atb_episodes:
+        return ''
+    parts = []
+    for ep in sorted(atb_episodes, key=lambda e: e.get('date', ''), reverse=True):
+        label = html_mod.escape(ep['summary'])
+        url = ep['page_url']
+        parts.append(f'<a href="{url}">{label}</a>')
+    return '<b>Весь этот блюз:</b> ' + ' &middot; '.join(parts)
+
+
 def generate_bluesmen():
     print("Generating bluesmen pages...")
     artists = load_artists()
     tmpl = JINJA_ENV.get_template('bluesmen_list.html.j2')
     resources_by_artist = load_resources()
+    atb_by_slug = _build_atb_by_slug()
 
     SRC_BLUESMEN = CONTENT / 'artist'
     print(f"  Source: {SRC_BLUESMEN}")
@@ -2006,13 +2078,17 @@ def generate_bluesmen():
         # Process artist bio pages (from static source)
         if has_dir:
             albums_html = _build_album_list_html(slug, artist_id, albums_by_artist_id) if slug else ''
+            atb_html = _atb_links_html(atb_by_slug.get(slug, []))
             _process_artist_dir(a, src_dir, SRC_BLUESMEN,
                                 artist_resources=resources_by_artist.get(artist_id),
-                                artist_albums_html=albums_html)
+                                artist_albums_html=albums_html,
+                                artist_atb_html=atb_html or None)
             bio_count += 1
         elif has_reviews and slug:
             # Generate stub page with review list
-            _generate_stub_artist_page(a, artist_reviews[artist_id], albums)
+            atb_html = _atb_links_html(atb_by_slug.get(slug, []))
+            _generate_stub_artist_page(a, artist_reviews[artist_id], albums,
+                                       artist_atb_html=atb_html or None)
             stub_count += 1
 
     # Fallback pass: process any bio dirs in SRC_BLUESMEN not yet handled
@@ -2120,6 +2196,7 @@ def _find_main_htm(src_dir):
     """Return the main .htm file for an artist directory (the one to rename to index.html)."""
     dir_name = src_dir.name
     skip_sfx = ['_lyr', '_tab', '_lyric', '_lyrics', '_tabs']
+    INDEX_NAMES = ('index.htm', 'index.html')
     htm_files = [
         f for f in sorted(src_dir.iterdir())
         if f.suffix.lower() in ('.htm', '.html')
@@ -2128,6 +2205,10 @@ def _find_main_htm(src_dir):
     ]
     if not htm_files:
         return None
+    # Prefer index.html/htm (already triage'd main page)
+    for f in htm_files:
+        if f.name.lower() in INDEX_NAMES:
+            return f
     # Prefer file whose stem matches directory name (case-insensitive)
     dir_lower = dir_name.lower()
     for f in htm_files:
@@ -2137,7 +2218,7 @@ def _find_main_htm(src_dir):
     return htm_files[0]
 
 
-def _process_artist_dir(artist, src_dir, src_root, artist_resources=None, artist_albums_html=None):
+def _process_artist_dir(artist, src_dir, src_root, artist_resources=None, artist_albums_html=None, artist_atb_html=None):
     """Post-process all files in an artist dir to site/artist/{slug}/"""
     slug = artist.get('slug', '')
     legacy_dir = src_dir.name
@@ -2181,6 +2262,7 @@ def _process_artist_dir(artist, src_dir, src_root, artist_resources=None, artist
                     artist_legacy_dir=url_dir if is_main else None,
                     artist_resources=artist_resources if is_main else None,
                     artist_albums_html=artist_albums_html if is_main else None,
+                    artist_atb_html=artist_atb_html if is_main else None,
                 )
                 dst_path.write_text(content, encoding='utf-8')
                 # Also write at original filename (if it was renamed to index.html)
@@ -2371,16 +2453,20 @@ def generate_galleries():
         def _abs_url(rel_file):
             return f"{gallery_media_base}/{rel_file}"
 
+        def _thumb_url(rel_file):
+            stem, _, ext = rel_file.rpartition('.')
+            return f"{gallery_media_base}/{stem}-400w.jpg"
+
         photos_with_media = [
             dict(p, file=_abs_url(p['file']),
-                 thumb=_abs_url(p.get('thumb') or p['file']))
+                 thumb=_thumb_url(p['file']))
             for p in photos if p.get('file')
         ]
 
         # Build JSON-safe photo list for the lightbox script
         photos_json = json.dumps(
             [{'file': _abs_url(p['file']), 'caption': p.get('caption') or '',
-              'thumb': _abs_url(p.get('thumb') or p['file'])}
+              'thumb': _thumb_url(p['file'])}
              for p in photos if p.get('file')],
             ensure_ascii=False)
 
@@ -2846,7 +2932,8 @@ def _copy_dir(src, dst):
             shutil.copy2(f, dst / f.name)
 
 
-ATB_EPISODES_YAML  = DATA / "atb" / "episodes.yaml"
+ATB_EPISODES_YAML   = DATA / "atb" / "episodes.yaml"
+ATB_TRANSCRIPTS_DIR = DATA / "atb" / "transcripts"
 
 
 def _atb_episode_slug(ep):
@@ -2856,6 +2943,76 @@ def _atb_episode_slug(ep):
         return ep['slug']
     stem = ep['filename'].replace('.mp3', '').replace('.MP3', '')
     return re.sub(r'[^a-z0-9]+', '-', stem.lower()).strip('-')
+
+
+def _parse_transcript_md(md_text):
+    """Parse transcript markdown into typed blocks.
+
+    Returns list of dicts:
+      {'type': 'speech', 'seconds': int, 'text': str}     — HTML text
+      {'type': 'music',  'seconds': int, 'end_seconds': int}
+    """
+    if not md_text:
+        return []
+    ANCHOR_RE = re.compile(r'<a id="([tm])(\d+)"></a>')
+    MUSIC_RE  = re.compile(r'\*\*\[MUSIC:\s*(\d+):(\d+)\s*[–\-]\s*(\d+):(\d+)\]\*\*')
+    parts = ANCHOR_RE.split(md_text)
+    blocks = []
+    i = 1
+    while i + 2 < len(parts):
+        kind, raw_secs, content = parts[i], parts[i+1], parts[i+2].strip()
+        try:
+            secs = int(raw_secs)
+        except ValueError:
+            i += 3
+            continue
+        if kind == 't':
+            content = re.sub(r'\*\*\[\d+:\d+(?::\d+)?\]\*\*\s*', '', content).strip()
+            paras = [p.strip() for p in content.split('\n\n') if p.strip()]
+            if paras:
+                html_t = ''.join(f'<p>{p}</p>' for p in paras)
+                blocks.append({'type': 'speech', 'seconds': secs, 'text': html_t})
+        elif kind == 'm':
+            m = MUSIC_RE.search(content)
+            if m:
+                end_s = int(m.group(3)) * 60 + int(m.group(4))
+                blocks.append({'type': 'music', 'seconds': secs, 'end_seconds': end_s})
+        i += 3
+    return blocks
+
+
+def _fmt_tc(s):
+    """Format seconds as M:SS or H:MM:SS timecode."""
+    m, sec = divmod(int(s), 60)
+    h, m = divmod(m, 60)
+    return f"{h}:{m:02d}:{sec:02d}" if h else f"{m}:{sec:02d}"
+
+
+def _transcript_to_html(blocks, part_index):
+    """Convert parsed transcript blocks to HTML with seek buttons and music cards."""
+    if not blocks:
+        return ''
+    out = []
+    for b in blocks:
+        t = b['seconds']
+        tc = _fmt_tc(t)
+        if b['type'] == 'speech':
+            out.append(
+                f'<div class="atb-speech">'
+                f'<button class="atb-tc" onclick="atbSeek({part_index},{t})">{tc}</button>'
+                f'<div class="atb-speech-text">{b["text"]}</div>'
+                f'</div>'
+            )
+        else:
+            dur = b['end_seconds'] - t
+            out.append(
+                f'<div class="atb-music" onclick="atbSeek({part_index},{t})" role="button" tabindex="0">'
+                f'<span class="atb-m-note">&#9835;</span>'
+                f'<span class="atb-m-start">{tc}</span>'
+                f'<span class="atb-m-dur">&thinsp;&middot;&thinsp;{_fmt_tc(dur)}</span>'
+                f'</div>'
+            )
+    return '\n'.join(out)
 
 
 def generate_atb():
@@ -2946,6 +3103,29 @@ def generate_atb():
     .ep-part-label { font-size: 0.9em; color: #555; margin-bottom: 0.3em; }
     audio { display: block; width: 100%; max-width: 540px; }
     .mp3-link { font-size: 0.85em; color: #777; margin-top: 0.3em; }
+    .atb-artists { margin: 0.8em 0; font-size: 0.93em; }
+    /* Transcript */
+    .atb-transcript { margin-top: 2em; }
+    .atb-transcript h3 { font-size: 1em; color: #4F62B5; margin-bottom: 1em; }
+    .atb-transcript-part + .atb-transcript-part { margin-top: 1.8em; border-top: 1px dashed #ccc; padding-top: 1.2em; }
+    .atb-part-label { font-size: 0.88em; color: #555; margin-bottom: 0.8em; font-weight: bold; }
+    .atb-speech { display: flex; gap: 0.55em; margin: 0.65em 0; align-items: flex-start; }
+    .atb-tc {
+      background: none; border: 1px solid #b0bbd8; border-radius: 2px;
+      color: #4F62B5; font: 0.76em/1.5 monospace; padding: 0 4px;
+      cursor: pointer; white-space: nowrap; flex-shrink: 0; margin-top: 0.15em;
+    }
+    .atb-tc:hover { background: #4F62B5; color: #fff; border-color: #4F62B5; }
+    .atb-speech-text p { margin: 0 0 0.35em; line-height: 1.6; font-size: 0.92em; }
+    .atb-music {
+      display: inline-flex; align-items: center; gap: 0.35em;
+      background: #fdf7ee; border: 1px solid #d4b896; border-radius: 3px;
+      padding: 2px 10px 2px 7px; margin: 0.35em 0; cursor: pointer; font-size: 0.87em;
+    }
+    .atb-music:hover { background: #f5e8d0; }
+    .atb-m-note { color: #8b6c3e; font-size: 1.05em; }
+    .atb-m-start { font-family: monospace; font-weight: bold; color: #5a3e1b; }
+    .atb-m-dur { color: #8b6c3e; }
   </style>
 </head>
 <body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#5511cc">
@@ -2959,7 +3139,7 @@ def generate_atb():
 {% set files = show.files if show.files is defined else [] %}
 {% if files | length > 1 %}
 {% for f in files %}
-<div class="ep-part">
+<div class="ep-part atb-audio">
   <div class="ep-part-label">Часть {{ loop.index }}</div>
   <audio controls preload="none">
     <source src="{{ f.path }}" type="audio/mpeg">
@@ -2969,7 +3149,7 @@ def generate_atb():
 </div>
 {% endfor %}
 {% elif files %}
-<div class="ep-part">
+<div class="ep-part atb-audio">
   <audio controls preload="none">
     <source src="{{ files[0].path }}" type="audio/mpeg">
     <a href="{{ files[0].path }}">MP3</a>
@@ -2980,9 +3160,30 @@ def generate_atb():
 {% if description_html %}
 <div class="ep-body">{{ description_html | safe }}</div>
 {% endif %}
+{% if artists_tags_html %}
+<div class="atb-artists">{{ artists_tags_html | safe }}</div>
+{% endif %}
+{% if transcripts_html %}
+<div class="atb-transcript">
+  <hr size="1">
+  <h3>Стенограмма</h3>
+  {% for part_html in transcripts_html %}
+  <div class="atb-transcript-part">
+    {% if transcripts_html | length > 1 %}<p class="atb-part-label">Часть {{ loop.index }}</p>{% endif %}
+    {{ part_html | safe }}
+  </div>
+  {% endfor %}
+</div>
+{% endif %}
 <hr size="1">
 <p><a href="/atb/">&larr; Все выпуски «Весь Этот Блюз»</a></p>
 <p align="center">{{ footer }}</p>
+<script>
+function atbSeek(partIdx, sec) {
+  var pl = document.querySelectorAll('.atb-audio audio');
+  if (pl[partIdx]) { pl[partIdx].currentTime = sec; pl[partIdx].play().catch(function(){}); }
+}
+</script>
 </body>
 </html>""")
 
@@ -3003,11 +3204,46 @@ def generate_atb():
             desc = re.sub(r'\n', '<br>', desc)
             return f'<p>{desc}</p>'
 
+    def _load_transcripts(show):
+        """Load and parse transcript markdown files for all parts of a show.
+        Returns list of HTML strings (one per file that has a transcript)."""
+        results = []
+        for idx, f in enumerate(show.get('files', [])):
+            stem = Path(f.get('filename', '')).stem
+            if not stem:
+                continue
+            md_path = ATB_TRANSCRIPTS_DIR / f"{stem}.md"
+            if not md_path.exists():
+                results.append(None)
+                continue
+            md_text = md_path.read_text(encoding='utf-8')
+            blocks = _parse_transcript_md(md_text)
+            results.append(_transcript_to_html(blocks, idx) if blocks else None)
+        return results
+
+    def _artists_tags_html(show):
+        """Build HTML for tagged artists section."""
+        tags = show.get('artists_tags') or []
+        if not tags:
+            return ''
+        links = []
+        for tag in tags:
+            slug = tag.get('slug', '') if isinstance(tag, dict) else tag
+            name = tag.get('name', slug) if isinstance(tag, dict) else slug
+            if slug:
+                links.append(f'<a href="/artist/{slug}/">{html_mod.escape(name)}</a>')
+        if not links:
+            return ''
+        return '<b>Музыканты:</b> ' + ' &middot; '.join(links)
+
     ep_pages_written = 0
     for show in shows:
         if not show.get('slug'):
             continue
         desc_html = _format_desc(show.get('description') or '')
+        transcript_parts = _load_transcripts(show)
+        transcripts_html = [h for h in transcript_parts if h]
+        artists_html = _artists_tags_html(show)
         ep_dir = SITE / 'atb' / show['slug']
         ep_dir.mkdir(parents=True, exist_ok=True)
         (ep_dir / 'index.html').write_text(
@@ -3015,6 +3251,9 @@ def generate_atb():
                 show=show,
                 summary=show['summary'],
                 description_html=desc_html,
+                transcripts_html=transcripts_html,
+                artists_tags_html=artists_html,
+                multi_part=len(show.get('files', [])) > 1,
                 footer=FOOTER,
             ), encoding='utf-8')
         ep_pages_written += 1
@@ -3432,30 +3671,43 @@ def copy_root_files():
 
 # ── Main ───────────────────────────────────────────────────────────────────────
 SECTIONS = {
-    'content':     generate_content,
-    'forum':       generate_forum,
-    'reviews':     generate_reviews,
-    'news':        generate_news,
-    'updates':     generate_updates,
-    'bluesmen':    generate_bluesmen,
-    'atb':         generate_atb,
-    'galleries':   generate_galleries,
-    'photo':       generate_photo_index,
-    'homepage':    generate_homepage,
-    'postprocess': postprocess_dead_links,
-    'deploy':      copy_root_files,
+    'content':      generate_content,
+    'forum':        generate_forum,
+    'forum-index':  generate_forum_index,
+    'reviews':      generate_reviews,
+    'news':         generate_news,
+    'updates':      generate_updates,
+    'bluesmen':     generate_bluesmen,
+    'atb':          generate_atb,
+    'galleries':    generate_galleries,
+    'photo':        generate_photo_index,
+    'homepage':     generate_homepage,
+    'postprocess':  postprocess_dead_links,
+    'deploy':       copy_root_files,
 }
 
 
 def main():
     args = sys.argv[1:]
+
+    shard_file = None
+    if '--shard-file' in args:
+        idx = args.index('--shard-file')
+        shard_file = args[idx + 1]
+
     if '--section' in args:
         idx = args.index('--section')
         section = args[idx + 1]
-        if section not in SECTIONS:
-            print(f"Unknown section: {section}. Available: {list(SECTIONS)}")
+        if section == 'forum-topics':
+            if not shard_file:
+                print("--section forum-topics requires --shard-file", file=sys.stderr)
+                sys.exit(1)
+            generate_forum_topics_from_shard(shard_file)
+        elif section not in SECTIONS:
+            print(f"Unknown section: {section}. Available: {list(SECTIONS) + ['forum-topics']}")
             sys.exit(1)
-        SECTIONS[section]()
+        else:
+            SECTIONS[section]()
     else:
         for name, fn in SECTIONS.items():
             fn()

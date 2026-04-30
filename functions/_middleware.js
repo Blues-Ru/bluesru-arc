@@ -17,6 +17,7 @@
 // R2 origin — internal hostname mapped to the R2 bucket
 const R2_ORIGIN = "https://internal-media.blues.ru";
 const R2_PREFIX = "bluesru-media";
+const R2_CACHE_PREFIX = "bluesru-media.cache";
 
 // Media file extensions served from R2
 const MEDIA_EXTENSIONS = new Set([
@@ -50,6 +51,11 @@ function resolveMediaUrl(pathname) {
       const rest = pathname.slice(urlPrefix.length);
       return `${R2_ORIGIN}/${R2_PREFIX}/${r2dir}${rest}`;
     }
+  }
+
+  // Thumbnails: *-400w.jpg served from cache prefix
+  if (pathname.endsWith("-400w.jpg")) {
+    return `${R2_ORIGIN}/${R2_CACHE_PREFIX}${pathname}`;
   }
 
   // Default 1:1 mapping: URL path maps to R2 key = R2_PREFIX + pathname
