@@ -99,37 +99,37 @@
 
 <ul>
 
-<li><small><a target="_blank" href="/bluesnews/00Autumn/00Efes.htm">
+<li><small><a target="_blank" href="/bluesnews/2000-autumn/efes-main.htm">
 ВЭБ о фестивале</a></small></small></li>
 
 <li><small><a href="longjohn.htm">Long John Hunter 
 &amp; The Bad News Blues Band</a>
 <ul>
-<li><a target="_blank" href="/bluesnews/00Autumn/00Efes3.htm">ВЭБ о LJH</a></li>
-<li><a target="_blank" href="/bluesnews/00Autumn/00EfesHunter.htm">интервью ВЭБ</a></li>
+<li><a target="_blank" href="/bluesnews/2000-autumn/efes-hunter.htm">ВЭБ о LJH</a></li>
+<li><a target="_blank" href="/bluesnews/2000-autumn/efes-hunter-int.htm">интервью ВЭБ</a></li>
 </ul>
 
 </small></li>
 
 <li><small><a href="holmesbr.htm">The Holmes Brothers</a>
 <ul>
-<li><a target="_blank" href="/bluesnews/00Autumn/00Efes1.htm">ВЭБ о HB</a></li>
-<li><a target="_blank" href="/bluesnews/00Autumn/00EfesHolmes.htm">интервью ВЭБ</a></li>
+<li><a target="_blank" href="/bluesnews/2000-autumn/efes-holmes.htm">ВЭБ о HB</a></li>
+<li><a target="_blank" href="/bluesnews/2000-autumn/efes-holmes-int.htm">интервью ВЭБ</a></li>
 </ul>
 </small></li>
 
 <li><small><a href="zydeco.htm">Lil' Brian &amp; The Zydeco Travellers</a>
 <ul>
-<li><a target="_blank" href="/bluesnews/00Autumn/00Efes2.htm">ВЭБ о LB &amp; ZT</a></li>
-<li><a target="_blank" href="/bluesnews/00Autumn/00EfesBryan.htm">интервью ВЭБ</a></li>
+<li><a target="_blank" href="/bluesnews/2000-autumn/efes-lil-brian.htm">ВЭБ о LB &amp; ZT</a></li>
+<li><a target="_blank" href="/bluesnews/2000-autumn/efes-lil-brian-int.htm">интервью ВЭБ</a></li>
 </ul>
 </small></li>
 
-<li><small><a target="_blank" href="/bluesnews/00Autumn/00EfesJ.htm">Фоторепортаж с 
+<li><small><a target="_blank" href="/bluesnews/2000-autumn/efes-jam.htm">Фоторепортаж с 
 послефестивального джема</a>
 </small></li>
 
-<li><small><a target="_blank" href="/bluesnews/00Autumn/00EfesLot.htm">Конкурс 
+<li><small><a target="_blank" href="/bluesnews/2000-autumn/efes-contest.htm">Конкурс 
 blues.ru</a></small></li>
 
 <li><small><a href="bluesru.htm">Blues.ru о фестивале</a></small></li>

@@ -3504,3 +3504,16 @@
 /rblues/White/*  /rblues/white/:splat  301
 /rblues/Yuri_Naumov/  /rblues/yuri-naumov/  301
 /rblues/Yuri_Naumov/*  /rblues/yuri-naumov/:splat  301
+
+# bluesnews/00Autumn → 2000-autumn slug rename
+/bluesnews/00Autumn/  /bluesnews/2000-autumn/  301
+/bluesnews/00Autumn/*  /bluesnews/2000-autumn/:splat  301
+/bluesnews/2000-autumn/00Efes.htm  /bluesnews/2000-autumn/efes-main.htm  301
+/bluesnews/2000-autumn/00Efes1.htm  /bluesnews/2000-autumn/efes-holmes.htm  301
+/bluesnews/2000-autumn/00Efes2.htm  /bluesnews/2000-autumn/efes-lil-brian.htm  301
+/bluesnews/2000-autumn/00Efes3.htm  /bluesnews/2000-autumn/efes-hunter.htm  301
+/bluesnews/2000-autumn/00EfesBryan.htm  /bluesnews/2000-autumn/efes-lil-brian-int.htm  301
+/bluesnews/2000-autumn/00EfesHolmes.htm  /bluesnews/2000-autumn/efes-holmes-int.htm  301
+/bluesnews/2000-autumn/00EfesHunter.htm  /bluesnews/2000-autumn/efes-hunter-int.htm  301
+/bluesnews/2000-autumn/00EfesJ.htm  /bluesnews/2000-autumn/efes-jam.htm  301
+/bluesnews/2000-autumn/00EfesLot.htm  /bluesnews/2000-autumn/efes-contest.htm  301
