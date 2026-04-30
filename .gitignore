@@ -9,6 +9,10 @@ __pycache__/
 *.pyc
 *.pyo
 
+# Build artifacts
+.deps-stamp
+.forum-shards/
+
 # macOS
 .DS_Store
 

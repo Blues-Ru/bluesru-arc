@@ -12,9 +12,17 @@ SHARDS     = 0 1 2 3 4 5 6 7
 # On CF Pages BLUESRU_ROOT is not set; generate.py falls back to repo-relative paths
 RUN = $(if $(wildcard $(ROOT)),BLUESRU_ROOT=$(ROOT),) $(PYTHON)
 
+# ── Dependencies ─────────────────────────────────────────────────────────────
+
+deps: .deps-stamp
+
+.deps-stamp: requirements.txt
+	pip install -q -r requirements.txt
+	@touch $@
+
 # ── Full sequential build (default) ──────────────────────────────────────────
 
-build:
+build: deps
 	bash $(SCRIPTS)/build.sh
 
 # ── Parallel build ────────────────────────────────────────────────────────────
@@ -28,7 +36,7 @@ build:
 #
 # Usage: make -j16 build-parallel
 
-build-parallel: postprocess deploy
+build-parallel: deps postprocess deploy
 
 deploy: postprocess
 postprocess: _phase2
@@ -98,7 +106,7 @@ push-cache:
 
 push-all: push-media push-cache push
 
-.PHONY: build build-parallel _phase1 _phase2 \
+.PHONY: deps build build-parallel _phase1 _phase2 \
         content bluesmen news reviews atb updates homepage data \
         galleries photo postprocess deploy \
         forum forum-plan forum-index \
