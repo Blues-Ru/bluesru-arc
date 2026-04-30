@@ -9,10 +9,14 @@
 <link rel="stylesheet" href="/static/css/site.css">
 <style type="text/css">
 a {text-decoration:none}
-td.main-content { max-width: 680px; }
+td.main-content { max-width: 680px; padding: 8px 16px; }
 #blues-calendar { font-size: 0.95em; }
 .widget-list { font-size: 0.95em; list-style: none; padding: 0; margin: 4px 0; }
+.widget-list li { margin-bottom: 0.55em; }
+.widget-date { font-size: 0.82em; }
 #blues-calendar img { max-width: 180px; max-height: 120px; }
+.update-item { margin: 0.6em 0 1.4em 0; font-size: 0.95em; line-height: 1.5; }
+.update-date { font-size: 0.82em; color: #4F62B5; }
 </style>
   {{ ga_snippet | safe }}
 </head>
@@ -35,25 +39,22 @@ td.main-content { max-width: 680px; }
   <td bgcolor="#003D84" nowrap><font color="#FFFFFF"><b>Блюз</b></font></td>
 </tr>
 <tr>
-  <td nowrap><big><a href="/news/">Новости</a></big></td>
-</tr>
-<tr>
   <td nowrap><big><a href="/artist/">Музыканты</a></big></td>
-</tr>
-<tr>
-  <td nowrap><big><a href="/review/">CD обзор</a></big></td>
-</tr>
-<tr>
-  <td nowrap><big><a href="/forum/">Форум</a></big></td>
 </tr>
 <tr>
   <td nowrap><big><a href="/atb/">Весь этот блюз</a></big></td>
 </tr>
 <tr>
+  <td nowrap><big><a href="/photo/">Фото</a></big></td>
+</tr>
+<tr>
+  <td nowrap><big><a href="/news/">Новости</a></big></td>
+</tr>
+<tr>
   <td nowrap><big><a href="/calendar/">Календарь</a></big></td>
 </tr>
 <tr>
-  <td nowrap><big><a href="/photo/">Фото</a></big></td>
+  <td nowrap><big><a href="/review/">Обзоры</a></big></td>
 </tr>
 
 <tr>
@@ -80,6 +81,9 @@ td.main-content { max-width: 680px; }
 </tr>
 <tr>
   <td nowrap><a href="/article/">Статьи</a></td>
+</tr>
+<tr>
+  <td nowrap><a href="/forum/">Форум</a></td>
 </tr>
 <tr>
   <td nowrap><a href="/andrey/">Андрей Евдокимов</a></td>
@@ -129,10 +133,10 @@ td.main-content { max-width: 680px; }
   <td nowrap><a href="/atb/archive/">Весь этот блюз 2000</a></td>
 </tr>
 <tr>
-  <td nowrap><a href="/rblues/">Русский блюз</a></td>
+  <td nowrap><a href="/rblues/">Группы 2000</a></td>
 </tr>
 <tr>
-  <td nowrap><a href="/bluesnews/">Новости 2000</a></td>
+  <td nowrap><a href="/bluesnews/">Новости 2003</a></td>
 </tr>
 
 <tr>
@@ -190,7 +194,7 @@ td.main-content { max-width: 680px; }
     <td valign="top" class="main-content">
 
 <a name="calendar"></a>
-<a href="/calendar/"><b>В этот день... (блюзовый календарь)</b> &gt;&gt;</a>
+<a href="/calendar/#{{ today }}"><b>В этот день... (блюзовый календарь)</b> &gt;&gt;</a>
 <p>
 <div id="blues-calendar" data-mode="short"><i>загрузка...</i></div>
 
@@ -201,7 +205,7 @@ td.main-content { max-width: 680px; }
 {% if blues_news %}
 <ul class="widget-list">
 {% for item in blues_news %}
-<li><font color="#4F62B5">{{ item.date }}</font> <a href="{{ item.url }}">{{ item.title | e }}</a></li>
+<li><span class="widget-date"><font color="#4F62B5">{{ item.date }}</font></span>&ensp;<a href="{{ item.url }}">{{ item.title | e }}</a></li>
 {% endfor %}
 </ul>
 {% endif %}
@@ -213,7 +217,7 @@ td.main-content { max-width: 680px; }
 {% if latest_atb %}
 <ul class="widget-list">
 {% for ep in latest_atb %}
-<li><font color="#4F62B5">{{ ep.date }}</font> <a href="{{ ep.url }}">{{ ep.summary | e }}</a></li>
+<li><span class="widget-date"><font color="#4F62B5">{{ ep.date }}</font></span>&ensp;<a href="{{ ep.url }}">{{ ep.summary | e }}</a></li>
 {% endfor %}
 </ul>
 {% endif %}
@@ -223,11 +227,9 @@ td.main-content { max-width: 680px; }
 <a name="news"></a>
 <a href="/updates/"><b>Обновления Blues.Ru</b> &gt;&gt;</a>
 {% if latest_updates %}
-<ul class="widget-list">
 {% for item in latest_updates %}
-<li><font color="#4F62B5">{{ item.date }}</font> {{ item.text | e }}</li>
+<div class="update-item"><span class="update-date">{{ item.date }}</span>&ensp;{{ item.html | safe }}</div>
 {% endfor %}
-</ul>
 {% endif %}
 
     </td>

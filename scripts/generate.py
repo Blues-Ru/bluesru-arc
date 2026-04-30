@@ -3271,16 +3271,11 @@ def generate_homepage():
                 body = m.group(2).strip()
                 raw_ann.append((meta, body))
         raw_ann.sort(key=lambda x: str(x[0].get('date', '0000')), reverse=True)
-        for meta, body in raw_ann[:10]:
+        for meta, body in raw_ann[:8]:
             ds = str(meta.get('date', ''))
-            plain = re.sub(r'<[^>]+>', '', body).strip()
-            plain = re.sub(r'\s+', ' ', plain)
-            snippet = plain[:160].rstrip()
-            if len(plain) > 160:
-                snippet = snippet.rsplit(' ', 1)[0] + '…'
             latest_updates_items.append({
                 'date': ds[:10] if ds else '',
-                'text': snippet,
+                'html': body,
             })
 
     # ── Links ─────────────────────────────────────────────────────────────────
@@ -3301,6 +3296,7 @@ def generate_homepage():
         latest_updates=latest_updates_items,
         links_html=links_html,
         footer=FOOTER,
+        today=datetime.now().strftime('%Y-%m-%d'),
     )
     (SITE / 'index.html').write_text(html, encoding='utf-8')
     print(f"  index.html: {len(blues_news_items)} blues news, {len(latest_atb_items)} ATB, {len(latest_updates_items)} updates")

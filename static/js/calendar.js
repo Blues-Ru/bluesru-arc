@@ -43,11 +43,12 @@
     return html;
   }
 
-  function renderDayFull(mmdd, events, label) {
+  function renderDayFull(mmdd, events, label, dateId) {
     var evHtml = events.length
       ? events.map(renderEventFull).join('')
       : '<p><i>Нет событий</i></p>';
-    return '<tr><td align="center" valign="top"><big><b>' + label + '</b></big></td>'
+    var idAttr = dateId ? ' id="' + dateId + '"' : '';
+    return '<tr' + idAttr + '><td align="center" valign="top"><big><b>' + label + '</b></big></td>'
       + '<td>' + evHtml + '</td></tr>';
   }
 
@@ -92,10 +93,18 @@
     var html = '<table BORDER="1" CELLSPACING="0" CELLPADDING="4" width="700" align="center">';
     days.forEach(function(day) {
       var events = (calData && calData[day.mmdd]) || [];
-      html += renderDayFull(day.mmdd, events, day.label);
+      var y = day.date.getFullYear();
+      var m = String(day.date.getMonth() + 1).padStart(2, '0');
+      var d = String(day.date.getDate()).padStart(2, '0');
+      html += renderDayFull(day.mmdd, events, day.label, y + '-' + m + '-' + d);
     });
     html += '</table>';
     el.innerHTML = html;
+    var hash = window.location.hash;
+    if (hash) {
+      var target = document.querySelector(hash);
+      if (target) target.scrollIntoView();
+    }
   }
 
   fetch('/data/calendar.json')
