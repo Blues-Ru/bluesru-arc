@@ -1275,6 +1275,7 @@ def generate_reviews():
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
   <link rel="shortcut icon" href="/images/bluesru.ico">
   <style>body { max-width: 900px; margin: 0 auto; padding: 0 1em; }</style>
+  {{ ga_snippet | safe }}
 </head>
 <body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#5511cc" alink="#00bb00">
 <p><a href="/"><b>Blues.Ru</b></a> &gt; <a href="/review/">CD обзор</a></p>
@@ -1319,6 +1320,7 @@ def generate_reviews():
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
   <link rel="shortcut icon" href="/images/bluesru.ico">
   <style>body { max-width: 900px; margin: 0 auto; padding: 0 1em; }</style>
+  {{ ga_snippet | safe }}
 </head>
 <body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#5511cc" alink="#00bb00">
 <p><a href="/"><b>Blues.Ru</b></a> &gt; <a href="/review/">CD обзор</a></p>
@@ -2935,6 +2937,7 @@ def generate_atb():
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
   <link rel="shortcut icon" href="/images/bluesru.ico">
   <link rel="stylesheet" href="/static/css/site.css">
+  {{ ga_snippet | safe }}
   <style>
     body { max-width: 820px; margin: 0 auto; padding: 0 1.2em; }
     .ep-meta { color: #777; font-size: 0.88em; margin-bottom: 1em; }
@@ -3024,6 +3027,7 @@ def generate_atb():
   <title>Blues.Ru: Весь этот блюз — архив передач</title>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
   <link rel="shortcut icon" href="/images/bluesru.ico">
+  {{ ga_snippet | safe }}
   <style>
     body { max-width: 900px; margin: 0 auto; padding: 0 1em; }
     .ep-date { color: #4F62B5; font-size: 0.9em; min-width: 90px; display: inline-block; }
@@ -3393,6 +3397,7 @@ def _generate_links_page(categories, sites):
             '<title>Блюзовые ссылки — Blues.Ru</title>\n'
             '<link rel="shortcut icon" href="/images/bluesru.ico">\n'
             '<link rel="stylesheet" href="/static/css/site.css">\n'
+            + GA_SNIPPET + '\n'
             '<style>a{text-decoration:none}</style>\n'
             '</head>\n<body bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#5511CC">\n'
             '<p><a href="/"><b>Blues.Ru</b></a> &gt; Ссылки</p>\n'
@@ -3418,7 +3423,7 @@ def copy_root_files():
     Run this AFTER all generators (including galleries) have finished appending
     to ARC/_redirects, so SITE gets the complete redirect list.
     """
-    for fname in ['_redirects', '_headers', '404.html']:
+    for fname in ['_redirects', '_headers', '404.html', 'robots.txt']:
         src = ARC / fname
         if src.exists():
             shutil.copy2(src, SITE / fname)
