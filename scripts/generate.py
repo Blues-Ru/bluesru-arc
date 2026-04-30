@@ -32,32 +32,22 @@ from datetime import datetime
 import jinja2
 
 # ── Paths ──────────────────────────────────────────────────────────────────────
-# ARC = the bluesru-arc repo root (parent of scripts/)
 ARC        = Path(__file__).resolve().parent.parent
-# BLUESRU_ROOT: workspace root when running locally; defaults to ARC parent for compat
-_ws_root   = Path(os.environ.get('BLUESRU_ROOT', str(ARC.parent)))
-SITE       = Path(os.environ.get('BLUESRU_SITE', str(_ws_root / 'bluesru-site')))
+SITE       = Path(os.environ.get('BLUESRU_SITE', str(ARC.parent / 'bluesru-site')))
 TEMPLATES  = ARC / "templates"
 INCLUDES   = ARC / "includes"
 STATIC     = ARC / "static"
 COVERS     = STATIC / "covers"   # cached Amazon cover images {asin}.jpg
-CONTENT    = ARC / "content"   # populated by blues-dev/populate/populate.py
-# Media fallback for local serving (not used in CF Pages build — media comes from R2)
-MEDIA_DIR  = _ws_root / "bluesru-media"
-
-# ── Media URL ──────────────────────────────────────────────────────────────────
-MEDIA_BASE_URL = ""  # root-relative URLs; media files served from bluesru-media/ at same origin
-
-# Content dirs — all sections are pre-populated in content/ by populate.py
-# BLUES_RU kept for SSI resolution fallback (points to content/ when ws root unavailable)
-BLUES_RU   = (_ws_root / "blues-ru") if (_ws_root / "blues-ru").exists() else CONTENT
+CONTENT    = ARC / "content"
 BLUESNEWS  = CONTENT / "bluesnews"
 ATB        = CONTENT / "atb"
 BEEFHEART  = CONTENT / "beefheart"
 ETHNOTRIP  = CONTENT / "ethnotrip"
 ZAPPAZUHOI = CONTENT / "zappazuhoi"
-# Calendar images: prefer committed copy inside ARC, fall back to workspace
-CAL_IMGS   = next((d for d in [ARC / "calendar", ARC / "blues-calendar", _ws_root / "blues-calendar"] if d.exists()), ARC / "calendar")
+CAL_IMGS   = ARC / "calendar"
+
+# ── Media URL ──────────────────────────────────────────────────────────────────
+MEDIA_BASE_URL = ""  # root-relative URLs; media files served from bluesru-media/ at same origin
 
 # Extracted data: prefer inside ARC (for CF Pages), fall back to workspace
 DATA = ARC / "data"
@@ -67,7 +57,7 @@ ARTISTS_YAML    = DATA / "artists.yaml"
 ALBUMS_DIR      = DATA / "albums"
 REVIEWS_DIR     = DATA / "albums"      # reviews now embedded in album files
 EVENTS_DIR      = DATA / "calendar.yaml"   # single file (used as path, checked in generator)
-ANNOUNCE_DIR    = DATA / "announcements"
+ANNOUNCE_DIR    = DATA / "updates"
 NEWS_DIR        = DATA / "news"
 TOPICS_DIR      = DATA / "forum" / "topics"
 
@@ -103,8 +93,37 @@ def _find_topic_yaml(topic_id):
 RESOURCES_YAML  = DATA / "artists.yaml"    # resources now in artists.yaml
 STREAMING_ARTISTS = DATA / "artists.yaml"  # streaming now in artists.yaml
 STREAMING_ALBUMS  = DATA / "albums"        # streaming now in album files
-GALLERIES_YAML    = DATA / "galleries" / "index.yaml"
+GALLERIES_YAML    = DATA / "galleries" / "index.yaml"  # kept for reference, not read at build
 GALLERIES_DIR     = DATA / "galleries"
+
+
+def load_all_gallery_yamls():
+    """Load all individual gallery YAML files; index.yaml is ignored.
+
+    Each individual gallery YAML is authoritative (slug, canonical_date, path,
+    type, photo_count, photos, exclude).  The separate index.yaml was a manual
+    sync-prone summary — no longer needed.
+    """
+    seen = set()
+    galleries = []
+    for p in sorted(GALLERIES_DIR.glob('*.yaml')):
+        if p.stem == 'index':
+            continue
+        d = yaml.safe_load(p.read_text(encoding='utf-8')) or {}
+        if isinstance(d, dict) and d.get('slug'):
+            key = (d['slug'], str(d.get('canonical_date') or ''))
+            if key not in seen:
+                seen.add(key)
+                galleries.append(d)
+    for p in sorted(GALLERIES_DIR.glob('*/*.yaml')):
+        d = yaml.safe_load(p.read_text(encoding='utf-8')) or {}
+        if isinstance(d, dict) and d.get('slug'):
+            key = (d['slug'], str(d.get('canonical_date') or ''))
+            if key not in seen:
+                seen.add(key)
+                galleries.append(d)
+    galleries.sort(key=lambda g: (str(g.get('canonical_date') or '0000'), g.get('slug', '')))
+    return galleries
 CALENDAR_YAML     = DATA / "calendar.yaml"
 
 # Gallery YAML files may live flat in GALLERIES_DIR or in year subdirs (YYYY/slug.yaml)
@@ -367,8 +386,7 @@ def resolve_include(vpath, source_dir, source_root):
     candidates = []
     if vpath_lower.startswith('/'):
         rel = vpath.lstrip('/')
-        # Prefer the encoding-corrected content/ version over raw source dirs
-        candidates = [CONTENT / rel, BLUES_RU / rel, source_root / rel]
+        candidates = [CONTENT / rel, source_root / rel]
     else:
         candidates = [source_dir / vpath, source_root / vpath]
 
@@ -416,6 +434,12 @@ def _build_resource_links(resources, artist_slug):
         elif url.startswith('/artist/') and artist_slug:
             rest = re.sub(r'^/artist/[^/]+', '', url)
             url = f'/artist/{artist_slug}{rest}'
+        # Rewrite /ATB/*.mp3 links → /atb/ (old audio links, no longer served individually)
+        if re.match(r'^/ATB/.*\.mp3$', url, re.IGNORECASE):
+            url = '/atb/'
+        # Skip if URL points to the artist's own page (redundant)
+        if artist_slug and url.rstrip('/') == f'/artist/{artist_slug}':
+            continue
         # Deduplicate
         if url in seen_urls:
             continue
@@ -427,8 +451,45 @@ def _build_resource_links(resources, artist_slug):
     return ' | '.join(items)
 
 
+def _build_album_list_html(artist_slug, artist_id, albums_by_artist):
+    """Build static HTML album list for an artist bio page (replaces albums.js)."""
+    import html as _html
+    albums = albums_by_artist.get(str(artist_id), [])
+    if not albums:
+        return ''
+    # Sort by year desc
+    def _year_key(a):
+        try: return -int(a.get('year', 0) or 0)
+        except: return 0
+    albums = sorted(albums, key=_year_key)
+    parts = ['<h3>Избранные компакт-диски</h3>\n<ul>\n']
+    for a in albums:
+        asin = a.get('asin', '')
+        album_slug = a.get('slug', '')
+        url_seg = _strip_artist_prefix(artist_slug, album_slug) if album_slug else ''
+        if url_seg:
+            href = f'/artist/{artist_slug}/{url_seg}/'
+        elif a.get('review_slug'):
+            href = f'/review/{a["review_slug"]}/'
+        else:
+            href = '#'
+        title = _html.escape(a.get('title', '') or a.get('artist', '') or '')
+        year = a.get('year', '')
+        label = a.get('label', '')
+        year_str = f', {_html.escape(str(year))}' if year else ''
+        label_str = f', <i>{_html.escape(label)}</i>' if label else ''
+        cover = ''
+        if asin:
+            cover_url = cover_url_for_asin(asin)
+            cover = f'<img src="{cover_url}" alt="" border="0" style="vertical-align:middle;margin-right:4px;" width="40" height="40">'
+        parts.append(f'<li>{cover}<b><a href="{href}">{title}</a></b>{year_str}{label_str}</li>\n')
+    parts.append('</ul>\n')
+    return ''.join(parts)
+
+
 def process_html(content, source_dir, source_root, artist_slug=None,
-                 artist_name=None, artist_legacy_dir=None, artist_resources=None):
+                 artist_name=None, artist_legacy_dir=None, artist_resources=None,
+                 artist_albums_html=None):
     content = strip_analytics(content)
     content = re.sub(r'charset\s*=\s*["\']?windows-1251["\']?', 'charset=utf-8',
                      content, flags=re.IGNORECASE)
@@ -438,7 +499,7 @@ def process_html(content, source_dir, source_root, artist_slug=None,
     content = re.sub(r'href="default\.html?"', 'href="./"',
                      content, flags=re.IGNORECASE)
 
-    # Replace dynamic.aspx with nav block + JS album loader if artist_slug given
+    # Replace dynamic.aspx with nav block + static album list if artist_slug given
     if artist_slug:
         nav_block = '<hr size="1">\n'
         if artist_name and artist_legacy_dir:
@@ -453,13 +514,10 @@ def process_html(content, source_dir, source_root, artist_slug=None,
             res_links = (res_links + ' | ' if res_links else '') + stream_html
         if res_links:
             nav_block += f'<p>{res_links}</p>\n'
-        album_div = (
-            f'\n{nav_block}'
-            f'<div id="artist-albums" data-slug="{artist_slug}">'
-            f'<small><i>Загрузка дискографии...</i></small></div>\n'
-            f'<script src="/static/js/albums.js"></script>\n'
-        )
-        content = RE_DYNAMIC_ASPX.sub(album_div, content)
+        album_block = f'\n{nav_block}'
+        if artist_albums_html:
+            album_block += artist_albums_html
+        content = RE_DYNAMIC_ASPX.sub(album_block, content)
     else:
         content = RE_DYNAMIC_ASPX.sub('', content)
 
@@ -1414,8 +1472,7 @@ def generate_news():
 
     all_items = [make_news_item(meta, body) for meta, body in items]
 
-    # ── 1. /news/ — 10 latest ──────────────────────────────────────────────────
-    # Build month index first (needed for nav links)
+    # ── Build indexes ──────────────────────────────────────────────────────────
     from collections import defaultdict
     by_month = defaultdict(list)
     for item in all_items:
@@ -1424,94 +1481,7 @@ def generate_news():
             by_month[ds[:7]].append(item)
     month_keys_sorted = sorted(by_month.keys(), reverse=True)  # newest first
 
-    # Nav: link to the 6 most recent months + archive link
-    def month_label(k):
-        y2, m2 = k[:4], int(k[5:7])
-        return f'<a href="/news/{y2}/{m2:02d}/">{y2} {MONTHS_RU[m2]}</a>'
-    recent_links = ' | '.join(month_label(k) for k in month_keys_sorted[:6])
-    more_months_html = recent_links + ' | <a href="/news/archive/">Весь архив →</a>'
-
-    # Bottom nav for first page: link to the month of the 11th item (oldest not shown)
-    bottom_nav_html = more_months_html
-    if len(all_items) > 10:
-        next_month_key = all_items[10]['date_str'][:7]
-        if len(next_month_key) >= 7:
-            y2, m2 = next_month_key[:4], int(next_month_key[5:7])
-            bottom_nav_html = (
-                f'{month_label(next_month_key)} → | <a href="/news/archive/">Весь архив →</a>'
-            )
-
-    dst = SITE / 'news' / 'index.html'
-    dst.parent.mkdir(parents=True, exist_ok=True)
-    dst.write_text(tmpl.render(
-        news_items=all_items[:10],
-        page_title='Блюзовые новости',
-        nav_links=more_months_html,
-        bottom_nav=bottom_nav_html,
-        footer=FOOTER,
-    ), encoding='utf-8')
-
-    # ── 2. /news/YYYY/MM/ — monthly archive pages ──────────────────────────────
-    month_keys = sorted(by_month.keys())
-    monthly_count = 0
-    for i, key in enumerate(month_keys):
-        year, mo = key[:4], int(key[5:7])
-        prev_key = month_keys[i - 1] if i > 0 else None
-        next_key = month_keys[i + 1] if i + 1 < len(month_keys) else None
-
-        def month_nav(k):
-            if not k:
-                return ''
-            y2, m2 = k[:4], int(k[5:7])
-            return f'<a href="/news/{y2}/{m2:02d}/">{y2} {MONTHS_RU[m2]}</a>'
-
-        # Backward chronology: newer month on left (←), older on right (→)
-        parts = []
-        if next_key:  # next_key = newer month (higher in ascending list)
-            parts.append(f'← {month_nav(next_key)}')
-        parts.append(f'<b>{year} {MONTHS_RU[mo]}</b>')
-        if prev_key:  # prev_key = older month (lower in ascending list)
-            parts.append(f'{month_nav(prev_key)} →')
-        nav = ' | '.join(parts)
-
-        dst_month = SITE / 'news' / year / f'{mo:02d}' / 'index.html'
-        dst_month.parent.mkdir(parents=True, exist_ok=True)
-        dst_month.write_text(tmpl.render(
-            news_items=by_month[key],
-            page_title=f'Блюзовые новости: {year} {MONTHS_RU[mo]}',
-            nav_links=nav,
-            footer=FOOTER,
-        ), encoding='utf-8')
-        monthly_count += 1
-
-    # ── 3. /news/YYYY/MM/DD/storyN/ — individual story pages ──────────────────
-    story_tmpl = JINJA_ENV.get_template('news_list.html.j2')
-    story_count = 0
-    for item in all_items:
-        ds = item['date_str']
-        if not ds or len(ds) < 10:
-            continue
-        year, mo_str, day = ds[:4], ds[5:7], ds[8:10]
-        nid = item['id']
-        dst_story = SITE / 'news' / year / mo_str / day / f'story{nid}' / 'index.html'
-        dst_story.parent.mkdir(parents=True, exist_ok=True)
-
-        mo_int = int(mo_str)
-        back_nav = (f'← <a href="/news/{year}/{mo_str}/">{year} {MONTHS_RU[mo_int]}</a>'
-                    f'  |  <a href="/news/">Все новости</a>')
-
-        dst_story.write_text(story_tmpl.render(
-            news_items=[item],
-            page_title=item['title'],
-            nav_links=back_nav,
-            footer=FOOTER,
-        ), encoding='utf-8')
-        story_count += 1
-
-    print(f"  News: {len(all_items)} items, {monthly_count} monthly pages, {story_count} story pages")
-
-    # ── 4. /news/archive/ — full month archive ────────────────────────────────
-    # Build year → list of {key, label, count} newest first
+    # year → list of month dicts (newest month first within year)
     from collections import OrderedDict as _OD
     years_arch = _OD()
     for mk in month_keys_sorted:
@@ -1519,40 +1489,170 @@ def generate_news():
         y2, m2 = mk[:4], int(mk[5:7])
         years_arch.setdefault(yr, []).append({
             'key': mk,
-            'label': f'{y2} {MONTHS_RU[m2]}',
             'url': f'/news/{y2}/{m2:02d}/',
+            'month_ru': MONTHS_RU[m2],
             'count': len(by_month[mk]),
         })
+    year_keys_desc = list(years_arch.keys())  # newest year first
 
-    archive_html_parts = []
-    for yr, months in years_arch.items():
-        links = ' | '.join(
-            f'<a href="{m["url"]}">{MONTHS_RU[int(m["key"][5:7])]} ({m["count"]})</a>'
-            for m in months
-        )
-        archive_html_parts.append(f'<h3>{yr}</h3><p>{links}</p>')
+    def _years_footer(current_yr=None):
+        """Single-line list of all years, current bolded."""
+        links = []
+        for y in year_keys_desc:
+            if y == current_yr:
+                links.append(f'<b>{y}</b>')
+            else:
+                links.append(f'<a href="/news/{y}/">{y}</a>')
+        return ' | '.join(links)
 
-    arch_body = '\n'.join(archive_html_parts)
-    archive_page = f"""\
-<!DOCTYPE html>
-<html>
-<head>
-<title>Архив Блюзовых новостей — Blues.Ru</title>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<link rel="shortcut icon" href="/images/bluesru.ico">
-<link rel="stylesheet" href="/static/css/site.css">
-</head>
-<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#5511cc">
-<h2>Архив Блюзовых новостей</h2>
-<p><a href="/news/">← Последние новости</a></p>
-{arch_body}
-<hr size="1">
-<p align="center">{FOOTER}</p>
-</body>
-</html>"""
-    arch_dst = SITE / 'news' / 'archive' / 'index.html'
-    arch_dst.parent.mkdir(parents=True, exist_ok=True)
-    arch_dst.write_text(archive_page, encoding='utf-8')
+    # ── 1. /news/ — 10 latest ──────────────────────────────────────────────────
+    # Bottom: link to the specific month of the 11th item (first not shown)
+    if len(all_items) > 10:
+        ds11 = all_items[10]['date_str']
+        arch_yr, arch_mo = ds11[:4], int(ds11[5:7])
+        bottom_nav_html = f'<a href="/news/{arch_yr}/{arch_mo:02d}/">{arch_yr} {MONTHS_RU[arch_mo]} →</a>'
+    elif year_keys_desc:
+        bottom_nav_html = f'<a href="/news/{year_keys_desc[0]}/">{year_keys_desc[0]} →</a>'
+    else:
+        bottom_nav_html = ''
+
+    dst = SITE / 'news' / 'index.html'
+    dst.parent.mkdir(parents=True, exist_ok=True)
+    dst.write_text(tmpl.render(
+        news_items=all_items[:10],
+        page_title='Блюзовые новости',
+        nav_links=None,
+        bottom_nav=bottom_nav_html,
+        footer=FOOTER,
+    ), encoding='utf-8')
+
+    # ── 2. /news/YYYY/MM/ — monthly archive pages ──────────────────────────────
+    month_keys_asc = sorted(by_month.keys())
+    monthly_count = 0
+    for i, key in enumerate(month_keys_asc):
+        year, mo = key[:4], int(key[5:7])
+        prev_key = month_keys_asc[i - 1] if i > 0 else None
+        next_key = month_keys_asc[i + 1] if i + 1 < len(month_keys_asc) else None
+
+        def month_nav(k):
+            if not k:
+                return ''
+            y2, m2 = k[:4], int(k[5:7])
+            return f'<a href="/news/{y2}/{m2:02d}/">{y2} {MONTHS_RU[m2]}</a>'
+
+        # Breadcrumb: Новости : YYYY : Месяц  ←prev | next→
+        crumb = (f'<a href="/news/">Новости</a> : '
+                 f'<a href="/news/{year}/">{year}</a> : '
+                 f'<b>{MONTHS_RU[mo]}</b>')
+        pager_parts = []
+        if next_key:
+            pager_parts.append(f'← {month_nav(next_key)}')
+        if prev_key:
+            pager_parts.append(f'{month_nav(prev_key)} →')
+        pager = ' | '.join(pager_parts)
+        top_nav = crumb + (f'<br><br>{pager}' if pager else '')
+        bot_nav = pager if pager else crumb
+
+        dst_month = SITE / 'news' / year / f'{mo:02d}' / 'index.html'
+        dst_month.parent.mkdir(parents=True, exist_ok=True)
+        dst_month.write_text(tmpl.render(
+            news_items=by_month[key],
+            page_title=f'Блюзовые новости: {year} {MONTHS_RU[mo]}',
+            nav_links=top_nav,
+            bottom_nav=bot_nav,
+            footer=FOOTER,
+        ), encoding='utf-8')
+        monthly_count += 1
+
+    # ── 3. /news/YYYY/MM/DD/storyN/ — individual story pages ──────────────────
+    # Build prev/next index (sorted descending by date: item[0] = newest)
+    dated_items = [it for it in all_items if it['date_str'] and len(it['date_str']) >= 10]
+    story_tmpl = JINJA_ENV.get_template('news_list.html.j2')
+    story_count = 0
+    for idx, item in enumerate(dated_items):
+        ds = item['date_str']
+        year, mo_str, day = ds[:4], ds[5:7], ds[8:10]
+        mo_int = int(mo_str)
+        nid = item['id']
+        dst_story = SITE / 'news' / year / mo_str / day / f'story{nid}' / 'index.html'
+        dst_story.parent.mkdir(parents=True, exist_ok=True)
+
+        # prev = older (higher index), next = newer (lower index)
+        prev_item = dated_items[idx + 1] if idx + 1 < len(dated_items) else None
+        next_item = dated_items[idx - 1] if idx > 0 else None
+
+        def story_link(it):
+            return f'<a href="{it["url"]}">{it["date_display"]}</a>'
+
+        crumb = (f'<a href="/news/">Новости</a> : '
+                 f'<a href="/news/{year}/">{year}</a> : '
+                 f'<a href="/news/{year}/{mo_str}/">{MONTHS_RU[mo_int]}</a>')
+        pager_parts = []
+        if next_item:
+            pager_parts.append(f'← {story_link(next_item)}')
+        if prev_item:
+            pager_parts.append(f'{story_link(prev_item)} →')
+        pager = ' | '.join(pager_parts)
+        top_nav = crumb + (f'<br><br>{pager}' if pager else '')
+        bot_nav = pager if pager else crumb
+
+        dst_story.write_text(story_tmpl.render(
+            news_items=[item],
+            page_title=item['title'] or f'Новость {nid}',
+            nav_links=top_nav,
+            bottom_nav=bot_nav,
+            footer=FOOTER,
+        ), encoding='utf-8')
+        story_count += 1
+
+    print(f"  News: {len(all_items)} items, {monthly_count} monthly pages, {story_count} story pages")
+
+    # ── 4. /news/YYYY/ — year index with month sections ──────────────────────
+    year_archive_count = 0
+    for i, yr in enumerate(year_keys_desc):
+        prev_yr = year_keys_desc[i + 1] if i + 1 < len(year_keys_desc) else None  # older
+        next_yr = year_keys_desc[i - 1] if i > 0 else None  # newer
+
+        crumb = f'<a href="/news/">Новости</a> : <b>{yr}</b>'
+        pager_parts = []
+        if next_yr:
+            pager_parts.append(f'← <a href="/news/{next_yr}/">{next_yr}</a>')
+        if prev_yr:
+            pager_parts.append(f'<a href="/news/{prev_yr}/">{prev_yr}</a> →')
+        pager = ' | '.join(pager_parts)
+        year_nav = crumb + (f'<br><br>{pager}' if pager else '')
+
+        # Month sections with article titles — rendered as news_items for the template
+        year_items_html = []
+        for m in years_arch[yr]:  # newest-first within year
+            mo_int = int(m['key'][5:7])
+            items_in_month = by_month[m['key']]
+            ul_items = ''.join(
+                f'<li><font color="#4F62B5">{it["date_display"]}</font> '
+                f'<a href="{it["url"]}">{it["title"] or ("Новость " + str(it["id"]))}</a></li>\n'
+                for it in items_in_month
+            )
+            year_items_html.append(
+                f'<h3><a href="{m["url"]}">{yr} {MONTHS_RU[mo_int]}</a> ({m["count"]})</h3>\n'
+                f'<ul>\n{ul_items}</ul>'
+            )
+        body_html = '\n'.join(year_items_html)
+        years_foot = _years_footer(yr)
+        bot_nav = (pager + '<br><br>' if pager else '') + years_foot
+
+        yr_dst = SITE / 'news' / yr / 'index.html'
+        yr_dst.parent.mkdir(parents=True, exist_ok=True)
+        yr_dst.write_text(tmpl.render(
+            news_items=[],
+            year_body=body_html,
+            page_title=f'Блюзовые новости {yr}',
+            nav_links=year_nav,
+            bottom_nav=bot_nav,
+            footer=FOOTER,
+        ), encoding='utf-8')
+        year_archive_count += 1
+
+    print(f"  Archive: {year_archive_count} year pages")
 
 
 def generate_updates():
@@ -1769,14 +1869,31 @@ def generate_bluesmen():
     tmpl = JINJA_ENV.get_template('bluesmen_list.html.j2')
     resources_by_artist = load_resources()
 
-    # Prefer content/ (populated by populate.py); fall back to original blues-ru/
-    _content_bluesmen = CONTENT / 'artist'
-    SRC_BLUESMEN = _content_bluesmen if _content_bluesmen.exists() and any(_content_bluesmen.iterdir()) else BLUES_RU / 'bluesmen'
+    SRC_BLUESMEN = CONTENT / 'artist'
     print(f"  Source: {SRC_BLUESMEN}")
 
     # Load reviews grouped by artist_id
     artist_reviews = _load_artist_reviews()
     albums = load_albums()
+
+    # Build albums_by_artist_id for static album list rendering
+    reviews, review_by_album = load_reviews()
+    albums_by_artist_id = {}
+    for album in albums.values():
+        artist_id_key = str(album.get('artist_id', '') or '')
+        if not artist_id_key:
+            continue
+        entry = {
+            'id': str(album.get('id', '')),
+            'title': album.get('title', ''),
+            'year': str(album.get('year', '')),
+            'label': album.get('label', ''),
+            'artist': album.get('artist', ''),
+            'asin': album.get('asin', ''),
+            'slug': album.get('slug', ''),
+            'review_slug': review_by_album.get(str(album.get('id', '')), ''),
+        }
+        albums_by_artist_id.setdefault(artist_id_key, []).append(entry)
 
     # Build letter index
     from collections import defaultdict
@@ -1805,21 +1922,28 @@ def generate_bluesmen():
 
         src_dir = SRC_BLUESMEN / legacy_dir if legacy_dir else None
         has_dir = src_dir and src_dir.exists()
-        # Fallback: if DB legacy_dir doesn't exist, try name-based directory guess
+        # Fallback 1: try name-based directory guess (underscore form)
         if not has_dir and legacy_dir:
             name_dir = name.replace(' ', '_') if name else ''
             name_src = SRC_BLUESMEN / name_dir if name_dir else None
             if name_src and name_src.exists():
                 src_dir = name_src
                 has_dir = True
-                legacy_dir = name_dir  # use actual dir name for URL
+                legacy_dir = name_dir
+        # Fallback 2: try slug directly (handles slug == dir name, e.g. mud-morganfield)
+        slug = a.get('slug', '')
+        if not has_dir and slug:
+            slug_src = SRC_BLUESMEN / slug
+            if slug_src.exists():
+                src_dir = slug_src
+                has_dir = True
+                legacy_dir = slug
 
         artist_id = str(a.get('id', ''))
         has_reviews = bool(artist_reviews.get(artist_id))
 
         # Determine what URL to link
         # DB artists always use slug (lowercase-dashes); orphans use legacy_dir
-        slug = a.get('slug', '')
         if has_dir and slug:
             link_dir = slug   # bio page at /artist/{slug}/
         elif has_dir:
@@ -1879,8 +2003,10 @@ def generate_bluesmen():
 
         # Process artist bio pages (from static source)
         if has_dir:
+            albums_html = _build_album_list_html(slug, artist_id, albums_by_artist_id) if slug else ''
             _process_artist_dir(a, src_dir, SRC_BLUESMEN,
-                                artist_resources=resources_by_artist.get(artist_id))
+                                artist_resources=resources_by_artist.get(artist_id),
+                                artist_albums_html=albums_html)
             bio_count += 1
         elif has_reviews and slug:
             # Generate stub page with review list
@@ -1896,6 +2022,10 @@ def generate_bluesmen():
         legacy_dir = parts[-1] if (parts and parts[-1]) else ''
         if legacy_dir and '.' not in legacy_dir and not legacy_dir.startswith('www.'):
             processed_dirs.add(legacy_dir)
+        # Also add the slug (lowercase-dashes) so renamed dirs aren't treated as orphans
+        slug_dir = a.get('slug', '')
+        if slug_dir:
+            processed_dirs.add(slug_dir)
         # Also track name-based fallback dir (e.g. Luther_Allison vs Allison_Luther)
         name = a.get('name', '')
         if name and legacy_dir and '.' not in legacy_dir:
@@ -1911,8 +2041,8 @@ def generate_bluesmen():
             continue
         # This directory was not claimed by any DB artist — process as orphan
         dir_name = src_dir.name
-        # Infer artist name from directory name (underscores → spaces)
-        inferred_name = dir_name.replace('_', ' ')
+        # Infer artist name from directory name (dashes/underscores → spaces, title-case)
+        inferred_name = dir_name.replace('-', ' ').replace('_', ' ').title()
         # For orphans without DB sort_name, use inferred_name for grouping
         letter = inferred_name[0].upper() if inferred_name else '#'
         if letter not in letter_has:
@@ -2005,7 +2135,7 @@ def _find_main_htm(src_dir):
     return htm_files[0]
 
 
-def _process_artist_dir(artist, src_dir, src_root, artist_resources=None):
+def _process_artist_dir(artist, src_dir, src_root, artist_resources=None, artist_albums_html=None):
     """Post-process all files in an artist dir to site/artist/{slug}/"""
     slug = artist.get('slug', '')
     legacy_dir = src_dir.name
@@ -2048,6 +2178,7 @@ def _process_artist_dir(artist, src_dir, src_root, artist_resources=None):
                     artist_name=artist.get('name', '') if is_main else None,
                     artist_legacy_dir=url_dir if is_main else None,
                     artist_resources=artist_resources if is_main else None,
+                    artist_albums_html=artist_albums_html if is_main else None,
                 )
                 dst_path.write_text(content, encoding='utf-8')
                 # Also write at original filename (if it was renamed to index.html)
@@ -2056,6 +2187,15 @@ def _process_artist_dir(artist, src_dir, src_root, artist_resources=None):
                     orig_dst = dst_dir / _normalize_filename(src_path.name)
                     if orig_dst != dst_path:
                         orig_dst.write_text(content, encoding='utf-8')
+                        # Also write .htm alias so /artist/X/foo.htm resolves
+                        if orig_dst.suffix == '.html':
+                            orig_dst.with_suffix('.htm').write_text(content, encoding='utf-8')
+                # For .html sub-pages, also write .htm alias to handle old links
+                # (source was .htm, renamed to .html during populate; both must be served)
+                if dst_path.suffix == '.html' and dst_path.name != 'index.html':
+                    htm_alias = dst_path.with_suffix('.htm')
+                    if htm_alias != dst_path:
+                        htm_alias.write_text(content, encoding='utf-8')
                 continue
         shutil.copy2(src_path, dst_path)
 
@@ -2070,9 +2210,7 @@ def _gallery_dir_prefixes():
     Prefixes use forward slashes and end with '/'.
     Also includes parent paths for galleries ending in '/content' (Lightroom exports).
     """
-    if not GALLERIES_YAML.exists():
-        return set()
-    galleries = yaml.safe_load(GALLERIES_YAML.read_text(encoding='utf-8')) or []
+    galleries = load_all_gallery_yamls()
     prefixes = set()
     for g in galleries:
         gtype = g.get('type', '')
@@ -2099,9 +2237,7 @@ def _build_custom_gallery_media_map():
     for all custom-type galleries. Used to rewrite img src in their HTML pages.
     e.g. "bluesnews/00Autumn/" → "https://media.blues.ru/photo/2000/2000-10-efes-blues-festival"
     """
-    if not GALLERIES_YAML.exists():
-        return {}
-    galleries = yaml.safe_load(GALLERIES_YAML.read_text(encoding='utf-8')) or []
+    galleries = load_all_gallery_yamls()
     result = {}
     for g in galleries:
         gtype = g.get('type', '')
@@ -2204,36 +2340,24 @@ def generate_galleries():
     Canonical URL: /photo/YYYY/YYYY-MM-DD-slug/
     Legacy URL /bluesnews/{path}/ gets a 301 redirect (written to _redirects).
     """
-    if not GALLERIES_YAML.exists():
-        print("  No galleries.yaml found, skipping.")
-        return
-
-    galleries = yaml.safe_load(GALLERIES_YAML.read_text(encoding='utf-8')) or []
+    galleries = load_all_gallery_yamls()
     tmpl = JINJA_ENV.get_template('gallery.html.j2')
     count = 0
     redirects = []  # list of (old_path, new_path) for _redirects
 
     for g in galleries:
-        # Support both 'slug' (new structure) and 'path' (old structure)
+        # g is already the authoritative per-gallery dict from load_all_gallery_yamls()
         yaml_slug = g.get('slug', '')
         if not yaml_slug:
             gpath = g.get('path', '')
             yaml_slug = re.sub(r'[^a-z0-9]+', '-', gpath.lower()).strip('-')
-        per_yaml = _gallery_yaml(yaml_slug)
-        if not per_yaml or not per_yaml.exists():
-            continue
-        data = yaml.safe_load(per_yaml.read_text(encoding='utf-8')) or {}
+        data = g  # use the already-loaded dict directly
         if data.get('exclude'):
             continue  # Explicitly excluded gallery
-        # gpath from per-yaml (authoritative) or index.yaml fallback
-        gpath = data.get('path', '') or g.get('path', yaml_slug)
+        gpath = data.get('path', '') or yaml_slug
         photos = [p for p in (data.get('photos') or []) if isinstance(p, dict) and p.get('file')]
 
-        # For galleries indexed as {parent}/content, output at the parent level.
         legacy_path = gpath
-        if gpath.endswith('/content'):
-            legacy_path = gpath[:-8]
-            photos = [dict(p, file='content/' + p['file']) for p in photos]
 
         # Canonical URL path (relative to site/)
         canonical_rel, year_str = _gallery_canonical_url(data, gpath)
@@ -2292,30 +2416,6 @@ def generate_galleries():
         if old_url != new_url:
             redirects.append((old_url, new_url))
 
-        # Copy gallery images to media-blues-ru/photo/{canonical_rel}/ (not to SITE).
-        # Falls back to source bluesnews/ if not in content/.
-        src_bluesnews = BLUESNEWS
-        for photo in photos:
-            for field in ('file', 'thumb'):
-                rel_file = photo.get(field)
-                if not rel_file:
-                    continue
-                dst_img = MEDIA_DIR / canonical_rel / rel_file
-                if dst_img.exists():
-                    continue
-                # Try content/ first (encoding-corrected), then raw bluesnews/ source
-                arc_img = CONTENT / 'bluesnews' / legacy_path / rel_file
-                if arc_img.exists():
-                    dst_img.parent.mkdir(parents=True, exist_ok=True)
-                    shutil.copy2(arc_img, dst_img)
-                    continue
-                if gpath.endswith('/content'):
-                    src_img = src_bluesnews / legacy_path / 'content' / rel_file.removeprefix('content/')
-                else:
-                    src_img = src_bluesnews / legacy_path / rel_file
-                if src_img.exists():
-                    dst_img.parent.mkdir(parents=True, exist_ok=True)
-                    shutil.copy2(src_img, dst_img)
 
     # Write gallery redirects to _redirects (append section)
     _write_gallery_redirects(redirects)
@@ -2383,16 +2483,11 @@ def _gallery_year(path):
 
 
 # Extra photo cards added by generators (e.g. NBF) that don't use gallery YAML
-_EXTRA_PHOTO_CARDS = []
 
 
 def generate_photo_index():
     """Generate /photo/index.html — master gallery index organized by year."""
-    if not GALLERIES_YAML.exists():
-        print("  No galleries.yaml, skipping photo index.")
-        return
-
-    galleries = yaml.safe_load(GALLERIES_YAML.read_text(encoding='utf-8')) or []
+    galleries = load_all_gallery_yamls()
 
     cards = []
     for g in galleries:
@@ -2404,13 +2499,9 @@ def generate_photo_index():
         if not yaml_slug:
             continue
 
-        per_yaml = _gallery_yaml(yaml_slug)
-        data = {}
-        if per_yaml and per_yaml.exists():
-            data = yaml.safe_load(per_yaml.read_text(encoding='utf-8')) or {}
+        data = g  # use already-loaded dict directly (avoids slug-collision when re-reading by stem)
         if data.get('exclude'):
             continue  # Explicitly excluded gallery
-        # Use path from per-gallery YAML if index.yaml doesn't have it
         if not gpath:
             gpath = data.get('path', yaml_slug)
 
@@ -2423,11 +2514,6 @@ def generate_photo_index():
             first_photo = photos[0]
             # Use large image as cover (thumbs are often too small and upscale badly)
             thumb = first_photo.get('file') or first_photo.get('thumb') or ''
-            # For /content galleries, images are stored under content/ subdir.
-            # generate_galleries() prefixes file paths with 'content/', but the raw YAML
-            # does NOT have this prefix — add it here for the index card.
-            if gpath.endswith('/content') and thumb and not thumb.startswith('content/'):
-                thumb = 'content/' + thumb
 
         clean_title = data.get('clean_title') or data.get('title') or gpath
         canonical_date = data.get('canonical_date') or data.get('date') or ''
@@ -2438,16 +2524,46 @@ def generate_photo_index():
         except ValueError:
             year_int = None
 
+        # Store thumb as absolute URL so template doesn't need to prepend canonical_url
+        abs_thumb = ('/' + canonical_rel + '/' + thumb) if thumb else ''
         cards.append({
             'path': gpath,
             'canonical_url': '/' + canonical_rel + '/',
             'title': clean_title,
             'date': canonical_date,
             'photo_count': g.get('photo_count', 0),
-            'thumb': thumb,
+            'thumb': abs_thumb,
             'year': year_int,
             'year_str': year_str,
         })
+
+    # ── Clean up stale gallery dirs (slug renames) BEFORE adding extra-scan cards ─
+    # Only YAML-based cards are authoritative; extra-scan adds legacy dirs we want gone
+    yaml_valid_dirs = set()
+    for card in cards:
+        url = card.get('canonical_url', '')
+        parts = url.strip('/').split('/')
+        if len(parts) >= 3:
+            yaml_valid_dirs.add((parts[1], parts[2]))
+    out_dir = SITE / 'photo'
+    stale_removed = 0
+    if out_dir.exists():
+        for year_dir in sorted(out_dir.iterdir()):
+            if not year_dir.is_dir():
+                continue
+            for gal_dir in sorted(year_dir.iterdir()):
+                if not gal_dir.is_dir():
+                    continue
+                key = (year_dir.name, gal_dir.name)
+                if key in yaml_valid_dirs:
+                    continue
+                if gal_dir.name.endswith('-notodden-blues-festival'):
+                    continue
+                import shutil
+                shutil.rmtree(gal_dir)
+                stale_removed += 1
+    if stale_removed:
+        print(f"  photo index: removed {stale_removed} stale gallery dirs")
 
     # Include extra cards from other generators (e.g. NBF) by scanning site/photo/
     # Any YYYY/slug/ directory not already covered by YAML cards
@@ -2474,9 +2590,11 @@ def generate_photo_index():
                     m_count = re.search(r'gallery-count">\s*(\d+)', html_text)
                     title = re.sub(r'<[^>]+>', '', m_title.group(1)) if m_title else gal_dir.name
                     count = int(m_count.group(1)) if m_count else 0
-                    # Find first image for thumbnail
+                    # Find first image for thumbnail; make absolute if relative
                     imgs = re.findall(r'<img src="([^"]+\.jpg)"', html_text)
                     thumb = imgs[0] if imgs else ''
+                    if thumb and not thumb.startswith('/') and not thumb.startswith('http'):
+                        thumb = canon_url + thumb
                 except Exception:
                     title, count, thumb = gal_dir.name, 0, ''
                 cards.append({
@@ -2517,33 +2635,6 @@ def generate_photo_index():
     total = len(cards)
     print(f"  photo index: {total} galleries, {len(years_sorted)} years → site/photo/index.html")
 
-    # ── Clean up stale gallery dirs left over from slug renames ───────────────
-    # Build set of valid (year, dirname) pairs from the cards we just rendered
-    valid_dirs = set()
-    for card in cards:
-        url = card.get('canonical_url', '')  # e.g. /photo/2017/2017-01-28-chino-swingslide/
-        parts = url.strip('/').split('/')
-        if len(parts) >= 3:  # photo / YYYY / dirname
-            valid_dirs.add((parts[1], parts[2]))
-    # Also keep NBF galleries (generated separately, not in cards)
-    stale_removed = 0
-    for year_dir in sorted(out_dir.iterdir()):
-        if not year_dir.is_dir():
-            continue
-        for gal_dir in sorted(year_dir.iterdir()):
-            if not gal_dir.is_dir():
-                continue
-            key = (year_dir.name, gal_dir.name)
-            if key in valid_dirs:
-                continue
-            if gal_dir.name.startswith('nbf-'):
-                continue  # NBF galleries generated separately
-            import shutil
-            shutil.rmtree(gal_dir)
-            stale_removed += 1
-    if stale_removed:
-        print(f"  photo index: removed {stale_removed} stale gallery dirs")
-
 
 def generate_content():
     """
@@ -2556,9 +2647,7 @@ def generate_content():
     print("Processing static content from bluesru-arc/content/...")
 
     if not CONTENT.exists() or not any(CONTENT.iterdir()):
-        print("  WARNING: bluesru-arc/content/ is empty. Run populate.py first.")
-        print("  Falling back to original source directories...")
-        _generate_content_from_sources()
+        print("  ERROR: bluesru-arc/content/ is empty. Run populate.py first.")
         return
 
     # Sections that live in content/ subdirectories (populated from external source dirs)
@@ -2577,8 +2666,7 @@ def generate_content():
             print(f"  {name}/: not in content/, skipping")
             continue
         dst = SITE / name
-        # SSI resolution uses BLUES_RU as the include root for bluesnews/atb
-        src_root = BLUES_RU if name in ('bluesnews', 'atb') else src
+        src_root = src
         skip = gallery_skip if name == 'bluesnews' else None
         media_map = custom_gallery_media if name == 'bluesnews' else None
         count = _copy_section(src, dst, src_root, skip_paths=skip, media_gallery_map=media_map)
@@ -2616,6 +2704,7 @@ def generate_content():
         'reading', 'vocabulary.htm', 'about.htm', 'label',
         'ww', 'club', 'stuff',
         'fest', 'article', 'harp', 'lessons', 'andrey', 'fedor', 'arc',
+        'images',
     ]
     sec_total = 0
     for section in static_sections:
@@ -2660,68 +2749,6 @@ def generate_content():
     print("  Root files: _redirects, _headers, 404.html")
 
 
-def _generate_content_from_sources():
-    """
-    Fallback: read from original source dirs if content/ not populated.
-    Used when populate.py has not been run.
-    """
-    sections = {
-        'beefheart': (BEEFHEART, BEEFHEART),
-        'ethnotrip': (ETHNOTRIP, ETHNOTRIP),
-        'zappazuhoi': (ZAPPAZUHOI, ZAPPAZUHOI),
-        'bluesnews': (BLUESNEWS, BLUES_RU),
-        'atb': (ATB, BLUES_RU),
-    }
-    for name, (src, src_root) in sections.items():
-        dst = SITE / name
-        count = _copy_section(src, dst, src_root,
-                              skip_exts=SKIP_EXTENSIONS if name == 'atb' else set())
-        print(f"  {name}/: {count} files")
-
-    dst_cal = SITE / 'calendar'
-    dst_cal.mkdir(parents=True, exist_ok=True)
-    cal_count = 0
-    for img in CAL_IMGS.rglob('*'):
-        if img.is_file() and '.git' not in img.parts:
-            dst = dst_cal / img.relative_to(CAL_IMGS)
-            dst.parent.mkdir(parents=True, exist_ok=True)
-            shutil.copy2(img, dst)
-            cal_count += 1
-    print(f"  calendar/: {cal_count} images")
-
-    static_sections = [
-        'rblues', 'style', 'bsfest', 'bbkingfest', 'efes', 'nbf',
-        'svalbard', 'nepal', 'august', 'handy', 'mojobook', 'book',
-        'reading', 'vocabulary.htm', 'about.htm', 'label',
-        'ww', 'club', 'stuff',
-        'fest', 'article', 'harp', 'lessons', 'andrey', 'fedor',
-    ]
-    for section in static_sections:
-        src = BLUES_RU / section
-        if not src.exists():
-            continue
-        dst = SITE / section
-        if src.is_file():
-            dst.parent.mkdir(parents=True, exist_ok=True)
-            if src.suffix.lower() in ('.htm', '.html'):
-                content = read_file(src)
-                if content:
-                    content = process_html(content, src.parent, BLUES_RU)
-                    dst.write_text(content, encoding='utf-8')
-            else:
-                shutil.copy2(src, dst)
-        else:
-            _copy_section(src, dst, BLUES_RU)
-
-    _copy_dir(STATIC / 'js', SITE / 'static' / 'js')
-    _copy_dir(STATIC / 'js', SITE / 'js')
-    _copy_dir(STATIC / 'css', SITE / 'static' / 'css')
-    _copy_dir(STATIC / 'css', SITE / 'css')
-    _copy_dir(STATIC / 'forum', SITE / 'forum')
-    for fname in ['_redirects', '_headers', '404.html']:
-        src = ARC / fname
-        if src.exists():
-            shutil.copy2(src, SITE / fname)
 
 
 def _normalize_filename(name):
@@ -2808,19 +2835,6 @@ def _copy_section(src_dir, dst_dir, source_root, skip_exts=None, skip_paths=None
                 count += 1
                 continue
 
-        if media_base and ext in _IMAGE_EXTS:
-            # Route gallery images to media-blues-ru/ instead of site/
-            # media_base is like "https://media.blues.ru/photo/2000/2000-10-efes"
-            # We need the filesystem path, not the URL
-            media_rel = media_base.removeprefix(MEDIA_BASE_URL).lstrip('/')
-            media_dst = MEDIA_DIR / media_rel / rel.name
-            media_dst.parent.mkdir(parents=True, exist_ok=True)
-            if not media_dst.exists():
-                shutil.copy2(src_path, media_dst)
-            # Don't copy to site/
-            count += 1
-            continue
-
         shutil.copy2(src_path, dst_path)
         count += 1
     return count
@@ -2839,7 +2853,10 @@ ATB_EPISODES_YAML  = DATA / "atb" / "episodes.yaml"
 
 
 def _atb_episode_slug(ep):
-    """Return a clean URL slug for an ATB episode: lowercase, dashes."""
+    """Return a clean URL slug for an ATB episode: lowercase, dashes.
+    If the episode has a 'slug' override field, use that directly."""
+    if ep.get('slug'):
+        return ep['slug']
     stem = ep['filename'].replace('.mp3', '').replace('.MP3', '')
     return re.sub(r'[^a-z0-9]+', '-', stem.lower()).strip('-')
 
@@ -2869,7 +2886,7 @@ def generate_atb():
         return desc[:160].rstrip() + ('…' if len(desc) > 160 else '')
 
     # Helper: get MP3 file size in MB from source atb/ dir
-    ATB_SRC = (_ws_root / 'atb') if (_ws_root / 'atb').exists() else ATB
+    ATB_SRC = ATB
 
     def _mp3_size_mb(ep):
         """Return file size in MB as string like '56 MB', or ''."""
@@ -2883,61 +2900,43 @@ def generate_atb():
         mb = p.stat().st_size / (1024 * 1024)
         return f'{mb:.0f} MB'
 
-    # Attach slug, summary, file size to each episode
-    SHOW_SUBDIRS_SET = {'', 'ATB2'}
-    for ep in episodes:
-        ep['slug'] = _atb_episode_slug(ep)
-        ep['summary'] = _ep_summary(ep)
-        ep['page_url'] = f"/atb/{ep['slug']}/"
-        ep['is_show'] = ep.get('subdir', '') in SHOW_SUBDIRS_SET
-        ep['size_mb'] = _mp3_size_mb(ep)
-
-    # Group show episodes by (date, subdir) — same date/subdir = multi-part show
+    # New two-level model: `episodes` is a list of shows, each with a `files` list.
+    # Attach computed fields to each show.
     from collections import OrderedDict
-    SHOW_SUBDIRS_SET2 = {'', 'ATB2'}
-    # Build multi-part groups for show episodes
-    # Key: (date, subdir) → sorted list of show eps
-    _show_groups = {}
-    for ep in episodes:
-        if ep['is_show']:
-            key = (ep.get('date', '') or 'unknown', ep.get('subdir', ''))
-            _show_groups.setdefault(key, []).append(ep)
-    # Sort each group by filename for consistent part order
-    for key in _show_groups:
-        _show_groups[key].sort(key=lambda e: e['filename'])
-    # Assign group_parts to each show episode (list of all parts in the group)
-    for key, group in _show_groups.items():
-        primary = group[0]
-        for ep in group:
-            ep['group_parts'] = group        # all parts including self
-            ep['group_primary_slug'] = primary['slug']
-            ep['page_url'] = f"/atb/{primary['slug']}/"  # all parts point to same page
+    SHOW_SUBDIRS_SET = {'', 'ATB2'}
+    shows = episodes  # rename for clarity
+    for show in shows:
+        show['summary'] = _ep_summary(show)
+        show['page_url'] = f"/atb/{show['slug']}/"
+        show['is_show'] = (show.get('subdir') or '') in SHOW_SUBDIRS_SET
+        for f in show.get('files', []):
+            f['size_mb'] = _mp3_size_mb(f)
 
-    # Group all episodes by date for index rendering
+    # Group shows by date for index rendering
     by_date = OrderedDict()
-    for ep in episodes:
-        date = ep.get('date', '') or 'unknown'
-        by_date.setdefault(date, []).append(ep)
+    for show in shows:
+        date = show.get('date', '') or 'unknown'
+        by_date.setdefault(date, []).append(show)
 
     # Sort dates newest first
-    dated = [(d, eps) for d, eps in by_date.items() if d != 'unknown']
+    dated = [(d, shs) for d, shs in by_date.items() if d != 'unknown']
     dated.sort(key=lambda x: x[0], reverse=True)
     undated = by_date.get('unknown', [])
 
     # Build year groups for navigation
     year_groups = OrderedDict()
-    for date_str, eps in dated:
+    for date_str, shs in dated:
         yr = date_str[:4]
-        year_groups.setdefault(yr, []).append((date_str, eps))
+        year_groups.setdefault(yr, []).append((date_str, shs))
 
-    total = len(episodes)
+    total = len(shows)
 
     # ── Episode pages ──────────────────────────────────────────────────────────
     ep_page_tmpl = JINJA_ENV.from_string("""\
 <!DOCTYPE html>
 <html>
 <head>
-  <title>{{ summary or (ep.topic or ep.filename) }} — Весь этот блюз — Blues.Ru</title>
+  <title>{{ summary or (show.topic or show.slug) }} — Весь этот блюз — Blues.Ru</title>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
   <link rel="shortcut icon" href="/images/bluesru.ico">
   <link rel="stylesheet" href="/static/css/site.css">
@@ -2955,29 +2954,29 @@ def generate_atb():
 
 <p><a href="/"><b>Blues.Ru</b></a> &gt; <a href="/atb/">Весь этот блюз</a></p>
 <hr size="1">
-<h2>{{ summary or (ep.topic or ep.filename) }}</h2>
+<h2>{{ summary or (show.topic or show.slug) }}</h2>
 <div class="ep-meta">
-  {% if ep.date %}<b>{{ ep.date }}</b> · {% endif %}Программа «Весь Этот Блюз» на Эхо Москвы 91.2 FM
+  {% if show.date %}<b>{{ show.date }}</b> · {% endif %}Программа «Весь Этот Блюз» на Эхо Москвы 91.2 FM
 </div>
-{% set parts = ep.group_parts if ep.group_parts is defined else ([ep] if ep.path else []) %}
-{% if parts | length > 1 %}
-{% for part in parts %}
+{% set files = show.files if show.files is defined else [] %}
+{% if files | length > 1 %}
+{% for f in files %}
 <div class="ep-part">
   <div class="ep-part-label">Часть {{ loop.index }}</div>
   <audio controls preload="none">
-    <source src="{{ part.path }}" type="audio/mpeg">
-    <a href="{{ part.path }}">MP3</a>
+    <source src="{{ f.path }}" type="audio/mpeg">
+    <a href="{{ f.path }}">MP3</a>
   </audio>
-  <div class="mp3-link"><a href="{{ part.path }}">Скачать MP3</a>{% if part.size_mb %} ({{ part.size_mb }}){% endif %}</div>
+  <div class="mp3-link"><a href="{{ f.path }}">Скачать MP3</a>{% if f.size_mb %} ({{ f.size_mb }}){% endif %}</div>
 </div>
 {% endfor %}
-{% elif ep.path %}
+{% elif files %}
 <div class="ep-part">
   <audio controls preload="none">
-    <source src="{{ ep.path }}" type="audio/mpeg">
-    <a href="{{ ep.path }}">MP3</a>
+    <source src="{{ files[0].path }}" type="audio/mpeg">
+    <a href="{{ files[0].path }}">MP3</a>
   </audio>
-  <div class="mp3-link"><a href="{{ ep.path }}">Скачать MP3</a>{% if ep.size_mb %} ({{ ep.size_mb }}){% endif %}</div>
+  <div class="mp3-link"><a href="{{ files[0].path }}">Скачать MP3</a>{% if files[0].size_mb %} ({{ files[0].size_mb }}){% endif %}</div>
 </div>
 {% endif %}
 {% if description_html %}
@@ -3007,34 +3006,16 @@ def generate_atb():
             return f'<p>{desc}</p>'
 
     ep_pages_written = 0
-    # Track which slugs have been written (multi-part: only write primary once)
-    written_slugs = set()
-    for ep in episodes:
-        if not ep.get('slug'):
+    for show in shows:
+        if not show.get('slug'):
             continue
-        # For multi-part episodes, only write the page for the primary part
-        primary_slug = ep.get('group_primary_slug', ep['slug'])
-        if primary_slug in written_slugs:
-            continue
-        written_slugs.add(primary_slug)
-
-        # Use primary episode for metadata/description; use group for audio players
-        primary_ep = ep  # ep IS the primary (first in sorted group)
-        # Collect description from all parts (use first non-empty)
-        parts_list = ep.get('group_parts', [ep])
-        desc = ''
-        for part in parts_list:
-            desc = part.get('description') or ''
-            if desc:
-                break
-        desc_html = _format_desc(desc)
-
-        ep_dir = SITE / 'atb' / primary_slug
+        desc_html = _format_desc(show.get('description') or '')
+        ep_dir = SITE / 'atb' / show['slug']
         ep_dir.mkdir(parents=True, exist_ok=True)
         (ep_dir / 'index.html').write_text(
             ep_page_tmpl.render(
-                ep=primary_ep,
-                summary=primary_ep['summary'],
+                show=show,
+                summary=show['summary'],
                 description_html=desc_html,
                 footer=FOOTER,
             ), encoding='utf-8')
@@ -3075,32 +3056,26 @@ def generate_atb():
 </p>
 <hr size="1">
 
-{% for yr, date_eps in year_groups.items() %}
+{% for yr, date_shows in year_groups.items() %}
 <div class="year-section" id="year-{{ yr }}">
 <h3>{{ yr }}</h3>
-{% for date_str, eps in date_eps %}
-{% set show_eps = eps | selectattr('is_show') | list %}
-{% set track_eps = eps | rejectattr('is_show') | list %}
-{% if show_eps %}
-{# Deduplicate: show one entry per unique page_url (multi-part groups share a URL) #}
-{% set seen_urls = [] %}
-{% for ep in show_eps %}
-{% if ep.page_url not in seen_urls %}
-{% if seen_urls.append(ep.page_url) %}{% endif %}
+{% for date_str, shows_on_date in date_shows %}
+{% set show_list = shows_on_date | selectattr('is_show') | list %}
+{% set track_list = shows_on_date | rejectattr('is_show') | list %}
+{% if show_list %}
+{% for show in show_list %}
 <p>
-<span class="ep-date">{{ ep.date }}</span>
-<a href="{{ ep.page_url }}">{{ ep.summary or ep.topic or ep.filename }}</a>
-{%- set parts = ep.group_parts if ep.group_parts is defined else [ep] %}
-{%- if parts | length > 1 %} <span class="ep-parts">({{ parts | length }} части)</span>{% endif %}
+<span class="ep-date">{{ show.date }}</span>
+<a href="{{ show.page_url }}">{{ show.summary or show.topic or show.slug }}</a>
+{%- if show.files | length > 1 %} <span class="ep-parts">({{ show.files | length }} части)</span>{% endif %}
 </p>
-{% endif %}
 {% endfor %}
-{% elif track_eps %}
+{% elif track_list %}
 <p>
 <span class="ep-date">{{ date_str }}</span>
-<b>{{ track_eps[0].subdir.split('/')[-1] | replace('_', ' ') }}</b> — {{ track_eps | length }} треков
+<b>{{ track_list[0].subdir.split('/')[-1] | replace('_', ' ') }}</b> — {{ track_list | length }} треков
 <div class="ep-tracks">
-{% for t in track_eps %}<a href="{{ t.path }}">{{ t.topic or t.filename }}</a>{% if not loop.last %} · {% endif %}{% endfor %}
+{% for t in track_list %}{% set f = t.files[0] if t.files else {} %}<a href="{{ f.path or '' }}">{{ t.topic or t.slug }}</a>{% if not loop.last %} · {% endif %}{% endfor %}
 </div>
 </p>
 {% endif %}
@@ -3110,8 +3085,8 @@ def generate_atb():
 
 {% if undated %}
 <h3>Без даты</h3>
-{% for ep in undated %}
-<p><a href="{{ ep.page_url }}">{{ ep.summary or ep.topic or ep.filename }}</a></p>
+{% for show in undated %}
+<p><a href="{{ show.page_url }}">{{ show.summary or show.topic or show.slug }}</a></p>
 {% endfor %}
 {% endif %}
 
@@ -3131,28 +3106,6 @@ def generate_atb():
     print(f"  ATB index: {total} episodes, {len(year_groups)} years")
     print(f"  ATB episode pages: {ep_pages_written}")
 
-    # ── latest-atb.json ────────────────────────────────────────────────────────
-    # Episodes with real dates, newest first, for homepage widget
-    # Include ATB2 subdir (newer show files) but exclude track-archive subdirs
-    SHOW_SUBDIRS = {'', 'ATB2'}
-    datable = [ep for ep in episodes if ep.get('date') and ep.get('date') != 'unknown'
-               and ep.get('subdir', '') in SHOW_SUBDIRS]
-    datable.sort(key=lambda e: e['date'], reverse=True)
-    latest_atb = []
-    for ep in datable[:8]:
-        latest_atb.append({
-            'date': ep['date'],
-            'summary': ep['summary'],
-            'url': ep['page_url'],
-            'mp3': ep.get('path', ''),
-        })
-    atb_json_path = SITE / 'data' / 'latest-atb.json'
-    atb_json_path.parent.mkdir(parents=True, exist_ok=True)
-    atb_json_path.write_text(
-        json.dumps({'items': latest_atb}, ensure_ascii=False, indent=2),
-        encoding='utf-8')
-    print(f"  latest-atb.json: {len(latest_atb)} items")
-
     # ── Old static ATB archive ─────────────────────────────────────────────────
     atb_content = CONTENT / 'atb'
     for candidate in ['ATBr-index2000.htm', 'index.htm', 'index.html', 'index.html.1', 'default.htm.1', 'default.html.1']:
@@ -3160,7 +3113,7 @@ def generate_atb():
         if fallback.exists():
             old_content = read_file(fallback)
             if old_content:
-                old_content = process_html(old_content, atb_content, BLUES_RU)
+                old_content = process_html(old_content, atb_content, atb_content)
                 # Fix relative image paths: archive/ is one level deeper than atb/,
                 # so images that live at /atb/*.gif need src="../*.gif"
                 old_content = re.sub(
@@ -3202,6 +3155,17 @@ def _rewrite_links(content):
             atag = atag.replace(f'href="{m.group(1)}"', f'href="{href}"', 1)
         if not href.startswith('/') or href.startswith('//'):
             return atag
+        # Normalize TitleCase/underscore filenames in /artist/ and /rblues/ paths.
+        # e.g. /artist/jimi-hendrix/hendrix_guy.htm → /artist/jimi-hendrix/hendrix-guy.html
+        _m = re.match(r'^(/(?:artist|rblues)/[^/]+/)([^/]+)$', href)
+        if _m:
+            prefix, fname = _m.group(1), _m.group(2)
+            if '_' in fname or (fname != fname.lower() and '.' in fname):
+                fname_norm = fname.replace('_', '-').lower()
+                if fname_norm.endswith('.htm'):
+                    fname_norm = fname_norm[:-4] + '.html'
+                href = prefix + fname_norm
+                atag = atag.replace(f'href="{m.group(1)}"', f'href="{href}"', 1)
         new_href = _apply_redirect(href)
         path_key = new_href.split('?')[0].split('#')[0].rstrip('/') or '/'
         fix = _LINK_FIXES.get(path_key) or _LINK_FIXES.get(path_key + '/')
@@ -3242,141 +3206,219 @@ def postprocess_dead_links():
     print(f"  postprocess_dead_links: rewrote {fixed} files")
 
 
-def generate_nbf_galleries():
-    """Generate /photo/YYYY/nbf-YYYY/ photo galleries from nbf/gallery/pictures.xml."""
-    # nbf/gallery is in bluesru-arc/content/nbf/gallery/
-    xml_path = CONTENT / 'nbf' / 'gallery' / 'pictures.xml'
-    if not xml_path.exists():
-        xml_path = BLUES_RU / 'nbf' / 'gallery' / 'pictures.xml'
-    if not xml_path.exists():
-        print("  NBF: pictures.xml not found, skipping.")
-        return
 
-    xml_content = xml_path.read_bytes().decode('windows-1251', errors='replace')
-    import html as _html
 
-    # Parse photo entries: <p id="YY/filename.jpg">Caption</p>
-    photos_raw = re.findall(r'<p id="([^"]+)"[^>]*>(.*?)</p>', xml_content, re.DOTALL)
-    by_year = {}
-    for pid, cap in photos_raw:
-        yy = pid.split('/')[0]
-        filename = pid.split('/')[-1]
-        caption = _html.unescape(cap.strip())
-        by_year.setdefault(yy, []).append({'filename': filename, 'caption': caption})
+def generate_homepage():
+    """Generate index.html and links/index.html with static news/ATB/updates content."""
+    print("Generating homepage...")
 
-    year_map = {
-        '98': '1998', '99': '1999', '01': '2001',
-        '02': '2002', '03': '2003', '04': '2004',
-    }
-    year_titles = {
-        '1998': 'Notodden Blues Festival 1998',
-        '1999': 'Notodden Blues Festival 1999',
-        '2001': 'Notodden Blues Festival 2001',
-        '2002': 'Notodden Blues Festival 2002',
-        '2003': 'Notodden Blues Festival 2003',
-        '2004': 'Notodden Blues Festival 2004',
-    }
-
-    tmpl = JINJA_ENV.get_template('gallery.html.j2')
-    src_gallery = CONTENT / 'nbf' / 'gallery'
-    count = 0
-
-    for yy, photos in by_year.items():
-        year = year_map.get(yy)
-        if not year:
-            continue
-
-        canonical_rel = f"photo/{year}/nbf-{year}"
-        out_dir = SITE / canonical_rel
-        out_dir.mkdir(parents=True, exist_ok=True)
-
-        # Copy images from source
-        src_dir = src_gallery / yy
-        for photo in photos:
-            fn = photo['filename']
-            dst = out_dir / fn
-            if not dst.exists():
-                src = src_dir / fn
-                if src.exists():
-                    shutil.copy2(src, dst)
-            # Copy thumbnail too
-            stem = fn.rsplit('.', 1)[0]
-            thumb_fn = f"{stem}_thumb_100.jpg"
-            dst_thumb = out_dir / thumb_fn
-            if not dst_thumb.exists():
-                src_thumb = src_dir / thumb_fn
-                if src_thumb.exists():
-                    shutil.copy2(src_thumb, dst_thumb)
-
-        # Build photo list for template
-        photo_list = []
-        for p in photos:
-            fn = p['filename']
-            stem = fn.rsplit('.', 1)[0]
-            thumb_fn = f"{stem}_thumb_100.jpg"
-            has_thumb = (out_dir / thumb_fn).exists()
-            photo_list.append({
-                'file': fn,
-                'thumb': thumb_fn if has_thumb else fn,
-                'caption': p['caption'],
+    # ── Latest blues news ──────────────────────────────────────────────────────
+    blues_news_items = []
+    if NEWS_DIR.exists():
+        raw_news = []
+        for p in NEWS_DIR.rglob('*.md'):
+            text = p.read_text(encoding='utf-8')
+            m = RE_FM.match(text)
+            if m:
+                meta = yaml.safe_load(m.group(1))
+                raw_news.append(meta)
+        raw_news.sort(key=lambda x: str(x.get('date', '0000')), reverse=True)
+        for meta in raw_news[:10]:
+            ds = str(meta.get('date', ''))
+            nid = meta.get('id', '')
+            slug = meta.get('slug', f'story{nid}')
+            url = (f'/news/{ds[:4]}/{ds[5:7]}/{ds[8:10]}/story{nid}/'
+                   if ds and len(ds) >= 10 else '#')
+            blues_news_items.append({
+                'date': ds[:10] if ds else '',
+                'title': meta.get('title', ''),
+                'url': url,
             })
 
-        title = year_titles.get(year, f'Notodden Blues Festival {year}')
-        photos_json = json.dumps(
-            [{'file': p['file'], 'caption': p['caption'], 'thumb': p.get('thumb', p['file'])}
-             for p in photo_list],
-            ensure_ascii=False)
+    # ── Latest ATB episodes ────────────────────────────────────────────────────
+    latest_atb_items = []
+    atb_yaml = DATA / 'atb' / 'episodes.yaml'
+    if atb_yaml.exists():
+        atb_shows = yaml.safe_load(atb_yaml.read_text(encoding='utf-8')) or []
+        SHOW_SUBDIRS = {'', 'ATB2'}
+        datable = [s for s in atb_shows if s.get('date') and s.get('date') != 'unknown'
+                   and (s.get('subdir') or '') in SHOW_SUBDIRS]
+        datable.sort(key=lambda s: s['date'], reverse=True)
+        for s in datable[:8]:
+            summary = s.get('summary') or ''
+            if not summary:
+                desc = re.sub(r'<[^>]+>', '', s.get('description') or '').strip()
+                summary = desc[:160].rstrip() + ('…' if len(desc) > 160 else '') if desc else ''
+            latest_atb_items.append({
+                'date': s['date'],
+                'summary': summary,
+                'url': f"/atb/{s['slug']}/",
+            })
 
-        html = tmpl.render(
-            path=f'nbf/gallery/{yy}',
-            canonical_url=f'/{canonical_rel}/',
-            title=title,
-            date=year,
-            description=f'Фотографии с фестиваля Notodden Blues Festival {year} (Норвегия).',
-            extra_text='',
-            photo_count=len(photo_list),
-            photos=photo_list,
-            photos_json=photos_json,
-            year=year,
-            source_articles=[{'url': f'/nbf/nbf{yy}.htm', 'title': f'Репортаж {year}'}
-                              if (SITE / 'nbf' / f'nbf{yy}.htm').exists() else None],
-            footer=FOOTER,
-        )
-        # Filter None entries from source_articles
-        (out_dir / 'index.html').write_text(
-            html.replace('<a href="None">None</a>', ''), encoding='utf-8')
-        count += 1
+    # ── Latest announcements ───────────────────────────────────────────────────
+    latest_updates_items = []
+    _atb_re_hp = re.compile(
+        r'\bATB\b|atb_|/[Aa]tb/|Весь\s+[Ээ]тот\s+[Бб]люз', re.IGNORECASE)
+    if ANNOUNCE_DIR.exists():
+        raw_ann = []
+        for p in sorted(ANNOUNCE_DIR.rglob('*.md')):
+            text = p.read_text(encoding='utf-8')
+            if _atb_re_hp.search(text):
+                continue
+            m = RE_FM.match(text)
+            if m:
+                meta = yaml.safe_load(m.group(1))
+                body = m.group(2).strip()
+                raw_ann.append((meta, body))
+        raw_ann.sort(key=lambda x: str(x[0].get('date', '0000')), reverse=True)
+        for meta, body in raw_ann[:10]:
+            ds = str(meta.get('date', ''))
+            plain = re.sub(r'<[^>]+>', '', body).strip()
+            plain = re.sub(r'\s+', ' ', plain)
+            snippet = plain[:160].rstrip()
+            if len(plain) > 160:
+                snippet = snippet.rsplit(' ', 1)[0] + '…'
+            latest_updates_items.append({
+                'date': ds[:10] if ds else '',
+                'text': snippet,
+            })
 
-        # Register in extra photo cards for index
-        first_photo_fn = photo_list[0]['file'] if photo_list else ''
-        _EXTRA_PHOTO_CARDS.append({
-            'path': f'nbf/gallery/{yy}',
-            'canonical_url': f'/{canonical_rel}/',
-            'title': title,
-            'date': year,
-            'photo_count': len(photo_list),
-            'thumb': first_photo_fn,
-            'year': int(year),
-            'year_str': year,
-        })
+    # ── Links ─────────────────────────────────────────────────────────────────
+    links_yaml_path = DATA / 'links.yaml'
+    links_html = ''
+    if links_yaml_path.exists():
+        links_data = yaml.safe_load(links_yaml_path.read_text(encoding='utf-8')) or {}
+        categories = {c['id']: c for c in links_data.get('categories', [])}
+        sites = links_data.get('sites', [])
+        links_html = _build_links_snippet(categories, sites)
+        _generate_links_page(categories, sites)
 
-    # Update nbf/top.inc to replace ASPX gallery links with static paths
-    top_inc_src = CONTENT / 'nbf' / 'top.inc'
-    if top_inc_src.exists():
-        top_content = top_inc_src.read_text(encoding='utf-8')
-        for yy, year in year_map.items():
-            old = f'/nbf/gallery/list.aspx?y={year}'
-            new = f'/photo/{year}/nbf-{year}/'
-            top_content = top_content.replace(old, new)
-        # Also fix the main gallery link
-        top_content = top_content.replace(
-            '/nbf/gallery/list.aspx',
-            '/photo/2004/nbf-2004/')
-        top_inc_dst = SITE / 'nbf' / 'top.inc'
-        top_inc_dst.parent.mkdir(parents=True, exist_ok=True)
-        top_inc_dst.write_text(top_content, encoding='utf-8')
+    # ── Render homepage ────────────────────────────────────────────────────────
+    tmpl = JINJA_ENV.get_template('homepage.html.j2')
+    html = tmpl.render(
+        blues_news=blues_news_items,
+        latest_atb=latest_atb_items,
+        latest_updates=latest_updates_items,
+        links_html=links_html,
+        footer=FOOTER,
+    )
+    (SITE / 'index.html').write_text(html, encoding='utf-8')
+    print(f"  index.html: {len(blues_news_items)} blues news, {len(latest_atb_items)} ATB, {len(latest_updates_items)} updates")
 
-    print(f"  NBF galleries: {count} years → site/photo/YYYY/nbf-YYYY/")
+
+def _build_links_snippet(categories, sites):
+    """Build a short blues links HTML snippet for the homepage sidebar."""
+    def get_blues_cat_ids(root_id='1'):
+        result = {root_id}
+        changed = True
+        while changed:
+            changed = False
+            for c in categories.values():
+                if c['id'] not in result and c.get('parent_id') in result:
+                    result.add(c['id'])
+                    changed = True
+        return result
+
+    blues_ids = get_blues_cat_ids()
+    live_statuses = {'live', 'redirected'}
+    blues_sites = [
+        s for s in sites
+        if any(cid in blues_ids for cid in s.get('categories', []))
+        and s.get('status', '') in live_statuses
+    ]
+    top_cats = [c for c in categories.values() if c.get('parent_id') == '1']
+    by_cat = {}
+    for site in blues_sites:
+        for cid in site.get('categories', []):
+            if cid in blues_ids:
+                by_cat.setdefault(cid, []).append(site)
+
+    html = '<b><a href="/links/">Блюзовые ссылки</a></b>\n<ul>\n'
+    for cat in sorted(top_cats, key=lambda c: c.get('name', '')):
+        cat_sites = by_cat.get(cat['id'], [])
+        if not cat_sites:
+            continue
+        html += f'<li><b>{cat["name"]}</b><ul>\n'
+        for site in cat_sites[:5]:
+            html += f'  <li><a href="{site["url"]}">{html_mod.escape(site["name"])}</a></li>\n'
+        if len(cat_sites) > 5:
+            html += f'  <li><a href="/links/"><small>ещё {len(cat_sites)-5}...</small></a></li>\n'
+        html += '</ul></li>\n'
+    html += f'</ul>\n<p><a href="/links/">Все ссылки &gt;&gt;</a></p>\n'
+    return html
+
+
+def _generate_links_page(categories, sites):
+    """Generate /links/index.html — blues links only, live/redirected only."""
+    def get_blues_cat_ids(root_id='1'):
+        result = {root_id}
+        changed = True
+        while changed:
+            changed = False
+            for c in categories.values():
+                if c['id'] not in result and c.get('parent_id') in result:
+                    result.add(c['id'])
+                    changed = True
+        return result
+
+    blues_ids = get_blues_cat_ids()
+    live_statuses = {'live', 'redirected', 'unknown'}
+    blues_sites = [
+        s for s in sites
+        if any(cid in blues_ids for cid in s.get('categories', []))
+        and s.get('status', 'unknown') in live_statuses
+    ]
+    by_cat = {}
+    for site in blues_sites:
+        for cid in site.get('categories', []):
+            if cid in blues_ids:
+                by_cat.setdefault(cid, []).append(site)
+
+    top_cats = [c for c in categories.values() if c.get('parent_id') == '1']
+    child_cats = {}
+    for c in categories.values():
+        if c.get('parent_id'):
+            child_cats.setdefault(c['parent_id'], []).append(c)
+
+    def render_cat(cat, depth=0):
+        cid = cat['id']
+        cat_sites = by_cat.get(cid, [])
+        child_list = sorted(child_cats.get(cid, []), key=lambda c: c.get('name', ''))
+        if not cat_sites and not child_list:
+            return ''
+        hn = f'h{"23456"[min(depth, 4)]}'
+        s = f'<{hn}>{cat["name"]}</{hn}>\n'
+        if cat_sites:
+            s += '<ul>\n'
+            for site in sorted(cat_sites, key=lambda x: x.get('name', '')):
+                desc = f' — {html_mod.escape(site["description"])}' if site.get('description') else ''
+                s += f'  <li><a href="{site["url"]}">{html_mod.escape(site["name"])}</a>{desc}</li>\n'
+            s += '</ul>\n'
+        for child in child_list:
+            s += render_cat(child, depth + 1)
+        return s
+
+    html = ('<!DOCTYPE html>\n<html>\n<head>\n<meta charset="utf-8">\n'
+            '<title>Блюзовые ссылки — Blues.Ru</title>\n'
+            '<link rel="shortcut icon" href="/images/bluesru.ico">\n'
+            '<link rel="stylesheet" href="/static/css/site.css">\n'
+            '<style>a{text-decoration:none}</style>\n'
+            '</head>\n<body bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#5511CC">\n'
+            '<p><a href="/"><b>Blues.Ru</b></a> &gt; Ссылки</p>\n'
+            '<h1>Блюзовые ссылки</h1>\n'
+            '<p>Ссылки на сайты о блюзе. Собраны в 2001–2009 годах; показаны работавшие на момент проверки.</p>\n')
+    for cat in sorted(top_cats, key=lambda c: c.get('name', '')):
+        html += render_cat(cat)
+    dead_count = sum(
+        1 for s in sites
+        if any(cid in blues_ids for cid in s.get('categories', []))
+        and s.get('status') in ('dead', 'changed')
+    )
+    html += (f'<hr size="1">\n<p align="center">{FOOTER}</p>\n</body>\n</html>')
+    out = SITE / 'links'
+    out.mkdir(parents=True, exist_ok=True)
+    (out / 'index.html').write_text(html, encoding='utf-8')
+    print(f"  links/index.html: {len(blues_sites)} live blues sites ({dead_count} dead filtered)")
 
 
 # ── Main ───────────────────────────────────────────────────────────────────────
@@ -3389,8 +3431,8 @@ SECTIONS = {
     'bluesmen':    generate_bluesmen,
     'atb':         generate_atb,
     'galleries':   generate_galleries,
-    'nbf':         generate_nbf_galleries,
     'photo':       generate_photo_index,
+    'homepage':    generate_homepage,
     'postprocess': postprocess_dead_links,
 }
 

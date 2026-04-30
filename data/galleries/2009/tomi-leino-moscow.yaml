@@ -2,53 +2,38 @@ slug: tomi-leino-moscow
 canonical_date: '2009-05-17'
 title: Tomi Leino in Moscow
 type: lightroom
-path: 09Spring/090517LT/content
+path: 09Spring/090517LT
 photo_count: 15
 captioned: false
 description: Tomi Leino (Финляндия) в Москве, 17 мая 2009.
 photos:
-- file: nib/DSC_1095.jpg
-  thumb: nib/images/thumb/DSC_1095.jpg
+- file: DSC_1095.jpg
   page_html: DSC_1095_large.html
-- file: nib/DSC_1098.jpg
-  thumb: nib/images/thumb/DSC_1098.jpg
+- file: DSC_1098.jpg
   page_html: DSC_1098_large.html
-- file: nib/DSC_1106.jpg
-  thumb: nib/images/thumb/DSC_1106.jpg
+- file: DSC_1106.jpg
   page_html: DSC_1106_large.html
-- file: nib/DSC_1111.jpg
-  thumb: nib/images/thumb/DSC_1111.jpg
+- file: DSC_1111.jpg
   page_html: DSC_1111_large.html
-- file: nib/DSC_1113.jpg
-  thumb: nib/images/thumb/DSC_1113.jpg
+- file: DSC_1113.jpg
   page_html: DSC_1113_large.html
-- file: nib/DSC_1115.jpg
-  thumb: nib/images/thumb/DSC_1115.jpg
+- file: DSC_1115.jpg
   page_html: DSC_1115_large.html
-- file: nib/DSC_1118.jpg
-  thumb: nib/images/thumb/DSC_1118.jpg
+- file: DSC_1118.jpg
   page_html: DSC_1118_large.html
-- file: nib/DSC_1121.jpg
-  thumb: nib/images/thumb/DSC_1121.jpg
+- file: DSC_1121.jpg
   page_html: DSC_1121_large.html
-- file: nib/DSC_1122.jpg
-  thumb: nib/images/thumb/DSC_1122.jpg
+- file: DSC_1122.jpg
   page_html: DSC_1122_large.html
-- file: nib/DSC_1126.jpg
-  thumb: nib/images/thumb/DSC_1126.jpg
+- file: DSC_1126.jpg
   page_html: DSC_1126_large.html
-- file: nib/DSC_1131.jpg
-  thumb: nib/images/thumb/DSC_1131.jpg
+- file: DSC_1131.jpg
   page_html: DSC_1131_large.html
-- file: nib/DSC_1132.jpg
-  thumb: nib/images/thumb/DSC_1132.jpg
+- file: DSC_1132.jpg
   page_html: DSC_1132_large.html
-- file: nib/DSC_1135.jpg
-  thumb: nib/images/thumb/DSC_1135.jpg
+- file: DSC_1135.jpg
   page_html: DSC_1135_large.html
-- file: nib/DSC_1137.jpg
-  thumb: nib/images/thumb/DSC_1137.jpg
+- file: DSC_1137.jpg
   page_html: DSC_1137_large.html
-- file: nib/DSC_1146.jpg
-  thumb: nib/images/thumb/DSC_1146.jpg
+- file: DSC_1146.jpg
   page_html: DSC_1146_large.html

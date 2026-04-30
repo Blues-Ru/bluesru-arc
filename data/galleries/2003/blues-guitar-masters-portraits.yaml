@@ -1,28 +1,21 @@
 slug: blues-guitar-masters-portraits
 canonical_date: '2003'
 title: Blues Guitar Masters — портреты
-type: custom
+type: mts
 path: rev
 photo_count: 5
 captioned: false
 description: 'Портреты блюзовых гитаристов: Guy, Margolin, Thackery, Boudreau.'
 extra_text: My My boudrerux 800 X 783 582 KB guy 800 X 781 719 KB hole 800 X 768 558
   KB margolin 800 X 782 603 KB thackery 800 X 800 554 KB
-index_files:
-- rev.html
 photos:
 - file: boudrerux.jpg
-  thumb: tn_boudrerux.jpg
   page_html: boudrerux.html
 - file: guy.jpg
-  thumb: tn_guy.jpg
   page_html: guy.html
 - file: hole.jpg
-  thumb: tn_hole.jpg
   page_html: hole.html
 - file: margolin.jpg
-  thumb: tn_margolin.jpg
   page_html: margolin.html
 - file: thackery.jpg
-  thumb: tn_thackery.jpg
   page_html: thackery.html

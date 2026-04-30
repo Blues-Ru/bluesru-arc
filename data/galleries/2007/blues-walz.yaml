@@ -2,7 +2,7 @@ slug: blues-walz
 canonical_date: 2007-06
 title: Blues Walz
 type: lightroom
-path: 07Leto/Walz/content
+path: 07Leto/Walz
 photo_count: 14
 captioned: false
 description: Blues Walz, Москва, 2007.
@@ -11,45 +11,31 @@ extra_text: Cristopher WALZ в Доме У Дороги 24.07.2007 Cristopher WA
 index_files:
 - index.html
 photos:
-- file: bin/P1020833.jpg
-  thumb: bin/images/thumb/P1020833.jpg
+- file: P1020833.jpg
   page_html: P1020833_large.html
-- file: bin/P1020847.jpg
-  thumb: bin/images/thumb/P1020847.jpg
+- file: P1020847.jpg
   page_html: P1020847_large.html
-- file: bin/P1020860.jpg
-  thumb: bin/images/thumb/P1020860.jpg
+- file: P1020860.jpg
   page_html: P1020860_large.html
-- file: bin/P1020873.jpg
-  thumb: bin/images/thumb/P1020873.jpg
+- file: P1020873.jpg
   page_html: P1020873_large.html
-- file: bin/P1020887.jpg
-  thumb: bin/images/thumb/P1020887.jpg
+- file: P1020887.jpg
   page_html: P1020887_large.html
-- file: bin/P1020889.jpg
-  thumb: bin/images/thumb/P1020889.jpg
+- file: P1020889.jpg
   page_html: P1020889_large.html
-- file: bin/P1020890.jpg
-  thumb: bin/images/thumb/P1020890.jpg
+- file: P1020890.jpg
   page_html: P1020890_large.html
-- file: bin/P1020894.jpg
-  thumb: bin/images/thumb/P1020894.jpg
+- file: P1020894.jpg
   page_html: P1020894_large.html
-- file: bin/P1020897.jpg
-  thumb: bin/images/thumb/P1020897.jpg
+- file: P1020897.jpg
   page_html: P1020897_large.html
-- file: bin/P1020898.jpg
-  thumb: bin/images/thumb/P1020898.jpg
+- file: P1020898.jpg
   page_html: P1020898_large.html
-- file: bin/P1020906.jpg
-  thumb: bin/images/thumb/P1020906.jpg
+- file: P1020906.jpg
   page_html: P1020906_large.html
-- file: bin/P1020915.jpg
-  thumb: bin/images/thumb/P1020915.jpg
+- file: P1020915.jpg
   page_html: P1020915_large.html
-- file: bin/P1020919.jpg
-  thumb: bin/images/thumb/P1020919.jpg
+- file: P1020919.jpg
   page_html: P1020919_large.html
-- file: bin/P1020927.jpg
-  thumb: bin/images/thumb/P1020927.jpg
+- file: P1020927.jpg
   page_html: P1020927_large.html

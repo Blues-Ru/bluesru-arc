@@ -48,7 +48,7 @@ $PY "$S/generate_data_json.py"
 
 echo ""
 echo "4. Generate homepage + links pages..."
-$PY "$S/generate_homepage.py"
+$PY "$S/generate.py" --section homepage
 
 echo ""
 echo "5. Process static content (bluesnews, atb, beefheart, etc.)..."

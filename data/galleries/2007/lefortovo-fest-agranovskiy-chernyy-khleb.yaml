@@ -2,7 +2,7 @@ slug: lefortovo-fest-agranovskiy-chernyy-khleb
 canonical_date: 2007-07
 title: Dr. Agranovskiy & Chernyy Khleb, Lefortovo Fest
 type: lightroom
-path: 07Leto/Lefortovo07/agranovski/content
+path: 07Leto/Lefortovo07/agranovski
 photo_count: 10
 captioned: false
 description: Д-р Аграновский & Черный Хлеб feat. Omar Itcovici + Юрий Каверкин, Lefortovo
@@ -13,33 +13,23 @@ extra_text: Д-р Аграновский & Черный Хлеб feat. Omar Itco
 index_files:
 - index.html
 photos:
-- file: nib/P1030144.jpg
-  thumb: nib/images/thumb/P1030144.jpg
+- file: P1030144.jpg
   page_html: P1030144_large.html
-- file: nib/P1030146.jpg
-  thumb: nib/images/thumb/P1030146.jpg
+- file: P1030146.jpg
   page_html: P1030146_large.html
-- file: nib/P1030151.jpg
-  thumb: nib/images/thumb/P1030151.jpg
+- file: P1030151.jpg
   page_html: P1030151_large.html
-- file: nib/P1030152.jpg
-  thumb: nib/images/thumb/P1030152.jpg
+- file: P1030152.jpg
   page_html: P1030152_large.html
-- file: nib/P1030157.jpg
-  thumb: nib/images/thumb/P1030157.jpg
+- file: P1030157.jpg
   page_html: P1030157_large.html
-- file: nib/P1030166.jpg
-  thumb: nib/images/thumb/P1030166.jpg
+- file: P1030166.jpg
   page_html: P1030166_large.html
-- file: nib/P1030170.jpg
-  thumb: nib/images/thumb/P1030170.jpg
+- file: P1030170.jpg
   page_html: P1030170_large.html
-- file: nib/P1030175.jpg
-  thumb: nib/images/thumb/P1030175.jpg
+- file: P1030175.jpg
   page_html: P1030175_large.html
-- file: nib/P1030180.jpg
-  thumb: nib/images/thumb/P1030180.jpg
+- file: P1030180.jpg
   page_html: P1030180_large.html
-- file: nib/P1030185.jpg
-  thumb: nib/images/thumb/P1030185.jpg
+- file: P1030185.jpg
   page_html: P1030185_large.html

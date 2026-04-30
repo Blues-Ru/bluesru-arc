@@ -1,8 +1,0 @@
-div.article {margin:5 200 5 10;}
-
-.article h3, h4 {text-align: center;}
-.article p {text-align: justify; }
-p.author {text-align: right; font-style: italic;}
-p.author-left {text-align: left; font-style: italic; }
-.article img {margin: 0 10px;}
-.reference {font-size: small;}

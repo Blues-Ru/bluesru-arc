@@ -2,7 +2,7 @@ slug: lefortovo-kenny-neal
 canonical_date: 2008-07
 title: Lefortovo — Kenny Neal
 type: lightroom
-path: 08Autumn/Lefortovo/Q_Neal/content
+path: 08Autumn/Lefortovo/Q_Neal
 photo_count: 12
 captioned: false
 description: Kenny Neal на Lefortovo Blues Festival 2008.
@@ -11,39 +11,27 @@ extra_text: Quadrat Blues Fest. Moscow. 06.IX.2008. Quadrat Blues Fest. Moscow. 
 index_files:
 - index.html
 photos:
-- file: nib/P1070870.jpg
-  thumb: nib/images/thumb/P1070870.jpg
+- file: P1070870.jpg
   page_html: P1070870_large.html
-- file: nib/P1070890.jpg
-  thumb: nib/images/thumb/P1070890.jpg
+- file: P1070890.jpg
   page_html: P1070890_large.html
-- file: nib/P1070923.jpg
-  thumb: nib/images/thumb/P1070923.jpg
+- file: P1070923.jpg
   page_html: P1070923_large.html
-- file: nib/P1070962.jpg
-  thumb: nib/images/thumb/P1070962.jpg
+- file: P1070962.jpg
   page_html: P1070962_large.html
-- file: nib/P1070975.jpg
-  thumb: nib/images/thumb/P1070975.jpg
+- file: P1070975.jpg
   page_html: P1070975_large.html
-- file: nib/P1070986.jpg
-  thumb: nib/images/thumb/P1070986.jpg
+- file: P1070986.jpg
   page_html: P1070986_large.html
-- file: nib/P1070993.jpg
-  thumb: nib/images/thumb/P1070993.jpg
+- file: P1070993.jpg
   page_html: P1070993_large.html
-- file: nib/P1080003.jpg
-  thumb: nib/images/thumb/P1080003.jpg
+- file: P1080003.jpg
   page_html: P1080003_large.html
-- file: nib/P1080021.jpg
-  thumb: nib/images/thumb/P1080021.jpg
+- file: P1080021.jpg
   page_html: P1080021_large.html
-- file: nib/P1080025.jpg
-  thumb: nib/images/thumb/P1080025.jpg
+- file: P1080025.jpg
   page_html: P1080025_large.html
-- file: nib/P1080035.jpg
-  thumb: nib/images/thumb/P1080035.jpg
+- file: P1080035.jpg
   page_html: P1080035_large.html
-- file: nib/P1080041.jpg
-  thumb: nib/images/thumb/P1080041.jpg
+- file: P1080041.jpg
   page_html: P1080041_large.html

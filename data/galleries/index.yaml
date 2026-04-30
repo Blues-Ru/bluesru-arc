@@ -592,6 +592,66 @@
   type: custom
   photo_count: 45
   exclude: true
+- slug: mishouris-birthday-2003
+  canonical_date: '2003-04-24'
+  year: '2003'
+  title: День рождения Мишуриса в клубе «Последние деньги»
+  type: custom
+  photo_count: 16
+- slug: bluesru-spring-2003
+  canonical_date: '2003-05-27'
+  year: '2003'
+  title: Blues.Ru — Весна-03
+  type: custom
+  photo_count: 30
+- slug: jimmy-d-lane-rbk
+  canonical_date: '2003-09-05'
+  year: '2003'
+  title: Jimmy D. Lane в Ритм-энд-Блюз кафе
+  type: custom
+  photo_count: 11
+- slug: jimmy-d-lane-forte
+  canonical_date: '2003-09-07'
+  year: '2003'
+  title: Jimmy D. Lane в клубе Форте
+  type: custom
+  photo_count: 9
+- slug: t-day-blues-2003
+  canonical_date: '2003-01-25'
+  year: '2003'
+  title: Univercity, T-Day Blues, 2003
+  type: mts
+  photo_count: 14
+- slug: four-harmonicists-cdh-2003
+  canonical_date: '2003-02-15'
+  year: '2003'
+  title: Четыре гармониста в ЦДХ, февраль 2003
+  type: mts
+  photo_count: 13
+- slug: blues-bez-granic-cdh-2003
+  canonical_date: '2003-04-04'
+  year: '2003'
+  title: Блюз без границ, ЦДХ, апрель 2003
+  type: mts
+  photo_count: 22
+- slug: ochakovo-blues-dinamo-2003
+  canonical_date: '2003-09-06'
+  year: '2003'
+  title: Очаково-Блюз, стадион Динамо, 6 сентября 2003
+  type: mts
+  photo_count: 24
+- slug: ob-club-alabama
+  canonical_date: '2003-09-08'
+  year: '2003'
+  title: Очаково-Блюз в клубе Alabama
+  type: custom
+  photo_count: 13
+- slug: efes-blues-festival-2003
+  canonical_date: '2003-11-14'
+  year: '2003'
+  title: 14 Efes Pilsener Blues Festival
+  type: custom
+  photo_count: 22
 - slug: moscow-harp-festival-5
   canonical_date: '2004'
   year: '2004'
@@ -617,19 +677,48 @@
   type: custom
   photo_count: 44
   exclude: true
+- slug: long-distance-call-bbking
+  canonical_date: '2004-01-11'
+  year: '2004'
+  title: Long Distance Call — Презентация в клубе B.B.King
+  type: custom
+  photo_count: 10
+- slug: voronov-dzagnidze-bbking
+  canonical_date: '2004-01-14'
+  year: '2004'
+  title: Воронов и Дзагнидзе в клубе B.B.King. Акустика
+  type: custom
+  photo_count: 10
+- slug: gary-primich-b2
+  canonical_date: '2004-01-22'
+  year: '2004'
+  title: Gary Primich в клубе Б-2
+  type: custom
+  photo_count: 9
+- slug: gary-primich-rbk
+  canonical_date: '2004-01-23'
+  year: '2004'
+  title: Gary Primich в Ритм-энд-Блюз кафе
+  type: custom
+  photo_count: 9
+- slug: gary-primich-masterclass
+  canonical_date: '2004-01-24'
+  year: '2004'
+  title: Gary Primich — Мастер-класс и клуб Форте
+  type: custom
+  photo_count: 16
+- slug: hot-rod-modern-blues-cdh
+  canonical_date: '2005-09-01'
+  year: '2005'
+  title: Hot Rod Band vs. Modern Blues Band в ЦДХ
+  type: custom
+  photo_count: 12
 - slug: ragtime-moscow-spring-2005
   canonical_date: 2005-03
   year: '2005'
   title: Ragtime в Москве, весна 2005
   type: custom
   photo_count: 25
-  exclude: true
-- slug: puppy-gallery
-  canonical_date: '2007'
-  year: '2007'
-  title: Puppy Gallery
-  type: lightroom
-  photo_count: 11
 - slug: tommy-castro-moscow-spring-2010
   canonical_date: 2010-04
   year: '2010'
@@ -643,7 +732,6 @@
   title: Kenny Wayne Shepherd в Москве, 2010
   type: custom
   photo_count: 13
-  exclude: true
 - slug: 11a-mitchell-foto
   canonical_date: '2011'
   year: '2011'
@@ -669,12 +757,6 @@
   title: Dom u Dorogi v.3
   type: custom
   photo_count: 10
-- slug: xmas-images
-  canonical_date: '2013'
-  year: '2013'
-  title: Christmas Images
-  type: mts
-  photo_count: 6
 - slug: kenny-wayne-shepherd-moscow-2015
   canonical_date: '2015'
   year: '2015'
@@ -688,7 +770,6 @@
   title: Юрий Каверкин — интервью в «Доме у Дороги», ноябрь 2015
   type: custom
   photo_count: 13
-  exclude: true
 - slug: 2016-07-07-rwip
   canonical_date: '2016-07-07'
   year: '2016'
@@ -719,6 +800,7 @@
   photo_count: 39
   canonical_date: '2013'
   title: Svalbard Blues Expedition
+  exclude: true
 - slug: roadhouse-christmas-concert
   canonical_date: '2013-01-07'
   year: '2013'
@@ -863,6 +945,12 @@
   title: Deitra Farr
   type: lightroom
   photo_count: 9
+- slug: bbshacks-festival-2003
+  canonical_date: '2003-10-29'
+  year: '2003'
+  title: B.B. & The Blues Shacks Festival 2003
+  type: mts
+  photo_count: 62
 - slug: neighbours
   canonical_date: '2022-11-23'
   year: '2022'
@@ -911,12 +999,12 @@
   title: Stroger Omar
   type: lightroom
   photo_count: 48
-- slug: kenny-wayne-shepherd
-  canonical_date: '2015'
+- slug: kenny-blues-boss-wayne-moscow-2015
+  canonical_date: '2015-10'
   year: '2015'
-  title: Kenny Wayne Shepherd
-  type: custom
-  photo_count: 15
+  title: Kenny Blues Boss Wayne, Москва 2015
+  type: mts
+  photo_count: 24
 - slug: dizzy-riders
   canonical_date: '2015'
   year: '2015'
@@ -927,12 +1015,6 @@
   canonical_date: '2017-11-30'
   year: '2017'
   title: Kaverkin
-  type: lightroom
-  photo_count: 15
-- slug: kenny-wayne-shepherd-moscow
-  canonical_date: '2015-10-28'
-  year: '2015'
-  title: Kenny Wayne Shepherd
   type: lightroom
   photo_count: 15
 - slug: moscow-blues
@@ -1168,6 +1250,12 @@
   photo_count: 68
   canonical_date: '2006'
   title: BB King Club at Lefortovo
+- slug: bob-stroger-bbking
+  canonical_date: '2006-09-05'
+  year: '2006'
+  title: Bob Stroger & Friends в клубе B.B.King
+  type: custom
+  photo_count: 9
 - slug: lefortovo-ana-popovic
   canonical_date: 2007-07
   year: '2007'
@@ -1312,6 +1400,12 @@
   title: Buddy Guy & Phil Upchurch in Moscow
   type: lightroom
   photo_count: 23
+- slug: efes-blues-festival-xi
+  title: XI Efes Pilsener Blues Festival
+  type: custom
+  photo_count: 41
+  canonical_date: '2000-10'
+  year: '2000'
 - slug: efes-pilsener-blues-festival
   title: Efes Pilsener Blues Festival
   type: mts
@@ -1976,10 +2070,34 @@
   title: Pera Joe & Friends
   type: custom
   photo_count: 25
+- slug: john-primer-cdh
+  canonical_date: '2005-09-23'
+  year: '2005'
+  title: John Primer в ЦДХ
+  type: custom
+  photo_count: 10
+- slug: svet-al-reunion
+  canonical_date: '2005-09-23'
+  year: '2005'
+  title: Svet & Al Reunion, Экспедиция
+  type: custom
+  photo_count: 9
+- slug: kurs-folk-festival
+  canonical_date: '2005-10'
+  year: '2005'
+  title: Фолк-фест в Курсе к столетию Джона Генри Барби
+  type: custom
+  photo_count: 24
+- slug: mishouris-blues-monday-kurs
+  canonical_date: '2005-10-10'
+  year: '2005'
+  title: Блюзовый понедельник Мишуриса в Курсе
+  type: custom
+  photo_count: 24
 - slug: blues-news-autumn
   canonical_date: 2005-10
   year: '2005'
-  title: Blues News Autumn
+  title: John Primer в Доме у дороги
   type: custom
   photo_count: 25
 - slug: vidar-busk-monday
@@ -2029,11 +2147,6 @@
   title: Jam в Expat
   type: custom
   photo_count: 62
-- slug: blues-summer-festival
-  type: mts
-  photo_count: 62
-  canonical_date: '2003'
-  title: Blues Summer Festival
 - slug: ochakovo-blues-festival
   canonical_date: '2003'
   year: '2003'
@@ -2070,16 +2183,16 @@
   title: Запись на Арсенале
   type: custom
   photo_count: 4
-- slug: tomi-leino-moscow-spring
-  canonical_date: 2004-04
+- slug: ladys-blues-night-cdh
+  canonical_date: '2004-03-05'
   year: '2004'
-  title: Tomi Leino в Москве
+  title: Lady's Blues Night в ЦДХ
   type: custom
   photo_count: 22
 - slug: dom-u-dorogi-autumn
-  canonical_date: 2004-10
+  canonical_date: '2004-11-16'
   year: '2004'
-  title: Дом у Дороги
+  title: День рождения Сергея Воронова в клубе B.B.King
   type: custom
   photo_count: 11
 - slug: september-jam
@@ -2089,9 +2202,9 @@
   type: custom
   photo_count: 20
 - slug: jc-smith-moscow
-  canonical_date: '2004'
+  canonical_date: '2004-07-14'
   year: '2004'
-  title: J.C. Smith в Москве
+  title: Jimmy Smith и Phil Upchurch в Ле Клубе
   type: custom
   photo_count: 7
 - slug: svet-al-boogie-band
@@ -2101,9 +2214,9 @@
   type: custom
   photo_count: 22
 - slug: cdh-blues
-  canonical_date: 2004-04
+  canonical_date: '2004-03-27'
   year: '2004'
-  title: CDH Blues
+  title: ЦДХ Blues
   type: custom
   photo_count: 13
 - slug: jc-smith-moscow-summer
@@ -2112,3 +2225,9 @@
   title: J.C. Smith в Москве
   type: custom
   photo_count: 6
+- slug: voronov-birthday-bbking
+  canonical_date: '2004-11-16'
+  year: '2004'
+  title: День рождения Сергея Воронова в клубе B.B.King
+  type: custom
+  photo_count: 11

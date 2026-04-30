@@ -1,17 +1,13 @@
 slug: vive-le-leopard-damour
 canonical_date: '2002'
 title: Vive le Léopard d'Amour
-type: custom
+type: mts
 path: ZOO
 photo_count: 30
 captioned: false
 description: Фотогалерея Vive le Léopard d'Amour, 2002.
 extra_text: VIVE LE LEOPARD D'AMOUR - 2002 VIVE LE LEOPARD D'AMOUR - 2002 1 2 3 [
   ] [ ]
-index_files:
-- page_01.htm
-- page_02.htm
-- page_03.htm
 photos:
 - file: 0011a.jpg
 - file: 001a.jpg

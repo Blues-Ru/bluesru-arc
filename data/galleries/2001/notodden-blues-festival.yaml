@@ -1,21 +1,113 @@
 slug: notodden-blues-festival
 canonical_date: '2001'
-title: Notodden Blues Festival
-type: custom
-path: Notodden/Muss
-photo_count: 8
-captioned: false
-description: Фотографии с Notodden Blues Festival 2001, Норвегия.
-extra_text: Notodden 2001 Notodden 2001 1.jpg 2.jpg 3.jpg 4.jpg 5.jpg 6.jpg 7.jpg
-  8.jpg
-index_files:
-- page_01.htm
+title: Notodden Blues Festival 2001
+type: mts
+path: nbf/gallery/01
+photo_count: 52
+captioned: true
+description: Фотографии с Notodden Blues Festival 2001, Норвегия. Фото А.Евдокимова.
 photos:
+- file: busk1.jpg
+  caption: Vidar Busk, концерт на набережной
+- file: busk2.jpg
+  caption: Vidar Busk, концерт на набережной
+- file: busk3.jpg
+  caption: Vidar Busk, концерт на набережной
+- file: busk4.jpg
+  caption: Vidar Busk, концерт на набережной
+- file: busk5.jpg
+  caption: Vidar Busk, концерт на набережной
+- file: busk6.jpg
+  caption: Vidar Busk, концерт на набережной
+- file: aevdokimov.jpg
+  caption: Андрей Евдокимов
+- file: bishop1.jpg
+  caption: Elvin Bishop
+- file: bishop2.jpg
+  caption: Elvin Bishop
+- file: bishop3.jpg
+  caption: Elvin Bishop
+- file: bobhall.jpg
+  caption: Bob Hall
+- file: bridge.jpg
+  caption: Мост
+- file: channel.jpg
+  caption: Нотодденский канал
+- file: kongsberg.jpg
+  caption: Город Kongsberg
+- file: myrensdam.jpg
+  caption: Myrens Dam
+- file: ministrel.jpg
+  caption: Художественная самодеятельность
+- file: myers_anson.jpg
+  caption: Anson Funderburgh & Sam Myers
+- file: sammyers.jpg
+  caption: Sam Myers
+- file: prime.jpg
+  caption: Премьер-министр Норвегии Йенс Столтенберг
+- file: bluesband.jpg
+  caption: The Blues Band
+- file: bluestown.jpg
+  caption: Пластинка Bluestown
+- file: shemekia1.jpg
+  caption: Shemekia Copeland
+- file: shemekia2.jpg
+  caption: Shemekia Copeland
+- file: shemekia3.jpg
+  caption: Shemekia Copeland
+- file: shemekia4.jpg
+  caption: Shemekia Copeland
+- file: terryevans.jpg
+  caption: Terry Evans
+- file: terryevans1.jpg
+  caption: Terry Evans
+- file: terryevans2.jpg
+  caption: Terry Evans
+- file: terryevans3.jpg
+  caption: Terry Evans
+- file: terryevans4.jpg
+  caption: Terry Evans
+- file: BBprize.jpg
+  caption: Bjorn Berge
+- file: BBstage.jpg
+  caption: Bjorn Berge
+- file: BBstage2.jpg
+  caption: Bjorn Berge
+- file: BBstage3.jpg
+  caption: Bjorn Berge
+- file: bb_club.jpg
+  caption: Bjorn Berge
+- file: bb_club2.jpg
+  caption: Bjorn Berge
+- file: bb_club3.jpg
+  caption: Bjorn Berge
+- file: bb_club_back.jpg
+  caption: Bjorn Berge
+- file: bb_club_closeup.jpg
+  caption: Bjorn Berge
+- file: lib_mus.jpg
+  caption: Charlie Musselwhite в блюзовой библиотеке
+- file: lib_mus_ae1.jpg
+  caption: Charlie Musselwhite и Андрей Евдокимов
+- file: lib_mus_ae2.jpg
+  caption: Charlie Musselwhite и Андрей Евдокимов
+- file: lib_mus_fr.jpg
+  caption: Charlie Musselwhite, его жена и Федор Романенко
+- file: musselwhite1.jpg
+  caption: Charlie Musselwhite
+- file: musselwhite2.jpg
+  caption: Charlie Musselwhite
+- file: musselwhite3.jpg
+  caption: Charlie Musselwhite
+- file: musselwhite4.jpg
+  caption: Charlie Musselwhite
+- file: musselwhite5.jpg
+  caption: Charlie Musselwhite
+- file: musselwhite6.jpg
+  caption: Charlie Musselwhite
+- file: musselwhite7.jpg
+  caption: Charlie Musselwhite
+- file: musselwhite8.jpg
+  caption: Charlie Musselwhite
 - file: Waterman.jpg
-- file: library_1.jpg
-- file: library_2.jpg
-- file: library_3.jpg
-- file: library_4.jpg
-- file: library_5.jpg
-- file: library_6.jpg
-- file: library_7.jpg
+  caption: Dick Waterman

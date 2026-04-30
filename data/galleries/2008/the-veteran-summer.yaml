@@ -2,7 +2,7 @@ slug: the-veteran-summer
 canonical_date: 2008-07
 title: The Veteran
 type: lightroom
-path: 08Summer/Veteran/content
+path: 08Summer/Veteran
 photo_count: 5
 captioned: false
 description: Блюзовый вечер в клубе «Ветеран», лето 2008.
@@ -11,18 +11,13 @@ extra_text: Дмитрий "Ветеран" Честных. 21.VI.08 Дмитр�
 index_files:
 - index.html
 photos:
-- file: bin/_1070030.jpg
-  thumb: bin/images/thumb/_1070030.jpg
+- file: _1070030.jpg
   page_html: _1070030_large.html
-- file: bin/_1070034.jpg
-  thumb: bin/images/thumb/_1070034.jpg
+- file: _1070034.jpg
   page_html: _1070034_large.html
-- file: bin/_1070037.jpg
-  thumb: bin/images/thumb/_1070037.jpg
+- file: _1070037.jpg
   page_html: _1070037_large.html
-- file: bin/_1070039.jpg
-  thumb: bin/images/thumb/_1070039.jpg
+- file: _1070039.jpg
   page_html: _1070039_large.html
-- file: bin/_1070041.jpg
-  thumb: bin/images/thumb/_1070041.jpg
+- file: _1070041.jpg
   page_html: _1070041_large.html

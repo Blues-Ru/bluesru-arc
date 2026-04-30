@@ -2,7 +2,7 @@ slug: tomi-leino-moscow
 canonical_date: 2008-09
 title: Tomi Leino in Moscow
 type: lightroom
-path: 08Autumn/Leino/content
+path: 08Autumn/Leino
 photo_count: 21
 captioned: false
 description: Tomi Leino (Финляндия) выступает в Москве, осень 2008.
@@ -12,66 +12,45 @@ extra_text: T. Leino Band. 15.XI.2008. Дом у дороги, Moscow. T. Leino 
 index_files:
 - index.html
 photos:
-- file: bin/IMG_3891.jpg
-  thumb: bin/images/thumb/IMG_3891.jpg
+- file: IMG_3891.jpg
   page_html: IMG_3891_large.html
-- file: bin/IMG_3906.jpg
-  thumb: bin/images/thumb/IMG_3906.jpg
+- file: IMG_3906.jpg
   page_html: IMG_3906_large.html
-- file: bin/IMG_3913.jpg
-  thumb: bin/images/thumb/IMG_3913.jpg
+- file: IMG_3913.jpg
   page_html: IMG_3913_large.html
-- file: bin/IMG_3916.jpg
-  thumb: bin/images/thumb/IMG_3916.jpg
+- file: IMG_3916.jpg
   page_html: IMG_3916_large.html
-- file: bin/IMG_3941.jpg
-  thumb: bin/images/thumb/IMG_3941.jpg
+- file: IMG_3941.jpg
   page_html: IMG_3941_large.html
-- file: bin/IMG_3945.jpg
-  thumb: bin/images/thumb/IMG_3945.jpg
+- file: IMG_3945.jpg
   page_html: IMG_3945_large.html
-- file: bin/IMG_3948.jpg
-  thumb: bin/images/thumb/IMG_3948.jpg
+- file: IMG_3948.jpg
   page_html: IMG_3948_large.html
-- file: bin/IMG_3951.jpg
-  thumb: bin/images/thumb/IMG_3951.jpg
+- file: IMG_3951.jpg
   page_html: IMG_3951_large.html
-- file: bin/IMG_3957.jpg
-  thumb: bin/images/thumb/IMG_3957.jpg
+- file: IMG_3957.jpg
   page_html: IMG_3957_large.html
-- file: bin/IMG_3959.jpg
-  thumb: bin/images/thumb/IMG_3959.jpg
+- file: IMG_3959.jpg
   page_html: IMG_3959_large.html
-- file: bin/IMG_3974.jpg
-  thumb: bin/images/thumb/IMG_3974.jpg
+- file: IMG_3974.jpg
   page_html: IMG_3974_large.html
-- file: bin/IMG_3984.jpg
-  thumb: bin/images/thumb/IMG_3984.jpg
+- file: IMG_3984.jpg
   page_html: IMG_3984_large.html
-- file: bin/IMG_3989.jpg
-  thumb: bin/images/thumb/IMG_3989.jpg
+- file: IMG_3989.jpg
   page_html: IMG_3989_large.html
-- file: bin/IMG_3993.jpg
-  thumb: bin/images/thumb/IMG_3993.jpg
+- file: IMG_3993.jpg
   page_html: IMG_3993_large.html
-- file: bin/IMG_3999.jpg
-  thumb: bin/images/thumb/IMG_3999.jpg
+- file: IMG_3999.jpg
   page_html: IMG_3999_large.html
-- file: bin/IMG_4006.jpg
-  thumb: bin/images/thumb/IMG_4006.jpg
+- file: IMG_4006.jpg
   page_html: IMG_4006_large.html
-- file: bin/IMG_4010.jpg
-  thumb: bin/images/thumb/IMG_4010.jpg
+- file: IMG_4010.jpg
   page_html: IMG_4010_large.html
-- file: bin/IMG_4027.jpg
-  thumb: bin/images/thumb/IMG_4027.jpg
+- file: IMG_4027.jpg
   page_html: IMG_4027_large.html
-- file: bin/IMG_4032.jpg
-  thumb: bin/images/thumb/IMG_4032.jpg
+- file: IMG_4032.jpg
   page_html: IMG_4032_large.html
-- file: bin/IMG_4034.jpg
-  thumb: bin/images/thumb/IMG_4034.jpg
+- file: IMG_4034.jpg
   page_html: IMG_4034_large.html
-- file: bin/IMG_4035.jpg
-  thumb: bin/images/thumb/IMG_4035.jpg
+- file: IMG_4035.jpg
   page_html: IMG_4035_large.html

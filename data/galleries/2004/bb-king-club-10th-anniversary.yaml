@@ -54,30 +54,21 @@ index_files:
 - 10An.htm
 photos:
 - file: BluesD.jpg
-  thumb: tn_BluesD.jpg
   page_html: BluesD.htm
 - file: Dzagnidze.jpg
-  thumb: tn_Dzagnidze.jpg
   page_html: Dzagnidze.htm
 - file: Geljuta.jpg
-  thumb: tn_Geljuta.jpg
   page_html: Geljuta.htm
 - file: Nikolski.jpg
-  thumb: tn_Nikolski.jpg
   page_html: Nikolski.htm
 - file: Petrovich.jpg
-  thumb: tn_Petrovich.jpg
   page_html: Petrovich.htm
 - file: bmakers.jpg
-  thumb: tn_bmakers.jpg
   page_html: bmakers.htm
 - file: drums.jpg
-  thumb: tn_drums.jpg
   page_html: drums.htm
 - file: drums2.jpg
-  thumb: tn_drums2.jpg
   page_html: drums2.htm
 - file: majukov.jpg
-  thumb: tn_majukov.jpg
   page_html: majukov.htm
 canonical_date: '2004'

@@ -1,7 +1,7 @@
 slug: moscow-blues-scene-tiomma
 canonical_date: '2003'
 title: Московская блюзовая сцена
-type: custom
+type: mts
 path: Tiomma
 photo_count: 16
 captioned: false
@@ -12,9 +12,6 @@ extra_text: My My Agranovski 800 X 819 204 KB BigBluesRev 800 X 600 297 KB Black
   KB Kaverkin 800 X 813 254 KB lomidze 800 X 772 195 KB Mishouris 800 X 776 137 KB
   ModernBluesBand 800 X 835 227 KB Petrovich 600 X 484 94 KB Ragtime 800 X 748 181
   KB
-index_files:
-- index.html
-- index1.html
 photos:
 - file: Agranovski.jpg
   page_html: Agranovski.html

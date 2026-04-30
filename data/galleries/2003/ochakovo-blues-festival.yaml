@@ -1,41 +1,66 @@
 slug: ochakovo-blues-festival
 canonical_date: '2003'
-title: Фестиваль в Очаково
-type: custom
+title: Очаково-Блюз 2003
+type: mts
 path: FedorOchakovo03
 photo_count: 42
-captioned: false
-description: Блюз-фестиваль в Очаково, 2003. Фотографии Фёдора.
+captioned: true
+description: Блюз-фестиваль в Очаково, 2003. Knock-Out Greg & Blue Weather, B.B. &
+  The Blues Shacks. Фотографии Фёдора Романенко.
 photos:
 - file: IMG_1168.JPG
+  caption: Knock-Out Greg & BW во Владимире. Anders Lewen.
 - file: IMG_1172.JPG
 - file: IMG_1177.JPG
 - file: IMG_1178.JPG
+  caption: Knock-Out Greg & BW во Владимире. Urban Head.
 - file: IMG_1184.JPG
+  caption: Knock-Out Greg & BW во Владимире. Greger Andersson.
 - file: IMG_1187.JPG
+  caption: Knock-Out Greg & BW во Владимире. Anders Lewen.
 - file: IMG_1191.JPG
 - file: IMG_1200.JPG
+  caption: Anders Lewen, Knock-Out Greg, Michael Arlt, Andreas Arlt. Мастер-класс
+    в Форте.
 - file: IMG_1203.JPG
+  caption: Knock-Out Greg, Michael Arlt. Мастер-класс в Форте.
 - file: IMG_1205.JPG
+  caption: Anders Lewen, Knock-Out Greg, Michael Arlt. Мастер-класс в Форте.
 - file: IMG_1210.JPG
 - file: IMG_1212.JPG
+  caption: Джем Blue Weather с Blues Shacks.
 - file: IMG_1215.JPG
+  caption: Anders Lewen играет соло.
 - file: IMG_1219.JPG
+  caption: Anders Lewen и Greger Andersson
 - file: IMG_1221.JPG
+  caption: Anders Lewen.
 - file: IMG_1230.JPG
+  caption: Knock-Out Greg & Blue Weather с физкульт-приветом. Пирамида в Форте.
 - file: IMG_1232.JPG
+  caption: Urban Head.
 - file: IMG_1234.JPG
+  caption: Вадим, Michael Arlt, А.Братецкий + 1
 - file: IMG_1235.JPG
+  caption: Вадим и Knock-Out Greg
 - file: IMG_1236.JPG
+  caption: Дима Красивов, Knock-Out Greg и Andreas Loesche
 - file: IMG_1255.JPG
+  caption: B.B. & The Blues Shacks в Форте. Andreas Arlt.
 - file: IMG_1257.JPG
 - file: IMG_1266.JPG
 - file: IMG_1272.JPG
+  caption: B.B. & The Blues Shacks в Форте. Andreas Arlt.
+- file: IMG_1273.JPG
 - file: IMG_1275.JPG
+  caption: B.B. & The Blues Shacks в Форте. Michael Arlt.
 - file: IMG_1283.JPG
+  caption: B.B. & The Blues Shacks в Форте. Michael Arlt.
 - file: IMG_1287.JPG
+  caption: Greger Andersson, джем с Blues Shacks.
 - file: IMG_1301.JPG
 - file: IMG_1305.JPG
+  caption: Knock-Out Greg & Blue Weather в Крымских Каникулах
 - file: IMG_1311.JPG
 - file: IMG_1321.JPG
 - file: IMG_1329.JPG
@@ -48,4 +73,3 @@ photos:
 - file: IMG_1351.JPG
 - file: IMG_1352.JPG
 - file: IMG_1357.JPG
-- file: img_1273.jpg

@@ -1,27 +1,17 @@
 slug: jc-smith-moscow
-canonical_date: '2004'
-title: J.C. Smith в Москве
-type: custom
+canonical_date: '2004-07-14'
+title: Jimmy Smith и Phil Upchurch в Ле Клубе
+type: mts
 path: 04Smith
 photo_count: 7
 captioned: false
-description: J.C. Smith выступает в Москве, 2004.
-extra_text: Jimmy SMITH и Phil UPCHURCH в московском Le Club, 14 июля 2004 г. Jimmy
-  SMITH и Phil UPCHURCH в московском Le Club, 14 июля 2004 г. фото &copy;А.Евдокимов
-index_files:
-- index.htm
+description: Jimmy Smith и Phil Upchurch в Ле Клубе, Москва, 14 июля 2004. Фотографии
+  А.Евдокимова.
 photos:
 - file: Smith2004-a.jpg
-  page_html: Smith2004-a.htm
 - file: Smith2004-b.jpg
-  page_html: Smith2004-b.htm
 - file: Smith2004-c.jpg
-  page_html: Smith2004-c.htm
 - file: Smith2004-d.jpg
-  page_html: Smith2004-d.htm
 - file: Smith2004-e.jpg
-  page_html: Smith2004-e.htm
 - file: Smith2004-f.jpg
-  page_html: Smith2004-f.htm
 - file: Smith2004-g.jpg
-  page_html: Smith2004-g.htm

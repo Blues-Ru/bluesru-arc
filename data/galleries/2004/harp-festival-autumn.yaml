@@ -1,50 +1,35 @@
 slug: harp-festival-autumn
 canonical_date: 2004-10
 title: Харп-фестиваль
-type: custom
+type: mts
 path: 04Autumn/Harp
 photo_count: 13
-captioned: false
-description: Московский фестиваль губной гармоники, осень 2004.
-index_files:
-- Harp17.htm
+captioned: true
+description: Московский фестиваль губной гармоники «Blues Harp Melt Down», осень 2004.
 photos:
 - file: BBK171.jpg
-  thumb: tn_BBK171.jpg
-  page_html: BBK171.htm
+  caption: Борис Булкин
 - file: BBK172.jpg
-  thumb: tn_BBK172.jpg
-  page_html: BBK172.htm
+  caption: Эйрик Бергене
 - file: BBK173.jpg
-  thumb: tn_BBK173.jpg
-  page_html: BBK173.htm
+  caption: Эйрик Бергене и Митч Кэшмар
 - file: BBK174.jpg
-  thumb: tn_BBK174.jpg
-  page_html: BBK174.htm
+  caption: Пылающие взоры
 - file: BBK175.jpg
-  thumb: tn_BBK175.jpg
-  page_html: BBK175.htm
+  caption: Саркастические улыбки
 - file: BBK176.jpg
-  thumb: tn_BBK176.jpg
-  page_html: BBK176.htm
+  caption: Джем продолжается
 - file: BBK177.jpg
-  thumb: tn_BBK177.jpg
-  page_html: BBK177.htm
+  caption: Day after birthday
 - file: BBK178.jpg
-  thumb: tn_BBK178.jpg
-  page_html: BBK178.htm
+  caption: Булкин + Воронов
 - file: BBK179.jpg
-  thumb: tn_BBK179.jpg
-  page_html: BBK179.htm
+  caption: Митч Кэшмар и Эйрик Бергене
 - file: BBK180.jpg
-  thumb: tn_BBK180.jpg
-  page_html: BBK180.htm
+  caption: Трио
 - file: BBK181.jpg
-  thumb: tn_BBK181.jpg
-  page_html: BBK181.htm
+  caption: Ричард Гъемс и Эйрик Бергене (л-п)
 - file: BBK182.jpg
-  thumb: tn_BBK182.jpg
-  page_html: BBK182.htm
+  caption: Eirik Bergene Band
 - file: BBK183.jpg
-  thumb: tn_BBK183.jpg
-  page_html: BBK183.htm
+  caption: Митч Кэшмар и Хокун Хэйе

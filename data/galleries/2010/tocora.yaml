@@ -10,15 +10,15 @@ extra_text: Web Album To view this please modify your browser settings to allow 
 index_files:
 - index.htm
 photos:
-- file: M/DSCN0818.jpg
-- file: M/DSCN0819.jpg
-- file: M/DSCN0822.jpg
-- file: M/DSCN0823.jpg
-- file: M/DSCN0825.jpg
-- file: M/DSCN0827.jpg
-- file: M/DSCN0828.jpg
-- file: M/DSCN0836.jpg
-- file: M/DSCN0837.jpg
-- file: M/DSCN0848.jpg
-- file: M/DSCN0855.jpg
-- file: M/DSCN0857.jpg
+- file: DSCN0818.jpg
+- file: DSCN0819.jpg
+- file: DSCN0822.jpg
+- file: DSCN0823.jpg
+- file: DSCN0825.jpg
+- file: DSCN0827.jpg
+- file: DSCN0828.jpg
+- file: DSCN0836.jpg
+- file: DSCN0837.jpg
+- file: DSCN0848.jpg
+- file: DSCN0855.jpg
+- file: DSCN0857.jpg

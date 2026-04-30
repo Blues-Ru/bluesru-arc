@@ -2,7 +2,7 @@ slug: joe-bonamassa-moscow
 canonical_date: 2007-10
 title: Joe Bonamassa in Moscow
 type: lightroom
-path: 07Automn/Bonamassa07/content
+path: 07Automn/Bonamassa07
 photo_count: 22
 captioned: false
 description: Joe Bonamassa выступает в Москве, осень 2007.
@@ -11,69 +11,47 @@ extra_text: Joe Bonamassa at MMDM, 2007 Joe Bonamassa at MMDM, 2007 14.X.2007 1 
 index_files:
 - index.html
 photos:
-- file: nib/Bonamassa.jpg
-  thumb: nib/images/thumb/Bonamassa.jpg
+- file: Bonamassa.jpg
   page_html: Bonamassa_large.html
-- file: nib/P1030735.jpg
-  thumb: nib/images/thumb/P1030735.jpg
+- file: P1030735.jpg
   page_html: P1030735_large.html
-- file: nib/P1030747.jpg
-  thumb: nib/images/thumb/P1030747.jpg
+- file: P1030747.jpg
   page_html: P1030747_large.html
-- file: nib/P1030763.jpg
-  thumb: nib/images/thumb/P1030763.jpg
+- file: P1030763.jpg
   page_html: P1030763_large.html
-- file: nib/P1030778.jpg
-  thumb: nib/images/thumb/P1030778.jpg
+- file: P1030778.jpg
   page_html: P1030778_large.html
-- file: nib/P1030791.jpg
-  thumb: nib/images/thumb/P1030791.jpg
+- file: P1030791.jpg
   page_html: P1030791_large.html
-- file: nib/P1030837.jpg
-  thumb: nib/images/thumb/P1030837.jpg
+- file: P1030837.jpg
   page_html: P1030837_large.html
-- file: nib/P1030859.jpg
-  thumb: nib/images/thumb/P1030859.jpg
+- file: P1030859.jpg
   page_html: P1030859_large.html
-- file: nib/P1030875.jpg
-  thumb: nib/images/thumb/P1030875.jpg
+- file: P1030875.jpg
   page_html: P1030875_large.html
-- file: nib/P1030884.jpg
-  thumb: nib/images/thumb/P1030884.jpg
+- file: P1030884.jpg
   page_html: P1030884_large.html
-- file: nib/P1030885.jpg
-  thumb: nib/images/thumb/P1030885.jpg
+- file: P1030885.jpg
   page_html: P1030885_large.html
-- file: nib/P1030901.jpg
-  thumb: nib/images/thumb/P1030901.jpg
+- file: P1030901.jpg
   page_html: P1030901_large.html
-- file: nib/P1030916.jpg
-  thumb: nib/images/thumb/P1030916.jpg
+- file: P1030916.jpg
   page_html: P1030916_large.html
-- file: nib/P1030924.jpg
-  thumb: nib/images/thumb/P1030924.jpg
+- file: P1030924.jpg
   page_html: P1030924_large.html
-- file: nib/P1030933.jpg
-  thumb: nib/images/thumb/P1030933.jpg
+- file: P1030933.jpg
   page_html: P1030933_large.html
-- file: nib/P1030934.jpg
-  thumb: nib/images/thumb/P1030934.jpg
+- file: P1030934.jpg
   page_html: P1030934_large.html
-- file: nib/P1030944.jpg
-  thumb: nib/images/thumb/P1030944.jpg
+- file: P1030944.jpg
   page_html: P1030944_large.html
-- file: nib/P1030950.jpg
-  thumb: nib/images/thumb/P1030950.jpg
+- file: P1030950.jpg
   page_html: P1030950_large.html
-- file: nib/P1030966.jpg
-  thumb: nib/images/thumb/P1030966.jpg
+- file: P1030966.jpg
   page_html: P1030966_large.html
-- file: nib/P1030970.jpg
-  thumb: nib/images/thumb/P1030970.jpg
+- file: P1030970.jpg
   page_html: P1030970_large.html
-- file: nib/P1030971.jpg
-  thumb: nib/images/thumb/P1030971.jpg
+- file: P1030971.jpg
   page_html: P1030971_large.html
-- file: nib/P1030972.jpg
-  thumb: nib/images/thumb/P1030972.jpg
+- file: P1030972.jpg
   page_html: P1030972_large.html

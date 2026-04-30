@@ -37,6 +37,7 @@
       <small><a href="/nbf/nbf11.htm">24-й Notodden Blues Festival 2011.</a><br>
        <i>Статья Федора Романенко.</i><br></small>
     </li>
+    <li><small><a href="/photo/2011/2011-notodden-blues-festival/">Фотогалерея (Photos)</a></small></li>
   </ul>
 </p>
 
@@ -66,7 +67,8 @@
       <small><a href="/nbf/nbf04f.htm">The Ballad Of Notodden.</a><br>
        <i>Статья С.Фунтусовой</i><br></small>
     </li>
-    <li><small><a href="/photo/2004/nbf-2004/">Фотогалерея (Photos)</a></small></li>
+    <li><small><a href="/photo/2004/2004-notodden-blues-festival/">Фотогалерея (Photos)</a></small></li>
+    <li><small><a href="/photo/2004/2004-notodden-blues-festival-vr/">Фотографии В.Романенко</a></small></li>
     <li><small><a href="http://www.bluescats.ru/files/notodden2004/">Фотографии М.Лернер</a></small></li>
   </ul>
 </p>
@@ -79,7 +81,7 @@
       <small><a href="/nbf/nbf03.htm">Отчет о Notodden Blues Festival 2003. Russians are here!</a><br>
        <i>Статья Ф.Романенко</i><br></small>
     </li>
-    <li><small><a href="/photo/2003/nbf-2003/">Фотогалерея (Photos)</a></small></li>
+    <li><small><a href="/photo/2003/2003-notodden-blues-festival/">Фотогалерея (Photos)</a></small></li>
   </ul>
 </p>
 
@@ -90,7 +92,7 @@
       <small><a href="/nbf/nbf02.htm">Notodden Blues Festival 2002 - блюзовый праздник</a><br>
        <i>Статья Ф.Романенко</i><br></small>
     </li>
-    <li><small><a href="/photo/2002/nbf-2002/">Фотогалерея (Photos)</a></small></li>
+    <li><small><a href="/photo/2002/2002-notodden-blues-festival/">Фотогалерея (Photos)</a></small></li>
   </ul>
 </p>
 
@@ -101,14 +103,14 @@
       <small><a href="/nbf/nbf01.htm">Чем норвежский городок Нутодден обязан Америке?</a><br>
        <i>Статья А.Евдокимова</i><br></small>
     </li>
-    <li><small><a href="/photo/2001/nbf-2001/">Фотогалерея (Photos)</a></small></li>
+    <li><small><a href="/photo/2001/2001-notodden-blues-festival/">Фотогалерея (Photos)</a></small></li>
   </ul>
 </p>
 
 <p>
   <b>1999: 12th NBF</b> <small><i>(12.08-15.08)</i></small>
   <ul>
-    <li><small><a href="/photo/1999/nbf-1999/">Фотогалерея (Photos)</a></small></li>
+    <li><small><a href="/photo/1999/1999-notodden-blues-festival/">Фотогалерея (Photos)</a></small></li>
   </ul>
 </p>
 
@@ -120,7 +122,7 @@
       <small><a href="/nbf/nbf98.htm">Впечатления от фестиваля</a><br>
         <i>Статья Ф.Романенко</i></small><br>
     </li>
-    <li><small><a href="/photo/1998/nbf-1998/">Фотогалерея (Photos)</a></small></li>
+    <li><small><a href="/photo/1998/1998-notodden-blues-festival/">Фотогалерея (Photos)</a></small></li>
   </ul>
 </p>
 
@@ -135,7 +137,7 @@
    <i>Статья Кнута Слеттемо</i><br></small>
 </p>
 
-<p><b><a href="/photo/2004/nbf-2004/">Фотогалерея (Photos)</a></b></p>
+<p><b><a href="/photo/2004/2004-notodden-blues-festival/">Фотогалерея (Photos)</a></b></p>
 
 <p><b><a href="http://www.bluesfest.no">www.bluesfest.no</a></b><br>
 <small>официальный сайт фестиваля.</small></p>

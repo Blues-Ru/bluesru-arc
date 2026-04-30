@@ -1,8 +1,0 @@
----
-id: 600
-slug: kontsert-staroy-gvardii-v-klube-a-href-http-www-roadho
-title: null
-date: 2010-10-10 00:00
----
-
-Концерт "Старой Гвардии" в клубе "<a href="http://www.roadhouse.ru/"><b>Дом у Дороги</b></a>", 9 октября 2010 г. <a href="/bluesnews/10Summer/Old_Guard/index.htm"><b>Фоторепортаж >>></b></a>

@@ -1,18 +1,12 @@
 slug: delta-nevy-festival
 canonical_date: '2002'
 title: Фестиваль «Дельта Невы»
-type: custom
+type: mts
 path: DN
 photo_count: 60
 captioned: false
 description: II фестиваль «Дельта Невы» 2002, Санкт-Петербург — интервью участников
   и концертные фото.
-index_files:
-- DN_int.htm
-- page_01.htm
-- page_02.htm
-- page_03.htm
-- page_04.htm
 photos:
 - file: dscn1070.jpg
 - file: dscn1071.jpg

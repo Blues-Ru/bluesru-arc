@@ -19,7 +19,9 @@
   </tr>
 </table>
 
-{% if nav_links %}<p>{{ nav_links | safe }}</p>{% endif %}
+{% if nav_links %}<p>{{ nav_links | safe }}</p>{% else %}<p>&nbsp;</p>{% endif %}
+
+{% if year_body %}{{ year_body | safe }}{% endif %}
 
 {% for item in news_items %}
 {% if item.image_path %}<img src="{{ item.image_path }}" align="right" alt="{{ item.title | e }}" vspace="4" hspace="10" style="max-width: 200px;">{% endif %}

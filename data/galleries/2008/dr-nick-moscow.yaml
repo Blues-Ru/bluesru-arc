@@ -2,7 +2,7 @@ slug: dr-nick-moscow
 canonical_date: 2008-07
 title: Dr. Nick in Moscow
 type: lightroom
-path: 08Summer/drnick/content
+path: 08Summer/drnick
 photo_count: 24
 captioned: false
 description: Dr. Nick выступает в Москве, лето 2008.
@@ -12,75 +12,51 @@ extra_text: Dr.Nick, Сергей Бабаев, Юрий Каверкин. 9.VI.
 index_files:
 - index.html
 photos:
-- file: bin/_1060371.jpg
-  thumb: bin/images/thumb/_1060371.jpg
+- file: _1060371.jpg
   page_html: _1060371_large.html
-- file: bin/_1060391.jpg
-  thumb: bin/images/thumb/_1060391.jpg
+- file: _1060391.jpg
   page_html: _1060391_large.html
-- file: bin/_1060405.jpg
-  thumb: bin/images/thumb/_1060405.jpg
+- file: _1060405.jpg
   page_html: _1060405_large.html
-- file: bin/_1060410.jpg
-  thumb: bin/images/thumb/_1060410.jpg
+- file: _1060410.jpg
   page_html: _1060410_large.html
-- file: bin/_1060413.jpg
-  thumb: bin/images/thumb/_1060413.jpg
+- file: _1060413.jpg
   page_html: _1060413_large.html
-- file: bin/_1060416.jpg
-  thumb: bin/images/thumb/_1060416.jpg
+- file: _1060416.jpg
   page_html: _1060416_large.html
-- file: bin/_1060421.jpg
-  thumb: bin/images/thumb/_1060421.jpg
+- file: _1060421.jpg
   page_html: _1060421_large.html
-- file: bin/_1060437.jpg
-  thumb: bin/images/thumb/_1060437.jpg
+- file: _1060437.jpg
   page_html: _1060437_large.html
-- file: bin/_1060441.jpg
-  thumb: bin/images/thumb/_1060441.jpg
+- file: _1060441.jpg
   page_html: _1060441_large.html
-- file: bin/_1060448.jpg
-  thumb: bin/images/thumb/_1060448.jpg
+- file: _1060448.jpg
   page_html: _1060448_large.html
-- file: bin/_1060457.jpg
-  thumb: bin/images/thumb/_1060457.jpg
+- file: _1060457.jpg
   page_html: _1060457_large.html
-- file: bin/_1060466.jpg
-  thumb: bin/images/thumb/_1060466.jpg
+- file: _1060466.jpg
   page_html: _1060466_large.html
-- file: bin/_1060470.jpg
-  thumb: bin/images/thumb/_1060470.jpg
+- file: _1060470.jpg
   page_html: _1060470_large.html
-- file: bin/_1060476.jpg
-  thumb: bin/images/thumb/_1060476.jpg
+- file: _1060476.jpg
   page_html: _1060476_large.html
-- file: bin/_1060485.jpg
-  thumb: bin/images/thumb/_1060485.jpg
+- file: _1060485.jpg
   page_html: _1060485_large.html
-- file: bin/_1060488.jpg
-  thumb: bin/images/thumb/_1060488.jpg
+- file: _1060488.jpg
   page_html: _1060488_large.html
-- file: bin/_1060503.jpg
-  thumb: bin/images/thumb/_1060503.jpg
+- file: _1060503.jpg
   page_html: _1060503_large.html
-- file: bin/_1060504.jpg
-  thumb: bin/images/thumb/_1060504.jpg
+- file: _1060504.jpg
   page_html: _1060504_large.html
-- file: bin/_1060505.jpg
-  thumb: bin/images/thumb/_1060505.jpg
+- file: _1060505.jpg
   page_html: _1060505_large.html
-- file: bin/_1060510.jpg
-  thumb: bin/images/thumb/_1060510.jpg
+- file: _1060510.jpg
   page_html: _1060510_large.html
-- file: bin/_1060512.jpg
-  thumb: bin/images/thumb/_1060512.jpg
+- file: _1060512.jpg
   page_html: _1060512_large.html
-- file: bin/_1060517.jpg
-  thumb: bin/images/thumb/_1060517.jpg
+- file: _1060517.jpg
   page_html: _1060517_large.html
-- file: bin/_1060532.jpg
-  thumb: bin/images/thumb/_1060532.jpg
+- file: _1060532.jpg
   page_html: _1060532_large.html
-- file: bin/_1060535.jpg
-  thumb: bin/images/thumb/_1060535.jpg
+- file: _1060535.jpg
   page_html: _1060535_large.html

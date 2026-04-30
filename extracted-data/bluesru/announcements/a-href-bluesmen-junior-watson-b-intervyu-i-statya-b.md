@@ -1,8 +1,0 @@
----
-id: 333
-slug: a-href-bluesmen-junior-watson-b-intervyu-i-statya-b
-title: null
-date: 2003-06-27 00:00
----
-
-<a href="/bluesmen/Junior_Watson/"><b>Интервью и статья</b></a> о гитаристе Junior Watson с сайта <a href="http://www.deltasnake.com"><b>Delta Snake</b></a> в переводе Арсена Шомахова.

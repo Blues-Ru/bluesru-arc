@@ -2,7 +2,7 @@ slug: lefortovo-fest-gosha-shomakhov
 canonical_date: 2007-07
 title: Lefortovo — Gosha Shomakhov
 type: lightroom
-path: 07Leto/Lefortovo07/GS/content
+path: 07Leto/Lefortovo07/GS
 photo_count: 4
 captioned: false
 description: Гоша Шомахов на Lefortovo Open Air Blues Festival 2007.
@@ -11,15 +11,11 @@ extra_text: Green Spirit at Lefortovo Fest 11/08/2007 (foto by A.Evdokimov) Gree
 index_files:
 - index.html
 photos:
-- file: nib/P1030081.jpg
-  thumb: nib/images/thumb/P1030081.jpg
+- file: P1030081.jpg
   page_html: P1030081_large.html
-- file: nib/P1030084.jpg
-  thumb: nib/images/thumb/P1030084.jpg
+- file: P1030084.jpg
   page_html: P1030084_large.html
-- file: nib/P1030087.jpg
-  thumb: nib/images/thumb/P1030087.jpg
+- file: P1030087.jpg
   page_html: P1030087_large.html
-- file: nib/P1030090.jpg
-  thumb: nib/images/thumb/P1030090.jpg
+- file: P1030090.jpg
   page_html: P1030090_large.html

@@ -1,112 +1,75 @@
 slug: efes-blues-festival
 canonical_date: 2004-10
 title: International Blues Festival, Moscow
-type: custom
+type: mts
 path: 04Autumn/Efes04
 photo_count: 32
-captioned: false
+captioned: true
 description: Международный блюз-фестиваль (бывший Efes Pilsener), Москва, октябрь
   2004. Little Charlie & the Nightcats, Mighty Sam McClain, Fruitland Jackson. Джем
   в клубе B.B.King.
-index_files:
-- Efes04_2.htm
-- Efes04_21.htm
-- Efes_BBK.htm
-- gztru.htm
 photos:
 - file: DSCN4367.jpg
-  thumb: tn_DSCN4367.jpg
-  page_html: DSCN4367.htm
+  caption: активисты клуба и Фрутлэнд Джонсон
 - file: DSCN4368.jpg
-  thumb: tn_DSCN4368.jpg
-  page_html: DSCN4368.htm
+  caption: музыкантам была представлена книжка
 - file: DSCN4369.jpg
-  thumb: tn_DSCN4369.jpg
-  page_html: DSCN4369.htm
+  caption: которая их очень заинтересовала
 - file: DSCN4370.jpg
-  thumb: tn_DSCN4370.jpg
-  page_html: DSCN4370.htm
+  caption: поскольку ею можно было прикрываться от папараци
 - file: DSCN4371.jpg
-  thumb: tn_DSCN4371.jpg
-  page_html: DSCN4371.htm
+  caption: все хотят сфотографироваться с конферансье
 - file: DSCN4372.jpg
-  thumb: tn_DSCN4372.jpg
-  page_html: DSCN4372.htm
+  caption: так начинается джем
 - file: DSCN4374.JPG
-  thumb: tn_DSCN4374.jpg
-  page_html: DSCN4374.htm
+  caption: Ю. Каверкин, С.Воронов и пришлые музыканты
 - file: DSCN4378.jpg
-  thumb: tn_DSCN4378.jpg
-  page_html: DSCN4378.htm
+  caption: М.Мишурис и Чарли Бати
 - file: DSCN4379.jpg
-  thumb: tn_DSCN4379.jpg
-  page_html: DSCN4379.htm
-- file: dscn4315.jpg
-  thumb: tn_dscn4315.jpg
-  page_html: dscn4315.htm
-- file: dscn4318.jpg
-  thumb: tn_dscn4318.jpg
-  page_html: dscn4318.htm
-- file: dscn4323.jpg
-  thumb: tn_dscn4323.jpg
-  page_html: dscn4323.htm
-- file: dscn4331.jpg
-  thumb: tn_dscn4331.jpg
-  page_html: dscn4331.htm
-- file: dscn4332.jpg
-  thumb: tn_dscn4332.jpg
-  page_html: dscn4332.htm
-- file: dscn4333.jpg
-  thumb: tn_dscn4333.jpg
-  page_html: dscn4333.htm
-- file: dscn4335.jpg
-  thumb: tn_dscn4335.jpg
-  page_html: dscn4335.htm
-- file: dscn4338.jpg
-  thumb: tn_dscn4338.jpg
-  page_html: dscn4338.htm
-- file: dscn4339.jpg
-  thumb: tn_dscn4339.jpg
-  page_html: dscn4339.htm
-- file: dscn4344.jpg
-  thumb: tn_dscn4344.jpg
-  page_html: dscn4344.htm
-- file: dscn4345.jpg
-  thumb: tn_dscn4345.jpg
-  page_html: dscn4345.htm
-- file: dscn4346.jpg
-  thumb: tn_dscn4346.jpg
-  page_html: dscn4346.htm
-- file: dscn4349.jpg
-  thumb: tn_dscn4349.jpg
-  page_html: dscn4349.htm
-- file: dscn4350.jpg
-  thumb: tn_dscn4350.jpg
-  page_html: dscn4350.htm
-- file: dscn4351.jpg
-  thumb: tn_dscn4351.jpg
-  page_html: dscn4351.htm
-- file: dscn4355.jpg
-  thumb: tn_dscn4355.jpg
-  page_html: dscn4355.htm
-- file: dscn4357.jpg
-  thumb: tn_dscn4357.jpg
-  page_html: dscn4357.htm
-- file: dscn4358.jpg
-  thumb: tn_dscn4358.jpg
-  page_html: dscn4358.htm
-- file: dscn4359.jpg
-  thumb: tn_dscn4359.jpg
-  page_html: dscn4359.htm
-- file: dscn4364.jpg
-  thumb: tn_dscn4364.jpg
-  page_html: dscn4364.htm
-- file: dscn4365.jpg
-  thumb: tn_dscn4365.jpg
-  page_html: dscn4365.htm
+  caption: М.Мишурис и Чарли Бати
 - file: jh_vl4308.jpg
-  thumb: tn_jh_vl4308.jpg
-  page_html: jh_vl4308.htm
+  caption: Фрутлэнд Джонсон и Миша Владимиров
 - file: jh_vl4309.jpg
-  thumb: tn_jh_vl4309.jpg
-  page_html: jh_vl4309.htm
+  caption: Фрутлэнд Джонсон и Миша Владимиров
+- file: dscn4315.jpg
+  caption: театр Рика Эстрина
+- file: dscn4318.jpg
+  caption: театр Рика Эстрина
+- file: dscn4323.jpg
+  caption: театр Литл-Чарли
+- file: dscn4331.jpg
+  caption: театр Литл-Чарли
+- file: dscn4332.jpg
+  caption: игра втроем
+- file: dscn4333.jpg
+  caption: игра втроем
+- file: dscn4335.jpg
+  caption: игра втроем
+- file: dscn4338.jpg
+  caption: театр Литл-Чарли
+- file: dscn4339.jpg
+  caption: театр Рика Эстрина
+- file: dscn4344.jpg
+  caption: театр Рика Эстрина
+- file: dscn4345.jpg
+  caption: театр Рика Эстрина
+- file: dscn4346.jpg
+  caption: театр Рика Эстрина
+- file: dscn4349.jpg
+  caption: игра втроем
+- file: dscn4350.jpg
+  caption: игра втроем
+- file: dscn4351.jpg
+  caption: игра втроем
+- file: dscn4355.jpg
+  caption: театр Рика Эстрина
+- file: dscn4357.jpg
+  caption: театр Рика Эстрина
+- file: dscn4358.jpg
+  caption: театр Рика Эстрина
+- file: dscn4359.jpg
+  caption: театр Рика Эстрина
+- file: dscn4364.jpg
+  caption: театр Литл-Чарли
+- file: dscn4365.jpg
+  caption: театр Литл-Чарли

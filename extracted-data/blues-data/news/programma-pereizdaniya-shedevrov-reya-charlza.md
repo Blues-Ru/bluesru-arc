@@ -1,9 +1,0 @@
----
-id: 575
-slug: programma-pereizdaniya-shedevrov-reya-charlza
-title: Программа переиздания шедевров Рея Чарлза
-date: 2008-11-27 14:21
-author: Андрей Евдокимов
----
-
-Джазовый лейбл Concord Music Group занимался записью и изданием альбома Genius Loves Company, в котором Рэй Чарлз пел в дуэтах со многими поп-, рок- и джаз-звездами. Альбом вышел в 2004 году и стал последней студийной работой Рэя Чарлза (Ray Charles), одного из величайших голосов американской музыки второй половины ХХ века. Альбом был удостоен нескольких премий Grammy, в том числе и в ключевой категории Best Album. В 2006г. Concord издал ранее не публиковавшуюся запись Рея Чарлза с оркестром Каунта Бейси "Ray Sings, Basie Swings". Сегодня Concord Music Group объявила, что благополучно завершились переговоры с Ray Charles Foundation о переиздании лучших записей из дискографии великого певца и клавишника. 25 ноября названо официальной датой публикации на CD альбома The Spirit of Christmas, впервые изданного в 1985 году. Кроме традиционных рождественских стандартов, вроде "Santa Claus Is Coming to Town", в качестве бонус-трека в альбом войдет записанный в 1961 году игривый дуэт с певицей Betty Carter в песне с "зимним" названием "Baby It's Cold Outside." В марте появится ретроспективный альбом хитов Рея Чарлза, в который войдет 21 шедевр мастера, ставших оправданием существования американской легкой музыки: "Georgia on My Mind", "Hit the Road Jack", "Busted", "I Can't Stop Loving You", "Sticks and Stones", "Drown in My Own Tears", "Unchain My Heart", "I've Got a Woman," "You Are My Sunshine", "Take These Chains From My Heart" и др. Другой сборник: Starbucks Opus Anthology – выпускается для продажи во всемирной сети американских кофеен. Любителей "более серьезных" переизданий порадуют в 2009 году ремастированные "<a href="/data/albumview.aspx?cdid=37">Modern Sounds in Country Western Music</a>, Vol. 1 & 2"; "The Genius Hits the Road"; "Genius + Soul = Jazz"; "Berlin, 1962".

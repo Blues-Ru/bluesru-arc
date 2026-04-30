@@ -6,7 +6,6 @@
 
 <p align="center">
 <!--#include virtual="/footer.inc"-->
-<!--#include virtual="/liveinternetsmall.inc"-->
 </p>
 
 </html>

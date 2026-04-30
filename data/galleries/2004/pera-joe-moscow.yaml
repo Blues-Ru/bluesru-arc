@@ -1,32 +1,15 @@
 slug: pera-joe-moscow
 canonical_date: '2004'
 title: Pera Joe в Москве
-type: custom
+type: mts
 path: Pera
 photo_count: 6
 captioned: false
 description: Pera Joe (Белград) выступает в Москве.
-extra_text: Pera Pera DSCN0024 1280 X 960 233 KB DSCN0087s 588 X 1080 454 KB DSCN0033
-  1600 X 1200 792 KB DSCN0037s 1600 X 1200 853 KB DSCN0046 1600 X 1200 732 KB DSCN0072
-  1600 X 1200 738 KB
-index_files:
-- index.html
 photos:
 - file: DSCN0024.JPG
-  thumb: tn_DSCN0024.jpg
-  page_html: DSCN0024.html
 - file: DSCN0033.JPG
-  thumb: tn_DSCN0033.jpg
-  page_html: DSCN0033.html
 - file: DSCN0037s.jpg
-  thumb: tn_DSCN0037s.jpg
-  page_html: DSCN0037s.html
 - file: DSCN0046.JPG
-  thumb: tn_DSCN0046.jpg
-  page_html: DSCN0046.html
 - file: DSCN0072.JPG
-  thumb: tn_DSCN0072.jpg
-  page_html: DSCN0072.html
 - file: DSCN0087s.jpg
-  thumb: tn_DSCN0087s.jpg
-  page_html: DSCN0087s.html

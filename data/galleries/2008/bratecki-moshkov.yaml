@@ -2,7 +2,7 @@ slug: bratecki-moshkov
 canonical_date: 2008-01
 title: Andrey Bratecky & Moshkov
 type: lightroom
-path: 08Winter/BA_Moshkov0801/content
+path: 08Winter/BA_Moshkov0801
 photo_count: 7
 captioned: false
 description: Андрей Братецкий, январь 2008.
@@ -11,24 +11,17 @@ extra_text: Blues Academy - From Spiritual to Swing Blues Academy - From Spiritu
 index_files:
 - index.html
 photos:
-- file: bin/BA01.jpg
-  thumb: bin/images/thumb/BA01.jpg
+- file: BA01.jpg
   page_html: BA01_large.html
-- file: bin/BA02.jpg
-  thumb: bin/images/thumb/BA02.jpg
+- file: BA02.jpg
   page_html: BA02_large.html
-- file: bin/BA04.jpg
-  thumb: bin/images/thumb/BA04.jpg
+- file: BA04.jpg
   page_html: BA04_large.html
-- file: bin/BA05.jpg
-  thumb: bin/images/thumb/BA05.jpg
+- file: BA05.jpg
   page_html: BA05_large.html
-- file: bin/BA06.jpg
-  thumb: bin/images/thumb/BA06.jpg
+- file: BA06.jpg
   page_html: BA06_large.html
-- file: bin/BA07.jpg
-  thumb: bin/images/thumb/BA07.jpg
+- file: BA07.jpg
   page_html: BA07_large.html
-- file: bin/BA08.jpg
-  thumb: bin/images/thumb/BA08.jpg
+- file: BA08.jpg
   page_html: BA08_large.html

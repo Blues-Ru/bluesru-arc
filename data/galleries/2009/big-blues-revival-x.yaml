@@ -2,44 +2,32 @@ slug: big-blues-revival-x
 canonical_date: 2009-04
 title: Big Blues Revival X
 type: lightroom
-path: 09Spring/BBR_X/content
+path: 09Spring/BBR_X
 photo_count: 12
 captioned: false
 description: Big Blues Revival, юбилейный концерт X, Москва, 2009.
 photos:
-- file: nib/DSC_0855.jpg
-  thumb: nib/images/thumb/DSC_0855.jpg
+- file: DSC_0855.jpg
   page_html: DSC_0855_large.html
-- file: nib/DSC_0859.jpg
-  thumb: nib/images/thumb/DSC_0859.jpg
+- file: DSC_0859.jpg
   page_html: DSC_0859_large.html
-- file: nib/DSC_0862.jpg
-  thumb: nib/images/thumb/DSC_0862.jpg
+- file: DSC_0862.jpg
   page_html: DSC_0862_large.html
-- file: nib/DSC_0864.jpg
-  thumb: nib/images/thumb/DSC_0864.jpg
+- file: DSC_0864.jpg
   page_html: DSC_0864_large.html
-- file: nib/DSC_0869.jpg
-  thumb: nib/images/thumb/DSC_0869.jpg
+- file: DSC_0869.jpg
   page_html: DSC_0869_large.html
-- file: nib/DSC_0875.jpg
-  thumb: nib/images/thumb/DSC_0875.jpg
+- file: DSC_0875.jpg
   page_html: DSC_0875_large.html
-- file: nib/DSC_0877.jpg
-  thumb: nib/images/thumb/DSC_0877.jpg
+- file: DSC_0877.jpg
   page_html: DSC_0877_large.html
-- file: nib/DSC_0880.jpg
-  thumb: nib/images/thumb/DSC_0880.jpg
+- file: DSC_0880.jpg
   page_html: DSC_0880_large.html
-- file: nib/DSC_0884.jpg
-  thumb: nib/images/thumb/DSC_0884.jpg
+- file: DSC_0884.jpg
   page_html: DSC_0884_large.html
-- file: nib/DSC_0885.jpg
-  thumb: nib/images/thumb/DSC_0885.jpg
+- file: DSC_0885.jpg
   page_html: DSC_0885_large.html
-- file: nib/DSC_0886.jpg
-  thumb: nib/images/thumb/DSC_0886.jpg
+- file: DSC_0886.jpg
   page_html: DSC_0886_large.html
-- file: nib/DSC_0889.jpg
-  thumb: nib/images/thumb/DSC_0889.jpg
+- file: DSC_0889.jpg
   page_html: DSC_0889_large.html

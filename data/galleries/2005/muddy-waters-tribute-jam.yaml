@@ -1,7 +1,7 @@
 slug: muddy-waters-tribute-jam
 canonical_date: 2005-03
 title: Muddy Waters Tribute Jam
-type: custom
+type: mts
 path: 05Spring/Muddyjam
 photo_count: 22
 captioned: false
@@ -12,72 +12,26 @@ extra_text: джем в БиБиКинге к 90-летию со дня рожд
   KB + Джимми Аллигатор 88 KB Юрий Каверкин 123 KB Валерий Серегин и Валерий Гелюта
   53 KB Михаил Владимиров, jr. 60 KB Инесс и Оксана Кочубей 65 KB Инесс и Оксана Кочубей
   67 KB
-index_files:
-- mw.htm
-- mw1.htm
 photos:
 - file: mw_01.jpg
-  thumb: tn_mw_01.jpg
 - file: mw_02.jpg
-  thumb: tn_mw_02.jpg
-  page_html: mw_02.htm
 - file: mw_03.jpg
-  thumb: tn_mw_03.jpg
-  page_html: mw_03.htm
 - file: mw_04.jpg
-  thumb: tn_mw_04.jpg
-  page_html: mw_04.htm
 - file: mw_05.jpg
-  thumb: tn_mw_05.jpg
-  page_html: mw_05.htm
 - file: mw_06.jpg
-  thumb: tn_mw_06.jpg
-  page_html: mw_06.htm
 - file: mw_07.jpg
-  thumb: tn_mw_07.jpg
-  page_html: mw_07.htm
 - file: mw_08.jpg
-  thumb: tn_mw_08.jpg
-  page_html: mw_08.htm
 - file: mw_09.jpg
-  thumb: tn_mw_09.jpg
-  page_html: mw_09.htm
 - file: mw_10.jpg
-  thumb: tn_mw_10.jpg
-  page_html: mw_10.htm
 - file: mw_11.jpg
-  thumb: tn_mw_11.jpg
-  page_html: mw_11.htm
 - file: mw_12.jpg
-  thumb: tn_mw_12.jpg
-  page_html: mw_12.htm
 - file: mw_13.jpg
-  thumb: tn_mw_13.jpg
-  page_html: mw_13.htm
 - file: mw_14.jpg
-  thumb: tn_mw_14.jpg
-  page_html: mw_14.htm
 - file: mw_15.jpg
-  thumb: tn_mw_15.jpg
-  page_html: mw_15.htm
 - file: mw_16.jpg
-  thumb: tn_mw_16.jpg
-  page_html: mw_16.htm
 - file: mw_17.jpg
-  thumb: tn_mw_17.jpg
-  page_html: mw_17.htm
 - file: mw_18.jpg
-  thumb: tn_mw_18.jpg
-  page_html: mw_18.htm
 - file: mw_19.jpg
-  thumb: tn_mw_19.jpg
-  page_html: mw_19.htm
 - file: mw_20.jpg
-  thumb: tn_mw_20.jpg
-  page_html: mw_20.htm
 - file: mw_21.jpg
-  thumb: tn_mw_21.jpg
-  page_html: mw_21.htm
 - file: mw_22.jpg
-  thumb: tn_mw_22.jpg
-  page_html: mw_22.htm

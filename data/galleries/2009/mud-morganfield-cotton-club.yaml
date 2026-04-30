@@ -2,7 +2,7 @@ slug: mud-morganfield-cotton-club
 canonical_date: '2009-10-17'
 title: Mud Morganfield & Kingsize at Cotton Club
 type: lightroom
-path: 09Winter/mud09/content
+path: 09Winter/mud09
 photo_count: 30
 captioned: false
 description: Mud Morganfield (сын Muddy Waters) и Kingsize в Cotton Club, Москва,
@@ -13,93 +13,63 @@ extra_text: Mud Morganfield & Kingsize. 17.X.2009. Cotton Club, Moscow. Mud Morg
 index_files:
 - index.html
 photos:
-- file: nib/DSC_2366.jpg
-  thumb: nib/images/thumb/DSC_2366.jpg
+- file: DSC_2366.jpg
   page_html: DSC_2366_large.html
-- file: nib/DSC_2370.jpg
-  thumb: nib/images/thumb/DSC_2370.jpg
+- file: DSC_2370.jpg
   page_html: DSC_2370_large.html
-- file: nib/DSC_2379.jpg
-  thumb: nib/images/thumb/DSC_2379.jpg
+- file: DSC_2379.jpg
   page_html: DSC_2379_large.html
-- file: nib/DSC_2380.jpg
-  thumb: nib/images/thumb/DSC_2380.jpg
+- file: DSC_2380.jpg
   page_html: DSC_2380_large.html
-- file: nib/DSC_2382.jpg
-  thumb: nib/images/thumb/DSC_2382.jpg
+- file: DSC_2382.jpg
   page_html: DSC_2382_large.html
-- file: nib/DSC_2389.jpg
-  thumb: nib/images/thumb/DSC_2389.jpg
+- file: DSC_2389.jpg
   page_html: DSC_2389_large.html
-- file: nib/DSC_2398.jpg
-  thumb: nib/images/thumb/DSC_2398.jpg
+- file: DSC_2398.jpg
   page_html: DSC_2398_large.html
-- file: nib/DSC_2405.jpg
-  thumb: nib/images/thumb/DSC_2405.jpg
+- file: DSC_2405.jpg
   page_html: DSC_2405_large.html
-- file: nib/DSC_2409.jpg
-  thumb: nib/images/thumb/DSC_2409.jpg
+- file: DSC_2409.jpg
   page_html: DSC_2409_large.html
-- file: nib/DSC_2413.jpg
-  thumb: nib/images/thumb/DSC_2413.jpg
+- file: DSC_2413.jpg
   page_html: DSC_2413_large.html
-- file: nib/DSC_2417.jpg
-  thumb: nib/images/thumb/DSC_2417.jpg
+- file: DSC_2417.jpg
   page_html: DSC_2417_large.html
-- file: nib/DSC_2418.jpg
-  thumb: nib/images/thumb/DSC_2418.jpg
+- file: DSC_2418.jpg
   page_html: DSC_2418_large.html
-- file: nib/DSC_2421.jpg
-  thumb: nib/images/thumb/DSC_2421.jpg
+- file: DSC_2421.jpg
   page_html: DSC_2421_large.html
-- file: nib/DSC_2431.jpg
-  thumb: nib/images/thumb/DSC_2431.jpg
+- file: DSC_2431.jpg
   page_html: DSC_2431_large.html
-- file: nib/DSC_2433.jpg
-  thumb: nib/images/thumb/DSC_2433.jpg
+- file: DSC_2433.jpg
   page_html: DSC_2433_large.html
-- file: nib/DSC_2438.jpg
-  thumb: nib/images/thumb/DSC_2438.jpg
+- file: DSC_2438.jpg
   page_html: DSC_2438_large.html
-- file: nib/DSC_2439.jpg
-  thumb: nib/images/thumb/DSC_2439.jpg
+- file: DSC_2439.jpg
   page_html: DSC_2439_large.html
-- file: nib/DSC_2446.jpg
-  thumb: nib/images/thumb/DSC_2446.jpg
+- file: DSC_2446.jpg
   page_html: DSC_2446_large.html
-- file: nib/DSC_2447.jpg
-  thumb: nib/images/thumb/DSC_2447.jpg
+- file: DSC_2447.jpg
   page_html: DSC_2447_large.html
-- file: nib/DSC_2454.jpg
-  thumb: nib/images/thumb/DSC_2454.jpg
+- file: DSC_2454.jpg
   page_html: DSC_2454_large.html
-- file: nib/DSC_2457.jpg
-  thumb: nib/images/thumb/DSC_2457.jpg
+- file: DSC_2457.jpg
   page_html: DSC_2457_large.html
-- file: nib/DSC_2460.jpg
-  thumb: nib/images/thumb/DSC_2460.jpg
+- file: DSC_2460.jpg
   page_html: DSC_2460_large.html
-- file: nib/DSC_2462.jpg
-  thumb: nib/images/thumb/DSC_2462.jpg
+- file: DSC_2462.jpg
   page_html: DSC_2462_large.html
-- file: nib/DSC_2469.jpg
-  thumb: nib/images/thumb/DSC_2469.jpg
+- file: DSC_2469.jpg
   page_html: DSC_2469_large.html
-- file: nib/DSC_2472.jpg
-  thumb: nib/images/thumb/DSC_2472.jpg
+- file: DSC_2472.jpg
   page_html: DSC_2472_large.html
-- file: nib/DSC_2485.jpg
-  thumb: nib/images/thumb/DSC_2485.jpg
+- file: DSC_2485.jpg
   page_html: DSC_2485_large.html
-- file: nib/DSC_2487.jpg
-  thumb: nib/images/thumb/DSC_2487.jpg
+- file: DSC_2487.jpg
   page_html: DSC_2487_large.html
-- file: nib/DSC_2488.jpg
-  thumb: nib/images/thumb/DSC_2488.jpg
+- file: DSC_2488.jpg
   page_html: DSC_2488_large.html
-- file: nib/DSC_2489.jpg
-  thumb: nib/images/thumb/DSC_2489.jpg
+- file: DSC_2489.jpg
   page_html: DSC_2489_large.html
-- file: nib/DSC_2492.jpg
-  thumb: nib/images/thumb/DSC_2492.jpg
+- file: DSC_2492.jpg
   page_html: DSC_2492_large.html

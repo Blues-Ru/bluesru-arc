@@ -1,73 +1,98 @@
 slug: russia-gets-the-blues
 canonical_date: '2004-07-17'
 title: Russia Gets the Blues
-type: custom
+type: mts
 path: 04Summer/RGtB
-photo_count: 16
+photo_count: 29
 captioned: true
-description: Russia Gets the Blues в клубе B.B.King, Москва, 17 июля 2004.
-index_files:
-- RGtB_bbk.htm
-- ab.htm
-- bu.htm
-- dv.htm
-- m.htm
-- o.htm
-- o1.htm
-- p.htm
-- u1.htm
-- u2.htm
-- u4.htm
-- u5.htm
-- u6.htm
-- u_.htm
-- vo.htm
+description: Russia Gets the Blues в клубе B.B.King, Москва, 17 июля 2004. Презентация
+  книги Майкла Урбана о российском блюзе.
 photos:
 - file: RGtB.jpg
   page_html: RGtB.htm
-  caption: '17 июля в клубе в присутствии автора состоялась презентация книги Майкла
-    Урбана &quot;В России начинается блюз: музыка, культура и сообщество в беспокойное
-    время&quot;'
-- file: RGtB_b.jpg
-- file: ab2.jpg
-  thumb: tn_ab2.jpg
-  page_html: ab2.htm
-- file: ab3.jpg
-  thumb: tn_ab3.jpg
-  page_html: ab3.htm
-- file: dv2.jpg
-  thumb: tn_dv2.jpg
-  page_html: dv2.htm
-- file: dv3.jpg
-  thumb: tn_dv3.jpg
-  page_html: dv3.htm
+  caption: 'Книга «Russia Gets the Blues: music, culture, and community in unsettled
+    time» Майкла Урбана'
+- file: u_.jpg
+  page_html: u_.htm
+  caption: Майк Урбан, блюзовый антрополог
 - file: e_a.jpg
-  thumb: tn_e_a.jpg
   page_html: e_a.htm
-- file: kor.jpg
-  thumb: tn_kor.jpg
-  page_html: kor.htm
-- file: kr_ko.jpg
-  thumb: tn_kr_ko.jpg
-  page_html: kr_ko.htm
-- file: ufter1.jpg
-  thumb: tn_ufter1.jpg
-  page_html: ufter1.htm
-- file: ufter11.jpg
-  thumb: tn_ufter11.jpg
-  page_html: ufter11.htm
-- file: ufter2.jpg
-  thumb: tn_ufter2.jpg
-  page_html: ufter2.htm
-- file: ufter23.jpg
-  thumb: tn_ufter23.jpg
-  page_html: ufter23.htm
-- file: ufter3.jpg
-  thumb: tn_ufter3.jpg
-  page_html: ufter3.htm
-- file: ufter_1.jpg
-  thumb: tn_ufter_1.jpg
-  page_html: ufter_1.htm
+  caption: 'соавторы, т.с.: А.Евдокимов & M.Urban'
+- file: bu.jpg
+  page_html: bu.htm
+  caption: Борис Булкин (лидер хаус-бэнда)
+- file: ab.jpg
+  page_html: ab.htm
+  caption: Аграновский vs. Братецкий (ч.1)
+- file: ab2.jpg
+  page_html: ab2.htm
+  caption: Аграновский vs. Братецкий (ч.2)
+- file: ab3.jpg
+  page_html: ab3.htm
+  caption: Аграновский vs. Братецкий (ч.3)
+- file: dv.jpg
+  page_html: dv.htm
+  caption: Гия + Ворон (ч.1)
+- file: dv2.jpg
+  page_html: dv2.htm
+  caption: Гия + Ворон (ч.2)
+- file: dv3.jpg
+  page_html: dv3.htm
+  caption: Гия + Ворон, и Борис
+- file: vo.jpg
+  page_html: vo.htm
+  caption: Так не запугать папараци
 - file: vo2.jpg
-  thumb: tn_vo2.jpg
   page_html: vo2.htm
+  caption: Еще один указующий перст
+- file: u5.jpg
+  page_html: u5.htm
+  caption: Many thanks!
+- file: m.jpg
+  page_html: m.htm
+  caption: Денис Мажуков
+- file: o.jpg
+  page_html: o.htm
+  caption: Майк ожидал «девочку с голубыми волосами»
+- file: o1.jpg
+  page_html: o1.htm
+  caption: А Оксана Кочубей решила попробовать новый имидж
+- file: p.jpg
+  page_html: p.htm
+  caption: Не так уж легка работа звукорежисера
+- file: u1.jpg
+  page_html: u1.htm
+  caption: Михаил Петрович Соколов и Майк Урбан
+- file: u2.jpg
+  page_html: u2.htm
+  caption: Вероника Урбан (см. примечание)
+- file: u6.jpg
+  page_html: u6.htm
+  caption: Somebody hoodooed the hoodoo man
+- file: u4.jpg
+  page_html: u4.htm
+  caption: пора переходить к after-party
+- file: ufter_1.jpg
+  page_html: ufter_1.htm
+  caption: не без того, конечно...
+- file: kr_ko.jpg
+  page_html: kr_ko.htm
+  caption: Дима Красивов и Юра Коверкин
+- file: ufter1.jpg
+  page_html: ufter1.htm
+  caption: Те же и Михаил Мишурис
+- file: ufter11.jpg
+  page_html: ufter11.htm
+  caption: Неопознанный молодой гитарист
+- file: kor.jpg
+  page_html: kor.htm
+  caption: enters Владимир Кораблин
+- file: ufter2.jpg
+  page_html: ufter2.htm
+  caption: (слева) А.Братецкий и А.Казанков
+- file: ufter23.jpg
+  page_html: ufter23.htm
+  caption: Те же, вид сверху
+- file: ufter3.jpg
+  page_html: ufter3.htm
+  caption: Звучит блюз «А Боря Булкин будет петь»

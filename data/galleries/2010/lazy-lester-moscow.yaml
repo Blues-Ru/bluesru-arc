@@ -2,7 +2,7 @@ slug: lazy-lester-moscow
 canonical_date: 2010-03
 title: Lazy Lester in Moscow
 type: lightroom
-path: 10Spring/lazy/content
+path: 10Spring/lazy
 photo_count: 24
 captioned: false
 description: Lazy Lester (луизианский блюзмен) выступает в Москве, весна 2010.
@@ -12,75 +12,51 @@ extra_text: LAZY LESTER at Cotton Club, Moscow, 5.I.2010 LAZY LESTER at Cotton C
 index_files:
 - index.html
 photos:
-- file: nib/Lazy01.jpg
-  thumb: nib/images/thumb/Lazy01.jpg
+- file: Lazy01.jpg
   page_html: Lazy01_large.html
-- file: nib/Lazy02.jpg
-  thumb: nib/images/thumb/Lazy02.jpg
+- file: Lazy02.jpg
   page_html: Lazy02_large.html
-- file: nib/Lazy03.jpg
-  thumb: nib/images/thumb/Lazy03.jpg
+- file: Lazy03.jpg
   page_html: Lazy03_large.html
-- file: nib/Lazy04.jpg
-  thumb: nib/images/thumb/Lazy04.jpg
+- file: Lazy04.jpg
   page_html: Lazy04_large.html
-- file: nib/Lazy05.jpg
-  thumb: nib/images/thumb/Lazy05.jpg
+- file: Lazy05.jpg
   page_html: Lazy05_large.html
-- file: nib/Lazy07.jpg
-  thumb: nib/images/thumb/Lazy07.jpg
+- file: Lazy07.jpg
   page_html: Lazy07_large.html
-- file: nib/Lazy08.jpg
-  thumb: nib/images/thumb/Lazy08.jpg
+- file: Lazy08.jpg
   page_html: Lazy08_large.html
-- file: nib/Lazy09.jpg
-  thumb: nib/images/thumb/Lazy09.jpg
+- file: Lazy09.jpg
   page_html: Lazy09_large.html
-- file: nib/Lazy10.jpg
-  thumb: nib/images/thumb/Lazy10.jpg
+- file: Lazy10.jpg
   page_html: Lazy10_large.html
-- file: nib/Lazy11.jpg
-  thumb: nib/images/thumb/Lazy11.jpg
+- file: Lazy11.jpg
   page_html: Lazy11_large.html
-- file: nib/Lazy12.jpg
-  thumb: nib/images/thumb/Lazy12.jpg
+- file: Lazy12.jpg
   page_html: Lazy12_large.html
-- file: nib/Lazy13.jpg
-  thumb: nib/images/thumb/Lazy13.jpg
+- file: Lazy13.jpg
   page_html: Lazy13_large.html
-- file: nib/Lazy14.jpg
-  thumb: nib/images/thumb/Lazy14.jpg
+- file: Lazy14.jpg
   page_html: Lazy14_large.html
-- file: nib/Lazy15.jpg
-  thumb: nib/images/thumb/Lazy15.jpg
+- file: Lazy15.jpg
   page_html: Lazy15_large.html
-- file: nib/Lazy16.jpg
-  thumb: nib/images/thumb/Lazy16.jpg
+- file: Lazy16.jpg
   page_html: Lazy16_large.html
-- file: nib/Lazy17.jpg
-  thumb: nib/images/thumb/Lazy17.jpg
+- file: Lazy17.jpg
   page_html: Lazy17_large.html
-- file: nib/Lazy18.jpg
-  thumb: nib/images/thumb/Lazy18.jpg
+- file: Lazy18.jpg
   page_html: Lazy18_large.html
-- file: nib/Lazy19.jpg
-  thumb: nib/images/thumb/Lazy19.jpg
+- file: Lazy19.jpg
   page_html: Lazy19_large.html
-- file: nib/Lazy20.jpg
-  thumb: nib/images/thumb/Lazy20.jpg
+- file: Lazy20.jpg
   page_html: Lazy20_large.html
-- file: nib/Lazy21.jpg
-  thumb: nib/images/thumb/Lazy21.jpg
+- file: Lazy21.jpg
   page_html: Lazy21_large.html
-- file: nib/Lazy22.jpg
-  thumb: nib/images/thumb/Lazy22.jpg
+- file: Lazy22.jpg
   page_html: Lazy22_large.html
-- file: nib/Lazy23.jpg
-  thumb: nib/images/thumb/Lazy23.jpg
+- file: Lazy23.jpg
   page_html: Lazy23_large.html
-- file: nib/Lazy24.jpg
-  thumb: nib/images/thumb/Lazy24.jpg
+- file: Lazy24.jpg
   page_html: Lazy24_large.html
-- file: nib/Lazy25.jpg
-  thumb: nib/images/thumb/Lazy25.jpg
+- file: Lazy25.jpg
   page_html: Lazy25_large.html

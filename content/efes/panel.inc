@@ -12,6 +12,8 @@
 
 <li><small><a href="frjack.htm">Fruteland Jackson</a></small></li>
 
+<li><small><a href="/photo/2004/2004-10-efes-blues-festival/">Фото с фестиваля</a></small></li>
+
 </ul>
 <% } %>
 
@@ -29,7 +31,7 @@
 
 <li><small><a href="wcclark.htm">W.C.Clark</a></small></li>
 
-<li><small><a href="/bluesmen/WC_Clark">Интервью с W.C.Clark</a></small></li>
+<li><small><a href="/artist/wc-clark/">Интервью с W.C.Clark</a></small></li>
 
 <li><small><a href="roomful.htm">Roomful Of Blues</a></small></li>
 
@@ -38,6 +40,8 @@
 <li><small><a href="quiz2003.htm">Конкурс blues.ru!</a></small></li>
 
 <li><small><a href="quiz2003res.htm">Результаты конкурса</a></small></li>
+
+<li><small><a href="/photo/2003/2003-11-14-efes-blues-festival/">Фото с фестиваля</a></small></li>
 
 </ul>
 <% } %>
@@ -129,6 +133,8 @@
 blues.ru</a></small></li>
 
 <li><small><a href="bluesru.htm">Blues.ru о фестивале</a></small></li>
+
+<li><small><a href="/photo/2000/2000-10-efes-blues-festival-xi/">Фото с фестиваля (XI)</a></small></li>
 
 </ul>
 

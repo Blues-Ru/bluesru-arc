@@ -2,7 +2,7 @@ slug: buddy-guy-phil-upchurch-moscow
 canonical_date: 2007-07
 title: Buddy Guy & Phil Upchurch in Moscow
 type: lightroom
-path: 07Leto/GuyPhil/content
+path: 07Leto/GuyPhil
 photo_count: 23
 captioned: false
 description: Легендарный Buddy Guy и Phil Upchurch выступают в Москве, лето 2007.
@@ -11,72 +11,49 @@ extra_text: Phil Guy at Roadhouse in Moscow. 2007. Phil Guy at Roadhouse in Mosc
 index_files:
 - index.html
 photos:
-- file: nib/DSCN6067.jpg
-  thumb: nib/images/thumb/DSCN6067.jpg
+- file: DSCN6067.jpg
   page_html: DSCN6067_large.html
-- file: nib/DSCN6075.jpg
-  thumb: nib/images/thumb/DSCN6075.jpg
+- file: DSCN6075.jpg
   page_html: DSCN6075_large.html
-- file: nib/DSCN6082.jpg
-  thumb: nib/images/thumb/DSCN6082.jpg
+- file: DSCN6082.jpg
   page_html: DSCN6082_large.html
-- file: nib/DSCN6083.jpg
-  thumb: nib/images/thumb/DSCN6083.jpg
+- file: DSCN6083.jpg
   page_html: DSCN6083_large.html
-- file: nib/DSCN6088.jpg
-  thumb: nib/images/thumb/DSCN6088.jpg
+- file: DSCN6088.jpg
   page_html: DSCN6088_large.html
-- file: nib/DSCN6096.jpg
-  thumb: nib/images/thumb/DSCN6096.jpg
+- file: DSCN6096.jpg
   page_html: DSCN6096_large.html
-- file: nib/DSCN6097.jpg
-  thumb: nib/images/thumb/DSCN6097.jpg
+- file: DSCN6097.jpg
   page_html: DSCN6097_large.html
-- file: nib/DSCN6101.jpg
-  thumb: nib/images/thumb/DSCN6101.jpg
+- file: DSCN6101.jpg
   page_html: DSCN6101_large.html
-- file: nib/DSCN6107.jpg
-  thumb: nib/images/thumb/DSCN6107.jpg
+- file: DSCN6107.jpg
   page_html: DSCN6107_large.html
-- file: nib/P1010743.jpg
-  thumb: nib/images/thumb/P1010743.jpg
+- file: P1010743.jpg
   page_html: P1010743_large.html
-- file: nib/P1010750.jpg
-  thumb: nib/images/thumb/P1010750.jpg
+- file: P1010750.jpg
   page_html: P1010750_large.html
-- file: nib/P1010753.jpg
-  thumb: nib/images/thumb/P1010753.jpg
+- file: P1010753.jpg
   page_html: P1010753_large.html
-- file: nib/P1010760.jpg
-  thumb: nib/images/thumb/P1010760.jpg
+- file: P1010760.jpg
   page_html: P1010760_large.html
-- file: nib/P1010766.jpg
-  thumb: nib/images/thumb/P1010766.jpg
+- file: P1010766.jpg
   page_html: P1010766_large.html
-- file: nib/P1010781.jpg
-  thumb: nib/images/thumb/P1010781.jpg
+- file: P1010781.jpg
   page_html: P1010781_large.html
-- file: nib/P1010784.jpg
-  thumb: nib/images/thumb/P1010784.jpg
+- file: P1010784.jpg
   page_html: P1010784_large.html
-- file: nib/P1010791.jpg
-  thumb: nib/images/thumb/P1010791.jpg
+- file: P1010791.jpg
   page_html: P1010791_large.html
-- file: nib/P1010795.jpg
-  thumb: nib/images/thumb/P1010795.jpg
+- file: P1010795.jpg
   page_html: P1010795_large.html
-- file: nib/P1010809.jpg
-  thumb: nib/images/thumb/P1010809.jpg
+- file: P1010809.jpg
   page_html: P1010809_large.html
-- file: nib/P1010815.jpg
-  thumb: nib/images/thumb/P1010815.jpg
+- file: P1010815.jpg
   page_html: P1010815_large.html
-- file: nib/P1010844.jpg
-  thumb: nib/images/thumb/P1010844.jpg
+- file: P1010844.jpg
   page_html: P1010844_large.html
-- file: nib/P1010863.jpg
-  thumb: nib/images/thumb/P1010863.jpg
+- file: P1010863.jpg
   page_html: P1010863_large.html
-- file: nib/P1010865.jpg
-  thumb: nib/images/thumb/P1010865.jpg
+- file: P1010865.jpg
   page_html: P1010865_large.html

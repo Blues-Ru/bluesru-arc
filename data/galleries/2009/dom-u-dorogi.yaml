@@ -2,32 +2,24 @@ slug: dom-u-dorogi
 canonical_date: 2009-04
 title: Dom u Dorogi
 type: lightroom
-path: 09Spring/BC_Dud/content
+path: 09Spring/BC_Dud
 photo_count: 8
 captioned: false
 description: Вечера в клубе «Дом у Дороги», весна 2009.
 photos:
-- file: nib/DSC_011998.jpg
-  thumb: nib/images/thumb/DSC_011998.jpg
+- file: DSC_011998.jpg
   page_html: DSC_011998_large.html
-- file: nib/DSC_021981.jpg
-  thumb: nib/images/thumb/DSC_021981.jpg
+- file: DSC_021981.jpg
   page_html: DSC_021981_large.html
-- file: nib/DSC_031995.jpg
-  thumb: nib/images/thumb/DSC_031995.jpg
+- file: DSC_031995.jpg
   page_html: DSC_031995_large.html
-- file: nib/DSC_041987.jpg
-  thumb: nib/images/thumb/DSC_041987.jpg
+- file: DSC_041987.jpg
   page_html: DSC_041987_large.html
-- file: nib/DSC_051997.jpg
-  thumb: nib/images/thumb/DSC_051997.jpg
+- file: DSC_051997.jpg
   page_html: DSC_051997_large.html
-- file: nib/DSC_061960.jpg
-  thumb: nib/images/thumb/DSC_061960.jpg
+- file: DSC_061960.jpg
   page_html: DSC_061960_large.html
-- file: nib/DSC_071985.jpg
-  thumb: nib/images/thumb/DSC_071985.jpg
+- file: DSC_071985.jpg
   page_html: DSC_071985_large.html
-- file: nib/DSC_081974.jpg
-  thumb: nib/images/thumb/DSC_081974.jpg
+- file: DSC_081974.jpg
   page_html: DSC_081974_large.html

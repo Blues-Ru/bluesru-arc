@@ -10,10 +10,10 @@ extra_text: Web Album To view this please modify your browser settings to allow 
 index_files:
 - index.htm
 photos:
-- file: M/DSCN0952.jpg
-- file: M/DSCN0959.jpg
-- file: M/DSCN0967.jpg
-- file: M/DSCN0973.jpg
-- file: M/DSCN0985.jpg
-- file: M/DSCN1002.jpg
-- file: M/DSCN1003.jpg
+- file: DSCN0952.jpg
+- file: DSCN0959.jpg
+- file: DSCN0967.jpg
+- file: DSCN0973.jpg
+- file: DSCN0985.jpg
+- file: DSCN1002.jpg
+- file: DSCN1003.jpg

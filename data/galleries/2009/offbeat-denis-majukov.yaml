@@ -2,7 +2,7 @@ slug: offbeat-denis-majukov
 canonical_date: 2009-02
 title: Denis Majukov and Off-Beat
 type: lightroom
-path: 09Winter/offBeat/content
+path: 09Winter/offBeat
 photo_count: 60
 captioned: false
 description: Денис Мажуков и группа Off-Beat, Москва, 19 ноября 2009.
@@ -12,183 +12,123 @@ extra_text: Денис Мажуков и группа Off-Beat - 19.XI.2009 Де
 index_files:
 - index.html
 photos:
-- file: nib/P1120931.jpg
-  thumb: nib/images/thumb/P1120931.jpg
+- file: P1120931.jpg
   page_html: P1120931_large.html
-- file: nib/P1120942.jpg
-  thumb: nib/images/thumb/P1120942.jpg
+- file: P1120942.jpg
   page_html: P1120942_large.html
-- file: nib/P1120949.jpg
-  thumb: nib/images/thumb/P1120949.jpg
+- file: P1120949.jpg
   page_html: P1120949_large.html
-- file: nib/P1120952.jpg
-  thumb: nib/images/thumb/P1120952.jpg
+- file: P1120952.jpg
   page_html: P1120952_large.html
-- file: nib/P1120955.jpg
-  thumb: nib/images/thumb/P1120955.jpg
+- file: P1120955.jpg
   page_html: P1120955_large.html
-- file: nib/P1120967.jpg
-  thumb: nib/images/thumb/P1120967.jpg
+- file: P1120967.jpg
   page_html: P1120967_large.html
-- file: nib/P1120969.jpg
-  thumb: nib/images/thumb/P1120969.jpg
+- file: P1120969.jpg
   page_html: P1120969_large.html
-- file: nib/P1120976.jpg
-  thumb: nib/images/thumb/P1120976.jpg
+- file: P1120976.jpg
   page_html: P1120976_large.html
-- file: nib/P1120978.jpg
-  thumb: nib/images/thumb/P1120978.jpg
+- file: P1120978.jpg
   page_html: P1120978_large.html
-- file: nib/P1120984.jpg
-  thumb: nib/images/thumb/P1120984.jpg
+- file: P1120984.jpg
   page_html: P1120984_large.html
-- file: nib/P1120985.jpg
-  thumb: nib/images/thumb/P1120985.jpg
+- file: P1120985.jpg
   page_html: P1120985_large.html
-- file: nib/P1120986.jpg
-  thumb: nib/images/thumb/P1120986.jpg
+- file: P1120986.jpg
   page_html: P1120986_large.html
-- file: nib/P1120995.jpg
-  thumb: nib/images/thumb/P1120995.jpg
+- file: P1120995.jpg
   page_html: P1120995_large.html
-- file: nib/P1120999.jpg
-  thumb: nib/images/thumb/P1120999.jpg
+- file: P1120999.jpg
   page_html: P1120999_large.html
-- file: nib/P1130002.jpg
-  thumb: nib/images/thumb/P1130002.jpg
+- file: P1130002.jpg
   page_html: P1130002_large.html
-- file: nib/P1130009.jpg
-  thumb: nib/images/thumb/P1130009.jpg
+- file: P1130009.jpg
   page_html: P1130009_large.html
-- file: nib/P1130013.jpg
-  thumb: nib/images/thumb/P1130013.jpg
+- file: P1130013.jpg
   page_html: P1130013_large.html
-- file: nib/P1130016.jpg
-  thumb: nib/images/thumb/P1130016.jpg
+- file: P1130016.jpg
   page_html: P1130016_large.html
-- file: nib/P1130020.jpg
-  thumb: nib/images/thumb/P1130020.jpg
+- file: P1130020.jpg
   page_html: P1130020_large.html
-- file: nib/P1130022.jpg
-  thumb: nib/images/thumb/P1130022.jpg
+- file: P1130022.jpg
   page_html: P1130022_large.html
-- file: nib/P1130023.jpg
-  thumb: nib/images/thumb/P1130023.jpg
+- file: P1130023.jpg
   page_html: P1130023_large.html
-- file: nib/P1130024.jpg
-  thumb: nib/images/thumb/P1130024.jpg
+- file: P1130024.jpg
   page_html: P1130024_large.html
-- file: nib/P1130028.jpg
-  thumb: nib/images/thumb/P1130028.jpg
+- file: P1130028.jpg
   page_html: P1130028_large.html
-- file: nib/P1130036.jpg
-  thumb: nib/images/thumb/P1130036.jpg
+- file: P1130036.jpg
   page_html: P1130036_large.html
-- file: nib/P1130040.jpg
-  thumb: nib/images/thumb/P1130040.jpg
+- file: P1130040.jpg
   page_html: P1130040_large.html
-- file: nib/P1130044.jpg
-  thumb: nib/images/thumb/P1130044.jpg
+- file: P1130044.jpg
   page_html: P1130044_large.html
-- file: nib/P1130045.jpg
-  thumb: nib/images/thumb/P1130045.jpg
+- file: P1130045.jpg
   page_html: P1130045_large.html
-- file: nib/P1130053.jpg
-  thumb: nib/images/thumb/P1130053.jpg
+- file: P1130053.jpg
   page_html: P1130053_large.html
-- file: nib/P1130054.jpg
-  thumb: nib/images/thumb/P1130054.jpg
+- file: P1130054.jpg
   page_html: P1130054_large.html
-- file: nib/P1130055.jpg
-  thumb: nib/images/thumb/P1130055.jpg
+- file: P1130055.jpg
   page_html: P1130055_large.html
-- file: nib/P1130059.jpg
-  thumb: nib/images/thumb/P1130059.jpg
+- file: P1130059.jpg
   page_html: P1130059_large.html
-- file: nib/P1130087.jpg
-  thumb: nib/images/thumb/P1130087.jpg
+- file: P1130087.jpg
   page_html: P1130087_large.html
-- file: nib/P1130088.jpg
-  thumb: nib/images/thumb/P1130088.jpg
+- file: P1130088.jpg
   page_html: P1130088_large.html
-- file: nib/P1130089.jpg
-  thumb: nib/images/thumb/P1130089.jpg
+- file: P1130089.jpg
   page_html: P1130089_large.html
-- file: nib/P1130090.jpg
-  thumb: nib/images/thumb/P1130090.jpg
+- file: P1130090.jpg
   page_html: P1130090_large.html
-- file: nib/P1130092.jpg
-  thumb: nib/images/thumb/P1130092.jpg
+- file: P1130092.jpg
   page_html: P1130092_large.html
-- file: nib/P1130097.jpg
-  thumb: nib/images/thumb/P1130097.jpg
+- file: P1130097.jpg
   page_html: P1130097_large.html
-- file: nib/P1130100.jpg
-  thumb: nib/images/thumb/P1130100.jpg
+- file: P1130100.jpg
   page_html: P1130100_large.html
-- file: nib/P1130102.jpg
-  thumb: nib/images/thumb/P1130102.jpg
+- file: P1130102.jpg
   page_html: P1130102_large.html
-- file: nib/P1130103.jpg
-  thumb: nib/images/thumb/P1130103.jpg
+- file: P1130103.jpg
   page_html: P1130103_large.html
-- file: nib/P1130105.jpg
-  thumb: nib/images/thumb/P1130105.jpg
+- file: P1130105.jpg
   page_html: P1130105_large.html
-- file: nib/P1130107.jpg
-  thumb: nib/images/thumb/P1130107.jpg
+- file: P1130107.jpg
   page_html: P1130107_large.html
-- file: nib/P1130108.jpg
-  thumb: nib/images/thumb/P1130108.jpg
+- file: P1130108.jpg
   page_html: P1130108_large.html
-- file: nib/P1130113.jpg
-  thumb: nib/images/thumb/P1130113.jpg
+- file: P1130113.jpg
   page_html: P1130113_large.html
-- file: nib/P1130114.jpg
-  thumb: nib/images/thumb/P1130114.jpg
+- file: P1130114.jpg
   page_html: P1130114_large.html
-- file: nib/P1130116.jpg
-  thumb: nib/images/thumb/P1130116.jpg
+- file: P1130116.jpg
   page_html: P1130116_large.html
-- file: nib/P1130117.jpg
-  thumb: nib/images/thumb/P1130117.jpg
+- file: P1130117.jpg
   page_html: P1130117_large.html
-- file: nib/P1130120.jpg
-  thumb: nib/images/thumb/P1130120.jpg
+- file: P1130120.jpg
   page_html: P1130120_large.html
-- file: nib/P1130122.jpg
-  thumb: nib/images/thumb/P1130122.jpg
+- file: P1130122.jpg
   page_html: P1130122_large.html
-- file: nib/P1130123.jpg
-  thumb: nib/images/thumb/P1130123.jpg
+- file: P1130123.jpg
   page_html: P1130123_large.html
-- file: nib/P1130125.jpg
-  thumb: nib/images/thumb/P1130125.jpg
+- file: P1130125.jpg
   page_html: P1130125_large.html
-- file: nib/P1130126.jpg
-  thumb: nib/images/thumb/P1130126.jpg
+- file: P1130126.jpg
   page_html: P1130126_large.html
-- file: nib/P1130130.jpg
-  thumb: nib/images/thumb/P1130130.jpg
+- file: P1130130.jpg
   page_html: P1130130_large.html
-- file: nib/P1130133.jpg
-  thumb: nib/images/thumb/P1130133.jpg
+- file: P1130133.jpg
   page_html: P1130133_large.html
-- file: nib/P1130134.jpg
-  thumb: nib/images/thumb/P1130134.jpg
+- file: P1130134.jpg
   page_html: P1130134_large.html
-- file: nib/P1130135.jpg
-  thumb: nib/images/thumb/P1130135.jpg
+- file: P1130135.jpg
   page_html: P1130135_large.html
-- file: nib/P1130141.jpg
-  thumb: nib/images/thumb/P1130141.jpg
+- file: P1130141.jpg
   page_html: P1130141_large.html
-- file: nib/P1130142.jpg
-  thumb: nib/images/thumb/P1130142.jpg
+- file: P1130142.jpg
   page_html: P1130142_large.html
-- file: nib/P1130143.jpg
-  thumb: nib/images/thumb/P1130143.jpg
+- file: P1130143.jpg
   page_html: P1130143_large.html
-- file: nib/P1130148.jpg
-  thumb: nib/images/thumb/P1130148.jpg
+- file: P1130148.jpg
   page_html: P1130148_large.html

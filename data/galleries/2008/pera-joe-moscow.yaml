@@ -2,7 +2,7 @@ slug: pera-joe-moscow
 canonical_date: 2008-02
 title: Pera Joe in Moscow
 type: lightroom
-path: 08Winter/08_Pera/content
+path: 08Winter/08_Pera
 photo_count: 50
 captioned: false
 description: Pera Joe (Белград) в Москве, зима 2008.
@@ -11,153 +11,103 @@ extra_text: Pera Joe Blues Band Pera Joe Blues Band 7-9 февраля 2008 1 2 
 index_files:
 - index.html
 photos:
-- file: nib/P1040567.jpg
-  thumb: nib/images/thumb/P1040567.jpg
+- file: P1040567.jpg
   page_html: P1040567_large.html
-- file: nib/P1040568.jpg
-  thumb: nib/images/thumb/P1040568.jpg
+- file: P1040568.jpg
   page_html: P1040568_large.html
-- file: nib/P1040576.jpg
-  thumb: nib/images/thumb/P1040576.jpg
+- file: P1040576.jpg
   page_html: P1040576_large.html
-- file: nib/P1040587.jpg
-  thumb: nib/images/thumb/P1040587.jpg
+- file: P1040587.jpg
   page_html: P1040587_large.html
-- file: nib/P1040597.jpg
-  thumb: nib/images/thumb/P1040597.jpg
+- file: P1040597.jpg
   page_html: P1040597_large.html
-- file: nib/P1040665.jpg
-  thumb: nib/images/thumb/P1040665.jpg
+- file: P1040665.jpg
   page_html: P1040665_large.html
-- file: nib/P1040667.jpg
-  thumb: nib/images/thumb/P1040667.jpg
+- file: P1040667.jpg
   page_html: P1040667_large.html
-- file: nib/P1040686.jpg
-  thumb: nib/images/thumb/P1040686.jpg
+- file: P1040686.jpg
   page_html: P1040686_large.html
-- file: nib/P1040697.jpg
-  thumb: nib/images/thumb/P1040697.jpg
+- file: P1040697.jpg
   page_html: P1040697_large.html
-- file: nib/P1040701.jpg
-  thumb: nib/images/thumb/P1040701.jpg
+- file: P1040701.jpg
   page_html: P1040701_large.html
-- file: nib/P1040702.jpg
-  thumb: nib/images/thumb/P1040702.jpg
+- file: P1040702.jpg
   page_html: P1040702_large.html
-- file: nib/P1040705.jpg
-  thumb: nib/images/thumb/P1040705.jpg
+- file: P1040705.jpg
   page_html: P1040705_large.html
-- file: nib/P1040715.jpg
-  thumb: nib/images/thumb/P1040715.jpg
+- file: P1040715.jpg
   page_html: P1040715_large.html
-- file: nib/P1040733.jpg
-  thumb: nib/images/thumb/P1040733.jpg
+- file: P1040733.jpg
   page_html: P1040733_large.html
-- file: nib/P1040749.jpg
-  thumb: nib/images/thumb/P1040749.jpg
+- file: P1040749.jpg
   page_html: P1040749_large.html
-- file: nib/P1040754.jpg
-  thumb: nib/images/thumb/P1040754.jpg
+- file: P1040754.jpg
   page_html: P1040754_large.html
-- file: nib/P1040757.jpg
-  thumb: nib/images/thumb/P1040757.jpg
+- file: P1040757.jpg
   page_html: P1040757_large.html
-- file: nib/P1040766.jpg
-  thumb: nib/images/thumb/P1040766.jpg
+- file: P1040766.jpg
   page_html: P1040766_large.html
-- file: nib/P1040771.jpg
-  thumb: nib/images/thumb/P1040771.jpg
+- file: P1040771.jpg
   page_html: P1040771_large.html
-- file: nib/P1040776.jpg
-  thumb: nib/images/thumb/P1040776.jpg
+- file: P1040776.jpg
   page_html: P1040776_large.html
-- file: nib/P1040780.jpg
-  thumb: nib/images/thumb/P1040780.jpg
+- file: P1040780.jpg
   page_html: P1040780_large.html
-- file: nib/P1040805.jpg
-  thumb: nib/images/thumb/P1040805.jpg
+- file: P1040805.jpg
   page_html: P1040805_large.html
-- file: nib/P1040821.jpg
-  thumb: nib/images/thumb/P1040821.jpg
+- file: P1040821.jpg
   page_html: P1040821_large.html
-- file: nib/P1040829.jpg
-  thumb: nib/images/thumb/P1040829.jpg
+- file: P1040829.jpg
   page_html: P1040829_large.html
-- file: nib/P1040839.jpg
-  thumb: nib/images/thumb/P1040839.jpg
+- file: P1040839.jpg
   page_html: P1040839_large.html
-- file: nib/P1040852.jpg
-  thumb: nib/images/thumb/P1040852.jpg
+- file: P1040852.jpg
   page_html: P1040852_large.html
-- file: nib/P1040854.jpg
-  thumb: nib/images/thumb/P1040854.jpg
+- file: P1040854.jpg
   page_html: P1040854_large.html
-- file: nib/P1040865.jpg
-  thumb: nib/images/thumb/P1040865.jpg
+- file: P1040865.jpg
   page_html: P1040865_large.html
-- file: nib/P1040868.jpg
-  thumb: nib/images/thumb/P1040868.jpg
+- file: P1040868.jpg
   page_html: P1040868_large.html
-- file: nib/P1040877.jpg
-  thumb: nib/images/thumb/P1040877.jpg
+- file: P1040877.jpg
   page_html: P1040877_large.html
-- file: nib/P1040892.jpg
-  thumb: nib/images/thumb/P1040892.jpg
+- file: P1040892.jpg
   page_html: P1040892_large.html
-- file: nib/P1040898.jpg
-  thumb: nib/images/thumb/P1040898.jpg
+- file: P1040898.jpg
   page_html: P1040898_large.html
-- file: nib/P1040908.jpg
-  thumb: nib/images/thumb/P1040908.jpg
+- file: P1040908.jpg
   page_html: P1040908_large.html
-- file: nib/P1040919.jpg
-  thumb: nib/images/thumb/P1040919.jpg
+- file: P1040919.jpg
   page_html: P1040919_large.html
-- file: nib/P1040921.jpg
-  thumb: nib/images/thumb/P1040921.jpg
+- file: P1040921.jpg
   page_html: P1040921_large.html
-- file: nib/P1040928.jpg
-  thumb: nib/images/thumb/P1040928.jpg
+- file: P1040928.jpg
   page_html: P1040928_large.html
-- file: nib/P1040947.jpg
-  thumb: nib/images/thumb/P1040947.jpg
+- file: P1040947.jpg
   page_html: P1040947_large.html
-- file: nib/P1040958.jpg
-  thumb: nib/images/thumb/P1040958.jpg
+- file: P1040958.jpg
   page_html: P1040958_large.html
-- file: nib/P1040970.jpg
-  thumb: nib/images/thumb/P1040970.jpg
+- file: P1040970.jpg
   page_html: P1040970_large.html
-- file: nib/P1040983.jpg
-  thumb: nib/images/thumb/P1040983.jpg
+- file: P1040983.jpg
   page_html: P1040983_large.html
-- file: nib/P1040996.jpg
-  thumb: nib/images/thumb/P1040996.jpg
+- file: P1040996.jpg
   page_html: P1040996_large.html
-- file: nib/P1050001.jpg
-  thumb: nib/images/thumb/P1050001.jpg
+- file: P1050001.jpg
   page_html: P1050001_large.html
-- file: nib/P1050006.jpg
-  thumb: nib/images/thumb/P1050006.jpg
+- file: P1050006.jpg
   page_html: P1050006_large.html
-- file: nib/P1050014.jpg
-  thumb: nib/images/thumb/P1050014.jpg
+- file: P1050014.jpg
   page_html: P1050014_large.html
-- file: nib/P1050019.jpg
-  thumb: nib/images/thumb/P1050019.jpg
+- file: P1050019.jpg
   page_html: P1050019_large.html
-- file: nib/P1050034.jpg
-  thumb: nib/images/thumb/P1050034.jpg
+- file: P1050034.jpg
   page_html: P1050034_large.html
-- file: nib/P1050035.jpg
-  thumb: nib/images/thumb/P1050035.jpg
+- file: P1050035.jpg
   page_html: P1050035_large.html
-- file: nib/P1050041.jpg
-  thumb: nib/images/thumb/P1050041.jpg
+- file: P1050041.jpg
   page_html: P1050041_large.html
-- file: nib/P1050043.jpg
-  thumb: nib/images/thumb/P1050043.jpg
+- file: P1050043.jpg
   page_html: P1050043_large.html
-- file: nib/P1050048.jpg
-  thumb: nib/images/thumb/P1050048.jpg
+- file: P1050048.jpg
   page_html: P1050048_large.html

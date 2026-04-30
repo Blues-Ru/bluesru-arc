@@ -2,7 +2,7 @@ slug: dom-u-dorogi-evening
 canonical_date: 2008-11
 title: Evening at Dom u Dorogi
 type: lightroom
-path: 08Autumn/BWdud/content
+path: 08Autumn/BWdud
 photo_count: 17
 captioned: false
 description: Блюзовый вечер в клубе «Дом у Дороги», осень 2008.
@@ -12,54 +12,37 @@ extra_text: Braithwaite & Whitley. 07.XI.2008. Дом у дороги, Moscow. B
 index_files:
 - index.html
 photos:
-- file: nib/P1100823.jpg
-  thumb: nib/images/thumb/P1100823.jpg
+- file: P1100823.jpg
   page_html: P1100823_large.html
-- file: nib/P1100831.jpg
-  thumb: nib/images/thumb/P1100831.jpg
+- file: P1100831.jpg
   page_html: P1100831_large.html
-- file: nib/P1100835.jpg
-  thumb: nib/images/thumb/P1100835.jpg
+- file: P1100835.jpg
   page_html: P1100835_large.html
-- file: nib/P1100858.jpg
-  thumb: nib/images/thumb/P1100858.jpg
+- file: P1100858.jpg
   page_html: P1100858_large.html
-- file: nib/P1100868.jpg
-  thumb: nib/images/thumb/P1100868.jpg
+- file: P1100868.jpg
   page_html: P1100868_large.html
-- file: nib/P1100878.jpg
-  thumb: nib/images/thumb/P1100878.jpg
+- file: P1100878.jpg
   page_html: P1100878_large.html
-- file: nib/P1100882.jpg
-  thumb: nib/images/thumb/P1100882.jpg
+- file: P1100882.jpg
   page_html: P1100882_large.html
-- file: nib/P1100884.jpg
-  thumb: nib/images/thumb/P1100884.jpg
+- file: P1100884.jpg
   page_html: P1100884_large.html
-- file: nib/P1100893.jpg
-  thumb: nib/images/thumb/P1100893.jpg
+- file: P1100893.jpg
   page_html: P1100893_large.html
-- file: nib/P1100899.jpg
-  thumb: nib/images/thumb/P1100899.jpg
+- file: P1100899.jpg
   page_html: P1100899_large.html
-- file: nib/P1100904.jpg
-  thumb: nib/images/thumb/P1100904.jpg
+- file: P1100904.jpg
   page_html: P1100904_large.html
-- file: nib/P1100913.jpg
-  thumb: nib/images/thumb/P1100913.jpg
+- file: P1100913.jpg
   page_html: P1100913_large.html
-- file: nib/P1100916.jpg
-  thumb: nib/images/thumb/P1100916.jpg
+- file: P1100916.jpg
   page_html: P1100916_large.html
-- file: nib/P1100926.jpg
-  thumb: nib/images/thumb/P1100926.jpg
+- file: P1100926.jpg
   page_html: P1100926_large.html
-- file: nib/P1100931.jpg
-  thumb: nib/images/thumb/P1100931.jpg
+- file: P1100931.jpg
   page_html: P1100931_large.html
-- file: nib/P1100966.jpg
-  thumb: nib/images/thumb/P1100966.jpg
+- file: P1100966.jpg
   page_html: P1100966_large.html
-- file: nib/P1100982.jpg
-  thumb: nib/images/thumb/P1100982.jpg
+- file: P1100982.jpg
   page_html: P1100982_large.html

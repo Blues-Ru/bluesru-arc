@@ -2,68 +2,48 @@ slug: blues-evening
 canonical_date: '2009-04-13'
 title: Blues Evening
 type: lightroom
-path: 09Spring/090413/content
+path: 09Spring/090413
 photo_count: 20
 captioned: false
 description: Блюзовый вечер, Москва, 13 апреля 2009.
 photos:
-- file: nib/DSC_0728.jpg
-  thumb: nib/images/thumb/DSC_0728.jpg
+- file: DSC_0728.jpg
   page_html: DSC_0728_large.html
-- file: nib/DSC_0734.jpg
-  thumb: nib/images/thumb/DSC_0734.jpg
+- file: DSC_0734.jpg
   page_html: DSC_0734_large.html
-- file: nib/DSC_0736.jpg
-  thumb: nib/images/thumb/DSC_0736.jpg
+- file: DSC_0736.jpg
   page_html: DSC_0736_large.html
-- file: nib/DSC_0738.jpg
-  thumb: nib/images/thumb/DSC_0738.jpg
+- file: DSC_0738.jpg
   page_html: DSC_0738_large.html
-- file: nib/DSC_0740.jpg
-  thumb: nib/images/thumb/DSC_0740.jpg
+- file: DSC_0740.jpg
   page_html: DSC_0740_large.html
-- file: nib/DSC_0742.jpg
-  thumb: nib/images/thumb/DSC_0742.jpg
+- file: DSC_0742.jpg
   page_html: DSC_0742_large.html
-- file: nib/DSC_0745.jpg
-  thumb: nib/images/thumb/DSC_0745.jpg
+- file: DSC_0745.jpg
   page_html: DSC_0745_large.html
-- file: nib/DSC_0747.jpg
-  thumb: nib/images/thumb/DSC_0747.jpg
+- file: DSC_0747.jpg
   page_html: DSC_0747_large.html
-- file: nib/DSC_0748.jpg
-  thumb: nib/images/thumb/DSC_0748.jpg
+- file: DSC_0748.jpg
   page_html: DSC_0748_large.html
-- file: nib/DSC_0752.jpg
-  thumb: nib/images/thumb/DSC_0752.jpg
+- file: DSC_0752.jpg
   page_html: DSC_0752_large.html
-- file: nib/DSC_0757.jpg
-  thumb: nib/images/thumb/DSC_0757.jpg
+- file: DSC_0757.jpg
   page_html: DSC_0757_large.html
-- file: nib/DSC_0758.jpg
-  thumb: nib/images/thumb/DSC_0758.jpg
+- file: DSC_0758.jpg
   page_html: DSC_0758_large.html
-- file: nib/DSC_0763.jpg
-  thumb: nib/images/thumb/DSC_0763.jpg
+- file: DSC_0763.jpg
   page_html: DSC_0763_large.html
-- file: nib/DSC_0768.jpg
-  thumb: nib/images/thumb/DSC_0768.jpg
+- file: DSC_0768.jpg
   page_html: DSC_0768_large.html
-- file: nib/DSC_0777.jpg
-  thumb: nib/images/thumb/DSC_0777.jpg
+- file: DSC_0777.jpg
   page_html: DSC_0777_large.html
-- file: nib/DSC_0778.jpg
-  thumb: nib/images/thumb/DSC_0778.jpg
+- file: DSC_0778.jpg
   page_html: DSC_0778_large.html
-- file: nib/DSC_0784.jpg
-  thumb: nib/images/thumb/DSC_0784.jpg
+- file: DSC_0784.jpg
   page_html: DSC_0784_large.html
-- file: nib/DSC_0796.jpg
-  thumb: nib/images/thumb/DSC_0796.jpg
+- file: DSC_0796.jpg
   page_html: DSC_0796_large.html
-- file: nib/DSC_0800.jpg
-  thumb: nib/images/thumb/DSC_0800.jpg
+- file: DSC_0800.jpg
   page_html: DSC_0800_large.html
-- file: nib/DSC_0810.jpg
-  thumb: nib/images/thumb/DSC_0810.jpg
+- file: DSC_0810.jpg
   page_html: DSC_0810_large.html

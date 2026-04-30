@@ -2,7 +2,7 @@ slug: duck-dunn-moscow
 canonical_date: 2008-10
 title: Duck Dunn in Moscow
 type: lightroom
-path: 08Autumn/Dunn_08/content
+path: 08Autumn/Dunn_08
 photo_count: 35
 captioned: false
 description: Duck Dunn (Booker T. & the MGs) в Москве, осень 2008.
@@ -12,108 +12,73 @@ extra_text: Keith DUNN. 30 & 31.X.2008. Дом у Дороги и Jazz Town. Kei
 index_files:
 - index.html
 photos:
-- file: nib/P1090947.jpg
-  thumb: nib/images/thumb/P1090947.jpg
+- file: P1090947.jpg
   page_html: P1090947_large.html
-- file: nib/P1090955.jpg
-  thumb: nib/images/thumb/P1090955.jpg
+- file: P1090955.jpg
   page_html: P1090955_large.html
-- file: nib/P1090958.jpg
-  thumb: nib/images/thumb/P1090958.jpg
+- file: P1090958.jpg
   page_html: P1090958_large.html
-- file: nib/P1090965.jpg
-  thumb: nib/images/thumb/P1090965.jpg
+- file: P1090965.jpg
   page_html: P1090965_large.html
-- file: nib/P1090967.jpg
-  thumb: nib/images/thumb/P1090967.jpg
+- file: P1090967.jpg
   page_html: P1090967_large.html
-- file: nib/P1090972.jpg
-  thumb: nib/images/thumb/P1090972.jpg
+- file: P1090972.jpg
   page_html: P1090972_large.html
-- file: nib/P1090980.jpg
-  thumb: nib/images/thumb/P1090980.jpg
+- file: P1090980.jpg
   page_html: P1090980_large.html
-- file: nib/P1100004.jpg
-  thumb: nib/images/thumb/P1100004.jpg
+- file: P1100004.jpg
   page_html: P1100004_large.html
-- file: nib/P1100016.jpg
-  thumb: nib/images/thumb/P1100016.jpg
+- file: P1100016.jpg
   page_html: P1100016_large.html
-- file: nib/P1100017.jpg
-  thumb: nib/images/thumb/P1100017.jpg
+- file: P1100017.jpg
   page_html: P1100017_large.html
-- file: nib/P1100020.jpg
-  thumb: nib/images/thumb/P1100020.jpg
+- file: P1100020.jpg
   page_html: P1100020_large.html
-- file: nib/P1100026.jpg
-  thumb: nib/images/thumb/P1100026.jpg
+- file: P1100026.jpg
   page_html: P1100026_large.html
-- file: nib/P1100030.jpg
-  thumb: nib/images/thumb/P1100030.jpg
+- file: P1100030.jpg
   page_html: P1100030_large.html
-- file: nib/P1100032.jpg
-  thumb: nib/images/thumb/P1100032.jpg
+- file: P1100032.jpg
   page_html: P1100032_large.html
-- file: nib/P1100038.jpg
-  thumb: nib/images/thumb/P1100038.jpg
+- file: P1100038.jpg
   page_html: P1100038_large.html
-- file: nib/P1100042.jpg
-  thumb: nib/images/thumb/P1100042.jpg
+- file: P1100042.jpg
   page_html: P1100042_large.html
-- file: nib/P1100049.jpg
-  thumb: nib/images/thumb/P1100049.jpg
+- file: P1100049.jpg
   page_html: P1100049_large.html
-- file: nib/P1100050.jpg
-  thumb: nib/images/thumb/P1100050.jpg
+- file: P1100050.jpg
   page_html: P1100050_large.html
-- file: nib/P1100058.jpg
-  thumb: nib/images/thumb/P1100058.jpg
+- file: P1100058.jpg
   page_html: P1100058_large.html
-- file: nib/P1100062.jpg
-  thumb: nib/images/thumb/P1100062.jpg
+- file: P1100062.jpg
   page_html: P1100062_large.html
-- file: nib/P1100065.jpg
-  thumb: nib/images/thumb/P1100065.jpg
+- file: P1100065.jpg
   page_html: P1100065_large.html
-- file: nib/P1100074.jpg
-  thumb: nib/images/thumb/P1100074.jpg
+- file: P1100074.jpg
   page_html: P1100074_large.html
-- file: nib/P1100077.jpg
-  thumb: nib/images/thumb/P1100077.jpg
+- file: P1100077.jpg
   page_html: P1100077_large.html
-- file: nib/P1100080.jpg
-  thumb: nib/images/thumb/P1100080.jpg
+- file: P1100080.jpg
   page_html: P1100080_large.html
-- file: nib/P1100084.jpg
-  thumb: nib/images/thumb/P1100084.jpg
+- file: P1100084.jpg
   page_html: P1100084_large.html
-- file: nib/P1100089.jpg
-  thumb: nib/images/thumb/P1100089.jpg
+- file: P1100089.jpg
   page_html: P1100089_large.html
-- file: nib/P1100091.jpg
-  thumb: nib/images/thumb/P1100091.jpg
+- file: P1100091.jpg
   page_html: P1100091_large.html
-- file: nib/P1100097.jpg
-  thumb: nib/images/thumb/P1100097.jpg
+- file: P1100097.jpg
   page_html: P1100097_large.html
-- file: nib/P1100100.jpg
-  thumb: nib/images/thumb/P1100100.jpg
+- file: P1100100.jpg
   page_html: P1100100_large.html
-- file: nib/P1100104.jpg
-  thumb: nib/images/thumb/P1100104.jpg
+- file: P1100104.jpg
   page_html: P1100104_large.html
-- file: nib/P1100116.jpg
-  thumb: nib/images/thumb/P1100116.jpg
+- file: P1100116.jpg
   page_html: P1100116_large.html
-- file: nib/P1100118.jpg
-  thumb: nib/images/thumb/P1100118.jpg
+- file: P1100118.jpg
   page_html: P1100118_large.html
-- file: nib/P1100126.jpg
-  thumb: nib/images/thumb/P1100126.jpg
+- file: P1100126.jpg
   page_html: P1100126_large.html
-- file: nib/P1100127.jpg
-  thumb: nib/images/thumb/P1100127.jpg
+- file: P1100127.jpg
   page_html: P1100127_large.html
-- file: nib/P1100130.jpg
-  thumb: nib/images/thumb/P1100130.jpg
+- file: P1100130.jpg
   page_html: P1100130_large.html

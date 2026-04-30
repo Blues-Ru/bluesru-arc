@@ -2,7 +2,7 @@ slug: summer-moscow-blues
 canonical_date: 2008-07
 title: Summer Moscow Blues
 type: lightroom
-path: 08Summer/usZ08/content
+path: 08Summer/usZ08
 photo_count: 29
 captioned: false
 description: Блюзовые вечера в Москве, лето 2008.
@@ -12,90 +12,61 @@ extra_text: Z-star на Усадьбе-Джаз. 13.VI.08 Z-star на Усадь
 index_files:
 - index.html
 photos:
-- file: bin/_1060901_2.jpg
-  thumb: bin/images/thumb/_1060901_2.jpg
+- file: _1060901_2.jpg
   page_html: _1060901_2_large.html
-- file: bin/_1060907_2.jpg
-  thumb: bin/images/thumb/_1060907_2.jpg
+- file: _1060907_2.jpg
   page_html: _1060907_2_large.html
-- file: bin/_1060912_2.jpg
-  thumb: bin/images/thumb/_1060912_2.jpg
+- file: _1060912_2.jpg
   page_html: _1060912_2_large.html
-- file: bin/_1060918_2.jpg
-  thumb: bin/images/thumb/_1060918_2.jpg
+- file: _1060918_2.jpg
   page_html: _1060918_2_large.html
-- file: bin/_1060936_2.jpg
-  thumb: bin/images/thumb/_1060936_2.jpg
+- file: _1060936_2.jpg
   page_html: _1060936_2_large.html
-- file: bin/_1060944_2.jpg
-  thumb: bin/images/thumb/_1060944_2.jpg
+- file: _1060944_2.jpg
   page_html: _1060944_2_large.html
-- file: bin/_1060951_2.jpg
-  thumb: bin/images/thumb/_1060951_2.jpg
+- file: _1060951_2.jpg
   page_html: _1060951_2_large.html
-- file: bin/_1060955_2.jpg
-  thumb: bin/images/thumb/_1060955_2.jpg
+- file: _1060955_2.jpg
   page_html: _1060955_2_large.html
-- file: bin/_1060962_2.jpg
-  thumb: bin/images/thumb/_1060962_2.jpg
+- file: _1060962_2.jpg
   page_html: _1060962_2_large.html
-- file: bin/_1060965_2.jpg
-  thumb: bin/images/thumb/_1060965_2.jpg
+- file: _1060965_2.jpg
   page_html: _1060965_2_large.html
-- file: bin/_1060975_2.jpg
-  thumb: bin/images/thumb/_1060975_2.jpg
+- file: _1060975_2.jpg
   page_html: _1060975_2_large.html
-- file: bin/_1060981_2.jpg
-  thumb: bin/images/thumb/_1060981_2.jpg
+- file: _1060981_2.jpg
   page_html: _1060981_2_large.html
-- file: bin/_1060986_2.jpg
-  thumb: bin/images/thumb/_1060986_2.jpg
+- file: _1060986_2.jpg
   page_html: _1060986_2_large.html
-- file: bin/_1060990_2.jpg
-  thumb: bin/images/thumb/_1060990_2.jpg
+- file: _1060990_2.jpg
   page_html: _1060990_2_large.html
-- file: bin/_1060992_2.jpg
-  thumb: bin/images/thumb/_1060992_2.jpg
+- file: _1060992_2.jpg
   page_html: _1060992_2_large.html
-- file: bin/_1060998_2.jpg
-  thumb: bin/images/thumb/_1060998_2.jpg
+- file: _1060998_2.jpg
   page_html: _1060998_2_large.html
-- file: bin/_1070001_2.jpg
-  thumb: bin/images/thumb/_1070001_2.jpg
+- file: _1070001_2.jpg
   page_html: _1070001_2_large.html
-- file: bin/_1070002_2.jpg
-  thumb: bin/images/thumb/_1070002_2.jpg
+- file: _1070002_2.jpg
   page_html: _1070002_2_large.html
-- file: bin/_1070004_2.jpg
-  thumb: bin/images/thumb/_1070004_2.jpg
+- file: _1070004_2.jpg
   page_html: _1070004_2_large.html
-- file: bin/_1070005_2.jpg
-  thumb: bin/images/thumb/_1070005_2.jpg
+- file: _1070005_2.jpg
   page_html: _1070005_2_large.html
-- file: bin/_1070006_2.jpg
-  thumb: bin/images/thumb/_1070006_2.jpg
+- file: _1070006_2.jpg
   page_html: _1070006_2_large.html
-- file: bin/_1070008_2.jpg
-  thumb: bin/images/thumb/_1070008_2.jpg
+- file: _1070008_2.jpg
   page_html: _1070008_2_large.html
-- file: bin/_1070009_2.jpg
-  thumb: bin/images/thumb/_1070009_2.jpg
+- file: _1070009_2.jpg
   page_html: _1070009_2_large.html
-- file: bin/_1070012_2.jpg
-  thumb: bin/images/thumb/_1070012_2.jpg
+- file: _1070012_2.jpg
   page_html: _1070012_2_large.html
-- file: bin/_1070015_2.jpg
-  thumb: bin/images/thumb/_1070015_2.jpg
+- file: _1070015_2.jpg
   page_html: _1070015_2_large.html
-- file: bin/_1070018_2.jpg
-  thumb: bin/images/thumb/_1070018_2.jpg
+- file: _1070018_2.jpg
   page_html: _1070018_2_large.html
-- file: bin/_1070023_2.jpg
-  thumb: bin/images/thumb/_1070023_2.jpg
+- file: _1070023_2.jpg
   page_html: _1070023_2_large.html
-- file: bin/_1070025_2.jpg
-  thumb: bin/images/thumb/_1070025_2.jpg
+- file: _1070025_2.jpg
   page_html: _1070025_2_large.html
-- file: bin/_1070027_2.jpg
-  thumb: bin/images/thumb/_1070027_2.jpg
+- file: _1070027_2.jpg
   page_html: _1070027_2_large.html

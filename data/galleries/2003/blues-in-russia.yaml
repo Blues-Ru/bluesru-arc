@@ -1,15 +1,13 @@
 slug: blues-in-russia
 canonical_date: '2003'
 title: Blues in Russia
-type: custom
+type: mts
 path: BiR
 photo_count: 17
 captioned: false
 description: Фотографии участников московской блюзовой сцены.
 extra_text: My My DSCN3414 800 X 600 0 KB DSCN3415 800 X 600 0 KB DSCN3416 800 X 600
   0 KB DSCN3417 800 X 600 0 KB
-index_files:
-- index.html
 photos:
 - file: Agr_Voron_Rij.jpg
 - file: Arutunov-bc.jpg

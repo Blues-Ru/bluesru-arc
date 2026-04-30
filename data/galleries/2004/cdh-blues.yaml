@@ -1,50 +1,48 @@
 slug: cdh-blues
-canonical_date: 2004-04
-title: CDH Blues
-type: custom
+canonical_date: '2004-03-27'
+title: ЦДХ Blues
+type: mts
 path: 04Spring/CDH27
 photo_count: 13
-captioned: false
-description: Блюзовый вечер в ЦДХ (Центральный дом художника), апрель 2004.
-index_files:
-- CDH27.htm
+captioned: true
+description: Блюзовый вечер в ЦДХ (Центральный дом художника), 27 марта 2004.
 photos:
 - file: 0327-1.jpg
-  thumb: tn_0327-1.jpg
   page_html: 0327-1.htm
+  caption: Ирландская арфа, виоланчель, вокал, губная гармоника.
 - file: 0327-2.jpg
-  thumb: tn_0327-2.jpg
   page_html: 0327-2.htm
+  caption: Вот каков ты, нотный стан...
 - file: 0327-3.jpg
-  thumb: tn_0327-3.jpg
   page_html: 0327-3.htm
+  caption: Н.Гвамичава, Н.Солонович, Т. и В. Кожекины.
 - file: 0327-4.jpg
-  thumb: tn_0327-4.jpg
   page_html: 0327-4.htm
+  caption: Анатолий Герасимов
 - file: 0327-5.jpg
-  thumb: tn_0327-5.jpg
   page_html: 0327-5.htm
+  caption: Какая публика!
 - file: 0327-6.jpg
-  thumb: tn_0327-6.jpg
   page_html: 0327-6.htm
+  caption: Путь к взаимопониманию
 - file: 0327-7.jpg
-  thumb: tn_0327-7.jpg
   page_html: 0327-7.htm
+  caption: В.Кожекин vs. Ф.Чистяков
 - file: 0327-8.jpg
-  thumb: tn_0327-8.jpg
   page_html: 0327-8.htm
+  caption: Станция Мир с А.Герасимовым
 - file: 0327-9.jpg
-  thumb: tn_0327-9.jpg
   page_html: 0327-9.htm
+  caption: Федор Чистяков
 - file: 0327-91.jpg
-  thumb: tn_0327-91.jpg
   page_html: 0327-91.htm
+  caption: Сергей Летов
 - file: 0327-92.jpg
-  thumb: tn_0327-92.jpg
   page_html: 0327-92.htm
+  caption: Федор Чистяков
 - file: 0327-93.jpg
-  thumb: tn_0327-93.jpg
   page_html: 0327-93.htm
+  caption: В прыжке...
 - file: 0327-94.jpg
-  thumb: tn_0327-94.jpg
   page_html: 0327-94.htm
+  caption: '...финал-апофеоз'

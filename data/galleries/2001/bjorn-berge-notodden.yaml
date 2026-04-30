@@ -1,13 +1,11 @@
 slug: bjorn-berge-notodden
 canonical_date: '2001'
 title: Bjørn Berge at Notodden Blues Festival
-type: custom
-path: Notodden/Berge
+type: mts
+path: nbf/gallery/01
 photo_count: 10
 captioned: false
 description: Bjørn Berge выступает на Notodden Blues Festival, Норвегия, 2001.
-index_files:
-- page_01.htm
 photos:
 - file: BBprize.jpg
 - file: BBstage.jpg

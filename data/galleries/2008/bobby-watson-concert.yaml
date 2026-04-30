@@ -2,7 +2,7 @@ slug: bobby-watson-concert
 canonical_date: 2008-10
 title: Bobby Watson Concert
 type: lightroom
-path: 08Autumn/BWconcert/content
+path: 08Autumn/BWconcert
 photo_count: 20
 captioned: false
 description: Концерт, осень 2008.
@@ -12,63 +12,43 @@ extra_text: Braithwaite & Whitley. 07.XI.2008. Дом музыки, Moscow. Brai
 index_files:
 - index.html
 photos:
-- file: nib/P1100629.jpg
-  thumb: nib/images/thumb/P1100629.jpg
+- file: P1100629.jpg
   page_html: P1100629_large.html
-- file: nib/P1100638.jpg
-  thumb: nib/images/thumb/P1100638.jpg
+- file: P1100638.jpg
   page_html: P1100638_large.html
-- file: nib/P1100645.jpg
-  thumb: nib/images/thumb/P1100645.jpg
+- file: P1100645.jpg
   page_html: P1100645_large.html
-- file: nib/P1100671.jpg
-  thumb: nib/images/thumb/P1100671.jpg
+- file: P1100671.jpg
   page_html: P1100671_large.html
-- file: nib/P1100674.jpg
-  thumb: nib/images/thumb/P1100674.jpg
+- file: P1100674.jpg
   page_html: P1100674_large.html
-- file: nib/P1100678.jpg
-  thumb: nib/images/thumb/P1100678.jpg
+- file: P1100678.jpg
   page_html: P1100678_large.html
-- file: nib/P1100684.jpg
-  thumb: nib/images/thumb/P1100684.jpg
+- file: P1100684.jpg
   page_html: P1100684_large.html
-- file: nib/P1100685.jpg
-  thumb: nib/images/thumb/P1100685.jpg
+- file: P1100685.jpg
   page_html: P1100685_large.html
-- file: nib/P1100708.jpg
-  thumb: nib/images/thumb/P1100708.jpg
+- file: P1100708.jpg
   page_html: P1100708_large.html
-- file: nib/P1100726.jpg
-  thumb: nib/images/thumb/P1100726.jpg
+- file: P1100726.jpg
   page_html: P1100726_large.html
-- file: nib/P1100734.jpg
-  thumb: nib/images/thumb/P1100734.jpg
+- file: P1100734.jpg
   page_html: P1100734_large.html
-- file: nib/P1100742.jpg
-  thumb: nib/images/thumb/P1100742.jpg
+- file: P1100742.jpg
   page_html: P1100742_large.html
-- file: nib/P1100749.jpg
-  thumb: nib/images/thumb/P1100749.jpg
+- file: P1100749.jpg
   page_html: P1100749_large.html
-- file: nib/P1100762.jpg
-  thumb: nib/images/thumb/P1100762.jpg
+- file: P1100762.jpg
   page_html: P1100762_large.html
-- file: nib/P1100778.jpg
-  thumb: nib/images/thumb/P1100778.jpg
+- file: P1100778.jpg
   page_html: P1100778_large.html
-- file: nib/P1100786.jpg
-  thumb: nib/images/thumb/P1100786.jpg
+- file: P1100786.jpg
   page_html: P1100786_large.html
-- file: nib/P1100799.jpg
-  thumb: nib/images/thumb/P1100799.jpg
+- file: P1100799.jpg
   page_html: P1100799_large.html
-- file: nib/P1100802.jpg
-  thumb: nib/images/thumb/P1100802.jpg
+- file: P1100802.jpg
   page_html: P1100802_large.html
-- file: nib/P1100805.jpg
-  thumb: nib/images/thumb/P1100805.jpg
+- file: P1100805.jpg
   page_html: P1100805_large.html
-- file: nib/P1100815.jpg
-  thumb: nib/images/thumb/P1100815.jpg
+- file: P1100815.jpg
   page_html: P1100815_large.html

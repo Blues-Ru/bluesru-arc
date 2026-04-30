@@ -2,7 +2,7 @@ slug: lefortovo-crossroadz
 canonical_date: 2007-07
 title: Lefortovo — Crossroadz
 type: lightroom
-path: 07Leto/Lefortovo07/Crossroadz/content
+path: 07Leto/Lefortovo07/Crossroadz
 photo_count: 13
 captioned: false
 description: Crossroadz на Lefortovo Open Air Blues Festival 2007.
@@ -12,42 +12,29 @@ extra_text: Crossroadz + Гия Дзагнидзе at Lefortovo Fest 11/08/2007 
 index_files:
 - index.html
 photos:
-- file: nib/P1030270_2.jpg
-  thumb: nib/images/thumb/P1030270_2.jpg
+- file: P1030270_2.jpg
   page_html: P1030270_2_large.html
-- file: nib/P1030273_2.jpg
-  thumb: nib/images/thumb/P1030273_2.jpg
+- file: P1030273_2.jpg
   page_html: P1030273_2_large.html
-- file: nib/P1030279_2.jpg
-  thumb: nib/images/thumb/P1030279_2.jpg
+- file: P1030279_2.jpg
   page_html: P1030279_2_large.html
-- file: nib/P1030282_2.jpg
-  thumb: nib/images/thumb/P1030282_2.jpg
+- file: P1030282_2.jpg
   page_html: P1030282_2_large.html
-- file: nib/P1030285_2.jpg
-  thumb: nib/images/thumb/P1030285_2.jpg
+- file: P1030285_2.jpg
   page_html: P1030285_2_large.html
-- file: nib/P1030287_2.jpg
-  thumb: nib/images/thumb/P1030287_2.jpg
+- file: P1030287_2.jpg
   page_html: P1030287_2_large.html
-- file: nib/P1030291_2.jpg
-  thumb: nib/images/thumb/P1030291_2.jpg
+- file: P1030291_2.jpg
   page_html: P1030291_2_large.html
-- file: nib/P1030299_2.jpg
-  thumb: nib/images/thumb/P1030299_2.jpg
+- file: P1030299_2.jpg
   page_html: P1030299_2_large.html
-- file: nib/P1030300_2.jpg
-  thumb: nib/images/thumb/P1030300_2.jpg
+- file: P1030300_2.jpg
   page_html: P1030300_2_large.html
-- file: nib/P1030303_2.jpg
-  thumb: nib/images/thumb/P1030303_2.jpg
+- file: P1030303_2.jpg
   page_html: P1030303_2_large.html
-- file: nib/P1030310_2.jpg
-  thumb: nib/images/thumb/P1030310_2.jpg
+- file: P1030310_2.jpg
   page_html: P1030310_2_large.html
-- file: nib/P1030317_2.jpg
-  thumb: nib/images/thumb/P1030317_2.jpg
+- file: P1030317_2.jpg
   page_html: P1030317_2_large.html
-- file: nib/P1030330_2.jpg
-  thumb: nib/images/thumb/P1030330_2.jpg
+- file: P1030330_2.jpg
   page_html: P1030330_2_large.html

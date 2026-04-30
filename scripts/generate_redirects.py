@@ -251,14 +251,102 @@ def main():
     lines.append("/bluesme/*  /artist/:splat  301")
     lines.append("/zappazuhoi/default.htm  /zappazuhoi/  301")
     lines.append("")
-    lines.append("# Old uppercase artist dir redirects")
+    # Artists whose bluesmen/ TitleCase dirs are NOT in legacy_path → auto-gen misses them
+    lines.append("# /bluesmen/ TitleCase dirs not in legacy_path (no auto-gen redirect)")
     for old_dir, new_slug in [
-        ("Blind_Boy_Fuller", "blind-boy-fuller"),
         ("Johnny_Winter", "johnny-winter"),
-        ("Luther_Allison", "luther-allison"),
+        ("Larry_McCray", "larry-mccray"),
+        ("Lazy_Bill_Lucas", "lazy-bill-lucas"),
+        ("Little_Richard", "little-richard"),
+        ("Luther_Allison", "luther-allison"),   # legacy_path is Allison_Luther, different
+        ("Scott_Henderson", "scott-henderson"),
     ]:
-        lines.append(f"/artist/{old_dir}/  /artist/{new_slug}/  301")
-        lines.append(f"/artist/{old_dir}/*  /artist/{new_slug}/:splat  301")
+        lines.append(f"/bluesmen/{old_dir}/  /artist/{new_slug}/  301")
+        lines.append(f"/bluesmen/{old_dir}/*  /artist/{new_slug}/:splat  301")
+    # Artist whose slug differs from what the live site generates from the name
+    lines.append("/artist/b-b-the-blues-shacks/  /artist/bb-the-blues-shacks/  301")
+    lines.append("/artist/b-b-the-blues-shacks/*  /artist/bb-the-blues-shacks/:splat  301")
+    lines.append("")
+    lines.append("# /label/ TitleCase → lowercase (live site used TitleCase dirs)")
+    lines.append("# /reading/ → /article/ (content consolidated into article/)")
+    lines.append("/reading/  /article/  301")
+    lines.append("/reading/wolf_palmer1.htm  /article/howling-wolf-deep-blues-1.html  301")
+    lines.append("/reading/wolf_palmer2.htm  /article/howling-wolf-deep-blues-2.html  301")
+    lines.append("/reading/RP01.htm  /article/robert-palmer-muddy-waters.html  301")
+    lines.append("/reading/MuddyGordon1.htm  /article/muddy-waters-library-of-congress.html  301")
+    lines.append("/reading/LB10/Living_blues.htm  /article/living-blues-veterans.html  301")
+    lines.append("/reading/*  /article/  302")
+    lines.append("")
+    lines.append("# /label/ TitleCase → lowercase (live site used TitleCase dirs)")
+    lines.append("/label/Alligator/  /label/alligator/  301")
+    lines.append("/label/Alligator/*  /label/alligator/:splat  301")
+    lines.append("/label/Blues_Leaf/  /label/blues-leaf/  301")
+    lines.append("/label/Blues_Leaf/*  /label/blues-leaf/:splat  301")
+    lines.append("/label/Chess/  /label/chess/  301")
+    lines.append("/label/Chess/*  /label/chess/:splat  301")
+    lines.append("")
+    lines.append("# News archive redirects")
+    lines.append("/news/archive/:year/  /news/:year/  301")
+    lines.append("/news/archive/  /news/2024/  301")
+    lines.append("")
+    # ── bluesnews _13–_22 subdir → photo gallery redirects ───────────────────
+    # Matched by JPG filename overlap; _12A has no registered galleries yet.
+    lines.append("# bluesnews/_NN/subdir → /photo/ gallery redirects (matched by JPG filenames)")
+    bluesnews_redirects = [
+        ("/bluesnews/_13/13_02_16_Pardo/", "/photo/2013/2013-02-16-pardo/"),
+        ("/bluesnews/_13/13_02_26_Rusinov_Oleinikova/", "/photo/2013/2013-02-26-rusinov-oleinikova/"),
+        ("/bluesnews/_13/13_06_02_Hugh_Laurie/", "/photo/2013/2013-06-02-hugh-laurie-moscow/"),
+        ("/bluesnews/_13/13_10_19_Arsen/", "/photo/2013/2013-10-19-arsen/"),
+        ("/bluesnews/_13/13_10_19_Jimmy_Burns/", "/photo/2013/2013-10-19-jimmy-burns/"),
+        ("/bluesnews/_13/13_11_08_Mishouris/", "/photo/2013/2013-11-08-mishouris/"),
+        ("/bluesnews/_13/13_11_29_Joakim Tinderholt/", "/photo/2013/2013-11-29-joakim-tinderholt/"),
+        ("/bluesnews/_14/14_03_10_Mishouris_Seals/", "/photo/2014/2014-03-10-mishouris-seals/"),
+        ("/bluesnews/_14/14_04_19_Lisikova/", "/photo/2014/2014-04-19-lisikova/"),
+        ("/bluesnews/_14/14_04_25_BB/", "/photo/2014/2014-04-25-bb/"),
+        ("/bluesnews/_14/14_05_09_danny_giles/", "/photo/2014/2014-05-09-danny-giles/"),
+        ("/bluesnews/_15/15_10_07_Dzagnidze/", "/photo/2015/2015-10-07-dzagnidze/"),
+        ("/bluesnews/_15/15_10_30_KW2/", "/photo/2015/2015-10-30-kw2/"),
+        ("/bluesnews/_15/15_11_21_Old_Fassion/", "/photo/2015/2015-11-21-old-fassion/"),
+        ("/bluesnews/_15/16_09_30_SOBO/", "/photo/2016/2016-09-30-sobo/"),
+        ("/bluesnews/_16/16_06_10_Eddie Shaw/", "/photo/2016/2016-06-10-eddie-shaw/"),
+        ("/bluesnews/_16/16_06_10_Jam/", "/photo/2016/2016-06-10-jam/"),
+        ("/bluesnews/_16/16_06_10_Lil_Ed/", "/photo/2016/2016-06-10-lil-ed-williams-siegel/"),
+        ("/bluesnews/_16/16_06_10_TC_TC/", "/photo/2016/2016-06-10-tc-tc/"),
+        ("/bluesnews/_16/16_06_12_Clearwater/", "/photo/2016/2016-06-12-clearwater/"),
+        ("/bluesnews/_16/16_06_12_Migration/", "/photo/2016/2016-06-12-migration/"),
+        ("/bluesnews/_16/16_07_07RWIP/", "/photo/2016/2016-07-07-raphael-wressnig-igor-prado/"),
+        ("/bluesnews/_16/16_07_07_Raphael Wressnig Igor Prado/", "/photo/2016/2016-07-07-raphael-wressnig-igor-prado/"),
+        ("/bluesnews/_16/16_11_02_ Giles_Robson/", "/photo/2016/2016-11-02-giles-robson/"),
+        ("/bluesnews/_16/16_11_05_Kozh_Jhuk/", "/photo/2016/2016-11-05-kozh-jhuk/"),
+        ("/bluesnews/_16/16_12_10_Smith/", "/photo/2016/2016-12-10-jc-smith/"),
+        ("/bluesnews/_16/19_06_11_Weskey/", "/photo/2019/2019-06-11-weskey/"),
+        ("/bluesnews/_17/17_01_21_Tomi_Leino/", "/photo/2017/2017-01-21-tomi-leino/"),
+        ("/bluesnews/_17/17_01_28_Chino/", "/photo/2017/2017-01-28-chino-swingslide/"),
+        ("/bluesnews/_17/17_06_03_Shanna_Waterstown/", "/photo/2017/2017-06-03-shanna-waterstown/"),
+        ("/bluesnews/_17/17_10_23_Tarasov/", "/photo/2017/2017-10-23-tarasov/"),
+        ("/bluesnews/_17/17_10_25_Ash/", "/photo/2017/2017-10-25-frank-ash/"),
+        ("/bluesnews/_17/17_10_28_JCSmith/", "/photo/2017/2017-10-28-jcsmith/"),
+        ("/bluesnews/_17/17_11_13_ChrisRea/", "/photo/2017/2017-11-13-chris-rea-moscow/"),
+        ("/bluesnews/_17/17_11_30_Kaverkin/", "/photo/2017/2017-11-30-kaverkin/"),
+        ("/bluesnews/_17/17_11_30_folkline/", "/photo/2017/2017-11-30-folkline/"),
+        ("/bluesnews/_17/Iv_Sh/", "/photo/2017/2017-iv-sh/"),
+        ("/bluesnews/_17/Waterstown_Delta/", "/photo/2017/2017-waterstown-delta/"),
+        ("/bluesnews/_18/18_01_27_Harris/", "/photo/2018/2018-01-27-harris/"),
+        ("/bluesnews/_18/18_02_24_Shanna/", "/photo/2018/2018-02-24-shanna/"),
+        ("/bluesnews/_18/18_03_24_Guy_Davis/", "/photo/2018/2018-03-24-guy-davis/"),
+        ("/bluesnews/_18/18_11_11_Mark_Hummel/", "/photo/2018/2018-11-11-mark-hummel/"),
+        ("/bluesnews/_18/19_01_22_Shinel/", "/photo/2019/2019-01-22-shinel/"),
+        ("/bluesnews/_19/19_01_31_JJThames/", "/photo/2019/2019-01-31-jjthames/"),
+        ("/bluesnews/_19/19_03_04_Nekrasov_I/", "/photo/2019/2019-03-04-nekrasov-i/"),
+        ("/bluesnews/_19/19_04_28_Kolosova/", "/photo/2019/2019-04-28-kolosova/"),
+        ("/bluesnews/_19/19_11_10_Crosseyedcats/", "/photo/2019/2019-11-10-crosseyedcats/"),
+        ("/bluesnews/_19/2019-11-24_Juk_Kozh/", "/photo/2019/2019-11-24-juk-kozh/"),
+        ("/bluesnews/_19/Arkh19_Guitar/", "/photo/2019/2019-arkh19-guitar/"),
+        ("/bluesnews/_22/", "/photo/2022/2022-11-23-neighbours/"),
+    ]
+    for src, tgt in bluesnews_redirects:
+        lines.append(f"{src}  {tgt}  301")
+        lines.append(f"{src.rstrip('/')}/*  {tgt}  301")
     lines.append("")
     lines.append("# Gallery per-photo HTM pages → parent gallery index")
     lines.append("# Old gallery tools generated one .htm per photo; replaced by generated index.html")

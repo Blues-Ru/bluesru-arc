@@ -1,7 +1,7 @@
 slug: scolder-bros-dom-u-dorogi
 canonical_date: '2005-08-03'
 title: Scolder Bros. Blues Trio at Dom u Dorogi
-type: custom
+type: mts
 path: 05Summer
 photo_count: 4
 captioned: false
@@ -9,18 +9,12 @@ description: Scolder Bros. Blues Trio в клубе «Дом у Дороги», 
 extra_text: Scolder Bros. Blues Trio в Доме у Дороги, 3.VIII.2005 Scolder Bros. Blues
   Trio в Доме у Дороги, 3.VIII.2005 667 X 500 141 KB 500 X 500 109 KB 500 X 500 94
   KB 500 X 500 102 KB
-index_files:
-- Scolder.htm
 photos:
 - file: Scolder01.JPG
-  thumb: tn_Scolder01.jpg
   page_html: scolder01.htm
 - file: Scolder02.JPG
-  thumb: tn_Scolder02.jpg
   page_html: scolder02.htm
 - file: Scolder03.JPG
-  thumb: tn_Scolder03.jpg
   page_html: scolder03.htm
 - file: Scolder04.JPG
-  thumb: tn_Scolder04.jpg
   page_html: scolder04.htm
