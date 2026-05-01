@@ -126,7 +126,11 @@ Country Joe and the Fish.
 
 <a id="m2795"></a>
 
-**[MUSIC: 46:35 – 48:23]**
+**[MUSIC: 46:35 – 47:15]**
+
+<a id="m2876"></a>
+
+**[MUSIC: 47:56 – 48:23]**
 
 <a id="t2903"></a>
 «My Special Friend Blues», Baby Boy Warren, 1949 год — это 70 лет тому назад.

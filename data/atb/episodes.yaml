@@ -28,6 +28,7 @@
     name: Joe Bonamassa
   - slug: beth-hart
     name: Beth Hart
+  description_editorial: true
 - date: '2014-06-09'
   slug: atb-2014-06-09-ian-siegal-peter-albin
   topic: Ian Siegal + Peter Albin
@@ -46,6 +47,7 @@
     name: Walter Trout
   - slug: alvin-youngblood-hart
     name: Alvin Youngblood Hart
+  description_editorial: true
 - date: '2014-06-09'
   slug: atb-2014-06-09-jimmy-rogers
   topic: Jimmy Rogers 90
@@ -78,6 +80,7 @@
     name: Jimmy D. Lane
   - slug: j-j-cale
     name: J.J. Cale
+  description_editorial: true
 - date: '2014-10-27'
   slug: atb-2014-10-27-guy-davis
   topic: GuyDavis
@@ -95,12 +98,7 @@
     name: Guy Davis
   - slug: blind-boys-of-alabama
     name: Blind Boys of Alabama
-  - slug: muddy-waters
-    name: Muddy Waters
-  - slug: blind-lemon-jefferson
-    name: Blind Lemon Jefferson
-  - slug: willie-dixon
-    name: Willie Dixon
+  description_editorial: true
 - date: '2015-01-26'
   slug: atb-2015-01-26-bob-stroger
   topic: 1 Stroger
@@ -120,6 +118,7 @@
   artists_tags:
   - slug: bob-stroger
     name: Bob Stroger
+  description_editorial: true
 - date: '2015-05-18'
   slug: atb-2015-05-18-mccoy
   topic: I McCoy
@@ -141,6 +140,7 @@
     name: Big Bill Broonzy
   - slug: howlin-wolf
     name: Howlin' Wolf
+  description_editorial: true
 - date: '2015-08-31'
   slug: atb-2015-08-31-crudup
   topic: Crudup
@@ -158,6 +158,7 @@
     name: Muddy Waters
   - slug: johnny-winter
     name: Johnny Winter
+  description_editorial: true
 - date: '2015-09-00'
   slug: atb-2015-09-jimmy-reed
   topic: Jimmy Reed
@@ -184,6 +185,7 @@
     name: Johnny Winter
   - slug: jennie-jimmy-cheatham
     name: Jennie & Jimmy Cheatham
+  description_editorial: true
 - date: '2015-09-07'
   slug: atb-2015-09-07-memphis-slim
   topic: MemphisSlim
@@ -217,6 +219,7 @@
     name: Willie Dixon
   - slug: lowell-fulson
     name: Lowell Fulson
+  description_editorial: true
 - date: '2015-09-14'
   slug: atb-2015-09-14-memphis-slim
   topic: MemphisSlim
@@ -246,6 +249,7 @@
     name: Peter Green
   - slug: duster-bennett
     name: Duster Bennett
+  description_editorial: true
 - date: '2015-10-12'
   slug: atb-2015-10-12-2
   topic: '2'
@@ -257,6 +261,7 @@
     path: /atb/atb-2015-10-12-2-part-2.mp3
   - filename: atb-2015-10-12.mp3
     path: /atb/atb-2015-10-12.mp3
+  description_editorial: true
 - date: '2015-10-19'
   slug: atb-2015-10-19-mann
   topic: Mann
@@ -269,7 +274,10 @@
     path: /atb/atb-2015-10-19-mann-part-2.mp3
   - filename: atb-2015-10-19-mann.mp3
     path: /atb/atb-2015-10-19-mann.mp3
-  artists_tags: []
+  artists_tags:
+  - slug: louisiana-red
+    name: Louisiana Red
+  description_editorial: true
 - date: '2015-10-26'
   slug: atb-2015-10-26-willie-mabon
   topic: Willie Mabon
@@ -297,6 +305,7 @@
     name: Hubert Sumlin
   - slug: willie-dixon
     name: Willie Dixon
+  description_editorial: true
 - date: '2015-11-02'
   slug: atb-2015-11-02-autumn-anniversaries
   topic: I
@@ -315,6 +324,7 @@
     name: Leslie West
   - slug: johnny-winter
     name: Johnny Winter
+  description_editorial: true
 - date: '2015-11-09'
   slug: atb-2015-11-09-bobby-rush
   topic: BRush
@@ -333,6 +343,7 @@
   artists_tags:
   - slug: bobby-rush
     name: Bobby Rush
+  description_editorial: true
 - date: '2015-11-23'
   slug: atb-2015-11-23-brownie-mcghee
   topic: BrownieMcGhee
@@ -361,6 +372,7 @@
     name: Mavis Staples
   - slug: guy-davis
     name: Guy Davis
+  description_editorial: true
 - date: '2015-11-30'
   slug: atb-2015-11-30-guy-davis
   topic: GuyDavis
@@ -385,6 +397,7 @@
     name: Blind Lemon Jefferson
   - slug: willie-dixon
     name: Willie Dixon
+  description_editorial: true
 - date: '2015-12-14'
   slug: atb-2015-12-14-smith
   topic: Smith
@@ -403,6 +416,7 @@
     name: WC Handy
   - slug: willie-dixon
     name: Willie Dixon
+  description_editorial: true
 - date: '2016-01-18'
   slug: atb-2016-01-18-jay-mcshann
   topic: McShann
@@ -432,6 +446,7 @@
     name: Kim Wilson
   - slug: pinetop-perkins
     name: Pinetop Perkins
+  description_editorial: true
 - date: '2016-01-25'
   slug: atb-2016-01-25-luther-tucker
   topic: LTucker
@@ -454,6 +469,7 @@
     name: Snooks Eaglin
   - slug: james-cotton
     name: James Cotton
+  description_editorial: true
 - date: '2016-02-01'
   slug: atb-2016-02-01-baby-tate
   topic: BabyTate
@@ -466,6 +482,7 @@
   - filename: atb-2016-02-01-betty-la-vette.mp3
     path: /atb/atb-2016-02-01-betty-la-vette.mp3
   artists_tags: []
+  description_editorial: true
 - date: '2016-02-08'
   slug: atb-2016-02-08-muddy-waters-100
   topic: Muddy100
@@ -497,6 +514,7 @@
     name: Little Walter
   - slug: jimmy-rogers
     name: Jimmy Rogers
+  description_editorial: true
 - date: '2016-02-29'
   slug: atb-2016-02-29-sam-myers
   topic: I
@@ -522,6 +540,7 @@
     name: Jimmy Reed
   - slug: wc-handy
     name: W.C. Handy
+  description_editorial: true
 - date: '2016-03-21'
   slug: atb-2016-03-21-pickett
   topic: Pickett
@@ -544,6 +563,7 @@
     name: Solomon Burke
   - slug: albert-king
     name: Albert King
+  description_editorial: true
 - date: '2016-04-04'
   slug: atb-2016-04-04-harris
   topic: Harris
@@ -565,6 +585,7 @@
     name: Corey Harris
   - slug: ali-farka-toure
     name: Ali Farka Toure
+  description_editorial: true
 - date: '2016-04-11'
   slug: atb-2016-04-11-frost
   topic: Frost
@@ -582,6 +603,7 @@
   artists_tags:
   - slug: corey-harris
     name: Corey Harris
+  description_editorial: true
 - date: '2016-04-25'
   slug: atb-2016-04-25-ma-rainey
   topic: MaRainey
@@ -604,6 +626,7 @@
     name: BB King
   - slug: bessie-smith
     name: Bessie Smith
+  description_editorial: true
 - date: '2016-05-10'
   slug: atb-2016-05-10-highway
   topic: Highway61
@@ -618,6 +641,7 @@
   - filename: atb-2016-05-10-highway-61.mp3
     path: /atb/atb-2016-05-10-highway-61.mp3
   artists_tags: []
+  description_editorial: true
 - date: '2016-05-23'
   slug: atb-2016-05-23-kenny-wayne
   topic: Kenny Wayne
@@ -633,6 +657,7 @@
   artists_tags:
   - slug: kenny-blues-boss-wayne
     name: Kenny 'Blues Boss' Wayne
+  description_editorial: true
 - date: '2016-06-06'
   slug: atb-2016-06-06-raful-neal
   topic: Raful Neal
@@ -658,6 +683,7 @@
     name: Lazy Lester
   - slug: alligator-records
     name: Alligator Records
+  description_editorial: true
 - date: '2016-06-13'
   slug: atb-2016-06-13-eric-clapton
   topic: Eric Clapton
@@ -676,6 +702,7 @@
     name: J.J. Cale
   - slug: robert-johnson
     name: Robert Johnson
+  description_editorial: true
 - date: '2016-06-20'
   slug: atb-2016-06-20-james-harman
   topic: Harman
@@ -698,6 +725,7 @@
     name: Kirk Fletcher
   - slug: screamin-jay-hawkins
     name: Screamin' Jay Hawkins
+  description_editorial: true
 - date: '2016-07-11'
   slug: atb-2016-07-11-alligator
   topic: Alligator
@@ -722,6 +750,7 @@
     name: Shemekia Copeland
   - slug: tommy-castro
     name: Tommy Castro
+  description_editorial: true
 - date: '2016-07-18'
   slug: atb-2016-07-18-mack
   topic: Mack
@@ -747,6 +776,7 @@
     name: Albert King
   - slug: stevie-ray-vaughan
     name: Stevie Ray Vaughan
+  description_editorial: true
 - date: '2016-08-01'
   slug: atb-2016-08-01-buddy-guy
   topic: Buddy Guy
@@ -773,6 +803,7 @@
     name: Phil Guy
   - slug: a-c-reed
     name: A.C. Reed
+  description_editorial: true
 - date: '2016-08-08'
   slug: atb-2016-08-08-buddy-guy
   topic: Buddy Guy
@@ -803,6 +834,7 @@
     name: Otis Spann
   - slug: willie-dixon
     name: Willie Dixon
+  description_editorial: true
 - date: '2016-08-08'
   slug: atb-2016-08-08-cannon
   topic: Cannon
@@ -825,6 +857,7 @@
     name: Alligator Records
   - slug: albert-king
     name: Albert King
+  description_editorial: true
 - date: '2016-08-29'
   slug: atb-2016-08-29-august-anniversaries
   topic: I
@@ -847,6 +880,7 @@
     name: Buddy Guy
   - slug: freddie-king
     name: Freddie King
+  description_editorial: true
 - date: '2016-09-05'
   slug: atb-2016-09-05-edith-wilson-billy-preston
   topic: I
@@ -862,6 +896,7 @@
   artists_tags:
   - slug: john-mayall
     name: John Mayall
+  description_editorial: true
 - date: '2016-10-31'
   slug: atb-2016-10-31-peter-green-witherspoon
   topic: I
@@ -880,6 +915,7 @@
   artists_tags:
   - slug: peter-green
     name: Peter Green
+  description_editorial: true
 - date: '2017-02-06'
   slug: atb-2017-02-06-james-blood-ulmer
   topic: UlmerI
@@ -924,6 +960,7 @@
     name: Jimi Hendrix
   - slug: john-lee-hooker
     name: John Lee Hooker
+  description_editorial: true
 - date: '2017-05-08'
   slug: atb-2017-05-08-joe-bonamassa
   topic: BonamassaI
@@ -943,6 +980,7 @@
     name: Joe Bonamassa
   - slug: bb-king
     name: BB King
+  description_editorial: true
 - date: '2017-05-15'
   slug: atb-2017-05-15-taj-mahal
   topic: TajMahal
@@ -970,6 +1008,7 @@
     name: Billy Branch
   - slug: ry-cooder
     name: Ry Cooder
+  description_editorial: true
 - date: '2017-05-22'
   slug: atb-2017-05-22-kenny-wayne-blues-boss
   topic: KBBW
@@ -991,6 +1030,7 @@
     name: Shuggie Otis
   - slug: johnny-otis
     name: Johnny Otis
+  description_editorial: true
 - date: '2017-06-05'
   slug: atb-2017-06-05-othar-turner
   topic: Othar Turner
@@ -1012,6 +1052,7 @@
     name: Bo Diddley
   - slug: willie-dixon
     name: Willie Dixon
+  description_editorial: true
 - date: '2017-07-03'
   slug: atb-2017-07-03-delta-neva
   topic: DN
@@ -1030,7 +1071,10 @@
     path: /atb/atb-2017-07-03-delta-neva-part-3.mp3
   - filename: atb-2017-07-03-delta-neva-part-4.mp3
     path: /atb/atb-2017-07-03-delta-neva-part-4.mp3
-  artists_tags: []
+  artists_tags:
+  - slug: bb-king
+    name: BB King
+  description_editorial: true
 - date: '2017-07-10'
   slug: atb-2017-07-10-blind-boy-fuller
   topic: BBFuller
@@ -1053,6 +1097,7 @@
     name: Sonny Terry
   - slug: reverend-gary-davis
     name: Reverend Gary Davis
+  description_editorial: true
 - date: '2017-07-17'
   slug: atb-2017-07-17-bb-fuller
   topic: BBFuller IV
@@ -1085,6 +1130,7 @@
     name: Bessie Smith
   - slug: corey-harris
     name: Corey Harris
+  description_editorial: true
 - date: '2017-08-21'
   slug: atb-2017-08-21-litvintsev
   topic: Litvincev
@@ -1097,6 +1143,7 @@
   - filename: atb-2017-08-21-litvintsev-part-2.mp3
     path: /atb/atb-2017-08-21-litvintsev-part-2.mp3
   artists_tags: []
+  description_editorial: true
 - date: '2017-09-04'
   slug: atb-2017-09-04-buddy-miles-paul-orta
   topic: VA
@@ -1124,6 +1171,7 @@
     name: Harmonica Fats
   - slug: jimmy-rogers
     name: Jimmy Rogers
+  description_editorial: true
 - date: '2017-09-11'
   slug: atb-2017-09-11-barbecue-bob-harmonica-fats
   topic: VA
@@ -1145,6 +1193,7 @@
     name: T-Bone Walker
   - slug: willie-dixon
     name: Willie Dixon
+  description_editorial: true
 - date: '2017-09-18'
   slug: atb-2017-09-18-big-twist-lovie-austin
   topic: I
@@ -1169,6 +1218,7 @@
     name: Willie Dixon
   - slug: jimmy-rogers
     name: Jimmy Rogers
+  description_editorial: true
 - date: '2017-09-25'
   slug: atb-2017-09-25-cj-chenier
   topic: CJCh
@@ -1191,6 +1241,7 @@
     name: Big Joe Williams
   - slug: j-b-hutto
     name: J.B. Hutto
+  description_editorial: true
 - date: '2017-10-02'
   slug: atb-2017-10-02-chenier
   topic: chenier
@@ -1206,7 +1257,12 @@
     path: /atb/atb-2017-10-02-chenier.mp3
   - filename: atb-2017-10-02-curran.mp3
     path: /atb/atb-2017-10-02-curran.mp3
-  artists_tags: []
+  artists_tags:
+  - slug: c-j-chenier
+    name: C.J. Chenier
+  - slug: nick-curran
+    name: Nick Curran
+  description_editorial: true
 - date: '2017-10-16'
   slug: atb-2017-10-16-bishop
   topic: Bishop
@@ -1220,7 +1276,16 @@
     path: /atb/atb-2017-10-16-bishop.mp3
   - filename: atb-2017-10-16-petway.mp3
     path: /atb/atb-2017-10-16-petway.mp3
-  artists_tags: []
+  artists_tags:
+  - slug: elvin-bishop
+    name: Elvin Bishop
+  - slug: charlie-musselwhite
+    name: Charlie Musselwhite
+  - slug: jimi-hendrix
+    name: Jimi Hendrix
+  - slug: muddy-waters
+    name: Muddy Waters
+  description_editorial: true
 - date: '2017-10-23'
   slug: atb-2017-10-23-graham-bond
   topic: GrahamBond
@@ -1237,6 +1302,7 @@
   artists_tags:
   - slug: billy-boy-arnold
     name: Billy Boy Arnold
+  description_editorial: true
 - date: '2017-10-30'
   slug: atb-2017-10-30-cleo-laine
   topic: CleoLaine
@@ -1251,6 +1317,7 @@
   - filename: atb-2017-10-30-cleo-laine-part-2.mp3
     path: /atb/atb-2017-10-30-cleo-laine-part-2.mp3
   artists_tags: []
+  description_editorial: true
 - date: '2017-11-06'
   slug: atb-2017-11-06-johnny-woods
   topic: JohnnyWoods
@@ -1273,6 +1340,7 @@
     name: Willie Dixon
   - slug: muddy-waters
     name: Muddy Waters
+  description_editorial: true
 - date: '2017-11-13'
   slug: atb-2017-11-13-john-hammond
   topic: JohnHammond
@@ -1307,6 +1375,7 @@
     name: Clifton Chenier
   - slug: john-lee-hooker
     name: John Lee Hooker
+  description_editorial: true
 - date: '2017-11-20'
   slug: atb-2017-11-20-mose-allison
   topic: MoseAllison
@@ -1328,6 +1397,7 @@
     name: Bonnie Raitt
   - slug: jimmy-rogers
     name: Jimmy Rogers
+  description_editorial: true
 - date: '2017-11-27'
   slug: atb-2017-11-27-hendr
   topic: Hendrix
@@ -1350,6 +1420,7 @@
     name: Willie Dixon
   - slug: muddy-waters
     name: Muddy Waters
+  description_editorial: true
 - date: '2017-12-04'
   slug: atb-2017-12-04-allman
   topic: Allman
@@ -1373,6 +1444,7 @@
     name: Little Walter
   - slug: willie-dixon
     name: Willie Dixon
+  description_editorial: true
 - date: '2017-12-11'
   slug: atb-2017-12-11-kim-simmonds-bob-brozman
   topic: va
@@ -1390,6 +1462,7 @@
     name: Savoy Brown
   - slug: rod-piazza
     name: Rod Piazza
+  description_editorial: true
 - date: '2017-12-25'
   slug: atb-2017-12-25-xmas
   topic: xmas
@@ -1417,6 +1490,7 @@
     name: Lightnin' Hopkins
   - slug: alligator-records
     name: Alligator Records
+  description_editorial: true
 - date: '2018-01-01'
   slug: atb-2018-01-01-frost-young
   topic: FrostYoung
@@ -1436,6 +1510,7 @@
     name: Lightnin' Hopkins
   - slug: johnny-otis
     name: Johnny Otis
+  description_editorial: true
 - date: '2018-01-08'
   slug: atb-2018-01-08-allen-toussaint
   topic: Toussaint
@@ -1449,7 +1524,16 @@
     path: /atb/atb-2018-01-08-allen-toussaint.mp3
   - filename: atb-2018-01-08-various-artists.mp3
     path: /atb/atb-2018-01-08-various-artists.mp3
-  artists_tags: []
+  artists_tags:
+  - slug: wc-handy
+    name: W.C. Handy
+  - slug: lowell-fulson
+    name: Lowell Fulson
+  - slug: lightnin-hopkins
+    name: Lightnin' Hopkins
+  - slug: bb-king
+    name: BB King
+  description_editorial: true
 - date: '2018-01-15'
   slug: atb-2018-01-15-corey-harris
   topic: CoreyHarris
@@ -1469,6 +1553,7 @@
     name: Corey Harris
   - slug: ruth-brown
     name: Ruth Brown
+  description_editorial: true
 - date: '2018-01-22'
   slug: atb-2018-01-22-corey-harris
   topic: CoreyHarris
@@ -1488,6 +1573,7 @@
     name: Corey Harris
   - slug: ali-farka-toure
     name: Ali Farka Toure
+  description_editorial: true
 - date: '2018-02-05'
   slug: atb-2018-02-05-british-blues-invasion
   topic: BBI
@@ -1500,6 +1586,7 @@
   - filename: atb-2018-02-05-british-blues-invasion-part-2.mp3
     path: /atb/atb-2018-02-05-british-blues-invasion-part-2.mp3
   artists_tags: []
+  description_editorial: true
 - date: '2018-02-19'
   slug: atb-2018-02-19-perry-bradford
   topic: I
@@ -1518,6 +1605,7 @@
   artists_tags:
   - slug: little-walter
     name: Little Walter
+  description_editorial: true
 - date: '2018-02-26'
   slug: atb-2018-02-26-domino
   topic: Domino
@@ -1538,6 +1626,7 @@
     name: Screamin' Jay Hawkins
   - slug: canned-heat
     name: Canned Heat
+  description_editorial: true
 - date: '2018-03-05'
   slug: atb-2018-03-05-canned-heat
   topic: CannedHeat
@@ -1562,6 +1651,7 @@
     name: John Mayall
   - slug: blind-lemon-jefferson
     name: Blind Lemon Jefferson
+  description_editorial: true
 - date: '2018-03-12'
   slug: atb-2018-03-12-george-kooymans-golden-ring
   topic: I
@@ -1579,6 +1669,7 @@
     name: Rory Gallagher
   - slug: furry-lewis
     name: Furry Lewis
+  description_editorial: true
 - date: '2018-03-19'
   slug: atb-2018-03-19-yardbirds
   topic: Yardbirds
@@ -1608,6 +1699,7 @@
     name: Son House
   - slug: guy-davis
     name: Guy Davis
+  description_editorial: true
 - date: '2018-03-26'
   slug: atb-2018-03-26-pearl-bailey-sue-foley
   topic: I
@@ -1627,6 +1719,7 @@
     name: Guy Davis
   - slug: wc-handy
     name: W.C. Handy
+  description_editorial: true
 - date: '2018-04-02'
   slug: atb-2018-04-02-adam-gussow-hans-theesink
   topic: I
@@ -1648,6 +1741,7 @@
     name: Hans Theessink
   - slug: terry-evans
     name: Terry Evans
+  description_editorial: true
 - date: '2018-04-04'
   slug: atb-2018-04-04-jimmy-nelson
   topic: ''
@@ -1667,6 +1761,7 @@
     name: Shemekia Copeland
   - slug: luther-guitar-junior-johnson
     name: Luther 'Guitar Junior' Johnson
+  description_editorial: true
 - date: '2018-04-16'
   slug: atb-2018-04-16-john-mayall-75
   topic: I
@@ -1693,6 +1788,7 @@
     name: Peter Green
   - slug: mighty-sam-mcclain
     name: Mighty Sam McClain
+  description_editorial: true
 - date: '2018-04-18'
   slug: atb-2018-04-18-gary-primich
   topic: I
@@ -1709,6 +1805,7 @@
   artists_tags:
   - slug: gary-primich
     name: Gary Primich
+  description_editorial: true
 - date: '2018-04-23'
   slug: atb-2018-04-23-eddie-king
   topic: EddieKing
@@ -1727,6 +1824,7 @@
   artists_tags:
   - slug: koko-taylor
     name: Koko Taylor
+  description_editorial: true
 - date: '2018-04-30'
   slug: atb-2018-04-30-blind-willie-mctell
   topic: McTellI
@@ -1748,6 +1846,7 @@
     name: Ry Cooder
   - slug: johnny-winter
     name: Johnny Winter
+  description_editorial: true
 - date: '2018-05-00'
   slug: atb-2018-05-alexis-korner
   topic: KornerI
@@ -1770,6 +1869,7 @@
   artists_tags:
   - slug: alexis-korner
     name: Alexis Korner
+  description_editorial: true
 - date: '2018-05-07'
   slug: atb-2018-05-07-steve-winwood
   topic: I
@@ -1789,6 +1889,7 @@
     name: Bo Diddley
   - slug: charlie-musselwhite
     name: Charlie Musselwhite
+  description_editorial: true
 - date: '2018-06-18'
   slug: atb-2018-06-18-jimmy-oden
   topic: OdenI
@@ -1825,6 +1926,7 @@
     name: Taj Mahal
   - slug: eric-clapton
     name: Eric Clapton
+  description_editorial: true
 - date: '2018-06-25'
   slug: atb-2018-06-25-big-bill-broonzy
   topic: BroonzyI
@@ -1854,6 +1956,7 @@
     name: Etta James
   - slug: muddy-waters
     name: Muddy Waters
+  description_editorial: true
 - date: '2018-07-02'
   slug: atb-2018-07-02-buddy-guy
   topic: GuyI
@@ -1876,6 +1979,7 @@
     name: Sonny Boy Williamson
   - slug: john-lee-hooker
     name: John Lee Hooker
+  description_editorial: true
 - date: '2018-08-05'
   slug: atb-2018-08-05-margolin-wlc-ii-internet
   topic: Margolin WLC II internet
@@ -1904,6 +2008,7 @@
     name: Chuck Berry
   - slug: howlin-wolf
     name: Howlin' Wolf
+  description_editorial: true
 - date: '2018-08-06'
   slug: atb-2018-08-06-margolin-wlc-i-moscow
   topic: Margolin WLC I Moscow
@@ -1934,6 +2039,7 @@
     name: Howlin' Wolf
   - slug: bb-king
     name: BB King
+  description_editorial: true
 - date: '2018-08-27'
   slug: atb-2018-08-27-cain
   topic: Cain
@@ -1950,6 +2056,7 @@
   artists_tags:
   - slug: chris-cain
     name: Chris Cain
+  description_editorial: true
 - date: '2018-09-10'
   slug: atb-2018-09-10-lusk
   topic: Lusk
@@ -1964,6 +2071,7 @@
   artists_tags:
   - slug: dave-kelly
     name: Dave Kelly
+  description_editorial: true
 - date: '2018-09-17'
   slug: atb-2018-09-17-koko-taylor
   topic: KokoTaylor
@@ -1996,6 +2104,7 @@
     name: Buddy Guy
   - slug: pinetop-perkins
     name: Pinetop Perkins
+  description_editorial: true
 - date: '2018-09-24'
   slug: atb-2018-09-24-blind-lemon-jefferson-125
   topic: '1'
@@ -2022,6 +2131,7 @@
     name: Taj Mahal
   - slug: colin-james
     name: Colin James
+  description_editorial: true
 - date: '2018-10-01'
   slug: atb-2018-10-01-steve-miller
   topic: II Steve MILLER
@@ -2056,6 +2166,7 @@
     name: Reverend Gary Davis
   - slug: t-bone-walker
     name: T-Bone Walker
+  description_editorial: true
 - date: '2018-10-06'
   slug: atb-2018-10-06-tony-joe-white-sammy-price
   topic: II
@@ -2069,6 +2180,7 @@
   - filename: atb-2018-10-06-tony-joe-white-sammy-price-part-2.mp3
     path: /atb/atb-2018-10-06-tony-joe-white-sammy-price-part-2.mp3
   artists_tags: []
+  description_editorial: true
 - date: '2018-10-18'
   slug: atb-2018-10-18-chicago-rolling
   topic: Chicago Rolling
@@ -2108,11 +2220,17 @@
     name: Charlie Musselwhite
   - slug: james-cotton
     name: James Cotton
+  description_editorial: true
 - date: '2018-10-22'
   slug: atb-2018-10-22-burton
   topic: Burton
-  description: Программа "Весь Этот Блюз". В первой части
-  summary: 75-летие Корки Сигала (Siegel-Schwall Band) и российские гастроли Чарлза Бёртона.
+  description: 'В программе звучат треки Чарльза Бёртона — «Shake Your Hips», «Crackdown», «Sweet Potato Pie», «Shake It»
+    и «Drop a Dime» — из альбомов 2004 и 2013 годов. Бёртон представлен как мастер широкого диапазона: от медленных 12-тактовых
+    блюзов до свингующего шафла. Вторая часть посвящена Корки Сигалу: отмечается 30-летие его проекта Chamber Blues и приближающееся
+    75-летие музыканта. Рассказывается история Siegel–Schwall Blues Band (1964–1974), их работа хаус-бэндом в чикагском «Pepper''s
+    Lounge» и сотрудничество с Мадди Уотерсом, Хаулин Вулфом и Уилли Диксоном. Упоминается запись произведения Уильяма Руссо
+    для блюз-бэнда и симфонического оркестра под управлением Сэйдзи Одзавы для Deutsche Grammophon.'
+  summary: Выпуск посвящён гитаристу Чарльзу Бёртону, гастролирующему по России, и 75-летию харпера Корки Сигала.
   files:
   - filename: atb-2018-10-22-burton.mp3
     path: /atb/atb-2018-10-22-burton.mp3
@@ -2123,6 +2241,8 @@
     name: Corky Siegel
   - slug: siegel-schwall-band
     name: Siegel-Schwall Band
+  description_editorial: false
+  description_ai: true
 - date: '2018-10-29'
   slug: atb-2018-10-29-hummel
   topic: Hummel
@@ -2143,6 +2263,7 @@
     name: John Mayall
   - slug: little-charlie
     name: Little Charlie
+  description_editorial: true
 - date: '2018-11-05'
   slug: atb-2018-11-05-boo-boo-davis-charles-bradley
   topic: I
@@ -2166,6 +2287,7 @@
     name: Otis Spann
   - slug: bonnie-raitt
     name: Bonnie Raitt
+  description_editorial: true
 - date: '2018-11-12'
   slug: atb-2018-11-12-lavern-baker
   topic: LaVernBaker
@@ -2179,6 +2301,7 @@
   - filename: atb-2018-11-12-lavern-baker-part-2.mp3
     path: /atb/atb-2018-11-12-lavern-baker-part-2.mp3
   artists_tags: []
+  description_editorial: true
 - date: '2018-11-19'
   slug: atb-2018-11-19-mercer
   topic: MERCER
@@ -2203,6 +2326,7 @@
     name: BB King
   - slug: eric-clapton
     name: Eric Clapton
+  description_editorial: true
 - date: '2018-11-26'
   slug: atb-2018-11-26-hadd
   topic: Haddix
@@ -2221,6 +2345,12 @@
     path: /atb/atb-2018-11-26-hadd-part-9.mp3
   - filename: atb-2018-11-26-johnson.mp3
     path: /atb/atb-2018-11-26-johnson.mp3
+  artists_tags:
+  - slug: bb-king
+    name: B.B. King
+  - slug: albert-king
+    name: Albert King
+  description_editorial: true
 - date: '2018-12-10'
   slug: atb-2018-12-10-harmonicats
   topic: Harmonicats
@@ -2239,6 +2369,20 @@
     path: /atb/atb-2018-12-10-joe-williams-part-2.mp3
   - filename: atb-2018-12-10-southside-johnny.mp3
     path: /atb/atb-2018-12-10-southside-johnny.mp3
+  artists_tags:
+  - slug: big-bill-broonzy
+    name: Big Bill Broonzy
+  - slug: bo-diddley
+    name: Bo Diddley
+  - slug: memphis-slim
+    name: Memphis Slim
+  - slug: little-walter
+    name: Little Walter
+  - slug: eric-clapton
+    name: Eric Clapton
+  - slug: bb-king
+    name: BB King
+  description_editorial: true
 - date: '2018-12-31'
   slug: atb-2018-12-31-ny
   topic: NY
@@ -2249,16 +2393,45 @@
     path: /atb/atb-2018-12-31-ny-part-1.mp3
   - filename: atb-2018-12-31-ny-part-2.mp3
     path: /atb/atb-2018-12-31-ny-part-2.mp3
+  artists_tags:
+  - slug: bessie-smith
+    name: Bessie Smith
+  - slug: bukka-white
+    name: Bukka White
+  - slug: lightnin-hopkins
+    name: Lightnin' Hopkins
+  - slug: bb-king
+    name: BB King
+  - slug: chuck-berry
+    name: Chuck Berry
+  description_editorial: true
 - date: '2019-01-07'
   slug: atb-2019-01-07-ny
   topic: NY
-  description: ''
-  summary: 'Продолжение новогоднего парада блюзов: часть III.'
+  description: Рождественский выпуск программы объединяет праздничные и новогодние композиции разных жанров — от блюза и госпела
+    до джаза и ритм-энд-блюза. Прозвучали антивоенная рождественская песня Джона Леннона и Йоко Оно, треки The Staple Singers
+    и Боба Дилана из альбома «Christmas in the Heart» (2009). Би-Би Кинг поздравил слушателей записью «Christmas Holidays»
+    (2001), а Этта Джеймс исполнила госпел-стандарт «I Saw the Light». Также в выпуске прозвучали Элла Фицджеральд с Луи Джорданом,
+    Джеймс Браун, сестра Розетта Тарп, Луи Армстронг, Соломон Бёрк с The Blind Boys of Alabama и Дайана Росс.
+  summary: 'Рождественский выпуск «Всего этого блюза»: праздничные песни Джона Леннона, Боба Дилана, Би-Би Кинга, Этты Джеймс
+    и других.'
   files:
   - filename: atb-2019-01-07-ny-part-3.mp3
     path: /atb/atb-2019-01-07-ny-part-3.mp3
   - filename: atb-2019-01-07-ny-part-4.mp3
     path: /atb/atb-2019-01-07-ny-part-4.mp3
+  artists_tags:
+  - slug: bb-king
+    name: BB King
+  - slug: mavis-staples
+    name: Mavis Staples
+  - slug: etta-james
+    name: Etta James
+  - slug: blind-boys-of-alabama
+    name: Blind Boys of Alabama
+  - slug: clarence-gatemouth-brown
+    name: Clarence Gatemouth Brown
+  description_editorial: true
 - date: '2019-01-28'
   slug: atb-2019-01-28-jj-thames
   topic: ''
@@ -2271,6 +2444,14 @@
   files:
   - filename: atb-2019-01-28-jj-thames.mp3
     path: /atb/atb-2019-01-28-jj-thames.mp3
+  artists_tags:
+  - slug: charlie-musselwhite
+    name: Charlie Musselwhite
+  - slug: william-clarke
+    name: William Clarke
+  - slug: john-mayall
+    name: John Mayall
+  description_editorial: true
 - date: '2019-02-04'
   slug: atb-2019-02-04-jj-thames
   topic: JJThames
@@ -2280,6 +2461,10 @@
   files:
   - filename: atb-2019-02-04-jj-thames.mp3
     path: /atb/atb-2019-02-04-jj-thames.mp3
+  artists_tags:
+  - slug: charlie-musselwhite
+    name: Charlie Musselwhite
+  description_editorial: true
 - date: '2019-02-11'
   slug: atb-2019-02-11-chick-webb
   topic: ''
@@ -2301,15 +2486,30 @@
   files:
   - filename: atb-2019-02-11-chick-webb.mp3
     path: /atb/atb-2019-02-11-chick-webb.mp3
+  artists_tags: []
+  description_editorial: true
 - date: '2019-02-25'
   slug: atb-2019-02-25-harris
   topic: Harris
-  description: 'Программа Весь Этот Блюз к 50-летию Corey Harris: Интервью и песни специально для передачи и записи разных
-    этапов творчества. 55 минут'
-  summary: '50-летие Корея Хэрриса: интервью и специальные записи для «Весь Этот Блюз».'
+  description: 'Программа полностью посвящена юбилею Кори Харриса (род. 21 февраля 1969 года): звучат песни из его альбомов
+    «Between Midnight and Day» (1995), «Fish Ain''t Biting» и «Fulton Blues» (2014), а также записи, сделанные им живьём в
+    студии «Эха Москвы». В интервью Харрис рассказывает о своём знакомстве с малийским музыкантом Али Фарка Туре, совместном
+    альбоме «From Mali to Mississippi» и участии в проекте Мартина Скорсезе «Feel Like Going Home». Отдельно обсуждается африканское
+    происхождение блюза и написанная Харрисом книга о жизни и музыке Али Фарка Туре. Прозвучали также записи с Осой Тёрнером
+    и посвящение памяти барабанщика Джона Гилмора.'
+  summary: Выпуск посвящён 50-летию блюзового музыканта Кори Харриса — гитариста, гармониста и исследователя африканских корней
+    блюза.
   files:
   - filename: atb-2019-02-25-harris.mp3
     path: /atb/atb-2019-02-25-harris.mp3
+  artists_tags:
+  - slug: corey-harris
+    name: Corey Harris
+  - slug: muddy-waters
+    name: Muddy Waters
+  - slug: ali-farka-toure
+    name: Ali Farka Toure
+  description_editorial: true
 - date: '2019-03-04'
   slug: atb-2019-03-04-lenoir
   topic: Lenoir
@@ -2319,6 +2519,20 @@
   files:
   - filename: atb-2019-03-04-lenoir.mp3
     path: /atb/atb-2019-03-04-lenoir.mp3
+  artists_tags:
+  - slug: johnny-winter
+    name: Johnny Winter
+  - slug: bernard-allison
+    name: Bernard Allison
+  - slug: muddy-waters
+    name: Muddy Waters
+  - slug: john-primer
+    name: John Primer
+  - slug: bob-margolin
+    name: Bob Margolin
+  - slug: james-blood-ulmer
+    name: James Blood Ulmer
+  description_editorial: true
 - date: '2019-03-18'
   slug: atb-2019-03-18-jb-lenoir
   topic: JBLenoir
@@ -2330,6 +2544,20 @@
   files:
   - filename: atb-2019-03-18-jb-lenoir.mp3
     path: /atb/atb-2019-03-18-jb-lenoir.mp3
+  artists_tags:
+  - slug: elvin-bishop
+    name: Elvin Bishop
+  - slug: willie-dixon
+    name: Willie Dixon
+  - slug: ry-cooder
+    name: Ry Cooder
+  - slug: john-mayall
+    name: John Mayall
+  - slug: mavis-staples
+    name: Mavis Staples
+  - slug: sunnyland-slim
+    name: Sunnyland Slim
+  description_editorial: true
 - date: '2019-03-25'
   slug: atb-2019-03-25-mc-phee
   topic: McPhee
@@ -2339,6 +2567,26 @@
   files:
   - filename: atb-2019-03-25-mc-phee.mp3
     path: /atb/atb-2019-03-25-mc-phee.mp3
+  artists_tags:
+  - slug: jo-ann-kelly
+    name: Jo Ann Kelly
+  - slug: howlin-wolf
+    name: Howlin' Wolf
+  - slug: muddy-waters
+    name: Muddy Waters
+  - slug: john-lee-hooker
+    name: John Lee Hooker
+  - slug: champion-jack-dupree
+    name: Champion Jack Dupree
+  - slug: little-walter
+    name: Little Walter
+  - slug: jimmy-reed
+    name: Jimmy Reed
+  - slug: billy-boy-arnold
+    name: Billy Boy Arnold
+  - slug: john-mayall
+    name: John Mayall
+  description_editorial: true
 - date: '2019-04-08'
   slug: atb-2019-04-08-hartley
   topic: Hartley
@@ -2349,22 +2597,62 @@
   files:
   - filename: atb-2019-04-08-hartley.mp3
     path: /atb/atb-2019-04-08-hartley.mp3
+  artists_tags:
+  - slug: john-mayall
+    name: John Mayall
+  - slug: luther-guitar-junior-johnson
+    name: Luther 'Guitar Junior' Johnson
+  - slug: rory-block
+    name: Rory Block
+  - slug: bessie-smith
+    name: Bessie Smith
+  - slug: muddy-waters
+    name: Muddy Waters
+  - slug: willie-big-eyes-smith
+    name: Willie 'Big Eyes' Smith
+  - slug: bob-margolin
+    name: Bob Margolin
+  - slug: fleetwood-mac
+    name: Fleetwood Mac
+  description_editorial: true
 - date: '2019-04-15'
   slug: atb-2019-04-15-bessie-smith
   topic: BessieSmith
-  description: К 125-летию Bessie Smith подбрка необходимых для знания ее песен. 55 минут
-  summary: '125-летие Бесси Смит — «Императрицы блюза»: 55 минут необходимых песен.'
+  description: 'Программа «Весь этот блюз» отмечает 125-летие Бесси Смит, рассказывая о её пути от уличной певицы под опекой
+    Ма Рейни до главной звезды лейбла Columbia. Звучат важнейшие песни из её репертуара: «''Tain''t Nobody''s Business If
+    I Do», «St. Louis Blues» с Луи Армстронгом, «Backwater Blues», «Nobody Knows You When You''re Down and Out» и другие.
+    Ведущий отмечает, что на записях Бесси Смит аккомпанировал Кларенс Уильямс, а среди музыкантов встречались будущие звёзды
+    джаза — Джек Тигарден, Коулмен Хокинс, Бенни Гудман. Отдельно разбирается история гибели певицы в 1937 году и миф, развенчанный
+    в противовес пьесе Эдварда Олби. Для сравнения звучит также кавер Кэнди Кейн на песню «You''ve Been a Good Old Wagon».'
+  summary: Выпуск посвящён 125-летию императрицы блюза Бесси Смит — её жизни, карьере и ключевым песням.
   files:
   - filename: atb-2019-04-15-bessie-smith.mp3
     path: /atb/atb-2019-04-15-bessie-smith.mp3
+  artists_tags:
+  - slug: bessie-smith
+    name: Bessie Smith
+  - slug: bob-brozman
+    name: Bob Brozman
+  - slug: candye-kane
+    name: Candye Kane
+  description_editorial: true
 - date: '2019-04-22'
   slug: atb-2019-04-22-costello
   topic: Costello
-  description: 'Апрельские блюзовые юбиляры: Saunders King, John Kay (Steppenwolf), Sean Costello. Слушать.скачать'
-  summary: 'Апрельские юбиляры: Сондерс Кинг, Джон Кей (Steppenwolf), Шон Костелло.'
+  description: 'В программе отмечаются два апрельских юбилея. Джону Кею, основателю группы Steppenwolf, исполнилось 75 лет:
+    звучат «Born to Be Wild», «Hoochie Coochie Man» и «Screaming Night Hog». Основная часть посвящена Шону Костелло — выдающемуся
+    блюзовому гитаристу, скончавшемуся в 29 лет от случайной передозировки снотворного. Обсуждаются его альбомы «Call the
+    Cops» (1996), «Cuttin'' In» (2000), «Sean Costello» (2000) и посмертные записи; звучат версии песен Фентона Робинсона,
+    Роберта Джонсона (дуэт с Сюзан Тедески), Отиса Раша и Томми Джонсона. Ведущий отмечает особый природный талант Костелло
+    и трагически оборвавшуюся карьеру.'
+  summary: Выпуск посвящён 40-летию со дня рождения гитариста Шона Костелло и 75-летию Джона Кея (Steppenwolf).
   files:
   - filename: atb-2019-04-22-costello.mp3
     path: /atb/atb-2019-04-22-costello.mp3
+  artists_tags:
+  - slug: sean-costello
+    name: Sean Costello
+  description_editorial: true
 - date: '2019-04-29'
   slug: atb-2019-04-29-pete-seeger
   topic: PeteSeeger
@@ -2374,33 +2662,88 @@
   files:
   - filename: atb-2019-04-29-pete-seeger.mp3
     path: /atb/atb-2019-04-29-pete-seeger.mp3
+  artists_tags:
+  - slug: woody-guthrie
+    name: Woody Guthrie
+  - slug: willie-dixon
+    name: Willie Dixon
+  - slug: memphis-slim
+    name: Memphis Slim
+  description_editorial: true
 - date: '2019-05-06'
   slug: atb-2019-05-06-campbell
   topic: Campbell
-  description: Программа ВЭБ от 6 мая. Bob Margolin; Eddie C. CAMPBELL. 54.30
-  summary: Боб Марголин и Эдди Кэмпбелл в программе «Весь Этот Блюз».
+  description: 'Программа приурочена к двум юбилеям: 70-летию гитариста Боба Марголина (уроженца Бруклина, штат Массачусетс)
+    и 80-летию со дня рождения чикагского гитариста и вокалиста Эдди Си Кэмпбелла (6 мая 1939 года). Оба музыканта тесно связаны
+    с наследием Мадди Уотерса — звучит запись «Still a Fool» 1951 года с Литтлом Уолтером и Леонардом Чессом на бас-барабане.
+    Эдди Си Кэмпбелл рассказывает в цитируемом интервью о своих корнях в Миссисипи, переезде в Чикаго и музыкальном воспитании
+    рядом с Мадди Уотерсом, Хаулин Вулфом и Мэджик Сэмом. Представлены треки из его альбомов «Mind Travel», «Baddest Cat on
+    the Block» (1985), «My Last Affair» (1986), «Take This World Up» (2009) и «Spider Eating Preacher» (2012). Андрей Евдокимов
+    напоминает, что в феврале 2013 года после концерта в Германии у Кэмпбелла случился сердечный приступ, и в ноябре 2018
+    года музыкант скончался в возрасте 79 лет.'
+  summary: Выпуск посвящён 80-летию Эдди Си Кэмпбелла и 70-летию Боба Марголина — двух чикагских блюзменов, связанных с Мадди
+    Уотерсом.
   files:
   - filename: atb-2019-05-06-campbell.mp3
     path: /atb/atb-2019-05-06-campbell.mp3
+  artists_tags:
+  - slug: bob-margolin
+    name: Bob Margolin
+  - slug: muddy-waters
+    name: Muddy Waters
+  - slug: little-walter
+    name: Little Walter
+  - slug: lurrie-bell
+    name: Lurrie Bell
+  description_editorial: true
 - date: '2019-05-20'
   slug: atb-2019-05-20-arkhangelsk
   topic: arkhangelsk
-  description: ''
-  summary: 'Архангельский блюз-фестиваль 2019: обзор и записи с выступлений.'
+  description: 'В эфире — анонс 14-го Архангельского блюз-фестиваля (20–21 мая), где хедлайнером выступит Джимми Бёрнс, а
+    также Крис Бергсон и Харпер Джайлз Кинг. Отмечается 70-летие басиста ZZ Top Дасти Хилла и 50-летие группы: звучат композиции
+    с альбомов «ZZ Top''s First Album», «Tres Hombres» и концертная запись 1980 года. Исполняется 75 лет со дня рождения Джо
+    Кокера — звучат его записи разных лет, от дебютного альбома «With a Little Help from My Friends» до кавера «I Put a Spell
+    on You». Также вспоминают Lil'' Dave Thompson — уроженца Миссисипи, погибшего в 2010 году, — в связи с 50-летием со дня
+    его рождения 21 мая 1969 года.'
+  summary: Выпуск посвящён 14-му Архангельскому блюз-фестивалю, юбилеям ZZ Top, Джо Кокера и памяти Lil' Dave Thompson.
   files:
   - filename: atb-2019-05-20-arkhangelsk.mp3
     path: /atb/atb-2019-05-20-arkhangelsk.mp3
   - filename: atb-2019-05-20-zz-top-joe-cocker.mp3
     path: /atb/atb-2019-05-20-zz-top-joe-cocker.mp3
+  artists_tags:
+  - slug: zz-top
+    name: ZZ Top
+  - slug: joe-cocker
+    name: Joe Cocker
+  - slug: screamin-jay-hawkins
+    name: Screamin' Jay Hawkins
+  description_editorial: true
 - date: '2019-06-24'
   slug: atb-2019-06-24-beck
   topic: Beck
-  description: 'К 75-летию гитариста и гитарного новатора, гитарного обновленца, отчасти футуриста с вечным клеймом форейтора
-    60-х: JEFF BECK. 101М, 55 мин'
-  summary: 75-летие Джеффа Бека — гитарного новатора, футуриста и форейтора 60-х.
+  description: 'Программа «Весь этот блюз» посвящена 75-летию Джеффа Бека — одного из величайших гитаристов современности.
+    Ведущий Андрей Евдокимов рассказывает о ключевых альбомах музыканта: блюз-роковом «Truth» (1968) с Родом Стюартом, яростном
+    «Loud Hailer» (2016) и записях трио Beck, Bogert & Appice. Особое место занимает история песни «Train Kept A-Rollin''»
+    — от Тини Брэдшоу до The Yardbirds и легендарной сцены из фильма Антониони «Blow-Up». Также упоминается совместная работа
+    Бека с Бадди Гаем на альбоме «Damn Right, I''ve Got the Blues» и эффектное выступление с Бет Харт, исполнившей «I''d Rather
+    Go Blind».'
+  summary: Выпуск к 75-летию Джеффа Бека — гитариста-титана, прошедшего путь от блюза к вершинам рок-музыки.
   files:
   - filename: atb-2019-06-24-beck.mp3
     path: /atb/atb-2019-06-24-beck.mp3
+  artists_tags:
+  - slug: beth-hart
+    name: Beth Hart
+  - slug: buddy-guy
+    name: Buddy Guy
+  - slug: stevie-ray-vaughan
+    name: Stevie Ray Vaughan
+  - slug: eric-clapton
+    name: Eric Clapton
+  - slug: zz-top
+    name: ZZ Top
+  description_editorial: true
 - date: '2019-07-01'
   slug: atb-2019-07-01-beck
   topic: Beck
@@ -2420,6 +2763,16 @@
   files:
   - filename: atb-2019-07-01-beck.mp3
     path: /atb/atb-2019-07-01-beck.mp3
+  artists_tags:
+  - slug: pinetop-perkins
+    name: Pinetop Perkins
+  - slug: hubert-sumlin
+    name: Hubert Sumlin
+  - slug: muddy-waters
+    name: Muddy Waters
+  - slug: zz-top
+    name: ZZ Top
+  description_editorial: true
 - date: '2019-07-08'
   slug: atb-2019-07-08-arkhangelsk
   topic: ArchI
@@ -2430,6 +2783,14 @@
   files:
   - filename: atb-2019-07-08-arkhangelsk-part-1.mp3
     path: /atb/atb-2019-07-08-arkhangelsk-part-1.mp3
+  artists_tags:
+  - slug: mavis-staples
+    name: Mavis Staples
+  - slug: tinsley-ellis
+    name: Tinsley Ellis
+  - slug: muddy-waters
+    name: Muddy Waters
+  description_editorial: true
 - date: '2019-07-15'
   slug: atb-2019-07-15-mavis-staples
   topic: StaplesI
@@ -2440,6 +2801,24 @@
   files:
   - filename: atb-2019-07-15-mavis-staples-part-1.mp3
     path: /atb/atb-2019-07-15-mavis-staples-part-1.mp3
+  artists_tags:
+  - slug: mavis-staples
+    name: Mavis Staples
+  - slug: luther-houserocker-johnson
+    name: Luther 'Houserocker' Johnson
+  - slug: rick-holmstrom
+    name: Rick Holmstrom
+  - slug: pops-staples
+    name: Pops Staples
+  - slug: bo-diddley
+    name: Bo Diddley
+  - slug: charlie-musselwhite
+    name: Charlie Musselwhite
+  - slug: blind-boys-of-alabama
+    name: Blind Boys of Alabama
+  - slug: taj-mahal
+    name: Taj Mahal
+  description_editorial: true
 - date: '2019-07-22'
   slug: atb-2019-07-22-mosti
   topic: Mosti
@@ -2452,6 +2831,14 @@
   files:
   - filename: atb-2019-07-22-mosti-part-1.mp3
     path: /atb/atb-2019-07-22-mosti-part-1.mp3
+  artists_tags:
+  - slug: albert-king
+    name: Albert King
+  - slug: champion-jack-dupree
+    name: Champion Jack Dupree
+  - slug: bb-king
+    name: BB King
+  description_editorial: true
 - date: '2019-07-29'
   slug: atb-2019-07-29-mosti
   topic: Mosti
@@ -2466,6 +2853,18 @@
   files:
   - filename: atb-2019-07-29-mosti-part-1.mp3
     path: /atb/atb-2019-07-29-mosti-part-1.mp3
+  artists_tags:
+  - slug: rick-estrin
+    name: Rick Estrin
+  - slug: little-charlie
+    name: Little Charlie
+  - slug: kid-andersen
+    name: Kid Andersen
+  - slug: otis-rush
+    name: Otis Rush
+  - slug: bob-margolin
+    name: Bob Margolin
+  description_editorial: true
 - date: '2019-08-05'
   slug: atb-2019-08-05-sam-charters
   topic: va
@@ -2480,14 +2879,39 @@
   files:
   - filename: atb-2019-08-05-sam-charters.mp3
     path: /atb/atb-2019-08-05-sam-charters.mp3
+  artists_tags:
+  - slug: paul-butterfield
+    name: Paul Butterfield
+  - slug: james-cotton
+    name: James Cotton
+  - slug: mike-bloomfield
+    name: Mike Bloomfield
+  - slug: muddy-waters
+    name: Muddy Waters
+  - slug: canned-heat
+    name: Canned Heat
+  - slug: john-lee-hooker
+    name: John Lee Hooker
+  description_editorial: true
 - date: '2019-08-19'
   slug: atb-2019-08-19-aretha
   topic: Aretha
-  description: 'Блюзы в исполнении ныне покойной Королевы соул: к годовщине смерти Aretha Franklin. 105Mb 57''17"'
-  summary: 'Блюзы Королевы соул: Арета Франклин к годовщине смерти.'
+  description: 'В годовщину ухода Ареты Фрэнклин (16 августа 2018) программа сосредоточилась на её блюзовом репертуаре. Прозвучали
+    записи из трибьют-альбома «Unforgettable: A Tribute to Dinah Washington» — «Drinking Again» и «Evil Gal Blues», а также
+    «I Sing the Blues» и «Son of a Preacher Man». Андрей Евдокимов рассказал о роли продюсера Джона Хэммонда-старшего, семейных
+    корнях певицы и её связи с движением за права темнокожих. Прозвучали также кавер-версии «I''m Sitting on Top of the World»,
+    «Muddy Water» и «Sweet Sixteen» Би Би Кинга, а также духовные песни «Ave Maria» и «Oh Happy Day» с Мэвис Стейплс из альбома
+    «One Lord, One Faith, One Baptism» (1987). Выпуск завершила ранняя студийная версия «Chain of Fools».'
+  summary: Выпуск посвящён годовщине смерти Ареты Фрэнклин — блюзовому наследию Королевы соула.
   files:
   - filename: atb-2019-08-19-aretha.mp3
     path: /atb/atb-2019-08-19-aretha.mp3
+  artists_tags:
+  - slug: bb-king
+    name: BB King
+  - slug: mavis-staples
+    name: Mavis Staples
+  description_editorial: true
 - date: '2019-10-14'
   slug: atb-2019-10-14-rick-estrin-ov-wright
   topic: EstrinOVWright
@@ -2499,6 +2923,16 @@
   files:
   - filename: atb-2019-10-14-rick-estrin-ov-wright.mp3
     path: /atb/atb-2019-10-14-rick-estrin-ov-wright.mp3
+  artists_tags:
+  - slug: rick-estrin
+    name: Rick Estrin
+  - slug: tommy-castro
+    name: Tommy Castro
+  - slug: muddy-waters
+    name: Muddy Waters
+  - slug: little-walter
+    name: Little Walter
+  description_editorial: true
 - date: '2019-10-21'
   slug: atb-2019-10-21-waterford
   topic: Waterford
@@ -2521,6 +2955,14 @@
   files:
   - filename: atb-2019-10-21-waterford.mp3
     path: /atb/atb-2019-10-21-waterford.mp3
+  artists_tags:
+  - slug: bugs-henderson
+    name: Bugs Henderson
+  - slug: johnny-winter
+    name: Johnny Winter
+  - slug: freddie-king
+    name: Freddie King
+  description_editorial: true
 - date: '2019-11-04'
   slug: atb-2019-11-04-block-raitt
   topic: Block Raitt
@@ -2533,6 +2975,30 @@
   files:
   - filename: atb-2019-11-04-block-raitt.mp3
     path: /atb/atb-2019-11-04-block-raitt.mp3
+  artists_tags:
+  - slug: rory-block
+    name: Rory Block
+  - slug: bonnie-raitt
+    name: Bonnie Raitt
+  - slug: john-lee-hooker
+    name: John Lee Hooker
+  - slug: junior-wells
+    name: Junior Wells
+  - slug: a-c-reed
+    name: A.C. Reed
+  - slug: skip-james
+    name: Skip James
+  - slug: bukka-white
+    name: Bukka White
+  - slug: bessie-smith
+    name: Bessie Smith
+  - slug: mississippi-fred-mcdowell
+    name: Mississippi Fred McDowell
+  - slug: reverend-gary-davis
+    name: Reverend Gary Davis
+  - slug: muddy-waters
+    name: Muddy Waters
+  description_editorial: true
 - date: '2019-11-18'
   slug: atb-2019-11-18-whistlin-alex-moore
   topic: ''
@@ -2546,6 +3012,10 @@
   files:
   - filename: atb-2019-11-18-whistlin-alex-moore.mp3
     path: /atb/atb-2019-11-18-whistlin-alex-moore.mp3
+  artists_tags:
+  - slug: ray-charles
+    name: Ray Charles
+  description_editorial: true
 - date: '2019-11-25'
   slug: atb-2019-11-25-vernon
   topic: Vernon
@@ -2563,6 +3033,38 @@
   files:
   - filename: atb-2019-11-25-vernon.mp3
     path: /atb/atb-2019-11-25-vernon.mp3
+  artists_tags:
+  - slug: john-mayall
+    name: John Mayall
+  - slug: eric-clapton
+    name: Eric Clapton
+  - slug: chicken-shack
+    name: Chicken Shack
+  - slug: otis-spann
+    name: Otis Spann
+  - slug: fleetwood-mac
+    name: Fleetwood Mac
+  - slug: savoy-brown
+    name: Savoy Brown
+  - slug: otis-rush
+    name: Otis Rush
+  - slug: christine-perfect
+    name: Christine Perfect
+  - slug: peter-green
+    name: Peter Green
+  - slug: duster-bennett
+    name: Duster Bennett
+  - slug: hubert-sumlin
+    name: Hubert Sumlin
+  - slug: eddie-boyd
+    name: Eddie Boyd
+  - slug: champion-jack-dupree
+    name: Champion Jack Dupree
+  - slug: rod-piazza
+    name: Rod Piazza
+  - slug: william-clarke
+    name: William Clarke
+  description_editorial: true
 - date: '2019-12-02'
   slug: atb-2019-12-02-lil-green-mike-vernon
   topic: va
@@ -2576,6 +3078,8 @@
     path: /atb/atb-2019-12-02-lil-green-mike-vernon-part-1.mp3
   - filename: atb-2019-12-02-lil-green-mike-vernon-part-2.mp3
     path: /atb/atb-2019-12-02-lil-green-mike-vernon-part-2.mp3
+  artists_tags: []
+  description_editorial: true
 - date: '2019-12-16'
   slug: atb-2019-12-16-zz-top
   topic: ZZTop
@@ -2589,6 +3093,16 @@
   files:
   - filename: atb-2019-12-16-zz-top.mp3
     path: /atb/atb-2019-12-16-zz-top.mp3
+  artists_tags:
+  - slug: zz-top
+    name: ZZ Top
+  - slug: supersonic-blues-machine
+    name: Supersonic Blues Machine
+  - slug: sue-foley
+    name: Sue Foley
+  - slug: jimmie-vaughan
+    name: Jimmie Vaughan
+  description_editorial: true
 - date: '2019-12-23'
   slug: atb-2019-12-23-sugar-blue
   topic: SugarBlue
@@ -2601,14 +3115,70 @@
   files:
   - filename: atb-2019-12-23-sugar-blue.mp3
     path: /atb/atb-2019-12-23-sugar-blue.mp3
+  artists_tags:
+  - slug: muddy-waters
+    name: Muddy Waters
+  - slug: memphis-slim
+    name: Memphis Slim
+  - slug: louisiana-red
+    name: Louisiana Red
+  - slug: willie-dixon
+    name: Willie Dixon
+  - slug: the-rolling-stones
+    name: The Rolling Stones
+  - slug: john-hammond
+    name: John Hammond
+  - slug: stevie-ray-vaughan
+    name: Stevie Ray Vaughan
+  - slug: koko-taylor
+    name: Koko Taylor
+  - slug: luther-allison
+    name: Luther Allison
+  - slug: luther-guitar-junior-johnson
+    name: Luther Guitar Junior Johnson
+  - slug: j-b-hutto
+    name: J.B. Hutto
+  - slug: johnny-shines
+    name: Johnny Shines
+  - slug: sonny-boy-williamson
+    name: Sonny Boy Williamson
+  - slug: brownie-mcghee
+    name: Brownie McGhee
+  description_editorial: true
 - date: '2020-01-06'
   slug: atb-2020-01-06-ny
   topic: NY
-  description: Happy New Year! Be ware if back door Santa! Все о коварном Санта-Клаусе
-  summary: 'Новогодние блюзы: коварный Санта-Клаус в исполнении классиков жанра.'
+  description: Праздничный выпуск программы целиком посвящён рождественской и новогодней тематике в блюзе. Прозвучали песни
+    Кэб Мо, Эдди Си Кэмпбелла, Кларенса Картера («Back Door Santa», 1968), Уильяма Кларка, Руфуса Томаса, Мэйбл Скотт («Boogie
+    Woogie Santa Claus», 1948) и оркестра Каунта Бейси с Джимми Рашингом. Особое место заняла история песни «Please Come Home
+    for Christmas» Чарльза Брауна (1960) — в редкой версии братьев Уинтер (Джонни и Эдгар) 1965 года. Три «Кинга» блюза —
+    Би Би, Фредди и Альберт — также представлены своими рождественскими номерами. Завершили выпуск поздравительные песни Лайтнин
+    Хопкинса («Happy New Year») и комический дуэт Баттербинз и Сьюзи («Ain't No Santa Claus», 1928).
+  summary: 'Новогодний и рождественский выпуск: блюзовые и свинговые песни о Санта-Клаусе и праздниках от Кэб Мо, Би Би Кинга,
+    братьев Уинтер и других.'
   files:
   - filename: atb-2020-01-06-ny.mp3
     path: /atb/atb-2020-01-06-ny.mp3
+  artists_tags:
+  - slug: keb-mo
+    name: Keb' Mo'
+  - slug: bb-king
+    name: BB King
+  - slug: johnny-winter
+    name: Johnny Winter
+  - slug: william-clarke
+    name: William Clarke
+  - slug: freddie-king
+    name: Freddie King
+  - slug: albert-king
+    name: Albert King
+  - slug: lowell-fulson
+    name: Lowell Fulson
+  - slug: lightnin-hopkins
+    name: Lightnin' Hopkins
+  - slug: little-charlie
+    name: Little Charlie
+  description_editorial: true
 - date: '2020-01-20'
   slug: atb-2020-01-20-earl-hooker
   topic: EHooker
@@ -2620,6 +3190,34 @@
   files:
   - filename: atb-2020-01-20-earl-hooker.mp3
     path: /atb/atb-2020-01-20-earl-hooker.mp3
+  artists_tags:
+  - slug: earl-hooker
+    name: Earl Hooker
+  - slug: carey-bell
+    name: Carey Bell
+  - slug: junior-wells
+    name: Junior Wells
+  - slug: muddy-waters
+    name: Muddy Waters
+  - slug: willie-dixon
+    name: Willie Dixon
+  - slug: pinetop-perkins
+    name: Pinetop Perkins
+  - slug: jimmie-vaughan
+    name: Jimmie Vaughan
+  - slug: corey-harris
+    name: Corey Harris
+  - slug: t-bone-walker
+    name: T-Bone Walker
+  - slug: robert-nighthawk
+    name: Robert Nighthawk
+  - slug: ronnie-earl
+    name: Ronnie Earl
+  - slug: bob-stroger
+    name: Bob Stroger
+  - slug: chris-cain
+    name: Chris Cain
+  description_editorial: true
 - date: '2020-02-03'
   slug: atb-2020-02-03-james-blood-ulmer-80
   topic: ''
@@ -2632,6 +3230,10 @@
   files:
   - filename: atb-2020-02-03-james-blood-ulmer-80.mp3
     path: /atb/atb-2020-02-03-james-blood-ulmer-80.mp3
+  artists_tags:
+  - slug: james-blood-ulmer
+    name: James Blood Ulmer
+  description_editorial: true
 - date: '2020-02-17'
   slug: atb-2020-02-17-pink-anderson
   topic: PinkAnderson
@@ -2649,14 +3251,33 @@
   files:
   - filename: atb-2020-02-17-pink-anderson.mp3
     path: /atb/atb-2020-02-17-pink-anderson.mp3
+  artists_tags:
+  - slug: little-walter
+    name: Little Walter
+  description_editorial: true
 - date: '2020-02-24'
   slug: atb-2020-02-24-winter-blues
   topic: ''
-  description: ''
-  summary: Февральский выпуск «Весь Этот Блюз» — зимние блюзовые юбиляры.
+  description: 'В программе отмечаются три юбилея 24 февраля: 70-летие гитариста Джорджа Торогуда (George Thorogood) и 100-летие
+    новоорлеанского музыканта, аранжировщика и продюсера Дэйва Бартоломью (Dave Bartholomew). Звучат песни Торогуда — «GTO»,
+    «I Drink Alone», «I''m a Steady Rollin'' Man», а также его дуэты с Бадди Гаем и Джоном Ли Хукером («Sally Mae»). Бартоломью
+    представлен записями «Another Mule», «When the Saints Go Marching In» и «Witchcraft» в исполнении Элвиса Пресли, а также
+    дуэтом с Фэтсом Домино. Кроме того, анонсируются российские гастроли американской певицы Джей Джей Тэймс (J.J. Thames)
+    с концертами в Москве, Барнауле, Новосибирске и других городах.'
+  summary: Выпуск посвящён юбилеям Джорджа Торогуда (70 лет), Дэйва Бартоломью (100 лет) и гастролям Джей Джей Тэймс в России.
   files:
   - filename: atb-2020-02-24-winter-blues.mp3
     path: /atb/atb-2020-02-24-winter-blues.mp3
+  artists_tags:
+  - slug: george-thorogood
+    name: George Thorogood
+  - slug: buddy-guy
+    name: Buddy Guy
+  - slug: john-lee-hooker
+    name: John Lee Hooker
+  - slug: albert-collins
+    name: Albert Collins
+  description_editorial: true
 - date: '2020-03-02'
   slug: atb-2020-03-02-primer-mc-farland
   topic: Primer McFarland
@@ -2674,6 +3295,22 @@
   files:
   - filename: atb-2020-03-02-primer-mc-farland.mp3
     path: /atb/atb-2020-03-02-primer-mc-farland.mp3
+  artists_tags:
+  - slug: koko-taylor
+    name: Koko Taylor
+  - slug: james-cotton
+    name: James Cotton
+  - slug: john-primer
+    name: John Primer
+  - slug: muddy-waters
+    name: Muddy Waters
+  - slug: billy-branch
+    name: Billy Branch
+  - slug: shemekia-copeland
+    name: Shemekia Copeland
+  - slug: keb-mo
+    name: Keb' Mo
+  description_editorial: true
 - date: '2020-03-09'
   slug: atb-2020-03-09-mandell
   topic: Mandell
@@ -2684,6 +3321,22 @@
   files:
   - filename: atb-2020-03-09-mandell.mp3
     path: /atb/atb-2020-03-09-mandell.mp3
+  artists_tags:
+  - slug: charlie-musselwhite
+    name: Charlie Musselwhite
+  - slug: canned-heat
+    name: Canned Heat
+  - slug: john-mayall
+    name: John Mayall
+  - slug: mike-bloomfield
+    name: Mike Bloomfield
+  - slug: jimmy-witherspoon
+    name: Jimmy Witherspoon
+  - slug: the-rolling-stones
+    name: The Rolling Stones
+  - slug: taj-mahal
+    name: Taj Mahal
+  description_editorial: true
 - date: '2020-03-16'
   slug: atb-2020-03-16-yank-rachell
   topic: ''
@@ -2694,6 +3347,22 @@
   files:
   - filename: atb-2020-03-16-yank-rachell.mp3
     path: /atb/atb-2020-03-16-yank-rachell.mp3
+  artists_tags:
+  - slug: big-joe-williams
+    name: Big Joe Williams
+  - slug: mike-bloomfield
+    name: Mike Bloomfield
+  - slug: muddy-waters
+    name: Muddy Waters
+  - slug: willie-dixon
+    name: Willie Dixon
+  - slug: little-walter
+    name: Little Walter
+  - slug: the-rolling-stones
+    name: The Rolling Stones
+  - slug: william-clarke
+    name: William Clarke
+  description_editorial: true
 - date: '2020-03-30'
   slug: atb-2020-03-30-clapton
   topic: Clapton
@@ -2704,15 +3373,42 @@
   files:
   - filename: atb-2020-03-30-clapton.mp3
     path: /atb/atb-2020-03-30-clapton.mp3
+  artists_tags:
+  - slug: eric-clapton
+    name: Eric Clapton
+  - slug: john-mayall
+    name: John Mayall
+  - slug: john-lee-hooker
+    name: John Lee Hooker
+  - slug: chuck-berry
+    name: Chuck Berry
+  - slug: otis-rush
+    name: Otis Rush
+  - slug: robert-johnson
+    name: Robert Johnson
+  - slug: long-john-baldry
+    name: Long John Baldry
+  - slug: the-hoochie-coochie-men
+    name: The Hoochie Coochie Men
+  description_editorial: true
 - date: '2020-04-06'
   slug: atb-2020-04-06-muddy-waters-alberta-hunter
   topic: ''
-  description: 'Блюзовые юбиляры первой недели апреля: Muddy Waters; Alberta HUNTER; Larry Mccray ; Paul Oscher... И даже
-    Bobby McFerrin. Весь Этот Блюз'
-  summary: 'Юбиляры апреля: Мадди Уотерс, Альберта Хантер, Ларри МакКрей, Пол Ошер.'
+  description: Центральные фигуры выпуска — Мадди Уотерс (105 лет со дня рождения) и Альберта Хантер (125 лет). Звучат записи
+    Мадди Уотерса «Got My Mojo Working» и «Long Distance Call», а также песни Альберты Хантер «Chirping the Blues», «I've
+    Had Enough» и «You Got to Reap What You Sow». Среди апрельских юбиляров — гитарист Ларри МакКрей (60 лет), харп-плеер
+    и гитарист Пол Ошер (70 лет), первый белый музыкант в бэнде Мадди Уотерса, и пианист Роберт МакКой (110 лет). Отдельное
+    место занимает Бобби Макферрин с блюзовой «Beverly Hills Blues» как неожиданный гость программы.
+  summary: Выпуск посвящён 105-летию Мадди Уотерса и 125-летию Альберты Хантер, а также нескольким апрельским юбилярам.
   files:
   - filename: atb-2020-04-06-muddy-waters-alberta-hunter.mp3
     path: /atb/atb-2020-04-06-muddy-waters-alberta-hunter.mp3
+  artists_tags:
+  - slug: muddy-waters
+    name: Muddy Waters
+  - slug: larry-mccray
+    name: Larry McCray
+  description_editorial: true
 - date: '2020-04-13'
   slug: atb-2020-04-13-lowell-george-lester-chambers
   topic: ''
@@ -2722,6 +3418,20 @@
   files:
   - filename: atb-2020-04-13-lowell-george-lester-chambers.mp3
     path: /atb/atb-2020-04-13-lowell-george-lester-chambers.mp3
+  artists_tags:
+  - slug: little-feat
+    name: Little Feat
+  - slug: howlin-wolf
+    name: Howlin' Wolf
+  - slug: muddy-waters
+    name: Muddy Waters
+  - slug: keb-mo
+    name: Keb' Mo'
+  - slug: kim-wilson
+    name: Kim Wilson
+  - slug: robert-johnson
+    name: Robert Johnson
+  description_editorial: true
 - date: '2020-04-20'
   slug: atb-2020-04-20-jean-jacques-milteau
   topic: ''
@@ -2734,6 +3444,20 @@
   files:
   - filename: atb-2020-04-20-jean-jacques-milteau.mp3
     path: /atb/atb-2020-04-20-jean-jacques-milteau.mp3
+  artists_tags:
+  - slug: jean-jacques-milteau
+    name: Jean-Jacques Milteau
+  - slug: little-milton
+    name: Little Milton
+  - slug: eric-bibb
+    name: Eric Bibb
+  - slug: howlin-wolf
+    name: Howlin' Wolf
+  - slug: phil-guy
+    name: Phil Guy
+  - slug: mighty-sam-mcclain
+    name: Mighty Sam McClain
+  description_editorial: true
 - date: '2020-04-27'
   slug: atb-2020-04-27-svet
   topic: svet
@@ -2752,14 +3476,28 @@
   files:
   - filename: atb-2020-04-27-svet.mp3
     path: /atb/atb-2020-04-27-svet.mp3
+  artists_tags: []
+  description_editorial: true
 - date: '2020-05-04'
   slug: atb-2020-05-04-may-show
   topic: ''
-  description: ''
-  summary: Майский выпуск «Весь Этот Блюз» — блюзовые события начала мая.
+  description: 'Программа целиком посвящена юбилею слайд-гитариста Хоумсика Джеймса (Джеймс Уильямсон), которому в 2020 году
+    исполняется 110 лет. Ведущий рассказывает о запутанной биографии музыканта — противоречивых датах рождения и именах, —
+    а также о его связях с Робертом Джонсоном и Элмором Джеймсом. В эфире звучат записи разных лет: «Homesick Blues» (1953),
+    «Shake Your Money Maker» в дуэте со Снуки Прайором (1973), «So Mean to Me» с альбома «Chicago: The Blues Today!» (1966),
+    «Alligator Man» (1971) и ранние записи 1952 года. Отдельно обсуждается кавер на «Got to Move» в исполнении дебютного состава
+    Fleetwood Mac Питера Грина (1968), а завершает выпуск соло-версия «Dust My Broom» — песни, услышанной Хоумсиком лично
+    от Роберта Джонсона.'
+  summary: Выпуск посвящён 110-летию со дня рождения чикагского блюзмена Хоумсика Джеймса (30 апреля 1910 г.).
   files:
   - filename: atb-2020-05-04-may-show.mp3
     path: /atb/atb-2020-05-04-may-show.mp3
+  artists_tags:
+  - slug: fleetwood-mac
+    name: Fleetwood Mac
+  - slug: snooky-pryor
+    name: Snooky Pryor
+  description_editorial: true
 - date: '2020-05-11'
   slug: atb-2020-05-11-grammy-blues-awards-2020
   topic: ''
@@ -2769,6 +3507,26 @@
   files:
   - filename: atb-2020-05-11-grammy-blues-awards-2020.mp3
     path: /atb/atb-2020-05-11-grammy-blues-awards-2020.mp3
+  artists_tags:
+  - slug: delbert-mcclinton
+    name: Delbert McClinton
+  - slug: bobby-rush
+    name: Bobby Rush
+  - slug: nick-moss
+    name: Nick Moss
+  - slug: bob-margolin
+    name: Bob Margolin
+  - slug: buddy-guy
+    name: Buddy Guy
+  - slug: keb-mo
+    name: Keb' Mo'
+  - slug: james-cotton
+    name: James Cotton
+  - slug: eddie-boyd
+    name: Eddie Boyd
+  - slug: kid-andersen
+    name: Kid Andersen
+  description_editorial: true
 - date: '2020-05-18'
   slug: atb-2020-05-18-pinetop-sparks
   topic: ''
@@ -2779,40 +3537,118 @@
   files:
   - filename: atb-2020-05-18-pinetop-sparks.mp3
     path: /atb/atb-2020-05-18-pinetop-sparks.mp3
+  artists_tags:
+  - slug: fleetwood-mac
+    name: Fleetwood Mac
+  - slug: peter-green
+    name: Peter Green
+  - slug: tramp
+    name: Tramp
+  description_editorial: true
 - date: '2020-05-25'
   slug: atb-2020-05-25-vidar-busk-peggy-lee
   topic: ''
-  description: 'Майские юбиляры: Vidar Busk, Philedelphia Jerry Ricks, Scatman CROTHERS, Peggy LEE в программе Весь Этот Блюз'
-  summary: 'Майские юбиляры: Видар Буск, Пегги Ли, Скэтмен Крозерс и другие.'
+  description: 'В центре выпуска — норвежский гитарист и вокалист Видар Бюск, отметивший 50-летие: звучат треки с альбома
+    «Hustleland Flow» проекта Back Porch Republic, запись «Guitar Mageddon» 2005 года с Джуниором Уотсоном и Китом Андерсоном,
+    а также ранние записи 1997 года. К 80-летию со дня рождения вспоминают фолк-блюзмена Филадельфию Джерри Рикса, объездившего
+    в том числе СССР. К 110-летию Скэтмена Крозерса — актёра («Сияние» Кубрика) и джазового певца — исполняется его свинг-ритм-н-блюз
+    1950-х. Столетие Пегги Ли отмечено её записями «St. Louis Blues» с оркестром Куинси Джонса и знаменитым «Fever» (1958).'
+  summary: Выпуск посвящён 50-летию норвежского блюзмена Видара Бюска и 100-летию Пегги Ли, а также юбилеям Скэтмена Крозерса
+    и Филадельфии Джерри Рикса.
   files:
   - filename: atb-2020-05-25-vidar-busk-peggy-lee.mp3
     path: /atb/atb-2020-05-25-vidar-busk-peggy-lee.mp3
+  artists_tags:
+  - slug: vidar-busk
+    name: Vidar Busk
+  - slug: junior-watson
+    name: Junior Watson
+  - slug: kid-andersen
+    name: Kid Andersen
+  - slug: wc-handy
+    name: W.C. Handy
+  description_editorial: true
 - date: '2020-06-01'
   slug: atb-2020-06-01-marie-knight-joyce-cobb
   topic: ''
-  description: Marie Knight, Joyce Cobb, Washboard Slim, Tom JONES, Isaac SCOTT и Jerry Mc Cain - первый летний парад блюзовых
-    юбиляров в программе Весь Этот Блюз
-  summary: 'Первый летний парад юбилеев: Marie Knight, Joyce Cobb, Tom Jones, Jerry McCain.'
+  description: Выпуск посвящён летним блюз-юбилярам июня. 100-летие отмечает певица Мэри Найт, известная дуэтом с сестрой
+    Розеттой Тарп и записью госпела «Up Above My Head». 75-летие празднует мемфисская певица Джойс Кобб, верная джазово-блюзовым
+    традициям Бил-стрит. Отдельное место занимает Том Джонс — к его 80-летию рассказывается о блюзовых альбомах «Praise and
+    Blame» и «Spirit in the Room», звучат песни Джона Ли Хукера, Билли Боя Арнольда и Джеймса Брауна в его исполнении. Также
+    упоминаются Вашборд Слим (120 лет), Исаак Скотт и Джерри Буги Маккейн (90 лет).
+  summary: 'Юбиляры июня: Мэри Найт (100 лет), Джойс Кобб (75 лет), Том Джонс (80 лет) и другие блюзовые исполнители.'
   files:
   - filename: atb-2020-06-01-marie-knight-joyce-cobb.mp3
     path: /atb/atb-2020-06-01-marie-knight-joyce-cobb.mp3
+  artists_tags:
+  - slug: billy-boy-arnold
+    name: Billy Boy Arnold
+  - slug: john-lee-hooker
+    name: John Lee Hooker
+  description_editorial: true
 - date: '2020-06-22'
   slug: atb-2020-06-22-bg
   topic: BG
-  description: Buddy Guy о самоизоляции и массовых выступлениях против полицейского насилия в программе Весь Этот Блюз
-  summary: Бадди Гай о самоизоляции и протестах в США, эксклюзив в программе «Весь Этот Блюз».
+  description: Программа посвящена живой легенде чикагского блюза Бадди Гаю в день его 83-летия. Андрей Евдокимов зачитывает
+    фрагменты интервью музыканта журналу Rolling Stone о жизни на самоизоляции, закрытии его клуба Legends в Чикаго и погромах
+    во время протестов. Звучат песни из альбомов «Damn Right, I Got the Blues», «Skin Deep» (2008, при участии Дерека Тракса),
+    «The Blues Is Alive and Well» (2018), а также концертная запись «Country Boy». Гай рассуждает о своём детстве на луизианской
+    ферме, сохранении блюза и необходимости мирного пути к гражданским правам.
+  summary: 'Выпуск посвящён Бадди Гаю: его 83-летию, жизни во время пандемии и расовых протестов в США.'
   files:
   - filename: atb-2020-06-22-bg.mp3
     path: /atb/atb-2020-06-22-bg.mp3
+  artists_tags:
+  - slug: buddy-guy
+    name: Buddy Guy
+  description_editorial: false
+  description_ai: true
 - date: '2020-07-06'
   slug: atb-2020-07-06-dylan
   topic: dylan
-  description: 80-летие "звездочки" Chess Records Фонтейлы Бейсс. А главное - про новые альбомы Боба Дилана И Ширли Кинг.
-    Весь Этот Блюз
-  summary: Новые альбомы Боба Дилана и Ширли Кинг, плюс 80-летие Фонтейлы Басс.
+  description: 'В выпуске отмечается 80-летие со дня рождения певицы Фонтеллы Басс, записывавшейся на лейбле Chess, — звучат
+    её песни «Baby, What You Want Me to Do?» и «Honey Bee». Подробно разбирается новый альбом Боба Дилана «Rough and Rowdy
+    Ways» (2020): его близость к чикагскому блюзу, отсылки к Джимми Риду и Билли Зэккит Эмерсону, а также 17-минутная баллада
+    «Murder Most Foul» об убийстве Кеннеди. Обсуждается альбом «Blues Freak King» дочери Би-Би Кинга — Ширли Кинг, в котором
+    участвуют Пэт Трэверс, Джо Луис Уокер, Элвин Бишоп, Мартин Барр и другие, а с помощью современных технологий звучит голос
+    покойного Джуниора Уэллса. Также упоминается свежий альбом Phantom Blues Band «Still Cooking».'
+  summary: Выпуск посвящён новым альбомам Боба Дилана «Rough and Rowdy Ways» и Ширли Кинг «Blues Freak King», а также юбилею
+    Фонтеллы Басс.
   files:
   - filename: atb-2020-07-06-dylan.mp3
     path: /atb/atb-2020-07-06-dylan.mp3
+  artists_tags:
+  - slug: junior-wells
+    name: Junior Wells
+  - slug: pat-travers
+    name: Pat Travers
+  - slug: joe-louis-walker
+    name: Joe Louis Walker
+  - slug: elvin-bishop
+    name: Elvin Bishop
+  - slug: robben-ford
+    name: Robben Ford
+  - slug: kirk-fletcher
+    name: Kirk Fletcher
+  - slug: charlie-musselwhite
+    name: Charlie Musselwhite
+  - slug: canned-heat
+    name: Canned Heat
+  - slug: john-mayall
+    name: John Mayall
+  - slug: jimmy-reed
+    name: Jimmy Reed
+  - slug: john-lee-hooker
+    name: John Lee Hooker
+  - slug: chess-records
+    name: Chess Records
+  - slug: bb-king
+    name: BB King
+  - slug: the-rolling-stones
+    name: The Rolling Stones
+  - slug: arthur-crudup
+    name: Arthur Crudup
+  description_editorial: true
 - date: '2020-07-13'
   slug: atb-2020-07-13-dupree
   topic: Dupree
@@ -2833,6 +3669,10 @@
   files:
   - filename: atb-2020-07-13-dupree.mp3
     path: /atb/atb-2020-07-13-dupree.mp3
+  artists_tags:
+  - slug: champion-jack-dupree
+    name: Champion Jack Dupree
+  description_editorial: true
 - date: '2020-07-27'
   slug: atb-2020-07-27-kimbrough
   topic: Kimbrough
@@ -2847,6 +3687,12 @@
   files:
   - filename: atb-2020-07-27-kimbrough.mp3
     path: /atb/atb-2020-07-27-kimbrough.mp3
+  artists_tags:
+  - slug: rl-burnside
+    name: R.L. Burnside
+  - slug: lowell-fulson
+    name: Lowell Fulson
+  description_editorial: true
 - date: '2020-08-03'
   slug: atb-2020-08-03-big-jack-johnson-crazy-blues
   topic: ''
@@ -2856,6 +3702,20 @@
   files:
   - filename: atb-2020-08-03-big-jack-johnson-crazy-blues.mp3
     path: /atb/atb-2020-08-03-big-jack-johnson-crazy-blues.mp3
+  artists_tags:
+  - slug: big-jack-johnson
+    name: Big Jack Johnson
+  - slug: kim-wilson
+    name: Kim Wilson
+  - slug: robert-johnson
+    name: Robert Johnson
+  - slug: peter-green
+    name: Peter Green
+  - slug: fleetwood-mac
+    name: Fleetwood Mac
+  - slug: bessie-smith
+    name: Bessie Smith
+  description_editorial: true
 - date: '2020-08-17'
   slug: atb-2020-08-17-mayfield
   topic: Mayfield
@@ -2866,6 +3726,16 @@
   files:
   - filename: atb-2020-08-17-mayfield.mp3
     path: /atb/atb-2020-08-17-mayfield.mp3
+  artists_tags:
+  - slug: ray-charles
+    name: Ray Charles
+  - slug: kenny-wayne-shepherd
+    name: Kenny Wayne Shepherd
+  - slug: joe-louis-walker
+    name: Joe Louis Walker
+  - slug: john-lee-hooker
+    name: John Lee Hooker
+  description_editorial: true
 - date: '2020-08-31'
   slug: atb-2020-08-31-van-morrison-75
   topic: ''
@@ -2881,6 +3751,22 @@
   files:
   - filename: atb-2020-08-31-van-morrison-75.mp3
     path: /atb/atb-2020-08-31-van-morrison-75.mp3
+  artists_tags:
+  - slug: jimmy-witherspoon
+    name: Jimmy Witherspoon
+  - slug: junior-wells
+    name: Junior Wells
+  - slug: john-lee-hooker
+    name: John Lee Hooker
+  - slug: bb-king
+    name: BB King
+  - slug: buddy-guy
+    name: Buddy Guy
+  - slug: jimmy-reed
+    name: Jimmy Reed
+  - slug: dr-john
+    name: Dr. John
+  description_editorial: true
 - date: '2020-09-07'
   slug: atb-2020-09-07-piedmont-blues
   topic: ''
@@ -2901,6 +3787,10 @@
   files:
   - filename: atb-2020-09-07-piedmont-blues.mp3
     path: /atb/atb-2020-09-07-piedmont-blues.mp3
+  artists_tags:
+  - slug: cephas-wiggins
+    name: Cephas & Wiggins
+  description_editorial: true
 - date: '2020-09-14'
   slug: atb-2020-09-14-brown
   topic: Brown
@@ -2911,6 +3801,16 @@
   files:
   - filename: atb-2020-09-14-brown.mp3
     path: /atb/atb-2020-09-14-brown.mp3
+  artists_tags:
+  - slug: david-bromberg
+    name: David Bromberg
+  - slug: champion-jack-dupree
+    name: Champion Jack Dupree
+  - slug: albert-king
+    name: Albert King
+  - slug: johnny-otis
+    name: Johnny Otis
+  description_editorial: true
 - date: '2020-09-23'
   slug: atb-2020-09-23-ray-charles
   topic: RayCharles
@@ -2934,14 +3834,31 @@
   files:
   - filename: atb-2020-09-23-ray-charles.mp3
     path: /atb/atb-2020-09-23-ray-charles.mp3
+  artists_tags:
+  - slug: ray-charles
+    name: Ray Charles
+  - slug: bb-king
+    name: BB King
+  description_editorial: true
 - date: '2020-09-30'
   slug: atb-2020-09-30-tail-dragger-tiny-bradshaw
   topic: va
-  description: ''
-  summary: 'Юбиляры второй половины сентября: Tail Dragger, Tiny Bradshaw и другие.'
+  description: В программе отмечаются дни рождения нескольких музыкантов. Тайни Брэдшоу (115 лет) — автор хита «The Train
+    Kept A-Rollin'», подхваченного The Yardbirds, Aerosmith и Led Zeppelin. К 85-летию Фентона Робинсона вспоминают его стандарты
+    «Somebody Loan Me a Dime» и «As the Years Go Passing By», а также участие в первой записи «Texas Flood» Ларри Дэвиса.
+    Также звучат записи Розы Ли Хилл, зайдико-дуэта Фальконов, дельта-блюзмена Хьюстона Стэкхауса. Отдельный рассказ посвящён
+    Тейлдрэггеру — чикагскому последователю Хаулин Вулфа, чья биография включает дружбу с Вулфом, криминальный эпизод 1993
+    года и выступления в Москве.
+  summary: Выпуск посвящён юбилеям Тайни Брэдшоу, Фентона Робинсона, Тейлдрэггера и других блюзменов.
   files:
   - filename: atb-2020-09-30-tail-dragger-tiny-bradshaw.mp3
     path: /atb/atb-2020-09-30-tail-dragger-tiny-bradshaw.mp3
+  artists_tags:
+  - slug: tail-dragger
+    name: Tail Dragger
+  - slug: albert-king
+    name: Albert King
+  description_editorial: true
 - date: '2020-10-12'
   slug: atb-2020-10-12-houston-stackhouse
   topic: ''
@@ -2955,6 +3872,28 @@
   files:
   - filename: atb-2020-10-12-houston-stackhouse.mp3
     path: /atb/atb-2020-10-12-houston-stackhouse.mp3
+  artists_tags:
+  - slug: muddy-waters
+    name: Muddy Waters
+  - slug: robert-nighthawk
+    name: Robert Nighthawk
+  - slug: johnny-winter
+    name: Johnny Winter
+  - slug: bob-margolin
+    name: Bob Margolin
+  - slug: pinetop-perkins
+    name: Pinetop Perkins
+  - slug: willie-big-eyes-smith
+    name: Willie Big Eyes Smith
+  - slug: duke-robillard
+    name: Duke Robillard
+  - slug: greg-piccolo
+    name: Greg Piccolo
+  - slug: roomful-of-blues
+    name: Roomful of Blues
+  - slug: bryan-lee
+    name: Bryan Lee
+  description_editorial: true
 - date: '2020-10-19'
   slug: atb-2020-10-19-manfred-mann-75
   topic: ''
@@ -2968,6 +3907,14 @@
   files:
   - filename: atb-2020-10-19-manfred-mann-75.mp3
     path: /atb/atb-2020-10-19-manfred-mann-75.mp3
+  artists_tags:
+  - slug: howlin-wolf
+    name: Howlin' Wolf
+  - slug: leslie-west
+    name: Leslie West
+  - slug: muddy-waters
+    name: Muddy Waters
+  description_editorial: true
 - date: '2020-11-03'
   slug: atb-2020-11-03-mable-john-sonny-rhodes
   topic: ''
@@ -2977,6 +3924,10 @@
   files:
   - filename: atb-2020-11-03-mable-john-sonny-rhodes.mp3
     path: /atb/atb-2020-11-03-mable-john-sonny-rhodes.mp3
+  artists_tags:
+  - slug: sonny-rhodes
+    name: Sonny Rhodes
+  description_editorial: true
 - date: '2020-11-16'
   slug: atb-2020-11-16-screaming-lord-sutch
   topic: ''
@@ -2998,6 +3949,10 @@
   files:
   - filename: atb-2020-11-16-screaming-lord-sutch.mp3
     path: /atb/atb-2020-11-16-screaming-lord-sutch.mp3
+  artists_tags:
+  - slug: screamin-jay-hawkins
+    name: Screamin' Jay Hawkins
+  description_editorial: true
 - date: '2020-11-23'
   slug: atb-2020-11-23-angela-strehli
   topic: ''
@@ -3013,6 +3968,26 @@
   files:
   - filename: atb-2020-11-23-angela-strehli.mp3
     path: /atb/atb-2020-11-23-angela-strehli.mp3
+  artists_tags:
+  - slug: mike-zito
+    name: Mike Zito
+  - slug: angela-strehli
+    name: Angela Strehli
+  - slug: sonny-landreth
+    name: Sonny Landreth
+  - slug: marcia-ball
+    name: Marcia Ball
+  - slug: jimmie-vaughan
+    name: Jimmie Vaughan
+  - slug: walter-trout
+    name: Walter Trout
+  - slug: joe-bonamassa
+    name: Joe Bonamassa
+  - slug: zz-top
+    name: ZZ Top
+  - slug: stevie-ray-vaughan
+    name: Stevie Ray Vaughan
+  description_editorial: true
 - date: '2020-11-30'
   slug: atb-2020-11-30-barbee
   topic: Barbee
@@ -3024,6 +3999,18 @@
   files:
   - filename: atb-2020-11-30-barbee.mp3
     path: /atb/atb-2020-11-30-barbee.mp3
+  artists_tags:
+  - slug: james-cotton
+    name: James Cotton
+  - slug: fleetwood-mac
+    name: Fleetwood Mac
+  - slug: johnny-lang
+    name: Johnny Lang
+  - slug: john-mayall
+    name: John Mayall
+  - slug: zz-top
+    name: ZZ Top
+  description_editorial: true
 - date: '2020-12-14'
   slug: atb-2020-12-14-hare
   topic: Hare
@@ -3037,6 +4024,24 @@
   files:
   - filename: atb-2020-12-14-hare.mp3
     path: /atb/atb-2020-12-14-hare.mp3
+  artists_tags:
+  - slug: muddy-waters
+    name: Muddy Waters
+  - slug: howlin-wolf
+    name: Howlin' Wolf
+  - slug: james-cotton
+    name: James Cotton
+  - slug: junior-parker
+    name: Junior Parker
+  - slug: otis-spann
+    name: Otis Spann
+  - slug: willie-dixon
+    name: Willie Dixon
+  - slug: paul-black
+    name: Paul Black
+  - slug: big-bill-broonzy
+    name: Big Bill Broonzy
+  description_editorial: true
 - date: '2020-12-21'
   slug: atb-2020-12-21-frank-zappa-jorma-kaukonen
   topic: ''
@@ -3047,6 +4052,22 @@
   files:
   - filename: atb-2020-12-21-frank-zappa-jorma-kaukonen.mp3
     path: /atb/atb-2020-12-21-frank-zappa-jorma-kaukonen.mp3
+  artists_tags:
+  - slug: shemekia-copeland
+    name: Shemekia Copeland
+  - slug: kenny-wayne-shepherd
+    name: Kenny Wayne Shepherd
+  - slug: peter-green
+    name: Peter Green
+  - slug: fleetwood-mac
+    name: Fleetwood Mac
+  - slug: blind-lemon-jefferson
+    name: Blind Lemon Jefferson
+  - slug: muddy-waters
+    name: Muddy Waters
+  - slug: willie-dixon
+    name: Willie Dixon
+  description_editorial: true
 - date: '2021-01-04'
   slug: atb-2021-01-04-best-blues-2020
   topic: ''
@@ -3058,6 +4079,10 @@
   files:
   - filename: atb-2021-01-04-best-blues-2020.mp3
     path: /atb/atb-2021-01-04-best-blues-2020.mp3
+  artists_tags:
+  - slug: anthony-gomes
+    name: Anthony Gomes
+  description_editorial: true
 - date: '2021-01-11'
   slug: atb-2021-01-11-kirk-fletcher-rick-estrin
   topic: ''
@@ -3068,6 +4093,18 @@
   files:
   - filename: atb-2021-01-11-kirk-fletcher-rick-estrin.mp3
     path: /atb/atb-2021-01-11-kirk-fletcher-rick-estrin.mp3
+  artists_tags:
+  - slug: kirk-fletcher
+    name: Kirk Fletcher
+  - slug: rick-estrin
+    name: Rick Estrin
+  - slug: duke-robillard
+    name: Duke Robillard
+  - slug: junior-wells
+    name: Junior Wells
+  - slug: joe-louis-walker
+    name: Joe Louis Walker
+  description_editorial: true
 - date: '2021-01-18'
   slug: atb-2021-01-18-captain-beefheart-80
   topic: ''
@@ -3088,6 +4125,16 @@
   files:
   - filename: atb-2021-01-18-captain-beefheart-80.mp3
     path: /atb/atb-2021-01-18-captain-beefheart-80.mp3
+  artists_tags:
+  - slug: jay-mcshann
+    name: Jay McShann
+  - slug: long-john-baldry
+    name: Long John Baldry
+  - slug: the-hoochie-coochie-men
+    name: The Hoochie Coochie Men
+  - slug: howlin-wolf
+    name: Howlin' Wolf
+  description_editorial: true
 - date: '2021-01-25'
   slug: atb-2021-01-25-richie-havens
   topic: ''
@@ -3126,6 +4173,12 @@
   files:
   - filename: atb-2021-01-25-richie-havens.mp3
     path: /atb/atb-2021-01-25-richie-havens.mp3
+  artists_tags:
+  - slug: bessie-smith
+    name: Bessie Smith
+  - slug: howlin-wolf
+    name: Howlin' Wolf
+  description_editorial: true
 - date: '2021-02-01'
   slug: atb-2021-02-01-jackie-ross
   topic: ''
@@ -3140,6 +4193,14 @@
   files:
   - filename: atb-2021-02-01-jackie-ross.mp3
     path: /atb/atb-2021-02-01-jackie-ross.mp3
+  artists_tags:
+  - slug: johnny-lang
+    name: Johnny Lang
+  - slug: kim-wilson
+    name: Kim Wilson
+  - slug: buddy-guy
+    name: Buddy Guy
+  description_editorial: true
 - date: '2021-02-08'
   slug: atb-2021-02-08-walter-vinson
   topic: ''
@@ -3150,6 +4211,10 @@
   files:
   - filename: atb-2021-02-08-walter-vinson.mp3
     path: /atb/atb-2021-02-08-walter-vinson.mp3
+  artists_tags:
+  - slug: sonny-landreth
+    name: Sonny Landreth
+  description_editorial: true
 - date: '2021-02-15'
   slug: atb-2021-02-15-george-guy-125
   topic: ''
@@ -3171,6 +4236,10 @@
   files:
   - filename: atb-2021-02-15-george-guy-125.mp3
     path: /atb/atb-2021-02-15-george-guy-125.mp3
+  artists_tags:
+  - slug: ronnie-earl
+    name: Ronnie Earl
+  description_editorial: true
 - date: '2021-02-22'
   slug: atb-2021-02-22-jay-geils
   topic: ''
@@ -3186,6 +4255,12 @@
   files:
   - filename: atb-2021-02-22-jay-geils.mp3
     path: /atb/atb-2021-02-22-jay-geils.mp3
+  artists_tags:
+  - slug: muddy-waters
+    name: Muddy Waters
+  - slug: barbara-dane
+    name: Barbara Dane
+  description_editorial: true
 - date: '2021-03-01'
   slug: atb-2021-03-01-grammy
   topic: Grammy
@@ -3204,6 +4279,16 @@
   files:
   - filename: atb-2021-03-01-grammy.mp3
     path: /atb/atb-2021-03-01-grammy.mp3
+  artists_tags:
+  - slug: bobby-rush
+    name: Bobby Rush
+  - slug: robert-cray
+    name: Robert Cray
+  - slug: ruthie-foster
+    name: Ruthie Foster
+  - slug: shemekia-copeland
+    name: Shemekia Copeland
+  description_editorial: true
 - date: '2021-03-08'
   slug: atb-2021-03-08-david-gilmour-75
   topic: ''
@@ -3220,6 +4305,10 @@
   files:
   - filename: atb-2021-03-08-david-gilmour-75.mp3
     path: /atb/atb-2021-03-08-david-gilmour-75.mp3
+  artists_tags:
+  - slug: walter-trout
+    name: Walter Trout
+  description_editorial: true
 - date: '2021-03-15'
   slug: atb-2021-03-15-jesse-fuller
   topic: JFuller
@@ -3232,6 +4321,8 @@
   files:
   - filename: atb-2021-03-15-jesse-fuller.mp3
     path: /atb/atb-2021-03-15-jesse-fuller.mp3
+  artists_tags: []
+  description_editorial: true
 - date: '2021-03-21'
   slug: atb-2021-03-21-clarke
   topic: Clarke
@@ -3248,6 +4339,20 @@
   files:
   - filename: atb-2021-03-21-clarke.mp3
     path: /atb/atb-2021-03-21-clarke.mp3
+  artists_tags:
+  - slug: william-clarke
+    name: William Clarke
+  - slug: alligator-records
+    name: Alligator Records
+  - slug: muddy-waters
+    name: Muddy Waters
+  - slug: shakey-jake
+    name: Shakey Jake
+  - slug: alex-schultz
+    name: Alex Schultz
+  - slug: the-rolling-stones
+    name: The Rolling Stones
+  description_editorial: true
 - date: '2021-04-26'
   slug: atb-2021-04-26-fulson
   topic: Fulson
@@ -3260,14 +4365,40 @@
   files:
   - filename: atb-2021-04-26-fulson.mp3
     path: /atb/atb-2021-04-26-fulson.mp3
+  artists_tags: []
+  description_editorial: true
 - date: '2021-05-03'
   slug: atb-2021-05-03-wilson
   topic: Wilson
-  description: ''
-  summary: Программа «Весь Этот Блюз», посвящённая Юбилею исполнителя Wilson.
+  description: Выпуск посвящён столетию со дня рождения техасского блюзмена Хардинга «Хопа» Уилсона (1921–1975), игравшего
+    на уникальной восьмиструнной беспедальной лэп-стил-гитаре. Звучат его песни «Chicken Stuff», «Black Cat Bone», «Be Careful
+    with the Blues», «I Met a Strange Woman», а также каверы Джонни Винтера, Дэйва Холла и трио Коупленд–Коллинз–Крей с альбома
+    «Showdown» (1985), удостоенного «Грэмми». Отдельный сюжет посвящён 125-летию Слепого Гэри Дэвиса — священника и гитариста,
+    повлиявшего на Боба Дилана и Рая Кудера, с исполнением «Death Don't Have No Mercy» и «Samson and Delilah».
+  summary: Столетие Хопа Уилсона и 125-летие Гэри Дэвиса в программе «Весь этот блюз».
   files:
   - filename: atb-2021-05-03-wilson.mp3
     path: /atb/atb-2021-05-03-wilson.mp3
+  artists_tags:
+  - slug: johnny-winter
+    name: Johnny Winter
+  - slug: dave-hole
+    name: Dave Hole
+  - slug: lightnin-hopkins
+    name: Lightnin' Hopkins
+  - slug: johnny-clyde-copeland
+    name: Johnny Copeland
+  - slug: albert-collins
+    name: Albert Collins
+  - slug: robert-cray
+    name: Robert Cray
+  - slug: reverend-gary-davis
+    name: Reverend Gary Davis
+  - slug: muddy-waters
+    name: Muddy Waters
+  - slug: james-cotton
+    name: James Cotton
+  description_editorial: true
 - date: '2021-05-10'
   slug: atb-2021-05-10-lonnie-johnson-bob-dylan
   topic: ''
@@ -3278,6 +4409,18 @@
   files:
   - filename: atb-2021-05-10-lonnie-johnson-bob-dylan.mp3
     path: /atb/atb-2021-05-10-lonnie-johnson-bob-dylan.mp3
+  artists_tags:
+  - slug: kenny-wayne-shepherd
+    name: Kenny Wayne Shepherd
+  - slug: pinetop-perkins
+    name: Pinetop Perkins
+  - slug: john-mayall
+    name: John Mayall
+  - slug: bukka-white
+    name: Bukka White
+  - slug: muddy-waters
+    name: Muddy Waters
+  description_editorial: true
 - date: '2021-05-17'
   slug: atb-2021-05-17-burdon
   topic: Burdon
@@ -3288,6 +4431,28 @@
   files:
   - filename: atb-2021-05-17-burdon.mp3
     path: /atb/atb-2021-05-17-burdon.mp3
+  artists_tags:
+  - slug: big-bill-broonzy
+    name: Big Bill Broonzy
+  - slug: eric-burdon
+    name: Eric Burdon
+  - slug: little-walter
+    name: Little Walter
+  - slug: muddy-waters
+    name: Muddy Waters
+  - slug: otis-spann
+    name: Otis Spann
+  - slug: willie-dixon
+    name: Willie Dixon
+  - slug: john-lee-hooker
+    name: John Lee Hooker
+  - slug: mississippi-fred-mcdowell
+    name: Mississippi Fred McDowell
+  - slug: rory-gallagher
+    name: Rory Gallagher
+  - slug: carey-bell
+    name: Carey Bell
+  description_editorial: true
 - date: '2021-05-24'
   slug: atb-2021-05-24-turner
   topic: turner
@@ -3298,14 +4463,29 @@
   files:
   - filename: atb-2021-05-24-turner.mp3
     path: /atb/atb-2021-05-24-turner.mp3
+  artists_tags:
+  - slug: elmore-james
+    name: Elmore James
+  - slug: albert-collins
+    name: Albert Collins
+  description_editorial: true
 - date: '2021-05-31'
   slug: atb-2021-05-31-may-show
   topic: ''
-  description: ''
-  summary: Весенний выпуск «Весь Этот Блюз» — майские юбиляры и новинки.
+  description: 'В программе представлен 67-летний дебютант Роберт Финли, выпустивший автобиографический альбом «Sharecropper''s
+    Son» 24 мая 2021 года. Рассказывается о его непростой судьбе: работа в поле, служба техником на аэродроме, уличные выступления
+    в Мемфисе, потеря зрения — и дебютный альбом лишь в 62 года. Отдельное внимание уделено группе The Black Keys и их десятому
+    альбому «Delta Kream» — первому полностью блюзовому, состоящему из каверов на классиков Mississippi Hill Country: Джуниора
+    Кимбро и Р. Л. Бёрнсайда. Также отмечается творческий союз Финли с The Black Keys, которые открыли его миру и выступают
+    его продюсерами и аккомпаниаторами.'
+  summary: Выпуск посвящён певцу Роберту Финли и группе The Black Keys, выпустившим новые альбомы в мае 2021 года.
   files:
   - filename: atb-2021-05-31-may-show.mp3
     path: /atb/atb-2021-05-31-may-show.mp3
+  artists_tags:
+  - slug: rl-burnside
+    name: R.L. Burnside
+  description_editorial: true
 - date: '2021-06-07'
   slug: atb-2021-06-07-charlie-watts-80
   topic: ''
@@ -3322,6 +4502,20 @@
   files:
   - filename: atb-2021-06-07-charlie-watts-80.mp3
     path: /atb/atb-2021-06-07-charlie-watts-80.mp3
+  artists_tags:
+  - slug: the-rolling-stones
+    name: The Rolling Stones
+  - slug: alexis-korner
+    name: Alexis Korner
+  - slug: chris-rea
+    name: Chris Rea
+  - slug: james-harman
+    name: James Harman
+  - slug: screamin-jay-hawkins
+    name: Screamin' Jay Hawkins
+  - slug: los-lobos
+    name: Los Lobos
+  description_editorial: true
 - date: '2021-06-14'
   slug: atb-2021-06-14-blues-music-awards
   topic: BMA
@@ -3334,6 +4528,28 @@
   files:
   - filename: atb-2021-06-14-blues-music-awards.mp3
     path: /atb/atb-2021-06-14-blues-music-awards.mp3
+  artists_tags:
+  - slug: shemekia-copeland
+    name: Shemekia Copeland
+  - slug: elvin-bishop
+    name: Elvin Bishop
+  - slug: charlie-musselwhite
+    name: Charlie Musselwhite
+  - slug: rick-estrin
+    name: Rick Estrin
+  - slug: kid-andersen
+    name: Kid Andersen
+  - slug: ruthie-foster
+    name: Ruthie Foster
+  - slug: keb-mo
+    name: Keb' Mo'
+  - slug: kim-wilson
+    name: Kim Wilson
+  - slug: bobby-rush
+    name: Bobby Rush
+  - slug: walter-trout
+    name: Walter Trout
+  description_editorial: true
 - date: '2021-06-21'
   slug: atb-2021-06-21-alligator
   topic: Alligator
@@ -3351,6 +4567,24 @@
   files:
   - filename: atb-2021-06-21-alligator.mp3
     path: /atb/atb-2021-06-21-alligator.mp3
+  artists_tags:
+  - slug: johnny-winter
+    name: Johnny Winter
+  - slug: son-seals
+    name: Son Seals
+  - slug: roy-buchanan
+    name: Roy Buchanan
+  - slug: koko-taylor
+    name: Koko Taylor
+  - slug: albert-collins
+    name: Albert Collins
+  - slug: clarence-gatemouth-brown
+    name: Clarence Gatemouth Brown
+  - slug: corey-harris
+    name: Corey Harris
+  - slug: mavis-staples
+    name: Mavis Staples
+  description_editorial: true
 - date: '2021-07-12'
   slug: atb-2021-07-12-lj-hunter
   topic: LJHunter
@@ -3369,6 +4603,10 @@
   files:
   - filename: atb-2021-07-12-lj-hunter.mp3
     path: /atb/atb-2021-07-12-lj-hunter.mp3
+  artists_tags:
+  - slug: long-john-hunter
+    name: Long John Hunter
+  description_editorial: true
 - date: '2021-07-19'
   slug: atb-2021-07-19-linda-ronstadt-spencer-davis
   topic: ''
@@ -3381,14 +4619,39 @@
   files:
   - filename: atb-2021-07-19-linda-ronstadt-spencer-davis.mp3
     path: /atb/atb-2021-07-19-linda-ronstadt-spencer-davis.mp3
+  artists_tags:
+  - slug: blues-brothers
+    name: Blues Brothers
+  - slug: bo-diddley
+    name: Bo Diddley
+  - slug: john-lee-hooker
+    name: John Lee Hooker
+  - slug: john-mayall
+    name: John Mayall
+  - slug: little-walter
+    name: Little Walter
+  - slug: willie-dixon
+    name: Willie Dixon
+  description_editorial: true
 - date: '2021-07-26'
   slug: atb-2021-07-26-lonnie-mack
   topic: LonnieMack
-  description: Больше про Lonnie Mack - Весь Этот Блюз - 27.VII.2021
-  summary: 'Лонни Мак — продолжение: редкие записи и неизвестные страницы карьеры.'
+  description: 'Программа рассказывает о Лонни Мэке — самобытном гитаристе и певце, чей дебютный альбом «The Wham of That
+    Memphis Man» (1963) стал исторической вехой, соединив сёрф, фанк, рок-н-ролл, соул и блюз. В эфире прозвучали композиции
+    разных периодов его карьеры: «Wham! Double That, Whammy» совместно со Стиви Рэем Воном, «Further on up the Road» (1987),
+    «Cocaine Blues» с альбома «Road Houses and Dance Halls» (1988), а также «Cincinnati Jail» и «Why?» — блюз, который Мэк
+    перезаписывал на протяжении всей карьеры. Отмечается, что после яркого дебюта Мэк десятилетиями выступал в придорожных
+    заведениях и на танцплощадках, сочетая в творчестве кантри, блюз и рок-н-ролл.'
+  summary: Выпуск посвящён Лонни Мэку — гитарному герою начала 60-х, которому 18 июля 2021 года исполнилось бы 80 лет.
   files:
   - filename: atb-2021-07-26-lonnie-mack.mp3
     path: /atb/atb-2021-07-26-lonnie-mack.mp3
+  artists_tags:
+  - slug: lonnie-mack
+    name: Lonnie Mack
+  - slug: stevie-ray-vaughan
+    name: Stevie Ray Vaughan
+  description_editorial: true
 - date: '2021-08-02'
   slug: atb-2021-08-02-lonnie-mack
   topic: LonnieMack
@@ -3405,6 +4668,18 @@
   files:
   - filename: atb-2021-08-02-lonnie-mack.mp3
     path: /atb/atb-2021-08-02-lonnie-mack.mp3
+  artists_tags:
+  - slug: lonnie-mack
+    name: Lonnie Mack
+  - slug: stevie-ray-vaughan
+    name: Stevie Ray Vaughan
+  - slug: zz-top
+    name: ZZ Top
+  - slug: alligator-records
+    name: Alligator Records
+  - slug: freddie-king
+    name: Freddie King
+  description_editorial: true
 - date: '2021-08-09'
   slug: atb-2021-08-09-armstrong-ellis
   topic: Armstrong Ellis
@@ -3420,6 +4695,10 @@
   files:
   - filename: atb-2021-08-09-armstrong-ellis.mp3
     path: /atb/atb-2021-08-09-armstrong-ellis.mp3
+  artists_tags:
+  - slug: bessie-smith
+    name: Bessie Smith
+  description_editorial: true
 - date: '2021-08-23'
   slug: atb-2021-08-23-jimmy-mccracklin
   topic: ''
@@ -3442,6 +4721,8 @@
   files:
   - filename: atb-2021-08-23-jimmy-mccracklin.mp3
     path: /atb/atb-2021-08-23-jimmy-mccracklin.mp3
+  artists_tags: []
+  description_editorial: true
 - date: '2021-08-30'
   slug: atb-2021-08-30-charlie-burse-buster-brown
   topic: ''
@@ -3464,6 +4745,10 @@
   files:
   - filename: atb-2021-08-30-charlie-burse-buster-brown.mp3
     path: /atb/atb-2021-08-30-charlie-burse-buster-brown.mp3
+  artists_tags:
+  - slug: sonny-terry
+    name: Sonny Terry
+  description_editorial: true
 - date: '2021-09-06'
   slug: atb-2021-09-06-floyd-council
   topic: ''
@@ -3479,6 +4764,12 @@
   files:
   - filename: atb-2021-09-06-floyd-council.mp3
     path: /atb/atb-2021-09-06-floyd-council.mp3
+  artists_tags:
+  - slug: blind-boy-fuller
+    name: Blind Boy Fuller
+  - slug: arthur-crudup
+    name: Arthur Crudup
+  description_editorial: true
 - date: '2021-09-13'
   slug: atb-2021-09-13-noel-redding
   topic: Redding
@@ -3499,6 +4790,18 @@
   files:
   - filename: atb-2021-09-13-noel-redding.mp3
     path: /atb/atb-2021-09-13-noel-redding.mp3
+  artists_tags:
+  - slug: noel-redding
+    name: Noel Redding
+  - slug: bb-king
+    name: BB King
+  - slug: the-rolling-stones
+    name: The Rolling Stones
+  - slug: muddy-waters
+    name: Muddy Waters
+  - slug: little-richard
+    name: Little Richard
+  description_editorial: true
 - date: '2021-09-20'
   slug: atb-2021-09-20-eddie-burks-david-clayton-thomas
   topic: ''
@@ -3510,6 +4813,16 @@
   files:
   - filename: atb-2021-09-20-eddie-burks-david-clayton-thomas.mp3
     path: /atb/atb-2021-09-20-eddie-burks-david-clayton-thomas.mp3
+  artists_tags:
+  - slug: howlin-wolf
+    name: Howlin' Wolf
+  - slug: muddy-waters
+    name: Muddy Waters
+  - slug: jimmy-dawkins
+    name: Jimmy Dawkins
+  - slug: ray-charles
+    name: Ray Charles
+  description_editorial: true
 - date: '2021-09-27'
   slug: atb-2021-09-27-don-nix
   topic: Nix
@@ -3533,6 +4846,20 @@
   files:
   - filename: atb-2021-09-27-don-nix-part-9.mp3
     path: /atb/atb-2021-09-27-don-nix-part-9.mp3
+  artists_tags:
+  - slug: luther-allison
+    name: Luther Allison
+  - slug: albert-king
+    name: Albert King
+  - slug: freddie-king
+    name: Freddie King
+  - slug: john-mayall
+    name: John Mayall
+  - slug: the-hoochie-coochie-men
+    name: The Hoochie Coochie Men
+  - slug: jon-lord
+    name: Jon Lord
+  description_editorial: true
 - date: '2021-10-04'
   slug: atb-2021-10-04-branch
   topic: Branch
@@ -3549,30 +4876,97 @@
   files:
   - filename: atb-2021-10-04-branch.mp3
     path: /atb/atb-2021-10-04-branch.mp3
+  artists_tags:
+  - slug: billy-branch
+    name: Billy Branch
+  - slug: keb-mo
+    name: Keb' Mo'
+  description_editorial: true
 - date: '2021-10-11'
   slug: atb-2021-10-11-october-show
   topic: ''
-  description: Программа Весь Это Блюз
-  summary: Осенний выпуск «Весь Этот Блюз».
+  description: Выпуск посвящён двум блюзовым юбилеям октября 2021 года. Чикагский пианист Дэйтрой Джуниор (1931–2005) — участник
+    антологии «Living Chicago Blues» лейбла Alligator, аккомпаниатор Хаулин Вулфа и автор хита «Call My Job», который исполняли
+    Сан Силс и Алберт Кинг; звучат записи разных лет, включая последний альбом «Blues on the Internet» (2004). Гитарист и
+    певец Коко Монтоя, отметивший 70-летие 3 октября, прошёл путь от ударника до гитариста в Bluesbreakers Джона Мэйолла,
+    где играл десять лет; особое место в его музыке занимает влияние Алберта Коллинза. В программе звучат треки с альбомов
+    «Coming in Hot» (2019), «Wake Up Call» Мэйолла (1993), дебютного «Get a Mind to Travel» (1994) и трибьюта Бо Дидли (2008),
+    а также вспоминается московский концерт Монтои в зале «Мир».
+  summary: 'Юбилеи октября: 90 лет пианисту Дэйтрою Джуниору и 70 лет гитаристу Коко Монтое.'
   files:
   - filename: atb-2021-10-11-october-show.mp3
     path: /atb/atb-2021-10-11-october-show.mp3
+  artists_tags:
+  - slug: coco-montoya
+    name: Coco Montoya
+  - slug: albert-king
+    name: Albert King
+  - slug: albert-collins
+    name: Albert Collins
+  - slug: debbie-davies
+    name: Debbie Davies
+  - slug: bo-diddley
+    name: Bo Diddley
+  description_editorial: true
 - date: '2021-10-18'
   slug: atb-2021-10-18-october-show
   topic: ''
-  description: Весь Этот Блюз
-  summary: ''
+  description: 'Программа посвящена трём юбилеям: 110-летию пианиста-альбиноса Пиано Рэда (Доктор Филгуд), чьи буги-вуги заложили
+    основу рок-н-ролла; 120-летию певицы Аделаиды Холл — звезды эпохи джаза, выступавшей с Дюком Эллингтоном, Луи Армстронгом
+    и даже гастролировавшей в СССР в годы нэпа; а также 80-летию гитариста и аранжировщика Стива Кроппера — ключевой фигуры
+    лейбла Stax, участника Booker T. & the MG''s и автора классических соул-хитов. Звучат записи Piano Red («Doctor of Love»),
+    Аделаиды Холл с ансамблем Эллингтона («Creole Love Call», «The Blues I Love to Sing»), а также Кроппера в составе Booker
+    T. & the MG''s («Green Onions», «Think»), на альбоме «Jammed Together» с Альбертом Кингом и Попсом Стэйплзом, и его свежем
+    альбоме «Dedicated» с Бетти Лавет.'
+  summary: Выпуск к юбилеям Piano Red (110 лет), Аделаиды Холл (120 лет) и Стива Кроппера (80 лет).
   files:
   - filename: atb-2021-10-18-october-show.mp3
     path: /atb/atb-2021-10-18-october-show.mp3
+  artists_tags:
+  - slug: dr-feelgood
+    name: Dr. Feelgood
+  - slug: albert-king
+    name: Albert King
+  - slug: pops-staples
+    name: Pops Staples
+  - slug: blues-brothers
+    name: Blues Brothers
+  description_editorial: true
 - date: '2021-10-25'
   slug: atb-2021-10-25-green
   topic: GreenI
-  description: Празднование 75-летия Питера Грина в программе Весь Этот Блюз
-  summary: '75-летие Питера Грина, часть I: гитарный гений раннего Fleetwood Mac.'
+  description: 'Первая передача из серии к 75-летию Питера Грина (29 октября 1946 года): рассказывается о его пути от группы
+    Джона Мэйолла до основания Fleetwood Mac, о психическом надломе и возвращении к музыке в 1997 году. Звучат ранние синглы
+    и студийные наброски Fleetwood Mac («Ramblin'' Pony», «Love That Burns», «Oh Well»), записи с чикагскими пианистами Эдди
+    Бойдом и Отисом Спэном. Отдельное внимание уделено позднему периоду: альбомам, посвящённым Роберту Джонсону, с участием
+    Бадди Гая, Доктора Джона, Отиса Раша и Хьюберта Самлина. Программу завершает версия «Black Magic Woman» Карлоса Сантаны
+    — по мотивам темы Питера Грина.'
+  summary: Выпуск посвящён Питеру Грину — к 75-летию со дня рождения британского блюзового гения, основателя Fleetwood Mac.
   files:
   - filename: atb-2021-10-25-green-part-1.mp3
     path: /atb/atb-2021-10-25-green-part-1.mp3
+  artists_tags:
+  - slug: peter-green
+    name: Peter Green
+  - slug: fleetwood-mac
+    name: Fleetwood Mac
+  - slug: dave-hole
+    name: Dave Hole
+  - slug: otis-spann
+    name: Otis Spann
+  - slug: eddie-boyd
+    name: Eddie Boyd
+  - slug: otis-rush
+    name: Otis Rush
+  - slug: buddy-guy
+    name: Buddy Guy
+  - slug: dr-john
+    name: Dr. John
+  - slug: joe-louis-walker
+    name: Joe Louis Walker
+  - slug: hubert-sumlin
+    name: Hubert Sumlin
+  description_editorial: true
 - date: '2021-11-01'
   slug: atb-2021-11-01-waters-jackson
   topic: WatersJackson
@@ -3588,6 +4982,8 @@
   files:
   - filename: atb-2021-11-01-waters-jackson.mp3
     path: /atb/atb-2021-11-01-waters-jackson.mp3
+  artists_tags: []
+  description_editorial: true
 - date: '2021-11-08'
   slug: atb-2021-11-08-green
   topic: GreenII
@@ -3604,6 +5000,22 @@
   files:
   - filename: atb-2021-11-08-green-part-2.mp3
     path: /atb/atb-2021-11-08-green-part-2.mp3
+  artists_tags:
+  - slug: peter-green
+    name: Peter Green
+  - slug: gary-moore
+    name: Gary Moore
+  - slug: john-mayall
+    name: John Mayall
+  - slug: fleetwood-mac
+    name: Fleetwood Mac
+  - slug: eric-clapton
+    name: Eric Clapton
+  - slug: freddie-king
+    name: Freddie King
+  - slug: otis-rush
+    name: Otis Rush
+  description_editorial: true
 - date: '2021-11-15'
   slug: atb-2021-11-15-green
   topic: GreenIII
@@ -3620,6 +5032,24 @@
   files:
   - filename: atb-2021-11-15-green-part-3.mp3
     path: /atb/atb-2021-11-15-green-part-3.mp3
+  artists_tags:
+  - slug: peter-green
+    name: Peter Green
+  - slug: fleetwood-mac
+    name: Fleetwood Mac
+  - slug: john-mayall
+    name: John Mayall
+  - slug: johnny-lang
+    name: Johnny Lang
+  - slug: zz-top
+    name: ZZ Top
+  - slug: larry-mccray
+    name: Larry McCray
+  - slug: charlie-musselwhite
+    name: Charlie Musselwhite
+  - slug: gary-moore
+    name: Gary Moore
+  description_editorial: true
 - date: '2021-11-20'
   slug: atb-2021-11-20-allman
   topic: Allman
@@ -3637,6 +5067,30 @@
   files:
   - filename: atb-2021-11-20-allman.mp3
     path: /atb/atb-2021-11-20-allman.mp3
+  artists_tags:
+  - slug: allman-brothers
+    name: Allman Brothers Band
+  - slug: muddy-waters
+    name: Muddy Waters
+  - slug: bb-king
+    name: BB King
+  - slug: t-bone-walker
+    name: T-Bone Walker
+  - slug: little-walter
+    name: Little Walter
+  - slug: wilson-pickett
+    name: Wilson Pickett
+  - slug: eric-clapton
+    name: Eric Clapton
+  - slug: howlin-wolf
+    name: Howlin' Wolf
+  - slug: willie-dixon
+    name: Willie Dixon
+  - slug: otis-spann
+    name: Otis Spann
+  - slug: john-hammond
+    name: John Hammond
+  description_editorial: true
 - date: '2021-12-06'
   slug: atb-2021-12-06-american-blues-1968
   topic: ''
@@ -3653,14 +5107,33 @@
   files:
   - filename: atb-2021-12-06-american-blues-1968.mp3
     path: /atb/atb-2021-12-06-american-blues-1968.mp3
+  artists_tags:
+  - slug: robben-ford
+    name: Robben Ford
+  - slug: jimmy-witherspoon
+    name: Jimmy Witherspoon
+  - slug: jan-akkerman
+    name: Jan Akkerman
+  description_editorial: true
 - date: '2022-01-17'
   slug: atb-2022-01-17-chicago-blues
   topic: ''
-  description: ''
-  summary: Январский выпуск «Весь Этот Блюз» — чикагский блюз в исполнении классиков жанра.
+  description: 'Программа отмечает 90-летие чикагского гармониста «Mad Dog» Лестера Давенпорта: рассматриваются его участие
+    в записях Бо Дидли 1955 года («Pretty Thing»), совместная работа с Максвелл-стрит Джимми Дэвисом и оба сольных альбома
+    — «When the Blues Hit You» (1992) и «I Smell a Rat» (2002). Также отмечается 80-летие техасской певицы и гитаристки-левши
+    Барбары Лин, звезды ритм-энд-блюза 60-х, сочетавшей жанровый лоск с истинно блюзовой интонацией. Завершает выпуск рассказ
+    о луизианском блюзмене Whispering Smith, которому 25 декабря исполнилось бы 90 лет: звучат его версии «Mojo Hand» — студийная
+    и концертная, записанная в Европе вместе с Lightnin'' Slim.'
+  summary: Выпуск посвящён юбилеям Лестера Давенпорта, Барбары Лин и Whispering Smith — трёх блюзовых музыкантов, которым
+    исполнилось бы по 90 и 80 лет.
   files:
   - filename: atb-2022-01-17-chicago-blues.mp3
     path: /atb/atb-2022-01-17-chicago-blues.mp3
+  artists_tags:
+  - slug: bo-diddley
+    name: Bo Diddley
+  description_editorial: false
+  description_ai: true
 - date: '2022-01-31'
   slug: atb-2022-01-31-paul-delay
   topic: ''
@@ -3682,6 +5155,26 @@
   files:
   - filename: atb-2022-01-31-paul-delay.mp3
     path: /atb/atb-2022-01-31-paul-delay.mp3
+  artists_tags:
+  - slug: paul-delay
+    name: Paul DeLay
+  - slug: muddy-waters
+    name: Muddy Waters
+  - slug: little-walter
+    name: Little Walter
+  - slug: otis-spann
+    name: Otis Spann
+  - slug: jimmy-rogers
+    name: Jimmy Rogers
+  - slug: willie-dixon
+    name: Willie Dixon
+  - slug: johnny-winter
+    name: Johnny Winter
+  - slug: bob-margolin
+    name: Bob Margolin
+  - slug: pinetop-perkins
+    name: Pinetop Perkins
+  description_editorial: true
 - date: '2022-02-28'
   slug: atb-2022-02-28-paul-jones
   topic: Paul Jones
@@ -3708,13 +5201,48 @@
   files:
   - filename: atb-2022-02-28-paul-jones.mp3
     path: /atb/atb-2022-02-28-paul-jones.mp3
+  artists_tags:
+  - slug: muddy-waters
+    name: Muddy Waters
+  - slug: the-rolling-stones
+    name: The Rolling Stones
+  - slug: memphis-slim
+    name: Memphis Slim
+  - slug: fleetwood-mac
+    name: Fleetwood Mac
+  - slug: alexis-korner
+    name: Alexis Korner
+  - slug: howlin-wolf
+    name: Howlin' Wolf
+  - slug: willie-dixon
+    name: Willie Dixon
+  - slug: sonny-boy-williamson
+    name: Sonny Boy Williamson
+  - slug: eric-clapton
+    name: Eric Clapton
+  - slug: ray-charles
+    name: Ray Charles
+  description_editorial: true
 - date: '2024-03-14'
   slug: atb-2024-03-14-deitra-farr
   topic: DeitraFarr
-  description: ''
-  summary: Дейтра Фарр — чикагская соул-блюз певица с голосом от Бога. Часть I.
+  description: 'Главная тема выпуска — российские гастроли чикагской блюзовой певицы Дейтры Фар: её путь от соул-группы Mill
+    Street Depot и работы с Mississippi Heat до сольной карьеры. Звучат песни из альбомов «The Search Is Over» (1997), «Let
+    It Go» (2005) и совместный трек с органистом Рафаэлем Реттлингом. Также отмечается 70-летие Гэй Эдегбалолы — певицы, учительницы
+    и участницы трио Safire the Uppity Blues Women, с фрагментами из её детского альбома «Blues and All Flavors» и архивной
+    записи «Middle Age Blues Boogie». Третий юбиляр — Тони Макфи, основатель британской группы Groundhogs, отметивший 70-летие;
+    звучит его акустическая версия «No More Dogging» из альбома «Hogwash» (1972).'
+  summary: Выпуск посвящён гастролям Дейтры Фар по России, а также юбилеям Гэй Эдегбалолы и Тони Макфи из Groundhogs.
   files:
   - filename: atb-2024-03-14-deitra-farr-part-1.mp3
     path: /atb/atb-2024-03-14-deitra-farr-part-1.mp3
   - filename: atb-2024-03-14-deitra-farr-part-2.mp3
     path: /atb/atb-2024-03-14-deitra-farr-part-2.mp3
+  artists_tags:
+  - slug: deitra-farr
+    name: Deitra Farr
+  - slug: saffire-the-uppity-blues-women
+    name: Saffire - The Uppity Blues Women
+  - slug: alex-schultz
+    name: Alex Schultz
+  description_editorial: true

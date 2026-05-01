@@ -75,7 +75,11 @@
 
 <a id="m1058"></a>
 
-**[MUSIC: 17:38 – 20:32]**
+**[MUSIC: 17:38 – 18:03]**
+
+<a id="m1097"></a>
+
+**[MUSIC: 18:17 – 20:32]**
 
 <a id="t1232"></a>
 «Going to New York» — Джимми Рид, альбом «The Man and the Legend», 1965 год.

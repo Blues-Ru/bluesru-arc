@@ -434,9 +434,12 @@ def _build_resource_links(resources, artist_slug):
         elif url.startswith('/artist/') and artist_slug:
             rest = re.sub(r'^/artist/[^/]+', '', url)
             url = f'/artist/{artist_slug}{rest}'
-        # Rewrite /ATB/*.mp3 links → /atb/ (old audio links, no longer served individually)
+        # Drop old /ATB/*.mp3 audio links — episode-specific ATB links are added separately
         if re.match(r'^/ATB/.*\.mp3$', url, re.IGNORECASE):
-            url = '/atb/'
+            continue
+        # Drop any generic /atb/ link without a specific episode slug
+        if re.match(r'^/atb/?$', url, re.IGNORECASE):
+            continue
         # Skip if URL points to the artist's own page (redundant)
         if artist_slug and url.rstrip('/') == f'/artist/{artist_slug}':
             continue
@@ -519,7 +522,12 @@ def process_html(content, source_dir, source_root, artist_slug=None,
         album_block = f'\n{nav_block}'
         if artist_albums_html:
             album_block += artist_albums_html
-        content = RE_DYNAMIC_ASPX.sub(album_block, content)
+        replaced = RE_DYNAMIC_ASPX.sub(album_block, content)
+        if replaced == content:
+            # No dynamic.aspx include in this page — inject before </body>
+            content = re.sub(r'(</body>)', album_block + '\n\\1', content, count=1, flags=re.IGNORECASE)
+        else:
+            content = replaced
     else:
         content = RE_DYNAMIC_ASPX.sub('', content)
 
@@ -3166,7 +3174,7 @@ def generate_atb():
 {% if transcripts_html %}
 <div class="atb-transcript">
   <hr size="1">
-  <h3>Стенограмма</h3>
+  <h3>AI Расшифровка эфира</h3>
   {% for part_html in transcripts_html %}
   <div class="atb-transcript-part">
     {% if transcripts_html | length > 1 %}<p class="atb-part-label">Часть {{ loop.index }}</p>{% endif %}
@@ -3222,19 +3230,25 @@ function atbSeek(partIdx, sec) {
         return results
 
     def _artists_tags_html(show):
-        """Build HTML for tagged artists section."""
+        """Build HTML for tagged artists section.
+        Only links to /artist/{slug}/ if that directory exists in the generated site.
+        """
         tags = show.get('artists_tags') or []
         if not tags:
             return ''
-        links = []
+        items = []
         for tag in tags:
             slug = tag.get('slug', '') if isinstance(tag, dict) else tag
             name = tag.get('name', slug) if isinstance(tag, dict) else slug
-            if slug:
-                links.append(f'<a href="/artist/{slug}/">{html_mod.escape(name)}</a>')
-        if not links:
+            if not slug:
+                continue
+            if (SITE / 'artist' / slug).is_dir():
+                items.append(f'<a href="/artist/{slug}/">{html_mod.escape(name)}</a>')
+            else:
+                items.append(html_mod.escape(name))
+        if not items:
             return ''
-        return '<b>Музыканты:</b> ' + ' &middot; '.join(links)
+        return '<b>Музыканты:</b> ' + ' &middot; '.join(items)
 
     ep_pages_written = 0
     for show in shows:
