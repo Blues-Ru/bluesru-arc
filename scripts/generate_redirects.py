@@ -138,103 +138,30 @@ def main():
 
     lines.append("")
 
-    # ── albumview.aspx?cdid=N → /artist/{artist}/{album}/ ────────────────────
-    # Reviews now live under /artist/{artist-slug}/{album-slug}/
-    lines.append("# /data/albumview.aspx?cdid=N → /artist/{artist}/{album}/  (one line per album ID)")
+    # NOTE: /data/albumview.aspx?cdid=N and /data/artistview.aspx?aid=N redirects
+    # are NOT in _redirects — CF Pages ignores query strings in _redirects rules.
+    # These are handled by _middleware.js using /data/redirects.json (generated
+    # at build time by generate_data_json.py).
+    lines.append("# albumview.aspx / artistview.aspx → handled by _middleware.js (query-string)")
+    lines.append("/data/albumview.aspx  /review/  302")
+    lines.append("/data/artistview.aspx  /artist/  302")
+    lines.append("")
     album_redirects = []
-    album_fallbacks = []
-
-    def artist_url_slug(artist_obj):
-        """Derive URL slug for artist (used in /artist/ path)."""
-        if not artist_obj:
-            return 'various-musicians'
-        s = artist_obj.get('slug', '')
-        if s:
-            return s
-        lp = artist_obj.get('legacy_path', '').strip('/')
-        parts = lp.split('/')
-        ld = parts[-1] if parts and parts[-1] else ''
-        if ld and '.' not in ld and not ld.startswith('www.'):
-            return re.sub(r'[^a-z0-9]+', '-', ld.lower()).strip('-')
-        return 'various-musicians'
-
-    for album_id in sorted(albums.keys()):
-        album = albums[album_id]
-        review_slug = review_by_album.get(album_id)
-        album_slug = album.get('slug', '')
-        artist_id = album.get('artist_id')
-        artist_obj = artists.get(int(artist_id)) if artist_id else None
-        a_slug = artist_url_slug(artist_obj)
-
-        if review_slug and album_slug:
-            # Strip "{a_slug}-" prefix from album URL segment
-            url_album_slug = album_slug
-            if a_slug not in ('various-musicians',) and url_album_slug.startswith(a_slug + '-'):
-                url_album_slug = url_album_slug[len(a_slug) + 1:]
-            src = f"/data/albumview.aspx?cdid={album_id}"
-            tgt = f"/artist/{a_slug}/{url_album_slug}/"
-            lines.append(f"{src}  {tgt}  301")
-            album_redirects.append((album_id, tgt))
-        else:
-            album_fallbacks.append(album_id)
-
-    if album_fallbacks:
-        lines.append(f"# {len(album_fallbacks)} albums with no review → generic /review/ fallback (below)")
-        for album_id in album_fallbacks:
-            lines.append(f"/data/albumview.aspx?cdid={album_id}  /review/  302")
-
-    lines.append("")
-
-    # ── artistview.aspx?aid=N → /artist/{slug}/ ─────────────────────────────
-    lines.append("# /data/artistview.aspx?aid=N → /artist/{slug}/  (one line per artist ID)")
     artist_redirects = []
-    artist_fallbacks = []
-    for artist_id in sorted(artists.keys()):
-        artist = artists[artist_id]
-        slug = artist.get("slug", "")
-        legacy_dir = legacy_dir_for_artist(artist)
-        # Always use slug if available; fall back to legacy_dir for orphans
-        if slug:
-            tgt = f"/artist/{slug}/"
-        elif legacy_dir:
-            tgt = f"/artist/{legacy_dir}/"
-        else:
-            tgt = "/artist/"
-        src = f"/data/artistview.aspx?aid={artist_id}"
-        if tgt != "/artist/":
-            lines.append(f"{src}  {tgt}  301")
-            artist_redirects.append((artist_id, tgt))
-        else:
-            artist_fallbacks.append(artist_id)
-
-    if artist_fallbacks:
-        lines.append(f"# {len(artist_fallbacks)} artists with no page → /artist/ fallback")
-        for artist_id in artist_fallbacks:
-            lines.append(f"/data/artistview.aspx?aid={artist_id}  /artist/  302")
-
-    lines.append("")
 
     # ── /bluesmen/ → /artist/ (legacy URL rename) ────────────────────────────
+    # NOTE: Per-artist /bluesmen/OldDir/* dynamic rules are handled by _middleware.js.
+    # Only the root and catch-all go here to stay under CF's 100 dynamic rule limit.
     lines.append("# /bluesmen/ section renamed to /artist/")
     lines.append("/bluesmen/  /artist/  301")
     lines.append("/bluesmen/default.aspx  /artist/  301")
-    # Per-artist: /bluesmen/Albert_Collins/ → /artist/albert-collins/
-    lines.append("# Per-artist /bluesmen/OldDir/ → /artist/{slug}/")
-    for artist_id in sorted(artists.keys()):
-        artist = artists[artist_id]
-        slug = artist.get("slug", "")
-        legacy_dir = legacy_dir_for_artist(artist)
-        if legacy_dir and slug and legacy_dir != slug:
-            lines.append(f"/bluesmen/{legacy_dir}/  /artist/{slug}/  301")
-            lines.append(f"/bluesmen/{legacy_dir}/*  /artist/{slug}/:splat  301")
-    # Catch-all for any remaining /bluesmen/ paths
+    lines.append("# Catch-all for /bluesmen/ (per-artist slug mapping done in _middleware.js)")
     lines.append("/bluesmen/*  /artist/:splat  301")
     lines.append("")
 
-    # ── news.aspx?y=YYYY → /updates/YYYY/ ────────────────────────────────────
-    lines.append("# news.aspx?y=YYYY → /updates/YYYY/")
-    for year in range(2000, 2025):
-        lines.append(f"/news.aspx?y={year}  /updates/{year}/  301")
+    # ── news.aspx → /updates/ ────────────────────────────────────────────────
+    # NOTE: news.aspx?y=YYYY query-string redirects handled by _middleware.js
+    lines.append("# news.aspx (query-string redirect handled by middleware)")
     lines.append("/news.aspx  /updates/  301")
     lines.append("")
 
@@ -344,9 +271,9 @@ def main():
         ("/bluesnews/_19/Arkh19_Guitar/", "/photo/2019/2019-arkh19-guitar/"),
         ("/bluesnews/_22/", "/photo/2022/2022-11-23-neighbours/"),
     ]
+    # NOTE: subdir/* dynamic rules moved to _middleware.js (bluesnews map)
     for src, tgt in bluesnews_redirects:
         lines.append(f"{src}  {tgt}  301")
-        lines.append(f"{src.rstrip('/')}/*  {tgt}  301")
     lines.append("")
     lines.append("# Gallery per-photo HTM pages → parent gallery index")
     lines.append("# Old gallery tools generated one .htm per photo; replaced by generated index.html")
@@ -356,7 +283,7 @@ def main():
     lines.append("")
 
     OUT_REDIRECTS.write_text("\n".join(lines) + "\n", encoding="utf-8")
-    print(f"  _redirects: {len(lines)} lines ({len(album_redirects)} album + {len(artist_redirects)} artist)")
+    print(f"  _redirects: {len([l for l in lines if l and not l.startswith('#')])} rules")
 
     # ── Cloudflare notes ──────────────────────────────────────────────────────
     cf_notes = """\
