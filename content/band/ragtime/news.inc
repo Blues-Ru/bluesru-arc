@@ -54,6 +54,6 @@
 
 <font color="#FF0000">25.05.01.</font> 
 Группа &quot;Регтайм&quot; вошла в список &quot;Российские исполнители&quot; 
-сайта <a href="http://www.blues.ru/" target="_blank">&quot;Блюз в России&quot;</a><br />
+сайта <a href="http://blues.ru/" target="_blank">&quot;Блюз.Ру&quot;</a><br />
 
 </p>

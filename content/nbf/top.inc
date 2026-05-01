@@ -142,7 +142,7 @@
 <p><b><a href="http://www.bluesfest.no">www.bluesfest.no</a></b><br>
 <small>официальный сайт фестиваля.</small></p>
 
-<p><b><a href="/">Блюз в России</a></b></p>
+<p><b><a href="/">Blues.Ru</a></b></p>
 
 
     </td>

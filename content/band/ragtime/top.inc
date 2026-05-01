@@ -16,7 +16,7 @@
         <b><a href="gigs.htm">Концерты</a></b><br>
         <b><a href="GuestBook.asp">Гостевая книга</a></b><br>
         <b><a href="mailto:ragtime@blues.ru">E-mail</a></b><br>
-        <b><a href="/">Блюз в России</a></b><br>
+        <b><a href="/">Blues.Ru</a></b><br>
         <a href="mailto:m_m@rambler.ru">(c) Nalrock 2001.</a></p>
       </blockquote>
       </span>
