@@ -1,262 +1,103 @@
 #!/usr/bin/env python3
-"""
-Generate homepage (index.html) and blues links page.
-
-Reads:
-  - blues-arc/templates/homepage.html
-  - /private/tmp/claude-501/blues-links.xml (downloaded from live site)
-  - OR generates placeholder links if XML not available
-
-Outputs:
-  - site/index.html
-  - blues-arc/data/links.yaml  (source YAML, committed)
-  - site/links/index.html
-
-Run from /Users/fedor/bluesru/
-"""
-
-import re
-import yaml
-import xml.etree.ElementTree as ET
+"""Generate homepage (index.html) and links page."""
+import sys
 from pathlib import Path
-from string import Template
-
-import os
-ARC = Path(__file__).resolve().parent.parent
-_ws = Path(os.environ.get('BLUESRU_ROOT', str(ARC.parent)))
-SITE_DIR = Path(os.environ.get('BLUESRU_SITE', str(_ws / 'bluesru-site')))
-TMPL = ARC / "templates" / "homepage.html"
-OUT_HOME = SITE_DIR / "index.html"
-OUT_LINKS_YAML = ARC / "data" / "links.yaml"
-OUT_LINKS_PAGE = SITE_DIR / "links"
-LINKS_XML = Path("/private/tmp/claude-501/blues-links.xml")
+sys.path.insert(0, str(Path(__file__).parent))
+from generate_shared import *
 
 
-def load_links_from_xml(xml_path):
-    """Parse links from downloaded XML file."""
-    with xml_path.open('rb') as f:
-        content = f.read().decode('windows-1251', errors='replace')
-    root = ET.fromstring(content)
+def generate_homepage():
+    print("Generating homepage...")
 
-    # Build category map
-    categories = {}
-    for cat in root.findall('.//category'):
-        cid = cat.get('id', '')
-        categories[cid] = {
-            'id': cid,
-            'name': cat.get('name', ''),
-            'parent_id': cat.get('parent-id', ''),
-            'description': cat.get('description', ''),
-        }
+    # ── Latest blues news ──────────────────────────────────────────────────────
+    blues_news_items = []
+    if NEWS_DIR.exists():
+        raw_news = []
+        for p in NEWS_DIR.rglob('*.md'):
+            text = p.read_text(encoding='utf-8')
+            m = RE_FM.match(text)
+            if m:
+                meta = yaml.safe_load(m.group(1))
+                raw_news.append(meta)
+        raw_news.sort(key=lambda x: str(x.get('date', '0000')), reverse=True)
+        for meta in raw_news[:10]:
+            ds = str(meta.get('date', ''))
+            nid = meta.get('id', '')
+            slug = meta.get('slug', f'story{nid}')
+            url = (f'/news/{ds[:4]}/{ds[5:7]}/{ds[8:10]}/story{nid}/'
+                   if ds and len(ds) >= 10 else '#')
+            blues_news_items.append({
+                'date': ds[:10] if ds else '',
+                'title': meta.get('title', ''),
+                'url': url,
+            })
 
-    # Build site-category pairs
-    site_cats = {}
-    for pair in root.findall('.//site-category'):
-        sid = pair.get('site-id', '')
-        cid = pair.get('category-id', '')
-        site_cats.setdefault(sid, []).append(cid)
+    # ── Latest ATB episodes ────────────────────────────────────────────────────
+    latest_atb_items = []
+    atb_yaml = DATA / 'atb' / 'episodes.yaml'
+    if atb_yaml.exists():
+        atb_shows = yaml.safe_load(atb_yaml.read_text(encoding='utf-8')) or []
+        SHOW_SUBDIRS = {'', 'ATB2'}
+        datable = [s for s in atb_shows if s.get('date') and s.get('date') != 'unknown'
+                   and (s.get('subdir') or '') in SHOW_SUBDIRS]
+        datable.sort(key=lambda s: s['date'], reverse=True)
+        for s in datable[:8]:
+            summary = s.get('summary') or ''
+            if not summary:
+                desc = re.sub(r'<[^>]+>', '', s.get('description') or '').strip()
+                summary = desc[:160].rstrip() + ('…' if len(desc) > 160 else '') if desc else ''
+            latest_atb_items.append({
+                'date': s['date'],
+                'summary': summary,
+                'url': f"/atb/{s['slug']}/",
+            })
 
-    # Build sites list
-    sites = []
-    for site in root.findall('.//site'):
-        sid = site.get('id', '')
-        sites.append({
-            'id': sid,
-            'name': site.get('name', ''),
-            'url': site.get('url', ''),
-            'description': site.get('description', ''),
-            'categories': site_cats.get(sid, []),
-            'status': 'unknown',  # to be validated
-        })
+    # ── Latest announcements ───────────────────────────────────────────────────
+    latest_updates_items = []
+    _atb_re_hp = re.compile(
+        r'\bATB\b|atb_|/[Aa]tb/|Весь\s+[Ээ]тот\s+[Бб]люз', re.IGNORECASE)
+    if ANNOUNCE_DIR.exists():
+        raw_ann = []
+        for p in sorted(ANNOUNCE_DIR.rglob('*.md')):
+            text = p.read_text(encoding='utf-8')
+            if _atb_re_hp.search(text):
+                continue
+            m = RE_FM.match(text)
+            if m:
+                meta = yaml.safe_load(m.group(1))
+                body = m.group(2).strip()
+                raw_ann.append((meta, body))
+        raw_ann.sort(key=lambda x: str(x[0].get('date', '0000')), reverse=True)
+        for meta, body in raw_ann[:8]:
+            ds = str(meta.get('date', ''))
+            latest_updates_items.append({
+                'date': ds[:10] if ds else '',
+                'html': body,
+            })
 
-    return categories, sites
+    # ── Links ─────────────────────────────────────────────────────────────────
+    links_yaml_path = DATA / 'links.yaml'
+    links_html = ''
+    if links_yaml_path.exists():
+        links_data = yaml.safe_load(links_yaml_path.read_text(encoding='utf-8')) or {}
+        categories = {c['id']: c for c in links_data.get('categories', [])}
+        sites = links_data.get('sites', [])
+        links_html = _build_links_snippet(categories, sites)
+        _generate_links_page(categories, sites)
 
-
-def save_links_yaml(categories, sites):
-    OUT_LINKS_YAML.parent.mkdir(parents=True, exist_ok=True)
-    data = {
-        'categories': list(categories.values()),
-        'sites': sites,
-    }
-    with OUT_LINKS_YAML.open('w', encoding='utf-8') as f:
-        yaml.dump(data, f, allow_unicode=True, default_flow_style=False, sort_keys=False)
-    print(f"  links.yaml: {len(sites)} sites, {len(categories)} categories")
-
-
-def get_blues_cat_ids(categories, root_id='1'):
-    """Return all category ids that belong to the blues root tree."""
-    result = {root_id}
-    changed = True
-    while changed:
-        changed = False
-        for c in categories.values():
-            if c['id'] not in result and c.get('parent_id') in result:
-                result.add(c['id'])
-                changed = True
-    return result
-
-
-def generate_links_html(categories, sites):
-    """Generate HTML for links section (simple flat list by category)."""
-    blues_ids = get_blues_cat_ids(categories)
-    # Only show sites in the blues tree
-    blues_sites = [s for s in sites if any(cid in blues_ids for cid in s['categories'])]
-    # Build sub-categories of the blues root
-    top_cats = [c for c in categories.values() if c.get('parent_id') == '1']
-    # Build sites by category
-    by_cat = {}
-    for site in sites:
-        for cid in site['categories']:
-            by_cat.setdefault(cid, []).append(site)
-
-    by_cat = {}
-    for site in blues_sites:
-        for cid in site['categories']:
-            if cid in blues_ids:
-                by_cat.setdefault(cid, []).append(site)
-
-    html = '<b><a href="/links/">Блюзовые ссылки</a></b>\n<ul>\n'
-    shown = 0
-    for cat in sorted(top_cats, key=lambda c: c.get('name', '')):
-        cat_sites = by_cat.get(cat['id'], [])
-        if not cat_sites:
-            continue
-        html += f'<li><b>{cat["name"]}</b><ul>\n'
-        for site in cat_sites[:5]:  # show max 5 per category on homepage
-            name = site['name']
-            url = site['url']
-            html += f'  <li><a href="{url}">{name}</a></li>\n'
-            shown += 1
-        if len(cat_sites) > 5:
-            html += f'  <li><a href="/links/"><small>ещё {len(cat_sites)-5}...</small></a></li>\n'
-        html += '</ul></li>\n'
-    html += f'</ul>\n<p><a href="/links/">Все ссылки &gt;&gt;</a></p>\n'
-    return html, shown
-
-
-def generate_links_page(categories, sites):
-    """Generate full links page — blues links only (root id=1), live/redirected only."""
-    OUT_LINKS_PAGE.mkdir(parents=True, exist_ok=True)
-
-    blues_ids = get_blues_cat_ids(categories)
-    # Only show live and redirected sites (filter out dead and changed)
-    live_statuses = {'live', 'redirected', 'unknown'}
-    blues_sites = [
-        s for s in sites
-        if any(cid in blues_ids for cid in s['categories'])
-        and s.get('status', 'unknown') in live_statuses
-    ]
-
-    by_cat = {}
-    for site in blues_sites:
-        for cid in site['categories']:
-            if cid in blues_ids:
-                by_cat.setdefault(cid, []).append(site)
-
-    # Build category tree — root is id=1
-    top_cats = [c for c in categories.values() if c.get('parent_id') == '1']
-    child_cats = {}
-    for c in categories.values():
-        if c.get('parent_id'):
-            child_cats.setdefault(c['parent_id'], []).append(c)
-
-    html = '''<!DOCTYPE html>
-<html>
-<head>
-<meta charset="utf-8">
-<title>Блюзовые ссылки — Blues.Ru</title>
-<link rel="shortcut icon" href="/images/bluesru.ico">
-<style>a{text-decoration:none}</style>
-</head>
-<body bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#5511CC">
-<p><a href="/"><b>Blues.Ru</b></a> &gt; Ссылки</p>
-<h1>Блюзовые ссылки</h1>
-<p>Ссылки на сайты о блюзе. Собраны в 2001–2009 годах; показаны работавшие на момент проверки.</p>\n'''
-
-    def render_cat(cat, depth=0):
-        cid = cat['id']
-        cat_sites = by_cat.get(cid, [])
-        child_list = sorted(child_cats.get(cid, []), key=lambda c: c.get('name', ''))
-        if not cat_sites and not child_list:
-            return ''
-        hn = f'h{"23456"[min(depth,4)]}'
-        s = f'<{hn}>{cat["name"]}</{hn}>\n'
-        if cat_sites:
-            s += '<ul>\n'
-            for site in sorted(cat_sites, key=lambda x: x.get('name', '')):
-                desc = f' — {site["description"]}' if site.get('description') else ''
-                s += f'  <li><a href="{site["url"]}">{site["name"]}</a>{desc}</li>\n'
-            s += '</ul>\n'
-        for child in child_list:
-            s += render_cat(child, depth+1)
-        return s
-
-    for cat in sorted(top_cats, key=lambda c: c.get('name', '')):
-        html += render_cat(cat)
-
-    html += '''<hr size="1">
-<p><a href="/"><b>Blues.Ru</b></a></p>
-</body>
-</html>'''
-
-    (OUT_LINKS_PAGE / "index.html").write_text(html, encoding='utf-8')
-    dead_count = sum(1 for s in sites if any(cid in blues_ids for cid in s.get('categories',[])) and s.get('status') in ('dead','changed'))
-    print(f"  links/index.html: {len(blues_sites)} live blues sites ({dead_count} dead filtered out)")
-
-
-GA_SNIPPET = '''\
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-8HDC1W9R3E"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-  gtag('config', 'G-8HDC1W9R3E');
-</script>'''
-
-
-def generate_homepage(links_html):
-    template = TMPL.read_text(encoding='utf-8')
-    out = template.replace('{{ links_html }}', links_html)
-    out = out.replace('{{ ga_snippet | safe }}', GA_SNIPPET)
-    OUT_HOME.parent.mkdir(parents=True, exist_ok=True)
-    OUT_HOME.write_text(out, encoding='utf-8')
-    print(f"  index.html generated")
-
-
-def load_links_from_yaml(yaml_path):
-    """Load categories and sites from the committed links.yaml."""
-    with yaml_path.open(encoding='utf-8') as f:
-        data = yaml.safe_load(f) or {}
-    categories = {c['id']: c for c in data.get('categories', [])}
-    sites = data.get('sites', [])
-    return categories, sites
-
-
-def main():
-    print("Generating homepage and links...")
-
-    if LINKS_XML.exists():
-        categories, sites = load_links_from_xml(LINKS_XML)
-        save_links_yaml(categories, sites)
-        print(f"  Loaded links from XML: {len(sites)} sites")
-    elif OUT_LINKS_YAML.exists():
-        categories, sites = load_links_from_yaml(OUT_LINKS_YAML)
-        print(f"  Loaded links from YAML: {len(sites)} sites, {len(categories)} categories")
-    else:
-        print(f"  WARNING: No links source found — using placeholder")
-        categories, sites = {}, []
-
-    if categories or sites:
-        links_html, shown = generate_links_html(categories, sites)
-        generate_links_page(categories, sites)
-        print(f"  links snippet: {shown} links shown")
-    else:
-        links_html = '<b><a href="/links/">Блюзовые ссылки</a></b>'
-
-    generate_homepage(links_html)
-    print("Done.")
+    # ── Render homepage ────────────────────────────────────────────────────────
+    tmpl = JINJA_ENV.get_template('homepage.html.j2')
+    html = tmpl.render(
+        blues_news=blues_news_items,
+        latest_atb=latest_atb_items,
+        latest_updates=latest_updates_items,
+        links_html=links_html,
+        footer=FOOTER,
+        today=datetime.now().strftime('%Y-%m-%d'),
+    )
+    (SITE / 'index.html').write_text(html, encoding='utf-8')
+    print(f"  index.html: {len(blues_news_items)} blues news, {len(latest_atb_items)} ATB, {len(latest_updates_items)} updates")
 
 
 if __name__ == '__main__':
-    main()
+    generate_homepage()

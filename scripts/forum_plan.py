@@ -22,7 +22,7 @@ _ws  = Path(_os.environ.get('BLUESRU_ROOT', str(ARC.parent)))
 
 # Reuse index-loading helpers from generate.py by importing them
 sys.path.insert(0, str(ARC / 'scripts'))
-from generate import _load_topics_index, _find_topic_yaml, _topic_is_all_deleted
+from generate_shared import _load_topics_index, _find_topic_yaml, _topic_is_all_deleted
 
 PAGE_SIZE = 50
 

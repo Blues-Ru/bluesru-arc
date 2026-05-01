@@ -6,11 +6,7 @@
   amg_id: Br7rvadskv8w4
   spotify_id: 7EynH3keqfKUmauyaeZoxv
   apple_music_id: '86447'
-  resources:
-  - type: article
-    url: /bluesmen/Luther_Allison/
-  - type: photos
-    url: /bluesmen/Luther_Allison/#photo
+  resources: []
 - id: 3
   slug: allman-brothers
   name: Allman Brothers Band
@@ -21,13 +17,9 @@
   apple_music_id: '127835'
   resources:
   - type: article
-    url: /bluesmen/Allman_Brothers/shooting.htm
-  - type: lyrics
-    url: /bluesmen/Allman_Brothers/lyrics.aspx
-  - type: tabs
-    url: /bluesmen/Allman_Brothers/tabs.aspx
+    url: /artist/allman-brothers/shooting.htm
   - type: interview
-    url: /bluesmen/Allman_Brothers/allman_14.htm
+    url: /artist/allman-brothers/allman_14.htm
 - id: 4
   slug: billy-boy-arnold
   name: Billy Boy Arnold
@@ -37,12 +29,10 @@
   spotify_id: 16vIA3JDwbJiQugWKimd2o
   apple_music_id: '211527'
   resources:
-  - type: video
-    url: /bluesmen/Billy_Boy_Arnold/#music
   - type: link
-    url: /bluesmen/Billy_Boy_Arnold/ww_ArnoldBB.htm
+    url: /artist/billy-boy-arnold/ww_ArnoldBB.htm
   - type: audio
-    url: /bluesmen/Billy_Boy_Arnold/ww_ArnoldBB.htm#links
+    url: /artist/billy-boy-arnold/ww_ArnoldBB.htm#links
 - id: 5
   slug: chuck-berry
   name: Chuck Berry
@@ -51,13 +41,7 @@
   amg_id: B2u9yxdabjold
   spotify_id: 293zczrfYafIItmnmM3coR
   apple_music_id: '343170'
-  resources:
-  - type: lyrics
-    url: /bluesmen/Chuck_Berry/lyrics.aspx
-  - type: tabs
-    url: /bluesmen/Chuck_Berry/tabs.aspx
-  - type: video
-    url: /bluesmen/Chuck_Berry/#music
+  resources: []
 - id: 6
   slug: elvin-bishop
   name: Elvin Bishop
@@ -66,9 +50,7 @@
   amg_id: Bhxk9ikx6bb19
   spotify_id: 2G1yVp387GlUf9yvLk6V11
   apple_music_id: '137873'
-  resources:
-  - type: article
-    url: /bluesmen/Elvin_Bishop/
+  resources: []
 - id: 7
   slug: paul-black
   name: Paul Black
@@ -77,15 +59,7 @@
   amg_id: Beyabqj6boj6a
   spotify_id: 3ydFLUxDnN3RcKw4OAGWkr
   apple_music_id: '1751756303'
-  resources:
-  - type: article
-    url: /bluesmen/Paul_Black/
-  - type: lyrics
-    url: /bluesmen/Paul_Black/lyrics.aspx
-  - type: video
-    url: /bluesmen/Paul_Black/#music
-  - type: audio
-    url: /bluesmen/Paul_Black/#links
+  resources: []
 - id: 8
   slug: blind-boy-fuller
   name: Blind Boy Fuller
@@ -94,9 +68,7 @@
   amg_id: Bom4zefukhgf2
   spotify_id: 7mPFWoDGjh7ArW1yr79EX8
   apple_music_id: '1169016'
-  resources:
-  - type: article
-    url: /bluesmen/Blind_Boy_Fuller/
+  resources: []
 - id: 9
   slug: blues-brothers
   name: Blues Brothers
@@ -105,11 +77,7 @@
   amg_id: Bgxkxikx6bb29
   spotify_id: 1cHFz6lrt7KAsBV8j2Ny1g
   apple_music_id: '1596511471'
-  resources:
-  - type: article
-    url: /bluesmen/Blues_Brothers/
-  - type: audio
-    url: /bluesmen/Blues_Brothers/#links
+  resources: []
 - id: 10
   slug: roy-buchanan
   name: Roy Buchanan
@@ -118,11 +86,7 @@
   amg_id: B4217gjvrj6ia
   spotify_id: 0augulkuXFx1qPfb590w2C
   apple_music_id: '81505'
-  resources:
-  - type: article
-    url: /bluesmen/Roy_Buchanan/
-  - type: video
-    url: /bluesmen/Roy_Buchanan/#music
+  resources: []
 - id: 11
   slug: vidar-busk
   name: Vidar Busk & His True Believers
@@ -133,9 +97,7 @@
   apple_music_id: '40636219'
   resources:
   - type: article
-    url: /bluesmen/Vidar_Busk/Hero.htm
-  - type: video
-    url: /bluesmen/Vidar_Busk/
+    url: /artist/vidar-busk/Hero.htm
 - id: 12
   slug: j-j-cale
   name: J.J. Cale
@@ -144,11 +106,7 @@
   amg_id: Bq69ks33ba3xg
   spotify_id: 06nsZ3qSOYZ2hPVIMcr1IN
   apple_music_id: '78347'
-  resources:
-  - type: article
-    url: /bluesmen/J_J_Cale/
-  - type: lyrics
-    url: /bluesmen/J_J_Cale/lyrics.aspx
+  resources: []
 - id: 13
   slug: eric-clapton
   name: Eric Clapton
@@ -157,11 +115,7 @@
   amg_id: Bdr7zefukhgfn
   spotify_id: 6PAt558ZEZl0DmdXlnjMgD
   apple_music_id: '123853'
-  resources:
-  - type: article
-    url: /bluesmen/Eric_Clapton/
-  - type: lyrics
-    url: /bluesmen/Eric_Clapton/lyrics.aspx
+  resources: []
 - id: 14
   slug: william-clarke
   name: William Clarke
@@ -171,16 +125,8 @@
   spotify_id: 2eECVTTCHnDwsBirJPiDke
   apple_music_id: '4211152'
   resources:
-  - type: article
-    url: /bluesmen/William_Clarke/#article
-  - type: link
-    url: /bluesmen/William_Clarke/#reference
-  - type: video
-    url: /bluesmen/William_Clarke/#music
   - type: interview
     url: /bluesnews/11A/Clarke91/Clarke91.htm
-  - type: link
-    url: /atb/ATB2/atb_21_03_21_Clarke.mp3
 - id: 15
   slug: albert-collins
   name: Albert Collins
@@ -189,15 +135,7 @@
   amg_id: B7x66mp939f7o
   spotify_id: 1uFixbBAduJkFAeRKznkvW
   apple_music_id: '59339'
-  resources:
-  - type: article
-    url: /bluesmen/Albert_Collins/
-  - type: lyrics
-    url: /bluesmen/Albert_Collins/lyrics.aspx
-  - type: video
-    url: /bluesmen/Albert_Collins/#music
-  - type: links
-    url: /bluesmen/Albert_Collins/#recordings
+  resources: []
 - id: 16
   slug: johnny-clyde-copeland
   name: Johnny Clyde Copeland
@@ -205,9 +143,7 @@
   legacy_path: /bluesmen/Johnny_Clyde_Copeland/
   amg_id: Bqjjv7i6jg72r
   spotify_id: 0Sr0o4tT3HFO5IYELG2jWo
-  resources:
-  - type: article
-    url: /bluesmen/Johnny_Clyde_Copeland/
+  resources: []
 - id: 17
   slug: ry-cooder
   name: Ry Cooder
@@ -216,9 +152,7 @@
   amg_id: B5mf3zfshehpk
   spotify_id: 1CPwHx5lgVxv0rfcp7UXLx
   apple_music_id: '191009'
-  resources:
-  - type: article
-    url: /bluesmen/Ry_Cooder/
+  resources: []
 - id: 18
   slug: shemekia-copeland
   name: Shemekia Copeland
@@ -227,9 +161,7 @@
   amg_id: B4lt67uu080jj
   spotify_id: 4CNjyWtO59j6Ih6S0n73ee
   apple_music_id: '5308320'
-  resources:
-  - type: article
-    url: /bluesmen/Shemekia_Copeland/
+  resources: []
 - id: 19
   slug: robert-cray
   name: Robert Cray
@@ -240,17 +172,11 @@
   apple_music_id: '38265'
   resources:
   - type: article
-    url: /bluesmen/Robert_Cray/pie.htm
-  - type: lyrics
-    url: /bluesmen/Robert_Cray/lyrcis.aspx
-  - type: tabs
-    url: /bluesmen/Robert_Cray/tabs.aspx
+    url: /artist/robert-cray/pie.htm
   - type: link
-    url: /bluesmen/Robert_Cray/ww_CrayR.htm
+    url: /artist/robert-cray/ww_CrayR.htm
   - type: audio
-    url: /bluesmen/Robert_Cray/ww_CrayR.htm#links
-  - type: interview
-    url: /bluesmen/Robert_Cray/
+    url: /artist/robert-cray/ww_CrayR.htm#links
 - id: 20
   slug: willie-dixon
   name: Willie Dixon
@@ -259,19 +185,7 @@
   amg_id: B06nsa9tgb23a
   spotify_id: 5v8WPpMk60cqZbuZLdXjKY
   apple_music_id: '95629'
-  resources:
-  - type: article
-    url: /bluesmen/Willie_Dixon/dixon.htm
-  - type: lyrics
-    url: /bluesmen/Willie_Dixon/lyrics.aspx
-  - type: links
-    url: /bluesmen/Willie_Dixon/dixon.htm#recordings
-  - type: interview
-    url: /bluesmen/Willie_Dixon/dixonint.htm
-  - type: link
-    url: /bluesmen/Willie_Dixon/
-  - type: audio
-    url: /bluesmen/Willie_Dixon/#links
+  resources: []
 - id: 21
   slug: chris-duarte
   name: Chris Duarte
@@ -281,18 +195,14 @@
   spotify_id: 1W3SfQdOetqQqjsBCRpBqN
   apple_music_id: '1508676'
   resources:
-  - type: article
-    url: /bluesmen/Chris_Duarte/
   - type: link
-    url: /bluesmen/Chris_Duarte/ww_DuarteC.htm
+    url: /artist/chris-duarte/ww_DuarteC.htm
   - type: audio
-    url: /bluesmen/Chris_Duarte/ww_DuarteC.htm#links
+    url: /artist/chris-duarte/ww_DuarteC.htm#links
   - type: page
     url: /bbkingfest/Lefortovo06/index3.htm
   - type: link
     url: /news/2008/02/11/story380/
-  - type: photos
-    url: /bluesnews/08Winter/08_Duarte/content/index.html
 - id: 23
   slug: ronnie-earl
   name: Ronnie Earl
@@ -301,9 +211,7 @@
   amg_id: Bex7m964o3ep7
   spotify_id: 7xjcFAzlxdwPCfWi3VOuxU
   apple_music_id: '385157'
-  resources:
-  - type: article
-    url: /bluesmen/Ronnie_Earl/
+  resources: []
 - id: 24
   slug: tinsley-ellis
   name: Tinsley Ellis
@@ -313,12 +221,8 @@
   spotify_id: 56LMX8mqaIhJCaxjZBM1on
   apple_music_id: '5604138'
   resources:
-  - type: article
-    url: /bluesmen/Tinsley_Ellis/
   - type: link
-    url: /bluesmen/Tinsley_Ellis/ellis-citat.htm
-  - type: video
-    url: /bluesmen/Tinsley_Ellis/#discography
+    url: /artist/tinsley-ellis/ellis-citat.htm
 - id: 25
   slug: lowell-fulson
   name: Lowell Fulson
@@ -327,9 +231,7 @@
   amg_id: Ba267gjirj6ib
   spotify_id: 3VhvGNnWfzmlEyiuhzdgf5
   apple_music_id: '182898'
-  resources:
-  - type: article
-    url: /bluesmen/Lowell_Fulson/
+  resources: []
 - id: 26
   slug: buddy-guy
   name: Buddy Guy
@@ -340,25 +242,13 @@
   apple_music_id: '97577'
   resources:
   - type: article
-    url: /bluesmen/Buddy_Guy/guy.htm
-  - type: article
-    url: /bluesmen/Jimi_Hendrix/hendrix_guy.htm
+    url: /artist/buddy-guy/guy.htm
   - type: discography
-    url: /bluesmen/Buddy_Guy/guydisk.htm
+    url: /artist/buddy-guy/guydisk.htm
   - type: link
-    url: /bluesmen/Buddy_Guy/guyplus.htm
-  - type: video
-    url: /bluesmen/Buddy_Guy/#music
-  - type: tabs
-    url: /bluesmen/Buddy_Guy/tabs.aspx
-  - type: lyrics
-    url: /bluesmen/Buddy_Guy/lyrics.aspx
-  - type: photos
-    url: /bluesmen/Buddy_Guy/#photo
+    url: /artist/buddy-guy/guyplus.htm
   - type: interview
-    url: http://www.blues.ru/news/2012/04/#982
-  - type: link
-    url: /ATB/atb_20_06_22_BG.mp3
+    url: /news/2012/04/#982
 - id: 27
   slug: corey-harris
   name: Corey Harris
@@ -367,19 +257,7 @@
   amg_id: Bsi6m962odep2
   spotify_id: 1TQtbRQbaXw5CeN3mC0DJH
   apple_music_id: '2469070'
-  resources:
-  - type: article
-    url: /bluesmen/Corey_Harris/
-  - type: link
-    url: /atb/atb_16_04_04_Harris_pI.mp3
-  - type: link
-    url: /atb/atb_16_04_04_Harris_pII.mp3
-  - type: link
-    url: /ATB/atb_18_01_15_CoreyHarris.mp3
-  - type: link
-    url: /ATB/atb_18_01_22_CoreyHarris_I.mp3
-  - type: link
-    url: /ATB/atb_18_01_22_CoreyHarris_II.mp3
+  resources: []
 - id: 28
   slug: jimi-hendrix
   name: Jimi Hendrix
@@ -390,23 +268,13 @@
   apple_music_id: '62852'
   resources:
   - type: article
-    url: /bluesmen/Jimi_Hendrix/legend.htm
+    url: /artist/jimi-hendrix/legend.htm
   - type: article
-    url: /bluesmen/Jimi_Hendrix/article.htm
+    url: /artist/jimi-hendrix/article.htm
   - type: article
-    url: /bluesmen/Jimi_Hendrix/hendrix_guy.htm
+    url: /artist/jimi-hendrix/hendrix_guy.htm
   - type: discography
-    url: /bluesmen/Jimi_Hendrix/newdisk.htm
-  - type: lyrics
-    url: /bluesmen/Jimi_Hendrix/lyrics.aspx
-  - type: tabs
-    url: /bluesmen/Jimi_Hendrix/tabs.aspx
-  - type: video
-    url: /bluesmen/Jimi_Hendrix/#music
-  - type: link
-    url: /ATB/atb_17_11_27_Hendrix_I.mp3
-  - type: link
-    url: /ATB/atb_17_11_27_Hendrix_II.mp3
+    url: /artist/jimi-hendrix/newdisk.htm
 - id: 29
   slug: michael-hill
   name: Michael Hill
@@ -415,9 +283,7 @@
   amg_id: B7gd8vwpva9lk
   spotify_id: 684oDJ3wKIggBXSVUKIa2i
   apple_music_id: '1738215435'
-  resources:
-  - type: article
-    url: /bluesmen/Michael_Hill/
+  resources: []
 - id: 30
   slug: dave-hole
   name: Dave Hole
@@ -426,9 +292,7 @@
   amg_id: Bb959kezt7q79
   spotify_id: 6qGv85JlIu536BngDpbI5X
   apple_music_id: '5369744'
-  resources:
-  - type: video
-    url: /bluesmen/Dave_Hole/
+  resources: []
 - id: 32
   slug: john-lee-hooker
   name: John Lee Hooker
@@ -439,15 +303,9 @@
   apple_music_id: '97536'
   resources:
   - type: article
-    url: /bluesmen/John_Lee_Hooker/budda.htm
+    url: /artist/john-lee-hooker/budda.htm
   - type: article
-    url: /bluesmen/John_Lee_Hooker/blow_up.htm
-  - type: lyrics
-    url: /bluesmen/John_Lee_Hooker/lyrics.aspx
-  - type: tabs
-    url: /bluesmen/John_Lee_Hooker/tabs.aspx
-  - type: video
-    url: /bluesmen/John_Lee_Hooker/#music
+    url: /artist/john-lee-hooker/blow_up.htm
 - id: 33
   slug: lightnin-hopkins
   name: Lightnin' Hopkins
@@ -456,11 +314,7 @@
   amg_id: Bularqj6bojfa
   spotify_id: 6EZzVXM2uDRPmnHWq9yPDE
   apple_music_id: '179321'
-  resources:
-  - type: lyrics
-    url: /bluesmen/Lightnin_Hopkins/lyrics.aspx
-  - type: video
-    url: /bluesmen/Lightnin_Hopkins/#music
+  resources: []
 - id: 35
   slug: howlin-wolf
   name: Howlin' Wolf
@@ -470,14 +324,6 @@
   spotify_id: 0Wxy5Qka8BN9crcFkiAxSR
   apple_music_id: '95657'
   resources:
-  - type: article
-    url: /bluesmen/Howlin_Wolf/
-  - type: tabs
-    url: /bluesmen/Howlin_Wolf/tabs.aspx
-  - type: lyrics
-    url: /bluesmen/Howlin_Wolf/lyrics.aspx
-  - type: links
-    url: /bluesmen/Howlin_Wolf/#recordings
   - type: article
     url: /reading/wolf_palmer1.htm
   - type: article
@@ -491,16 +337,10 @@
   spotify_id: 0q9kpdDkEA3H17gcRMjgVS
   apple_music_id: '527470'
   resources:
-  - type: video
-    url: /bluesmen/Elmore_James/#music
-  - type: lyrics
-    url: /bluesmen/Elmore_James/lyrics.aspx
-  - type: tabs
-    url: /bluesmen/Elmore_James/tabs.aspx
   - type: link
-    url: /bluesmen/Elmore_James/ww_JamesEl.htm
+    url: /artist/elmore-james/ww_JamesEl.htm
   - type: audio
-    url: /bluesmen/Elmore_James/ww_JamesEl.htm#links
+    url: /artist/elmore-james/ww_JamesEl.htm#links
 - id: 37
   slug: blind-lemon-jefferson
   name: Blind Lemon Jefferson
@@ -509,9 +349,7 @@
   amg_id: Btye097b7krjt
   spotify_id: 6EsuMifB8c5rm5P2DdjiLe
   apple_music_id: '914329'
-  resources:
-  - type: article
-    url: /bluesmen/Blind_Lemon_Jefferson/
+  resources: []
 - id: 38
   slug: robert-johnson
   name: Robert Johnson
@@ -520,15 +358,7 @@
   amg_id: Bu1azqjobojha
   spotify_id: 0f8MDDzIc6M4uH1xH0o0gy
   apple_music_id: '314626'
-  resources:
-  - type: lyrics
-    url: /bluesmen/Robert_Johnson/lyrics.aspx
-  - type: tabs
-    url: /bluesmen/Robert_Johnson/tabs.aspx
-  - type: video
-    url: /bluesmen/Robert_Johnson/#music
-  - type: links
-    url: /bluesmen/Robert_Johnson/#recordings
+  resources: []
 - id: 39
   slug: albert-king
   name: Albert King
@@ -538,14 +368,6 @@
   spotify_id: 5aygfDCEaX5KTZOxSCpT9o
   apple_music_id: '1485217'
   resources:
-  - type: article
-    url: /bluesmen/Albert_King/
-  - type: lyrics
-    url: /bluesmen/Albert_King/lyrics.aspx
-  - type: tabs
-    url: /bluesmen/Albert_King/tabs.aspx
-  - type: links
-    url: /bluesmen/Albert_King/#recordings
   - type: interview
     url: http://community.livejournal.com/blues_ukraine/1710.html#cutid1
 - id: 40
@@ -558,15 +380,7 @@
   apple_music_id: '75207'
   resources:
   - type: interview
-    url: /bluesmen/BB_King/bbinterv.htm
-  - type: tabs
-    url: /bluesmen/BB_King/tabs.aspx
-  - type: lyrics
-    url: /bluesmen/BB_King/lyrics.aspx
-  - type: links
-    url: /bluesmen/BB_King/#recordings
-  - type: photos
-    url: /bluesmen/BB_King/#photo
+    url: /artist/bb-king/bbinterv.htm
 - id: 41
   slug: freddie-king
   name: Freddie King
@@ -575,13 +389,7 @@
   amg_id: Bkunyxddbjol7
   spotify_id: 5dCuFngSPyOOnTAvrC7v2s
   apple_music_id: '549060'
-  resources:
-  - type: article
-    url: /bluesmen/Freddie_King/
-  - type: tabs
-    url: /bluesmen/Freddie_King/tabs.aspx
-  - type: links
-    url: /bluesmen/Freddie_King/#recordings
+  resources: []
 - id: 42
   slug: alexis-korner
   name: Alexis Korner
@@ -589,11 +397,7 @@
   legacy_path: /bluesmen/Alexis_Korner/
   amg_id: By2jx7iajg77r
   spotify_id: 385tW2q0gMaQTkswc9lMSe
-  resources:
-  - type: article
-    url: /bluesmen/Alexis_Korner/
-  - type: article
-    url: /bluesmen/Alexis_Korner/Alexis_Korner_Blues_Inc.aspx
+  resources: []
 - id: 43
   slug: johnny-lang
   name: Johnny Lang
@@ -601,9 +405,7 @@
   legacy_path: /bluesmen/Johnny_Lang/
   amg_id: B08q7g44ntvoz
   spotify_id: 5rX1EodZfwxmW4fQX2Caot
-  resources:
-  - type: photos
-    url: /bluesmen/Johnny_Lang/#photo
+  resources: []
 - id: 45
   slug: long-john-hunter
   name: Long John Hunter
@@ -612,10 +414,6 @@
   amg_id: Bmr0qoayabijp
   spotify_id: 7z5ixtgDexP9ffmFvFoRlW
   resources:
-  - type: article
-    url: /bluesmen/Long_John_Hunter/
-  - type: video
-    url: /bluesmen/Long_John_Hunter/#music
   - type: link
     url: /efes/longjohn.asp
   - type: interview
@@ -628,9 +426,7 @@
   amg_id: B56jwear04xd7
   spotify_id: 74TtiqgtscsnZGa84SHolz
   apple_music_id: '6849925'
-  resources:
-  - type: article
-    url: /bluesmen/Doug_MacLeod/
+  resources: []
 - id: 47
   slug: john-mayall
   name: John Mayall
@@ -640,16 +436,10 @@
   spotify_id: 5s4z3mRAE7nxE3jjft8J3h
   apple_music_id: '44649'
   resources:
-  - type: article
-    url: /bluesmen/John_Mayall/
   - type: interview
-    url: /bluesmen/John_Mayall/John_Mayall_int.htm
-  - type: article
-    url: /bluesmen/John_Mayall/kalachev.aspx
+    url: /artist/john-mayall/John_Mayall_int.htm
   - type: article
     url: /ww/Mayall60.zip
-  - type: photos
-    url: /bluesnews/_14/14_10_13_Mayall/
 - id: 48
   slug: brownie-mcghee
   name: Brownie McGhee
@@ -657,9 +447,7 @@
   legacy_path: /bluesmen/Brownie_McGhee/
   amg_id: Bihud6jah71q0
   spotify_id: 3qXzj7WzBV3kwy1yEV1RcC
-  resources:
-  - type: article
-    url: /bluesmen/Brownie_McGhee/
+  resources: []
 - id: 49
   slug: keb-mo
   name: Keb' Mo'
@@ -669,8 +457,6 @@
   spotify_id: 6iDaoPZVgxrTkndDCisX8F
   apple_music_id: '483315'
   resources:
-  - type: article
-    url: /bluesmen/Keb_Mo/
   - type: interview
     url: /news/2015/06/#1078
 - id: 50
@@ -683,11 +469,7 @@
   apple_music_id: '3857793'
   resources:
   - type: article
-    url: /bluesmen/Coco_Montoya/
-  - type: article
-    url: /bluesmen/Coco_Montoya/Coco_Montoya_article.htm
-  - type: photos
-    url: /bluesnews/11B/11_09_29_Montoya/
+    url: /artist/coco-montoya/Coco_Montoya_article.htm
 - id: 51
   slug: gary-moore
   name: Gary Moore
@@ -698,13 +480,9 @@
   apple_music_id: '519368'
   resources:
   - type: article
-    url: /bluesmen/Gary_Moore/moore.htm
+    url: /artist/gary-moore/moore.htm
   - type: discography
-    url: /bluesmen/Gary_Moore/mooredis.htm
-  - type: video
-    url: /bluesmen/Gary_Moore/#music
-  - type: audio
-    url: /bluesmen/Gary_Moore/#links
+    url: /artist/gary-moore/mooredis.htm
   - type: interview
     url: /news/?p=201010#833
 - id: 52
@@ -714,9 +492,7 @@
   legacy_path: /bluesmen/Kenny_Neal/
   amg_id: Bzgse4j470waw
   spotify_id: 2YNoaobWamjDPop3nk9xMQ
-  resources:
-  - type: article
-    url: /bluesmen/Kenny_Neal/
+  resources: []
 - id: 53
   slug: pinetop-perkins
   name: Pinetop Perkins
@@ -739,9 +515,7 @@
   legacy_path: /bluesmen/Lonnie_Pitchford/
   amg_id: Bu2jb7i8og76r
   spotify_id: 5XGoUb08p94SCPWohCzDFv
-  resources:
-  - type: article
-    url: /bluesmen/Lonnie_Pitchford/
+  resources: []
 - id: 55
   slug: lucky-peterson
   name: Lucky Peterson
@@ -752,10 +526,6 @@
   apple_music_id: '47988'
   resources:
   - type: article
-    url: /bluesmen/Lucky_Peterson/#article
-  - type: interview
-    url: /bluesmen/Lucky_Peterson/
-  - type: article
     url: /news/?p=201012#854
 - id: 57
   slug: jimmy-reed
@@ -765,13 +535,7 @@
   amg_id: Bt9b8b594tsq4
   spotify_id: 41ZMMuFFLPTVPkUsSI5KlV
   apple_music_id: '207845'
-  resources:
-  - type: article
-    url: /bluesmen/Jimmy_Reed/
-  - type: link
-    url: http://blues.ru/atb/atb_15_09_Jimmy%20Reed_I.mp3
-  - type: link
-    url: http://blues.ru/atb/atb_15_09_Jimmy%20Reed_II.mp3
+  resources: []
 - id: 58
   slug: jimmy-rogers
   name: Jimmy Rogers
@@ -781,8 +545,6 @@
   spotify_id: 0Y0ZlznP6vzTS1qAm5dvTN
   apple_music_id: '98774'
   resources:
-  - type: lyrics
-    url: /bluesmen/Jimmy_Rogers/lyrics.aspx
   - type: link
     url: /atb/JR_90/JR_90.html
 - id: 59
@@ -795,11 +557,9 @@
   apple_music_id: '95693'
   resources:
   - type: article
-    url: /bluesmen/Otis_Rush/RushGrammy.htm
-  - type: article
-    url: /bluesmen/Otis_Rush/
+    url: /artist/otis-rush/RushGrammy.htm
   - type: interview
-    url: /bluesmen/Otis_Rush/Rush1993.htm
+    url: /artist/otis-rush/Rush1993.htm
 - id: 60
   slug: son-seals
   name: Son Seals
@@ -808,9 +568,7 @@
   amg_id: Bfyez97b7kr0t
   spotify_id: 0phMS1UDPTZlxuEnarDUKt
   apple_music_id: '5684563'
-  resources:
-  - type: article
-    url: /bluesmen/Son_Seals/
+  resources: []
 - id: 61
   slug: kenny-wayne-shepherd
   name: Kenny Wayne Shepherd
@@ -820,12 +578,6 @@
   spotify_id: 1riHqX633Kup3mJAw8WR8p
   apple_music_id: '147085'
   resources:
-  - type: article
-    url: /bluesmen/Kenny_Wayne_Shepherd/#article
-  - type: video
-    url: /bluesmen/Kenny_Wayne_Shepherd/#music
-  - type: lyrics
-    url: /bluesmen/Kenny_Wayne_Shepherd/lyrics.aspx
   - type: interview
     url: /bluesnews/10Summer/KWS10/KWS10.htm
 - id: 62
@@ -835,9 +587,7 @@
   legacy_path: null
   amg_id: Bkumyxdfbjol0
   spotify_id: 3Dogy4uGWEG13OyOJmw3R9
-  resources:
-  - type: page
-    url: /bluesmen/Pinetop_Perkins/Perkins_Sumlin.htm
+  resources: []
 - id: 63
   slug: koko-taylor
   name: Koko Taylor
@@ -856,15 +606,7 @@
   amg_id: B7udaylkjxpmb
   spotify_id: 1aTDTChWWyiJH3SEnYrdVp
   apple_music_id: '10735'
-  resources:
-  - type: article
-    url: /bluesmen/Taj_Mahal/
-  - type: link
-    url: /ATB/atb_17_05_15_TajMahal_I.mp3
-  - type: link
-    url: /ATB/atb_17_05_15_TajMahal_II.mp3
-  - type: photos
-    url: http://blues.ru/bluesnews/_13/TM_2013/
+  resources: []
 - id: 65
   slug: t-bone-walker
   name: T-Bone Walker
@@ -873,17 +615,7 @@
   amg_id: B8x7tk6dx9krf
   spotify_id: 6nPKmEbQmR8jGZEm7ArOFX
   apple_music_id: '533197'
-  resources:
-  - type: article
-    url: /bluesmen/T-Bone_Walker/
-  - type: article
-    url: /bluesmen/T-Bone_Walker/#article2
-  - type: video
-    url: /bluesmen/T-Bone_Walker/#music
-  - type: lyrics
-    url: /bluesmen/T-Bone_Walker/lyrics.aspx
-  - type: links
-    url: /bluesmen/T-Bone_Walker/#recordings
+  resources: []
 - id: 66
   slug: jimmie-vaughan
   name: Jimmie Vaughan
@@ -892,12 +624,10 @@
   amg_id: Bct7ibkh9hakb
   spotify_id: 4gPGI1vW8TOypARV9Ykzae
   resources:
-  - type: article
-    url: /bluesmen/Jimmie_Vaughan/
   - type: link
-    url: /bluesmen/Jimmie_Vaughan/ww_VaughanJ.htm
+    url: /artist/jimmie-vaughan/ww_VaughanJ.htm
   - type: audio
-    url: /bluesmen/Jimmie_Vaughan/ww_VaughanJ.htm#links
+    url: /artist/jimmie-vaughan/ww_VaughanJ.htm#links
 - id: 67
   slug: stevie-ray-vaughan
   name: Stevie Ray Vaughan
@@ -908,17 +638,7 @@
   apple_music_id: '484957'
   resources:
   - type: article
-    url: /bluesmen/Stevie_Ray_Vaughan/Stevie_Ray_Vaughan_article.htm
-  - type: lyrics
-    url: /bluesmen/Stevie_Ray_Vaughan/lyrics.aspx
-  - type: tabs
-    url: /bluesmen/Stevie_Ray_Vaughan/tabs.aspx
-  - type: video
-    url: /bluesmen/Stevie_Ray_Vaughan/#music
-  - type: links
-    url: /bluesmen/Stevie_Ray_Vaughan/#recordings
-  - type: photos
-    url: /bluesmen/Stevie_Ray_Vaughan/#photo
+    url: /artist/stevie-ray-vaughan/Stevie_Ray_Vaughan_article.htm
 - id: 68
   slug: little-walter
   name: Little Walter
@@ -926,11 +646,7 @@
   legacy_path: /bluesmen/Little_Walter/
   amg_id: B9i0xlf0e5cqw
   spotify_id: 22JuR9OeENcP54XN5TlNWS
-  resources:
-  - type: lyrics
-    url: /bluesmen/Little_Walter/lyrics.aspx
-  - type: links
-    url: /bluesmen/Little_Walter/#recordings
+  resources: []
 - id: 69
   slug: muddy-waters
   name: Muddy Waters
@@ -940,21 +656,15 @@
   spotify_id: 4y6J8jwRAwO4dssiSmN91R
   resources:
   - type: article
-    url: /bluesmen/Muddy_Waters/hut.htm
-  - type: lyrics
-    url: /bluesmen/Muddy_Waters/lyrics.aspx
-  - type: tabs
-    url: /bluesmen/Muddy_Waters/tabs.aspx
-  - type: video
-    url: /bluesmen/Muddy_Waters/#music
+    url: /artist/muddy-waters/hut.htm
   - type: article
-    url: /bluesmen/Muddy_Waters/Margolin.htm
+    url: /artist/muddy-waters/Margolin.htm
   - type: article
-    url: http://blues.ru/reading/MuddyGordon1.html
+    url: /reading/MuddyGordon1.html
   - type: links
     url: http://youtu.be/jmUhqUwmX9Q
   - type: interview
-    url: http://www.blues.ru/reading/RP01.htm
+    url: /reading/RP01.htm
 - id: 70
   slug: junior-wells
   name: Junior Wells
@@ -963,11 +673,7 @@
   amg_id: B483gtq1ztu48
   spotify_id: 78CBFzwo7wwNaaTYVP5btK
   apple_music_id: '1166346'
-  resources:
-  - type: lyrics
-    url: /bluesmen/Junior_Wells/lyrics.aspx
-  - type: video
-    url: /bluesmen/Junior_Wells/#music
+  resources: []
 - id: 71
   slug: joe-williams
   name: Joe Williams
@@ -976,9 +682,7 @@
   amg_id: Baifwxqy5ldfe
   spotify_id: 7FMGtucexJvUxVz7scydEL
   apple_music_id: '683204'
-  resources:
-  - type: article
-    url: /bluesmen/Joe_Williams/
+  resources: []
 - id: 72
   slug: sonny-boy-williamson
   name: Sonny Boy Williamson
@@ -986,13 +690,7 @@
   legacy_path: /bluesmen/Sonny_Boy_Williamson/
   amg_id: Bzt1m96bodep6
   spotify_id: 547G7bscNX0eH1Wn8goMUz
-  resources:
-  - type: lyrics
-    url: /bluesmen/Sonny_Boy_Williamson/lyrics.aspx
-  - type: video
-    url: /bluesmen/Sonny_Boy_Williamson/#music
-  - type: links
-    url: /bluesmen/Sonny_Boy_Williamson/#recordings
+  resources: []
 - id: 73
   slug: johnny-winter
   name: Johnny Winter
@@ -1002,10 +700,6 @@
   spotify_id: 2ODUxmFxJSyvGiimNhMHbO
   apple_music_id: '474961'
   resources:
-  - type: tabs
-    url: /bluesmen/Johnny_Winter/tabs.aspx
-  - type: links
-    url: /bluesmen/Johnny_Winter/#recordings
   - type: interview
     url: /bluesnews/10Spring/WinterInt10/WinterInt10.html
 - id: 74
@@ -1016,11 +710,7 @@
   amg_id: B6mkcu32gan5k
   spotify_id: 6vth8u6Wp7k2bbzDQMCmrb
   apple_music_id: '95664'
-  resources:
-  - type: article
-    url: /bluesmen/Jimmy_Witherspoon/
-  - type: discography
-    url: /bluesmen/Jimmy_Witherspoon/#guide
+  resources: []
 - id: 75
   slug: mighty-joe-young
   name: Mighty Joe Young
@@ -1029,9 +719,7 @@
   amg_id: Bsv6dtralkl4x
   spotify_id: 3s5c2rjSE7v4KbMsGb5qaL
   apple_music_id: '3423921'
-  resources:
-  - type: article
-    url: /bluesmen/Mighty_Joe_Young/
+  resources: []
 - id: 76
   slug: mike-bloomfield
   name: Mike Bloomfield
@@ -1040,10 +728,6 @@
   amg_id: Baq1tk6sx9kr0
   spotify_id: 0yT9vbP1EOnCpl2McnF9nH
   resources:
-  - type: link
-    url: /bluesmen/Mike_Bloomfield/
-  - type: audio
-    url: /bluesmen/Mike_Bloomfield/#links
   - type: article
     url: http://finam.fm/archive-view/1259/
 - id: 77
@@ -1053,11 +737,7 @@
   legacy_path: /bluesmen/Lonnie_Brooks/
   amg_id: Bkzjqoauabijx
   spotify_id: 56tyBq8Ta1BdSTBs0gGhog
-  resources:
-  - type: link
-    url: /bluesmen/Lonnie_Brooks/
-  - type: audio
-    url: /bluesmen/Lonnie_Brooks/#links
+  resources: []
 - id: 78
   slug: big-bill-broonzy
   name: Big Bill Broonzy
@@ -1065,9 +745,7 @@
   legacy_path: /bluesmen/Big_Bill_Broonzy/
   amg_id: Bntkmu3x5an5k
   spotify_id: 6HwigzRpuWoCZDqMOQc5eu
-  resources:
-  - type: link
-    url: /bluesmen/Big_Bill_Broonzy/
+  resources: []
 - id: 79
   slug: clarence-gatemouth-brown
   name: Clarence "Gatemouth" Brown
@@ -1075,11 +753,7 @@
   legacy_path: /bluesmen/Clarence_Gatemouth_Brown/
   amg_id: Bku3ibkj96ak9
   spotify_id: 4aoS04mCVj1CMam1LiHngo
-  resources:
-  - type: link
-    url: /bluesmen/Clarence_Gatemouth_Brown/
-  - type: audio
-    url: /bluesmen/Clarence_Gatemouth_Brown/#links
+  resources: []
 - id: 80
   slug: ruth-brown
   name: Ruth Brown
@@ -1087,11 +761,7 @@
   legacy_path: /bluesmen/Ruth_Brown/
   amg_id: Bz9z8b5m4tsqe
   spotify_id: 4EYVgfZJ8wKXWmIvCx3gOY
-  resources:
-  - type: link
-    url: /bluesmen/Ruth_Brown/
-  - type: audio
-    url: /bluesmen/Ruth_Brown/#links
+  resources: []
 - id: 81
   slug: rl-burnside
   name: R.L.Burnside
@@ -1099,11 +769,7 @@
   legacy_path: /bluesmen/RL_Burnside/
   amg_id: Bwzdxlfke5cqe
   spotify_id: 2drMeidRg4jc07neGOL0Ip
-  resources:
-  - type: link
-    url: /bluesmen/RL_Burnside/
-  - type: audio
-    url: /bluesmen/RL_Burnside/#links
+  resources: []
 - id: 82
   slug: paul-butterfield
   name: Paul Butterfield
@@ -1111,11 +777,7 @@
   legacy_path: /bluesmen/Paul_Butterfield/
   amg_id: B48ogtq9ztu4p
   spotify_id: 6kz7WuPaUa4QVreP27I33i
-  resources:
-  - type: link
-    url: /bluesmen/Paul_Butterfield/
-  - type: audio
-    url: /bluesmen/Paul_Butterfield/#links
+  resources: []
 - id: 83
   slug: john-campbell
   name: John Campbell
@@ -1123,11 +785,7 @@
   legacy_path: /bluesmen/John_Campbell/
   amg_id: Bpxcm968o3epf
   spotify_id: 10lsnqrWnGo0X3Kgn1nWIS
-  resources:
-  - type: link
-    url: /bluesmen/John_Campbell/
-  - type: audio
-    url: /bluesmen/John_Campbell/#links
+  resources: []
 - id: 84
   slug: canned-heat
   name: Canned Heat
@@ -1135,11 +793,7 @@
   legacy_path: /bluesmen/Canned_Heat/
   amg_id: Brghe4jn70way
   spotify_id: 27a0GiCba9K9lnkKidroFU
-  resources:
-  - type: link
-    url: /bluesmen/Canned_Heat/
-  - type: audio
-    url: /bluesmen/Canned_Heat/#links
+  resources: []
 - id: 85
   slug: tommy-castro
   name: Tommy Castro
@@ -1149,10 +803,6 @@
   spotify_id: 3qcmjQYtotraA2JrvN8165
   apple_music_id: '3828268'
   resources:
-  - type: link
-    url: /bluesmen/Tommy_Castro/
-  - type: audio
-    url: /bluesmen/Tommy_Castro/#links
   - type: interview
     url: /bluesnews/10Spring/castro/castroint.htm
 - id: 86
@@ -1162,9 +812,7 @@
   legacy_path: /bluesmen/Jennie_Jimmy_Cheatham/
   amg_id: B3i67mpn39ffo
   spotify_id: 6ql0v44H71ERGXZsdGrETX
-  resources:
-  - type: link
-    url: /bluesmen/Jennie_Jimmy_Cheatham/
+  resources: []
 - id: 87
   slug: clifton-chenier
   name: Clifton Chenier
@@ -1173,11 +821,7 @@
   amg_id: B7udkylkjxppb
   spotify_id: 3LzQVHowQWbzJBwBBNRPfY
   apple_music_id: '2716210'
-  resources:
-  - type: link
-    url: /bluesmen/Clifton_Chenier/
-  - type: audio
-    url: /bluesmen/Clifton_Chenier/#links
+  resources: []
 - id: 88
   slug: james-cotton
   name: James Cotton
@@ -1187,16 +831,8 @@
   spotify_id: 6mY93oNfUaUwZq67yn3R8k
   apple_music_id: '46445'
   resources:
-  - type: audio
-    url: /bluesmen/James_Cotton/#links
-  - type: link
-    url: /bluesmen/James_Cotton/James_Cotton2.aspx
-  - type: link
-    url: /bluesmen/James_Cotton/
-  - type: video
-    url: /bluesmen/James_Cotton/#music
   - type: interview
-    url: http://blues.ru/news/?p=200807#500
+    url: /news/?p=200807#500
 - id: 90
   slug: arthur-crudup
   name: Arthur "Big Boy" Crudup
@@ -1205,11 +841,7 @@
   amg_id: B6usqoarabijv
   spotify_id: 7dSnChJjb0jdfulJsIijoC
   apple_music_id: '24710'
-  resources:
-  - type: link
-    url: /bluesmen/Arthur_Crudup/
-  - type: audio
-    url: /bluesmen/Arthur_Crudup/#links
+  resources: []
 - id: 92
   slug: rory-gallagher
   name: Rory Gallagher
@@ -1218,11 +850,7 @@
   amg_id: Bu2jv7i5jg76r
   spotify_id: 1kcWyDvrlPUbyxkIoM6pAV
   apple_music_id: '2415529'
-  resources:
-  - type: link
-    url: /bluesmen/Rory_Gallagher/
-  - type: audio
-    url: /bluesmen/Rory_Gallagher/#links
+  resources: []
 - id: 93
   slug: harmonica-fats
   name: Harmonica Fats
@@ -1231,9 +859,7 @@
   amg_id: Bfvv1z8oajyv5
   spotify_id: 2FE5NTrGemODPahvSAifB1
   apple_music_id: '285198780'
-  resources:
-  - type: link
-    url: /bluesmen/Harmonica_Fats/
+  resources: []
 - id: 94
   slug: clarence-hollimon
   name: Clarence Hollimon
@@ -1242,9 +868,7 @@
   amg_id: Bozrv281r052a
   spotify_id: 7CrfVqaH0jTXD9zXwsYwFm
   apple_music_id: '3930389'
-  resources:
-  - type: link
-    url: /bluesmen/Clarence_Hollimon/
+  resources: []
 - id: 95
   slug: michael-cub-koda
   name: Michael "Cub" Koda
@@ -1252,9 +876,7 @@
   legacy_path: /bluesmen/Michael_Cub_Koda/
   amg_id: null
   spotify_id: 6ytqHZyHH6y1T9MQ21Rqcu
-  resources:
-  - type: video
-    url: /bluesmen/Michael_Cub_Koda/
+  resources: []
 - id: 96
   slug: lil-ed-williams
   name: Lil' Ed Williams & The Blues Imperials
@@ -1262,15 +884,7 @@
   legacy_path: /bluesmen/LilEd_Williams/
   amg_id: Bj06wtro9kl3x
   spotify_id: 3Rb0PWL2XJTCKrhZ2FSd5E
-  resources:
-  - type: link
-    url: /bluesmen/LilEd_Williams/
-  - type: audio
-    url: /bluesmen/LilEd_Williams/#links
-  - type: photos
-    url: /bluesnews/08Autumn/Lefortovo/Q_LilEd/
-  - type: photos
-    url: /bluesnews/_16/16_06_10_Lil_Ed/
+  resources: []
 - id: 97
   slug: louisiana-red
   name: Louisiana Red
@@ -1279,11 +893,7 @@
   amg_id: B8r6cmpp39f2o
   spotify_id: 1gAPH1IQmAFW28AYz1nyE9
   apple_music_id: '5125856'
-  resources:
-  - type: link
-    url: /bluesmen/Louisiana_Red/
-  - type: audio
-    url: /bluesmen/Louisiana_Red/#links
+  resources: []
 - id: 98
   slug: charlie-musselwhite
   name: Charlie Musselwhite
@@ -1293,14 +903,8 @@
   spotify_id: 4NikxGoDm5LGVYAHj0Euoc
   apple_music_id: '3096504'
   resources:
-  - type: link
-    url: /bluesmen/Charlie_Musselwhite/
-  - type: audio
-    url: /bluesmen/Charlie_Musselwhite/#links
-  - type: link
-    url: /bluesmen/Charlie_Musselwhite/Charlie_Musselwhite2.aspx
   - type: interview
-    url: /bluesmen/Charlie_Musselwhite/Charlie_Musselwhite_interview.htm
+    url: /artist/charlie-musselwhite/Charlie_Musselwhite_interview.htm
 - id: 99
   slug: pops-staples
   name: Pops Staples
@@ -1310,10 +914,8 @@
   spotify_id: 0F8Bkp3cWlXJKp1GmFV5n3
   apple_music_id: '527727'
   resources:
-  - type: link
-    url: /bluesmen/Pops_Staples/
   - type: interview
-    url: /bluesmen/Pops_Staples/ww_StaplesP1.htm
+    url: /artist/pops-staples/ww_StaplesP1.htm
 - id: 100
   slug: johnnie-taylor
   name: Johnnie Taylor
@@ -1322,9 +924,7 @@
   amg_id: Brisxlfhe5cqp
   spotify_id: 4OGuNAnRFWZOgOA2d51taz
   apple_music_id: '867432'
-  resources:
-  - type: link
-    url: /bluesmen/Johnnie_Taylor/
+  resources: []
 - id: 102
   slug: johnny-big-moose-walker
   name: Johnny "Big Moose" Walker
@@ -1333,9 +933,7 @@
   amg_id: Bmtom96oodepo
   spotify_id: 0a4xVWpLoNjWN8NbMqE6tU
   apple_music_id: '14933031'
-  resources:
-  - type: link
-    url: /bluesmen/Johnny_Big_Moose_Walker/
+  resources: []
 - id: 103
   slug: chess-records
   name: Chess Records
@@ -1362,10 +960,6 @@
     url: /label/Alligator/#links
   - type: interview
     url: /bluesnews/_16/Alligator_XLV/Iglauer_2016.htm
-  - type: link
-    url: /ATB/atb_16_07_11_Alligator_pI.mp3
-  - type: link
-    url: /ATB/atb_16_07_11_Alligator_pII.mp3
 - id: 109
   slug: little-charlie
   name: Little Charlie & The Nightcats
@@ -1375,10 +969,8 @@
   spotify_id: 7GlnrRLOQtsu3wtX3a2xEl
   apple_music_id: '5604083'
   resources:
-  - type: article
-    url: /bluesmen/Little_Charlie/
   - type: interview
-    url: /bluesmen/Little_Charlie/Little_Charlie_interview.htm
+    url: /artist/little-charlie/Little_Charlie_interview.htm
 - id: 110
   slug: roomful-of-blues
   name: Roomful Of Blues
@@ -1404,10 +996,8 @@
   spotify_id: 35UiXUhK0DxiIColZzzQ4P
   apple_music_id: '164459637'
   resources:
-  - type: article
-    url: /bluesmen/Rick_Holmstrom/
   - type: interview
-    url: /bluesmen/Rick_Holmstrom/Rick_Holmstrom_interview.htm
+    url: /artist/rick-holmstrom/Rick_Holmstrom_interview.htm
 - id: 116
   slug: amund-maarud
   name: Amund Maarud
@@ -1417,12 +1007,8 @@
   spotify_id: 4iBwhMgjKUJeB6Y9GEsErw
   apple_music_id: '122471634'
   resources:
-  - type: video
-    url: /bluesmen/Amund_Maarud/#music
   - type: article
-    url: /bluesmen/Amund_Maarud/
-  - type: article
-    url: /bluesmen/Amund_Maarud/gigsreviews.htm
+    url: /artist/amund-maarud/gigsreviews.htm
 - id: 117
   slug: wc-handy
   name: W.C. Handy
@@ -1431,9 +1017,7 @@
   amg_id: null
   spotify_id: 7mDbAZV24eEmw5VJpKlCi9
   apple_music_id: '270230'
-  resources:
-  - type: link
-    url: /bluesmen/WC_Handy/
+  resources: []
 - id: 118
   slug: carlos-del-junco
   name: Carlos del Junco
@@ -1443,10 +1027,8 @@
   spotify_id: 0hYHKAmY13ZNaFjJ4NICf7
   apple_music_id: '81833328'
   resources:
-  - type: article
-    url: /bluesmen/Carlos_Del_Junco/
   - type: link
-    url: /bluesmen/Carlos_Del_Junco/ww_Junco.htm
+    url: /artist/carlos-del-junco/ww_Junco.htm
 - id: 119
   slug: champion-jack-dupree
   name: Champion Jack Dupree
@@ -1455,11 +1037,7 @@
   amg_id: 11:3tkxu3x5an6k
   spotify_id: 1NnRjWELSLqFONDhwc8VU7
   apple_music_id: '1390001'
-  resources:
-  - type: link
-    url: /bluesmen/Champion_Jack_Dupree/
-  - type: audio
-    url: /bluesmen/Champion_Jack_Dupree/#links
+  resources: []
 - id: 120
   slug: screamin-jay-hawkins
   name: Screamin' Jay Hawkins
@@ -1479,9 +1057,7 @@
   amg_id: null
   spotify_id: 6Ti8C1FTM9ZV8qwWktWy3w
   apple_music_id: '41450224'
-  resources:
-  - type: interview
-    url: /bluesmen/Dave_Specter/
+  resources: []
 - id: 122
   slug: noel-redding
   name: Noel Redding
@@ -1490,11 +1066,7 @@
   amg_id: Bbmg9kext7q7z
   spotify_id: 3ltVUR5mzyaLZMoCdo26qT
   apple_music_id: '106024581'
-  resources:
-  - type: interview
-    url: /bluesmen/Noel_Redding/
-  - type: photos
-    url: /bluesmen/Noel_Redding/#photo
+  resources: []
 - id: 123
   slug: junior-watson
   name: Junior Watson
@@ -1503,11 +1075,7 @@
   amg_id: Buwf1zfs7eh7k
   spotify_id: 3GKQjnbn10eiRdADeCZjYC
   apple_music_id: '1478089654'
-  resources:
-  - type: article
-    url: /bluesmen/Junior_Watson/#article
-  - type: interview
-    url: /bluesmen/Junior_Watson/#interview
+  resources: []
 - id: 124
   slug: kid-ramos
   name: Kid Ramos
@@ -1516,9 +1084,7 @@
   amg_id: null
   spotify_id: 405tHSLp2ie78eo1j1IygQ
   apple_music_id: '119172796'
-  resources:
-  - type: interview
-    url: /bluesmen/Kid_Ramos/
+  resources: []
 - id: 125
   slug: knockout-greg
   name: Knock-Out Greg & Blue Weather
@@ -1545,9 +1111,7 @@
   amg_id: B3thqoatayijd
   spotify_id: 4KhXj4jFBKfH0tVc4eIV5z
   apple_music_id: '256040524'
-  resources:
-  - type: article
-    url: /bluesmen/Paul_Lamb/
+  resources: []
 - id: 128
   slug: duke-robillard
   name: Duke Robillard
@@ -1556,9 +1120,7 @@
   amg_id: Brmf6zffheh3k
   spotify_id: 3SQa9cVuiUaZfao2KZiElA
   apple_music_id: '2489744'
-  resources:
-  - type: interview
-    url: /bluesmen/Duke_Robillard/
+  resources: []
 - id: 129
   slug: kim-wilson
   name: Kim Wilson
@@ -1566,9 +1128,7 @@
   legacy_path: /bluesmen/Kim_Wilson/
   amg_id: B6kzsa9rgb230
   spotify_id: 3LkeAX21Tyb0t1CCAP5aq3
-  resources:
-  - type: interview
-    url: /bluesmen/Kim_Wilson/
+  resources: []
 - id: 130
   slug: jimmy-d-lane
   name: Jimmy D. Lane
@@ -1576,15 +1136,7 @@
   legacy_path: /bluesmen/Jimmy_D_Lane/
   amg_id: B6h27gjyr86i9
   spotify_id: 2ccILyp74XrXw9p3dlmUc9
-  resources:
-  - type: article
-    url: /bluesmen/Jimmy_D_Lane/
-  - type: photos
-    url: /bluesnews/03Autumn/RBK2/OB_RBK.htm
-  - type: photos
-    url: /bluesnews/03Autumn/OBForteDL/OBForte8.htm
-  - type: photos
-    url: /bluesnews/03Autumn/OBDinamo/OBDinamo.htm
+  resources: []
 - id: 131
   slug: bb-the-blues-shacks
   name: B.B. & The Blues Shacks
@@ -1593,9 +1145,7 @@
   amg_id: Bj9fexql0ldae
   spotify_id: 7BLvemJuYKMilnWW7DLn39
   apple_music_id: '211229871'
-  resources:
-  - type: article
-    url: /bluesmen/BB_The_Blues_Shacks/
+  resources: []
 - id: 132
   slug: alex-schultz
   name: Alex Schultz
@@ -1603,11 +1153,7 @@
   legacy_path: /bluesmen/Alex_Schultz/
   amg_id: Btdja7i38g7xr
   spotify_id: 2Vw0dPO1FRGkFWMYFjXvD8
-  resources:
-  - type: article
-    url: /bluesmen/Alex_Schultz/
-  - type: photos
-    url: /bsfest/gallery/list.aspx
+  resources: []
 - id: 133
   slug: wc-clark
   name: W.C. Clark
@@ -1616,8 +1162,6 @@
   amg_id: B198o1vajzzba
   spotify_id: 2eJojpx2Dv1QL3WBjJQXWi
   resources:
-  - type: interview
-    url: /bluesmen/WC_Clark/
   - type: link
     url: /efes/wcclark.htm
 - id: 134
@@ -1628,9 +1172,7 @@
   amg_id: Bw4ue4j270way
   spotify_id: 3y1DgnVXqckGJrbwOKchdU
   apple_music_id: '907298'
-  resources:
-  - type: article
-    url: /bluesmen/Peter_Green/
+  resources: []
 - id: 135
   slug: deborah-coleman
   name: Deborah Coleman
@@ -1639,9 +1181,7 @@
   amg_id: B1zdqoa8auijz
   spotify_id: 7Dk3koHTPpEymzuWOWzzny
   apple_music_id: '3862904'
-  resources:
-  - type: link
-    url: /bluesmen/Deborah_Coleman/
+  resources: []
 - id: 136
   slug: mighty-sam-mcclain
   name: Mighty Sam McClain
@@ -1657,22 +1197,10 @@
   amg_id: B4wfqoayayij9
   spotify_id: 5Z0JPLMZBFdnsrcv5lkpwU
   resources:
-  - type: article
-    url: /bluesmen/Gary_Primich/
   - type: interview
-    url: /bluesmen/Gary_Primich/Gary_Primich_interview.htm
-  - type: article
-    url: /bluesmen/Gary_Primich/EJ-evdokimov.aspx
-  - type: photos
-    url: /bluesnews/04Winter/0124P/0124Primich.htm
-  - type: photos
-    url: /bluesnews/04Winter/0124P/0124Primich1.htm
-  - type: photos
-    url: /bluesnews/04Winter/B2/PrimichB2.htm
+    url: /artist/gary-primich/Gary_Primich_interview.htm
   - type: page
     url: /bluesnews/04Winter/Primich.htm
-  - type: photos
-    url: /bluesnews/04Winter/0123P/0123P.htm
 - id: 139
   slug: john-hammond
   name: John Hammond
@@ -1681,9 +1209,7 @@
   amg_id: Bkubyxdgbjols
   spotify_id: 471Ycbmda1lAuLMscQvxMR
   apple_music_id: '20367220'
-  resources:
-  - type: article
-    url: /bluesmen/John_Hammond/
+  resources: []
 - id: 140
   slug: dr-john
   name: Dr. John
@@ -1694,9 +1220,7 @@
   apple_music_id: '28962'
   resources:
   - type: article
-    url: /bluesmen/Dr_John/
-  - type: article
-    url: /bluesmen/Dr_John/DrJohnHOB.htm
+    url: /artist/dr-john/DrJohnHOB.htm
 - id: 141
   slug: eirik-bergene
   name: Eirik Bergene
@@ -1704,11 +1228,7 @@
   legacy_path: /bluesmen/Eirik_Bergene/
   amg_id: null
   spotify_id: 4zBe5rJRxbEPprNHDm8FzI
-  resources:
-  - type: video
-    url: /bluesmen/Eirik_Bergene/#music
-  - type: photos
-    url: /bluesmen/Eirik_Bergene/#photo
+  resources: []
 - id: 142
   slug: terry-evans
   name: Terry Evans
@@ -1724,9 +1244,7 @@
   amg_id: null
   spotify_id: 4tZ11HCGBejBPGjUgbkcfU
   apple_music_id: '78862610'
-  resources:
-  - type: article
-    url: /bluesmen/Kid_Andersen/
+  resources: []
 - id: 145
   slug: blues-leaf
   name: Blues Leaf
@@ -1745,10 +1263,8 @@
   amg_id: 11:369ds30ba3ng
   spotify_id: 6Pj0e6hTK0LFbhS62uMzTF
   resources:
-  - type: article
-    url: /bluesmen/James_Harman/
   - type: interview
-    url: /bluesmen/James_Harman/James_Harman_interview.htm
+    url: /artist/james-harman/James_Harman_interview.htm
 - id: 147
   slug: billy-branch
   name: Billy Branch
@@ -1757,9 +1273,7 @@
   amg_id: 11:x95s8qttbtx4
   spotify_id: 5cUazMvxcAPELFif0BGn2t
   apple_music_id: '5580589'
-  resources:
-  - type: link
-    url: /bluesmen/Billy_Branch/
+  resources: []
 - id: 148
   slug: johnny-dyer
   name: Johnny Dyer
@@ -1768,9 +1282,7 @@
   amg_id: 11:j3jweae04xu7
   spotify_id: 4f8vvLN5Rt3WszqOqVR9e9
   apple_music_id: '3929521'
-  resources:
-  - type: link
-    url: /bluesmen/Johnny_Dyer/
+  resources: []
 - id: 149
   slug: raful-neal
   name: Raful Neal
@@ -1778,9 +1290,7 @@
   legacy_path: /bluesmen/Raful_Neal/
   amg_id: 11:q69gs30ba3mg
   spotify_id: 5zdiBKXtaX96hNNCEnP5f0
-  resources:
-  - type: link
-    url: /bluesmen/Raful_Neal/
+  resources: []
 - id: 150
   slug: sam-myers
   name: Sam Myers
@@ -1788,9 +1298,7 @@
   legacy_path: /bluesmen/Sam_Myers/
   amg_id: 11:2tknu3x5an7k
   spotify_id: 0YYCVTvvo9y11vKo54ZN3z
-  resources:
-  - type: link
-    url: /bluesmen/Sam_Myers/
+  resources: []
 - id: 151
   slug: snooky-pryor
   name: Snooky Pryor
@@ -1799,9 +1307,7 @@
   amg_id: 11:4b821vajzzza
   spotify_id: 2mGsLcgVJSfpUTgrMuPxt3
   apple_music_id: '3193734'
-  resources:
-  - type: link
-    url: /bluesmen/Snooky_Pryor/
+  resources: []
 - id: 152
   slug: sonny-terry
   name: Sonny Terry
@@ -1810,9 +1316,7 @@
   amg_id: 11:59syxdgb8olf
   spotify_id: 66hQFpsfaFzK8UbsQofCGv
   apple_music_id: '243176'
-  resources:
-  - type: link
-    url: /bluesmen/Sonny_Terry/
+  resources: []
 - id: 153
   slug: sugar-ray-norcia
   name: Sugar Ray Norcia
@@ -1821,9 +1325,7 @@
   amg_id: 11:aal67ue070jd
   spotify_id: 0BM240efed5UAh5fgc23qC
   apple_music_id: '92761833'
-  resources:
-  - type: link
-    url: /bluesmen/Sugar_Ray_Norcia/
+  resources: []
 - id: 155
   slug: blues-harp-melt-down
   name: Blues Harp Melt Down
@@ -1831,11 +1333,7 @@
   legacy_path: /bluesmen/Blues_Harp_Melt_Down/
   amg_id: null
   spotify_id: 5AVBFCn4Hq4KY2Xjc5Gj4y
-  resources:
-  - type: article
-    url: /bluesmen/Blues_Harp_Melt_Down/
-  - type: video
-    url: /bluesmen/Blues_Harp_Melt_Down/#music
+  resources: []
 - id: 156
   slug: govt-mule
   name: Gov't Mule
@@ -1873,9 +1371,7 @@
   legacy_path: /bluesmen/Snooks_Eaglin/
   amg_id: 11:kzkqoatabijn
   spotify_id: 4ReGayOtLkcAsNi6d2n7LS
-  resources:
-  - type: article
-    url: /bluesmen/Snooks_Eaglin/
+  resources: []
 - id: 161
   slug: ron-levy
   name: Ron Levy
@@ -1935,8 +1431,6 @@
     url: /efes/clearwater.asp
   - type: link
     url: /news/2016/08/#1096
-  - type: photos
-    url: /bluesnews/_16/16_06_12_Clearwater/index.htm
 - id: 168
   slug: shuggie-otis
   name: Shuggie Otis
@@ -1993,9 +1487,7 @@
   legacy_path: null
   amg_id: 11:3nkzu3x5an8k
   spotify_id: 23p6pwi1Wf0d46jOMf9fN5
-  resources:
-  - type: photos
-    url: /bluesnews/_16/16_06_10_LilEd_Siegel/
+  resources: []
 - id: 177
   slug: etta-james
   name: Etta James
@@ -2017,9 +1509,7 @@
   legacy_path: http://www.longjohnbaldry.com/
   amg_id: 11:kuvyxdabjold~T1
   spotify_id: 5x9DWz6SpEVu9NgL8aktm2
-  resources:
-  - type: link
-    url: /bluesnews/Long_John_Baldry/ww_BaldryLJ.htm
+  resources: []
 - id: 181
   slug: little-sonny
   name: Little Sonny
@@ -2199,11 +1689,7 @@
   legacy_path: /bluesmen/Arsen_Shomakhov/
   amg_id: null
   spotify_id: 75fFHwV81zUIPih2PAcIjE
-  resources:
-  - type: interview
-    url: /bluesmen/Arsen_Shomakhov/
-  - type: photos
-    url: http://www.blues.ru/bluesnews/11B/Arsen_11/index.htm
+  resources: []
 - id: 204
   slug: wilson-pickett
   name: Wilson Pickett
@@ -2212,9 +1698,7 @@
   amg_id: 11:47d2vw9va9ek
   spotify_id: 0N5PyKJzS3M1XNlaCL7bbE
   apple_music_id: '577675'
-  resources:
-  - type: article
-    url: /bluesmen/Wilson_Pickett/
+  resources: []
 - id: 205
   slug: walter-wolfman-washington
   name: Walter "Wolfman" Washington
@@ -2253,11 +1737,7 @@
   amg_id: 11:iy09kezt7q7z
   spotify_id: 3JeTATqIkiHIjyrdOyr68t
   apple_music_id: '14910880'
-  resources:
-  - type: article
-    url: /bluesmen/Jan_Akkerman/
-  - type: article
-    url: /bluesmen/Jan_Akkerman/#article2
+  resources: []
 - id: 210
   slug: lurrie-bell
   name: Lurrie Bell
@@ -2266,10 +1746,6 @@
   amg_id: 11:gc60tr49kl5x
   spotify_id: 4l8tDkcTwCBeLrQPk5lEU3
   resources:
-  - type: article
-    url: /bluesmen/Lurrie_Bell/
-  - type: article
-    url: /bluesmen/Lurrie_Bell/#article2
   - type: photos
     url: http://marianner.livejournal.com/652230.html
 - id: 211
@@ -2317,9 +1793,7 @@
   legacy_path: /bluesmen/Jay_McShann/
   amg_id: 11:yihxlf3e5cqq
   spotify_id: 14908IzPNWEYjv0Y0o9Ar4
-  resources:
-  - type: article
-    url: /bluesmen/Jay_McShann/
+  resources: []
 - id: 217
   slug: tramp
   name: Tramp
@@ -2328,9 +1802,7 @@
   amg_id: 11:kpfpxql5ldhe
   spotify_id: 28KtnfdwBHptsGPPWjeovU
   apple_music_id: '68226203'
-  resources:
-  - type: article
-    url: /bluesmen/Tramp/
+  resources: []
 - id: 218
   slug: jean-jacques-milteau
   name: Jean Jacques Milteau
@@ -2338,9 +1810,7 @@
   legacy_path: null
   amg_id: null
   spotify_id: 4ConspsaeqXp9c2pOc3M0n
-  resources:
-  - type: photos
-    url: http://www.blues.ru/bluesnews/08Spring/JJM/content/index.html
+  resources: []
 - id: 219
   slug: blind-boys-of-alabama
   name: Blind Boys of Alabama
@@ -2357,9 +1827,7 @@
   amg_id: null
   spotify_id: 40MbAfRt1y7QdeGSkSp4pF
   apple_music_id: '2553332'
-  resources:
-  - type: photos
-    url: http://blues.ru/bluesnews/_13/13_04_10_MBM/index.html
+  resources: []
 - id: 221
   slug: eric-sardinas
   name: Eric Sardinas
@@ -2368,9 +1836,7 @@
   amg_id: null
   spotify_id: 6ioaRkg9SnP8mC2NP7Z2rB
   apple_music_id: '4511408'
-  resources:
-  - type: photos
-    url: /bluesnews/08Autumn/Lefortovo/Q_Sardinas/
+  resources: []
 - id: 222
   slug: guy-davis
   name: Guy Davis
@@ -2381,12 +1847,6 @@
   resources:
   - type: link
     url: http://www.echo.msk.ru/programs/razvorot/1049604-echo/#video
-  - type: link
-    url: /atb/atb_15_11_30_GuyDavis_PI.mp3
-  - type: link
-    url: /atb/atb_15_11_30_GuyDavis_PII.mp3
-  - type: photos
-    url: /bluesnews/_18/18_03_24_Guy_Davis/
 - id: 223
   slug: hans-theessink
   name: Hans Theessink
@@ -2410,15 +1870,7 @@
   legacy_path: null
   amg_id: null
   spotify_id: 5JuPv0rJXe5aWNTgu8YVqZ
-  resources:
-  - type: link
-    url: /atb/atb_15_09_07_MemphisSlim_I.mp3
-  - type: link
-    url: /atb/atb_15_09_07_MemphisSlim_II.mp3
-  - type: link
-    url: /atb/atb_15_09_14_MemphisSlim_III.mp3
-  - type: link
-    url: /atb/atb_15_09_14_MemphisSlim_IV.mp3
+  resources: []
 - id: 226
   slug: ray-charles
   name: Ray Charles
@@ -2449,9 +1901,7 @@
   legacy_path: null
   amg_id: null
   spotify_id: 52GxmJdAcByy1ZyPivpUns
-  resources:
-  - type: link
-    url: /ATB/ATB2/atb_21_08_02_LonnieMack.mp3
+  resources: []
 - id: 231
   slug: z-z-hill
   name: Z.Z. Hill
@@ -2473,11 +1923,7 @@
   legacy_path: /bluesmen/John_Dummer/
   amg_id: 11:j9fuxqy5ldhe
   spotify_id: 1UDMjDokJBRG1k5QXY8KXt
-  resources:
-  - type: article
-    url: /bluesmen/John_Dummer/
-  - type: discography
-    url: /bluesmen/John_Dummer/#cds
+  resources: []
 - id: 236
   slug: shakey-jake
   name: Shakey Jake
@@ -2492,9 +1938,7 @@
   legacy_path: /bluesmen/Norwegian_Blues_Explosion/
   amg_id: null
   spotify_id: 0G7tBzXhlURMwfJ6PXnSO6
-  resources:
-  - type: article
-    url: /bluesmen/Norwegian_Blues_Explosion/
+  resources: []
 - id: 238
   slug: josh-white
   name: Josh White
@@ -2531,14 +1975,10 @@
   amg_id: null
   spotify_id: 1HjLWgUXQnX1kbZdY3uNHK
   resources:
-  - type: article
-    url: /bluesmen/Pera_Joe/
   - type: link
     url: /news/?iid=383
   - type: photos
     url: \/bluesnews/05Spring/PeraJoe/index.htm
-  - type: photos
-    url: /bluesnews/03Spring/KrK/index.htm
 - id: 243
   slug: hollywood-blue-flames
   name: Hollywood Blue Flames
@@ -2605,8 +2045,6 @@
     url: /news/2005/05/03/story183/
   - type: article
     url: /forum/topic2578
-  - type: photos
-    url: /bluesnews/05Spring/Broz/roadh05.htm
 - id: 251
   slug: little-arthur-duncan
   name: Little Arthur Duncan
@@ -2621,9 +2059,7 @@
   legacy_path: /bluesmen/Nick_Moss/
   amg_id: 11:aifwxqygldfe~T0
   spotify_id: 7iJhOBVMlBYpU7Z4QiSlVn
-  resources:
-  - type: article
-    url: /bluesmen/Nick_Moss/
+  resources: []
 - id: 253
   slug: nappy-brown
   name: Nappy Brown
@@ -2645,9 +2081,7 @@
   legacy_path: /bluesmen/Avery_Parish/
   amg_id: null
   spotify_id: 087yHuMGyFxaNbvfTXpNOI
-  resources:
-  - type: article
-    url: /bluesmen/Avery_Parish/
+  resources: []
 - id: 256
   slug: michael-burks
   name: Michael Burks
@@ -2664,11 +2098,9 @@
   spotify_id: 7Ks9lt2zomYkmOeLv0PbHW
   resources:
   - type: page
-    url: http://blues.ru/efes/holmesbr.asp
+    url: /efes/holmesbr.asp
   - type: interview
     url: /bluesnews/00Autumn/00EfesHolmes.htm
-  - type: photos
-    url: /bluesnews/00Autumn/00EfesJ.htm
   - type: article
     url: /bluesnews/00Autumn/00Efes1.htm
   - type: link
@@ -2688,8 +2120,6 @@
   amg_id: null
   spotify_id: 3d2hJTVTwo08F9b0ZFQukJ
   resources:
-  - type: photos
-    url: http://www.blues.ru/nbf/gallery/list.aspx?s=jfh&y=2004
   - type: interview
     url: /news/2016/03/#1091
 - id: 260
@@ -3007,10 +2437,8 @@
   amg_id: null
   spotify_id: 3t4huNjhrimcvdtRyRrckv
   resources:
-  - type: article
-    url: /bluesmen/Enrico_Crivellaro/
   - type: interview
-    url: /bluesmen/Enrico_Crivellaro/Enrico_Crivellaro_interview.htm
+    url: /artist/enrico-crivellaro/Enrico_Crivellaro_interview.htm
 - id: 305
   slug: jo-ann-kelly
   name: Jo-Ann Kelly
@@ -3032,9 +2460,7 @@
   legacy_path: /bluesmen/Tad_Robinson/
   amg_id: null
   spotify_id: 6Tv4PJFnVdT5JBwyCwBObG
-  resources:
-  - type: article
-    url: /bluesmen/Tad_Robinson/
+  resources: []
 - id: 308
   slug: j-b-hutto
   name: J.B.Hutto
@@ -3088,13 +2514,7 @@
   amg_id: null
   spotify_id: 3hcetKhmZrGLOHy0iuKpZf
   apple_music_id: '1644778123'
-  resources:
-  - type: article
-    url: /bluesmen/Steve_Baker/
-  - type: photos
-    url: /bluesnews/09Spring/BC_dud/
-  - type: photos
-    url: /bluesnews/09Spring/BC_BBK/
+  resources: []
 - id: 319
   slug: mud-morganfield
   name: Mud Morganfield
@@ -3102,11 +2522,7 @@
   legacy_path: /bluesmen/Mud_Morganfield/
   amg_id: null
   spotify_id: 1MkszvLJgUVCskrRqCLbmn
-  resources:
-  - type: interview
-    url: /bluesmen/Mud_Morganfield/
-  - type: photos
-    url: /bluesnews/09Winter/Mud09/
+  resources: []
 - id: 320
   slug: joanne-shaw-taylor
   name: Joanne Shaw Taylor
@@ -3122,9 +2538,7 @@
   amg_id: null
   spotify_id: 0uo6ltSYsMbp4go8nPQ80U
   apple_music_id: '313219614'
-  resources:
-  - type: interview
-    url: /bluesmen/Rick_Estrin/
+  resources: []
 - id: 322
   slug: sonny-rhodes
   name: Sonny Rhodes
@@ -3139,13 +2553,7 @@
   legacy_path: null
   amg_id: null
   spotify_id: 6tThEAJKUsHlj0ALfRObEP
-  resources:
-  - type: link
-    url: /ATB/atb_18_10_29_Hummel.mp3
-  - type: photos
-    url: /bluesnews/_18/18_11_11_Mark_Hummel/
-  - type: photos
-    url: /bluesnews/_18/18_11_10_MarkHummel/
+  resources: []
 - id: 327
   slug: zora-young
   name: Zora Young
@@ -3163,13 +2571,7 @@
   legacy_path: /bluesmen/Lazy_Lester/
   amg_id: 11:hifqxq95ld0e
   spotify_id: 72D581Szg2z107f9qlLvjV
-  resources:
-  - type: article
-    url: /bluesmen/Lazy_Lester/
-  - type: photos
-    url: http://www.blues.ru/bluesnews/10Spring/lazy/
-  - type: photos
-    url: /bluesnews/_16/LL/index.html
+  resources: []
 - id: 329
   slug: big-bill-morganfield
   name: Big Bill Morganfield
@@ -3201,9 +2603,7 @@
   amg_id: null
   spotify_id: 573wZt3JX0wg63d3I8OlZk
   apple_music_id: '274530981'
-  resources:
-  - type: article
-    url: /bluesmen/Billy_T_Band/
+  resources: []
 - id: 338
   slug: mannish-boys
   name: Mannish Boys
@@ -3219,9 +2619,7 @@
   amg_id: null
   spotify_id: 5MPJKwuEzyWgfueKrogllD
   apple_music_id: '436759406'
-  resources:
-  - type: interview
-    url: /bluesmen/Joe_Louis_Walker/
+  resources: []
 - id: 341
   slug: cash-box-kings
   name: Cash Box Kings
@@ -3244,13 +2642,7 @@
   amg_id: null
   spotify_id: 3NyKwqXJZRKKr3N1GHwDq2
   apple_music_id: '152786478'
-  resources:
-  - type: link
-    url: /afisha/TailDragger.aspx
-  - type: photos
-    url: /bluesnews/07automn/Tail/content/index.html
-  - type: photos
-    url: /bluesnews/TailDragger2016/index.htm
+  resources: []
 - id: 345
   slug: the-rolling-stones
   name: The Rolling Stones
@@ -3429,17 +2821,7 @@
   legacy_path: /bluesmen/Bob_Margolin/
   amg_id: null
   spotify_id: 65SzANOjjJbCdHGbjDkPMU
-  resources:
-  - type: photos
-    url: /bluesnews/_12A/12_09_20_Margolin/
-  - type: link
-    url: /ATB/atb_18_08_05_Margolin_WLCI_internet.mp3
-  - type: link
-    url: /ATB/atb_18_08_05_Margolin_WLC_II_internet.mp3
-  - type: interview
-    url: /bluesmen/Muddy_Waters/Margolin.htm
-  - type: interview
-    url: /bluesmen/James_Harman/James_Harman_interview.htm
+  resources: []
 - id: 377
   slug: smokin-joe-kubek
   name: Smokin' Joe Kubek
@@ -3601,9 +2983,7 @@
   legacy_path: /bluesmen/Kirk_Fletcher/
   amg_id: null
   spotify_id: 77wBCkU4gTMCceSWHtWjxq
-  resources:
-  - type: interview
-    url: /bluesmen/Kirk_Fletcher/
+  resources: []
 - id: 406
   slug: leslie-west
   name: Leslie West
@@ -3642,9 +3022,7 @@
   spotify_id: 5WM5zPOswRcPu07rxP2dQv
   resources:
   - type: interview
-    url: http://www.blues.ru/news/2013/06/#1019
-  - type: photos
-    url: http://www.blues.ru/bluesnews/_13/13_06_02_Hugh_Laurie
+    url: /news/2013/06/#1019
 - id: 412
   slug: aynsley-lister
   name: Aynsley Lister
@@ -3669,9 +3047,7 @@
   amg_id: null
   spotify_id: 32O4dM8Yd756XKRb1BVUPO
   apple_music_id: '2466098'
-  resources:
-  - type: article
-    url: /bluesmen/Etta_Baker/
+  resources: []
 - id: 416
   slug: shawn-holt-the-teardrops
   name: Shawn Holt & the Teardrops
@@ -3702,9 +3078,7 @@
   legacy_path: /bluesmen/Boogie_Bill_Webb/
   amg_id: null
   spotify_id: 4YPTFd7ex4kmmoXwPJjmcY
-  resources:
-  - type: link
-    url: /bluesmen/Boogie_Bill_Webb/
+  resources: []
 - id: 424
   slug: frank-edwards
   name: Frank Edwards
@@ -3712,9 +3086,7 @@
   legacy_path: /bluesmen/Frank_Edwards/
   amg_id: null
   spotify_id: 5gOBGZay8Nt5orlQI8UDDg
-  resources:
-  - type: link
-    url: /bluesmen/Frank_Edwards/
+  resources: []
 - id: 427
   slug: mike-zito
   name: Mike Zito
@@ -3730,9 +3102,7 @@
   amg_id: null
   spotify_id: 24NDm7vTLocVLStlgkKjJc
   apple_music_id: '7242564'
-  resources:
-  - type: article
-    url: /bluesmen/Larry_McCray/
+  resources: []
 - id: 431
   slug: steve-freund
   name: Steve Freund
@@ -3769,9 +3139,7 @@
   legacy_path: /bluesmen/Barbara_Dane
   amg_id: null
   spotify_id: 7htyUKqAPLpbTA9nkEhGRf
-  resources:
-  - type: article
-    url: /bluesmen/Barbara_Dane/
+  resources: []
 - id: 445
   slug: li-l-ronnie-and-the-blue-beats
   name: Li'l Ronnie and the Blue Beats
@@ -3788,20 +3156,8 @@
   spotify_id: 4v6O0YmShFLh9DAc69v1Ss
   apple_music_id: '205154946'
   resources:
-  - type: photos
-    url: /bluesnews/_15/15_10_28_KW/
-  - type: photos
-    url: /bluesnews/_15/15_10_30_KW2/
-  - type: link
-    url: /atb/atb_15_10_12.mp3
-  - type: link
-    url: /atb/atb_15_10_12_2.mp3
-  - type: link
-    url: /atb/atb_16_05_23_Kenny_Wayne_I.mp3
   - type: page
     url: /bluesnews/_15/Wayne.htm
-  - type: link
-    url: /atb/atb_16_05_23_Kenny_Wayne_II.mp3
 - id: 449
   slug: sari-schorr
   name: Sari Schorr
@@ -3846,9 +3202,7 @@
   legacy_path: null
   amg_id: null
   spotify_id: 0ZXJJoxGyTmEXc1Kd3cDxR
-  resources:
-  - type: photos
-    url: http://www.blues.ru/bluesnews/07Leto/guyphil/content/index.html
+  resources: []
 - id: 460
   slug: zoe-schwarz
   name: Zoe Schwarz
@@ -3866,16 +3220,8 @@
   spotify_id: 2SNzxY1OsSCHBLVi77mpPQ
   apple_music_id: '878402'
   resources:
-  - type: interview
-    url: /bluesmen/Joe_Bonamassa/
-  - type: photos
-    url: /bluesnews/07automn/bonamassa07/index.html
   - type: link
     url: /news/?p=201102#887
-  - type: link
-    url: /ATB/atb_17_05_08_BonamassaI.mp3
-  - type: link
-    url: /ATB/atb_17_05_08_BonamassaII.mp3
 - id: 323
   slug: big-walter-horton
   name: Big Walter Horton
@@ -3891,9 +3237,7 @@
   amg_id: null
   spotify_id: 2rmznD8XEoiyttbqyiyZ7h
   apple_music_id: '278685149'
-  resources:
-  - type: interview
-    url: /bluesmen/JW-Jones/
+  resources: []
 - id: 394
   slug: carey-bell
   name: Carey Bell
@@ -4015,11 +3359,7 @@
   - type: link
     url: /afisha/PRIMERJ.htm
   - type: interview
-    url: http://www.blues.ru/news/2005/10/15/story234/
-  - type: photos
-    url: /bluesnews/05Fall/Primer_rh.htm
-  - type: photos
-    url: /bluesnews/05Fall/Primer_cdh/Primer_CDH.htm
+    url: /news/2005/10/15/story234/
   - type: article
     url: /atb/John_Primer/Primer_prru.htm
   - type: article
@@ -4062,17 +3402,11 @@
   spotify_id: 1JjFeW5yiXLb18bozbG1pe
   resources:
   - type: link
-    url: /bluesmen/Bob_Stroger/atb_stroger.htm
+    url: /artist/bob-stroger/atb_stroger.htm
   - type: link
     url: /forum/topic3391
-  - type: photos
-    url: /bluesnews/_15/StrogerOmar/index.html
   - type: links
     url: http://www.youtube.com/watch?v=uQajCxkkLTM
-  - type: photos
-    url: /bluesnews/bbk_stroger/
-  - type: discography
-    url: http://blues.ru/data/albumview.aspx?cdid=1993
 - id: 442
   slug: jim-hayes-band
   name: Jim Hayes Band
@@ -4130,9 +3464,7 @@
   legacy_path: null
   amg_id: null
   spotify_id: 3HFfi1wOWbXd83qSiwJhuv
-  resources:
-  - type: photos
-    url: /bluesnews/_18/18_09_29_ChrisCain/
+  resources: []
 - id: 382
   slug: joe-cocker
   name: Joe Cocker
@@ -4155,16 +3487,8 @@
   amg_id: null
   spotify_id: 1S5OKo7B4RGFhNYBOsxtl1
   resources:
-  - type: photos
-    url: /bluesnews/_14/14_03_28_Farr/
-  - type: photos
-    url: /bluesnews/_14/Deitra%20FARR/
   - type: interview
-    url: /bluesmen/Deitra_Farr/farr2012.htm
-  - type: link
-    url: /atb/atb_DeitraFarr_24_03_14_2.mp3
-  - type: link
-    url: /atb/atb_DeitraFarr_24_03_14_1.mp3
+    url: /artist/deitra-farr/farr2012.htm
 - id: 429
   slug: lazy-bill-lucas
   name: Lazy Bill Lucas
@@ -4172,9 +3496,7 @@
   legacy_path: null
   amg_id: null
   spotify_id: 4v9Nt1CRGlHHdDX1sIXuAq
-  resources:
-  - type: article
-    url: /bluesmen/Lazy_Bill_Lucas/
+  resources: []
 - id: 446
   slug: albert-cummings
   name: Albert Cummings

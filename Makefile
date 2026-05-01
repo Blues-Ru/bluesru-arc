@@ -66,8 +66,32 @@ postprocess: _phase1
 
 # ── Individual sections ───────────────────────────────────────────────────────
 
-content bluesmen news reviews atb updates homepage postprocess deploy:
-	$(RUN) $(SCRIPTS)/generate.py --section $@
+content:
+	$(RUN) $(SCRIPTS)/generate_content.py
+
+bluesmen:
+	$(RUN) $(SCRIPTS)/generate_bluesmen.py
+
+news:
+	$(RUN) $(SCRIPTS)/generate_news.py
+
+reviews:
+	$(RUN) $(SCRIPTS)/generate_reviews.py
+
+atb:
+	$(RUN) $(SCRIPTS)/generate_atb.py
+
+updates:
+	$(RUN) $(SCRIPTS)/generate_updates.py
+
+homepage:
+	$(RUN) $(SCRIPTS)/generate_homepage.py
+
+postprocess:
+	$(RUN) $(SCRIPTS)/generate.py --section postprocess
+
+deploy:
+	$(RUN) $(SCRIPTS)/generate.py --section deploy
 
 calendar:
 	$(RUN) $(SCRIPTS)/generate_calendar_page.py
@@ -76,10 +100,10 @@ anagrams:
 	$(RUN) $(SCRIPTS)/generate_anagrams.py
 
 galleries:
-	$(RUN) $(SCRIPTS)/generate.py --section galleries
+	$(RUN) $(SCRIPTS)/generate_galleries.py --section galleries
 
 photo:
-	$(RUN) $(SCRIPTS)/generate.py --section photo
+	$(RUN) $(SCRIPTS)/generate_galleries.py --section photo
 
 data:
 	$(RUN) $(SCRIPTS)/generate_data_json.py
@@ -87,16 +111,16 @@ data:
 # ── Forum ─────────────────────────────────────────────────────────────────────
 
 forum:
-	$(RUN) $(SCRIPTS)/generate.py --section forum
+	$(RUN) $(SCRIPTS)/generate_forum.py
 
 forum-plan:
 	$(RUN) $(SCRIPTS)/forum_plan.py --nshards $(NSHARDS) --out $(SHARD_DIR)
 
 forum-index:
-	$(RUN) $(SCRIPTS)/generate.py --section forum-index
+	$(RUN) $(SCRIPTS)/generate_forum.py --section forum-index
 
 forum-shard-%:
-	$(RUN) $(SCRIPTS)/generate.py --section forum-topics \
+	$(RUN) $(SCRIPTS)/generate_forum.py --section forum-topics \
 	    --shard-file $(SHARD_DIR)/shard-$*.txt
 
 # ── Dev ───────────────────────────────────────────────────────────────────────

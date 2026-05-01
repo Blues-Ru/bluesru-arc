@@ -610,12 +610,16 @@
   title: Jimmy D. Lane в Ритм-энд-Блюз кафе
   type: custom
   photo_count: 11
+  artists_tags:
+  - jimmy-d-lane
 - slug: jimmy-d-lane-forte
   canonical_date: '2003-09-07'
   year: '2003'
   title: Jimmy D. Lane в клубе Форте
   type: custom
   photo_count: 9
+  artists_tags:
+  - jimmy-d-lane
 - slug: t-day-blues-2003
   canonical_date: '2003-01-25'
   year: '2003'
@@ -664,12 +668,16 @@
   title: Paul Lamb & the King Snakes в Москве (2)
   type: mts
   photo_count: 21
+  artists_tags:
+  - paul-lamb
 - slug: pera-joe-moscow
   canonical_date: '2004'
   year: '2008'
   title: Pera Joe в Москве
   type: lightroom
   photo_count: 50
+  artists_tags:
+  - pera-joe
 - slug: blues-news-winter-2004
   canonical_date: 2004-01
   year: '2004'
@@ -695,18 +703,24 @@
   title: Gary Primich в клубе Б-2
   type: custom
   photo_count: 9
+  artists_tags:
+  - gary-primich
 - slug: gary-primich-rbk
   canonical_date: '2004-01-23'
   year: '2004'
   title: Gary Primich в Ритм-энд-Блюз кафе
   type: custom
   photo_count: 9
+  artists_tags:
+  - gary-primich
 - slug: gary-primich-masterclass
   canonical_date: '2004-01-24'
   year: '2004'
   title: Gary Primich — Мастер-класс и клуб Форте
   type: custom
   photo_count: 16
+  artists_tags:
+  - gary-primich
 - slug: hot-rod-modern-blues-cdh
   canonical_date: '2005-09-01'
   year: '2005'
@@ -732,6 +746,8 @@
   title: Kenny Wayne Shepherd в Москве, 2010
   type: custom
   photo_count: 13
+  artists_tags:
+  - kenny-wayne-shepherd
 - slug: 11a-mitchell-foto
   canonical_date: '2011'
   year: '2011'
@@ -855,6 +871,8 @@
   title: Hugh Laurie in Moscow
   type: lightroom
   photo_count: 24
+  artists_tags:
+  - hugh-laurie
 - slug: ash
   canonical_date: '2013-02-22'
   year: '2013'
@@ -909,12 +927,16 @@
   title: John Mayall in Moscow
   type: lightroom
   photo_count: 25
+  artists_tags:
+  - john-mayall
 - slug: kaverkin-pera-joe
   canonical_date: '2014-02-12'
   year: '2014'
   title: Kaverkin and Pera Joe
   type: lightroom
   photo_count: 20
+  artists_tags:
+  - pera-joe
 - slug: danny-giles
   canonical_date: '2014-05-09'
   year: '2014'
@@ -945,12 +967,16 @@
   title: Deitra Farr
   type: lightroom
   photo_count: 9
+  artists_tags:
+  - deitra-farr
 - slug: bbshacks-festival-2003
   canonical_date: '2003-10-29'
   year: '2003'
   title: B.B. & The Blues Shacks Festival 2003
   type: mts
   photo_count: 62
+  artists_tags:
+  - bb-the-blues-shacks
 - slug: neighbours
   canonical_date: '2022-11-23'
   year: '2022'
@@ -1000,11 +1026,13 @@
   type: lightroom
   photo_count: 48
 - slug: kenny-blues-boss-wayne-moscow-2015
-  canonical_date: '2015-10'
+  canonical_date: 2015-10
   year: '2015'
   title: Kenny Blues Boss Wayne, Москва 2015
   type: mts
   photo_count: 24
+  artists_tags:
+  - kenny-blues-boss-wayne
 - slug: dizzy-riders
   canonical_date: '2015'
   year: '2015'
@@ -1059,6 +1087,8 @@
   title: Tinsley Ellis in Moscow
   type: lightroom
   photo_count: 47
+  artists_tags:
+  - tinsley-ellis
 - slug: dom-u-dorogi
   canonical_date: '2011-02-22'
   year: '2011'
@@ -1083,6 +1113,8 @@
   title: Lefortovo — Lil' Ed
   type: lightroom
   photo_count: 12
+  artists_tags:
+  - lil-ed-williams
 - slug: yuri-kaverkin-may
   canonical_date: 2008-05
   year: '2008'
@@ -1149,6 +1181,8 @@
   title: Chris Duarte in Moscow
   type: lightroom
   photo_count: 19
+  artists_tags:
+  - chris-duarte
 - slug: agranovski-black-bread
   canonical_date: '2008-11-21'
   year: '2008'
@@ -1191,6 +1225,8 @@
   title: Lefortovo — Kenny Neal
   type: lightroom
   photo_count: 12
+  artists_tags:
+  - kenny-neal
 - slug: bratecki-moshkov
   canonical_date: 2008-01
   year: '2008'
@@ -1233,6 +1269,8 @@
   title: Lefortovo — Eric Sardinas
   type: lightroom
   photo_count: 12
+  artists_tags:
+  - eric-sardinas
 - slug: notodden-blues-festival
   canonical_date: '2001'
   year: '2001'
@@ -1256,12 +1294,16 @@
   title: Bob Stroger & Friends в клубе B.B.King
   type: custom
   photo_count: 9
+  artists_tags:
+  - bob-stroger
 - slug: lefortovo-ana-popovic
   canonical_date: 2007-07
   year: '2007'
   title: Lefortovo — Ana Popovic
   type: lightroom
   photo_count: 15
+  artists_tags:
+  - ana-popovic
 - slug: lefortovo-crossroadz
   canonical_date: 2007-07
   year: '2007'
@@ -1274,6 +1316,8 @@
   title: Joe Bonamassa in Moscow
   type: lightroom
   photo_count: 10
+  artists_tags:
+  - joe-bonamassa
 - slug: lee-baker-moscow
   canonical_date: 2007-10
   year: '2007'
@@ -1322,6 +1366,8 @@
   title: Robben Ford in Moscow
   type: lightroom
   photo_count: 23
+  artists_tags:
+  - robben-ford
 - slug: blues-walz
   canonical_date: 2007-06
   year: '2007'
@@ -1346,6 +1392,8 @@
   title: Lefortovo — Robben Ford
   type: lightroom
   photo_count: 3
+  artists_tags:
+  - robben-ford
 - slug: lefortovo-fest-kiev-blues-union
   canonical_date: 2007-07
   year: '2007'
@@ -1400,11 +1448,13 @@
   title: Buddy Guy & Phil Upchurch in Moscow
   type: lightroom
   photo_count: 23
+  artists_tags:
+  - buddy-guy
 - slug: efes-blues-festival-xi
   title: XI Efes Pilsener Blues Festival
   type: custom
   photo_count: 41
-  canonical_date: '2000-10'
+  canonical_date: 2000-10
   year: '2000'
 - slug: efes-pilsener-blues-festival
   title: Efes Pilsener Blues Festival
@@ -1471,6 +1521,8 @@
   title: Mud Morganfield & Kingsize at Cotton Club
   type: lightroom
   photo_count: 30
+  artists_tags:
+  - mud-morganfield
 - slug: django-friends
   canonical_date: '2017-10-21'
   year: '2017'
@@ -1483,6 +1535,8 @@
   title: Chris Rea in Moscow
   type: lightroom
   photo_count: 15
+  artists_tags:
+  - chris-rea
 - slug: crosseyed-cats
   canonical_date: '2017-08-09'
   year: '2017'
@@ -1585,6 +1639,8 @@
   title: Billy T Band at Cotton Club
   type: mts
   photo_count: 25
+  artists_tags:
+  - billy-t-band
 - slug: boney-fields-moscow
   canonical_date: 2010-06
   year: '2010'
@@ -1597,12 +1653,16 @@
   title: Lazy Lester in Moscow
   type: lightroom
   photo_count: 24
+  artists_tags:
+  - lazy-lester
 - slug: eric-burdon-moscow
   canonical_date: '2010-04-11'
   year: '2010'
   title: Eric Burdon in Moscow
   type: mts
   photo_count: 48
+  artists_tags:
+  - eric-burdon
 - slug: blues-spinners-spring
   canonical_date: 2010-03
   year: '2010'
@@ -1693,6 +1753,8 @@
   title: Mark Hummel
   type: lightroom
   photo_count: 58
+  artists_tags:
+  - mark-hummel
 - slug: charles-burton
   canonical_date: '2018-07-08'
   year: '2018'
@@ -1705,6 +1767,8 @@
   title: Chris Cain
   type: lightroom
   photo_count: 29
+  artists_tags:
+  - chris-cain
 - slug: mike-ledbetter
   canonical_date: '2018-08-07'
   year: '2018'
@@ -1723,18 +1787,24 @@
   title: Guy Davis
   type: lightroom
   photo_count: 35
+  artists_tags:
+  - guy-davis
 - slug: mark-hummel-moscow
   canonical_date: '2018-11-10'
   year: '2018'
   title: Mark Hummel
   type: lightroom
   photo_count: 59
+  artists_tags:
+  - mark-hummel
 - slug: lil-jimmy-reed
   canonical_date: '2018-05-26'
   year: '2018'
   title: Lil Jimmy Reed
   type: lightroom
   photo_count: 30
+  artists_tags:
+  - jimmy-reed
 - slug: shanna
   canonical_date: '2018-02-24'
   year: '2018'
@@ -1759,6 +1829,8 @@
   title: Arsen Shomakhov, Roadhouse
   type: lightroom
   photo_count: 15
+  artists_tags:
+  - arsen-shomakhov
 - slug: montreux-jazz-festival
   canonical_date: '2011'
   year: '2011'
@@ -1848,6 +1920,8 @@
   title: Coco Montoya
   type: lightroom
   photo_count: 25
+  artists_tags:
+  - coco-montoya
 - slug: mishouris-blues-band-dom-u-dorogi
   canonical_date: '2011-02-26'
   year: '2011'
@@ -1866,6 +1940,8 @@
   title: Pera Joe
   type: lightroom
   photo_count: 40
+  artists_tags:
+  - pera-joe
 - slug: dom-u-dorogi-bluez
   canonical_date: '2011-05-04'
   year: '2011'
@@ -1884,6 +1960,8 @@
   title: JW-Jones w/ The Jumping Cats, Roadhouse
   type: mts
   photo_count: 16
+  artists_tags:
+  - jw-jones
 - slug: jam-roadhouse-rnb
   canonical_date: '2011-01-23'
   year: '2011'
@@ -1908,12 +1986,16 @@
   title: Kirk Fletcher & The Jumping Cats, Roadhouse
   type: lightroom
   photo_count: 28
+  artists_tags:
+  - kirk-fletcher
 - slug: lucky-peterson-roadhouse
   canonical_date: '2011-12-04'
   year: '2011'
   title: Lucky Peterson, Roadhouse
   type: lightroom
   photo_count: 36
+  artists_tags:
+  - lucky-peterson
 - slug: elvis-roadhouse
   canonical_date: '2011-10-25'
   year: '2011'
@@ -1950,12 +2032,16 @@
   title: Kenny Blues Boss Wayne & Jose Luis Pardo, Roadhouse
   type: custom
   photo_count: 16
+  artists_tags:
+  - kenny-blues-boss-wayne
 - slug: lil-ed
   canonical_date: '2016-06-10'
   year: '2016'
   title: Lil Ed
   type: lightroom
   photo_count: 19
+  artists_tags:
+  - lil-ed-williams
 - slug: clearwater
   canonical_date: '2016-06-12'
   year: '2016'
@@ -1992,6 +2078,8 @@
   title: Cash Box Kings
   type: lightroom
   photo_count: 12
+  artists_tags:
+  - cash-box-kings
 - slug: irma-thomas
   canonical_date: '2016-06-11'
   year: '2016'
@@ -2016,12 +2104,16 @@
   title: Lil' Ed Williams & Dave Siegel
   type: lightroom
   photo_count: 20
+  artists_tags:
+  - lil-ed-williams
 - slug: kenny-blues-boss-wayne-pardo-2
   canonical_date: '2016-06-02'
   year: '2016'
   title: Kenny Blues Boss Wayne & Jose Luis Pardo, Roadhouse
   type: lightroom
   photo_count: 16
+  artists_tags:
+  - kenny-blues-boss-wayne
 - slug: sobo
   canonical_date: '2016-09-30'
   year: '2016'
@@ -2064,18 +2156,24 @@
   title: Muddy Waters Tribute Jam
   type: custom
   photo_count: 22
+  artists_tags:
+  - muddy-waters
 - slug: pera-joe-friends
   canonical_date: '2005-03-31'
   year: '2005'
   title: Pera Joe & Friends
   type: custom
   photo_count: 25
+  artists_tags:
+  - pera-joe
 - slug: john-primer-cdh
   canonical_date: '2005-09-23'
   year: '2005'
   title: John Primer в ЦДХ
   type: custom
   photo_count: 10
+  artists_tags:
+  - john-primer
 - slug: svet-al-reunion
   canonical_date: '2005-09-23'
   year: '2005'
@@ -2083,7 +2181,7 @@
   type: custom
   photo_count: 9
 - slug: kurs-folk-festival
-  canonical_date: '2005-10'
+  canonical_date: 2005-10
   year: '2005'
   title: Фолк-фест в Курсе к столетию Джона Генри Барби
   type: custom
@@ -2100,18 +2198,24 @@
   title: John Primer в Доме у дороги
   type: custom
   photo_count: 25
+  artists_tags:
+  - john-primer
 - slug: vidar-busk-monday
   canonical_date: 2005-04
   year: '2005'
   title: Vidar Busk Monday
   type: custom
   photo_count: 16
+  artists_tags:
+  - vidar-busk
 - slug: vidar-busk-wednesday-april
   canonical_date: 2005-04
   year: '2005'
   title: Vidar Busk
   type: custom
   photo_count: 54
+  artists_tags:
+  - vidar-busk
 - slug: bb-king-club-putinka
   title: BB King Club at Putinka
   type: mts
@@ -2123,12 +2227,16 @@
   title: Bob Brozman в «Доме у Дороги»
   type: custom
   photo_count: 21
+  artists_tags:
+  - bob-brozman
 - slug: vidar-busk-bbking
   canonical_date: '2005-04-23'
   year: '2005'
   title: Vidar Busk в клубе B.B.King
   type: custom
   photo_count: 17
+  artists_tags:
+  - vidar-busk
 - slug: vive-le-leopard-damour
   canonical_date: '2002'
   year: '2002'
@@ -2141,6 +2249,8 @@
   title: Vidar Busk в Москве
   type: custom
   photo_count: 49
+  artists_tags:
+  - vidar-busk
 - slug: jam-expat
   canonical_date: '2002-10-03'
   year: '2002'
@@ -2159,12 +2269,16 @@
   title: Kid Andersen & The Rock Awhile Band в Forte
   type: custom
   photo_count: 26
+  artists_tags:
+  - kid-andersen
 - slug: paul-lamb-kingsnakes-mhat
   canonical_date: '2003'
   year: '2003'
   title: Paul Lamb & the King Snakes в МХАТ
   type: mts
   photo_count: 30
+  artists_tags:
+  - paul-lamb
 - slug: harp-festival-autumn
   canonical_date: 2004-10
   year: '2004'
