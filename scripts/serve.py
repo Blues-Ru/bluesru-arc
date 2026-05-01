@@ -24,7 +24,8 @@ import os as _os
 ARC     = Path(__file__).resolve().parent.parent
 _ws     = Path(_os.environ.get('BLUESRU_ROOT', str(ARC.parent)))
 SITE    = Path(_os.environ.get('BLUESRU_SITE', str(_ws / 'bluesru-site')))
-MEDIA   = _ws / "bluesru-media"   # fallback for gallery photos, MP3s etc.
+MEDIA   = _ws / "bluesru-media"         # fallback for gallery photos, MP3s etc.
+CACHE   = _ws / "bluesru-media.cache"   # 400w thumbnails (mirrors production R2 cache)
 REDIRECTS_FILE = ARC / "_redirects"
 DEFAULT_PORT   = 80
 
@@ -153,6 +154,14 @@ def resolve_path(url_path, site_dir, media_dir=None):
             if p.exists():
                 return p, None
 
+    # Thumbnails (-400w.jpg) live in bluesru-media.cache, mirroring production middleware
+    if url_path.endswith('-400w.jpg'):
+        cache_dir = _ws / 'bluesru-media.cache'
+        if cache_dir.exists():
+            cpath = cache_dir / rel
+            if cpath.is_file():
+                return cpath, None
+
     # Fallback: look in media_dir (gallery photos, MP3s, etc.)
     if media_dir and media_dir.exists():
         mpath = media_dir / rel
@@ -263,6 +272,7 @@ def main():
     print(f"Blues.Ru test server")
     print(f"  Site:      {site_dir}")
     print(f"  Media:     {MEDIA}")
+    print(f"  Cache:     {CACHE}")
     print(f"  Redirects: {REDIRECTS_FILE} ({len(REDIRECTS)} rules loaded)")
     print(f"  URL:       http://localhost:{port}/")
     print(f"  Stop with: Ctrl+C")
