@@ -20,7 +20,10 @@ import jinja2
 
 # ── Paths ──────────────────────────────────────────────────────────────────────
 ARC        = Path(__file__).resolve().parent.parent
-SITE       = Path(os.environ.get('BLUESRU_SITE', str(ARC.parent / 'bluesru-site')))
+# On Cloudflare Pages (CF_PAGES=1), the output dir must be inside the repo so
+# wrangler can find pages_build_output_dir="bluesru-site". Locally it sits beside.
+_site_default = str(ARC / 'bluesru-site') if os.environ.get('CF_PAGES') else str(ARC.parent / 'bluesru-site')
+SITE       = Path(os.environ.get('BLUESRU_SITE', _site_default))
 TEMPLATES  = ARC / "templates"
 INCLUDES   = ARC / "includes"
 STATIC     = ARC / "static"
