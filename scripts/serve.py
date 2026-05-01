@@ -215,11 +215,32 @@ class BluesHandler(BaseHTTPRequestHandler):
                 self.wfile.write(b'404 Not Found')
             return
 
-        # 3. Serve file
+        # 3. Serve file (with Range support for audio/video seeking)
         ext = fpath.suffix.lower()
         content_type = MIME_TYPES.get(ext, 'application/octet-stream')
 
         try:
+            file_size = fpath.stat().st_size
+            range_header = self.headers.get('Range')
+            if range_header:
+                # Parse "bytes=start-end"
+                m = re.match(r'bytes=(\d*)-(\d*)', range_header)
+                if m:
+                    start = int(m.group(1)) if m.group(1) else 0
+                    end   = int(m.group(2)) if m.group(2) else file_size - 1
+                    end   = min(end, file_size - 1)
+                    length = end - start + 1
+                    with open(fpath, 'rb') as f:
+                        f.seek(start)
+                        data = f.read(length)
+                    self.send_response(206)
+                    self.send_header('Content-Type', content_type)
+                    self.send_header('Content-Range', f'bytes {start}-{end}/{file_size}')
+                    self.send_header('Content-Length', str(length))
+                    self.send_header('Accept-Ranges', 'bytes')
+                    self.end_headers()
+                    self.wfile.write(data)
+                    return
             content = fpath.read_bytes()
         except OSError:
             self.send_response(500)
@@ -228,7 +249,8 @@ class BluesHandler(BaseHTTPRequestHandler):
 
         self.send_response(200)
         self.send_header('Content-Type', content_type)
-        self.send_header('Content-Length', str(len(content)))
+        self.send_header('Content-Length', str(file_size))
+        self.send_header('Accept-Ranges', 'bytes')
         self.end_headers()
         self.wfile.write(content)
 
@@ -243,6 +265,7 @@ class BluesHandler(BaseHTTPRequestHandler):
             content_type = MIME_TYPES.get(ext, 'application/octet-stream')
             self.send_response(200)
             self.send_header('Content-Type', content_type)
+            self.send_header('Accept-Ranges', 'bytes')
             self.end_headers()
 
 
