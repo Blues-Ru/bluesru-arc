@@ -3010,7 +3010,7 @@ def _transcript_to_html(blocks, part_index):
         if b['type'] == 'speech':
             out.append(
                 f'<div class="atb-speech" id="{anchor}">'
-                f'<a class="atb-tc" href="#{anchor}" onclick="atbSeek({part_index},{t});return false;">{tc}</a>'
+                f'<button class="atb-tc" onclick="atbSeek({part_index},{t})">{tc}</button>'
                 f'<div class="atb-speech-text">{b["text"]}</div>'
                 f'</div>'
             )
@@ -3122,8 +3122,8 @@ def generate_atb():
     .atb-part-label { font-size: 0.88em; color: #555; margin-bottom: 0.8em; font-weight: bold; }
     .atb-speech { display: flex; gap: 0.55em; margin: 0.65em 0; align-items: flex-start; }
     .atb-tc {
-      display: inline-block; background: none; border: 1px solid #b0bbd8; border-radius: 2px;
-      color: #4F62B5; font: 0.76em/1.5 monospace; padding: 0 4px; text-decoration: none;
+      background: none; border: 1px solid #b0bbd8; border-radius: 2px;
+      color: #4F62B5; font: 0.76em/1.5 monospace; padding: 0 4px;
       cursor: pointer; white-space: nowrap; flex-shrink: 0; margin-top: 0.15em;
     }
     .atb-tc:hover { background: #4F62B5; color: #fff; border-color: #4F62B5; }
