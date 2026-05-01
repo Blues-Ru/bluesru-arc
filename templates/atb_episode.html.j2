@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>{{ summary or (show.topic or show.slug) }} — Весь этот блюз — Blues.Ru</title>
+  <title>{{ summary or (show.topic or show.slug) }} — Весь этот блюз. Андрей Евдокимов — Blues.Ru</title>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
   <link rel="shortcut icon" href="/images/bluesru.ico">
   <link rel="stylesheet" href="/static/css/site.css">
@@ -45,7 +45,7 @@
 <hr size="1">
 <h2>{{ summary or (show.topic or show.slug) }}</h2>
 <div class="ep-meta">
-  {% if show.date %}<b>{{ show.date }}</b> · {% endif %}Программа «Весь Этот Блюз» на Эхо Москвы 91.2 FM
+  {% if show.date %}<b>{{ show.date }}</b> · {% endif %}Программа «Весь Этот Блюз» на Эхо Москвы 91.2 FM · Андрей Евдокимов
 </div>
 {% set files = show.files if show.files is defined else [] %}
 {% if files | length > 1 %}
