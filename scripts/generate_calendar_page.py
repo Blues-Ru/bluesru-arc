@@ -16,11 +16,11 @@ from collections import defaultdict
 
 import os
 ARC = Path(__file__).resolve().parent.parent
-_ws = Path(os.environ.get('BLUESRU_ROOT', str(ARC.parent)))
+_site_default = str(ARC / 'bluesru-site') if os.environ.get('CF_PAGES') else str(ARC.parent / 'bluesru-site')
 DATA = ARC / "data"
 CALENDAR_YAML = DATA / "calendar.yaml"
 EVENTS_DIR = DATA / "blues-data" / "events"  # fallback for old structure
-DST = Path(os.environ.get('BLUESRU_SITE', str(_ws / 'bluesru-site'))) / "calendar"
+DST = Path(os.environ.get('BLUESRU_SITE', _site_default)) / "calendar"
 
 
 def read_yaml_frontmatter(path):

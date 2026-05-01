@@ -7,9 +7,9 @@ from pathlib import Path
 
 import os
 ARC = Path(__file__).resolve().parent.parent
-_ws = Path(os.environ.get('BLUESRU_ROOT', str(ARC.parent)))
-SITE = Path(os.environ.get('BLUESRU_SITE', str(_ws / 'bluesru-site')))
-SRC_XML = _ws / 'blues-ru' / 'fedor' / 'anagrams.xml'
+_site_default = str(ARC / 'bluesru-site') if os.environ.get('CF_PAGES') else str(ARC.parent / 'bluesru-site')
+SITE = Path(os.environ.get('BLUESRU_SITE', _site_default))
+SRC_XML = ARC.parent / 'blues-ru' / 'fedor' / 'anagrams.xml'
 CONTENT_XML = ARC / 'content' / 'fedor' / 'anagrams.xml'
 
 def load_groups():

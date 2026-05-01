@@ -14,10 +14,10 @@ from datetime import datetime
 
 import os
 ARC = Path(__file__).resolve().parent.parent
-_ws = Path(os.environ.get('BLUESRU_ROOT', str(ARC.parent)))
+_site_default = str(ARC / 'bluesru-site') if os.environ.get('CF_PAGES') else str(ARC.parent / 'bluesru-site')
 DATA = ARC / "data"
 EXTRACTED = DATA  # canonical; DATA is the consolidated data dir
-SITE = Path(os.environ.get('BLUESRU_SITE', str(_ws / 'bluesru-site')))
+SITE = Path(os.environ.get('BLUESRU_SITE', _site_default))
 OUT = SITE / "data"
 OUT.mkdir(parents=True, exist_ok=True)
 (OUT / "artists").mkdir(exist_ok=True)
