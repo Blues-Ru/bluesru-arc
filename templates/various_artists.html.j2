@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Blues.Ru: Разные артисты</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <link rel="shortcut icon" href="/images/bluesru.ico">
+  <style>body { max-width: 900px; margin: 0 auto; padding: 0 1em; }</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#5511cc" alink="#00bb00">
+<h2><a href="/artist/">Музыканты</a> : Разные артисты</h2>
+<ul>
+{% for r in reviews %}
+<li>
+  {% if r.cover_url %}<a href="{{ r.url }}"><img src="{{ r.cover_url }}" alt="" border="0" style="vertical-align:middle;margin-right:4px;" width="40" height="40"></a>{% endif %}
+  <a href="{{ r.url }}"><b>{{ r.album_title | e }}</b></a>{% if r.year %}, {{ r.year }}{% endif %}
+</li>
+{% endfor %}
+</ul>
+<p align="center">{{ footer }}</p>
+</body>
+</html>

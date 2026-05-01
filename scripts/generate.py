@@ -1315,31 +1315,7 @@ def generate_reviews():
             return latin
         return f'author-{idx + 1}'
 
-    author_tmpl_html = """<!DOCTYPE html>
-<html>
-<head>
-  <title>Blues.Ru: CD обзор — {{ author | e }}</title>
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-  <link rel="shortcut icon" href="/images/bluesru.ico">
-  <style>body { max-width: 900px; margin: 0 auto; padding: 0 1em; }</style>
-  {{ ga_snippet | safe }}
-</head>
-<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#5511cc" alink="#00bb00">
-<p><a href="/"><b>Blues.Ru</b></a> &gt; <a href="/review/">CD обзор</a></p>
-<h2>{{ author | e }}</h2>
-<ul>
-{% for r in reviews %}
-<li>
-  {% if r.cover_url %}<a href="{{ r.url }}"><img src="{{ r.cover_url }}" alt="" border="0" style="vertical-align:middle;margin-right:4px;" width="40" height="40"></a>{% endif %}
-  <a href="{{ r.url }}">{% if r.artist_name %}<b>{{ r.artist_name | e }}</b> — {% endif %}<b>{{ r.album_title | e }}</b></a>{% if r.year %}, {{ r.year }}{% endif %}
-</li>
-{% endfor %}
-</ul>
-<p align="center">{{ footer }}</p>
-</body>
-</html>"""
-
-    author_tmpl = JINJA_ENV.from_string(author_tmpl_html)
+    author_tmpl = JINJA_ENV.get_template('review_author.html.j2')
     author_index_rows = []
 
     for idx, (author_name, author_reviews) in enumerate(
@@ -1360,27 +1336,7 @@ def generate_reviews():
         })
 
     # Author index
-    author_index_html = """<!DOCTYPE html>
-<html>
-<head>
-  <title>Blues.Ru: авторы обзоров</title>
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-  <link rel="shortcut icon" href="/images/bluesru.ico">
-  <style>body { max-width: 900px; margin: 0 auto; padding: 0 1em; }</style>
-  {{ ga_snippet | safe }}
-</head>
-<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#5511cc" alink="#00bb00">
-<p><a href="/"><b>Blues.Ru</b></a> &gt; <a href="/review/">CD обзор</a></p>
-<h2>Авторы обзоров</h2>
-<ul>
-{% for a in authors %}
-<li><a href="/review/author/{{ a.slug }}/">{{ a.name | e }}</a> ({{ a.count }})</li>
-{% endfor %}
-</ul>
-<p align="center">{{ footer }}</p>
-</body>
-</html>"""
-    ai_tmpl = JINJA_ENV.from_string(author_index_html)
+    ai_tmpl = JINJA_ENV.get_template('review_author_index.html.j2')
     (SITE / 'review' / 'author' / 'index.html').write_text(
         ai_tmpl.render(authors=author_index_rows, footer=FOOTER), encoding='utf-8')
 
@@ -1402,28 +1358,7 @@ def generate_reviews():
             })
 
     if various_reviews:
-        various_html = """<!DOCTYPE html>
-<html>
-<head>
-  <title>Blues.Ru: Разные артисты</title>
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-  <link rel="shortcut icon" href="/images/bluesru.ico">
-  <style>body { max-width: 900px; margin: 0 auto; padding: 0 1em; }</style>
-</head>
-<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#5511cc" alink="#00bb00">
-<h2><a href="/artist/">Музыканты</a> : Разные артисты</h2>
-<ul>
-{% for r in reviews %}
-<li>
-  {% if r.cover_url %}<a href="{{ r.url }}"><img src="{{ r.cover_url }}" alt="" border="0" style="vertical-align:middle;margin-right:4px;" width="40" height="40"></a>{% endif %}
-  <a href="{{ r.url }}"><b>{{ r.album_title | e }}</b></a>{% if r.year %}, {{ r.year }}{% endif %}
-</li>
-{% endfor %}
-</ul>
-<p align="center">{{ footer }}</p>
-</body>
-</html>"""
-        v_tmpl = JINJA_ENV.from_string(various_html)
+        v_tmpl = JINJA_ENV.get_template('various_artists.html.j2')
         dst_v = SITE / 'artist' / 'various-musicians' / 'index.html'
         dst_v.parent.mkdir(parents=True, exist_ok=True)
         dst_v.write_text(v_tmpl.render(reviews=various_reviews, footer=FOOTER), encoding='utf-8')
@@ -3097,112 +3032,7 @@ def generate_atb():
     total = len(shows)
 
     # ── Episode pages ──────────────────────────────────────────────────────────
-    ep_page_tmpl = JINJA_ENV.from_string("""\
-<!DOCTYPE html>
-<html>
-<head>
-  <title>{{ summary or (show.topic or show.slug) }} — Весь этот блюз — Blues.Ru</title>
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-  <link rel="shortcut icon" href="/images/bluesru.ico">
-  <link rel="stylesheet" href="/static/css/site.css">
-  {{ ga_snippet | safe }}
-  <style>
-    body { max-width: 820px; margin: 0 auto; padding: 0 1.2em; }
-    .ep-meta { color: #777; font-size: 0.88em; margin-bottom: 1em; }
-    .ep-body { line-height: 1.65; }
-    .ep-part { margin: 1.2em 0; }
-    .ep-part-label { font-size: 0.9em; color: #555; margin-bottom: 0.3em; }
-    audio { display: block; width: 100%; max-width: 540px; }
-    .mp3-link { font-size: 0.85em; color: #777; margin-top: 0.3em; }
-    .atb-artists { margin: 0.8em 0; font-size: 0.93em; }
-    /* Transcript */
-    .atb-transcript { margin-top: 2em; }
-    .atb-transcript h3 { font-size: 1em; color: #4F62B5; margin-bottom: 1em; }
-    .atb-transcript-part + .atb-transcript-part { margin-top: 1.8em; border-top: 1px dashed #ccc; padding-top: 1.2em; }
-    .atb-part-label { font-size: 0.88em; color: #555; margin-bottom: 0.8em; font-weight: bold; }
-    .atb-speech { display: flex; gap: 0.55em; margin: 0.65em 0; align-items: flex-start; }
-    .atb-tc {
-      background: none; border: 1px solid #b0bbd8; border-radius: 2px;
-      color: #4F62B5; font: 0.76em/1.5 monospace; padding: 0 4px;
-      cursor: pointer; white-space: nowrap; flex-shrink: 0; margin-top: 0.15em;
-    }
-    .atb-tc:hover { background: #4F62B5; color: #fff; border-color: #4F62B5; }
-    .atb-speech-text p { margin: 0 0 0.35em; line-height: 1.6; font-size: 0.92em; }
-    .atb-music {
-      display: inline-flex; align-items: center; gap: 0.35em;
-      background: #fdf7ee; border: 1px solid #d4b896; border-radius: 3px;
-      padding: 2px 10px 2px 7px; margin: 0.35em 0; cursor: pointer; font-size: 0.87em;
-    }
-    .atb-music:hover { background: #f5e8d0; }
-    .atb-m-note { color: #8b6c3e; font-size: 1.05em; }
-    .atb-m-start { font-family: monospace; font-weight: bold; color: #5a3e1b; }
-    .atb-m-dur { color: #8b6c3e; }
-  </style>
-</head>
-<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#5511cc">
-
-<p><a href="/"><b>Blues.Ru</b></a> &gt; <a href="/atb/">Весь этот блюз</a></p>
-<hr size="1">
-<h2>{{ summary or (show.topic or show.slug) }}</h2>
-<div class="ep-meta">
-  {% if show.date %}<b>{{ show.date }}</b> · {% endif %}Программа «Весь Этот Блюз» на Эхо Москвы 91.2 FM
-</div>
-{% set files = show.files if show.files is defined else [] %}
-{% if files | length > 1 %}
-{% for f in files %}
-<div class="ep-part atb-audio">
-  <div class="ep-part-label">Часть {{ loop.index }}</div>
-  <audio controls preload="none">
-    <source src="{{ f.path }}" type="audio/mpeg">
-    <a href="{{ f.path }}">MP3</a>
-  </audio>
-  <div class="mp3-link"><a href="{{ f.path }}">Скачать MP3</a>{% if f.size_mb %} ({{ f.size_mb }}){% endif %}</div>
-</div>
-{% endfor %}
-{% elif files %}
-<div class="ep-part atb-audio">
-  <audio controls preload="none">
-    <source src="{{ files[0].path }}" type="audio/mpeg">
-    <a href="{{ files[0].path }}">MP3</a>
-  </audio>
-  <div class="mp3-link"><a href="{{ files[0].path }}">Скачать MP3</a>{% if files[0].size_mb %} ({{ files[0].size_mb }}){% endif %}</div>
-</div>
-{% endif %}
-{% if description_html %}
-<div class="ep-body">{{ description_html | safe }}</div>
-{% endif %}
-{% if artists_tags_html %}
-<div class="atb-artists">{{ artists_tags_html | safe }}</div>
-{% endif %}
-{% if transcripts_html %}
-<div class="atb-transcript">
-  <hr size="1">
-  <h3>AI Расшифровка эфира</h3>
-  {% for part_html in transcripts_html %}
-  <div class="atb-transcript-part">
-    {% if transcripts_html | length > 1 %}<p class="atb-part-label">Часть {{ loop.index }}</p>{% endif %}
-    {{ part_html | safe }}
-  </div>
-  {% endfor %}
-</div>
-{% endif %}
-<hr size="1">
-<p><a href="/atb/">&larr; Все выпуски «Весь Этот Блюз»</a></p>
-<p align="center">{{ footer }}</p>
-<script>
-function atbSeek(partIdx, sec) {
-  var pl = document.querySelectorAll('.atb-audio audio');
-  if (pl[partIdx]) { pl[partIdx].currentTime = sec; pl[partIdx].play().catch(function(){}); }
-}
-function atbSeekHash() {
-  var m = /^#p(\d+)t(\d+)$/.exec(location.hash);
-  if (m) atbSeek(parseInt(m[1]), parseInt(m[2]));
-}
-window.addEventListener('load', atbSeekHash);
-window.addEventListener('hashchange', atbSeekHash);
-</script>
-</body>
-</html>""")
+    ep_page_tmpl = JINJA_ENV.get_template('atb_episode.html.j2')
 
     def _format_desc(desc):
         """Format episode description into HTML paragraphs."""
@@ -3282,80 +3112,7 @@ window.addEventListener('hashchange', atbSeekHash);
         ep_pages_written += 1
 
     # ── ATB index page ─────────────────────────────────────────────────────────
-    atb_html = """\
-<!DOCTYPE html>
-<html>
-<head>
-  <title>Blues.Ru: Весь этот блюз — архив передач</title>
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-  <link rel="shortcut icon" href="/images/bluesru.ico">
-  {{ ga_snippet | safe }}
-  <style>
-    body { max-width: 900px; margin: 0 auto; padding: 0 1em; }
-    .ep-date { color: #4F62B5; font-size: 0.9em; min-width: 90px; display: inline-block; }
-    .ep-summary { color: #555; font-size: 0.9em; }
-    .year-section h3 { border-bottom: 1px solid #ccc; padding-bottom: 2px; }
-    .ep-tracks { margin-left: 1em; font-size: 0.9em; color: #555; }
-  </style>
-</head>
-<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#5511cc" alink="#00bb00">
-
-<table cellpadding="4" cellspacing="0" border="0" align="right">
-<tr><td><a href="/"><img src="/images/bluesru100x100.gif" width="100" height="100" border="0"></a></td></tr>
-</table>
-
-<p><a href="/"><b>Blues.Ru</b></a> &gt; <a href="/atb/">Весь этот блюз</a></p>
-<hr size="1">
-<h2>Весь этот блюз</h2>
-<p>Программа «Весь этот блюз» выходила еженедельно на <b>Эхо Москвы 91.2 FM</b>.
-Всего записей: {{ total }}. | <a href="/atb/archive/">Весь Этот Блюз 2000 (архив)</a></p>
-
-<p>
-{% for yr in year_groups %}
-<a href="#year-{{ yr }}">{{ yr }}</a>&#32;
-{% endfor %}
-</p>
-<hr size="1">
-
-{% for yr, date_shows in year_groups.items() %}
-<div class="year-section" id="year-{{ yr }}">
-<h3>{{ yr }}</h3>
-{% for date_str, shows_on_date in date_shows %}
-{% set show_list = shows_on_date | selectattr('is_show') | list %}
-{% set track_list = shows_on_date | rejectattr('is_show') | list %}
-{% if show_list %}
-{% for show in show_list %}
-<p>
-<span class="ep-date">{{ show.date }}</span>
-<a href="{{ show.page_url }}">{{ show.summary or show.topic or show.slug }}</a>
-{%- if show.files | length > 1 %} <span class="ep-parts">({{ show.files | length }} части)</span>{% endif %}
-</p>
-{% endfor %}
-{% elif track_list %}
-<p>
-<span class="ep-date">{{ date_str }}</span>
-<b>{{ track_list[0].subdir.split('/')[-1] | replace('_', ' ') }}</b> — {{ track_list | length }} треков
-<div class="ep-tracks">
-{% for t in track_list %}{% set f = t.files[0] if t.files else {} %}<a href="{{ f.path or '' }}">{{ t.topic or t.slug }}</a>{% if not loop.last %} · {% endif %}{% endfor %}
-</div>
-</p>
-{% endif %}
-{% endfor %}
-</div>
-{% endfor %}
-
-{% if undated %}
-<h3>Без даты</h3>
-{% for show in undated %}
-<p><a href="{{ show.page_url }}">{{ show.summary or show.topic or show.slug }}</a></p>
-{% endfor %}
-{% endif %}
-
-<p align="center">{{ footer }}</p>
-</body>
-</html>"""
-
-    tmpl = JINJA_ENV.from_string(atb_html)
+    tmpl = JINJA_ENV.get_template('atb_index.html.j2')
     dst = SITE / 'atb' / 'index.html'
     dst.parent.mkdir(parents=True, exist_ok=True)
     dst.write_text(tmpl.render(

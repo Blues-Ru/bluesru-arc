@@ -1,0 +1,10 @@
+# Extra /bluesmen/ → /artist/ directory redirects not covered by legacy_path in artists.yaml.
+# These artists have a different legacy dir name than what legacy_path provides.
+# Format: old_dir: new_slug
+
+Johnny_Winter:  johnny-winter
+Larry_McCray:   larry-mccray
+Lazy_Bill_Lucas: lazy-bill-lucas
+Little_Richard: little-richard
+Luther_Allison: luther-allison
+Scott_Henderson: scott-henderson

@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Blues.Ru: Весь этот блюз — архив передач</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <link rel="shortcut icon" href="/images/bluesru.ico">
+  {{ ga_snippet | safe }}
+  <style>
+    body { max-width: 900px; margin: 0 auto; padding: 0 1em; }
+    .ep-date { color: #4F62B5; font-size: 0.9em; min-width: 90px; display: inline-block; }
+    .ep-summary { color: #555; font-size: 0.9em; }
+    .year-section h3 { border-bottom: 1px solid #ccc; padding-bottom: 2px; }
+    .ep-tracks { margin-left: 1em; font-size: 0.9em; color: #555; }
+  </style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#5511cc" alink="#00bb00">
+
+<table cellpadding="4" cellspacing="0" border="0" align="right">
+<tr><td><a href="/"><img src="/images/bluesru100x100.gif" width="100" height="100" border="0"></a></td></tr>
+</table>
+
+<p><a href="/"><b>Blues.Ru</b></a> &gt; <a href="/atb/">Весь этот блюз</a></p>
+<hr size="1">
+<h2>Весь этот блюз</h2>
+<p>Программа «Весь этот блюз» выходила еженедельно на <b>Эхо Москвы 91.2 FM</b>.
+Всего записей: {{ total }}. | <a href="/atb/archive/">Весь Этот Блюз 2000 (архив)</a></p>
+
+<p>
+{% for yr in year_groups %}
+<a href="#year-{{ yr }}">{{ yr }}</a>&#32;
+{% endfor %}
+</p>
+<hr size="1">
+
+{% for yr, date_shows in year_groups.items() %}
+<div class="year-section" id="year-{{ yr }}">
+<h3>{{ yr }}</h3>
+{% for date_str, shows_on_date in date_shows %}
+{% set show_list = shows_on_date | selectattr('is_show') | list %}
+{% set track_list = shows_on_date | rejectattr('is_show') | list %}
+{% if show_list %}
+{% for show in show_list %}
+<p>
+<span class="ep-date">{{ show.date }}</span>
+<a href="{{ show.page_url }}">{{ show.summary or show.topic or show.slug }}</a>
+{%- if show.files | length > 1 %} <span class="ep-parts">({{ show.files | length }} части)</span>{% endif %}
+</p>
+{% endfor %}
+{% elif track_list %}
+<p>
+<span class="ep-date">{{ date_str }}</span>
+<b>{{ track_list[0].subdir.split('/')[-1] | replace('_', ' ') }}</b> — {{ track_list | length }} треков
+<div class="ep-tracks">
+{% for t in track_list %}{% set f = t.files[0] if t.files else {} %}<a href="{{ f.path or '' }}">{{ t.topic or t.slug }}</a>{% if not loop.last %} · {% endif %}{% endfor %}
+</div>
+</p>
+{% endif %}
+{% endfor %}
+</div>
+{% endfor %}
+
+{% if undated %}
+<h3>Без даты</h3>
+{% for show in undated %}
+<p><a href="{{ show.page_url }}">{{ show.summary or show.topic or show.slug }}</a></p>
+{% endfor %}
+{% endif %}
+
+<p align="center">{{ footer }}</p>
+</body>
+</html>

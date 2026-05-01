@@ -20,10 +20,21 @@ deps: .deps-stamp
 	pip install -q -r requirements.txt
 	@touch $@
 
-# ── Full sequential build (default) ──────────────────────────────────────────
+# ── Sequential build (default) ───────────────────────────────────────────────
+#
+# Runs all sections in dependency order, with site backup before starting.
+# Use 'make build-parallel' for faster parallel execution.
 
-build: deps
-	bash $(SCRIPTS)/build.sh
+build: deps backup data calendar anagrams content bluesmen news reviews atb \
+       updates homepage galleries photo forum postprocess deploy
+
+backup:
+	@if [ -d "$(SITE)" ]; then \
+	    STAMP=$$(date +%Y%m%d); BACKUP="$(SITE)-$$STAMP"; I=1; \
+	    while [ -d "$$BACKUP" ]; do BACKUP="$(SITE)-$${STAMP}-$$I"; I=$$((I+1)); done; \
+	    echo "Archiving existing site → $$BACKUP/"; \
+	    mv "$(SITE)" "$$BACKUP"; \
+	fi
 
 # ── Parallel build ────────────────────────────────────────────────────────────
 #
@@ -48,8 +59,8 @@ photo: galleries
 $(addprefix forum-shard-, $(SHARDS)): forum-index forum-plan
 
 # Phase 1 — all independent sections + forum prep
-_phase1: content bluesmen news reviews atb updates homepage data galleries \
-         forum-index forum-plan
+_phase1: content bluesmen news reviews atb updates homepage data calendar \
+         anagrams galleries forum-index forum-plan
 
 postprocess: _phase1
 
@@ -57,6 +68,12 @@ postprocess: _phase1
 
 content bluesmen news reviews atb updates homepage postprocess deploy:
 	$(RUN) $(SCRIPTS)/generate.py --section $@
+
+calendar:
+	$(RUN) $(SCRIPTS)/generate_calendar_page.py
+
+anagrams:
+	$(RUN) $(SCRIPTS)/generate_anagrams.py
 
 galleries:
 	$(RUN) $(SCRIPTS)/generate.py --section galleries
@@ -85,7 +102,7 @@ forum-shard-%:
 # ── Dev ───────────────────────────────────────────────────────────────────────
 
 serve:
-	sudo $(RUN) $(SCRIPTS)/serve.py
+	$(RUN) $(SCRIPTS)/serve.py
 
 thumbs:
 	$(RUN) $(SCRIPTS)/thumbs.py
@@ -106,9 +123,9 @@ push-cache:
 
 push-all: push-media push-cache push
 
-.PHONY: deps build build-parallel _phase1 _phase2 \
+.PHONY: deps build build-parallel backup _phase1 _phase2 \
         content bluesmen news reviews atb updates homepage data \
-        galleries photo postprocess deploy \
+        calendar anagrams galleries photo postprocess deploy \
         forum forum-plan forum-index \
         $(addprefix forum-shard-, $(SHARDS)) \
         serve thumbs thumbs-dry \
