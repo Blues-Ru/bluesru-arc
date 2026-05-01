@@ -118,7 +118,12 @@ def generate_photo_index():
         except ValueError:
             year_int = None
 
-        abs_thumb = ('/' + canonical_rel + '/' + thumb) if thumb else ''
+        if thumb:
+            stem, _, ext = thumb.rpartition('.')
+            thumb_file = f"{stem}-400w.jpg" if ext.lower() in ('jpg', 'jpeg', 'png', 'webp') else thumb
+            abs_thumb = '/' + canonical_rel + '/' + thumb_file
+        else:
+            abs_thumb = ''
         cards.append({
             'path': gpath,
             'canonical_url': '/' + canonical_rel + '/',
