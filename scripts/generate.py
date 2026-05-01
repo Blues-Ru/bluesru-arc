@@ -1933,15 +1933,17 @@ def _build_atb_by_slug():
 
 
 def _atb_links_html(atb_episodes):
-    """Build 'Весь этот блюз: ep1 · ep2' HTML for artist pages."""
+    """Build 'Весь этот блюз' episode list for artist pages — one line per episode with date."""
     if not atb_episodes:
         return ''
-    parts = []
+    lines = []
     for ep in sorted(atb_episodes, key=lambda e: e.get('date', ''), reverse=True):
         label = html_mod.escape(ep['summary'])
         url = ep['page_url']
-        parts.append(f'<a href="{url}">{label}</a>')
-    return '<b>Весь этот блюз:</b> ' + ' &middot; '.join(parts)
+        date = ep.get('date', '')
+        date_str = f'<small style="color:#777">{html_mod.escape(date)}</small> ' if date else ''
+        lines.append(f'{date_str}<a href="{url}">{label}</a>')
+    return '<b>Весь этот блюз:</b><br>' + '<br>'.join(lines)
 
 
 def generate_bluesmen():
@@ -3004,17 +3006,18 @@ def _transcript_to_html(blocks, part_index):
     for b in blocks:
         t = b['seconds']
         tc = _fmt_tc(t)
+        anchor = f'p{part_index}t{t}'
         if b['type'] == 'speech':
             out.append(
-                f'<div class="atb-speech">'
-                f'<button class="atb-tc" onclick="atbSeek({part_index},{t})">{tc}</button>'
+                f'<div class="atb-speech" id="{anchor}">'
+                f'<a class="atb-tc" href="#{anchor}" onclick="atbSeek({part_index},{t});return false;">{tc}</a>'
                 f'<div class="atb-speech-text">{b["text"]}</div>'
                 f'</div>'
             )
         else:
             dur = b['end_seconds'] - t
             out.append(
-                f'<div class="atb-music" onclick="atbSeek({part_index},{t})" role="button" tabindex="0">'
+                f'<div class="atb-music" id="{anchor}" onclick="atbSeek({part_index},{t})" role="button" tabindex="0">'
                 f'<span class="atb-m-note">&#9835;</span>'
                 f'<span class="atb-m-start">{tc}</span>'
                 f'<span class="atb-m-dur">&thinsp;&middot;&thinsp;{_fmt_tc(dur)}</span>'
@@ -3119,8 +3122,8 @@ def generate_atb():
     .atb-part-label { font-size: 0.88em; color: #555; margin-bottom: 0.8em; font-weight: bold; }
     .atb-speech { display: flex; gap: 0.55em; margin: 0.65em 0; align-items: flex-start; }
     .atb-tc {
-      background: none; border: 1px solid #b0bbd8; border-radius: 2px;
-      color: #4F62B5; font: 0.76em/1.5 monospace; padding: 0 4px;
+      display: inline-block; background: none; border: 1px solid #b0bbd8; border-radius: 2px;
+      color: #4F62B5; font: 0.76em/1.5 monospace; padding: 0 4px; text-decoration: none;
       cursor: pointer; white-space: nowrap; flex-shrink: 0; margin-top: 0.15em;
     }
     .atb-tc:hover { background: #4F62B5; color: #fff; border-color: #4F62B5; }
@@ -3191,6 +3194,12 @@ function atbSeek(partIdx, sec) {
   var pl = document.querySelectorAll('.atb-audio audio');
   if (pl[partIdx]) { pl[partIdx].currentTime = sec; pl[partIdx].play().catch(function(){}); }
 }
+function atbSeekHash() {
+  var m = /^#p(\d+)t(\d+)$/.exec(location.hash);
+  if (m) atbSeek(parseInt(m[1]), parseInt(m[2]));
+}
+window.addEventListener('load', atbSeekHash);
+window.addEventListener('hashchange', atbSeekHash);
 </script>
 </body>
 </html>""")
