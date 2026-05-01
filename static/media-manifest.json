@@ -7,19 +7,19 @@
     "/atb/kalachev-kostin-show/": "kalachev-kostin-show/"
   },
   "dir_stats": {
-    "atb": 324,
-    "beefheart": 53,
-    "bluesmen": 138,
-    "bluesnews": 6,
-    "calendar": 4,
-    "efes": 1,
-    "excerpts": 2,
-    "kalachev-kostin-show": 1,
-    "mojobook": 8,
-    "photo": 17284,
-    "rblues": 203,
     "video": 11,
-    "ww": 83
+    "calendar": 4,
+    "beefheart": 53,
+    "atb": 323,
+    "excerpts": 2,
+    "ww": 83,
+    "kalachev-kostin-show": 1,
+    "efes": 1,
+    "bluesnews": 6,
+    "mojobook": 8,
+    "artist": 137,
+    "photo": 8101,
+    "rblues": 244
   },
-  "total_files": 18118
+  "total_files": 8974
 }

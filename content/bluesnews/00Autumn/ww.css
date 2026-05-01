@@ -1,0 +1,47 @@
+BODY {
+	color : #D6FCFE;
+	background-image : url(wwtile.gif);
+	background-color : #003366;
+	background-attachment : fixed;
+	text-indent : 9pt;
+	margin-top : 12pt;
+	margin-right : 7pt;
+	margin-bottom : 12pt;
+	margin-left : 9pt;
+}
+H1 {
+	font-weight : bolder;
+	letter-spacing : 4px;
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+	background-color : Navy;
+}
+H3 {
+	letter-spacing : 4px;
+	font-family : "Times New Roman", Times, serif;
+	background-color : Navy;
+}
+
+P {
+	text-indent : 2em;
+	text-align: justify;
+	font-weight: normal,;
+	font : Arial, Helvetica, sans-serif;
+	margin-left : 12px;
+	margin-right : 9px;
+}
+HR {
+	color : Navy;
+}
+A {
+	color : #00FFFF;
+	text-decoration : none;
+	font-weight : bolder;
+}
+A:HOVER {
+	text-decoration : underline;
+	color : Lime;
+}
+A:ACTIVE {
+	color: Yellow;
+}
+A:VISITED { color : #5FC9FF;}

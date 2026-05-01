@@ -31,8 +31,6 @@
   resources:
   - type: link
     url: /artist/billy-boy-arnold/ww_ArnoldBB.htm
-  - type: audio
-    url: /artist/billy-boy-arnold/ww_ArnoldBB.htm#links
 - id: 5
   slug: chuck-berry
   name: Chuck Berry
@@ -175,8 +173,6 @@
     url: /artist/robert-cray/pie.htm
   - type: link
     url: /artist/robert-cray/ww_CrayR.htm
-  - type: audio
-    url: /artist/robert-cray/ww_CrayR.htm#links
 - id: 20
   slug: willie-dixon
   name: Willie Dixon
@@ -197,8 +193,6 @@
   resources:
   - type: link
     url: /artist/chris-duarte/ww_DuarteC.htm
-  - type: audio
-    url: /artist/chris-duarte/ww_DuarteC.htm#links
   - type: page
     url: /bbkingfest/Lefortovo06/index3.htm
   - type: link
@@ -339,8 +333,6 @@
   resources:
   - type: link
     url: /artist/elmore-james/ww_JamesEl.htm
-  - type: audio
-    url: /artist/elmore-james/ww_JamesEl.htm#links
 - id: 37
   slug: blind-lemon-jefferson
   name: Blind Lemon Jefferson
@@ -416,7 +408,7 @@
   resources:
   - type: link
     url: /efes/longjohn.asp
-  - type: interview
+  - type: article
     url: /bluesnews/00Autumn/00EfesHunter.htm
 - id: 46
   slug: doug-macleod
@@ -544,9 +536,7 @@
   amg_id: Bke3ibka9hakx
   spotify_id: 0Y0ZlznP6vzTS1qAm5dvTN
   apple_music_id: '98774'
-  resources:
-  - type: link
-    url: /atb/JR_90/JR_90.html
+  resources: []
 - id: 59
   slug: otis-rush
   name: Otis Rush
@@ -579,7 +569,7 @@
   apple_music_id: '147085'
   resources:
   - type: interview
-    url: /bluesnews/10Summer/KWS10/KWS10.htm
+    url: /artist/kenny-wayne-shepherd/KWS10.htm
 - id: 62
   slug: hubert-sumlin
   name: Hubert Sumlin
@@ -626,8 +616,6 @@
   resources:
   - type: link
     url: /artist/jimmie-vaughan/ww_VaughanJ.htm
-  - type: audio
-    url: /artist/jimmie-vaughan/ww_VaughanJ.htm#links
 - id: 67
   slug: stevie-ray-vaughan
   name: Stevie Ray Vaughan
@@ -804,7 +792,7 @@
   apple_music_id: '3828268'
   resources:
   - type: interview
-    url: /bluesnews/10Spring/castro/castroint.htm
+    url: /bluesnews/10Spring/castro/CastroInt.htm
 - id: 86
   slug: jennie-jimmy-cheatham
   name: Jennie & Jimmy Cheatham
@@ -944,8 +932,6 @@
   resources:
   - type: link
     url: /label/Chess/
-  - type: audio
-    url: /label/Chess/#links
 - id: 104
   slug: alligator-records
   name: Alligator Records
@@ -956,10 +942,6 @@
   resources:
   - type: link
     url: /label/Alligator/
-  - type: audio
-    url: /label/Alligator/#links
-  - type: interview
-    url: /bluesnews/_16/Alligator_XLV/Iglauer_2016.htm
 - id: 109
   slug: little-charlie
   name: Little Charlie & The Nightcats
@@ -1199,7 +1181,7 @@
   resources:
   - type: interview
     url: /artist/gary-primich/Gary_Primich_interview.htm
-  - type: page
+  - type: article
     url: /bluesnews/04Winter/Primich.htm
 - id: 139
   slug: john-hammond
@@ -1852,7 +1834,7 @@
   name: Hans Theessink
   sort_name: Theessink, Hans
   legacy_path: null
-  amg_id: null
+  amg_id: 11:hxfexql5ldte~T1
   spotify_id: 2e02wACgnPCZ1lPeQEUCom
   apple_music_id: '34062802'
 - id: 224
@@ -2099,12 +2081,10 @@
   resources:
   - type: page
     url: /efes/holmesbr.asp
-  - type: interview
-    url: /bluesnews/00Autumn/00EfesHolmes.htm
-  - type: article
-    url: /bluesnews/00Autumn/00Efes1.htm
   - type: link
     url: /news/2015/01/13/story1066/
+  - type: article
+    url: /bluesnews/00Autumn/00EfesHolmes.htm
 - id: 258
   slug: jon-lord
   name: Jon Lord
@@ -2179,14 +2159,6 @@
     url: http://blues.ru/news/?p=200806#482
   - type: audio
     url: http://blues.ru/news/?p=200806#498
-- id: 267
-  slug: hans-theessink-2
-  name: Hans Theessink
-  sort_name: null
-  legacy_path: null
-  amg_id: 11:hxfexql5ldte~T1
-  spotify_id: 2e02wACgnPCZ1lPeQEUCom
-  apple_music_id: '34062802'
 - id: 268
   slug: bobby-blue-bland
   name: Bobby  "Blue" Bland
@@ -3156,7 +3128,7 @@
   spotify_id: 4v6O0YmShFLh9DAc69v1Ss
   apple_music_id: '205154946'
   resources:
-  - type: page
+  - type: article
     url: /bluesnews/_15/Wayne.htm
 - id: 449
   slug: sari-schorr

@@ -500,11 +500,22 @@ def process_html(content, source_dir, source_root, artist_slug=None,
             album_block += artist_albums_html
         replaced = RE_DYNAMIC_ASPX.sub(album_block, content)
         if replaced == content:
-            content = re.sub(r'(</body>)', album_block + '\n\\1', content, count=1, flags=re.IGNORECASE)
+            # No dynamic.aspx insertion point — insert above footer.inc if present
+            footer_pat = r'(<!--\s*#include\s+virtual\s*=\s*"/footer\.inc"\s*-->)'
+            replaced2 = re.sub(footer_pat, album_block + '\n\\1', content, count=1, flags=re.IGNORECASE)
+            if replaced2 != content:
+                content = replaced2
+            else:
+                content = re.sub(r'(</body>)', album_block + '\n\\1', content, count=1, flags=re.IGNORECASE)
         else:
             content = replaced
     else:
         content = RE_DYNAMIC_ASPX.sub('', content)
+
+    # Ensure footer.inc is present in artist main pages
+    if artist_slug and not re.search(r'<!--\s*#include\s+virtual\s*=\s*"/footer\.inc"\s*-->', content, re.IGNORECASE):
+        footer_include = '<!--#include virtual="/footer.inc"-->'
+        content = re.sub(r'(</body>)', footer_include + '\n\\1', content, count=1, flags=re.IGNORECASE)
 
     content = RE_INCLUDE_VIRTUAL.sub(lambda m: resolve_include(m.group(1), source_dir, source_root), content)
     content = RE_INCLUDE_FILE.sub(lambda m: resolve_include(m.group(1), source_dir, source_root), content)
@@ -1018,20 +1029,16 @@ def _build_galleries_by_slug():
         tags = g.get('artists_tags') or []
         if not tags:
             continue
-        canon = g.get('canonical_date', '')
-        year = canon[:4] if canon else (g.get('year') or '')
         slug = g.get('slug', '')
-        if year and canon:
-            url = f'/photo/{year}/{canon}-{slug}/'
-        elif year:
-            url = f'/photo/{year}/{slug}/'
-        else:
+        gpath, year = _gallery_canonical_url(g, slug)
+        if not year:
             continue
+        url = f'/{gpath}/'
         entry = {
             'slug': slug,
             'title': g.get('title', ''),
             'url': url,
-            'date': canon,
+            'date': str(g.get('canonical_date', '') or ''),
         }
         for artist_slug in tags:
             index.setdefault(artist_slug, []).append(entry)
@@ -1212,6 +1219,15 @@ def _process_artist_dir(artist, src_dir, src_root, artist_resources=None, artist
                     htm_alias = dst_path.with_suffix('.htm')
                     if htm_alias != dst_path:
                         htm_alias.write_text(content, encoding='utf-8')
+                # Also write the _rewrite_links-normalized filename so it resolves
+                raw_fname = src_path.name
+                if '_' in raw_fname or (raw_fname != raw_fname.lower() and '.' in raw_fname):
+                    norm_name = raw_fname.replace('_', '-').lower()
+                    if norm_name.endswith('.htm'):
+                        norm_name = norm_name[:-4] + '.html'
+                    norm_path = dst_path.parent / norm_name
+                    if norm_path != dst_path and norm_name != 'index.html':
+                        norm_path.write_text(content, encoding='utf-8')
                 continue
         shutil.copy2(src_path, dst_path)
 

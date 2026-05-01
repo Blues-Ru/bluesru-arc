@@ -602,7 +602,7 @@
   canonical_date: '2003-05-27'
   year: '2003'
   title: Blues.Ru — Весна-03
-  type: custom
+  type: mts
   photo_count: 30
 - slug: jimmy-d-lane-rbk
   canonical_date: '2003-09-05'
@@ -654,7 +654,7 @@
   canonical_date: '2003-11-14'
   year: '2003'
   title: 14 Efes Pilsener Blues Festival
-  type: custom
+  type: mts
   photo_count: 22
 - slug: moscow-harp-festival-5
   canonical_date: '2004'
@@ -744,7 +744,7 @@
   canonical_date: 2010-07
   year: '2010'
   title: Kenny Wayne Shepherd в Москве, 2010
-  type: custom
+  type: mts
   photo_count: 13
   artists_tags:
   - kenny-wayne-shepherd
@@ -1010,7 +1010,7 @@
 - slug: kw2
   canonical_date: '2015-10-30'
   year: '2015'
-  title: KW2
+  title: Kenny Blues Boss Wayne, B.B.King Club, 30 октября 2015
   type: lightroom
   photo_count: 30
 - slug: dzagnidze
@@ -2309,6 +2309,7 @@
   title: День рождения Сергея Воронова в клубе B.B.King
   type: custom
   photo_count: 11
+  exclude: true
 - slug: september-jam
   canonical_date: 2004-09
   year: '2004'
