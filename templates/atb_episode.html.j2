@@ -52,7 +52,7 @@
 {% for f in files %}
 <div class="ep-part atb-audio">
   <div class="ep-part-label">Часть {{ loop.index }}</div>
-  <audio controls preload="none">
+  <audio controls preload="metadata">
     <source src="{{ f.path }}" type="audio/mpeg">
     <a href="{{ f.path }}">MP3</a>
   </audio>
@@ -61,7 +61,7 @@
 {% endfor %}
 {% elif files %}
 <div class="ep-part atb-audio">
-  <audio controls preload="none">
+  <audio controls preload="metadata">
     <source src="{{ files[0].path }}" type="audio/mpeg">
     <a href="{{ files[0].path }}">MP3</a>
   </audio>
@@ -92,7 +92,11 @@
 <script>
 function atbSeek(partIdx, sec) {
   var pl = document.querySelectorAll('.atb-audio audio');
-  if (pl[partIdx]) { pl[partIdx].currentTime = sec; pl[partIdx].play().catch(function(){}); }
+  var audio = pl[partIdx];
+  if (!audio) return;
+  var doSeek = function() { audio.currentTime = sec; audio.play().catch(function(){}); };
+  if (audio.readyState >= 1) { doSeek(); }
+  else { audio.addEventListener('loadedmetadata', doSeek, {once: true}); audio.load(); }
 }
 function atbSeekHash() {
   var m = /^#p(\d+)t(\d+)$/.exec(location.hash);
