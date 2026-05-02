@@ -6,6 +6,8 @@
 /static/js/*     /js/:splat     301
 /static/covers/* /covers/:splat 301
 /newsimg/*       /news/images/:splat  301
+/calendar/*.jpg  /calendar/images/:splat  301
+/calendar/*.gif  /calendar/images/:splat  301
 
 # === STATIC REDIRECTS (exact paths, no wildcards) ===
 
