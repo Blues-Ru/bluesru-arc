@@ -58,6 +58,12 @@
 # /bluesmen/ section renamed to /artist/
 /bluesmen/  /artist/  301
 /bluesmen/default.aspx  /artist/  301
+# Recovered aspx content sub-pages (must precede catch-all)
+/bluesmen/Alexis_Korner/Alexis_Korner_Blues_Inc.aspx  /artist/alexis-korner/blues-inc.html  301
+/bluesmen/Gary_Primich/EJ-evdokimov.aspx  /artist/gary-primich/evdokimov.html  301
+/bluesmen/Charlie_Musselwhite/Charlie_Musselwhite2.aspx  /artist/charlie-musselwhite/charlie-musselwhite-2.html  301
+/bluesmen/John_Mayall/kalachev.aspx  /artist/john-mayall/kalachev.html  301
+/bluesmen/James_Cotton/James_Cotton2.aspx  /artist/james-cotton/james-cotton-2.html  301
 # Catch-all for /bluesmen/ (per-artist slug mapping done in _middleware.js)
 /bluesmen/*  /artist/:splat  301
 
@@ -65,7 +71,6 @@
 /news.aspx  /updates/  301
 
 # Catch-all for .aspx files not handled above
-/data/*  /  302
 /*.aspx  /  302
 
 # Old section redirects
