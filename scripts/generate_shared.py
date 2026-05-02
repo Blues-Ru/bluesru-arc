@@ -1676,11 +1676,13 @@ def postprocess_dead_links():
 
 
 def copy_root_files():
-    for fname in ['_redirects', '_headers', '404.html', 'robots.txt']:
+    for fname in ['_redirects', '_headers', 'robots.txt']:
         src = ARC / fname
         if src.exists():
             shutil.copy2(src, SITE / fname)
 
+    tmpl = JINJA_ENV.get_template('404.html.j2')
+    (SITE / '404.html').write_text(tmpl.render(), encoding='utf-8')
 
     print("  Root files: _redirects, _headers, 404.html")
 
