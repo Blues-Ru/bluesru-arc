@@ -56,8 +56,6 @@ _phase2: photo $(addprefix forum-shard-, $(SHARDS))
 
 photo: galleries
 
-$(addprefix forum-shard-, $(SHARDS)): forum-index forum-plan
-
 # Phase 1 — all independent sections + forum prep
 _phase1: content bluesmen news reviews atb updates homepage data calendar \
          anagrams galleries forum-index forum-plan
@@ -119,7 +117,7 @@ forum-plan:
 forum-index:
 	$(RUN) $(SCRIPTS)/generate_forum.py --section forum-index
 
-forum-shard-%:
+$(addprefix forum-shard-, $(SHARDS)): forum-shard-%: forum-index forum-plan
 	$(RUN) $(SCRIPTS)/generate_forum.py --section forum-topics \
 	    --shard-file $(SHARD_DIR)/shard-$*.txt
 
