@@ -56,6 +56,16 @@ ATB_EPISODES_YAML   = DATA / "atb" / "episodes.yaml"
 ATB_TRANSCRIPTS_DIR = DATA / "atb" / "transcripts"
 
 
+def _load_spam_ids():
+    spam_yaml = DATA / "forum" / "spam-ids.yaml"
+    if not spam_yaml.exists():
+        return set()
+    d = yaml.safe_load(spam_yaml.read_text(encoding='utf-8')) or {}
+    return set(d.get('post_ids', []))
+
+SPAM_IDS = _load_spam_ids()
+
+
 def _load_topics_index():
     index_yaml = DATA / "forum" / "topics-index.yaml"
     if index_yaml.exists():
@@ -745,7 +755,7 @@ def sanitize_forum_html(text):
             if href_m:
                 href = href_m.group(1)
                 if not re.match(r'^\s*javascript:', href, re.IGNORECASE):
-                    result.append(f'<a href="{html_mod.escape(href)}">')
+                    result.append(f'<a href="{html_mod.escape(href)}" rel="nofollow noopener">')
         elif tag == 'a' and closing:
             result.append('</a>')
         elif tag == 'iframe' and not closing:
@@ -778,6 +788,9 @@ def format_forum_date(date_str):
 
 def render_post_html(post, topic_slug, full=True, depth=0):
     pid = post.get('id', '')
+    # Spam posts (and their subtrees) are fully suppressed — no output at all
+    if pid in SPAM_IDS:
+        return ''
     poster = html_mod.escape(post.get('poster', '') or '')
     date_str = format_forum_date(post.get('date', ''))
     subject = html_mod.escape(post.get('subject', '') or '')
@@ -872,6 +885,9 @@ def render_topic_html(topic_data, topic_meta, full=False, forum_page=1):
 def _topic_is_all_deleted(topic_data):
     def has_visible(posts):
         for p in posts:
+            pid = p.get('id')
+            if pid in SPAM_IDS:
+                continue  # spam post + subtree suppressed entirely
             if not p.get('deleted', False):
                 return True
             if has_visible(p.get('replies', [])):

@@ -99,12 +99,44 @@
 
 # News archive redirects (static)
 /news/archive/  /news/2024/  301
+# === DYNAMIC REDIRECTS (wildcards/splats — max 100) ===
+
+# /bluesmen/ catch-all (per-artist slug mapping done in _middleware.js)
+/bluesmen/*  /artist/:splat  301
+
+# Catch-all for .aspx files not handled above
+/*.aspx  /  302
+
+# /cdreview/ and /bluesme/ wildcards
+/cdreview/*  /review/:splat  301
+/bluesme/*  /artist/:splat  301
+
+# /bluesmen/ TitleCase dirs — wildcard sub-pages (must precede /bluesmen/* catch-all above)
+/bluesmen/Johnny_Winter/*  /artist/johnny-winter/:splat  301
+/bluesmen/Larry_McCray/*  /artist/larry-mccray/:splat  301
+/bluesmen/Lazy_Bill_Lucas/*  /artist/lazy-bill-lucas/:splat  301
+/bluesmen/Little_Richard/*  /artist/little-richard/:splat  301
+/bluesmen/Luther_Allison/*  /artist/luther-allison/:splat  301
+/bluesmen/Scott_Henderson/*  /artist/scott-henderson/:splat  301
+/artist/b-b-the-blues-shacks/*  /artist/bb-the-blues-shacks/:splat  301
+
+# /reading/ catch-all
+/reading/*  /article/  302
+
+# /label/ TitleCase wildcards
+/label/Alligator/*  /label/alligator/:splat  301
+/label/Blues_Leaf/*  /label/blues-leaf/:splat  301
+/label/Chess/*  /label/chess/:splat  301
+
+# News archive with year placeholder
+/news/archive/:year/  /news/:year/  301
 
 # BEGIN gallery-redirects
 /bluesnews/nbf/gallery/98/  /photo/1998/1998-notodden-blues-festival/  301
 /bluesnews/nbf/gallery/99/  /photo/1999/1999-notodden-blues-festival/  301
 /bluesnews/00Autumn/  /photo/2000/2000-10-efes-blues-festival-xi/  301
 /bluesnews/nbf/gallery/01/  /photo/2001/2001-bjorn-berge-notodden/  301
+/bluesnews/nbf/gallery/01/  /photo/2001/2001-notodden-blues-festival/  301
 /bluesnews/DN/  /photo/2002/2002-delta-nevy-festival/  301
 /bluesnews/hf03/  /photo/2002/2002-harp-festival-moscow/  301
 /bluesnews/nbf/gallery/02/  /photo/2002/2002-notodden-blues-festival/  301
@@ -400,7 +432,6 @@
 /bluesnews/_16/16_06_12_Clearwater/  /photo/2016/2016-06-12-clearwater/  301
 /bluesnews/_16/16_06_12_Migration/  /photo/2016/2016-06-12-migration/  301
 /bluesnews/_16/16_06_13_BG/  /photo/2016/2016-06-13-big-guy/  301
-/bluesnews/_16/16_07_07RWIP/  /photo/2016/2016-07-07-raphael-wressnig-igor-prado/  301
 /bluesnews/_16/16_07_07_Raphael%20Wressnig%20Igor%20Prado/  /photo/2016/2016-07-07-raphael-wressnig-igor-prado/  301
 /bluesnews/_16/16_07_10_MA/  /photo/2016/2016-07-10-mike-andersen/  301
 /bluesnews/_15/16_09_30_SOBO/  /photo/2016/2016-09-30-sobo/  301
@@ -443,38 +474,5 @@
 /bluesnews/_19/19_11_10_Crosseyedcats/  /photo/2019/2019-11-10-crosseyedcats/  301
 /bluesnews/_19/2019-11-24_Juk_Kozh/  /photo/2019/2019-11-24-juk-kozh/  301
 /bluesnews/22_03_19_Kaverkin/  /photo/2022/2022-03-19-yuri-kaverkin/  301
-/bluesnews/_22/  /photo/2022/2022-11-23-neighbours/  301
 /bluesnews/_22/22_11_23_Neighbours/  /photo/2022/2022-11-23-neighbours/  301
 # END gallery-redirects
-
-# === DYNAMIC REDIRECTS (wildcards/splats — max 100) ===
-
-# /bluesmen/ catch-all (per-artist slug mapping done in _middleware.js)
-/bluesmen/*  /artist/:splat  301
-
-# Catch-all for .aspx files not handled above
-/*.aspx  /  302
-
-# /cdreview/ and /bluesme/ wildcards
-/cdreview/*  /review/:splat  301
-/bluesme/*  /artist/:splat  301
-
-# /bluesmen/ TitleCase dirs — wildcard sub-pages (must precede /bluesmen/* catch-all above)
-/bluesmen/Johnny_Winter/*  /artist/johnny-winter/:splat  301
-/bluesmen/Larry_McCray/*  /artist/larry-mccray/:splat  301
-/bluesmen/Lazy_Bill_Lucas/*  /artist/lazy-bill-lucas/:splat  301
-/bluesmen/Little_Richard/*  /artist/little-richard/:splat  301
-/bluesmen/Luther_Allison/*  /artist/luther-allison/:splat  301
-/bluesmen/Scott_Henderson/*  /artist/scott-henderson/:splat  301
-/artist/b-b-the-blues-shacks/*  /artist/bb-the-blues-shacks/:splat  301
-
-# /reading/ catch-all
-/reading/*  /article/  302
-
-# /label/ TitleCase wildcards
-/label/Alligator/*  /label/alligator/:splat  301
-/label/Blues_Leaf/*  /label/blues-leaf/:splat  301
-/label/Chess/*  /label/chess/:splat  301
-
-# News archive with year placeholder
-/news/archive/:year/  /news/:year/  301

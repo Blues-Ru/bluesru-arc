@@ -12,6 +12,7 @@ def generate_forum():
     topics_visible, topic_to_page = _forum_visible_topics()
     print(f"  Topics: {len(topics_visible)} visible")
     _generate_forum_index(topics_visible)
+    _clean_stale_topic_files(topics_visible)
     _generate_forum_topics(topics_visible, topic_to_page)
     _copy_forum_static()
 
@@ -49,6 +50,22 @@ def generate_forum_topics_from_shard(shard_file):
         {tid: page for tid, page in entries},
     )
     print(f"  Done: {path.name}")
+
+
+def _clean_stale_topic_files(topics_visible):
+    """Delete topicN.html files for topics no longer visible (e.g. all-spam topics)."""
+    valid_ids = {str(tm.get('topic_id')) for tm in topics_visible}
+    forum_dir = SITE / 'forum'
+    if not forum_dir.exists():
+        return
+    removed = 0
+    for f in forum_dir.glob('topic*.html'):
+        tid = f.stem[5:]  # strip 'topic'
+        if tid not in valid_ids:
+            f.unlink()
+            removed += 1
+    if removed:
+        print(f"  Removed {removed} stale topic file(s)")
 
 
 def _generate_forum_index(topics_visible):
