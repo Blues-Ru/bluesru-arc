@@ -30,6 +30,7 @@ posts:
     subject: да, чётко было
     deleted: false
     text: настоящие блюзы! чёрные как кукушка!
+    person_id: 335
   - id: 33183
     parent_id: 33180
     date: 2007-07-14 11:31

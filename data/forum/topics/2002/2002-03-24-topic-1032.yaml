@@ -12,15 +12,12 @@ posts:
   email: peregnoy@mail.ru
   subject: Разжился вот тут ...
   deleted: false
-  text: "дисочками.\n1. Otis Rush \"Any place I'm going\" - cтабильно классно\n2.\
-    \ Sweet Emotion. Songs of Aerosmith. Blues on fire.\n  Прикольный диск. Похоже,\
-    \ что это аналог \"блюзового\" белого альбома. Порадовали в первую очередь старики:\
-    \ Pinetop Perkins (Walk this way), David \"Honeyboy\" Edwards - 'acoustic' (Train\
-    \ kept a rollin'). Кстати, про него толком ничего не смог найти. Хорошо пошёл\
-    \ Lou Gramm with Sugar Blue (Back in the saddle again), хотя он вроде как к блюзу\
-    \ имеет мало отношения. \n3. Hubert Sumlin \"My guitar and me\" - качественно,\
-    \ но чего-то не хватает. Похоже, действительно он наиболее силён в качестве \"\
-    второй скрипки\"/серого кардинала. Хочу \"Legends\" HS&PP!!!"
+  text: "дисочками.\n1. Otis Rush \"Any place I'm going\" - cтабильно классно\n2. Sweet Emotion. Songs of Aerosmith. Blues\
+    \ on fire.\n  Прикольный диск. Похоже, что это аналог \"блюзового\" белого альбома. Порадовали в первую очередь старики:\
+    \ Pinetop Perkins (Walk this way), David \"Honeyboy\" Edwards - 'acoustic' (Train kept a rollin'). Кстати, про него толком\
+    \ ничего не смог найти. Хорошо пошёл Lou Gramm with Sugar Blue (Back in the saddle again), хотя он вроде как к блюзу имеет\
+    \ мало отношения. \n3. Hubert Sumlin \"My guitar and me\" - качественно, но чего-то не хватает. Похоже, действительно\
+    \ он наиболее силён в качестве \"второй скрипки\"/серого кардинала. Хочу \"Legends\" HS&PP!!!"
   replies:
   - id: 2540
     parent_id: 2517
@@ -29,9 +26,8 @@ posts:
     email: vts13@hotmail.com
     subject: никогда не возьму
     deleted: false
-    text: поз.2.В отличие от "блюзового" белого альбома.Поз.1 и 3 имеются.Otis Rush
-      -полностью согласен,сразу хочется такого же и побольше.Hubert Sumlin -получаю
-      не блюзовое,а какое-то другое,наподобие Роббенфордовского, эстетическое удовольствие.
+    text: поз.2.В отличие от "блюзового" белого альбома.Поз.1 и 3 имеются.Otis Rush -полностью согласен,сразу хочется такого
+      же и побольше.Hubert Sumlin -получаю не блюзовое,а какое-то другое,наподобие Роббенфордовского, эстетическое удовольствие.
     replies:
     - id: 2546
       parent_id: 2540
@@ -51,9 +47,8 @@ posts:
         email: vts13@hotmail.com
         subject: здесь такое не пройдет:-)
         deleted: false
-        text: Слишком далек он от канонов жанра,типичный блюзбюровец:-).Но я не равнодушен
-          к хорошим гитаристам,в том числе и работающим в жестком блюз-роке.Из последних
-          приобретений понравился T.Castro, J.Nitro, K.Russel "S.F. Blues Guitar".
+        text: Слишком далек он от канонов жанра,типичный блюзбюровец:-).Но я не равнодушен к хорошим гитаристам,в том числе
+          и работающим в жестком блюз-роке.Из последних приобретений понравился T.Castro, J.Nitro, K.Russel "S.F. Blues Guitar".
         replies:
         - id: 2580
           parent_id: 2579
@@ -72,6 +67,7 @@ posts:
             subject: самому стыдно :-)  (-)
             deleted: false
             text: :-))
+          person_id: 335
         - id: 2662
           parent_id: 2579
           date: 2002-03-25 20:29

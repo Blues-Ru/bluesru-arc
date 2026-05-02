@@ -43,6 +43,7 @@ posts:
         email: hobo@blues.ru
         subject: пробовали
         deleted: false
+        person_id: 335
   - id: 28224
     parent_id: 28209
     date: 2006-08-07 13:55
@@ -66,3 +67,4 @@ posts:
     subject: Между тем Женя задает этот вопрос серьезно
     deleted: false
     text: Так что подумайте, нет вариантов.
+    person_id: 458

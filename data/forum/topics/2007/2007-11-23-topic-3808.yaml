@@ -38,8 +38,7 @@ posts:
         email: '....'
         subject: калибр чуть меньше
         deleted: false
-        text: Пятью годами ранее Джонсона эту песню записал Скип Джеймс. Слова все
-          те же. Только калибр поменьше - 22-20:)))
+        text: Пятью годами ранее Джонсона эту песню записал Скип Джеймс. Слова все те же. Только калибр поменьше - 22-20:)))
         replies:
         - id: 33963
           parent_id: 33961
@@ -48,8 +47,7 @@ posts:
           email: corrgon@mail.ru
           subject: век живи - век учись!
           deleted: false
-          text: Интересная инфа... Кстати, может и текст кто-нибудь выложит? Я чего-то
-            не могу разобрать...
+          text: Интересная инфа... Кстати, может и текст кто-нибудь выложит? Я чего-то не могу разобрать...
         - id: 33964
           parent_id: 33961
           date: 2007-11-28 01:19
@@ -57,8 +55,7 @@ posts:
           email: corrgon@mail.ru
           subject: век живи - век учись!
           deleted: false
-          text: Интересная инфа... Кстати, может и текст кто-нибудь выложит? Я чего-то
-            не могу разобрать...
+          text: Интересная инфа... Кстати, может и текст кто-нибудь выложит? Я чего-то не могу разобрать...
           replies:
           - id: 33974
             parent_id: 33964
@@ -67,21 +64,16 @@ posts:
             email: aaa@genebee.msu.su
             subject: Вот одна из версий
             deleted: false
-            text: "Son House в основе. Мне нравится этот текст. Роберт Джонсоновский\
-              \ легко найти, не привожу.\n\nI sought for my baby girl, and she don’t\
-              \ come\nSay, I sought for my baby  She don’t come\nAll the doctors in\
-              \ the hospital (Woodstock yard)\nSure can help her none\n\nGot a .38\
-              \ special   But I think it’s most too light\nGot a .38 special   But\
-              \ I think it’s most too light\n\tI got a 22-20 and it   Makes it kept\
-              \ allright\n\nI gonna shoot my pistol  Gonna shoot my cattlin’ gun\n\
-              I gonna shoot my pistol  Gonna shoot my cattlin’ gun\n\t‘Cause you made\
-              \ me love you   Now your man has come\n\nO-o-oh, no, baby  Where you\
-              \ stayed last night\nO-o-oh, no, baby  Where you stayed last night\n\
-              \t‘Cause your hairs are tanglin’  You ain’t talking right\n\nGot a .38\
-              \ special, boys   It do very well\nGot a .38 special, yes’n   It do\
-              \ very well\n\tI got a 22-20   It’s a burning hell\n\nOh, baby I just\
-              \ can’t take my rest\nOh, baby I just can’t take my rest\nWith this\
-              \ 22-20 Layin’ up and down by breast"
+            text: "Son House в основе. Мне нравится этот текст. Роберт Джонсоновский легко найти, не привожу.\n\nI sought\
+              \ for my baby girl, and she don’t come\nSay, I sought for my baby  She don’t come\nAll the doctors in the hospital\
+              \ (Woodstock yard)\nSure can help her none\n\nGot a .38 special   But I think it’s most too light\nGot a .38\
+              \ special   But I think it’s most too light\n\tI got a 22-20 and it   Makes it kept allright\n\nI gonna shoot\
+              \ my pistol  Gonna shoot my cattlin’ gun\nI gonna shoot my pistol  Gonna shoot my cattlin’ gun\n\t‘Cause you\
+              \ made me love you   Now your man has come\n\nO-o-oh, no, baby  Where you stayed last night\nO-o-oh, no, baby\
+              \  Where you stayed last night\n\t‘Cause your hairs are tanglin’  You ain’t talking right\n\nGot a .38 special,\
+              \ boys   It do very well\nGot a .38 special, yes’n   It do very well\n\tI got a 22-20   It’s a burning hell\n\
+              \nOh, baby I just can’t take my rest\nOh, baby I just can’t take my rest\nWith this 22-20 Layin’ up and down\
+              \ by breast"
             replies:
             - id: 33976
               parent_id: 33974
@@ -107,6 +99,8 @@ posts:
             email: corrgon@mail.ru
             subject: детки подросли...
             deleted: false
+          person_id: 2
+    person_id: 2
   - id: 33970
     parent_id: 33949
     date: 2007-11-28 14:32
@@ -114,11 +108,9 @@ posts:
     email: mcl@macbox.ru
     subject: про калибр
     deleted: false
-    text: Насколько я помню (пусть товарисчи старшие меня поправят, если не так) калибр
-      стволов у американцев меряется в процентах от дюйма. Соответственно - 32 - это
-      около 78 миллиметров. Двойное обозначение - 32 - 20 - это рассверленный 20-ка.
-      Были и такие стволы, рассверливали на больший калибр. Скорее всего - это маленький
-      колт типа "бульдога".
+    text: Насколько я помню (пусть товарисчи старшие меня поправят, если не так) калибр стволов у американцев меряется в процентах
+      от дюйма. Соответственно - 32 - это около 78 миллиметров. Двойное обозначение - 32 - 20 - это рассверленный 20-ка. Были
+      и такие стволы, рассверливали на больший калибр. Скорее всего - это маленький колт типа "бульдога".
     replies:
     - id: 33975
       parent_id: 33970
@@ -127,8 +119,7 @@ posts:
       email: corrgon@mail.ru
       subject: про калибри
       deleted: false
-      text: Вы имели в виду 7-8 мм? 78 мм - как мне кажется это уже не пистолет...
-        :)
+      text: Вы имели в виду 7-8 мм? 78 мм - как мне кажется это уже не пистолет... :)
       replies:
       - id: 33990
         parent_id: 33975
@@ -145,6 +136,8 @@ posts:
           email: corrgon@mail.ru
           subject: ясно.
           deleted: false
+        person_id: 1206
+    person_id: 1206
   - id: 34011
     parent_id: 33949
     date: 2007-12-02 21:32
@@ -154,8 +147,7 @@ posts:
     deleted: false
     text: '32-20  сначала было название патрона ф.Ремингтон..Под него до 2 WW
 
-      делали револьвер Смит & Вессон...выпущено около 150 тыс.Сейчас такой стоит около
-      300 уё'
+      делали револьвер Смит & Вессон...выпущено около 150 тыс.Сейчас такой стоит около 300 уё'
   - id: 34492
     parent_id: 33949
     date: 2008-02-04 09:14

@@ -11,8 +11,7 @@ posts:
   poster: Andrei V. Evdokimov
   subject: 'ночная блюз-кинотека: Рой Бьюкенон'
   deleted: false
-  text: '<iframe width="420" height="315" src="http://www.youtube.com/embed/v4e2VgycfSw"
-    frameborder="0" allowfullscreen></iframe>
+  text: '<iframe width="420" height="315" src="http://www.youtube.com/embed/v4e2VgycfSw" frameborder="0" allowfullscreen></iframe>
 
 
     Говорят, его уже не знает никто... Правда, что ли?'
@@ -24,6 +23,7 @@ posts:
     subject: неправда
     deleted: false
     text: Его не знают только те, кто не знал его раньше
+    person_id: 8314
   - id: 38726
     parent_id: 38724
     date: 2013-01-23 16:07
@@ -31,3 +31,4 @@ posts:
     subject: правда
     deleted: false
     text: кому интерестны старые и мертвые когда есть молодые и живые???
+    person_id: 13

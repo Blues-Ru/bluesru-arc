@@ -61,6 +61,7 @@ posts:
     email: ovanez@gmail.com
     subject: thnks
     deleted: false
+    person_id: 5045
   - id: 29464
     parent_id: 29462
     date: 2006-11-30 11:16
@@ -80,3 +81,4 @@ posts:
       text: 'Выложим её прям здесь, вот она:
 
         <img src="http://991.com/newgallery/Muddy-Waters-Brass-And-The-Blu-370177.jpg">'
+    person_id: 5045

@@ -12,8 +12,7 @@ posts:
   email: mlives_6@hotmail.com
   subject: Spencer Williams?
   deleted: false
-  text: 'Сегодняшняя выставленная фотография Spencer Williams очень похожа на Fats
-    Waller!   Но это даже лучше.
+  text: 'Сегодняшняя выставленная фотография Spencer Williams очень похожа на Fats Waller!   Но это даже лучше.
 
 
     Muddy'
@@ -42,5 +41,5 @@ posts:
       email: mlives_6@hotmail.com
       subject: Сегодня у нас Вика!
       deleted: false
-      text: Уже не скучаю.   Victoria Spivey была необычно красивая, и также пела
-        неплохо.
+      text: Уже не скучаю.   Victoria Spivey была необычно красивая, и также пела неплохо.
+    person_id: 4

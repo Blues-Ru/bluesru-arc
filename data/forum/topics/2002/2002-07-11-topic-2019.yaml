@@ -12,9 +12,8 @@ posts:
   email: lifebythedrop@yandex.ru
   subject: Rock 'n' roll ain't noise pollution
   deleted: false
-  text: Люди, а не найдётся ли среди вас знатоков рока периода ранних и средних Deep
-    Purple, а то есть у меня несколько записей 60-х 70-х списаных с радио, а кто это-
-    понятия не имею. Если найдётся могу прислать rm-файл
+  text: Люди, а не найдётся ли среди вас знатоков рока периода ранних и средних Deep Purple, а то есть у меня несколько записей
+    60-х 70-х списаных с радио, а кто это- понятия не имею. Если найдётся могу прислать rm-файл
   replies:
   - id: 5999
     parent_id: 5996
@@ -24,3 +23,5 @@ posts:
     subject: можно вопрос?
     deleted: false
     text: <a href="http://www.blues.ru/forum/?id=19417&page=0&body=1#19417" target="_blank">http://www.blues.ru/forum/?id=19417&page=0&body=1#19417</a>
+    person_id: 6
+  person_id: 687

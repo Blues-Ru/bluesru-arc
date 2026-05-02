@@ -12,9 +12,8 @@ posts:
   email: slaiderman@yandex.ru
   subject: Jesus Gonna Make It All Right
   deleted: false
-  text: Помогите пожалуйста распознать текст этой песни Sonny Terry & Brownie McGhee
-    с пластинки 73го года "Sonny & Brownie". Мой английский к сожалению не позволяет
-    разобтать несколько слов :(
+  text: Помогите пожалуйста распознать текст этой песни Sonny Terry & Brownie McGhee с пластинки 73го года "Sonny & Brownie".
+    Мой английский к сожалению не позволяет разобтать несколько слов :(
   replies:
   - id: 31070
     parent_id: 31051
@@ -23,8 +22,8 @@ posts:
     email: mlives_6@hotmail.com
     subject: '?'
     deleted: false
-    text: 'У меня сейчас нет доступа к этому треку.  Может быть это вариант классической
-      песни госпела "Just a Little Talk With Jesus (Gonna Make it Right)?"
+    text: 'У меня сейчас нет доступа к этому треку.  Может быть это вариант классической песни госпела "Just a Little Talk
+      With Jesus (Gonna Make it Right)?"
 
 
       Muddy'
@@ -36,8 +35,8 @@ posts:
       email: dr.nick@blues.ru
       subject: Джон,
       deleted: false
-      text: мы когда-то с Джо пели песню со словами "and if I could, I surely would
-        stand on the rock where Moses stood..." Что это за тема?
+      text: мы когда-то с Джо пели песню со словами "and if I could, I surely would stand on the rock where Moses stood..."
+        Что это за тема?
       replies:
       - id: 31084
         parent_id: 31076
@@ -46,11 +45,11 @@ posts:
         email: mlives_6@hotmail.com
         subject: Тема библейская
         deleted: false
-        text: 'Исход евреев из Египета.  Моисей выбивал источник воды в скале, чтобы
-          дать людям пить.
+        text: 'Исход евреев из Египета.  Моисей выбивал источник воды в скале, чтобы дать людям пить.
 
 
           Muddy'
+      person_id: 335
   - id: 31082
     parent_id: 31051
     date: 2007-02-14 16:35
@@ -58,5 +57,6 @@ posts:
     email: slaiderman@yandex.ru
     subject: Эта песня
     deleted: false
-    text: начинается со слов "To my body to the doctor...". Это не блюз. Такой фолк
-      в стили Сонни и Брауни.
+    text: начинается со слов "To my body to the doctor...". Это не блюз. Такой фолк в стили Сонни и Брауни.
+    person_id: 5113
+  person_id: 5113

@@ -21,8 +21,7 @@ posts:
     email: aaa@genebee.msu.su
     subject: Ты о чём это толкуешь?
     deleted: false
-    text: Непонятно. В любом случае, "волна мракобесия", захлестывающая Дом у дороги
-      - впечатляющий образ.
+    text: Непонятно. В любом случае, "волна мракобесия", захлестывающая Дом у дороги - впечатляющий образ.
     replies:
     - id: 35968
       parent_id: 35967
@@ -67,6 +66,10 @@ posts:
               email: volodya@blues.ru
               subject: Я ж нет! Я только платформу предоставляю... :))
               deleted: false
+              person_id: 5
+          person_id: 5
+        person_id: 458
+    person_id: 458
   - id: 35973
     parent_id: 35966
     date: 2008-12-11 06:57

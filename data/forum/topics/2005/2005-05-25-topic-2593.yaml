@@ -37,6 +37,7 @@ posts:
       subject: так уж была песня про Texas Flood :)
       deleted: false
       text: но тут масштабы совсем другие и совсем не смешно что-то...
+      person_id: 335
     - id: 21576
       parent_id: 21574
       date: 2005-05-26 17:19
@@ -44,9 +45,8 @@ posts:
       email: mlives_6@hotmail.com
       subject: The electric lights go out?
       deleted: false
-      text: "...a little candle light will see you through,\n \nBut if you've got\
-        \ a heartache,\nAin't nothing you can do. \n\nBobby \"Blue\" Bland  (Ain't\
-        \ Nothing You Can Do)"
+      text: "...a little candle light will see you through,\n \nBut if you've got a heartache,\nAin't nothing you can do.\
+        \ \n\nBobby \"Blue\" Bland  (Ain't Nothing You Can Do)"
     - id: 21620
       parent_id: 21574
       date: 2005-05-30 00:45
@@ -54,11 +54,9 @@ posts:
       email: fkwfdhwk
       subject: тема для блюза
       deleted: false
-      text: "в  принципе своем редко \"смешной\" может быть. А лыбу )))) или )))))),например,\
-        \ уже как \"смешно\" переводят? Причем Доктор предлагает сыграть в угадаймелодию???)))\
-        \ \nп.с.Блюз вообще - это как раз то, что потрясает до глубины души. И если\
-        \ свои вещи не пишешь, то в так называемых \"каверах\" тоже слова иногда \
-        \ менять можно. Так, для души."
+      text: "в  принципе своем редко \"смешной\" может быть. А лыбу )))) или )))))),например, уже как \"смешно\" переводят?\
+        \ Причем Доктор предлагает сыграть в угадаймелодию???))) \nп.с.Блюз вообще - это как раз то, что потрясает до глубины\
+        \ души. И если свои вещи не пишешь, то в так называемых \"каверах\" тоже слова иногда  менять можно. Так, для души."
       replies:
       - id: 21621
         parent_id: 21620
@@ -68,3 +66,4 @@ posts:
         subject: я не понял о чем этот постинг,
         deleted: false
         text: но свои песни пишу и в каверах слова под себя меняю :)
+        person_id: 335

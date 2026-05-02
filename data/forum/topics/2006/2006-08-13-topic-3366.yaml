@@ -25,6 +25,7 @@ posts:
     subject: диск выйдет 28 августа
     deleted: false
     text: на Коламбии, конечно
+    person_id: 335
   - id: 28442
     parent_id: 28305
     date: 2006-08-22 00:51

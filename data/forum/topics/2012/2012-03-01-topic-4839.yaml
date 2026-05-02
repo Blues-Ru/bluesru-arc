@@ -11,8 +11,7 @@ posts:
   poster: Andrei V. Evdokimov
   subject: '"T.BLUES MOB" - в теленовостях!'
   deleted: false
-  text: <iframe width="560" height="315" src="http://www.youtube.com/embed/qw60S-Z1Z_Q"
-    frameborder="0" allowfullscreen></iframe>
+  text: <iframe width="560" height="315" src="http://www.youtube.com/embed/qw60S-Z1Z_Q" frameborder="0" allowfullscreen></iframe>
   replies:
   - id: 38297
     parent_id: 38296
@@ -36,5 +35,7 @@ posts:
         poster: Старый Майор
         subject: Это да...
         deleted: false
-        text: "Москва - родина гламура.\nБлюз не гламурен. \nГламурное кисо не выгуляешь\
-          \ под блюз."
+        text: "Москва - родина гламура.\nБлюз не гламурен. \nГламурное кисо не выгуляешь под блюз."
+      person_id: 4
+    person_id: 13
+  person_id: 4

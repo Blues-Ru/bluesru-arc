@@ -22,6 +22,7 @@ posts:
     subject: Митча с ДР
     deleted: false
     text: Ему сегодня 45 ;)
+    person_id: 2
   - id: 25192
     parent_id: 25164
     date: 2005-12-21 15:23
@@ -29,3 +30,4 @@ posts:
     email: gypsy@mail.ru
     subject: Кашмар на улице Вязов... серия следующая, далеко не последняя )))
     deleted: false
+  person_id: 2

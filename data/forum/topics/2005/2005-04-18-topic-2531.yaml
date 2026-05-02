@@ -12,16 +12,13 @@ posts:
   email: lyslos@yahoo.com
   subject: Роман Гегарт джемовал с Last Drop! Чума!!!
   deleted: false
-  text: "В прошедшую субботу состоялось приятнейшее событие в жизни моей команды <a\
-    \ href = \"http://lastdrop.hobbitkiller.ru\">Last Drop</a>! К нам на концерт пришел\
-    \ никто иной, как харпер №1 Москвы - <a href = \"http://www.blues.ru/rblues/King_Biscuit/\"\
-    >Роман Гегарт(King Biscuit)</a>! Ну и не обошлось без чумового джема! \nСпасибо,\
-    \ Роман, за потрясающее удовольствие, которое ты нам подарил! Мы просто счастливы!\n\
-    Друзья, в следующую субботу 23 апреля мы снова играем в замечательном <a href\
-    \ = \"http://www.guncafe.ru\">ГУН Кафе</a>, и, в качестве ПОЧЕТНЫХ ГОСЕЙ, будут\
-    \ присутствовать <a href = \"http://www.blues.ru/rblues/King_Biscuit/\">Роман\
-    \ Гегарт</a> и его коллеги по группе <a href = \"http://www.blues.ru/rblues/King_Biscuit/\"\
-    >King Biscuit</a>! Вечер обещает быть горячим!!!\nМы Вас очень ждем, друзья!"
+  text: "В прошедшую субботу состоялось приятнейшее событие в жизни моей команды <a href = \"http://lastdrop.hobbitkiller.ru\"\
+    >Last Drop</a>! К нам на концерт пришел никто иной, как харпер №1 Москвы - <a href = \"http://www.blues.ru/rblues/King_Biscuit/\"\
+    >Роман Гегарт(King Biscuit)</a>! Ну и не обошлось без чумового джема! \nСпасибо, Роман, за потрясающее удовольствие, которое\
+    \ ты нам подарил! Мы просто счастливы!\nДрузья, в следующую субботу 23 апреля мы снова играем в замечательном <a href\
+    \ = \"http://www.guncafe.ru\">ГУН Кафе</a>, и, в качестве ПОЧЕТНЫХ ГОСЕЙ, будут присутствовать <a href = \"http://www.blues.ru/rblues/King_Biscuit/\"\
+    >Роман Гегарт</a> и его коллеги по группе <a href = \"http://www.blues.ru/rblues/King_Biscuit/\">King Biscuit</a>! Вечер\
+    \ обещает быть горячим!!!\nМы Вас очень ждем, друзья!"
   replies:
   - id: 21179
     parent_id: 21177
@@ -39,3 +36,4 @@ posts:
       email: chifuroff_@inbox.ru
       subject: Голодом морить что ли ?
       deleted: false
+      person_id: 2888

@@ -33,6 +33,8 @@ posts:
       subject: спасибо, теперь понял
       deleted: false
       text: значит, ляпин будет на этом гиперовать?
+      person_id: 4
+    person_id: 5
   - id: 27752
     parent_id: 27742
     date: 2006-06-23 03:09
@@ -41,3 +43,5 @@ posts:
     subject: Загадка!
     deleted: false
     text: Чего у гитары 6, а у арфы - 4. Те, кто знают, не портите... ;)
+    person_id: 2
+  person_id: 4

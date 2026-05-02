@@ -42,6 +42,7 @@ posts:
         subject: например
         deleted: false
         text: 'как это происходит у соседей: www.harmonica.org.ua/harpforum'
+      person_id: 5
   - id: 33924
     parent_id: 33900
     date: 2007-11-19 18:41

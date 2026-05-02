@@ -12,43 +12,32 @@ posts:
   email: morehemp@mail.ru
   subject: Ой, а я сейчас была
   deleted: false
-  text: "на супер концерте чудо-пьяни Джонни Дауда! ;) Тур, посвященный выходу пластинки\
-    \ The Pawnbroker's Wife(2002). Люди, вы многое пропустили.. А может кто-нить ходил,\
-    \ всё же? :) Зал наполовину был забит журналистами и музыкантами.\nПочему чудо-пьяни?\
-    \ Потому что человек пьет даже на сцене :), а перед выходом его, наверное, отмачивали\
-    \ час (опоздал как раз на это время :) Но это не мешало абсолютно - играли всё\
-    \ как надо :) \nПочему супер концерт? Да потому, что превзошел все ожидания. Я\
-    \ знала, что мне этот концерт понравится, но что настолько.. Мой спутник, прослушав\
-    \ перед концертом God Created Woman на мптри, пошутил по поводу: \"Если бы рояль\
-    \ влезал в электричку, то там играли бы такие песни\" ;) Я бы поехала в этой электричке..\
-    \ Та песнь похожа на игру бедного шарманщика, скитающегося по трущобам и зарабатывающим\
-    \ пением дочки. Вещь очень обаятельная - теперь её слушаю в составе только что\
-    \ купленной на концерте пластинки Pictures From Life's Other Side(1999).\nВообще,\
-    \ все песни, всё сценическое действо сильно отдает Бертольдом Брехтом - музыка,\
-    \ эмоции, одежда. А гитарист - его надо видеть! :) Это невозможно описать - человек\
-    \ по-хорошему абсолютно невменяемый, отдельный специальный виртуоз - такой техники\
-    \ игры я ещё не видела. А как его прет от этого! Ещё и петь умеет славно - Дауд\
-    \ позволил ему сольный номер, а сам присел покурить :) А Kim Sherwood-Caso бэк-вокалисткой\
-    \ назвать рука не поднимается - волшебный голос, поёт напару с Даудом почти во\
-    \ всех пьесах. Супер прием - достаточно частая аритмия барабанщика и гитариста\
-    \ рисует такие узоры, что умом не понимаешь, как это делается, а слушать очень\
-    \ здорово. Сэмплеры(2), стукалки.. Johnny Dowd очень любит говорить на сцене,\
-    \ перемежая это рюмкой водки, прочтением стихов.. И тут как заиграет, как запоет!..\
-    \ Пластинка хороша, но живьем это выглядит совсем иначе - просто здорово! \nВ\
-    \ афише писали, что он похож на коктейль Тома Уэйтса, Ника Кейва и Боба Дилана.\
-    \ Не знаю, может быть.. Диланские нотки были в одной из пластинок, но на концерте\
-    \ не было, вроде-бы. Кейвовскими попахивало. Явные стукалки Tom Waits были в одной-двух-трех\
-    \ вещах. В нескольких был сумасшедший драйв, как у Chuck E.Weiss. От чего-то веет\
-    \ Уэйтсовским \"The Black Rider\". Порой похоже было, может, на Neil Young. Но\
-    \ \"засаленных блюзов\"((С)\"Афиша\") я не слышала :) \n\nPS: а ещё у меня есть\
-    \ теперь майка Johnny Dowd \"The Pawnbroker's Wife\" (наконец-то женская(!) ;)\
-    \ Теперь надо ещё эту пластинку - вопреки рецензиям, на концерте было много ярких\
-    \ вещей.\n\nPPS: оно оффтопик, конечно.. но очень уж концерт хороший - блаженная\
-    \ улыбка с лица не сходит ;)\nХотя стоп.. пару раз у гитары Дауда были блюзовые\
-    \ нотки ;)\n\nХи-хи.. :) Клуб Б2 перед входом вывесил баннер \"Lonny Dowd\", вместо\
-    \ Johnny Dowd :)\n\nhttp://www.johnnydowd.com \n\nhttp://www.allmusic.com/cg/amg.dll?p=amg&sql=Aypjxlfwekcqe\
-    \ \n\nhttp://zvuki.ru/A/P/41845\n\nЕсли кто-то заинтересовался, послушайте для\
-    \ ознакомления песни \"God Created Woman\", \"Worried Mind\"... да лучше все :)"
+  text: "на супер концерте чудо-пьяни Джонни Дауда! ;) Тур, посвященный выходу пластинки The Pawnbroker's Wife(2002). Люди,\
+    \ вы многое пропустили.. А может кто-нить ходил, всё же? :) Зал наполовину был забит журналистами и музыкантами.\nПочему\
+    \ чудо-пьяни? Потому что человек пьет даже на сцене :), а перед выходом его, наверное, отмачивали час (опоздал как раз\
+    \ на это время :) Но это не мешало абсолютно - играли всё как надо :) \nПочему супер концерт? Да потому, что превзошел\
+    \ все ожидания. Я знала, что мне этот концерт понравится, но что настолько.. Мой спутник, прослушав перед концертом God\
+    \ Created Woman на мптри, пошутил по поводу: \"Если бы рояль влезал в электричку, то там играли бы такие песни\" ;) Я\
+    \ бы поехала в этой электричке.. Та песнь похожа на игру бедного шарманщика, скитающегося по трущобам и зарабатывающим\
+    \ пением дочки. Вещь очень обаятельная - теперь её слушаю в составе только что купленной на концерте пластинки Pictures\
+    \ From Life's Other Side(1999).\nВообще, все песни, всё сценическое действо сильно отдает Бертольдом Брехтом - музыка,\
+    \ эмоции, одежда. А гитарист - его надо видеть! :) Это невозможно описать - человек по-хорошему абсолютно невменяемый,\
+    \ отдельный специальный виртуоз - такой техники игры я ещё не видела. А как его прет от этого! Ещё и петь умеет славно\
+    \ - Дауд позволил ему сольный номер, а сам присел покурить :) А Kim Sherwood-Caso бэк-вокалисткой назвать рука не поднимается\
+    \ - волшебный голос, поёт напару с Даудом почти во всех пьесах. Супер прием - достаточно частая аритмия барабанщика и\
+    \ гитариста рисует такие узоры, что умом не понимаешь, как это делается, а слушать очень здорово. Сэмплеры(2), стукалки..\
+    \ Johnny Dowd очень любит говорить на сцене, перемежая это рюмкой водки, прочтением стихов.. И тут как заиграет, как запоет!..\
+    \ Пластинка хороша, но живьем это выглядит совсем иначе - просто здорово! \nВ афише писали, что он похож на коктейль Тома\
+    \ Уэйтса, Ника Кейва и Боба Дилана. Не знаю, может быть.. Диланские нотки были в одной из пластинок, но на концерте не\
+    \ было, вроде-бы. Кейвовскими попахивало. Явные стукалки Tom Waits были в одной-двух-трех вещах. В нескольких был сумасшедший\
+    \ драйв, как у Chuck E.Weiss. От чего-то веет Уэйтсовским \"The Black Rider\". Порой похоже было, может, на Neil Young.\
+    \ Но \"засаленных блюзов\"((С)\"Афиша\") я не слышала :) \n\nPS: а ещё у меня есть теперь майка Johnny Dowd \"The Pawnbroker's\
+    \ Wife\" (наконец-то женская(!) ;) Теперь надо ещё эту пластинку - вопреки рецензиям, на концерте было много ярких вещей.\n\
+    \nPPS: оно оффтопик, конечно.. но очень уж концерт хороший - блаженная улыбка с лица не сходит ;)\nХотя стоп.. пару раз\
+    \ у гитары Дауда были блюзовые нотки ;)\n\nХи-хи.. :) Клуб Б2 перед входом вывесил баннер \"Lonny Dowd\", вместо Johnny\
+    \ Dowd :)\n\nhttp://www.johnnydowd.com \n\nhttp://www.allmusic.com/cg/amg.dll?p=amg&sql=Aypjxlfwekcqe \n\nhttp://zvuki.ru/A/P/41845\n\
+    \nЕсли кто-то заинтересовался, послушайте для ознакомления песни \"God Created Woman\", \"Worried Mind\"... да лучше все\
+    \ :)"
   replies:
   - id: 5117
     parent_id: 5115
@@ -57,8 +46,7 @@ posts:
     email: dr.nick@blues.ru
     subject: Somebody call for the doctor
     deleted: false
-    text: 'I think I''m sick - это точно фраза про Дауда. Мне больше нравится the
-      dude. :)
+    text: 'I think I''m sick - это точно фраза про Дауда. Мне больше нравится the dude. :)
 
       Я так и не смог полюбить этого бедалагу.'
     replies:
@@ -69,12 +57,10 @@ posts:
       email: morehemp@mail.ru
       subject: Да.. есть немного.
       deleted: false
-      text: "Но ему это только на пользу :) Ну, может \"болен\", ну и что.. Так он\
-        \ и прекрасен своей нестандартностью. \nИнтересно, чем Dowd был так занят,\
-        \ что первую пластинку выпустил лишь после 50-ти лет :)\n\n> Я так и не смог\
-        \ полюбить этого бедалагу.\n\nНе удивительно. Вы скорее всего не пытались\
-        \ - есть такое подозрение ;о)\n\nPS: к чему здесь The Dude, что-то не очень\
-        \ понимаю."
+      text: "Но ему это только на пользу :) Ну, может \"болен\", ну и что.. Так он и прекрасен своей нестандартностью. \n\
+        Интересно, чем Dowd был так занят, что первую пластинку выпустил лишь после 50-ти лет :)\n\n> Я так и не смог полюбить\
+        \ этого бедалагу.\n\nНе удивительно. Вы скорее всего не пытались - есть такое подозрение ;о)\n\nPS: к чему здесь The\
+        \ Dude, что-то не очень понимаю."
       replies:
       - id: 5205
         parent_id: 5126
@@ -83,24 +69,18 @@ posts:
         email: morehemp@mail.ru
         subject: When he's not recording or touring,
         deleted: false
-        text: "he operates a small moving company in his current hometown of Ithaca,\
-          \ New York. Возит мебель.\n A Kim Sherwood-Caso - парикмахерша. Одно другому\
-          \ может не мешать, как выясняется. \nА вот такие сумасшедшие стихи:\n\n\
-          God created woman (Johnny Dowd)\n\nA crawled across the border\nJust to\
-          \ see your face\nYou destroyed what was familiar\nI was left in a foreign\
-          \ place\nI promised you my kingdom\nand everything I owned\nI stripped myself\
-          \ stark naked\nand handed you my skin and bones\n(won't you)\nMeet me in\
-          \ the parking lot\nUp on level three\nThere's something I must show you\n\
-          There's something you just gotta see\n\nThe cotton sheets were stained with\
-          \ sin\nYou took your pleasure there\nYou writhed I moaned You cursed I groaned\n\
-          and dreamed of your long red hair\nYou knew Cain, you knew Abel\nYour sister\
-          \ was a Jezebel\nYour love is no gift from heaven\nYour love is a dog from\
-          \ hell\n(Won't you) \nMeet me in the parking lot\nUp on level three\nThere's\
-          \ something I must show you\nThere's something you just gotta see\n\nLet\
-          \ this be a warning\nTo all you foolish men\nGod created a woman\nBut she's\
-          \ the devil's next of kin\n(won't you)\nMeet me in the parking lot\nUp on\
-          \ level three\nThere's something I must show you\nThere's something you\
-          \ just gotta see\n\nЭто лишний раз подтверждает, что музыканты, издающиеся\
-          \ на никому неизвестных лейблах и играющие в клубах, могут делать музыку,\
-          \ не уступающую в качестве общепризнанным музыкантам, а зачастую и превосходящую\
+        text: "he operates a small moving company in his current hometown of Ithaca, New York. Возит мебель.\n A Kim Sherwood-Caso\
+          \ - парикмахерша. Одно другому может не мешать, как выясняется. \nА вот такие сумасшедшие стихи:\n\nGod created\
+          \ woman (Johnny Dowd)\n\nA crawled across the border\nJust to see your face\nYou destroyed what was familiar\nI\
+          \ was left in a foreign place\nI promised you my kingdom\nand everything I owned\nI stripped myself stark naked\n\
+          and handed you my skin and bones\n(won't you)\nMeet me in the parking lot\nUp on level three\nThere's something\
+          \ I must show you\nThere's something you just gotta see\n\nThe cotton sheets were stained with sin\nYou took your\
+          \ pleasure there\nYou writhed I moaned You cursed I groaned\nand dreamed of your long red hair\nYou knew Cain, you\
+          \ knew Abel\nYour sister was a Jezebel\nYour love is no gift from heaven\nYour love is a dog from hell\n(Won't you)\
+          \ \nMeet me in the parking lot\nUp on level three\nThere's something I must show you\nThere's something you just\
+          \ gotta see\n\nLet this be a warning\nTo all you foolish men\nGod created a woman\nBut she's the devil's next of\
+          \ kin\n(won't you)\nMeet me in the parking lot\nUp on level three\nThere's something I must show you\nThere's something\
+          \ you just gotta see\n\nЭто лишний раз подтверждает, что музыканты, издающиеся на никому неизвестных лейблах и играющие\
+          \ в клубах, могут делать музыку, не уступающую в качестве общепризнанным музыкантам, а зачастую и превосходящую\
           \ их."
+    person_id: 335

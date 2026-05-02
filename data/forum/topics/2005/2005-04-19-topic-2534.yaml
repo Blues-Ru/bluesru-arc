@@ -18,9 +18,9 @@ posts:
     date: 2005-04-19 23:13
     poster: Dima Krasivov (Dima)
     email: dima@blues.ru
-    subject: А ещё дизайн-студия "АртОтряд" предлагающая полиграфические услуги...
-      Никогда не обращайтесь туда!!! ;)
+    subject: А ещё дизайн-студия "АртОтряд" предлагающая полиграфические услуги... Никогда не обращайтесь туда!!! ;)
     deleted: false
+    person_id: 9
   - id: 21191
     parent_id: 21188
     date: 2005-04-20 03:46
@@ -29,6 +29,7 @@ posts:
     subject: Биржа рулит!
     deleted: false
     text: Ты не прав! ;)
+    person_id: 2
   - id: 21193
     parent_id: 21188
     date: 2005-04-20 07:52
@@ -36,3 +37,5 @@ posts:
     email: dr.nick@blues.ru
     subject: а что это?
     deleted: false
+    person_id: 335
+  person_id: 9

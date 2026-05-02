@@ -24,6 +24,7 @@ posts:
     subject: Это по-взрослому!
     deleted: false
     text: Так даже Петрович не споет! Очень здорово!
+    person_id: 335
   - id: 11605
     parent_id: 11571
     date: 2003-04-10 02:43
@@ -45,3 +46,4 @@ posts:
       subject: Ващще РОК!
       deleted: false
       text: э лот ов фан!
+      person_id: 335

@@ -30,6 +30,8 @@ posts:
       subject: Юбиляр сегодня блистает
       deleted: false
       text: в одном клубе.
+      person_id: 458
+    person_id: 4384
   - id: 24275
     parent_id: 24268
     date: 2005-11-03 15:49
@@ -38,6 +40,7 @@ posts:
     subject: Как и всегда
     deleted: false
     text: Дуй Санек во все меха,пусть будет счастья до .... (много)
+    person_id: 204
   - id: 24284
     parent_id: 24268
     date: 2005-11-03 20:59
@@ -45,7 +48,7 @@ posts:
     email: blackcat@blues.ru
     subject: мои самые искренние...
     deleted: false
-    text: '... поздравления Александру! Он - один из ярчайших музыкантов нашей блюзовой
-      сцены!
+    text: '... поздравления Александру! Он - один из ярчайших музыкантов нашей блюзовой сцены!
 
       Alexander, keep on blowin''! :)))'
+  person_id: 2803

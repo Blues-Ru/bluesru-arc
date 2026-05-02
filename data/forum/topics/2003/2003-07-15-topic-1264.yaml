@@ -12,8 +12,7 @@ posts:
   email: nevoda@fromru.com
   subject: Дикий мед
   deleted: false
-  text: Что был за проект и существует ли сейчас?Насколько я помню группа донецкая,прилично
-    играли парни.
+  text: Что был за проект и существует ли сейчас?Насколько я помню группа донецкая,прилично играли парни.
   replies:
   - id: 13217
     parent_id: 13214
@@ -42,3 +41,4 @@ posts:
       email: nevoda@fromru.com
       subject: отлично,благодарен.
       deleted: false
+    person_id: 1725

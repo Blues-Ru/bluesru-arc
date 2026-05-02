@@ -20,6 +20,7 @@ posts:
     email: grems@yandex.ru
     subject: Караул....устал
     deleted: false
+    person_id: 204
   - id: 33091
     parent_id: 33088
     date: 2007-06-21 01:30
@@ -45,6 +46,7 @@ posts:
         email: dr.nick@blues.ru
         subject: да, надо делать...
         deleted: false
+        person_id: 335
       - id: 33159
         parent_id: 33093
         date: 2007-07-09 23:05
@@ -53,3 +55,5 @@ posts:
         subject: 07.07.07 - Немову 35
         deleted: false
         text: 07.07.07 - Немову 35, могли бы и поздравить, коллеги...
+      person_id: 4
+    person_id: 335

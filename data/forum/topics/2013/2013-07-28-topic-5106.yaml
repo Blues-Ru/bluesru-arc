@@ -11,5 +11,5 @@ posts:
   poster: Andrei V. Evdokimov
   subject: вспоминая Джей Джей Кейла. Блюз-кинотека.
   deleted: false
-  text: <iframe width="560" height="315" src="//www.youtube.com/embed/f-9x6dRPzgM"
-    frameborder="0" allowfullscreen></iframe>
+  text: <iframe width="560" height="315" src="//www.youtube.com/embed/f-9x6dRPzgM" frameborder="0" allowfullscreen></iframe>
+  person_id: 4

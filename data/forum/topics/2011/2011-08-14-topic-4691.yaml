@@ -11,8 +11,8 @@ posts:
   poster: Pumpkinhead
   subject: Блюз в Нью-Йорке и Бостоне
   deleted: false
-  text: Буду там во второй половине августа. Кто может подсказать клубы/фестивали
-    в это время? Акромя B.B. King и Теrra Blues Club?
+  text: Буду там во второй половине августа. Кто может подсказать клубы/фестивали в это время? Акромя B.B. King и Теrra Blues
+    Club?
   replies:
   - id: 37943
     parent_id: 37936
@@ -36,3 +36,5 @@ posts:
     subject: фестиваль
     deleted: false
     text: Дим, вот будет интересный блюзовый фестиваль в это время http://www.chenangobluesfest.org/
+    person_id: 7219
+  person_id: 2907

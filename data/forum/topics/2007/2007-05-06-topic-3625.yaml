@@ -10,20 +10,18 @@ posts:
   date: 2007-05-06 21:35
   poster: Эльдар
   email: еlicaster@надеревнюдедушке.com
-  subject: Marcus Miller, Blackmailers, Blues Cousins на фестивале "Усадьба Джаз"
-    3 июня
+  subject: Marcus Miller, Blackmailers, Blues Cousins на фестивале "Усадьба Джаз" 3 июня
   deleted: false
   text: 'http://music.dirty.ru/comments/211230
 
-    Россию посетит <a href="http://www.usadba-jazz.ru/artists-marcus-miller.shtml">Marcus
-    Miller</a>, который выступит на фестивале "Усадьба Джаз" 3 июня.
+    Россию посетит <a href="http://www.usadba-jazz.ru/artists-marcus-miller.shtml">Marcus Miller</a>, который выступит на
+    фестивале "Усадьба Джаз" 3 июня.
 
     <a href="http://www.usadba-jazz.ru/program.shtml">Программа фестиваля</a>.
 
     Также там будут Gadget Band, Blackmailers, Blues Cousins...
 
-    И самое вкусное: Сергей Мазаев, Андрей Макаревич и «Оркестр креольского танго»,
-    Несчастный Случай!'
+    И самое вкусное: Сергей Мазаев, Андрей Макаревич и «Оркестр креольского танго», Несчастный Случай!'
   replies:
   - id: 32761
     parent_id: 32758
@@ -49,9 +47,8 @@ posts:
         email: kotmatrs@mail.ru
         subject: Злобные вы
         deleted: false
-        text: "А нам недавно Вова Кожекин объяснил, что блюз в нашей стране - это\
-          \ Машина Времени, Аквариум и Козловский. \nВы что - ему не верите? \nА надо\
-          \ будет - и Виагру на блюз фест позовете, и хедлайнерами."
+        text: "А нам недавно Вова Кожекин объяснил, что блюз в нашей стране - это Машина Времени, Аквариум и Козловский. \n\
+          Вы что - ему не верите? \nА надо будет - и Виагру на блюз фест позовете, и хедлайнерами."
         replies:
         - id: 32779
           parent_id: 32776
@@ -72,5 +69,5 @@ posts:
           email: gypsy@mail.ru
           subject: Шо значит "надо"?
           deleted: false
-          text: Я лично фестов не устраиваю, и Виа Гра мне нужна только по прямому
-            назначению, а именно перорально.
+          text: Я лично фестов не устраиваю, и Виа Гра мне нужна только по прямому назначению, а именно перорально.
+    person_id: 5

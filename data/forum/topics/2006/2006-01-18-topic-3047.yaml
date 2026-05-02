@@ -12,11 +12,10 @@ posts:
   email: mhobbit@mail.ru
   subject: Eirik Bergene
   deleted: false
-  text: "Зашел я тут на сайт Эйрика, а там:\n\n15.03.2006\t22.00\tRussia: Roadhouse,\
-    \ Moscow (with T. Kristiansen)\n16.03.2006\t22.00\tRussia: OGI, Moscow (with T.\
-    \ Kristiansen)\n17.03.2006\t22.00\tRussia: Roadhouse, Moscow (with T. Kristiansen)\n\
-    18.03.2006\t22.00\tRussia: Caroll, Ryazan (with T. Kristiansen)\n19.03.2006\t\
-    22.00\tRussia: Z-Club, Vladimir (with T. Kristiansen)\n\nФедор! Признавайся! :)"
+  text: "Зашел я тут на сайт Эйрика, а там:\n\n15.03.2006\t22.00\tRussia: Roadhouse, Moscow (with T. Kristiansen)\n16.03.2006\t\
+    22.00\tRussia: OGI, Moscow (with T. Kristiansen)\n17.03.2006\t22.00\tRussia: Roadhouse, Moscow (with T. Kristiansen)\n\
+    18.03.2006\t22.00\tRussia: Caroll, Ryazan (with T. Kristiansen)\n19.03.2006\t22.00\tRussia: Z-Club, Vladimir (with T.\
+    \ Kristiansen)\n\nФедор! Признавайся! :)"
   replies:
   - id: 25495
     parent_id: 25494
@@ -46,8 +45,8 @@ posts:
         email: morozzz_ded@mail.ru
         subject: Согласен :)
         deleted: false
-        text: Когда на полстраницы объявы про 4-ый мегафестиваль блюза у горбатого
-          - то на мелочи вроде Бергена и Кристиансена внимания не обращаешь ;)
+        text: Когда на полстраницы объявы про 4-ый мегафестиваль блюза у горбатого - то на мелочи вроде Бергена и Кристиансена
+          внимания не обращаешь ;)
         replies:
         - id: 25498
           parent_id: 25497
@@ -86,14 +85,11 @@ posts:
               email: aaa@genebee.msu.su
               subject: Друзья!
               deleted: false
-              text: "Шила в мешке не утаишь. А что \"партизанил\", так это из-за природной\
-                \ скрытности и боязни сглаза. Действительно, 9 и 10 февраля в \"Доме\
-                \ у дороги\" играет James Wheeler. \nЖдём всех и будем рады. \nРассказ\
-                \ Миши порадовал, очень живо!\nОмар мне рассказывал про новосибирские\
-                \ гастроли, а недавно прислал фотку, где Джеймс с Мишурисом (http://www.agranovsky.ru/diary/jan_06.htm).\
-                \ Про Wheeler'a можно почитать, кроме олл-мьюзика, ещё вот это:  \n\
-                http://delmark.com/delmark.719.htm \nhttp://delmark.com/delmark.743.htm\n\
-                Эти CD можно взять на концертах."
+              text: "Шила в мешке не утаишь. А что \"партизанил\", так это из-за природной скрытности и боязни сглаза. Действительно,\
+                \ 9 и 10 февраля в \"Доме у дороги\" играет James Wheeler. \nЖдём всех и будем рады. \nРассказ Миши порадовал,\
+                \ очень живо!\nОмар мне рассказывал про новосибирские гастроли, а недавно прислал фотку, где Джеймс с Мишурисом\
+                \ (http://www.agranovsky.ru/diary/jan_06.htm). Про Wheeler'a можно почитать, кроме олл-мьюзика, ещё вот это:\
+                \  \nhttp://delmark.com/delmark.719.htm \nhttp://delmark.com/delmark.743.htm\nЭти CD можно взять на концертах."
         - id: 25499
           parent_id: 25497
           date: 2006-01-19 12:26
@@ -102,3 +98,4 @@ posts:
           subject: :) Жжешь
           deleted: false
           text: А правда :)
+          person_id: 4313

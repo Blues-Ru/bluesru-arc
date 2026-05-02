@@ -12,6 +12,6 @@ posts:
   subject: ЧТО ЕСТЬ БЛЮЗ? Ответ на извечный вопрос.
   deleted: false
   text: <object width="480" height="385"><param name="movie" value="http://www.youtube.com/v/DXbclfmvSfU?fs=1&amp;hl=en_US"></param><param
-    name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed
-    src="http://www.youtube.com/v/DXbclfmvSfU?fs=1&amp;hl=en_US" type="application/x-shockwave-flash"
-    allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object>
+    name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/DXbclfmvSfU?fs=1&amp;hl=en_US"
+    type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object>
+  person_id: 3623

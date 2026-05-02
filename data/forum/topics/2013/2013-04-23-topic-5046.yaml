@@ -11,5 +11,5 @@ posts:
   poster: Andrei V. Evdokimov
   subject: кто сказал, что глубокий блюз больше не играют?..
   deleted: false
-  text: <iframe width="560" height="315" src="http://www.youtube.com/embed/A0J_a9-7zpo"
-    frameborder="0" allowfullscreen></iframe>
+  text: <iframe width="560" height="315" src="http://www.youtube.com/embed/A0J_a9-7zpo" frameborder="0" allowfullscreen></iframe>
+  person_id: 4

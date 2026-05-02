@@ -26,6 +26,7 @@ posts:
     subject: Грин опять
     deleted: false
     text: На White Sky, Kolors и Legend его нет вообще-то. Остаются первые три.
+    person_id: 335
   - id: 2170
     parent_id: 2167
     date: 2002-03-15 03:53
@@ -33,28 +34,21 @@ posts:
     email: vad2908@mail.ru
     subject: '...Snowy ...подробнее...'
     deleted: false
-    text: ".....\nSnowy White Appears on:\nJim Capaldi One Man Mission (1984) Guitar\
-      \ \nJack Green Lastest Game (1986) Guitar \nPeter Green In the Skies (1979)\
-      \ Guitar, Guitar (Rhythm) \nPeter Green Blue Guitar (1981) Guitar \nPeter Green\
-      \ Blues for Dhyana (1998) Guitar \nPeter Green Peter Green Songbook (2000) Guitar,\
-      \ Vocals \nPeter Green Clown (2001) Guitar \nPeter Green Splinter Group Time\
-      \ Traders (2001) Guitar \nEddie Hardin Wizard's Convention, Vol. 2 (1997) Guitar\
-      \ \nJonathan Kelly Waiting on You (1974) Guitar \nLinda Lewis Not a Little Girl\
-      \ Anymore (1975) Bass \nLinda Lewis Woman Overboard (1977) Bass \nPhil Lynott\
-      \ Solo in Soho (1980) Guitar \nMichael Moorcock & Deep... New Worlds Fair (1975)\
-      \ Guitar  \nPink Floyd Is There Anybody out There? The... (2000) Guitar \nNic\
-      \ Potter New Europe/Rainbow Color (1995) Guitar \nNic Potter Blue Zone (1997)\
-      \ Guitar \nThin Lizzy Chinatown (1980) Guitar, Harmony Vocals \nThin Lizzy Lizzy\
-      \ Killers (1981) Guitar \nThin Lizzy Renegade (1982) Guitar \nThin Lizzy Thunder\
-      \ and Lightning (1983) Guitar \nThin Lizzy Life (1983) Guitar \nThin Lizzy Boys\
-      \ Are Back in Town [Contour] (1983) Guitar \nThin Lizzy Dedication: The Very\
-      \ Best of Thin... (1991) Guitar \nThin Lizzy Life Live (1993) Guitar \nThin\
-      \ Lizzy/Philip Lynott Boys Are Back in Town [Polygram... (2001) Guitar \nThin\
-      \ Lizzy Vagabonds Kings Warriors Angels (2002) Guitar, Guitar (Rhythm) \nAnthony\
-      \ Thistlethwaite Crawfish & Caviar (1997) Guitar \nRoger Waters Wall: Live in\
-      \ Berlin, 1990 (1990) Guitar, Vocals, Guitar (Classical) \nRoger Waters In the\
-      \ Flesh Live (2000) Guitar, Band \nRichard Wright Wet Dream (1978) Guitar \n\
-      ...По следам AMG ...(для справки)\nВадим."
+    text: ".....\nSnowy White Appears on:\nJim Capaldi One Man Mission (1984) Guitar \nJack Green Lastest Game (1986) Guitar\
+      \ \nPeter Green In the Skies (1979) Guitar, Guitar (Rhythm) \nPeter Green Blue Guitar (1981) Guitar \nPeter Green Blues\
+      \ for Dhyana (1998) Guitar \nPeter Green Peter Green Songbook (2000) Guitar, Vocals \nPeter Green Clown (2001) Guitar\
+      \ \nPeter Green Splinter Group Time Traders (2001) Guitar \nEddie Hardin Wizard's Convention, Vol. 2 (1997) Guitar \n\
+      Jonathan Kelly Waiting on You (1974) Guitar \nLinda Lewis Not a Little Girl Anymore (1975) Bass \nLinda Lewis Woman\
+      \ Overboard (1977) Bass \nPhil Lynott Solo in Soho (1980) Guitar \nMichael Moorcock & Deep... New Worlds Fair (1975)\
+      \ Guitar  \nPink Floyd Is There Anybody out There? The... (2000) Guitar \nNic Potter New Europe/Rainbow Color (1995)\
+      \ Guitar \nNic Potter Blue Zone (1997) Guitar \nThin Lizzy Chinatown (1980) Guitar, Harmony Vocals \nThin Lizzy Lizzy\
+      \ Killers (1981) Guitar \nThin Lizzy Renegade (1982) Guitar \nThin Lizzy Thunder and Lightning (1983) Guitar \nThin\
+      \ Lizzy Life (1983) Guitar \nThin Lizzy Boys Are Back in Town [Contour] (1983) Guitar \nThin Lizzy Dedication: The Very\
+      \ Best of Thin... (1991) Guitar \nThin Lizzy Life Live (1993) Guitar \nThin Lizzy/Philip Lynott Boys Are Back in Town\
+      \ [Polygram... (2001) Guitar \nThin Lizzy Vagabonds Kings Warriors Angels (2002) Guitar, Guitar (Rhythm) \nAnthony Thistlethwaite\
+      \ Crawfish & Caviar (1997) Guitar \nRoger Waters Wall: Live in Berlin, 1990 (1990) Guitar, Vocals, Guitar (Classical)\
+      \ \nRoger Waters In the Flesh Live (2000) Guitar, Band \nRichard Wright Wet Dream (1978) Guitar \n...По следам AMG ...(для\
+      \ справки)\nВадим."
     replies:
     - id: 2171
       parent_id: 2170
@@ -64,6 +58,7 @@ posts:
       subject: Ну все правильно
       deleted: false
       text: Только на первом (втором) и на последнем, остальные-то сборники.
+      person_id: 335
     - id: 2173
       parent_id: 2170
       date: 2002-03-15 09:46
@@ -71,5 +66,4 @@ posts:
       email: vts13@hotmail.com
       subject: подведем итог
       deleted: false
-      text: Снуви играл у Грина на 2-х альбомах:In the Skies  и Time Traders (один
-        трек).Остальное-сборники.
+      text: Снуви играл у Грина на 2-х альбомах:In the Skies  и Time Traders (один трек).Остальное-сборники.

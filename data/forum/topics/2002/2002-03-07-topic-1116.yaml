@@ -22,6 +22,7 @@ posts:
     subject: I put a spell on you (-)
     deleted: false
     text: '-'
+    person_id: 366
   - id: 1970
     parent_id: 1955
     date: 2002-03-08 18:45

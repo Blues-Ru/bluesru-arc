@@ -12,9 +12,8 @@ posts:
   email: asilov@yandex.ru
   subject: Taj Mahal! Где его можно скачать!
   deleted: false
-  text: "Добрый День!\nНарод!\n\nЯ месяц назад в передаче \"Весь Этот Блюз\" услышал\
-    \ Taj Mahal'а\nMissisipi-Mali Blues! И Заболел!\n Где его скачать!\n\n Спасибо!\n\
-    \n Заранее!"
+  text: "Добрый День!\nНарод!\n\nЯ месяц назад в передаче \"Весь Этот Блюз\" услышал Taj Mahal'а\nMissisipi-Mali Blues! И\
+    \ Заболел!\n Где его скачать!\n\n Спасибо!\n\n Заранее!"
   replies:
   - id: 13207
     parent_id: 13206
@@ -24,3 +23,4 @@ posts:
     subject: Всё там же
     deleted: false
     text: http://mp3.int.ru/directory.html
+    person_id: 335

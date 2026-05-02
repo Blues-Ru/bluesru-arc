@@ -12,8 +12,7 @@ posts:
   email: Mrg_mike@rambler.ru
   subject: Hendrix
   deleted: false
-  text: 'мне тут сообщили, что Хендрикс играл кое-где слайдом, случайно никто не знает:
-    а где именно?'
+  text: 'мне тут сообщили, что Хендрикс играл кое-где слайдом, случайно никто не знает: а где именно?'
   replies:
   - id: 4319
     parent_id: 4318
@@ -32,3 +31,6 @@ posts:
       subject: Доку Нику
       deleted: false
       text: Уже слышал. Послушаю еще. Мерси и с праздничком
+      person_id: 687
+    person_id: 335
+  person_id: 687

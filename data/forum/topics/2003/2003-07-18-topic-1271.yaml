@@ -12,8 +12,7 @@ posts:
   email: evdokimov@blues.ru
   subject: вот так номер! (номер 1)
   deleted: false
-  text: 'The #1 album this week is -- are you ready for this? -- Led Zeppelin''s How
-    The West Was Won'
+  text: 'The #1 album this week is -- are you ready for this? -- Led Zeppelin''s How The West Was Won'
   replies:
   - id: 13265
     parent_id: 13252
@@ -22,7 +21,7 @@ posts:
     email: skvoid@mail.ru
     subject: и в чем интрига? :)
     deleted: false
-    text: 'Это действительно потрясающий тройник ремастированных концертных записей
-      1972 года легендарной группы.
+    text: 'Это действительно потрясающий тройник ремастированных концертных записей 1972 года легендарной группы.
 
       Всем рекомендуемо три раза :)'
+  person_id: 4

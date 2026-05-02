@@ -11,13 +11,11 @@ posts:
   poster: Andrei V. Evdokimov
   subject: «Стон чёрной змеи»
   deleted: false
-  text: 'Киношку Black Snake Moan показали вчера по каналу СТС, и повторят 5 марта
-    в 03:30. По сюжету - полная бредятина, (анонс звучит так: "Фильм, больше всего
-    похожий на настоящий черный блюз. Здесь Сэмюел Л. Джексон приковывает Кристину
-    Риччи за ногу к батарее, чтобы избавить её от внутренних демонов - и это только
-    начало"). Полуголая девица на цепи, Джексону всю дорогу разные люди результативно
-    бьют в бубен... Зато <a href="/data/albumview.aspx?cdid=1179#1232">музыка</a>
-    там очень клевая.'
+  text: 'Киношку Black Snake Moan показали вчера по каналу СТС, и повторят 5 марта в 03:30. По сюжету - полная бредятина,
+    (анонс звучит так: "Фильм, больше всего похожий на настоящий черный блюз. Здесь Сэмюел Л. Джексон приковывает Кристину
+    Риччи за ногу к батарее, чтобы избавить её от внутренних демонов - и это только начало"). Полуголая девица на цепи, Джексону
+    всю дорогу разные люди результативно бьют в бубен... Зато <a href="/data/albumview.aspx?cdid=1179#1232">музыка</a> там
+    очень клевая.'
   replies:
   - id: 37384
     parent_id: 37383
@@ -25,9 +23,8 @@ posts:
     poster: Andrei V. Evdokimov
     subject: надо бы уточнить
     deleted: false
-    text: Black Snake Moan - блюз с таки названием записывали многие, первыми были
-      •<a href="/bluesmen/Blind_Lemon_Jefferson/">Blind Lemon Jefferson</a>, •Leadbelly
-      и Clifton CHENIER.
+    text: Black Snake Moan - блюз с таки названием записывали многие, первыми были •<a href="/bluesmen/Blind_Lemon_Jefferson/">Blind
+      Lemon Jefferson</a>, •Leadbelly и Clifton CHENIER.
     replies:
     - id: 37387
       parent_id: 37384
@@ -36,6 +33,8 @@ posts:
       subject: фильм крутой ))
       deleted: false
       text: все дела ))
+      person_id: 335
+    person_id: 4
   - id: 37402
     parent_id: 37383
     date: 2011-03-03 08:58
@@ -43,3 +42,5 @@ posts:
     subject: Этот стон у них песней зовется )
     deleted: false
     text: http://www.youtube.com/watch?v=T233K_9fSWI
+    person_id: 7284
+  person_id: 4

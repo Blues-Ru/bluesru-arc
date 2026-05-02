@@ -19,19 +19,16 @@ posts:
     poster: Andrei V. Evdokimov
     subject: lineup
     deleted: false
-    text: 'Billy Watts - guitar, Terry Wilson - bass, Red Young - keaboards, Brannen
-      Temple - drums.
+    text: 'Billy Watts - guitar, Terry Wilson - bass, Red Young - keaboards, Brannen Temple - drums.
 
-      Старший в этой банде - Red Young, про него есть <a href="http://en.wikipedia.org/wiki/Red_Young"
-      target="_blank">в Википедии</a>.'
+      Старший в этой банде - Red Young, про него есть <a href="http://en.wikipedia.org/wiki/Red_Young" target="_blank">в Википедии</a>.'
   - id: 36867
     parent_id: 36865
     date: 2010-04-12 13:26
     poster: Pumpkinhead
     subject: Ещё вопрос)
     deleted: false
-    text: Спасибо, Андрей, еще вопрос, можно ли использовать пару ваших фото с концерта
-      для отчёта на сайте Jamsession.ru?
+    text: Спасибо, Андрей, еще вопрос, можно ли использовать пару ваших фото с концерта для отчёта на сайте Jamsession.ru?
     replies:
     - id: 36869
       parent_id: 36867
@@ -48,6 +45,9 @@ posts:
         subject: Ура!
         deleted: false
         text: Спасибо!!!))
+        person_id: 2907
+      person_id: 4
+    person_id: 2907
   - id: 36871
     parent_id: 36865
     date: 2010-04-12 21:57
@@ -63,6 +63,7 @@ posts:
       subject: burb
       deleted: false
       text: и Бёртона Каммингза!
+      person_id: 335
     - id: 36875
       parent_id: 36871
       date: 2010-04-15 15:27
@@ -70,3 +71,6 @@ posts:
       subject: И...
       deleted: false
       text: '...Тима Бёртона!'
+      person_id: 2907
+    person_id: 2
+  person_id: 2907

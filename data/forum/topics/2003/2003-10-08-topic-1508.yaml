@@ -12,9 +12,8 @@ posts:
   email: real_sokol@mail.ru
   subject: Г-н Каверкин!
   deleted: false
-  text: Уважаемый г-н Каверкин! на Блюзоологии Вы исполняли песню I'm a tree I shall
-    not be moon (я слышал там такие слова) Вы не могли бы прислать мне ее текст? и
-    на каких аккордах ее играть? и на каком диске ее можно найти (если, конечно, вообще
+  text: Уважаемый г-н Каверкин! на Блюзоологии Вы исполняли песню I'm a tree I shall not be moon (я слышал там такие слова)
+    Вы не могли бы прислать мне ее текст? и на каких аккордах ее играть? и на каком диске ее можно найти (если, конечно, вообще
     можно)?
   replies:
   - id: 15007
@@ -32,6 +31,7 @@ posts:
       email: morehemp
       subject: да
       deleted: false
+    person_id: 335
   - id: 15012
     parent_id: 15006
     date: 2003-10-09 04:38
@@ -39,34 +39,28 @@ posts:
     email: dr.nick@blues.ru
     subject: я не Каверкин, конечно, но вот тебе текст
     deleted: false
-    text: "I Shall Not Be Moved\n \n Well Lordy I shall not be, I shall not be moved\n\
-      \ I shall not be, I shall not be moved\n Just like a tree that's growin' in\
-      \ the meadow\n I shall not be moved\n \n I'm on my way to glory land and I shall\
-      \ not be moved\n On my way to glory land I will not be moved\n I'm like a tree\
-      \ that's planted by the water\n I shall not be moved\n \n I shall not be, I\
-      \ shall not be moved\n I shall not be, I shall not be moved\n Just like a tree\
-      \ that's planted by the water\n I shall not be moved\n \n I shall not be, I\
-      \ shall not be moved\n I shall not be, I shall not be moved\n Just like a tree\
-      \ that's planted by the water\n I shall not be moved\n \n Well I'm on my way\
-      \ to glory land and I shall not be moved\n On my way to glory land I shall not\
-      \ be moved\n I'm like a tree that's planted by the water\n I shall not be moved\n\
-      \ \n Oh well\n I shall not be, I shall not be moved\n I shall not be, I shall\
-      \ not be moved\n Just like a tree that's planted by the water\n I shall not\
-      \ be moved\n \n On this rock of ages, I shall not be moved\n On this rock of\
-      \ ages, I shall not be moved\n Just like a tree that's planted by the water\n\
-      \ I shall not be moved\n \n Glory, glory, glory Hallelujah, I shall not be moved\n\
-      \ Glory Hallelujah, I shall not be moved\n Just like a tree that's planted by\
-      \ the water\n I shall not be moved"
+    text: "I Shall Not Be Moved\n \n Well Lordy I shall not be, I shall not be moved\n I shall not be, I shall not be moved\n\
+      \ Just like a tree that's growin' in the meadow\n I shall not be moved\n \n I'm on my way to glory land and I shall\
+      \ not be moved\n On my way to glory land I will not be moved\n I'm like a tree that's planted by the water\n I shall\
+      \ not be moved\n \n I shall not be, I shall not be moved\n I shall not be, I shall not be moved\n Just like a tree that's\
+      \ planted by the water\n I shall not be moved\n \n I shall not be, I shall not be moved\n I shall not be, I shall not\
+      \ be moved\n Just like a tree that's planted by the water\n I shall not be moved\n \n Well I'm on my way to glory land\
+      \ and I shall not be moved\n On my way to glory land I shall not be moved\n I'm like a tree that's planted by the water\n\
+      \ I shall not be moved\n \n Oh well\n I shall not be, I shall not be moved\n I shall not be, I shall not be moved\n\
+      \ Just like a tree that's planted by the water\n I shall not be moved\n \n On this rock of ages, I shall not be moved\n\
+      \ On this rock of ages, I shall not be moved\n Just like a tree that's planted by the water\n I shall not be moved\n\
+      \ \n Glory, glory, glory Hallelujah, I shall not be moved\n Glory Hallelujah, I shall not be moved\n Just like a tree\
+      \ that's planted by the water\n I shall not be moved"
     replies:
     - id: 15014
       parent_id: 15012
       date: 2003-10-09 16:25
       poster: Yuri Kaverkin (Gekko)
       email: kaverkin@rol.ru
-      subject: Спасибо Диме за слова, думаю и с аккордами он больше сможет помочь,
-        так как я нот не разумею. Могу показать на грифе, а как описать не знаю:)
-        Sorry...
+      subject: Спасибо Диме за слова, думаю и с аккордами он больше сможет помочь, так как я нот не разумею. Могу показать
+        на грифе, а как описать не знаю:) Sorry...
       deleted: false
+      person_id: 1719
     - id: 15019
       parent_id: 15012
       date: 2003-10-10 11:14
@@ -90,6 +84,7 @@ posts:
           email: real_sokol@mail.ru
           subject: да, нужны
           deleted: false
+        person_id: 335
   - id: 15028
     parent_id: 15006
     date: 2003-10-13 22:29
@@ -97,9 +92,8 @@ posts:
     email: alex_z77@mail.ru
     subject: Кажется эту песню Pops Staples исполняет?
     deleted: false
-    text: Когда-то кто-то выкладывал тут ссылки на несколько mp3 Pops Staples, в том
-      числе I shall not be moved. У меня она сохранилась (mp3, а не ссылка :-) ).
-      Если интересно - могу выслать, весит она 1.4 MB.
+    text: Когда-то кто-то выкладывал тут ссылки на несколько mp3 Pops Staples, в том числе I shall not be moved. У меня она
+      сохранилась (mp3, а не ссылка :-) ). Если интересно - могу выслать, весит она 1.4 MB.
     replies:
     - id: 15029
       parent_id: 15028
@@ -108,11 +102,9 @@ posts:
       email: morehemp
       subject: Pops, кстати,
       deleted: false
-      text: "всё упростил :), и у него нет вот этого куска:\nGlory, glory, glory Hallelujah,\
-        \ I shall not be moved\nGlory Hallelujah, I shall not be moved\n\nа ссылка\
-        \ вот \nhttp://greta.bluesman.ru/mine/Pops_Staples/10-I_Shall_not_be_moved.mp3\n\
-        \nps: хорошо, что кто-то интересовался демками.. я думала, что всё впустую\
-        \ :)"
+      text: "всё упростил :), и у него нет вот этого куска:\nGlory, glory, glory Hallelujah, I shall not be moved\nGlory Hallelujah,\
+        \ I shall not be moved\n\nа ссылка вот \nhttp://greta.bluesman.ru/mine/Pops_Staples/10-I_Shall_not_be_moved.mp3\n\n\
+        ps: хорошо, что кто-то интересовался демками.. я думала, что всё впустую :)"
       replies:
       - id: 15032
         parent_id: 15029
@@ -121,8 +113,7 @@ posts:
         email: alex_z77@mail.ru
         subject: Greta, а может быть...
         deleted: false
-        text: Вы можете предоставить этот диск целиком в mp3 в более хорошем качестве?
-          Болванок не пожалею! :-)
+        text: Вы можете предоставить этот диск целиком в mp3 в более хорошем качестве? Болванок не пожалею! :-)
         replies:
         - id: 15034
           parent_id: 15032
@@ -131,9 +122,8 @@ posts:
           email: morehemp
           subject: в mp3
           deleted: false
-          text: "не могу, - у меня пароль на ftp чевой-та не работает :)\nМогу просто\
-            \ переписать пластинку на болванку. \nЕсли вдруг у Вас mp3-плейер, то\
-            \ можно и в mp3 записать."
+          text: "не могу, - у меня пароль на ftp чевой-та не работает :)\nМогу просто переписать пластинку на болванку. \n\
+            Если вдруг у Вас mp3-плейер, то можно и в mp3 записать."
           replies:
           - id: 15035
             parent_id: 15034
@@ -152,6 +142,8 @@ posts:
               subject: Отпишите,
               deleted: false
               text: я отвечу. Моя почта справа.
+            person_id: 1731
+        person_id: 1731
     - id: 15030
       parent_id: 15028
       date: 2003-10-13 23:46
@@ -159,8 +151,7 @@ posts:
       email: dr.nick@blues.ru
       subject: он отлично испоняет!
       deleted: false
-      text: а вот самый известный исполнитель этой вещи - это Миссиссиппи Джон Хёрт.
-        тоже могу выслать :)
+      text: а вот самый известный исполнитель этой вещи - это Миссиссиппи Джон Хёрт. тоже могу выслать :)
       replies:
       - id: 15031
         parent_id: 15030
@@ -187,8 +178,8 @@ posts:
             email: doctors.ch@butovo.com
             subject: Получила,
             deleted: false
-            text: послушала - спасибо большое. Текст довольно сильно отличается от
-              того, к-рый Вы писали в форуме, - а чья это вещь изначально?
+            text: послушала - спасибо большое. Текст довольно сильно отличается от того, к-рый Вы писали в форуме, - а чья
+              это вещь изначально?
             replies:
             - id: 15038
               parent_id: 15037
@@ -200,6 +191,7 @@ posts:
               text: 'песня типа Народная; религиозная :)
 
                 типа госпел или спиричуэлс :)'
+              person_id: 335
           - id: 15043
             parent_id: 15033
             date: 2003-10-16 11:22
@@ -234,6 +226,8 @@ posts:
                   subject: что это ближе?
                   deleted: false
                   text: ?????
+                  person_id: 335
+              person_id: 335
           - id: 15044
             parent_id: 15033
             date: 2003-10-16 11:25
@@ -259,3 +253,6 @@ posts:
                 AAAAEEEEE7E7E7E7AAAAD7D7D7D7AAAAE7E7E7E7AAAA
 
                 ВСЕ РОВНО ЧЕТВЕРТЯМИ.'
+          person_id: 335
+      person_id: 335
+    person_id: 1731

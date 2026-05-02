@@ -11,9 +11,8 @@ posts:
   poster: Cpt. Nemoff
   subject: 2012 Cigar Box Nation Christmas Album
   deleted: false
-  text: "Ура! Свершилось! Составлен рождественский сборник от Cigarboxnation.com.\n\
-    \nТам есть и мои треки тоже - аж целых три!\nВпервые русский музыкант вошёл в\
-    \ историю американской традиции Cigar box guitar! \n\nАльбом в свободном доступе\
+  text: "Ура! Свершилось! Составлен рождественский сборник от Cigarboxnation.com.\n\nТам есть и мои треки тоже - аж целых\
+    \ три!\nВпервые русский музыкант вошёл в историю американской традиции Cigar box guitar! \n\nАльбом в свободном доступе\
     \ и скачать его можно здесь: \n\nhttp://www.cigarboxnation.com/forum/topics/2012-cigar-box-nation-christmas-album-download-page"
   replies:
   - id: 38678
@@ -23,6 +22,7 @@ posts:
     subject: скромно
     deleted: false
     text: песенка бурнуса входила в прошлогодний рождественский альбом
+    person_id: 8105
   - id: 38679
     parent_id: 38674
     date: 2012-12-23 11:04
@@ -30,16 +30,15 @@ posts:
     subject: извините , наврал
     deleted: false
     text: это было в 2010
+    person_id: 8105
   - id: 38691
     parent_id: 38674
     date: 2013-01-02 21:46
     poster: Cpt. Nemoff
     subject: 'CD Django Festival #6'
     deleted: false
-    text: "Дамы и господа! \nМой трек \"Misirlou\" вошел в сборник Сборник Django\
-      \ Festival #6 , который выпустила Норвежская звукозаписывающая компания \"Hot\
-      \ Club Record\" \n\nСерия сборников Django Festival посвящена самым интересным\
-      \ современным исполнителям в стиле gipsy swing , в число которых попал и Ваш\
-      \ непокорный слуга.\n\nВыход нового CD Django Festival #6 как всегда приурочен\
-      \ дню рождения Джанго Рейнхарда - 23 января. \nИтак, наслаждайтесь:\n\nDjango\
-      \ Festival #6 \nhttps://itunes.apple.com/my/album/django-festival-6/id587138746"
+    text: "Дамы и господа! \nМой трек \"Misirlou\" вошел в сборник Сборник Django Festival #6 , который выпустила Норвежская\
+      \ звукозаписывающая компания \"Hot Club Record\" \n\nСерия сборников Django Festival посвящена самым интересным современным\
+      \ исполнителям в стиле gipsy swing , в число которых попал и Ваш непокорный слуга.\n\nВыход нового CD Django Festival\
+      \ #6 как всегда приурочен дню рождения Джанго Рейнхарда - 23 января. \nИтак, наслаждайтесь:\n\nDjango Festival #6 \n\
+      https://itunes.apple.com/my/album/django-festival-6/id587138746"

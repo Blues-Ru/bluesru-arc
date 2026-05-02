@@ -22,6 +22,7 @@ posts:
     subject: Oops- так это же не блюз....
     deleted: false
     text: Музыку к/ф "Ва-Банк" (Ю. Махульского наверное)написал Хенрик Кузняк.
+    person_id: 1725
   - id: 13105
     parent_id: 13102
     date: 2003-07-02 15:59
@@ -29,5 +30,6 @@ posts:
     email: barmaley2k@beep.ru
     subject: Если речь о польском фильме 81 года,
     deleted: false
-    text: то композитором там значится Henryk Kuzniak (по данным www.allmovie.com).
-      Если о югославском 93 года, то не знаю.
+    text: то композитором там значится Henryk Kuzniak (по данным www.allmovie.com). Если о югославском 93 года, то не знаю.
+    person_id: 1849
+  person_id: 1851

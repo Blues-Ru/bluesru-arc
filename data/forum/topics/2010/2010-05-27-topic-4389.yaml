@@ -20,8 +20,7 @@ posts:
     poster: grem
     subject: 404 - not found
     deleted: false
-    text: увы не удалось прочитать текста, но это никак не связано с Михаил Петровичем
-      Соколовым ?)
+    text: увы не удалось прочитать текста, но это никак не связано с Михаил Петровичем Соколовым ?)
     replies:
     - id: 36930
       parent_id: 36929
@@ -46,6 +45,9 @@ posts:
           subject: сербы
           deleted: false
           text: опять сербы.)
+          person_id: 7219
+        person_id: 458
+      person_id: 4
     - id: 36931
       parent_id: 36929
       date: 2010-05-28 11:49
@@ -68,13 +70,11 @@ posts:
           poster: Эльдар
           subject: Блюз в ОАЭ
           deleted: false
-          text: 'Ну, теперича мы знаем что самая популярная блюзовая певица в ОАЭ
-            это Ludmila Soko''lova
+          text: 'Ну, теперича мы знаем что самая популярная блюзовая певица в ОАЭ это Ludmila Soko''lova
 
-            <a href="http://www.ludasokolova.com/biography.html">Утонченный вкус к
-            хорошей музыке был сформирован ее любимыми исполнителями, такими, как:
-            Tina Turner , Sade , Joe Cocker , Sting , Bryan Adams , а также многими
-            джазовыми и блюзовыми музыкантами.</a>'
+            <a href="http://www.ludasokolova.com/biography.html">Утонченный вкус к хорошей музыке был сформирован ее любимыми
+            исполнителями, такими, как: Tina Turner , Sade , Joe Cocker , Sting , Bryan Adams , а также многими джазовыми
+            и блюзовыми музыкантами.</a>'
           replies:
           - id: 36940
             parent_id: 36936
@@ -82,5 +82,9 @@ posts:
             poster: Эльдар
             subject: Блюз в ОРТ
             deleted: false
-            text: <a href="http://www.1tv.ru/anons/id=157966">Мелодрама "Мой осенний
-              блюз"</a>
+            text: <a href="http://www.1tv.ru/anons/id=157966">Мелодрама "Мой осенний блюз"</a>
+            person_id: 7202
+        person_id: 335
+      person_id: 7202
+    person_id: 7219
+  person_id: 4

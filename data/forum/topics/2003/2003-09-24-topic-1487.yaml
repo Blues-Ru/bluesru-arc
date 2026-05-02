@@ -30,8 +30,7 @@ posts:
       email: volodya@blues.ru
       subject: наверно имеется ввиду, что ктото уже освоил 4ый
       deleted: false
-      text: что непременно стало предметом гнусной зависти и злопыхательства остальных
-        :)))))))))))
+      text: что непременно стало предметом гнусной зависти и злопыхательства остальных :)))))))))))
       replies:
       - id: 14788
         parent_id: 14783
@@ -50,6 +49,8 @@ posts:
           subject: Все знают семь нот гармонии,
           deleted: false
           text: но лишь г-н Жоли способен создавать из них прекрасные мелодии.
+          person_id: 458
+        person_id: 1749
       - id: 14799
         parent_id: 14783
         date: 2003-09-25 14:06
@@ -57,3 +58,7 @@ posts:
         email: gypsy@mail.ru
         subject: Зависть у нас белая, и пыхаем мы регулярно! ))
         deleted: false
+        person_id: 13
+      person_id: 5
+    person_id: 93
+  person_id: 13

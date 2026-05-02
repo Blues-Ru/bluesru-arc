@@ -11,5 +11,5 @@ posts:
   poster: Andrei V. Evdokimov
   subject: 'ночная блюз-кинотека: Screamin'' Jay Hawkins'
   deleted: false
-  text: <iframe width="480" height="360" src="//www.youtube.com/embed/qecYcFZR6Mk"
-    frameborder="0" allowfullscreen></iframe>
+  text: <iframe width="480" height="360" src="//www.youtube.com/embed/qecYcFZR6Mk" frameborder="0" allowfullscreen></iframe>
+  person_id: 4

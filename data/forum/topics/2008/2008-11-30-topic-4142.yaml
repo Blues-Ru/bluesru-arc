@@ -26,6 +26,7 @@ posts:
     subject: С Днём Рождения, Андрюша!
     deleted: false
     text: Будь здоров, старина.
+    person_id: 458
   - id: 35956
     parent_id: 35953
     date: 2008-12-02 10:13

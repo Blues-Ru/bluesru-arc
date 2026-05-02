@@ -11,9 +11,8 @@ posts:
   poster: Andrei V. Evdokimov
   subject: А если это правда?
   deleted: false
-  text: '" Лепс непременно должен войти в историю российского блюза – хотя бы как
-    человек, озвучивший в песне «Я тебя не люблю» нетривиальную рифму к слову «блюз»
-    – «не куплюсь»." - написано тут: http://www.km.ru/muzyka/2011/09/19/persony-i-sobytiya-v-mire-muzyki/grigorii-leps-novaya-kollektsiya-luchshie-pesni-2'
+  text: '" Лепс непременно должен войти в историю российского блюза – хотя бы как человек, озвучивший в песне «Я тебя не люблю»
+    нетривиальную рифму к слову «блюз» – «не куплюсь»." - написано тут: http://www.km.ru/muzyka/2011/09/19/persony-i-sobytiya-v-mire-muzyki/grigorii-leps-novaya-kollektsiya-luchshie-pesni-2'
   replies:
   - id: 37984
     parent_id: 37983
@@ -22,3 +21,5 @@ posts:
     subject: лепс
     deleted: false
     text: а я блин так и не слышал его альбомов
+    person_id: 335
+  person_id: 4

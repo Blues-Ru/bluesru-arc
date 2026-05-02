@@ -14,9 +14,8 @@ posts:
   deleted: false
   text: 'Buddy Miles  9/5/1947 – 2/26/2008
 
-    Legendary Drummer Buddy Miles  passed away this Tuesday, peacefully at  his home
-    in Austin, TX. He was (60) sixty years old. He suffered from  congestive heart
-    failure but the official cause of death is not known.'
+    Legendary Drummer Buddy Miles  passed away this Tuesday, peacefully at  his home in Austin, TX. He was (60) sixty years
+    old. He suffered from  congestive heart failure but the official cause of death is not known.'
   replies:
   - id: 34813
     parent_id: 34809
@@ -26,6 +25,7 @@ posts:
     subject: ой блииин
     deleted: false
     text: мой любимый
+    person_id: 335
   - id: 34845
     parent_id: 34809
     date: 2008-03-03 21:12
@@ -41,5 +41,5 @@ posts:
     email: degtiariouk@hotmail.com
     subject: comment
     deleted: false
-    text: Уходят барабанщики... Нет русских Матвеева и Хащенко. Нет и Майлза - одного
-      из последних соратников Хендрикса. Земля им пухом...
+    text: Уходят барабанщики... Нет русских Матвеева и Хащенко. Нет и Майлза - одного из последних соратников Хендрикса. Земля
+      им пухом...

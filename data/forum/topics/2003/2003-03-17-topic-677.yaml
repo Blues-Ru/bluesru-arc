@@ -14,8 +14,7 @@ posts:
   deleted: false
   text: 'Hello! We''re UNDERGROUND SUNBURN blues band from Saint- Petersburg in
 
-    Russia. Mostly playing  in  Jimi Hendrix style, free blues improvisation and more....
-    We  would  be  happy
+    Russia. Mostly playing  in  Jimi Hendrix style, free blues improvisation and more.... We  would  be  happy
 
     to perform at your club and  smash the night! What do You need  from us to
 
@@ -24,16 +23,15 @@ posts:
     in MP3 format  and  pictures of members You will find at the site: http://nickgoodcorn.narod.ru/index.html                                                                                                                To
     keep in touch and to correspond with us  please write on the Email which
 
-    is: nickgoodcorn@hotmail.com                                                                  Thank
-    You for Your attention. With all respect  from the band.                                     Nick.'
+    is: nickgoodcorn@hotmail.com                                                                  Thank You for Your attention.
+    With all respect  from the band.                                     Nick.'
   replies:
   - id: 11033
     parent_id: 11031
     date: 2003-03-17 10:14
     poster: Dima Krasivov (Dima)
     email: dima@blues.ru
-    subject: Коль, А ты уже в Питере все стены своим Ундерграунд сунбурном расписал?
-      ;) (-)
+    subject: Коль, А ты уже в Питере все стены своим Ундерграунд сунбурном расписал? ;) (-)
     deleted: false
     replies:
     - id: 11045
@@ -56,3 +54,4 @@ posts:
       subject: UNDERGROUND SUNBURN
       deleted: false
       text: Дык)))это были ЛДМовские шуточки - а насчет расписать----это идея,thnx))))))
+    person_id: 9

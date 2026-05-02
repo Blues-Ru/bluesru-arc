@@ -12,18 +12,14 @@ posts:
   email: evdokimov@blues.ru
   subject: а не замахнуться ли нам...
   deleted: false
-  text: "Санкт-Петербург. Театр марионеток им. Е.С. Деммени в июне продолжит показ\
-    \ своих спектаклей для маленьких петербуржцев, несмотря на окончание театрального\
-    \ сезона и закрытие большинства городских театров в связи с гастролями или отпуском.\
-    \ Как сообщили Балтийскому информационному агентству (БИА) в отделе связей с общественностью\
-    \ театра, в июне на сцене театра можно будет увидеть романтическую кукольную пантомиму\
-    \ «Театр Пьеро и Коломбины» и новую версию известного мультипликационного мюзикла\
-    \ «Голубой щенок», которая идет в Театре марионеток под названием «Щенок по кличке\
-    \ Блюз». \n«Оригинальную музыку к этому спектаклю, как и ко многим другим, идущим\
-    \ в театре, написала известный петербургский композитор Татьяна Алешина. Эту историю\
-    \ особенно следует посмотреть молодым мамам. По признанию одной из зрительниц,\
-    \ история щенка Блюза потрясла ее не меньше, чем иные шекспировские сюжеты», —\
-    \ отметили в театре."
+  text: "Санкт-Петербург. Театр марионеток им. Е.С. Деммени в июне продолжит показ своих спектаклей для маленьких петербуржцев,\
+    \ несмотря на окончание театрального сезона и закрытие большинства городских театров в связи с гастролями или отпуском.\
+    \ Как сообщили Балтийскому информационному агентству (БИА) в отделе связей с общественностью театра, в июне на сцене театра\
+    \ можно будет увидеть романтическую кукольную пантомиму «Театр Пьеро и Коломбины» и новую версию известного мультипликационного\
+    \ мюзикла «Голубой щенок», которая идет в Театре марионеток под названием «Щенок по кличке Блюз». \n«Оригинальную музыку\
+    \ к этому спектаклю, как и ко многим другим, идущим в театре, написала известный петербургский композитор Татьяна Алешина.\
+    \ Эту историю особенно следует посмотреть молодым мамам. По признанию одной из зрительниц, история щенка Блюза потрясла\
+    \ ее не меньше, чем иные шекспировские сюжеты», — отметили в театре."
   replies:
   - id: 27510
     parent_id: 27509
@@ -32,8 +28,7 @@ posts:
     email: volodya@blues.ru
     subject: '...концептуально...'
     deleted: false
-    text: "а слово \"блюз\"  таким образом обретает ярковыраженный антисоциальный\
-      \ смысл.... \n\nпора \"блюз-парад\" проводить..."
+    text: "а слово \"блюз\"  таким образом обретает ярковыраженный антисоциальный смысл.... \n\nпора \"блюз-парад\" проводить..."
   - id: 27511
     parent_id: 27509
     date: 2006-05-31 17:18
@@ -51,9 +46,8 @@ posts:
     deleted: false
     text: 'http://news.ntv.ru/87601/
 
-      "Стивен Сигал предстал в необычном амплуа — солиста блюзовой группы, после чего
-      журналистов попросили из зала, чтобы сохранить интригу и имена остальных лауреатов.
-      Полностью трансляцию церемонии смотрите на телеканале НТВ."'
+      "Стивен Сигал предстал в необычном амплуа — солиста блюзовой группы, после чего журналистов попросили из зала, чтобы
+      сохранить интригу и имена остальных лауреатов. Полностью трансляцию церемонии смотрите на телеканале НТВ."'
     replies:
     - id: 27515
       parent_id: 27514
@@ -80,16 +74,15 @@ posts:
           email: elicaster co6@ka мейл-d0t ru
           subject: блин! не хило...
           deleted: false
-          text: '<i>Оцените гостевой список: Bo Diddley, Louisiana Red, Ruth Brown,
-            James Cotton, Pinetop Perkins, Willie Smith, Calvin Jones, Bob Margolin,
-            Hubert Sumlin, Koko Taylor, Tom Brill, Big George Brock, David "Honeyboy
-            Edwards," Robert Lockwood, Jr., "Homesick James" William Henderson, Henry
-            Townsend. В этом списке были и имена блюзменов, ушедших из жизни за несколько
-            последних месяцев: R.L. Burnside, Little Milton и Gatemouth Brown…</i>
+          text: '<i>Оцените гостевой список: Bo Diddley, Louisiana Red, Ruth Brown, James Cotton, Pinetop Perkins, Willie
+            Smith, Calvin Jones, Bob Margolin, Hubert Sumlin, Koko Taylor, Tom Brill, Big George Brock, David "Honeyboy Edwards,"
+            Robert Lockwood, Jr., "Homesick James" William Henderson, Henry Townsend. В этом списке были и имена блюзменов,
+            ушедших из жизни за несколько последних месяцев: R.L. Burnside, Little Milton и Gatemouth Brown…</i>
 
             Не хилый список...
 
             Интересно бы было услышать.'
+        person_id: 5
       - id: 27519
         parent_id: 27515
         date: 2006-06-01 20:17
@@ -97,21 +90,18 @@ posts:
         email: elicaster co6@ka мейл-d0t ru
         subject: If It Don't Kill You, It Just Makes You Stronger
         deleted: false
-        text: '<i>В альбоме 1989г. "Если что-то тебя не убьет, значит, сделает сильнее"
-          Уиллис сотрудничал с Terry.Evans, Ben E..King, Willie Green, Johnny Winter
-          и группой Texicali Horns.</i>
+        text: '<i>В альбоме 1989г. "Если что-то тебя не убьет, значит, сделает сильнее" Уиллис сотрудничал с Terry.Evans,
+          Ben E..King, Willie Green, Johnny Winter и группой Texicali Horns.</i>
 
           Был у меня это диск (кому-то дал, но забыл кому. лажа :-(
 
-          мне очень понравились на этом диске Soul Shake и I''ll Go Crazy (кажется
-          Джеймса Брауна вещь. так ли?)
+          мне очень понравились на этом диске Soul Shake и I''ll Go Crazy (кажется Джеймса Брауна вещь. так ли?)
 
           Андрей, такой вопрос о Брюсе Уиллисе:
 
-          Знаю только что в "If It Don''t Kill You, It Just Makes You Stronger" из
-          известных мне играли Robben Ford и кажется духовая секция Texas Horns. А
-          вот про Terry.Evans, Ben E..King, Willie Green, Johnny Winter ничего мне
-          не известно, да и не заметил я их там :(((
+          Знаю только что в "If It Don''t Kill You, It Just Makes You Stronger" из известных мне играли Robben Ford и кажется
+          духовая секция Texas Horns. А вот про Terry.Evans, Ben E..King, Willie Green, Johnny Winter ничего мне не известно,
+          да и не заметил я их там :(((
 
           Точно ли они были там?'
         replies:
@@ -134,19 +124,14 @@ posts:
             email: elicaster co6@ka мейл-d0t ru
             subject: 'Кажись есть такой и фильм:'
             deleted: false
-            text: "Кажись есть такой и фильм:\nhttp://www.kinomagia.com/base/id/title/tt0095987/\n\
-              http://www.imdb.com/title/tt0095987/fullcredits\nThe Return of Bruno\
-              \ (1988)\nCredited cast:\nBruce Willis\t.... \tBruno Radolini\nMichael\
-              \ J. Fox\t.... \tHimself\nElton John\t.... \tHimself\nBill Graham\t\
-              .... \tHimself\nDick Clark\t.... \tHimself\nrest of cast listed alphabetically:\n\
-              Joan Baez\t.... \tHerself\nJon Bon Jovi\t.... \tHimself\nPhil Collins\t\
-              .... \tHimself\nClive Davis\t.... \tHimself\nAndy Gibb\t.... \tHimself\n\
-              Barry Gibb\t.... \tHimself\nMaurice Gibb\t.... \tHimself\nRobin Gibb\t\
-              .... \tHimself\nWolfman Jack\t.... \tHimself\nChip Monck\t.... \tHimself\n\
-              Graham Nash\t.... \tHimself\nGrace Slick\t.... \tHerself\nPaul Stanley\t\
-              .... \tHimself\nRingo Starr\t.... \tHimself\nStephen Stills\t.... \t\
-              Himself\nVictory Tischler-Blue\t(as Vicki Blue)\nBrian Wilson\t....\
-              \ \tHimself"
+            text: "Кажись есть такой и фильм:\nhttp://www.kinomagia.com/base/id/title/tt0095987/\nhttp://www.imdb.com/title/tt0095987/fullcredits\n\
+              The Return of Bruno (1988)\nCredited cast:\nBruce Willis\t.... \tBruno Radolini\nMichael J. Fox\t.... \tHimself\n\
+              Elton John\t.... \tHimself\nBill Graham\t.... \tHimself\nDick Clark\t.... \tHimself\nrest of cast listed alphabetically:\n\
+              Joan Baez\t.... \tHerself\nJon Bon Jovi\t.... \tHimself\nPhil Collins\t.... \tHimself\nClive Davis\t.... \t\
+              Himself\nAndy Gibb\t.... \tHimself\nBarry Gibb\t.... \tHimself\nMaurice Gibb\t.... \tHimself\nRobin Gibb\t....\
+              \ \tHimself\nWolfman Jack\t.... \tHimself\nChip Monck\t.... \tHimself\nGraham Nash\t.... \tHimself\nGrace Slick\t\
+              .... \tHerself\nPaul Stanley\t.... \tHimself\nRingo Starr\t.... \tHimself\nStephen Stills\t.... \tHimself\n\
+              Victory Tischler-Blue\t(as Vicki Blue)\nBrian Wilson\t.... \tHimself"
         - id: 27523
           parent_id: 27519
           date: 2006-06-01 21:51
@@ -163,12 +148,10 @@ posts:
             email: elicaster co6@ka мейл-d0t ru
             subject: странно
             deleted: false
-            text: 'Весьма странно. На диске <a href="http://www.mp3sugar.com/album.dhtml?id=17347&aff=2185">Bruce
-              Willis & Robben Ford If It Don''t Kill You, Just Makes You Stronger
-              1989</a> который был у меня в кредитах были указаны, кажись, все музыканты,
-              но Terry.Evans, Ben E..King, Willie Green, Johnny Winter там точно не
-              были отмечены. Честно говоря я и не узнал их там, не расслышал... странно
-              как я мог не заметить Винтера.
+            text: 'Весьма странно. На диске <a href="http://www.mp3sugar.com/album.dhtml?id=17347&aff=2185">Bruce Willis &
+              Robben Ford If It Don''t Kill You, Just Makes You Stronger 1989</a> который был у меня в кредитах были указаны,
+              кажись, все музыканты, но Terry.Evans, Ben E..King, Willie Green, Johnny Winter там точно не были отмечены.
+              Честно говоря я и не узнал их там, не расслышал... странно как я мог не заметить Винтера.
 
               Андрей, может ссылку какую-нибудь дашь где об этом можно подробнее почитать?'
             replies:
@@ -179,8 +162,8 @@ posts:
               email: elicaster co6@ka мейл-d0t ru
               subject: кредиты этого диска
               deleted: false
-              text: <a href="http://www.music.com/release/if_it_dont_kill_you,_it_just_makes_you_stronger/1/">Здесь</a>
-                находятся кредиты этого диска.
+              text: <a href="http://www.music.com/release/if_it_dont_kill_you,_it_just_makes_you_stronger/1/">Здесь</a> находятся
+                кредиты этого диска.
               replies:
               - id: 27536
                 parent_id: 27535
@@ -200,13 +183,11 @@ posts:
                   email: elicaster co6@ka мейл-d0t ru
                   subject: Интересно,
                   deleted: false
-                  text: 'Интересно, хотя малехо странненько: названия альбома забавно
-                    разняться. Сравните:
+                  text: 'Интересно, хотя малехо странненько: названия альбома забавно разняться. Сравните:
 
                     If it don''t kill you, it just makes you stronger - реальное название
 
-                    If it doesn''t kill you, it only makes you harder - название на
-                    сайте'
+                    If it doesn''t kill you, it only makes you harder - название на сайте'
                   replies:
                   - id: 27538
                     parent_id: 27537
@@ -217,19 +198,15 @@ posts:
                     deleted: false
                     text: 'Bruce Willis (Yes the one from Demi Moore)
 
-                      "If it doesn''t kill you, it only makes you harder (stronger?)"
-                      - 1990?
+                      "If it doesn''t kill you, it only makes you harder (stronger?)" - 1990?
 
                       Motown Records
 
-                      "Here comes trouble again" - Johnny plays slide. The interesting
-                      part about this tune is the short intro, which features Winter
-                      & Bruce Willis chatting. The rest of the album is genuine crap,
-                      but I bought it anyway, just to hear Johnny drawl "I''ve seen
-                      a LOT of trouble!" and then fire up th''old Firebird!
+                      "Here comes trouble again" - Johnny plays slide. The interesting part about this tune is the short intro,
+                      which features Winter & Bruce Willis chatting. The rest of the album is genuine crap, but I bought it
+                      anyway, just to hear Johnny drawl "I''ve seen a LOT of trouble!" and then fire up th''old Firebird!
 
-                      <img src="http://www.yee.ch/winter/ADisco/Bruce_Willis/images/jw_brucewillis_08.jpg"
-                      align="bottom">'
+                      <img src="http://www.yee.ch/winter/ADisco/Bruce_Willis/images/jw_brucewillis_08.jpg" align="bottom">'
                   - id: 27539
                     parent_id: 27537
                     date: 2006-06-02 11:53
@@ -237,8 +214,7 @@ posts:
                     email: elicaster co6@ka мейл-d0t ru
                     subject: Bruce Willis together with Johnny Winter
                     deleted: false
-                    text: <img src="http://www.yee.ch/winter/ADisco/Bruce_Willis/jw_brucewillis.jpg"
-                      align="bottom">
+                    text: <img src="http://www.yee.ch/winter/ADisco/Bruce_Willis/jw_brucewillis.jpg" align="bottom">
                 - id: 27543
                   parent_id: 27536
                   date: 2006-06-02 20:51
@@ -246,13 +222,13 @@ posts:
                   email: elicaster co6@ka мейл-d0t ru
                   subject: Не сочти за назойливость
                   deleted: false
-                  text: 'Не сочти за назойливость: раз уж дал ссылку на Винтера, то
-                    уж, пожалуйста, дай и про остальных: Terry.Evans, Ben E..King,
-                    Willie Green.
+                  text: 'Не сочти за назойливость: раз уж дал ссылку на Винтера, то уж, пожалуйста, дай и про остальных: Terry.Evans,
+                    Ben E..King, Willie Green.
 
                     Уж очень мне интересно.
 
                     Типа, задело за живое :)'
+          person_id: 4
       - id: 27541
         parent_id: 27515
         date: 2006-06-02 12:28
@@ -261,6 +237,7 @@ posts:
         subject: Может быть...
         deleted: false
         text: Новость - выступление в Москве.
+      person_id: 4
   - id: 27540
     parent_id: 27509
     date: 2006-06-02 12:09

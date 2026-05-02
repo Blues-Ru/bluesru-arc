@@ -12,8 +12,8 @@ posts:
   email: soulman@bk.ru
   subject: Куда ж мы катимся?!
   deleted: false
-  text: "На сайте bluesnews.ru \nhttp://www.bluesnews.ru/news/?id=3290\n\nChaka Khan\
-    \ позорно названа ПЕВЦОМ. Ё-моё! и это на блюзовом сайте!!!"
+  text: "На сайте bluesnews.ru \nhttp://www.bluesnews.ru/news/?id=3290\n\nChaka Khan позорно названа ПЕВЦОМ. Ё-моё! и это\
+    \ на блюзовом сайте!!!"
   replies:
   - id: 33310
     parent_id: 33309
@@ -41,6 +41,8 @@ posts:
         subject: очень много визга
         deleted: false
         text: неважно - певец или певица
+        person_id: 335
+    person_id: 335
   - id: 33312
     parent_id: 33309
     date: 2007-07-31 00:33

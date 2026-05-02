@@ -12,8 +12,7 @@ posts:
   email: heavyfuel@mtu-net.ru
   subject: На Будапешт......
   deleted: false
-  text: 'Отъезжаю сегодня вечером в славный город Будапешт. Концертов там посещу много.
-    Обо всем напишу :)))))
+  text: 'Отъезжаю сегодня вечером в славный город Будапешт. Концертов там посещу много. Обо всем напишу :)))))
 
 
     Всем привет!'
@@ -38,8 +37,7 @@ posts:
     email: dr.nick@blues.ru
     subject: Маладесь!
     deleted: false
-    text: 'Кэмел этот хорош, но есть и другие отличные альбомы! Понравится, запишешь,
-      у меня их штук 8.
+    text: 'Кэмел этот хорош, но есть и другие отличные альбомы! Понравится, запишешь, у меня их штук 8.
 
 
       Трэфик какой? 68 без названия? Если он, то это ЛУЧШИЙ!
@@ -54,13 +52,11 @@ posts:
       email: '&#246;&#246;&#246;&#246;'
       subject: Nu vot etot "TRAFFIC"...
       deleted: false
-      text: "gde oni v chetverom na oblozke... 68 god? Tochno on! \nPrichem dostalska\
-        \ on mne vsego za 10 baxov :) + u menja tam esche 5 bonus trackov s ih singlov...\n\
-        \nCAMEL - ochen ponravilsja... Osobenno 5, 6 i 7 tracki... Priedu u tebja\
-        \ ostalnoe perepishu....\n\nKstati kupil \"The Best\" Toma Petty, 1993 god,\
-        \ tot samii gde \"Last dance with Mary Jane\"... i cover \"Something in the\
-        \ air\" - polnii ulet!!!! \n\nEsche napal tut na masgazin gde pochti ves'\
-        \ Frank Zappa... Chto u nego stoit brat?"
+      text: "gde oni v chetverom na oblozke... 68 god? Tochno on! \nPrichem dostalska on mne vsego za 10 baxov :) + u menja\
+        \ tam esche 5 bonus trackov s ih singlov...\n\nCAMEL - ochen ponravilsja... Osobenno 5, 6 i 7 tracki... Priedu u tebja\
+        \ ostalnoe perepishu....\n\nKstati kupil \"The Best\" Toma Petty, 1993 god, tot samii gde \"Last dance with Mary Jane\"\
+        ... i cover \"Something in the air\" - polnii ulet!!!! \n\nEsche napal tut na masgazin gde pochti ves' Frank Zappa...\
+        \ Chto u nego stoit brat?"
       replies:
       - id: 13551
         parent_id: 13550
@@ -74,8 +70,8 @@ posts:
 
           С Заппой все очень сложно!
 
-          Если хочешь взять парочку наверняка, то бери Overnite Sensation, You Are
-          What You Is или Apostrophe. Другие пока не надо, у меня сможешь все отслушать.'
+          Если хочешь взять парочку наверняка, то бери Overnite Sensation, You Are What You Is или Apostrophe. Другие пока
+          не надо, у меня сможешь все отслушать.'
         replies:
         - id: 13554
           parent_id: 13551
@@ -84,11 +80,10 @@ posts:
           email: fffffffffff
           subject: Oh!!!
           deleted: false
-          text: "Oni vse tri tut est... Kakoi nibud is nih vozmu... A to ja tut razorus\
-            \ na kompaktah :))))))\n\nEsche vsjal\nTalkng Heads - 77, Lou Reed - \"\
-            Transformer\" 10 CC The Best, Johnny Cash \"The Best\" mestnogo rozliva...\
-            \ \n\nNu i ne uderjalsja i kupil Dixie Chicks :)))) al'bom \"Home\"...\
-            \ \nKstati on tebe mojet daje i ponravitsja... Takoi country milii..."
+          text: "Oni vse tri tut est... Kakoi nibud is nih vozmu... A to ja tut razorus na kompaktah :))))))\n\nEsche vsjal\n\
+            Talkng Heads - 77, Lou Reed - \"Transformer\" 10 CC The Best, Johnny Cash \"The Best\" mestnogo rozliva... \n\n\
+            Nu i ne uderjalsja i kupil Dixie Chicks :)))) al'bom \"Home\"... \nKstati on tebe mojet daje i ponravitsja...\
+            \ Takoi country milii..."
           replies:
           - id: 13558
             parent_id: 13554
@@ -100,12 +95,10 @@ posts:
             text: 'Slushau seichas "The Best" Johnny Casha...
 
 
-              I tam... tam est versija  "North Country far", ta samaja, kotoraja u
-              Roy Harper na "Valentine"... Ulet!!!!!!!
+              I tam... tam est versija  "North Country far", ta samaja, kotoraja u Roy Harper na "Valentine"... Ulet!!!!!!!
 
 
-              Jhonny ee poet vmeste s Bobom Dylanom... Kaif... Eto nechto... Versija
-              Harpera IMHO gorazdo slabee....'
+              Jhonny ee poet vmeste s Bobom Dylanom... Kaif... Eto nechto... Versija Harpera IMHO gorazdo slabee....'
             replies:
             - id: 13564
               parent_id: 13558
@@ -115,6 +108,7 @@ posts:
               subject: Ты только щас узнал?
               deleted: false
               text: Это их знаменитый дуэт с Nashville Skyline.
+              person_id: 335
           - id: 13563
             parent_id: 13554
             date: 2003-08-11 22:48
@@ -154,8 +148,7 @@ posts:
                   http://www.vinilcenter.hu/1/wi.html
 
 
-                  Tut chto-to tipa cataloga... Esli chto-to zainteresuet napishi zdes...
-                  A ja na razvedku tuda poehal :))))))))'
+                  Tut chto-to tipa cataloga... Esli chto-to zainteresuet napishi zdes... A ja na razvedku tuda poehal :))))))))'
               - id: 13577
                 parent_id: 13574
                 date: 2003-08-12 17:53
@@ -186,8 +179,7 @@ posts:
                   email: aaaaaaaaaaaa
                   subject: Poprobuu...
                   deleted: false
-                  text: "Zavtra tuda shozu... Segodnja tam zakrito bilo... \n\no resultatah\
-                    \ soobschu..."
+                  text: "Zavtra tuda shozu... Segodnja tam zakrito bilo... \n\no resultatah soobschu..."
                   replies:
                   - id: 13583
                     parent_id: 13579
@@ -212,8 +204,7 @@ posts:
             deleted: false
             text: 'Что значит не удержался?!....Молодец!
 
-              Мне только что принесли этот "A HOME"...сижу слушаю. Не самый удачный,
-              на мой взгляд альбом, но всё равно приятный!'
+              Мне только что принесли этот "A HOME"...сижу слушаю. Не самый удачный, на мой взгляд альбом, но всё равно приятный!'
             replies:
             - id: 13576
               parent_id: 13572
@@ -222,9 +213,8 @@ posts:
               email: aaaaaaaaaaaa
               subject: Voobsche DA....
               deleted: false
-              text: On proigrivaet "Wide open Spaces"... "Home" bolee country chem
-                WIDE...Hotja pervie 3 veschi ochen horoshi... I instrumentalka vrode
-                nichego :)
+              text: On proigrivaet "Wide open Spaces"... "Home" bolee country chem WIDE...Hotja pervie 3 veschi ochen horoshi...
+                I instrumentalka vrode nichego :)
           - id: 13573
             parent_id: 13554
             date: 2003-08-12 12:07
@@ -234,5 +224,5 @@ posts:
             deleted: false
             text: 'Что значит не удержался?!....Молодец!
 
-              Мне только что принесли этот "A HOME"...сижу слушаю. Не самый удачный,
-              на мой взгляд альбом, но всё равно приятный!'
+              Мне только что принесли этот "A HOME"...сижу слушаю. Не самый удачный, на мой взгляд альбом, но всё равно приятный!'
+  person_id: 783

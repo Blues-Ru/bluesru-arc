@@ -19,8 +19,8 @@ posts:
     poster: myshelove
     subject: Выйти-то он вяшел,...
     deleted: false
-    text: Но в незавершённом виде.  Там, насколько помню, только часть первая, Blind
-      Willie Johnson, и всё.
+    text: Но в незавершённом виде.  Там, насколько помню, только часть первая, Blind Willie Johnson, и всё.
+    person_id: 9227
   - id: 39511
     parent_id: 39506
     date: 2018-04-25 16:58
@@ -28,6 +28,7 @@ posts:
     subject: Спасибо!!!  А где...
     deleted: false
     text: А где прикупить то можно.
+    person_id: 7512
   - id: 39512
     parent_id: 39506
     date: 2018-04-27 21:46
@@ -42,8 +43,10 @@ posts:
       poster: Сергей
       subject: О своем боди
       deleted: false
-      text: Нужно регулярно ходить на боди массаж https://massagistki.kiev.ua/body-massage-kiev
-        и тогда и с телом будет все в порядке и со зрением
+      text: Нужно регулярно ходить на боди массаж https://massagistki.kiev.ua/body-massage-kiev и тогда и с телом будет все
+        в порядке и со зрением
+      person_id: 9273
+    person_id: 9227
   - id: 39517
     parent_id: 39506
     date: 2018-04-29 06:05
@@ -51,6 +54,7 @@ posts:
     subject: Ох уж этот электронный вид.
     deleted: false
     text: Мне б в бумажном. На полке стоят красуются предыдущие.
+    person_id: 7512
   - id: 39544
     parent_id: 39506
     date: 2018-12-23 20:42
@@ -58,3 +62,5 @@ posts:
     subject: Мда
     deleted: false
     text: http://www.pricechina.ru/brand/100/oneplus
+    person_id: 9268
+  person_id: 7512

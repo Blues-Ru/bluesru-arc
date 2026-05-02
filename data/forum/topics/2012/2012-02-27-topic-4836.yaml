@@ -19,6 +19,7 @@ posts:
     poster: Andrei V. Evdokimov
     subject: круть! мне клип очень понравился. (-)
     deleted: false
+    person_id: 4
   - id: 38292
     parent_id: 38286
     date: 2012-03-01 10:18
@@ -34,6 +35,8 @@ posts:
       subject: что такое клип - каждый понимает по своему
       deleted: false
       text: Ну, так примерно дети теперь пишут в школьных сочинениях )))
+      person_id: 4
+    person_id: 8105
   - id: 38293
     parent_id: 38286
     date: 2012-03-01 12:53
@@ -41,6 +44,7 @@ posts:
     subject: И мне понравился
     deleted: false
     text: Напоминает прежние времена и людей
+    person_id: 458
   - id: 38295
     parent_id: 38286
     date: 2012-03-01 14:43
@@ -48,3 +52,5 @@ posts:
     subject: давно это было
     deleted: false
     text: http://www.youtube.com/watch?v=pXAWuVPhJkY&list=UU8ZO7svuG5NhI_dLgB3LdgA&index=1&feature=plcp
+    person_id: 8105
+  person_id: 8105

@@ -12,11 +12,9 @@ posts:
   email: chifuroff <sobaka> inbox.ru
   subject: Для любителей "потяжелее" и "попроще"
   deleted: false
-  text: 'Ингви Мальмстин играет блюз! Это вам не какие-нибудь джаззи-соул-пианинные
-    завывания- это настоящий блюз!
+  text: 'Ингви Мальмстин играет блюз! Это вам не какие-нибудь джаззи-соул-пианинные завывания- это настоящий блюз!
 
-    <a href="http://www.youtube.com/watch?v=gWm12pE8gfs">I''m a new God! I''m fastest
-    in the world</a>'
+    <a href="http://www.youtube.com/watch?v=gWm12pE8gfs">I''m a new God! I''m fastest in the world</a>'
   replies:
   - id: 34761
     parent_id: 34760
@@ -25,3 +23,4 @@ posts:
     email: dr.nick@blues.ru
     subject: я знал, что ты зафанатеешь
     deleted: false
+    person_id: 335

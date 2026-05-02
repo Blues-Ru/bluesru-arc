@@ -21,11 +21,9 @@ posts:
     email: morehemp@mail.ru
     subject: Дим, не расстраивайся, часть
     deleted: false
-    text: "людей разъехалась - лето всё-таки. Часть имеет компьютер только на работе,\
-      \ а часть, по их же собственным признаниям, любит больше говорить о жизни, чем\
-      \ о музыке :) \nУ меня же наоборот нет интернета на работе, и не только у меня.\
-      \ На первом этаже есть, правда, cafe max..\nВедь есть ещё два форума, как минимум,\
-      \ для разговоров :)"
+    text: "людей разъехалась - лето всё-таки. Часть имеет компьютер только на работе, а часть, по их же собственным признаниям,\
+      \ любит больше говорить о жизни, чем о музыке :) \nУ меня же наоборот нет интернета на работе, и не только у меня. На\
+      \ первом этаже есть, правда, cafe max..\nВедь есть ещё два форума, как минимум, для разговоров :)"
     replies:
     - id: 6869
       parent_id: 6852
@@ -34,12 +32,10 @@ posts:
       email: gypsy@mail.ru
       subject: Люблю поговорить о жизни!
       deleted: false
-      text: '"Часть, по их же собственным признаниям, любит больше говорить о жизни,
-        чем о музыке" - это я!!! это я!!!
+      text: '"Часть, по их же собственным признаниям, любит больше говорить о жизни, чем о музыке" - это я!!! это я!!!
 
-        Ну как я могу с Гретой или с Димой говорить о музыке? Задолбасят интеллектом
-        моментом... я уж лучше тихо так в углу пентатонику повожу...или попрошу Гилюту
-        новы'
+        Ну как я могу с Гретой или с Димой говорить о музыке? Задолбасят интеллектом моментом... я уж лучше тихо так в углу
+        пентатонику повожу...или попрошу Гилюту новы'
       replies:
       - id: 6870
         parent_id: 6869
@@ -66,8 +62,7 @@ posts:
             email: gypsy@mail.ru
             subject: Ой, не то слово..
             deleted: false
-            text: ..после второго стакана не то что новые аккорды, а иногда даже новые
-              тональности обнаруживаются!
+            text: ..после второго стакана не то что новые аккорды, а иногда даже новые тональности обнаруживаются!
             replies:
             - id: 6881
               parent_id: 6879
@@ -83,8 +78,7 @@ posts:
                 date: 2002-08-19 12:53
                 poster: Андрей Цыганков
                 email: gypsy@mail.ru
-                subject: Ты это... помоги лучше пацану Lightnin' Hopkinsa ободрать
-                  - см. постинг наверху
+                subject: Ты это... помоги лучше пацану Lightnin' Hopkinsa ободрать - см. постинг наверху
                 deleted: false
                 text: Ты ж у нас записной аККустик! )))
                 replies:
@@ -95,8 +89,7 @@ posts:
                   email: dr.nick@blues.ru
                   subject: Ты еще с тремя напиши ;)
                   deleted: false
-                  text: 'аКККустик; и негры сделают из твоей мошонки кисет для нюхательного
-                    табака ;)
+                  text: 'аКККустик; и негры сделают из твоей мошонки кисет для нюхательного табака ;)
 
                     Я не совсем понимаю о каком именно лике он говорит.'
                   replies:
@@ -105,9 +98,9 @@ posts:
                     date: 2002-08-19 13:21
                     poster: Андрей Цыганков
                     email: gypsy@mail.ru
-                    subject: Я скачал все три блюза, которые он указал, там куча ликов,
-                      и все клёвые...
+                    subject: Я скачал все три блюза, которые он указал, там куча ликов, и все клёвые...
                     deleted: false
+                  person_id: 335
                 - id: 6944
                   parent_id: 6885
                   date: 2002-08-20 11:47
@@ -116,6 +109,8 @@ posts:
                   subject: Ага. Пацану, говоришь?;-)
                   deleted: false
                   text: Еще б сказал "перчику", хе-хе.
+              person_id: 335
+          person_id: 335
       - id: 6924
         parent_id: 6869
         date: 2002-08-20 00:58
@@ -131,18 +126,16 @@ posts:
       email: heavyfuel@mtu-net.ru
       subject: Действительно....
       deleted: false
-      text: 'Наступит осень, потом зима...все будут сидеть дома или на работе и с
-        удовольствием обсуждать чью-нибудь пластинку или концерт... А сейчас кто на
-        рыбалке, кто на море...
+      text: 'Наступит осень, потом зима...все будут сидеть дома или на работе и с удовольствием обсуждать чью-нибудь пластинку
+        или концерт... А сейчас кто на рыбалке, кто на море...
 
         А пока обходимся разговорами о жизни...
 
 
-        Кстати купил альбом Тома Waits''a - Blood Money, такой страшной и параноидальной
-        музыки я давно не слышал, ах мороз по Коже...
+        Кстати купил альбом Тома Waits''a - Blood Money, такой страшной и параноидальной музыки я давно не слышал, ах мороз
+        по Коже...
 
-        А голос, мАмА мия, просто как будто за тобой Дъявол пришел и зачитывает тебе
-        обвинительный приговор...'
+        А голос, мАмА мия, просто как будто за тобой Дъявол пришел и зачитывает тебе обвинительный приговор...'
       replies:
       - id: 6923
         parent_id: 6902
@@ -151,10 +144,9 @@ posts:
         email: morehemp@mail.ru
         subject: Если это
         deleted: false
-        text: первый и единственный Waits для тебя, то начало сильное :)) Теперь в
-          качестве успокоительного рекомендуется купить какой-нить Blue Valentine
-          или аналогичный ему по свойствам успокоения :) сборник Used Songs. Там вещи
-          с пластинок, выходивших на Электре. Все это есть здесь.
+        text: первый и единственный Waits для тебя, то начало сильное :)) Теперь в качестве успокоительного рекомендуется
+          купить какой-нить Blue Valentine или аналогичный ему по свойствам успокоения :) сборник Used Songs. Там вещи с пластинок,
+          выходивших на Электре. Все это есть здесь.
         replies:
         - id: 6954
           parent_id: 6923
@@ -163,8 +155,8 @@ posts:
           email: heavyfuel@mtu-net.ru
           subject: Net eto ne pervii...
           deleted: false
-          text: Do etogo, ja goda dva nazad kupil "Closing time", no tam vse bilo
-            ochen milo i tiho, a etu plastinku mne Zvzdin posovetoval...
+          text: Do etogo, ja goda dva nazad kupil "Closing time", no tam vse bilo ochen milo i tiho, a etu plastinku mne Zvzdin
+            posovetoval...
           replies:
           - id: 6958
             parent_id: 6954
@@ -193,6 +185,7 @@ posts:
                 text: 'on deistvitel''no klevii i ochen lichny, kak mne pokazalos''...
 
                   Takoi spokoini bez strannogo reva i proch...'
+              person_id: 783
             - id: 6972
               parent_id: 6958
               date: 2002-08-20 17:18
@@ -214,6 +207,7 @@ posts:
                 subject: Это мое мнение
                 deleted: false
                 text: Хотя я люблю и другие альбомы, хотя далеко не все.
+                person_id: 335
             - id: 6981
               parent_id: 6958
               date: 2002-08-20 18:05
@@ -236,8 +230,8 @@ posts:
                 email: dr.nick@blues.ru
                 subject: S&G
                 deleted: false
-                text: я очень люблю. У них всего пять альбомов и отличный концертник
-                  "In The Park". "America" - одна из лучших вещей Саймона.
+                text: я очень люблю. У них всего пять альбомов и отличный концертник "In The Park". "America" - одна из лучших
+                  вещей Саймона.
                 replies:
                 - id: 7033
                   parent_id: 6992
@@ -257,8 +251,7 @@ posts:
                     email: heavyfuel@mtu-net.ru
                     subject: Dima, a mojet znaesh kto takaja....
                     deleted: false
-                    text: 'Patti Smith, tut proso vezde lezit ee dvoinoi albom "Land",
-                      pri proslushivanii och. daze nichego...
+                    text: 'Patti Smith, tut proso vezde lezit ee dvoinoi albom "Land", pri proslushivanii och. daze nichego...
 
                       No hotelos] bi po podrobnee o nei samo, kto, otkuda...'
                     replies:
@@ -269,12 +262,11 @@ posts:
                       email: dr.nick@blues.ru
                       subject: Пэтти Смит
                       deleted: false
-                      text: 'это родоначальница американского панк-рока. Культовая
-                        баба не без таланта, но мне не нравится.
+                      text: 'это родоначальница американского панк-рока. Культовая баба не без таланта, но мне не нравится.
 
 
-                        А я вот сегодня был у Паши и купил на виниле самый первый
-                        С и Г ;) Теперь у меня есть все альбомы Саймона ;)'
+                        А я вот сегодня был у Паши и купил на виниле самый первый С и Г ;) Теперь у меня есть все альбомы
+                        Саймона ;)'
                       replies:
                       - id: 7052
                         parent_id: 7048
@@ -283,8 +275,7 @@ posts:
                         email: peregnoy@mail.ru
                         subject: Хоть тебе и не нравится...
                         deleted: false
-                        text: Дим, а чего из Пэтти порекомендуешь послушать? Говорят,
-                          последний двойник стоит того...
+                        text: Дим, а чего из Пэтти порекомендуешь послушать? Говорят, последний двойник стоит того...
                         replies:
                         - id: 7054
                           parent_id: 7052
@@ -295,9 +286,8 @@ posts:
                           deleted: false
                           text: 'когда не люблю.
 
-                            С ранних надо начинать, естесственно. Horses 75, Easter
-                            78, Wave 79. Первый вроде как самый лучший, а Easter самый
-                            популярный. Отслушай сначала.
+                            С ранних надо начинать, естесственно. Horses 75, Easter 78, Wave 79. Первый вроде как самый лучший,
+                            а Easter самый популярный. Отслушай сначала.
 
                             А лучше купи Carly Simon "Tapestry" и отдыхай ;)'
                           replies:
@@ -309,6 +299,7 @@ posts:
                             subject: Грубейшая опечатка!
                             deleted: false
                             text: Carole King "Tapestry"!!! 1971
+                            person_id: 335
                         - id: 7067
                           parent_id: 7052
                           date: 2002-08-22 16:12
@@ -319,16 +310,13 @@ posts:
                           text: 'Ja kupil i poslushal...
 
 
-                            Tolko bol''no mnogo u nee vsjakih monologov po teme...
-                            Dlinee pesen :)
+                            Tolko bol''no mnogo u nee vsjakih monologov po teme... Dlinee pesen :)
 
 
-                            A na vtorom CD tam "rare songs" - TAK SEBE...ne ochen''
-                            v obschem
+                            A na vtorom CD tam "rare songs" - TAK SEBE...ne ochen'' v obschem
 
 
-                            Esli uz punk-rock - to luchshe The Ramones i Sex Pistols
-                            net nikogo...'
+                            Esli uz punk-rock - to luchshe The Ramones i Sex Pistols net nikogo...'
                           replies:
                           - id: 7079
                             parent_id: 7067
@@ -338,6 +326,8 @@ posts:
                             subject: Есть и получше
                             deleted: false
                             text: Ian Dury, Stranglers, например.
+                            person_id: 335
+                        person_id: 712
                     - id: 7049
                       parent_id: 7036
                       date: 2002-08-21 22:19
@@ -345,8 +335,7 @@ posts:
                       email: dr.nick@blues.ru
                       subject: Если хочешь баб
                       deleted: false
-                      text: то обрати внимание на Joni Mitchell, Carole King, Carly
-                        Simon, Janis Ian...
+                      text: то обрати внимание на Joni Mitchell, Carole King, Carly Simon, Janis Ian...
                       replies:
                       - id: 7069
                         parent_id: 7049
@@ -368,6 +357,9 @@ posts:
                           subject: У меня много разных баб
                           deleted: false
                           text: Могу и записать.
+                          person_id: 335
+                        person_id: 783
+                      person_id: 335
                   - id: 7038
                     parent_id: 7033
                     date: 2002-08-21 18:40
@@ -375,9 +367,13 @@ posts:
                     email: heavyfuel@mtu-net.ru
                     subject: Kstati....
                     deleted: false
-                    text: Song "America" ja uslishal na soundtrack'e k filmu "Almost
-                      Famous" (film ksati do sih por lublu, za normalnii sujet i dushevnoe
-                      soderjanie)
+                    text: Song "America" ja uslishal na soundtrack'e k filmu "Almost Famous" (film ksati do sih por lublu,
+                      za normalnii sujet i dushevnoe soderjanie)
+                    person_id: 783
+                  person_id: 783
+                person_id: 335
+            person_id: 335
+          person_id: 783
       - id: 6925
         parent_id: 6902
         date: 2002-08-20 01:12
@@ -385,10 +381,10 @@ posts:
         email: vad2908@mail.ru
         subject: Вот мне интересно стало...
         deleted: false
-        text: '...что бы, ты сказал, послушав группу итало-югославского розлива DEVIL
-          DOLL, если тебя Том так напугал? Мр.Доктор (таинственный лидер этой банды),
-          говорят, на виниле собственной кровью раписывался для преданных фэнов!!!
-          (см. www.gromko.ru и дальше по названию группы.)'
+        text: '...что бы, ты сказал, послушав группу итало-югославского розлива DEVIL DOLL, если тебя Том так напугал? Мр.Доктор
+          (таинственный лидер этой банды), говорят, на виниле собственной кровью раписывался для преданных фэнов!!! (см. www.gromko.ru
+          и дальше по названию группы.)'
+        person_id: 598
       - id: 6929
         parent_id: 6902
         date: 2002-08-20 03:57
@@ -427,6 +423,9 @@ posts:
 
 
                 Eto u vsjakih tam burjuev nado do 21 zdat''... :) :)'
+            person_id: 335
+          person_id: 783
+        person_id: 335
   - id: 6855
     parent_id: 6850
     date: 2002-08-18 22:19
@@ -463,11 +462,9 @@ posts:
           email: dr.nick@blues.ru
           subject: Кстати
           deleted: false
-          text: Я тут много чего напокупал. Пара пластинок из твоего периода. Ранний
-            Memphis Slim (39-40), Jelly Roll Morton - была выпущена в рубрике раннего
-            блюза! И там есть блюзы, я был удивлен. Записи 20-х и 30-х, но качество
-            изумительное, это было еще одной радостью. Как перееду на новую квартиру,
-            распакую винил и отпишу поподробнее.
+          text: Я тут много чего напокупал. Пара пластинок из твоего периода. Ранний Memphis Slim (39-40), Jelly Roll Morton
+            - была выпущена в рубрике раннего блюза! И там есть блюзы, я был удивлен. Записи 20-х и 30-х, но качество изумительное,
+            это было еще одной радостью. Как перееду на новую квартиру, распакую винил и отпишу поподробнее.
           replies:
           - id: 6892
             parent_id: 6875
@@ -476,12 +473,10 @@ posts:
             email: blackcat@blues.ru
             subject: ну я тоже...
             deleted: false
-            text: '... последнее время не дремлю: выписал исключительно-сетераспространяемый
-              концертник Кори Харриса, сборник редких записей сельского блюза 50-х
-              гг. (Документ), один том Пег Лег Хауэлла (Документ), сборник старого
-              мемфисского блюза во главе с Робертом Уилкинсом (Документ), купил сборник
-              мемфисских записей Хаулин Вулфа, Хералд сешнз Лайтнин Хопкинса... но
-              мы же всё равно друг друга слабо понимаем - у тебя винил; у меня СиДи...'
+            text: '... последнее время не дремлю: выписал исключительно-сетераспространяемый концертник Кори Харриса, сборник
+              редких записей сельского блюза 50-х гг. (Документ), один том Пег Лег Хауэлла (Документ), сборник старого мемфисского
+              блюза во главе с Робертом Уилкинсом (Документ), купил сборник мемфисских записей Хаулин Вулфа, Хералд сешнз
+              Лайтнин Хопкинса... но мы же всё равно друг друга слабо понимаем - у тебя винил; у меня СиДи...'
             replies:
             - id: 6897
               parent_id: 6892
@@ -511,6 +506,8 @@ posts:
                   subject: Приходится жить
                   deleted: false
                   text: и с винилом и с СиДи.
+                  person_id: 335
+                person_id: 6
             - id: 6934
               parent_id: 6892
               date: 2002-08-20 10:23
@@ -518,8 +515,7 @@ posts:
               email: skvoid@yahoo.com
               subject: а вот не хотите...
               deleted: false
-              text: 'Blind Boy Fuller "East Coast Piedmont Style" (Columbia, записи
-                35-го года, но звучат!!!)
+              text: 'Blind Boy Fuller "East Coast Piedmont Style" (Columbia, записи 35-го года, но звучат!!!)
 
                 Son House "Original Delta Blues" (ну это у всех есть :) )
 
@@ -531,8 +527,7 @@ posts:
 
                 Tampa Red "Guitar Wizard" (1934 год! Columbia)
 
-                Ну про старика Мадди в разных его проявлениях я уже и не говорю...
-                :)
+                Ну про старика Мадди в разных его проявлениях я уже и не говорю... :)
 
                 Вот такой блюз есть в Питере :)))))))))))))))'
               replies:
@@ -543,9 +538,8 @@ posts:
                 email: blackcat@blues.ru
                 subject: и хотим,...
                 deleted: false
-                text: '... и имеем многое из перечисленного. Однако "The Complete"!!!
-                  что у Ти-Боун Уокера, что у Элмора Джеймса должны быть солидными
-                  многотомными боксами - или пардон, я ошибся?'
+                text: '... и имеем многое из перечисленного. Однако "The Complete"!!! что у Ти-Боун Уокера, что у Элмора Джеймса
+                  должны быть солидными многотомными боксами - или пардон, я ошибся?'
                 replies:
                 - id: 6946
                   parent_id: 6939
@@ -554,12 +548,10 @@ posts:
                   email: skvoid@yahoo.com
                   subject: уточнения
                   deleted: false
-                  text: "Сорри, ввёл в заблуждение, не написав полностью наименования\
-                    \ - \nElmore James \"The Complete Fire & Enjoy Recordings\" -\
-                    \ это 3х дисковый бокс (вот здесь можно поглядеть - http://www.allmusic.com/cg/amg.dll?p=amg&sql=Anr508qtnbtb4\
-                    \ )\nЧто касается Уокера, то это \"Complete Capitol/Black & White\
-                    \ Recordings\" - шикарные записи, поместившиеся на 3 диска (http://www.allmusic.com/cg/amg.dll?p=amg&sql=Axnxuak3khm3l&uid=FTRALBUMS\
-                    \ )."
+                  text: "Сорри, ввёл в заблуждение, не написав полностью наименования - \nElmore James \"The Complete Fire\
+                    \ & Enjoy Recordings\" - это 3х дисковый бокс (вот здесь можно поглядеть - http://www.allmusic.com/cg/amg.dll?p=amg&sql=Anr508qtnbtb4\
+                    \ )\nЧто касается Уокера, то это \"Complete Capitol/Black & White Recordings\" - шикарные записи, поместившиеся\
+                    \ на 3 диска (http://www.allmusic.com/cg/amg.dll?p=amg&sql=Axnxuak3khm3l&uid=FTRALBUMS )."
                   replies:
                   - id: 6963
                     parent_id: 6946
@@ -568,8 +560,16 @@ posts:
                     email: blackcat@blues.ru
                     subject: О.К.
                     deleted: false
-                    text: Ти Боун Уокер должен быть знатный. А вообще комплиты - дело
-                      такое... поосторожнее надо с этим делом. ;))
+                    text: Ти Боун Уокер должен быть знатный. А вообще комплиты - дело такое... поосторожнее надо с этим делом.
+                      ;))
+                    person_id: 6
+                person_id: 6
+              person_id: 26
+            person_id: 6
+          person_id: 335
+        person_id: 6
+      person_id: 335
+    person_id: 6
   - id: 6867
     parent_id: 6850
     date: 2002-08-19 11:47
@@ -577,8 +577,7 @@ posts:
     email: gypsy@mail.ru
     subject: '"Что делать" и "Кто виноват" - два извечных русских вопроса.'
     deleted: false
-    text: "Дима, а ты русский? \nЧому ж ти москальскою мовою не розмовляеш, а розмовляеш\
-      \ якойсь неметчиною?"
+    text: "Дима, а ты русский? \nЧому ж ти москальскою мовою не розмовляеш, а розмовляеш якойсь неметчиною?"
     replies:
     - id: 6874
       parent_id: 6867
@@ -596,8 +595,7 @@ posts:
         email: gypsy@mail.ru
         subject: Немец? А я-то думал...
         deleted: false
-        text: '..что после десяти лет практики все блюзовые музыканты становятся кто
-          негром, а кто евреем..
+        text: '..что после десяти лет практики все блюзовые музыканты становятся кто негром, а кто евреем..
 
           Это ты, наверное, Баха много слушал.'
         replies:
@@ -609,3 +607,6 @@ posts:
           subject: Полукровочка я
           deleted: false
           text: отец - еврей, а мать - жидовочка ;)))
+          person_id: 335
+      person_id: 335
+  person_id: 335

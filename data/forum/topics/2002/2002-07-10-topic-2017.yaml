@@ -12,8 +12,8 @@ posts:
   email: Mrg_mike@rambler.ru
   subject: To Fedor
   deleted: false
-  text: Уже который раз прошу, а видимо этот д%№%+%ый Интернет не доносит, либо тебе
-    некогда. Так вот, я сменил ящик , ф как мне его сменить в регестрации?
+  text: Уже который раз прошу, а видимо этот д%№%+%ый Интернет не доносит, либо тебе некогда. Так вот, я сменил ящик , ф как
+    мне его сменить в регестрации?
   replies:
   - id: 5986
     parent_id: 5982
@@ -38,8 +38,7 @@ posts:
       email: fedor@blues.ru
       subject: Точно!
       deleted: false
-      text: Я хотел тебя поймать на том, что адрес-то менять нельзя, но только что
-        вспомнил, что я это уже исправил. ;)
+      text: Я хотел тебя поймать на том, что адрес-то менять нельзя, но только что вспомнил, что я это уже исправил. ;)
       replies:
       - id: 5990
         parent_id: 5987
@@ -48,6 +47,7 @@ posts:
         email: Mrg_mike@rambler.ru
         subject: Thanks a lot
         deleted: false
+        person_id: 687
       - id: 5992
         parent_id: 5987
         date: 2002-07-11 09:28
@@ -56,3 +56,6 @@ posts:
         subject: Э...
         deleted: false
         text: А как это сделать?
+        person_id: 687
+      person_id: 2
+  person_id: 687

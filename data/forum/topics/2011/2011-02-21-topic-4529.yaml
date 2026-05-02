@@ -11,9 +11,8 @@ posts:
   poster: Andrei V. Evdokimov
   subject: Чур не падать!
   deleted: false
-  text: 'Гран-при IV краевого конкурса-фестиваля патриотической песни присуждено вокальному
-    ансамблю "Блюз Блайнд" Северо-Восточного пограничного управления береговой охраны
-    ФСБ России.
+  text: 'Гран-при IV краевого конкурса-фестиваля патриотической песни присуждено вокальному ансамблю "Блюз Блайнд" Северо-Восточного
+    пограничного управления береговой охраны ФСБ России.
 
 
     http://severdv.ru/news/show/?id=48046'
@@ -35,8 +34,7 @@ posts:
       poster: Старый Майор
       subject: Блайнд Бойз оф ФСБама
       deleted: false
-      text: <img src=http://static.blogcritics.org/09/10/28/117445/Ben-Harper-and-The-Blind-Boys-of-Alabama-.jpg
-        width=250>
+      text: <img src=http://static.blogcritics.org/09/10/28/117445/Ben-Harper-and-The-Blind-Boys-of-Alabama-.jpg width=250>
       replies:
       - id: 37349
         parent_id: 37342
@@ -51,5 +49,7 @@ posts:
           poster: Старый Майор
           subject: Дык.. нетути...
           deleted: false
-          text: Чо-то проглючило у Фёдора в парсере встраиваемого кода.. или я параметр
-            без кавычек поставил по старой привычке...
+          text: Чо-то проглючило у Фёдора в парсере встраиваемого кода.. или я параметр без кавычек поставил по старой привычке...
+          person_id: 13
+        person_id: 4
+      person_id: 13

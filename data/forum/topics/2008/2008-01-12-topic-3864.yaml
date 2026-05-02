@@ -12,8 +12,8 @@ posts:
   email: wholetsadogsout@mail.ru
   subject: who-is-hoochie-coochie-man?
   deleted: false
-  text: who is hoochie coochie man? Это танец такой? http://www.logoi.com/notes/who-is-hoochie-coochie-man.html
-    Или неперсонализированный образ? Спасибо!
+  text: who is hoochie coochie man? Это танец такой? http://www.logoi.com/notes/who-is-hoochie-coochie-man.html Или неперсонализированный
+    образ? Спасибо!
   replies:
   - id: 34295
     parent_id: 34294
@@ -39,8 +39,8 @@ posts:
       email: wbsbwjh
       subject: век живи- век учис.
       deleted: false
-      text: C C rider -(также "Easy rider" или "See see rider") - 1) гитара, висящая
-        за спиной путешествующего блюзмена
+      text: C C rider -(также "Easy rider" или "See see rider") - 1) гитара, висящая за спиной путешествующего блюзмена
+    person_id: 2
   - id: 34311
     parent_id: 34294
     date: 2008-01-15 08:02
@@ -48,5 +48,5 @@ posts:
     email: mlives_6@hotmail.com
     subject: страно
     deleted: false
-    text: "Статья про историю танец \"Hoochie Coochie\" - очень итнересная, но удивительно\
-      \ наивная на тему его переносного значения в бюзе. \n\nMuddy"
+    text: "Статья про историю танец \"Hoochie Coochie\" - очень итнересная, но удивительно наивная на тему его переносного\
+      \ значения в бюзе. \n\nMuddy"

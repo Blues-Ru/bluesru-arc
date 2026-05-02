@@ -20,15 +20,12 @@ posts:
     email: '***'
     subject: '...причем играл УМОПОМРАЧИТЕЛЬНО!'
     deleted: false
-    text: "Это был один из лучших концертов, которые я видел.\nКоманда - выше всяких\
-      \ похвал. Более 2 часов на одном дыхании.\nВидео есть здесь...\n\nSantana in\
-      \ Moscow. Soul Sacrifice.21-12-07 \nhttp://ru.youtube.com/watch?v=OAYedJaNlpo\
-      \ \n\nSantana in Moscow.Samba Pa Ti.21-12-2007 \nhttp://ru.youtube.com/watch?v=fcOYxUdZqvo\
-      \ \n\nSantana in Moscow. After the Dance. 21-12-07 \nhttp://ru.youtube.com/watch?v=HZrmywvb6QE\
-      \ \n\nSantana in Moscow.Black Magic Woman/3rd stone from the Sun \nhttp://ru.youtube.com/watch?v=1CfpOTQPWso\
-      \ \n\nSantana in Moscow.Oye Como Va (Sunshine Of Your Love) \nhttp://ru.youtube.com/watch?v=vSFHMWwUg_I\
-      \ \n\nsantana in moscow 21-12-07 Into the Night (Encore with Carlos' speech)\
-      \ \nhttp://ru.youtube.com/watch?v=9ruf2P-2AEI&NR=1"
+    text: "Это был один из лучших концертов, которые я видел.\nКоманда - выше всяких похвал. Более 2 часов на одном дыхании.\n\
+      Видео есть здесь...\n\nSantana in Moscow. Soul Sacrifice.21-12-07 \nhttp://ru.youtube.com/watch?v=OAYedJaNlpo \n\nSantana\
+      \ in Moscow.Samba Pa Ti.21-12-2007 \nhttp://ru.youtube.com/watch?v=fcOYxUdZqvo \n\nSantana in Moscow. After the Dance.\
+      \ 21-12-07 \nhttp://ru.youtube.com/watch?v=HZrmywvb6QE \n\nSantana in Moscow.Black Magic Woman/3rd stone from the Sun\
+      \ \nhttp://ru.youtube.com/watch?v=1CfpOTQPWso \n\nSantana in Moscow.Oye Como Va (Sunshine Of Your Love) \nhttp://ru.youtube.com/watch?v=vSFHMWwUg_I\
+      \ \n\nsantana in moscow 21-12-07 Into the Night (Encore with Carlos' speech) \nhttp://ru.youtube.com/watch?v=9ruf2P-2AEI&NR=1"
     replies:
     - id: 34170
       parent_id: 34169
@@ -47,6 +44,7 @@ posts:
         subject: '...дык, вроде интернет един для всех ;)))'
         deleted: false
         text: http://www.carlos-santana.ru
+      person_id: 2
     - id: 34180
       parent_id: 34169
       date: 2007-12-24 17:58
@@ -77,3 +75,4 @@ posts:
           text: '..что это рядом с той камерой, на которую это снимали, народ орал..
 
             Я-то думал что это так на сцене поют )))'
+  person_id: 2824

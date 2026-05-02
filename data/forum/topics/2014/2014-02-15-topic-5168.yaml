@@ -11,8 +11,7 @@ posts:
   poster: Andrei V. Evdokimov
   subject: Carolina Chocolate Drops - небольшой концерт в дивном антураже
   deleted: false
-  text: <iframe width="560" height="315" src="//www.youtube.com/embed/EmPf1CJaF5s"
-    frameborder="0" allowfullscreen></iframe>
+  text: <iframe width="560" height="315" src="//www.youtube.com/embed/EmPf1CJaF5s" frameborder="0" allowfullscreen></iframe>
   replies:
   - id: 39177
     parent_id: 39176
@@ -21,3 +20,5 @@ posts:
     subject: '...'
     deleted: false
     text: Шикарно, спасибо!
+    person_id: 7879
+  person_id: 4

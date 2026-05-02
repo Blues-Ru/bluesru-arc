@@ -12,9 +12,8 @@ posts:
   email: sunny_city@mail.ru
   subject: Кушаю водочку,слушаю
   deleted: false
-  text: Robben Ford-a(RF),получаю дюжее удовольствие.Того и ВАМ,други мои,желаю. Конкретнее
-    "Blue Moon",Tiger Walk,RF&The Blue Line,Joe Diorio&RF.Последнее джазовое супер.Мне
-    нравится.
+  text: Robben Ford-a(RF),получаю дюжее удовольствие.Того и ВАМ,други мои,желаю. Конкретнее "Blue Moon",Tiger Walk,RF&The
+    Blue Line,Joe Diorio&RF.Последнее джазовое супер.Мне нравится.
   replies:
   - id: 11147
     parent_id: 11146
@@ -32,8 +31,7 @@ posts:
       email: sunny_city@mail.ru
       subject: Андрюш, все сторго по договоренности :))))
       deleted: false
-      text: Предоставлю в лучем виде.Только за болванками надо в поход сходить,а то
-        ну совсем поизносился.
+      text: Предоставлю в лучем виде.Только за болванками надо в поход сходить,а то ну совсем поизносился.
       replies:
       - id: 11153
         parent_id: 11151
@@ -68,3 +66,10 @@ posts:
               email: aaa@genebee.msu.su
               subject: Ну и Флагман вам в руки, ребята!
               deleted: false
+              person_id: 458
+            person_id: 956
+          person_id: 956
+        person_id: 712
+      person_id: 956
+    person_id: 712
+  person_id: 956

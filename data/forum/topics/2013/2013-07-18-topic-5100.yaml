@@ -1,7 +1,6 @@
 topic_id: 5100
 slug: topic-5100
-title: Ночная блюз-кинотека... Mance Lipscomb и Lightnin' Hopkins с рассказом Таджа
-  Махала!
+title: Ночная блюз-кинотека... Mance Lipscomb и Lightnin' Hopkins с рассказом Таджа Махала!
 first_post: 2013-07-18 01:13
 last_post: 2013-07-19 16:31
 post_count: 2
@@ -10,11 +9,9 @@ posts:
   parent_id: null
   date: 2013-07-18 01:13
   poster: Andrei V. Evdokimov
-  subject: Ночная блюз-кинотека... Mance Lipscomb и Lightnin' Hopkins с рассказом
-    Таджа Махала!
+  subject: Ночная блюз-кинотека... Mance Lipscomb и Lightnin' Hopkins с рассказом Таджа Махала!
   deleted: false
-  text: <iframe width="420" height="315" src="//www.youtube.com/embed/FxsioMvimMU"
-    frameborder="0" allowfullscreen></iframe>
+  text: <iframe width="420" height="315" src="//www.youtube.com/embed/FxsioMvimMU" frameborder="0" allowfullscreen></iframe>
   replies:
   - id: 39041
     parent_id: 39038
@@ -26,3 +23,4 @@ posts:
 
 
       Это лучше, чем ловля Навального в мутной воде, однозначно!'
+  person_id: 4

@@ -11,8 +11,7 @@ posts:
   poster: Vlady
   subject: Kenny Wayne Shepherd
   deleted: false
-  text: Привет форумчанам! Упорно и долго не могу найти в сети Kenny Wayne Shepherd
-    в видеоформате.Может, кто даст ссылочку?
+  text: Привет форумчанам! Упорно и долго не могу найти в сети Kenny Wayne Shepherd в видеоформате.Может, кто даст ссылочку?
   replies:
   - id: 36770
     parent_id: 36769
@@ -27,3 +26,4 @@ posts:
 
 
       http://torrents.ru/forum/viewtopic.php?t=483139'
+  person_id: 7327

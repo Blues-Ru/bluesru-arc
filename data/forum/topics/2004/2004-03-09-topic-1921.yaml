@@ -35,6 +35,8 @@ posts:
       subject: да никого я не знаю
       deleted: false
       text: Спасибо за ссылку!
+      person_id: 335
+    person_id: 1753
   - id: 17555
     parent_id: 17550
     date: 2004-03-09 12:59
@@ -43,6 +45,7 @@ posts:
     subject: Присоединяюсь к рекомендации
     deleted: false
     text: Николай Гусев --- действительно хороший мастер по акустикам...
+    person_id: 658
   - id: 17590
     parent_id: 17550
     date: 2004-03-15 00:46

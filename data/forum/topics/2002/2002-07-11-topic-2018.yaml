@@ -12,8 +12,8 @@ posts:
   email: lifebythedrop@yandex.ru
   subject: Johnson
   deleted: false
-  text: 'Скажите, а тот Sweet home Chicago, что у Роберта Джонсона, это тоже, что
-    и Братья Блюз исполняли (зарание извиняюсь: Джонсона я слышал мало)'
+  text: 'Скажите, а тот Sweet home Chicago, что у Роберта Джонсона, это тоже, что и Братья Блюз исполняли (зарание извиняюсь:
+    Джонсона я слышал мало)'
   replies:
   - id: 5994
     parent_id: 5993
@@ -32,6 +32,7 @@ posts:
       subject: Djn rk`dj
       deleted: false
       text: 'Яхотел сказать: вот клёво'
+      person_id: 687
     - id: 5997
       parent_id: 5994
       date: 2002-07-11 10:35
@@ -39,8 +40,8 @@ posts:
       email: evergreens@mail.ru
       subject: Но...
       deleted: false
-      text: '...на диске Blues Brothers the Original Soundtrack Recording фамилии
-        Johnson не значится, а указано: Words & Music by Woody Payne.'
+      text: '...на диске Blues Brothers the Original Soundtrack Recording фамилии Johnson не значится, а указано: Words &
+        Music by Woody Payne.'
       replies:
       - id: 6002
         parent_id: 5997
@@ -49,6 +50,8 @@ posts:
         email: dr.nick@blues.ru
         subject: Это так
         deleted: false
-        text: Но мы-то знаем где собака порылась. Опять же вспоминается история с
-          Цеппелинами и изменениями авторства и названия вещей на раздых изданиях
-          ранних пластинок.
+        text: Но мы-то знаем где собака порылась. Опять же вспоминается история с Цеппелинами и изменениями авторства и названия
+          вещей на раздых изданиях ранних пластинок.
+        person_id: 335
+    person_id: 335
+  person_id: 687

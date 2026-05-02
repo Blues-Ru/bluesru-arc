@@ -12,11 +12,10 @@ posts:
   email: fedor@blues.ru
   subject: А в этом время.... Moulin Blues Festival
   deleted: false
-  text: "А вот нам есть, чем похвастаться. Завтра утром летим с Димой в Голландию\
-    \ в город Ospel на Moulin Blues Festival. Послушаем несколько классных музыкантов,\
-    \ попьем пива, пообщаемся со знаменитостями ;) Я прям сам себе завидую! А ведь\
-    \ на нашем месте могли быть и вы! ;) \n\nВ своем блоге я уже расписывал участвующих\
-    \ музыкантов\n<a href=\"http://blues.ru/blog/fedor/posts/335.aspx\">http://blues.ru/blog/fedor/posts/335.aspx</a>"
+  text: "А вот нам есть, чем похвастаться. Завтра утром летим с Димой в Голландию в город Ospel на Moulin Blues Festival.\
+    \ Послушаем несколько классных музыкантов, попьем пива, пообщаемся со знаменитостями ;) Я прям сам себе завидую! А ведь\
+    \ на нашем месте могли быть и вы! ;) \n\nВ своем блоге я уже расписывал участвующих музыкантов\n<a href=\"http://blues.ru/blog/fedor/posts/335.aspx\"\
+    >http://blues.ru/blog/fedor/posts/335.aspx</a>"
   replies:
   - id: 18358
     parent_id: 18354
@@ -26,6 +25,7 @@ posts:
     subject: бабла на все не хватает!!
     deleted: false
     text: :)
+    person_id: 5
   - id: 18377
     parent_id: 18354
     date: 2004-05-07 21:53
@@ -34,3 +34,5 @@ posts:
     subject: Думаю...
     deleted: false
     text: Если сесть и подумать ,то всегда можно найти более дешёвую альтернативу...
+    person_id: 1755
+  person_id: 2

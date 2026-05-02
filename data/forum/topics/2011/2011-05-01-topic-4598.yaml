@@ -11,9 +11,8 @@ posts:
   poster: Andrei V. Evdokimov
   subject: правильные фотки
   deleted: false
-  text: 'не ведаю, что такое special section and video presentation on the blues,
-    но некая Karen Pulfer Focht собрала комплект отличных блюзовых фотографий, старинных
-    и современных. К примеру, "Отец блюза" дует в свою дуду: http://www.commercialappeal.com/photos/galleries/memphis-home-of-blues/37602/#section_header'
+  text: 'не ведаю, что такое special section and video presentation on the blues, но некая Karen Pulfer Focht собрала комплект
+    отличных блюзовых фотографий, старинных и современных. К примеру, "Отец блюза" дует в свою дуду: http://www.commercialappeal.com/photos/galleries/memphis-home-of-blues/37602/#section_header'
   replies:
   - id: 37686
     parent_id: 37684
@@ -26,3 +25,4 @@ posts:
       http://media.commercialappeal.com/media/img/photos/2011/04/22/ROBERT_JOHNSON_t300.jpg
 
       Robert Johnson (left) with fellow musician Johnny Shines.'
+  person_id: 4

@@ -16,8 +16,7 @@ posts:
 
     <img src="http://ecx.images-amazon.com/images/I/41slF3R2nuL._SS500_.jpg">
 
-    Otis Taylor, Corey Harris, Keb Mo, Guy Davis  - это же сливки современного акустического
-    блюза и вообще нет слов!
+    Otis Taylor, Corey Harris, Keb Mo, Guy Davis  - это же сливки современного акустического блюза и вообще нет слов!
 
     <a href="http://www.allmusic.com/cg/amg.dll?p=amg&sql=10:hjfuxzlhldje">allmusic</a>
 
@@ -69,6 +68,7 @@ posts:
           email: wheel.k@gmail.com
           subject: как только он у меня появится, что-нибудь придумаю
           deleted: false
+          person_id: 3349
         - id: 34785
           parent_id: 34612
           date: 2008-02-22 17:12
@@ -78,8 +78,9 @@ posts:
           deleted: false
           text: 'Год так хорошо начался!
 
-            <a href="http://www.allmusic.com/cg/amg.dll?p=amg&sql=10:0vfixzuhldse"><img
-            src="http://image.allmusic.com/00/amg/cov200/drj200/j220/j22009vp28f.jpg"></a>'
+            <a href="http://www.allmusic.com/cg/amg.dll?p=amg&sql=10:0vfixzuhldse"><img src="http://image.allmusic.com/00/amg/cov200/drj200/j220/j22009vp28f.jpg"></a>'
+        person_id: 4
+      person_id: 3349
     - id: 34604
       parent_id: 34590
       date: 2008-02-09 16:53
@@ -88,3 +89,5 @@ posts:
       subject: тут шаффла не будет :)
       deleted: false
       text: и маршей тоже :)
+      person_id: 335
+    person_id: 4

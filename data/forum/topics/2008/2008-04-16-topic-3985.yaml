@@ -12,9 +12,8 @@ posts:
   email: fghfjhyg
   subject: Latimore-гений ))
   deleted: false
-  text: '"Блюз - это празднование преодоления человеком бедствий и несчастий, которые
-    могли и с вами приключиться. Нельзя махнуть рукой на свою жизнь. Вся идея состоит
-    в том, чтобы вершины были не слишком высоки, а дно не слишком глубоко."'
+  text: '"Блюз - это празднование преодоления человеком бедствий и несчастий, которые могли и с вами приключиться. Нельзя
+    махнуть рукой на свою жизнь. Вся идея состоит в том, чтобы вершины были не слишком высоки, а дно не слишком глубоко."'
   replies:
   - id: 35308
     parent_id: 35303
@@ -29,9 +28,8 @@ posts:
       Some people say the blues are too sad.
 
 
-      That’s not it at all. It’s a celebration or a triumph over adversity that you
-      may have had. You don’t give up on life. The idea is not to let the peaks get
-      too high and the bottoms too low.'
+      That’s not it at all. It’s a celebration or a triumph over adversity that you may have had. You don’t give up on life.
+      The idea is not to let the peaks get too high and the bottoms too low.'
     replies:
     - id: 35309
       parent_id: 35308
@@ -49,6 +47,8 @@ posts:
         email: evdokimov@blues.ru
         subject: ох... вряд ли... надо поправить (-)
         deleted: false
+        person_id: 4
+      person_id: 458
     - id: 35310
       parent_id: 35308
       date: 2008-04-16 13:17
@@ -56,8 +56,7 @@ posts:
       email: gypsy@mail.ru
       subject: Апологетика филистерства! ))))
       deleted: false
-      text: Как там у классиков было про "один раз нажраться мяса и лопнуть, чем всю
-        жизнь питаться дошираком"?
+      text: Как там у классиков было про "один раз нажраться мяса и лопнуть, чем всю жизнь питаться дошираком"?
       replies:
       - id: 35312
         parent_id: 35310
@@ -94,8 +93,7 @@ posts:
               email: gypsy@mail.ru
               subject: Высоко в горы вполз уж..
               deleted: false
-              text: 'Высоко в горы вполз Уж и лег там в сыром ущелье, свернувшись
-                в узел  и
+              text: 'Высоко в горы вполз Уж и лег там в сыром ущелье, свернувшись в узел  и
 
                 глядя в море...
 
@@ -122,8 +120,7 @@ posts:
                   email: gypsy@mail.ru
                   subject: Лёша, а что за форма "I rules" ?
                   deleted: false
-                  text: Это от неграмотности автора, или это форма третьего-лица-в-первом
-                    типа "моя управлять мой пещера"?
+                  text: Это от неграмотности автора, или это форма третьего-лица-в-первом типа "моя управлять мой пещера"?
                   replies:
                   - id: 35322
                     parent_id: 35320
@@ -132,11 +129,9 @@ posts:
                     email: aaa@genebee.msu.su
                     subject: Формы
                     deleted: false
-                    text: "Цитируется строчка по хари-блюзлирикс дословно. \nСтарый\
-                      \ Уж знает сам... Это черный английский. Там так можно. Если\
-                      \ отвечать совсем по существу, форма сия скорее не от неграмотности,\
-                      \ а от куража автора. Вот такие-де мы чёрные. And my рара done\
-                      \ told me too, как говорится."
+                    text: "Цитируется строчка по хари-блюзлирикс дословно. \nСтарый Уж знает сам... Это черный английский.\
+                      \ Там так можно. Если отвечать совсем по существу, форма сия скорее не от неграмотности, а от куража\
+                      \ автора. Вот такие-де мы чёрные. And my рара done told me too, как говорится."
                   - id: 35324
                     parent_id: 35320
                     date: 2008-04-17 06:13
@@ -144,8 +139,7 @@ posts:
                     email: mlives_6@hotmail.com
                     subject: Не понимаю
                     deleted: false
-                    text: "По-моему английская фраза очень грамотно и красиво сказана.\
-                      \  \n\nMuddy"
+                    text: "По-моему английская фраза очень грамотно и красиво сказана.  \n\nMuddy"
                     replies:
                     - id: 35325
                       parent_id: 35324
@@ -154,12 +148,9 @@ posts:
                       email: gypsy@mail.ru
                       subject: Дорогой Muddy...
                       deleted: false
-                      text: "..мы, русские, со школы приучены, что окончание глаголов\
-                        \ -s или -es соответствует глагольной форме третьего лица:\
-                        \ He rules his den, she rules her little thing and so on.\
-                        \ \nКогда мы встречаем форму \"I rules..\", мы в недоумении\
-                        \ - это неизвестная нам грамматическая норма или всё-таки\
-                        \ отклонение?"
+                      text: "..мы, русские, со школы приучены, что окончание глаголов -s или -es соответствует глагольной\
+                        \ форме третьего лица: He rules his den, she rules her little thing and so on. \nКогда мы встречаем\
+                        \ форму \"I rules..\", мы в недоумении - это неизвестная нам грамматическая норма или всё-таки отклонение?"
                       replies:
                       - id: 35326
                         parent_id: 35325
@@ -168,10 +159,9 @@ posts:
                         email: mlives_6@hotmail.com
                         subject: Извени
                         deleted: false
-                        text: "Не все читал, что надо было.  Я предпологал, что замечание\
-                          \ относится к фразе Latimore.  \n\nДа, Такой оборот довольно\
-                          \ часто встречался в негретянской речи.  Теперь меньше.\
-                          \  \n\nMuddy \n\nP.S.  I loves me some blues!"
+                        text: "Не все читал, что надо было.  Я предпологал, что замечание относится к фразе Latimore.  \n\n\
+                          Да, Такой оборот довольно часто встречался в негретянской речи.  Теперь меньше.  \n\nMuddy \n\n\
+                          P.S.  I loves me some blues!"
                         replies:
                         - id: 35327
                           parent_id: 35326
@@ -180,6 +170,7 @@ posts:
                           email: gypsy@mail.ru
                           subject: Old Mwamba do love blues too ))
                           deleted: false
+            person_id: 4
   - id: 35321
     parent_id: 35303
     date: 2008-04-16 16:51

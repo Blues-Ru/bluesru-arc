@@ -12,8 +12,7 @@ posts:
   email: mlives_6@hotmail
   subject: Muddy Waters
   deleted: false
-  text: 'Забудьте про Hoochie Coochie Man, Mannish Boy, и Got My Mojo Working. Вот
-    самый настоящий Muddy Waters:
+  text: 'Забудьте про Hoochie Coochie Man, Mannish Boy, и Got My Mojo Working. Вот самый настоящий Muddy Waters:
 
 
     http://www.youtube.com/watch?v=0wESfLjaZIg&eurl'
@@ -34,6 +33,7 @@ posts:
     subject: УГУ!
     deleted: false
     text: А кто бы сомневался?
+    person_id: 4764
   - id: 27424
     parent_id: 27291
     date: 2006-05-17 19:19
@@ -41,5 +41,4 @@ posts:
     email: rhythmeen1911@inbox.ru
     subject: типа
     deleted: false
-    text: ага. так сразу и забудьте. а электрик мад? а суперсупреблюзбэнд? или с вульфом
-      альбом? пис=)
+    text: ага. так сразу и забудьте. а электрик мад? а суперсупреблюзбэнд? или с вульфом альбом? пис=)

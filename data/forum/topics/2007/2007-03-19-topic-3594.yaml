@@ -12,8 +12,7 @@ posts:
   email: skrew2008@mail.ru
   subject: всем.всем.всем.
   deleted: false
-  text: если есть инфо по банде forever fabulos chickenhauks прошу-поделитесь.или
-    где скачать.skrew2008@mail.ru
+  text: если есть инфо по банде forever fabulos chickenhauks прошу-поделитесь.или где скачать.skrew2008@mail.ru
   replies:
   - id: 31808
     parent_id: 31751
@@ -35,5 +34,6 @@ posts:
     email: skrew2008@mail.ru
     subject: спасибо st.майору
     deleted: false
-    text: название да.не знаю кто вырос из них,но инфо очень мало.а послушать стоит.певца
-      звать Лютер КЕНТ.
+    text: название да.не знаю кто вырос из них,но инфо очень мало.а послушать стоит.певца звать Лютер КЕНТ.
+    person_id: 5357
+  person_id: 5357

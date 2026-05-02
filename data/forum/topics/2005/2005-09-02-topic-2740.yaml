@@ -31,6 +31,8 @@ posts:
       subject: да у нас он уже продается, мне сообщили :)
       deleted: false
       text: уже и в ПЛ есть.
+      person_id: 335
+    person_id: 1725
   - id: 22767
     parent_id: 22652
     date: 2005-09-06 17:08
@@ -47,3 +49,4 @@ posts:
     subject: новый диск роллингов
     deleted: false
     text: ужас,старческий маразм- обидно
+  person_id: 335

@@ -11,8 +11,7 @@ posts:
   poster: Cpt. Nemoff
   subject: Блюз ближе, чем Вам кажется!
   deleted: false
-  text: <iframe width="480" height="390" src="http://www.youtube.com/embed/_cdmqO3TWkU"
-    frameborder="0" allowfullscreen></iframe>
+  text: <iframe width="480" height="390" src="http://www.youtube.com/embed/_cdmqO3TWkU" frameborder="0" allowfullscreen></iframe>
   replies:
   - id: 37948
     parent_id: 37941
@@ -21,3 +20,5 @@ posts:
     subject: Cpt Nemoff presents
     deleted: false
     text: Клёво, молодец Женя. Вводная длинновата, где поезда без музыки. Где снимали?
+    person_id: 458
+  person_id: 3623

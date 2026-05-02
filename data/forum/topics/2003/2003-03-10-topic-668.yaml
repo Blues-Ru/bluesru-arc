@@ -21,5 +21,6 @@ posts:
     email: aaa@genebee.msu.su
     subject: 27-го марта (в четверг)
     deleted: false
-    text: В ДАСе состоится концерт The Blues Spinners. Special guest - Борис Булкин.
-      В конце будет джем с участием 3-4 приглашенных. Приходите, зовите друзей.
+    text: В ДАСе состоится концерт The Blues Spinners. Special guest - Борис Булкин. В конце будет джем с участием 3-4 приглашенных.
+      Приходите, зовите друзей.
+    person_id: 458

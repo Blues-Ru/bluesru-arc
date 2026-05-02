@@ -13,8 +13,7 @@ posts:
   deleted: false
   text: 'Sting & Jools Holland – The Seventh Son
 
-    Напомните, пожалуйста, про эту песню. Точнее для какого проекта она была записала.
-    Ведь там что-то было такое интересное.'
+    Напомните, пожалуйста, про эту песню. Точнее для какого проекта она была записала. Ведь там что-то было такое интересное.'
   replies:
   - id: 37954
     parent_id: 37953
@@ -32,8 +31,8 @@ posts:
       poster: Эльдар
       subject: Jools Holland's Big Band Rhythm & Blues
       deleted: false
-      text: 'Дима, пожалуйста, можно ссылку на инфу об этом альбоме? Его название:
-        Jools Holland''s Big Band Rhythm & Blues или может Small World Big Band???
+      text: 'Дима, пожалуйста, можно ссылку на инфу об этом альбоме? Его название: Jools Holland''s Big Band Rhythm & Blues
+        или может Small World Big Band???
 
         А мне почему-то казалось что это типа Трибьют ту Вилли Диксон...'
       replies:
@@ -55,3 +54,4 @@ posts:
     subject: The Seventh Son
     deleted: false
     text: The <b>Seventh</b> <i>Son</i>
+    person_id: 7202

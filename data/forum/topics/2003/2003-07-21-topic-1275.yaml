@@ -12,9 +12,8 @@ posts:
   email: morozzz_ded@mail.ru
   subject: Пара блюзовых текста.
   deleted: false
-  text: Может кто-нибудь подкинет тексты таких вещей, как Ain't That Loving You Baby
-    и Railroad Station Blues или даст ссылочку на сайт с блюзовой лирикой, где эти
-    вещи есть?
+  text: Может кто-нибудь подкинет тексты таких вещей, как Ain't That Loving You Baby и Railroad Station Blues или даст ссылочку
+    на сайт с блюзовой лирикой, где эти вещи есть?
   replies:
   - id: 13286
     parent_id: 13285
@@ -23,6 +22,7 @@ posts:
     email: morozzz_ded@mail.ru
     subject: Блин, разумеется "текстов" :)
     deleted: false
+    person_id: 1749
   - id: 13287
     parent_id: 13285
     date: 2003-07-21 21:22
@@ -206,8 +206,7 @@ posts:
 
           recording of 1961 resp. 1985
 
-          from Jimmy Reed at Carnegie Hall (Suite Beat 3001) & Upside Your Head (Charly
-          1003)
+          from Jimmy Reed at Carnegie Hall (Suite Beat 3001) & Upside Your Head (Charly 1003)
 
 
           Know I love you baby
@@ -315,3 +314,7 @@ posts:
           email: morozzz_ded@mail.ru
           subject: Спасиба :)
           deleted: false
+          person_id: 1749
+        person_id: 82
+      person_id: 1749
+  person_id: 1749

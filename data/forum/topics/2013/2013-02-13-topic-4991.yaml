@@ -11,8 +11,7 @@ posts:
   poster: Andrei V. Evdokimov
   subject: Toot Blues - как музыка, философия и обстоятельства образа жизни
   deleted: false
-  text: <iframe width="420" height="315" src="http://www.youtube.com/embed/vBILt-LEnp0"
-    frameborder="0" allowfullscreen></iframe>
+  text: <iframe width="420" height="315" src="http://www.youtube.com/embed/vBILt-LEnp0" frameborder="0" allowfullscreen></iframe>
   replies:
   - id: 38768
     parent_id: 38766
@@ -20,6 +19,7 @@ posts:
     poster: tavrichesky
     subject: отличнейшее кино!
     deleted: false
+    person_id: 7208
   - id: 38770
     parent_id: 38766
     date: 2013-02-16 00:24
@@ -31,8 +31,7 @@ posts:
       http://www.youtube.com/watch?v=_hfJFr_B8NI
 
 
-      Cool John Ferguson однозначно порадовал леворуким гитаризмом с "правильной постановкой"
-      струн - тонкая сверху ))
+      Cool John Ferguson однозначно порадовал леворуким гитаризмом с "правильной постановкой" струн - тонкая сверху ))
 
 
       Вот еще дуэт Captain Luke & Cool John живьем:
@@ -46,3 +45,4 @@ posts:
       Чудесное исполнение King Bee ))
 
       http://www.youtube.com/watch?v=YO6SQaN9G9k'
+  person_id: 4

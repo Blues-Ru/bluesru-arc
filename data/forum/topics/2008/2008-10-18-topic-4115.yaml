@@ -12,8 +12,7 @@ posts:
   email: 5064212@mail.ru
   subject: Led Zeppelin blues-праздник 3 ноября
   deleted: false
-  text: "Подслушав на репе, как одна из них (Plumbum Dreams) поёт, не понял как это\
-    \ мог спеть мужик, т.е. Плант! \nhttp://ledzeppelin.ru/cgi-bin/newsscript.pl?record=19"
+  text: "Подслушав на репе, как одна из них (Plumbum Dreams) поёт, не понял как это мог спеть мужик, т.е. Плант! \nhttp://ledzeppelin.ru/cgi-bin/newsscript.pl?record=19"
   replies:
   - id: 35864
     parent_id: 35863
@@ -32,3 +31,5 @@ posts:
       subject: Да, так и есть, часть программы споёт она
       deleted: false
       text: Да, так и есть, часть программы споёт она
+      person_id: 2062
+    person_id: 204

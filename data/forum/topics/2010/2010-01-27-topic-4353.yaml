@@ -15,8 +15,7 @@ posts:
 
     <a href="http://www.youtube.com/watch?v=jsOO3jl1p10">http://www.youtube.com/watch?v=jsOO3jl1p10</a>
 
-    А вообще-то, Волка можно было взять вокалистом с самого начала, поросята вокалом
-    не радуют.
+    А вообще-то, Волка можно было взять вокалистом с самого начала, поросята вокалом не радуют.
 
 
     Нашел theGypsy.'
@@ -28,6 +27,7 @@ posts:
     subject: Хорошая ;)
     deleted: false
     text: Волк правда научился играть... И так-таки непонятна роль баса в группе!
+    person_id: 2
   - id: 36806
     parent_id: 36804
     date: 2010-01-28 05:47
@@ -35,6 +35,7 @@ posts:
     subject: ЭЭЭЭЭЭЭЭЭ
     deleted: false
     text: в ТОМ и ДЖЕРРИ эти смыслы покруче прозвучали.
+    person_id: 7208
   - id: 36807
     parent_id: 36804
     date: 2010-01-28 15:46
@@ -42,6 +43,7 @@ posts:
     subject: а вот ещё развлекуха.
     deleted: false
     text: http://www.youtube.com/watch?v=OL0F8HiKp6Q
+    person_id: 7208
   - id: 36808
     parent_id: 36804
     date: 2010-01-29 14:35
@@ -56,5 +58,6 @@ posts:
       poster: tavrichesky
       subject: полностью допускаю
       deleted: false
-      text: что писал это высказывание не блюзовый музыкант, и не поклонник Ленни
-        Хенри в частности.
+      text: что писал это высказывание не блюзовый музыкант, и не поклонник Ленни Хенри в частности.
+      person_id: 7208
+    person_id: 4

@@ -13,12 +13,10 @@ posts:
   deleted: false
   text: 'на самом деле радио-интервью с гитарой в руках...
 
-    но подборка фотографий в видеоприложении,всякие коллекционные радости - очень
-    неплохая.
+    но подборка фотографий в видеоприложении,всякие коллекционные радости - очень неплохая.
 
 
-    <iframe width="560" height="315" src="http://www.youtube.com/embed/3Ghf2WgWwuM"
-    frameborder="0" allowfullscreen></iframe>'
+    <iframe width="560" height="315" src="http://www.youtube.com/embed/3Ghf2WgWwuM" frameborder="0" allowfullscreen></iframe>'
   replies:
   - id: 38989
     parent_id: 38987
@@ -27,3 +25,4 @@ posts:
     subject: Послушал и поиграл!
     deleted: false
     text: SRV в малых дозах полезен в любых количествах!
+    person_id: 13

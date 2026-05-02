@@ -28,3 +28,6 @@ posts:
       subject: А что я могу пояснить?
       deleted: false
       text: Термин введен критиком Ларисой КОНЕВОЙ - к ней и вопросы...
+      person_id: 4
+    person_id: 335
+  person_id: 4

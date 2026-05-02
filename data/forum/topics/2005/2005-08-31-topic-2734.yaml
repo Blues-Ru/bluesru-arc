@@ -32,6 +32,8 @@ posts:
       subject: Ждем!
       deleted: false
       text: Дууууууурь!
+      person_id: 2
+    person_id: 5
   - id: 22589
     parent_id: 22586
     date: 2005-08-31 14:08
@@ -40,3 +42,4 @@ posts:
     subject: Просто супер!!!
     deleted: false
     text: А почем билеты будут???  И что,всего один день???
+  person_id: 2803

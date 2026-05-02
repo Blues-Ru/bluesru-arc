@@ -11,14 +11,12 @@ posts:
   poster: EastBaySoul
   subject: Диски
   deleted: false
-  text: "Добрый день всем участникам форума\nПрошу прощение за оффтоп, не нужны ли\
-    \ никому блюзовые cd Немецкой серии Tim 2000-ого года\n\n\n\nhttp://cgi.ebay.com/Arthur-Crudup-Dirt-Road-Blues-CD-2000_W0QQitemZ310197560037QQcmdZViewItemQQptZMusic_CDs?hash=item48393722e5\n\
-    \nвот один из них на ибей\nвсе Cd в картонных коробочках + обычные jewel case\n\
-    \n список\nArthur Crudup - Dirt Road Blues\nRobert Johnson - Cross Road Blues\n\
-    Brownie McGhee - Born For Bad Luck\nBig Bill Broonzy - Mississippi River Blues\n\
-    Lightnin Hopkins - Lightnin's Boogie\nSonny Terry - Worried Man Blues\nBlind John\
-    \ Davis - My Own Boogie\nBessie Smith - Nobody's Blues But Mine\nMemphis Slim\
-    \ - Lonely Nights\nBig Joe Turner - Rocks In My Bed\n\nНедорого, разумеется"
+  text: "Добрый день всем участникам форума\nПрошу прощение за оффтоп, не нужны ли никому блюзовые cd Немецкой серии Tim 2000-ого\
+    \ года\n\n\n\nhttp://cgi.ebay.com/Arthur-Crudup-Dirt-Road-Blues-CD-2000_W0QQitemZ310197560037QQcmdZViewItemQQptZMusic_CDs?hash=item48393722e5\n\
+    \nвот один из них на ибей\nвсе Cd в картонных коробочках + обычные jewel case\n\n список\nArthur Crudup - Dirt Road Blues\n\
+    Robert Johnson - Cross Road Blues\nBrownie McGhee - Born For Bad Luck\nBig Bill Broonzy - Mississippi River Blues\nLightnin\
+    \ Hopkins - Lightnin's Boogie\nSonny Terry - Worried Man Blues\nBlind John Davis - My Own Boogie\nBessie Smith - Nobody's\
+    \ Blues But Mine\nMemphis Slim - Lonely Nights\nBig Joe Turner - Rocks In My Bed\n\nНедорого, разумеется"
   replies:
   - id: 36813
     parent_id: 36812
@@ -35,23 +33,24 @@ posts:
       subject: серия
       deleted: false
       text: а что это за серия? просто сборники?
+      person_id: 335
     - id: 36817
       parent_id: 36813
       date: 2010-02-12 15:32
       poster: andrew
       subject: уточните, пжлст...
       deleted: false
-      text: "...850 руб за ВСЕ перечисленные диски? \nпришлите фотку коробочки любого\
-        \ из тех, что у Вас (НЕ с сайта TIM2000)\nЯ бы купил. \nА где Вы в Москве?\n\
-        Andrew"
+      text: "...850 руб за ВСЕ перечисленные диски? \nпришлите фотку коробочки любого из тех, что у Вас (НЕ с сайта TIM2000)\n\
+        Я бы купил. \nА где Вы в Москве?\nAndrew"
+    person_id: 7349
   - id: 36816
     parent_id: 36812
     date: 2010-02-11 21:42
     poster: EastBaySoul
     subject: Серия
     deleted: false
-    text: 'Да это сборники, не знаю что за лейбл, диски мне попали случайно. в каждом
-      кд двустраничный буклет с биографией, где выступал, что выпускал и т.д
+    text: 'Да это сборники, не знаю что за лейбл, диски мне попали случайно. в каждом кд двустраничный буклет с биографией,
+      где выступал, что выпускал и т.д
 
       буклет не дорогой но сами сиди упакованы еще и в катон
 
@@ -67,3 +66,4 @@ posts:
       subject: если диски ещё у Вас...
       deleted: false
       text: '...дайте контактный телефон на andrew_strukov@mail.ru'
+      person_id: 7356

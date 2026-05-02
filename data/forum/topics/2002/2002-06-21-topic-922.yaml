@@ -12,9 +12,8 @@ posts:
   email: heavyfuel@mtu-net.ru
   subject: Lazy  Lester...
   deleted: false
-  text: Граждане, господа и товарищи, есть у кого-нибудь пластиночки сего милого дядечки
-    Lazy Lester'a. Если есть, то поделитесь, дайте переписать, уж больно хорошо он
-    играет...
+  text: Граждане, господа и товарищи, есть у кого-нибудь пластиночки сего милого дядечки Lazy Lester'a. Если есть, то поделитесь,
+    дайте переписать, уж больно хорошо он играет...
   replies:
   - id: 5627
     parent_id: 5618
@@ -32,3 +31,5 @@ posts:
     subject: Разыскивается Lazy Lester
     deleted: false
     text: см выше.
+    person_id: 783
+  person_id: 783

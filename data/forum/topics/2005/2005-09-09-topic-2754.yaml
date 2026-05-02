@@ -12,9 +12,8 @@ posts:
   email: dr.nick@blues.ru
   subject: Готовы к новому диску Би Би Кинга?
   deleted: false
-  text: 'С ним там: Вэн Моррисон, Билли Гиббонс, Эрик Клэптон, Шерил Кроу, Дэрил Холл,
-    Джон Мэйер, Марк Нопфлер, Гленн Фрей, Глория Эстефан, Роджер Долтри, Бобби Блэнд,
-    Элтон Джон.
+  text: 'С ним там: Вэн Моррисон, Билли Гиббонс, Эрик Клэптон, Шерил Кроу, Дэрил Холл, Джон Мэйер, Марк Нопфлер, Гленн Фрей,
+    Глория Эстефан, Роджер Долтри, Бобби Блэнд, Элтон Джон.
 
 
     Трек-лист тоже отличный:
@@ -44,8 +43,7 @@ posts:
     12 Rock This House
 
 
-    Вэн зажигает, очень хороша Кроу (это при том, что я пение дам вообще слушать могу
-    с трудом).'
+    Вэн зажигает, очень хороша Кроу (это при том, что я пение дам вообще слушать могу с трудом).'
   replies:
   - id: 22831
     parent_id: 22830
@@ -54,10 +52,9 @@ posts:
     email: mlives_6@hotmail
     subject: Пение дам
     deleted: false
-    text: "Неужели вообще не нравится?   \n\nА Bessie Smith, Ma Rainey, Ida Cox, Memphis\
-      \ Minnie, Billie Holiday, Dinah Washington, Mahalia Jackson, Marion Williams,\
-      \ Ruth Davis, Inez Andrews, Aretha Franklin, Mavis Staple, Etta James, Gladys\
-      \ Knight, Ann Peebles, Janis Joplin...?????\n\n\nMuddy"
+    text: "Неужели вообще не нравится?   \n\nА Bessie Smith, Ma Rainey, Ida Cox, Memphis Minnie, Billie Holiday, Dinah Washington,\
+      \ Mahalia Jackson, Marion Williams, Ruth Davis, Inez Andrews, Aretha Franklin, Mavis Staple, Etta James, Gladys Knight,\
+      \ Ann Peebles, Janis Joplin...?????\n\n\nMuddy"
     replies:
     - id: 22832
       parent_id: 22831
@@ -69,12 +66,10 @@ posts:
       text: 'Mavis Staple и частично Etta James (очень мало альбомов могу).
 
 
-        Еще могу: Denise La Salle, Nina Simone, Joni Mitchell, Joan Baez, Janis Ian,
-        Carole King, Carly Simon.
+        Еще могу: Denise La Salle, Nina Simone, Joni Mitchell, Joan Baez, Janis Ian, Carole King, Carly Simon.
 
 
-        У Ариты могу слушать ее период на Атлантике до 1970 года (далее пошел крик
-        и визг).'
+        У Ариты могу слушать ее период на Атлантике до 1970 года (далее пошел крик и визг).'
       replies:
       - id: 22833
         parent_id: 22832
@@ -110,8 +105,8 @@ posts:
               email: dr.nick@blues.ru
               subject: дело в том
               deleted: false
-              text: что "не верю" я певицам (большинству из них). много крика и эмоций,
-                редко есть личность (как у Нины Симон или Джони Митчелл).
+              text: что "не верю" я певицам (большинству из них). много крика и эмоций, редко есть личность (как у Нины Симон
+                или Джони Митчелл).
               replies:
               - id: 22849
                 parent_id: 22846
@@ -133,6 +128,8 @@ posts:
                   subject: не нравятся
                   deleted: false
                   text: голоса и подача. да и музыка совсем не моя.
+                  person_id: 335
+              person_id: 335
       - id: 22837
         parent_id: 22832
         date: 2005-09-09 14:36
@@ -140,8 +137,7 @@ posts:
         email: chifuroff@inbox.ru
         subject: Carly Simon
         deleted: false
-        text: А много она альбомов выпустила вообще? Я слышал её вокал на альбоме
-          Elephant's Memory 1969 года- мне понравилось!
+        text: А много она альбомов выпустила вообще? Я слышал её вокал на альбоме Elephant's Memory 1969 года- мне понравилось!
         replies:
         - id: 22838
           parent_id: 22837
@@ -174,6 +170,10 @@ posts:
 
 
                 и это оффтопик!'
+              person_id: 335
+            person_id: 2888
+          person_id: 335
+        person_id: 2888
     - id: 22963
       parent_id: 22831
       date: 2005-09-12 11:06
@@ -181,3 +181,4 @@ posts:
       email: mcl@macbox.ru
       subject: Пошто Коко Тэйлор забыли!!!!!!
       deleted: false
+      person_id: 1206

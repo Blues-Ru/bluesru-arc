@@ -21,8 +21,7 @@ posts:
     email: denis1482@mail.ru
     subject: Sergei "John" Sorokin
     deleted: false
-    text: '[quote]Sergei "John" Sorokin, one of Moscow''s foremost -- and no doubt,
-      few -- blues harpists[/quote]
+    text: '[quote]Sergei "John" Sorokin, one of Moscow''s foremost -- and no doubt, few -- blues harpists[/quote]
 
       Это так переводится Михаил "Петрович" Соколов? ;-)'
     replies:
@@ -34,3 +33,5 @@ posts:
       subject: да нет
       deleted: false
       text: Сергей Сорокин - это отдельный человек и гармонист.
+      person_id: 335
+  person_id: 335

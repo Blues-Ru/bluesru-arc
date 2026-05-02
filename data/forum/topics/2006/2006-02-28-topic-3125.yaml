@@ -12,8 +12,8 @@ posts:
   email: gypsy@mail.ru
   subject: А мы ещё и крестиком вышиваем...
   deleted: false
-  text: "..вот так, например: \n\nhttp://www.ljplus.ru/img/m/a/marianner/andrei-palych1.jpg\
-    \ \n\nСпасибо Маре Левиной за пойманный момент! :)"
+  text: "..вот так, например: \n\nhttp://www.ljplus.ru/img/m/a/marianner/andrei-palych1.jpg \n\nСпасибо Маре Левиной за пойманный\
+    \ момент! :)"
   replies:
   - id: 26303
     parent_id: 26302
@@ -31,13 +31,13 @@ posts:
     subject: Это снятие струн....
     deleted: false
     text: Струны не вмещались в новый чехол для гитары:-)))
+    person_id: 1725
   - id: 26308
     parent_id: 26302
     date: 2006-02-28 18:11
     poster: Mara Levin (Marianner)
     email: iyzulli@jaf.ru
-    subject: У нас еще из нового есть Keith Dunn, James Wheeler, Каверкин, Сорокин
-      и тп..
+    subject: У нас еще из нового есть Keith Dunn, James Wheeler, Каверкин, Сорокин и тп..
     deleted: false
     text: 'Keith Dunn
 
@@ -79,6 +79,7 @@ posts:
         email: gypsy@mail.ru
         subject: Док, это недобрая ирония.
         deleted: false
+      person_id: 458
   - id: 26315
     parent_id: 26302
     date: 2006-02-28 23:44
@@ -86,5 +87,4 @@ posts:
     email: pradv@rambler.ru
     subject: про крестики
     deleted: false
-    text: И на гитаре... И крестиком... И с хвостиком...И майор... Не все выдержат
-      такого потрясения:)
+    text: И на гитаре... И крестиком... И с хвостиком...И майор... Не все выдержат такого потрясения:)

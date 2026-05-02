@@ -11,8 +11,7 @@ posts:
   poster: Andrei V. Evdokimov
   subject: а жизнь-то продолжается
   deleted: false
-  text: <iframe width="420" height="315" src="http://www.youtube.com/embed/rzxRGmCLv5Y"
-    frameborder="0" allowfullscreen></iframe>
+  text: <iframe width="420" height="315" src="http://www.youtube.com/embed/rzxRGmCLv5Y" frameborder="0" allowfullscreen></iframe>
   replies:
   - id: 38897
     parent_id: 38896
@@ -20,5 +19,6 @@ posts:
     poster: Andrei V. Evdokimov
     subject: и еще "раз - и клип готов"... даже задымление имеется )
     deleted: false
-    text: <iframe width="560" height="315" src="http://www.youtube.com/embed/8b1P_TidZ00"
-      frameborder="0" allowfullscreen></iframe>
+    text: <iframe width="560" height="315" src="http://www.youtube.com/embed/8b1P_TidZ00" frameborder="0" allowfullscreen></iframe>
+    person_id: 4
+  person_id: 4

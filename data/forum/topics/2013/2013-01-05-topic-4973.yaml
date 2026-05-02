@@ -16,8 +16,7 @@ posts:
     Тетка вся в пафосе - зато у нее жилетка что надо!
 
 
-    <iframe width="420" height="315" src="http://www.youtube.com/embed/04tENvLeu4A"
-    frameborder="0" allowfullscreen></iframe>'
+    <iframe width="420" height="315" src="http://www.youtube.com/embed/04tENvLeu4A" frameborder="0" allowfullscreen></iframe>'
   replies:
   - id: 38695
     parent_id: 38694
@@ -26,3 +25,4 @@ posts:
     subject: Наконец-то за блюз взялись настоящие учёные!
     deleted: false
     text: Жаль только, что не британские..
+    person_id: 13

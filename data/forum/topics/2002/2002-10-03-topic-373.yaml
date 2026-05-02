@@ -54,8 +54,7 @@ posts:
 
       I was in the right thing, but it seemed like a wrong wrong
 
-      ''Cause I was in the right world, but it seemed like a wrong, wrong, wrong,
-      wrong, wrong
+      ''Cause I was in the right world, but it seemed like a wrong, wrong, wrong, wrong, wrong
 
       Slippin'', dodgin'', sneakin'', peepin'', hidin'' out down the street
 
@@ -96,6 +95,8 @@ posts:
         subject: Я так и думал ;)
         deleted: false
         text: Но на всякий случай выложил ;)
+        person_id: 335
+      person_id: 5
     - id: 7921
       parent_id: 7916
       date: 2002-10-03 17:59

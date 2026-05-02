@@ -12,9 +12,8 @@ posts:
   subject: Мощный старик  Dr. GB Burt
   deleted: false
   text: <object width="480" height="385"><param name="movie" value="http://www.youtube.com/v/FGmtbB-vP8w?fs=1&amp;hl=en_US"></param><param
-    name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed
-    src="http://www.youtube.com/v/FGmtbB-vP8w?fs=1&amp;hl=en_US" type="application/x-shockwave-flash"
-    allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object>
+    name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/FGmtbB-vP8w?fs=1&amp;hl=en_US"
+    type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object>
   replies:
   - id: 37087
     parent_id: 37078
@@ -22,3 +21,5 @@ posts:
     poster: Cpt. Nemoff
     subject: Мда... Неужели нечего сказать?
     deleted: false
+    person_id: 3623
+  person_id: 3623

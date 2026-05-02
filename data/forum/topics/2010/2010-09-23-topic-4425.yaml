@@ -12,9 +12,8 @@ posts:
   subject: Как петь басом - урок от Capitan Luke
   deleted: false
   text: <object width="480" height="385"><param name="movie" value="http://www.youtube.com/v/wLeLOW3hW3g?fs=1&amp;hl=en_US"></param><param
-    name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed
-    src="http://www.youtube.com/v/wLeLOW3hW3g?fs=1&amp;hl=en_US" type="application/x-shockwave-flash"
-    allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object>
+    name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/wLeLOW3hW3g?fs=1&amp;hl=en_US"
+    type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object>
   replies:
   - id: 37081
     parent_id: 37072
@@ -22,5 +21,6 @@ posts:
     poster: Алексей Аграновский
     subject: Вот тут низковато...
     deleted: false
-    text: Класс какой! Дедушка правильный. Яснее становится ответ на вопрос "кем ты
-      хочешь быть"...
+    text: Класс какой! Дедушка правильный. Яснее становится ответ на вопрос "кем ты хочешь быть"...
+    person_id: 458
+  person_id: 3623

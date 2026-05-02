@@ -12,8 +12,7 @@ posts:
   email: scolder@blues.ru
   subject: Ритм-н-блюз кафе опять открывается!
   deleted: false
-  text: В связи с чем всех поздравляем и приглашаем в эту субботу, 21 октября, в 21:00
-    на наше выступление. Scolder Blues.
+  text: В связи с чем всех поздравляем и приглашаем в эту субботу, 21 октября, в 21:00 на наше выступление. Scolder Blues.
   replies:
   - id: 29142
     parent_id: 29132
@@ -31,8 +30,7 @@ posts:
       email: scolder@blues.ru
       subject: Отбросьте все сомнения!
       deleted: false
-      text: Чем больше хороших клубов у нас будет функционировать, тем лучше будет
-        всем.
+      text: Чем больше хороших клубов у нас будет функционировать, тем лучше будет всем.
       replies:
       - id: 29156
         parent_id: 29153
@@ -53,3 +51,6 @@ posts:
           email: scolder@blues.ru
           subject: Ответил в аське (-)
           deleted: false
+          person_id: 88
+      person_id: 88
+  person_id: 88

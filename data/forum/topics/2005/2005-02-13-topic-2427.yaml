@@ -21,3 +21,5 @@ posts:
     subject: again?
     deleted: false
     text: этот вопрос уже задавали тут совсем недавно, и я на него уже отвечал :)
+    person_id: 335
+  person_id: 3588

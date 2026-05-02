@@ -12,8 +12,7 @@ posts:
   email: barmaley-vov@yandex.ru
   subject: Свет в Бабруйске!
   deleted: false
-  text: 'Хоть это уже и баян наверно, но Свет с командой съездили в священный город
-    Бабруйск! :)
+  text: 'Хоть это уже и баян наверно, но Свет с командой съездили в священный город Бабруйск! :)
 
 
     Сцылки по теме:
@@ -30,6 +29,7 @@ posts:
     subject: SWEET BOOGIE BAND
     deleted: false
     text: Oh, boogie, sweet, boogie ;)
+    person_id: 2
   - id: 24126
     parent_id: 24124
     date: 2005-10-27 15:39
@@ -37,8 +37,9 @@ posts:
     email: barmaley-vov@yandex.ru
     subject: Я вообще удивлен....
     deleted: false
-    text: Куда у них редакторы и корректоры смотрят? Чтоб в одной заметке ухитриться
-      и правильно написать, а потом - неправильно. :)
+    text: Куда у них редакторы и корректоры смотрят? Чтоб в одной заметке ухитриться и правильно написать, а потом - неправильно.
+      :)
+    person_id: 2803
   - id: 24128
     parent_id: 24124
     date: 2005-10-27 18:41
@@ -46,8 +47,9 @@ posts:
     email: evdokimov@blues.ru
     subject: Да будет Свет! и в Бобруйске, конечно, тоже.
     deleted: false
-    text: 'Нечего журналюг ругать. Все грамотно! Один раз они указали название...
-      а Sweet boogie band - значит, понравилось.... так и пишут: "мило" (<i><small>англ.</small></i>sweet).'
+    text: 'Нечего журналюг ругать. Все грамотно! Один раз они указали название... а Sweet boogie band - значит, понравилось....
+      так и пишут: "мило" (<i><small>англ.</small></i>sweet).'
+    person_id: 4
   - id: 24130
     parent_id: 24124
     date: 2005-10-27 21:36
@@ -61,3 +63,4 @@ posts:
 
 
       http://lubnin.ishops.ru/popup_add_image.php/imagesID/23'
+  person_id: 2803

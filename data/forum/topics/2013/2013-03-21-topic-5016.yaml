@@ -9,8 +9,7 @@ posts:
   parent_id: null
   date: 2013-03-21 18:28
   poster: Andrei V. Evdokimov
-  subject: Отису Спэнну аккомпанирует Мадди Уотерс! Live at Copenhagen Jazz Festival
-    1968
+  subject: Отису Спэнну аккомпанирует Мадди Уотерс! Live at Copenhagen Jazz Festival 1968
   deleted: false
-  text: <iframe width="560" height="315" src="http://www.youtube.com/embed/cADmi4C8Ue8"
-    frameborder="0" allowfullscreen></iframe>
+  text: <iframe width="560" height="315" src="http://www.youtube.com/embed/cADmi4C8Ue8" frameborder="0" allowfullscreen></iframe>
+  person_id: 4

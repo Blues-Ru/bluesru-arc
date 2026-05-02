@@ -12,11 +12,9 @@ posts:
   email: heavyfuel@mtu-net.ru
   subject: Privet is Krakova....
   deleted: false
-  text: 'Salut lubimi forum, vriode sovsem nedavno pisal tebe is Pragi, a vot teper''
-    is miloi serdtsu Pol''shi pishu.
+  text: 'Salut lubimi forum, vriode sovsem nedavno pisal tebe is Pragi, a vot teper'' is miloi serdtsu Pol''shi pishu.
 
-    Zdes ochen daze horosho. Pogoda konechno ne fontan, no zit mozno i ochen daze
-    neploho.
+    Zdes ochen daze horosho. Pogoda konechno ne fontan, no zit mozno i ochen daze neploho.
 
     Segodnja nadeus na blues popast... Mozet povezet :)
 
@@ -42,9 +40,8 @@ posts:
       email: bluesman@tut.by
       subject: согласен
       deleted: false
-      text: "и вообще из восточной европы поляки прервый пробили теMу блюза \n и мадди\
-        \ уотерс к ним первым приехал - еще в 70 -е.\nприкиньте \nв москву или ленинград\
-        \ приехал в 1978 мадди уотерс....\nдаже и не представляю"
+      text: "и вообще из восточной европы поляки прервый пробили теMу блюза \n и мадди уотерс к ним первым приехал - еще в\
+        \ 70 -е.\nприкиньте \nв москву или ленинград приехал в 1978 мадди уотерс....\nдаже и не представляю"
   - id: 10354
     parent_id: 10349
     date: 2003-01-30 07:32
@@ -52,8 +49,7 @@ posts:
     email: dr.nick@blues.ru
     subject: И тебе привет, Пане
     deleted: false
-    text: Ты када обратно-то? Неужто пшеки блюзом тоже промышляют? Сам-то с гитарой
-      или как? Зубровки там не перепей ;)
+    text: Ты када обратно-то? Неужто пшеки блюзом тоже промышляют? Сам-то с гитарой или как? Зубровки там не перепей ;)
     replies:
     - id: 10376
       parent_id: 10354
@@ -64,11 +60,10 @@ posts:
       deleted: false
       text: 'Kurort gorny. Mesto prosto super. Lizi, con''ki, sanki... I vse takoe.
 
-        Vchera na ulitse konzert blusovy bil. Ochen'' milo: peli i po polski i po
-        anglicki.
+        Vchera na ulitse konzert blusovy bil. Ochen'' milo: peli i po polski i po anglicki.
 
-        Kstati, Dim, ti gruppu BYRDS lubish? Ja tut ih box-set kupil. Izdanie blesk!
-        I cena super. Za tri CD vsego 15$. :) :) Mbe ochen'' ponravilos''
+        Kstati, Dim, ti gruppu BYRDS lubish? Ja tut ih box-set kupil. Izdanie blesk! I cena super. Za tri CD vsego 15$. :)
+        :) Mbe ochen'' ponravilos''
 
         Eshe vot kupil koncert SRV + Albert King.
 
@@ -94,3 +89,4 @@ posts:
           Детство вспомнил говоришь? Тебе лет-то сколько? Когда ж ты успел его забыть?
 
           Возвращайся давай, хватит там херней страдать.'
+    person_id: 335

@@ -24,8 +24,7 @@ posts:
     email: dr.nick@blues.ru
     subject: ага, забавный
     deleted: false
-    text: у меня есть давно. нельзя сказать, что это лучшая его работа, но там есть
-      что слушать.
+    text: у меня есть давно. нельзя сказать, что это лучшая его работа, но там есть что слушать.
     replies:
     - id: 23773
       parent_id: 23762
@@ -35,6 +34,7 @@ posts:
       subject: Мне лично понравилось....
       deleted: false
       text: Не плохо
+    person_id: 335
   - id: 23771
     parent_id: 23760
     date: 2005-10-09 22:38
@@ -55,6 +55,5 @@ posts:
       email: dr.nick@blues.ru
       subject: кратко
       deleted: false
-      text: "Это чёрный поэт-битник. Борец за права и т.д. еще до Мартина Лютера Кинга.\
-        \ Умер в 1967 году. \n\nhttp://www.allmusic.com/cg/amg.dll?p=amg&sql=11:0ifuxqt5ldde\n\
+      text: "Это чёрный поэт-битник. Борец за права и т.д. еще до Мартина Лютера Кинга. Умер в 1967 году. \n\nhttp://www.allmusic.com/cg/amg.dll?p=amg&sql=11:0ifuxqt5ldde\n\
         \nhttp://www.poets.org/poet.php/prmPID/83"

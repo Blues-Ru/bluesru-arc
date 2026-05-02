@@ -19,9 +19,8 @@ posts:
     poster: Федор Романенко
     subject: Пока не слышно...
     deleted: false
-    text: Скорее всего, это означает, что ничего не будет, ибо обычно Леша нам говорит.
-      Пара муз.изданий в интернете по-ошибке перепечатали прошлогодние новости про
-      6-е сентября.
+    text: Скорее всего, это означает, что ничего не будет, ибо обычно Леша нам говорит. Пара муз.изданий в интернете по-ошибке
+      перепечатали прошлогодние новости про 6-е сентября.
     replies:
     - id: 36507
       parent_id: 36506
@@ -30,6 +29,7 @@ posts:
       subject: Мда, грустно...
       deleted: false
       text: Мда, грустно... ИМХО это лучший фестиваль...
+    person_id: 2
   - id: 36510
     parent_id: 36499
     date: 2009-08-20 11:56
@@ -43,10 +43,10 @@ posts:
     poster: Oblomova
     subject: Грустно...
     deleted: false
-    text: Последний месяц каждый день начинала с мониторинга Инета в поисках  инфы
-      о фестивале... Осень наступает, информации нет. Видимо, в самом деле не будет
-      феста. Очень, очень жаль. Много друзей из разных городов должны были приехать
-      и до сих пор буквально сидят на чемоданах.
+    text: Последний месяц каждый день начинала с мониторинга Инета в поисках  инфы о фестивале... Осень наступает, информации
+      нет. Видимо, в самом деле не будет феста. Очень, очень жаль. Много друзей из разных городов должны были приехать и до
+      сих пор буквально сидят на чемоданах.
+    person_id: 5858
   - id: 36516
     parent_id: 36499
     date: 2009-08-21 21:11
@@ -60,14 +60,12 @@ posts:
     poster: Axle
     subject: Дёшево и плохо делатьне будем.
     deleted: false
-    text: "Лучше потерпим год. \n\n\nP.S. Зато есть что вспомнить. (жаль только, что\
-      \ \"профессиональные блюзмены\" и хранители чистоты жанра придавали этому мероприятию\
-      \ меньше внимания, чем простые смертные.)\n\n<object width=\"425\" height=\"\
-      344\"><param name=\"movie\" value=\"http://www.youtube.com/v/nlpFD6ieabI&hl=ru&fs=1&\"\
-      ></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"\
-      allowscriptaccess\" value=\"always\"></param><embed src=\"http://www.youtube.com/v/nlpFD6ieabI&hl=ru&fs=1&\"\
-      \ type=\"application/x-shockwave-flash\" allowscriptaccess=\"always\" allowfullscreen=\"\
-      true\" width=\"425\" height=\"344\"></embed></object>"
+    text: "Лучше потерпим год. \n\n\nP.S. Зато есть что вспомнить. (жаль только, что \"профессиональные блюзмены\" и хранители\
+      \ чистоты жанра придавали этому мероприятию меньше внимания, чем простые смертные.)\n\n<object width=\"425\" height=\"\
+      344\"><param name=\"movie\" value=\"http://www.youtube.com/v/nlpFD6ieabI&hl=ru&fs=1&\"></param><param name=\"allowFullScreen\"\
+      \ value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://www.youtube.com/v/nlpFD6ieabI&hl=ru&fs=1&\"\
+      \ type=\"application/x-shockwave-flash\" allowscriptaccess=\"always\" allowfullscreen=\"true\" width=\"425\" height=\"\
+      344\"></embed></object>"
   - id: 36541
     parent_id: 36499
     date: 2009-08-27 11:42
@@ -75,3 +73,4 @@ posts:
     subject: жаль...
     deleted: false
     text: лучший блюзовый фест в москве
+    person_id: 6893

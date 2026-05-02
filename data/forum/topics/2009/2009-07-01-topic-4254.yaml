@@ -11,13 +11,10 @@ posts:
   poster: Andrei V. Evdokimov
   subject: хозяйке на заметку
   deleted: false
-  text: "Попался мне альбомчик, который ни другу, ни врагу не порекомендуешь \"Lay\
-    \ My Demons Down\" - потому что ни хорошего, ни страшного ничего в нем нету.\n\
-    \n А курьезного в нем есть то, что сперва вышел он как сольный альбом певца-гитариста\
-    \ Tommy McCoy. (http://allmusic.com/cg/amg.dll?p=amg&sql=10:fvftxzygld6e) Но поскольку\
-    \ единственное, что есть в нем интересного, это игра на Хэммонде Лаки Питерсона,\
-    \ то нынешнее издание на обложке значится уже как Tommy McCoy & Lucky Peterson\
-    \ (http://www.amazon.com/Lay-Demons-Down-Tommy-McCoy/dp/B001PK3LVO/ref=sr_1_1?ie=UTF8&s=music&qid=1246393364&sr=1-1).\
+  text: "Попался мне альбомчик, который ни другу, ни врагу не порекомендуешь \"Lay My Demons Down\" - потому что ни хорошего,\
+    \ ни страшного ничего в нем нету.\n\n А курьезного в нем есть то, что сперва вышел он как сольный альбом певца-гитариста\
+    \ Tommy McCoy. (http://allmusic.com/cg/amg.dll?p=amg&sql=10:fvftxzygld6e) Но поскольку единственное, что есть в нем интересного,\
+    \ это игра на Хэммонде Лаки Питерсона, то нынешнее издание на обложке значится уже как Tommy McCoy & Lucky Peterson (http://www.amazon.com/Lay-Demons-Down-Tommy-McCoy/dp/B001PK3LVO/ref=sr_1_1?ie=UTF8&s=music&qid=1246393364&sr=1-1).\
     \ \n\nВыводим: маркетинг он и в блюзе маркетинг! )))"
   replies:
   - id: 36447
@@ -26,11 +23,11 @@ posts:
     poster: Andrei V. Evdokimov
     subject: PS - загланул на сайт к МакКою
     deleted: false
-    text: 'у него привычка записываться в хороших компаниях - то с Double Trouble,
-      то c Levon Helm и Garth Hudson (те, которые из “The Band”).
+    text: 'у него привычка записываться в хороших компаниях - то с Double Trouble, то c Levon Helm и Garth Hudson (те, которые
+      из “The Band”).
 
-      И сам он гордый обладатель трех "винтажных" гибсонов и концертной рубашки с
-      короной на груди, которая (корона) даже через гитару просвечивает.  http://tommymccoyblues.com/bio.htm'
+      И сам он гордый обладатель трех "винтажных" гибсонов и концертной рубашки с короной на груди, которая (корона) даже
+      через гитару просвечивает.  http://tommymccoyblues.com/bio.htm'
     replies:
     - id: 36449
       parent_id: 36447
@@ -38,8 +35,7 @@ posts:
       poster: Алексей Аграновский
       subject: Пастернака мы не читали, но
       deleted: false
-      text: наверное, МакКой умеет дружить. Это даже тремя Гибсонами и короной не
-        испортишь.
+      text: наверное, МакКой умеет дружить. Это даже тремя Гибсонами и короной не испортишь.
       replies:
       - id: 36450
         parent_id: 36449
@@ -58,3 +54,5 @@ posts:
           subject: Так, и список этим не исчерпывается
           deleted: false
           text: Can't buy me love, everybody tells me so.
+          person_id: 458
+      person_id: 458

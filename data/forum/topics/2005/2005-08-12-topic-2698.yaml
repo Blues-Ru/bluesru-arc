@@ -12,9 +12,8 @@ posts:
   email: chifuroff@inbox.ru
   subject: Здесь кто-то интересным эффектом интересовался :-)))))
   deleted: false
-  text: 'Эффект, который называется "войсбокс" или "вокодер" можно собрать и в домашних
-    условиях из подручных средств. Вот для примера подобный трек: <a href="http://www.pasportov.net/ruslan/voice.mp3">Bring
-    It On Home To Me</a>'
+  text: 'Эффект, который называется "войсбокс" или "вокодер" можно собрать и в домашних условиях из подручных средств. Вот
+    для примера подобный трек: <a href="http://www.pasportov.net/ruslan/voice.mp3">Bring It On Home To Me</a>'
   replies:
   - id: 22286
     parent_id: 22285
@@ -33,3 +32,4 @@ posts:
       subject: Это слишком сложная задача :-)))))
       deleted: false
       text: Слабоват я в цифровой технике, по правде говоря :-)))))
+  person_id: 2888

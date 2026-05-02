@@ -12,9 +12,8 @@ posts:
   email: dr.nick@blues.ru
   subject: Electric Flag
   deleted: false
-  text: Не знаю оффтопик это или нет, но мне интересно, есть ли у кого-нибудь номерные
-    альбомы Electric Flag? У меня только сборник 'Old Glory' (Legacy/Columbia 1995).
-    Что-то мне там нравится по-хорошему.
+  text: Не знаю оффтопик это или нет, но мне интересно, есть ли у кого-нибудь номерные альбомы Electric Flag? У меня только
+    сборник 'Old Glory' (Legacy/Columbia 1995). Что-то мне там нравится по-хорошему.
   replies:
   - id: 538
     parent_id: 492
@@ -50,15 +49,12 @@ posts:
           email: dr.nick@blues.ru
           subject: Это похоже на первый альбом
           deleted: false
-          text: 'Должен быть 67-ой год и такое название: ''The Trip'' by The Electric
-            Flag, An American Music Band. Во как!
+          text: 'Должен быть 67-ой год и такое название: ''The Trip'' by The Electric Flag, An American Music Band. Во как!
 
-            По моим данным там должно быть 18 треков! Редкость этого альбома еще и
-            в том, что он не издавался в Англии и в Европе аж жо 87-го года! Можешь
-            себе представить сколько стоит оригинальный винил?
+            По моим данным там должно быть 18 треков! Редкость этого альбома еще и в том, что он не издавался в Англии и в
+            Европе аж жо 87-го года! Можешь себе представить сколько стоит оригинальный винил?
 
-            А почему эта теба никому не интересна? Ведь тут же и Блумфилд и Бадди
-            Майлз...'
+            А почему эта теба никому не интересна? Ведь тут же и Блумфилд и Бадди Майлз...'
           replies:
           - id: 582
             parent_id: 574
@@ -67,11 +63,9 @@ posts:
             email: sanya@mailandnews.com
             subject: нет, у меня вот этот -
             deleted: false
-            text: "http://www.allmusic.com/cg/amg.dll?p=amg&sql=Auz1uaknk5m3p\n9 песен,\
-              \ а еще Groovin' Is Easy http://www.allmusic.com/cg/amg.dll?p=amg&sql=Alranqj5bojaa\n\
+            text: "http://www.allmusic.com/cg/amg.dll?p=amg&sql=Auz1uaknk5m3p\n9 песен, а еще Groovin' Is Easy http://www.allmusic.com/cg/amg.dll?p=amg&sql=Alranqj5bojaa\n\
               и сборник  Greatest Hits - An American Music Band \n http://www.cddb.com/xm/pcd/genblues/2c243fbc6fccb8872517acafc0f19b65.html\n\
-              вот там, точно, 18 песен, но совсем не те, что на The Trip. Которого\
-              \ не нашел."
+              вот там, точно, 18 песен, но совсем не те, что на The Trip. Которого не нашел."
           - id: 583
             parent_id: 574
             date: 2002-02-02 09:08
@@ -79,9 +73,12 @@ posts:
             email: sanya@mailandnews.com
             subject: Что-то я еще добавить хотел...
             deleted: false
-            text: 'Да! Все это, несомненно, появится на антивоенной коллекции, куда
-              почему-то не все 10 (или 15?) гиг блюзовой коллекции слились.
+            text: 'Да! Все это, несомненно, появится на антивоенной коллекции, куда почему-то не все 10 (или 15?) гиг блюзовой
+              коллекции слились.
 
-              А The Electric Flag, An American Music Band, получается, просто - полное
-              название группы. И значит, вчера я мог написать просто - selftitled?
-              :^)'
+              А The Electric Flag, An American Music Band, получается, просто - полное название группы. И значит, вчера я
+              мог написать просто - selftitled? :^)'
+        person_id: 559
+      person_id: 335
+    person_id: 559
+  person_id: 335

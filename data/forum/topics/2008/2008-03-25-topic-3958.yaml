@@ -12,8 +12,8 @@ posts:
   email: evdokimov@blues.ru
   subject: Свет в Таганроге
   deleted: false
-  text: хихиканье на радио <a href="http://star.kuban.ru/~lhasa/music/Svet_vs_3en_64.mp3"
-    target="_blank">"Эхо Таганрога"</a> два года назад... Улет!
+  text: хихиканье на радио <a href="http://star.kuban.ru/~lhasa/music/Svet_vs_3en_64.mp3" target="_blank">"Эхо Таганрога"</a>
+    два года назад... Улет!
   replies:
   - id: 35056
     parent_id: 35055
@@ -25,3 +25,4 @@ posts:
     text: 'http://star.kuban.ru/~lhasa/music/Svet_vs_3en_64.mp3
 
       - не скачивать, а слушать в пр.эфире.'
+  person_id: 4

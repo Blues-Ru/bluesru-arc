@@ -21,8 +21,7 @@ posts:
     email: yngwie@malmsteen.com
     subject: Ya plokho govorit po russki
     deleted: false
-    text: No khochu pozdravit yubilyara, luchshego rossiyskogo bluesovogo guitarista
-      Victora Zinchuka.
+    text: No khochu pozdravit yubilyara, luchshego rossiyskogo bluesovogo guitarista Victora Zinchuka.
   - id: 35240
     parent_id: 35237
     date: 2008-04-09 17:36
@@ -30,3 +29,4 @@ posts:
     email: зеня@blues.ru
     subject: как это никто? а битлз глазами?
     deleted: false
+    person_id: 335

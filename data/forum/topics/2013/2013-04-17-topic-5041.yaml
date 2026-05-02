@@ -11,14 +11,12 @@ posts:
   poster: Andrei V. Evdokimov
   subject: как не объять необъятное, так и весь блюз не переслушать
   deleted: false
-  text: "George \"Wild Child\" Butler - наткнулся на его записи, разыскивая сторонние\
-    \ проекты с участием покойного Джимми Докинса. Докинс играл на альбоме Батдера\
-    \ 1969 г.\n\n<iframe width=\"420\" height=\"315\" src=\"http://www.youtube.com/embed/5h5tbaoT2i8\"\
-    \ frameborder=\"0\" allowfullscreen></iframe>\n\nНо Докинс играет здесь не так,\
-    \ чтобы \"ах\". а вот Батлер - очень внушает: правильный вест-сайдовец с губной\
-    \ гармоникой.\n\n<iframe width=\"420\" height=\"315\" src=\"http://www.youtube.com/embed/N9_JmkX-Uyo\"\
-    \ frameborder=\"0\" allowfullscreen></iframe>\n\n <iframe width=\"420\" height=\"\
-    315\" src=\"http://www.youtube.com/embed/aqw1eG06HRk\" frameborder=\"0\" allowfullscreen></iframe>"
+  text: "George \"Wild Child\" Butler - наткнулся на его записи, разыскивая сторонние проекты с участием покойного Джимми\
+    \ Докинса. Докинс играл на альбоме Батдера 1969 г.\n\n<iframe width=\"420\" height=\"315\" src=\"http://www.youtube.com/embed/5h5tbaoT2i8\"\
+    \ frameborder=\"0\" allowfullscreen></iframe>\n\nНо Докинс играет здесь не так, чтобы \"ах\". а вот Батлер - очень внушает:\
+    \ правильный вест-сайдовец с губной гармоникой.\n\n<iframe width=\"420\" height=\"315\" src=\"http://www.youtube.com/embed/N9_JmkX-Uyo\"\
+    \ frameborder=\"0\" allowfullscreen></iframe>\n\n <iframe width=\"420\" height=\"315\" src=\"http://www.youtube.com/embed/aqw1eG06HRk\"\
+    \ frameborder=\"0\" allowfullscreen></iframe>"
   replies:
   - id: 38891
     parent_id: 38890
@@ -27,14 +25,15 @@ posts:
     subject: к вопросу о хорошем вкусе (и блюзовом китче)
     deleted: false
     text: http://1.bp.blogspot.com/_qfj6el71ckQ/SBHlcWKMmqI/AAAAAAAABFM/t4-5E8yJwZM/s400/GeorgeFunkyButtLover.JPG
+    person_id: 4
   - id: 38892
     parent_id: 38890
     date: 2013-04-17 23:41
     poster: Andrei V. Evdokimov
     subject: еще с гитарой Докинса
     deleted: false
-    text: <iframe width="420" height="315" src="http://www.youtube.com/embed/k0kPeeTCJrE"
-      frameborder="0" allowfullscreen></iframe>
+    text: <iframe width="420" height="315" src="http://www.youtube.com/embed/k0kPeeTCJrE" frameborder="0" allowfullscreen></iframe>
+    person_id: 4
   - id: 38894
     parent_id: 38890
     date: 2013-04-18 04:31

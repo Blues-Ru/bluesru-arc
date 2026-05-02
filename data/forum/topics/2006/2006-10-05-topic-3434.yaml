@@ -12,8 +12,7 @@ posts:
   email: fedor@blues.ru
   subject: The Real Book Of Blues
   deleted: false
-  text: 'Если кому-нибудь интересно, The Real Book Of Blues - 225 стандартов (ноты
-    для голоса + текст + гармония)
+  text: 'Если кому-нибудь интересно, The Real Book Of Blues - 225 стандартов (ноты для голоса + текст + гармония)
 
 
     http://notes.tarakanov.net/standard/realbook-blues.zip
@@ -32,3 +31,5 @@ posts:
     subject: Ссылки на остальные джазовые стандарты вот тут
     deleted: false
     text: http://notes.tarakanov.net/standard.htm
+    person_id: 2
+  person_id: 2

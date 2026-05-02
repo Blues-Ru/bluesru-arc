@@ -12,8 +12,7 @@ posts:
   email: blackcat@blues.ru
   subject: вышли в свет и продаются с Москве
   deleted: false
-  text: "Shemekia Copeland \"Talking to Strangers\" \nThe Blind Boys of Alabama \"\
-    Higher Ground\""
+  text: "Shemekia Copeland \"Talking to Strangers\" \nThe Blind Boys of Alabama \"Higher Ground\""
   replies:
   - id: 8266
     parent_id: 8264
@@ -22,8 +21,7 @@ posts:
     email: autozona@hotmail.com
     subject: Михаил, а где же они продаются в Москве?
     deleted: false
-    text: Я про The Blind Boys of Alabama? На сайте Пурпурного написано, что там они
-      уже закончились :(
+    text: Я про The Blind Boys of Alabama? На сайте Пурпурного написано, что там они уже закончились :(
     replies:
     - id: 8267
       parent_id: 8266
@@ -49,8 +47,8 @@ posts:
         email: autozona@hotmail.com
         subject: ну...
         deleted: false
-        text: '...и как Вам пластинка? Такая же суперская, как и предыдущая ("Spirit
-          of the Century")?'
+        text: '...и как Вам пластинка? Такая же суперская, как и предыдущая ("Spirit of the Century")?'
+        person_id: 809
       - id: 8279
         parent_id: 8267
         date: 2002-10-16 21:30
@@ -76,9 +74,8 @@ posts:
             email: evdokimov@blues.ru
             subject: увы
             deleted: false
-            text: "Все деньги потратил на японские издания бони М и смоков. \nно в\
-              \ сети читал, мол, не так классно, как предыдущий, но классно все равно.\
-              \ как хошь, так и понимай такие рецензии."
+            text: "Все деньги потратил на японские издания бони М и смоков. \nно в сети читал, мол, не так классно, как предыдущий,\
+              \ но классно все равно. как хошь, так и понимай такие рецензии."
             replies:
             - id: 8284
               parent_id: 8282
@@ -87,5 +84,9 @@ posts:
               email: dr.nick@blues.ru
               subject: Бони и Смоки
               deleted: false
-              text: Советую тебе срочно прикупить японские издания Сюзи Кватро - отличная
-                тетка ващще! ;)
+              text: Советую тебе срочно прикупить японские издания Сюзи Кватро - отличная тетка ващще! ;)
+              person_id: 335
+          person_id: 335
+        person_id: 4
+      person_id: 6
+    person_id: 809

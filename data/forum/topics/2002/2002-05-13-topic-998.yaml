@@ -12,8 +12,7 @@ posts:
   email: bjomaria@frisurf.no
   subject: Norwegian Blues-Magazine
   deleted: false
-  text: 'Hi guys.  For reviews in our magazine we search for russian blues-bands.  Send
-    me a note if you now of any.
+  text: 'Hi guys.  For reviews in our magazine we search for russian blues-bands.  Send me a note if you now of any.
 
 
     Bjorn Wiksaas
@@ -48,3 +47,6 @@ posts:
         subject: Sure it was :)
         deleted: false
         text: Ragtime is a thing to talk about :)
+        person_id: 335
+      person_id: 6
+    person_id: 2

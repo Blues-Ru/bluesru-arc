@@ -1,7 +1,6 @@
 topic_id: 5217
 slug: topic-5217
-title: Muddy Waters - 100! Весь Этот Блюз - к столетию правофлангового чикагского
-  блюза! )
+title: Muddy Waters - 100! Весь Этот Блюз - к столетию правофлангового чикагского блюза! )
 first_post: 2015-04-04 15:36
 last_post: 2016-08-17 14:26
 post_count: 6
@@ -10,8 +9,7 @@ posts:
   parent_id: null
   date: 2015-04-04 15:36
   poster: Andrei V. Evdokimov
-  subject: Muddy Waters - 100! Весь Этот Блюз - к столетию правофлангового чикагского
-    блюза! )
+  subject: Muddy Waters - 100! Весь Этот Блюз - к столетию правофлангового чикагского блюза! )
   deleted: false
   text: 'скачать - слушать
 
@@ -28,6 +26,7 @@ posts:
     subject: Muddy Waters
     deleted: false
     text: <img src="/afisha/mw-atb.jpg" width="432" height="599" alt="" title="" />
+    person_id: 4
   - id: 39270
     parent_id: 39267
     date: 2015-04-04 23:31
@@ -42,6 +41,8 @@ posts:
       poster: Andrei V. Evdokimov
       subject: не ма за шо
       deleted: false
+      person_id: 4
+    person_id: 956
   - id: 39370
     parent_id: 39267
     date: 2016-02-22 13:29
@@ -57,5 +58,5 @@ posts:
     poster: Артем
     subject: Спасибо
     deleted: false
-    text: Спасибо большое <a href="http://msk-prostitutki.com/ankets/parkkultury">
-      </a>
+    text: Спасибо большое <a href="http://msk-prostitutki.com/ankets/parkkultury"> </a>
+    person_id: 9045

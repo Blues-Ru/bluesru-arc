@@ -24,6 +24,7 @@ posts:
     subject: клавишники
     deleted: false
     text: пайнто перкинс, отис спэн, новоорлеанские дядьки... брюс катц из белых.
+    person_id: 4
   - id: 37637
     parent_id: 37635
     date: 2011-04-15 15:43
@@ -46,3 +47,6 @@ posts:
         poster: Dmitri Kazantsev
         subject: еще какой!
         deleted: false
+        person_id: 335
+      person_id: 7202
+    person_id: 13

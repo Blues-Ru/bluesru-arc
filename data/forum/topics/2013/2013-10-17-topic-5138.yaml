@@ -11,8 +11,7 @@ posts:
   poster: Andrei V. Evdokimov
   subject: ночная блюз-кинотека - Muddy Waters - Live Dortmund, Germany 29/10/1976
   deleted: false
-  text: '<iframe width="480" height="360" src="//www.youtube.com/embed/ltLHsD_A9I4"
-    frameborder="0" allowfullscreen></iframe>
+  text: '<iframe width="480" height="360" src="//www.youtube.com/embed/ltLHsD_A9I4" frameborder="0" allowfullscreen></iframe>
 
 
     Muddy Waters: Vocals, Guitar
@@ -53,3 +52,4 @@ posts:
       poster: tavrichesky
       subject: на гитаре-Марголин, без вопросительного знака.
       deleted: false
+      person_id: 7208

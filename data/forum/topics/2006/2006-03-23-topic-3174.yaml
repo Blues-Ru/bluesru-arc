@@ -21,8 +21,7 @@ posts:
     email: aaa@genebee.msu.su
     subject: Кто бы побаловался немножко и здесь -
     deleted: false
-    text: с разделом "В этот день..." А то неизвестно, что ещё случилось в этот день,
-      а за окном темнеет.
+    text: с разделом "В этот день..." А то неизвестно, что ещё случилось в этот день, а за окном темнеет.
     replies:
     - id: 26776
       parent_id: 26769
@@ -57,8 +56,11 @@ posts:
           email: fedor@blues.ru
           subject: Глюк...
           deleted: false
-          text: Там в тексте сообщения в ссылке href= не хватало закрывающей кавычки,
-            я поправил.
+          text: Там в тексте сообщения в ссылке href= не хватало закрывающей кавычки, я поправил.
+          person_id: 2
+        person_id: 4
+      person_id: 4
+    person_id: 458
   - id: 26771
     parent_id: 26766
     date: 2006-03-23 20:02
@@ -66,6 +68,7 @@ posts:
     email: sunny_city@mail.ru
     subject: Класссссссссссссссссссс !!!!
     deleted: false
+    person_id: 956
   - id: 26783
     parent_id: 26766
     date: 2006-03-24 08:57
@@ -74,3 +77,4 @@ posts:
     subject: Кулъ! Рулезъ! Риспектъ!
     deleted: false
     text: Панравилась...
+  person_id: 4

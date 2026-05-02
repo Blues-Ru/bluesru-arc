@@ -12,8 +12,7 @@ posts:
   email: aaa@genebee.msu.su
   subject: Happy Birthday!
   deleted: false
-  text: 'Блюзовый гитарист и певец Юрий Каверкин родился (не)много лет назад в Tbilisi
-    (Georgia). С днем рождения, Юра!
+  text: 'Блюзовый гитарист и певец Юрий Каверкин родился (не)много лет назад в Tbilisi (Georgia). С днем рождения, Юра!
 
 
     Отмечать начали вчера в Би Би Кинге. Было весело. Сегодня вторая серия.'
@@ -37,6 +36,7 @@ posts:
       text: 'Всем огромный thanks за поздравления !!!
 
         Всех благ и т.д и т.п.'
+    person_id: 82
   - id: 4406
     parent_id: 4403
     date: 2002-05-16 13:51
@@ -57,6 +57,7 @@ posts:
     subject: Great
     deleted: false
     text: Присоединяюсь к поздравлениям
+    person_id: 687
   - id: 4410
     parent_id: 4403
     date: 2002-05-17 09:48

@@ -12,12 +12,10 @@ posts:
   email: lifebythedrop@yandex.ru
   subject: Кто-нибудь знает?
   deleted: false
-  text: "Попала мне запись Стива Бейкера и Криса Джонса ( дуэтом). Треки только пронумерованы,\
-    \ а названий нет. Может кто знает что за песня, правда слова не все разобрал (знания\
-    \ языка не хватает, а вернее словарного запаса)\nI went dowb the st. James (не\
-    \ распознал слова)\nI saw my baby there\nStretch down the long white (или wide)\
-    \ table (не знаю, в последней строчке я совершенно не уверен)\n \nЕсли текстик\
-    \ кто знает подскажите..."
+  text: "Попала мне запись Стива Бейкера и Криса Джонса ( дуэтом). Треки только пронумерованы, а названий нет. Может кто знает\
+    \ что за песня, правда слова не все разобрал (знания языка не хватает, а вернее словарного запаса)\nI went dowb the st.\
+    \ James (не распознал слова)\nI saw my baby there\nStretch down the long white (или wide) table (не знаю, в последней\
+    \ строчке я совершенно не уверен)\n \nЕсли текстик кто знает подскажите..."
   replies:
   - id: 17006
     parent_id: 17005
@@ -27,6 +25,7 @@ posts:
     subject: вот ещё
     deleted: false
     text: Альбом называется Slow Roll
+    person_id: 687
   - id: 17008
     parent_id: 17005
     date: 2004-01-29 16:31
@@ -34,18 +33,14 @@ posts:
     email: bluesman@nm.ru
     subject: Хм, старая песня.
     deleted: false
-    text: "Это старая песня и действительно folksong - \"народная\".\nSt. James Infirmary\n\
-      Вариантов текста очень много, как у настоящей народной песни.\nВот вариант Кэба\
-      \ Кэллоуэя (см. Блюз Бразерс ч.1)\n\nI'm went' down to St. James Infirmary,\
-      \ \nI saw  my baby there; \nShe's stretched out on a long, white table, \nSo\
-      \ cold, so pain, so fair. \n\nLet her go, let her go, God bless her, \nWherever\
-      \ she may be, \nShe can search this wide world over, \nnever find another good\
-      \ lovin'man like me. \n\nNow, when I die, bury me in my straight-leg britches,\
-      \ \nPut on a box-back coat and a stetson hat, \nTwenty-dollar gold piece on\
-      \ my watch chain, \nSo you can let all the boys know I died standing pat. \n\
-      \nFolks, now that you have heard my story, \nSay, boy, hand me another shot\
-      \ of that booze; \nIf anyone should ask you, \nTell 'em I've got those St. James\
-      \ Infirmary blues."
+    text: "Это старая песня и действительно folksong - \"народная\".\nSt. James Infirmary\nВариантов текста очень много, как\
+      \ у настоящей народной песни.\nВот вариант Кэба Кэллоуэя (см. Блюз Бразерс ч.1)\n\nI'm went' down to St. James Infirmary,\
+      \ \nI saw  my baby there; \nShe's stretched out on a long, white table, \nSo cold, so pain, so fair. \n\nLet her go,\
+      \ let her go, God bless her, \nWherever she may be, \nShe can search this wide world over, \nnever find another good\
+      \ lovin'man like me. \n\nNow, when I die, bury me in my straight-leg britches, \nPut on a box-back coat and a stetson\
+      \ hat, \nTwenty-dollar gold piece on my watch chain, \nSo you can let all the boys know I died standing pat. \n\nFolks,\
+      \ now that you have heard my story, \nSay, boy, hand me another shot of that booze; \nIf anyone should ask you, \nTell\
+      \ 'em I've got those St. James Infirmary blues."
   - id: 17010
     parent_id: 17005
     date: 2004-01-29 22:11
@@ -88,8 +83,7 @@ posts:
       email: morehemp
       subject: правда,
       deleted: false
-      text: Вэн по ходу спел ее несколько иначе :), с небольшими отступлениями от
-        текста в буклете.
+      text: Вэн по ходу спел ее несколько иначе :), с небольшими отступлениями от текста в буклете.
   - id: 17018
     parent_id: 17005
     date: 2004-01-30 08:41
@@ -97,7 +91,8 @@ posts:
     email: lifebythedrop@yandex.ru
     subject: О, мерси...
     deleted: false
-    text: Алекс, Грета, большое спасибо. Старая говоришь... я её раздобыл у известного
-      тебе, Алекс, Дмитриева С. А. ему кто-то притащил самопальный сборничек на мп3
-      и это в том числе там был и Бейкер с Джонсом. Кстати, а что это за люди. В смычле
+    text: Алекс, Грета, большое спасибо. Старая говоришь... я её раздобыл у известного тебе, Алекс, Дмитриева С. А. ему кто-то
+      притащил самопальный сборничек на мп3 и это в том числе там был и Бейкер с Джонсом. Кстати, а что это за люди. В смычле
       имена слышал, уроки Бейкера на харпе видел. А больше я про них ничего не знаю.
+    person_id: 687
+  person_id: 687

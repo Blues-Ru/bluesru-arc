@@ -27,6 +27,7 @@ posts:
     email: chifuroff<fhggjhgncvcmbnv >inbox.ru
     subject: Ура!!!
     deleted: false
+    person_id: 2888
   - id: 27848
     parent_id: 27843
     date: 2006-07-10 11:16
@@ -43,3 +44,4 @@ posts:
     subject: Женяга,дружище
     deleted: false
     text: с прошедшим тебя. Дай Бог тебе всего самого,самого хорошего!!!
+  person_id: 4764

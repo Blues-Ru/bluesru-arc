@@ -30,3 +30,5 @@ posts:
       subject: Точно есть!
       deleted: false
       text: И я уже жаловался на это!
+      person_id: 335
+  person_id: 378

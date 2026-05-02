@@ -41,6 +41,8 @@ posts:
       subject: Алексей! Делай жизнь веселей! ну и это.. держи кисть бодрей!
       deleted: false
       text: .. или чем ты там рисуешь.. впрочем, неважно! главное, что клёво! =))
+      person_id: 13
+    person_id: 1849
   - id: 17720
     parent_id: 17715
     date: 2004-03-25 19:22
@@ -57,6 +59,7 @@ posts:
       email: kaverkin@rol.ru
       subject: Многие лета!!! И другие времена года...
       deleted: false
+    person_id: 335
   - id: 17732
     parent_id: 17715
     date: 2004-03-26 12:50

@@ -12,8 +12,8 @@ posts:
   email: RR@RAMBLER.RU
   subject: Блюз на японском  ...
   deleted: false
-  text: "... это супер! :) А вот еще нет ли ни у кого DEEP PURPLE - SMOKE ON THE WATER\
-    \ на японском ? \n\nСлышал отрывок по радио, звучит тоже классно ..."
+  text: "... это супер! :) А вот еще нет ли ни у кого DEEP PURPLE - SMOKE ON THE WATER на японском ? \n\nСлышал отрывок по\
+    \ радио, звучит тоже классно ..."
   replies:
   - id: 6761
     parent_id: 6752
@@ -38,3 +38,4 @@ posts:
     subject: Осталось окосеть!
     deleted: false
     text: Вот когда мы с тобой встретимся ты мне напой на языке самураев... :)
+    person_id: 1053

@@ -21,6 +21,7 @@ posts:
     email: dr.nick@blues.ru
     subject: да, Чифурыч, ура!
     deleted: false
+    person_id: 335
   - id: 28435
     parent_id: 28433
     date: 2006-08-21 12:30
@@ -44,3 +45,6 @@ posts:
         email: chifuroff (((((((<inbox>hhjhinbox.ru
         subject: Thanks! :-)))))
         deleted: false
+        person_id: 2888
+      person_id: 1719
+  person_id: 4764

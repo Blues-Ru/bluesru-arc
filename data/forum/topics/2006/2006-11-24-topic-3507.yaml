@@ -12,14 +12,13 @@ posts:
   email: еlicaster мeйлтoчкapy
   subject: Hey, Good Lookin' - кто исполняет?
   deleted: false
-  text: 'Слушаю сейчас Dwight Yoakam and Buckwheat Zydeco - Hey, Good Lookin''. хорошая,
-    веселая штука! Вот и вспомнил, я уже как-то спрашивал:
+  text: 'Слушаю сейчас Dwight Yoakam and Buckwheat Zydeco - Hey, Good Lookin''. хорошая, веселая штука! Вот и вспомнил, я
+    уже как-то спрашивал:
 
     Кто из блюзменов исполнял эту вещь Хэнка Уильямса?
 
-    Дело в томи что однажды я слыхал её по радио (если не ошибаюсь название передачи
-    "В блюзовых тонах", вёл её Н.Арутюнов, конец 80-ых), была она в исполнении какого-то
-    блюзмена. Запись старая (50-ые, 60-ые гг.)
+    Дело в томи что однажды я слыхал её по радио (если не ошибаюсь название передачи "В блюзовых тонах", вёл её Н.Арутюнов,
+    конец 80-ых), была она в исполнении какого-то блюзмена. Запись старая (50-ые, 60-ые гг.)
 
     Я тогда и не знал что изначально это кантри песня, звучала она абсолютно по блюзовому...
 
@@ -46,6 +45,7 @@ posts:
       subject: Нет, не то :-(
       deleted: false
       text: Не то что ищу, к сожалению...
+    person_id: 2
   - id: 29429
     parent_id: 29426
     date: 2006-11-25 01:25
@@ -95,11 +95,10 @@ posts:
 
         mp3 файл заархивирован в zip: 0.7 Mb, 64 Kbps, 22 KHz, 01:34
 
-        Скачать можно <a href="http://file009r.mylivepage.com/chunk9/26234/31/Hey%2C%20Good%20Looking.zip">тут</a>
-        или <a href="http://elicaster.mylivepage.ru/file/31/1309/Hey%2C+Good+Looking.zip">здесь</a>.
+        Скачать можно <a href="http://file009r.mylivepage.com/chunk9/26234/31/Hey%2C%20Good%20Looking.zip">тут</a> или <a
+        href="http://elicaster.mylivepage.ru/file/31/1309/Hey%2C+Good+Looking.zip">здесь</a>.
 
-        Если не получится, то <a href="http://elicaster.mylivepage.ru/file/?fileid=1309">отсюда</a>
-        точно должно получИтся.'
+        Если не получится, то <a href="http://elicaster.mylivepage.ru/file/?fileid=1309">отсюда</a> точно должно получИтся.'
       replies:
       - id: 29438
         parent_id: 29433
@@ -109,6 +108,7 @@ posts:
         subject: ^ это только отрывок записанный тогда с радио. Кто же это поёт?
         deleted: false
         text: Так ктоже этот исполнитель?
+    person_id: 335
   - id: 29448
     parent_id: 29426
     date: 2006-11-28 23:42

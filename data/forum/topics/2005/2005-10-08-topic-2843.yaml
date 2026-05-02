@@ -21,8 +21,7 @@ posts:
     email: blackcat@blues.ru
     subject: Потрясающе!
     deleted: false
-    text: 'Сообщение состоит из одних ссылок: три ссылки! и не одна не ведёт туда,
-      куда должна бы...'
+    text: 'Сообщение состоит из одних ссылок: три ссылки! и не одна не ведёт туда, куда должна бы...'
     replies:
     - id: 23764
       parent_id: 23759
@@ -49,3 +48,5 @@ posts:
           email: jokerthk@yandex.ru
           subject: А по-моему, они одинаковые...
           deleted: false
+        person_id: 6
+    person_id: 6

@@ -21,6 +21,7 @@ posts:
     subject: да они тупые!
     deleted: false
     text: россия вперёд!
+    person_id: 335
   - id: 35472
     parent_id: 35467
     date: 2008-06-05 19:41
@@ -42,6 +43,7 @@ posts:
         ---
 
         про амфетамины - тут ты доктор ))) пошел поправлять!'
+    person_id: 458
   - id: 35475
     parent_id: 35467
     date: 2008-06-06 01:45
@@ -59,3 +61,4 @@ posts:
 
 
       http://ru.wikipedia.org/wiki/4_%D0%B8%D1%8E%D0%BB%D1%8F'
+  person_id: 4

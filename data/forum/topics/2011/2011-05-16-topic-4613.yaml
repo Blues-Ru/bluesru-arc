@@ -30,8 +30,7 @@ posts:
       poster: Andrei V. Evdokimov
       subject: противе тенденции не дуй!
       deleted: false
-      text: 'Этот вот лучший блюзовый дебют года: http://www.matthillblues.com/ -
-        вторая песня в графе Мьюзик.'
+      text: 'Этот вот лучший блюзовый дебют года: http://www.matthillblues.com/ - вторая песня в графе Мьюзик.'
       replies:
       - id: 37730
         parent_id: 37727
@@ -40,6 +39,8 @@ posts:
         subject: ок
         deleted: false
         text: блюз, да
+        person_id: 335
+      person_id: 4
     - id: 37741
       parent_id: 37723
       date: 2011-05-20 18:50
@@ -47,3 +48,5 @@ posts:
       subject: А у меня тоже есть хорошее название
       deleted: false
       text: Halls/Balls - а чо, звучит!
+      person_id: 13
+    person_id: 335

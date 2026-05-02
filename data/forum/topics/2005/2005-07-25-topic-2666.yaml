@@ -12,9 +12,8 @@ posts:
   email: tyomson@mail.ru
   subject: Книги о блюзах и блюзменах - вопрос  Андрею Евдокимову
   deleted: false
-  text: "Здравствуйте, Андрей!\n\nУ меня к вам большая просьба. Меня интересуют книги\
-    \ о блюзе и блюзменах (естественно на английском). Причем не столько история жанра,\
-    \ сколько биографии черных блюзменов, факты и истории из их жизни.Буду признателен,\
+  text: "Здравствуйте, Андрей!\n\nУ меня к вам большая просьба. Меня интересуют книги о блюзе и блюзменах (естественно на\
+    \ английском). Причем не столько история жанра, сколько биографии черных блюзменов, факты и истории из их жизни.Буду признателен,\
     \ если вы мне что-нибудь порекомендуете \"в таком ключе\". \nСпасибо."
   replies:
   - id: 22087
@@ -24,49 +23,35 @@ posts:
     email: evdokimov@blues.ru
     subject: не такой уж легкий вопрос
     deleted: false
-    text: "Robert Palmer \"Deep Blues\" сочетает историю с биографиями. Это первое\
-      \ и бесспорное. а дальше выбирать очень трудно - книг по блюзу много. \nWillie\
-      \ Dixon \"I'm te Blues\", помнится, меня разочаровал. фактов там маловато, хотя\
-      \ рассуждения о природе блюза - очень полезные. Но историю Chess нужно изучать\
-      \ по: Spinning Blues into Gold : The Chess Brothers and the Legendary Chess\
-      \ Records by Nadine Cohodas.\nАкадемический труд истории блюза и всяким его\
-      \ классификациям: Nothing But the Blues : The Music and the Musicians by Lawrence\
-      \ Cohn - под редакцией самого авторитетного блюзолога.\nThe Story of the Blues\
-      \ by Paul Oliver - историография блюза начинается с этой книги, но на сегодня\
-      \ она явно устарела и грешит многими ошибками.\nО том, где и из какой жизни\
-      \ возник блюз - из первых уст: The World Don't Owe Me Nothing: The Life and\
-      \ Times of Delta Bluesman Honeyboy Edwards by David Honeyboy Edwards - прекрасно\
-      \ иллюстрирована и удостоена всяческих премий.\nвот интересная свежая книжка:\
-      \ Escaping the Delta : Robert Johnson and the Invention of the Blues by Elijah\
-      \ Wald \nкапитальный труд: Moanin' at Midnight: The Life and Times of Howlin'\
-      \ Wolf by James Segrest, Mark Hoffman\nфолк-блюз от самого компетентного человека:\
-      \ The Land Where the Blues Began by Alan Lomax \nвот очень забавный \"туристический\
-      \ гид\" в котором полно интересных фактов: Blues Traveling: The Holy Sites of\
-      \ Delta Blues by Steve Cheseborough \nЭтот вот человек знаменит частыми ошибками,\
-      \ но вообще-то он получал сведения из первых рук, проинтервьюировав сотни блюзменов:\
-      \ Walking a Blues Road by Samuel Charters \nCharles Shaar Murray написал замечательный\
-      \ гид Blues On CD - коротенько, емко, умно, остроумно. а вот хукеровская биография\
-      \ у него получилась наредкость занудной, хотя теоретически на таком материале\
-      \ это кажется невозможным (но фактов - на солидный том набралось): Boogie Man:\
-      \ The Adventures of John Lee Hooker in the American Twentieth Century \nОтличный\
-      \ сборник интервью и статей о блюзе от журнала Guitar Player: Blues Guitar by\
-      \ Jas Obrecht\nлюблю книжку Portrait Of The Blues by Paul Trynka - там блюзовые\
-      \ байки от самих блюзменов и их портреты-фотографии.\nИнтервью с блюзменами,\
-      \ которые сами - дети блюзменов: Children of the Blues: 40 Musicians Shaping\
-      \ a New Generation of Blues Tradition by Art Tipaldi \nBob Brunning - очевидец\
-      \ и участник Британского блюзового бума 60-х написал несколько книг на эту тему.\
-      \ бас-гитарист и школьный учитель, обладает талантом скучно писать обо всем,\
-      \ и при всяком случае наровит вставить про свой Brunning blueband. (Blues In\
-      \ Britain).\nJohn Mayall: Blues Breaker by Richard Newman - удивительный труд!\
-      \ два слова про Мэйолла, и всякие банальности об истории блюза вообще.\n\nпро\
-      \ белый хиппи-блюз-рок: Living the Blues: Canned Heat's Story of Music, Drugs,\
-      \ Death, Sex and Survival by Fito De LA Parra - сам еще не читал, но собираюсь\
-      \ обязательно.\nТоже не читал, а надо бы: Martin Scorsese Presents the Blues:\
-      \ A Musical Journey \nили вот - не читал, но очень завлекательно звучит: Elwood's\
-      \ Blues: Interviews with the Blues Legends and Stars by Dan Aykroyd\nне читал,\
-      \ но тема - супер! Trumpet Records: Diamonds on Farish Street by Marc Ryan\n\
-      \nсамая задушевная автобиография из всех прочитанных мной: Blues All around\
-      \ Me: The Autobiography of B. B. King \n---- ну и так до бесконечности :)"
+    text: "Robert Palmer \"Deep Blues\" сочетает историю с биографиями. Это первое и бесспорное. а дальше выбирать очень трудно\
+      \ - книг по блюзу много. \nWillie Dixon \"I'm te Blues\", помнится, меня разочаровал. фактов там маловато, хотя рассуждения\
+      \ о природе блюза - очень полезные. Но историю Chess нужно изучать по: Spinning Blues into Gold : The Chess Brothers\
+      \ and the Legendary Chess Records by Nadine Cohodas.\nАкадемический труд истории блюза и всяким его классификациям:\
+      \ Nothing But the Blues : The Music and the Musicians by Lawrence Cohn - под редакцией самого авторитетного блюзолога.\n\
+      The Story of the Blues by Paul Oliver - историография блюза начинается с этой книги, но на сегодня она явно устарела\
+      \ и грешит многими ошибками.\nО том, где и из какой жизни возник блюз - из первых уст: The World Don't Owe Me Nothing:\
+      \ The Life and Times of Delta Bluesman Honeyboy Edwards by David Honeyboy Edwards - прекрасно иллюстрирована и удостоена\
+      \ всяческих премий.\nвот интересная свежая книжка: Escaping the Delta : Robert Johnson and the Invention of the Blues\
+      \ by Elijah Wald \nкапитальный труд: Moanin' at Midnight: The Life and Times of Howlin' Wolf by James Segrest, Mark\
+      \ Hoffman\nфолк-блюз от самого компетентного человека: The Land Where the Blues Began by Alan Lomax \nвот очень забавный\
+      \ \"туристический гид\" в котором полно интересных фактов: Blues Traveling: The Holy Sites of Delta Blues by Steve Cheseborough\
+      \ \nЭтот вот человек знаменит частыми ошибками, но вообще-то он получал сведения из первых рук, проинтервьюировав сотни\
+      \ блюзменов: Walking a Blues Road by Samuel Charters \nCharles Shaar Murray написал замечательный гид Blues On CD -\
+      \ коротенько, емко, умно, остроумно. а вот хукеровская биография у него получилась наредкость занудной, хотя теоретически\
+      \ на таком материале это кажется невозможным (но фактов - на солидный том набралось): Boogie Man: The Adventures of\
+      \ John Lee Hooker in the American Twentieth Century \nОтличный сборник интервью и статей о блюзе от журнала Guitar Player:\
+      \ Blues Guitar by Jas Obrecht\nлюблю книжку Portrait Of The Blues by Paul Trynka - там блюзовые байки от самих блюзменов\
+      \ и их портреты-фотографии.\nИнтервью с блюзменами, которые сами - дети блюзменов: Children of the Blues: 40 Musicians\
+      \ Shaping a New Generation of Blues Tradition by Art Tipaldi \nBob Brunning - очевидец и участник Британского блюзового\
+      \ бума 60-х написал несколько книг на эту тему. бас-гитарист и школьный учитель, обладает талантом скучно писать обо\
+      \ всем, и при всяком случае наровит вставить про свой Brunning blueband. (Blues In Britain).\nJohn Mayall: Blues Breaker\
+      \ by Richard Newman - удивительный труд! два слова про Мэйолла, и всякие банальности об истории блюза вообще.\n\nпро\
+      \ белый хиппи-блюз-рок: Living the Blues: Canned Heat's Story of Music, Drugs, Death, Sex and Survival by Fito De LA\
+      \ Parra - сам еще не читал, но собираюсь обязательно.\nТоже не читал, а надо бы: Martin Scorsese Presents the Blues:\
+      \ A Musical Journey \nили вот - не читал, но очень завлекательно звучит: Elwood's Blues: Interviews with the Blues Legends\
+      \ and Stars by Dan Aykroyd\nне читал, но тема - супер! Trumpet Records: Diamonds on Farish Street by Marc Ryan\n\nсамая\
+      \ задушевная автобиография из всех прочитанных мной: Blues All around Me: The Autobiography of B. B. King \n---- ну\
+      \ и так до бесконечности :)"
     replies:
     - id: 22090
       parent_id: 22087
@@ -84,8 +69,8 @@ posts:
         email: gypsy@mail.ru
         subject: Фёдор, лучше сделай отдельную страничку со ссылкой с титула
         deleted: false
-        text: "Типа \"Книги о блюзе\". \nТам же можно поставить ссылки на BN.COM или\
-          \ амазон прямо на конкретную книжку. Тогда будет ваще супер!"
+        text: "Типа \"Книги о блюзе\". \nТам же можно поставить ссылки на BN.COM или амазон прямо на конкретную книжку. Тогда\
+          \ будет ваще супер!"
     - id: 22099
       parent_id: 22087
       date: 2005-07-27 16:24
@@ -93,9 +78,8 @@ posts:
       email: tyomson@mail.ru
       subject: Grateful tomson! :)
       deleted: false
-      text: "Огромное спасибо, Андрей! Тем более, что я и сам понимаю, какой непростой\
-        \ вопрос я задал. Попытаюсь что нибудь раздобыть из этого списка. \n\nLonglive\
-        \ blues!"
+      text: "Огромное спасибо, Андрей! Тем более, что я и сам понимаю, какой непростой вопрос я задал. Попытаюсь что нибудь\
+        \ раздобыть из этого списка. \n\nLonglive blues!"
       replies:
       - id: 22100
         parent_id: 22099
@@ -104,12 +88,10 @@ posts:
         email: elicaster(@)))mmmmmmmmmmail.ru
         subject: '"100 Jahre aus Blues"'
         deleted: false
-        text: У нас в Госбиблиотеке есть книга что-то типа "100 Jahre aus Blues" (в
-          переводе "100 лье под водой"), сам-пынимашь на немецком. Изюминка книги
-          в том что так наряду с текстами известных блюзов (Stormy Monday, Johnny
-          B. Goode, Goin' Down South, Tutti Frutti, даже That'll Be Days Бадди Холли
-          :)) были и литературные переводы на немецком. То-то потеха, петь на немецком
-          :-)
+        text: У нас в Госбиблиотеке есть книга что-то типа "100 Jahre aus Blues" (в переводе "100 лье под водой"), сам-пынимашь
+          на немецком. Изюминка книги в том что так наряду с текстами известных блюзов (Stormy Monday, Johnny B. Goode, Goin'
+          Down South, Tutti Frutti, даже That'll Be Days Бадди Холли :)) были и литературные переводы на немецком. То-то потеха,
+          петь на немецком :-)
         replies:
         - id: 22101
           parent_id: 22100
@@ -139,6 +121,7 @@ posts:
             subject: Big Road Blues
             deleted: false
             text: 'Поправлюсь: Big Road Blues автор David Evans. Хорошая книга.'
+          person_id: 4
     - id: 22102
       parent_id: 22087
       date: 2005-07-27 21:26
@@ -146,7 +129,6 @@ posts:
       email: mlives_6@hotmail.com
       subject: отличный список!
       deleted: false
-      text: "Я сосласен с рекомендациями Андрея, особенно Deep Blues, The Story of\
-        \ the Blues, и Nothing But the Blues\n\nМне нравятся практически любые книги\
-        \ о блюзе и о блюзовых артистах от следующих авторов:  Robert Palmer, Paul\
-        \ Oliver, David Evans, Peter Guralnick.    \n\nMuddy"
+      text: "Я сосласен с рекомендациями Андрея, особенно Deep Blues, The Story of the Blues, и Nothing But the Blues\n\n\
+        Мне нравятся практически любые книги о блюзе и о блюзовых артистах от следующих авторов:  Robert Palmer, Paul Oliver,\
+        \ David Evans, Peter Guralnick.    \n\nMuddy"

@@ -34,6 +34,8 @@ posts:
 
 
         Кожекин, Русинов или Путин?'
+      person_id: 366
+    person_id: 2
   - id: 13503
     parent_id: 13501
     date: 2003-08-07 14:34
@@ -42,6 +44,7 @@ posts:
     subject: Жаль я не в москве ж((((
     deleted: false
     text: заглянул бы ж))
+    person_id: 1755
   - id: 13506
     parent_id: 13501
     date: 2003-08-07 16:21
@@ -50,3 +53,4 @@ posts:
     subject: А итак все догадались ж)))
     deleted: false
     text: ;)))
+    person_id: 1755

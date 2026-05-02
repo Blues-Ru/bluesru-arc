@@ -27,9 +27,13 @@ posts:
       subject: блюз
       deleted: false
       text: Даю, я уже здесь. О чем поговорим?
+      person_id: 7856
+    person_id: 7849
   - id: 37434
     parent_id: 37426
     date: 2011-03-16 21:00
     poster: Старый Майор
     subject: А чего давать-то??? Oo
     deleted: false
+    person_id: 13
+  person_id: 7849

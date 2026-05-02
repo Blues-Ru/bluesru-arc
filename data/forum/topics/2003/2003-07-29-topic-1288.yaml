@@ -27,8 +27,7 @@ posts:
 
       Стыд и срам!
 
-      А ведь порой-то чуть ли не инфаркт сватит услышав где-нибудь что-то типа "Они
-      Стенку долбят" или "Он Антену натягивает"...
+      А ведь порой-то чуть ли не инфаркт сватит услышав где-нибудь что-то типа "Они Стенку долбят" или "Он Антену натягивает"...
 
       Ну что за имена?!
 
@@ -50,10 +49,10 @@ posts:
     email: lifebythedrop@yandex.ru
     subject: О, Господи
     deleted: false
-    text: Каждый понимает всё в силу своей испорченности... так что я не обижаюсь.
-      А текст я сам пытался "снять" по песне но качество файлов в формате .ra и моих
-      колонок не позволило мне сие сделать. Разве что начало "Now listen here Mr.
+    text: Каждый понимает всё в силу своей испорченности... так что я не обижаюсь. А текст я сам пытался "снять" по песне
+      но качество файлов в формате .ra и моих колонок не позволило мне сие сделать. Разве что начало "Now listen here Mr.
       Dialler..." а дальше не понял.
+    person_id: 687
   - id: 13394
     parent_id: 13364
     date: 2003-07-31 00:26
@@ -61,8 +60,7 @@ posts:
     email: elicaster@online.tm
     subject: Это, случаем, не
     deleted: false
-    text: 'Roll of the Tumbling Dice (Lonnie Brooks: Roadhouse Rules 1996; Deluxe
-      Edition 1997)?'
+    text: 'Roll of the Tumbling Dice (Lonnie Brooks: Roadhouse Rules 1996; Deluxe Edition 1997)?'
   - id: 13397
     parent_id: 13364
     date: 2003-07-31 09:27
@@ -70,6 +68,7 @@ posts:
     email: lifebythedrop@yandex.ru
     subject: Кажись оно самое
     deleted: false
+    person_id: 687
   - id: 13412
     parent_id: 13364
     date: 2003-08-01 00:16
@@ -82,3 +81,4 @@ posts:
       Все дороги (то бишь lyrics-линки) ведут к Rolling Stones "Tumbling Dice".
 
       Продолжаем поиск...'
+  person_id: 687

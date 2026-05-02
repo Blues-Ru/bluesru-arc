@@ -36,6 +36,7 @@ posts:
       subject: товарищи без штанов :)
       deleted: false
       text: хе хе :) знакомо знакомо
+    person_id: 5
   - id: 22006
     parent_id: 21998
     date: 2005-07-13 17:54
@@ -55,3 +56,4 @@ posts:
       subject: это стик.
       deleted: false
       text: на нем Тони Левин играл например в Кинг Кримсон. :)
+      person_id: 5

@@ -11,14 +11,13 @@ posts:
   poster: Andrei V. Evdokimov
   subject: 'из ютюбных архи-редкостей: Jimmy Reed'
   deleted: false
-  text: '<iframe width="560" height="315" src="http://www.youtube.com/embed/QBxXPv0YvRo"
-    frameborder="0" allowfullscreen></iframe>
+  text: '<iframe width="560" height="315" src="http://www.youtube.com/embed/QBxXPv0YvRo" frameborder="0" allowfullscreen></iframe>
 
 
     Говорят, это из рекламного ролика к фильму 70-х "All You Need Is Love"
 
-    В процессе совершенствования фильма кадры с Джимми Ридом из него выпали, а в трейлер
-    так и остались... Добрые люди нашли, выложили для всех.'
+    В процессе совершенствования фильма кадры с Джимми Ридом из него выпали, а в трейлер так и остались... Добрые люди нашли,
+    выложили для всех.'
   replies:
   - id: 38811
     parent_id: 38809
@@ -34,3 +33,5 @@ posts:
       poster: Andrei V. Evdokimov
       subject: вот именно!
       deleted: false
+      person_id: 4
+    person_id: 13

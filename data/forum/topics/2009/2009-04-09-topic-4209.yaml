@@ -12,8 +12,7 @@ posts:
   email: evdokimov@blues.ru
   subject: Декаданс в мемфисе
   deleted: false
-  text: <img src="/afisha/cocainehabitblues.jpg" width="350" height="348" alt="" border="0"
-    align="" />
+  text: <img src="/afisha/cocainehabitblues.jpg" width="350" height="348" alt="" border="0" align="" />
   replies:
   - id: 36277
     parent_id: 36274
@@ -25,3 +24,4 @@ posts:
     text: 'JUNKERS, JIVERS AND COKE FRIENDS называется
 
       там не только в мемфисе декаданс'
+  person_id: 4

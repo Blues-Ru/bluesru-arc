@@ -11,8 +11,7 @@ posts:
   poster: Олег
   subject: день рождения лонни джонсона
   deleted: false
-  text: Привет, ребята, все-таки Лонни Джонсон родился в 1899 году, а не в 1889, как
-    сейчас мы видим на календаре сайта
+  text: Привет, ребята, все-таки Лонни Джонсон родился в 1899 году, а не в 1889, как сейчас мы видим на календаре сайта
   replies:
   - id: 39352
     parent_id: 39351
@@ -21,23 +20,24 @@ posts:
     subject: Спасибо!
     deleted: false
     text: Исправлено...
+    person_id: 2
   - id: 39353
     parent_id: 39351
     date: 2016-02-08 16:00
     poster: Александр Сомов
     subject: '...'
     deleted: false
-    text: "Откуда инфа? Как указано в блюзовом календаре, дата 1889 года взята из\
-      \ [Blues Who's Who, Encyclopedia Britannica] - http://www.keeponliving.at/artist/lonnie_johnson.html\
-      \ \n\nА это как-то надежней википедии, хотя можно указать оба варианта."
+    text: "Откуда инфа? Как указано в блюзовом календаре, дата 1889 года взята из [Blues Who's Who, Encyclopedia Britannica]\
+      \ - http://www.keeponliving.at/artist/lonnie_johnson.html \n\nА это как-то надежней википедии, хотя можно указать оба\
+      \ варианта."
   - id: 39354
     parent_id: 39351
     date: 2016-02-08 16:02
     poster: Александр Сомов
     subject: '...'
     deleted: false
-    text: А если исправили, то надо бы убрать фразу - (По поводу даты его рождения
-      есть расхождения во мнениях. Здесь данные приводятся по Blues Who's Who).-
+    text: А если исправили, то надо бы убрать фразу - (По поводу даты его рождения есть расхождения во мнениях. Здесь данные
+      приводятся по Blues Who's Who).-
     replies:
     - id: 39356
       parent_id: 39354
@@ -45,18 +45,19 @@ posts:
       poster: Олег
       subject: '...'
       deleted: false
-      text: Наверное лучше всего сделать , как Дональд Кларк в своей The Penguin Encyclopedia
-        of Popular Music, Поставить в календаре - 8 февраля 1899(?)
+      text: Наверное лучше всего сделать , как Дональд Кларк в своей The Penguin Encyclopedia of Popular Music, Поставить
+        в календаре - 8 февраля 1899(?)
+      person_id: 8301
+    person_id: 7879
   - id: 39359
     parent_id: 39351
     date: 2016-02-11 15:45
     poster: Andrei V. Evdokimov
     subject: а еще лучше внимательн читать, и только после поправлять и исправлять.
     deleted: false
-    text: "В Who is Who тоже встречаются ошибки. Но автор работал с реальными документами,\
-      \ и не с интернет-линками. \nИ даже Википедию надо читать не русскую, где авторам\
-      \ сразу все понятно. а английскую, где у года рождения стоят сразу две пояснительные\
-      \ ссылки.\nФедор... а вот тебя я вообще не понял."
+    text: "В Who is Who тоже встречаются ошибки. Но автор работал с реальными документами, и не с интернет-линками. \nИ даже\
+      \ Википедию надо читать не русскую, где авторам сразу все понятно. а английскую, где у года рождения стоят сразу две\
+      \ пояснительные ссылки.\nФедор... а вот тебя я вообще не понял."
     replies:
     - id: 39367
       parent_id: 39359
@@ -65,14 +66,14 @@ posts:
       subject: Пардон, был невнимателен
       deleted: false
       text: Поскольку отличие в одной цифре, было похоже на опечатку
+      person_id: 2
   - id: 39380
     parent_id: 39351
     date: 2016-03-28 18:48
     poster: igrik
     subject: На нашем сайте проститутки
     deleted: true
-    text: 'На нашем сайте проститутки сами размещают анкеты, поэтому у нас размещаются
-      как шлюхи
+    text: 'На нашем сайте проститутки сами размещают анкеты, поэтому у нас размещаются как шлюхи
 
       Хотите весело провести свой досуг http://surgutnochnoy.net/'
   - id: 39381
@@ -99,11 +100,14 @@ posts:
     text: 'Нормально рекламируются прям тут))
 
       <a href="http://dosugkazan.com/"> </a>'
+    person_id: 9064
   - id: 39394
     parent_id: 39351
     date: 2016-05-11 10:00
     poster: Бартулович
     subject: Поздравляем
     deleted: true
-    text: Поздравляем!!!<a href="http://spb-dosug.com/ankets/vip"> </a> <a href="http://spb-dosug.com/ankets/cheap">
-      </a> <a href="http://spb-dosug.com/ankets/mature"> </a>
+    text: Поздравляем!!!<a href="http://spb-dosug.com/ankets/vip"> </a> <a href="http://spb-dosug.com/ankets/cheap"> </a>
+      <a href="http://spb-dosug.com/ankets/mature"> </a>
+    person_id: 9064
+  person_id: 8301

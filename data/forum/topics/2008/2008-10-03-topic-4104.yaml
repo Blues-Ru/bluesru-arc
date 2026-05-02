@@ -12,8 +12,7 @@ posts:
   email: evdokimov@blues.ru
   subject: Как это было в марте 2007-го.
   deleted: false
-  text: <a href="/bluesnews/07Leto/guyphil/content/index.html"><b>Концерты Фила Гая
-    с группой Омара в Доме у Дороги </b></a>.
+  text: <a href="/bluesnews/07Leto/guyphil/content/index.html"><b>Концерты Фила Гая с группой Омара в Доме у Дороги </b></a>.
   replies:
   - id: 35837
     parent_id: 35836
@@ -31,8 +30,7 @@ posts:
       email: evdokimov@blues.ru
       subject: Доктор!
       deleted: false
-      text: обыскал твой сайт и жж - были же где-то заметки об этих выступлениях?
-        сам не нашел по скудоумию и неучености.
+      text: обыскал твой сайт и жж - были же где-то заметки об этих выступлениях? сам не нашел по скудоумию и неучености.
       replies:
       - id: 35841
         parent_id: 35839
@@ -51,6 +49,10 @@ posts:
           subject: Андрей! желаешь смутить
           deleted: false
           text: 'здесь написал, в конце: http://www.agranovsky.ru/diary/mar_07.htm'
+          person_id: 458
+        person_id: 204
+      person_id: 4
+    person_id: 458
   - id: 35838
     parent_id: 35836
     date: 2008-10-03 13:09
@@ -59,3 +61,4 @@ posts:
     subject: PHIL
     deleted: false
     text: http://rapidshare.com/files/140363214/PHIL_GUY_LIVE_MOSCOW_03-2007.mp3
+  person_id: 4

@@ -11,8 +11,7 @@ posts:
   poster: Игорь Головачев
   subject: Boogie woman
   deleted: false
-  text: 'Встретил бы эту женщину на улице подумал бы что сотрудник бухгалтерии, а
-    оно вон как...  :)
+  text: 'Встретил бы эту женщину на улице подумал бы что сотрудник бухгалтерии, а оно вон как...  :)
 
 
     https://www.youtube.com/watch?v=-y_YM1ikva0&nohtml5=False'
@@ -23,3 +22,5 @@ posts:
     poster: Andrei V. Evdokimov
     subject: да... уж ))))
     deleted: false
+    person_id: 4
+  person_id: 956

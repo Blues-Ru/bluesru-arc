@@ -11,8 +11,8 @@ posts:
   poster: олег
   subject: J.Sh & J.L 1971г
   deleted: false
-  text: Попался альбом:Johnny Shines & Johnny Lockwood 1971г. Но на сборнике в мр3.Подскажите,а
-    где и с кем это игралось и записывалось? Там и харп и клавишные звучат.
+  text: Попался альбом:Johnny Shines & Johnny Lockwood 1971г. Но на сборнике в мр3.Подскажите,а где и с кем это игралось и
+    записывалось? Там и харп и клавишные звучат.
   replies:
   - id: 37441
     parent_id: 37440
@@ -21,6 +21,7 @@ posts:
     subject: этот диск
     deleted: false
     text: http://www.allmusic.com/album/johnny-shines--robert-lockwood-r89495
+    person_id: 7219
   - id: 37442
     parent_id: 37440
     date: 2011-03-21 14:55
@@ -28,3 +29,5 @@ posts:
     subject: '!!!'
     deleted: false
     text: Спасибо! +2 невошедших! Вот только бы по-русски...
+    person_id: 7512
+  person_id: 7512

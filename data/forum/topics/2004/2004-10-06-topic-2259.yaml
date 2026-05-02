@@ -12,8 +12,7 @@ posts:
   email: volodya@blues.ru
   subject: Немного фоток с SRV-50 в  B.B.King :)
   deleted: false
-  text: <A HREF="http://www.bluescats.ru/files/20041003.srv"> http://www.bluescats.ru/files/20041003.srv
-    </A>
+  text: <A HREF="http://www.bluescats.ru/files/20041003.srv"> http://www.bluescats.ru/files/20041003.srv </A>
   replies:
   - id: 19422
     parent_id: 19406
@@ -31,3 +30,4 @@ posts:
       subject: Wish I were there
       deleted: false
       text: Эх, жаль, меня не было=Wish I were there
+    person_id: 13

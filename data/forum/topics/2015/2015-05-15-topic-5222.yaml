@@ -19,14 +19,15 @@ posts:
     poster: олег
     subject: Thrill is Gone...
     deleted: false
+    person_id: 7512
   - id: 39301
     parent_id: 39277
     date: 2015-08-04 11:06
     poster: Иван
     subject: скорбь
     deleted: false
-    text: Вправду жалел о музыканте, хотя на самом деле они и не уходят никогда, и
-      уходят одновременно с последним концертом.
+    text: Вправду жалел о музыканте, хотя на самом деле они и не уходят никогда, и уходят одновременно с последним концертом.
+    person_id: 8976
   - id: 39306
     parent_id: 39277
     date: 2015-08-12 12:49
@@ -34,14 +35,15 @@ posts:
     subject: Мы рады вас приветствовать на нашем сайте!
     deleted: true
     text: Элитные и дешевые, молодые и зрелые индивидуалки - любые на Ваш вкус http://www.intimtown.com/
+    person_id: 8969
   - id: 39372
     parent_id: 39277
     date: 2016-02-26 10:52
     poster: Ribachyga
     subject: Интересно посмотреть.
     deleted: false
-    text: Для повышения квалификации и знаний необходимо постоянно просматривать.
-      http://budmat.kiev.ua/  http://abud.com.ua/
+    text: Для повышения квалификации и знаний необходимо постоянно просматривать. http://budmat.kiev.ua/  http://abud.com.ua/
+    person_id: 9048
   - id: 39375
     parent_id: 39277
     date: 2016-02-26 12:21
@@ -49,11 +51,13 @@ posts:
     subject: хаха
     deleted: false
     text: Вот это тема)) <a href="http://nnprostitutki.com/"> </a>
+    person_id: 9049
   - id: 39403
     parent_id: 39277
     date: 2016-07-19 13:01
     poster: Владимир
     subject: весело
     deleted: false
-    text: Интерресная темка <a href="http://krasnodarki.org">ха-</a><a href="http://voronezh-girls.net">ха-</a><a
-      href="http://tyumenek.net">ха-</a>
+    text: Интерресная темка <a href="http://krasnodarki.org">ха-</a><a href="http://voronezh-girls.net">ха-</a><a href="http://tyumenek.net">ха-</a>
+    person_id: 9080
+  person_id: 8952

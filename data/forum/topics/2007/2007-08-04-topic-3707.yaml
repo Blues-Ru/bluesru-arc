@@ -12,8 +12,7 @@ posts:
   email: evdokimov@blues.ru
   subject: Die Hard 4.0 Blues
   deleted: false
-  text: Новости по НТВ сегодня показывают Брюса Уиллиса, играющего блюза на мысе Канавер.
-    не глубоко, но мило.
+  text: Новости по НТВ сегодня показывают Брюса Уиллиса, играющего блюза на мысе Канавер. не глубоко, но мило.
   replies:
   - id: 33330
     parent_id: 33329
@@ -22,8 +21,9 @@ posts:
     email: dr.nick@blues.ru
     subject: Bruce
     deleted: false
-    text: 'он и альбомы хорошие выпускал :) на гармошке дул :) с ним даже TEMPTATIONS
-      пели :)
+    text: 'он и альбомы хорошие выпускал :) на гармошке дул :) с ним даже TEMPTATIONS пели :)
 
 
       весёлый парень!'
+    person_id: 335
+  person_id: 4

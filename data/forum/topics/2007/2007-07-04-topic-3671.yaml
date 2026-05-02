@@ -12,8 +12,7 @@ posts:
   email: Gika_mshawia@mail.ru
   subject: Помогите найти песеню
   deleted: false
-  text: Кто знает где скачать эту песню Lord have mercy on me вышлите ссылку очень
-    надо спасибо за внмание.
+  text: Кто знает где скачать эту песню Lord have mercy on me вышлите ссылку очень надо спасибо за внмание.
   replies:
   - id: 33134
     parent_id: 33132
@@ -22,6 +21,7 @@ posts:
     email: dr.nick@blues.ru
     subject: чья песня-то?
     deleted: false
+    person_id: 335
   - id: 33135
     parent_id: 33132
     date: 2007-07-04 22:34
@@ -29,6 +29,7 @@ posts:
     email: dr.nick@blues.ru
     subject: может это Stormy Monday?
     deleted: false
+    person_id: 335
   - id: 33136
     parent_id: 33132
     date: 2007-07-05 14:39
@@ -36,8 +37,7 @@ posts:
     email: vadikiv@mail,ru
     subject: В чьем исполнении?
     deleted: false
-    text: Это может быть песня Рэя Чарлза.Вы могли слышать ее в исполнении Клэптона
-      на "From the cradle"
+    text: Это может быть песня Рэя Чарлза.Вы могли слышать ее в исполнении Клэптона на "From the cradle"
   - id: 33582
     parent_id: 33132
     date: 2007-10-04 16:00

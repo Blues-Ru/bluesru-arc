@@ -11,10 +11,9 @@ posts:
   poster: grem
   subject: очепятка
   deleted: false
-  text: "в расписание клубных концертов есть трагическая опечатка:\n\"ЧТ 29.12.2011\
-    \ DeFAQto 20:00 Victor Vhernov blues ban - вход бесплатный\" \n1) наверное  Victor\
-    \ Chernov\n2)и самое главное - никаких \"запретов блюза\" (blues ban), надо \"\
-    blues jam\" )"
+  text: "в расписание клубных концертов есть трагическая опечатка:\n\"ЧТ 29.12.2011 DeFAQto 20:00 Victor Vhernov blues ban\
+    \ - вход бесплатный\" \n1) наверное  Victor Chernov\n2)и самое главное - никаких \"запретов блюза\" (blues ban), надо\
+    \ \"blues jam\" )"
   replies:
   - id: 38117
     parent_id: 38116
@@ -23,3 +22,4 @@ posts:
     subject: Присоединяюсь
     deleted: false
     text: к требованию Виктора запретить блюз! )
+    person_id: 4

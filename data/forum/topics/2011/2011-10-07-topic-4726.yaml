@@ -36,6 +36,7 @@ posts:
     subject: one mo'
     deleted: false
     text: http://video.mail.ru/mail/doctor_nick/71/803.html
+    person_id: 335
   - id: 38036
     parent_id: 38032
     date: 2011-10-07 01:52
@@ -43,3 +44,4 @@ posts:
     subject: and even more
     deleted: false
     text: http://video.mail.ru/mail/doctor_nick/71/805.html
+    person_id: 335

@@ -11,16 +11,13 @@ posts:
   poster: Andrei V. Evdokimov
   subject: А, может, и правда, новый Кинг растет? разве что белый?
   deleted: false
-  text: 'попалась любопытная статейка: <a href="http://onlineathens.com/music/2012-07-18/king-touts-teen-spirit-blues"
-    target="_blank">http://onlineathens.com/music/2012-07-18/king-touts-teen-spirit-blues</a>
-    - автор сначала проклинает молодых белых гитаристов, "убивающих блюз по всему
-    миру", а потом говорит, что есть один хороший. Играет на сцене с 13 лет (папаша-музыкант,
-    как легко догадаться), сейчас мальчику 16. сделав скидку на качество звука, допустим,
-    что действительно, совсем не так уж плохо: блюз он не убивает, это точно! )))
+  text: 'попалась любопытная статейка: <a href="http://onlineathens.com/music/2012-07-18/king-touts-teen-spirit-blues" target="_blank">http://onlineathens.com/music/2012-07-18/king-touts-teen-spirit-blues</a>
+    - автор сначала проклинает молодых белых гитаристов, "убивающих блюз по всему миру", а потом говорит, что есть один хороший.
+    Играет на сцене с 13 лет (папаша-музыкант, как легко догадаться), сейчас мальчику 16. сделав скидку на качество звука,
+    допустим, что действительно, совсем не так уж плохо: блюз он не убивает, это точно! )))
 
 
-    <iframe width="560" height="315" src="http://www.youtube.com/embed/AemDzB_Jnig"
-    frameborder="0" allowfullscreen></iframe>'
+    <iframe width="560" height="315" src="http://www.youtube.com/embed/AemDzB_Jnig" frameborder="0" allowfullscreen></iframe>'
   replies:
   - id: 38488
     parent_id: 38487
@@ -31,8 +28,7 @@ posts:
     text: 'Пусть поиграется в блюзмена, а потом делом займётся.
 
 
-      Кого щас удивишь блю-роковыми гитарными запилами и тощим "белым" голоском, будь
-      он хоть три раза Кинг?'
+      Кого щас удивишь блю-роковыми гитарными запилами и тощим "белым" голоском, будь он хоть три раза Кинг?'
     replies:
     - id: 38489
       parent_id: 38488
@@ -48,9 +44,8 @@ posts:
         poster: Старый Майор
         subject: Макс, "нормально поёт" - это немножко другое.
         deleted: false
-        text: Это не вокал, все "поющие гитаристы" что-то подобное блеют в микрофон.
-          Кроме KW Shepherd'а, у которого совесть есть, поэтому он не поёт )) Даже
-          я могу так спеть, если 100 грамм коньяка выпью.
+        text: Это не вокал, все "поющие гитаристы" что-то подобное блеют в микрофон. Кроме KW Shepherd'а, у которого совесть
+          есть, поэтому он не поёт )) Даже я могу так спеть, если 100 грамм коньяка выпью.
         replies:
         - id: 38494
           parent_id: 38493
@@ -58,8 +53,8 @@ posts:
           poster: Andrei V. Evdokimov
           subject: Сто грамм майору! )))
           deleted: false
-          text: мальчику шышнадцать... вырастет, скажет "папа, не мешай" - и блуз
-            петь перестанет... так что, не ссорьтесь! )))
+          text: мальчику шышнадцать... вырастет, скажет "папа, не мешай" - и блуз петь перестанет... так что, не ссорьтесь!
+            )))
           replies:
           - id: 38495
             parent_id: 38494
@@ -75,12 +70,18 @@ posts:
               poster: tavrichesky
               subject: это только так кажется (с)
               deleted: false
+              person_id: 7208
+            person_id: 13
+          person_id: 4
         - id: 38498
           parent_id: 38493
           date: 2012-07-30 01:51
           poster: tavrichesky
           subject: КВШ- Дартаньян, я уже понял.
           deleted: false
+          person_id: 7208
+        person_id: 13
+      person_id: 7208
   - id: 38496
     parent_id: 38487
     date: 2012-07-29 19:25
@@ -88,3 +89,5 @@ posts:
     subject: Евдокимов, загляни сюда, тебе понравится ))
     deleted: false
     text: http://www.youtube.com/watch?v=mXbiSL5jV4Q
+    person_id: 13
+  person_id: 4

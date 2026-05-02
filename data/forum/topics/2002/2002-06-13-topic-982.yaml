@@ -12,9 +12,8 @@ posts:
   email: vts13@hotmail.com
   subject: Snowy White
   deleted: false
-  text: Коллеги,удалось ли кому-нибудь послушать новый альбом Snowy White "Restless"?Какая
-    там музыка,есть ли там блюз? Те же вопросы относительно последнего альбома Poppa
-    Chubby "The Good The Bad and Chubby".Спасибо.
+  text: Коллеги,удалось ли кому-нибудь послушать новый альбом Snowy White "Restless"?Какая там музыка,есть ли там блюз? Те
+    же вопросы относительно последнего альбома Poppa Chubby "The Good The Bad and Chubby".Спасибо.
   replies:
   - id: 5303
     parent_id: 5284
@@ -23,5 +22,6 @@ posts:
     email: vad2908@mail.ru
     subject: последний Poppa Chbby///
     deleted: false
-    text: '...скорее роковый, чем блюзовый, Snowy еще не слушал (может завтра, на
-      работе будет время, - послушаю, обязательно напишу)'
+    text: '...скорее роковый, чем блюзовый, Snowy еще не слушал (может завтра, на работе будет время, - послушаю, обязательно
+      напишу)'
+    person_id: 598

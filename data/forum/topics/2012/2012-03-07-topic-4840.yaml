@@ -11,8 +11,7 @@ posts:
   poster: Andrei V. Evdokimov
   subject: пришла бяда, откуда не ждали
   deleted: false
-  text: '<iframe width="560" height="315" src="http://www.youtube.com/embed/Wehxj-mAwv8"
-    frameborder="0" allowfullscreen></iframe>
+  text: '<iframe width="560" height="315" src="http://www.youtube.com/embed/Wehxj-mAwv8" frameborder="0" allowfullscreen></iframe>
 
 
     слушать это фуфло неприятно, но нужно.
@@ -37,6 +36,7 @@ posts:
       poster: Andrei V. Evdokimov
       subject: увы, практически во всем
       deleted: false
+      person_id: 4
     - id: 38308
       parent_id: 38301
       date: 2012-03-11 16:35
@@ -51,8 +51,8 @@ posts:
         poster: Andrei V. Evdokimov
         subject: формулировочки, майор!
         deleted: false
-        text: "Фуфло - это еще не хня... \nя как-то именно по долгу-с слушал хню...\
-          \ стал промывать это дело алкоголем, и даже увлекся! )))"
+        text: "Фуфло - это еще не хня... \nя как-то именно по долгу-с слушал хню... стал промывать это дело алкоголем, и даже\
+          \ увлекся! )))"
         replies:
         - id: 38312
           parent_id: 38309
@@ -60,12 +60,14 @@ posts:
           poster: Старый Майор
           subject: Тонкие же у тебя градации...
           deleted: false
-          text: 'Боюсь, что между фуфлом и хнёй ты дифференцированно диагностируешь
-            ещё с полдюжины дефиниций, я же в своей военной прямолинейности такого
-            никак не уразумею )))
+          text: 'Боюсь, что между фуфлом и хнёй ты дифференцированно диагностируешь ещё с полдюжины дефиниций, я же в своей
+            военной прямолинейности такого никак не уразумею )))
 
 
             А печеночку береги, береги.. ишшо пригодится!'
+          person_id: 13
+      person_id: 13
+    person_id: 7150
   - id: 38303
     parent_id: 38300
     date: 2012-03-09 05:37

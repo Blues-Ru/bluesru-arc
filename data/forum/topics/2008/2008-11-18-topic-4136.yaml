@@ -12,12 +12,10 @@ posts:
   email: dzz_gomel@tut.by
   subject: Minsk Blues 2008 - немного видео youtube
   deleted: false
-  text: "Привет. немного видео Sergei Kurek Quartet\nМинск Блюз 2008 Ноябрь\nТрэки:\n\
-    <a href=http://www.youtube.com/my_videos?pi=0&ps=20&sf=added&sa=0&sq=&dm=1#> \
-    \  \nI begin to wonder, baby </a>\n\n<a href=http://www.youtube.com/my_videos?pi=0&ps=20&sf=added&sa=0&sq=&dm=1#>\n\
-    Virtual Boogie </a>\n\n<a href=http://www.youtube.com/my_videos?pi=0&ps=20&sf=added&sa=0&sq=&dm=1#>\n\
-    Memories (в память о Свете)</a>\n\n<a href=http://www.youtube.com/my_videos?pi=0&ps=20&sf=added&sa=0&sq=&dm=1#>\n\
-    I can't be satisfied </a>"
+  text: "Привет. немного видео Sergei Kurek Quartet\nМинск Блюз 2008 Ноябрь\nТрэки:\n<a href=http://www.youtube.com/my_videos?pi=0&ps=20&sf=added&sa=0&sq=&dm=1#>\
+    \   \nI begin to wonder, baby </a>\n\n<a href=http://www.youtube.com/my_videos?pi=0&ps=20&sf=added&sa=0&sq=&dm=1#>\nVirtual\
+    \ Boogie </a>\n\n<a href=http://www.youtube.com/my_videos?pi=0&ps=20&sf=added&sa=0&sq=&dm=1#>\nMemories (в память о Свете)</a>\n\
+    \n<a href=http://www.youtube.com/my_videos?pi=0&ps=20&sf=added&sa=0&sq=&dm=1#>\nI can't be satisfied </a>"
   replies:
   - id: 35930
     parent_id: 35929
@@ -26,8 +24,7 @@ posts:
     email: dzz_gomel@tut.by
     subject: 'сори ошибся ссылками, во нормальные:'
     deleted: false
-    text: '<a href=http://www.youtube.com/watch?v=HkiITUBGhXc >I begin to wonder,
-      baby </a>
+    text: '<a href=http://www.youtube.com/watch?v=HkiITUBGhXc >I begin to wonder, baby </a>
 
 
       <a href=http://www.youtube.com/watch?v=K47Q5mxL9yM >Virtual Boogie </a>
@@ -49,6 +46,7 @@ posts:
       subject: good!
       deleted: false
       text: Будем и впредь ждать новостей из Минска и окрестностей!
+      person_id: 4
     - id: 35934
       parent_id: 35930
       date: 2008-11-19 14:54

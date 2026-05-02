@@ -12,8 +12,7 @@ posts:
   email: dibrova_blues@mail.ru
   subject: Поздравляю с Днём Рождения!
   deleted: false
-  text: Хочу поздравить с Днём Рождения замечательного блюзового басиста -господина
-    Валерия Серёгина!
+  text: Хочу поздравить с Днём Рождения замечательного блюзового басиста -господина Валерия Серёгина!
   replies:
   - id: 24865
     parent_id: 24861
@@ -22,6 +21,7 @@ posts:
     email: kaverkin@rol.ru
     subject: Валере - человеку, басисту, баянисту,мультинструменталисту - многие летаааааааааааааа!!!!!!!!!!!
     deleted: false
+    person_id: 1719
   - id: 24882
     parent_id: 24861
     date: 2005-12-06 15:18
@@ -29,3 +29,5 @@ posts:
     email: mcl@macbox.ru
     subject: Наитеплейшие поздравления! Pump it Up!
     deleted: false
+    person_id: 1206
+  person_id: 3588

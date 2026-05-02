@@ -12,8 +12,8 @@ posts:
   email: morozzz_ded@mail.ru
   subject: Про Blues Harp Melt Down
   deleted: false
-  text: Где-нибудь можно почитать информацию на русском или английском про участников?
-    :) А то я что-то все на норвежские сцайты выпадаю :)
+  text: Где-нибудь можно почитать информацию на русском или английском про участников? :) А то я что-то все на норвежские
+    сцайты выпадаю :)
   replies:
   - id: 19778
     parent_id: 19776
@@ -49,8 +49,7 @@ posts:
         email: fedor@blues.ru
         subject: media.blues.ru
         deleted: false
-        text: Похоже, скрипт синхронизации сломался, Вова починит скоро, пока файлы
-          можно достать через media2.blues.ru.
+        text: Похоже, скрипт синхронизации сломался, Вова починит скоро, пока файлы можно достать через media2.blues.ru.
         replies:
         - id: 19805
           parent_id: 19804
@@ -59,6 +58,10 @@ posts:
           email: volodya@blues.ru
           subject: не бейте ногами. :) я все починил
           deleted: false
+          person_id: 5
+        person_id: 2
+      person_id: 1749
+    person_id: 1749
   - id: 19820
     parent_id: 19776
     date: 2004-11-19 08:52
@@ -67,3 +70,4 @@ posts:
     subject: Ну как там выступление в R&B?
     deleted: false
     text: жутко интересно :)
+    person_id: 1749

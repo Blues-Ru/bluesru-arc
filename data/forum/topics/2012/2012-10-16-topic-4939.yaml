@@ -20,3 +20,5 @@ posts:
     subject: Это бред
     deleted: false
     text: ..и тема для общения с местной abuse team
+    person_id: 13
+  person_id: 4

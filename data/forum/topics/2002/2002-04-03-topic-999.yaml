@@ -21,16 +21,13 @@ posts:
     email: dima@blues.ru
     subject: В интернете...
     deleted: false
-    text: "My baby caught the train, left me all alone \nMy baby caught the train,\
-      \ left me all alone \nShe knows I love her, she doin' me wrong \nMy baby bought\
-      \ the ticket, long as her right arm \nMy baby bought the ticket, long as my\
-      \ right arm \nShe says she's gonna ride, long as I been from home \n\nWell who\
-      \ been talking, everything that I do \nWell who been talking, everything that\
-      \ I do \nWell you is my baby, I hate to lose \n\nWell good bye baby, hate to\
-      \ see you go \nWell good bye baby, hate to see you go \nYou know I love you,\
-      \ I'm the causin of it all \nI'm the causin' of it all \nI'm the causin' of\
-      \ it all \nI'm the causin' of it all \nI'm the causin' of it all \n\nby Chester\
-      \ Burnett a.k.a. Howlin' Wolf"
+    text: "My baby caught the train, left me all alone \nMy baby caught the train, left me all alone \nShe knows I love her,\
+      \ she doin' me wrong \nMy baby bought the ticket, long as her right arm \nMy baby bought the ticket, long as my right\
+      \ arm \nShe says she's gonna ride, long as I been from home \n\nWell who been talking, everything that I do \nWell who\
+      \ been talking, everything that I do \nWell you is my baby, I hate to lose \n\nWell good bye baby, hate to see you go\
+      \ \nWell good bye baby, hate to see you go \nYou know I love you, I'm the causin of it all \nI'm the causin' of it all\
+      \ \nI'm the causin' of it all \nI'm the causin' of it all \nI'm the causin' of it all \n\nby Chester Burnett a.k.a.\
+      \ Howlin' Wolf"
     replies:
     - id: 3300
       parent_id: 3299
@@ -49,3 +46,4 @@ posts:
     email: evergreens@mail.ru
     subject: Аппетит приходит во время еды :-))   (-)
     deleted: false
+    person_id: 82

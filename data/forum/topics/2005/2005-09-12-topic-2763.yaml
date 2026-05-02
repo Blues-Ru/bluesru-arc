@@ -24,6 +24,7 @@ posts:
     subject: нудно
     deleted: false
     text: но местами и интересно
+    person_id: 335
   - id: 22996
     parent_id: 22977
     date: 2005-09-13 12:14
@@ -32,3 +33,4 @@ posts:
     subject: Весьма странноватое качество записи...
     deleted: false
     text: '...во всяком случае на том CD, что у меня. Даже неожиданно как-то.'
+    person_id: 4313

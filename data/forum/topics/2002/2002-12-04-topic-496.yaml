@@ -12,10 +12,9 @@ posts:
   email: serge_ivanov@hotmail.com
   subject: блюз на Ozon
   deleted: false
-  text: "никто не знает что за блюзовая серия Essential Collection там продается?\
-    \ \nНапример, Muddy Waters: http://www.ozon.ru/?context=detail&id=1117179\nили\
-    \ Buddy Guy: http://www.ozon.ru/?context=detail&id=1117181\nто ли левак отечественный,\
-    \ то ли еще что. Цена странная - 238,4 руб"
+  text: "никто не знает что за блюзовая серия Essential Collection там продается? \nНапример, Muddy Waters: http://www.ozon.ru/?context=detail&id=1117179\n\
+    или Buddy Guy: http://www.ozon.ru/?context=detail&id=1117181\nто ли левак отечественный, то ли еще что. Цена странная\
+    \ - 238,4 руб"
   replies:
   - id: 9196
     parent_id: 9188
@@ -24,8 +23,8 @@ posts:
     email: serge_ivanov@hotmail.com
     subject: сам себе отвечаю
     deleted: false
-    text: "лейбл Spectrum \nhttp://www.cduniverse.com/productinfo.asp?pid=1457314&cart=131579393&style=music\n\
-      Кто-нибудь знает такой?"
+    text: "лейбл Spectrum \nhttp://www.cduniverse.com/productinfo.asp?pid=1457314&cart=131579393&style=music\nКто-нибудь знает\
+      \ такой?"
     replies:
     - id: 9199
       parent_id: 9196
@@ -34,8 +33,8 @@ posts:
       email: dr.nick@blues.ru
       subject: Don't even think about it!
       deleted: false
-      text: Это нельзя покупать; тем более за такие деньги. Это абсолютно левый лэйбл
-        с плохими записями непонятного происхождения. Забудь.
+      text: Это нельзя покупать; тем более за такие деньги. Это абсолютно левый лэйбл с плохими записями непонятного происхождения.
+        Забудь.
       replies:
       - id: 9203
         parent_id: 9199
@@ -44,11 +43,9 @@ posts:
         email: voshalb@rambler.ru
         subject: Озон - не тот вариант вообще
         deleted: false
-        text: По опыту работы в интернет-магазине могу сказать,что в Озоне ничего
-          путного и одновременно недорогого не бывает.А вообще нужно отдать должное
-          Диме Казанцеву - знания у него очень приличные,хотя мнения бывают иногда
-          и спорные.Ты уж,Дима,не пропадай надолго из Форума,а то чувствую всегда,как
-          чего-то не достает.
+        text: По опыту работы в интернет-магазине могу сказать,что в Озоне ничего путного и одновременно недорогого не бывает.А
+          вообще нужно отдать должное Диме Казанцеву - знания у него очень приличные,хотя мнения бывают иногда и спорные.Ты
+          уж,Дима,не пропадай надолго из Форума,а то чувствую всегда,как чего-то не достает.
       - id: 9205
         parent_id: 9199
         date: 2002-12-05 09:20
@@ -56,3 +53,5 @@ posts:
         email: serge_ivanov@hotmail.com
         subject: спасибо, не буду
         deleted: false
+        person_id: 378
+      person_id: 335

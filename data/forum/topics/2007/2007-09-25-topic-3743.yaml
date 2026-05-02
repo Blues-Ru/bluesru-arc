@@ -26,6 +26,7 @@ posts:
     subject: вот блин...
     deleted: false
     text: что же он так...
+    person_id: 335
   - id: 33547
     parent_id: 33545
     date: 2007-09-25 19:56
@@ -33,8 +34,9 @@ posts:
     email: grems@yandex.ru
     subject: Жаль
     deleted: false
-    text: Вот те нааа, почти ровесник... беседовал с ним в "Б2" и диск с его автографом
-      остался. Очень жизнерадостный и открытый человек, жаль очень жаль...
+    text: Вот те нааа, почти ровесник... беседовал с ним в "Б2" и диск с его автографом остался. Очень жизнерадостный и открытый
+      человек, жаль очень жаль...
+    person_id: 204
   - id: 33548
     parent_id: 33545
     date: 2007-09-25 20:18
@@ -42,28 +44,21 @@ posts:
     email: el@ma
     subject: Gary Primich 1958-2007
     deleted: false
-    text: "Gary Primich 1958-2007\nMusician Gary Primich dies at 49\nBy Michael Corcoran\n\
-      \nMonday, September 24, 2007\nThere are generally two types of harmonica players:\
-      \ Ones who have amazing technique, and those who play with intense feeling.\
-      \ Gary Primich was both. The great blues player, whose appearances in Europe\
-      \ brought out harmonica aficionados in droves, died Sunday, ex-wife Tina Rosenzwieg\
-      \ confirmed. An announcement of his death was also posted on his Web site. He\
-      \ was 49. The cause of death has not been released. \n\"Gary was the sweetest,\
-      \ smartest, hardest-working harp player in the world,\" said Rosenzwieg, who\
-      \ met Primich when they were students at the University of Indiana. Although\
-      \ the couple divorced after several years, they remained close. \nA native of\
-      \ Gary, Ind., Primich moved to Austin in the mid-'80s after a single visit to\
-      \ Antone's. He formed the Mannish Boys with former Frank Zappa drummer Jimmy\
-      \ Carl Black but achieved his greatest success as a solo artist. His 1995 album\
-      \ \"Mr. Freeze\" was named one of the 20 best blues albums of the '90s by Chicago\
-      \ weekly New City. He recorded eight albums in all for such labels as Antone's,\
-      \ Black Top, Amazing and Flying Fish. \nAlthough he was based in Austin the\
-      \ past two decades, Primich made most of his money playing overseas, as a solo\
-      \ artist or while touring with bands such as Omar and the Howlers. \n\"He had\
-      \ established himself all over the world as one of the most technically proficient\
-      \ harmonica players,\" said his friend and fellow harp-blower Ted Roddy. \"\
-      He wrote great instrumentals that leaned toward organ jazz. It was like Jimmy\
-      \ Smith, only on harmonica.\" \nFuneral services are pending."
+    text: "Gary Primich 1958-2007\nMusician Gary Primich dies at 49\nBy Michael Corcoran\n\nMonday, September 24, 2007\nThere\
+      \ are generally two types of harmonica players: Ones who have amazing technique, and those who play with intense feeling.\
+      \ Gary Primich was both. The great blues player, whose appearances in Europe brought out harmonica aficionados in droves,\
+      \ died Sunday, ex-wife Tina Rosenzwieg confirmed. An announcement of his death was also posted on his Web site. He was\
+      \ 49. The cause of death has not been released. \n\"Gary was the sweetest, smartest, hardest-working harp player in\
+      \ the world,\" said Rosenzwieg, who met Primich when they were students at the University of Indiana. Although the couple\
+      \ divorced after several years, they remained close. \nA native of Gary, Ind., Primich moved to Austin in the mid-'80s\
+      \ after a single visit to Antone's. He formed the Mannish Boys with former Frank Zappa drummer Jimmy Carl Black but\
+      \ achieved his greatest success as a solo artist. His 1995 album \"Mr. Freeze\" was named one of the 20 best blues albums\
+      \ of the '90s by Chicago weekly New City. He recorded eight albums in all for such labels as Antone's, Black Top, Amazing\
+      \ and Flying Fish. \nAlthough he was based in Austin the past two decades, Primich made most of his money playing overseas,\
+      \ as a solo artist or while touring with bands such as Omar and the Howlers. \n\"He had established himself all over\
+      \ the world as one of the most technically proficient harmonica players,\" said his friend and fellow harp-blower Ted\
+      \ Roddy. \"He wrote great instrumentals that leaned toward organ jazz. It was like Jimmy Smith, only on harmonica.\"\
+      \ \nFuneral services are pending."
   - id: 33549
     parent_id: 33545
     date: 2007-09-25 21:11
@@ -71,8 +66,7 @@ posts:
     email: rag@mail.ru
     subject: Очень жаль...
     deleted: false
-    text: 'Как странно, только вчера вечером слушал Company Man и смотрел его на ютьюбе
-      с Ником Карраном.
+    text: 'Как странно, только вчера вечером слушал Company Man и смотрел его на ютьюбе с Ником Карраном.
 
 
       RIP'
@@ -96,6 +90,7 @@ posts:
     email: strophurus@yandex.ru
     subject: Покойся с миром.........
     deleted: false
+    person_id: 5569
   - id: 33553
     parent_id: 33545
     date: 2007-09-26 15:12
@@ -104,3 +99,4 @@ posts:
     subject: В новостях...
     deleted: false
     text: <a href="http://www.blues.ru/news/?p=200709#353">http://www.blues.ru/news/?p=200709#353</a>
+    person_id: 2

@@ -31,6 +31,7 @@ posts:
       subject: 'Точнее: Кифа'
       deleted: false
       text: Это из Библии. Камень (греч.), сиречь Пётр.
+      person_id: 458
     - id: 36239
       parent_id: 36231
       date: 2009-03-19 06:16
@@ -39,6 +40,8 @@ posts:
       subject: понятно, что ничего не понятно
       deleted: false
       text: однако, спасибо за неравнодушие и помощь.
+      person_id: 4
+    person_id: 458
   - id: 36235
     parent_id: 36230
     date: 2009-03-18 19:00
@@ -49,22 +52,19 @@ posts:
     text: 'http://www.phatmass.com/phorum/index.php?showtopic=14791
 
 
-      1) In Aramaic, Cephas sounds more like KAY-fas, but the English transliteration
-      often pronounces it SEE-phas. Hope this helps.
+      1) In Aramaic, Cephas sounds more like KAY-fas, but the English transliteration often pronounces it SEE-phas. Hope this
+      helps.
 
 
-      2) In the Passion of Christ, Mary runs to Peter just outside of the Temple where
-      they''ve taken Jesus to be judged by the Sanhedrin and she sees Peter and cries
-      "Keefa."
+      2) In the Passion of Christ, Mary runs to Peter just outside of the Temple where they''ve taken Jesus to be judged by
+      the Sanhedrin and she sees Peter and cries "Keefa."
 
 
-      Короче, если тебе надо "как по правилам английской фонетики" - то [si:fez],
-      а "по-церковному" - Кифа (русская традиция) или Kephas, что в сущности одно
-      и то же, последнее -as может редуцироваться.
+      Короче, если тебе надо "как по правилам английской фонетики" - то [si:fez], а "по-церковному" - Кифа (русская традиция)
+      или Kephas, что в сущности одно и то же, последнее -as может редуцироваться.
 
 
-      * Petrus, от греческого слова &#959; &#960;&#941;&#964;&#961;&#959;&#962; =
-      камень, скала, арамейское Kephas=Cephas)'
+      * Petrus, от греческого слова &#959; &#960;&#941;&#964;&#961;&#959;&#962; = камень, скала, арамейское Kephas=Cephas)'
     replies:
     - id: 36240
       parent_id: 36235
@@ -87,6 +87,7 @@ posts:
         subject: 'В принципе, трогательно будет и так:'
         deleted: false
         text: Дамы и господа, а сейчас выступит какой-то американский хер
+        person_id: 458
   - id: 36237
     parent_id: 36230
     date: 2009-03-19 03:56
@@ -103,8 +104,7 @@ posts:
       email: hjkh
       subject: американец говорил Сефас
       deleted: false
-      text: но с учётом произношения американца и момента разговора это вполне мог
-        быть и Сифас
+      text: но с учётом произношения американца и момента разговора это вполне мог быть и Сифас
       replies:
       - id: 36244
         parent_id: 36238
@@ -117,6 +117,8 @@ posts:
 
 
           правильно бы было по-русски писать Сэфас'
+        person_id: 335
+    person_id: 335
   - id: 36245
     parent_id: 36230
     date: 2009-03-20 12:14
@@ -124,8 +126,7 @@ posts:
     email: strophurus@yandex.ru
     subject: Мне о нем ...
     deleted: false
-    text: рассказывал Кит Данн, который с ним дружил и в этом году собирался к нему
-      в гости.. Так вот Кит называл его Цифас...
+    text: рассказывал Кит Данн, который с ним дружил и в этом году собирался к нему в гости.. Так вот Кит называл его Цифас...
     replies:
     - id: 36246
       parent_id: 36245
@@ -144,6 +145,7 @@ posts:
         subject: аааа...
         deleted: false
         text: ну понятно...)))для чего ещё в Москве интернет))))))))
+      person_id: 4
     - id: 36247
       parent_id: 36245
       date: 2009-03-21 07:45
@@ -155,3 +157,5 @@ posts:
 
 
         так что Сифас он явно :)'
+      person_id: 335
+  person_id: 4

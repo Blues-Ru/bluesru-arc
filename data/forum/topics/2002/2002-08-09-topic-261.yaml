@@ -12,9 +12,8 @@ posts:
   email: Carlivanych@yandex.ru
   subject: Помогите найти текст Yo yo man!!!!
   deleted: false
-  text: 'Привет, обращаюсь с просьбой - может быть, у кого-нибудь есть сведения о
-    том, где можно найцти текст этой вещи? Вроде бы все понятно, но  текст все равно
-    очень нужен.
+  text: 'Привет, обращаюсь с просьбой - может быть, у кого-нибудь есть сведения о том, где можно найцти текст этой вещи? Вроде
+    бы все понятно, но  текст все равно очень нужен.
 
     Спасибо anyway.'
   replies:
@@ -42,5 +41,6 @@ posts:
         email: Carlivanych@yandex.ru
         subject: Да, Mayall ее играл.
         deleted: false
-        text: Эту вещь John Mayall играл на Along for the ride, но автор Tony John
-          White. Да, похоже придется вслушаться лучше. Спасибо.
+        text: Эту вещь John Mayall играл на Along for the ride, но автор Tony John White. Да, похоже придется вслушаться лучше.
+          Спасибо.
+    person_id: 335

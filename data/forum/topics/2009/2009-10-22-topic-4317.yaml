@@ -11,9 +11,8 @@ posts:
   poster: propersearch@gmail.com
   subject: Видео
   deleted: false
-  text: "Привет! Здесь видео, снятое во время сентябрьского наезда Арсена Шомахова\
-    \ в Москву: http://www.youtube.com/watch?v=ohwQ1JJyAUg. \nБудут и другие клипы,\
-    \ you're welcome! \nПодписка на обновления сайта arsenic.blues.ru: http://www.arsenic.blues.ru/rss/latest.xml\n\
+  text: "Привет! Здесь видео, снятое во время сентябрьского наезда Арсена Шомахова в Москву: http://www.youtube.com/watch?v=ohwQ1JJyAUg.\
+    \ \nБудут и другие клипы, you're welcome! \nПодписка на обновления сайта arsenic.blues.ru: http://www.arsenic.blues.ru/rss/latest.xml\n\
     Спасибо, \npropersearch@gmail.com"
   replies:
   - id: 36645
@@ -23,11 +22,11 @@ posts:
     subject: Уточненная ссылка
     deleted: false
     text: 'Sorry: http://www.youtube.com/watch?v=ohwQ1JJyAUg&feature=player_embedded#'
+    person_id: 7280
   - id: 36646
     parent_id: 36644
     date: 2009-10-25 16:08
     poster: propersearch@gmail.com
     subject: Концерт в "Доме у дороги"
     deleted: false
-    text: "YOUTUBE PLAYLIST: \nhttp://www.youtube.com/view_play_list?p=26CAA06FB3880605\n\
-      Courtesy of ВАДИМ П."
+    text: "YOUTUBE PLAYLIST: \nhttp://www.youtube.com/view_play_list?p=26CAA06FB3880605\nCourtesy of ВАДИМ П."

@@ -13,15 +13,12 @@ posts:
   subject: Down in Mississippi (для J.B. Каверкина)
   deleted: false
   text: "Я обратился к Blindman's blues за помощью. http://blindman.forumhoster.com/index.php?showtopic=5365&st=0&#entry73150\
-    \  Возможно, что последний куплет\nеще не совсем правильный.  Но я думаю, что\
-    \ петь ее уже можно :)\n\n\nFor as far back as I can remember,\nI either had a\
-    \ plow or hoe,\nOne those long old nine feet sacks,\nStanding at the old turnrow,\n\
-    \nDown in Mississippi \nDown in Mississippi\nDown in Mississippi where I Was Born\n\
-    Down in Mississippi where I Come From\n\nNothing I got against Mississippi,\n\
-    It also was the home of my wife,\nBut I feel just like I'm a lucky man,\nGet away\
-    \ with my life\n\nchorus\n\nThe had a hot season on the horizon, \nIf you shoot\
-    \ and you went to jail,\nThe season was always open on me,\nNobody leavin' no\
-    \ bail,\n\nchorus"
+    \  Возможно, что последний куплет\nеще не совсем правильный.  Но я думаю, что петь ее уже можно :)\n\n\nFor as far back\
+    \ as I can remember,\nI either had a plow or hoe,\nOne those long old nine feet sacks,\nStanding at the old turnrow,\n\
+    \nDown in Mississippi \nDown in Mississippi\nDown in Mississippi where I Was Born\nDown in Mississippi where I Come From\n\
+    \nNothing I got against Mississippi,\nIt also was the home of my wife,\nBut I feel just like I'm a lucky man,\nGet away\
+    \ with my life\n\nchorus\n\nThe had a hot season on the horizon, \nIf you shoot and you went to jail,\nThe season was\
+    \ always open on me,\nNobody leavin' no bail,\n\nchorus"
   replies:
   - id: 21790
     parent_id: 21788
@@ -51,8 +48,7 @@ posts:
       email: mlives_6@hotmail.com
       subject: Извени
       deleted: false
-      text: 'Дима:  У меня не было доступа к интеренету в последнее время.  Я тебе
-        напишу.
+      text: 'Дима:  У меня не было доступа к интеренету в последнее время.  Я тебе напишу.
 
 
         Muddy'
@@ -65,6 +61,7 @@ posts:
         subject: извИняю :)
         deleted: false
         text: жду
+        person_id: 335
   - id: 21803
     parent_id: 21788
     date: 2005-06-17 20:52
@@ -72,3 +69,4 @@ posts:
     email: kaverkin@rol.ru
     subject: Огромное СПАСИБО!
     deleted: false
+    person_id: 1719

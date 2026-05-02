@@ -31,3 +31,6 @@ posts:
       subject: http://www.bluescats.ru/files/20040705.jimmy_smith/
       deleted: false
       text: ой :)
+      person_id: 5
+    person_id: 2
+  person_id: 5

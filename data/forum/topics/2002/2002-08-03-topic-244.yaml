@@ -12,8 +12,7 @@ posts:
   email: morehemp@mail.ru
   subject: Sorry за наглый оффтопик ...
   deleted: false
-  text: но, может быть, кто-нибудь подскажет, где взять текст песни Bim'a Sherman'a
-    "Golden Locks" ;)
+  text: но, может быть, кто-нибудь подскажет, где взять текст песни Bim'a Sherman'a "Golden Locks" ;)
   replies:
   - id: 6522
     parent_id: 6521
@@ -22,8 +21,7 @@ posts:
     email: dr.nick@blues.ru
     subject: Только если на слух снять
     deleted: false
-    text: Там слов-то с десяток, не более. А почему именно ее, а не Over The Rainbow,
-      например? Или Solid As A Rock?
+    text: Там слов-то с десяток, не более. А почему именно ее, а не Over The Rainbow, например? Или Solid As A Rock?
     replies:
     - id: 6523
       parent_id: 6522
@@ -42,6 +40,7 @@ posts:
         subject: Будет время сниму
         deleted: false
         text: Люблю я Бима Шермана ;)
+        person_id: 335
       - id: 6530
         parent_id: 6523
         date: 2002-08-04 00:33
@@ -127,8 +126,7 @@ posts:
               email: dr.nick@blues.ru
               subject: Бим
               deleted: false
-              text: 'Шерман - это культовая личность. А потом он молод еще; записываться
-                начал только в середине 70-х.
+              text: 'Шерман - это культовая личность. А потом он молод еще; записываться начал только в середине 70-х.
 
                 Тош и Марли - это понятно. Это корифеи вместе с Lee "Scratch" Perry.'
               replies:
@@ -168,6 +166,7 @@ posts:
                       text: 'Бим уже умер...
 
                         Хотя может оно и к лучшему, что он жив...'
+                    person_id: 783
                   - id: 6543
                     parent_id: 6539
                     date: 2002-08-04 22:51
@@ -175,18 +174,13 @@ posts:
                     email: morehemp@mail.ru
                     subject: On Friday, November 17th 2000,
                     deleted: false
-                    text: the news of Bim Sherman's death - one of the true unsung
-                      heroes of roots music as well as reggae's most enduring cult
-                      figures - reached the reggae massive worldwide. After he got
-                      injured as a result of a fall, Bim Sherman was admitted to hospital
-                      where, on examination, he was found to have cancer. Then health
-                      matters didn't go well and within one week he passed away. It
-                      is obvious that his unexpected sudden death is a great lost
-                      for his family and friends. But be convinced that Bim Sherman's
-                      many committed fans, who supported the artist and his music
-                      for two and a half decades by now, are also mourning for the
-                      lost of this truly very underrated, extremely talented and diverse
-                      artist.
+                    text: the news of Bim Sherman's death - one of the true unsung heroes of roots music as well as reggae's
+                      most enduring cult figures - reached the reggae massive worldwide. After he got injured as a result
+                      of a fall, Bim Sherman was admitted to hospital where, on examination, he was found to have cancer.
+                      Then health matters didn't go well and within one week he passed away. It is obvious that his unexpected
+                      sudden death is a great lost for his family and friends. But be convinced that Bim Sherman's many committed
+                      fans, who supported the artist and his music for two and a half decades by now, are also mourning for
+                      the lost of this truly very underrated, extremely talented and diverse artist.
                     replies:
                     - id: 6544
                       parent_id: 6543
@@ -196,6 +190,8 @@ posts:
                       subject: Вот так дела
                       deleted: false
                       text: Я и не знал ;(
+                      person_id: 335
+                  person_id: 335
             - id: 6540
               parent_id: 6534
               date: 2002-08-04 20:14
@@ -204,6 +200,10 @@ posts:
               subject: Другая песня ;)
               deleted: false
               text: Саш, мы другую песню вспоминали.
+              person_id: 335
+          person_id: 335
+        person_id: 783
+    person_id: 335
   - id: 6524
     parent_id: 6521
     date: 2002-08-03 00:53
@@ -213,8 +213,8 @@ posts:
     deleted: false
     text: 'хорошая, теплая такая, летняя, отпускная...
 
-      А кстати есть класный кавер на Over the Rainbow - на альбоме Punck Ska Covers,
-      играет по-моему NoFX, звучит бодро и смешно...
+      А кстати есть класный кавер на Over the Rainbow - на альбоме Punck Ska Covers, играет по-моему NoFX, звучит бодро и
+      смешно...
 
       А слова можно спросить на сайте, по-моему reggae.ru, если он еще жив :)'
   - id: 6526
@@ -266,8 +266,7 @@ posts:
       Golden locks is on my hair
 
 
-      Есть небольшие сомнения насчет "Don''t wax...", но по-другому не получается,
-      уж больно он обкуренный ;)'
+      Есть небольшие сомнения насчет "Don''t wax...", но по-другому не получается, уж больно он обкуренный ;)'
     replies:
     - id: 6528
       parent_id: 6526
@@ -303,3 +302,5 @@ posts:
             subject: Да уж, хорош ;)
             deleted: false
             text: Только выглядит старовато; мужик-то он молодой.
+            person_id: 335
+        person_id: 335

@@ -12,9 +12,8 @@ posts:
   email: peregnoy@mail.ru
   subject: Tribute J.H.
   deleted: false
-  text: Интересно, а будет ли в Москве что-нибудь происходить в ознаменование 60-летия
-    Хендрикса? Вроде ещё и не скоро, но ведь мёртвый сезон же наступает... Вот в Сиэттле
-    и в Париже... (см.http://www.zvuki.ru/R/P/7408/)
+  text: Интересно, а будет ли в Москве что-нибудь происходить в ознаменование 60-летия Хендрикса? Вроде ещё и не скоро, но
+    ведь мёртвый сезон же наступает... Вот в Сиэттле и в Париже... (см.http://www.zvuki.ru/R/P/7408/)
   replies:
   - id: 4731
     parent_id: 4729
@@ -23,8 +22,7 @@ posts:
     email: ev_il@mail.ru
     subject: конкурс
     deleted: false
-    text: на guitars.ru происходит конкурс гитаристов, каждый желающий может прислать
-      свою версию little wing
+    text: на guitars.ru происходит конкурс гитаристов, каждый желающий может прислать свою версию little wing
     replies:
     - id: 4736
       parent_id: 4731
@@ -42,8 +40,10 @@ posts:
         email: peregnoy@mail.ru
         subject: Я вообще-то...
         deleted: false
-        text: говорил немного о другом. Вот, например, если кто помнит, в декабре
-          1997 года в B.B.King'e проходило мероприятие "J.Hendrix Tribute Party ..."
+        text: говорил немного о другом. Вот, например, если кто помнит, в декабре 1997 года в B.B.King'e проходило мероприятие
+          "J.Hendrix Tribute Party ..."
+        person_id: 712
+      person_id: 598
   - id: 4821
     parent_id: 4729
     date: 2002-05-30 16:24
@@ -52,3 +52,4 @@ posts:
     subject: Оно и...
     deleted: false
     text: в 2001 там же проходило :)
+  person_id: 712

@@ -12,8 +12,7 @@ posts:
   email: dr.nick@blues.ru
   subject: Всем советую
   deleted: false
-  text: 'вот эти три альбома. Купил в СОЮЗе совсем недорого (меньше десятки). Они
-    штатовские на Rounder.
+  text: 'вот эти три альбома. Купил в СОЮЗе совсем недорого (меньше десятки). Они штатовские на Rounder.
 
     http://www.allmusic.com/cg/amg.dll?p=amg&sql=A3hq4g4sttv2z
 
@@ -28,8 +27,8 @@ posts:
     email: skvoid@yahoo.com
     subject: Ха... нашёл что советовать....
     deleted: false
-    text: '...любому понятно, что Dupree - это вообще must have, а если еще и "меньше
-      десятки", то по два раза must и have :)))
+    text: '...любому понятно, что Dupree - это вообще must have, а если еще и "меньше десятки", то по два раза must и have
+      :)))
 
       В каком Союзе брал то? Адресок конкретнее?'
     replies:
@@ -41,3 +40,5 @@ posts:
       subject: Да возле дома
       deleted: false
       text: Ленинский проспект, 11.
+      person_id: 335
+    person_id: 26

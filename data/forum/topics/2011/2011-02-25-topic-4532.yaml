@@ -57,6 +57,7 @@ posts:
           subject: пацаны врут
           deleted: false
           text: я вообще не соло-гитарист
+          person_id: 335
         - id: 37357
           parent_id: 37346
           date: 2011-02-26 04:40
@@ -64,11 +65,13 @@ posts:
           subject: с питера?
           deleted: false
           text: да, они там боги все в питере
+          person_id: 335
+      person_id: 335
   - id: 37347
     parent_id: 37343
     date: 2011-02-25 12:12
     poster: Andrei V. Evdokimov
     subject: Суровый лик, суровый блюз
     deleted: false
-    text: 'Дык, вроде неплохо... Но мне ближе вот этот коммент: "Wake me up&#65279;
-      when it''s over...."'
+    text: 'Дык, вроде неплохо... Но мне ближе вот этот коммент: "Wake me up&#65279; when it''s over...."'
+    person_id: 4

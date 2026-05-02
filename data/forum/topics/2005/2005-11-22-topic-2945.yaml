@@ -12,14 +12,11 @@ posts:
   email: morrah@yandex.ru
   subject: Ребята! Мы победили!
   deleted: false
-  text: "Дорогие мои блюзру-форумцы! Мы с Life-n-Joy! рады вам сообщить, что в жаркой\
-    \ борьбе на конкурсе gbob - www.gbob.ru нам досталась долгожданная победа!\n Теперь,\
-    \ 7-го Декабря, нам предстоит играть в Лондоне - продолжить битву за родную страну,\
-    \ за свою музыку. \nЯ знаю, что нас многие не любят, обвиняют в тех или иных \"\
-    стилевых пороках\". НО! У нас получилось доказать, что мы верны себе, мы достойны\
-    \ сыграть на родной земле рок-музыки - в Англии. \nДрузья!\nLnJ! во многом признательны\
-    \ именно вам, блюзовой тусовке.\nНе спрашивайте меня, почему я так говорю. Просто,\
-    \ спасибо вам, ребята!"
+  text: "Дорогие мои блюзру-форумцы! Мы с Life-n-Joy! рады вам сообщить, что в жаркой борьбе на конкурсе gbob - www.gbob.ru\
+    \ нам досталась долгожданная победа!\n Теперь, 7-го Декабря, нам предстоит играть в Лондоне - продолжить битву за родную\
+    \ страну, за свою музыку. \nЯ знаю, что нас многие не любят, обвиняют в тех или иных \"стилевых пороках\". НО! У нас получилось\
+    \ доказать, что мы верны себе, мы достойны сыграть на родной земле рок-музыки - в Англии. \nДрузья!\nLnJ! во многом признательны\
+    \ именно вам, блюзовой тусовке.\nНе спрашивайте меня, почему я так говорю. Просто, спасибо вам, ребята!"
   replies:
   - id: 24661
     parent_id: 24660
@@ -28,6 +25,7 @@ posts:
     email: evdokimov@blues.ru
     subject: Go, get them, honey!
     deleted: false
+    person_id: 4
   - id: 24663
     parent_id: 24660
     date: 2005-11-22 11:34
@@ -35,6 +33,7 @@ posts:
     email: mcl@macbox.ru
     subject: Kick'em Ass! U're wonderful!
     deleted: false
+    person_id: 1206
   - id: 24664
     parent_id: 24660
     date: 2005-11-22 12:03
@@ -43,6 +42,7 @@ posts:
     subject: Оксана, молодцы,
     deleted: false
     text: клёво, отлично! Покажите Лондону настоящий лайв и, соответственно, джой!
+    person_id: 458
   - id: 24665
     parent_id: 24660
     date: 2005-11-22 13:06
@@ -61,6 +61,7 @@ posts:
     subject: Ай, молодца, Оксана!
     deleted: false
     text: Оксана, желаю удачи в Лондоне! Не подведи! Мы болеем за тебя
+    person_id: 3588
   - id: 24673
     parent_id: 24660
     date: 2005-11-22 14:42
@@ -75,13 +76,11 @@ posts:
     email: doc@doc.com
     subject: G B O B
     deleted: false
-    text: "ЖЕЛАЮ УСПЕХА !!!\nWednesday, 7 December 2005 \n\nGlobal Battle Of The Bands\
-      \ World Final:\nEverafta + Misty Mono + The New Brand + Beinhard + Lapko + Building\
-      \ a Better Spaceship + Marius + The Rise + Rub Saqer & Ramzi Rais + The Authority\n\
-      \nwww.gbob.com .\n\nAt Astoria, London \nFrom 6:30pm \nPrice: &#163;12.00 /\
-      \ &#163;10.00 in advance \n\nAstoria\n157 Charing Cross Road\nLondon\nWC2H 0EN\n\
-      \nTrain: Charing Cross (13 mins) \nTube: Tottenham Court Rd (2 mins) \n\nEnquiries:\
-      \ 020 7434 0403\nBox Office: 020 7344 0044"
+    text: "ЖЕЛАЮ УСПЕХА !!!\nWednesday, 7 December 2005 \n\nGlobal Battle Of The Bands World Final:\nEverafta + Misty Mono\
+      \ + The New Brand + Beinhard + Lapko + Building a Better Spaceship + Marius + The Rise + Rub Saqer & Ramzi Rais + The\
+      \ Authority\n\nwww.gbob.com .\n\nAt Astoria, London \nFrom 6:30pm \nPrice: &#163;12.00 / &#163;10.00 in advance \n\n\
+      Astoria\n157 Charing Cross Road\nLondon\nWC2H 0EN\n\nTrain: Charing Cross (13 mins) \nTube: Tottenham Court Rd (2 mins)\
+      \ \n\nEnquiries: 020 7434 0403\nBox Office: 020 7344 0044"
   - id: 24678
     parent_id: 24660
     date: 2005-11-22 15:45
@@ -90,6 +89,7 @@ posts:
     subject: the best fuck the rest!
     deleted: false
     text: keep on keeping on!
+    person_id: 335
   - id: 24681
     parent_id: 24660
     date: 2005-11-22 15:56
@@ -113,6 +113,7 @@ posts:
     subject: Умницы!
     deleted: false
     text: ПОздравляю!:))
+    person_id: 712
   - id: 24704
     parent_id: 24660
     date: 2005-11-22 20:01
@@ -146,6 +147,9 @@ posts:
           subject: да ара спасибо!
           deleted: false
           text: тоже поеду с Оксаной в ЛондОн! настоящий британский блюз слюшать!
+          person_id: 335
+        person_id: 1719
+      person_id: 335
   - id: 24715
     parent_id: 24660
     date: 2005-11-23 09:20
@@ -153,8 +157,7 @@ posts:
     email: voshalb@rambler.ru
     subject: Оксана!!! Очень рад за тебя...и жду дальнейших успехов...
     deleted: false
-    text: Тока не почивай на лаврах...А памятник я тебе уже в памяти поставил...пусть
-      и за блюзовые,но несомненные достижения))))
+    text: Тока не почивай на лаврах...А памятник я тебе уже в памяти поставил...пусть и за блюзовые,но несомненные достижения))))
   - id: 24744
     parent_id: 24660
     date: 2005-11-27 12:47
@@ -162,8 +165,7 @@ posts:
     email: 53242@yahoo.com
     subject: ну вот...
     deleted: false
-    text: "это уже хорошо. \nПоздравляю.\nЛондон все расставит на свои места.\n\n\
-      Удачи"
+    text: "это уже хорошо. \nПоздравляю.\nЛондон все расставит на свои места.\n\nУдачи"
   - id: 24790
     parent_id: 24660
     date: 2005-11-30 00:37
@@ -171,8 +173,7 @@ posts:
     email: manirko@list.ru
     subject: Поздравляю. Кстати в Лондоне можете оращаться, если что.
     deleted: false
-    text: 'Оксан, если нужна будет в Лонжоне какая-нибудь помощь, или надо будет инстументы
-      там положить на денек, или что-то, то на севере-западе Лондона (Ну это в стороне
-      аеропорта heathrow) можете обращаться. Я рядом с Кингстоном.
+    text: 'Оксан, если нужна будет в Лонжоне какая-нибудь помощь, или надо будет инстументы там положить на денек, или что-то,
+      то на севере-западе Лондона (Ну это в стороне аеропорта heathrow) можете обращаться. Я рядом с Кингстоном.
 
       Поздравляю.'

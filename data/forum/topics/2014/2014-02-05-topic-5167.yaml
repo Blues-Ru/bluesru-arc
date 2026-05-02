@@ -11,12 +11,10 @@ posts:
   poster: Andrei V. Evdokimov
   subject: Вечерний зайдеко-на-видео-концерт
   deleted: false
-  text: '<iframe width="560" height="315" src="//www.youtube.com/embed/c_nscD_HRcI"
-    frameborder="0" allowfullscreen></iframe>
+  text: '<iframe width="560" height="315" src="//www.youtube.com/embed/c_nscD_HRcI" frameborder="0" allowfullscreen></iframe>
 
 
-    C.J. Chenier & The Red Hot Louisiana Band - Jazz sous les Pommiers 2013 [Full
-    HD]
+    C.J. Chenier & The Red Hot Louisiana Band - Jazz sous les Pommiers 2013 [Full HD]
 
 
     Наследник Клифтона Шенье - концерт прошлого года во Франции.'
@@ -28,3 +26,4 @@ posts:
     subject: на эфесе
     deleted: false
     text: они очень повеселили в свое время , ещё трубач у них был здоровый такой
+    person_id: 8105

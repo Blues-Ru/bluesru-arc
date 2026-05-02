@@ -20,6 +20,7 @@ posts:
     subject: http://www.old-blues.ru/
     deleted: false
     text: Он жил на вот этом домене последние 15 лет, но похоже, что домен сдох.
+    person_id: 2
   - id: 39704
     parent_id: 39702
     date: 2023-10-19 02:50
@@ -27,6 +28,7 @@ posts:
     subject: Архив
     deleted: false
     text: https://web.archive.org/web/20221202040820/http://www.old-blues.ru/
+    person_id: 2
   - id: 39705
     parent_id: 39702
     date: 2023-10-19 02:52
@@ -34,3 +36,5 @@ posts:
     subject: Протух не так давно
     deleted: false
     text: '2023-10-03T21:00:00Z'
+    person_id: 2
+  person_id: 335

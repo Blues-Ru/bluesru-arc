@@ -12,8 +12,8 @@ posts:
   email: dr.nick@blues.ru
   subject: The Band
   deleted: false
-  text: Всем срочно смотреть фильм The Last Waltz. Посмотрел его сегодня снова и еще
-    раз убедился, что это лучший фильм о рок/блюз/кантри-музыке. Правда.
+  text: Всем срочно смотреть фильм The Last Waltz. Посмотрел его сегодня снова и еще раз убедился, что это лучший фильм о
+    рок/блюз/кантри-музыке. Правда.
   replies:
   - id: 4699
     parent_id: 4692
@@ -39,12 +39,12 @@ posts:
         email: dr.nick@blues.ru
         subject: More details
         deleted: false
-        text: 'Там прощальный концерт The Band с Dr. John, Neil Young, Joni Mitchell,
-          Van Morrison, Muddy Waters, Paul Butterfield, Ronnie Hawkins, Ringo, Staples,
-          Emmylou Harris, Bob Dylan, Ronnie Wood, Eric Clapton...
+        text: 'Там прощальный концерт The Band с Dr. John, Neil Young, Joni Mitchell, Van Morrison, Muddy Waters, Paul Butterfield,
+          Ronnie Hawkins, Ringo, Staples, Emmylou Harris, Bob Dylan, Ronnie Wood, Eric Clapton...
 
-          Странно что Вы его не слышали (и не видели). Я знаю о нем лет так с 15-ти.
-          Хорошая вещь, правда.'
+          Странно что Вы его не слышали (и не видели). Я знаю о нем лет так с 15-ти. Хорошая вещь, правда.'
+      person_id: 335
+    person_id: 26
   - id: 4701
     parent_id: 4692
     date: 2002-05-27 00:49
@@ -72,8 +72,7 @@ posts:
         deleted: false
         text: 'А что там с оцифровкой? Идея умерла на подступах к реализации?
 
-          Просто можно и энтот фильм цифрануть тоже... скока пользы то нам неразумным
-          ;)'
+          Просто можно и энтот фильм цифрануть тоже... скока пользы то нам неразумным ;)'
         replies:
         - id: 4716
           parent_id: 4713
@@ -83,3 +82,7 @@ posts:
           subject: все живы
           deleted: false
           text: три кины лежат у меня и ждут гуру оцифровки
+          person_id: 366
+      person_id: 335
+    person_id: 6
+  person_id: 335

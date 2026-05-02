@@ -14,8 +14,8 @@ posts:
   text: 'Нарвался на видео, ух тетка вытворяет.... муражки по коже.
 
 
-    <iframe title="YouTube video player" width="480" height="390" src="http://www.youtube.com/embed/l49N8U3d0Bw"
-    frameborder="0" allowfullscreen></iframe>'
+    <iframe title="YouTube video player" width="480" height="390" src="http://www.youtube.com/embed/l49N8U3d0Bw" frameborder="0"
+    allowfullscreen></iframe>'
   replies:
   - id: 37311
     parent_id: 37308
@@ -24,6 +24,7 @@ posts:
     subject: ???
     deleted: false
     text: А кто это?
+    person_id: 7512
   - id: 37319
     parent_id: 37308
     date: 2011-02-13 23:59
@@ -39,3 +40,5 @@ posts:
       subject: '!!!'
       deleted: false
       text: Спасибо!!! Сила!
+      person_id: 7512
+    person_id: 4

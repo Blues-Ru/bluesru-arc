@@ -11,8 +11,7 @@ posts:
   poster: burnus
   subject: день рыбака
   deleted: false
-  text: http://www.youtube.com/watch?v=pvucEGJBvLo&list=UU8ZO7svuG5NhI_dLgB3LdgA&feature=player_embedded    14.07.13
-    в Дмитрове
+  text: http://www.youtube.com/watch?v=pvucEGJBvLo&list=UU8ZO7svuG5NhI_dLgB3LdgA&feature=player_embedded    14.07.13 в Дмитрове
   replies:
   - id: 39037
     parent_id: 39036
@@ -20,6 +19,7 @@ posts:
     poster: Andrei V. Evdokimov
     subject: Блеск!
     deleted: false
+    person_id: 4
   - id: 39043
     parent_id: 39036
     date: 2013-07-22 10:00
@@ -47,3 +47,7 @@ posts:
           Правда, меня в ближайший месяц в России почти не будет - отпуск :)
 
           Если что, вот мой: yegor_2000@mail.ru'
+        person_id: 4502
+      person_id: 8105
+    person_id: 4502
+  person_id: 8105

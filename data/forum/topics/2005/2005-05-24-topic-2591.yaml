@@ -32,8 +32,7 @@ posts:
       email: blutang@yandex.ru
       subject: Инкубаторские мы! :)
       deleted: false
-      text: '"Континентальный дрейф", "Вертолет", "Sticky Fingers", "Южный ветер",
-        "Shakin Spirit"...'
+      text: '"Континентальный дрейф", "Вертолет", "Sticky Fingers", "Южный ветер", "Shakin Spirit"...'
       replies:
       - id: 21577
         parent_id: 21568
@@ -50,8 +49,7 @@ posts:
           email: evdokimov@blues.ru
           subject: а кто из "...ветра"?
           deleted: false
-          text: г-н майор, прошу не каламбурить, типа, "из ветра - до ветру" и пр.
-            =)
+          text: г-н майор, прошу не каламбурить, типа, "из ветра - до ветру" и пр. =)
           replies:
           - id: 21587
             parent_id: 21579
@@ -60,6 +58,7 @@ posts:
             email: gypsy@mail.ru
             subject: И заметьте, не я это сказал =)))
             deleted: false
+          person_id: 4
         - id: 21580
           parent_id: 21577
           date: 2005-05-26 18:46

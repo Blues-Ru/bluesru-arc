@@ -21,6 +21,7 @@ posts:
     email: sunny_city@mail.ru
     subject: От всей души поздравляю !
     deleted: false
+    person_id: 956
   - id: 33881
     parent_id: 33879
     date: 2007-11-15 17:14
@@ -28,6 +29,7 @@ posts:
     email: dr.nick@blues.ru
     subject: рооок!!!
     deleted: false
+    person_id: 335
   - id: 33882
     parent_id: 33879
     date: 2007-11-15 17:42

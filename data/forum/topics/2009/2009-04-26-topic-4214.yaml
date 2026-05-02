@@ -28,6 +28,7 @@ posts:
     subject: никто не поздравил Юриваныча
     deleted: false
     text: злые вы
+    person_id: 335
   - id: 36313
     parent_id: 36296
     date: 2009-05-12 21:28

@@ -12,29 +12,22 @@ posts:
   email: dr.nick@blues.ru
   subject: TOP Blues.ru на сегодня
   deleted: false
-  text: "Как видите, изменения происходят. Люди пишут потихоньку, хотя по-прежнему\
-    \ нет списков основных участников форума. А жаль. Вот полюбуйтесь. Как Вам СРВ\
-    \ выше Алберта Кинга? Теперь понимаете, что такое \"Блюз в России\" на самом деле?\n\
-    \nB.B. King\t11\nMuddy Waters\t11\nBuddy Guy\t10\nSRV\t8\nAlbert King\t7\nJohn\
-    \ Lee Hooker\t7\nFreddie King\t6\nHowlin Wolf\t6\nAlbert Collins\t5\nEric Clapton\t\
-    5\nJimi Hendrix\t5\nJohn Mayall\t5\nPeter Green\t5\nJohn Hammond\t4\nLightin Hopkins\t\
-    4\nLuther Allison\t4\nRonnie Earl\t4\nTaj Mahal\t4\nT-Bone Walker\t4\nDave Hole\t\
-    3\nJohn Campbell\t3\nJunior Wells\t3\nOtis Rush\t3\nPaul Lamb\t3\nSonny Boy Williamson\
-    \ II\t3\nWillie Dixon\t3\nJ.J. Cale\t2\nJames Cotton\t2\nJB Lenoir\t2\nJohnny\
-    \ Winter\t2\nKoko Taylor\t2\nPaul Black\t2\nRick Derringer\t2\nRobert Johnson\t\
-    2\nRory Gallagher\t2\nRoy Buchanan\t2\nScreamin' Jay Hawkins\t2\nWilliam Clarke\t\
-    2\nBig Joe Turner\t\nBlues Brothers\t\nBrownie McGhee\t\nCanned Heat Blues Band\t\
-    \nCarlos Del Junco\t\nCharlie Musselwhite\t\nChris Duarte\t\nClarence Brown\t\n\
-    Coco Montoya\t\nCorey Harris\t\nCraig Erickson\t\nDanny Gatton\t\nDuane Allman\t\
-    \nDuke Robillard\t\nElmore James\t\nFleetwood Mac\t\nGary Moore\t\nGlenn Hughes\t\
-    \nGov't Mule\t\nHubert Sumlin\t\nJimmy Vaughan\t\nJoe Beard\t\nLeadbelly\t\nLittle\
-    \ Charlie & The Nightcats\t\nLittle Feat\t\nLittle Walter\t\nLong John Hunter\t\
-    \nLuther 'Guitar' Johnson\t\nMemphis Minnie\t\nMemphis Slim\t\nMichael Bloomfield\t\
-    \nOtis Redding\t\nPaul Butterfield\t\nPaul Rishell\t\nPinetop Perkins\t\nR.L.\
-    \ Burnside\t\nRare Earth\t\nRay Charles\t\nReverend Gary Davis\t\nRick Holmstrom\t\
-    \nRobben Ford\t\nRobert Cray \t\nRod Piazza\t\nRory Block\t\nRy Cooder\t\nSavoy\
-    \ Brown\t\nSkip James\t\nSnooks Eaglin\t\nSon Seals\t\nStudebaker John\t\nThe\
-    \ Paladins\t\nTinsley Ellis\t\nTom Waits\t\nVidar Busk\t\nWilson Pickett"
+  text: "Как видите, изменения происходят. Люди пишут потихоньку, хотя по-прежнему нет списков основных участников форума.\
+    \ А жаль. Вот полюбуйтесь. Как Вам СРВ выше Алберта Кинга? Теперь понимаете, что такое \"Блюз в России\" на самом деле?\n\
+    \nB.B. King\t11\nMuddy Waters\t11\nBuddy Guy\t10\nSRV\t8\nAlbert King\t7\nJohn Lee Hooker\t7\nFreddie King\t6\nHowlin\
+    \ Wolf\t6\nAlbert Collins\t5\nEric Clapton\t5\nJimi Hendrix\t5\nJohn Mayall\t5\nPeter Green\t5\nJohn Hammond\t4\nLightin\
+    \ Hopkins\t4\nLuther Allison\t4\nRonnie Earl\t4\nTaj Mahal\t4\nT-Bone Walker\t4\nDave Hole\t3\nJohn Campbell\t3\nJunior\
+    \ Wells\t3\nOtis Rush\t3\nPaul Lamb\t3\nSonny Boy Williamson II\t3\nWillie Dixon\t3\nJ.J. Cale\t2\nJames Cotton\t2\nJB\
+    \ Lenoir\t2\nJohnny Winter\t2\nKoko Taylor\t2\nPaul Black\t2\nRick Derringer\t2\nRobert Johnson\t2\nRory Gallagher\t2\n\
+    Roy Buchanan\t2\nScreamin' Jay Hawkins\t2\nWilliam Clarke\t2\nBig Joe Turner\t\nBlues Brothers\t\nBrownie McGhee\t\nCanned\
+    \ Heat Blues Band\t\nCarlos Del Junco\t\nCharlie Musselwhite\t\nChris Duarte\t\nClarence Brown\t\nCoco Montoya\t\nCorey\
+    \ Harris\t\nCraig Erickson\t\nDanny Gatton\t\nDuane Allman\t\nDuke Robillard\t\nElmore James\t\nFleetwood Mac\t\nGary\
+    \ Moore\t\nGlenn Hughes\t\nGov't Mule\t\nHubert Sumlin\t\nJimmy Vaughan\t\nJoe Beard\t\nLeadbelly\t\nLittle Charlie &\
+    \ The Nightcats\t\nLittle Feat\t\nLittle Walter\t\nLong John Hunter\t\nLuther 'Guitar' Johnson\t\nMemphis Minnie\t\nMemphis\
+    \ Slim\t\nMichael Bloomfield\t\nOtis Redding\t\nPaul Butterfield\t\nPaul Rishell\t\nPinetop Perkins\t\nR.L. Burnside\t\
+    \nRare Earth\t\nRay Charles\t\nReverend Gary Davis\t\nRick Holmstrom\t\nRobben Ford\t\nRobert Cray \t\nRod Piazza\t\n\
+    Rory Block\t\nRy Cooder\t\nSavoy Brown\t\nSkip James\t\nSnooks Eaglin\t\nSon Seals\t\nStudebaker John\t\nThe Paladins\t\
+    \nTinsley Ellis\t\nTom Waits\t\nVidar Busk\t\nWilson Pickett"
   replies:
   - id: 1302
     parent_id: 1299
@@ -43,19 +36,16 @@ posts:
     email: fedor@blues.ru
     subject: Не понял...
     deleted: false
-    text: '...твоего риторического легкого наезда на SRV и Блюз в России. Типа, не
-      совпадает с твоим списком? СРВ с AK - практически одинаково, ну а если ты сравнишь,
-      к примеру, продажи блюзовых пластинок на западе, разница между ними будет больше...
+    text: '...твоего риторического легкого наезда на SRV и Блюз в России. Типа, не совпадает с твоим списком? СРВ с AK - практически
+      одинаково, ну а если ты сравнишь, к примеру, продажи блюзовых пластинок на западе, разница между ними будет больше...
       И это показывает скорее "продвинутость" местных посетителей даже в твоем понимании.
 
-      А с тем, что СРВ - это крупное блюзовое явление, как бы ты (и я, тоже) к нему
-      не относился, пора бы уж и смириться. Тогда не возникло бы у тебя подобных странных
-      риторических реплик.
+      А с тем, что СРВ - это крупное блюзовое явление, как бы ты (и я, тоже) к нему не относился, пора бы уж и смириться.
+      Тогда не возникло бы у тебя подобных странных риторических реплик.
 
       Не понимаю я и теперь, что же такое (на самом деле) этот "Блюз в России"?
 
-      А в качестве шутки предлагаю открыть сайт "Казанцев в России" ;) На это я тебе
-      уже намекал. ;)'
+      А в качестве шутки предлагаю открыть сайт "Казанцев в России" ;) На это я тебе уже намекал. ;)'
     replies:
     - id: 1303
       parent_id: 1302
@@ -64,9 +54,8 @@ posts:
       email: dr.nick@blues.ru
       subject: Наехал, да?
       deleted: false
-      text: Ты же прекрасно понял о чем я. Я имел в виду тот факт, что блюзом в России
-        называют скорее гитарных (исключительно) запильщиков, а не тех людей, которые
-        действительно играли именно блюз от души и сердца и необязательно на гитарах.
+      text: Ты же прекрасно понял о чем я. Я имел в виду тот факт, что блюзом в России называют скорее гитарных (исключительно)
+        запильщиков, а не тех людей, которые действительно играли именно блюз от души и сердца и необязательно на гитарах.
         Ты тут видишь хоть одного пианиста? Даже Уэллс где-то в заднице ;)
       replies:
       - id: 1305
@@ -76,13 +65,11 @@ posts:
         email: fedor@blues.ru
         subject: Не, ну понятно....
         deleted: false
-        text: 'Я бы сказал тоньше. То, что определенных запильщиков называют блюзом
-          - это нормально, ибо они под определение подходят, в общем-то. Под термин
-          "по-блюзу" явно - нет, по него и многие блюзмены не подходят. ;)) То, что
-          "исключительно" этих запильщиков называют - само по себе было бы плохо,
-          но это не так. В получившемся хит-параде из попросту нет в начале списка.
-          Однако, отчасти, это происходит от того, что здесь стесняются их называть,
-          а не потому, что запильщиков не слушают. ;)
+        text: 'Я бы сказал тоньше. То, что определенных запильщиков называют блюзом - это нормально, ибо они под определение
+          подходят, в общем-то. Под термин "по-блюзу" явно - нет, по него и многие блюзмены не подходят. ;)) То, что "исключительно"
+          этих запильщиков называют - само по себе было бы плохо, но это не так. В получившемся хит-параде из попросту нет
+          в начале списка. Однако, отчасти, это происходит от того, что здесь стесняются их называть, а не потому, что запильщиков
+          не слушают. ;)
 
           На мой взгляд, все в порядке вещей.'
         replies:
@@ -93,9 +80,8 @@ posts:
           email: dr.nick@blues.ru
           subject: А вот мне интересно
           deleted: false
-          text: 'В первых рядах Мадди и БиБи. А вот почему их написали? За что, я
-            имею в виду? Какие записи люди слушали? Я до сих пор с ними не могу разобраться
-            толком. Вот бы узнать, какой период БиБи они ценят и за что?
+          text: 'В первых рядах Мадди и БиБи. А вот почему их написали? За что, я имею в виду? Какие записи люди слушали?
+            Я до сих пор с ними не могу разобраться толком. Вот бы узнать, какой период БиБи они ценят и за что?
 
             Эй Вы! Кто что любит у Кинга и Могрганфилда? Пишите, а то скучно и непонятно!'
           replies:
@@ -106,9 +92,8 @@ posts:
             email: vad2908@mail.ru
             subject: '...я, например, ...'
             deleted: false
-            text: "...у Кинга предпочитаю период с 50 по 65 (см. B.B. King \"King\
-              \ of the Blues\" 4cd-box). У Мадди - \"\"Muddy \"Mississippi\" Waters\
-              \ - Live\"\" конц. сб. с 55 по 75 гг. А Вы? \n.Вадим."
+            text: "...у Кинга предпочитаю период с 50 по 65 (см. B.B. King \"King of the Blues\" 4cd-box). У Мадди - \"\"\
+              Muddy \"Mississippi\" Waters - Live\"\" конц. сб. с 55 по 75 гг. А Вы? \n.Вадим."
             replies:
             - id: 1309
               parent_id: 1307
@@ -119,8 +104,7 @@ posts:
               deleted: false
               text: 'То мне нравится Мадди 50-х, The Folk Singer, The Woodstock Album.
 
-                С БиБи сложнее. Похоже мне нравятся все его работы с конца 60-х по
-                конец 70-х. Могу уточнить, если надо.'
+                С БиБи сложнее. Похоже мне нравятся все его работы с конца 60-х по конец 70-х. Могу уточнить, если надо.'
             - id: 1330
               parent_id: 1307
               date: 2002-02-16 23:44
@@ -128,8 +112,8 @@ posts:
               email: blackcat@blues.ru
               subject: Muddy Mississippi Waters Live
               deleted: false
-              text: Альбом с таким названием, если не ошибаюсь - это концертная запись
-                целиком и полностью с турне 1978 года.
+              text: Альбом с таким названием, если не ошибаюсь - это концертная запись целиком и полностью с турне 1978 года.
+              person_id: 6
           - id: 1312
             parent_id: 1306
             date: 2002-02-16 12:54
@@ -137,23 +121,17 @@ posts:
             email: sanya@mailandnews.com
             subject: топ тен почему и за что
             deleted: false
-            text: "а) Мадди. Именно Мадди. А почему? Ну не знаю я, почему. Но, когда\
-              \ Мадди вступает на своем куплете в My Babe на обсуждавшемся суперблюзовом\
-              \ концерте, испытываешь некий эмоциональный подъем. А послушать еще\
-              \ и еще хочется, конечно, именно записи 50х. На Трабл Но Мо или Чесс\
-              \ Боксе. \nб) Хукер, наверное. Ранний, такой как на Don't Turn Me from\
-              \ Your Door.\nв) Сонни Бой II. Разный, и с группой, и без (Keep It To\
-              \ Ourselves)\nг) Букка Вайт\nд) Мемфис Минни. Из довоенных женщин именно\
-              \ ее хочется послушать и по второму и третьему разу, как и\nе) Биг Маму\
-              \ Торнтон из послевоенных\nж) Блайнд Бой Фуллер\nз) Литтл Уолтер\nи)\
-              \ Джей Би Ленуар\nк) а Чака Берри в этот список можно вносить? :^)\n\
-              л) кто знает, может, завтра список будет выглядеть по-другому? Много\
-              \ их... :^)\n\nи о \"пианистах\". За каждым фронтменом пятидесятых-шестидесятых\
-              \ стоит контрабас Вилли Диксона (который и сам себе фронтмен), и (или)\
-              \ рояль Отиса Спана, и (или) барабаны Фреда Белова, и (или) гитара Мэтта\
-              \ Мерфи, и (или) много тех, кого вы все и сами гораздо лучше меня знаете.\
-              \ Так получилось, что мы их знаем меньше (не Диксона, конечно), но мы\
-              \ их все равно слышим, когда слушаем записи Мадди, или Берри, или Торнтон."
+            text: "а) Мадди. Именно Мадди. А почему? Ну не знаю я, почему. Но, когда Мадди вступает на своем куплете в My\
+              \ Babe на обсуждавшемся суперблюзовом концерте, испытываешь некий эмоциональный подъем. А послушать еще и еще\
+              \ хочется, конечно, именно записи 50х. На Трабл Но Мо или Чесс Боксе. \nб) Хукер, наверное. Ранний, такой как\
+              \ на Don't Turn Me from Your Door.\nв) Сонни Бой II. Разный, и с группой, и без (Keep It To Ourselves)\nг) Букка\
+              \ Вайт\nд) Мемфис Минни. Из довоенных женщин именно ее хочется послушать и по второму и третьему разу, как и\n\
+              е) Биг Маму Торнтон из послевоенных\nж) Блайнд Бой Фуллер\nз) Литтл Уолтер\nи) Джей Би Ленуар\nк) а Чака Берри\
+              \ в этот список можно вносить? :^)\nл) кто знает, может, завтра список будет выглядеть по-другому? Много их...\
+              \ :^)\n\nи о \"пианистах\". За каждым фронтменом пятидесятых-шестидесятых стоит контрабас Вилли Диксона (который\
+              \ и сам себе фронтмен), и (или) рояль Отиса Спана, и (или) барабаны Фреда Белова, и (или) гитара Мэтта Мерфи,\
+              \ и (или) много тех, кого вы все и сами гораздо лучше меня знаете. Так получилось, что мы их знаем меньше (не\
+              \ Диксона, конечно), но мы их все равно слышим, когда слушаем записи Мадди, или Берри, или Торнтон."
             replies:
             - id: 1318
               parent_id: 1312
@@ -162,8 +140,9 @@ posts:
               email: dr.nick@blues.ru
               subject: Я имел в виду пианистов-солистов
               deleted: false
-              text: Типа Memphis Slim, Champion Jack Dupree, Otis Spann, Sunnyland
-                Slim, Speckled Red. Очень интересные люди с прекрасными темами и голосами!
+              text: Типа Memphis Slim, Champion Jack Dupree, Otis Spann, Sunnyland Slim, Speckled Red. Очень интересные люди
+                с прекрасными темами и голосами!
+              person_id: 335
           - id: 1313
             parent_id: 1306
             date: 2002-02-16 13:10
@@ -171,14 +150,11 @@ posts:
             email: vts13@hotmail.com
             subject: Ну раз пошли разборки,
             deleted: false
-            text: скажу и я в прояснение своей позиции.Как и многие,слушаю окромя
-              блюза много всякой другой музыки,преимущественно гитарной.Люблю я это
-              дело как в блюзе,так и в роке,джазе ,фьюжн...Но говорим то мы о блюзе
-              (блюз-роке),поэтому любимые мной люди ,чуть дальше стоящие от блюза
-              ( Дж.Хендрикс,Лесли Вест,Крейг Эриксон,Роббен Форд,Скотт Хендерсон...),в
-              список не попали.Нет там и Б.Б.Кинга-я им серьезно занялся только недавно,и
-              в следующем топе он скорее всего будет.Пока больше всего понравились
-              Сompletely Well(1969),Indianola...(1970),Live In Cook County Jail(1971).
+            text: скажу и я в прояснение своей позиции.Как и многие,слушаю окромя блюза много всякой другой музыки,преимущественно
+              гитарной.Люблю я это дело как в блюзе,так и в роке,джазе ,фьюжн...Но говорим то мы о блюзе (блюз-роке),поэтому
+              любимые мной люди ,чуть дальше стоящие от блюза ( Дж.Хендрикс,Лесли Вест,Крейг Эриксон,Роббен Форд,Скотт Хендерсон...),в
+              список не попали.Нет там и Б.Б.Кинга-я им серьезно занялся только недавно,и в следующем топе он скорее всего
+              будет.Пока больше всего понравились Сompletely Well(1969),Indianola...(1970),Live In Cook County Jail(1971).
             replies:
             - id: 1317
               parent_id: 1313
@@ -188,6 +164,7 @@ posts:
               subject: Вот именно!
               deleted: false
               text: Well & Seeds - мои 2 любимых альбома у БиБи на сегодняшний день!
+              person_id: 335
           - id: 1329
             parent_id: 1306
             date: 2002-02-16 23:40
@@ -201,8 +178,7 @@ posts:
 
               У Б.Б. Кинга всё, кроме  периода с 1966 по 1991 год.
 
-              Разумеется, есть исключения и из любимых периодов, и из нелюбимых. Но
-              в общем целом - так.'
+              Разумеется, есть исключения и из любимых периодов, и из нелюбимых. Но в общем целом - так.'
           - id: 1384
             parent_id: 1306
             date: 2002-02-18 11:33
@@ -210,13 +186,14 @@ posts:
             email: skvoid@yahoo.com
             subject: Отвечаю...
             deleted: false
-            text: '... У БиБи Кинга моими любимыми пластинками являются Lucille и
-              Blues Summit - первая за душевность, вторая - за "звездность" и драйв
-              ;)
+            text: '... У БиБи Кинга моими любимыми пластинками являются Lucille и Blues Summit - первая за душевность, вторая
+              - за "звездность" и драйв ;)
 
-              ... у Мадди любимые Folk Singer, I''m Ready, King Bee, Hard Again и
-              подборка (сборник) Got My Mojo Workin'', также концертники Live и In
-              Concert!'
+              ... у Мадди любимые Folk Singer, I''m Ready, King Bee, Hard Again и подборка (сборник) Got My Mojo Workin'',
+              также концертники Live и In Concert!'
+            person_id: 26
+        person_id: 2
+      person_id: 335
   - id: 1350
     parent_id: 1299
     date: 2002-02-17 03:18
@@ -224,8 +201,6 @@ posts:
     email: crazy_bear@fomenko.ru
     subject: '?'
     deleted: false
-    text: Поймите меня правильно, но... это вообще музыкальный чарт? Если по блюзу,
-      то что там делают Wilson Pickett, Ray Charles, Screamin J Hawkins? Соул оставить,
-      это ОКОЛОБЛЮЗОВАЯ музыка. Но в сложившейся музыкальной ситуации - и это блюз...
-      А я запоздало проголосую за любимого Сэма... Sam "Lightnin`" Hopkins и двух
-      его братьев.
+    text: Поймите меня правильно, но... это вообще музыкальный чарт? Если по блюзу, то что там делают Wilson Pickett, Ray
+      Charles, Screamin J Hawkins? Соул оставить, это ОКОЛОБЛЮЗОВАЯ музыка. Но в сложившейся музыкальной ситуации - и это
+      блюз... А я запоздало проголосую за любимого Сэма... Sam "Lightnin`" Hopkins и двух его братьев.

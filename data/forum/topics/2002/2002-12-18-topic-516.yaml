@@ -12,8 +12,7 @@ posts:
   email: leondmitr@freemail.ru
   subject: А кто поет блюз в Терминаторе-2 ?
   deleted: false
-  text: 'Ну, когда там Шварц в баре всех отлупил, раздел, отнял ружо, сел на мотоцикл,
-    ну и поехал на нем творить добрые дела...
+  text: 'Ну, когда там Шварц в баре всех отлупил, раздел, отнял ружо, сел на мотоцикл, ну и поехал на нем творить добрые дела...
 
     Очень уж нравицца.'
   replies:
@@ -24,8 +23,7 @@ posts:
     email: aaa@genebee.msu.su
     subject: Поет в России больше, чем поет
     deleted: false
-    text: Это Джон Зорогуд с песней "Плохой на фиг" (George Thorogood and the Destroyers,
-      "Bad To The Bone").
+    text: Это Джон Зорогуд с песней "Плохой на фиг" (George Thorogood and the Destroyers, "Bad To The Bone").
     replies:
     - id: 9500
       parent_id: 9481
@@ -35,6 +33,7 @@ posts:
       subject: Спасибо. А что у него...
       deleted: false
       text: лучше послушать из дискографии, естессно, где блюза больше?
+      person_id: 698
     - id: 9504
       parent_id: 9481
       date: 2002-12-19 13:53
@@ -44,8 +43,7 @@ posts:
       deleted: false
       text: 'считать блюзом :-)
 
-        На "Haircut" - большая часть вещей авторства классиков (Dixon,Hooker и др)Но
-        они в ОЧЕНЬ забойном исполнении.'
+        На "Haircut" - большая часть вещей авторства классиков (Dixon,Hooker и др)Но они в ОЧЕНЬ забойном исполнении.'
       replies:
       - id: 9505
         parent_id: 9504
@@ -68,6 +66,8 @@ posts:
           subject: P.S. Посмотрел обложку - Жуть какая-то!!
           deleted: false
           text: То ли еще внутри...
+          person_id: 698
+      person_id: 378
     - id: 9526
       parent_id: 9481
       date: 2002-12-20 16:20
@@ -75,8 +75,8 @@ posts:
       email: RR@RAMBLER.RU
       subject: А я думал ....
       deleted: false
-      text: '... что это ZZ TOP играет. У меня даже есть эта песенка Bad To The Bone
-        в исполнении ZZ и как раз очень похоже на песню из фильма.'
+      text: '... что это ZZ TOP играет. У меня даже есть эта песенка Bad To The Bone в исполнении ZZ и как раз очень похоже
+        на песню из фильма.'
       replies:
       - id: 9675
         parent_id: 9526
@@ -85,3 +85,5 @@ posts:
         email: leondmitr@freemail.ru
         subject: Не-а. Зи.Зи.Топ отдыхает...
         deleted: false
+        person_id: 698
+    person_id: 458

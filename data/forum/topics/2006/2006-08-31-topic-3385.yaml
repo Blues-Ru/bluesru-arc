@@ -19,9 +19,8 @@ posts:
     Браузер Mozila Firefox "рассекречен" тоже:
 
 
-    Download videos from Youtube, Google, Metacafe, iFilm, Dailymotion... and other
-    60+ video sites ! And all embedded objects on a webpage (movies, mp3s, flash,
-    quicktime, etc) ! Directly !
+    Download videos from Youtube, Google, Metacafe, iFilm, Dailymotion... and other 60+ video sites ! And all embedded objects
+    on a webpage (movies, mp3s, flash, quicktime, etc) ! Directly !
 
     VideoDownloader 1.0
 
@@ -70,8 +69,8 @@ posts:
       email: elicaster co6@kaмейл-d0t ru
       subject: Riva FLV Player и FLVPlayer
       deleted: false
-      text: 'Я думаю и оба приведенных выше плейэра: и Riva FLV Player и FLVPlayer
-        будут прекрасно работать под любой операционной системой семества Windows.
+      text: 'Я думаю и оба приведенных выше плейэра: и Riva FLV Player и FLVPlayer будут прекрасно работать под любой операционной
+        системой семества Windows.
 
         Tckb xnj? nj vyjubt jndtns pltcm^
 
@@ -93,6 +92,7 @@ posts:
           subject: 'Наверное самое простое решение проблемки:'
           deleted: false
           text: http://www.blues.ru/forum/?id=46125&page=0&body=1#46125
+        person_id: 3349
   - id: 28552
     parent_id: 28547
     date: 2006-08-31 14:05
@@ -109,9 +109,8 @@ posts:
       email: elicaster co6@kaмейл-d0t ru
       subject: Есть такая партия!
       deleted: false
-      text: <a href="http://elicaster.mylj.ru/6618.html">Здесь</a> есть два конвертора
-        flv файлов в другой удобоваримый формат. Они оба бесплатные и оба работают
-        корректно.
+      text: <a href="http://elicaster.mylj.ru/6618.html">Здесь</a> есть два конвертора flv файлов в другой удобоваримый формат.
+        Они оба бесплатные и оба работают корректно.
       replies:
       - id: 28558
         parent_id: 28553
@@ -121,6 +120,7 @@ posts:
         subject: Спасибо!
         deleted: false
         text: Вечером скачаю!
+        person_id: 2888
       - id: 28568
         parent_id: 28553
         date: 2006-09-02 18:59
@@ -129,6 +129,7 @@ posts:
         subject: Установил Cinema Forge...
         deleted: false
         text: '...- всё конвертирует хорошо! Спасибо!'
+        person_id: 2888
   - id: 28565
     parent_id: 28547
     date: 2006-09-02 07:44
@@ -136,12 +137,10 @@ posts:
     email: elicaster co6@kaмейл-d0t ru
     subject: Просмотр flv файлов в полноэкранном режиме
     deleted: false
-    text: "У вышеприведенных плейеров есть один недостаток: видео воспроизводится\
-      \ в маленьком окошке, нет возможности воспроизведения на весь экран.\nЯ нашел\
-      \ такое решение этой проблемки:\nСкачал и установил \n<a href=\"http://download.betanews.com/download/945901171/tcmdr655.exe\"\
-      >Total Commander</a> и <a href=\"http://wincmd.ru/files/wlx_swflst_2.0s_.zip\"\
-      >плагин SWF Lister plugin 2.0 for Total Commander</a>\nВ ReadMe файле плагина\
-      \ описано что далеше надо делать.\nПосле несложных процедур мы можем смотреть\
+    text: "У вышеприведенных плейеров есть один недостаток: видео воспроизводится в маленьком окошке, нет возможности воспроизведения\
+      \ на весь экран.\nЯ нашел такое решение этой проблемки:\nСкачал и установил \n<a href=\"http://download.betanews.com/download/945901171/tcmdr655.exe\"\
+      >Total Commander</a> и <a href=\"http://wincmd.ru/files/wlx_swflst_2.0s_.zip\">плагин SWF Lister plugin 2.0 for Total\
+      \ Commander</a>\nВ ReadMe файле плагина описано что далеше надо делать.\nПосле несложных процедур мы можем смотреть\
       \ flv файлы в полноэкранном режиме"
     replies:
     - id: 28567
@@ -151,9 +150,8 @@ posts:
       email: elicaster co6@kaмейл-d0t ru
       subject: Регистрация плагина SWF Lister plugin 2.0
       deleted: false
-      text: 'Кстати, у плагина SWF Lister plugin 2.0 такая прикольненькая регистрация:
-        надо ввести в Name: xUSSR и жмём OK. далее будет вопросик по математике, ну
-        и усё :-)'
+      text: 'Кстати, у плагина SWF Lister plugin 2.0 такая прикольненькая регистрация: надо ввести в Name: xUSSR и жмём OK.
+        далее будет вопросик по математике, ну и усё :-)'
     - id: 28585
       parent_id: 28565
       date: 2006-09-04 23:12
@@ -161,21 +159,15 @@ posts:
       email: elicaster co6@kaмейл-d0t ru
       subject: 'SWF Lister: совет от автора плагина'
       deleted: false
-      text: 'В плагине SWF Lister реализован полноэкранный режим (чего нет в вышеназванных
-        плейерах), но вот появился другой момент: несколько мешает трэкбар (кнопки
-        воспр/пауза и вкл/выкл звука). Конечно, он нетрудно исчезает как только увести
-        курсор влево. Но было бы намного удобнее если бы с самого начала запуска он
-        не появлялся бы сам, если бы он вызывался.
+      text: 'В плагине SWF Lister реализован полноэкранный режим (чего нет в вышеназванных плейерах), но вот появился другой
+        момент: несколько мешает трэкбар (кнопки воспр/пауза и вкл/выкл звука). Конечно, он нетрудно исчезает как только увести
+        курсор влево. Но было бы намного удобнее если бы с самого начала запуска он не появлялся бы сам, если бы он вызывался.
 
-        И ещё, было б очень удобно если была б возможность перемотки при воспроизведении
-        *.flv файлов.
+        И ещё, было б очень удобно если была б возможность перемотки при воспроизведении *.flv файлов.
 
-        Я спросил об этом автора этого плагина - <a href="http://tcplugs.shuriksoft.com/">Shurik</a>''а.
-        Вот что по этому поводу он сказал: <i>уберите использование скина вообще,
-        для этого в lsplugin.ini (этот файл обычно лежит в корневой папке Total Commander''а)
-        найдите flvSkin=??????.swf  и сотрите этот параметр, а лучше оставить вот
-        так flvSkin=
+        Я спросил об этом автора этого плагина - <a href="http://tcplugs.shuriksoft.com/">Shurik</a>''а. Вот что по этому
+        поводу он сказал: <i>уберите использование скина вообще, для этого в lsplugin.ini (этот файл обычно лежит в корневой
+        папке Total Commander''а) найдите flvSkin=??????.swf  и сотрите этот параметр, а лучше оставить вот так flvSkin=
 
-        По поводу перемотки во время воспроизведения *.flv файлов. Эта возможность
-        зависит от типа flv, если он потоковый то перемотки нет. А вот как раз файлы
-        с youtube в основном потоковые</i>'
+        По поводу перемотки во время воспроизведения *.flv файлов. Эта возможность зависит от типа flv, если он потоковый
+        то перемотки нет. А вот как раз файлы с youtube в основном потоковые</i>'

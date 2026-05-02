@@ -12,8 +12,7 @@ posts:
   email: voshalb@rambler.ru
   subject: А чо там насчет Лефортово??
   deleted: false
-  text: Где ж вы, любители блюза?? Отпишите, плиз, ваши впечатления...Иль жара, август
-    и всех сморило???
+  text: Где ж вы, любители блюза?? Отпишите, плиз, ваши впечатления...Иль жара, август и всех сморило???
   replies:
   - id: 33372
     parent_id: 33371
@@ -28,8 +27,8 @@ posts:
       Погода была прекрасная, музыка хорошая и разная. Чего ещё желать?
 
 
-      П.С. Записал по куску соло каждого ансамбля на мыльничное видео. Получилось
-      сносно. Теперь все российские блюзмены буквально у меня в кармане.'
+      П.С. Записал по куску соло каждого ансамбля на мыльничное видео. Получилось сносно. Теперь все российские блюзмены буквально
+      у меня в кармане.'
   - id: 33374
     parent_id: 33371
     date: 2007-08-14 00:44
@@ -37,8 +36,8 @@ posts:
     email: chifuroff@inbox.ru
     subject: Полазий в ЖЖ :-))))) Там много кто чего написАл :-)))))
     deleted: false
-    text: <a href="http://chifuroff.livejournal.com/164094.html">Вот например мой
-      скромный отчётец</a>
+    text: <a href="http://chifuroff.livejournal.com/164094.html">Вот например мой скромный отчётец</a>
+    person_id: 2888
   - id: 33375
     parent_id: 33371
     date: 2007-08-14 00:56
@@ -59,6 +58,7 @@ posts:
     subject: И ещё
     deleted: false
     text: <a href="http://saltuarius.livejournal.com/6045.html">Отчёт Юрия Каверкина</a>
+    person_id: 2888
   - id: 33382
     parent_id: 33371
     date: 2007-08-15 10:00
@@ -78,6 +78,7 @@ posts:
       text: 'http://www.intermedia.ru/index.php3?action=view&id=85977
 
         http://afisha.rambler.ru/message.html?id=12407429'
+    person_id: 5877
   - id: 33387
     parent_id: 33371
     date: 2007-08-16 23:50
@@ -86,3 +87,4 @@ posts:
     subject: И еще
     deleted: false
     text: http://www.intermedia.ru/index.php3?action=view&id=85980
+  person_id: 3168

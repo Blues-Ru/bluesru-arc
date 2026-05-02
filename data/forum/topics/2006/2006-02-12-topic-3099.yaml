@@ -22,6 +22,7 @@ posts:
     subject: желаете...
     deleted: false
     text: '... перенести её сюда, наверЬх? ;))'
+    person_id: 6
   - id: 26041
     parent_id: 26019
     date: 2006-02-13 04:46
@@ -38,7 +39,9 @@ posts:
       email: dio@blues.ru
       subject: Long live rock'n'roll!!!
       deleted: false
-      text: Long live rock'n'roll!!! Long live rock'n'roll!!! Long live rock'n'roll!!!
+      text: Long live rock'n'roll!!! Long live rock'n'roll!!! Long live rock'n'roll!!! Long live rock'n'roll!!! Long live
+        rock'n'roll!!! Long live rock'n'roll!!! Long live rock'n'roll!!! Long live rock'n'roll!!! Long live rock'n'roll!!!
         Long live rock'n'roll!!! Long live rock'n'roll!!! Long live rock'n'roll!!!
-        Long live rock'n'roll!!! Long live rock'n'roll!!! Long live rock'n'roll!!!
-        Long live rock'n'roll!!! Long live rock'n'roll!!! Long live rock'n'roll!!!
+      person_id: 335
+    person_id: 2888
+  person_id: 335

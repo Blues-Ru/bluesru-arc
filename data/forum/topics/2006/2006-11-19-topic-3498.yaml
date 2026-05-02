@@ -26,6 +26,7 @@ posts:
     subject: Black Sabbaaaaath!!!
     deleted: false
     text: Майор, Оззи жив! И ты тоже! Здоровья и счастья!!!
+    person_id: 335
   - id: 29398
     parent_id: 29396
     date: 2006-11-19 04:54
@@ -51,6 +52,7 @@ posts:
     email: chifuroff<sobaka>inbox.ru
     subject: Мои поздравления!
     deleted: false
+    person_id: 2888
   - id: 29401
     parent_id: 29396
     date: 2006-11-19 15:18
@@ -58,6 +60,7 @@ posts:
     email: mishouris@mail.ru
     subject: Поздравляю!
     deleted: false
+    person_id: 4764
   - id: 29402
     parent_id: 29396
     date: 2006-11-19 15:19
@@ -66,6 +69,7 @@ posts:
     subject: Поздравляю!
     deleted: false
     text: И новых хороших музык побольше желаю!
+    person_id: 4764
   - id: 29405
     parent_id: 29396
     date: 2006-11-20 17:23
@@ -105,8 +109,7 @@ posts:
 
       И я проснулся нынче ночью - между двумя и семью-с.
 
-      Я проснулся глубокой ночью - где то меджду двенадцатью минутами четвёртого и
-      семью-с.
+      Я проснулся глубокой ночью - где то меджду двенадцатью минутами четвёртого и семью-с.
 
       И вспомнил одну ёкарнобабайскую вещь-
 

@@ -21,6 +21,7 @@ posts:
     subject: Это - керлинг-клуб в Орехово-Борисово ;)
     deleted: false
     text: http://www.curlingclub.ru/mainpage.htm
+    person_id: 2
   - id: 20892
     parent_id: 20890
     date: 2005-03-25 13:26
@@ -29,3 +30,4 @@ posts:
     subject: Надеюсь, что не на Северном Полюсе..а если кому интересно то это...
     deleted: false
     text: ..Воронежская улица дом 13/3 (метро Домодедовская) тел.109 80 50....
+    person_id: 1719

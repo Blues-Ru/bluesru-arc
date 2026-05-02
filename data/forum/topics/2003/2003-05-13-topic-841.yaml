@@ -12,9 +12,8 @@ posts:
   email: sunburn2001@mail.ru
   subject: Noel Redding died yesterday,,,
   deleted: false
-  text: "Rock musician Noel Redding, best known for his stint \nas the bass player\
-    \ with the Jimi Hendrix Experience, \ndied yesterday (May 11) in Ireland of unknown\
-    \ causes. \nHe was 57."
+  text: "Rock musician Noel Redding, best known for his stint \nas the bass player with the Jimi Hendrix Experience, \ndied\
+    \ yesterday (May 11) in Ireland of unknown causes. \nHe was 57."
   replies:
   - id: 12460
     parent_id: 12440
@@ -23,6 +22,7 @@ posts:
     email: kaverkin@rol.ru
     subject: Ну они с Джимми там закрутят.....
     deleted: false
+    person_id: 1719
   - id: 12476
     parent_id: 12440
     date: 2003-05-15 10:50

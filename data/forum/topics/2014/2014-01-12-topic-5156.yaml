@@ -9,8 +9,7 @@ posts:
   parent_id: null
   date: 2014-01-12 05:00
   poster: Andrei V. Evdokimov
-  subject: ночная блюз-кинотека - Gary Clark Jr. на радио KEXP в октябре прошлого
-    года
+  subject: ночная блюз-кинотека - Gary Clark Jr. на радио KEXP в октябре прошлого года
   deleted: false
-  text: <iframe width="640" height="360" src="//www.youtube.com/embed/KWI_PFSygK8"
-    frameborder="0" allowfullscreen></iframe>
+  text: <iframe width="640" height="360" src="//www.youtube.com/embed/KWI_PFSygK8" frameborder="0" allowfullscreen></iframe>
+  person_id: 4

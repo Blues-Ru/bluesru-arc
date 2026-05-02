@@ -11,5 +11,6 @@ posts:
   poster: Cpt. Nemoff
   subject: Lenin Stile
   deleted: false
-  text: <iframe title="YouTube video player" width="480" height="390" src="http://www.youtube.com/embed/6Qp9MZbo0pw"
-    frameborder="0" allowfullscreen></iframe>
+  text: <iframe title="YouTube video player" width="480" height="390" src="http://www.youtube.com/embed/6Qp9MZbo0pw" frameborder="0"
+    allowfullscreen></iframe>
+  person_id: 3623

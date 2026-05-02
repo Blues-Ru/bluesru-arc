@@ -15,11 +15,9 @@ posts:
   text: 'http://www.livejournal.com/users/twist_again/62293.html?thread=526677#t526677
 
 
-    Кому не лень будет сей дискашшн прочитать - скажите пожалуйста, все-таки, кто
-    кому и сколько платит за исполнение песни Хучи-Кучи мэн.Ну или хотя бы вкратце
-    объясните, каков механизм взимания налогов за исполнение чужих блюзов. И кому,
-    например платят (или должны платить) Черный Хлеб, Дёрти Дазн, Мишурис, ЛайфнДжой,
-    Сколдеры, Кроссроудз, Оффбит и ты ды :-)))))'
+    Кому не лень будет сей дискашшн прочитать - скажите пожалуйста, все-таки, кто кому и сколько платит за исполнение песни
+    Хучи-Кучи мэн.Ну или хотя бы вкратце объясните, каков механизм взимания налогов за исполнение чужих блюзов. И кому, например
+    платят (или должны платить) Черный Хлеб, Дёрти Дазн, Мишурис, ЛайфнДжой, Сколдеры, Кроссроудз, Оффбит и ты ды :-)))))'
   replies:
   - id: 22304
     parent_id: 22300
@@ -28,18 +26,14 @@ posts:
     email: fedor@blues.ru
     subject: Права
     deleted: false
-    text: 'Как правило, отчисления собираются через так называемые Collection Societies,
-      конторы, которые есть в разных странах, и которые стригут за прокрутку песен
-      по радио, на компакт-дисках и на больших концертах. Имя автора песни на компакте
-      (причем, как правило, не псевдоним, а настоящее имя) используется для перечисления
-      денег. Клубных концертов это не касается, а вот при издании компактов наших
-      музыкантов, как правила, отчисления делаются (по центу с композиции с диска,
-      кажется).
+    text: 'Как правило, отчисления собираются через так называемые Collection Societies, конторы, которые есть в разных странах,
+      и которые стригут за прокрутку песен по радио, на компакт-дисках и на больших концертах. Имя автора песни на компакте
+      (причем, как правило, не псевдоним, а настоящее имя) используется для перечисления денег. Клубных концертов это не касается,
+      а вот при издании компактов наших музыкантов, как правила, отчисления делаются (по центу с композиции с диска, кажется).
 
 
-      В России главной Collection Society является контора под названием "РАО", которая,
-      отчасти, занимается бандитской деятельностью, в частности, продавая фальшивые
-      лицензии на издание пиратских компактов.'
+      В России главной Collection Society является контора под названием "РАО", которая, отчасти, занимается бандитской деятельностью,
+      в частности, продавая фальшивые лицензии на издание пиратских компактов.'
     replies:
     - id: 22305
       parent_id: 22304
@@ -48,8 +42,9 @@ posts:
       email: fedor@blues.ru
       subject: точнее
       deleted: false
-      text: collecting society - они как бы представляют интересы авторов в данной
-        стране, собирая деньги по копеечке и пересылая их на запад...
+      text: collecting society - они как бы представляют интересы авторов в данной стране, собирая деньги по копеечке и пересылая
+        их на запад...
+      person_id: 2
     - id: 22306
       parent_id: 22304
       date: 2005-08-12 18:18
@@ -57,12 +52,10 @@ posts:
       email: kotmatrs@chat.ru
       subject: РАО
       deleted: false
-      text: 'да, главой РАО является величайший композитор всех времен и народов -
-        Игорь Крутой, и он контролирует нехилый поток авторских отчислений (кстати,
-        с любого концерта, даже клубного отчисляются деньги, пусть и небольшие, но
-        слагающиеся в большую реку) и решает, кому дать, а кому нет, этим кстати и
-        объясняется великая любовь ВСЕХ попсовиков к данному композитору, ибо - либо
-        ты исполняешь ПОПсУ Крутому, либо не получаешь денег на свою ПОПсУ.
+      text: 'да, главой РАО является величайший композитор всех времен и народов - Игорь Крутой, и он контролирует нехилый
+        поток авторских отчислений (кстати, с любого концерта, даже клубного отчисляются деньги, пусть и небольшие, но слагающиеся
+        в большую реку) и решает, кому дать, а кому нет, этим кстати и объясняется великая любовь ВСЕХ попсовиков к данному
+        композитору, ибо - либо ты исполняешь ПОПсУ Крутому, либо не получаешь денег на свою ПОПсУ.
 
         Потому - деньги хукера идут на раскрутку всяких там Маш, Филь и прочей дребедени.'
   - id: 22320
@@ -72,18 +65,14 @@ posts:
     email: aaa@genebee.msu.su
     subject: Кому должен платить Черный Хлеб
     deleted: false
-    text: "Поскольку речь идёт об американской музыке, процитируем один из музыкальных\
-      \ журналов штата Флорида, где колонку ведет Джоанна Джонс, совладелица консалтинговой\
-      \ компании по вопросам музыкального бизнеса: \"Кто бы ни написал песню, КАЖДЫЙ\
-      \ может её публично исполнять. Иглз не могут прийти на ваш концерт и запретить\
-      \ петь \"Отель Калифорния\". Таким образом, команды, играющие каверы, но не\
-      \ пишущие альбомов, никому ничего не должны в соответствии с законодательством\
-      \ США. \nЗаписи - другое дело, с них должны идти отчисления авторам. Альбом\
-      \ нашей группы был записан в 2001-м, когда в России действовал закон, в соответствии\
-      \ с которым отчисления должны были поступать за записи песен 1973 и последующих\
-      \ лет. Таковых на ТИКе не было.\nЯ мало что знаю про механизмы сбора отчислений\
-      \ в нашем богоспасаемом Отечестве и не буду здесь комментировать. Будем решать\
-      \ вопросы в порядке их поступления в ходе жизни и творчества."
+    text: "Поскольку речь идёт об американской музыке, процитируем один из музыкальных журналов штата Флорида, где колонку\
+      \ ведет Джоанна Джонс, совладелица консалтинговой компании по вопросам музыкального бизнеса: \"Кто бы ни написал песню,\
+      \ КАЖДЫЙ может её публично исполнять. Иглз не могут прийти на ваш концерт и запретить петь \"Отель Калифорния\". Таким\
+      \ образом, команды, играющие каверы, но не пишущие альбомов, никому ничего не должны в соответствии с законодательством\
+      \ США. \nЗаписи - другое дело, с них должны идти отчисления авторам. Альбом нашей группы был записан в 2001-м, когда\
+      \ в России действовал закон, в соответствии с которым отчисления должны были поступать за записи песен 1973 и последующих\
+      \ лет. Таковых на ТИКе не было.\nЯ мало что знаю про механизмы сбора отчислений в нашем богоспасаемом Отечестве и не\
+      \ буду здесь комментировать. Будем решать вопросы в порядке их поступления в ходе жизни и творчества."
     replies:
     - id: 22321
       parent_id: 22320
@@ -92,17 +81,14 @@ posts:
       email: kotmatrs@mail.ru
       subject: Кому и сколько
       deleted: false
-      text: 'Леша, за песни исполняемые на концерте ( в клубе или зале или доме культуре)
-        платит заведение. Насколько я знаю, есть стандартный процент отчислений с
-        КАЖДОГО концерта в РААП - что то вроде 0.4% со сбора. Есс-но, поскольку большинство
-        клубов платит черным налом, и налога не берут :-), то и суммы выплачиваемые
-        ЧХ на ПОПСУ - не велики. Концерты в залах, где есть БИЛЕТЫ - совсем другое
-        дело. Так что с наших блюзовых фестивалей, мы честно платим Маликовым, Киркоровым
+      text: 'Леша, за песни исполняемые на концерте ( в клубе или зале или доме культуре) платит заведение. Насколько я знаю,
+        есть стандартный процент отчислений с КАЖДОГО концерта в РААП - что то вроде 0.4% со сбора. Есс-но, поскольку большинство
+        клубов платит черным налом, и налога не берут :-), то и суммы выплачиваемые ЧХ на ПОПСУ - не велики. Концерты в залах,
+        где есть БИЛЕТЫ - совсем другое дело. Так что с наших блюзовых фестивалей, мы честно платим Маликовым, Киркоровым
         и пр. хрени.
 
-        Да, на мой сайт как то наехало агенство (правда английское), и как раз на
-        один из твоих каверов. Переписка была занимательная, если будет интересно
-        - опубликую.'
+        Да, на мой сайт как то наехало агенство (правда английское), и как раз на один из твоих каверов. Переписка была занимательная,
+        если будет интересно - опубликую.'
       replies:
       - id: 22324
         parent_id: 22321
@@ -120,18 +106,15 @@ posts:
           email: kotmatrs@mail.ru
           subject: Кому платить за Мади Уотерса?
           deleted: false
-          text: 'вот. Типа сами напрасились. Кстати, там написанно кому платить за
-            Мади Уотерса :-)
+          text: 'вот. Типа сами напрасились. Кстати, там написанно кому платить за Мади Уотерса :-)
 
             « Dear Kot Matraskin.
 
 
-            The International Federation of the Phonographic Industry (IFPI) represents
-            some 1,400 record producers in over 76 countries around the world. As
-            part of this work, we monitor the Internet, and take action against any
-            person who uses music in a manner that infringes rights in sound recordings.  IFPI
-            has established that the unauthorised reproduction and making available
-            of sound files is taking
+            The International Federation of the Phonographic Industry (IFPI) represents some 1,400 record producers in over
+            76 countries around the world. As part of this work, we monitor the Internet, and take action against any person
+            who uses music in a manner that infringes rights in sound recordings.  IFPI has established that the unauthorised
+            reproduction and making available of sound files is taking
 
             place via the URL(s) detailed below:
 
@@ -194,37 +177,29 @@ posts:
             All time(s) quoted are in GMT.
 
 
-            These sound files are derived from commercially published phonograms created
-            and owned by our Member Companies. IFPI wishes to inform you, through
-            this letter, of the legal rules involved in this.  Uploading protected
-            sound recordings and making these sound files available via the Internet
-            requires the permission of the appropriate right owners. Doing this without
-            such permission constitutes an infringement of our members'' rights. The
-            same is valid for providing instant and direct access to the sound files
-            via the above-mentioned deep links.
+            These sound files are derived from commercially published phonograms created and owned by our Member Companies.
+            IFPI wishes to inform you, through this letter, of the legal rules involved in this.  Uploading protected sound
+            recordings and making these sound files available via the Internet requires the permission of the appropriate
+            right owners. Doing this without such permission constitutes an infringement of our members'' rights. The same
+            is valid for providing instant and direct access to the sound files via the above-mentioned deep links.
 
 
-            IFPI understands that these deep links are offered by a third person using
-            your facilities. In this regard, we would also like to inform you that
-            the participation in a copyright infringement performed by a third person
-            may be subject to civil and criminal remedies.
+            IFPI understands that these deep links are offered by a third person using your facilities. In this regard, we
+            would also like to inform you that the participation in a copyright infringement performed by a third person may
+            be subject to civil and criminal remedies.
 
 
-            IFPI''s goal and that of all our Member Companies is to work with the
-            Internet and online community to ensure that the law is clearly understood
-            and fairly applied. We hope that by mutually supporting the enforcement
-            of the existing laws, both the online industry and the music industry
-            can flourish together in this new E-commerce environment. In anticipation
-            of your co-operation, we are
+            IFPI''s goal and that of all our Member Companies is to work with the Internet and online community to ensure
+            that the law is clearly understood and fairly applied. We hope that by mutually supporting the enforcement of
+            the existing laws, both the online industry and the music industry can flourish together in this new E-commerce
+            environment. In anticipation of your co-operation, we are
 
             compelled to provide this express notice of a copyright infringement.
 
 
-            We hereby urge you to take prompt and effective steps to cease and, at
-            the latest within 24 hours, prevent the distribution of copied sound files
-            from the URL(s). We also request that you provide us information on the
-            individual(s)responsible supplying these sound files.  IFPI will be checking
-            that the above-mentioned activity has ceased.
+            We hereby urge you to take prompt and effective steps to cease and, at the latest within 24 hours, prevent the
+            distribution of copied sound files from the URL(s). We also request that you provide us information on the individual(s)responsible
+            supplying these sound files.  IFPI will be checking that the above-mentioned activity has ceased.
 
 
             If you have any questions please do not hesitate to call me.
@@ -282,12 +257,11 @@ posts:
             E-mail:alexander.petrov@ifpi.ru »
 
 
-            Самый то прикол, что как видите, часть вещей у меня были без названия
-            (трак номер и все такое). А это значит, что искали не роботом, а типа
-            сидели люди (и при том - знающие) и слушали треки.
+            Самый то прикол, что как видите, часть вещей у меня были без названия (трак номер и все такое). А это значит,
+            что искали не роботом, а типа сидели люди (и при том - знающие) и слушали треки.
 
-            Это ж скоко надо денег было угрохать на такую глобально интернетную прослушку?
-            При том, что часть каверов - рускоязычные, и глобальноизмененные...'
+            Это ж скоко надо денег было угрохать на такую глобально интернетную прослушку? При том, что часть каверов - рускоязычные,
+            и глобальноизмененные...'
           replies:
           - id: 22336
             parent_id: 22328
@@ -296,8 +270,7 @@ posts:
             email: fedor@blues.ru
             subject: Дууууууурь!
             deleted: false
-            text: А расскажи подробности, когда ты это получил? И убрал ли файлы?
-              ;))
+            text: А расскажи подробности, когда ты это получил? И убрал ли файлы? ;))
             replies:
             - id: 22343
               parent_id: 22336
@@ -306,19 +279,16 @@ posts:
               email: kotmatrs@mail.ru
               subject: Да, убрал
               deleted: false
-              text: 'Была еще недлительная переписка. Было это давно, в 2002 году.
-                Они еще попытались наехать на моего провайдера, типа - не уберете
-                этого гада матраскина из сети, закроем вам инет К.Е.М., но, как то
-                стихло все. Однако, все эти скверные истории не так уж и безопасны,
-                и всегда могут неожиданно вылезти например при получении визы (точнее,
-                при отказе в ее получении на основании что был сигнал и все такое)
+              text: 'Была еще недлительная переписка. Было это давно, в 2002 году. Они еще попытались наехать на моего провайдера,
+                типа - не уберете этого гада матраскина из сети, закроем вам инет К.Е.М., но, как то стихло все. Однако, все
+                эти скверные истории не так уж и безопасны, и всегда могут неожиданно вылезти например при получении визы
+                (точнее, при отказе в ее получении на основании что был сигнал и все такое)
 
-                У меня был еще более интересный наезд. от франгоферовского и-та (держателя
-                патента на формат МП3) они мне предложили заплатить по 76 центов,
-                за каждую композицию компрессированную в формат МП3про.
+                У меня был еще более интересный наезд. от франгоферовского и-та (держателя патента на формат МП3) они мне
+                предложили заплатить по 76 центов, за каждую композицию компрессированную в формат МП3про.
 
-                Я подсчитал (полный объем моего сайта - около 7 гбайт), прослезился
-                - и полностью перешел на ogg. Но это, уже совсем другая история.'
+                Я подсчитал (полный объем моего сайта - около 7 гбайт), прослезился - и полностью перешел на ogg. Но это,
+                уже совсем другая история.'
               replies:
               - id: 22349
                 parent_id: 22343
@@ -327,8 +297,11 @@ posts:
                 email: volodya@blues.ru
                 subject: зря
                 deleted: false
-                text: зря ты просто так все убрал - там же явно вещи разные совсем
-                  были - надо было поторговаться. а то прямо какието репресии получаются.  :)
+                text: зря ты просто так все убрал - там же явно вещи разные совсем были - надо было поторговаться. а то прямо
+                  какието репресии получаются.  :)
+                person_id: 5
+              person_id: 2824
+            person_id: 2
           - id: 22337
             parent_id: 22328
             date: 2005-08-16 12:50
@@ -341,8 +314,8 @@ posts:
               URL: http://kotmatrs.rinet.ru/ftp_mp3/kojekin/25vaninakrisha.wav
 
 
-              это какоето гониво... "ванина крыша" - точно не похожа на  GOOD MORNING
-              LITTLE SCHOOLGIRL... так что тут какое то чистое жлобство :))
+              это какоето гониво... "ванина крыша" - точно не похожа на  GOOD MORNING LITTLE SCHOOLGIRL... так что тут какое
+              то чистое жлобство :))
 
 
               ну и там еще...'
@@ -354,6 +327,8 @@ posts:
               email: Lars@List.ru
               subject: да ужж.. это наверно шутка чья-то была
               deleted: false
+          person_id: 2824
+        person_id: 671
       - id: 22325
         parent_id: 22321
         date: 2005-08-15 19:23
@@ -370,3 +345,4 @@ posts:
           subject: Ждем, ждем денег
           deleted: false
           text: спасибо, что напомнил.
+          person_id: 458

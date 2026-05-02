@@ -15,11 +15,10 @@ posts:
   text: 'Всем добрый день!
 
 
-    С моим сенсэем у нас возник спор о блюзе "As The Years Go Passing By" в исполнении
-    A. King''а с диска Live (Charly Blues Masterworks vol. 18) - http://www.rhapsody.com/albertking/live.
-    А именно: в начале 3-й минуты начинается соло и я считаю что его играет кто-то
-    другой (друг, приглашенный коллега-блюзмен, etc.). Преподаватель настаивает что
-    это сам Альберт. Если есть знатоки, просвятите пожалуйста.'
+    С моим сенсэем у нас возник спор о блюзе "As The Years Go Passing By" в исполнении A. King''а с диска Live (Charly Blues
+    Masterworks vol. 18) - http://www.rhapsody.com/albertking/live. А именно: в начале 3-й минуты начинается соло и я считаю
+    что его играет кто-то другой (друг, приглашенный коллега-блюзмен, etc.). Преподаватель настаивает что это сам Альберт.
+    Если есть знатоки, просвятите пожалуйста.'
   replies:
   - id: 30996
     parent_id: 30994
@@ -30,12 +29,11 @@ posts:
     deleted: false
     text: 'U.S. Only
 
-      We''re sorry. We have detected that you are outside of the United States. This
-      service is currently only available to residents within the United States.
+      We''re sorry. We have detected that you are outside of the United States. This service is currently only available to
+      residents within the United States.
 
 
-      For music and entertainment services available in your country please click
-      here.'
+      For music and entertainment services available in your country please click here.'
     replies:
     - id: 30999
       parent_id: 30996
@@ -65,6 +63,7 @@ posts:
           subject: всмысле соло...
           deleted: false
           text: ну явно ... а вот когда идет вокал - подыгрывает но сам ;)
+          person_id: 5
         - id: 31002
           parent_id: 31000
           date: 2007-02-10 20:35
@@ -72,8 +71,7 @@ posts:
           email: ekrivdyuk@gmail.com
           subject: ну вот :)
           deleted: false
-          text: Мне тоже явно слышится кто-то другой, а вот кто ? И, кстати, как вам
-            это соло ?
+          text: Мне тоже явно слышится кто-то другой, а вот кто ? И, кстати, как вам это соло ?
           replies:
           - id: 31003
             parent_id: 31002
@@ -82,9 +80,8 @@ posts:
             email: volodya@blues.ru
             subject: распознать немогу.
             deleted: false
-            text: в игре както ничего такого прямо индивидуального  не слышно... понято
-              что у Кинга - дай боже как все уникально звучит.. каждая фраза, каждый
-              бенд и вибрато :)
+            text: в игре както ничего такого прямо индивидуального  не слышно... понято что у Кинга - дай боже как все уникально
+              звучит.. каждая фраза, каждый бенд и вибрато :)
             replies:
             - id: 31005
               parent_id: 31003
@@ -141,5 +138,12 @@ posts:
                         email: ekrivdyuk@gmail.com
                         subject: дада, именно Charly
                         deleted: false
-                        text: правда ли что все треки на этом диске - перездание ранее
-                          публиковавшихся  вещей ?
+                        text: правда ли что все треки на этом диске - перездание ранее публиковавшихся  вещей ?
+                        person_id: 5298
+                      person_id: 4
+                    person_id: 335
+                  person_id: 4
+                person_id: 5298
+            person_id: 5
+          person_id: 5298
+        person_id: 5

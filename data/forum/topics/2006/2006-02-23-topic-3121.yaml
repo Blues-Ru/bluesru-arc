@@ -18,8 +18,7 @@ posts:
 
     Как зовут? Где можно прослушать, ознакомиться?
 
-    а то вот нашел дома -Эрик Сардинас и Paul Black and the Flip King и захотелось
-    послушать. Вновь.'
+    а то вот нашел дома -Эрик Сардинас и Paul Black and the Flip King и захотелось послушать. Вновь.'
   replies:
   - id: 26269
     parent_id: 26268
@@ -73,9 +72,8 @@ posts:
               email: d@d
               subject: OK :-))
               deleted: false
-              text: "OK, I’ll try.\nEspecially after listening and watching this guy\
-                \ \nhttp://www.john-renbourn.com/ \nI’m sure you will love the 2nd\
-                \ wideo!!!"
+              text: "OK, I’ll try.\nEspecially after listening and watching this guy \nhttp://www.john-renbourn.com/ \nI’m\
+                \ sure you will love the 2nd wideo!!!"
               replies:
               - id: 26277
                 parent_id: 26276
@@ -84,8 +82,7 @@ posts:
                 email: dr.nick@blues.ru
                 subject: yep
                 deleted: false
-                text: He's very good when he plays folk and blues, but be careful
-                  with his classical records.
+                text: He's very good when he plays folk and blues, but be careful with his classical records.
                 replies:
                 - id: 26278
                   parent_id: 26277
@@ -94,10 +91,13 @@ posts:
                   email: d@d
                   subject: К сожалению я не знаком с его класикой
                   deleted: false
-                  text: трудно все послушать, хотя как видно не много потерял. Видел
-                    несколько раз в живем Джулиана Брима, он великолепный класик а
-                    из фолкистов довольно хороший здешный Ричард Томпсон и покоиный
-                    янки - Док Ватсон, мой фаворит.
+                  text: трудно все послушать, хотя как видно не много потерял. Видел несколько раз в живем Джулиана Брима,
+                    он великолепный класик а из фолкистов довольно хороший здешный Ричард Томпсон и покоиный янки - Док Ватсон,
+                    мой фаворит.
+                person_id: 335
+            person_id: 335
+        person_id: 335
+    person_id: 335
   - id: 26281
     parent_id: 26268
     date: 2006-02-27 18:55
@@ -162,6 +162,7 @@ posts:
           text: 'Я же сказал что Дмитри нам укажет путь к модерн-енерго-блюзу!
 
             Значит нам с вами энергично в сортир, за модерном :-))'
+        person_id: 335
       - id: 26286
         parent_id: 26283
         date: 2006-02-27 22:28
@@ -169,9 +170,9 @@ posts:
         email: chifuroff<sobaka>inbox.ru
         subject: Все ли из этого списка играют слайдом?
         deleted: false
-        text: В смысле делают упор именно на слайд? Что-то большие сомнения насчет
-          многих имен... Если человек один раз в жизни где-то сыграл слайдом, то вряд
-          ли его можно отнести к слайдистам.
+        text: В смысле делают упор именно на слайд? Что-то большие сомнения насчет многих имен... Если человек один раз в
+          жизни где-то сыграл слайдом, то вряд ли его можно отнести к слайдистам.
+        person_id: 2888
   - id: 26404
     parent_id: 26268
     date: 2006-03-02 19:33
@@ -198,3 +199,6 @@ posts:
         subject: да я что?
         deleted: false
         text: Спросили про слайд - ответил про слайд...
+        person_id: 6
+      person_id: 335
+    person_id: 6

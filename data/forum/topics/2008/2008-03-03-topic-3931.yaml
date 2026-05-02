@@ -12,8 +12,7 @@ posts:
   email: grems@yandex.ru
   subject: Jeff Healey RIP
   deleted: false
-  text: 'вчера скончался знаменитый канадский блюз-роковый гитарист Jeff Healey .
-    RIP
+  text: 'вчера скончался знаменитый канадский блюз-роковый гитарист Jeff Healey . RIP
 
     http://en.wikipedia.org/wiki/Jeff_Healey'
   replies:
@@ -34,9 +33,8 @@ posts:
     deleted: false
     text: 'March 25, 1966 – March 2, 2008
 
-      On March 2, 2008 Healey died of cancer at St. Joseph''s Health Centre in his
-      home town of Toronto at the age of 41. His death came a month before the release
-      of his new album, Mess of Blues, which would have been his first rock album
+      On March 2, 2008 Healey died of cancer at St. Joseph''s Health Centre in his home town of Toronto at the age of 41.
+      His death came a month before the release of his new album, Mess of Blues, which would have been his first rock album
       in eight years.
 
       Ёлы-палы... очень жаль. очень...'
@@ -47,6 +45,7 @@ posts:
     email: dr.nick@blues.ru
     subject: ужас какой :(
     deleted: false
+    person_id: 335
   - id: 34842
     parent_id: 34834
     date: 2008-03-03 20:34
@@ -88,15 +87,13 @@ posts:
     subject: Патрик Суэйзи болен раком
     deleted: false
     text: 'Киноактёр Патрик Суэйзи, сыгравший главную роль в фильме <a href="http://ru.wikipedia.org/wiki/Дом_у_дороги_(фильм)">Дом
-      у дороги</a> болен раком. По <a href="http://www.amic.ru/news/?news_id=82680">словам
-      врачей</a> Патрику осталось жить не более 5 недель.
+      у дороги</a> болен раком. По <a href="http://www.amic.ru/news/?news_id=82680">словам врачей</a> Патрику осталось жить
+      не более 5 недель.
 
-      Хотя вот <a href="http://lenta.ru/news/2008/03/06/swayze/">Лента</a> сообщает
-      что в связи с сообщением о болезни Суэйзи многие таблоиды вышли с преувеличенно
-      трагическими заголовками, утверждающими, что актеру осталось жить буквально
-      несколько недель. Однако отчет лечащего врача Суэйзи опроверг эти сообщения.
-      В нем, в частности, сказано, что эффект от лечения крайне положительный и болезнь
-      далека от терминальной стадии...'
+      Хотя вот <a href="http://lenta.ru/news/2008/03/06/swayze/">Лента</a> сообщает что в связи с сообщением о болезни Суэйзи
+      многие таблоиды вышли с преувеличенно трагическими заголовками, утверждающими, что актеру осталось жить буквально несколько
+      недель. Однако отчет лечащего врача Суэйзи опроверг эти сообщения. В нем, в частности, сказано, что эффект от лечения
+      крайне положительный и болезнь далека от терминальной стадии...'
     replies:
     - id: 34860
       parent_id: 34859
@@ -105,3 +102,4 @@ posts:
       email: dr.nick@blues.ru
       subject: думаю, что многие болеют :(
       deleted: false
+      person_id: 335

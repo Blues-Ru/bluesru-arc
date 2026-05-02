@@ -30,6 +30,7 @@ posts:
       subject: приходи
       deleted: false
       text: На кончерто приходи - я тебе ету фразу медленно повторю)))
+      person_id: 125
   - id: 12111
     parent_id: 11994
     date: 2003-04-28 12:28
@@ -60,3 +61,4 @@ posts:
     text: '<a href="http://play.mp3.com/cgi-bin/play/play.cgi/AAICQjmYKQDABG5vcm1QGAAAAFI5mCkAUQEAAAALAUOncF4.pPtBaqxEgabKtHNu4F_7mQ--/CROSSROAD.m3u
 
       ">CROSSROAD</a>'
+  person_id: 125

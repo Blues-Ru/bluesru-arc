@@ -38,8 +38,7 @@ posts:
         email: volodya@blues.ru
         subject: 1500р
         deleted: false
-        text: но это был единственный полноценный концерт Лемба тут. :) в ЦДХ то будет
-          только один сет.
+        text: но это был единственный полноценный концерт Лемба тут. :) в ЦДХ то будет только один сет.
         replies:
         - id: 24849
           parent_id: 24846
@@ -57,3 +56,6 @@ posts:
             email: volodya@blues.ru
             subject: цена как в норвегии на блюз фесте ;)
             deleted: false
+            person_id: 5
+    person_id: 5
+  person_id: 2

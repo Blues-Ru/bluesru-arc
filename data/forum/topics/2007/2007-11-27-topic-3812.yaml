@@ -114,8 +114,7 @@ posts:
                     email: gypsy@mail.ru
                     subject: Угу, а Генеральный Сисадмин - самый страшный человек!
                     deleted: false
-                    text: 'Если он Генеральную СКС ножиком чик-чик, то у всех Интернет
-                      отключится!
+                    text: 'Если он Генеральную СКС ножиком чик-чик, то у всех Интернет отключится!
 
                       Что тогда будете делать, рабы лампы? )))'
                     replies:
@@ -127,3 +126,7 @@ posts:
                       subject: '...'
                       deleted: false
                       text: Inshallah...
+                  person_id: 5
+            person_id: 5
+        person_id: 5
+    person_id: 5

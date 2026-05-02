@@ -21,8 +21,7 @@ posts:
     email: dr.nick@blues.ru
     subject: А кто это, простите?
     deleted: false
-    text: Да, я выступаю. У меня два концерта на следующей неделе, в хороших местах.
-      А ты кто, Gastins?
+    text: Да, я выступаю. У меня два концерта на следующей неделе, в хороших местах. А ты кто, Gastins?
     replies:
     - id: 5123
       parent_id: 5122
@@ -41,6 +40,8 @@ posts:
         subject: Или вот еще
         deleted: false
         text: Может к Доктору Дмитрию Казачкову сей question?
+        person_id: 335
+      person_id: 335
     - id: 5127
       parent_id: 5122
       date: 2002-06-08 16:58
@@ -48,8 +49,7 @@ posts:
       email: heartware@land.ru
       subject: Это я -
       deleted: false
-      text: Володя Яковенко. Все понял, но не попаду, наверно, т.к. всего на два дня
-        появлюсь.
+      text: Володя Яковенко. Все понял, но не попаду, наверно, т.к. всего на два дня появлюсь.
       replies:
       - id: 5128
         parent_id: 5127
@@ -68,3 +68,5 @@ posts:
           subject: OK
           deleted: false
           text: хорошо, звякну.
+        person_id: 335
+    person_id: 335

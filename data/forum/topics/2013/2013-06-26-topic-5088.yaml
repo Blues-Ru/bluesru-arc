@@ -11,5 +11,5 @@ posts:
   poster: Andrei V. Evdokimov
   subject: Bobby Blue Bland - интервью, которому еще и года не прошло
   deleted: false
-  text: <iframe width="560" height="315" src="http://www.youtube.com/embed/r9nSYTFNWbk"
-    frameborder="0" allowfullscreen></iframe>
+  text: <iframe width="560" height="315" src="http://www.youtube.com/embed/r9nSYTFNWbk" frameborder="0" allowfullscreen></iframe>
+  person_id: 4

@@ -25,8 +25,7 @@ posts:
 
       Спасибо охранику, что не пустил гада с болтами и гайками в кафе, а то
 
-      народу полегло.... И куда суки метят?  Уже и в блюзовый кабак народу нельзя
-      пойти -))))))'
+      народу полегло.... И куда суки метят?  Уже и в блюзовый кабак народу нельзя пойти -))))))'
     replies:
     - id: 12175
       parent_id: 12161
@@ -39,6 +38,7 @@ posts:
 
 
         а то что опасно... так и на мюзиклы у вас опасно ходить.'
+    person_id: 1725
   - id: 12174
     parent_id: 12160
     date: 2003-05-01 01:04
@@ -46,19 +46,15 @@ posts:
     email: sobodan@hotmail.com
     subject: Mike's Place in Tel Aviv
     deleted: false
-    text: "Privet vsem iz Israel,\n\nNasha komanda SOBO (www.sobo.co.il)igrala do\
-      \ poslednego momenta v Mike's Place kajdyu Friday, Assaf(Sammy) - lead vocals,\
-      \ bass - on je i hoz'ain Mike's Place,\n\niznachal'no Mike's Place bil zadyman\
-      \ kak underground movement,\nmyzika blues and rock still not that big here in\
-      \ Israel, \n\nkajdii kto kagda libo hot' odin raz posmotrel live show at Mike's\
-      \ ostavl'al v dyshe chast' togo ideala kotorim mi vse dishali.\nFreedome, Rock-n-roll,\
-      \ LOVE\n\neto mesto poistini international - Amerikaneci, Anglichane, Izrail'tane,\
-      \ Rysskie, Rymini, Arabi, Kitaici, Avstraliici, voobshem vse kto hotite, - \n\
-      posmotrite na Mike's guestbook na www.mikesplacebars.com\nposmotrite kak so\
-      \ vsego mira ludi pishyt...\n\nYa lichno znal pochti vseh postradavshih,\nsimvolichno\
-      \ to chto pogibli oficiantka, muzikant i slushatel'\n(May they rest in peace)\n\
-      \nAvi Tabib - nash geroy, eslib ne on, ne 3 a 30 pogibli bi...\n\nMay all our\
-      \ prays go to the good folks at Mike's Place - Israel"
+    text: "Privet vsem iz Israel,\n\nNasha komanda SOBO (www.sobo.co.il)igrala do poslednego momenta v Mike's Place kajdyu\
+      \ Friday, Assaf(Sammy) - lead vocals, bass - on je i hoz'ain Mike's Place,\n\niznachal'no Mike's Place bil zadyman kak\
+      \ underground movement,\nmyzika blues and rock still not that big here in Israel, \n\nkajdii kto kagda libo hot' odin\
+      \ raz posmotrel live show at Mike's ostavl'al v dyshe chast' togo ideala kotorim mi vse dishali.\nFreedome, Rock-n-roll,\
+      \ LOVE\n\neto mesto poistini international - Amerikaneci, Anglichane, Izrail'tane, Rysskie, Rymini, Arabi, Kitaici,\
+      \ Avstraliici, voobshem vse kto hotite, - \nposmotrite na Mike's guestbook na www.mikesplacebars.com\nposmotrite kak\
+      \ so vsego mira ludi pishyt...\n\nYa lichno znal pochti vseh postradavshih,\nsimvolichno to chto pogibli oficiantka,\
+      \ muzikant i slushatel'\n(May they rest in peace)\n\nAvi Tabib - nash geroy, eslib ne on, ne 3 a 30 pogibli bi...\n\n\
+      May all our prays go to the good folks at Mike's Place - Israel"
     replies:
     - id: 12176
       parent_id: 12174
@@ -78,8 +74,8 @@ posts:
         email: sobodan@hotmail.com
         subject: SOBO in Mike's Place
         deleted: false
-        text: "спасибо, живьем ето все веселее, ми не студийная команда...\nна след.\
-          \ неделе будем играть в MIke's again,  \nвспомним всех..."
+        text: "спасибо, живьем ето все веселее, ми не студийная команда...\nна след. неделе будем играть в MIke's again, \
+          \ \nвспомним всех..."
         replies:
         - id: 12189
           parent_id: 12185
@@ -88,8 +84,7 @@ posts:
           email: skvoid@mail.ru
           subject: Daniel, one question...
           deleted: false
-          text: '...не собираетесь ли с гастролями в Россию? Ваш питерский концерт
-            в клубе JFC до сих пор вспоминаем :)'
+          text: '...не собираетесь ли с гастролями в Россию? Ваш питерский концерт в клубе JFC до сих пор вспоминаем :)'
           replies:
           - id: 12191
             parent_id: 12189
@@ -107,10 +102,9 @@ posts:
               email: sobodan@hotmail.com
               subject: SOBO in Russia
               deleted: false
-              text: "мы планируем, уже заручились потдержкой Сергея Воронова и Дибров\
-                \ к себе звал, но слишком дороги билеты - боюсь неокупитса, \n\nно\
-                \ если кто хочет помоч, рады будем любому предложению.\nsend it over,\
-                \ we love Russia :)))"
+              text: "мы планируем, уже заручились потдержкой Сергея Воронова и Дибров к себе звал, но слишком дороги билеты\
+                \ - боюсь неокупитса, \n\nно если кто хочет помоч, рады будем любому предложению.\nsend it over, we love Russia\
+                \ :)))"
               replies:
               - id: 12213
                 parent_id: 12202
@@ -119,11 +113,9 @@ posts:
                 email: morehemp@mail.ru
                 subject: Погибшая
                 deleted: false
-                text: "официантка - это та девушка на фото с короткой стрижкой..?\
-                  \ Жаль, красивая была девчонка..\nПриезжайте, хорошая у вас музыка.\
-                  \ \nА Дибров проспонсировать приезд через свою программу не предлагал..?\
-                  \ :) \nВ принципе, такая практика достаточно распространена (в других,\
-                  \ немузыкальных, сферах), насколько я могу понять.."
+                text: "официантка - это та девушка на фото с короткой стрижкой..? Жаль, красивая была девчонка..\nПриезжайте,\
+                  \ хорошая у вас музыка. \nА Дибров проспонсировать приезд через свою программу не предлагал..? :) \nВ принципе,\
+                  \ такая практика достаточно распространена (в других, немузыкальных, сферах), насколько я могу понять.."
                 replies:
                 - id: 12218
                   parent_id: 12213
@@ -150,8 +142,8 @@ posts:
                     ладно, видет Б-г, заедем,
 
 
-                    скоро на www.mikesplacebars.com наладим webcam, сможете нас live
-                    увидеть и услышать.'
+                    скоро на www.mikesplacebars.com наладим webcam, сможете нас live увидеть и услышать.'
+            person_id: 2
         - id: 12203
           parent_id: 12185
           date: 2003-05-04 03:05
@@ -180,8 +172,7 @@ posts:
       deleted: false
       text: 'Очень жаль людей. Музыканта. Девушку. Зрителя.
 
-        Тяжёлые времена какие-то настают. Всё меньше хороших новостей, всё больше
-        грустных и страшных.'
+        Тяжёлые времена какие-то настают. Всё меньше хороших новостей, всё больше грустных и страшных.'
   - id: 12220
     parent_id: 12160
     date: 2003-05-05 01:17
@@ -191,14 +182,13 @@ posts:
     deleted: false
     text: 'Friday мы как обычно играли,
 
-      ну и я заметил со сцены как два подозрительных типа пытались втиснутся, и им
-      это удалось, но радости на их лицах не было,
+      ну и я заметил со сцены как два подозрительных типа пытались втиснутся, и им это удалось, но радости на их лицах не
+      было,
 
       и главное , они не заказав пива или еще чего, сразу свалили,
 
-      и это мне еще показалосэ странным,  хотя один из них и выглядел по европейски,
-      но перло от них анти, я еще хотел Ави сказать, но подумал, ушли и ушли, чего
-      зря его пугать...
+      и это мне еще показалосэ странным,  хотя один из них и выглядел по европейски, но перло от них анти, я еще хотел Ави
+      сказать, но подумал, ушли и ушли, чего зря его пугать...
 
 
       это они приценивались, а через три дня.........'
@@ -219,12 +209,12 @@ posts:
         email: sobodan@hotmail.com
         subject: bad feelin'
         deleted: false
-        text: 'я вспомнил еще что настолько они (шаиды) мне не понравились, что я
-          даже хотел остановить gig, но обычно етого не делаем, - мало ли кто мне
-          в публике не понравится...
+        text: 'я вспомнил еще что настолько они (шаиды) мне не понравились, что я даже хотел остановить gig, но обычно етого
+          не делаем, - мало ли кто мне в публике не понравится...
 
 
           вообщем , мои чуства меня не обманули...
 
-          а еслиб я им тогда со сцены чего и сказал бы, они мойет и не вернулись бы
-          в Mike''s Place.'
+          а еслиб я им тогда со сцены чего и сказал бы, они мойет и не вернулись бы в Mike''s Place.'
+      person_id: 458
+  person_id: 2

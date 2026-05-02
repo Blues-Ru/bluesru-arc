@@ -19,6 +19,7 @@ posts:
     poster: Cpt. Nemoff
     subject: Продается.
     deleted: false
+    person_id: 3623
   - id: 38612
     parent_id: 38596
     date: 2012-11-26 00:07
@@ -29,3 +30,4 @@ posts:
 
 
       [url=http://more-krim.net.ua/]база отдыха саки[/url]'
+  person_id: 3623

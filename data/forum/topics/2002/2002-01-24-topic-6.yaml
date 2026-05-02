@@ -12,8 +12,8 @@ posts:
   email: vad2908@mail.ru
   subject: 'Вот тут нашел:'
   deleted: false
-  text: пару сайтов, кому интересно, www.12bar.com (можно послушать много старого
-    блюза), www.electricblues.com (списки, рейтинг ихний...)
+  text: пару сайтов, кому интересно, www.12bar.com (можно послушать много старого блюза), www.electricblues.com (списки, рейтинг
+    ихний...)
   replies:
   - id: 268
     parent_id: 254
@@ -23,3 +23,4 @@ posts:
     subject: СПАСИБО!
     deleted: false
     text: Ищи ещё, мне понравилось.
+  person_id: 598

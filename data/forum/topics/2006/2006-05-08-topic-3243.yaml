@@ -14,21 +14,19 @@ posts:
   deleted: false
   text: 'Гитарный мастер Юрий Шишков
 
-    - На этой неделе в Москве в кругу музыкантов были представлены гитары юбилейной
-    серии Fender Stratocaster 50th Anniversary by Yuri Shishkov. Нас заинтересовал
-    не только инструмент, но и человек, его построивший,– Юрий Шишков.
+    - На этой неделе в Москве в кругу музыкантов были представлены гитары юбилейной серии Fender Stratocaster 50th Anniversary
+    by Yuri Shishkov. Нас заинтересовал не только инструмент, но и человек, его построивший,– Юрий Шишков.
 
     http://www.kommersant.ru/application.html?appname=Weekend&DocsID=671126&issueid=35987
 
 
-    - Юрий Шишков - гордость России, один из лучших гитарных мастеров мира, ныне работающий
-    в составе Fender Custom Shop в звании Senior Master Builder.
+    - Юрий Шишков - гордость России, один из лучших гитарных мастеров мира, ныне работающий в составе Fender Custom Shop в
+    звании Senior Master Builder.
 
     http://www.shishkovguitars.ru/
 
 
-    - В 2005 году Юрий Шишков сделал гитару лично для Buddy Guy. Fender #YS112 Custom
-    ''72 Telecaster Deluxe (Buddy Guy)
+    - В 2005 году Юрий Шишков сделал гитару лично для Buddy Guy. Fender #YS112 Custom ''72 Telecaster Deluxe (Buddy Guy)
 
     http://www.shishkovguitars.ru/info.php?fender_buddy'
   replies:
@@ -50,8 +48,8 @@ posts:
     email: volodya@blues.ru
     subject: про гордость россии
     deleted: false
-    text: скорее это гордость русского народа. :) из страны он свалил уже весьма давно
-      и только потому и добился успеха за свой талант ;)
+    text: скорее это гордость русского народа. :) из страны он свалил уже весьма давно и только потому и добился успеха за
+      свой талант ;)
     replies:
     - id: 27280
       parent_id: 27279
@@ -60,3 +58,5 @@ posts:
       email: chifuroff<sobaka>inbox.ru
       subject: Это у нас всегда так, к сожалению...
       deleted: false
+      person_id: 2888
+    person_id: 5

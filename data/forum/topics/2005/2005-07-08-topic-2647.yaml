@@ -12,13 +12,11 @@ posts:
   email: fedor@blues.ru
   subject: Никто не хочет в Китай на три месяца? ;))))
   deleted: false
-  text: "Правда, это предложение изначально для американцев ;)\n\nWe are looking for\
-    \ blues artists who might be interested in doing a gig in Shanghai, China.\n \n\
-    Details are as follow:\n \nLength of gig:    3 months\nFee:                 $500\
-    \ per musician per week\n \nRound trip airfare and lodgings are provided.\n \n\
-    Preferred trios, quartets or quintets max.\n \nPlease send your packages to the\
-    \ address listed below.  We will only respond if the promoter in China wants to\
-    \ make an offer."
+  text: "Правда, это предложение изначально для американцев ;)\n\nWe are looking for blues artists who might be interested\
+    \ in doing a gig in Shanghai, China.\n \nDetails are as follow:\n \nLength of gig:    3 months\nFee:                 $500\
+    \ per musician per week\n \nRound trip airfare and lodgings are provided.\n \nPreferred trios, quartets or quintets max.\n\
+    \ \nPlease send your packages to the address listed below.  We will only respond if the promoter in China wants to make\
+    \ an offer."
   replies:
   - id: 21964
     parent_id: 21962
@@ -28,3 +26,5 @@ posts:
     subject: какаято старая тема.
     deleted: false
     text: интересно только почему именно 3 месяца? :) так никто и не объяснил.
+    person_id: 5
+  person_id: 2

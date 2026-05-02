@@ -12,8 +12,7 @@ posts:
   email: el@ma.ru
   subject: По СТС показывають Crossroads
   deleted: false
-  text: Не раз его смотрел на видео, ДВД... но вот щас, по ТВ, его смотреть как-то
-    по особенному радостно :-)
+  text: Не раз его смотрел на видео, ДВД... но вот щас, по ТВ, его смотреть как-то по особенному радостно :-)
   replies:
   - id: 33101
     parent_id: 33100
@@ -22,6 +21,7 @@ posts:
     email: dr.nick@blues.ru
     subject: опять?
     deleted: false
+    person_id: 335
   - id: 33112
     parent_id: 33100
     date: 2007-06-27 14:49
@@ -46,3 +46,4 @@ posts:
       subject: легко
       deleted: false
       text: http://www.amazon.com/Crossroads-Ralph-Macchio/dp/B0002A2WDQ/ref=pd_bbs_sr_1/102-1194684-7701725?ie=UTF8&s=dvd&qid=1182944527&sr=1-1
+      person_id: 335

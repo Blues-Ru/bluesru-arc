@@ -12,8 +12,8 @@ posts:
   email: bluesman@tut.by
   subject: Crossroads movie  ( 1986)soundtrack  CD
   deleted: false
-  text: "Уважаемые! \nМожет быть кто подскажет где в Москве купить непиратский компакт\
-    \ \nThe Crossroads ( 1986)( Walter Hill Directed)\n Заранее благодарен"
+  text: "Уважаемые! \nМожет быть кто подскажет где в Москве купить непиратский компакт \nThe Crossroads ( 1986)( Walter Hill\
+    \ Directed)\n Заранее благодарен"
   replies:
   - id: 6132
     parent_id: 6128
@@ -22,9 +22,8 @@ posts:
     email: dr.nick@blues.ru
     subject: Поясни
     deleted: false
-    text: "Тебе нужен именно ОСТ? Или диск Рая Кудера? Именно на нем написано Sound\
-      \ Track.\nhttp://www.allmusic.com/cg/amg.dll?p=amg&sql=Actcm961odep8\nВот этот\
-      \ не подойдет? Его можно купить и в Легионе и в Союзе. \nwww.plegion.ru\nwww.soyuz.ru"
+    text: "Тебе нужен именно ОСТ? Или диск Рая Кудера? Именно на нем написано Sound Track.\nhttp://www.allmusic.com/cg/amg.dll?p=amg&sql=Actcm961odep8\n\
+      Вот этот не подойдет? Его можно купить и в Легионе и в Союзе. \nwww.plegion.ru\nwww.soyuz.ru"
     replies:
     - id: 6372
       parent_id: 6132
@@ -33,9 +32,8 @@ posts:
       email: bluesman@tut,by
       subject: Crossroads movie ( 1986)soundtrack CD
       deleted: false
-      text: поясняю несколько запоздало ( sorry) -  берется кнопка или че нибудь острое
-        и накалывается место на карте города  , где находится искомый обьект - вот
-        что я имел в ввиду.
+      text: поясняю несколько запоздало ( sorry) -  берется кнопка или че нибудь острое и накалывается место на карте города  ,
+        где находится искомый обьект - вот что я имел в ввиду.
   - id: 6165
     parent_id: 6128
     date: 2002-07-19 16:10
@@ -55,3 +53,4 @@ posts:
       subject: Какая такая наколка?
       deleted: false
       text: Ты ващще о чем, Тигра?
+      person_id: 335

@@ -12,10 +12,9 @@ posts:
   email: Gienane@narod.ru
   subject: Johny Farmer
   deleted: false
-  text: Уважамые ГУРУ Блюза !Очень надеюсь на Вас!Сосем недавно начал приобщаться
-    к Блюзовой Культуре!Как услышал вещь Johny Farmer-Death Letter теперь слушаю ее
-    постоянно!Вы не могли бы подсказать кто еще из Блюзовых исполнителей играет в
-    такой направленности как Johny Farmer-Death Letter !
+  text: Уважамые ГУРУ Блюза !Очень надеюсь на Вас!Сосем недавно начал приобщаться к Блюзовой Культуре!Как услышал вещь Johny
+    Farmer-Death Letter теперь слушаю ее постоянно!Вы не могли бы подсказать кто еще из Блюзовых исполнителей играет в такой
+    направленности как Johny Farmer-Death Letter !
   replies:
   - id: 32003
     parent_id: 31988
@@ -35,8 +34,7 @@ posts:
     email: aaa@genebee.msu.su
     subject: В другой направленности,
     deleted: false
-    text: но интересно сделана Death Letter на диске New Moon Daughter (1995, Blue
-      Note )by Cassandra Wilson.
+    text: но интересно сделана Death Letter на диске New Moon Daughter (1995, Blue Note )by Cassandra Wilson.
     replies:
     - id: 32015
       parent_id: 32014
@@ -49,6 +47,7 @@ posts:
 
 
         но красивая дама, конечно'
+    person_id: 458
   - id: 32016
     parent_id: 31988
     date: 2007-03-31 18:53
@@ -56,9 +55,8 @@ posts:
     email: Gienane@narod.ru
     subject: Johny Farmer
     deleted: false
-    text: Большое Вам человеческое спасибо!!!!Теперь самое главное найти в нашем славном
-      городе хотябы один Дисочек Son House!!!!Еше раз Вам большое спасибо!Если еще
-      что нибудь порекомендуете буду только рад!!!
+    text: Большое Вам человеческое спасибо!!!!Теперь самое главное найти в нашем славном городе хотябы один Дисочек Son House!!!!Еше
+      раз Вам большое спасибо!Если еще что нибудь порекомендуете буду только рад!!!
     replies:
     - id: 32018
       parent_id: 32016
@@ -68,3 +66,4 @@ posts:
       subject: если мп3 годится
       deleted: false
       text: то вот - http://musicmp3.spb.ru/mp3/32/son_house.htm
+      person_id: 335

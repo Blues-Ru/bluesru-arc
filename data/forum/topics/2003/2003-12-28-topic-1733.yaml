@@ -27,8 +27,8 @@ posts:
     email: peregnoy@mail.ru
     subject: Убедительная просьба!
     deleted: false
-    text: Кто уже знает, порезвитесь пока вокруг да около, дайте потрахаться другим!
-      :)
+    text: Кто уже знает, порезвитесь пока вокруг да около, дайте потрахаться другим! :)
+    person_id: 712
   - id: 16524
     parent_id: 16521
     date: 2003-12-28 15:41
@@ -100,3 +100,5 @@ posts:
       email: sanya@cterra.ru
       subject: Печальный день...
       deleted: false
+    person_id: 4
+  person_id: 712

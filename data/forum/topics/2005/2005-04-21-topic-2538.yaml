@@ -67,6 +67,8 @@ posts:
               email: dr.nick@blues.ru
               subject: это я имел в виду :)
               deleted: false
+            person_id: 3909
+          person_id: 335
         - id: 21210
           parent_id: 21207
           date: 2005-04-21 21:31
@@ -74,8 +76,7 @@ posts:
           email: dr.nick@blues.ru
           subject: Федя,
           deleted: false
-          text: ты бы в ЖЖ написал подробно как происходил процесс превращения Бюска
-            в вандала :)
+          text: ты бы в ЖЖ написал подробно как происходил процесс превращения Бюска в вандала :)
           replies:
           - id: 21212
             parent_id: 21210
@@ -101,8 +102,8 @@ posts:
                 email: konstantin@inbox.nu
                 subject: Ну,
                 deleted: false
-                text: просто так точнее. Вандалов ведь и среди других народностей
-                  валом...
+                text: просто так точнее. Вандалов ведь и среди других народностей валом...
+                person_id: 3909
             - id: 21217
               parent_id: 21212
               date: 2005-04-22 11:47
@@ -111,6 +112,12 @@ posts:
               subject: Да уж позвольте...
               deleted: false
               text: От вандала у него кое-что есть... Увы.
+              person_id: 2803
+            person_id: 3909
+          person_id: 335
+        person_id: 2
+      person_id: 335
+    person_id: 9
   - id: 21223
     parent_id: 21202
     date: 2005-04-22 21:03
@@ -119,3 +126,4 @@ posts:
     subject: как это было
     deleted: false
     text: <a href="/bluesnews/05Spring/busksreda/busk051.htm">http://www.blues.ru/bluesnews/05Spring/busksreda/busk051.htm</a>
+    person_id: 4

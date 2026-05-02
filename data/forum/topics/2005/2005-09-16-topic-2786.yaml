@@ -25,8 +25,7 @@ posts:
 
       С Днем Рождения, Великий Мастер!
 
-      Кстати, что-то я прошляпил - будут ли в Москве какие-нибудь мероприятия в честь
-      юбилея?'
+      Кстати, что-то я прошляпил - будут ли в Москве какие-нибудь мероприятия в честь юбилея?'
   - id: 23200
     parent_id: 23197
     date: 2005-09-16 11:23
@@ -34,6 +33,7 @@ posts:
     email: ilija@bk.ru
     subject: Воистину! С юбилеем, Человек-Эпоха!
     deleted: false
+    person_id: 4313
   - id: 23202
     parent_id: 23197
     date: 2005-09-16 12:06
@@ -43,7 +43,8 @@ posts:
     deleted: false
     text: 'Кстати вот что пишут на www.bbking.com:
 
-      B.B. KING BRINGS TOGETHER ERIC CLAPTON, ELTON JOHN AND OTHERS FOR NEW DUETS
-      ALBUM OF BLUES STANDARDS TO CELEBRATE THE BLUES GREAT’S 80TH BIRTHDAY
+      B.B. KING BRINGS TOGETHER ERIC CLAPTON, ELTON JOHN AND OTHERS FOR NEW DUETS ALBUM OF BLUES STANDARDS TO CELEBRATE THE
+      BLUES GREAT’S 80TH BIRTHDAY
 
       Хороший способ отпраздновать свой юбилей :)'
+  person_id: 3349

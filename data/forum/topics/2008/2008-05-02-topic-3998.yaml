@@ -12,8 +12,7 @@ posts:
   email: evdokimov@blues.ru
   subject: завтра Джеймсу Брауну 75... было бы
   deleted: false
-  text: Блюзовое собрание его записей можно послушать на "Эхе" в ВЭБе завтра, в два
-    часа ночи.
+  text: Блюзовое собрание его записей можно послушать на "Эхе" в ВЭБе завтра, в два часа ночи.
   replies:
   - id: 35348
     parent_id: 35347
@@ -32,8 +31,8 @@ posts:
       deleted: false
       text: 'сам там не был. но, как мог, сверил: все про третье мая говрят.
 
-        вот только старинная, но любимая: The Penguin Encyclopedia of Popular Music
-        сказала, что родился он 3 мая, но в 1928 году... )))'
+        вот только старинная, но любимая: The Penguin Encyclopedia of Popular Music сказала, что родился он 3 мая, но в 1928
+        году... )))'
       replies:
       - id: 35350
         parent_id: 35349
@@ -43,3 +42,6 @@ posts:
         subject: ещё где-то я читал про 28 год
         deleted: false
         text: что он скрывал свой возраст
+        person_id: 335
+    person_id: 335
+  person_id: 4

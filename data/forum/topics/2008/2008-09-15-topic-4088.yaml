@@ -12,8 +12,7 @@ posts:
   email: evdokimov@blues.ru
   subject: видео
   deleted: false
-  text: <a href="http://www.youtube.com/watch?v=-mjcWTPEQLc">http://www.youtube.com/watch?v=-mjcWTPEQLc</a>
-    -
+  text: <a href="http://www.youtube.com/watch?v=-mjcWTPEQLc">http://www.youtube.com/watch?v=-mjcWTPEQLc</a> -
   replies:
   - id: 35784
     parent_id: 35783
@@ -29,9 +28,8 @@ posts:
     email: sunny_city@mail.ru
     subject: Ступор, радость и боль одновременно.
     deleted: false
-    text: Только что зашел на "Одноклассников". Увидел фотку Света и мигающую надпись"На
-      сайте". Всё перемешалось.Мгновенье. Просто Татьяна Тихомирова сделала себе заглавной
-      фотку Света. Зачем? Странно как-то. Ну да Бог ей судья.
+    text: Только что зашел на "Одноклассников". Увидел фотку Света и мигающую надпись"На сайте". Всё перемешалось.Мгновенье.
+      Просто Татьяна Тихомирова сделала себе заглавной фотку Света. Зачем? Странно как-то. Ну да Бог ей судья.
     replies:
     - id: 35787
       parent_id: 35785
@@ -41,3 +39,4 @@ posts:
       subject: переместите плз. как не имеющее отношение к указанному видео. Нервы.
       deleted: false
       text: Отдельным постом по-возможности.
+  person_id: 4

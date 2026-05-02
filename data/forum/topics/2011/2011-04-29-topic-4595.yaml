@@ -19,8 +19,7 @@ posts:
     poster: Федор Романенко
     subject: Вот, например
     deleted: false
-    text: <iframe width="425" height="349" src="http://www.youtube.com/embed/0I6xkVRWzCY"
-      frameborder="0" allowfullscreen></iframe>
+    text: <iframe width="425" height="349" src="http://www.youtube.com/embed/0I6xkVRWzCY" frameborder="0" allowfullscreen></iframe>
     replies:
     - id: 37679
       parent_id: 37678
@@ -36,20 +35,15 @@ posts:
         poster: Andrei V. Evdokimov
         subject: Очень уж расплывчато задан вопрос.
         deleted: false
-        text: "У меня, к примеру, есть пластиночка, где «схлестнулись» два саксофониста:\
-          \ Coleman Hawkins и Ben Webster – просто майский день и именины сердца…\
-          \ Но, боюсь, не все разделяют это мнение. Запись 1957 г., там еще Herb Ellis\
-          \ на гитаре – сказка!\n\nПрипомнить солистов-саксофонистов в блюзе не просто,\
-          \ маловато их вообще-то. Gregg Piccolo из нынешних, Eddie \"Cleanhead\"\
-          \ Vinson – из ветеранов. Gene Barge работал в Чикаго. Dick Heckstall-Smith\
-          \ – в Лондоне (но это вообще на любителя).  \n\nRoomful Of Blues, Jeannie\
-          \ & Jimmy Cheatham – классная секция медных, включая саксофон, разумеется.\
-          \ Duke Robillard почти всегда приглашает на запись саксофониста Doug James.\n\
-          \nJohn Mayall в альбоме The Turning Point имел саксофониста Johnny Almond\
-          \ – очень качественно. \n\n«Брутальный» саксофон – в альбомах George Thorogood\
-          \ & The Destroyers; Charles Brown в своих поздних альбомах имел саксофониста\
-          \ мелодичного и деликатного: Clifford Solomon…\n \n…А так-то саксофонистов\
-          \ в блюзе куча, попадаются и хорошие. )))"
+        text: "У меня, к примеру, есть пластиночка, где «схлестнулись» два саксофониста: Coleman Hawkins и Ben Webster – просто\
+          \ майский день и именины сердца… Но, боюсь, не все разделяют это мнение. Запись 1957 г., там еще Herb Ellis на гитаре\
+          \ – сказка!\n\nПрипомнить солистов-саксофонистов в блюзе не просто, маловато их вообще-то. Gregg Piccolo из нынешних,\
+          \ Eddie \"Cleanhead\" Vinson – из ветеранов. Gene Barge работал в Чикаго. Dick Heckstall-Smith – в Лондоне (но это\
+          \ вообще на любителя).  \n\nRoomful Of Blues, Jeannie & Jimmy Cheatham – классная секция медных, включая саксофон,\
+          \ разумеется. Duke Robillard почти всегда приглашает на запись саксофониста Doug James.\n\nJohn Mayall в альбоме\
+          \ The Turning Point имел саксофониста Johnny Almond – очень качественно. \n\n«Брутальный» саксофон – в альбомах\
+          \ George Thorogood & The Destroyers; Charles Brown в своих поздних альбомах имел саксофониста мелодичного и деликатного:\
+          \ Clifford Solomon…\n \n…А так-то саксофонистов в блюзе куча, попадаются и хорошие. )))"
         replies:
         - id: 37696
           parent_id: 37681
@@ -57,21 +51,17 @@ posts:
           poster: Старый Майор
           subject: Андрей ты эту пластинку имел в виду?
           deleted: false
-          text: Coleman Hawkins & Ben Webster - Coleman Hawkins Encounters Ben Webster
-            (1959) ?
+          text: Coleman Hawkins & Ben Webster - Coleman Hawkins Encounters Ben Webster (1959) ?
           replies:
           - id: 37700
             parent_id: 37696
             date: 2011-05-06 23:24
             poster: Andrei V. Evdokimov
-            subject: у меня индийская "печатка". там заглавия вообще нет. Но первая
-              весч - блюз для
+            subject: у меня индийская "печатка". там заглавия вообще нет. Но первая весч - блюз для
             deleted: false
-            text: "у меня индийская \"печатка\". там заглавия вообще нет (Blue Saxophones\
-              \ на название \"не тянет\"). Но первая весч - блюз для Йоланды, да.\
-              \ \n\nВот он: http://www.discogs.com/Coleman-Hawkins-Ben-Webster-Blue-Saxophones/release/2344870\n\
-              \nштампом проставлена цена: 39 рупий + st. Поверх карандашем написано\
-              \ 42 рупии."
+            text: "у меня индийская \"печатка\". там заглавия вообще нет (Blue Saxophones на название \"не тянет\"). Но первая\
+              \ весч - блюз для Йоланды, да. \n\nВот он: http://www.discogs.com/Coleman-Hawkins-Ben-Webster-Blue-Saxophones/release/2344870\n\
+              \nштампом проставлена цена: 39 рупий + st. Поверх карандашем написано 42 рупии."
             replies:
             - id: 37701
               parent_id: 37700
@@ -79,13 +69,17 @@ posts:
               poster: Старый Майор
               subject: Да, именно она.
               deleted: false
-              text: Но остальные пиесы на этой пластинке, на мой вкусослух, очень
-                сладкие.
+              text: Но остальные пиесы на этой пластинке, на мой вкусослух, очень сладкие.
+              person_id: 13
+          person_id: 13
       - id: 37682
         parent_id: 37679
         date: 2011-04-30 19:33
         poster: олег
         subject: '!!!'
         deleted: false
-        text: Спасибо!А есть ли блюзовый инструментал,где "рулит" саксОфон (век живи
-          век учись).
+        text: Спасибо!А есть ли блюзовый инструментал,где "рулит" саксОфон (век живи век учись).
+        person_id: 7512
+      person_id: 7512
+    person_id: 2
+  person_id: 7512

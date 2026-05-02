@@ -21,6 +21,7 @@ posts:
     email: peregnoy@mail.ru
     subject: А лоха - это, простите, кого? ;)
     deleted: false
+    person_id: 712
   - id: 17113
     parent_id: 17111
     date: 2004-02-08 00:10
@@ -28,3 +29,5 @@ posts:
     email: volodya@blues.ru
     subject: real one player сейчас. :) www.real.com
     deleted: false
+    person_id: 5
+  person_id: 2469

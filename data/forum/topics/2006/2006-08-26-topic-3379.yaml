@@ -21,6 +21,7 @@ posts:
     email: evdokimov@blues.ru
     subject: жуть! )))
     deleted: false
+    person_id: 4
   - id: 28497
     parent_id: 28489
     date: 2006-08-27 10:02
@@ -41,3 +42,5 @@ posts:
 
 
         и какая нормальная ситуация?'
+    person_id: 2824
+  person_id: 335

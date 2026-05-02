@@ -21,6 +21,7 @@ posts:
     email: dr.nick@blues.ru
     subject: это типа бизнес :)
     deleted: false
+    person_id: 335
   - id: 34973
     parent_id: 34970
     date: 2008-03-18 16:13
@@ -37,3 +38,4 @@ posts:
       subject: я понял, что не дата ))
       deleted: false
       text: вы уж дату сообщите, плз.
+    person_id: 4

@@ -12,8 +12,7 @@ posts:
   email: prospekt45@nm.ru
   subject: Зацените как парнишка белорус блюз играет
   deleted: false
-  text: 'Привет!!! интересно просто. накнулся на демо одного парня...вроде неплохо...экспрессивно...интересно
-    ваше мнение!!!
+  text: 'Привет!!! интересно просто. накнулся на демо одного парня...вроде неплохо...экспрессивно...интересно ваше мнение!!!
 
     ссылка:
 
@@ -44,16 +43,15 @@ posts:
         email: ара@blues.ru
         subject: Это настоящий биларуский Джими Хендрикс!
         deleted: false
-        text: Но у нас есть свои Джимики в России, ара! Вова Русинов и Руслан Чифуров!
-          Им вручали настоящие Фендекастеры еще более важные Хендриксы - Белов и Зинчук!
+        text: Но у нас есть свои Джимики в России, ара! Вова Русинов и Руслан Чифуров! Им вручали настоящие Фендекастеры еще
+          более важные Хендриксы - Белов и Зинчук!
         replies:
         - id: 28409
           parent_id: 28408
           date: 2006-08-19 23:34
           poster: Mark
           email: lazz252@mail.ru
-          subject: Набрал в яндексе "Сергей Курек" нашел его сайт, дык оказалось почти
-            сформировавшийся артист
+          subject: Набрал в яндексе "Сергей Курек" нашел его сайт, дык оказалось почти сформировавшийся артист
           deleted: false
           text: 'Нарыл сайт там еть еще несколько кусков видео с концерта:
 
@@ -81,13 +79,12 @@ posts:
             email: ara@blues.ru
             subject: Zachem v zhopu, ara?
             deleted: false
-            text: 'My zhe ne pidary, pochemu zhopa? Chem ne nravitsya moy humor? Ne
-              lyubish'' kavkazskiy humor?
+            text: 'My zhe ne pidary, pochemu zhopa? Chem ne nravitsya moy humor? Ne lyubish'' kavkazskiy humor?
 
 
-              Mne sam ara Ruslan rasskazyval pro tot konkurs! Govoril, chto sam Velikiy
-              White Belov ara vydaval priz! I pro tvoyu pobedu govoril ara! A ty rugayesh''sy
-              kak ishak! Ne nado tak. I v Belarusii est'' teper'' svoy Jimi! Eto prazdnik!'
+              Mne sam ara Ruslan rasskazyval pro tot konkurs! Govoril, chto sam Velikiy White Belov ara vydaval priz! I pro
+              tvoyu pobedu govoril ara! A ty rugayesh''sy kak ishak! Ne nado tak. I v Belarusii est'' teper'' svoy Jimi! Eto
+              prazdnik!'
             replies:
             - id: 28428
               parent_id: 28419
@@ -96,17 +93,14 @@ posts:
               email: elicaster co6@kaмейл-d0t ru
               subject: Ара, друг
               deleted: false
-              text: 'Ара, друг... Ара, есть адин момент каторый меня канкретна каробит
-                как чилавека живущива в гораде с многалетней традицией дабрасаседства
-                с ВСЕМИ народами. Азербайджанцы, армяне, туркмены, украинцы, татары,
-                русские... - <b>в народе</b> все тут равны. Поэтому мы и знаем гОвор
-                друг друга.
+              text: 'Ара, друг... Ара, есть адин момент каторый меня канкретна каробит как чилавека живущива в гораде с многалетней
+                традицией дабрасаседства с ВСЕМИ народами. Азербайджанцы, армяне, туркмены, украинцы, татары, русские... -
+                <b>в народе</b> все тут равны. Поэтому мы и знаем гОвор друг друга.
 
-                каткретна: выражение "ара" применяется обычно в начале предложения,
-                типа: ты, дорогой, уважаемый... Но не вместо типа господин, пан, мистер...
+                каткретна: выражение "ара" применяется обычно в начале предложения, типа: ты, дорогой, уважаемый... Но не
+                вместо типа господин, пан, мистер...
 
-                И ищё, в типа армянском гОворе слово "ишак", в принципе и практически,
-                не упатребляется.'
+                И ищё, в типа армянском гОворе слово "ишак", в принципе и практически, не упатребляется.'
               replies:
               - id: 28429
                 parent_id: 28428
@@ -115,8 +109,10 @@ posts:
                 email: ара@blues.ru
                 subject: Почему обижаешь?
                 deleted: false
-                text: Я тоже из города с многолетними традициями! И чем тебе ишак
-                  не нравится? Ара надо про блюзманов тут говорить, а не про народы!
+                text: Я тоже из города с многолетними традициями! И чем тебе ишак не нравится? Ара надо про блюзманов тут
+                  говорить, а не про народы!
+                person_id: 335
+        person_id: 335
     - id: 28432
       parent_id: 28382
       date: 2006-08-21 09:49
@@ -141,8 +137,7 @@ posts:
           email: prospekt45@nm.ru
           subject: 'нада ввести: http://www.dzz.gomel.by/index.php?link=1&page=http://www.dzz.gomel.by/sergei_kurek_red_house.mp3'
           deleted: false
-          text: просто ссылка такая замудреная потомушто со счетчико..мнеж интересно
-            скачал ктонить или нет :-)
+          text: просто ссылка такая замудреная потомушто со счетчико..мнеж интересно скачал ктонить или нет :-)
           replies:
           - id: 28445
             parent_id: 28444
@@ -151,6 +146,8 @@ posts:
             email: chifuroff (((((((<inbox>hhjhinbox.ru
             subject: А чего- хорошо!
             deleted: false
+            person_id: 2888
+        person_id: 2888
       - id: 28443
         parent_id: 28432
         date: 2006-08-22 01:19
@@ -158,10 +155,9 @@ posts:
         email: prospekt45@nm.ru
         subject: Вы не представляете какое вам все биг СПСИБО!!!!!!
         deleted: false
-        text: 'Я тайно  без разрешения гитариста закинул сюда эту ссылку, но когда
-          рассказал ему что были даже хорошие отзывы, Парень так обрадовался и аж
-          под сильным вдохновлением написал новый блюз With Devil&Crime, you girl
-          will be mine!  :-) Завтра засядем и будем записываать, записывать записывать!!!!!!
+        text: 'Я тайно  без разрешения гитариста закинул сюда эту ссылку, но когда рассказал ему что были даже хорошие отзывы,
+          Парень так обрадовался и аж под сильным вдохновлением написал новый блюз With Devil&Crime, you girl will be mine!  :-)
+          Завтра засядем и будем записываать, записывать записывать!!!!!!
 
           Сенкс большой большой!'
         replies:
@@ -173,6 +169,7 @@ posts:
           subject: Ключевое слово - "даже" =))))))))
           deleted: false
           text: Я плакалъ...
+      person_id: 956
   - id: 28421
     parent_id: 28381
     date: 2006-08-20 21:10
@@ -181,6 +178,7 @@ posts:
     subject: Чего-то не качается
     deleted: false
     text: Открылась какая-то страница, но никаких .mp3 я там не нашёл
+    person_id: 2888
   - id: 28423
     parent_id: 28381
     date: 2006-08-20 23:16
@@ -188,12 +186,10 @@ posts:
     email: mishouris@mail.ru
     subject: И снова молодцы...
     deleted: false
-    text: '...Я не знаю...Мне стыдно за всю ту фигню, которая происходит тут. Правда,
-      что на форуме, то и в жизни, наверное.
+    text: '...Я не знаю...Мне стыдно за всю ту фигню, которая происходит тут. Правда, что на форуме, то и в жизни, наверное.
 
-      Человек просит обсудить на "блюзовом форуме" свою запись. Мы опять устраиваем
-      балаган. Грош цена нам, господа, со всем нашим блюзом. Противно бывать тут стало
-      что-то....'
+      Человек просит обсудить на "блюзовом форуме" свою запись. Мы опять устраиваем балаган. Грош цена нам, господа, со всем
+      нашим блюзом. Противно бывать тут стало что-то....'
     replies:
     - id: 28424
       parent_id: 28423
@@ -203,6 +199,7 @@ posts:
       subject: Неточно выразился
       deleted: false
       text: Не свою запись, правда, человек просит обсудить, но сути это не меняет.
+      person_id: 4764
     - id: 28430
       parent_id: 28423
       date: 2006-08-21 09:16
@@ -210,9 +207,8 @@ posts:
       email: a@a.com
       subject: misha
       deleted: false
-      text: sam bi i napisal recenz. a ne osudil vseh razom... s ispolzovaniem mestoimenia
-        'mi'. ya poslushat escho nedelu ne smogu.. :) voobschem kagdiy dolgen vpercuyu
-        ovhered za sepya otvechat... a ne za drugih :)
+      text: sam bi i napisal recenz. a ne osudil vseh razom... s ispolzovaniem mestoimenia 'mi'. ya poslushat escho nedelu
+        ne smogu.. :) voobschem kagdiy dolgen vpercuyu ovhered za sepya otvechat... a ne za drugih :)
       replies:
       - id: 28436
         parent_id: 28430

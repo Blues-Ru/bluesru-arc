@@ -14,8 +14,7 @@ posts:
   text: 'в Double Bourbon
 
 
-    <img src="http://www.ljplus.ru/img4/d/r/dr_nick/db-jam.jpg" width=353 height=500
-    alt=''30.87 КБ''>'
+    <img src="http://www.ljplus.ru/img4/d/r/dr_nick/db-jam.jpg" width=353 height=500 alt=''30.87 КБ''>'
   replies:
   - id: 36705
     parent_id: 36681
@@ -34,3 +33,4 @@ posts:
       text: 'просто можно выходить и играть с нами блюзы
 
         2 часа - с 21 до 23'
+    person_id: 4337

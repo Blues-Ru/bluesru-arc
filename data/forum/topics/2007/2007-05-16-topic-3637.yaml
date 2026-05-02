@@ -12,24 +12,18 @@ posts:
   email: ragtime@gmail.com
   subject: Объявлены победители 2007 Blues Music Awards
   deleted: false
-  text: "Comeback Album of the Year: Jerry Lee Lewis - Last Man Standing\nTraditional\
-    \ Blues Male Artist of the Year: Robert Lockwood, Jr.\nTraditional Blues Female\
-    \ Artist of the Year: Etta James\nAcoustic Artist of the Year: David \"Honeyboy\"\
-    \ Edwards\nAcoustic Album of the Year: Rory Block - The Lady and Mr. Johnson\n\
-    Pinetop Perkins Piano Player of the Year: Marcia Ball\nInstrumentalist-Guitar:\
-    \ Hubert Sumlin\nSoul Blues Male Artist of the Year: Bobby Rush\nSoul Blues Female\
-    \ Artist of the Year: Irma Thomas\nSoul Blues Album of the Year: Irma Thomas -\
-    \ After the Rain\nHistorical Album of the Year: Shout! Factory - Hooker - John\
-    \ Lee Hooker\nContemporary Blues Album of the Year: Guitar Shorty - We the People\
-    \ \nContemporary Blues Female Artist of the Year: Janiva Magness\nContemporary\
-    \ Blues Male Artist of the Year: Tab Benoit\nInstrumentalist-Harmonica: Charlie\
-    \ Musselwhite\nInstrumentalist-Bass: Mookie Brill\nInstrumentalist-Drums: Willie\
-    \ \"Big Eyes\" Smith\nInstrumentalist-Horn: Eddie Shaw\nInstrumentalist-Other:\
-    \ Robert Randolph\nBest New Artist Debut: Slick Ballinger- Mississippi Soul\n\
-    Song of the Year: \"Church is Out\" - Charlie Musselwhite\nTraditional Blues Album\
-    \ of the Year: Charlie Musselwhite - Delta Hardware\nAlbum of the Year: Charlie\
-    \ Musselwhite - Delta Hardware\nBand of the Year: Lil' Ed & the Blues Imperials\n\
-    B.B. King Entertainer of the Year: Tab Benoit"
+  text: "Comeback Album of the Year: Jerry Lee Lewis - Last Man Standing\nTraditional Blues Male Artist of the Year: Robert\
+    \ Lockwood, Jr.\nTraditional Blues Female Artist of the Year: Etta James\nAcoustic Artist of the Year: David \"Honeyboy\"\
+    \ Edwards\nAcoustic Album of the Year: Rory Block - The Lady and Mr. Johnson\nPinetop Perkins Piano Player of the Year:\
+    \ Marcia Ball\nInstrumentalist-Guitar: Hubert Sumlin\nSoul Blues Male Artist of the Year: Bobby Rush\nSoul Blues Female\
+    \ Artist of the Year: Irma Thomas\nSoul Blues Album of the Year: Irma Thomas - After the Rain\nHistorical Album of the\
+    \ Year: Shout! Factory - Hooker - John Lee Hooker\nContemporary Blues Album of the Year: Guitar Shorty - We the People\
+    \ \nContemporary Blues Female Artist of the Year: Janiva Magness\nContemporary Blues Male Artist of the Year: Tab Benoit\n\
+    Instrumentalist-Harmonica: Charlie Musselwhite\nInstrumentalist-Bass: Mookie Brill\nInstrumentalist-Drums: Willie \"Big\
+    \ Eyes\" Smith\nInstrumentalist-Horn: Eddie Shaw\nInstrumentalist-Other: Robert Randolph\nBest New Artist Debut: Slick\
+    \ Ballinger- Mississippi Soul\nSong of the Year: \"Church is Out\" - Charlie Musselwhite\nTraditional Blues Album of the\
+    \ Year: Charlie Musselwhite - Delta Hardware\nAlbum of the Year: Charlie Musselwhite - Delta Hardware\nBand of the Year:\
+    \ Lil' Ed & the Blues Imperials\nB.B. King Entertainer of the Year: Tab Benoit"
   replies:
   - id: 32896
     parent_id: 32894
@@ -65,3 +59,4 @@ posts:
     subject: 'про Бобби Раша прикольно:'
     deleted: false
     text: за акустический альбом дать Soul Blues Male Artist of the Year...
+    person_id: 5423

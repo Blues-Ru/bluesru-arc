@@ -21,5 +21,6 @@ posts:
     email: blackcat@blues.ru
     subject: этот?
     deleted: false
-    text: <a href="http://www.bluescats.ru/files/20041211.fender/Data/page.htm?31,0"
-      target="_blank">http://www.bluescats.ru/files/20041211.fender/Data/page.htm?31,0</a>
+    text: <a href="http://www.bluescats.ru/files/20041211.fender/Data/page.htm?31,0" target="_blank">http://www.bluescats.ru/files/20041211.fender/Data/page.htm?31,0</a>
+    person_id: 6
+  person_id: 4

@@ -35,6 +35,7 @@ posts:
       email: volodya@blues.ru
       subject: Позитивно общаетесь! малацы
       deleted: false
+      person_id: 5
   - id: 28161
     parent_id: 28150
     date: 2006-08-03 23:35
@@ -43,3 +44,4 @@ posts:
     subject: чего говоришь?
     deleted: false
     text: я ничё не понял ващще
+    person_id: 4987

@@ -38,6 +38,7 @@ posts:
     email: peregnoy@mail.ru
     subject: Печально...
     deleted: false
+    person_id: 712
   - id: 21403
     parent_id: 21133
     date: 2005-05-07 21:50

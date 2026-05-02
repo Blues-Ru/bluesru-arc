@@ -12,8 +12,7 @@ posts:
   email: d@d
   subject: Дла тех кому интересно - Грег Алман Бенд + Робин Форд LIVE
   deleted: false
-  text: "http://www.guitar-clips.com/GA&F/GA&F012505-Live%20@%20BB%20Kings%20in%20NYC/\
-    \ \n\n\n \nhttp://www.guitar-clips.com/GA&F/GA&F012105-Penn's%20Peak/"
+  text: "http://www.guitar-clips.com/GA&F/GA&F012505-Live%20@%20BB%20Kings%20in%20NYC/ \n\n\n \nhttp://www.guitar-clips.com/GA&F/GA&F012105-Penn's%20Peak/"
   replies:
   - id: 25738
     parent_id: 25737
@@ -31,3 +30,4 @@ posts:
       subject: You‘re welcome!
       deleted: false
       text: :-)
+    person_id: 335

@@ -21,8 +21,7 @@ posts:
     email: fedor@blues.ru
     subject: Eddie & Los
     deleted: false
-    text: Я ничего не знаю о пластинке, но послушаю этих музыкантов вместе через полтора
-      месяца в Голландии ;)
+    text: Я ничего не знаю о пластинке, но послушаю этих музыкантов вместе через полтора месяца в Голландии ;)
     replies:
     - id: 17787
       parent_id: 17781
@@ -31,3 +30,4 @@ posts:
       email: frenzy@etel.ru
       subject: Везет :)
       deleted: false
+    person_id: 2

@@ -24,6 +24,7 @@ posts:
     subject: Блиииииааааа
     deleted: false
     text: Что???? биляяяяяяяяяяяя ((((((((
+    person_id: 1755
   - id: 35307
     parent_id: 35305
     date: 2008-04-16 11:08
@@ -32,3 +33,4 @@ posts:
     subject: RIP
     deleted: false
     text: Просто невозможно поверить,такой жизнелюбивый человек ((( очень очень жаль.
+    person_id: 1755

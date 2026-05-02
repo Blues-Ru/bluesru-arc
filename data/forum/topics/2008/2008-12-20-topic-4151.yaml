@@ -12,12 +12,10 @@ posts:
   email: lifebythedrop@yandex.ru
   subject: Ачепятка
   deleted: false
-  text: "В 1967 году (41 г. назад) в Блэкпуле, Англия, трое из участников развалившегося\
-    \ John Evans Blues Band приняли решение о создании новой группы: Jethro Tall.\n\
-    если это о Яне Андерсоне и компании... то группа, поименовавшая себя в честь английского\
-    \ агронома \n\nhttp://en.wikipedia.org/wiki/Jethro_Tull_(agriculturist) \n\nразработавшего\
-    \ конструкцию сеялки называлась Джетеро Талл (Jethro Tull) а не Джетеро Толл (Jethro\
-    \ Tall)"
+  text: "В 1967 году (41 г. назад) в Блэкпуле, Англия, трое из участников развалившегося John Evans Blues Band приняли решение\
+    \ о создании новой группы: Jethro Tall.\nесли это о Яне Андерсоне и компании... то группа, поименовавшая себя в честь\
+    \ английского агронома \n\nhttp://en.wikipedia.org/wiki/Jethro_Tull_(agriculturist) \n\nразработавшего конструкцию сеялки\
+    \ называлась Джетеро Талл (Jethro Tull) а не Джетеро Толл (Jethro Tall)"
   replies:
   - id: 35984
     parent_id: 35983
@@ -26,8 +24,7 @@ posts:
     email: lifebythedrop@yandex.ru
     subject: кстати, кто знает - вопрос
     deleted: false
-    text: а это правда, что Андерсон первоначально хотел, что бы на гитаре в Tull
-      был Тонни Айоми ?
+    text: а это правда, что Андерсон первоначально хотел, что бы на гитаре в Tull был Тонни Айоми ?
     replies:
     - id: 35986
       parent_id: 35984
@@ -45,8 +42,8 @@ posts:
         email: lifebythedrop@yandex.ru
         subject: Не знаю, не знаю.
         deleted: false
-        text: У меня есть такая информация, что господин Айоми не смог присоединиться
-          к JT потому что у него начались большие дела с Black Sabbath
+        text: У меня есть такая информация, что господин Айоми не смог присоединиться к JT потому что у него начались большие
+          дела с Black Sabbath
         replies:
         - id: 35989
           parent_id: 35988
@@ -55,13 +52,13 @@ posts:
           email: dr.nick@blues.ru
           subject: ещё как был
           deleted: false
-          text: 'The group went through two hastily recruited and rejected replacements,
-            future Black Sabbath guitarist Tony Iommi (who was in Tull for a week,
-            just long enough to show up in their appearance on the Rolling Stones''
-            Rock ''N Roll Circus extravaganza)
+          text: 'The group went through two hastily recruited and rejected replacements, future Black Sabbath guitarist Tony
+            Iommi (who was in Tull for a week, just long enough to show up in their appearance on the Rolling Stones'' Rock
+            ''N Roll Circus extravaganza)
 
 
             даже на ДВД есть с Роллингами'
+          person_id: 335
         - id: 35990
           parent_id: 35988
           date: 2008-12-21 14:34
@@ -79,6 +76,11 @@ posts:
             subject: Спасибо большое
             deleted: false
             text: действительно - весьма интересно
+            person_id: 687
+          person_id: 335
+        person_id: 687
+      person_id: 335
+    person_id: 687
   - id: 35985
     parent_id: 35983
     date: 2008-12-20 15:35
@@ -86,3 +88,4 @@ posts:
     email: evdokimov@blues.ru
     subject: быть по сему (-)
     deleted: false
+    person_id: 4

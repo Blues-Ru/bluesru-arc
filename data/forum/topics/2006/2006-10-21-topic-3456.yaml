@@ -12,8 +12,7 @@ posts:
   email: Blues63@mail.ru
   subject: Danny Eyer
   deleted: false
-  text: Господа,кто нибудь знает что либо о гитаристе Danny Eyer? Есть ли у него ещё
-    альвомы, кроме Blues Box ?
+  text: Господа,кто нибудь знает что либо о гитаристе Danny Eyer? Есть ли у него ещё альвомы, кроме Blues Box ?
   replies:
   - id: 29155
     parent_id: 29149
@@ -22,5 +21,5 @@ posts:
     email: gypsy@mail.ru
     subject: Знак ГТО на груди у него, больше не знали о нём ничего...
     deleted: false
-    text: "Аллмузик выдаёт следующее:\n\n2001   Boxes of Blues  Eyermusic.com \n2004\
-      \   Whatever It Takes  New Moon Music"
+    text: "Аллмузик выдаёт следующее:\n\n2001   Boxes of Blues  Eyermusic.com \n2004   Whatever It Takes  New Moon Music"
+  person_id: 5105

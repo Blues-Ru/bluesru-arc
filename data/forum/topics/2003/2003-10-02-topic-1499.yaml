@@ -21,8 +21,8 @@ posts:
     email: fedor@blues.ru
     subject: Будет!
     deleted: false
-    text: О чем тут уже спрашивали. По времени, кажется, 14-15-16 ноября в Москве
-      + в 2-3 городах. Приедут Roomful Of Blues, W.C.Clark, Philadelphia Jerry Ricks!!!
+    text: О чем тут уже спрашивали. По времени, кажется, 14-15-16 ноября в Москве + в 2-3 городах. Приедут Roomful Of Blues,
+      W.C.Clark, Philadelphia Jerry Ricks!!!
     replies:
     - id: 14958
       parent_id: 14957
@@ -32,3 +32,5 @@ posts:
       subject: На сайте САЙЛЕНСПРО
       deleted: false
       text: http://www.silencepro.ru/anons/efes.php
+      person_id: 712
+    person_id: 2

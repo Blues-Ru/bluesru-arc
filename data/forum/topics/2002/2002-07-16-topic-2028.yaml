@@ -12,12 +12,10 @@ posts:
   email: dhcgwc
   subject: Человек-оркестр
   deleted: false
-  text: Хотелось бы к гармонике,тамбурину, гитаре и казу добавить ножной бас,или так
-    называемую footdella.Так ее называл Джесси Фуллер, слывший мастером one man orchestra
-    style.А как это называется сейчас не знаю, и  информацию об этом инструменте найти
-    нигде не могу,выглядит как он с трудом себе представляю, хотя даже знаю, что выпускают
-    его серийно. В общем, якобы паника.Поделитесь, коллеги, пжалста, может хоть что-нибудь
-    слышали, а?
+  text: Хотелось бы к гармонике,тамбурину, гитаре и казу добавить ножной бас,или так называемую footdella.Так ее называл Джесси
+    Фуллер, слывший мастером one man orchestra style.А как это называется сейчас не знаю, и  информацию об этом инструменте
+    найти нигде не могу,выглядит как он с трудом себе представляю, хотя даже знаю, что выпускают его серийно. В общем, якобы
+    паника.Поделитесь, коллеги, пжалста, может хоть что-нибудь слышали, а?
   replies:
   - id: 6092
     parent_id: 6089
@@ -26,10 +24,8 @@ posts:
     email: blackcat@blues.ru
     subject: footdella...
     deleted: false
-    text: '... изображена на фасаде обложки альбома Джесси Фуллера 1961 года - <a
-      href="http://www.allmusic.com/cg/amg.dll?p=amg&sql=Acuv8b5m4tsq0&uid=FTRALBUMS"
-      target="_blank">"The Lone Cat Sings and Plays Jazz, Folk Songs, Spirituals and
-      Blues" - см.</a>'
+    text: '... изображена на фасаде обложки альбома Джесси Фуллера 1961 года - <a href="http://www.allmusic.com/cg/amg.dll?p=amg&sql=Acuv8b5m4tsq0&uid=FTRALBUMS"
+      target="_blank">"The Lone Cat Sings and Plays Jazz, Folk Songs, Spirituals and Blues" - см.</a>'
     replies:
     - id: 6102
       parent_id: 6092
@@ -39,3 +35,4 @@ posts:
       subject: от это бомба!!
       deleted: false
       text: а как же оно работает?принцип дистанционного управления на блок ПТК?)))
+    person_id: 6

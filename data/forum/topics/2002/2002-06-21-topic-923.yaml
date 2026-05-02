@@ -12,8 +12,7 @@ posts:
   email: Mrg_mike@rambler.ru
   subject: Hughes
   deleted: false
-  text: Люди, у кого-нибудь есть стихи Ленгстона Хьюза, ну прямо блыскался, нигде
-    и нифига!!!
+  text: Люди, у кого-нибудь есть стихи Ленгстона Хьюза, ну прямо блыскался, нигде и нифига!!!
   replies:
   - id: 5622
     parent_id: 5619
@@ -22,8 +21,8 @@ posts:
     email: dr.nick@blues.ru
     subject: Taj & Hughes
     deleted: false
-    text: У меня есть диск Тажа на стихи Хьюза, но я не помню есть ли там тексты.
-      Посмотрю и скажу.
+    text: У меня есть диск Тажа на стихи Хьюза, но я не помню есть ли там тексты. Посмотрю и скажу.
+    person_id: 335
   - id: 5624
     parent_id: 5619
     date: 2002-06-21 11:43
@@ -32,6 +31,7 @@ posts:
     subject: здесь есть немного
     deleted: false
     text: http://www.poets.org/poets/poets.cfm?prmID=84
+    person_id: 378
   - id: 5625
     parent_id: 5619
     date: 2002-06-21 12:06
@@ -41,5 +41,5 @@ posts:
     deleted: false
     text: 'http://falcon.jmu.edu/~ramseyil/hughes.htm
 
-      Там внизу посмотри  - E-Texts. Кстати, там по одной ссылке мпеги и рилаудио
-      - сможешь даже послушать.'
+      Там внизу посмотри  - E-Texts. Кстати, там по одной ссылке мпеги и рилаудио - сможешь даже послушать.'
+  person_id: 687

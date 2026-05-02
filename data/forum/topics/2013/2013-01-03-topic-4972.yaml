@@ -11,8 +11,7 @@ posts:
   poster: Cpt. Nemoff
   subject: Джорж Карлин про блюз :)
   deleted: false
-  text: <iframe width="420" height="315" src="http://www.youtube.com/embed/P2eTm6gniEY"
-    frameborder="0" allowfullscreen></iframe>
+  text: <iframe width="420" height="315" src="http://www.youtube.com/embed/P2eTm6gniEY" frameborder="0" allowfullscreen></iframe>
   replies:
   - id: 38693
     parent_id: 38692
@@ -25,5 +24,5 @@ posts:
       наркоман и алкоголик - у нее есть что-нибудь смешное про пропоиц?
 
 
-      <iframe width="420" height="315" src="http://www.youtube.com/embed/YJ6nF6KlxT0"
-      frameborder="0" allowfullscreen></iframe>'
+      <iframe width="420" height="315" src="http://www.youtube.com/embed/YJ6nF6KlxT0" frameborder="0" allowfullscreen></iframe>'
+  person_id: 3623

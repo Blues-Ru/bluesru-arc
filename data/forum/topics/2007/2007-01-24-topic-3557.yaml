@@ -22,6 +22,7 @@ posts:
     subject: Ух ты!
     deleted: false
     text: Хорошие фото. И немало.
+    person_id: 458
   - id: 30716
     parent_id: 30692
     date: 2007-01-26 10:10
@@ -29,3 +30,4 @@ posts:
     email: sunny_city@mail.ru
     subject: Полный восторг!!!
     deleted: false
+    person_id: 956

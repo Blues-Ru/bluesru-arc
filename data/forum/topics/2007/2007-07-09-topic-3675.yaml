@@ -21,6 +21,7 @@ posts:
     subject: Я был.
     deleted: false
     text: Скоро расскажу всю правду.
+    person_id: 458
   - id: 33179
     parent_id: 33154
     date: 2007-07-13 17:12
@@ -28,3 +29,4 @@ posts:
     email: aaa@genebee.msu.su
     subject: http://www.agranovsky.ru/diary/jul_07.htm
     deleted: false
+    person_id: 458

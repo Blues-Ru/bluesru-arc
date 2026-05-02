@@ -162,8 +162,7 @@ posts:
 
       In a very deep voice
 
-      And I say "yes sir brother sheriff, and that''s your wife on the back of my
-      horse"
+      And I say "yes sir brother sheriff, and that''s your wife on the back of my horse"
 
 
       Cause I''m a gangster of love
@@ -209,6 +208,7 @@ posts:
         email: dr.nick@blues.ru
         subject: на здоровье :)
         deleted: false
+        person_id: 335
       - id: 28678
         parent_id: 28676
         date: 2006-09-11 18:28
@@ -245,8 +245,7 @@ posts:
               email: elicaster co6@kaмейл-d0t ru
               subject: Скачал. Спасибо, Дим!
               deleted: false
-              text: А кто исполнители там? точнее, в более новом исполнении. Стив
-                Миллер?
+              text: А кто исполнители там? точнее, в более новом исполнении. Стив Миллер?
               replies:
               - id: 28721
                 parent_id: 28719
@@ -317,17 +316,14 @@ posts:
 
                             Да уж :-) так оно и было.
 
-                            показалось мне так что это исполнение того времени. Ну,
-                            обознался...
+                            показалось мне так что это исполнение того времени. Ну, обознался...
 
                             Малехо удивительно мне что http://drnick.mylivepage.ru/file/168/1377/1-25+Love+Bandit+%28Gangster+Of+Love%29.mp3
-                            Johnny "Guitar" Watson - Love Bandit (Gangster Of Love)
-                            [Gonna Hit That Highway] исполняется только под фортепиано.
+                            Johnny "Guitar" Watson - Love Bandit (Gangster Of Love) [Gonna Hit That Highway] исполняется только
+                            под фортепиано.
 
-                            И ещё, а не знаешь ли где найти ту версию что звучит в
-                            реламном ролике <a href="http://www.musicstrands.com/group/49/journal/347">Axe
-                            Click</a> с участием Бэна Аффлека? Очень мне нравится
-                            именно она.'
+                            И ещё, а не знаешь ли где найти ту версию что звучит в реламном ролике <a href="http://www.musicstrands.com/group/49/journal/347">Axe
+                            Click</a> с участием Бэна Аффлека? Очень мне нравится именно она.'
                           replies:
                           - id: 28765
                             parent_id: 28763
@@ -337,6 +333,8 @@ posts:
                             subject: Уже нашёл!
                             deleted: false
                             text: Спасиб!
+                person_id: 335
+            person_id: 335
           - id: 28685
             parent_id: 28682
             date: 2006-09-12 01:47
@@ -345,3 +343,6 @@ posts:
             subject: а вот еще версия Love Bandit
             deleted: false
             text: http://drnick.mylivepage.ru/file/168/1377/1-25+Love+Bandit+%28Gangster+Of+Love%29.mp3
+            person_id: 335
+        person_id: 335
+    person_id: 335

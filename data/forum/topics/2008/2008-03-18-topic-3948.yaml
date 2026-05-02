@@ -30,6 +30,8 @@ posts:
       email: dr.nick@blues.ru
       subject: у меня нет такой классной гитары :(
       deleted: false
+      person_id: 335
+    person_id: 5
   - id: 34977
     parent_id: 34972
     date: 2008-03-18 21:13
@@ -46,3 +48,5 @@ posts:
       email: volodya@blues.ru
       subject: я рад, что по второму пункту возражений не последовало....
       deleted: false
+      person_id: 5
+  person_id: 335

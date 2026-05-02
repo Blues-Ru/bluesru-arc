@@ -45,3 +45,7 @@ posts:
           poster: Старый Майор
           subject: Вернусь осенью - буду ходить на джемы
           deleted: false
+          person_id: 13
+        person_id: 4
+    person_id: 4
+  person_id: 13

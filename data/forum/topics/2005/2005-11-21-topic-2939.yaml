@@ -35,6 +35,7 @@ posts:
       email: dr.nick@blues.ru
       subject: конечно!
       deleted: false
+      person_id: 335
     - id: 24640
       parent_id: 24638
       date: 2005-11-21 10:45
@@ -43,3 +44,4 @@ posts:
       subject: Да!
       deleted: false
       text: С Днем Рождения Доктора Джона! :)
+      person_id: 4313

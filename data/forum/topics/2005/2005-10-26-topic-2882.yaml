@@ -35,3 +35,5 @@ posts:
       subject: Спасибо!
       deleted: false
       text: Супер!
+      person_id: 3511
+    person_id: 5

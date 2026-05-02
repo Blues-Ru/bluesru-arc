@@ -24,8 +24,7 @@ posts:
     email: dr.nick@blues.ru
     subject: блин, а почему OGG?
     deleted: false
-    text: эти уроды не выпустили драйвер по QuickTime 7. не переставлять же шестой
-      из-за этого...
+    text: эти уроды не выпустили драйвер по QuickTime 7. не переставлять же шестой из-за этого...
     replies:
     - id: 21899
       parent_id: 21898
@@ -50,6 +49,9 @@ posts:
           email: volodya@blues.ru
           subject: приблизительно :)
           deleted: false
+          person_id: 5
+        person_id: 335
+      person_id: 5
     - id: 21911
       parent_id: 21898
       date: 2005-06-30 10:18
@@ -66,16 +68,18 @@ posts:
         date: 2005-06-30 13:19
         poster: vr  (Stone Crazy)
         email: volodya@blues.ru
-        subject: ну хорошо :) если это будет вообще комунить надо, то можно и мп3
-          :))
+        subject: ну хорошо :) если это будет вообще комунить надо, то можно и мп3 :))
         deleted: false
         text: :)))
+        person_id: 5
       - id: 21929
         parent_id: 21911
         date: 2005-07-01 00:48
         poster: Дмитрий Казанцев (Dr. Nick)
         email: dr.nick@blues.ru
-        subject: про АСС я знаю, а вот ОГГ не торопится сделать нормальный файл для
-          Тигра и 7-го КвикТайма
+        subject: про АСС я знаю, а вот ОГГ не торопится сделать нормальный файл для Тигра и 7-го КвикТайма
         deleted: false
         text: да, у меня дома Маки.
+        person_id: 335
+      person_id: 1206
+    person_id: 335

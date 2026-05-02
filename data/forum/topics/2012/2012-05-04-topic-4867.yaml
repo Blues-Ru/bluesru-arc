@@ -33,8 +33,9 @@ posts:
       deleted: false
       text: 'да и 30 млн руб. это средняя цена хорошей квартиры в ЦАО г.Москвы.)
 
-        так что у нас многие могут продать однушку в центре и купить на эти деньги
-        целый дом в восточной или  западной европе....'
+        так что у нас многие могут продать однушку в центре и купить на эти деньги целый дом в восточной или  западной европе....'
+      person_id: 7219
+    person_id: 6543
   - id: 38368
     parent_id: 38363
     date: 2012-05-04 16:00
@@ -43,15 +44,13 @@ posts:
     deleted: false
     text: 'Почему-то вспомнилось:
 
-      "Although he made a bit more money in the last 15 years of his life, he didn''t
-      make a lot.  At the end of his days Sleepy John Estes was still living in poverty.  Cheated
-      out of many of his royalties and without the guidance and connections that might
-      have helped him to establish publishing rights to his own material, John reached
-      the end of his life impoverished financially, but appreciated openly." ( http://www.memphishistory.com/Music/Blues/SleepyJohnEstes.aspx
-      )
+      "Although he made a bit more money in the last 15 years of his life, he didn''t make a lot.  At the end of his days
+      Sleepy John Estes was still living in poverty.  Cheated out of many of his royalties and without the guidance and connections
+      that might have helped him to establish publishing rights to his own material, John reached the end of his life impoverished
+      financially, but appreciated openly." ( http://www.memphishistory.com/Music/Blues/SleepyJohnEstes.aspx )
 
-      Фотографии жилища Слипи Джона Эстеса (уже в статусе дома-музея - и повидимому,
-      единственного, которое у него было) можно посмотреть тут - http://www.bigblackcreekhistorical.com/45_area_museums/brownsvilles_blues_pioneer_sleepy_john_estes'
+      Фотографии жилища Слипи Джона Эстеса (уже в статусе дома-музея - и повидимому, единственного, которое у него было) можно
+      посмотреть тут - http://www.bigblackcreekhistorical.com/45_area_museums/brownsvilles_blues_pioneer_sleepy_john_estes'
   - id: 38370
     parent_id: 38363
     date: 2012-05-05 13:35
@@ -59,15 +58,15 @@ posts:
     subject: Скучное это дело
     deleted: false
     text: Считать чужие деньги...
+    person_id: 458
   - id: 38371
     parent_id: 38363
     date: 2012-05-05 13:53
     poster: grem
     subject: шуму то....
     deleted: false
-    text: 'во многих новостных лентах идет как главное сообщение: "Блюзмен Николай
-      Арутюнов...", даже коллеги c "bluesnews.ru" выдали как главную новость. Одним
-      словом прославили Николая, а может все это "газетная-утка" и верится как-то...
+    text: 'во многих новостных лентах идет как главное сообщение: "Блюзмен Николай Арутюнов...", даже коллеги c "bluesnews.ru"
+      выдали как главную новость. Одним словом прославили Николая, а может все это "газетная-утка" и верится как-то...
 
       Кстати и не блюзмен он вовсе, а уже лет 10 как  поет и играет фанк и соул.'
     replies:
@@ -83,6 +82,5 @@ posts:
         риа новости написали "про блюз"
 
 
-        имелось ввиду, что годами и десятилетиями риа (где первая буква означает "российское")
-        в упор не замечало российский блюз, а тут вдруг и вмиг выяснилось, что есть
-        такая профессия - блюз на руси играть, и профессия эта доходна!'
+        имелось ввиду, что годами и десятилетиями риа (где первая буква означает "российское") в упор не замечало российский
+        блюз, а тут вдруг и вмиг выяснилось, что есть такая профессия - блюз на руси играть, и профессия эта доходна!'

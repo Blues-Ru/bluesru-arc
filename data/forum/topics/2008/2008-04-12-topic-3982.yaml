@@ -14,8 +14,8 @@ posts:
   deleted: false
   text: 'и встречаешь вот такое:
 
-    William, the future head of the Armed Forces, spent a year with the Household
-    Cavalry''s Blues and Royals before his stint with the Royal Air Force.
+    William, the future head of the Armed Forces, spent a year with the Household Cavalry''s Blues and Royals before his stint
+    with the Royal Air Force.
 
     - no comments'
   replies:
@@ -27,3 +27,4 @@ posts:
     subject: blues - это ещё и название таблеток наркотических
     deleted: false
     text: ну там они по цветам были - reds, greens, blues...
+    person_id: 335

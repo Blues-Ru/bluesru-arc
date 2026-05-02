@@ -19,9 +19,9 @@ posts:
     date: 2005-03-31 01:37
     poster: Yuri Kaverkin (Gekko)
     email: kaverkin@rol.ru
-    subject: Огромное спасибо за фотографии! Они отличные - охвачны практически все
-      джемовавшие!
+    subject: Огромное спасибо за фотографии! Они отличные - охвачны практически все джемовавшие!
     deleted: false
+    person_id: 1719
   - id: 20958
     parent_id: 20949
     date: 2005-03-31 11:57
@@ -29,6 +29,7 @@ posts:
     email: grems@yandex.ru
     subject: Ух ты... а Гия и Владан как два родных брата....похожи
     deleted: false
+    person_id: 1725
   - id: 20961
     parent_id: 20949
     date: 2005-03-31 13:10
@@ -53,5 +54,7 @@ posts:
         email: evdokimov@blues.ru
         subject: Фоторепортаж о концерте Two for the show
         deleted: false
-        text: <a href="/bluesnews/05Spring/PeraJoe/index.htm"><b>Фоторепортаж о концерте
-          Two for the show</b></a> дозрел.
+        text: <a href="/bluesnews/05Spring/PeraJoe/index.htm"><b>Фоторепортаж о концерте Two for the show</b></a> дозрел.
+        person_id: 4
+      person_id: 458
+  person_id: 5

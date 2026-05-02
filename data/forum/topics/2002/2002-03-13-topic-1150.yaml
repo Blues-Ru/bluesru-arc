@@ -24,6 +24,7 @@ posts:
     subject: типа да.
     deleted: false
     text: Жуки с Кожекиными вести будуть :-)
+    person_id: 24
   - id: 2093
     parent_id: 2087
     date: 2002-03-13 10:28
@@ -40,8 +41,7 @@ posts:
       email: sunny_boy@mail.ru
       subject: Посмотрим :-)
       deleted: false
-      text: Жук говорит, что у них новый басист УМЕЕТ ИГРАТЬ на басу! Вот уж заинтриговал!
-        :-))
+      text: Жук говорит, что у них новый басист УМЕЕТ ИГРАТЬ на басу! Вот уж заинтриговал! :-))
       replies:
       - id: 2111
         parent_id: 2096
@@ -51,6 +51,8 @@ posts:
         subject: А что же
         deleted: false
         text: сделали со старым-то? Неужели уволили?
+        person_id: 335
+      person_id: 82
   - id: 2149
     parent_id: 2087
     date: 2002-03-14 15:07
@@ -59,3 +61,4 @@ posts:
     subject: Типа да, будет, будет.
     deleted: false
     text: Не знаю как с интересным...
+    person_id: 93

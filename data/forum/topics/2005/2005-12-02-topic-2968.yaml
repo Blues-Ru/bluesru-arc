@@ -21,6 +21,7 @@ posts:
     subject: уже да?
     deleted: false
     text: ура!
+    person_id: 335
   - id: 24834
     parent_id: 24832
     date: 2005-12-02 15:05
@@ -37,8 +38,7 @@ posts:
       email: chifuroff<sobaka>inbox.ru
       subject: И кстати...
       deleted: false
-      text: Завтра в Доме У Дороги будет празднование этого события. Приглашаются
-        все желающие.
+      text: Завтра в Доме У Дороги будет празднование этого события. Приглашаются все желающие.
   - id: 24836
     parent_id: 24832
     date: 2005-12-02 15:30
@@ -55,6 +55,7 @@ posts:
       email: dr.nick@blues.ru
       subject: вот и я так подумал
       deleted: false
+      person_id: 335
   - id: 24842
     parent_id: 24832
     date: 2005-12-03 04:26
@@ -62,6 +63,7 @@ posts:
     email: mahatma@nm.ru
     subject: Поздраляю! тчк.
     deleted: false
+    person_id: 3869
   - id: 24843
     parent_id: 24832
     date: 2005-12-03 08:29
@@ -70,3 +72,5 @@ posts:
     subject: '!!!'
     deleted: false
     text: Петя! Будь здоров, дружище!
+    person_id: 301
+  person_id: 1725

@@ -12,8 +12,8 @@ posts:
   email: kaverkin@rol.ru
   subject: Ищу текст "My John the Conqueror Root" - у Блюз-
   deleted: false
-  text: мена Гаррика сами понимаете хрен чего допросишся. Так-что, если есть у кого
-    ссылка где поискать, подкинте please. Сеньк-ю, сами понимаете, вери мач!!!
+  text: мена Гаррика сами понимаете хрен чего допросишся. Так-что, если есть у кого ссылка где поискать, подкинте please.
+    Сеньк-ю, сами понимаете, вери мач!!!
   replies:
   - id: 12580
     parent_id: 12579
@@ -22,16 +22,13 @@ posts:
     email: dima@blues.ru
     subject: Оно?
     deleted: false
-    text: "MY JOHN THE CONQUER ROOT \n\nMy pistol may snap, my mojo is frail\nBut\
-      \ i rub my root, my luck will never fail\nWhen i rub my root, my John the Conquer\
-      \ root\nAww, you know there ain't nothin' she can do, Lord, \nI rub my John\
-      \ the Conquer root\n\n\nI was accused of murder in the first degree\nThe judge's\
-      \ wife cried, \"Let the man go free!\"\nI was rubbin' my root, my John the Conquer\
-      \ root\nAww, you know there ain't nothin' she can do, Lord, \nI rub my John\
-      \ the Conquer root\n\n\nOh, i can get in a game, don't have a dime,\nAll i have\
-      \ to do is rub my root, i win every time\nWhen i rub my root, my John the Conquer\
-      \ root\nAww, you know there ain't nothin' she can do, Lord, \nI rub my John\
-      \ the Conquer root"
+    text: "MY JOHN THE CONQUER ROOT \n\nMy pistol may snap, my mojo is frail\nBut i rub my root, my luck will never fail\n\
+      When i rub my root, my John the Conquer root\nAww, you know there ain't nothin' she can do, Lord, \nI rub my John the\
+      \ Conquer root\n\n\nI was accused of murder in the first degree\nThe judge's wife cried, \"Let the man go free!\"\n\
+      I was rubbin' my root, my John the Conquer root\nAww, you know there ain't nothin' she can do, Lord, \nI rub my John\
+      \ the Conquer root\n\n\nOh, i can get in a game, don't have a dime,\nAll i have to do is rub my root, i win every time\n\
+      When i rub my root, my John the Conquer root\nAww, you know there ain't nothin' she can do, Lord, \nI rub my John the\
+      \ Conquer root"
     replies:
     - id: 12600
       parent_id: 12580
@@ -49,3 +46,6 @@ posts:
         subject: Такой прекрасной лирики давно не читал...
         deleted: false
         text: И запоминается хорошо...
+        person_id: 458
+      person_id: 1719
+  person_id: 1719

@@ -34,6 +34,8 @@ posts:
       subject: AWB
       deleted: false
       text: я надеюсь, они White? :)
+      person_id: 335
+    person_id: 2
   - id: 37189
     parent_id: 37063
     date: 2010-11-12 22:16
@@ -41,3 +43,4 @@ posts:
     subject: да, здорово
     deleted: false
     text: Действительно клевая:) муж про них говорил, теперь, вот, послушать довелось.
+    person_id: 373

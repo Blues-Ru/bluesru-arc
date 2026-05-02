@@ -17,8 +17,7 @@ posts:
     Janiva Magness and Ronnie Earl Live at the Bull Run, Shirley, Ma. 04/18/13
 
 
-    <iframe width="560" height="315" src="http://www.youtube.com/embed/ehZFzfDxKfc"
-    frameborder="0" allowfullscreen></iframe>'
+    <iframe width="560" height="315" src="http://www.youtube.com/embed/ehZFzfDxKfc" frameborder="0" allowfullscreen></iframe>'
   replies:
   - id: 38930
     parent_id: 38929
@@ -26,17 +25,16 @@ posts:
     poster: Andrei V. Evdokimov
     subject: все хорошо... но вот это - вообще полный кайф!
     deleted: false
-    text: <iframe width="560" height="315" src="http://www.youtube.com/embed/m_kB-fhSdgk"
-      frameborder="0" allowfullscreen></iframe>
+    text: <iframe width="560" height="315" src="http://www.youtube.com/embed/m_kB-fhSdgk" frameborder="0" allowfullscreen></iframe>
+    person_id: 4
   - id: 38931
     parent_id: 38929
     date: 2013-04-29 02:52
     poster: Andrei V. Evdokimov
-    subject: 'Ana Popovic: Чудесная старая песня, которая называется "Деревенская
-      лачуга"'
+    subject: 'Ana Popovic: Чудесная старая песня, которая называется "Деревенская лачуга"'
     deleted: false
-    text: <iframe width="560" height="315" src="http://www.youtube.com/embed/GVZ9Ds8Xnro"
-      frameborder="0" allowfullscreen></iframe>
+    text: <iframe width="560" height="315" src="http://www.youtube.com/embed/GVZ9Ds8Xnro" frameborder="0" allowfullscreen></iframe>
+    person_id: 4
   - id: 38932
     parent_id: 38929
     date: 2013-04-29 02:53

@@ -11,9 +11,8 @@ posts:
   poster: Александр Сомов
   subject: А я всё про блюзовый календарь
   deleted: false
-  text: "Андрей, всё пишу вам на email исправления, но ответов давно не было.. \n\
-    В дополнение к отосланному, ещё сегодня родился\n\nPaul \"Lil' Buck\" SInegal,\
-    \ но не sEnegal."
+  text: "Андрей, всё пишу вам на email исправления, но ответов давно не было.. \nВ дополнение к отосланному, ещё сегодня родился\n\
+    \nPaul \"Lil' Buck\" SInegal, но не sEnegal."
   replies:
   - id: 39159
     parent_id: 39158
@@ -22,6 +21,7 @@ posts:
     subject: пишется то так, то эдак...
     deleted: false
     text: счас проверим, конечно
+    person_id: 4
   - id: 39160
     parent_id: 39158
     date: 2014-01-14 09:36
@@ -29,3 +29,4 @@ posts:
     subject: Ну на албожках своих альбомов он всегда пишет через I.
     deleted: false
     text: http://www.bluessearchengine.com/img/Lil_Buck_Sinegal.jpg
+    person_id: 7879

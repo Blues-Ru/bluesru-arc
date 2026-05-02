@@ -15,10 +15,9 @@ posts:
 
 
     <object width="500" height="310" data="http://media.rugion.ru/m/?id=4027" type="application/x-shockwave-flash"><param
-    name="id" value="player" /><param name="allowfullscreen" value="true" /><param
-    name="allowscriptaccess" value="always" /><param name="quality" value="high" /><param
-    name="bgcolor" value="#000000" /><param name="wmode" value="opaque" /><param name="src"
-    value="http://media.rugion.ru/m/?id=4027" /></object>'
+    name="id" value="player" /><param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always"
+    /><param name="quality" value="high" /><param name="bgcolor" value="#000000" /><param name="wmode" value="opaque" /><param
+    name="src" value="http://media.rugion.ru/m/?id=4027" /></object>'
   replies:
   - id: 37015
     parent_id: 37014
@@ -34,8 +33,8 @@ posts:
       poster: Эльдар
       subject: Blow, Tатарин, Blow!
       deleted: false
-      text: Бляха-муха! На акустической гитаре же играет Андрей Мардашов - наш человек
-        с Ашхабада!!!
+      text: Бляха-муха! На акустической гитаре же играет Андрей Мардашов - наш человек с Ашхабада!!!
+      person_id: 7202
     - id: 37017
       parent_id: 37015
       date: 2010-08-12 12:53
@@ -56,8 +55,7 @@ posts:
         poster: Andrei V. Evdokimov
         subject: вот как это было
         deleted: false
-        text: я посмотрел видео до конца, все было ок, скопировал код, вставил - картинки
-          не появилось, поэтому я даж урл.
+        text: я посмотрел видео до конца, все было ок, скопировал код, вставил - картинки не появилось, поэтому я даж урл.
         replies:
         - id: 37019
           parent_id: 37018
@@ -65,13 +63,11 @@ posts:
           poster: Федор Романенко
           subject: Санитайзер
           deleted: false
-          text: 'В форуме работает программа-санитайзер, которая вычищает потенциально-опасные
-            теги из сообщений. На роликах YouTube и пр. я его отстроил, чтобы он их
-            пропускал, а тут какой-то необычный видео-хостинг, я с ним попозже разберусь.
+          text: 'В форуме работает программа-санитайзер, которая вычищает потенциально-опасные теги из сообщений. На роликах
+            YouTube и пр. я его отстроил, чтобы он их пропускал, а тут какой-то необычный видео-хостинг, я с ним попозже разберусь.
 
 
-            Эльдар жалуется, что он видео начинает смотреть, и оно зависает на 50-й
-            секунде.'
+            Эльдар жалуется, что он видео начинает смотреть, и оно зависает на 50-й секунде.'
           replies:
           - id: 37021
             parent_id: 37019
@@ -79,8 +75,8 @@ posts:
             poster: Эльдар
             subject: и Opera, и Firefox...
             deleted: false
-            text: 'Странно, я пытался с Opera и c Mozilla Firefox - ризалт одинаковый:
-              останавливается в том же месте на 49 сек.
+            text: 'Странно, я пытался с Opera и c Mozilla Firefox - ризалт одинаковый: останавливается в том же месте на 49
+              сек.
 
               Блин, ну хочется на земляка-то свава посмотреть...'
             replies:
@@ -91,6 +87,7 @@ posts:
               subject: Сеть?
               deleted: false
               text: Так, может, сеть? Просто тебе перестают файл присылать?
+              person_id: 2
             - id: 37023
               parent_id: 37021
               date: 2010-08-13 11:39
@@ -98,16 +95,19 @@ posts:
               subject: работает
               deleted: false
               text: я проверил на всякий случай - все показывает от и до....
+              person_id: 4
+        person_id: 4
     - id: 37020
       parent_id: 37015
       date: 2010-08-12 14:29
       poster: Федор Романенко
       subject: Казань
       deleted: false
-      text: Я чуть-чуть покопал в интернете, в Казани есть очень старая большая группа
-        Jive, которая играет джаз, ритм-н-блюз, блюз, соул, фанк. Они создали и опекали
-        единственный джазовый клуб в Казани - Jolly Roger. Сейчас они дружат с дуэтом
+      text: Я чуть-чуть покопал в интернете, в Казани есть очень старая большая группа Jive, которая играет джаз, ритм-н-блюз,
+        блюз, соул, фанк. Они создали и опекали единственный джазовый клуб в Казани - Jolly Roger. Сейчас они дружат с дуэтом
         "Братья Блюз", устраивают совместные концерты и пр.
+      person_id: 2
+    person_id: 4
   - id: 37032
     parent_id: 37014
     date: 2010-08-24 12:47

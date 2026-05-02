@@ -12,8 +12,8 @@ posts:
   email: ekaterina-design@yandex.ru
   subject: просьба
   deleted: false
-  text: в программе а. калачёва звучала пара песен.то ли название группы all stars
-    rewiew,то ли альбома.ещё присутсвола фраза:соколята на все времена:.никто не знает?
+  text: в программе а. калачёва звучала пара песен.то ли название группы all stars rewiew,то ли альбома.ещё присутсвола фраза:соколята
+    на все времена:.никто не знает?
   replies:
   - id: 31570
     parent_id: 31562
@@ -23,3 +23,4 @@ posts:
     subject: Калачев
     deleted: false
     text: Ему можно написать и спрасить, e-mail есть на его сайте www.bluesnews.ru
+    person_id: 2

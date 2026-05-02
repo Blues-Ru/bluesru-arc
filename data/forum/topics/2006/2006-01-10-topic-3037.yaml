@@ -12,8 +12,7 @@ posts:
   email: grems@yandex.ru
   subject: Оксану Кочубей с ДР!!!
   deleted: false
-  text: Желаю Оксане и ее 2-x годовалому ребеночку(L-n-J)творческих успехов и новых
-    побед!!!
+  text: Желаю Оксане и ее 2-x годовалому ребеночку(L-n-J)творческих успехов и новых побед!!!
   replies:
   - id: 25373
     parent_id: 25372
@@ -43,6 +42,8 @@ posts:
         subject: oh yeah mutha
         deleted: false
         text: you know!
+        person_id: 335
+    person_id: 335
   - id: 25381
     parent_id: 25372
     date: 2006-01-10 20:18
@@ -76,8 +77,7 @@ posts:
           email: gypsy@mail.ru
           subject: Моя бабушка говорила "целуй всех кто под руку попадётся" )))
           deleted: false
-          text: Вот Руслан и попался! Потому как Оксана от нас отдалилась, а Руслан
-            постоянно где-то рядом крутится.
+          text: Вот Руслан и попался! Потому как Оксана от нас отдалилась, а Руслан постоянно где-то рядом крутится.
           replies:
           - id: 25408
             parent_id: 25405
@@ -86,6 +86,7 @@ posts:
             email: chifuroff<sobaka>inbox.ru
             subject: Старый Майор ЖЖОТ как всегда :-)))))
             deleted: false
+            person_id: 2888
           - id: 25410
             parent_id: 25405
             date: 2006-01-12 00:49
@@ -97,3 +98,7 @@ posts:
 
 
               не всегда надо старших слушать (особенно дамам)'
+        person_id: 335
+      person_id: 4384
+    person_id: 2888
+  person_id: 1725

@@ -12,8 +12,8 @@ posts:
   email: peregnoy@mail.ru
   subject: 5 апреля "Blues Cousins" в ЦДХ
   deleted: false
-  text: "Леван & Co приглашают на концерт-презентацию своего альбома \n\"Blues Drives\
-    \ My Car\". \n5 Апреля, Москва, ЦДХ, 19.00. \n\nинфа с www.guitars.ru"
+  text: "Леван & Co приглашают на концерт-презентацию своего альбома \n\"Blues Drives My Car\". \n5 Апреля, Москва, ЦДХ, 19.00.\
+    \ \n\nинфа с www.guitars.ru"
   replies:
   - id: 2861
     parent_id: 2857
@@ -23,3 +23,4 @@ posts:
     subject: Леван в В.В.Kinge.
     deleted: false
     text: На Ломидзе хоть в БИБИРЕВО, это же матерый человечище.
+    person_id: 783

@@ -1,7 +1,6 @@
 topic_id: 4212
 slug: topic-4212
-title: Про черный бриллиант в золоченой оправе, чьи вокальные данные поражали даже
-  видавших виды.
+title: Про черный бриллиант в золоченой оправе, чьи вокальные данные поражали даже видавших виды.
 first_post: 2009-04-12 23:33
 last_post: 2009-04-14 16:34
 post_count: 7
@@ -11,11 +10,9 @@ posts:
   date: 2009-04-12 23:33
   poster: Andrei V. Evdokimov (evdokimov)
   email: evdokimov@blues.ru
-  subject: Про черный бриллиант в золоченой оправе, чьи вокальные данные поражали
-    даже видавших виды.
+  subject: Про черный бриллиант в золоченой оправе, чьи вокальные данные поражали даже видавших виды.
   deleted: false
-  text: "тут - \n<a href=\"http://www.dni.ru/showbiz/2009/3/29/162724.html\" target=\"\
-    _blank\">http://www.dni.ru/showbiz/2009/3/29/162724.html</a>"
+  text: "тут - \n<a href=\"http://www.dni.ru/showbiz/2009/3/29/162724.html\" target=\"_blank\">http://www.dni.ru/showbiz/2009/3/29/162724.html</a>"
   replies:
   - id: 36283
     parent_id: 36282
@@ -57,8 +54,11 @@ posts:
             email: aaa@genebee.msu.su
             subject: В 99-м году
             deleted: false
-            text: мы со старшей сестрой встретились на одном корпоративе. Она пела
-              с каким-то джазом. Поговорили. In corpora впечатляет. Море обаяния.
+            text: мы со старшей сестрой встретились на одном корпоративе. Она пела с каким-то джазом. Поговорили. In corpora
+              впечатляет. Море обаяния.
+            person_id: 458
+          person_id: 4
+      person_id: 4
   - id: 36288
     parent_id: 36282
     date: 2009-04-13 17:33
@@ -67,3 +67,4 @@ posts:
     subject: ты радуешь
     deleted: false
     text: кого-то из них видел тут недалеко от бауманской
+    person_id: 335

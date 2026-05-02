@@ -20,6 +20,7 @@ posts:
     subject: Sugar Blue
     deleted: false
     text: James Whiting
+    person_id: 7278
   - id: 36744
     parent_id: 36742
     date: 2009-12-13 17:38
@@ -27,6 +28,7 @@ posts:
     subject: Sugar Blue
     deleted: false
     text: Только он, пардон, не гитарист..... .
+    person_id: 7278
   - id: 36745
     parent_id: 36742
     date: 2009-12-13 17:55
@@ -41,8 +43,7 @@ posts:
       poster: Федор Романенко
       subject: Японец Moto Makino?
       deleted: false
-      text: Он же Motoaki Makino. Только он мне совсем не понравился, играл какой-то
-        фьюжн невыразительный на блюзовом концерте....
+      text: Он же Motoaki Makino. Только он мне совсем не понравился, играл какой-то фьюжн невыразительный на блюзовом концерте....
       replies:
       - id: 36747
         parent_id: 36746
@@ -50,8 +51,10 @@ posts:
         poster: Pumpkinhead
         subject: Да!
         deleted: false
-        text: Спасибо! Я ММДМе, к сожалению, не был, а вот в клубе он прекрасно саккомпанировал,
-          весьма и весьма.
+        text: Спасибо! Я ММДМе, к сожалению, не был, а вот в клубе он прекрасно саккомпанировал, весьма и весьма.
+        person_id: 2907
+      person_id: 2
+    person_id: 2907
   - id: 36755
     parent_id: 36742
     date: 2009-12-17 03:21
@@ -67,3 +70,6 @@ posts:
       subject: Вношу!..
       deleted: false
       text: Меня Motoaki Makino интересовал. Он молодец.
+      person_id: 2907
+    person_id: 4
+  person_id: 2907

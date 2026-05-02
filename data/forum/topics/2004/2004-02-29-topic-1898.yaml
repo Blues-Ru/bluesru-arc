@@ -15,15 +15,13 @@ posts:
   text: 'http://www.allmusic.com/cg/amg.dll?p=amg&uid=UIDMISS70402282054171130&sql=Axauvad5kv8w4
 
 
-    Невероятное сочетание блюза, фанка, джаза, соула, кантри и южного рока! Все это
-    из Техаса и под простым и емким названием Текс-Мекс-музыка. Латинские ритмы и
-    духовые, джаз и блюз, кантри и соул. Тут много известных и понятных людей, но
-    особенно радует присутствие Доктора Джона на альбоме.
+    Невероятное сочетание блюза, фанка, джаза, соула, кантри и южного рока! Все это из Техаса и под простым и емким названием
+    Текс-Мекс-музыка. Латинские ритмы и духовые, джаз и блюз, кантри и соул. Тут много известных и понятных людей, но особенно
+    радует присутствие Доктора Джона на альбоме.
 
 
-    Оценка 5 баллов. 11 отличных треков; все вещи разные, так что скучно не будет.
-    Надо выделить шикарные San Francisco FM Blues и Blue Horizon. Каж жаль, что всей
-    этой роскошной музыки нет на КД; а ведь это Atlantic Records...'
+    Оценка 5 баллов. 11 отличных треков; все вещи разные, так что скучно не будет. Надо выделить шикарные San Francisco FM
+    Blues и Blue Horizon. Каж жаль, что всей этой роскошной музыки нет на КД; а ведь это Atlantic Records...'
   replies:
   - id: 17390
     parent_id: 17386
@@ -75,11 +73,9 @@ posts:
           date: 2004-03-01 21:30
           poster: Старый пират
           email: gypsy@mail.ru
-          subject: А давай.. цифруй! он клёвый музыкант.. я сначала не мог врубиться
-            долго..
+          subject: А давай.. цифруй! он клёвый музыкант.. я сначала не мог врубиться долго..
           deleted: false
-          text: ..что в нём такого.. вроде играет ну как с бодуна в кантри-клубе..
-            а как вслушался.. =))
+          text: ..что в нём такого.. вроде играет ну как с бодуна в кантри-клубе.. а как вслушался.. =))
           replies:
           - id: 17437
             parent_id: 17433
@@ -89,6 +85,8 @@ posts:
             subject: сделаю!
             deleted: false
             text: свяжемся!
+            person_id: 335
+          person_id: 13
     - id: 17434
       parent_id: 17428
       date: 2004-03-01 21:58
@@ -96,9 +94,8 @@ posts:
       email: gypsy@mail.ru
       subject: Ссылка тут...
       deleted: false
-      text: "http://gypsy.bluesman.ru/DougSahm/\n\nтам пока один T-Bone Shuffle..\
-        \ но КАК он его делает! настоящая техасская лень в каждой ноте! \n\nДля сравнения\
-        \ в разделе http://gypsy.bluesman.ru/T-Bone%20Shuffle/ разные варианты исполнения\
+      text: "http://gypsy.bluesman.ru/DougSahm/\n\nтам пока один T-Bone Shuffle.. но КАК он его делает! настоящая техасская\
+        \ лень в каждой ноте! \n\nДля сравнения в разделе http://gypsy.bluesman.ru/T-Bone%20Shuffle/ разные варианты исполнения\
         \ этого бессмертного произведения =))"
       replies:
       - id: 17438
@@ -117,10 +114,9 @@ posts:
           email: gypsy@mail.ru
           subject: Ты сам не путай! почитай на своём любимом allmusic!
           deleted: false
-          text: "http://www.allmusic.com/cg/amg.dll?p=amg&uid=UIDMISS70311131255370644&sql=Aih9as30ua3rg\n\
-            \nThe Last Real Texas Blues Band Feat. Doug Sahm\n\nDoug Sahm  -  Guitar,\
-            \ Piano, Vocals, Producer, Liner Notes, Horn \nArrangements, Mixing \n\
-            \nтак что вполне он гитарист, как и Denny Freeman"
+          text: "http://www.allmusic.com/cg/amg.dll?p=amg&uid=UIDMISS70311131255370644&sql=Aih9as30ua3rg\n\nThe Last Real\
+            \ Texas Blues Band Feat. Doug Sahm\n\nDoug Sahm  -  Guitar, Piano, Vocals, Producer, Liner Notes, Horn \nArrangements,\
+            \ Mixing \n\nтак что вполне он гитарист, как и Denny Freeman"
           replies:
           - id: 17455
             parent_id: 17450
@@ -142,8 +138,7 @@ posts:
               date: 2004-03-02 19:32
               poster: Старый майор
               email: gypsy@mail.ru
-              subject: Не вся его музыка хороша, однако.. есть весьма унылые текс-мексовские
-                пиесы..
+              subject: Не вся его музыка хороша, однако.. есть весьма унылые текс-мексовские пиесы..
               deleted: false
               replies:
               - id: 17465
@@ -175,3 +170,9 @@ posts:
                     subject: да ладно тебе
                     deleted: false
                     text: уже почти записал
+                    person_id: 335
+                  person_id: 13
+                person_id: 335
+              person_id: 13
+        person_id: 335
+    person_id: 13

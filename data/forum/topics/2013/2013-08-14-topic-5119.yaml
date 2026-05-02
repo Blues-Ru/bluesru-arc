@@ -9,11 +9,9 @@ posts:
   parent_id: null
   date: 2013-08-14 00:10
   poster: Andrei V. Evdokimov
-  subject: Annie Raines как бы между прочим раскрывает тайну басовитости Sonny Boy
-    Williamson
+  subject: Annie Raines как бы между прочим раскрывает тайну басовитости Sonny Boy Williamson
   deleted: false
-  text: <iframe width="560" height="315" src="//www.youtube.com/embed/xPt12fAbWfU"
-    frameborder="0" allowfullscreen></iframe>
+  text: <iframe width="560" height="315" src="//www.youtube.com/embed/xPt12fAbWfU" frameborder="0" allowfullscreen></iframe>
   replies:
   - id: 39072
     parent_id: 39071
@@ -22,3 +20,5 @@ posts:
     subject: 'еще 68 уроков игры на губной гармонике:'
     deleted: false
     text: http://truefire.com/techniques-guitar-lessons/blues-harmonica-blueprint/
+    person_id: 4
+  person_id: 4

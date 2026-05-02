@@ -11,8 +11,7 @@ posts:
   poster: Andrei V. Evdokimov
   subject: азбуку тоже надо перечитывать... регулярно
   deleted: false
-  text: <iframe width="560" height="315" src="http://www.youtube.com/embed/HleLTn60BxE"
-    frameborder="0" allowfullscreen></iframe>
+  text: <iframe width="560" height="315" src="http://www.youtube.com/embed/HleLTn60BxE" frameborder="0" allowfullscreen></iframe>
   replies:
   - id: 39003
     parent_id: 39002
@@ -83,3 +82,10 @@ posts:
                   poster: Andrei V. Evdokimov
                   subject: а нэту
                   deleted: false
+                  person_id: 4
+                person_id: 13
+              person_id: 4
+            person_id: 13
+        person_id: 13
+    person_id: 13
+  person_id: 4

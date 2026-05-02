@@ -12,8 +12,8 @@ posts:
   email: anril@nm.ru
   subject: Посоветуйте блюз
   deleted: false
-  text: 'Топ 10 вещей, которые должны быть в коллекции. Недавно увлекся этого рода
-    музыкой и понял что быстро разобратся в таком разнообразии будет сложно.
+  text: 'Топ 10 вещей, которые должны быть в коллекции. Недавно увлекся этого рода музыкой и понял что быстро разобратся в
+    таком разнообразии будет сложно.
 
     Очень хотел бы послушать хорошую блюзовую гитару- даже без вокала.
 
@@ -37,11 +37,9 @@ posts:
       email: gypsy@mail.ru
       subject: Я хочу предупредить..
       deleted: false
-      text: '..что материал будет сопротивляться. У старых мастеров нет такой внешней
-        эффектности, которую нарабатывали guitar heroes 70-x - 80-x. Если слушатель
-        до этого много слушал рок, блюз-рок и не к ночи будет помянут,  металллл,
-        то нужно будет поработать над собой, чтобы понять, что эти унылые потренькивания
-        - это на самом деле круто.
+      text: '..что материал будет сопротивляться. У старых мастеров нет такой внешней эффектности, которую нарабатывали guitar
+        heroes 70-x - 80-x. Если слушатель до этого много слушал рок, блюз-рок и не к ночи будет помянут,  металллл, то нужно
+        будет поработать над собой, чтобы понять, что эти унылые потренькивания - это на самом деле круто.
 
         Кто проходил этот этап, понимает, что я имею в виду.'
       replies:
@@ -52,10 +50,9 @@ posts:
         email: Нету
         subject: Да и вообще...
         deleted: false
-        text: 'Что значит топ 10? У меня вот топ 50 (альбомов) нужно брать как минимум,
-          чтобы не обделить вниманием тех. кто действительно мне ну ОЧЕНЬ нравится,
-          при том, что может так получиться, что мои топ50 будут иметь очень мало
-          общего с топ50 кого-нибудь другого.
+        text: 'Что значит топ 10? У меня вот топ 50 (альбомов) нужно брать как минимум, чтобы не обделить вниманием тех. кто
+          действительно мне ну ОЧЕНЬ нравится, при том, что может так получиться, что мои топ50 будут иметь очень мало общего
+          с топ50 кого-нибудь другого.
 
 
           В блюзе быстрого результата ждать нельзя. Да и вообще нигде нельзя.'
@@ -67,6 +64,7 @@ posts:
     subject: не может быть топ-10
     deleted: false
     text: надо топ-500 хотя бы
+    person_id: 335
   - id: 28670
     parent_id: 28663
     date: 2006-09-10 17:12
@@ -76,13 +74,11 @@ posts:
     deleted: false
     text: 'Чем больше будет топ, тем лучше! =)
 
-      2Старый Майор Вобщемто до этого я слушал разную музыку и в основном электронную.
-      Но в процессе поиска нового наткнулся на коллекцию блюзовых вещей, однако тк
-      блюзовой музыки много- мне весьма сложно разобраться что к чему. Я понимаю что
-      ты хотел сказать, но атмосферу блюза и "унылые потренькивания" я понял с самого
-      начала и с этим проблем у меня нет. Наоборот - собственно их и хочется послушать-
-      действительно хороший, настоящий- "блюзовый" блюз- без примесей рока и чегото
-      еще.'
+      2Старый Майор Вобщемто до этого я слушал разную музыку и в основном электронную. Но в процессе поиска нового наткнулся
+      на коллекцию блюзовых вещей, однако тк блюзовой музыки много- мне весьма сложно разобраться что к чему. Я понимаю что
+      ты хотел сказать, но атмосферу блюза и "унылые потренькивания" я понял с самого начала и с этим проблем у меня нет.
+      Наоборот - собственно их и хочется послушать- действительно хороший, настоящий- "блюзовый" блюз- без примесей рока и
+      чегото еще.'
     replies:
     - id: 28671
       parent_id: 28670
@@ -91,17 +87,14 @@ posts:
       email: dr.nick@blues.ru
       subject: Вам каких годов блюз нужен?
       deleted: false
-      text: 'Ведь есть записи еще 20-х годов. До 40-х годов - это архаика. Записи
-        жуткие, но много хороших артистов. Многие из них не дожили до 50-х и 60-х
-        когда появились хорошие записи.
+      text: 'Ведь есть записи еще 20-х годов. До 40-х годов - это архаика. Записи жуткие, но много хороших артистов. Многие
+        из них не дожили до 50-х и 60-х когда появились хорошие записи.
 
 
-        А есть современный блюз и блюз-рок (с 80-х годом все стараются быть как Стиви
-        Рэй Вон).
+        А есть современный блюз и блюз-рок (с 80-х годом все стараются быть как Стиви Рэй Вон).
 
 
-        Между этими периодами был "классический" период блюза. Но было много стилей
-        и подстилей. Что именно надо-то?'
+        Между этими периодами был "классический" период блюза. Но было много стилей и подстилей. Что именно надо-то?'
     - id: 28679
       parent_id: 28670
       date: 2006-09-11 18:42
@@ -109,21 +102,16 @@ posts:
       email: mlives_6@hotmail.com
       subject: Несколько рекомендаций
       deleted: false
-      text: "Если ознакомиться с самым настоящим и глубоким блюзом в золотое время\
-        \ 1945-1970, можно начинать примерно так \n\nMuddy Waters: The Best of Muddy\
-        \ Waters (Chess)\nDrop Down Mama (сборная) (Chess)\nHowlin' Wolf: \"Moaning\
-        \ in the Moonlight\" и \"Howlin' Wolf\" (Chess)\nSonny Boy Williamson: Down\
-        \ and Out Blues (иди best of) (Chess)\nBB King: Live at the Regal или Singing\
-        \ the Blues (Ace/MCA)\nT-Bone Walker: T-Bone's Blues (Atlantic)\nOtis Rush:\
-        \ The Cobra Recordings\nMagic Sam: West Side Soul (Delmark)\nJunior Wells:\
-        \ Hoodoo Man Blues (Delmark)\nBobby Bland: The Best Of (on Duke records)\n\
-        Lightnin' Hopkins: The Modern Recordings или the Herald Recordings \nAlbert\
-        \ King: Born Under a Bad Sign или King of the Blues Guitar (Stax)\nMississippi\
-        \ Fred McDowell The Blues (Arhoolie)\nJohn Lee Hooker: The Modern Recordings\
-        \ (Modern)\nElmore James: Best of the Early Years или любой альбом\nLowell\
-        \ Fulson: The Chess Recordings (Chess)\nLittle Walter: The Best of (Chess)\n\
-        Jimmy Rogers: California Bound или The Best of\nFreddy King: The best of (on\
-        \ Federal Records)"
+      text: "Если ознакомиться с самым настоящим и глубоким блюзом в золотое время 1945-1970, можно начинать примерно так\
+        \ \n\nMuddy Waters: The Best of Muddy Waters (Chess)\nDrop Down Mama (сборная) (Chess)\nHowlin' Wolf: \"Moaning in\
+        \ the Moonlight\" и \"Howlin' Wolf\" (Chess)\nSonny Boy Williamson: Down and Out Blues (иди best of) (Chess)\nBB King:\
+        \ Live at the Regal или Singing the Blues (Ace/MCA)\nT-Bone Walker: T-Bone's Blues (Atlantic)\nOtis Rush: The Cobra\
+        \ Recordings\nMagic Sam: West Side Soul (Delmark)\nJunior Wells: Hoodoo Man Blues (Delmark)\nBobby Bland: The Best\
+        \ Of (on Duke records)\nLightnin' Hopkins: The Modern Recordings или the Herald Recordings \nAlbert King: Born Under\
+        \ a Bad Sign или King of the Blues Guitar (Stax)\nMississippi Fred McDowell The Blues (Arhoolie)\nJohn Lee Hooker:\
+        \ The Modern Recordings (Modern)\nElmore James: Best of the Early Years или любой альбом\nLowell Fulson: The Chess\
+        \ Recordings (Chess)\nLittle Walter: The Best of (Chess)\nJimmy Rogers: California Bound или The Best of\nFreddy King:\
+        \ The best of (on Federal Records)"
       replies:
       - id: 28680
         parent_id: 28679
@@ -147,9 +135,8 @@ posts:
           email: mlives_6@hotmail.com
           subject: Дима
           deleted: false
-          text: Телефон не изменился.  Я был за границей некоторое время, и еще раз
-            уезжаю в пятницу.  У меня действительно проблема была с элекронным адресом,
-            но теперь все должно быть в порядке.  (Ты мне вроде раньше писал по другому
+          text: Телефон не изменился.  Я был за границей некоторое время, и еще раз уезжаю в пятницу.  У меня действительно
+            проблема была с элекронным адресом, но теперь все должно быть в порядке.  (Ты мне вроде раньше писал по другому
             адресу)
   - id: 28683
     parent_id: 28663
@@ -158,9 +145,7 @@ posts:
     email: blackcat@blues.ru
     subject: если речь идёт о гитаре
     deleted: false
-    text: "Muddy Waters \"His Best 1947 - 1955\"\nRobert Johnson \"Complete Recordings\"\
-      \nHowling Wolf \"His Best\" (Chess)\nJ.B. Lenoir \"Alabama Blues\"\nJohn Lee\
-      \ Hooker \"The Legendary Modern Recordings\" \nT-Bone Walker \"The Very Best\
-      \ of T-Bone Walker\" (Koch)\nElmore James \"The Best of Elmore James: The Early\
-      \ Years\" (Ace)\nB.B. King \"Live at the Regal\"\nBuddy Guy \"I Was Walking\
-      \ Through the Woods\"\nAlbert King \"King of the Blues Guitar\" (Atlantic)"
+    text: "Muddy Waters \"His Best 1947 - 1955\"\nRobert Johnson \"Complete Recordings\"\nHowling Wolf \"His Best\" (Chess)\n\
+      J.B. Lenoir \"Alabama Blues\"\nJohn Lee Hooker \"The Legendary Modern Recordings\" \nT-Bone Walker \"The Very Best of\
+      \ T-Bone Walker\" (Koch)\nElmore James \"The Best of Elmore James: The Early Years\" (Ace)\nB.B. King \"Live at the\
+      \ Regal\"\nBuddy Guy \"I Was Walking Through the Woods\"\nAlbert King \"King of the Blues Guitar\" (Atlantic)"

@@ -13,8 +13,8 @@ posts:
   subject: Первое видео Траута + Dr. Nick
   deleted: false
   text: <object width="425" height="355"><param name="movie" value="http://www.youtube.com/v/04jDBB675LU&hl=en"></param><param
-    name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/04jDBB675LU&hl=en"
-    type="application/x-shockwave-flash" wmode="transparent" width="425" height="355"></embed></object>
+    name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/04jDBB675LU&hl=en" type="application/x-shockwave-flash"
+    wmode="transparent" width="425" height="355"></embed></object>
   replies:
   - id: 35161
     parent_id: 35158
@@ -24,6 +24,7 @@ posts:
     subject: Dr. Nick - это название группы :)
     deleted: false
     text: а тут Рик на басу :)
+    person_id: 335
   - id: 35162
     parent_id: 35158
     date: 2008-04-01 07:13
@@ -40,3 +41,4 @@ posts:
       email: vjvjkhg@ojho.bn
       subject: OK
       deleted: false
+    person_id: 335

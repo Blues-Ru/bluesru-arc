@@ -12,8 +12,8 @@ posts:
   email: kotmatrs@mail.ru
   subject: Умер Али Фарка.
   deleted: false
-  text: One of Africa's best known musicians, Ali Farka Toure, dies in his home country,
-    Mali, after a long illness. (BBC News)
+  text: One of Africa's best known musicians, Ali Farka Toure, dies in his home country, Mali, after a long illness. (BBC
+    News)
   replies:
   - id: 26500
     parent_id: 26499
@@ -74,8 +74,10 @@ posts:
             text: 'У меня в локальном архиве нету, а вот у людей есть:
 
 
-              !wldflwr ali farka tour&#233; & ry cooder - talking timbuktu - 01 -
-              bonde.mp3  [6.3 MB]... (весь список не привожу из экономии)
+              !wldflwr ali farka tour&#233; & ry cooder - talking timbuktu - 01 - bonde.mp3  [6.3 MB]... (весь список не привожу
+              из экономии)
 
 
               (сеть UNDERNET, канал #mp3blues)'
+      person_id: 4
+  person_id: 2824

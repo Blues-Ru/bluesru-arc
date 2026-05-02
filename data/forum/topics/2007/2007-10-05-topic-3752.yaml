@@ -12,8 +12,8 @@ posts:
   email: rag@mail.ru
   subject: Vsem Privet iz Clarksdale!
   deleted: false
-  text: 'Zdes dovolno zharko, zhivem v funky motele Southern Inn. Vse ochen po bluzovomu
-    )) Sejchas edem na Festival poslushat, igraem zavtra.
+  text: 'Zdes dovolno zharko, zhivem v funky motele Southern Inn. Vse ochen po bluzovomu )) Sejchas edem na Festival poslushat,
+    igraem zavtra.
 
     Vsem privet!
 
@@ -43,3 +43,4 @@ posts:
         email: sunny_city@mail.ru
         subject: Вопрос снимаетя. Все нашел.
         deleted: false
+    person_id: 5

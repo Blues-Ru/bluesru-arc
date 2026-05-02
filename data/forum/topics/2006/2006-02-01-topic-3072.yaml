@@ -12,33 +12,24 @@ posts:
   email: aaa@genebee.msu.su
   subject: Эти дни в истории блюза...
   deleted: false
-  text: "Лерой Фостер? Я узнал немного другую историю, из которой следует, что автора\
-    \ звали Preston Foster, и что его авторство подтверждено в суде. Судите сами:\n\
-    \nPerhaps the most enduring song in the Baton catalog is \"Got My Mojo Working\
-    \ (But It Just Won't Work on You),\" written by Preston Foster and first recorded\
-    \ by singer Ann Cole in 1957. Rabinowitz still owns the copyright to \"Mojo\"\
-    \ through his publishing company, Dare Music, but he has had to fight for it more\
-    \ than once.\n\nHis first antagonist was Muddy Waters, who also claimed to have\
-    \ written \"Mojo\" and put out a version on Chess Records the same week as Cole's\
-    \ version on Baton. While Cole's blistering version was more popular at the time,\
-    \ the song has since come to be associated with Waters. \n\nAccording to Sandra\
-    \ Tooze's just-published Waters biography, \"The Mojo Man,\" Waters was on tour\
-    \ with Cole and appropriated the song after hearing her sing it (which was why\
-    \ Rabinowitz always pleaded with his artists not to perform unreleased material).\
-    \ Eventually the matter went to court, where it was ruled that Foster was indeed\
-    \ the composer -- although \"Mojo\" sometimes still shows up credited to Waters.\n\
-    \nThat would not be the last legal challenge.\n\n\"Preston Foster is one of the\
-    \ shyest human beings I've ever met,\" Rabinowitz says. \"One time we were in\
-    \ the midst of a lawsuit with this terrible woman from California who claimed\
-    \ she owned 'Mojo,' and we wound up in federal court. She was trying to bribe\
-    \ people. It was awful. Preston was supposed to testify and after my lawyer met\
-    \ him, he said, 'We're gonna have to do something else. We can't put this guy\
-    \ on the stand.' We won that case anyway.\n\n\"Every six months I send Preston\
-    \ a check. He's basically still making a living from this song, which still earns\
-    \ $20,000 to $30,000 a year. I would guess it's been recorded by 150 or 200 artists,\
-    \ from Elvis Presley to Jimmy Smith. It's been done overseas a lot, too. I just\
-    \ received a CD from my Swedish licensee. One of the top blues singers in Sweden\
-    \ just recorded it with Swedish lyrics, and it's great.\""
+  text: "Лерой Фостер? Я узнал немного другую историю, из которой следует, что автора звали Preston Foster, и что его авторство\
+    \ подтверждено в суде. Судите сами:\n\nPerhaps the most enduring song in the Baton catalog is \"Got My Mojo Working (But\
+    \ It Just Won't Work on You),\" written by Preston Foster and first recorded by singer Ann Cole in 1957. Rabinowitz still\
+    \ owns the copyright to \"Mojo\" through his publishing company, Dare Music, but he has had to fight for it more than\
+    \ once.\n\nHis first antagonist was Muddy Waters, who also claimed to have written \"Mojo\" and put out a version on Chess\
+    \ Records the same week as Cole's version on Baton. While Cole's blistering version was more popular at the time, the\
+    \ song has since come to be associated with Waters. \n\nAccording to Sandra Tooze's just-published Waters biography, \"\
+    The Mojo Man,\" Waters was on tour with Cole and appropriated the song after hearing her sing it (which was why Rabinowitz\
+    \ always pleaded with his artists not to perform unreleased material). Eventually the matter went to court, where it was\
+    \ ruled that Foster was indeed the composer -- although \"Mojo\" sometimes still shows up credited to Waters.\n\nThat\
+    \ would not be the last legal challenge.\n\n\"Preston Foster is one of the shyest human beings I've ever met,\" Rabinowitz\
+    \ says. \"One time we were in the midst of a lawsuit with this terrible woman from California who claimed she owned 'Mojo,'\
+    \ and we wound up in federal court. She was trying to bribe people. It was awful. Preston was supposed to testify and\
+    \ after my lawyer met him, he said, 'We're gonna have to do something else. We can't put this guy on the stand.' We won\
+    \ that case anyway.\n\n\"Every six months I send Preston a check. He's basically still making a living from this song,\
+    \ which still earns $20,000 to $30,000 a year. I would guess it's been recorded by 150 or 200 artists, from Elvis Presley\
+    \ to Jimmy Smith. It's been done overseas a lot, too. I just received a CD from my Swedish licensee. One of the top blues\
+    \ singers in Sweden just recorded it with Swedish lyrics, and it's great.\""
   replies:
   - id: 25734
     parent_id: 25725
@@ -59,6 +50,7 @@ posts:
     subject: рабинович сражался не раз... и снова победил
     deleted: false
     text: да, это разные фостеры.
+    person_id: 4
   - id: 25742
     parent_id: 25725
     date: 2006-02-02 13:41

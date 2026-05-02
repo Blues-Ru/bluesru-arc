@@ -12,8 +12,7 @@ posts:
   email: sergey_ozone@mail.ru
   subject: canned heat
   deleted: false
-  text: Кто знает в каком из альбомов canned heat записана one bourbon one scotch
-    one beer?
+  text: Кто знает в каком из альбомов canned heat записана one bourbon one scotch one beer?
   replies:
   - id: 34869
     parent_id: 34866
@@ -22,15 +21,13 @@ posts:
     email: gypsy@mail.ru
     subject: Хороший вопрос. А играли ли они её вообще?
     deleted: false
-    text: 'Если посмотреть на AMG (http://www.allmusic.com/cg/amg.dll?p=amg&sql=11:wifwxqw5ldfe~3~T31C),
-      то в списке песен со всех зафиксированных там альбомов Canned Heat общим числом
-      более 2 десятков, такой песни не значится.
+    text: 'Если посмотреть на AMG (http://www.allmusic.com/cg/amg.dll?p=amg&sql=11:wifwxqw5ldfe~3~T31C), то в списке песен
+      со всех зафиксированных там альбомов Canned Heat общим числом более 2 десятков, такой песни не значится.
 
 
       Возможны следующие варианты:
 
-      1. Песня записана Canned Heat на альбоме, не каталогизированном AMG - например,
-      каком-нибудь бутлеге.
+      1. Песня записана Canned Heat на альбоме, не каталогизированном AMG - например, каком-нибудь бутлеге.
 
       2. Песня записана не группой Canned Heat.
 
@@ -47,9 +44,8 @@ posts:
       email: sergey_ozone@mail.ru
       subject: canned heat
       deleted: false
-      text: Возможно что я и ошибаюсь. Но , примерно 98 - 01гг. ,  в передаче весь
-        этот блюз Андрей зарядил эту музычку . Речь в передаче шла о творчестве Canned
-        .. и Джона Ли Хукера. Тогда я сделал запись, но она у меня пропала куда -
+      text: Возможно что я и ошибаюсь. Но , примерно 98 - 01гг. ,  в передаче весь этот блюз Андрей зарядил эту музычку .
+        Речь в передаче шла о творчестве Canned .. и Джона Ли Хукера. Тогда я сделал запись, но она у меня пропала куда -
         то.
       replies:
       - id: 34880
@@ -59,9 +55,8 @@ posts:
         email: evdokimov@blues.ru
         subject: я не нашел )
         deleted: false
-        text: "Hooker N' Heat - Disc 1 1970 №10.Bottle Up And Go \n- это единственная\
-          \ песня хукера на питейную тему в альбоме кэннд хит. и то, там нет группы,\
-          \ это дуэт JLH с Элом Уилсоном."
+        text: "Hooker N' Heat - Disc 1 1970 №10.Bottle Up And Go \n- это единственная песня хукера на питейную тему в альбоме\
+          \ кэннд хит. и то, там нет группы, это дуэт JLH с Элом Уилсоном."
   - id: 34870
     parent_id: 34866
     date: 2008-03-10 15:13
@@ -69,6 +64,7 @@ posts:
     email: dr.nick@blues.ru
     subject: нет такого альбома вроде
     deleted: false
+    person_id: 335
   - id: 34872
     parent_id: 34866
     date: 2008-03-10 16:13
@@ -77,3 +73,4 @@ posts:
     subject: а была ещё One Scotch, One Bourbon, One Beer
     deleted: false
     text: http://www.allmusic.com/cg/amg.dll?p=amg&sql=17:1130363
+    person_id: 335

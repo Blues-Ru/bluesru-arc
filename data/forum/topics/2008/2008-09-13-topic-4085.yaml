@@ -53,6 +53,7 @@ posts:
         subject: Господи!!!
         deleted: false
         text: Почему его то?
+      person_id: 2824
   - id: 35778
     parent_id: 35768
     date: 2008-09-14 20:13
@@ -61,3 +62,5 @@ posts:
     subject: не хочется верить
     deleted: false
     text: Может быть, неправда всё-таки???
+    person_id: 6
+  person_id: 4

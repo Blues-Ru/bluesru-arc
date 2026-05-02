@@ -12,8 +12,7 @@ posts:
   email: aaa@genebee.msu.su
   subject: Tail Dragger
   deleted: false
-  text: приедет в Москву и будет играть 19, 20, 21 в "Доме у дороги", 22-го в Jazz
-    Town. По-русски не поет.
+  text: приедет в Москву и будет играть 19, 20, 21 в "Доме у дороги", 22-го в Jazz Town. По-русски не поет.
   replies:
   - id: 33601
     parent_id: 33600
@@ -39,3 +38,4 @@ posts:
 
 
       Юриваныч всех зовёт'
+  person_id: 458

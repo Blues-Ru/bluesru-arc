@@ -12,8 +12,7 @@ posts:
   email: maxbox73@mail.ru
   subject: Где взятьтексты, аккорды, табы блюзовых стандартов?
   deleted: false
-  text: "Братцы, подскажите кто знает, где залежи информации!\n Особо интересуют тексты.\
-    \ Буду благодарен!\n  maxbox"
+  text: "Братцы, подскажите кто знает, где залежи информации!\n Особо интересуют тексты. Буду благодарен!\n  maxbox"
   replies:
   - id: 4277
     parent_id: 4261
@@ -22,9 +21,8 @@ posts:
     email: morehemp@mail.ru
     subject: С залежами сложно,
     deleted: false
-    text: "но немного текстов есть вот здесь: \n\nhttp://www.klte.hu/~klamp/blues/lyrics/\n\
-      \nНу я, правда, и не братец, sorry :))\nА вообще, посмотрите - здесь где-то\
-      \ в форуме вопрос о текстах уже поднимался."
+    text: "но немного текстов есть вот здесь: \n\nhttp://www.klte.hu/~klamp/blues/lyrics/\n\nНу я, правда, и не братец, sorry\
+      \ :))\nА вообще, посмотрите - здесь где-то в форуме вопрос о текстах уже поднимался."
   - id: 4280
     parent_id: 4261
     date: 2002-05-07 01:25
@@ -41,5 +39,6 @@ posts:
       email: maxbox73@mail.ru
       subject: благодарю
       deleted: false
-      text: "http://www.geocities.com/BourbonStreet/Delta/2541/az-singr.htm\n Спасибо\
-        \ за помощь! Может и вам ссылочка пригодится.\n maxbox."
+      text: "http://www.geocities.com/BourbonStreet/Delta/2541/az-singr.htm\n Спасибо за помощь! Может и вам ссылочка пригодится.\n\
+        \ maxbox."
+    person_id: 598

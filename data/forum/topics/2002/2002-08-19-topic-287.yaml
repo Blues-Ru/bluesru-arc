@@ -17,9 +17,8 @@ posts:
 
     Bim Sherman:  albomi Explotion, Crazy World.
 
-    Tindersticks: Donkeys (unrelized songs and singles), Curtains, Trouble every day,
-    + kakoi-to cherno-belii albom bez nazvanija, + albom s tancu''uschei devushkoi
-    na oblozke (po-moemu, devushka - ispanka).
+    Tindersticks: Donkeys (unrelized songs and singles), Curtains, Trouble every day, + kakoi-to cherno-belii albom bez nazvanija,
+    + albom s tancu''uschei devushkoi na oblozke (po-moemu, devushka - ispanka).
 
     Slapp Happy - zakonchilsja'
   replies:
@@ -69,8 +68,8 @@ posts:
         email: аыо
         subject: вот уж за кого согласен
         deleted: false
-        text: даже таким музыкантам как Закир Хуссейн и МакЛафлин(хотя это еще тот
-          гитаропользователь) умудрился напортить на MAking Music
+        text: даже таким музыкантам как Закир Хуссейн и МакЛафлин(хотя это еще тот гитаропользователь) умудрился напортить
+          на MAking Music
       - id: 6956
         parent_id: 6926
         date: 2002-08-20 15:52
@@ -82,6 +81,8 @@ posts:
 
 
           A chto s Grabarekom ne tak?'
+      person_id: 335
+    person_id: 783
   - id: 6922
     parent_id: 6908
     date: 2002-08-20 00:29
@@ -89,25 +90,18 @@ posts:
     email: morehemp@mail.ru
     subject: Sherman
     deleted: false
-    text: "Вот всё это он навыпускал. Больше половины - перепетые и пересведенные\
-      \ старые вещи. А где что - никакой информации :( И треклистов тоже нет.\nВозможно,\
-      \ первый четыре рекомендуется хотя бы послушать. Но уже во второй обещаются\
-      \ дабовые версии уже изданного на первой. \nЕсли нет первой, второй или четвертой,\
-      \ то никакой не надо.. наверное.\nА allmusic вообще с Crazy World отсылает к\
-      \ Scorpions с какой-то стати :) Ниччего не понимаю..\n\n\nLove Forever (Tribesman\
-      \ 1978) \nLovers Leap (Scorpio 1979) \nBim Sherman Meets Horace Andy And U Black,\
-      \ (Yard International 1982) \nAcross The Red Sea, (On-U-Sound 1982) \nBim Sherman\
-      \ And The Voluntary, (Century 1984) \nDanger, (Century 1984) \nAfrican Rubber\
-      \ Dub, (RDL 1987) \nHaunting Ground, (RDL/Revolver 1989) \nExploitation, (RDL/Revolver\
-      \ 1989) \nToo Hot, (Century 1990) \nMatrix Dub, (Century 1990) \nCrucial Cuts\
-      \ Vol. 1, (Century 1990) \nCrucial Cuts Vol. 2, (Century 1990) \nAfrican Rubber\
-      \ Dub Vol. 2, (Century 1991) \nCrazy World, (Century 1992) \nReality, (Century\
-      \ 1992) \nWiney Winey (Century 1992) \nLion Heart Dub, (Century 1993) \nThe\
-      \ Justice League Of Zion, (1994) \nWash Wash (With Groove Corporation), (Century\
-      \ 1995) \nMiracle, (Mantra 1996) \nIt Must Be A Dream, (Mantra 1997) \nRaw Raw\
-      \ Dub - African Rubber Dub Vol. 3, (Century 1993) \nTaken Off (Best Of), (Century\
-      \ 1999) \nLove Forever - The Classic Jamaican Recordings, (EFA/Century 1999)\
-      \ \nRub-A-Dub, (EFA/Century 2000) \n\nИ еще вышла в январе 2002 года пластинка\
-      \ \"The Need To Live\"\nВоть такие дела :) \n\nА весь этот Tindersticks есть\
-      \ у нас в магазинах.\nTrouble Every Day - это саундтрек к жуткому фильму про\
-      \ девушку людоедку, брр.. как вспомню.."
+    text: "Вот всё это он навыпускал. Больше половины - перепетые и пересведенные старые вещи. А где что - никакой информации\
+      \ :( И треклистов тоже нет.\nВозможно, первый четыре рекомендуется хотя бы послушать. Но уже во второй обещаются дабовые\
+      \ версии уже изданного на первой. \nЕсли нет первой, второй или четвертой, то никакой не надо.. наверное.\nА allmusic\
+      \ вообще с Crazy World отсылает к Scorpions с какой-то стати :) Ниччего не понимаю..\n\n\nLove Forever (Tribesman 1978)\
+      \ \nLovers Leap (Scorpio 1979) \nBim Sherman Meets Horace Andy And U Black, (Yard International 1982) \nAcross The Red\
+      \ Sea, (On-U-Sound 1982) \nBim Sherman And The Voluntary, (Century 1984) \nDanger, (Century 1984) \nAfrican Rubber Dub,\
+      \ (RDL 1987) \nHaunting Ground, (RDL/Revolver 1989) \nExploitation, (RDL/Revolver 1989) \nToo Hot, (Century 1990) \n\
+      Matrix Dub, (Century 1990) \nCrucial Cuts Vol. 1, (Century 1990) \nCrucial Cuts Vol. 2, (Century 1990) \nAfrican Rubber\
+      \ Dub Vol. 2, (Century 1991) \nCrazy World, (Century 1992) \nReality, (Century 1992) \nWiney Winey (Century 1992) \n\
+      Lion Heart Dub, (Century 1993) \nThe Justice League Of Zion, (1994) \nWash Wash (With Groove Corporation), (Century\
+      \ 1995) \nMiracle, (Mantra 1996) \nIt Must Be A Dream, (Mantra 1997) \nRaw Raw Dub - African Rubber Dub Vol. 3, (Century\
+      \ 1993) \nTaken Off (Best Of), (Century 1999) \nLove Forever - The Classic Jamaican Recordings, (EFA/Century 1999) \n\
+      Rub-A-Dub, (EFA/Century 2000) \n\nИ еще вышла в январе 2002 года пластинка \"The Need To Live\"\nВоть такие дела :)\
+      \ \n\nА весь этот Tindersticks есть у нас в магазинах.\nTrouble Every Day - это саундтрек к жуткому фильму про девушку\
+      \ людоедку, брр.. как вспомню.."

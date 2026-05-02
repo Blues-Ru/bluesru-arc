@@ -19,14 +19,11 @@ posts:
     date: 2004-04-27 19:12
     poster: Elicaster
     email: elicaster@mmmmmmmmmmmail.ru
-    subject: 'Dickey Betts & Great Southern - Willy And Po'' Bob: pазмер mp3 файла
-      5179 Kb'
+    subject: 'Dickey Betts & Great Southern - Willy And Po'' Bob: pазмер mp3 файла 5179 Kb'
     deleted: false
-    text: 'Allman Brothers & Dickey Betts/Dickey Betts & Great Southern - Willy And
-      Po'' Bob
+    text: 'Allman Brothers & Dickey Betts/Dickey Betts & Great Southern - Willy And Po'' Bob
 
-      Инфа для тех кто собирается скачать файл: размерчик не махонький: при моей скорости
-      быду качать более получаса:-('
+      Инфа для тех кто собирается скачать файл: размерчик не махонький: при моей скорости быду качать более получаса:-('
     replies:
     - id: 18188
       parent_id: 18185
@@ -35,8 +32,9 @@ posts:
       email: gypsy@mail.ru
       subject: Ну чем богаты, тем и рады..
       deleted: false
-      text: у меня есть ещё In Memory Of Elizabeth Reed почти тех же авторов  на 12
-        мегов, 10 минут звука.. а что делать, они хорошо кушали и от этого выросли..
+      text: у меня есть ещё In Memory Of Elizabeth Reed почти тех же авторов  на 12 мегов, 10 минут звука.. а что делать,
+        они хорошо кушали и от этого выросли..
+      person_id: 13
   - id: 18219
     parent_id: 18168
     date: 2004-04-27 21:12
@@ -47,3 +45,4 @@ posts:
     text: '... так же как и они :-)
 
       P.S. И вообще, приятного всем аппетита.'
+  person_id: 13

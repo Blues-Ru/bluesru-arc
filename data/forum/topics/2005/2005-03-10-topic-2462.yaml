@@ -21,6 +21,7 @@ posts:
     email: evdokimov@blues.ru
     subject: в 00.15, то бишь ночью пойдет (-)
     deleted: false
+    person_id: 4
   - id: 20631
     parent_id: 20626
     date: 2005-03-10 19:01
@@ -30,13 +31,12 @@ posts:
     deleted: false
     text: 'То есть O Brother, Where Art Thou.
 
-      У меня 4 канала Россия (разные часовые пояса). Только что закончился по первому
-      каналу России (для Дальнего Востока) и сразу началось по второму. Дело в том
-      что у нас почти в каждом доме цифровой тюнер. Дома (многоэтажки) выглядят как
+      У меня 4 канала Россия (разные часовые пояса). Только что закончился по первому каналу России (для Дальнего Востока)
+      и сразу началось по второму. Дело в том что у нас почти в каждом доме цифровой тюнер. Дома (многоэтажки) выглядят как
       разведывательные центры: все в тарелках :-)
 
-      Кто нибудь сможет подсказать: песня что пел чернокожий блюзмен Тони Джонсон,
-      когда они сидели у костра. Кто пел её и где её можно скачать?'
+      Кто нибудь сможет подсказать: песня что пел чернокожий блюзмен Тони Джонсон, когда они сидели у костра. Кто пел её и
+      где её можно скачать?'
     replies:
     - id: 20633
       parent_id: 20631
@@ -45,10 +45,9 @@ posts:
       email: mlives_6@hotmail.com
       subject: Chris Thomas King
       deleted: false
-      text: "Я сам фильма не видел, но слышал альбом.  Роль Tommy Johnson в фильме\
-        \ играл артист Chris Thomas King.  По-видному он пел Hard Time Killing Floor.\
-        \  Это песня не Tommy Johnson, a Skip James.   Где \"скачать\" я не знаю,\
-        \ но я очень рекомендую слушать и оригинальную версию Skip James. \n\nMuddy"
+      text: "Я сам фильма не видел, но слышал альбом.  Роль Tommy Johnson в фильме играл артист Chris Thomas King.  По-видному\
+        \ он пел Hard Time Killing Floor.  Это песня не Tommy Johnson, a Skip James.   Где \"скачать\" я не знаю, но я очень\
+        \ рекомендую слушать и оригинальную версию Skip James. \n\nMuddy"
       replies:
       - id: 20637
         parent_id: 20633
@@ -74,11 +73,9 @@ posts:
             email: elicaster(@)))mmmmmmmmmmail.ru
             subject: Лови ссылку
             deleted: false
-            text: 'Закачиваю эту песню Chris Thomas King - Hard Time Killing Floor
-              Blues  (2.5 Mb, 128 Kbps, 44 KHz, 02:42)
+            text: 'Закачиваю эту песню Chris Thomas King - Hard Time Killing Floor Blues  (2.5 Mb, 128 Kbps, 44 KHz, 02:42)
 
-              http://music.advertka.ru/music/chris thomas king - hard time killing
-              floor blues.mp3
+              http://music.advertka.ru/music/chris thomas king - hard time killing floor blues.mp3
 
               Скачал с помощью Kazaa Lite Revolution.'
   - id: 20652
@@ -108,3 +105,5 @@ posts:
         subject: .. там весь альбом очень интересный :)
         deleted: false
         text: но не все оценили :)
+        person_id: 5
+    person_id: 2351

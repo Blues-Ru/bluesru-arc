@@ -11,8 +11,7 @@ posts:
   poster: Andrei V. Evdokimov
   subject: ночная блюз-кинотека - Muddy Waters - 1976
   deleted: false
-  text: '<iframe width="480" height="360" src="//www.youtube.com/embed/ltLHsD_A9I4"
-    frameborder="0" allowfullscreen></iframe>
+  text: '<iframe width="480" height="360" src="//www.youtube.com/embed/ltLHsD_A9I4" frameborder="0" allowfullscreen></iframe>
 
 
     - отличного качества!'
@@ -24,3 +23,4 @@ posts:
     subject: Кайф-то какой!
     deleted: false
     text: Кайф, точка.
+    person_id: 458

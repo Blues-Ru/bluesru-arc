@@ -12,9 +12,8 @@ posts:
   email: dred@ok.ru
   subject: О предстоящем концерте Blues Cousins - где и когда?
   deleted: false
-  text: Я слышал, что в апреле пройдёт концерт группы Blues Cousins, на большой сцене,
-    а не в клубе. Ещё слышал, что концерт неоднократно переносился . Так всё же где
-    он будет, и когда?
+  text: Я слышал, что в апреле пройдёт концерт группы Blues Cousins, на большой сцене, а не в клубе. Ещё слышал, что концерт
+    неоднократно переносился . Так всё же где он будет, и когда?
   replies:
   - id: 11324
     parent_id: 11323
@@ -23,6 +22,7 @@ posts:
     email: sunny_city@mail.ru
     subject: Загляни на blues-cousins.ru
     deleted: false
+    person_id: 956
   - id: 11331
     parent_id: 11323
     date: 2003-03-31 20:00
@@ -31,3 +31,4 @@ posts:
     subject: Где и когда :)
     deleted: false
     text: ЦДХ, 25 апреля, пятница, 19:00
+    person_id: 712

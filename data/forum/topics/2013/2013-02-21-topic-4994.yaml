@@ -11,8 +11,8 @@ posts:
   poster: Andrei V. Evdokimov
   subject: юбилейная кинотека - к 80-летию со дня рождения Nina Simone
   deleted: false
-  text: <iframe width="560" height="315" src="http://www.youtube.com/embed/5dlrXCYrNYI?list=PL2E03AB3CB519E375"
-    frameborder="0" allowfullscreen></iframe>
+  text: <iframe width="560" height="315" src="http://www.youtube.com/embed/5dlrXCYrNYI?list=PL2E03AB3CB519E375" frameborder="0"
+    allowfullscreen></iframe>
   replies:
   - id: 38777
     parent_id: 38775
@@ -21,3 +21,5 @@ posts:
     subject: Нина
     deleted: false
     text: Симоун форева!
+    person_id: 335
+  person_id: 4

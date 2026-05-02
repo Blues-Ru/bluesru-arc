@@ -11,8 +11,7 @@ posts:
   poster: kawsar kawsar
   subject: купить комплектующие в сша
   deleted: false
-  text: через кого можно купить комплектующие для гитары и примочек в сша? кто-нибудь
-    подскажет?
+  text: через кого можно купить комплектующие для гитары и примочек в сша? кто-нибудь подскажет?
   replies:
   - id: 38698
     parent_id: 38696
@@ -30,3 +29,5 @@ posts:
     poster: Andrei V. Evdokimov
     subject: духходовочка - респект
     deleted: false
+    person_id: 4
+  person_id: 7046

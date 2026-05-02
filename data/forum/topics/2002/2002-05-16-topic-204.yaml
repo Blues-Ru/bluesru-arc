@@ -12,9 +12,8 @@ posts:
   email: fedor@blues.ru
   subject: VIDAR BUSK
   deleted: false
-  text: Как вы уже поняли, Бюск будет играть в Москве. Не пропустите! Это опрокидывает
-    раз и навсегда! ;) Эти гастроли - это то, над чем мы бились последние полгода,
-    а три года перед этим вынашивали в сердце. Все для вас! ;)
+  text: Как вы уже поняли, Бюск будет играть в Москве. Не пропустите! Это опрокидывает раз и навсегда! ;) Эти гастроли - это
+    то, над чем мы бились последние полгода, а три года перед этим вынашивали в сердце. Все для вас! ;)
   replies:
   - id: 4401
     parent_id: 4400
@@ -23,8 +22,8 @@ posts:
     email: dr.nick@blues.ru
     subject: I hope
     deleted: false
-    text: that you got two tickets for me and Veteran, boy? If you don't, you're dead
-      :)
+    text: that you got two tickets for me and Veteran, boy? If you don't, you're dead :)
+    person_id: 335
   - id: 4407
     parent_id: 4400
     date: 2002-05-16 15:48
@@ -33,3 +32,5 @@ posts:
     subject: феде (частное)
     deleted: false
     text: и этот человек обзывал мою "личную переписку" высокопарной :)
+    person_id: 4
+  person_id: 2

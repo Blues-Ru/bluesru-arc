@@ -9,8 +9,7 @@ posts:
   parent_id: null
   date: 2010-06-27 02:28
   poster: Tweety
-  subject: Подскажите, пожалуйста, из какой композиции использован отрывок в этом
-    видео?
+  subject: Подскажите, пожалуйста, из какой композиции использован отрывок в этом видео?
   deleted: false
   text: 'http://vkontakte.ru/video785057_139684142?noiphone
 
@@ -33,8 +32,7 @@ posts:
       poster: Tweety
       subject: 'Re: а не "one bottle, one scotch, one beer"???'
       deleted: false
-      text: оч. похоже, только в этой композиции, по-моему, инструментального соло
-        нет, как на видео
+      text: оч. похоже, только в этой композиции, по-моему, инструментального соло нет, как на видео
       replies:
       - id: 36969
         parent_id: 36968
@@ -43,3 +41,5 @@ posts:
         subject: One bourbon
         deleted: false
         text: Кукурузная. А так всё может быть.
+        person_id: 458
+      person_id: 7440

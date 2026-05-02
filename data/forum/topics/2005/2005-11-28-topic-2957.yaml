@@ -79,8 +79,7 @@ posts:
               email: volodya@blues.ru
               subject: русслан :)
               deleted: false
-              text: вот ты наехал на шаффлы :) какой шаффл для примера тебе кажется
-                скучным ? :)
+              text: вот ты наехал на шаффлы :) какой шаффл для примера тебе кажется скучным ? :)
               replies:
               - id: 24768
                 parent_id: 24767
@@ -96,8 +95,7 @@ posts:
                   date: 2005-11-29 13:20
                   poster: Yuri Kaverkin (Gekko)
                   email: kaverkin@rol.ru
-                  subject: Ну ты и боевит, Вова! Аж страшно на форум заходить стало...
-                    :-)
+                  subject: Ну ты и боевит, Вова! Аж страшно на форум заходить стало... :-)
                   deleted: false
                   replies:
                   - id: 24770
@@ -118,6 +116,7 @@ posts:
                     subject: гы
                     deleted: false
                     text: я просто спросил - я хочу понять суть вопроса.
+                    person_id: 5
                   - id: 24784
                     parent_id: 24769
                     date: 2005-11-29 21:25
@@ -125,8 +124,8 @@ posts:
                     email: dr.nick@blues.ru
                     subject: и не говори...
                     deleted: false
-                    text: я думал, он хиппи волосатый (типа тютя такой), а мне в привате
-                      такое про себя сказал, что у меня холодок по спине прошел...
+                    text: я думал, он хиппи волосатый (типа тютя такой), а мне в привате такое про себя сказал, что у меня
+                      холодок по спине прошел...
                     replies:
                     - id: 24793
                       parent_id: 24784
@@ -158,9 +157,9 @@ posts:
                             date: 2005-11-30 02:30
                             poster: Yuri Kaverkin (Gekko)
                             email: kaverkin@rol.ru
-                            subject: Злобный панк, злобный панк -взял угнал советский
-                              танк...Лирика....
+                            subject: Злобный панк, злобный панк -взял угнал советский танк...Лирика....
                             deleted: false
+                            person_id: 1719
                           - id: 24802
                             parent_id: 24796
                             date: 2005-11-30 04:08
@@ -168,8 +167,7 @@ posts:
                             email: dr.nick@blues.ru
                             subject: да?
                             deleted: false
-                            text: а про пинок? а про поддых? про остроносые башмаки?
-                              :)
+                            text: а про пинок? а про поддых? про остроносые башмаки? :)
                             replies:
                             - id: 24803
                               parent_id: 24802
@@ -187,6 +185,13 @@ posts:
                                 subject: Ужасы какие!!!
                                 deleted: false
                                 text: А я ведь подозревал.... ;)))
+                              person_id: 335
+                            person_id: 335
+                          person_id: 5
+                        person_id: 335
+                      person_id: 1719
+                    person_id: 335
+                  person_id: 1719
                 - id: 24774
                   parent_id: 24768
                   date: 2005-11-29 14:26
@@ -203,9 +208,8 @@ posts:
                     email: chifuroff @ inbox.ru
                     subject: И зесь потянется многокилометровая ветка :-)))))
                     deleted: false
-                    text: На самом деле всё хорошо в меру :-))))) Тут шаффл ни при
-                      чем. Просто если на протяжении всего концерта сплошные шаффлы,
-                      то начинаешь уставать.
+                    text: На самом деле всё хорошо в меру :-))))) Тут шаффл ни при чем. Просто если на протяжении всего концерта
+                      сплошные шаффлы, то начинаешь уставать.
                     replies:
                     - id: 24781
                       parent_id: 24778
@@ -214,8 +218,8 @@ posts:
                       email: volodya@blues.ru
                       subject: шаффл очень сложная штука...
                       deleted: false
-                      text: по мне так его у нас мало кто играет, так чтобы я сразу
-                        от него не устал :)))  но это мои собтсвенные глюки...
+                      text: по мне так его у нас мало кто играет, так чтобы я сразу от него не устал :)))  но это мои собтсвенные
+                        глюки...
                       replies:
                       - id: 24782
                         parent_id: 24781
@@ -257,9 +261,8 @@ posts:
                                 date: 2005-11-30 00:43
                                 poster: Yuri Kaverkin (Gekko)
                                 email: kaverkin@rol.ru
-                                subject: Отмокает наверное, после дня рождения;-)
-                                  Майоры, они завсегда после дня рождения отмокать
-                                  должны:-))
+                                subject: Отмокает наверное, после дня рождения;-) Майоры, они завсегда после дня рождения
+                                  отмокать должны:-))
                                 deleted: false
                                 replies:
                                 - id: 24795
@@ -270,6 +273,11 @@ posts:
                                   subject: да?
                                   deleted: false
                                   text: надо бы узнать, всё ли ОК
+                                  person_id: 335
+                                person_id: 1719
+                              person_id: 335
+                            person_id: 2888
+                  person_id: 5
               - id: 24817
                 parent_id: 24767
                 date: 2005-12-01 03:40
@@ -286,8 +294,7 @@ posts:
                   email: chifuroff<sobaka>inbox.ru
                   subject: Ага!
                   deleted: false
-                  text: Вот и епертуар уже намечается- "Смело Товарищи В Ногу" отлично
-                    на кантри-ритм ложится.
+                  text: Вот и епертуар уже намечается- "Смело Товарищи В Ногу" отлично на кантри-ритм ложится.
                   replies:
                   - id: 24822
                     parent_id: 24820
@@ -297,6 +304,12 @@ posts:
                     subject: эта песня не годится!
                     deleted: false
                     text: про НОГИ петь нельзя!
+                    person_id: 335
+                person_id: 335
+              person_id: 5
+          person_id: 335
+      person_id: 335
+    person_id: 2888
   - id: 24807
     parent_id: 24756
     date: 2005-11-30 12:56
@@ -314,3 +327,4 @@ posts:
       subject: как при чем?
       deleted: false
       text: блюзы там редкие!
+      person_id: 335

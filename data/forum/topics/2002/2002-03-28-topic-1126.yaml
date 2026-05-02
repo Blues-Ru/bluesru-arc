@@ -12,12 +12,10 @@ posts:
   email: vts13@hotmail.com
   subject: Три новые работы Роббена Форда
   deleted: false
-  text: 'В этом году вышли: ROBBEN FORD "BLUE MOON ", CHARLIE MUSSELWHITE "ONE NIGHT
-    IN AMERICA", VINNIE COLAIUTA, ROBBEN FORD, JIMMY HASLIP "JING CHI".Сразу скажу,что
-    мои впечатления основаны только на прослушанных 30-сек. фрагментах.Первый-как
-    будто по блюзу ,причем Форд саи поет.У MUSSELWHITE он естественно на гитаре,сам
-    альбом вроде кантри-блюз .И третий-  джаз-рок.Знаю,что здесь есть любители Форда,может
-    кто по-больше  в курсе.'
+  text: 'В этом году вышли: ROBBEN FORD "BLUE MOON ", CHARLIE MUSSELWHITE "ONE NIGHT IN AMERICA", VINNIE COLAIUTA, ROBBEN
+    FORD, JIMMY HASLIP "JING CHI".Сразу скажу,что мои впечатления основаны только на прослушанных 30-сек. фрагментах.Первый-как
+    будто по блюзу ,причем Форд саи поет.У MUSSELWHITE он естественно на гитаре,сам альбом вроде кантри-блюз .И третий-  джаз-рок.Знаю,что
+    здесь есть любители Форда,может кто по-больше  в курсе.'
   replies:
   - id: 2946
     parent_id: 2936
@@ -44,10 +42,10 @@ posts:
         email: vts13@hotmail.com
         subject: не поленился,
         deleted: false
-        text: слазил на CDNOW. Отрывок из ревью:Returning to his Memphis roots on
-          his first album for Telarc, the well-traveled Charlie Musselwhite effortlessly
-          mixes Chicago blues and rootsy gospel with the greasy, R&B-infused country
-          of the famed Tennessee city. Ну может и не совсем кантри:-).Слушать надо!
+        text: слазил на CDNOW. Отрывок из ревью:Returning to his Memphis roots on his first album for Telarc, the well-traveled
+          Charlie Musselwhite effortlessly mixes Chicago blues and rootsy gospel with the greasy, R&B-infused country of the
+          famed Tennessee city. Ну может и не совсем кантри:-).Слушать надо!
+    person_id: 750
   - id: 2947
     parent_id: 2936
     date: 2002-03-28 12:35
@@ -55,5 +53,4 @@ posts:
     email: vts13@hotmail.com
     subject: написано не "Мазельвайт ",а "У MUSSELWHITE "
     deleted: false
-    text: Речь то о Форде,читайте внимателнее. Насчет  сомнений по поводу кантри-блюза:сами
-      слушали?
+    text: Речь то о Форде,читайте внимателнее. Насчет  сомнений по поводу кантри-блюза:сами слушали?

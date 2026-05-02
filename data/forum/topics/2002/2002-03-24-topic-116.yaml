@@ -21,8 +21,7 @@ posts:
     email: heavyfuel@mtu-net.ru
     subject: Леван в В.В.Kinge
     deleted: false
-    text: Привел с собой друга. Он до этого блюза вообще не слыщал. Теперь клянчит
-      записи
+    text: Привел с собой друга. Он до этого блюза вообще не слыщал. Теперь клянчит записи
     replies:
     - id: 2485
       parent_id: 2480
@@ -32,3 +31,5 @@ posts:
       subject: ???
       deleted: false
       text: Ты правда Левана за блюз считаешь? Или издеваешься просто?
+    person_id: 783
+  person_id: 783

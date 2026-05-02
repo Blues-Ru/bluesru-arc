@@ -44,8 +44,7 @@ posts:
       poster: Dmitri Kazantsev
       subject: ???
       deleted: false
-      text: а где же Эйкройд и Белуши Младший? вроде как они настоящие Братья после
-        смерти Старшего
+      text: а где же Эйкройд и Белуши Младший? вроде как они настоящие Братья после смерти Старшего
       replies:
       - id: 37969
         parent_id: 37968
@@ -53,8 +52,10 @@ posts:
         poster: Федор Романенко
         subject: Группа
         deleted: false
-        text: Ну, тут же не написано, что Original Blues Brothers, а Original Blues
-          Brothers Band ;)
+        text: Ну, тут же не написано, что Original Blues Brothers, а Original Blues Brothers Band ;)
+        person_id: 2
+      person_id: 335
+    person_id: 2
   - id: 37965
     parent_id: 37962
     date: 2011-09-12 03:03
@@ -64,14 +65,15 @@ posts:
     text: 'http://www.biletsofit.ru/event/sid8840.html
 
 
-      Пара других музыкантов, игравших когда-то в каком-то из составов BB, под тем
-      же названием устраивает концерт 8 октября. Ну и ну, битва торговых марок...'
+      Пара других музыкантов, игравших когда-то в каком-то из составов BB, под тем же названием устраивает концерт 8 октября.
+      Ну и ну, битва торговых марок...'
   - id: 37967
     parent_id: 37962
     date: 2011-09-13 01:53
     poster: Старый Майор
     subject: Очередные сыновья лейтенанта Шмидта?
     deleted: false
+    person_id: 13
   - id: 37972
     parent_id: 37962
     date: 2011-09-13 12:47
@@ -87,3 +89,5 @@ posts:
       subject: В Нотоддене - был
       deleted: false
       text: тут - нет
+      person_id: 2
+    person_id: 7208

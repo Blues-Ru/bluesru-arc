@@ -22,6 +22,7 @@ posts:
     subject: можно уточнить?
     deleted: false
     text: дату и сабджект?
+    person_id: 4
   - id: 29303
     parent_id: 29301
     date: 2006-11-07 11:36
@@ -45,3 +46,4 @@ posts:
     subject: нельзя ж та к нервировать )
     deleted: false
     text: я думал опять jgtxfnrf
+    person_id: 4

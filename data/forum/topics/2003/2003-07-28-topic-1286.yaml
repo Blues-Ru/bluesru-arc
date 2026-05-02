@@ -12,14 +12,12 @@ posts:
   email: fedor@blues.ru
   subject: Levan news
   deleted: false
-  text: 'Greetings from America!! The Blues Cousins performed their first concert
-    in the USA on Friday, July 25 and were very warmly welcomed by the American blues
-    fans. Booking agents and promoters are already lining up to sign these guys for
+  text: 'Greetings from America!! The Blues Cousins performed their first concert in the USA on Friday, July 25 and were very
+    warmly welcomed by the American blues fans. Booking agents and promoters are already lining up to sign these guys for
     the 2004 US Tour.
 
-    They are all having a great time, Levan is in Seattle today shopping for a guitar
-    and Levan''s wife was looking forward to a big shopping trip also. If you''d like,
-    I will continue to provide updates for you as the tour continues.
+    They are all having a great time, Levan is in Seattle today shopping for a guitar and Levan''s wife was looking forward
+    to a big shopping trip also. If you''d like, I will continue to provide updates for you as the tour continues.
 
 
     John "Bear" Millner, Blues Cousins US Tour Manager'
@@ -32,3 +30,4 @@ posts:
     subject: Good boy.. good news
     deleted: false
     text: WISH I WERE HERE..(-)
+    person_id: 1725

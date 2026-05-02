@@ -12,8 +12,7 @@ posts:
   email: Эльдар
   subject: Ожидания в новом году
   deleted: false
-  text: Интересно, а будут ли в новом году новые композиции "Yandex On My Mind" и
-    "True Fine Тёща"?
+  text: Интересно, а будут ли в новом году новые композиции "Yandex On My Mind" и "True Fine Тёща"?
   replies:
   - id: 34172
     parent_id: 34168
@@ -69,6 +68,7 @@ posts:
             email: dr.nick@blues.ru
             subject: Yandex Comes My Baby
             deleted: false
+            person_id: 335
   - id: 34183
     parent_id: 34168
     date: 2007-12-25 04:47
@@ -76,8 +76,7 @@ posts:
     email: илоирлот
     subject: ))))
     deleted: false
-    text: насчет Висты  не так важно. Важно, на что эти окна выходят вообще.Теща не
-      тревожит,я так понимаю?))
+    text: насчет Висты  не так важно. Важно, на что эти окна выходят вообще.Теща не тревожит,я так понимаю?))
   - id: 34218
     parent_id: 34168
     date: 2007-12-29 15:13
@@ -86,3 +85,4 @@ posts:
     subject: будет кантри хит
     deleted: false
     text: With The Puting Again
+    person_id: 5

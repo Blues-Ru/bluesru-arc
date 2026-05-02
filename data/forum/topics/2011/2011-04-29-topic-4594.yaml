@@ -11,5 +11,5 @@ posts:
   poster: Cpt. Nemoff
   subject: На кого он похож?
   deleted: false
-  text: <iframe width="480" height="390" src="http://www.youtube.com/embed/ez0JVeSQ0tM"
-    frameborder="0" allowfullscreen></iframe>
+  text: <iframe width="480" height="390" src="http://www.youtube.com/embed/ez0JVeSQ0tM" frameborder="0" allowfullscreen></iframe>
+  person_id: 3623

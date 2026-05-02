@@ -11,8 +11,7 @@ posts:
   poster: Михаил Бирюков
   subject: svetboogieband.com
   deleted: false
-  text: 'Кто-нибудь знает - насовсем ли свёрнут проект официального сайта Svet Boogie
-    Band''а?
+  text: 'Кто-нибудь знает - насовсем ли свёрнут проект официального сайта Svet Boogie Band''а?
 
     При заходе выдаёт сообщение, что домен выставлен на продажу...'
   replies:
@@ -31,6 +30,7 @@ posts:
       subject: Спасибо!
       deleted: false
       text: '...'
+      person_id: 6
   - id: 37462
     parent_id: 37455
     date: 2011-03-29 15:15
@@ -43,8 +43,7 @@ posts:
       Expiration date: 27 Jan 2012 13:15:00
 
 
-      Т.е., скорее всего, он истек 27 января 2011, прошло более месяца, скорее всего,
-      домен утек.'
+      Т.е., скорее всего, он истек 27 января 2011, прошло более месяца, скорее всего, домен утек.'
     replies:
     - id: 37467
       parent_id: 37462
@@ -53,6 +52,7 @@ posts:
       subject: Спасибо...
       deleted: false
       text: '... за ответ.'
+      person_id: 6
   - id: 37463
     parent_id: 37455
     date: 2011-03-29 15:36
@@ -76,3 +76,6 @@ posts:
         subject: Спасибо...
         deleted: false
         text: '... тем не менее.'
+        person_id: 6
+      person_id: 7825
+    person_id: 7825

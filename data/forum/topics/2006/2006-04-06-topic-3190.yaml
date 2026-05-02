@@ -21,6 +21,7 @@ posts:
     email: aaa@genebee.msu.su
     subject: Чудо!
     deleted: false
+    person_id: 458
   - id: 26881
     parent_id: 26878
     date: 2006-04-06 20:21
@@ -28,8 +29,7 @@ posts:
     email: gypsy@mail.ru
     subject: Вот это да...
     deleted: false
-    text: 'Джон, это лучший для меня подарок! Хорошо что ты нашел время излазить этот
-      сайт.
+    text: 'Джон, это лучший для меня подарок! Хорошо что ты нашел время излазить этот сайт.
 
 
       А почему у него на гитаре написано Earl Hooker, интересно>?'
@@ -41,10 +41,9 @@ posts:
       email: mlives_6@hotmail
       subject: Наверно...
       deleted: false
-      text: "потому что играл на гитаре Earl Hooker. :)    Похоже, что клипсы из Европы\
-        \ 1969 г. (American Folk Blues Festival).  Они были там вместе с Earl Hooker.\
-        \  По какой-то причине забрал его гитару.  А на басгитаре - это случайно не\
-        \ молодой Jimmy Johnson? Похож, но не могу решиться.  \n\nMuddy"
+      text: "потому что играл на гитаре Earl Hooker. :)    Похоже, что клипсы из Европы 1969 г. (American Folk Blues Festival).\
+        \  Они были там вместе с Earl Hooker.  По какой-то причине забрал его гитару.  А на басгитаре - это случайно не молодой\
+        \ Jimmy Johnson? Похож, но не могу решиться.  \n\nMuddy"
       replies:
       - id: 26888
         parent_id: 26884

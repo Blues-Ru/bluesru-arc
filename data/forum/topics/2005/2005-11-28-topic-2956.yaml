@@ -40,6 +40,8 @@ posts:
       subject: ибануцце надо!
       deleted: false
       text: блин ващще!
+      person_id: 335
+    person_id: 2888
   - id: 24758
     parent_id: 24752
     date: 2005-11-28 11:23
@@ -64,6 +66,8 @@ posts:
       subject: 13-го у нас презентация
       deleted: false
       text: Ждем тебя в Доме! С девками и журналистами :)
+      person_id: 335
+    person_id: 1725
   - id: 24783
     parent_id: 24752
     date: 2005-11-29 17:42
@@ -71,3 +75,5 @@ posts:
     email: volodya@blues.ru
     subject: УРА! :)
     deleted: false
+    person_id: 5
+  person_id: 204

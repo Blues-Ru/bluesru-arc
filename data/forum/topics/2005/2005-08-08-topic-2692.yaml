@@ -12,18 +12,14 @@ posts:
   email: vanek_ko@ukr.net
   subject: О Пинк Флойд
   deleted: false
-  text: "Добрый день.\nОзадачился я вот каким вопросом. Ни для кого не секрет, что\
-    \ название группы Pink Floyd происходит от имен блюзовых музыкантов Pink Anderson\
-    \ и  Floyd Council. Если первый из них оставил несколько записей (на AMG упоминаются\
-    \ 4 пластинки, некоторые из которых рецензированы на этом сайте), то о втором\
-    \ вообще очень мало известно, на AMG о нем вообще ничего не написано. Короткую\
-    \ информацию о нем можно найти например здесь: http://hem.passagen.se/evilclown/pinkfloyd/FC.htm\
-    \ \nОттуда следует, что после себя он оставил записанными меньше 20 треков, из\
-    \ которых только в 6-ти он солировал.\nВозникает закономерный вопрос: как так\
-    \ получилось, что два не самых известных исполнителя пьемонтского блюза (записи\
-    \ которых к тому же видимо не так легко было найти в Великобритании) оказали такое\
-    \ сильное влияние на Сида Баррета, что в честь них он решил назвать свою группу?\
-    \ Может кто-то знает какие-то легенды или слухи по этому поводу. \nЗаранее спасибо.\n\
+  text: "Добрый день.\nОзадачился я вот каким вопросом. Ни для кого не секрет, что название группы Pink Floyd происходит от\
+    \ имен блюзовых музыкантов Pink Anderson и  Floyd Council. Если первый из них оставил несколько записей (на AMG упоминаются\
+    \ 4 пластинки, некоторые из которых рецензированы на этом сайте), то о втором вообще очень мало известно, на AMG о нем\
+    \ вообще ничего не написано. Короткую информацию о нем можно найти например здесь: http://hem.passagen.se/evilclown/pinkfloyd/FC.htm\
+    \ \nОттуда следует, что после себя он оставил записанными меньше 20 треков, из которых только в 6-ти он солировал.\nВозникает\
+    \ закономерный вопрос: как так получилось, что два не самых известных исполнителя пьемонтского блюза (записи которых к\
+    \ тому же видимо не так легко было найти в Великобритании) оказали такое сильное влияние на Сида Баррета, что в честь\
+    \ них он решил назвать свою группу? Может кто-то знает какие-то легенды или слухи по этому поводу. \nЗаранее спасибо.\n\
     Прошу извенить, если вдруг нечто подобное уже обговаривалось на этом форуме"
   replies:
   - id: 22257
@@ -33,6 +29,7 @@ posts:
     email: dr.nick@blues.ru
     subject: а может он в честь Эдди Флойда назвал банду? :)
     deleted: false
+    person_id: 335
   - id: 22258
     parent_id: 22255
     date: 2005-08-08 17:22
@@ -40,6 +37,7 @@ posts:
     email: dr.nick@blues.ru
     subject: а были еще Floyd Dixon, Floyd Jones, Floyd McDaniel и др.
     deleted: false
+    person_id: 335
   - id: 22259
     parent_id: 22255
     date: 2005-08-08 17:38
@@ -47,11 +45,10 @@ posts:
     email: vanek_ko@ukr.net
     subject: Судя по компетентным источникам
     deleted: false
-    text: "именно в честь Floyd Council:\nВзято с AMG (http://www.allmusic.com/cg/amg.dll?p=amg&sql=11:rrkcikn6bb29)\n\
-      \n \"Anderson also became an unusual footnote in rock history when Syd Barrett,\
-      \ a young man in Cambridge, England, combined Pink's first name with the first\
-      \ name of another obscure bluesman (Floyd Council) to name his rock group, Pink\
-      \ Floyd, in the mid-'60s.\""
+    text: "именно в честь Floyd Council:\nВзято с AMG (http://www.allmusic.com/cg/amg.dll?p=amg&sql=11:rrkcikn6bb29)\n\n \"\
+      Anderson also became an unusual footnote in rock history when Syd Barrett, a young man in Cambridge, England, combined\
+      \ Pink's first name with the first name of another obscure bluesman (Floyd Council) to name his rock group, Pink Floyd,\
+      \ in the mid-'60s.\""
   - id: 22260
     parent_id: 22255
     date: 2005-08-09 04:30
@@ -59,11 +56,11 @@ posts:
     email: blackcat@blues.ru
     subject: думаю, не ошибусь...
     deleted: false
-    text: '... если скажу, что если б мы могли понять логику Сида Барретта, мы бы
-      все тут были б Сиды Барретты. Что - невозможно, да и ни к чему.
+    text: '... если скажу, что если б мы могли понять логику Сида Барретта, мы бы все тут были б Сиды Барретты. Что - невозможно,
+      да и ни к чему.
 
-      Захотел и назвал, вот и вся недолга. Может, он выделывался. А может, нежно любил
-      записи обоих с самого раннего детства. Мы же не знаем всех его обстоятельств.'
+      Захотел и назвал, вот и вся недолга. Может, он выделывался. А может, нежно любил записи обоих с самого раннего детства.
+      Мы же не знаем всех его обстоятельств.'
     replies:
     - id: 22262
       parent_id: 22260
@@ -81,8 +78,7 @@ posts:
         email: blackcat@blues.ru
         subject: привет и тебе :)
         deleted: false
-        text: 'Я, в общем-то, и не исчезал - но от данного форума всё же дал себе
-          небольшой роздых.
+        text: 'Я, в общем-то, и не исчезал - но от данного форума всё же дал себе небольшой роздых.
 
           Было тут что-то интересное за последнее время?'
         replies:
@@ -94,6 +90,8 @@ posts:
           subject: Да что там новенького,
           deleted: false
           text: Шумим, братец, шумим...
+          person_id: 458
+      person_id: 458
     - id: 22263
       parent_id: 22260
       date: 2005-08-09 13:20
@@ -101,8 +99,7 @@ posts:
       email: vanek_ko@ukr.net
       subject: Тоже вариант
       deleted: false
-      text: Иногда хочется найти логику там, где она изначально отсутствует. Но все-таки
-        хочется :)
+      text: Иногда хочется найти логику там, где она изначально отсутствует. Но все-таки хочется :)
       replies:
       - id: 22275
         parent_id: 22263
@@ -112,6 +109,8 @@ posts:
         subject: это называется...
         deleted: false
         text: '... гадать на кофейной гуще :)'
+        person_id: 6
+      person_id: 2371
   - id: 22264
     parent_id: 22255
     date: 2005-08-09 13:26
@@ -119,10 +118,9 @@ posts:
     email: vanek_ko@ukr.net
     subject: Расширяя тему
     deleted: false
-    text: 'Интересно было бы узнать, много ли есть команд, в названиях которых тем
-      или иным образом присутствуют имена блюзовых музыкантов. Насколько я знаю, группа
-      Jefferson Airplane взяла себе первое слово названия от Blind Lemon Jefferson.
-      Может кто-то знает еще примеры? Просто любопытно.
+    text: 'Интересно было бы узнать, много ли есть команд, в названиях которых тем или иным образом присутствуют имена блюзовых
+      музыкантов. Насколько я знаю, группа Jefferson Airplane взяла себе первое слово названия от Blind Lemon Jefferson. Может
+      кто-то знает еще примеры? Просто любопытно.
 
       Заранее спасибо.'
     replies:
@@ -133,13 +131,11 @@ posts:
       email: mlives_6@hotmail.com
       subject: Неужели?
       deleted: false
-      text: "Я никогда не думал, что название Jefferson Airplane имеет какое-нибудь\
-        \ отношение к Blind Lemon Jefferson.  Где Вы это слышали?  Ведь Jefferson\
-        \ в США - это как Иванов в России.  \n\nЧто касается Pink Floyd, я не знаю\
-        \ ответа на вопрос (Barrett наверно сам объяснил причину когда-то.  Нет?)\
-        \   Но ввиду того, что оба этих малоизвестных блюзменов были живы в то время,\
-        \ Barrett вероятно имеел возможность с ними лично познакомиться, и может быть\
-        \ даже с ними играл.\n\nMuddy"
+      text: "Я никогда не думал, что название Jefferson Airplane имеет какое-нибудь отношение к Blind Lemon Jefferson.  Где\
+        \ Вы это слышали?  Ведь Jefferson в США - это как Иванов в России.  \n\nЧто касается Pink Floyd, я не знаю ответа\
+        \ на вопрос (Barrett наверно сам объяснил причину когда-то.  Нет?)   Но ввиду того, что оба этих малоизвестных блюзменов\
+        \ были живы в то время, Barrett вероятно имеел возможность с ними лично познакомиться, и может быть даже с ними играл.\n\
+        \nMuddy"
       replies:
       - id: 22266
         parent_id: 22265
@@ -148,9 +144,8 @@ posts:
         email: vanek_ko@ukr.net
         subject: Чтобы не быть голословным
         deleted: false
-        text: '"The group''s unusual name was suggested by Kaukonen, who had once
-          jokingly been dubbed "Blind Thomas Jefferson Airplane" by a friend in reference
-          to the blues singer Blind Lemon Jefferson."
+        text: '"The group''s unusual name was suggested by Kaukonen, who had once jokingly been dubbed "Blind Thomas Jefferson
+          Airplane" by a friend in reference to the blues singer Blind Lemon Jefferson."
 
           Взято с:
 
@@ -160,24 +155,20 @@ posts:
           И еще один источник:
 
 
-          "The term Jefferson airplane is also slang for a used match bent to hold
-          a marijuana cigarette that has been smoked too short to hold without burning
-          the hands. An urban legend claims this was the origin for the band''s name,
-          though according to band member Jorma Kaukonen the name was invented by
-          his friend Steve Talbot as a satire of blues names such as "Blind Lemon"
-          Jefferson"
+          "The term Jefferson airplane is also slang for a used match bent to hold a marijuana cigarette that has been smoked
+          too short to hold without burning the hands. An urban legend claims this was the origin for the band''s name, though
+          according to band member Jorma Kaukonen the name was invented by his friend Steve Talbot as a satire of blues names
+          such as "Blind Lemon" Jefferson"
 
           Взято с:
 
           http://en.wikipedia.org/wiki/Jefferson_Airplane
 
 
-          Насчет Пинк Флойда. Сомневаюсь, чтобы Баррет встречался с Андерсоном или
-          Коунсилом. Я не встречал сведений о том что до конца 60-х Баррет ездил в
-          США, как не встречал и сведений о том что Андерсон и Коунсил ездили в Британию.
+          Насчет Пинк Флойда. Сомневаюсь, чтобы Баррет встречался с Андерсоном или Коунсилом. Я не встречал сведений о том
+          что до конца 60-х Баррет ездил в США, как не встречал и сведений о том что Андерсон и Коунсил ездили в Британию.
 
-          Как мне кажется, он был просто знаком с ними только по их записям. Впрочем,
-          я могу ошибаться.'
+          Как мне кажется, он был просто знаком с ними только по их записям. Впрочем, я могу ошибаться.'
         replies:
         - id: 22267
           parent_id: 22266
@@ -186,9 +177,8 @@ posts:
           email: mlives_6@hotmail,com
           subject: Спасибо за выяснение
           deleted: false
-          text: 'Но может быть приходится выкурить упомянутую зеленую сигаретку с
-            испльзованием "Jefferson Airplane" для того, чтобы понять "шутку" или
-            "сатиру," связанную с Blind Lemon Jefferson.  :)
+          text: 'Но может быть приходится выкурить упомянутую зеленую сигаретку с испльзованием "Jefferson Airplane" для того,
+            чтобы понять "шутку" или "сатиру," связанную с Blind Lemon Jefferson.  :)
 
 
             Muddy'
@@ -200,6 +190,6 @@ posts:
             email: vanek_ko@ukr.net
             subject: Не спорю
             deleted: false
-            text: Шутка странноватая, я в ней юмора не нашел и списал это на плохое
-              знание английского. Но, как говорится, все средства хороши, если они
-              увековечивают имена блюзовых музыкантов :)
+            text: Шутка странноватая, я в ней юмора не нашел и списал это на плохое знание английского. Но, как говорится,
+              все средства хороши, если они увековечивают имена блюзовых музыкантов :)
+            person_id: 2371

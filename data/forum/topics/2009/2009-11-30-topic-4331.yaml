@@ -20,6 +20,7 @@ posts:
     subject: С Днём рождения!
     deleted: false
     text: Благополучия и счастья, старина.
+    person_id: 458
   - id: 36710
     parent_id: 36708
     date: 2009-11-30 17:16
@@ -34,8 +35,9 @@ posts:
       poster: Федор Романенко
       subject: Андрей, поздравляю!
       deleted: false
-      text: Желаю тебе всего приятного и полезного, а также больших творческих успехов!
-        ;)
+      text: Желаю тебе всего приятного и полезного, а также больших творческих успехов! ;)
+      person_id: 2
+    person_id: 4
   - id: 36712
     parent_id: 36708
     date: 2009-11-30 18:38
@@ -43,6 +45,7 @@ posts:
     subject: с днём рождения
     deleted: false
     text: здоровья,вдохновения, мира и много нового блюза в раздел "любимое".
+    person_id: 7208
   - id: 36713
     parent_id: 36708
     date: 2009-11-30 20:25
@@ -50,6 +53,7 @@ posts:
     subject: C Рождения!
     deleted: false
     text: Мысленно в ДУДе ;)
+    person_id: 7284
   - id: 36714
     parent_id: 36708
     date: 2009-11-30 20:27
@@ -57,6 +61,7 @@ posts:
     subject: С Днем Рождения!
     deleted: false
     text: Мысленно в ДУДе ;)
+    person_id: 7284
   - id: 36716
     parent_id: 36708
     date: 2009-12-01 13:38
@@ -64,3 +69,5 @@ posts:
     subject: Вадим блюз
     deleted: false
     text: Андрей ! С днем рождения !
+    person_id: 3100
+  person_id: 7219

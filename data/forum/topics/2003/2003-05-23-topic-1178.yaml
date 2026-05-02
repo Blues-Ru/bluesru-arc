@@ -12,9 +12,8 @@ posts:
   email: sunny_city@mail.ru
   subject: Chris Cain !? Случайно услышал. Понравилось.
   deleted: false
-  text: "Особенно \"I do,I will,I can\".Все что нашел в интернете скачал,и хочется\
-    \ еще. Может есть у кого а? \nПослушайте какая красота,просто хочется рвать и\
-    \ метать :)) \nhttp://bluesman.ru/download/pre/I_Do_I_Will_I_Can.mp3"
+  text: "Особенно \"I do,I will,I can\".Все что нашел в интернете скачал,и хочется еще. Может есть у кого а? \nПослушайте\
+    \ какая красота,просто хочется рвать и метать :)) \nhttp://bluesman.ru/download/pre/I_Do_I_Will_I_Can.mp3"
   replies:
   - id: 12743
     parent_id: 12742
@@ -24,6 +23,7 @@ posts:
     subject: Знающие, поведайте о творчестве
     deleted: false
     text: этого замечательного музыканта.
+    person_id: 956
   - id: 12751
     parent_id: 12742
     date: 2003-05-24 10:59

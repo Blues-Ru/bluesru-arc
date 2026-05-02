@@ -29,6 +29,7 @@ posts:
 
 
       Источник http://www.johnnemethblues.com/'
+    person_id: 2
   - id: 36801
     parent_id: 36799
     date: 2010-01-26 16:12
@@ -36,6 +37,7 @@ posts:
     subject: :)
     deleted: false
     text: Ну так уж и заговор сразу :)
+    person_id: 5
   - id: 36802
     parent_id: 36799
     date: 2010-01-26 17:52
@@ -43,3 +45,5 @@ posts:
     subject: ааа....
     deleted: false
     text: стал быть Вованыч Джуниор Ватсоном будешь.)
+    person_id: 7219
+  person_id: 2

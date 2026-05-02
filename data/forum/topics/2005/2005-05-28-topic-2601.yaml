@@ -12,8 +12,7 @@ posts:
   email: volodya@blues.ru
   subject: только что видел в ящике...
   deleted: false
-  text: Дима Казанцев и Ветеран с каким то чуваком на акустиках распевали песню "Во
-    всем виноват Чубайс".. мощна. :)))
+  text: Дима Казанцев и Ветеран с каким то чуваком на акустиках распевали песню "Во всем виноват Чубайс".. мощна. :)))
   replies:
   - id: 21609
     parent_id: 21608
@@ -22,8 +21,9 @@ posts:
     email: chifuroff@inbox.ru
     subject: Вот здесь фотки :-)))))
     deleted: false
-    text: <a href="http://www.livejournal.com/users/chifuroff/19144.html?#cutid1">
-      http://www.livejournal.com/users/chifuroff/19144.html?#cutid1 </a>
+    text: <a href="http://www.livejournal.com/users/chifuroff/19144.html?#cutid1"> http://www.livejournal.com/users/chifuroff/19144.html?#cutid1
+      </a>
+    person_id: 2888
   - id: 21612
     parent_id: 21608
     date: 2005-05-29 01:17
@@ -31,6 +31,7 @@ posts:
     email: dr.nick@blues.ru
     subject: распевали на акустиках - это ты здорово сказал :)
     deleted: false
+    person_id: 335
   - id: 21616
     parent_id: 21608
     date: 2005-05-29 10:58
@@ -40,18 +41,16 @@ posts:
     deleted: false
     text: 'Да, только что посмотрел этот сюжет по Рен ТВ.
 
-      На http://www.livejournal.com/users/chifuroff/19144.html есть ссылка на звук
-      и видео (запись с РЕНТВ и с НТВ в одном ролике) http://www.pasportov.net/misc/dr_nick.avi
-      Ролик весит всего 1.2 МБ!
+      На http://www.livejournal.com/users/chifuroff/19144.html есть ссылка на звук и видео (запись с РЕНТВ и с НТВ в одном
+      ролике) http://www.pasportov.net/misc/dr_nick.avi Ролик весит всего 1.2 МБ!
 
       Кстати, вот что говорит про Чубайса мой любимый Lingvo 10:
 
       spokesperson
 
-      1) споук-персона, публичная персона ( представитель компании, имя которого ассоциируется
-      с каким-л. ее товаром или услугой; ему поручено публично представлять организацию,
-      делать заявления, участвовать в рекламных мероприятиях; руководитель компании
-      может быть ее споук-персоной (напр. А. Чубайс в РАО ЕЭС) )'
+      1) споук-персона, публичная персона ( представитель компании, имя которого ассоциируется с каким-л. ее товаром или услугой;
+      ему поручено публично представлять организацию, делать заявления, участвовать в рекламных мероприятиях; руководитель
+      компании может быть ее споук-персоной (напр. А. Чубайс в РАО ЕЭС) )'
   - id: 21622
     parent_id: 21608
     date: 2005-05-30 08:42
@@ -62,8 +61,8 @@ posts:
     text: 'http://www.ljplus.ru/img/yellow_reporter/chub.mp3
 
 
-      Если бы не монотонный вокал и не ряд узкоспесифисських слов, то это ХИТ уровня
-      Hey Joe или Мамаша Бейкер! Сделать что ли dance-remix...'
+      Если бы не монотонный вокал и не ряд узкоспесифисських слов, то это ХИТ уровня Hey Joe или Мамаша Бейкер! Сделать что
+      ли dance-remix...'
     replies:
     - id: 21623
       parent_id: 21622
@@ -90,6 +89,8 @@ posts:
           subject: конечно
           deleted: false
           text: никаких проблем
+          person_id: 335
+      person_id: 335
     - id: 21670
       parent_id: 21622
       date: 2005-06-05 02:37
@@ -106,3 +107,4 @@ posts:
       subject: )
       deleted: false
       text: Поддерживаю. Очень цепляющая штука.
+  person_id: 5

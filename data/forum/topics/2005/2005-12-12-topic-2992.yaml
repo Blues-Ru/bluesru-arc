@@ -12,8 +12,7 @@ posts:
   email: gypsy@mail.ru
   subject: И вдруг я понял...
   deleted: false
-  text: '...что Magic Sam, Magic Slim и Guitar Slim - это три разных человека, и даже
-    не родственники...
+  text: '...что Magic Sam, Magic Slim и Guitar Slim - это три разных человека, и даже не родственники...
 
 
     Но как я не искал, так и не нашел Guitar Sam''а....'
@@ -40,8 +39,7 @@ posts:
     email: mlives_6@hotmail
     subject: Не 3 человека, а больше, и родственники имеются
     deleted: false
-    text: 'Guitar Slim?  Ты имеешь ввиду Alex Seward, или Eddie Jones, или его сын,Rodney
-      Armstrong?
+    text: 'Guitar Slim?  Ты имеешь ввиду Alex Seward, или Eddie Jones, или его сын,Rodney Armstrong?
 
 
       Muddy'
@@ -53,10 +51,9 @@ posts:
       email: gypsy@mail.ru
       subject: Eddie Jones, конечно..
       deleted: false
-      text: ..по внимательному прослушиванию которого легко обнаружилось знаменитое
-        вступление SRV к Texas Flood - но только 30 годами раньше сыгранное Guitar
-        Slim'ом в песне Three hours past midnite.. и это не случайное совпадение,
-        а результат творческого переосмысления классики..
+      text: ..по внимательному прослушиванию которого легко обнаружилось знаменитое вступление SRV к Texas Flood - но только
+        30 годами раньше сыгранное Guitar Slim'ом в песне Three hours past midnite.. и это не случайное совпадение, а результат
+        творческого переосмысления классики..
   - id: 25015
     parent_id: 25006
     date: 2005-12-12 20:15
@@ -76,8 +73,8 @@ posts:
       text: 'Никуда не хожу, курсирую по маршруту дом-работа и обратно.
 
 
-        В обозримом будущем музыкальной деятельности не планирую, но это не мешает
-        мне поздравить тебя со товарищи с выходом альбома =)'
+        В обозримом будущем музыкальной деятельности не планирую, но это не мешает мне поздравить тебя со товарищи с выходом
+        альбома =)'
       replies:
       - id: 25021
         parent_id: 25016
@@ -86,6 +83,8 @@ posts:
         email: dr.nick@blues.ru
         subject: это ты зря
         deleted: false
+        person_id: 335
+    person_id: 335
   - id: 25017
     parent_id: 25006
     date: 2005-12-12 20:49
@@ -93,8 +92,7 @@ posts:
     email: voshalb@rambler.ru
     subject: Э-Э-Э-Э...
     deleted: false
-    text: Ты не ушел ли глухо в семейную жизнь,Майор??? Здесь как-то скучновато стало...мало
-      юмора...(((
+    text: Ты не ушел ли глухо в семейную жизнь,Майор??? Здесь как-то скучновато стало...мало юмора...(((
     replies:
     - id: 25020
       parent_id: 25017
@@ -111,3 +109,4 @@ posts:
     subject: О! Какие люди!
     deleted: false
     text: С возвращением! :-)))))
+    person_id: 2888

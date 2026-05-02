@@ -12,8 +12,8 @@ posts:
   email: vanek_ko@ukr.net
   subject: Годовщина смерти СРВ
   deleted: false
-  text: 27 августа исполняется 15 лет со дня трагической гибели Стиви Рей Воэна. Готовятся
-    ли в блюзовом мире какие-то мероприятия в связи с этой датой?
+  text: 27 августа исполняется 15 лет со дня трагической гибели Стиви Рей Воэна. Готовятся ли в блюзовом мире какие-то мероприятия
+    в связи с этой датой?
   replies:
   - id: 22517
     parent_id: 22493
@@ -41,18 +41,16 @@ posts:
       email: elicaster(@))mmmmmmmmmail.ru
       subject: Six Strings Down
       deleted: false
-      text: 'Надо ж! Вот только сегодня когда смотрел Eric Clapton - Crossroads (Guitar
-        Festival), когда Джимми Воэн пел Six Strings Down:
+      text: 'Надо ж! Вот только сегодня когда смотрел Eric Clapton - Crossroads (Guitar Festival), когда Джимми Воэн пел Six
+        Strings Down:
 
         "Alpine Valley, in the middle of the night"
 
         , я понял что песня-то про Стиви Рея, про тот день...
 
-        Подумал, когда приду домой надо будет текст в сети найти... А тут уже Старый
-        Майор ссылку выложил! Спасибо.
+        Подумал, когда приду домой надо будет текст в сети найти... А тут уже Старый Майор ссылку выложил! Спасибо.
 
-        Кстати, с Джимми а на сцене Клаптон, Крей. Они тоже были в тот день, на том
-        концерте.
+        Кстати, с Джимми а на сцене Клаптон, Крей. Они тоже были в тот день, на том концерте.
 
         Alpine Valley, in the middle of the night
 
@@ -97,3 +95,4 @@ posts:
         Lord, they called another blues stringer back home
 
         They called another blues stringer back home'
+  person_id: 2371

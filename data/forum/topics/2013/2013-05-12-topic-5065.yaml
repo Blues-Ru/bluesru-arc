@@ -17,8 +17,7 @@ posts:
     Отличный концерт, вполне пристойное ютюбное качество
 
 
-    <iframe width="420" height="315" src="http://www.youtube.com/embed/pVO8bHVpdDc"
-    frameborder="0" allowfullscreen></iframe>'
+    <iframe width="420" height="315" src="http://www.youtube.com/embed/pVO8bHVpdDc" frameborder="0" allowfullscreen></iframe>'
   replies:
   - id: 38945
     parent_id: 38944
@@ -44,8 +43,7 @@ posts:
         poster: Старый Майор
         subject: Если мы под Vol.2 подразумеваем одно и то же..
         deleted: false
-        text: '... то это Shake for Me и Love Me Darling на фоне перевернутых стульев
-          на столах.
+        text: '... то это Shake for Me и Love Me Darling на фоне перевернутых стульев на столах.
 
 
           http://www.youtube.com/watch?v=lRi273CRTdg
@@ -90,8 +88,7 @@ posts:
                   poster: Andrei V. Evdokimov
                   subject: ну хорошо
                   deleted: false
-                  text: 'Have you ever been loved? I''m talkin'' about - have you
-                    ever loved a women? (глубокий вздох) D!
+                  text: 'Have you ever been loved? I''m talkin'' about - have you ever loved a women? (глубокий вздох) D!
 
                     ---
 
@@ -114,8 +111,8 @@ posts:
                       poster: Andrei V. Evdokimov
                       subject: я уже сам не знам, что думать )))
                       deleted: false
-                      text: Howlin Wolf - Love Me Darlin - твоя вторая ссылка на видео...
-                        первую фразу я попустил, а дальше точно "по сценарию".
+                      text: Howlin Wolf - Love Me Darlin - твоя вторая ссылка на видео... первую фразу я попустил, а дальше
+                        точно "по сценарию".
                       replies:
                       - id: 38960
                         parent_id: 38957
@@ -139,18 +136,15 @@ posts:
                             poster: Старый Майор
                             subject: Вот не поверишь...
                             deleted: false
-                            text: '..я же знаю, что песня в "ре", поэтому, когда прочитал
-                              про "до", то подумал, что речь идёт о какой-то другой
-                              песне, например, Have You Ever Loved A Woman Фредди
-                              Кинга, перед которой он на живых концертах тоже много
-                              чего говорил обычно.
+                            text: '..я же знаю, что песня в "ре", поэтому, когда прочитал про "до", то подумал, что речь идёт
+                              о какой-то другой песне, например, Have You Ever Loved A Woman Фредди Кинга, перед которой он
+                              на живых концертах тоже много чего говорил обычно.
 
                               Чес-слово, так воно й було!
 
 
-                              Но самое страшное.. самое страшное.. что Фредди Кинг
-                              тоже в "ре" играет, так что придётся мне третью пестню
-                              искать, которая в "до" )))'
+                              Но самое страшное.. самое страшное.. что Фредди Кинг тоже в "ре" играет, так что придётся мне
+                              третью пестню искать, которая в "до" )))'
                             replies:
                             - id: 38968
                               parent_id: 38966
@@ -158,3 +152,14 @@ posts:
                               poster: Andrei V. Evdokimov
                               subject: Lightnin' changes whenever he feels like )
                               deleted: false
+                              person_id: 4
+                          person_id: 4
+                        person_id: 13
+                      person_id: 4
+                    person_id: 13
+                person_id: 13
+              person_id: 4
+            person_id: 13
+          person_id: 4
+      person_id: 4
+    person_id: 13

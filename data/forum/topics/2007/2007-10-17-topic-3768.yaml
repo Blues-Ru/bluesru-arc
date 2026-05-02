@@ -34,6 +34,7 @@ posts:
     subject: c ДР,Володя!
     deleted: false
     text: Здоровья и творческих успехов!  ДР в Непале-это круто!
+    person_id: 6398
   - id: 33680
     parent_id: 33669
     date: 2007-10-19 18:23
@@ -84,3 +85,7 @@ posts:
             email: dr.nick@blues.ru
             subject: или Ралф Молина?
             deleted: false
+            person_id: 335
+          person_id: 335
+        person_id: 4
+      person_id: 335

@@ -11,8 +11,7 @@ posts:
   poster: Игорь Головачев
   subject: Волнуюсь
   deleted: false
-  text: С главной страницы Blues.ru исчезла афиша "Дома у дороги". Чую недоброе. Кто
-    в курсе расскажите в чем дело.
+  text: С главной страницы Blues.ru исчезла афиша "Дома у дороги". Чую недоброе. Кто в курсе расскажите в чем дело.
   replies:
   - id: 39204
     parent_id: 39203
@@ -21,6 +20,7 @@ posts:
     subject: ДуД
     deleted: false
     text: Бар закрылся. Вчера. Все концерты отменили.
+    person_id: 8741
   - id: 39205
     parent_id: 39203
     date: 2014-05-27 15:35
@@ -36,6 +36,8 @@ posts:
       subject: Всё понятно,
       deleted: false
       text: правда "картинка" вчера была чуть иная. Вопросов больше нет.
+      person_id: 956
+    person_id: 4
   - id: 39211
     parent_id: 39203
     date: 2014-06-01 17:43
@@ -43,3 +45,5 @@ posts:
     subject: не понятно
     deleted: false
     text: так что же все-таки случилось?
+    person_id: 4382
+  person_id: 956

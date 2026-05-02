@@ -24,6 +24,7 @@ posts:
     subject: Поздравляю!
     deleted: false
     text: На джем заходи.
+    person_id: 4764
   - id: 29802
     parent_id: 29770
     date: 2006-12-13 09:56
@@ -32,6 +33,7 @@ posts:
     subject: Серега, и я спешу тебя поздравить
     deleted: false
     text: Здоровья ,счастья и всего самого хорошего!!!
+    person_id: 956
   - id: 29905
     parent_id: 29770
     date: 2006-12-16 16:29

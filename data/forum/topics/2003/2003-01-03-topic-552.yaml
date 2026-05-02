@@ -12,8 +12,7 @@ posts:
   email: fedor@blues.ru
   subject: Di & His Magical Pedals
   deleted: false
-  text: Димон с Микояном и своими новыми Волшебными Педальками выступает сегодня в
-    БиБиКинге. ;) Не пропустите! ;)
+  text: Димон с Микояном и своими новыми Волшебными Педальками выступает сегодня в БиБиКинге. ;) Не пропустите! ;)
   replies:
   - id: 9830
     parent_id: 9829
@@ -34,3 +33,5 @@ posts:
       subject: Опечатка ;)
       deleted: false
       text: Дайану, конечно ;)
+      person_id: 335
+  person_id: 2

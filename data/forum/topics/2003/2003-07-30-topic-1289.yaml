@@ -35,8 +35,7 @@ posts:
       deleted: false
       text: 'что хоть тебе это интересно!
 
-        На двух сайтах дал ссылку, никто даже не пишет ничего; а ведь инфы там море
-        нужной!'
+        На двух сайтах дал ссылку, никто даже не пишет ничего; а ведь инфы там море нужной!'
       replies:
       - id: 13402
         parent_id: 13400
@@ -45,8 +44,7 @@ posts:
         email: ivanoff@blues.nema
         subject: А море пловцов пугает !  вот был бы прудик :-))
         deleted: false
-        text: "А сайт супер, таких не часто найти.\nСпасибо.\nА может этот сайт заинтересует\
-          \ :  \n\nhttp://www.oafb.net/onceblu1.html"
+        text: "А сайт супер, таких не часто найти.\nСпасибо.\nА может этот сайт заинтересует :  \n\nhttp://www.oafb.net/onceblu1.html"
         replies:
         - id: 13405
           parent_id: 13402
@@ -56,6 +54,7 @@ posts:
           subject: Интересный сайт
           deleted: false
           text: Тока инфы мало ;)
+          person_id: 335
       - id: 13408
         parent_id: 13400
         date: 2003-07-31 18:11
@@ -64,3 +63,5 @@ posts:
         subject: спакойна!
         deleted: false
         text: Хороший сайт, на благо людям. Спасибо!
+        person_id: 6
+    person_id: 4

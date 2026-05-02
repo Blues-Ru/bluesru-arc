@@ -11,11 +11,10 @@ posts:
   poster: Леонид (LeoMReznik)
   subject: Sweat home Chicago - разные тексты.
   deleted: false
-  text: "Братцы! Кто прояснит, почему и как образовался текст у \"Sweat home Chicago\"\
-    , который давно уже поют не в том виде, в котором он был придуман и спет Робертом\
-    \ Джонсоном? (\"...Comon...\" вместо \"Oh\", Калифорния из текста исчезла и другие\
-    \ дела поменялись). Просто интересна история замены текста. Спасибо, если кто\
-    \ знает и ответит старому лабуху!:-)\n                         Леонид Резник (LeoMReznik)"
+  text: "Братцы! Кто прояснит, почему и как образовался текст у \"Sweat home Chicago\", который давно уже поют не в том виде,\
+    \ в котором он был придуман и спет Робертом Джонсоном? (\"...Comon...\" вместо \"Oh\", Калифорния из текста исчезла и\
+    \ другие дела поменялись). Просто интересна история замены текста. Спасибо, если кто знает и ответит старому лабуху!:-)\n\
+    \                         Леонид Резник (LeoMReznik)"
   replies:
   - id: 39384
     parent_id: 39383
@@ -25,14 +24,13 @@ posts:
     deleted: false
     text: 'Здравствуйте. Фраза "Back to the land of California
 
-      To my sweet home Chicago" часто заменяется на "Back to that same old place.
-      Oh sweet home Chicago" - потому как ещё никто не дал точного ответа, почему
-      Джонсон, будучи подковал в географии, поместил Чикаго в штат Калифорния.. А
-      поскольку петь надо только о том, что знаешь - вот и меняют)
+      To my sweet home Chicago" часто заменяется на "Back to that same old place. Oh sweet home Chicago" - потому как ещё
+      никто не дал точного ответа, почему Джонсон, будучи подковал в географии, поместил Чикаго в штат Калифорния.. А поскольку
+      петь надо только о том, что знаешь - вот и меняют)
 
 
-      Плюс много похожих песен было как до(http://www.youtube.com/watch?v=2CZEGJfes1c),
-      так и после (например Take a Little Walk with Me - Robert Lockwood, Jr.)
+      Плюс много похожих песен было как до(http://www.youtube.com/watch?v=2CZEGJfes1c), так и после (например Take a Little
+      Walk with Me - Robert Lockwood, Jr.)
 
 
       ps кстати и википедия кое-что рассказывает об этой песне https://en.wikipedia.org/wiki/Sweet_Home_Chicago'
@@ -44,6 +42,7 @@ posts:
       subject: Sweat home Chicago - разные тексты.
       deleted: false
       text: Спасибо, Александр, за информацию!
+      person_id: 7330
   - id: 39387
     parent_id: 39383
     date: 2016-04-05 10:26
@@ -51,14 +50,15 @@ posts:
     subject: Вопрос не в тему
     deleted: false
     text: Много ли было чёрных хозяев звукозаписывающих студий?
+    person_id: 7512
   - id: 39390
     parent_id: 39383
     date: 2016-04-12 13:57
     poster: Бартулович
     subject: Благодарность
     deleted: false
-    text: Спасибо, тоже интересовался этим вопросом... <a href="http://prostitutki-volgograd.com/">
-      </a>
+    text: Спасибо, тоже интересовался этим вопросом... <a href="http://prostitutki-volgograd.com/"> </a>
+    person_id: 9064
   - id: 39399
     parent_id: 39383
     date: 2016-05-30 02:56
@@ -66,3 +66,5 @@ posts:
     subject: спасибо
     deleted: false
     text: тоже было интересно
+    person_id: 9075
+  person_id: 7330

@@ -12,8 +12,7 @@ posts:
   email: peregnoy@mail.ru
   subject: Сайт "Кроссроудза" снова ожил
   deleted: false
-  text: Но фоток с декабрьского "Blues Summit'а", вроде как кем-то обещанных, так
-    и нет.
+  text: Но фоток с декабрьского "Blues Summit'а", вроде как кем-то обещанных, так и нет.
   replies:
   - id: 4120
     parent_id: 4117
@@ -23,3 +22,5 @@ posts:
     subject: А также...
     deleted: false
     text: Сайт Регтайма ;)
+    person_id: 2
+  person_id: 712

@@ -11,9 +11,8 @@ posts:
   poster: Andrei V. Evdokimov
   subject: На сайте появился перевод статьи о Boogie Bill Webb
   deleted: false
-  text: В раздел "Музыканты" добавлена справка о певце-гитаристе Буги-Билле Уэббе
-    (<a href="/bluesmen/Boogie_Bill_Webb/Boogie_Bill_Webb.html"><b>Boogie Bill Webb</b></a>),
-    довольно мало известном, но весьма самобытном и интересном.
+  text: В раздел "Музыканты" добавлена справка о певце-гитаристе Буги-Билле Уэббе (<a href="/bluesmen/Boogie_Bill_Webb/Boogie_Bill_Webb.html"><b>Boogie
+    Bill Webb</b></a>), довольно мало известном, но весьма самобытном и интересном.
   replies:
   - id: 39181
     parent_id: 39180
@@ -22,6 +21,7 @@ posts:
     subject: линк
     deleted: false
     text: http://blues.ru/bluesmen/Boogie_Bill_Webb/Boogie_Bill_Webb.html
+    person_id: 4
   - id: 39182
     parent_id: 39180
     date: 2014-03-29 12:03
@@ -37,3 +37,6 @@ posts:
       subject: Правильная ссылка
       deleted: false
       text: http://www.blues.ru/bluesmen/Boogie_Bill_Webb/
+      person_id: 2
+    person_id: 1021
+  person_id: 4

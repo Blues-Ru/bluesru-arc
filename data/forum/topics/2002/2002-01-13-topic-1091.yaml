@@ -21,8 +21,8 @@ posts:
     email: dr.nick@blues.ru
     subject: Артур
     deleted: false
-    text: В сети вроде ничего нет. У меня есть длинный сборник 'After Hours'; могу
-      конвертнуть и дать скопировать, или еще как-нибудь.
+    text: В сети вроде ничего нет. У меня есть длинный сборник 'After Hours'; могу конвертнуть и дать скопировать, или еще
+      как-нибудь.
     replies:
     - id: 153
       parent_id: 147
@@ -31,8 +31,7 @@ posts:
       email: verik2@hotmail.com
       subject: Артур
       deleted: false
-      text: Буду очень благодарна. Как мы это  сделаем? Просто я не знаток всех этих
-        технологий...
+      text: Буду очень благодарна. Как мы это  сделаем? Просто я не знаток всех этих технологий...
       replies:
       - id: 156
         parent_id: 153
@@ -51,3 +50,4 @@ posts:
           subject: Grete
           deleted: false
           text: Спасибо и на этом!
+    person_id: 335

@@ -12,9 +12,8 @@ posts:
   email: tovarisch
   subject: Какой стиль
   deleted: false
-  text: Господа ценители меня мучает такой вопрос. Я часто слышал в качестве саундтреков
-    такие композиции когда играет одна гитара и играет исключительно Блюзово со всем
-    этим звоном и слайдами.Но так и не поня как называется это направление.Подскажите
+  text: Господа ценители меня мучает такой вопрос. Я часто слышал в качестве саундтреков такие композиции когда играет одна
+    гитара и играет исключительно Блюзово со всем этим звоном и слайдами.Но так и не поня как называется это направление.Подскажите
     если не лень ну и пару исполнителей заодно)
   replies:
   - id: 33535
@@ -25,6 +24,7 @@ posts:
     subject: Слишком детализирован вопрос
     deleted: false
     text: Ответ просится. Наверное, стиль "саундтрек".
+    person_id: 458
   - id: 33536
     parent_id: 33534
     date: 2007-09-20 12:44
@@ -33,6 +33,7 @@ posts:
     subject: это OST
     deleted: false
     text: музыка к фильму то бишь
+    person_id: 335
   - id: 33537
     parent_id: 33534
     date: 2007-09-21 00:45
@@ -70,17 +71,14 @@ posts:
     email: volodya@blues.ru
     subject: ну собственно ...
     deleted: false
-    text: "вцелом слайд это инструмент для блюза и кантри и разумеется гавайские там\
-      \ песни.. а дальше уже он появлялся вообщем то где угодно...\nвот просто сходу\
-      \ с ютубы пачка ссылочек... там \nможно повыбирать что нравится, а потом пойти\
-      \ на allmusic.com и почитать про исполнителя и схожих с ним :) \n\nчто из эотго\
-      \ всего похоже на саундреки.. думаю что имеется ввиду акустика.. но остальное\
-      \ тоже советую послушать :) \n\nхаус\nhttp://youtube.com/watch?v=QwjGytOVVQA\n\
-      \nброзман\nhttp://youtube.com/watch?v=Hddz_cZts74\n\nчувак с ложкой\nhttp://youtube.com/watch?v=1xPGqWt3L7A\n\
-      \nджон хаммонд\nhttp://youtube.com/watch?v=oV-7geFbI0U\nhttp://youtube.com/watch?v=QfkQPMij0Aw\n\
-      \nэлмор джеймс\nhttp://youtube.com/watch?v=iGPa-BdACbs\n\nбукер вайт\nhttp://youtube.com/watch?v=bsMpHHSLSl\n\
-      \nбонни райт с хукером \nhttp://youtube.com/watch?v=oGCgRpV4H3k\n\nбен харпер\n\
-      http://youtube.com/watch?v=3ycYc5Ll2No\n\nджонни винтер\nhttp://youtube.com/watch?v=EIISTtlAFFo"
+    text: "вцелом слайд это инструмент для блюза и кантри и разумеется гавайские там песни.. а дальше уже он появлялся вообщем\
+      \ то где угодно...\nвот просто сходу с ютубы пачка ссылочек... там \nможно повыбирать что нравится, а потом пойти на\
+      \ allmusic.com и почитать про исполнителя и схожих с ним :) \n\nчто из эотго всего похоже на саундреки.. думаю что имеется\
+      \ ввиду акустика.. но остальное тоже советую послушать :) \n\nхаус\nhttp://youtube.com/watch?v=QwjGytOVVQA\n\nброзман\n\
+      http://youtube.com/watch?v=Hddz_cZts74\n\nчувак с ложкой\nhttp://youtube.com/watch?v=1xPGqWt3L7A\n\nджон хаммонд\nhttp://youtube.com/watch?v=oV-7geFbI0U\n\
+      http://youtube.com/watch?v=QfkQPMij0Aw\n\nэлмор джеймс\nhttp://youtube.com/watch?v=iGPa-BdACbs\n\nбукер вайт\nhttp://youtube.com/watch?v=bsMpHHSLSl\n\
+      \nбонни райт с хукером \nhttp://youtube.com/watch?v=oGCgRpV4H3k\n\nбен харпер\nhttp://youtube.com/watch?v=3ycYc5Ll2No\n\
+      \nджонни винтер\nhttp://youtube.com/watch?v=EIISTtlAFFo"
   - id: 33542
     parent_id: 33534
     date: 2007-09-24 13:00
@@ -88,5 +86,4 @@ posts:
     email: tovarisch@mail.ru
     subject: спасибо
     deleted: false
-    text: Большое спасибо  Владимир Русинов наконецто разобрался от себя порекомендую
-      Dege Legg послушать
+    text: Большое спасибо  Владимир Русинов наконецто разобрался от себя порекомендую Dege Legg послушать

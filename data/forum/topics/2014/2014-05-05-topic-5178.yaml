@@ -11,21 +11,16 @@ posts:
   poster: Konstantin (Wheel)
   subject: Мой блюзовый альбом в России
   deleted: false
-  text: "Привет всему форуму :)\nВ общем, свершилось и я записал альбом блюзовой и\
-    \ около музыки с днепропетровскими и киевскими музыкантами. \nВот парочка роликов\
-    \ с нарезками из материала для ознакомления:\n<object width=\"420\" height=\"\
-    315\"><param name=\"movie\" value=\"//www.youtube.com/v/xKetEv70xF4?hl=uk_UA&amp;version=3\"\
-    ></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"\
-    allowscriptaccess\" value=\"always\"></param><embed src=\"//www.youtube.com/v/xKetEv70xF4?hl=uk_UA&amp;version=3\"\
-    \ type=\"application/x-shockwave-flash\" width=\"420\" height=\"315\" allowscriptaccess=\"\
-    always\" allowfullscreen=\"true\"></embed></object>\n<object width=\"420\" height=\"\
-    315\"><param name=\"movie\" value=\"//www.youtube.com/v/NjCNXMyZGVk?hl=uk_UA&amp;version=3\"\
-    ></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"\
-    allowscriptaccess\" value=\"always\"></param><embed src=\"//www.youtube.com/v/NjCNXMyZGVk?hl=uk_UA&amp;version=3\"\
-    \ type=\"application/x-shockwave-flash\" width=\"420\" height=\"315\" allowscriptaccess=\"\
-    always\" allowfullscreen=\"true\"></embed></object>\nА вот тут его можно приобрести\
-    \ в России, если вас заинтересовала музыка, тут же можно прочитать и отзывы западных\
-    \ музыкантов об альбоме.\nhttp://harpshop.ru/learn/posob/item/konstantin-kolesnichenko.html"
+  text: "Привет всему форуму :)\nВ общем, свершилось и я записал альбом блюзовой и около музыки с днепропетровскими и киевскими\
+    \ музыкантами. \nВот парочка роликов с нарезками из материала для ознакомления:\n<object width=\"420\" height=\"315\"\
+    ><param name=\"movie\" value=\"//www.youtube.com/v/xKetEv70xF4?hl=uk_UA&amp;version=3\"></param><param name=\"allowFullScreen\"\
+    \ value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"//www.youtube.com/v/xKetEv70xF4?hl=uk_UA&amp;version=3\"\
+    \ type=\"application/x-shockwave-flash\" width=\"420\" height=\"315\" allowscriptaccess=\"always\" allowfullscreen=\"\
+    true\"></embed></object>\n<object width=\"420\" height=\"315\"><param name=\"movie\" value=\"//www.youtube.com/v/NjCNXMyZGVk?hl=uk_UA&amp;version=3\"\
+    ></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed\
+    \ src=\"//www.youtube.com/v/NjCNXMyZGVk?hl=uk_UA&amp;version=3\" type=\"application/x-shockwave-flash\" width=\"420\"\
+    \ height=\"315\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>\nА вот тут его можно приобрести\
+    \ в России, если вас заинтересовала музыка, тут же можно прочитать и отзывы западных музыкантов об альбоме.\nhttp://harpshop.ru/learn/posob/item/konstantin-kolesnichenko.html"
   replies:
   - id: 39198
     parent_id: 39197
@@ -33,10 +28,9 @@ posts:
     poster: Konstantin (Wheel)
     subject: Встраивание видео :)
     deleted: false
-    text: "Почему-то не сработало встраивание, на всякий случай, вот ролики через\
-      \ ифрейм: \n<iframe width=\"420\" height=\"315\" src=\"//www.youtube.com/embed/xKetEv70xF4\"\
-      \ frameborder=\"0\" allowfullscreen></iframe>\n<iframe width=\"420\" height=\"\
-      315\" src=\"//www.youtube.com/embed/NjCNXMyZGVk\" frameborder=\"0\" allowfullscreen></iframe>"
+    text: "Почему-то не сработало встраивание, на всякий случай, вот ролики через ифрейм: \n<iframe width=\"420\" height=\"\
+      315\" src=\"//www.youtube.com/embed/xKetEv70xF4\" frameborder=\"0\" allowfullscreen></iframe>\n<iframe width=\"420\"\
+      \ height=\"315\" src=\"//www.youtube.com/embed/NjCNXMyZGVk\" frameborder=\"0\" allowfullscreen></iframe>"
   - id: 39199
     parent_id: 39197
     date: 2014-05-07 23:43
@@ -51,6 +45,8 @@ posts:
       poster: Konstantin (Wheel)
       subject: Спасибо! :)
       deleted: false
+      person_id: 3349
+    person_id: 7879
   - id: 39213
     parent_id: 39197
     date: 2014-06-02 13:21
@@ -68,3 +64,5 @@ posts:
       subject: Спасибо!
       deleted: false
       text: Спасибо большое!
+      person_id: 3349
+  person_id: 3349

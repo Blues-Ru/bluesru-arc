@@ -10,8 +10,7 @@ posts:
   date: 2004-08-24 10:27
   poster: Сережа
   email: overseas@elem.ru
-  subject: EFES PILSENER BLUES FESTIVAL. Кто, где и когда в этом году??? Будет ли
-    он?
+  subject: EFES PILSENER BLUES FESTIVAL. Кто, где и когда в этом году??? Будет ли он?
   deleted: false
   replies:
   - id: 19115
@@ -28,9 +27,9 @@ posts:
       date: 2004-09-07 09:54
       poster: Сережа
       email: starrr@mail.ru
-      subject: Спасибо превеликое!! А то весь инет облазил - никакой инфы найти не
-        мог. Смотрю, уже и Уфу задейстовали.
+      subject: Спасибо превеликое!! А то весь инет облазил - никакой инфы найти не мог. Смотрю, уже и Уфу задейстовали.
       deleted: false
+    person_id: 2803
   - id: 19118
     parent_id: 19114
     date: 2004-08-24 15:27
@@ -51,8 +50,8 @@ posts:
       email: barmaley-vov@yandex.ru
       subject: Товарищч дорогой!
       deleted: false
-      text: Ну ежели устроители-организаторы об этом пока не сообщили публично, то
-        остальным-то откуда знать? :)
+      text: Ну ежели устроители-организаторы об этом пока не сообщили публично, то остальным-то откуда знать? :)
+      person_id: 2803
   - id: 19119
     parent_id: 19114
     date: 2004-08-24 16:22
@@ -60,14 +59,13 @@ posts:
     email: fedor@blues.ru
     subject: Исполнители
     deleted: false
-    text: Пока доподлинно известно только о Little Charlie & The Nightcats. И это
-      круто!!! ;)
+    text: Пока доподлинно известно только о Little Charlie & The Nightcats. И это круто!!! ;)
     replies:
     - id: 19226
       parent_id: 19119
       date: 2004-09-07 09:59
       poster: Сережа
       email: s@m.ru
-      subject: Да это просто СУПЕРМОЩЬ!!! Случаются же у нас действительно музыкальные
-        события.
+      subject: Да это просто СУПЕРМОЩЬ!!! Случаются же у нас действительно музыкальные события.
       deleted: false
+    person_id: 2

@@ -29,6 +29,8 @@ posts:
       email: sunny_city@mail.ru
       subject: Согласен
       deleted: false
+      person_id: 956
+    person_id: 9
   - id: 25158
     parent_id: 25151
     date: 2005-12-20 10:45
@@ -36,6 +38,7 @@ posts:
     email: dr.nick@blues.ru
     subject: шутите что ли? :)
     deleted: false
+    person_id: 335
   - id: 25159
     parent_id: 25151
     date: 2005-12-20 11:46

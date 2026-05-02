@@ -12,12 +12,10 @@ posts:
   email: cousins@yandex.ru
   subject: Нужен текст песни
   deleted: false
-  text: Сонни Терри и Брауни Макги поют, называется "Born to live the blues", там
-    есть слова "because rocks was my mother's father's pillow, cold ground was their
-    bed, blue skies were their blanket..." (так услышал, знаю, что с грамматикой не
-    все правильно),потом что-то вроде "blues - my only companion". Не все хорошо понятно,
-    я пытался снять слова на слух, но, видать, не хватает знания языка. Буду благодарен,
-    если кто подскажет.
+  text: Сонни Терри и Брауни Макги поют, называется "Born to live the blues", там есть слова "because rocks was my mother's
+    father's pillow, cold ground was their bed, blue skies were their blanket..." (так услышал, знаю, что с грамматикой не
+    все правильно),потом что-то вроде "blues - my only companion". Не все хорошо понятно, я пытался снять слова на слух, но,
+    видать, не хватает знания языка. Буду благодарен, если кто подскажет.
   replies:
   - id: 19059
     parent_id: 19058
@@ -26,22 +24,17 @@ posts:
     email: aaa@genebee.msu.su
     subject: О! это хороший блюз
     deleted: false
-    text: "Разобрал ты правильно, насчёт грамматики беспокоиться не стоит сильнее\
-      \ самого Брауни.\nОстальное вот, со слуха опять же:\n\nFrom my childhood - t'were\
-      \ I am now\nI ain't no worry, I'll get by somehow\nMy mama told me, papa told\
-      \ me too -\nI was born with the blues\n\nI tell you something, there ain't no\
-      \ joke\nI used my <нрзб> my way from home\nMama told me, papa told me too -\n\
-      I was born with the blues\n\tI used my guitar for my pillow\n\tHollow log had\
-      \ even been my bed\n\tBlues my only companion\n\tHad the same blues for my meat\
-      \ and bread\n\nI want you to know! Since I began to roam\nPure ole me, I came\
-      \ from a broken home\nMy mama told me, daddy told me too - I was born…\n\nDon't\
-      \ believe I'm sinking - look what a hole I'm in\nDon't believe I love you -\
-      \ look what a fool I've been\nBut I'm not ashamed 'bout the bad news - I've\
-      \ been living… \n\tRocks were my mother's father's pillow\n\tCold groud had\
-      \ even been their bed\n        Blue skies were their blanckets\n\tAnd the moonlight\
-      \ was their spread\nYou think I'm happy, you shure don't know my mind\nSmile\
-      \ on my face, heart's bleeding all the time\nBut I'm not ashamed 'bout the bad\
-      \ news\nI was born with the blues"
+    text: "Разобрал ты правильно, насчёт грамматики беспокоиться не стоит сильнее самого Брауни.\nОстальное вот, со слуха\
+      \ опять же:\n\nFrom my childhood - t'were I am now\nI ain't no worry, I'll get by somehow\nMy mama told me, papa told\
+      \ me too -\nI was born with the blues\n\nI tell you something, there ain't no joke\nI used my <нрзб> my way from home\n\
+      Mama told me, papa told me too -\nI was born with the blues\n\tI used my guitar for my pillow\n\tHollow log had even\
+      \ been my bed\n\tBlues my only companion\n\tHad the same blues for my meat and bread\n\nI want you to know! Since I\
+      \ began to roam\nPure ole me, I came from a broken home\nMy mama told me, daddy told me too - I was born…\n\nDon't believe\
+      \ I'm sinking - look what a hole I'm in\nDon't believe I love you - look what a fool I've been\nBut I'm not ashamed\
+      \ 'bout the bad news - I've been living… \n\tRocks were my mother's father's pillow\n\tCold groud had even been their\
+      \ bed\n        Blue skies were their blanckets\n\tAnd the moonlight was their spread\nYou think I'm happy, you shure\
+      \ don't know my mind\nSmile on my face, heart's bleeding all the time\nBut I'm not ashamed 'bout the bad news\nI was\
+      \ born with the blues"
     replies:
     - id: 19060
       parent_id: 19059
@@ -50,13 +43,11 @@ posts:
       email: ilyav@aport2000.ru
       subject: Алексей, вот ведь......спасибо!!!!
       deleted: false
-      text: "Хоть я и не адресат, но не могу не отозваться. \nЭто была ПЕРВАЯ песня\
-        \  Сонни и Брауни, которую я услышал. И где?\nНе надо гадать с трёх раз -\
-        \ в ДЖАЗОФРЕНИИ по \"Культуре\". С \"молодым, задорным голосовм за кадром\"\
-        , как некогда писали на джаз.ру про бессменного блюз-пропагандиста Андрея\
-        \ Евдокимова. И вот кому спасибов полный мешок.))))))\nЯ на видеокассету всё\
-        \ это записывал, сидел до 2-х часов (В Ханты-Мансийске часовой пояс на 2 часа\
-        \ сдвинут от столицы). Такой кайф!"
+      text: "Хоть я и не адресат, но не могу не отозваться. \nЭто была ПЕРВАЯ песня  Сонни и Брауни, которую я услышал. И\
+        \ где?\nНе надо гадать с трёх раз - в ДЖАЗОФРЕНИИ по \"Культуре\". С \"молодым, задорным голосовм за кадром\", как\
+        \ некогда писали на джаз.ру про бессменного блюз-пропагандиста Андрея Евдокимова. И вот кому спасибов полный мешок.))))))\n\
+        Я на видеокассету всё это записывал, сидел до 2-х часов (В Ханты-Мансийске часовой пояс на 2 часа сдвинут от столицы).\
+        \ Такой кайф!"
       replies:
       - id: 19061
         parent_id: 19060
@@ -66,6 +57,7 @@ posts:
         subject: Надо сказать, что
         deleted: false
         text: и эти съемки совершенно феноменальные. Что правда, то правда.
+        person_id: 458
     - id: 19062
       parent_id: 19059
       date: 2004-08-13 12:23
@@ -74,6 +66,7 @@ posts:
       subject: поправка
       deleted: false
       text: '"Poor ole me, I came from a broken home"'
+      person_id: 458
   - id: 19070
     parent_id: 19058
     date: 2004-08-14 21:42
@@ -81,6 +74,5 @@ posts:
     email: cousins@yandex.ru
     subject: Док, спасибо
     deleted: false
-    text: Завтра, если будет время, приходите в клуб в кинотеатре на третьем этаже
-      заведения напротив магазина "Союз" на Старом Арбате  - мы там завтра в 21-00
-      играем. Давно Вас звал. С уважением, Пит
+    text: Завтра, если будет время, приходите в клуб в кинотеатре на третьем этаже заведения напротив магазина "Союз" на Старом
+      Арбате  - мы там завтра в 21-00 играем. Давно Вас звал. С уважением, Пит

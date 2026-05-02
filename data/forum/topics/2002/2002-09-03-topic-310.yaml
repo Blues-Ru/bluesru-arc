@@ -12,8 +12,7 @@ posts:
   email: alex@fastwel.com
   subject: Ищется текст Baby Don't You Tear My Clothes от LH(+)
   deleted: false
-  text: Google не помог. На всеразличных blues lyrics тоже нет. Может у кого-нибудь
-    есть?
+  text: Google не помог. На всеразличных blues lyrics тоже нет. Может у кого-нибудь есть?
   replies:
   - id: 7325
     parent_id: 7324
@@ -22,9 +21,8 @@ posts:
     email: alex@fastwel.com
     subject: И еще вопрос по аккомпанименту(+)
     deleted: false
-    text: Там такой интересный аккордовый рефрен-брейк в конце каждого квадрата. Хопкинс
-      его часто использует и в других пьесах. Может кто-нибудь подскажет, как его
-      играть?
+    text: Там такой интересный аккордовый рефрен-брейк в конце каждого квадрата. Хопкинс его часто использует и в других пьесах.
+      Может кто-нибудь подскажет, как его играть?
   - id: 7326
     parent_id: 7324
     date: 2002-09-03 14:20
@@ -237,6 +235,7 @@ posts:
           subject: Вот этот
           deleted: false
           text: вариант полный.
+          person_id: 335
         - id: 7334
           parent_id: 7332
           date: 2002-09-03 17:20
@@ -246,8 +245,8 @@ posts:
           deleted: false
           text: 'У меня со слухом плохо совсем;-) Особенно на джайв;-)
 
-            А что ты думаешь по поводу рефрена в конце каждого квадрата? Я его замыливаю
-            одиночными нотами, и драйв теряется тут же.'
+            А что ты думаешь по поводу рефрена в конце каждого квадрата? Я его замыливаю одиночными нотами, и драйв теряется
+            тут же.'
           replies:
           - id: 7336
             parent_id: 7334
@@ -256,8 +255,7 @@ posts:
             email: dr.nick@blues.ru
             subject: Мне трудно понять
             deleted: false
-            text: о чем ты говоришь. Если ты об аккордах, то там все просто, но так
-              по инету я не смогу объяснить.
+            text: о чем ты говоришь. Если ты об аккордах, то там все просто, но так по инету я не смогу объяснить.
             replies:
             - id: 7337
               parent_id: 7336
@@ -313,6 +311,10 @@ posts:
                         subject: И то дело ;)
                         deleted: false
                         text: Гони её тугу-печаль ;)
+                        person_id: 335
+                    person_id: 335
+                person_id: 335
+            person_id: 335
   - id: 7357
     parent_id: 7324
     date: 2002-09-05 16:12
@@ -320,8 +322,7 @@ posts:
     email: lifebythedrop@yandex.ru
     subject: LH
     deleted: false
-    text: at last time я не очень хорошо понимаю сокращения расшифруйте кто такой
-      LH
+    text: at last time я не очень хорошо понимаю сокращения расшифруйте кто такой LH
     replies:
     - id: 7363
       parent_id: 7357
@@ -330,3 +331,5 @@ posts:
       email: dr.nick@blues.ru
       subject: Lightnin' Hopkins
       deleted: false
+      person_id: 335
+    person_id: 687

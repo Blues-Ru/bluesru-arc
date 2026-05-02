@@ -42,6 +42,9 @@ posts:
         subject: Да нет
         deleted: false
         text: глючит что-то тут на форуме, вот и троится ;)
+        person_id: 335
+      person_id: 6
+    person_id: 335
   - id: 6847
     parent_id: 6845
     date: 2002-08-18 04:46
@@ -50,6 +53,7 @@ posts:
     subject: Так и сделано ;)
     deleted: false
     text: Давно уже ;)
+    person_id: 335
   - id: 6848
     parent_id: 6845
     date: 2002-08-18 04:46
@@ -58,3 +62,4 @@ posts:
     subject: Так и сделано ;)
     deleted: false
     text: Давно уже ;)
+    person_id: 335

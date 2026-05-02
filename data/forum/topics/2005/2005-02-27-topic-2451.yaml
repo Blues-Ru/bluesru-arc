@@ -22,6 +22,7 @@ posts:
     subject: Это к Пескарю
     deleted: false
     text: blackcat@blues.ru
+    person_id: 2
   - id: 20608
     parent_id: 20593
     date: 2005-03-03 02:05

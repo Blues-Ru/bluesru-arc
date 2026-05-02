@@ -41,16 +41,13 @@ posts:
     email: kaverkin@rol.ru
     subject: Вова, что-то ты не так написал .....
     deleted: false
-    text: 'насчет Димы Казанцева, даже если ты не считаешь его блистательным гитаристом.
-      Я тоже не очень блещу гитарными пассажами и есть гораздо более техничные и продвинутые
-      ребята которые прекрасно владеют гитарой и которые будут более интересны широкой
-      публике. Поверь, это не кокетство - это реальная оценка своих возможностей.
-      В любом случае - огромное спасибо, но я тоже всего лишь ПРЕКРАСНЫЙ бэнд-лидер
-      :-))
+    text: 'насчет Димы Казанцева, даже если ты не считаешь его блистательным гитаристом. Я тоже не очень блещу гитарными пассажами
+      и есть гораздо более техничные и продвинутые ребята которые прекрасно владеют гитарой и которые будут более интересны
+      широкой публике. Поверь, это не кокетство - это реальная оценка своих возможностей. В любом случае - огромное спасибо,
+      но я тоже всего лишь ПРЕКРАСНЫЙ бэнд-лидер :-))
 
-      А забыл ты Ваню Жука, Вову Русинова, Сережу Виноградова, Вадима Иващенко, Омара
-      Итковици, Гургена Джангиряна, Борю Булкина, Сашу Новоселова,Валеру Гелюту -
-      короче до-хрена народу ты забыл ....'
+      А забыл ты Ваню Жука, Вову Русинова, Сережу Виноградова, Вадима Иващенко, Омара Итковици, Гургена Джангиряна, Борю Булкина,
+      Сашу Новоселова,Валеру Гелюту - короче до-хрена народу ты забыл ....'
     replies:
     - id: 20208
       parent_id: 20207
@@ -68,6 +65,8 @@ posts:
         subject: Угу
         deleted: false
         text: Гургена и Булкина забыл - совсем плохой стал!
+      person_id: 1719
+    person_id: 1719
   - id: 20211
     parent_id: 20204
     date: 2005-01-20 01:35
@@ -75,9 +74,8 @@ posts:
     email: fedor@blues.ru
     subject: Доктор Ник
     deleted: false
-    text: Я думаю, что ты не очень внимательно смотрел, как именно он играет на гитаре?
-      ;) Очень даже серьезно. Другое дело, что для фестиваля нужны гитарные солисты-герои,
-      а не хорошие исполнители песен. В качестве гетераста Дима вряд ли подойдет,
+    text: Я думаю, что ты не очень внимательно смотрел, как именно он играет на гитаре? ;) Очень даже серьезно. Другое дело,
+      что для фестиваля нужны гитарные солисты-герои, а не хорошие исполнители песен. В качестве гетераста Дима вряд ли подойдет,
       я думаю, что он сам с этим согласится. Надеюсь, никто ни на кого не обидится...
     replies:
     - id: 20216
@@ -87,9 +85,8 @@ posts:
       email: chifuroff@inbox.ru
       subject: Почему это?
       deleted: false
-      text: '"Другое дело, что для фестиваля нужны гитарные солисты-герои..."- а чем
-        Вам Дима Казанцев не герой? Я недавно видел "Crossroads guitar festival"-
-        так там весь спектр был представлен- от архаиков-акустиков до Стива Вая! Почему
+      text: '"Другое дело, что для фестиваля нужны гитарные солисты-герои..."- а чем Вам Дима Казанцев не герой? Я недавно
+        видел "Crossroads guitar festival"- так там весь спектр был представлен- от архаиков-акустиков до Стива Вая! Почему
         у нас всё вогнано в такие жесткие рамки, что даже Dr. Nick - "не формат"?'
       replies:
       - id: 20217
@@ -99,10 +96,10 @@ posts:
         email: fedor@blues.ru
         subject: Фестиваль
         deleted: false
-        text: Вопросы не ко мне, ибо не я его организую. Но я примерно понимаю, какие
-          могут быть проблемы. На фестивале будет два блюзовых хаус-бенда и выходящие
-          к ним гитаристы, которые будут играть что-то близкое к джему. Дима, может,
-          и - герой, но в совсем другом качестве...
+        text: Вопросы не ко мне, ибо не я его организую. Но я примерно понимаю, какие могут быть проблемы. На фестивале будет
+          два блюзовых хаус-бенда и выходящие к ним гитаристы, которые будут играть что-то близкое к джему. Дима, может, и
+          - герой, но в совсем другом качестве...
+        person_id: 2
     - id: 20230
       parent_id: 20211
       date: 2005-01-22 01:35
@@ -115,6 +112,7 @@ posts:
         <DIV align=center><IMG align=baseline alt="" border=0 hspace=0 src="http://www.beatles.ru/img/forum/message346613.jpg"></DIV>
 
         Надеюсь, никто не обидится на шутку :о)'
+    person_id: 2
   - id: 20213
     parent_id: 20204
     date: 2005-01-20 18:50
@@ -131,6 +129,7 @@ posts:
       email: evdokimov@blues.ru
       subject: мда... не стОит трогать... не стОит...
       deleted: false
+      person_id: 4
   - id: 20215
     parent_id: 20204
     date: 2005-01-20 19:25
@@ -138,8 +137,8 @@ posts:
     email: kalium@zianid.ru
     subject: Ещё вы забыли
     deleted: false
-    text: Ингви Малмстина, Джо Сатриани, Стива Вая, Виктора Зинчука, Тони Макальпина,
-      Темура Квителашвили, Эрика Джонсона, Дмитрия Малолетова
+    text: Ингви Малмстина, Джо Сатриани, Стива Вая, Виктора Зинчука, Тони Макальпина, Темура Квителашвили, Эрика Джонсона,
+      Дмитрия Малолетова
   - id: 20241
     parent_id: 20204
     date: 2005-01-23 21:19
@@ -154,8 +153,7 @@ posts:
     email: denis1482@mail.ru
     subject: боязно
     deleted: false
-    text: 'Прочитав комменты, складывается впечатление, что у вас тут очень тесная
-      тусовка...
+    text: 'Прочитав комменты, складывается впечатление, что у вас тут очень тесная тусовка...
 
       Вы "не своего"-то на фестиваль пустите? :)'
     replies:
@@ -166,9 +164,9 @@ posts:
       email: fedor@blues.ru
       subject: Фестиваль.......
       deleted: false
-      text: В качестве исполнителя - уже поздно кого-либо пускать ;) А в качестве
-        зрителей - там будет по 400 человек "не своих" в каждый из двух дней ;) Можно
-        смешаться с толпой...
+      text: В качестве исполнителя - уже поздно кого-либо пускать ;) А в качестве зрителей - там будет по 400 человек "не
+        своих" в каждый из двух дней ;) Можно смешаться с толпой...
+      person_id: 2
   - id: 20270
     parent_id: 20204
     date: 2005-01-26 19:32
@@ -176,9 +174,8 @@ posts:
     email: joeturnerblues@yahoo.com
     subject: Blues festival
     deleted: false
-    text: I would like to know to whom I should write regarding booking an artist
-      on your next festival. I represent JOE TURNER AND HIS BLUES CARAVAN web site
-      www.joeturnerblues.com
+    text: I would like to know to whom I should write regarding booking an artist on your next festival. I represent JOE TURNER
+      AND HIS BLUES CARAVAN web site www.joeturnerblues.com
   - id: 20401
     parent_id: 20204
     date: 2005-02-08 22:25
@@ -186,53 +183,36 @@ posts:
     email: deltagroovemusic@earthlink.net
     subject: Blues Festival
     deleted: false
-    text: "Dear Event Promoter,\n\nI'm writing this letter to inform all domestic\
-      \ and international blues festivals that Delta Groove Productions, a relatively\
-      \ new record label based in North Hollywood, California, is offering it's roster\
-      \ of recording artists for live performances. \n\nLast year one of our acts,\
-      \ The Mannish Boys, performed at several prominent festivals in the United States.\
-      \  Their performance is an exceptionally powerful hard-hitting review.  The\
-      \ Mannish Boys' first CD was released in the United States on Nov. 23rd, 2004\
-      \ and it is currently the #1 CD in the Living Blues radio chart.\n\nThe reviews\
-      \ for the album have been exceptional in all major publications.  Foreign distribution\
-      \ for The Mannish Boys CD and all Delta Groove products will soon be  solidified.\
-      \  Reviews for both the album and for live performances can be seen on our website\
-      \ at www.deltagrooveproductions.com The Mannish Boy lineup consists of June\
-      \ Core and Ronnie James Webber on drums and bass guitar respectively.  They\
-      \ both have had outstanding careers and are currently playing with The Fabulous\
-      \ Thunderbirds and Charlie Musselwhite. Keyboards in the group are by veteran\
-      \ piano man Leon Blue whose career has spanned three decades. He spent almost\
-      \ ten years with Ike and Tina Turner and also long periods playing with Albert\
-      \ Collins, B.B. King and Joe Turner.\n\nThe two guitar players in The Mannish\
-      \ Boys are Frank \"Paris Slim\" Goldwasser and Kirk Fletcher.  Frank is a veteran\
-      \ guitar player and singer who has toured the world with the a Who's Who of\
-      \ the Blues and has released several solo albums under his own name. Kirk has\
-      \ a new CD out on Delta Groove which has been released in Europe on CrossCut.\
-      \ He had a previous album out on JSP as well. Kirk is nominated for a 2005 WC\
-      \ Handy Award for guitar instrumentalist of the year.  When he isn't available\
-      \ to play with The Mannish Boys due to his commitments with The Fabulous Thunderbirds\
-      \ his guitar duties are fulfilled by Kid Ramos who is well known for his guitar\
-      \ pyrotechnics as a member of the James Harmon Band as well as The Fabulous\
-      \ Thunderbirds. Kid has also released a series of his own albums. The lead singer\
-      \ of The Mannish Boys is Finis Tasby. Finis is known as one of the last deep\
-      \ authentic Blues/Soul singers still thriving in today's market. \n\nTo complete\
-      \ this powerful review Delta Groove Productions is also offering to include\
-      \ some of the guest artists featured on The Mannish Boys album. For last year's\
-      \ festivals we featured Mississippi-born Johnny Dyer who is one of the last\
-      \ Chicago-style players and whose vocals are reminiscent of those of Muddy Waters\
-      \ as well as Arthur Adams, Mickey Champion, Lynwood Slim and myself, Randy Chortkoff.\
-      \  I encourage any interested buyers to view our website under \"music production\"\
-      \ and read the review titled Positively Entertainment. The financial and entertainment\
-      \ value for a festival that contains several stages or days is that The Mannish\
-      \ Boys and special guests can be split up to accommodate solo acts on various\
-      \ stages over the course of two or three days culminating in a 90 minute grand\
-      \ finale review. \n\nThank you in advance for considering our artists for your\
-      \ festival.  We guarantee a performance your fans will never forget. \n\nPlease\
-      \ check our website ( www.deltagrooveproductions.com ) for audio clips, reviews\
-      \ and other artists that you may be interested in for your event.  You can also\
-      \ click on the link below to view the Delta Groove (West Coast) Blues Revue\
-      \ One Sheet. (www.themannishboys.com/2005festivalonesheet.jpg ).\n         \
-      \                                                                       \nSincerely,\n\
-      \                                                                          \
-      \      \nRandy Chortkoff--- (C.E.O.)\nDelta Groove Productions\n818.755.4460\n\
-      deltagroovemusic@earthlink.net"
+    text: "Dear Event Promoter,\n\nI'm writing this letter to inform all domestic and international blues festivals that Delta\
+      \ Groove Productions, a relatively new record label based in North Hollywood, California, is offering it's roster of\
+      \ recording artists for live performances. \n\nLast year one of our acts, The Mannish Boys, performed at several prominent\
+      \ festivals in the United States.  Their performance is an exceptionally powerful hard-hitting review.  The Mannish\
+      \ Boys' first CD was released in the United States on Nov. 23rd, 2004 and it is currently the #1 CD in the Living Blues\
+      \ radio chart.\n\nThe reviews for the album have been exceptional in all major publications.  Foreign distribution for\
+      \ The Mannish Boys CD and all Delta Groove products will soon be  solidified.  Reviews for both the album and for live\
+      \ performances can be seen on our website at www.deltagrooveproductions.com The Mannish Boy lineup consists of June\
+      \ Core and Ronnie James Webber on drums and bass guitar respectively.  They both have had outstanding careers and are\
+      \ currently playing with The Fabulous Thunderbirds and Charlie Musselwhite. Keyboards in the group are by veteran piano\
+      \ man Leon Blue whose career has spanned three decades. He spent almost ten years with Ike and Tina Turner and also\
+      \ long periods playing with Albert Collins, B.B. King and Joe Turner.\n\nThe two guitar players in The Mannish Boys\
+      \ are Frank \"Paris Slim\" Goldwasser and Kirk Fletcher.  Frank is a veteran guitar player and singer who has toured\
+      \ the world with the a Who's Who of the Blues and has released several solo albums under his own name. Kirk has a new\
+      \ CD out on Delta Groove which has been released in Europe on CrossCut. He had a previous album out on JSP as well.\
+      \ Kirk is nominated for a 2005 WC Handy Award for guitar instrumentalist of the year.  When he isn't available to play\
+      \ with The Mannish Boys due to his commitments with The Fabulous Thunderbirds his guitar duties are fulfilled by Kid\
+      \ Ramos who is well known for his guitar pyrotechnics as a member of the James Harmon Band as well as The Fabulous Thunderbirds.\
+      \ Kid has also released a series of his own albums. The lead singer of The Mannish Boys is Finis Tasby. Finis is known\
+      \ as one of the last deep authentic Blues/Soul singers still thriving in today's market. \n\nTo complete this powerful\
+      \ review Delta Groove Productions is also offering to include some of the guest artists featured on The Mannish Boys\
+      \ album. For last year's festivals we featured Mississippi-born Johnny Dyer who is one of the last Chicago-style players\
+      \ and whose vocals are reminiscent of those of Muddy Waters as well as Arthur Adams, Mickey Champion, Lynwood Slim and\
+      \ myself, Randy Chortkoff.  I encourage any interested buyers to view our website under \"music production\" and read\
+      \ the review titled Positively Entertainment. The financial and entertainment value for a festival that contains several\
+      \ stages or days is that The Mannish Boys and special guests can be split up to accommodate solo acts on various stages\
+      \ over the course of two or three days culminating in a 90 minute grand finale review. \n\nThank you in advance for\
+      \ considering our artists for your festival.  We guarantee a performance your fans will never forget. \n\nPlease check\
+      \ our website ( www.deltagrooveproductions.com ) for audio clips, reviews and other artists that you may be interested\
+      \ in for your event.  You can also click on the link below to view the Delta Groove (West Coast) Blues Revue One Sheet.\
+      \ (www.themannishboys.com/2005festivalonesheet.jpg ).\n                                                            \
+      \                    \nSincerely,\n                                                                                \n\
+      Randy Chortkoff--- (C.E.O.)\nDelta Groove Productions\n818.755.4460\ndeltagroovemusic@earthlink.net"

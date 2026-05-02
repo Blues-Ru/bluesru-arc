@@ -11,8 +11,7 @@ posts:
   poster: tavrichesky
   subject: Max Tavrichesky-GOT HARP,WILL TRAVEL (2013)
   deleted: false
-  text: 'Распространяется на всех концертах. Расписание тут:http://vk.com/maxtavrichesky
-    и тут: http://facebook.com/tavrichesky
+  text: 'Распространяется на всех концертах. Расписание тут:http://vk.com/maxtavrichesky и тут: http://facebook.com/tavrichesky
 
 
     album mp3 demo mix:http://www.reverbnation.com/play_now/17780363'
@@ -45,16 +44,15 @@ posts:
       poster: tavrichesky
       subject: спасибо!
       deleted: false
-      text: будем набирать обороты.следующая запись будет ещё лучше и открытее.ну
-        а пока поживем с тем, что есть))
+      text: будем набирать обороты.следующая запись будет ещё лучше и открытее.ну а пока поживем с тем, что есть))
+      person_id: 7208
   - id: 39023
     parent_id: 39016
     date: 2013-07-02 00:44
     poster: Serge K.
     subject: Макс - ты красавец!
     deleted: false
-    text: 'Ух ты. Молодец. Хороший саунд. Напомнил мне мой любимый диск Paul Zunno
-      акустический!
+    text: 'Ух ты. Молодец. Хороший саунд. Напомнил мне мой любимый диск Paul Zunno акустический!
 
       РЕСПЕКТ! Где купить?
 
@@ -67,5 +65,5 @@ posts:
       poster: tavrichesky
       subject: спасибо,Сергей!
       deleted: false
-      text: купить можно будет вскоре в интернете. А на Белоруссию я диск Ускову буду
-        отправлять-сообщу,если вы связь держите
+      text: купить можно будет вскоре в интернете. А на Белоруссию я диск Ускову буду отправлять-сообщу,если вы связь держите
+      person_id: 7208

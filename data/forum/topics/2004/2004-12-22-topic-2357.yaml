@@ -12,8 +12,7 @@ posts:
   email: blackcat@blues.ru
   subject: Умер Сон Силз
   deleted: false
-  text: Блюзмен, певец и гитарист Сон Силз скончался в понедельник в Чикаго. (Reuters,
-    <a href="http://www.reuters.com/newsArticle.jhtml;jsessionid=SDBTTFOH4XLDOCRBAELCFFA?type=musicNews&storyID=7155374"
+  text: Блюзмен, певец и гитарист Сон Силз скончался в понедельник в Чикаго. (Reuters, <a href="http://www.reuters.com/newsArticle.jhtml;jsessionid=SDBTTFOH4XLDOCRBAELCFFA?type=musicNews&storyID=7155374"
     target="_blank">http://www.reuters.com/newsArticle.jhtml;jsessionid=SDBTTFOH4XLDOCRBAELCFFA?type=musicNews&storyID=7155374</a>)
   replies:
   - id: 20025
@@ -23,9 +22,8 @@ posts:
     email: mlives_6@hotmail.com
     subject: Грустно
     deleted: false
-    text: "Слишком рано нас покинул господин Силз.  В Силзе слышна вся история блюза\
-      \ Чикаго.  И после несколько нот уже понятно именно кто расказывает эту историю.\
-      \  Мало отсалось таких на земле, как Сон.  \n\nMuddy"
+    text: "Слишком рано нас покинул господин Силз.  В Силзе слышна вся история блюза Чикаго.  И после несколько нот уже понятно\
+      \ именно кто расказывает эту историю.  Мало отсалось таких на земле, как Сон.  \n\nMuddy"
   - id: 20028
     parent_id: 20019
     date: 2004-12-23 10:04
@@ -33,9 +31,8 @@ posts:
     email: leonidovd@mail.ru
     subject: Столпы уходят...
     deleted: false
-    text: 'Очень грустно... Слушаю Коллинза, Коупленда, Эллисона, теперь Сон Солза...
-      Не укладывается, что этих людей больше с нами нет. И больше не порадуют они
-      нас новыми блюзами, альбомами и концертами...
+    text: 'Очень грустно... Слушаю Коллинза, Коупленда, Эллисона, теперь Сон Солза... Не укладывается, что этих людей больше
+      с нами нет. И больше не порадуют они нас новыми блюзами, альбомами и концертами...
 
       Что-то уходит вместе с ними....'
   - id: 20077
@@ -45,8 +42,8 @@ posts:
     email: shxshjxsxhj
     subject: об уходящем
     deleted: false
-    text: 'Зилса я видел на Эфесе, тогда же и втянулся в записи. Феноменальная гитара,
-      он говорил что вырос под  Альберта Кинга. Кстати, Сон Зилс играл у Кинга барабанщиком
-      в начале пути... heaven done call another blues stringer back home.
+    text: 'Зилса я видел на Эфесе, тогда же и втянулся в записи. Феноменальная гитара, он говорил что вырос под  Альберта
+      Кинга. Кстати, Сон Зилс играл у Кинга барабанщиком в начале пути... heaven done call another blues stringer back home.
 
       А после этих людей ничего не уходит, а только остается....'
+  person_id: 6

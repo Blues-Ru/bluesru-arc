@@ -11,8 +11,7 @@ posts:
   poster: Плакса
   subject: Вера Кузницова
   deleted: false
-  text: <iframe width="560" height="315" src="http://www.youtube.com/embed/5L2dfQLoL_I"
-    frameborder="0" allowfullscreen></iframe>
+  text: <iframe width="560" height="315" src="http://www.youtube.com/embed/5L2dfQLoL_I" frameborder="0" allowfullscreen></iframe>
   replies:
   - id: 38998
     parent_id: 38997
@@ -28,3 +27,6 @@ posts:
       poster: Andrei V. Evdokimov
       subject: форум не правится
       deleted: false
+      person_id: 4
+    person_id: 4337
+  person_id: 4337

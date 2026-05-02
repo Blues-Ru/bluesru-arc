@@ -27,3 +27,5 @@ posts:
     subject: Эти мастера такие мастера...
     deleted: false
     text: '... что просто нет слов!'
+    person_id: 13
+  person_id: 8285

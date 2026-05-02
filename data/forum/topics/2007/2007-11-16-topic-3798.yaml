@@ -12,9 +12,8 @@ posts:
   email: leonart1994@mail.ru
   subject: Есть ли у кого фотки с фестивая в ЦДХ?
   deleted: false
-  text: Народ, очень нужны качественные фотки, две-три, с блюзового фестиваля в ЦДХ
-    15 ноября. Пишу статью, некоммерческую, фотоматериала нет. :( Please help! leonart1994@mail.ru
-    Большое спасибо заранее.
+  text: Народ, очень нужны качественные фотки, две-три, с блюзового фестиваля в ЦДХ 15 ноября. Пишу статью, некоммерческую,
+    фотоматериала нет. :( Please help! leonart1994@mail.ru Большое спасибо заранее.
   replies:
   - id: 33895
     parent_id: 33889
@@ -32,6 +31,7 @@ posts:
       email: leonart1994@mail.ru
       subject: Спасибо!
       deleted: false
+    person_id: 204
   - id: 33912
     parent_id: 33889
     date: 2007-11-18 13:04
@@ -50,8 +50,7 @@ posts:
       email: leonart1994@mail.ru
       subject: Благодарю!
       deleted: false
-      text: Joakim Tinderholt Express правда не выступали в ЦДХ, там из новержцев
-        был Ейрик Бергене.
+      text: Joakim Tinderholt Express правда не выступали в ЦДХ, там из новержцев был Ейрик Бергене.
       replies:
       - id: 33918
         parent_id: 33916
@@ -61,6 +60,7 @@ posts:
         subject: елки
         deleted: false
         text: та же колода в другой расдаче
+        person_id: 4
   - id: 33919
     parent_id: 33889
     date: 2007-11-19 08:13
@@ -69,3 +69,4 @@ posts:
     subject: 'есть немного:'
     deleted: false
     text: http://marianner.livejournal.com/tag/harpfest
+  person_id: 6501

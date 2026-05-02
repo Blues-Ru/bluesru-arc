@@ -11,21 +11,18 @@ posts:
   poster: Старый Майор
   subject: YMCA is everywhere!
   deleted: false
-  text: 'Horst Lippmann, on the 1964 American Folk Blues Festival tour that traveled
-    behind the Iron Curtain. From I Am the Blues by Willie Dixon with Don Snowden
-    (Da Capo Press, 1989).
+  text: 'Horst Lippmann, on the 1964 American Folk Blues Festival tour that traveled behind the Iron Curtain. From I Am the
+    Blues by Willie Dixon with Don Snowden (Da Capo Press, 1989).
 
     --
 
 
-    I had a very funny problem with Wolf. When we played Poland and East Germany,
-    he got the salary paid partly in dollars but we had to take 50 percent in local
-    currency, which is not convertible, so we had to spend it in the country.
+    I had a very funny problem with Wolf. When we played Poland and East Germany, he got the salary paid partly in dollars
+    but we had to take 50 percent in local currency, which is not convertible, so we had to spend it in the country.
 
 
-    Willie [Dixon] bought himself a mink hat which was stolen, Hubert Sumlin bought
-    some jewels and stuff, and Wolf didn’t know what to buy so he said, ‘Give it to
-    the YMCA.’ I said, ‘But Wolf, there is no YMCA. This is a communist country.’
+    Willie [Dixon] bought himself a mink hat which was stolen, Hubert Sumlin bought some jewels and stuff, and Wolf didn’t
+    know what to buy so he said, ‘Give it to the YMCA.’ I said, ‘But Wolf, there is no YMCA. This is a communist country.’
     He said, ‘The YMCA is everywhere.’'
   replies:
   - id: 38414
@@ -49,8 +46,7 @@ posts:
         poster: tavrichesky
         subject: да это вконтакте на стене
         deleted: false
-        text: так что нет смысла ссылку кидать. книжку бы полностью найти...часом
-          не знаете, может лежит где электронный вариант?
+        text: так что нет смысла ссылку кидать. книжку бы полностью найти...часом не знаете, может лежит где электронный вариант?
         replies:
         - id: 38436
           parent_id: 38433
@@ -58,3 +54,7 @@ posts:
           poster: Старый Майор
           subject: Alas.. I dunno
           deleted: false
+          person_id: 13
+        person_id: 7208
+      person_id: 13
+    person_id: 7208

@@ -21,8 +21,7 @@ posts:
     email: elicaster мeйлтoчкapy
     subject: Windows 88
     deleted: false
-    text: 'Это, кажись, группа Окно (угар Перестройки, тексты не-в-бровь-а-в-глаз,
-      передача Взгляд...)
+    text: 'Это, кажись, группа Окно (угар Перестройки, тексты не-в-бровь-а-в-глаз, передача Взгляд...)
 
       Суды по стёртостям на картинке, это виниловая пластинка.'
   - id: 29055
@@ -44,6 +43,7 @@ posts:
       email: chifuroff<sobaka>inbox.ru
       subject: Второй справа- Петрович!
       deleted: false
+      person_id: 2888
   - id: 29057
     parent_id: 29053
     date: 2006-10-09 22:10
@@ -51,6 +51,7 @@ posts:
     email: buchothk@yahoo.com
     subject: ух ты, забавно ))
     deleted: false
+    person_id: 4632
   - id: 29065
     parent_id: 29053
     date: 2006-10-10 12:19
@@ -100,3 +101,5 @@ posts:
 
 
             приходите!'
+      person_id: 335
+  person_id: 335

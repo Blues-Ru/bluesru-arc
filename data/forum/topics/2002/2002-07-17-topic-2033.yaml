@@ -12,8 +12,7 @@ posts:
   email: lifebythedrop@yandex.ru
   subject: Хорошо живёт на свете Винни Мур
   deleted: false
-  text: Кстати, что-нибудь мне скажет толком, кто это такой и имеет ли отношение какое-нибудь
-    к Гарри Муру?
+  text: Кстати, что-нибудь мне скажет толком, кто это такой и имеет ли отношение какое-нибудь к Гарри Муру?
   replies:
   - id: 6103
     parent_id: 6101
@@ -41,6 +40,7 @@ posts:
         subject: Отстой это
         deleted: false
         text: к Гари не имеет отношения, хотя он тоже отстой ;)
+        person_id: 335
       - id: 6149
         parent_id: 6114
         date: 2002-07-19 01:47
@@ -48,8 +48,9 @@ posts:
         email: vad2908@mail.ru
         subject: '...вааще-то у них Муров, как у нас...'
         deleted: false
-        text: '...Петровых,,,,есть среди них более заслуживающие внимания, напр. James
-          Moore (в блюзовом мире - Slim Harpo)....'
+        text: '...Петровых,,,,есть среди них более заслуживающие внимания, напр. James Moore (в блюзовом мире - Slim Harpo)....'
+        person_id: 598
+      person_id: 687
   - id: 6140
     parent_id: 6101
     date: 2002-07-18 20:47
@@ -57,5 +58,5 @@ posts:
     email: vts13@hotmail.com
     subject: неоклассика это называется
     deleted: false
-    text: Типа Ингви Мальмстина.Связи с блюзом не замечал.Исполнил  While My Guitar
-      Gently Weeps (Harrison ) инструментально.
+    text: Типа Ингви Мальмстина.Связи с блюзом не замечал.Исполнил  While My Guitar Gently Weeps (Harrison ) инструментально.
+  person_id: 687

@@ -12,8 +12,8 @@ posts:
   email: volodya@blues.ru
   subject: Rod Piazza
   deleted: false
-  text: "CONCERT SCHEDULE\n       \nMoscow, RUS   Include Surrounding Cities  \n\n\
-    Sat 12/09/06   Rod Piazza & The Mighty Flyers  International Performing Arts Centr"
+  text: "CONCERT SCHEDULE\n       \nMoscow, RUS   Include Surrounding Cities  \n\nSat 12/09/06   Rod Piazza & The Mighty Flyers\
+    \  International Performing Arts Centr"
   replies:
   - id: 26089
     parent_id: 26087
@@ -30,6 +30,7 @@ posts:
     subject: Вот это да!
     deleted: false
     text: Г-ну Русинову пиво за отличные новости! :)
+    person_id: 4313
   - id: 26095
     parent_id: 26087
     date: 2006-02-15 12:52
@@ -45,9 +46,8 @@ posts:
       email: mhobbit@mail.ru
       subject: ббб!!! :))
       deleted: false
-      text: Федор, а ты можешь попробовать как-то связаться с организаторами/с группой,
-        чтоб еще хотя бы парочку клубных концертов сделать? А то один концерт - несерьезно...
-        :)
+      text: Федор, а ты можешь попробовать как-то связаться с организаторами/с группой, чтоб еще хотя бы парочку клубных концертов
+        сделать? А то один концерт - несерьезно... :)
       replies:
       - id: 26103
         parent_id: 26101
@@ -64,9 +64,8 @@ posts:
           email: fedor@blues.ru
           subject: Связаться
           deleted: false
-          text: Ну я уже подумал про это, но, думаю, денег не хватит ;) Хотя, стоит
-            того, на мой взгляд. Я попробую, время до декабря есть... Вполне возможно,
-            что они на один день прилетят.
+          text: Ну я уже подумал про это, но, думаю, денег не хватит ;) Хотя, стоит того, на мой взгляд. Я попробую, время
+            до декабря есть... Вполне возможно, что они на один день прилетят.
           replies:
           - id: 26173
             parent_id: 26106
@@ -94,6 +93,10 @@ posts:
                 subject: ты это мне?
                 deleted: false
                 text: поясни
+                person_id: 335
+            person_id: 335
+          person_id: 2
+    person_id: 2
   - id: 26098
     parent_id: 26087
     date: 2006-02-15 15:08

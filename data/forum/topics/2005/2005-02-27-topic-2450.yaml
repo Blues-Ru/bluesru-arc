@@ -37,6 +37,7 @@ posts:
       subject: ага точно.. а тут роберты джонсоны толпами.. повалили ...
       deleted: false
       text: стяами ходят...
+      person_id: 5
   - id: 20597
     parent_id: 20592
     date: 2005-03-01 18:58

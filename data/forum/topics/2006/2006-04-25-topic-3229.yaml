@@ -37,6 +37,7 @@ posts:
       subject: Ну ты сравнил..
       deleted: false
       text: Стильный инструмент с изделием N2 от ЧТЗ...
+    person_id: 1725
   - id: 27219
     parent_id: 27125
     date: 2006-04-27 21:09
@@ -57,3 +58,4 @@ posts:
       email: volodya@blues.ru
       subject: лучше барабан в виде карты москвы ;)
       deleted: false
+      person_id: 5

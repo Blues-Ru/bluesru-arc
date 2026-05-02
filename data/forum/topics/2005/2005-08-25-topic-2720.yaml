@@ -14,8 +14,7 @@ posts:
   deleted: false
   text: 'Вадим,
 
-    Желаем тебе здоровья, любви ,больших успехов в твоем благородном деле, приятных
-    встреч и знакомств....короче всего самого.
+    Желаем тебе здоровья, любви ,больших успехов в твоем благородном деле, приятных встреч и знакомств....короче всего самого.
 
     Grem и Надюха'
   replies:
@@ -27,6 +26,7 @@ posts:
     subject: Присоединяюсь!
     deleted: false
     text: УРА! УРА!!
+    person_id: 2803
   - id: 22488
     parent_id: 22479
     date: 2005-08-25 11:45
@@ -51,6 +51,8 @@ posts:
         subject: черес А оно пишеццо однозначно!
         deleted: false
         text: Проверочное слово - "Паганини".
+      person_id: 1719
+    person_id: 1719
   - id: 22491
     parent_id: 22479
     date: 2005-08-25 11:54
@@ -58,6 +60,7 @@ posts:
     email: volodya@blues.ru
     subject: УРА!!
     deleted: false
+    person_id: 5
   - id: 22499
     parent_id: 22479
     date: 2005-08-25 17:00
@@ -66,6 +69,7 @@ posts:
     subject: И я!
     deleted: false
     text: Вадим, с днем рождения! ;))
+    person_id: 2
   - id: 22503
     parent_id: 22479
     date: 2005-08-25 18:19
@@ -74,6 +78,7 @@ posts:
     subject: Именно! Ура!
     deleted: false
     text: Всех благ!
+    person_id: 335
   - id: 22506
     parent_id: 22479
     date: 2005-08-26 12:48
@@ -90,3 +95,4 @@ posts:
       email: dibrova_blues@rambler.ru
       subject: Присоединяюсь к поздравлениям!!!!!
       deleted: false
+      person_id: 3588

@@ -12,21 +12,16 @@ posts:
   email: elicaster@mmmmmail.ru
   subject: Tisket! Tasket! baby
   deleted: false
-  text: "Давно интересует меня вопрос \"Что же это такое: Tisket! Tasket!\"? Эти слова\
-    \ звучат в песне Mary Had a Little Lamb (SRV - Texas Flood, 1983). Да и вообще,\
-    \ мне совершенно не понятно о чём поётся в третьем куплете этой песни:\n Tisket!\
-    \ Tasket! baby\n A green and yellow basket\n Sent a letter to my baby\n On my\
-    \ way I past it\nКакая связь с первыми двуми куплетами?..\nКстати у Ella Fitzgerald\
-    \ есть песня A Tisket, A Tasket.\nИ ещё вопрос: всё тот же альбом SRV - Texas\
-    \ Flood, 1983. Песня Dirty Pool. Что означают \"to turn the tables on smb.\",\
-    \ \"eight-ball\" и \"dirty pool\":\n- True love is gone. I's been played for a\
-    \ fool.\n  I'm turnin' the tables on you. You've been playin' dirty pool.\n- You\
-    \ said you'd call the shots darlin'. All your friends thought that was so cool.\n\
-    \  Yeah when you shot at the eight-ball baby. I knew you were playin' dirty pool.\n\
-    - They say that life. Life is a game of give and take.\n  I'm tellin' you one\
-    \ thing right now little baby. I won't be the one to pay for your mistake.\nМалехо\
-    \ смущает \" I's been...\". \nИ ещё раз кстати, у меня на пластинке Sarah Vaughan\
-    \ есть песня You turned the tables on me."
+  text: "Давно интересует меня вопрос \"Что же это такое: Tisket! Tasket!\"? Эти слова звучат в песне Mary Had a Little Lamb\
+    \ (SRV - Texas Flood, 1983). Да и вообще, мне совершенно не понятно о чём поётся в третьем куплете этой песни:\n Tisket!\
+    \ Tasket! baby\n A green and yellow basket\n Sent a letter to my baby\n On my way I past it\nКакая связь с первыми двуми\
+    \ куплетами?..\nКстати у Ella Fitzgerald есть песня A Tisket, A Tasket.\nИ ещё вопрос: всё тот же альбом SRV - Texas Flood,\
+    \ 1983. Песня Dirty Pool. Что означают \"to turn the tables on smb.\", \"eight-ball\" и \"dirty pool\":\n- True love is\
+    \ gone. I's been played for a fool.\n  I'm turnin' the tables on you. You've been playin' dirty pool.\n- You said you'd\
+    \ call the shots darlin'. All your friends thought that was so cool.\n  Yeah when you shot at the eight-ball baby. I knew\
+    \ you were playin' dirty pool.\n- They say that life. Life is a game of give and take.\n  I'm tellin' you one thing right\
+    \ now little baby. I won't be the one to pay for your mistake.\nМалехо смущает \" I's been...\". \nИ ещё раз кстати, у\
+    \ меня на пластинке Sarah Vaughan есть песня You turned the tables on me."
   replies:
   - id: 16441
     parent_id: 16433
@@ -38,11 +33,10 @@ posts:
     text: 'вся песня про Мэри.
 
 
-      изучи блюзовый словарь Аграновского на первой страницы Блюзры! там много что
-      есть!
+      изучи блюзовый словарь Аграновского на первой страницы Блюзры! там много что есть!
 
-      Eight Ball - это черный шар с восьмеркой; цель игры в пул. Dirty Pool - нечестная
-      игра в пул, но тут имеется в виду измена или обман. Все это аллегории и т.д.'
+      Eight Ball - это черный шар с восьмеркой; цель игры в пул. Dirty Pool - нечестная игра в пул, но тут имеется в виду
+      измена или обман. Все это аллегории и т.д.'
     replies:
     - id: 16443
       parent_id: 16441
@@ -51,9 +45,8 @@ posts:
       email: elicaster@mmmmmmmmmail.ru
       subject: You turned the tables on me
       deleted: false
-      text: На упамянавшейся мной пластинке Sarah Vaughan есть песня You turned the
-        tables on me (Balkanton) эта песня переводится как "Ты разменял свою роль
-        со мной"
+      text: На упамянавшейся мной пластинке Sarah Vaughan есть песня You turned the tables on me (Balkanton) эта песня переводится
+        как "Ты разменял свою роль со мной"
       replies:
       - id: 16446
         parent_id: 16443
@@ -64,8 +57,7 @@ posts:
         deleted: false
         text: 'есть много разных значений.
 
-          идет это от сеансов магии и игры в карты. везение, смена позиции, изменение
-          судьбы.
+          идет это от сеансов магии и игры в карты. везение, смена позиции, изменение судьбы.
 
           Now the tables are turning - теперь все меняется.
 
@@ -79,9 +71,8 @@ posts:
     deleted: false
     text: 'Спасибо Дима.
 
-      Кстати, песня Dity Pool была сочинена SRV и Doyle Bramhall ещё в их юношеские
-      годы. В нотном издании этой песни стоит Copyright (C) 1973 by RAY VAUGHAN MUSIC,
-      INC. and BRAMHALL PUBLISHING. Максимум тогда С.Р.Воэну было 18. А вот Lenny
+      Кстати, песня Dity Pool была сочинена SRV и Doyle Bramhall ещё в их юношеские годы. В нотном издании этой песни стоит
+      Copyright (C) 1973 by RAY VAUGHAN MUSIC, INC. and BRAMHALL PUBLISHING. Максимум тогда С.Р.Воэну было 18. А вот Lenny
       "зарегистрирована" в 1980: Copyright (C) 1980 by RAY VAUGHAN MUSIC, INC.'
     replies:
     - id: 16475
@@ -92,3 +83,4 @@ posts:
       subject: отличная инфа!
       deleted: false
       text: и песни супер!
+      person_id: 335

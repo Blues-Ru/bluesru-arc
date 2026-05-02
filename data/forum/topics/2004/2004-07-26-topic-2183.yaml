@@ -12,9 +12,8 @@ posts:
   email: ladycom79@mail.ru
   subject: Help Me!
   deleted: false
-  text: 'Друзья! Подскажите, пожалуйста, где можно в сети найти мр3-файлы вот этих
-    двух песен: Help Me (Sonny Boy Williamson II) и Three hundred pounds of joy (Howlin
-    Wolf)? Я пытаюсь найти, но что-то нигде нет, где можно нормально скачать. Спасибо
+  text: 'Друзья! Подскажите, пожалуйста, где можно в сети найти мр3-файлы вот этих двух песен: Help Me (Sonny Boy Williamson
+    II) и Three hundred pounds of joy (Howlin Wolf)? Я пытаюсь найти, но что-то нигде нет, где можно нормально скачать. Спасибо
     огромное!'
   replies:
   - id: 19007
@@ -40,3 +39,5 @@ posts:
       subject: Help Me!
       deleted: false
       text: Большущее спасибо! :)
+      person_id: 2166
+  person_id: 2166

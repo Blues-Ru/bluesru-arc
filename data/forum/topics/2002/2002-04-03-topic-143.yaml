@@ -12,8 +12,8 @@ posts:
   email: Lena_Piterskaya@readersdigest.com
   subject: Сайт группы Сrossroadz
   deleted: false
-  text: Люди! Кот-нибудь в курсе, что случилось с официальным сайтом группы Crossroadz?
-    Вот уже вторую неделю не могу в него зайти. Или это глючит мой компьютер?
+  text: Люди! Кот-нибудь в курсе, что случилось с официальным сайтом группы Crossroadz? Вот уже вторую неделю не могу в него
+    зайти. Или это глючит мой компьютер?
   replies:
   - id: 3285
     parent_id: 3284
@@ -22,8 +22,8 @@ posts:
     email: fedor@blues.ru
     subject: Мда, плохо дело с сайтом...
     deleted: false
-    text: '"No web site is configured at this address." - случилось именно с сайтом,
-      провайдер почему-то перестал его сервировать. А что, приспичило? ;))'
+    text: '"No web site is configured at this address." - случилось именно с сайтом, провайдер почему-то перестал его сервировать.
+      А что, приспичило? ;))'
     replies:
     - id: 3376
       parent_id: 3285
@@ -60,8 +60,7 @@ posts:
           email: peregnoy@mail.ru
           subject: А думаешь
           deleted: false
-          text: Сергей согласиться? Пафоса-то будет меньше, да и адрес сложнее для
-            запоминания ;)
+          text: Сергей согласиться? Пафоса-то будет меньше, да и адрес сложнее для запоминания ;)
           replies:
           - id: 3424
             parent_id: 3413
@@ -80,3 +79,6 @@ posts:
               subject: Ну спасибо,
               deleted: false
               text: дорогой, успокоил. А то я уж было волноваться начал...;)
+            person_id: 2
+        person_id: 2
+    person_id: 2

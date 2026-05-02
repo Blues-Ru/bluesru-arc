@@ -11,8 +11,7 @@ posts:
   poster: Andrei V. Evdokimov
   subject: Полчасика на утубе с сегодняшним именинником!
   deleted: false
-  text: <iframe width="560" height="315" src="http://www.youtube.com/embed/_iBrNGqStKw"
-    frameborder="0" allowfullscreen></iframe>
+  text: <iframe width="560" height="315" src="http://www.youtube.com/embed/_iBrNGqStKw" frameborder="0" allowfullscreen></iframe>
   replies:
   - id: 38822
     parent_id: 38821
@@ -21,3 +20,5 @@ posts:
     subject: ДР ДВ
     deleted: false
     text: Спасибо!
+    person_id: 7284
+  person_id: 4

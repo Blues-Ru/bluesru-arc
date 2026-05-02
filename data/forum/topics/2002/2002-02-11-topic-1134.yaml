@@ -12,26 +12,20 @@ posts:
   email: dr.nick@blues.ru
   subject: ТОП-10 результаты №2
   deleted: false
-  text: "Вот топ на сегодня. Есть изменения, основанные еще на 3 голосах. Пишите не\
-    \ стесняйтесь! В заголовке набейте ТОП-10 чтобы потом было просто искать.\n\n\
-    Muddy Waters\t10\nB.B. King\t8\nBuddy Guy\t8\nAlbert King\t7\nFreddie King\t6\n\
-    SRV\t6\nAlbert Collins\t5\nHowlin Wolf\t5\nJimi Hendrix\t5\nJohn Lee Hooker\t\
-    5\nLightin Hopkins\t4\nT-Bone Walker\t4\nJohn Hammond\t3\nPaul Lamb\t3\nPeter\
-    \ Green\t3\nRonnie Earl\t3\nSonny Boy Williamson II\t3\nTaj Mahal\t3\nDave Hole\t\
-    2\nEric Clapton\t2\nJ.J. Cale\t2\nJB Lenoir\t2\nJohn Campbell\t2\nJohn Mayall\t\
-    2\nJunior Wells\t2\nLuther Allison\t2\nOtis Rush\t2\nPaul Black\t2\nRobert Johnson\t\
-    2\nRory Gallagher\t2\nRoy Buchanan\t2\nScreamin' Jay Hawkins\t2\nWilliam Clarke\t\
-    2\nWillie Dixon\t2\nBlues Brothers\t\nBrownie McGhee\t\nCanned Heat Blues Band\t\
-    \nCarlos Del Junco\t\nCharlie Musselwhite\t\nChris Duarte\t\nCorey Harris\t\n\
-    Craig Erickson\t\nDanny Gatton\t\nDuane Allman\t\nDuke Robillard\t\nElmore James\t\
-    \nGov't Mule\t\nHubert Sumlin\t\nJames Cotton\t\nJimmy Vaughan\t\nJoe Beard\t\n\
-    Johnny Winter\t\nKoko Taylor\t\nLeadbelly\t\nLittle Charlie & The Nightcats\t\n\
-    Little Feat\t\nLittle Walter\t\nLong John Hunter\t\nMemphis Minnie\t\nMemphis\
-    \ Slim\t\nMichael Bloomfield\t\nOtis Redding\t\nPaul Butterfield\t\nPaul Rishell\t\
-    \nPinetop Perkins\t\nR.L. Burnside\t\nRare Earth\t\nRay Charles\t\nReverend Gary\
-    \ Davis\t\nRick Derringer\t\nRick Holmstrom\t\nRobert Cray \t\nRod Piazza\t\n\
-    Rory Block\t\nRy Cooder\t\nSkip James\t\nSnooks Eaglin\t\nSon Seals\t\nStudebaker\
-    \ John\t\nThe Paladins\t\nTom Waits\t\nVidar Busk\t\nWilson Pickett"
+  text: "Вот топ на сегодня. Есть изменения, основанные еще на 3 голосах. Пишите не стесняйтесь! В заголовке набейте ТОП-10\
+    \ чтобы потом было просто искать.\n\nMuddy Waters\t10\nB.B. King\t8\nBuddy Guy\t8\nAlbert King\t7\nFreddie King\t6\nSRV\t\
+    6\nAlbert Collins\t5\nHowlin Wolf\t5\nJimi Hendrix\t5\nJohn Lee Hooker\t5\nLightin Hopkins\t4\nT-Bone Walker\t4\nJohn\
+    \ Hammond\t3\nPaul Lamb\t3\nPeter Green\t3\nRonnie Earl\t3\nSonny Boy Williamson II\t3\nTaj Mahal\t3\nDave Hole\t2\nEric\
+    \ Clapton\t2\nJ.J. Cale\t2\nJB Lenoir\t2\nJohn Campbell\t2\nJohn Mayall\t2\nJunior Wells\t2\nLuther Allison\t2\nOtis Rush\t\
+    2\nPaul Black\t2\nRobert Johnson\t2\nRory Gallagher\t2\nRoy Buchanan\t2\nScreamin' Jay Hawkins\t2\nWilliam Clarke\t2\n\
+    Willie Dixon\t2\nBlues Brothers\t\nBrownie McGhee\t\nCanned Heat Blues Band\t\nCarlos Del Junco\t\nCharlie Musselwhite\t\
+    \nChris Duarte\t\nCorey Harris\t\nCraig Erickson\t\nDanny Gatton\t\nDuane Allman\t\nDuke Robillard\t\nElmore James\t\n\
+    Gov't Mule\t\nHubert Sumlin\t\nJames Cotton\t\nJimmy Vaughan\t\nJoe Beard\t\nJohnny Winter\t\nKoko Taylor\t\nLeadbelly\t\
+    \nLittle Charlie & The Nightcats\t\nLittle Feat\t\nLittle Walter\t\nLong John Hunter\t\nMemphis Minnie\t\nMemphis Slim\t\
+    \nMichael Bloomfield\t\nOtis Redding\t\nPaul Butterfield\t\nPaul Rishell\t\nPinetop Perkins\t\nR.L. Burnside\t\nRare Earth\t\
+    \nRay Charles\t\nReverend Gary Davis\t\nRick Derringer\t\nRick Holmstrom\t\nRobert Cray \t\nRod Piazza\t\nRory Block\t\
+    \nRy Cooder\t\nSkip James\t\nSnooks Eaglin\t\nSon Seals\t\nStudebaker John\t\nThe Paladins\t\nTom Waits\t\nVidar Busk\t\
+    \nWilson Pickett"
   replies:
   - id: 1171
     parent_id: 1168
@@ -40,9 +34,8 @@ posts:
     email: Mrg_mike@rambler.ru
     subject: Oh, Damn
     deleted: false
-    text: Как много я не слышал, а by the way, кто такой Wilson Pickett? Слышал упомянание
-      о нём в Get That Feelin' и всё. Я тут недавно пришел к выводу что аккустический
-      Блюз мне как-то подушевее, чем электрический...
+    text: Как много я не слышал, а by the way, кто такой Wilson Pickett? Слышал упомянание о нём в Get That Feelin' и всё.
+      Я тут недавно пришел к выводу что аккустический Блюз мне как-то подушевее, чем электрический...
     replies:
     - id: 1174
       parent_id: 1171
@@ -51,12 +44,10 @@ posts:
       email: dr.nick@blues.ru
       subject: Пикетт
       deleted: false
-      text: "Уилсон - знаменитый черный певец и композитор в стиле ритм-н-блюз/соул.\
-        \ Начинал в группе Falcons вместе с Эдди Флойдом и Мэком Райсом!!! Главный\
-        \ хит - In The Midnight Hour (by Steve Cropper). \nИдея фильма и группы Blues\
-        \ Brothers практически построена на его музыке и двух-трех вещах Таж Махала.\
-        \ \nНа мой взгляд его альбомы скучны, а сборники слабые (те что я слышал).\
-        \ Безусловно есть пяток супер-хитов!"
+      text: "Уилсон - знаменитый черный певец и композитор в стиле ритм-н-блюз/соул. Начинал в группе Falcons вместе с Эдди\
+        \ Флойдом и Мэком Райсом!!! Главный хит - In The Midnight Hour (by Steve Cropper). \nИдея фильма и группы Blues Brothers\
+        \ практически построена на его музыке и двух-трех вещах Таж Махала. \nНа мой взгляд его альбомы скучны, а сборники\
+        \ слабые (те что я слышал). Безусловно есть пяток супер-хитов!"
       replies:
       - id: 1184
         parent_id: 1174
@@ -67,13 +58,12 @@ posts:
         deleted: false
         text: 'А я бы сказал, что его главный хит "Mustang Sally" :-))
 
-          А на счет Blues Brothers, Дим, ты загнул, конечно. Или перепутал... Потому
-          что на его музыке (а также Отиса Реддинга) построен фильм "The Commitments"
-          (1991) Алана Паркера. А Wilson Pickett участвует эпизодически только в Blues
-          Brothers 2000.
+          А на счет Blues Brothers, Дим, ты загнул, конечно. Или перепутал... Потому что на его музыке (а также Отиса Реддинга)
+          построен фильм "The Commitments" (1991) Алана Паркера. А Wilson Pickett участвует эпизодически только в Blues Brothers
+          2000.
 
-          И в заключение хотел добавить для Малколма. Wilson Pickett к акустическому
-          блюзу имеет весьма условное отношение. :-)'
+          И в заключение хотел добавить для Малколма. Wilson Pickett к акустическому блюзу имеет весьма условное отношение.
+          :-)'
         replies:
         - id: 1189
           parent_id: 1184
@@ -82,8 +72,8 @@ posts:
           email: dr.nick@blues.ru
           subject: Ничего я не загнул
           deleted: false
-          text: Мало того, что это известный факт, так это еще и слышно. Ты еще раз
-            композиции послушай и посмотри кто там играет.
+          text: Мало того, что это известный факт, так это еще и слышно. Ты еще раз композиции послушай и посмотри кто там
+            играет.
           replies:
           - id: 1195
             parent_id: 1189
@@ -103,18 +93,15 @@ posts:
               deleted: false
               text: 'конечно фильм классный! Но и "Blues Brothers" мне тоже нравится.
 
-                Дим, а ты сам-то давно смотрел "Blues Brothers"? А сонглист к саундтреку
-                помнишь? ;-) Позволю себе тебе напомнить:
+                Дим, а ты сам-то давно смотрел "Blues Brothers"? А сонглист к саундтреку помнишь? ;-) Позволю себе тебе напомнить:
 
                 http://www.allmusic.com/cg/amg.dll?p=amg&sql=A31320rjar48j
 
                 http://www.nederpoparchief.com/bluesbrothers/albums.html
 
-                Так вот обнаружена мною только одна вещь Тадж Махала (на 1980-м),
-                а Вилсон Пикетт присутствует только на 2000-м.
+                Так вот обнаружена мною только одна вещь Тадж Махала (на 1980-м), а Вилсон Пикетт присутствует только на 2000-м.
 
-                Чем буш крыть? Опять скажешь, что ты лично знаешь людей, которые лично
-                знакомы с Пикеттом? ;-))'
+                Чем буш крыть? Опять скажешь, что ты лично знаешь людей, которые лично знакомы с Пикеттом? ;-))'
               replies:
               - id: 1198
                 parent_id: 1197
@@ -123,10 +110,9 @@ posts:
                 email: dr.nick@blues.ru
                 subject: Ну при чем тут вещи?
                 deleted: false
-                text: Многие темы проходящие в фильмы - это темы связанные с Booker
-                  T. & The MG's, которые писали музыку на Стаксе, для Пикетта в том
-                  числе. А если бы ты внимательно слушал Тажа, то нашел бы у него
-                  на ранних дисках еще две темы из фильма. И хватит об этом.
+                text: Многие темы проходящие в фильмы - это темы связанные с Booker T. & The MG's, которые писали музыку на
+                  Стаксе, для Пикетта в том числе. А если бы ты внимательно слушал Тажа, то нашел бы у него на ранних дисках
+                  еще две темы из фильма. И хватит об этом.
                 replies:
                 - id: 1246
                   parent_id: 1198
@@ -136,6 +122,9 @@ posts:
                   subject: Blues Brothers
                   deleted: false
                   text: I wse zhe, ne Pickett bil "obrazcom" dlya BB, a Sam and Dave.
+                  person_id: 34
+                person_id: 335
+          person_id: 335
         - id: 1213
           parent_id: 1184
           date: 2002-02-12 22:22
@@ -143,8 +132,8 @@ posts:
           email: Mrg_mike@rambler.ru
           subject: To Alex
           deleted: false
-          text: Спасибо, дружище, но всё-равно, хотя к аккустике он не принадлежит...
-            короче, всё-равно Пикетт- это здорово(я его услышал-таки)
+          text: Спасибо, дружище, но всё-равно, хотя к аккустике он не принадлежит... короче, всё-равно Пикетт- это здорово(я
+            его услышал-таки)
           replies:
           - id: 1215
             parent_id: 1213
@@ -163,3 +152,7 @@ posts:
               subject: а вот и нет!
               deleted: false
               text: аКустиКа пишется с двумя "К"!  :-))))
+              person_id: 82
+            person_id: 335
+          person_id: 687
+        person_id: 82

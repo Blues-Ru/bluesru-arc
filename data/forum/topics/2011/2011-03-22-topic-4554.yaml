@@ -22,6 +22,7 @@ posts:
     poster: Владимир  Демьянов
     subject: RIP
     deleted: false
+    person_id: 7077
   - id: 37445
     parent_id: 37443
     date: 2011-03-22 09:27
@@ -29,6 +30,7 @@ posts:
     subject: жаль жаль
     deleted: false
     text: RIP
+    person_id: 7219
   - id: 37446
     parent_id: 37443
     date: 2011-03-22 09:30
@@ -36,3 +38,4 @@ posts:
     subject: круто пожил
     deleted: false
     text: настоящий был дядя
+    person_id: 335

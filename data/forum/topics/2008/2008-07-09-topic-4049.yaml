@@ -12,12 +12,10 @@ posts:
   email: lkh;oiy@khgi.ru
   subject: V Международный Фестиваль Блюза
   deleted: false
-  text: 'Состоится 23 августа там-же, в Лефортово. В этом году он приобрёл собственное
-    имя - "КВАДРАТ".
+  text: 'Состоится 23 августа там-же, в Лефортово. В этом году он приобрёл собственное имя - "КВАДРАТ".
 
 
-    Хедлайнеры пока не определены. Ждём подтверждение от Гарри Мура. Если недождёмся,
-    то будет ктоньть другой ;-)
+    Хедлайнеры пока не определены. Ждём подтверждение от Гарри Мура. Если недождёмся, то будет ктоньть другой ;-)
 
 
     Пока, это вся информация.'
@@ -30,8 +28,8 @@ posts:
     subject: Напомню
     deleted: false
     text: <object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/YW8EjZXucBk&hl=ru&fs=1"></param><param
-      name="allowFullScreen" value="true"></param><embed src="http://www.youtube.com/v/YW8EjZXucBk&hl=ru&fs=1"
-      type="application/x-shockwave-flash" allowfullscreen="true" width="425" height="344"></embed></object>
+      name="allowFullScreen" value="true"></param><embed src="http://www.youtube.com/v/YW8EjZXucBk&hl=ru&fs=1" type="application/x-shockwave-flash"
+      allowfullscreen="true" width="425" height="344"></embed></object>
     replies:
     - id: 35560
       parent_id: 35552
@@ -57,9 +55,8 @@ posts:
         subject: Не обидно, что тётя играет лучше, чем еблан?
         deleted: false
         text: <object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/WogD95qOhCM&hl=en&fs=1"></param><param
-          name="allowFullScreen" value="true"></param><embed src="http://www.youtube.com/v/WogD95qOhCM&hl=en&fs=1"
-          type="application/x-shockwave-flash" allowfullscreen="true" width="425"
-          height="344"></embed></object>
+          name="allowFullScreen" value="true"></param><embed src="http://www.youtube.com/v/WogD95qOhCM&hl=en&fs=1" type="application/x-shockwave-flash"
+          allowfullscreen="true" width="425" height="344"></embed></object>
         replies:
         - id: 35567
           parent_id: 35564
@@ -87,6 +84,9 @@ posts:
               subject: обидеть еблана легко
               deleted: false
               text: а вот послушать его блюзовые песни?
+              person_id: 335
+          person_id: 335
+      person_id: 335
     - id: 35650
       parent_id: 35552
       date: 2008-08-06 20:38
@@ -139,9 +139,8 @@ posts:
           email: gi2ggu@ydfhc.ru
           subject: К сербам особое предложение
           deleted: false
-          text: К нам обратились из ООН, чтоб мы сербов и косоваров на сцене скрестили...
-            Не уверен, что это возможно, но всёж задайте вопрос.. Если сербы готовы
-            пару песен с косоварами спеть, то я готов их ринять
+          text: К нам обратились из ООН, чтоб мы сербов и косоваров на сцене скрестили... Не уверен, что это возможно, но
+            всёж задайте вопрос.. Если сербы готовы пару песен с косоварами спеть, то я готов их ринять
           replies:
           - id: 35566
             parent_id: 35565
@@ -150,8 +149,9 @@ posts:
             email: aaa@genebee.msu.su
             subject: Вполне гнусное предложение
             deleted: false
-            text: В духе международных организаций. Так и видишь интеллигентную улыбку
-              Хавьера Саланы. Посылай их на хрен. Зачем ты принимаешь такие "если"?
+            text: В духе международных организаций. Так и видишь интеллигентную улыбку Хавьера Саланы. Посылай их на хрен.
+              Зачем ты принимаешь такие "если"?
+            person_id: 458
           - id: 35571
             parent_id: 35565
             date: 2008-07-12 12:02
@@ -176,21 +176,16 @@ posts:
     email: igorsaz1@rogers.com
     subject: Jeff Healey Blues Band
     deleted: false
-    text: "Хотя самого Джефа уже с нами нет, было решено, что его группа продолжит\
-      \ существование:\n\nJeff Healey Blues Band.\nTouring worldwide with Jeff Healey\
-      \ since the beginning of 2002, they recorded his final album entitled “Mess\
-      \ of Blues” in London, England and Toronto, released in April 2008. The band\
-      \ will continue to support Jeff’s legacy and keep his music alive, performing\
-      \ at festivals throughout the world and playing songs from the new CD. A show\
-      \ not to be missed, with Jeff Healey's band paying tribute to one of the world’s\
-      \ greatest musicians!\n \nНе хотите ли Вы рассмотреть эту группу как хедлайнера\
-      \ для фестиваля?\nВ состав группы вошли ближайшие партнёры (и в то же время\
-      \ друзья) Джефа: Alek Fraser (бас и вокал, также известный продюсер, в том числе\
-      \ - последнего диска Хили), Pat Rush (гитара и вокал), Jerome Godboo (гармоника\
-      \ и вокал), Al Webster (ударные и бэк вокал).\n\nМогу предложить также несколько\
-      \ других блюз-рок музыкантов класса \"A\" из Канады, например - Shawn Kellerman\
-      \ (http://www.youtube.com/watch?v=5aqjbu05LCY), Dawn Tyler Watson, Garrett Mason,\
-      \ Jimmy Bowskill, Shakura S'Aida ..."
+    text: "Хотя самого Джефа уже с нами нет, было решено, что его группа продолжит существование:\n\nJeff Healey Blues Band.\n\
+      Touring worldwide with Jeff Healey since the beginning of 2002, they recorded his final album entitled “Mess of Blues”\
+      \ in London, England and Toronto, released in April 2008. The band will continue to support Jeff’s legacy and keep his\
+      \ music alive, performing at festivals throughout the world and playing songs from the new CD. A show not to be missed,\
+      \ with Jeff Healey's band paying tribute to one of the world’s greatest musicians!\n \nНе хотите ли Вы рассмотреть эту\
+      \ группу как хедлайнера для фестиваля?\nВ состав группы вошли ближайшие партнёры (и в то же время друзья) Джефа: Alek\
+      \ Fraser (бас и вокал, также известный продюсер, в том числе - последнего диска Хили), Pat Rush (гитара и вокал), Jerome\
+      \ Godboo (гармоника и вокал), Al Webster (ударные и бэк вокал).\n\nМогу предложить также несколько других блюз-рок музыкантов\
+      \ класса \"A\" из Канады, например - Shawn Kellerman (http://www.youtube.com/watch?v=5aqjbu05LCY), Dawn Tyler Watson,\
+      \ Garrett Mason, Jimmy Bowskill, Shakura S'Aida ..."
     replies:
     - id: 35609
       parent_id: 35604

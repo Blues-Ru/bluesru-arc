@@ -16,8 +16,7 @@ posts:
 
     Fruteland Jackson, Little Charlie & the Nightcats, Mighty Sam McClain.
 
-    Литл Чарли уже был превознесет тут (и справедливо), но Майти Сэм в хороший вечер
-    - это на высшем уровне.'
+    Литл Чарли уже был превознесет тут (и справедливо), но Майти Сэм в хороший вечер - это на высшем уровне.'
   replies:
   - id: 19208
     parent_id: 19207
@@ -27,6 +26,7 @@ posts:
     subject: ого
     deleted: false
     text: '... состав участников все крутеет и крутеет!'
+    person_id: 5
   - id: 19221
     parent_id: 19207
     date: 2004-09-06 10:38
@@ -35,3 +35,4 @@ posts:
     subject: Ага, Silence Pro уже вывесили описалово
     deleted: false
     text: http://www.silencepro.ru/will/will_4.html
+    person_id: 24

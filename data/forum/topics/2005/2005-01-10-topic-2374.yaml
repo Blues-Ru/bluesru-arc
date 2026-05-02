@@ -22,6 +22,7 @@ posts:
     subject: Оксана, я тебя люблю!
     deleted: false
     text: Будь счастлива!
+    person_id: 458
   - id: 20140
     parent_id: 20133
     date: 2005-01-11 13:07
@@ -29,3 +30,4 @@ posts:
     email: gypsy@mail.ru
     subject: Присоединяюсь к предыдущему оратору!
     deleted: false
+  person_id: 2888

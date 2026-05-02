@@ -12,12 +12,10 @@ posts:
   email: mhobbit@mail.ru
   subject: Умер Крис Джонс...
   deleted: false
-  text: "With deep sorrow we regret to inform you, that Chris Jones died of lung cancer\
-    \ in the Albert-Schweitzer-Hospital in Northeim on Tuesday, September 13th 2005.\n\
-    \nHis funeral will take place in Germany in October, we will announce the time\
-    \ and place here as soon as possible.\n\n\"If this is the end of the line, you\
-    \ ain&#180;t gonna hear me cryin&#180; - it&#180;s been a damn good run.\"\n \
-    \     Chris Jones, 2005"
+  text: "With deep sorrow we regret to inform you, that Chris Jones died of lung cancer in the Albert-Schweitzer-Hospital\
+    \ in Northeim on Tuesday, September 13th 2005.\n\nHis funeral will take place in Germany in October, we will announce\
+    \ the time and place here as soon as possible.\n\n\"If this is the end of the line, you ain&#180;t gonna hear me cryin&#180;\
+    \ - it&#180;s been a damn good run.\"\n      Chris Jones, 2005"
   replies:
   - id: 23220
     parent_id: 23211
@@ -35,6 +33,7 @@ posts:
       email: evdokimov@blues.ru
       subject: это другой крис.
       deleted: false
+      person_id: 4
     - id: 23222
       parent_id: 23220
       date: 2005-09-17 04:04
@@ -42,16 +41,14 @@ posts:
       email: mhobbit@mail.ru
       subject: сегодня получил письмо от Стива Бейкера
       deleted: false
-      text: 'Крис должен был приехать в сентябре в Россию (в июле он со Стивом Бейкером
-        был на Дельте Невы), но слег в больницу. Выяснилось, что у него рак, и он
-        очень быстро угас...
+      text: 'Крис должен был приехать в сентябре в Россию (в июле он со Стивом Бейкером был на Дельте Невы), но слег в больницу.
+        Выяснилось, что у него рак, и он очень быстро угас...
 
 
         Текст я взял со страницы ссылку на которую прислал Стив - вот она www.stockfisch-records.de
 
 
-        Скоро должен выйти новый и последний альбом дуэта Steve Baker & Chris Jones,
-        альбом был закончен в начале августа.'
+        Скоро должен выйти новый и последний альбом дуэта Steve Baker & Chris Jones, альбом был закончен в начале августа.'
     - id: 23331
       parent_id: 23220
       date: 2005-09-20 13:46
@@ -59,11 +56,10 @@ posts:
       email: aaa@genebee.msu.su
       subject: Из письма от Стива Бейкера
       deleted: false
-      text: '...we''re all shocked, he left a big mark and was one of the truly great
-        contemporary guitarists. I shall miss him terribly both personally and musically,
-        we were like brothers. There is more info on my website or on www.stockfisch-records.de
-        and www.acoustic-music.de among others. If people wish to find out more, they
-        can probably just put "chris+jones" into any search engine,
+      text: '...we''re all shocked, he left a big mark and was one of the truly great contemporary guitarists. I shall miss
+        him terribly both personally and musically, we were like brothers. There is more info on my website or on www.stockfisch-records.de
+        and www.acoustic-music.de among others. If people wish to find out more, they can probably just put "chris+jones"
+        into any search engine,
 
 
         best regards
@@ -77,8 +73,7 @@ posts:
     email: gurps@nm.ru
     subject: R.I.P.
     deleted: false
-    text: Просто невозможно поверить. Такой талантливый и такой хороший человек...
-      Почему именно он? :(
+    text: Просто невозможно поверить. Такой талантливый и такой хороший человек... Почему именно он? :(
     replies:
     - id: 23230
       parent_id: 23228
@@ -87,8 +82,8 @@ posts:
       email: voshalb@rambler.ru
       subject: Да ни почему...
       deleted: false
-      text: Просто была слабина в организме...Это от таланта и моральных качеств человека
-        абсолютно не зависит...увы...так устроена жизнь...А нам,живущим,это лишнее
-        напоминание о том,что надо быть добрее и теплее в общении друг с другом в
-        этой жизни,ибо другой все равно не будет...Не надо ссориться из-за различных
-        вкусовых предпочтений в музыке,не стоит оно того...
+      text: Просто была слабина в организме...Это от таланта и моральных качеств человека абсолютно не зависит...увы...так
+        устроена жизнь...А нам,живущим,это лишнее напоминание о том,что надо быть добрее и теплее в общении друг с другом
+        в этой жизни,ибо другой все равно не будет...Не надо ссориться из-за различных вкусовых предпочтений в музыке,не стоит
+        оно того...
+    person_id: 1863

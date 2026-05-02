@@ -24,6 +24,7 @@ posts:
     subject: Аффтар жжот!
     deleted: false
     text: Там еще несколько картинок есть!!!!!!!! :))))))))
+    person_id: 4313
   - id: 25285
     parent_id: 25283
     date: 2005-12-28 16:46
@@ -43,6 +44,7 @@ posts:
       text: 'рекламное агентство http://www.promedia.ru/
 
         Видимо киберсквоттинг самый обычный.'
+    person_id: 335
   - id: 25287
     parent_id: 25283
     date: 2005-12-28 18:22
@@ -95,6 +97,7 @@ posts:
       email: volodya@blues.ru
       subject: смысла уже нет.. этож был 2003ий год :)
       deleted: false
+      person_id: 5
   - id: 25336
     parent_id: 25283
     date: 2006-01-05 23:48
@@ -103,3 +106,5 @@ posts:
     subject: '2006'
     deleted: false
     text: Да уж, ждут, что вы его купите. Каждый год продляют ведь же...
+    person_id: 1656
+  person_id: 2

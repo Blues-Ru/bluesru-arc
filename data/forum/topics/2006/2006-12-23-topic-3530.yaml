@@ -31,6 +31,7 @@ posts:
       subject: а хрен его знает...
       deleted: false
       text: а хрен его знает...
+    person_id: 5045
   - id: 30133
     parent_id: 30078
     date: 2006-12-25 23:36

@@ -12,9 +12,8 @@ posts:
   subject: Новогодонее поздравление Деда Мороза
   deleted: false
   text: <object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/1TUA0TMiJvg?hl=ru&fs=1"></param><param
-    name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed
-    src="http://www.youtube.com/v/1TUA0TMiJvg?hl=ru&fs=1" type="application/x-shockwave-flash"
-    allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>
+    name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/1TUA0TMiJvg?hl=ru&fs=1"
+    type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>
   replies:
   - id: 37255
     parent_id: 37249
@@ -25,5 +24,6 @@ posts:
     text: 'И мои 5 копеек в копилку :)))
 
 
-      <img src="http://i242.odnoklassniki.ru/getImage?photoId=268213119410&photoType=0"
-      align="bottom">'
+      <img src="http://i242.odnoklassniki.ru/getImage?photoId=268213119410&photoType=0" align="bottom">'
+    person_id: 7202
+  person_id: 3623

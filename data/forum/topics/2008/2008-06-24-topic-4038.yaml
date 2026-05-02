@@ -27,8 +27,8 @@ posts:
     email: evdokimov@blues.ru
     subject: Да вот же он!
     deleted: false
-    text: <a href="/bluesnews/08Summer/Veteran/">терзал на днях укулеле</a> в Доме
-      у Дороги.
+    text: <a href="/bluesnews/08Summer/Veteran/">терзал на днях укулеле</a> в Доме у Дороги.
+    person_id: 4
   - id: 35518
     parent_id: 35510
     date: 2008-06-25 15:35

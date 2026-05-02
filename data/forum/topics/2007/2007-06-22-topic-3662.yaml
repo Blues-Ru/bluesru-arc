@@ -12,8 +12,7 @@ posts:
   email: paul@ultranet.ru
   subject: Be famous blues
   deleted: false
-  text: Здравствуйте. Скажите, состоится ли в этом году фестиваль Be famous blues
-    в парке Лефортово ?
+  text: Здравствуйте. Скажите, состоится ли в этом году фестиваль Be famous blues в парке Лефортово ?
   replies:
   - id: 33099
     parent_id: 33097
@@ -22,6 +21,7 @@ posts:
     email: dr.nick@blues.ru
     subject: говорят, что будет
     deleted: false
+    person_id: 335
   - id: 33119
     parent_id: 33097
     date: 2007-06-29 22:18

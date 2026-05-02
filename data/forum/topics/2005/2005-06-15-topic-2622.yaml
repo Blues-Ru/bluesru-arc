@@ -47,6 +47,8 @@ posts:
         subject: да?
         deleted: false
         text: значит рок ЖИВ! ура!
+        person_id: 335
+    person_id: 5
   - id: 21783
     parent_id: 21779
     date: 2005-06-15 10:53
@@ -55,6 +57,7 @@ posts:
     subject: рок-волки!
     deleted: false
     text: это да! мир ждет этого еще со времен Джима Моррисона!
+    person_id: 335
   - id: 21792
     parent_id: 21779
     date: 2005-06-16 01:24

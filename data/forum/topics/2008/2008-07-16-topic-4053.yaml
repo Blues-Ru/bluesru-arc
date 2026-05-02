@@ -12,13 +12,11 @@ posts:
   email: evdokimov@blues.ru
   subject: Не стать ли Blues.Ru желтой прессой? или уйти в политику?
   deleted: false
-  text: '<a href="http://www.news24.com/News24/Entertainment/Celebrities/0,,2-1225-2108_2357678,00.html"
-    target="_blank">Ronnie plays the blues</a> - там и про русских нимфеток, и про
-    миллионеров, выпивающих дв бутылки водки в день.
+  text: '<a href="http://www.news24.com/News24/Entertainment/Celebrities/0,,2-1225-2108_2357678,00.html" target="_blank">Ronnie
+    plays the blues</a> - там и про русских нимфеток, и про миллионеров, выпивающих дв бутылки водки в день.
 
 
-    а тут про siloviki: <a href="http://www.themoscowtimes.com/article/600/42/368975.htm"
-    target="_blank">FSB Blues</a>.'
+    а тут про siloviki: <a href="http://www.themoscowtimes.com/article/600/42/368975.htm" target="_blank">FSB Blues</a>.'
   replies:
   - id: 35616
     parent_id: 35612
@@ -27,3 +25,4 @@ posts:
     email: dr.nick@blues.ru
     subject: фоток нет!
     deleted: false
+    person_id: 335

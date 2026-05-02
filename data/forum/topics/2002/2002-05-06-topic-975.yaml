@@ -73,8 +73,7 @@ posts:
             email: dr.nick@blues.ru
             subject: Correction
             deleted: false
-            text: 'Правильнее сказать: so many roads, so many trains to ride. Разве
-              не так?'
+            text: 'Правильнее сказать: so many roads, so many trains to ride. Разве не так?'
             replies:
             - id: 4284
               parent_id: 4282
@@ -83,8 +82,8 @@ posts:
               email: blackcat@blues.ru
               subject: совершенно...
               deleted: false
-              text: '...не факт. Доктор А. говорит "слишком много дорог", а ты - "так
-                много дорог". Разные вещи, и одно другого абсолютно ни капли не правильнее.'
+              text: '...не факт. Доктор А. говорит "слишком много дорог", а ты - "так много дорог". Разные вещи, и одно другого
+                абсолютно ни капли не правильнее.'
               replies:
               - id: 4287
                 parent_id: 4284
@@ -93,8 +92,7 @@ posts:
                 email: evdokimov@blues.ru
                 subject: вещи-то разные
                 deleted: false
-                text: 'а блюз один: So many roads - у Отиса Раша. Что не исключает
-                  возможность компоновать и перекомпоновывать...'
+                text: 'а блюз один: So many roads - у Отиса Раша. Что не исключает возможность компоновать и перекомпоновывать...'
                 replies:
                 - id: 4291
                   parent_id: 4287
@@ -104,6 +102,12 @@ posts:
                   subject: Христос Воскресе !
                   deleted: false
                   text: С праздником вас всех!
+                  person_id: 458
+                person_id: 4
+              person_id: 6
+            person_id: 335
+          person_id: 458
+        person_id: 82
       - id: 4278
         parent_id: 4269
         date: 2002-05-06 22:16
@@ -112,6 +116,8 @@ posts:
         subject: Молодец, Док!
         deleted: false
         text: Достойный ответ!!! Я оценил!!! ;))))))
+        person_id: 712
+      person_id: 458
   - id: 4274
     parent_id: 4253
     date: 2002-05-06 18:26
@@ -119,9 +125,9 @@ posts:
     email: blackcat@blues.ru
     subject: это не Уэйтс,...
     deleted: false
-    text: '... это группа Вопли Видоплясова. Песня "Весна". Та, где "Весна весна весна
-      придэ, весна весна весна вгамуэ". А потом - "Буй буй буй бу бу бу бу бу буй".
-      ;))))'
+    text: '... это группа Вопли Видоплясова. Песня "Весна". Та, где "Весна весна весна придэ, весна весна весна вгамуэ". А
+      потом - "Буй буй буй бу бу бу бу бу буй". ;))))'
+    person_id: 6
   - id: 4289
     parent_id: 4253
     date: 2002-05-07 17:30

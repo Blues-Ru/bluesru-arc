@@ -19,12 +19,14 @@ posts:
     poster: Геннадий
     subject: TNT - тринитротолуол, он же тротил
     deleted: false
+    person_id: 8952
   - id: 39491
     parent_id: 39489
     date: 2017-12-03 08:30
     poster: олег
     subject: Спасибо!
     deleted: false
+    person_id: 7512
   - id: 39594
     parent_id: 39489
     date: 2019-08-06 15:54
@@ -32,6 +34,7 @@ posts:
     subject: .
     deleted: true
     text: http://sportstavki.online/mobilnaya-versiya-i-prilozhenie-dlya-stavok-1xbet
+    person_id: 9313
   - id: 39595
     parent_id: 39489
     date: 2019-08-06 15:55
@@ -39,6 +42,7 @@ posts:
     subject: ..
     deleted: true
     text: '[url=https://sportstavki.online/mobilnaya-versiya-i-prilozhenie-dlya-stavok-1xbet]https://sportstavki.online/mobilnaya-versiya-i-prilozhenie-dlya-stavok-1xbet[/url]'
+    person_id: 9313
   - id: 39596
     parent_id: 39489
     date: 2019-08-06 15:56
@@ -46,6 +50,7 @@ posts:
     subject: //
     deleted: true
     text: http://www.sportstavki.online/mobilnaya-versiya-i-prilozhenie-dlya-stavok-1xbet
+    person_id: 9313
   - id: 39686
     parent_id: 39489
     date: 2021-01-11 20:02
@@ -53,3 +58,5 @@ posts:
     subject: Грузовое такси Грузовозка
     deleted: true
     text: https://gruzovozka.dp.ua/ - Грузоперевозки Днепр
+    person_id: 9390
+  person_id: 7512

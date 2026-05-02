@@ -12,11 +12,9 @@ posts:
   email: volodya@blues.ru
   subject: 10 ноября в телевизоре будет...
   deleted: false
-  text: "по ТНТ в 19.30 и 1.20 - \"Москва. Инструкция по применению\". \n\nГруппа\
-    \ Jumping Blues Cat Doctors ;)) в RJ-Club готовятся к гитарному фестивалю :)\n\
-    \nЧто там будет и как это все смонтировали - никто не знает :) \nНо снимали очень\
-    \ смешно :)))\n\nКкак снимали - можно посмотреть вот тут:\n\n<A HREF=\"http://www.bluescats.ru/files/20050204.TNT/\"\
-    >http://www.bluescats.ru/files/20050204.TNT/</A>"
+  text: "по ТНТ в 19.30 и 1.20 - \"Москва. Инструкция по применению\". \n\nГруппа Jumping Blues Cat Doctors ;)) в RJ-Club\
+    \ готовятся к гитарному фестивалю :)\n\nЧто там будет и как это все смонтировали - никто не знает :) \nНо снимали очень\
+    \ смешно :)))\n\nКкак снимали - можно посмотреть вот тут:\n\n<A HREF=\"http://www.bluescats.ru/files/20050204.TNT/\">http://www.bluescats.ru/files/20050204.TNT/</A>"
   replies:
   - id: 20410
     parent_id: 20407
@@ -33,3 +31,4 @@ posts:
       email: volodya@blues.ru
       subject: блин :) не знаю что меня так зарубило :) конечно Февраля :))))
       deleted: false
+      person_id: 5

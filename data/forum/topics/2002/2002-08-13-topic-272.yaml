@@ -24,6 +24,7 @@ posts:
     subject: Привет соседу!
     deleted: false
     text: Я тоже там когда-то жил ;)))
+    person_id: 335
   - id: 7057
     parent_id: 6739
     date: 2002-08-22 12:19

@@ -12,8 +12,7 @@ posts:
   email: evdokimov@blues.ru
   subject: I laugh just to keep from crying
   deleted: false
-  text: кто может вспомнить кто, когда и в какой песне это пел? Вариантов должно быть
-    немало.
+  text: кто может вспомнить кто, когда и в какой песне это пел? Вариантов должно быть немало.
   replies:
   - id: 22827
     parent_id: 22826
@@ -34,6 +33,7 @@ posts:
     subject: нада, дима, нада
     deleted: false
     text: и в сетке текстов этих песен может и не быть - скорее всего
+    person_id: 4
   - id: 22861
     parent_id: 22826
     date: 2005-09-09 20:15
@@ -41,8 +41,7 @@ posts:
     email: mhobbit@mail.ru
     subject: Gary Smith - Can't Seem To Shake These Blues
     deleted: false
-    text: 'Gary Smith, песня Can''t Seem To Shake These Blues, альбом Up The Line,
-      1991
+    text: 'Gary Smith, песня Can''t Seem To Shake These Blues, альбом Up The Line, 1991
 
 
       i drink to keep from worrying and i laugh to keep from crying
@@ -56,8 +55,7 @@ posts:
     email: gurps@nm.ru
     subject: Кого точно помню...
     deleted: false
-    text: "Биг Билл Брунзи пел в \"Трабл ин майнд\". \nПомнится слышал и у Броуни\
-      \ Макги где-то, но вот где - сейчас не вспомню."
+    text: "Биг Билл Брунзи пел в \"Трабл ин майнд\". \nПомнится слышал и у Броуни Макги где-то, но вот где - сейчас не вспомню."
   - id: 23039
     parent_id: 22826
     date: 2005-09-14 14:48
@@ -66,3 +64,5 @@ posts:
     subject: спасибо
     deleted: false
     text: но мерещится мне, что БиБиКинг это пел, не могу вспомнить, в какой песне
+    person_id: 4
+  person_id: 4

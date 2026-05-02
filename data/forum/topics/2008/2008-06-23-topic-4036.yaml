@@ -12,8 +12,7 @@ posts:
   email: evdokimov@blues.ru
   subject: как разлюбить блюз за 6 минут раз и навсегда?
   deleted: false
-  text: '<a href="http://www.youtube.com/watch?v=ZvNO0BfBecc">http://www.youtube.com/watch?v=ZvNO0BfBecc</a>
-    ....
+  text: '<a href="http://www.youtube.com/watch?v=ZvNO0BfBecc">http://www.youtube.com/watch?v=ZvNO0BfBecc</a> ....
 
     это ужас без крыльев ночи'
   replies:
@@ -25,6 +24,7 @@ posts:
     subject: да ладно
     deleted: false
     text: бывает хуже
+    person_id: 335
   - id: 35513
     parent_id: 35506
     date: 2008-06-25 01:51
@@ -32,5 +32,4 @@ posts:
     email: gypsy@mail.ru
     subject: Если вам дорога ваша жизнь...
     deleted: false
-    text: "...держитесь подальше от торфяных болот...\n\nНа них вууууду живёт, \n\
-      Тебе хвостик отгрызёт!"
+    text: "...держитесь подальше от торфяных болот...\n\nНа них вууууду живёт, \nТебе хвостик отгрызёт!"

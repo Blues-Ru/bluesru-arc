@@ -24,6 +24,7 @@ posts:
     email: evdokimov@blues.ru
     subject: блеск! кто первым возьмет эту картинку в юзерпик? (-)
     deleted: false
+    person_id: 4
   - id: 25168
     parent_id: 25094
     date: 2005-12-20 16:25

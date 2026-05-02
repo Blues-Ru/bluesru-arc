@@ -12,10 +12,9 @@ posts:
   email: sergei.sergeev@emersonprocess.ru
   subject: John Lord and Hootchie Cootchie Men
   deleted: false
-  text: Был в субботу в Горбе и видел в продаже 2-й концертный CD, а также DVD John
-    Lord и Hootchie Cootchie Men.Прослушав несколько трэков - очень понравилось. Сейчас
-    думаю прикупить DVD. Eсть ли у  кого информация об этом концерте и кто еще играет
-    с JL. Сочный Хэммонд в блюзе - это прекрасно.
+  text: Был в субботу в Горбе и видел в продаже 2-й концертный CD, а также DVD John Lord и Hootchie Cootchie Men.Прослушав
+    несколько трэков - очень понравилось. Сейчас думаю прикупить DVD. Eсть ли у  кого информация об этом концерте и кто еще
+    играет с JL. Сочный Хэммонд в блюзе - это прекрасно.
   replies:
   - id: 15440
     parent_id: 15414
@@ -25,3 +24,4 @@ posts:
     subject: re
     deleted: false
     text: Не советую покупать дивидиху, ничего интересного
+  person_id: 1725

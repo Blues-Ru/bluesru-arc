@@ -12,8 +12,7 @@ posts:
   email: ovanez@gmail.com
   subject: Buddy Guy- кусок из подкаста Seventh Hour Blues
   deleted: false
-  text: '<a href="http://www.wikiupload.com/download_page.php?id=41351">скачать</a>
-    (13,5 Мб)
+  text: '<a href="http://www.wikiupload.com/download_page.php?id=41351">скачать</a> (13,5 Мб)
 
     в конце Buddy Guy исполняет на акустике "Big Leg Woman"'
   replies:
@@ -25,3 +24,5 @@ posts:
     subject: скачать в архиве
     deleted: false
     text: скачать в архиве <a href="http://www.wikiupload.com/download_page.php?id=41352">отсюда</a>
+    person_id: 5045
+  person_id: 5045

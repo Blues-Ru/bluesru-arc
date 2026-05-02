@@ -30,6 +30,7 @@ posts:
       email: barmaley-vov@yandex.ru
       subject: Долго тренировался наверно ;)
       deleted: false
+      person_id: 2803
     - id: 18820
       parent_id: 18794
       date: 2004-06-28 13:27
@@ -37,6 +38,8 @@ posts:
       email: web@constant.net.ru
       subject: 84 метра. Аднака. ;-)
       deleted: false
+      person_id: 2359
+    person_id: 2
   - id: 18796
     parent_id: 18788
     date: 2004-06-25 15:18
@@ -45,3 +48,4 @@ posts:
     subject: чОрт! 8 метрофф
     deleted: false
     text: )))) класс))
+  person_id: 1828

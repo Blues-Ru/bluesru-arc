@@ -46,6 +46,9 @@ posts:
           email: dima@blues.ru
           subject: Точно! Норвежский не знаю, но по норвежски умею... ;) (-)
           deleted: false
+          person_id: 9
+        person_id: 1725
+    person_id: 750
   - id: 17360
     parent_id: 17347
     date: 2004-02-25 17:11
@@ -62,3 +65,6 @@ posts:
       subject: И еще чуток
       deleted: false
       text: http://195.54.210.179/photos/erik220204/erik220204.htm
+      person_id: 24
+    person_id: 24
+  person_id: 5

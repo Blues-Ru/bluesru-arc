@@ -21,6 +21,7 @@ posts:
     subject: Тута я, дорогой
     deleted: false
     text: Тоскуешь по мне, мой Кинг Каверов? ;)
+    person_id: 335
   - id: 11069
     parent_id: 11052
     date: 2003-03-20 14:22
@@ -51,3 +52,4 @@ posts:
         email: gypsy@mail.ru
         subject: 'Вариант: Взалкав любви, копаю огород.'
         deleted: false
+    person_id: 4

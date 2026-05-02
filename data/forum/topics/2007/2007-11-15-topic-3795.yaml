@@ -31,6 +31,7 @@ posts:
       subject: песдец! )
       deleted: false
       text: роок!
+      person_id: 335
   - id: 33898
     parent_id: 33884
     date: 2007-11-16 21:45

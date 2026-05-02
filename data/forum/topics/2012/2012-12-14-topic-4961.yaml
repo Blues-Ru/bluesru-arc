@@ -11,5 +11,5 @@ posts:
   poster: Andrei V. Evdokimov
   subject: 'блюз-кинотека: John Lee Hooker & Friends - Live 1984-1992 (56 min)'
   deleted: false
-  text: <iframe width="420" height="315" src="http://www.youtube.com/embed/SJSOcf5UNkY"
-    frameborder="0" allowfullscreen></iframe>
+  text: <iframe width="420" height="315" src="http://www.youtube.com/embed/SJSOcf5UNkY" frameborder="0" allowfullscreen></iframe>
+  person_id: 4

@@ -88,6 +88,11 @@ posts:
                     subject: На здоровье!
                     deleted: false
                     text: Еще одна ползёт!
+                    person_id: 335
+                person_id: 335
+            person_id: 335
+        person_id: 335
+    person_id: 335
   - id: 26216
     parent_id: 26210
     date: 2006-02-21 15:34
@@ -114,6 +119,7 @@ posts:
       text: 'Это волшебный, белый, южный человек :)
 
         У меня есть два его альбома - супер!'
+      person_id: 335
   - id: 26217
     parent_id: 26210
     date: 2006-02-21 15:36
@@ -121,9 +127,8 @@ posts:
     email: mishuris@mail.ru
     subject: А та ли песня ?
     deleted: false
-    text: Если имеется ввиду "Why are people like that?" , то это не Диксона, а вовсе
-      белого парня по имени Bobby Charles. Кстати, не вполне и блюзмена. А слова и
-      впрямь простые -я всё понял.
+    text: Если имеется ввиду "Why are people like that?" , то это не Диксона, а вовсе белого парня по имени Bobby Charles.
+      Кстати, не вполне и блюзмена. А слова и впрямь простые -я всё понял.
     replies:
     - id: 26219
       parent_id: 26217
@@ -141,6 +146,7 @@ posts:
       subject: Очень классная песенка.
       deleted: false
       text: Мне особенно нравится в исполнении Джуниора Веллса
+    person_id: 4384
   - id: 26282
     parent_id: 26210
     date: 2006-02-27 20:17
@@ -169,8 +175,7 @@ posts:
         email: el(@))mmmmmmmmmail.ru
         subject: Текст нужен
         deleted: false
-        text: Песня у меня есть на диске Gitanes Blues Harmonica в исполн. Muddy Water
-          & Paul Butterfield
+        text: Песня у меня есть на диске Gitanes Blues Harmonica в исполн. Muddy Water & Paul Butterfield
         replies:
         - id: 26310
           parent_id: 26290
@@ -180,3 +185,5 @@ posts:
           subject: Кожекин-то снял наверное
           deleted: false
           text: Попроси его
+          person_id: 335
+      person_id: 335

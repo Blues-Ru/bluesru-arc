@@ -33,6 +33,7 @@ posts:
       subject: там, наверное, другие ценности
       deleted: false
       text: и водка дешевле...
+    person_id: 458
   - id: 7982
     parent_id: 7937
     date: 2002-10-06 09:34
@@ -40,3 +41,4 @@ posts:
     email: lifebythedrop@yandex.ru
     subject: Damn
     deleted: false
+    person_id: 687

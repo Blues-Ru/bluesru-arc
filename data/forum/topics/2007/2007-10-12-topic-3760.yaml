@@ -22,6 +22,7 @@ posts:
     subject: вот ссылка то нормальная :)
     deleted: false
     text: <A HREF="http://vrbluescat.livejournal.com/57433.html">http://vrbluescat.livejournal.com/57433.html</A>
+    person_id: 5
   - id: 33653
     parent_id: 33649
     date: 2007-10-13 19:58

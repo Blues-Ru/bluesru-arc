@@ -12,9 +12,8 @@ posts:
   email: fedor@blues.ru
   subject: Спам-фильтр
   deleted: false
-  text: Я вчера прикрутил к форуму простой спам-фильтр... Спама сегодня не было, но
-    и новых сообщений... Интересно, тут никто не пишет потому, что не получается?
-    ;)
+  text: Я вчера прикрутил к форуму простой спам-фильтр... Спама сегодня не было, но и новых сообщений... Интересно, тут никто
+    не пишет потому, что не получается? ;)
   replies:
   - id: 32844
     parent_id: 32842
@@ -32,8 +31,8 @@ posts:
       email: fedor@blues.ru
       subject: Пофиксил?
       deleted: false
-      text: Вроде бы, работает теперь в обоих браузерах. Вероятно, и в остальных с
-        поддержкой javascript...
+      text: Вроде бы, работает теперь в обоих браузерах. Вероятно, и в остальных с поддержкой javascript...
+      person_id: 2
   - id: 32849
     parent_id: 32842
     date: 2007-05-12 13:30
@@ -42,6 +41,7 @@ posts:
     subject: я не могу постить
     deleted: false
     text: тест
+    person_id: 335
   - id: 32850
     parent_id: 32842
     date: 2007-05-12 13:30
@@ -61,8 +61,7 @@ posts:
       email: fedor@blues.ru
       subject: Проверь-ка еще раз...
       deleted: false
-      text: 'У тебя ждава скрипт включен? Еще подожди 5 секунд, прежде чем на кнопку
-        жать...
+      text: 'У тебя ждава скрипт включен? Еще подожди 5 секунд, прежде чем на кнопку жать...
 
 
         FireFox на писи - уже нормально.'
@@ -74,8 +73,7 @@ posts:
         email: el@mail.com
         subject: FF так и не работает
         deleted: false
-        text: Кстати, у меня раньше в FF для этого форума Java всегда был выключен
-          и всё работало...
+        text: Кстати, у меня раньше в FF для этого форума Java всегда был выключен и всё работало...
         replies:
         - id: 32863
           parent_id: 32859
@@ -94,6 +92,8 @@ posts:
             subject: ява всегда включена
             deleted: false
             text: но не работает
+            person_id: 335
+          person_id: 2
       - id: 32860
         parent_id: 32858
         date: 2007-05-13 23:44
@@ -136,6 +136,11 @@ posts:
                 email: dr.nick@blues.ru
                 subject: а вот щас не работал :(
                 deleted: false
+                person_id: 335
+              person_id: 2
+            person_id: 335
+          person_id: 2
+        person_id: 335
   - id: 32854
     parent_id: 32842
     date: 2007-05-12 21:44
@@ -178,6 +183,8 @@ posts:
           email: dr.nick@blues.ru
           subject: ФаяФокс работает!
           deleted: false
+          person_id: 335
+        person_id: 2
       - id: 32883
         parent_id: 32878
         date: 2007-05-15 13:40
@@ -186,6 +193,7 @@ posts:
         subject: FireFox заrulil
         deleted: false
         text: Rabotaetь!
+      person_id: 2
   - id: 32890
     parent_id: 32842
     date: 2007-05-15 19:37
@@ -194,3 +202,4 @@ posts:
     subject: Проба Firefox
     deleted: false
     text: Заработало!
+  person_id: 2

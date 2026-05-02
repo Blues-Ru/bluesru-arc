@@ -33,8 +33,7 @@ posts:
       email: volodya@blues.ru
       subject: fuji finepix f30 :)
       deleted: false
-      text: я уже превращаюсь в ходячую рекламу этого аппарата :) но он реально клевый.
-        :)
+      text: я уже превращаюсь в ходячую рекламу этого аппарата :) но он реально клевый. :)
       replies:
       - id: 33307
         parent_id: 33304
@@ -51,6 +50,8 @@ posts:
           email: gypsy@mail.ru
           subject: '+1'
           deleted: false
+        person_id: 335
+      person_id: 5
   - id: 33316
     parent_id: 33301
     date: 2007-08-02 03:40

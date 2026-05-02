@@ -23,8 +23,8 @@ posts:
     email: volodya@blues.ru
     subject: Вот наши фотки оттуда же :)
     deleted: false
-    text: "<A HREF=\"http://www.bluescats.ru/files/20060613.Enrico/\">http://www.bluescats.ru/files/20060613.Enrico/</A>\
-      \ \n\n:)"
+    text: "<A HREF=\"http://www.bluescats.ru/files/20060613.Enrico/\">http://www.bluescats.ru/files/20060613.Enrico/</A> \n\
+      \n:)"
   - id: 27714
     parent_id: 27697
     date: 2006-06-16 22:54
@@ -33,6 +33,7 @@ posts:
     subject: фотки из летчика :)
     deleted: false
     text: <A HREF="http://www.bluescats.ru/files/20060614.Enrico/">http://www.bluescats.ru/files/20060614.Enrico/</A>
+    person_id: 5
   - id: 27715
     parent_id: 27697
     date: 2006-06-16 23:00
@@ -41,3 +42,4 @@ posts:
     subject: Еще фото из Летчика
     deleted: false
     text: http://urgen.livejournal.com/272766.html
+    person_id: 2

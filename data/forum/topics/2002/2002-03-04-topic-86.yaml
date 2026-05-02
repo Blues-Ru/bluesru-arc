@@ -27,8 +27,7 @@ posts:
     email: vts13@hotmail.com
     subject: и еще один ...
     deleted: false
-    text: '...хороший человек выпустил альбом: Duke Robillard "Living With The Blues".
-      Cсылка http://www.stonyplainrecords.com/sprecord/artists/robillard.html'
+    text: '...хороший человек выпустил альбом: Duke Robillard "Living With The Blues". Cсылка http://www.stonyplainrecords.com/sprecord/artists/robillard.html'
     replies:
     - id: 1816
       parent_id: 1805
@@ -37,8 +36,7 @@ posts:
       email: fedor@blues.ru
       subject: Дурь!
       deleted: false
-      text: Он еще недавно записал какой-то альбом с Billy Boy Arnold, но мне не удалось
-        его пока купить.
+      text: Он еще недавно записал какой-то альбом с Billy Boy Arnold, но мне не удалось его пока купить.
       replies:
       - id: 1828
         parent_id: 1816
@@ -75,6 +73,8 @@ posts:
               subject: И слов в нем разных дурь!
               deleted: false
               text: '!!!'
+              person_id: 335
+          person_id: 335
         - id: 1830
           parent_id: 1828
           date: 2002-03-04 15:32
@@ -98,3 +98,5 @@ posts:
               - Езжу я на жигулях, денег-то не дурь.
 
               - Послушал альбом Can - дурь какая-то.'
+          person_id: 2
+      person_id: 2

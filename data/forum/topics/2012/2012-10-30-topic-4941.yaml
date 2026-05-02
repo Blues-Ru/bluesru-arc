@@ -20,6 +20,7 @@ posts:
     subject: красота какая!
     deleted: false
     text: я даже начинаю верить в полезность новомодных штук...)
+    person_id: 7264
   - id: 38585
     parent_id: 38580
     date: 2012-10-31 20:06
@@ -27,3 +28,5 @@ posts:
     subject: вот это
     deleted: false
     text: .. просто здорово!
+    person_id: 1021
+  person_id: 4

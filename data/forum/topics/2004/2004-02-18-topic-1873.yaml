@@ -30,6 +30,7 @@ posts:
       email: lars@list.ru
       subject: Мы тоже зайдем.. но без норвегов ;)
       deleted: false
+      person_id: 1828
     - id: 17299
       parent_id: 17294
       date: 2004-02-18 17:01
@@ -37,8 +38,8 @@ posts:
       email: morozzz_ded@mail.ru
       subject: А норвеги приехали...
       deleted: false
-      text: '... с Трояни или с тем басистом, про которого написано в пресс-релизе?
-        Просто слухи разные ходили, хочется уточнить :)'
+      text: '... с Трояни или с тем басистом, про которого написано в пресс-релизе? Просто слухи разные ходили, хочется уточнить
+        :)'
       replies:
       - id: 17305
         parent_id: 17299
@@ -47,8 +48,7 @@ posts:
         email: fedor@blues.ru
         subject: Норвеги
         deleted: false
-        text: Приехали с басистом Per Tobro - в старом составе. В Осло Пер сейчас
-          играет у Морюдов, а Билл у Эйрика...
+        text: Приехали с басистом Per Tobro - в старом составе. В Осло Пер сейчас играет у Морюдов, а Билл у Эйрика...
         replies:
         - id: 17306
           parent_id: 17305
@@ -57,8 +57,8 @@ posts:
           email: volodya@blues.ru
           subject: чуть фоток со вчерашнего эээ мероприятия :)))
           deleted: false
-          text: "соори что такие немного большие - жать лень :) \n\nhttp://www.bluescats.ru/files/20040218.bbking\n\
-            \nфотки отображают то что вчера было клево.. :))))"
+          text: "соори что такие немного большие - жать лень :) \n\nhttp://www.bluescats.ru/files/20040218.bbking\n\nфотки\
+            \ отображают то что вчера было клево.. :))))"
           replies:
           - id: 17307
             parent_id: 17306
@@ -77,6 +77,7 @@ posts:
               subject: особенно эта - IMG_0783.jpg  5+    (-)
               deleted: false
               text: '-'
+              person_id: 366
             - id: 17309
               parent_id: 17307
               date: 2004-02-20 02:26
@@ -101,3 +102,11 @@ posts:
                   email: volodya@blues.ru
                   subject: а мы это блин тайная сила против вытесняющего вауфактора
                   deleted: false
+                  person_id: 5
+                person_id: 335
+              person_id: 5
+            person_id: 335
+        person_id: 2
+      person_id: 1749
+    person_id: 2
+  person_id: 1170

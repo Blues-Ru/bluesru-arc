@@ -11,9 +11,8 @@ posts:
   poster: Andrei V. Evdokimov
   subject: '"У него сердце как морская скала" - музыкальный фильм Бесси Смит'
   deleted: false
-  text: "Сегодня 120 лет со дня рождения Императрицы блюза Бесси Смит... А потому\
-    \ бросаем все дела и 15 минут приобщаемся к гениальной классике: фильм St Louis\
-    \ Blues (1929 г.) \n\n<iframe width=\"420\" height=\"315\" src=\"//www.youtube.com/embed/kTXBZFvFXdA\"\
+  text: "Сегодня 120 лет со дня рождения Императрицы блюза Бесси Смит... А потому бросаем все дела и 15 минут приобщаемся\
+    \ к гениальной классике: фильм St Louis Blues (1929 г.) \n\n<iframe width=\"420\" height=\"315\" src=\"//www.youtube.com/embed/kTXBZFvFXdA\"\
     \ frameborder=\"0\" allowfullscreen></iframe>"
   replies:
   - id: 39191
@@ -30,11 +29,14 @@ posts:
       poster: Andrei V. Evdokimov
       subject: ничего из почты не пропала - все учтено и спасибо!
       deleted: false
+      person_id: 4
+    person_id: 7879
   - id: 39193
     parent_id: 39190
     date: 2014-04-16 16:51
     poster: Александр Сомов
     subject: '...'
     deleted: false
-    text: Странно... по последним письмам изменений нет.. Может ещё раз прислать или
-      сюда выложить, а вы потом сообщения удалите?
+    text: Странно... по последним письмам изменений нет.. Может ещё раз прислать или сюда выложить, а вы потом сообщения удалите?
+    person_id: 7879
+  person_id: 4

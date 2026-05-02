@@ -12,9 +12,8 @@ posts:
   email: peregnoy@mail.ru
   subject: Прикол
   deleted: false
-  text: Тут на работе у одного бойца на столе мне попался рекламный буклетик со списком
-    московских клубов. Так вот там был прописан адрес BBKing'a как www.bbking.ru Желающим
-    рекомендую посмотреть.
+  text: Тут на работе у одного бойца на столе мне попался рекламный буклетик со списком московских клубов. Так вот там был
+    прописан адрес BBKing'a как www.bbking.ru Желающим рекомендую посмотреть.
   replies:
   - id: 1899
     parent_id: 1890
@@ -24,3 +23,4 @@ posts:
     subject: Или еще...
     deleted: false
     text: http://bbking.blues.ru или http://b.b.king.blues.ru ;)
+    person_id: 2

@@ -12,12 +12,10 @@ posts:
   email: sergei.sergeev@emersonprocess.ru
   subject: 27 в Б-2 .Вова прости.... не утерпел:-)))))
   deleted: false
-  text: "К входному билету бесплатно прилагается CD \"Весь Этот Наш Блюз 90-х\".\n\
-    \nВ большом зале выступят:\nBlues Cousiens,\nПетрович & the Bluesmakers,\nMishouris\
-    \ и его оркестр,\nDr.Аграновский,\nЮрий Каверкин,\nBig Blues Revival(СПб), \n\
-    Ragtime(Нальчик), \nBluesmobile(Тбилисси) и др.\n\nВ малом зале:\nСтанция МИР,\
-    \ \nBoogie Chillen, \nЮлия Смолянин, \nGrey Haund Blues Band(Пенза) и др. \n\n\
-    Один билет дает пропуск в оба зала. \n\n\n \n14.05.2003, Вова КОЖЕКИН"
+  text: "К входному билету бесплатно прилагается CD \"Весь Этот Наш Блюз 90-х\".\n\nВ большом зале выступят:\nBlues Cousiens,\n\
+    Петрович & the Bluesmakers,\nMishouris и его оркестр,\nDr.Аграновский,\nЮрий Каверкин,\nBig Blues Revival(СПб), \nRagtime(Нальчик),\
+    \ \nBluesmobile(Тбилисси) и др.\n\nВ малом зале:\nСтанция МИР, \nBoogie Chillen, \nЮлия Смолянин, \nGrey Haund Blues Band(Пенза)\
+    \ и др. \n\nОдин билет дает пропуск в оба зала. \n\n\n \n14.05.2003, Вова КОЖЕКИН"
   replies:
   - id: 12485
     parent_id: 12474
@@ -49,3 +47,4 @@ posts:
         subject: да рублей 200
         deleted: false
         text: купить можна прямо там, в б2
+        person_id: 4
