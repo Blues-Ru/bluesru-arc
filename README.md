@@ -26,10 +26,18 @@ Requires Python 3.10+ with `pip install -r requirements.txt`.
 
 We use AI to maintain and develop the site and cover hosting costs.
 
+<table border="0" cellpadding="0" cellspacing="8" align="center"><tr valign="middle">
+<td><b style="font-size: 150%;">$</b></td>
+<td>
 <a href="https://www.paypal.com/donate?hosted_button_id=RU4P9RGPB58Q8">
-  <img src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" alt="Donate via PayPal" border="0">
+<img src="content/images/paypal-donate-now.png" width="160" height="49" border="0" alt="Donate via PayPal">
 </a>
-&nbsp;&nbsp;
+</td>
+<td style="width: 10px;"></td>
+<td>
 <a href="https://boosty.to/blues.ru/donate">
-  <img src="content/images/boosty-donate.svg" width="250" height="40" alt="Donate: Boosty" border="0">
+<img src="content/images/boosty-donate.svg" width="269" height="43" alt="Donate: Boosty" border="0">
 </a>
+</td>
+<td><b style="font-size: 150%;">&#8381;</b></td>
+</tr></table>
