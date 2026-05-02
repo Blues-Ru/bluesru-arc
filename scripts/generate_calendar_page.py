@@ -13,6 +13,7 @@ import re
 import yaml
 from pathlib import Path
 from collections import defaultdict
+from jinja2 import Environment, FileSystemLoader
 
 import os
 ARC = Path(__file__).resolve().parent.parent
@@ -52,40 +53,12 @@ GA_SNIPPET = '''\
   gtag('config', 'G-8HDC1W9R3E');
 </script>'''
 
+_jinja_env = Environment(loader=FileSystemLoader(str(ARC / 'templates')), autoescape=False)
+
 
 def generate_calendar_index():
-    html = '''<!DOCTYPE html>
-<html>
-<head>
-<title>Блюзовый календарь — Blues.Ru</title>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<link rel="shortcut icon" href="/images/bluesru.ico">
-{GA_SNIPPET}
-</head>
-<body bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#5511CC" alink="#00BB00">
-
-<table cellpadding="4" cellspacing="0" border="0" align="right">
-<tr><td align="left">
-  <a href="/"><img src="/images/bluesru100x100.gif" width="100" height="100" border="0"></a>
-</td></tr>
-<tr><td width="150">
-</td></tr>
-</table>
-
-<h3 align="center">Блюзовый календарь: этот день в истории блюза...</h3>
-
-<div id="blues-calendar" data-mode="full"><i>Загрузка...</i></div>
-
-<script src="/static/js/calendar.js"></script>
-
-<hr size="1">
-<p align="center">
-''' + FOOTER + '''
-</p>
-</body>
-</html>'''
-
-    html = html.replace('{GA_SNIPPET}', GA_SNIPPET)
+    tmpl = _jinja_env.get_template('calendar_index.html.j2')
+    html = tmpl.render(ga_snippet=GA_SNIPPET, footer=FOOTER)
     DST.mkdir(parents=True, exist_ok=True)
     (DST / 'index.html').write_text(html, encoding='utf-8')
     print("  calendar/index.html written")
@@ -164,54 +137,19 @@ def generate_year_pages():
         events_sorted = sorted(events, key=lambda e: e['date'])
         year_int = int(year)
 
-        body_html = ''
         for ev in events_sorted:
-            date_str = ev['date']  # YYYY-MM-DD
-            dd = date_str[8:10]
-            mm = date_str[5:7]
-            formatted_date = f'{dd}.{mm}.{year}'
-
-            body_html += '<p>'
-            if ev['picture']:
-                body_html += (f'<img src="/calendar/{ev["picture"]}" border="0"'
-                              f' align="right" vspace="4" hspace="8"'
-                              f' style="max-width:180px;max-height:120px;">')
-            name = ev['title']
-            body_html += f'<b>{formatted_date}</b> - '
-            if name:
-                body_html += f'<b>{name}</b> - '
-            body_html += ev['text']
-            if ev['picture']:
-                body_html += '<br clear="both">'
-            body_html += '</p>\n<hr size="1">\n'
+            date_str = ev['date']
+            ev['formatted_date'] = f'{date_str[8:10]}.{date_str[5:7]}.{year}'
 
         nav = year_nav(year, all_years)
-        html = f'''<!DOCTYPE html>
-<html>
-<head>
-<title>Блюзовый календарь - {year} год — Blues.Ru</title>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<link rel="shortcut icon" href="/images/bluesru.ico">
-{GA_SNIPPET}
-</head>
-<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#5511cc" alink="#00bb00">
-
-<table cellpadding="4" cellspacing="0" border="0" align="right">
-<tr><td align="left">
-  <a href="/"><img src="/images/bluesru100x100.gif" width="100" height="100" border="0"></a>
-</td></tr>
-<tr><td width="150">
-</td></tr>
-</table>
-
-<h3><a href="/calendar/">Блюзовый календарь</a>: {year_int} год</h3>
-<p>{nav}</p>
-{body_html}
-<p align="center">
-{FOOTER}
-</p>
-</body>
-</html>'''
+        tmpl = _jinja_env.get_template('calendar_year.html.j2')
+        html = tmpl.render(
+            ga_snippet=GA_SNIPPET,
+            footer=FOOTER,
+            year=year,
+            year_nav=nav,
+            events=events_sorted,
+        )
 
         dst_dir = DST / year
         dst_dir.mkdir(parents=True, exist_ok=True)

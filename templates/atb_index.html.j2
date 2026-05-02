@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="ru">
 <head>
   <title>Весь этот блюз — Андрей Евдокимов — Blues.Ru</title>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -11,6 +11,8 @@
     .ep-summary { color: #555; font-size: 0.9em; }
     .year-section h3 { border-bottom: 1px solid #ccc; padding-bottom: 2px; }
     .ep-tracks { margin-left: 1em; font-size: 0.9em; color: #555; }
+    .year-section a { text-decoration: none; }
+    .year-section a:hover { text-decoration: underline; }
   </style>
 </head>
 <body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#5511cc" alink="#00bb00">
@@ -22,8 +24,8 @@
 <p><a href="/"><b>Blues.Ru</b></a> &gt; <a href="/atb/">Весь этот блюз</a></p>
 <hr size="1">
 <h2>Весь этот блюз</h2>
-<p>Авторская программа <b>Андрея Евдокимова</b> (1962–2022) «Весь этот блюз» выходила на радио с 1987 по 2022 год —
-на Первой программе, Маяке, Радио Рокс, Открытом радио и <b>Эхо Москвы 91.2 FM</b>.
+<p>Авторская программа <b><a href="/andrey/">Андрея Евдокимова</a></b> «Весь этот блюз» выходила на радио с 1987 по 2022 год —
+на первой кнопке, Маяке, Радио Рокс, Открытом радио и Эхо Москвы.
 В архиве {{ total }} эпизодов из цифровых записей 2011–2022 годов.</p>
 
 <p>
@@ -67,6 +69,8 @@
 <p><a href="{{ show.page_url }}">{{ show.summary or show.topic or show.slug }}</a></p>
 {% endfor %}
 {% endif %}
+
+<hr size="1"/>
 
 <p align="center">{{ footer }}</p>
 </body>

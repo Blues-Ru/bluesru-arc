@@ -129,7 +129,9 @@ JINJA_ENV = jinja2.Environment(
 
 # ── Footer, GA, CSS ────────────────────────────────────────────────────────────
 FOOTER = (INCLUDES / "footer.inc").read_text(encoding='utf-8').strip()
+DONATE = (INCLUDES / "donate.inc").read_text(encoding='utf-8').strip()
 JINJA_ENV.globals['footer'] = FOOTER
+JINJA_ENV.globals['donate'] = DONATE
 
 GA_SNIPPET = '''\
 <!-- Google tag (gtag.js) -->
@@ -325,6 +327,8 @@ def resolve_include(vpath, source_dir, source_root):
     vpath_lower = vpath.strip().lower()
     if vpath_lower == '/footer.inc':
         return FOOTER
+    if vpath_lower == '/donate.inc':
+        return DONATE
     if vpath_lower in DROP_INCLUDES:
         return ''
     if any(kw in vpath_lower for kw in DROP_INCLUDE_KEYWORDS):
@@ -1310,7 +1314,8 @@ def _write_gallery_redirects(redirects):
         content = content[:start].rstrip() + '\n' + content[end:].lstrip('\n')
     lines = [marker_start]
     for old, new in redirects:
-        lines.append(f"{old}  {new}  301")
+        old_encoded = old.replace(' ', '%20')
+        lines.append(f"{old_encoded}  {new}  301")
     lines.append(marker_end)
     content = content.rstrip('\n') + '\n\n' + '\n'.join(lines) + '\n'
     redirects_file.write_text(content, encoding='utf-8')

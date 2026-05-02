@@ -1,5 +1,8 @@
 /* Blues.Ru global stylesheet */
 
+.newsarticle p { text-align: justify; }
+.date-label { color: #4F62B5; }
+
 /* Dead links: content that no longer exists on the site */
 a.dead-link {
     text-decoration: line-through;

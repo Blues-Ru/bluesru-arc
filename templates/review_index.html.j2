@@ -1,7 +1,7 @@
 <!DOCTYPE html>
-<html>
+<html lang="ru">
 <head>
-  <title>Blues.Ru: CD обзор{% if current_month %} — {{ current_month }}{% elif current_year %} — {{ current_year }}{% endif %}</title>
+  <title>Blues.Ru: обзор дисков{% if current_month %} — {{ current_month }}{% elif current_year %} — {{ current_year }}{% endif %}</title>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
   <link rel="shortcut icon" href="/images/bluesru.ico">
   <style>
@@ -61,7 +61,10 @@
 <p>
 {% for m in month_list %}{% if not loop.first %} | {% endif %}<a href="/review/{{ m.key }}/">{{ m.label }}</a>{% endfor %}
 </p>
+
 {% endif %}
+
+<hr size="1" />
 
 <p align="center">
 {{ footer }}

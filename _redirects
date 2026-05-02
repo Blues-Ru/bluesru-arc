@@ -119,7 +119,7 @@
 /bluesnews/_13/13_10_19_Arsen/  /photo/2013/2013-10-19-arsen/  301
 /bluesnews/_13/13_10_19_Jimmy_Burns/  /photo/2013/2013-10-19-jimmy-burns/  301
 /bluesnews/_13/13_11_08_Mishouris/  /photo/2013/2013-11-08-mishouris/  301
-/bluesnews/_13/13_11_29_Joakim Tinderholt/  /photo/2013/2013-11-29-joakim-tinderholt/  301
+/bluesnews/_13/13_11_29_Joakim%20Tinderholt/  /photo/2013/2013-11-29-joakim-tinderholt/  301
 /bluesnews/_14/14_03_10_Mishouris_Seals/  /photo/2014/2014-03-10-mishouris-seals/  301
 /bluesnews/_14/14_04_19_Lisikova/  /photo/2014/2014-04-19-lisikova/  301
 /bluesnews/_14/14_04_25_BB/  /photo/2014/2014-04-25-bb/  301
@@ -128,15 +128,15 @@
 /bluesnews/_15/15_10_30_KW2/  /photo/2015/2015-10-30-kw2/  301
 /bluesnews/_15/15_11_21_Old_Fassion/  /photo/2015/2015-11-21-old-fassion/  301
 /bluesnews/_15/16_09_30_SOBO/  /photo/2016/2016-09-30-sobo/  301
-/bluesnews/_16/16_06_10_Eddie Shaw/  /photo/2016/2016-06-10-eddie-shaw/  301
+/bluesnews/_16/16_06_10_Eddie%20Shaw/  /photo/2016/2016-06-10-eddie-shaw/  301
 /bluesnews/_16/16_06_10_Jam/  /photo/2016/2016-06-10-jam/  301
 /bluesnews/_16/16_06_10_Lil_Ed/  /photo/2016/2016-06-10-lil-ed-williams-siegel/  301
 /bluesnews/_16/16_06_10_TC_TC/  /photo/2016/2016-06-10-tc-tc/  301
 /bluesnews/_16/16_06_12_Clearwater/  /photo/2016/2016-06-12-clearwater/  301
 /bluesnews/_16/16_06_12_Migration/  /photo/2016/2016-06-12-migration/  301
 /bluesnews/_16/16_07_07RWIP/  /photo/2016/2016-07-07-raphael-wressnig-igor-prado/  301
-/bluesnews/_16/16_07_07_Raphael Wressnig Igor Prado/  /photo/2016/2016-07-07-raphael-wressnig-igor-prado/  301
-/bluesnews/_16/16_11_02_ Giles_Robson/  /photo/2016/2016-11-02-giles-robson/  301
+/bluesnews/_16/16_07_07_Raphael%20Wressnig%20Igor%20Prado/  /photo/2016/2016-07-07-raphael-wressnig-igor-prado/  301
+/bluesnews/_16/16_11_02_%20Giles_Robson/  /photo/2016/2016-11-02-giles-robson/  301
 /bluesnews/_16/16_11_05_Kozh_Jhuk/  /photo/2016/2016-11-05-kozh-jhuk/  301
 /bluesnews/_16/16_12_10_Smith/  /photo/2016/2016-12-10-jc-smith/  301
 /bluesnews/_16/19_06_11_Weskey/  /photo/2019/2019-06-11-weskey/  301
@@ -163,12 +163,6 @@
 /bluesnews/_19/2019-11-24_Juk_Kozh/  /photo/2019/2019-11-24-juk-kozh/  301
 /bluesnews/_19/Arkh19_Guitar/  /photo/2019/2019-arkh19-guitar/  301
 /bluesnews/_22/  /photo/2022/2022-11-23-neighbours/  301
-
-# Gallery per-photo HTM pages → parent gallery index
-# Old gallery tools generated one .htm per photo; replaced by generated index.html
-/bluesnews/*/*.htm  /bluesnews/*/  301
-/bluesnews/*/*/*.htm  /bluesnews/*/*/  301
-/bluesnews/*/*/*/*.htm  /bluesnews/*/*/*/  301
 
 # BEGIN gallery-redirects
 /bluesnews/nbf/gallery/98/  /photo/1998/1998-notodden-blues-festival/  301
@@ -375,7 +369,7 @@
 /bluesnews/11B/11_12_02_Fletcher/  /photo/2011/2011-12-02-kirk-fletcher-jumping-cats-roadhouse/  301
 /bluesnews/11B/11_12_04_Peterson/  /photo/2011/2011-12-04-lucky-peterson-roadhouse/  301
 /bluesnews/11B/11_12_20_Arsen/  /photo/2011/2011-12-20-arsen-shomakhov-roadhouse/  301
-/bluesnews/11B/11_12_28_The Jazz Loft/  /photo/2011/2011-12-28-the-jazz-loft/  301
+/bluesnews/11B/11_12_28_The%20Jazz%20Loft/  /photo/2011/2011-12-28-the-jazz-loft/  301
 /bluesnews/11B/11_12_28_Kaverkin/  /photo/2011/2011-12-28-yuriy-kaverkin-friends-roadhouse/  301
 /bluesnews/50Belov/  /photo/2012/2012-belov-50th-anniversary/  301
 /bluesnews/DUD_v3/  /photo/2012/2012-dom-u-dorogi-v3/  301
@@ -388,7 +382,7 @@
 /bluesnews/_12A/12_02_25_Lighthouse/  /photo/2012/2012-02-25-robert-lighthouse-roadhouse/  301
 /bluesnews/_12A/12_02_28_JC_Voronov/  /photo/2012/2012-02-29-jumping-cats-voronov-roadhouse/  301
 /bluesnews/_12A/12_03_03_DUD_Charity/  /photo/2012/2012-03-03-roadhouse-charity-concert/  301
-/bluesnews/_12A/12_03_09_DUD_Dizzy Riders/  /photo/2012/2012-03-09-dizzy-riders-roadhouse/  301
+/bluesnews/_12A/12_03_09_DUD_Dizzy%20Riders/  /photo/2012/2012-03-09-dizzy-riders-roadhouse/  301
 /bluesnews/_12A/12_03_09_DUD_Petrovich/  /photo/2012/2012-03-09-petrovich-roadhouse-mar/  301
 /bluesnews/_12A/12_03_10_Pardo/  /photo/2012/2012-03-10-pardo-stoneshakers-roadhouse/  301
 /bluesnews/_12A/12_03_12_DUD/  /photo/2012/2012-03-12-sunny-side-singers-roadhouse/  301
@@ -434,8 +428,8 @@
 /bluesnews/_13/13_11_09_Wolf_Mail/  /photo/2013/2013-11-09-wolf-mail/  301
 /bluesnews/_13/13_11_17_JC_Smith/  /photo/2013/2013-11-17-jc-smith/  301
 /bluesnews/_13/13_11_21_TheKikipickles/  /photo/2013/2013-11-21-the-kikipickles/  301
-/bluesnews/_13/13_11_29_Joakim Tinderholt/  /photo/2013/2013-11-29-joakim-tinderholt/  301
-/bluesnews/_14/Deitra FARR/  /photo/2014/2014-deitra-farr-solo/  301
+/bluesnews/_13/13_11_29_Joakim%20Tinderholt/  /photo/2013/2013-11-29-joakim-tinderholt/  301
+/bluesnews/_14/Deitra%20FARR/  /photo/2014/2014-deitra-farr-solo/  301
 /bluesnews/14/14_02_12_Kaverkin_PeraJoe/  /photo/2014/2014-02-12-kaverkin-pera-joe/  301
 /bluesnews/_14/14_03_10_Mishouris_Seals/  /photo/2014/2014-03-10-mishouris-seals/  301
 /bluesnews/_14/14_04_18_Petrovich/  /photo/2014/2014-04-18-petrovich/  301
@@ -456,10 +450,10 @@
 /bluesnews/_16/LL/  /photo/2016/2016-lil-louis/  301
 /bluesnews/_16/LL/LL/  /photo/2016/2016-lil-louis-2/  301
 /bluesnews/TailDragger2016/  /photo/2016/2016-taildragger-moscow/  301
-/bluesnews/_16/16_06_02_Kenny Wayne/  /photo/2016/2016-06-02-kenny-blues-boss-wayne-pardo/  301
+/bluesnews/_16/16_06_02_Kenny%20Wayne/  /photo/2016/2016-06-02-kenny-blues-boss-wayne-pardo/  301
 /bluesnews/_16/KBBW16/  /photo/2016/2016-06-02-kenny-blues-boss-wayne-pardo-2/  301
 /bluesnews/_16/16_06_10_EddieCotton/  /photo/2016/2016-06-10-eddie-cotton/  301
-/bluesnews/_16/16_06_10_Eddie Shaw/  /photo/2016/2016-06-10-eddie-shaw/  301
+/bluesnews/_16/16_06_10_Eddie%20Shaw/  /photo/2016/2016-06-10-eddie-shaw/  301
 /bluesnews/_16/16_06_10_Jam/  /photo/2016/2016-06-10-jam/  301
 /bluesnews/_16/16_06_10_Lil_Ed/  /photo/2016/2016-06-10-lil-ed/  301
 /bluesnews/_16/16_06_10_LilEd_Siegel/  /photo/2016/2016-06-10-lil-ed-williams-siegel/  301
@@ -471,10 +465,10 @@
 /bluesnews/_16/16_06_12_Clearwater/  /photo/2016/2016-06-12-clearwater/  301
 /bluesnews/_16/16_06_12_Migration/  /photo/2016/2016-06-12-migration/  301
 /bluesnews/_16/16_06_13_BG/  /photo/2016/2016-06-13-big-guy/  301
-/bluesnews/_16/16_07_07_Raphael Wressnig Igor Prado/  /photo/2016/2016-07-07-raphael-wressnig-igor-prado/  301
+/bluesnews/_16/16_07_07_Raphael%20Wressnig%20Igor%20Prado/  /photo/2016/2016-07-07-raphael-wressnig-igor-prado/  301
 /bluesnews/_16/16_07_10_MA/  /photo/2016/2016-07-10-mike-andersen/  301
 /bluesnews/_15/16_09_30_SOBO/  /photo/2016/2016-09-30-sobo/  301
-/bluesnews/_16/16_11_02_ Giles_Robson/  /photo/2016/2016-11-02-giles-robson/  301
+/bluesnews/_16/16_11_02_%20Giles_Robson/  /photo/2016/2016-11-02-giles-robson/  301
 /bluesnews/_16/16_11_05_Kozh_Jhuk/  /photo/2016/2016-11-05-kozh-jhuk/  301
 /bluesnews/_16/16_12_10_Smith/  /photo/2016/2016-12-10-jc-smith/  301
 /bluesnews/_17/Iv_Sh/  /photo/2017/2017-iv-sh/  301

@@ -1,19 +1,10 @@
 <!DOCTYPE html>
-<html>
+<html lang="ru">
 <head>
-  <title>Музыканты — Blues.Ru</title>
+  <title>Блюзовые музыканты — Blues.Ru</title>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
   <link rel="shortcut icon" href="/images/bluesru.ico">
-  <style>
-    body { max-width: 900px; margin: 0 auto; padding: 0 1em; }
-    #artist-filter { font-size: 1em; padding: 3px 6px; width: 200px; margin-left: 8px; }
-    .artist-entry { display: none; }
-    .artist-entry.visible { display: block; }
-    .letter-section { display: none; }
-    .letter-section.visible { display: block; }
-    .artist-xref { color: #666; font-size: 0.95em; }
-    .artist-res { font-size: 0.85em; }
-  </style>
+  <link rel="stylesheet" href="/static/css/bluesmen.css">
 {{ site_css_tag | safe }}
   {{ ga_snippet | safe }}
 </head>
@@ -51,32 +42,8 @@
 {% endif %}
 {% endfor %}
 
-<p align="center">
-<a href="/"><b>Blues.Ru</b></a> -
-<a href="/news/">Новости</a> |
-<a href="/updates/">Обновления</a> |
-<a href="/artist/">Музыканты</a> |
-<a href="/review/">CD Обзор</a> |
-<a href="/atb/">Весь этот блюз</a> |
-<a href="/forum/">Форум</a>
-</p>
-
-<script>
-function filterArtists(query) {
-  var terms = query.toLowerCase().trim().split(/\s+/).filter(Boolean);
-  var sections = document.querySelectorAll('.letter-section');
-  sections.forEach(function(sec) {
-    var entries = sec.querySelectorAll('.artist-entry');
-    var sectionVisible = false;
-    entries.forEach(function(e) {
-      var name = e.getAttribute('data-name') || '';
-      var match = terms.length === 0 || terms.every(function(t) { return name.indexOf(t) >= 0; });
-      e.classList.toggle('visible', match);
-      if (match) sectionVisible = true;
-    });
-    sec.classList.toggle('visible', sectionVisible || terms.length === 0);
-  });
-}
-</script>
+<script src="/static/js/bluesmen.js"></script>
+<hr size="1" />
+<p align="center">{{ footer }}</p>
 </body>
 </html>

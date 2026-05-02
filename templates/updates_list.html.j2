@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="ru">
 <head>
   <title>{{ page_title if page_title else 'Обновления' }} — Blues.Ru</title>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -47,6 +47,8 @@
 {% for y in year_list %}{% if not loop.first %} | {% endif %}<a href="/updates/{{ y }}/">{{ y }}</a>{% endfor %}
 </p>
 {% endif %}
+
+<hr size="1" />
 
 <p align="center">
 {{ footer }}

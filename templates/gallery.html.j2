@@ -4,58 +4,9 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <title>{{ title or path }} — Blues.Ru</title>
 <link rel="shortcut icon" href="/images/bluesru.ico">
+<link rel="stylesheet" href="/static/css/gallery.css">
 {{ site_css_tag | safe }}
 {{ ga_snippet | safe }}
-<style>
-/* Gallery dark theme */
-.gallery-page { background: #111; color: #ccc; min-height: 100vh; }
-.gallery-page a { color: #aaa; }
-.gallery-header { padding: 1.2rem 1.5rem 1rem; border-bottom: 1px solid #2a2a2a; }
-.gallery-header h1 { color: #fff; margin: 0.2rem 0 0.3rem; font-size: 1.3rem; font-weight: bold; }
-.gallery-meta { color: #777; font-size: 0.82rem; margin-bottom: 0.4rem; }
-.gallery-desc { margin-top: 0.8rem; line-height: 1.6; font-size: 0.92rem; color: #bbb;
-                max-width: 760px; }
-.gallery-back { display: inline-block; color: #777; text-decoration: none;
-                font-size: 0.82rem; margin-bottom: 0.5rem; }
-.gallery-back:hover { color: #aaa; }
-.gallery-breadcrumb { font-size: 1rem; color: #aaa; margin-bottom: 0.7rem; }
-.gallery-breadcrumb a { color: #7ab4e8; text-decoration: none; padding: 2px 4px; }
-.gallery-breadcrumb a:hover { text-decoration: underline; color: #aad4ff; }
-.gallery-breadcrumb span { color: #555; margin: 0 0.2rem; }
-/* Source articles backlinks */
-.gallery-articles { margin-top: 0.8rem; font-size: 0.85rem; color: #888; }
-.gallery-articles a { color: #8ab; text-decoration: none; }
-.gallery-articles a:hover { color: #acd; text-decoration: underline; }
-/* Photo grid */
-.gallery-grid { display: flex; flex-wrap: wrap; gap: 4px; padding: 0.8rem; }
-.gallery-thumb { display: flex; flex-direction: column; }
-.gallery-thumb a { display: block; line-height: 0; cursor: pointer; }
-.gallery-thumb img { width: 200px; height: 150px; object-fit: cover; display: block;
-                     transition: opacity 0.15s; }
-.gallery-thumb a:hover img { opacity: 0.75; }
-.gallery-thumb .thumb-caption { font-size: 0.72rem; color: #666; padding: 0.2rem 0 0;
-                                 width: 200px; line-height: 1.3; min-height: 1.2em; }
-.gallery-count { padding: 0.4rem 1.5rem 0.8rem; color: #555; font-size: 0.8rem; }
-/* Lightbox */
-#lb { display: none; position: fixed; inset: 0; background: rgba(0,0,0,0.93);
-      z-index: 9999; align-items: center; justify-content: center; flex-direction: column; }
-#lb.open { display: flex; }
-#lb-img { max-width: 94vw; max-height: 88vh; object-fit: contain; }
-#lb-prev, #lb-next { position: absolute; top: 50%; transform: translateY(-50%);
-                      color: #ccc; font-size: 2.5rem; cursor: pointer;
-                      padding: 0.5rem 1rem; user-select: none; opacity: 0.6;
-                      transition: opacity 0.15s; }
-#lb-prev:hover, #lb-next:hover { opacity: 1; }
-#lb-prev { left: 0; }
-#lb-next { right: 0; }
-#lb-close { position: absolute; top: 0.6rem; right: 1rem; color: #ccc;
-             font-size: 2rem; cursor: pointer; opacity: 0.6; line-height: 1; }
-#lb-close:hover { opacity: 1; }
-#lb-caption { color: #bbb; font-size: 0.88rem; margin-top: 0.6rem;
-               text-align: center; max-width: 80vw; min-height: 1.4em; }
-#lb-counter { position: absolute; top: 0.7rem; left: 1rem;
-               color: #666; font-size: 0.8rem; }
-</style>
 </head>
 <body>
 <div class="gallery-page">
@@ -109,35 +60,7 @@
   <span id="lb-next">›</span>
   <div id="lb-caption"></div>
 </div>
-<script>
-(function(){
-var photos = {{ photos_json | safe }};
-var cur = 0;
-var lb = document.getElementById('lb');
-function show(i) {
-  cur = ((i % photos.length) + photos.length) % photos.length;
-  document.getElementById('lb-img').src = photos[cur].file;
-  document.getElementById('lb-caption').textContent = photos[cur].caption || '';
-  document.getElementById('lb-counter').textContent = (cur+1) + ' / ' + photos.length;
-  lb.classList.add('open');
-}
-document.getElementById('grid').addEventListener('click', function(e) {
-  var a = e.target.closest('a[data-idx]');
-  if (a) { e.preventDefault(); show(parseInt(a.dataset.idx)); }
-});
-document.getElementById('lb-prev').addEventListener('click', function(){ show(cur-1); });
-document.getElementById('lb-next').addEventListener('click', function(){ show(cur+1); });
-document.getElementById('lb-close').addEventListener('click', function(){ lb.classList.remove('open'); });
-document.addEventListener('keydown', function(e) {
-  if (!lb.classList.contains('open')) return;
-  if (e.key === 'ArrowLeft')  show(cur-1);
-  if (e.key === 'ArrowRight') show(cur+1);
-  if (e.key === 'Escape')     lb.classList.remove('open');
-});
-lb.addEventListener('click', function(e) {
-  if (e.target === lb) lb.classList.remove('open');
-});
-})();
-</script>
+<script src="/static/js/gallery.js"></script>
+<script>initGallery({{ photos_json | safe }});</script>
 </body>
 </html>
