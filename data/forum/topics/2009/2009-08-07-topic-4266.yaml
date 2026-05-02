@@ -3,7 +3,7 @@ slug: topic-4266
 title: фестиваль блюза в Лефортово
 first_post: 2009-08-07 14:18
 last_post: 2009-12-06 00:49
-post_count: 2
+post_count: 1
 posts:
 - id: 36487
   parent_id: null
@@ -12,15 +12,4 @@ posts:
   subject: фестиваль блюза в Лефортово
   deleted: false
   text: Здравствуйте, скажите когда будет проходить фестиваль блюза в Лефортово?
-  replies:
-  - id: 36734
-    parent_id: 36487
-    date: 2009-12-06 00:49
-    poster: Сергей Панкратьев
-    subject: Вот!
-    deleted: false
-    text: '[url]http://www.imidjmedia.ru/[/url]
-
-      <a href="http://www.imidjmedia.ru/">http://www.imidjmedia.ru/</a>
-
-      http://www.imidjmedia.ru/'
+  replies: []

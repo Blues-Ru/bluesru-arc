@@ -3,7 +3,7 @@ slug: topic-2889
 title: Свет в Бабруйске!
 first_post: 2005-10-27 15:15
 last_post: 2005-10-27 21:36
-post_count: 5
+post_count: 4
 posts:
 - id: 24124
   parent_id: null
@@ -50,17 +50,4 @@ posts:
     text: 'Нечего журналюг ругать. Все грамотно! Один раз они указали название... а Sweet boogie band - значит, понравилось....
       так и пишут: "мило" (<i><small>англ.</small></i>sweet).'
     person_id: 4
-  - id: 24130
-    parent_id: 24124
-    date: 2005-10-27 21:36
-    poster: Гавриил Лубнин
-    email: gypsy@mail.ru
-    subject: Вспомнилось из былого...
-    deleted: false
-    text: 'Вокруг мужика собрались бобры,
-
-      А мужик не боится - бобры добры!
-
-
-      http://lubnin.ishops.ru/popup_add_image.php/imagesID/23'
   person_id: 2803

@@ -3,7 +3,7 @@ slug: topic-4229
 title: Big Jim Sullivan - где можно достать?
 first_post: 2009-05-22 17:54
 last_post: 2012-08-07 13:02
-post_count: 10
+post_count: 8
 posts:
 - id: 36327
   parent_id: null
@@ -23,18 +23,7 @@ posts:
     subject: Нам поможет Яндекс
     deleted: false
     text: <a href="http://yandex.ru/yandsearch?text=Blind+Man+Big+Jim+Sullivan">http://yandex.ru/yandsearch?text=Blind+Man+Big+Jim+Sullivan</a>
-    replies:
-    - id: 36736
-      parent_id: 36328
-      date: 2009-12-07 03:23
-      poster: Сергей Панкратьев
-      subject: Хмм...
-      deleted: false
-      text: 'Сами так вкусно рассказываете, что я даже заинтересовался ссылочками... но, увы...
-
-        ___________
-
-        С уважением, Сергей http://www.imidjmedia.ru/'
+    replies: []
     person_id: 2
   - id: 36335
     parent_id: 36327
@@ -98,15 +87,3 @@ posts:
         subject: Нет,
         deleted: false
         text: я петербуржец, но говорят, что у нас интернет Вашщего не хуже) И вот не получалось. Удачных выступлений!
-  - id: 38510
-    parent_id: 36327
-    date: 2012-08-07 13:02
-    poster: Степанов
-    subject: яндекс.музыка
-    deleted: false
-    text: 'а на Яндекс музыке его нет?
-
-
-      ____________________
-
-      http://www.brandprint.ru'

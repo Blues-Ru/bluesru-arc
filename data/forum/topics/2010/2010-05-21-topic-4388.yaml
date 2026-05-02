@@ -3,7 +3,7 @@ slug: topic-4388
 title: Хайвэй 61 на Новом Арбате
 first_post: 2010-05-21 08:14
 last_post: 2010-07-14 02:23
-post_count: 4
+post_count: 3
 posts:
 - id: 36925
   parent_id: null
@@ -39,12 +39,4 @@ posts:
     text: 'Удач.
 
       И радиопередач.'
-    replies:
-    - id: 36982
-      parent_id: 36927
-      date: 2010-07-14 02:23
-      poster: Dimon
-      subject: в тему
-      deleted: false
-      text: Да пожалуйста, эти записи как в одном <a href="http://bekino.ru">kino online</a>.
-      person_id: 7452
+    replies: []

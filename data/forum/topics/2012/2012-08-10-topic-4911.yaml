@@ -3,7 +3,7 @@ slug: topic-4911
 title: Википедия - Ру
 first_post: 2012-08-10 10:54
 last_post: 2012-10-06 15:55
-post_count: 4
+post_count: 3
 posts:
 - id: 38513
   parent_id: null
@@ -51,15 +51,5 @@ posts:
       subject: Да-с
       deleted: false
       text: Так оно и есть, похоже.
-      replies:
-      - id: 38563
-        parent_id: 38516
-        date: 2012-10-06 15:55
-        poster: wwtanger
-        subject: Вилли Диксон
-        deleted: false
-        text: 'интересная сводка
-
-
-          [url=http://www.saki-tanger.com.ua]лечение грязями[/url]'
+      replies: []
       person_id: 458

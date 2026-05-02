@@ -3,7 +3,7 @@ slug: topic-5248
 title: Sweat home Chicago - разные тексты.
 first_post: 2016-04-02 19:40
 last_post: 2016-05-30 02:56
-post_count: 6
+post_count: 5
 posts:
 - id: 39383
   parent_id: null
@@ -51,14 +51,6 @@ posts:
     deleted: false
     text: Много ли было чёрных хозяев звукозаписывающих студий?
     person_id: 7512
-  - id: 39390
-    parent_id: 39383
-    date: 2016-04-12 13:57
-    poster: Бартулович
-    subject: Благодарность
-    deleted: false
-    text: Спасибо, тоже интересовался этим вопросом... <a href="http://prostitutki-volgograd.com/"> </a>
-    person_id: 9064
   - id: 39399
     parent_id: 39383
     date: 2016-05-30 02:56

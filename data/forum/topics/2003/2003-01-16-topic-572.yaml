@@ -3,7 +3,7 @@ slug: topic-572
 title: А что там с Bluezoology vol.3?
 first_post: 2003-01-16 18:52
 last_post: 2003-01-20 13:59
-post_count: 9
+post_count: 7
 posts:
 - id: 10058
   parent_id: null
@@ -74,28 +74,7 @@ posts:
           deleted: false
           text: А я очень рыбок люблю. У меня дома уару, цихлазомы, глосселипсы и проч., а на работе африканские цихлиды.
             Давно хотел сказать, но все стеснялся.
-          replies:
-          - id: 10123
-            parent_id: 10122
-            date: 2003-01-20 13:15
-            poster: Старый Майор (из сибирской ссылки)
-            email: gypsy@mail.ru
-            subject: Поручик, вы любите лошадей?
-            deleted: false
-            text: '- Ездить люблю, а так - нет!
-
-
-              PS: Оффтопик рулез!'
-            replies:
-            - id: 10127
-              parent_id: 10123
-              date: 2003-01-20 13:59
-              poster: Дмитрий(fan))
-              email: leondmitr@freemail.ru
-              subject: Дорогой ты мой человек!
-              deleted: false
-              text: "Ты даже не представляешь, Старый Майор, как без тебя плохо!\nНикаких тебе оффтопиков, никаких шуры-муры\
-                \ с Фрекен Бокк и прочих излишеств. \nПросто тоска.\nССылка, надеюсь, закончилась."
+          replies: []
           person_id: 698
       person_id: 458
   person_id: 87

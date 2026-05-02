@@ -3,7 +3,7 @@ slug: topic-3808
 title: Что означают цифры 32-20 в одноименной песне Р.Джонсона?
 first_post: 2007-11-23 09:06
 last_post: 2008-02-04 09:21
-post_count: 20
+post_count: 15
 posts:
 - id: 33949
   parent_id: null
@@ -148,45 +148,3 @@ posts:
     text: '32-20  сначала было название патрона ф.Ремингтон..Под него до 2 WW
 
       делали револьвер Смит & Вессон...выпущено около 150 тыс.Сейчас такой стоит около 300 уё'
-  - id: 34492
-    parent_id: 33949
-    date: 2008-02-04 09:14
-    poster: уу
-    email: уу
-    subject: '3'
-    deleted: false
-    text: '[IMG]http://img2.nnm.ru/imagez/gallery/f/4/e/2/e/f4e2ea9ff76d48e16553b2b86dbf9fbd.jpg[/IMG]'
-    replies:
-    - id: 34493
-      parent_id: 34492
-      date: 2008-02-04 09:16
-      poster: '44'
-      email: '44'
-      subject: '44'
-      deleted: false
-      text: <img src="http://img2.nnm.ru/imagez/gallery/f/4/e/2/e/f4e2ea9ff76d48e16553b2b86dbf9fbd.jpg[">
-    - id: 34494
-      parent_id: 34492
-      date: 2008-02-04 09:16
-      poster: '44'
-      email: '44'
-      subject: '44'
-      deleted: false
-      text: <img src="http://img2.nnm.ru/imagez/gallery/f/4/e/2/e/f4e2ea9ff76d48e16553b2b86dbf9fbd.jpg[">
-      replies:
-      - id: 34495
-        parent_id: 34494
-        date: 2008-02-04 09:20
-        poster: '444'
-        email: '44'
-        subject: '44'
-        deleted: false
-        text: <img src="http://img2.nnm.ru/imagez/gallery/f/4/e/2/e/f4e2ea9ff76d48e16553b2b86dbf9fbd.jpg">
-      - id: 34496
-        parent_id: 34494
-        date: 2008-02-04 09:21
-        poster: '444'
-        email: '44'
-        subject: '44'
-        deleted: false
-        text: <img src="http://img2.nnm.ru/imagez/gallery/f/4/e/2/e/f4e2ea9ff76d48e16553b2b86dbf9fbd.jpg">

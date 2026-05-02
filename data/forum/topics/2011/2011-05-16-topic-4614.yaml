@@ -3,7 +3,7 @@ slug: topic-4614
 title: В Запорожье приезжает лучший блюзмен Белоруссии
 first_post: 2011-05-16 21:53
 last_post: 2011-05-30 16:40
-post_count: 5
+post_count: 4
 posts:
 - id: 37719
   parent_id: null
@@ -46,11 +46,3 @@ posts:
     deleted: true
     text: я думаю он не будет в подобных <a href="http://evpatoria.tk">санаториях</a> отдыхать
     person_id: 7962
-  - id: 37762
-    parent_id: 37719
-    date: 2011-05-30 16:40
-    poster: Николай
-    subject: alex
-    deleted: false
-    text: <a href="http://evpatoria.tk">Санаторий победа</a>
-    person_id: 7964

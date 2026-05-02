@@ -3,7 +3,7 @@ slug: topic-4365
 title: давайте знакомиться! LoftyBand!
 first_post: 2010-03-15 19:54
 last_post: 2010-05-19 14:27
-post_count: 4
+post_count: 3
 posts:
 - id: 36855
   parent_id: null
@@ -29,23 +29,7 @@ posts:
     deleted: false
     text: дружище, ты наверное не знаешь, но тут русскоязычный блюз мягко говоря не принимают. пока, всё что у тебя есть -
       это русблюз.ру :)
-    replies:
-    - id: 36922
-      parent_id: 36856
-      date: 2010-05-19 14:27
-      poster: svitloker
-      subject: ээээ
-      deleted: false
-      text: 'Ему ничего не мешает попробовать ;)
-
-
-
-
-
-        -----
-
-        С уважением Владислав. Наращивание волос - http://www.vikstyle.ru/index.php?id_n=10'
-      person_id: 7419
+    replies: []
     person_id: 4337
   - id: 36877
     parent_id: 36855

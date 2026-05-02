@@ -3,7 +3,7 @@ slug: topic-5198
 title: Алексей Меринов пишет о вчерашнем концерте Джона Мэйолла
 first_post: 2014-10-14 10:11
 last_post: 2021-01-13 11:33
-post_count: 11
+post_count: 4
 posts:
 - id: 39236
   parent_id: null
@@ -92,62 +92,3 @@ posts:
       deleted: false
       text: <img src="http://img.beatles.ru/f/2370b/2370161.jpg" align="bottom">
       person_id: 7202
-  - id: 39376
-    parent_id: 39236
-    date: 2016-03-19 21:12
-    poster: Владимир
-    subject: '1'
-    deleted: false
-    text: Красава . Грузоперевозки по Днепропетровску http://gruzoperevozki-dnepr.in.ua/
-    replies:
-    - id: 39649
-      parent_id: 39376
-      date: 2019-12-12 11:28
-      poster: Вест
-      subject: ответ
-      deleted: false
-      text: Полностью согласен грузоперевозки в Днепре http://vest.com.ua/
-      replies:
-      - id: 39687
-        parent_id: 39649
-        date: 2021-01-13 11:33
-        poster: Вест
-        subject: ответ
-        deleted: false
-        text: В Запорожье грузоперевозки https://vest.zp.ua/ и грузовое такси
-        person_id: 9342
-      person_id: 9342
-    - id: 39654
-      parent_id: 39376
-      date: 2020-02-22 15:21
-      poster: ann87
-      subject: Александр
-      deleted: false
-      text: Поддерживаю . Вывоз строй мусора Днепр. https://www.vezu.dp.ua/vyvoz_musora
-      replies:
-      - id: 39680
-        parent_id: 39654
-        date: 2020-10-04 10:38
-        poster: ann87
-        subject: Антон
-        deleted: false
-        text: Неплохо лабает мне нравится, советую заглянуть сюда https://util.dp.ua/
-        person_id: 9353
-      person_id: 9353
-    person_id: 9053
-  - id: 39661
-    parent_id: 39236
-    date: 2020-04-04 10:39
-    poster: Кролл
-    subject: Разговоры о блюзе
-    deleted: false
-    text: Джон Мэйолл – один из самых любимых исполнителей блюза. Полностью поддерживаю восторг его фанатов http://perevozki-dnepr.com.ua/
-    person_id: 9363
-  - id: 39668
-    parent_id: 39236
-    date: 2020-05-03 15:10
-    poster: boris
-    subject: Блюз
-    deleted: false
-    text: Отличный исполнитель. Кстати, неплохие грузоперевозки в Днепре https://gruz-ok.com.ua/
-    person_id: 9373

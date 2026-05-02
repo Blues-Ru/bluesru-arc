@@ -3,7 +3,7 @@ slug: topic-4105
 title: Сделал сайт о блюзе и джазе
 first_post: 2008-10-03 18:21
 last_post: 2017-12-24 01:05
-post_count: 3
+post_count: 2
 posts:
 - id: 35840
   parent_id: null
@@ -20,15 +20,6 @@ posts:
     \nСвязь со мной (зовут меня Артур):\nмыло - kinarru[собака]kinar.ru\nаська - триста пять 559 сто семь\nНа форуме guitarplayer.ru\
     \ известен как kinar."
   replies:
-  - id: 35859
-    parent_id: 35840
-    date: 2008-10-14 16:49
-    poster: Моцарт
-    email: mocart@gamil.com
-    subject: портал любителей музыки
-    deleted: false
-    text: А я открыл <a href=http://www.flurostation.com/>портал любителей электронной музыки</a>, где тоже проводится набор
-      авторов для выкладывания <a href=http://www.shopmp3.org/>музыки</a>, треков, миксов разных направлений. Будем вам рады.
   - id: 39493
     parent_id: 35840
     date: 2017-12-24 01:05

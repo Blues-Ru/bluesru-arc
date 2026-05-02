@@ -3,7 +3,7 @@ slug: topic-4384
 title: ЕСТЬ БИЛЕТЫ НА КОНЦЕРТ!
 first_post: 2010-05-13 16:09
 last_post: 2017-02-08 00:25
-post_count: 8
+post_count: 7
 posts:
 - id: 36914
   parent_id: null
@@ -70,15 +70,7 @@ posts:
         poster: ev
         subject: да, можно
         deleted: false
-        replies:
-        - id: 39439
-          parent_id: 36949
-          date: 2017-02-08 00:25
-          poster: kinvich
-          subject: Валдай
-          deleted: false
-          text: Газель Валдай и Катюша совсем недорого http://a-alians.ru/cars/gazel-15t/ лучший выбор во всей России!
-          person_id: 9133
+        replies: []
         person_id: 7171
       person_id: 7171
     person_id: 7202

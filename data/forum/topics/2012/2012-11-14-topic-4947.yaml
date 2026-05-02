@@ -3,7 +3,7 @@ slug: topic-4947
 title: Слайдер из кости
 first_post: 2012-11-14 15:40
 last_post: 2012-11-26 00:07
-post_count: 3
+post_count: 2
 posts:
 - id: 38596
   parent_id: null
@@ -20,14 +20,4 @@ posts:
     subject: Продается.
     deleted: false
     person_id: 3623
-  - id: 38612
-    parent_id: 38596
-    date: 2012-11-26 00:07
-    poster: lizaww
-    subject: продается
-    deleted: false
-    text: 'а что это?
-
-
-      [url=http://more-krim.net.ua/]база отдыха саки[/url]'
   person_id: 3623

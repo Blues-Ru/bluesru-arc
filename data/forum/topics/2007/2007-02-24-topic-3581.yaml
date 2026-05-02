@@ -3,7 +3,7 @@ slug: topic-3581
 title: Фил Гай в ДуДе - в какой день будет лучше?
 first_post: 2007-02-24 22:19
 last_post: 2007-09-17 08:31
-post_count: 9
+post_count: 8
 posts:
 - id: 31333
   parent_id: null
@@ -83,13 +83,3 @@ posts:
           person_id: 458
         person_id: 458
       person_id: 2
-  - id: 33522
-    parent_id: 31333
-    date: 2007-09-17 08:31
-    poster: www
-    email: qw@navfk.re
-    subject: qq
-    deleted: false
-    text: <a title='Увеличить' href='http://otvali.ru/tools/img.php?url=http://img.otvali.ru/2007/09/22566_podborochka_prikolnyx_kartinok_11.jpg'
-      target='_blank'><img src='http://img.otvali.ru/2007/09/22566_s__podborochka_prikolnyx_kartinok_11.jpg' alt='Подборочка
-      прикольных картинок (31 фото)' /></a>

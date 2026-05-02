@@ -3,7 +3,7 @@ slug: topic-4380
 title: Cotton Club RIP, long live Roadhouse!
 first_post: 2010-04-30 12:39
 last_post: 2016-10-11 16:33
-post_count: 11
+post_count: 10
 posts:
 - id: 36882
   parent_id: null
@@ -104,12 +104,3 @@ posts:
       text: <img src="http://pit.dirty.ru/dirty/1/2010/05/01/4974-174913-7bb6ad7a27f9dc970e45fc304d39bcdf.jpg" align="bottom">
       person_id: 7202
     person_id: 7219
-  - id: 39422
-    parent_id: 36882
-    date: 2016-10-11 16:33
-    poster: Иляь
-    subject: Уши
-    deleted: false
-    text: Также гарнитуру можно использовать при просмотре фильмов, для прослушивания музыки и для общения в чатах — например,
-      для координации действий в игре с товарищами по команде. http://sennheiser-boutique.ru/catalog/igrovye-garnitury/pc-310/
-    person_id: 9102

@@ -3,7 +3,7 @@ slug: topic-4913
 title: Евдокимов день сегодня!
 first_post: 2012-08-13 11:56
 last_post: 2012-10-06 15:56
-post_count: 4
+post_count: 3
 posts:
 - id: 38517
   parent_id: null
@@ -33,14 +33,4 @@ posts:
 
       А еще поиски показали, что сегодня день левшей!'
     person_id: 4
-  - id: 38564
-    parent_id: 38517
-    date: 2012-10-06 15:56
-    poster: wwtanger
-    subject: Вилли Диксон
-    deleted: false
-    text: 'да уж!
-
-
-      саки <a href="http://www.saki-tanger.com.ua/">пансионат Танжер</a>'
   person_id: 458

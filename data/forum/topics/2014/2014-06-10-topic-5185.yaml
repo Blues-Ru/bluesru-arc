@@ -3,7 +3,7 @@ slug: topic-5185
 title: Ian Siegal Live from Budapest (Hungary), 2011 & 2013 (HD & SD)
 first_post: 2014-06-10 23:15
 last_post: 2021-01-11 19:55
-post_count: 3
+post_count: 2
 posts:
 - id: 39214
   parent_id: null
@@ -37,12 +37,4 @@ posts:
       плеера с этими браузерами :( Не знаю, может быть существует ещё какой-нибудь способ решения этой проблемы, но он мне
       к сожалению пока неизвестен :)
     person_id: 4502
-  - id: 39685
-    parent_id: 39214
-    date: 2021-01-11 19:55
-    poster: Владимир
-    subject: Концерт бомба
-    deleted: false
-    text: Концерт бомба, я был на нем) https://gruzovozka.dp.ua/prices.html
-    person_id: 9390
   person_id: 4502

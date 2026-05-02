@@ -3,7 +3,7 @@ slug: topic-579
 title: Блюз - это боль
 first_post: 2003-01-19 23:20
 last_post: 2003-01-21 20:52
-post_count: 31
+post_count: 30
 posts:
 - id: 10113
   parent_id: null
@@ -143,17 +143,6 @@ posts:
             deleted: false
             text: http://www.rubricon.ru/qe.asp?qtype=4&rq=4&aid={B4A97873-B42A-4685-BD8A-1BABC50FC2EC}&id=1&sLetter=ac
             person_id: 13
-          - id: 10146
-            parent_id: 10138
-            date: 2003-01-20 18:23
-            poster: Старый Майор (из сибирской ссылки)
-            email: gypsy@mail.ru
-            subject: Как много нам открытий чудных...
-            deleted: false
-            text: 'А вот загляните-ка сюда, коллеги! Столько новых слов узнаете!
-
-
-              http://www.rubricon.ru/qe.asp?qtype=1&id=0&srubr=0&fstring=педераст'
           person_id: 13
   - id: 10128
     parent_id: 10113

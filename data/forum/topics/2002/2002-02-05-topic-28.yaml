@@ -3,7 +3,7 @@ slug: topic-28
 title: Подскажите, где достать фильм "Crossroad" (-)
 first_post: 2002-02-05 19:16
 last_post: 2018-11-29 20:46
-post_count: 18
+post_count: 13
 posts:
 - id: 679
   parent_id: null
@@ -143,45 +143,4 @@ posts:
         person_id: 335
       person_id: 2
     person_id: 335
-  - id: 39452
-    parent_id: 679
-    date: 2017-03-09 15:47
-    poster: Василий
-    subject: Подскажите, где достать фильм "Crossroad
-    deleted: false
-    text: возможно здесь http://kinoserv.net/ вы найдете то что ищите!
-    person_id: 9143
-  - id: 39501
-    parent_id: 679
-    date: 2018-02-27 09:12
-    poster: proger86
-    subject: Вроде тут
-    deleted: false
-    text: На этом сайте я его как то видел https://kinogood.net
-    person_id: 9212
-  - id: 39503
-    parent_id: 679
-    date: 2018-03-23 04:35
-    poster: Вася
-    subject: Подскажите, где достать фильм "Crossroad
-    deleted: false
-    text: Перекресток? Если да, то недавно смотрел тут http://kinoangel.club/ не плохо фильм :)
-    person_id: 9221
-  - id: 39542
-    parent_id: 679
-    date: 2018-11-29 20:45
-    poster: Василий
-    subject: Подскажите, где достать фильм "Crossroad"
-    deleted: false
-    text: если мне память не изменяет то здесь можно глянуть [url]http://svoekino.club/novinki-kino-2018/[/url]
-    replies:
-    - id: 39543
-      parent_id: 39542
-      date: 2018-11-29 20:46
-      poster: Василий
-      subject: Подскажите, где достать фильм "Crossroad"
-      deleted: false
-      text: http://svoekino.club/novinki-kino-2018/
-      person_id: 9264
-    person_id: 9264
   person_id: 707

@@ -3,7 +3,7 @@ slug: topic-4655
 title: 2011 Safeway Waterfront Blues Festival
 first_post: 2011-07-05 12:34
 last_post: 2022-05-11 12:50
-post_count: 9
+post_count: 8
 posts:
 - id: 37841
   parent_id: null
@@ -79,12 +79,3 @@ posts:
         person_id: 2
       person_id: 6
     person_id: 7208
-  - id: 39699
-    parent_id: 37841
-    date: 2022-05-11 12:50
-    poster: Odirnova
-    subject: Роберт Крэй..
-    deleted: false
-    text: Забавно, его однофамилиц довольно известный человек среди трейдеров https://kapper1.ru/trade-crypt/ Организовал
-      новое направление по работе с криптовалютами. Говорят очень перспективный бизнес.
-    person_id: 9405

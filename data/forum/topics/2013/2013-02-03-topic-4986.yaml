@@ -3,7 +3,7 @@ slug: topic-4986
 title: Воскресная Блюз-кинотека - фильм Honeydripper...
 first_post: 2013-02-03 04:46
 last_post: 2013-02-09 08:27
-post_count: 12
+post_count: 10
 posts:
 - id: 38743
   parent_id: null
@@ -181,28 +181,6 @@ posts:
               person_id: 13
             person_id: 7264
           person_id: 13
-  - id: 38751
-    parent_id: 38743
-    date: 2013-02-08 17:06
-    poster: Николай
-    subject: блюзовые аккорды
-    deleted: false
-    text: Хочу выложить блюзовые аккорды на свой сайт http://rock-akkords.ru
-    replies:
-    - id: 38754
-      parent_id: 38751
-      date: 2013-02-09 01:51
-      poster: kishinevets
-      subject: давно уже в наших краях...
-      deleted: false
-      text: 'не видели человека, знающего эти самые аккорды...
-
-        старики сказывают, что знание их делает твою жизнь короткой...
-
-        хотя, если бесстрашен ты, мой друг, то загляни сюда...
-
-        http://hardrockblog.ru/?p=1907'
-    person_id: 8530
   - id: 38756
     parent_id: 38743
     date: 2013-02-09 08:27

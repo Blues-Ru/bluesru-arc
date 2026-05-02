@@ -3,7 +3,7 @@ slug: topic-4396
 title: погиб Саша Бородин
 first_post: 2010-06-13 23:36
 last_post: 2017-02-06 21:10
-post_count: 9
+post_count: 7
 posts:
 - id: 36951
   parent_id: null
@@ -20,22 +20,7 @@ posts:
     poster: baltika
     subject: ужас (-)
     deleted: false
-    replies:
-    - id: 37034
-      parent_id: 36952
-      date: 2010-08-25 19:33
-      poster: varprof
-      subject: ужас
-      deleted: false
-      text: 'Это ужасно....
-
-
-
-
-
-        -----
-
-        http://svarprof.ru/production/227'
+    replies: []
     person_id: 7433
   - id: 36953
     parent_id: 36951
@@ -84,12 +69,3 @@ posts:
       text: http://www.lifenews.ru/news/27881
       person_id: 335
     person_id: 4337
-  - id: 39437
-    parent_id: 36951
-    date: 2017-02-06 21:10
-    poster: Eva
-    subject: Загляни
-    deleted: false
-    text: 'посмотри новинки <a href="http://www.new-project.biz/
-
-      ">тут</a>'

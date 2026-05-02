@@ -3,7 +3,7 @@ slug: topic-38
 title: Ищу блюз Челобанова
 first_post: 2002-01-08 11:50
 last_post: 2018-03-19 02:33
-post_count: 70
+post_count: 69
 posts:
 - id: 36
   parent_id: null
@@ -913,11 +913,3 @@ posts:
                             person_id: 87
                           person_id: 335
         person_id: 598
-  - id: 39502
-    parent_id: 36
-    date: 2018-03-19 02:33
-    poster: Vaskl
-    subject: Ищу блюз Челобанова
-    deleted: false
-    text: прикольно, когда слышиш его музыку в фоновом сопровождении биографического фильма http://third-film.org/biografii-smotret/
-    person_id: 9220

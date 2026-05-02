@@ -3,7 +3,7 @@ slug: topic-814
 title: Скотт Хендерсон
 first_post: 2003-05-05 03:42
 last_post: 2018-07-17 23:25
-post_count: 5
+post_count: 3
 posts:
 - id: 12222
   parent_id: null
@@ -39,20 +39,3 @@ posts:
     subject: Скотт Хендерсон
     deleted: false
     text: "Интересно  кто приезжал с ним в ритм секциию??  И вообще насколько разница в живом саунде? \n Спасибо."
-  - id: 39530
-    parent_id: 12222
-    date: 2018-07-17 23:24
-    poster: Егор Печулин
-    subject: отдых в радость
-    deleted: false
-    text: Если в Ростове https://sexrostov.center/ вот так отдыхать, настроение будет бодрым, а душа - чистой.
-    replies:
-    - id: 39531
-      parent_id: 39530
-      date: 2018-07-17 23:25
-      poster: Егор Печулин
-      subject: или так
-      deleted: false
-      text: '[url=https://sexrostov.center/]https://sexrostov.center/[/url]'
-      person_id: 9240
-    person_id: 9240

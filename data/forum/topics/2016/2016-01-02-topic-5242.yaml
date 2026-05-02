@@ -3,7 +3,7 @@ slug: topic-5242
 title: помощь
 first_post: 2016-01-02 15:59
 last_post: 2016-02-22 13:31
-post_count: 7
+post_count: 6
 posts:
 - id: 39338
   parent_id: null
@@ -59,12 +59,4 @@ posts:
     deleted: false
     text: Специалист по Хокинсу-это человек который может наверняка определить песню Хокинса
     person_id: 7999
-  - id: 39371
-    parent_id: 39338
-    date: 2016-02-22 13:31
-    poster: Артем
-    subject: Спасибо
-    deleted: false
-    text: Все скачал спасибо, сам искал <a href="http://prostitutka-spb.com/"> </a>
-    person_id: 9045
   person_id: 7999

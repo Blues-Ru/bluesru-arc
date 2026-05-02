@@ -3,7 +3,7 @@ slug: topic-4576
 title: Определение города по IP, работает?
 first_post: 2011-04-06 00:50
 last_post: 2011-05-26 19:09
-post_count: 4
+post_count: 3
 posts:
 - id: 37585
   parent_id: null
@@ -30,13 +30,3 @@ posts:
     deleted: false
     text: В Одессе- работает!
     person_id: 7889
-  - id: 37759
-    parent_id: 37585
-    date: 2011-05-26 19:09
-    poster: Николай
-    subject: да но нет
-    deleted: false
-    text: 'показывает только не для Форос а для хз чего)
-
-      сижу в <a href="http://foross.biz">санатории Форос</a>'
-    person_id: 7964

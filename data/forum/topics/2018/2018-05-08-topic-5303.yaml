@@ -3,7 +3,7 @@ slug: topic-5303
 title: Ищу альбом Литтл Ричарда
 first_post: 2018-05-08 19:40
 last_post: 2020-04-15 04:17
-post_count: 4
+post_count: 3
 posts:
 - id: 39522
   parent_id: null
@@ -71,14 +71,6 @@ posts:
       Producer – Larry Williams
 
       Только вот, я там органа не слышу )))'
-  - id: 39578
-    parent_id: 39522
-    date: 2019-06-23 20:11
-    poster: Vaskl
-    subject: Ищу альбом Литтл Ричарда
-    deleted: false
-    text: Вот нормально исполняют в стиле ричарда http://film-two.org/serial/3610-million-melochey-2-sezon-2019-smotret-onlayn.html
-    person_id: 9220
   - id: 39665
     parent_id: 39522
     date: 2020-04-15 04:17

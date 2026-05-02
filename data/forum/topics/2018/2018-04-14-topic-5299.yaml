@@ -3,7 +3,7 @@ slug: topic-5299
 title: Братья и сестры во Блюзе!
 first_post: 2018-04-14 17:40
 last_post: 2019-01-09 14:42
-post_count: 7
+post_count: 5
 posts:
 - id: 39506
   parent_id: null
@@ -36,16 +36,7 @@ posts:
     subject: В бумажном виде- не знаю, как зрение село, перестал читать бумагу.
     deleted: false
     text: А скачать на личном сайте Писигина, или же на Коллектбл Рекордз
-    replies:
-    - id: 39545
-      parent_id: 39512
-      date: 2019-01-09 14:42
-      poster: Сергей
-      subject: О своем боди
-      deleted: false
-      text: Нужно регулярно ходить на боди массаж https://massagistki.kiev.ua/body-massage-kiev и тогда и с телом будет все
-        в порядке и со зрением
-      person_id: 9273
+    replies: []
     person_id: 9227
   - id: 39517
     parent_id: 39506
@@ -55,12 +46,4 @@ posts:
     deleted: false
     text: Мне б в бумажном. На полке стоят красуются предыдущие.
     person_id: 7512
-  - id: 39544
-    parent_id: 39506
-    date: 2018-12-23 20:42
-    poster: Denis mihalov
-    subject: Мда
-    deleted: false
-    text: http://www.pricechina.ru/brand/100/oneplus
-    person_id: 9268
   person_id: 7512

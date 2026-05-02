@@ -3,7 +3,7 @@ slug: topic-5278
 title: Блюз в фильме "Она сбила летчика"
 first_post: 2017-06-03 14:32
 last_post: 2019-09-01 23:53
-post_count: 19
+post_count: 16
 posts:
 - id: 39465
   parent_id: null
@@ -22,14 +22,6 @@ posts:
 
     https://my.mail.ru/mail/vpl07/video/_myvideo/4.html'
   replies:
-  - id: 39466
-    parent_id: 39465
-    date: 2017-06-04 19:56
-    poster: sanek2236
-    subject: Посмотрите фильм Великий Гэтсби
-    deleted: false
-    text: Посмотрите фильм Великий Гэтсби Атмосфера 20 годов прошлого века захватывает. Блестящий фильм, вот ссылка http://kinohity.net/1186-velikiy-getsbi-2013.html
-    person_id: 9168
   - id: 39497
     parent_id: 39465
     date: 2018-01-29 16:11
@@ -38,23 +30,6 @@ posts:
     deleted: false
     text: Нашли песню, тоже мучаюсь с поиском
     person_id: 9205
-  - id: 39498
-    parent_id: 39465
-    date: 2018-02-04 03:24
-    poster: Коля Фанин
-    subject: Отдых
-    deleted: true
-    text: Не мучайся, переходи и получи удовольствие с https://9dosug777.com .
-    replies:
-    - id: 39566
-      parent_id: 39498
-      date: 2019-05-08 11:39
-      poster: Татьяна
-      subject: Блюз в фильме "Она сбила летчика"
-      deleted: true
-      text: Лучше на этот сайт https://bordelero.net/
-      person_id: 9298
-    person_id: 9207
   - id: 39504
     parent_id: 39465
     date: 2018-03-29 15:41

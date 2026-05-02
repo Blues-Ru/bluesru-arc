@@ -3,7 +3,7 @@ slug: topic-4228
 title: Никто не видел ещё
 first_post: 2009-05-21 22:27
 last_post: 2009-12-26 17:25
-post_count: 9
+post_count: 8
 posts:
 - id: 36325
   parent_id: null
@@ -12,9 +12,8 @@ posts:
   subject: Никто не видел ещё
   deleted: false
   text: <object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/wwCNA8cc_S4&hl=ru&fs=1"></param><param
-    name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed
-    src="http://www.youtube.com/v/wwCNA8cc_S4&hl=ru&fs=1" type="application/x-shockwave-flash"
-    allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>
+    name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/wwCNA8cc_S4&hl=ru&fs=1"
+    type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>
   replies:
   - id: 36326
     parent_id: 36325
@@ -32,28 +31,22 @@ posts:
     subject: Ещё
     deleted: false
     text: <object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/FbKasDgvOb0&hl=ru&fs=1"></param><param
-      name="allowFullScreen" value="true"></param><param name="allowscriptaccess"
-      value="always"></param><embed src="http://www.youtube.com/v/FbKasDgvOb0&hl=ru&fs=1"
-      type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true"
-      width="425" height="344"></embed></object>
+      name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/FbKasDgvOb0&hl=ru&fs=1"
+      type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>
   - id: 36333
     parent_id: 36325
     date: 2009-05-27 19:41
     poster: Axle
-    subject: .. и ещё... Весь сентябрьский концерт на моей странице в ютубе. Кстати,
-      у меня дома на холодильнике...
+    subject: .. и ещё... Весь сентябрьский концерт на моей странице в ютубе. Кстати, у меня дома на холодильнике...
     deleted: false
-    text: '...лежит его аудио запись. На минидисках. Никто не может помочь перекатать
-      на обычный СД? Можно было бы сделать видео ещё и слушабельным. (тут только гитарный
-      монитор слышен)
+    text: '...лежит его аудио запись. На минидисках. Никто не может помочь перекатать на обычный СД? Можно было бы сделать
+      видео ещё и слушабельным. (тут только гитарный монитор слышен)
 
 
 
       <object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/ZAZJeW35wdw&hl=ru&fs=1"></param><param
-      name="allowFullScreen" value="true"></param><param name="allowscriptaccess"
-      value="always"></param><embed src="http://www.youtube.com/v/ZAZJeW35wdw&hl=ru&fs=1"
-      type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true"
-      width="425" height="344"></embed></object>'
+      name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/ZAZJeW35wdw&hl=ru&fs=1"
+      type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>'
     replies:
     - id: 36343
       parent_id: 36333
@@ -86,15 +79,3 @@ posts:
             subject: Оооо!
             deleted: false
             text: Не в продуктах счастье )) Мнеб запись перекотать.
-    - id: 36779
-      parent_id: 36333
-      date: 2009-12-26 17:25
-      poster: Evgenia Tereshkina
-      subject: Нереально
-      deleted: false
-      text: 'Слушабельным - нереально имхо. Как добавить то, чего нет??? Видяхи крутые,
-        конечно!
-
-        ________________
-
-        С уважением. Флорист http://www.flowersinlove.ru/'

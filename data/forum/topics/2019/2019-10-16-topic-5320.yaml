@@ -3,7 +3,7 @@ slug: topic-5320
 title: рецензии на Alvin Lee In Flight, 1974
 first_post: 2019-10-16 13:22
 last_post: 2021-10-07 20:35
-post_count: 9
+post_count: 8
 posts:
 - id: 39617
   parent_id: null
@@ -90,12 +90,4 @@ posts:
       text: может, лучше в Фэйсбуке найти группу Blues.ru и там это все печатать
       person_id: 7264
     person_id: 9380
-  - id: 39696
-    parent_id: 39617
-    date: 2021-10-07 20:35
-    poster: Donatas Juraitis
-    subject: seosprendimai.lt
-    deleted: false
-    text: '[url=https://seosprendimai.lt/]SEO Sprendimai[/url]'
-    person_id: 9400
   person_id: 8301

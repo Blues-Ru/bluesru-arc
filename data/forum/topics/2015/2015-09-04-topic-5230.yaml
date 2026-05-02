@@ -3,7 +3,7 @@ slug: topic-5230
 title: Roman Bondarenko "Blues In Bb"
 first_post: 2015-09-04 20:16
 last_post: 2016-10-11 16:34
-post_count: 2
+post_count: 1
 posts:
 - id: 39308
   parent_id: null
@@ -12,14 +12,5 @@ posts:
   subject: Roman Bondarenko "Blues In Bb"
   deleted: false
   text: <iframe width="560" height="315" src="https://www.youtube.com/embed/HXLEDaeZkEQ" frameborder="0" allowfullscreen></iframe>
-  replies:
-  - id: 39423
-    parent_id: 39308
-    date: 2016-10-11 16:34
-    poster: Иляь
-    subject: Уши
-    deleted: false
-    text: Также гарнитуру можно использовать при просмотре фильмов, для прослушивания музыки и для общения в чатах — например,
-      для координации действий в игре с товарищами по команде. http://sennheiser-boutique.ru/catalog/igrovye-garnitury/pc-310/
-    person_id: 9102
+  replies: []
   person_id: 373

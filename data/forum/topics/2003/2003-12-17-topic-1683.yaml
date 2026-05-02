@@ -3,7 +3,7 @@ slug: topic-1683
 title: Прямо сейчас!
 first_post: 2003-12-17 23:31
 last_post: 2003-12-27 12:00
-post_count: 5
+post_count: 4
 posts:
 - id: 16315
   parent_id: null
@@ -43,12 +43,4 @@ posts:
       text: ПП хорош своенй гармоничностью во всём, жаль что сейчас он мало востребован. Такой клавишник пропадает! Леван
         хорош напористостью. Пока они играли вдумчиво, всё было зашибись. Чуть начали разогреваться, и сразу же пошли ляпусы.
     person_id: 26
-  - id: 16495
-    parent_id: 16315
-    date: 2003-12-27 12:00
-    poster: Рома
-    email: '@@@'
-    subject: Но
-    deleted: false
-    text: <img src="http://www.blues.ru/calendar/1226SHORT.jpg" align="bottom">
   person_id: 712

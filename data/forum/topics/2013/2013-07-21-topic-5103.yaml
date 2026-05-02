@@ -3,7 +3,7 @@ slug: topic-5103
 title: Михаилу - солнцу нашему - Петровичу Соколову - слава, ура и многая лета!
 first_post: 2013-07-21 17:45
 last_post: 2016-02-22 13:23
-post_count: 5
+post_count: 4
 posts:
 - id: 39042
   parent_id: null
@@ -46,11 +46,3 @@ posts:
     deleted: false
     text: Поздравляю!
     person_id: 7202
-  - id: 39369
-    parent_id: 39042
-    date: 2016-02-22 13:23
-    poster: Артем
-    subject: Поздравление
-    deleted: false
-    text: Поздравляем, удачи тебе во всех начинаниях в личной жизни <a href="http://spb-relax.com/"> </a>
-    person_id: 9045

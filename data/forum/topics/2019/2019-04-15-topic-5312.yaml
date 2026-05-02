@@ -3,7 +3,7 @@ slug: topic-5312
 title: Играет ли Мишурис по прежнему ракинрол или таки уже нет ?
 first_post: 2019-04-15 02:17
 last_post: 2019-06-02 21:20
-post_count: 5
+post_count: 4
 posts:
 - id: 39563
   parent_id: null
@@ -76,11 +76,3 @@ posts:
         text: в чем неуместность поста ?
         person_id: 7264
       person_id: 7870
-  - id: 39569
-    parent_id: 39563
-    date: 2019-06-02 21:20
-    poster: Vaskl
-    subject: Играет ли Мишурис по прежнему ракинрол или таки уже нет ?
-    deleted: false
-    text: Во втором фильме одержимости блюзу дали больше места развернуться, а Мишурис отметился в финальном концерте. http://film-two.org/melodrama/3314-oderzhimost-2-2019-smotret-onlayn.html
-    person_id: 9220
