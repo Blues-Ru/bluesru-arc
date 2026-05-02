@@ -1,6 +1,12 @@
 # Blues.Ru archive _redirects
 # Static rules MUST precede dynamic rules (CF Pages: 2000 static / 100 dynamic limits are separate)
 
+# === BACKWARDS-COMPAT: old /static/ prefix and /newsimg/ ===
+/static/css/*    /css/:splat    301
+/static/js/*     /js/:splat     301
+/static/covers/* /covers/:splat 301
+/newsimg/*       /news/images/:splat  301
+
 # === STATIC REDIRECTS (exact paths, no wildcards) ===
 
 # Static ASPX page redirects

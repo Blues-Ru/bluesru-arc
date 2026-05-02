@@ -21,7 +21,7 @@
 
 {% for ev in events %}
 <p>
-{%- if ev.picture %}<img src="/calendar/{{ ev.picture }}" border="0" align="right" vspace="4" hspace="8" style="max-width:180px;max-height:120px;">{% endif %}
+{%- if ev.picture %}<img src="/calendar/images/{{ ev.picture }}" border="0" align="right" vspace="4" hspace="8" style="max-width:180px;max-height:120px;">{% endif %}
 <b>{{ ev.formatted_date }}</b> - {% if ev.title %}<b>{{ ev.title }}</b> - {% endif %}{{ ev.text | safe }}
 {%- if ev.picture %}<br clear="both">{% endif %}
 </p>

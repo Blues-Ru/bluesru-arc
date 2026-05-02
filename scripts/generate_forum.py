@@ -123,7 +123,7 @@ def _generate_forum_topics(topics_meta, topic_to_page):
 
 
 def _copy_forum_static():
-    for f in (STATIC / 'forum').iterdir():
+    for f in (ARC / 'forum').iterdir():
         shutil.copy2(f, SITE / 'forum' / f.name)
 
 

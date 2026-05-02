@@ -26,15 +26,14 @@ _site_default = str(ARC / 'bluesru-site') if os.environ.get('CF_PAGES') else str
 SITE       = Path(os.environ.get('BLUESRU_SITE', _site_default))
 TEMPLATES  = ARC / "templates"
 INCLUDES   = ARC / "includes"
-STATIC     = ARC / "static"
-COVERS     = STATIC / "covers"
+COVERS     = ARC / "covers"
 CONTENT    = ARC / "content"
 BLUESNEWS  = CONTENT / "bluesnews"
 ATB        = CONTENT / "atb"
 BEEFHEART  = CONTENT / "beefheart"
 ETHNOTRIP  = CONTENT / "ethnotrip"
 ZAPPAZUHOI = CONTENT / "zappazuhoi"
-CAL_IMGS   = ARC / "calendar"
+CAL_IMGS   = ARC / "calendar" / "images"
 
 MEDIA_BASE_URL = ""
 
@@ -153,7 +152,7 @@ GA_SNIPPET = '''\
   gtag('config', 'G-8HDC1W9R3E');
 </script>'''
 
-SITE_CSS_TAG = '<link rel="stylesheet" href="/static/css/site.css">'
+SITE_CSS_TAG = '<link rel="stylesheet" href="/css/site.css">'
 
 JINJA_ENV.globals['ga_snippet'] = GA_SNIPPET
 JINJA_ENV.globals['site_css_tag'] = SITE_CSS_TAG
@@ -298,7 +297,7 @@ def cover_url_for_asin(asin):
         return ''
     local = COVERS / f'{asin}.jpg'
     if local.exists():
-        return f'/static/covers/{asin}.jpg'
+        return f'/covers/{asin}.jpg'
     return f'https://images-na.ssl-images-amazon.com/images/P/{asin}.01.MZZZZZZZ.jpg'
 
 
@@ -1651,7 +1650,7 @@ def _generate_links_page(categories, sites):
     html = ('<!DOCTYPE html>\n<html>\n<head>\n<meta charset="utf-8">\n'
             '<title>Блюзовые ссылки — Blues.Ru</title>\n'
             '<link rel="shortcut icon" href="/images/bluesru.ico">\n'
-            '<link rel="stylesheet" href="/static/css/site.css">\n'
+            '<link rel="stylesheet" href="/css/site.css">\n'
             + GA_SNIPPET + '\n'
             '<style>a{text-decoration:none}</style>\n'
             '</head>\n<body bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#5511CC">\n'

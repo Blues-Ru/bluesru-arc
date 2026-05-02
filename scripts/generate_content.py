@@ -42,8 +42,8 @@ def generate_content():
                     break
         print(f"  {name}/: {count} files")
 
-    # blues-calendar images
-    dst_cal = SITE / 'calendar'
+    # blues-calendar images → site/calendar/images/
+    dst_cal = SITE / 'calendar' / 'images'
     dst_cal.mkdir(parents=True, exist_ok=True)
     cal_count = 0
     for img in CAL_IMGS.rglob('*'):
@@ -52,7 +52,7 @@ def generate_content():
             dst.parent.mkdir(parents=True, exist_ok=True)
             shutil.copy2(img, dst)
             cal_count += 1
-    print(f"  calendar/: {cal_count} images")
+    print(f"  calendar/images/: {cal_count} images")
 
     static_sections = [
         'band', 'style', 'bsfest', 'bbkingfest', 'efes', 'nbf',
@@ -60,7 +60,6 @@ def generate_content():
         'reading', 'vocabulary.htm', 'about.htm', 'label',
         'ww', 'club', 'stuff',
         'fest', 'article', 'harp', 'lessons', 'andrey', 'fedor', 'arc',
-        'images', 'newsimg',
     ]
     sec_total = 0
     for section in static_sections:
@@ -84,15 +83,14 @@ def generate_content():
             sec_total += c
     print(f"  blues-ru sections/: {sec_total} files")
 
-    _copy_dir(STATIC / 'js', SITE / 'static' / 'js')
-    _copy_dir(STATIC / 'js', SITE / 'js')
-    _copy_dir(STATIC / 'css', SITE / 'static' / 'css')
-    _copy_dir(STATIC / 'css', SITE / 'css')
-    _copy_dir(STATIC / 'forum', SITE / 'forum')
-    if (STATIC / 'covers').exists():
-        _copy_dir(STATIC / 'covers', SITE / 'static' / 'covers')
-    print("  static/: JS + CSS + forum assets + covers copied")
-    print("  static/: done")
+    _copy_dir(ARC / 'js',      SITE / 'js')
+    _copy_dir(ARC / 'css',     SITE / 'css')
+    _copy_dir(ARC / 'forum',   SITE / 'forum')
+    _copy_dir(ARC / 'covers',  SITE / 'covers')
+    _copy_dir(ARC / 'images',  SITE / 'images')
+    (SITE / 'news' / 'images').mkdir(parents=True, exist_ok=True)
+    _copy_dir(ARC / 'news' / 'images', SITE / 'news' / 'images')
+    print("  assets: js/ css/ forum/ covers/ images/ news/images/ copied")
 
 
 if __name__ == '__main__':

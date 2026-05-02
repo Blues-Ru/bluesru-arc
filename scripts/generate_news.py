@@ -71,8 +71,8 @@ def generate_news():
         image_path = None
         if nid:
             for ext in ('.jpg', '.gif', '.png'):
-                if (CONTENT / 'newsimg' / f'{nid}{ext}').exists():
-                    image_path = f'/newsimg/{nid}{ext}'
+                if (ARC / 'news' / 'images' / f'{nid}{ext}').exists():
+                    image_path = f'/news/images/{nid}{ext}'
                     break
         return {
             'id': nid,
