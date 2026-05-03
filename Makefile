@@ -26,7 +26,7 @@ deps: .deps-stamp
 # Use 'make build-parallel' for faster parallel execution.
 
 build: deps backup data calendar anagrams content bluesmen news reviews atb \
-       updates homepage galleries photo forum postprocess deploy
+       updates homepage galleries photo forum postprocess sitemap deploy
 
 backup:
 	@if [ -d "$(SITE)" ]; then \
@@ -49,7 +49,11 @@ backup:
 
 build-parallel: deps postprocess deploy
 
-deploy: postprocess
+deploy: sitemap
+
+sitemap: postprocess
+	$(RUN) $(SCRIPTS)/generate_sitemap.py
+
 postprocess: _phase2
 
 _phase2: photo $(addprefix forum-shard-, $(SHARDS))
@@ -147,7 +151,7 @@ push-all: push-media push-cache push
 
 .PHONY: deps build build-parallel backup _phase1 _phase2 \
         content bluesmen news reviews atb updates homepage data \
-        calendar anagrams galleries photo postprocess deploy \
+        calendar anagrams galleries photo postprocess sitemap deploy \
         forum forum-plan forum-index \
         $(addprefix forum-shard-, $(SHARDS)) \
         serve thumbs thumbs-dry \
