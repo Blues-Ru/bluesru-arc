@@ -94,6 +94,14 @@ def generate_homepage():
     (SITE / 'index.html').write_text(html, encoding='utf-8')
     print(f"  index.html: {len(blues_news_items)} blues news, {len(latest_atb_items)} ATB, {len(latest_updates_items)} updates")
 
+    # ── Search page ───────────────────────────────────────────────────────────
+    search_dir = SITE / 'search'
+    search_dir.mkdir(parents=True, exist_ok=True)
+    search_tmpl = JINJA_ENV.get_template('search.html.j2')
+    search_html = search_tmpl.render(footer=FOOTER)
+    (search_dir / 'index.html').write_text(search_html, encoding='utf-8')
+    print("  search/index.html")
+
 
 if __name__ == '__main__':
     generate_homepage()
