@@ -6,7 +6,7 @@ from datetime import date
 from pathlib import Path
 
 ARC = Path(__file__).resolve().parent.parent
-_site_default = str(ARC.parent / 'bluesru-site')
+_site_default = str(ARC / 'bluesru-site') if os.environ.get('CF_PAGES') else str(ARC.parent / 'bluesru-site')
 SITE = Path(os.environ.get('BLUESRU_SITE', _site_default))
 BASE = 'https://blues.ru'
 TODAY = date.today().isoformat()
