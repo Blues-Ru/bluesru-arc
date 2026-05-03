@@ -337,8 +337,19 @@ Format: `FROM_PATH [?QUERY] TO_PATH STATUS_CODE`
 
 Types:
 - Exact: `/review/default.aspx /review/ 301`
-- Wildcard: `/bluesmen/* /artist/:splat 301`
 - Query-string: `/data/albumview.aspx?cdid=123 /artist/a-slug/alb-slug/ 301`
+- Wildcard (avoid — see limits below): `/bluesmen/* /artist/:splat 301`
+
+**CF Pages limits**: 2000 static (exact/query-string) + 100 dynamic (wildcard/placeholder) rules.
+Any wildcard anywhere causes CF to count ALL subsequent lines as dynamic — exhausting 100 quickly.
+**Rule: keep zero wildcard rules.** All current rules are exact paths.
+
+**What belongs in `_redirects`**: URLs that existed on the old site (`blues.ru`) and now live at a different path. Specifically: `.aspx` query-string URLs → clean slugs; renamed sections (`/bluesmen/` → `/artist/`); gallery slug changes.
+
+**What does NOT belong**:
+- Loose catch-alls to site root or large sections — a 404 page is sufficient
+- Image/asset path rewrites — update the template that generates the URL instead
+- URLs from intermediate build artifacts (e.g. old `extracted-data/` paths) — not real site URLs
 
 ### 2. `data/link_fixes.yaml` (postprocess only)
 Dead internal links that have no redirect. Applied by `postprocess_dead_links()` (make postprocess).
