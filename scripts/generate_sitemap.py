@@ -14,12 +14,16 @@ TODAY = date.today().isoformat()
 # Top-level dirs that contain only assets, no indexable HTML
 ASSET_DIRS = {'data', 'js', 'css', 'covers', 'images'}
 
+# Top-level .html files that are not content pages
+EXCLUDE_FILES = {'404.html'}
+
 
 def path_to_url(p: Path) -> str:
     parts = p.relative_to(SITE).parts
     if parts[-1] == 'index.html':
         return '/' if len(parts) == 1 else '/' + '/'.join(parts[:-1]) + '/'
-    return '/' + '/'.join(parts)
+    name = parts[-1][:-5] if parts[-1].endswith('.html') else parts[-1]
+    return '/' + '/'.join(parts[:-1] + (name,))
 
 
 def classify(url: str) -> str:
@@ -102,6 +106,9 @@ def collect_urls() -> dict:
         parts = rel.parts
         # Skip asset-only top-level dirs
         if parts[0] in ASSET_DIRS:
+            continue
+        # Skip non-content top-level files
+        if len(parts) == 1 and parts[0] in EXCLUDE_FILES:
             continue
         # Skip images subdirs inside content dirs (news/images/, calendar/images/)
         if len(parts) >= 2 and parts[1] == 'images':
