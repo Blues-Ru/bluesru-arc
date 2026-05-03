@@ -137,6 +137,12 @@ bluesru-arc/
 
 ---
 
+## Source Formatting Conventions
+
+- **Line length**: keep lines ≤ 100 characters in `.html`, `.yaml`, and `.md` source files. Not strict — don't break URLs or structured data — but wrap prose and markup where it reads naturally.
+
+---
+
 ## Data Architecture
 
 **All content lives in `data/`.** Generators read YAML, write HTML. No SQL, no database.

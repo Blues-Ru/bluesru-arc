@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Блюзовый календарь - {{ year }} год — Blues.Ru</title>
+<title>Календарь - {{ year }} год — Blues.Ru</title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <link rel="shortcut icon" href="/images/bluesru.ico">
 {{ ga_snippet | safe }}
@@ -16,7 +16,7 @@
 </td></tr>
 </table>
 
-<h3><a href="/calendar/">Блюзовый календарь</a>: {{ year }} год</h3>
+<h3><a href="/">Blues.Ru</a> &gt; <a href="/calendar/">Календарь</a> &gt; {{ year }} год</h3>
 <p>{{ year_nav | safe }}</p>
 
 {% for ev in events %}
@@ -29,6 +29,8 @@
 {% endfor %}
 
 <p align="right"><i>Проект Андрея Евдокимова</i></a>
+
+<hr size="1">
 
 <p align="center">
 {{ footer | safe }}

@@ -56,9 +56,10 @@ GA_SNIPPET = '''\
 _jinja_env = Environment(loader=FileSystemLoader(str(ARC / 'templates')), autoescape=False)
 
 
-def generate_calendar_index(all_years):
+def generate_calendar_index(all_years, index_nav):
     tmpl = _jinja_env.get_template('calendar_index.html.j2')
-    html = tmpl.render(ga_snippet=GA_SNIPPET, footer=FOOTER, all_years=all_years)
+    html = tmpl.render(ga_snippet=GA_SNIPPET, footer=FOOTER, all_years=all_years,
+                       year_nav=index_nav)
     DST.mkdir(parents=True, exist_ok=True)
     (DST / 'index.html').write_text(html, encoding='utf-8')
     print("  calendar/index.html written")
@@ -105,31 +106,27 @@ def generate_year_pages():
 
     all_years = sorted(by_year.keys())
 
-    # Build year navigation — decades + individual years near each target
+    # Build year navigation: decade shortcuts for other decades,
+    # individual years expanded for the current decade.
+    # current_year=None → all decades as shortcuts (used for index page).
     def year_nav(current_year, all_years):
-        current_int = int(current_year)
         years_set = set(int(y) for y in all_years)
-
-        nav_years = set()
-        # Decades
-        for y in years_set:
-            nav_years.add((y // 10) * 10)
-        # Individual years within ±5 of current
-        for y in range(current_int - 5, current_int + 6):
-            if y in years_set:
-                nav_years.add(y)
-        nav_years.add(current_int)
+        decades = sorted(set((y // 10) * 10 for y in years_set))
+        current_int = int(current_year) if current_year else None
+        current_decade = (current_int // 10) * 10 if current_int else None
 
         parts = []
-        prev = None
-        for y in sorted(nav_years):
-            if prev is not None and y - prev > 1:
-                parts.append('...')
-            if y == current_int:
-                parts.append(f'<b>{y}</b>')
-            elif y in years_set:
-                parts.append(f'<a href="/calendar/{y}/">{y}</a>')
-            prev = y
+        for decade in decades:
+            if decade == current_decade:
+                for y in range(decade, decade + 10):
+                    if y == current_int:
+                        parts.append(f'<b>{y}</b>')
+                    elif y in years_set:
+                        parts.append(f'<a href="/calendar/{y}/">{y}</a>')
+            else:
+                first = next((y for y in range(decade, decade + 10) if y in years_set), decade)
+                label = str(decade)[:-1] + 'x'
+                parts.append(f'<a href="/calendar/{first}/">{label}</a>')
         return ' | '.join(parts)
 
     count = 0
@@ -156,14 +153,15 @@ def generate_year_pages():
         (dst_dir / 'index.html').write_text(html, encoding='utf-8')
         count += 1
 
+    index_nav = year_nav(None, all_years)
     print(f"  calendar year pages: {count} years")
-    return all_years
+    return all_years, index_nav
 
 
 def main():
     print("Generating calendar pages...")
-    all_years = generate_year_pages()
-    generate_calendar_index(all_years)
+    all_years, index_nav = generate_year_pages()
+    generate_calendar_index(all_years, index_nav)
 
 
 if __name__ == '__main__':

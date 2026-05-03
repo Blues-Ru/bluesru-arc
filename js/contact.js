@@ -1,4 +1,6 @@
 (function () {
+  if (window._contactJsLoaded) return;
+  window._contactJsLoaded = true;
   var u = 'arc', d = 'blues.ru';
   var addr = u + '@' + d;
   document.querySelectorAll('.contact-email').forEach(function (el) {

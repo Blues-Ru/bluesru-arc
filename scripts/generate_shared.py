@@ -348,7 +348,7 @@ def resolve_include(vpath, source_dir, source_root):
     candidates = []
     if vpath_lower.startswith('/'):
         rel = vpath.lstrip('/')
-        candidates = [CONTENT / rel, source_root / rel]
+        candidates = [INCLUDES / rel, CONTENT / rel, source_root / rel]
     else:
         candidates = [source_dir / vpath, source_root / vpath]
 

@@ -1,6 +1,6 @@
 # Blues.Ru Archive
 
-<img src="includes/bluesru-logo-500px.png" width="120" alt="Blues.Ru">
+<img src="images/bluesru-logo.svg" width="120" alt="Blues.Ru">
 
 Static archive of [Blues.Ru](https://blues.ru/) — a Russian blues music site active since 1996.
 Converted from ASP.NET/MSSQL to a statically generated site deployed on Cloudflare Pages.
@@ -30,13 +30,13 @@ We use AI to maintain and develop the site and cover hosting costs.
 <td><b style="font-size: 150%;">$</b></td>
 <td>
 <a href="https://www.paypal.com/donate?hosted_button_id=RU4P9RGPB58Q8">
-<img src="content/images/paypal-donate-now.png" width="160" height="49" border="0" alt="Donate via PayPal">
+<img src="images/paypal-donate-now.png" width="160" height="49" border="0" alt="Donate via PayPal">
 </a>
 </td>
 <td style="width: 10px;"></td>
 <td>
 <a href="https://boosty.to/blues.ru/donate">
-<img src="content/images/boosty-donate.svg" width="269" height="43" alt="Donate: Boosty" border="0">
+<img src="images/boosty-donate.svg" width="269" height="43" alt="Donate: Boosty" border="0">
 </a>
 </td>
 <td><b style="font-size: 150%;">&#8381;</b></td>
