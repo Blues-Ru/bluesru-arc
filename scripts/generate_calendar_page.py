@@ -56,9 +56,9 @@ GA_SNIPPET = '''\
 _jinja_env = Environment(loader=FileSystemLoader(str(ARC / 'templates')), autoescape=False)
 
 
-def generate_calendar_index():
+def generate_calendar_index(all_years):
     tmpl = _jinja_env.get_template('calendar_index.html.j2')
-    html = tmpl.render(ga_snippet=GA_SNIPPET, footer=FOOTER)
+    html = tmpl.render(ga_snippet=GA_SNIPPET, footer=FOOTER, all_years=all_years)
     DST.mkdir(parents=True, exist_ok=True)
     (DST / 'index.html').write_text(html, encoding='utf-8')
     print("  calendar/index.html written")
@@ -157,12 +157,13 @@ def generate_year_pages():
         count += 1
 
     print(f"  calendar year pages: {count} years")
+    return all_years
 
 
 def main():
     print("Generating calendar pages...")
-    generate_calendar_index()
-    generate_year_pages()
+    all_years = generate_year_pages()
+    generate_calendar_index(all_years)
 
 
 if __name__ == '__main__':
