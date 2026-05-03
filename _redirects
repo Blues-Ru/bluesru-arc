@@ -17,6 +17,8 @@
 /club/tours.aspx  /club/tours/  301
 /calendar/default.aspx  /calendar/  301
 /data/varalbumsview.aspx  /review/  301
+/fedor/anagrams.asp   /fedor/anagrams  301
+/fedor/anagrams.aspx  /fedor/anagrams  301
 
 # Legacy URL fixes
 /allthatb.htm  /atb/  301
