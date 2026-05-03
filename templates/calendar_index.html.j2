@@ -16,16 +16,17 @@
 </td></tr>
 </table>
 
+<h3><a href="/">Blues.Ru</a>: Календарь</h3>
+
 <h3 align="center">Блюзовый календарь: этот день в истории блюза...</h3>
 
 <div id="blues-calendar" data-mode="full"><i>Загрузка...</i></div>
 
 <script src="/js/calendar.js"></script>
 
-<p>{% for y in all_years %}<a href="/calendar/{{ y }}/">{{ y }}</a>{% if not loop.last %} | {% endif %}{% endfor %}</p>
-
 <p align="right"><i>Проект Андрея Евдокимова</i></a>
 <hr size="1">
+<p>{% for y in all_years %}<a href="/calendar/{{ y }}/">{{ y }}</a>{% if not loop.last %} | {% endif %}{% endfor %}</p>
 <p align="center">
 {{ footer | safe }}
 </p>
