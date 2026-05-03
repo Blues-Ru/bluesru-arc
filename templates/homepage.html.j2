@@ -93,8 +93,8 @@ td.main-content { max-width: 680px; padding: 8px 16px; }
 </tr>
 <tr>
   <td nowrap>
-    <form action="/search/" style="margin:4px 0">
-      <input type="text" name="gsc.q" placeholder="Поиск..."
+    <form onsubmit="window.location='/search/#gsc.tab=0&gsc.q='+encodeURIComponent(this.q.value)+'&gsc.sort=';return false;" style="margin:4px 0">
+      <input type="text" name="q" placeholder="Поиск..."
              style="width:155px;font-size:11px;padding:2px 3px">
       <input type="submit" value="→" style="font-size:11px">
     </form>
