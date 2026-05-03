@@ -84,6 +84,16 @@ export async function onRequest(context) {
   const url = new URL(request.url);
   const { pathname, searchParams } = url;
 
+  // ── Canonical host redirect: www → bare, http → https ────────────────────
+  const isWww = url.hostname.startsWith("www.");
+  const isHttp = url.protocol === "http:";
+  if (isWww || isHttp) {
+    const canonical = new URL(request.url);
+    canonical.protocol = "https:";
+    if (isWww) canonical.hostname = url.hostname.slice(4);
+    return Response.redirect(canonical.toString(), 301);
+  }
+
   // ── Legacy aspx redirects (query-string based) ────────────────────────────
   if (pathname === "/data/albumview.aspx" || pathname === "/albumview.aspx") {
     const cdid = searchParams.get("cdid");
