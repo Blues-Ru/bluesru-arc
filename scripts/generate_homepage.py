@@ -54,21 +54,17 @@ def generate_homepage():
 
     # ── Latest announcements ───────────────────────────────────────────────────
     latest_updates_items = []
-    _atb_re_hp = re.compile(
-        r'\bATB\b|atb_|/[Aa]tb/|Весь\s+[Ээ]тот\s+[Бб]люз', re.IGNORECASE)
     if ANNOUNCE_DIR.exists():
         raw_ann = []
         for p in sorted(ANNOUNCE_DIR.rglob('*.md')):
             text = p.read_text(encoding='utf-8')
-            if _atb_re_hp.search(text):
-                continue
             m = RE_FM.match(text)
             if m:
                 meta = yaml.safe_load(m.group(1))
                 body = m.group(2).strip()
                 raw_ann.append((meta, body))
         raw_ann.sort(key=lambda x: str(x[0].get('date', '0000')), reverse=True)
-        for meta, body in raw_ann[:8]:
+        for meta, body in raw_ann[:5]:
             ds = str(meta.get('date', ''))
             latest_updates_items.append({
                 'date': ds[:10] if ds else '',

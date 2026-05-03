@@ -1040,14 +1040,12 @@ def _atb_links_html(atb_episodes):
 
 
 def _build_galleries_by_slug():
-    """Return {artist_slug: [gallery_dict, ...]} for non-excluded galleries with artists_tags."""
+    """Return {artist_slug: [gallery_dict, ...]} for galleries with artists_tags."""
     if not GALLERIES_YAML.exists():
         return {}
     galleries = yaml.safe_load(GALLERIES_YAML.read_text(encoding='utf-8')) or []
     index = {}
     for g in galleries:
-        if g.get('exclude'):
-            continue
         tags = g.get('artists_tags') or []
         if not tags:
             continue
@@ -1372,8 +1370,6 @@ def _build_custom_gallery_media_map():
         if not per_yaml or not per_yaml.exists():
             continue
         data = yaml.safe_load(per_yaml.read_text(encoding='utf-8')) or {}
-        if data.get('exclude'):
-            continue
         gpath = data.get('path', '') or g.get('path', '')
         if not gpath:
             continue
@@ -1654,6 +1650,7 @@ def _generate_links_page(categories, sites):
             + GA_SNIPPET + '\n'
             '<style>a{text-decoration:none}</style>\n'
             '</head>\n<body bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#5511CC">\n'
+            '<a href="/"><img src="/images/bluesru-logo.svg" width="120" height="120" border="0" alt="Blues.Ru" style="float:right"></a>\n'
             '<p><a href="/"><b>Blues.Ru</b></a> &gt; Ссылки</p>\n'
             '<h1>Блюзовые ссылки</h1>\n'
             '<p>Ссылки на сайты о блюзе. Собраны в 2001–2009 годах; показаны работавшие на момент проверки.</p>\n')

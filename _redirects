@@ -22,6 +22,12 @@
 /calendar/default.aspx  /calendar/  301
 /data/varalbumsview.aspx  /review/  301
 
+# Legacy URL fixes
+/allthatb.htm  /atb/  301
+/band/King_Biscuit/  /band/king-biscuit/  301
+/band/Dr_Nick/  /band/dr-nick/  301
+/harp/harp.htm  /harp/  301
+
 # /efes/*.asp → /efes/*.htm  (server exposed .asp URLs for .htm files)
 /efes/about1999.asp  /efes/about1999.htm  301
 /efes/before2001.asp  /efes/before2001.htm  301

@@ -19,8 +19,6 @@ def generate_galleries():
             gpath = g.get('path', '')
             yaml_slug = re.sub(r'[^a-z0-9]+', '-', gpath.lower()).strip('-')
         data = g
-        if data.get('exclude'):
-            continue
         gpath = data.get('path', '') or yaml_slug
         photos = [p for p in (data.get('photos') or []) if isinstance(p, dict) and p.get('file')]
 
@@ -97,8 +95,6 @@ def generate_photo_index():
             continue
 
         data = g
-        if data.get('exclude'):
-            continue
         if not gpath:
             gpath = data.get('path', yaml_slug)
 

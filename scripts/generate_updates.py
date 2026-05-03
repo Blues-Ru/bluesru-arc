@@ -13,17 +13,9 @@ def generate_updates():
         print("  ANNOUNCE_DIR not found, skipping updates")
         return
 
-    _atb_re = re.compile(
-        r'\bATB\b|atb_|/[Aa]tb/|Весь\s+[Ээ]тот\s+[Бб]люз|All\s+That\s+Blues',
-        re.IGNORECASE)
-
     items = []
-    atb_skipped = 0
     for p in sorted(ANNOUNCE_DIR.rglob('*.md')):
         text = p.read_text(encoding='utf-8')
-        if _atb_re.search(text):
-            atb_skipped += 1
-            continue
         m = RE_FM.match(text)
         if m:
             meta = yaml.safe_load(m.group(1))
@@ -111,7 +103,7 @@ def generate_updates():
             footer=FOOTER,
         ), encoding='utf-8')
 
-    print(f"  Updates: {len(all_items)} items, {len(year_list)} year pages (filtered {atb_skipped} ATB)")
+    print(f"  Updates: {len(all_items)} items, {len(year_list)} year pages")
 
 
 if __name__ == '__main__':
