@@ -1,15 +1,11 @@
 # Blues.Ru archive _redirects
-# Static rules MUST precede dynamic rules (CF Pages: 2000 static / 100 dynamic limits are separate)
-
-# === BACKWARDS-COMPAT: old /static/ prefix and /newsimg/ ===
-/static/css/*    /css/:splat    301
-/static/js/*     /js/:splat     301
-/static/covers/* /covers/:splat 301
-/newsimg/*       /news/images/:splat  301
+# CF Pages limits: 2000 static (exact) + 100 dynamic (wildcards/placeholders)
+# CRITICAL: ALL static rules MUST come before ANY dynamic rules.
+# A wildcard anywhere in the file causes CF to count all subsequent lines as dynamic.
 
 # === STATIC REDIRECTS (exact paths, no wildcards) ===
 
-# Static ASPX page redirects
+# ASPX page redirects
 /review/default.aspx  /review/  301
 /review/rss.aspx  /review/rss.xml  301
 /news/default.aspx  /news/  301
@@ -28,7 +24,7 @@
 /band/Dr_Nick/  /band/dr-nick/  301
 /harp/harp.htm  /harp/  301
 
-# /efes/*.asp → /efes/*.htm  (server exposed .asp URLs for .htm files)
+# /efes/*.asp → /efes/*.htm
 /efes/about1999.asp  /efes/about1999.htm  301
 /efes/before2001.asp  /efes/before2001.htm  301
 /efes/bluesru.asp  /efes/bluesru.htm  301
@@ -65,29 +61,20 @@
 /efes/wcclark.asp  /efes/wcclark.htm  301
 /efes/zydeco.asp  /efes/zydeco.htm  301
 
-# albumview.aspx / artistview.aspx → handled by _middleware.js (query-string)
+# albumview.aspx / artistview.aspx — query-string rewriting handled by _middleware.js
 /data/albumview.aspx  /review/  302
 /data/artistview.aspx  /artist/  302
 
 # /bluesmen/ section renamed to /artist/
 /bluesmen/  /artist/  301
 /bluesmen/default.aspx  /artist/  301
-# Recovered aspx content sub-pages
 /bluesmen/Alexis_Korner/Alexis_Korner_Blues_Inc.aspx  /artist/alexis-korner/blues-inc.html  301
 /bluesmen/Gary_Primich/EJ-evdokimov.aspx  /artist/gary-primich/evdokimov.html  301
 /bluesmen/Charlie_Musselwhite/Charlie_Musselwhite2.aspx  /artist/charlie-musselwhite/charlie-musselwhite-2.html  301
 /bluesmen/John_Mayall/kalachev.aspx  /artist/john-mayall/kalachev.html  301
 /bluesmen/James_Cotton/James_Cotton2.aspx  /artist/james-cotton/james-cotton-2.html  301
 
-# news.aspx (query-string redirect handled by middleware)
-/news.aspx  /updates/  301
-
-# Old section redirects (static)
-/cdreview/  /review/  301
-/bluesme/  /artist/  301
-/zappazuhoi/default.htm  /zappazuhoi/  301
-
-# /bluesmen/ TitleCase dirs not in legacy_path — exact directory matches
+# /bluesmen/ TitleCase dirs — exact matches (sub-pages fall through to /bluesmen/* catch-all)
 /bluesmen/Johnny_Winter/  /artist/johnny-winter/  301
 /bluesmen/Larry_McCray/  /artist/larry-mccray/  301
 /bluesmen/Lazy_Bill_Lucas/  /artist/lazy-bill-lucas/  301
@@ -96,7 +83,13 @@
 /bluesmen/Scott_Henderson/  /artist/scott-henderson/  301
 /artist/b-b-the-blues-shacks/  /artist/bb-the-blues-shacks/  301
 
-# /reading/ → /article/ (specific file redirects)
+# Old section aliases
+/news.aspx  /updates/  301
+/cdreview/  /review/  301
+/bluesme/  /artist/  301
+/zappazuhoi/default.htm  /zappazuhoi/  301
+
+# /reading/ → /article/
 /reading/  /article/  301
 /reading/wolf_palmer1.htm  /article/howling-wolf-deep-blues-1.html  301
 /reading/wolf_palmer2.htm  /article/howling-wolf-deep-blues-2.html  301
@@ -104,44 +97,13 @@
 /reading/MuddyGordon1.htm  /article/muddy-waters-library-of-congress.html  301
 /reading/LB10/Living_blues.htm  /article/living-blues-veterans.html  301
 
-# /label/ TitleCase → lowercase (exact directory matches)
+# /label/ TitleCase → lowercase
 /label/Alligator/  /label/alligator/  301
 /label/Blues_Leaf/  /label/blues-leaf/  301
 /label/Chess/  /label/chess/  301
 
-# News archive redirects (static)
+# News archive
 /news/archive/  /news/2024/  301
-# === DYNAMIC REDIRECTS (wildcards/splats — max 100) ===
-
-# /bluesmen/ catch-all (per-artist slug mapping done in _middleware.js)
-/bluesmen/*  /artist/:splat  301
-
-# Catch-all for .aspx files not handled above
-/*.aspx  /  302
-
-# /cdreview/ and /bluesme/ wildcards
-/cdreview/*  /review/:splat  301
-/bluesme/*  /artist/:splat  301
-
-# /bluesmen/ TitleCase dirs — wildcard sub-pages (must precede /bluesmen/* catch-all above)
-/bluesmen/Johnny_Winter/*  /artist/johnny-winter/:splat  301
-/bluesmen/Larry_McCray/*  /artist/larry-mccray/:splat  301
-/bluesmen/Lazy_Bill_Lucas/*  /artist/lazy-bill-lucas/:splat  301
-/bluesmen/Little_Richard/*  /artist/little-richard/:splat  301
-/bluesmen/Luther_Allison/*  /artist/luther-allison/:splat  301
-/bluesmen/Scott_Henderson/*  /artist/scott-henderson/:splat  301
-/artist/b-b-the-blues-shacks/*  /artist/bb-the-blues-shacks/:splat  301
-
-# /reading/ catch-all
-/reading/*  /article/  302
-
-# /label/ TitleCase wildcards
-/label/Alligator/*  /label/alligator/:splat  301
-/label/Blues_Leaf/*  /label/blues-leaf/:splat  301
-/label/Chess/*  /label/chess/:splat  301
-
-# News archive with year placeholder
-/news/archive/:year/  /news/:year/  301
 
 # BEGIN gallery-redirects
 /bluesnews/nbf/gallery/98/  /photo/1998/1998-notodden-blues-festival/  301
