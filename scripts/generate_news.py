@@ -151,17 +151,18 @@ def generate_news():
             y2, m2 = k[:4], int(k[5:7])
             return f'<a href="/news/{y2}/{m2:02d}/">{y2} {MONTHS_RU[m2]}</a>'
 
-        crumb = (f'<a href="/news/">Новости</a> : '
-                 f'<a href="/news/{year}/">{year}</a> : '
-                 f'<b>{MONTHS_RU[mo]}</b>')
+        crumb = (f'<h2><a href="/">Blues.Ru</a> &gt; '
+                 f'<a href="/news/">Новости</a> &gt; '
+                 f'<a href="/news/{year}/">{year}</a> &gt; '
+                 f'{MONTHS_RU[mo]}</h2>')
         pager_parts = []
         if next_key:
             pager_parts.append(f'← {month_nav(next_key)}')
         if prev_key:
             pager_parts.append(f'{month_nav(prev_key)} →')
         pager = ' | '.join(pager_parts)
-        top_nav = crumb + (f'<br><br>{pager}' if pager else '')
-        bot_nav = pager if pager else crumb
+        top_nav = crumb + (f'<p>{pager}</p>' if pager else '')
+        bot_nav = pager
 
         dst_month = SITE / 'news' / year / f'{mo:02d}' / 'index.html'
         dst_month.parent.mkdir(parents=True, exist_ok=True)
@@ -221,14 +222,14 @@ def generate_news():
         prev_yr = year_keys_desc[i + 1] if i + 1 < len(year_keys_desc) else None
         next_yr = year_keys_desc[i - 1] if i > 0 else None
 
-        crumb = f'<a href="/news/">Новости</a> : <b>{yr}</b>'
+        crumb = f'<h2><a href="/">Blues.Ru</a> &gt; <a href="/news/">Новости</a> &gt; {yr}</h2>'
         pager_parts = []
         if next_yr:
             pager_parts.append(f'← <a href="/news/{next_yr}/">{next_yr}</a>')
         if prev_yr:
             pager_parts.append(f'<a href="/news/{prev_yr}/">{prev_yr}</a> →')
         pager = ' | '.join(pager_parts)
-        year_nav = crumb + (f'<br><br>{pager}' if pager else '')
+        year_nav = crumb + (f'<p>{pager}</p>' if pager else '')
 
         year_items_html = []
         for m in years_arch[yr]:

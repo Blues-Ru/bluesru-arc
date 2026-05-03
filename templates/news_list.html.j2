@@ -18,7 +18,7 @@
 
 <br style="clear:both">
 
-{% if nav_links %}<p>{{ nav_links | safe }}</p>{% else %}{% endif %}
+{% if nav_links %}{{ nav_links | safe }}{% endif %}
 
 {% if year_body %}{{ year_body | safe }}{% endif %}
 
