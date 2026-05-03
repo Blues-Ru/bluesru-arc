@@ -29,6 +29,10 @@
 /calendar/images/*
   Cache-Control: public, max-age=2592000
 
+/*.xml
+  Content-Type: application/xml; charset=utf-8
+  Cache-Control: public, max-age=3600
+
 /review/rss.xml
   Content-Type: application/rss+xml; charset=utf-8
   Cache-Control: public, max-age=3600
