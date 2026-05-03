@@ -135,6 +135,7 @@ def generate_news():
         nav_links=None,
         bottom_nav=bottom_nav_html,
         footer=FOOTER,
+        canonical_url='https://blues.ru/news/',
     ), encoding='utf-8')
 
     # /news/YYYY/MM/ — monthly archive pages

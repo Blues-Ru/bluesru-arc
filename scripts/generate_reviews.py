@@ -153,6 +153,7 @@ def generate_reviews():
         year_nav=year_nav_data(current_yr),
         current_year_months=months_for_year(current_yr),
         footer=FOOTER,
+        canonical_url='https://blues.ru/review/',
     ), encoding='utf-8')
 
     for yi, yr in enumerate(year_list):

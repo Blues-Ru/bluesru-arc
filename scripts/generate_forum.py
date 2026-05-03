@@ -90,6 +90,7 @@ def _generate_forum_index(topics_visible):
             has_next=page_num + 1 < pages,
             topics=rendered_topics,
             render_topic=lambda t, full=False: t,
+            canonical_url='https://blues.ru/forum/' if page_num == 0 else None,
         )
         dst.write_text(out, encoding='utf-8')
     print(f"  Forum index: {pages} pages")

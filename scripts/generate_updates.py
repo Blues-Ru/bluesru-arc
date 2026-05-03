@@ -83,6 +83,7 @@ def generate_updates():
         more_years=more_years_html,
         year_list=year_list,
         footer=FOOTER,
+        canonical_url='https://blues.ru/updates/',
     ), encoding='utf-8')
 
     # /updates/YYYY/ — per-year pages
