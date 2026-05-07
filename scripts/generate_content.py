@@ -14,7 +14,7 @@ def generate_content():
         return
 
     external_sections = [
-        'beefheart', 'ethnotrip', 'zappazuhoi', 'bluesnews', 'atb',
+        'beefheart', 'zappazuhoi', 'bluesnews', 'atb',
     ]
     gallery_skip = _gallery_dir_prefixes()
     custom_gallery_media = _build_custom_gallery_media_map()
