@@ -43,6 +43,9 @@ const R2_ROUTING = new Map([
   ["/ww/",        new Set([".rm", ".mp3", ".wma"])],
 ]);
 
+// Flat set of all extensions handled by R2 (for the bare-404 fast-return below).
+const MEDIA_EXTENSIONS = new Set([...R2_ROUTING.values()].flatMap(s => [...s]));
+
 // URL prefixes for /atb/ sub-paths stored under different R2 dir names.
 const CUSTOM_DIR_PREFIXES = [
   ["/atb/excerpts/", "excerpts/"],
