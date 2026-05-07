@@ -12,9 +12,10 @@
  *    Redirect data loaded from /data/redirects.json (generated during build).
  *
  * 2. Serve media from R2:
- *    Requests for media files (images, audio, etc.) are proxied to the R2
- *    bucket via internal-media.blues.ru. Non-media falls through to CF Pages
- *    static assets.
+ *    Requests for media files are proxied to the R2 bucket via
+ *    internal-media.blues.ru. Routing is extension-aware per URL prefix:
+ *    only extensions actually present in R2 for that prefix go to R2;
+ *    other extensions fall through to CF Pages static assets.
  *
  * R2 key for any media URL:  "bluesru-media" + URL path  (1:1, with exceptions)
  */
@@ -24,12 +25,25 @@ const R2_ORIGIN = "https://internal-media.blues.ru";
 const R2_PREFIX = "bluesru-media";
 const R2_CACHE_PREFIX = "bluesru-media.cache";
 
-const MEDIA_EXTENSIONS = new Set([
-  ".jpg", ".jpeg", ".png", ".gif", ".webp", ".svg", ".ico",
-  ".mp3", ".mp4", ".m4a", ".ogg", ".wav", ".webm",
-  ".ra", ".rm", ".pdf",
+// Per-prefix map of extensions that exist in R2 (derived from actual R2 contents).
+// If a URL's prefix is not listed here, it goes to context.next() (Pages assets).
+// If the prefix is listed but the extension is not in its set, same: Pages assets.
+// Thumbnails (-400w.jpg) under /photo/ use R2_CACHE_PREFIX regardless.
+const R2_ROUTING = new Map([
+  ["/photo/",     new Set([".jpg", ".jpeg", ".gif", ".webp", ".png"])],
+  ["/atb/",       new Set([".mp3", ".m4a"])],
+  ["/artist/",    new Set([".mp3"])],           // images → Pages (content/artist/)
+  ["/beefheart/", new Set([".mp3"])],           // images → Pages (content/beefheart/)
+  ["/calendar/",  new Set([".mp3"])],           // images → Pages (bluesru-arc/calendar/)
+  ["/bluesnews/", new Set([".rm", ".ra"])],     // images → Pages (content/bluesnews/)
+  ["/efes/",      new Set([".rm"])],            // images → Pages (content/efes/)
+  ["/mojobook/",  new Set([".rm"])],            // images → Pages (content/mojobook/)
+  ["/rblues/",    new Set([".mp3", ".rm", ".ra", ".avi", ".wmv", ".mpg", ".mid", ".jpg", ".jpeg"])],
+  ["/video/",     new Set([".rm"])],
+  ["/ww/",        new Set([".rm", ".mp3", ".wma"])],
 ]);
 
+// URL prefixes for /atb/ sub-paths stored under different R2 dir names.
 const CUSTOM_DIR_PREFIXES = [
   ["/atb/excerpts/", "excerpts/"],
   ["/atb/kalachev-kostin-show/", "kalachev-kostin-show/"],
@@ -39,7 +53,17 @@ function resolveMediaUrl(pathname) {
   const dot = pathname.lastIndexOf(".");
   if (dot < 0) return null;
   const ext = pathname.slice(dot).toLowerCase();
-  if (!MEDIA_EXTENSIONS.has(ext)) return null;
+
+  // Find the prefix entry; if missing or extension not in its R2 set → fall through
+  let matched = false;
+  for (const [prefix, exts] of R2_ROUTING) {
+    if (pathname.startsWith(prefix)) {
+      if (!exts.has(ext)) return null;
+      matched = true;
+      break;
+    }
+  }
+  if (!matched) return null;
 
   for (const [urlPrefix, r2dir] of CUSTOM_DIR_PREFIXES) {
     if (pathname.startsWith(urlPrefix)) {
@@ -125,7 +149,6 @@ export async function onRequest(context) {
   if (pathname.startsWith("/bluesmen/")) {
     const m = await getManifest(env, request.url);
     if (m.bluesmen) {
-      // Extract the second path segment: /bluesmen/{dir}/...
       const rest = pathname.slice("/bluesmen/".length);
       const slash = rest.indexOf("/");
       const dir = slash >= 0 ? rest.slice(0, slash) : rest;
@@ -142,7 +165,6 @@ export async function onRequest(context) {
   if (pathname.startsWith("/bluesnews/")) {
     const m = await getManifest(env, request.url);
     if (m.bluesnews) {
-      // Match longest prefix in bluesnews map
       for (const [fromPath, toPath] of Object.entries(m.bluesnews)) {
         if (pathname === fromPath || pathname.startsWith(fromPath + "/")) {
           return redirect301(toPath, request.url);
@@ -169,16 +191,27 @@ export async function onRequest(context) {
       },
     });
 
-    if (r2Response.status !== 404) {
-      const headers = new Headers(r2Response.headers);
-      headers.set("Access-Control-Allow-Origin", "*");
-      headers.set("Cache-Control", "public, max-age=86400");
-      return new Response(r2Response.body, {
-        status: r2Response.status,
-        headers,
-      });
+    if (r2Response.status === 404) {
+      return new Response("", { status: 404 });
     }
+    const headers = new Headers(r2Response.headers);
+    headers.set("Access-Control-Allow-Origin", "*");
+    headers.set("Cache-Control", "public, max-age=86400");
+    return new Response(r2Response.body, {
+      status: r2Response.status,
+      headers,
+    });
   }
 
-  return context.next();
+  const response = await context.next();
+  if (response.status === 404) {
+    const dot = pathname.lastIndexOf(".");
+    if (dot >= 0) {
+      const ext = pathname.slice(dot).toLowerCase();
+      if (MEDIA_EXTENSIONS.has(ext) || ext === ".xml") {
+        return new Response("", { status: 404 });
+      }
+    }
+  }
+  return response;
 }

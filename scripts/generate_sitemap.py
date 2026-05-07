@@ -120,6 +120,31 @@ def collect_urls() -> dict:
     return buckets
 
 
+FORUM_CHUNK_SIZE = 1000
+
+
+def write_forum_sitemaps(forum_urls: list) -> list:
+    """Split forum URLs into index pages + topic chunks of FORUM_CHUNK_SIZE."""
+    index_pages = [u for u in forum_urls if not u.startswith('/forum/topic')]
+    topics = sorted(
+        [u for u in forum_urls if u.startswith('/forum/topic')],
+        key=lambda u: int(u.split('/forum/topic')[1]) if u.split('/forum/topic')[1].isdigit() else 0,
+    )
+
+    names = []
+    if index_pages:
+        write_sitemap(SITE / 'sitemap_forum.xml', index_pages)
+        names.append('sitemap_forum.xml')
+
+    for i, start in enumerate(range(0, len(topics), FORUM_CHUNK_SIZE), 1):
+        chunk = topics[start:start + FORUM_CHUNK_SIZE]
+        fname = f'sitemap_forum_topics_{i}.xml'
+        write_sitemap(SITE / fname, chunk)
+        names.append(fname)
+
+    return names
+
+
 def main():
     print('Generating sitemaps...')
     if not SITE.exists():
@@ -133,11 +158,13 @@ def main():
         ('sitemap_main.xml',     buckets['main']),
         ('sitemap_news.xml',     buckets['news']),
         ('sitemap_calendar.xml', buckets['calendar']),
-        ('sitemap_forum.xml',    buckets['forum']),
     ]:
         if urls:
             write_sitemap(SITE / filename, urls)
             sitemap_names.append(filename)
+
+    if buckets['forum']:
+        sitemap_names.extend(write_forum_sitemaps(buckets['forum']))
 
     write_index(SITE / 'sitemap_index.xml', sitemap_names)
 

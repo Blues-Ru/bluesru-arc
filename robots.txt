@@ -1,5 +1,21 @@
 User-agent: *
 Allow: /
+Crawl-delay: 2
+
+# Forum action URLs — never existed in static archive, pure 404
+Disallow: /forum/topic*/reply
+Disallow: /forum/topic*/branch
+Disallow: /forum/topic*/quote
+
+# Dead ASPX pages with query strings — no redirect, pure 404
+Disallow: /nbf/gallery/list.aspx
+Disallow: /flyer.aspx
+Disallow: /gigs/
+
+# Carried over from old robots.txt — dropped sections, may still be in search index
+Disallow: /ad/
+Disallow: /BlackCat/
+Disallow: /zzz/
 
 # Yandex canonical domain
 Host: https://blues.ru
