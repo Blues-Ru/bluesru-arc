@@ -5,12 +5,13 @@
 <meta name="description" content="Largest web site in Russian dedicated to the blues music. Крупнейший русскоязычный сайт о блюзе.">
 <meta name="keywords" content="blues; music; photo; mp3; tabs; lyrics; articles; reviews; festival; all that blues; блюз; блюзовый; блюзмен; музыка; статьи; обзоры; фестиваль; весь этот блюз;">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="shortcut icon" href="/images/bluesru.ico" />
-<link rel="stylesheet" href="/css/site.css">
 <link rel="canonical" href="https://blues.ru/">
-<style type="text/css">
-a {text-decoration:none}
-td.main-content { max-width: 680px; padding: 8px 16px; }
+<link rel="stylesheet" href="/css/site.css">
+<link rel="stylesheet" href="/css/responsive.css">
+<style>
+a { text-decoration: none; }
 #blues-calendar { font-size: 0.95em; }
 .widget-list { font-size: 0.95em; list-style: none; padding: 0; margin: 4px 0; }
 .widget-list li { margin-bottom: 0.55em; }
@@ -18,213 +19,128 @@ td.main-content { max-width: 680px; padding: 8px 16px; }
 #blues-calendar img { max-width: 180px; max-height: 120px; }
 .update-item { margin: 0.6em 0 1.4em 0; font-size: 0.95em; line-height: 1.5; }
 .update-date { font-size: 0.82em; color: #4F62B5; }
+.nav-search input[type=text] { width: 140px; font-size: 11px; padding: 2px 3px; }
+.nav-search input[type=submit] { font-size: 11px; }
 </style>
   {{ ga_snippet | safe }}
 </head>
 
 <body bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#5511CC" alink="#00BB00">
 
-<table border="1" cellpadding="4" cellspacing="0">
-  <tr>
-    <td valign="top" width="220">
+<div class="site-wrap">
 
-<table border="0" cellpadding="2" cellspacing="0" width="100%">
-<tr>
-  <td align="left">
-  <img src="/images/bluesru-logo.svg" align="middle" width="160" height="160"
-       alt="Blues.Ru архив" hspace="0" vspace="0">
-  </td>
-</tr>
-<tr>
-  <td align="left">
-    <big>архив - с 1996</big>
-  </td>
-</tr>
+  <!-- ── Left nav ──────────────────────────────── -->
+  <nav class="site-nav">
 
+    <a class="nav-logo" href="/">
+      <img src="/images/bluesru-logo.svg" width="160" height="160" alt="Blues.Ru архив">
+    </a>
+    <div class="nav-tagline"><big>архив - с 1996</big></div>
 
-<tr>
-  <td bgcolor="#003D84" nowrap><font color="#FFFFFF"><b>Блюз</b></font></td>
-</tr>
-<tr>
-  <td nowrap><big><a href="/artist/">Музыканты</a></big></td>
-</tr>
-<tr>
-  <td nowrap><big><a href="/atb/">Весь этот блюз</a></big></td>
-</tr>
-<tr>
-  <td nowrap><big><a href="/photo/">Фото</a></big></td>
-</tr>
-<tr>
-  <td nowrap><big><a href="/news/">Новости</a></big></td>
-</tr>
-<tr>
-  <td nowrap><big><a href="/calendar/">Календарь</a></big></td>
-</tr>
-<tr>
-  <td nowrap><big><a href="/review/">Обзоры</a></big></td>
-</tr>
+    <!-- Always visible: main sections -->
+    <div class="nav-group nav-always">
+      <span class="nav-section-hdr">Блюз</span>
+      <ul class="nav-links">
+        <li><big><a href="/artist/">Музыканты</a></big></li>
+        <li><big><a href="/atb/">Весь этот блюз</a></big></li>
+        <li><big><a href="/photo/">Фото</a></big></li>
+        <li><big><a href="/news/">Новости</a></big></li>
+        <li><big><a href="/calendar/">Календарь</a></big></li>
+        <li><big><a href="/review/">Обзоры</a></big></li>
+      </ul>
 
-<tr>
-  <td bgcolor="#003D84" nowrap><font color="#FFFFFF">Разделы</font></td>
-</tr>
-<tr>
-  <td nowrap><a href="/updates/">Обновления</a></td>
-</tr>
-<tr>
-  <td nowrap><a href="/article/">Статьи</a></td>
-</tr>
-<tr>
-  <td nowrap><a href="/forum/">Форум</a></td>
-</tr>
-<tr>
-  <td nowrap><a href="/andrey/">Андрей</a></td>
-</tr>
-<tr>
-  <td nowrap><a href="/arc/">Архив</a></td>
-</tr>
-<tr>
-  <td nowrap><a href="/links/">Ссылки</a></td>
-</tr>
-<tr>
-  <td nowrap><a href="/club/">Клуб Blues.Ru</a></td>
-</tr>
+      <span class="nav-section-hdr">Разделы</span>
+      <ul class="nav-links">
+        <li><a href="/updates/">Обновления</a></li>
+        <li><a href="/article/">Статьи</a></li>
+        <li><a href="/forum/">Форум</a></li>
+        <li><a href="/andrey/">Андрей</a></li>
+        <li><a href="/arc/">Архив</a></li>
+        <li><a href="/links/">Ссылки</a></li>
+        <li><a href="/club/">Клуб Blues.Ru</a></li>
+      </ul>
+    </div>
 
-<tr>
-  <td bgcolor="#003D84" nowrap><font color="#FFFFFF">Поиск</font></td>
-</tr>
-<tr>
-  <td nowrap>
-    <form onsubmit="window.location='/search/#gsc.tab=0&gsc.q='+encodeURIComponent(this.q.value)+'&gsc.sort=';return false;" style="margin:4px 0">
-      <input type="text" name="q" placeholder="Поиск..."
-             style="width:155px;font-size:11px;padding:2px 3px">
-      <input type="submit" value="→" style="font-size:11px">
-    </form>
-  </td>
-</tr>
+    <!-- Hamburger toggle (mobile only) -->
+    <button class="hamburger-btn" onclick="toggleNav()" aria-label="Меню">
+      ☰ Ещё...
+    </button>
 
-<tr>
-  <td bgcolor="#003D84" nowrap><font color="#FFFFFF">Тексты</font></td>
-</tr>
-<tr>
-  <td nowrap><a href="/style/">Стили</a></td>
-</tr>
-<tr>
-  <td nowrap><a href="/vocabulary.htm">Словарь</a></td>
-</tr>
-<tr>
-  <td nowrap><a href="/mojobook/">Muddy Waters - The Mojo Man</a></td>
-</tr>
-<tr>
-  <td nowrap><a href="/book/">"Blues" by Paul Oliver</a></td>
-</tr>
+    <!-- Collapsible on mobile -->
+    <div class="nav-group nav-collapsible" id="nav-more">
 
-<tr>
-  <td bgcolor="#003D84" nowrap><font color="#FFFFFF">Фестивали</font></td>
-</tr>
-<tr>
-  <td nowrap><a href="/nbf/">Notodden Blues Festival</a></td>
-</tr>
-<tr>
-  <td nowrap><a href="/fest/">Очаково-Блюз</a></td>
-</tr>
-<tr>
-  <td nowrap><a href="/bluesnews/Fest01/bluesru01.htm">Blues.Ru-2001 festival</a></td>
-</tr>
-<tr>
-  <td nowrap><a href="/efes/">Efes Pilsener Blues Festival</a></td>
-</tr>
-<tr>
-  <td nowrap><a href="/svalbard/2013/">Dark Season Blues, Svalbard</a></td>
-</tr>
-<tr>
-  <td nowrap><a href="/august/">Augustibluus, Haapsalu</a></td>
-</tr>
-<tr>
-  <td nowrap><a href="/handy/">W.C.Handy Award</a></td>
-</tr>
-<tr>
-  <td nowrap><a href="/bbkingfest/">Фестивали клуба B.B.King</a></td>
-</tr>
+      <span class="nav-section-hdr">Поиск</span>
+      <div class="nav-search" style="padding:4px 0">
+        <form onsubmit="window.location='/search/#gsc.tab=0&gsc.q='+encodeURIComponent(this.q.value)+'&gsc.sort=';return false;" style="margin:4px 0">
+          <input type="text" name="q" placeholder="Поиск...">
+          <input type="submit" value="→">
+        </form>
+      </div>
 
-<tr>
-  <td bgcolor="#003D84" nowrap><font color="#FFFFFF">Архив</font></td>
-</tr>
-<tr>
-  <td nowrap><a href="/atb/archive/">Весь этот блюз 2000</a></td>
-</tr>
-<tr>
-  <td nowrap><a href="/band/">Группы 2000</a></td>
-</tr>
-<tr>
-  <td nowrap><a href="/bluesnews/">Новости 2003</a></td>
-</tr>
-<tr>
-  <td nowrap><a href="/harp/">Губная гармоника</a></td>
-</tr>
+      <span class="nav-section-hdr">Тексты</span>
+      <ul class="nav-links">
+        <li><a href="/style/">Стили</a></li>
+        <li><a href="/vocabulary.htm">Словарь</a></li>
+        <li><a href="/mojobook/">Muddy Waters - The Mojo Man</a></li>
+        <li><a href="/book/">"Blues" by Paul Oliver</a></li>
+      </ul>
 
-<tr>
-  <td bgcolor="#003D84" nowrap><font color="#FFFFFF">У нас</font></td>
-</tr>
-<tr>
-  <td nowrap><a href="/zappazuhoi/">Заппазухой - FRANK ZAPPA</a></td>
-</tr>
-<tr>
-  <td nowrap><a href="/beefheart/">РОСтБИФ - Captain Beefheart</a></td>
-</tr>
-<tr>
-  <td nowrap><a href="https://ethnotrip.blues.ru/">The Ethno Trip</a></td>
-</tr>
+      <span class="nav-section-hdr">Фестивали</span>
+      <ul class="nav-links">
+        <li><a href="/nbf/">Notodden Blues Festival</a></li>
+        <li><a href="/fest/">Очаково-Блюз</a></li>
+        <li><a href="/bluesnews/Fest01/bluesru01.htm">Blues.Ru-2001 festival</a></li>
+        <li><a href="/efes/">Efes Pilsener Blues Festival</a></li>
+        <li><a href="/svalbard/2013/">Dark Season Blues, Svalbard</a></li>
+        <li><a href="/august/">Augustibluus, Haapsalu</a></li>
+        <li><a href="/handy/">W.C.Handy Award</a></li>
+        <li><a href="/bbkingfest/">Фестивали клуба B.B.King</a></li>
+      </ul>
 
-<tr>
-  <td bgcolor="#003D84" nowrap><font color="#FFFFFF">Сайты</font></td>
-</tr>
-<tr>
-  <td nowrap><a href="https://www.facebook.com/blues.ru">Blues.Ru на Facebook</a></td>
-</tr>
-<tr>
-  <td nowrap><a href="https://liveband.ru/">LiveBand.Ru</a></td>
-</tr>
-<tr>
-  <td nowrap><a href="https://blackcat.blues.ru">Mean Black Cat Blues</a></td>
-</tr>
-<tr>
-  <td nowrap><a href="http://harmonica.ru/">harmonica.ru</a></td>
-</tr>
-<tr>
-  <td nowrap><a href="http://www.bluesnews.ru">BluesNews.Ru</a></td>
-</tr>
-<tr>
-  <td nowrap><a href="http://ru-blues.livejournal.com/">ЖЖ - ru_blues</a></td>
-</tr>
-<tr>
-  <td nowrap><a href="http://www.rusblues.ru">Русский блюз</a></td>
-</tr>
+      <span class="nav-section-hdr">Архив</span>
+      <ul class="nav-links">
+        <li><a href="/atb/archive/">Весь этот блюз 2000</a></li>
+        <li><a href="/band/">Группы 2000</a></li>
+        <li><a href="/bluesnews/">Новости 2003</a></li>
+        <li><a href="/harp/">Губная гармоника</a></li>
+      </ul>
 
-<tr>
-  <td bgcolor="#003D84" nowrap><font color="#FFFFFF">О blues.ru</font></td>
-</tr>
-<tr>
-  <td nowrap><a href="about.htm">О сайте</a></td>
-</tr>
-<tr>
-  <td align="left">
-    <b>&copy; 1996-2026</b><br>
-    Андрей Евдокимов<br>
-    Федор Романенко<br>
-    <img src="/images/envelope.png" style="height:1cap;vertical-align:middle;margin-right:3px"><span class="contact-email-plain"></span>
-  </td>
-</tr>
-<tr>
-  <td nowrap>
-    <hr size="1">
-    <img src="/images/pacific.png" width="220" height="220" alt="Make Love Not War" title="Make Love Not War" />
-  </td>
-</tr>
+      <span class="nav-section-hdr">У нас</span>
+      <ul class="nav-links">
+        <li><a href="/zappazuhoi/">Заппазухой - FRANK ZAPPA</a></li>
+        <li><a href="/beefheart/">РОСтБИФ - Captain Beefheart</a></li>
+        <li><a href="https://ethnotrip.blues.ru/">The Ethno Trip</a></li>
+      </ul>
 
-</table>
+      <span class="nav-section-hdr">Сайты</span>
+      <ul class="nav-links">
+        <li><a href="https://www.facebook.com/blues.ru">Blues.Ru на Facebook</a></li>
+        <li><a href="https://liveband.ru/">LiveBand.Ru</a></li>
+        <li><a href="https://blackcat.blues.ru">Mean Black Cat Blues</a></li>
+        <li><a href="http://harmonica.ru/">harmonica.ru</a></li>
+        <li><a href="http://www.bluesnews.ru">BluesNews.Ru</a></li>
+        <li><a href="http://ru-blues.livejournal.com/">ЖЖ - ru_blues</a></li>
+        <li><a href="http://www.rusblues.ru">Русский блюз</a></li>
+      </ul>
 
-    </td>
-    <td valign="top" class="main-content">
+      <span class="nav-section-hdr">О blues.ru</span>
+      <ul class="nav-links">
+        <li><a href="about.htm">О сайте</a></li>
+        <li style="padding-top:4px; white-space:normal; line-height:1.4">
+          <b>&copy; 1996-2026</b><br>
+          Андрей Евдокимов<br>
+          Федор Романенко<br>
+          <img src="/images/envelope.png" style="height:1cap;vertical-align:middle;margin-right:3px"><span class="contact-email-plain"></span>
+        </li>
+        <li><hr size="1"><img src="/images/pacific.png" width="180" height="180" alt="Make Love Not War" title="Make Love Not War" style="max-width:100%"></li>
+      </ul>
+
+    </div><!-- nav-collapsible -->
+
+  </nav><!-- site-nav -->
+
+  <!-- ── Main content ───────────────────────────── -->
+  <main class="site-main">
 
 <a name="calendar"></a>
 <a href="/calendar/#{{ today }}"><b>В этот день...</b> &gt;&gt;</a>
@@ -266,10 +182,10 @@ td.main-content { max-width: 680px; padding: 8px 16px; }
 {% endif %}
 
 <hr size="1">
-<a href="/arc/"><img src="/images/clawd.png" width="80" height="80" border="0" 
+<a href="/arc/"><img src="/images/clawd.png" width="80" height="80" border="0"
  alt="Claude" style="float:right;margin-left:10px"></a>
 <p><b>Blues.Ru</b> был <a href="/arc/">переделан в архив</a> с помощью AI технологий — <a href="/arc/">Claude Code</a>.
-У нас теперь есть оглавление и транскрипции передач <a href="/atb/"><b>Весь этот блюз</b></a>, 
+У нас теперь есть оглавление и транскрипции передач <a href="/atb/"><b>Весь этот блюз</b></a>,
 галерея <a href="/photo/"><b>фотографий</b></a> Андрея.
 Раздел <a href="/artist/"><b>Музыканты</b></a> провязан со стриминговыми сервисами.
 Сайт стал легче и хостится на CloudFlare.
@@ -277,34 +193,43 @@ td.main-content { max-width: 680px; padding: 8px 16px; }
 стали гораздо проще!</p>
 
 <hr size="1">
-<p>Сайт <a href="https://blackcat.blues.ru"><b>Mean Black Cat Blues. Блюзовая архаика</b></a> (old-blues.ru) был восстановлен и временно проживает по адресу 
+<p>Сайт <a href="https://blackcat.blues.ru"><b>Mean Black Cat Blues. Блюзовая архаика</b></a> (old-blues.ru) был восстановлен и временно проживает по адресу
 (<a href="https://blackcat.blues.ru">https://blackcat.blues.ru</a>)</p>
 <p align="center"><a href="https://blackcat.blues.ru">
- <img src="/images/mean-black-cat-blues.gif" alt="Mean Black Cat Blues. Блюзовая архаика." />
+ <img src="/images/mean-black-cat-blues.gif" alt="Mean Black Cat Blues. Блюзовая архаика." style="max-width:100%">
 </a>
 </p>
-<hr size="1" />
-<table border="0" cellpadding="8" cellspacing="0">
-  <tr>
-    <td>
-      <img src="/images/liveband-shadow.png" width="80" height="89" 
-           alt="LiveBand.Ru - архив" title="LiveBand.Ru - архив" align="left" />
-    </td>
-    <td valign="center">
-Наш сайт о клубных концертах <b><a href="https://liveband.ru">LiveBand.Ru</a></b> также превращен в архив. 
+<hr size="1">
+<div style="display:flex;align-items:center;gap:12px;flex-wrap:wrap">
+  <img src="/images/liveband-shadow.png" width="80" height="89"
+       alt="LiveBand.Ru - архив" title="LiveBand.Ru - архив">
+  <div>
+Наш сайт о клубных концертах <b><a href="https://liveband.ru">LiveBand.Ru</a></b> также превращен в архив.
 Мы сохранили все пресс-релизы, фото, музыкальные клипы. На нем больше не будет свежих афиш, но для истории мы
-открыли информацию о 80 тыс. клубных концертов за 20+ лет. 
-    </td>
-  </tr>
-</table>
+открыли информацию о 80 тыс. клубных концертов за 20+ лет.
+  </div>
+</div>
 <hr size="1">
 {{ donate }}
 
-    </td>
-  </tr>
-</table>
+  </main><!-- site-main -->
+
+</div><!-- site-wrap -->
 
 <script src="/js/calendar.js"></script>
 <script src="/js/contact.js"></script>
+<script>
+function toggleNav() {
+  var el = document.getElementById('nav-more');
+  var btn = document.querySelector('.hamburger-btn');
+  if (el.classList.contains('open')) {
+    el.classList.remove('open');
+    btn.textContent = '☰ Ещё...';
+  } else {
+    el.classList.add('open');
+    btn.textContent = '✕ Свернуть';
+  }
+}
+</script>
 </body>
 </html>

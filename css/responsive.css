@@ -1,0 +1,197 @@
+/* Blues.Ru — responsive layout */
+
+/* ── Reset ─────────────────────────────────────────── */
+*, *::before, *::after { box-sizing: border-box; }
+
+img { max-width: 100%; height: auto; }
+
+/* ── Page-level container for non-homepage pages ─── */
+body {
+  margin: 0;
+  padding: 0;
+}
+
+/* ── Homepage two-column layout ──────────────────── */
+.site-wrap {
+  display: flex;
+  align-items: flex-start;
+  max-width: 1100px;
+  margin: 0 auto;
+  border: 1px solid #888;
+}
+
+.site-nav {
+  width: 220px;
+  flex-shrink: 0;
+  padding: 4px;
+}
+
+.site-main {
+  flex: 1;
+  min-width: 0;
+  padding: 8px 16px;
+  max-width: 820px;
+}
+
+/* ── Nav logo area ───────────────────────────────── */
+.nav-logo {
+  display: block;
+  text-align: left;
+  padding: 4px 2px;
+}
+
+.nav-tagline {
+  font-size: 1.1em;
+  padding: 2px 4px 6px 4px;
+}
+
+/* ── Nav section headers ─────────────────────────── */
+.nav-section-hdr {
+  display: block;
+  background: #003D84;
+  color: #fff;
+  font-weight: bold;
+  padding: 2px 4px;
+  margin-top: 2px;
+  white-space: nowrap;
+  font-size: 1em;
+}
+
+/* ── Nav links ───────────────────────────────────── */
+.nav-links {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.nav-links li {
+  padding: 1px 0;
+  white-space: nowrap;
+}
+
+.nav-links li a,
+.nav-links li big a {
+  white-space: nowrap;
+}
+
+/* ── Hamburger button (mobile only) ─────────────── */
+.hamburger-btn {
+  display: none;
+  background: #003D84;
+  color: #fff;
+  border: none;
+  padding: 6px 10px;
+  font-size: 1em;
+  cursor: pointer;
+  width: 100%;
+  text-align: left;
+  margin-top: 4px;
+}
+
+/* ── Collapsible nav groups ─────────────────────── */
+.nav-group {
+  /* visible by default on desktop */
+}
+
+/* ── Responsive: tablet (iPad) ───────────────────── */
+@media (max-width: 900px) {
+  .site-wrap {
+    max-width: 100%;
+  }
+  .site-nav {
+    width: 190px;
+  }
+}
+
+/* ── Responsive: mobile ─────────────────────────── */
+@media (max-width: 680px) {
+  .site-wrap {
+    flex-direction: column;
+    border: none;
+    border-top: 2px solid #003D84;
+  }
+
+  .site-nav {
+    width: 100%;
+    border-bottom: 1px solid #ccc;
+    padding: 6px 8px;
+  }
+
+  .site-main {
+    width: 100%;
+    padding: 8px 10px;
+  }
+
+  .hamburger-btn {
+    display: block;
+  }
+
+  .nav-collapsible {
+    display: none;
+  }
+  .nav-collapsible.open {
+    display: block;
+  }
+
+  .nav-links li {
+    padding: 3px 0;
+  }
+
+  /* nav section headers inside collapsible get indent */
+  .nav-collapsible .nav-section-hdr {
+    margin-top: 6px;
+  }
+}
+
+/* ── Content pages (non-homepage) ───────────────── */
+.page-wrap {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 0 12px;
+}
+
+.page-header {
+  display: flex;
+  align-items: flex-start;
+  gap: 12px;
+  margin-bottom: 8px;
+}
+
+.page-logo {
+  flex-shrink: 0;
+}
+
+/* ── General content readability ─────────────────── */
+p { line-height: 1.55; }
+td { vertical-align: top; }
+
+/* prevent album info tables from overflowing */
+table { max-width: 100%; }
+
+/* Album cover: don't let it break narrow screens */
+img[align="left"] {
+  max-width: 160px;
+  margin-right: 8px;
+  margin-bottom: 4px;
+}
+
+/* ── Footer nav bar ─────────────────────────────── */
+.footer-nav {
+  font-size: 0.9em;
+  text-align: center;
+  padding: 6px 0;
+  border-top: 1px solid #ccc;
+  margin-top: 1em;
+  line-height: 2;
+  flex-wrap: wrap;
+}
+
+@media (max-width: 680px) {
+  .page-header {
+    flex-wrap: wrap;
+  }
+  .page-logo img {
+    width: 80px;
+    height: 80px;
+  }
+}

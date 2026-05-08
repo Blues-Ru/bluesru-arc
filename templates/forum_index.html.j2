@@ -4,19 +4,18 @@
   <title>Форум Blues.Ru - архив</title>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <script Language="JavaScript" src="/forum/liveforum.js"></script>
-<link rel="stylesheet" type="text/css" href="/forum/liveforum.css" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><link rel="shortcut icon" href="/images/bluesru.ico" /><link rel="alternate" type="application/rss+xml" title="Blues.Ru / Форум: разговоры о блюзе" href="/forum/rss" />{{ site_css_tag | safe }}
+<link rel="stylesheet" type="text/css" href="/forum/liveforum.css" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="/images/bluesru.ico" />
+<link rel="alternate" type="application/rss+xml" title="Blues.Ru / Форум: разговоры о блюзе" href="/forum/rss" />
+<style>body { max-width: 900px; margin: 0 auto; padding: 0 1em; }</style>
+{{ site_css_tag | safe }}
   {% if canonical_url %}<link rel="canonical" href="{{ canonical_url }}">{% endif %}
   {{ ga_snippet | safe }}
 </head>
 <body bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#5511CC" alink="#00BB00">
 
-<table cellpadding="4" cellspacing="0" border="0" align="right">
-<tr><td>
-  <a href="/"><img src="/images/bluesru-logo.svg" width="120" height="120" border="0" alt="Blues.Ru"></a>
-</td></tr>
-<tr><td width="150">
-</td></tr>
-</table>
+<a href="/"><img src="/images/bluesru-logo.svg" width="120" height="120" border="0" alt="Blues.Ru" style="float:right"></a>
 
 <div class="forum"><div class="topic-list-header"><span class="forum-name"><a href="/forum/">ФОРУМ</a> : Разговоры о блюзе</span><span class="pager">{% if page > 1 %}<a href="/forum/{% if page == 2 %}{% else %}page{{ page - 1 }}.html{% endif %}">&lt;&lt;</a>{% else %}&lt;&lt;{% endif %}
      {{ page }}

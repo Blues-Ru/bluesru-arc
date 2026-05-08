@@ -152,7 +152,11 @@ GA_SNIPPET = '''\
   gtag('config', 'G-8HDC1W9R3E');
 </script>'''
 
-SITE_CSS_TAG = '<link rel="stylesheet" href="/css/site.css">'
+SITE_CSS_TAG = (
+    '<meta name="viewport" content="width=device-width, initial-scale=1">\n'
+    '<link rel="stylesheet" href="/css/site.css">\n'
+    '<link rel="stylesheet" href="/css/responsive.css">'
+)
 
 JINJA_ENV.globals['ga_snippet'] = GA_SNIPPET
 JINJA_ENV.globals['site_css_tag'] = SITE_CSS_TAG
