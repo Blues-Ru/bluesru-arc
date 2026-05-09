@@ -43,14 +43,14 @@
 </div>
 {% if current_year_months %}
 <div class="year-months">
-{% for m in current_year_months %}{% if not loop.first %} | {% endif %}<a href="/review/{{ m.key }}/">{{ m.label }}</a>{% endfor %}
+{% for m in current_year_months %}{% if not loop.first %} | {% endif %}<a href="#{{ m.key }}">{{ m.label }}</a>{% endfor %}
 </div>
 {% endif %}
 <hr size="1">
 {% endif %}
 
 {% for month_block in month_blocks %}
-<h3>{{ month_block.label }}</h3>
+<h3 id="{{ month_block.key }}">{{ month_block.label }}</h3>
 <ul>
 {% for r in month_block.reviews %}
   <li class="review-entry">

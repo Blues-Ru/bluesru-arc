@@ -203,7 +203,8 @@ def generate_news():
         if prev_item:
             pager_parts.append(f'{story_link(prev_item)} →')
         pager = ' | '.join(pager_parts)
-        top_nav = crumb + (f'<br><br>{pager}' if pager else '')
+        # For single story: crumb on first line, pager (nav dates) on second
+        top_nav = crumb + (f'<br><span style="color:#4F62B5">{pager}</span>' if pager else '')
         bot_nav = pager if pager else crumb
 
         dst_story.write_text(story_tmpl.render(
@@ -211,6 +212,7 @@ def generate_news():
             page_title=item['title'] or f'Новость {nid}',
             nav_links=top_nav,
             bottom_nav=bot_nav,
+            single_story=True,
             footer=FOOTER,
         ), encoding='utf-8')
         story_count += 1

@@ -10,6 +10,9 @@
   var now = new Date();
   var currentYear = now.getFullYear();
 
+  var MONTHS_GEN = ['', 'января', 'февраля', 'марта', 'апреля', 'мая', 'июня',
+                    'июля', 'августа', 'сентября', 'октября', 'ноября', 'декабря'];
+
   function toMmDd(d) {
     return String(d.getMonth() + 1).padStart(2, '0') + '-' + String(d.getDate()).padStart(2, '0');
   }
@@ -19,7 +22,9 @@
     return r;
   }
   function formatDDMM(mmdd) {
-    return mmdd.slice(3) + '.' + mmdd.slice(0, 2);
+    var mo = parseInt(mmdd.slice(0, 2), 10);
+    var day = parseInt(mmdd.slice(3), 10);
+    return day + ' ' + MONTHS_GEN[mo];
   }
   function typePrefix(ev) {
     if (ev.type === 'born') return 'род.\u00a0';

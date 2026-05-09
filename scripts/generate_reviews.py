@@ -177,31 +177,8 @@ def generate_reviews():
             footer=FOOTER,
         ), encoding='utf-8')
 
-    for i, mk in enumerate(month_keys):
-        if mk == '0000-00':
-            continue
-        y, mo = mk[:4], int(mk[5:7])
-        prev_key = month_keys[i - 1] if i > 0 else None
-        next_key = month_keys[i + 1] if i + 1 < len(month_keys) else None
-        if prev_key == '0000-00':
-            prev_key = None
-        if next_key == '0000-00':
-            next_key = None
-        nav = month_nav_html(mk, prev_key, next_key)
-        entries = sorted(by_month[mk], key=lambda x: x['date_str'], reverse=True)
-        dst_month = SITE / 'review' / mk / 'index.html'
-        dst_month.parent.mkdir(parents=True, exist_ok=True)
-        dst_month.write_text(tmpl_idx.render(
-            current_month=f'{y} {MONTHS_RU[mo]}',
-            current_year=y,
-            month_blocks=[{'label': f'{y} {MONTHS_RU[mo]}', 'key': mk, 'reviews': entries}],
-            nav_links=nav,
-            more_html=None,
-            month_list=None,
-            year_nav=year_nav_data(y),
-            current_year_months=months_for_year(y),
-            footer=FOOTER,
-        ), encoding='utf-8')
+    # Month sub-pages (/review/YYYY-MM/) are no longer generated.
+    # Months are bookmark anchors on the year page instead.
 
     # ── Per-author pages ───────────────────────────────────────────────────────
     by_author = defaultdict(list)

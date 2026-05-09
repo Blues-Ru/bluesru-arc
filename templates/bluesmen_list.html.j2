@@ -15,13 +15,12 @@
 <img src="/images/bluesman.gif" align="left" hspace="0" WIDTH="385" HEIGHT="98" style="clip-path:inset(0 10px 0 0);height:auto">
 <br style="clear:both">
 
-<p><big><b>
+<p style="margin-bottom:0"><big><b>
 {% for letter in letters %}
 {% if letter_has_artists[letter] %}<a href="#{{ letter }}">{{ letter }}</a>{% else %}{{ letter }}{% endif %}&#32;
 {% endfor %}
-</b></big>
-<input type="text" id="artist-filter" placeholder="Поиск музыканта..." oninput="filterArtists(this.value)" autofocus>
-</p>
+</b></big></p>
+<p style="margin-top:4px"><input type="text" id="artist-filter" placeholder="Поиск" oninput="filterArtists(this.value)" autofocus style="width:min(280px,100%);font-size:1em;padding:3px 6px"></p>
 
 {% for letter in letters %}
 {% if letter_has_artists[letter] %}

@@ -19,22 +19,38 @@
 
 <br style="clear:both">
 
-{% if nav_links %}{{ nav_links | safe }}{% endif %}
+{% if nav_links %}
+{% if single_story %}
+<p class="story-nav">{{ nav_links | safe }}</p>
+{% else %}
+{{ nav_links | safe }}
+{% endif %}
+{% endif %}
 
 {% if year_body %}{{ year_body | safe }}{% endif %}
 
 
 {% for item in news_items %}
-{% if item.image_path %}<img src="{{ item.image_path }}" align="right" alt="{{ item.title | e }}" vspace="4" hspace="10" style="max-width: 200px;">{% endif %}
-<i><font color="#4F62B5">{{ item.date_display }}</font></i>&#160;&#160;&#160;
-{% if item.title %}<a name="{{ item.id }}" href="{{ item.url }}"><b>{{ item.title | e }}</b></a>{% else %}<a name="{{ item.id }}"></a>{% endif %}
-<div class="newsarticle">{{ item.body | safe }}</div>
-{% if item.image_path %}<br clear="all">{% endif %}
+{% if single_story %}
+<h2><a name="{{ item.id }}"></a>{{ item.title | e }}</h2>
+{% if item.date_display %}<p class="story-date">{{ item.date_display }}</p>{% endif %}
+<div class="newsarticle">
+{% if item.image_path %}<img src="{{ item.image_path }}" class="news-img" alt="{{ item.title | e }}">{% endif %}
+{{ item.body | safe }}
+</div>
+{% else %}
+<a name="{{ item.id }}"></a>
+<i><font color="#4F62B5">{{ item.date_display }}</font></i>&#160;&#160;&#160;{% if item.title %}<a href="{{ item.url }}"><b>{{ item.title | e }}</b></a>{% endif %}
+<div class="newsarticle">
+{% if item.image_path %}<img src="{{ item.image_path }}" class="news-img" alt="{{ item.title | e }}">{% endif %}
+{{ item.body | safe }}
+</div>
+{% endif %}
 {% if item.author %}<p align="right" style="margin-top: 0; margin-bottom: 0">{{ item.author | e }}{% if item.source %}   <i>{{ item.source | e }}</i>{% endif %}</p>{% endif %}
 {% if not loop.last %}<hr size="1">{% endif %}
 {% endfor %}
 
-{% if bottom_nav %}<p>{{ bottom_nav | safe }}</p>{% elif nav_links %}<p>{{ nav_links | safe }}</p>{% endif %}
+{% if bottom_nav %}<p>{{ bottom_nav | safe }}</p>{% elif nav_links and not single_story %}<p>{{ nav_links | safe }}</p>{% endif %}
 
 <hr size="1" />
 
