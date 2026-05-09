@@ -5,11 +5,31 @@
 
 img { max-width: 100%; height: auto; }
 
-/* ── Page-level container for non-homepage pages ─── */
+/* ── Body base — content pages get side padding ─────
+   Homepage body gets .hp class and overrides to zero. */
 body {
   margin: 0;
+  padding: 0 1em;
+}
+body.hp {
   padding: 0;
 }
+
+/* ── Responsive iframes (YouTube etc.) ─────────────── */
+.video-wrap {
+  position: relative;
+  width: 100%;
+  padding-bottom: 56.25%; /* 16:9 */
+  height: 0;
+  margin: 1em 0;
+}
+.video-wrap iframe {
+  position: absolute;
+  top: 0; left: 0;
+  width: 100%; height: 100%;
+}
+/* Freestanding iframes (outside .video-wrap) */
+iframe { max-width: 100%; }
 
 /* ── Homepage two-column layout ──────────────────── */
 .site-wrap {
@@ -21,29 +41,38 @@ body {
 }
 
 .site-nav {
-  width: 220px;
+  width: 230px;
   flex-shrink: 0;
-  padding: 4px;
+  padding: 4px 6px;
 }
 
 .site-main {
   flex: 1;
   min-width: 0;
   padding: 8px 16px;
-  max-width: 820px;
+  max-width: 840px;
 }
 
 /* ── Nav logo area ───────────────────────────────── */
 .nav-logo {
   display: block;
-  text-align: left;
   padding: 4px 2px;
 }
 
 .nav-tagline {
   font-size: 1.1em;
-  padding: 2px 4px 6px 4px;
+  padding: 2px 4px 4px 4px;
 }
+
+/* ── Nav two-column pairs ────────────────────────── */
+.nav-pair {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0 6px;
+  align-items: start;
+}
+
+.nav-col {} /* each column inside nav-pair */
 
 /* ── Nav section headers ─────────────────────────── */
 .nav-section-hdr {
@@ -52,8 +81,7 @@ body {
   color: #fff;
   font-weight: bold;
   padding: 2px 4px;
-  margin-top: 2px;
-  white-space: nowrap;
+  margin-top: 3px;
   font-size: 1em;
 }
 
@@ -66,12 +94,20 @@ body {
 
 .nav-links li {
   padding: 1px 0;
-  white-space: nowrap;
+  line-height: 1.4;
 }
 
-.nav-links li a,
-.nav-links li big a {
-  white-space: nowrap;
+/* Search form within nav */
+.nav-search {
+  padding: 3px 0;
+}
+.nav-search input[type=text] {
+  width: 120px;
+  font-size: 11px;
+  padding: 2px 3px;
+}
+.nav-search input[type=submit] {
+  font-size: 11px;
 }
 
 /* ── Hamburger button (mobile only) ─────────────── */
@@ -88,110 +124,180 @@ body {
   margin-top: 4px;
 }
 
-/* ── Collapsible nav groups ─────────────────────── */
-.nav-group {
-  /* visible by default on desktop */
-}
-
 /* ── Responsive: tablet (iPad) ───────────────────── */
 @media (max-width: 900px) {
-  .site-wrap {
-    max-width: 100%;
-  }
-  .site-nav {
-    width: 190px;
-  }
+  .site-wrap { max-width: 100%; }
+  .site-nav { width: 210px; }
+  .nav-search input[type=text] { width: 100px; }
 }
 
 /* ── Responsive: mobile ─────────────────────────── */
 @media (max-width: 680px) {
+  body { padding: 0 0.6em; }
+  body.hp { padding: 0; }
+
   .site-wrap {
     flex-direction: column;
     border: none;
     border-top: 2px solid #003D84;
   }
-
   .site-nav {
     width: 100%;
     border-bottom: 1px solid #ccc;
     padding: 6px 8px;
   }
-
   .site-main {
     width: 100%;
     padding: 8px 10px;
   }
-
   .hamburger-btn {
     display: block;
   }
-
   .nav-collapsible {
     display: none;
   }
   .nav-collapsible.open {
     display: block;
   }
-
   .nav-links li {
     padding: 3px 0;
   }
-
-  /* nav section headers inside collapsible get indent */
-  .nav-collapsible .nav-section-hdr {
-    margin-top: 6px;
+  /* two-column nav widens on mobile full-width nav */
+  .nav-pair {
+    grid-template-columns: 1fr 1fr;
+    gap: 0 12px;
   }
-}
-
-/* ── Content pages (non-homepage) ───────────────── */
-.page-wrap {
-  max-width: 900px;
-  margin: 0 auto;
-  padding: 0 12px;
-}
-
-.page-header {
-  display: flex;
-  align-items: flex-start;
-  gap: 12px;
-  margin-bottom: 8px;
-}
-
-.page-logo {
-  flex-shrink: 0;
+  .nav-search input[type=text] {
+    width: 160px;
+  }
 }
 
 /* ── General content readability ─────────────────── */
 p { line-height: 1.55; }
+
+/* prevent tables from overflowing narrow screens */
+table { max-width: 100%; }
 td { vertical-align: top; }
 
-/* prevent album info tables from overflowing */
-table { max-width: 100%; }
-
-/* Album cover: don't let it break narrow screens */
+/* Album cover left-aligned, capped on mobile */
 img[align="left"] {
   max-width: 160px;
   margin-right: 8px;
   margin-bottom: 4px;
 }
 
-/* ── Footer nav bar ─────────────────────────────── */
-.footer-nav {
-  font-size: 0.9em;
-  text-align: center;
-  padding: 6px 0;
-  border-top: 1px solid #ccc;
-  margin-top: 1em;
-  line-height: 2;
-  flex-wrap: wrap;
+/* Header banner images (bluesman.gif, news.gif — 385×98) */
+img[src*="bluesman.gif"],
+img[src*="news.gif"],
+img[src*="ATBred.gif"] {
+  width: 100%;
+  max-width: 385px;
+  height: auto;
 }
 
+/* ── Photo index: responsive gallery cards ───────── */
 @media (max-width: 680px) {
-  .page-header {
-    flex-wrap: wrap;
+  /* Photo index gallery grid: 2 columns */
+  .photo-index .gallery-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 10px;
   }
-  .page-logo img {
-    width: 80px;
-    height: 80px;
+  .photo-index .gallery-card {
+    width: auto;
+  }
+  .photo-index .gallery-card img {
+    width: 100%;
+    height: 100px;
+    object-fit: cover;
+  }
+  .no-thumb {
+    width: 100% !important;
+  }
+}
+
+@media (min-width: 681px) and (max-width: 900px) {
+  /* Tablet: 3 columns for photo index */
+  .photo-index .gallery-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 12px;
+  }
+  .photo-index .gallery-card {
+    width: auto;
+  }
+  .photo-index .gallery-card img {
+    width: 100%;
+    height: 110px;
+    object-fit: cover;
+  }
+  .no-thumb { width: 100% !important; }
+}
+
+/* ── Gallery page thumbnails ─────────────────────── */
+@media (max-width: 680px) {
+  .gallery-grid {
+    display: grid !important;
+    grid-template-columns: 1fr 1fr;
+    gap: 6px;
+    padding: 0.5rem;
+  }
+  .gallery-thumb {
+    width: auto;
+  }
+  .gallery-thumb img {
+    width: 100%;
+    height: 110px;
+    object-fit: cover;
+  }
+  .gallery-thumb .thumb-caption {
+    width: 100%;
+  }
+}
+
+@media (min-width: 681px) and (max-width: 900px) {
+  .gallery-grid {
+    display: grid !important;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 6px;
+  }
+  .gallery-thumb { width: auto; }
+  .gallery-thumb img { width: 100%; height: 120px; object-fit: cover; }
+  .gallery-thumb .thumb-caption { width: 100%; }
+}
+
+/* ── Donate block ────────────────────────────────── */
+.donate-wrap {
+  text-align: center;
+  margin: 0.5em 0;
+}
+.donate-buttons {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 8px 4px;
+  max-width: 500px;
+  margin: 0 auto;
+}
+.donate-currency {
+  font-size: 1.5em;
+  font-weight: bold;
+  line-height: 1;
+  flex-shrink: 0;
+}
+.donate-btn {
+  flex-shrink: 0;
+}
+.donate-btn img,
+.donate-btn input[type=image] {
+  max-width: 200px;
+  height: auto;
+  display: block;
+}
+@media (max-width: 480px) {
+  .donate-buttons {
+    flex-direction: column;
+    align-items: center;
   }
 }

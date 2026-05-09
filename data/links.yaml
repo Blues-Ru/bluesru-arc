@@ -209,7 +209,7 @@ sites:
   description: Расписание клубных блюзовых концертов, пополняемое клубами и музыкантами.
   categories:
   - '22'
-  status: live
+  status: dead
 - id: '181'
   name: Афиша.Ру
   url: http://www.afisha.ru/msk/schedule_concert/
@@ -1036,7 +1036,7 @@ sites:
   description: Сайт гитариста, лидера групп Stainless Blues Band и Вольный Стиль.
   categories:
   - '5'
-  status: live
+  status: dead
 - id: '145'
   name: Efes Pilsener Blues Festival
   url: http://www.bluesfest.ru

@@ -17,7 +17,9 @@
 
 <a href="/"><img src="/images/bluesru-logo.svg" width="120" height="120" border="0" alt="Blues.Ru" style="float:right"></a>
 
-<div class="forum"><div class="topic-list-header"><span class="forum-name"><a href="/forum/">ФОРУМ</a> : Разговоры о блюзе</span><span class="pager">{% if page > 1 %}<a href="/forum/{% if page == 2 %}{% else %}page{{ page - 1 }}.html{% endif %}">&lt;&lt;</a>{% else %}&lt;&lt;{% endif %}
+<p><a href="/"><b>Blues.Ru</b></a> &gt; Форум — архив</p>
+
+<div class="forum"><div class="topic-list-header"><span class="forum-name"><a href="/forum/">ФОРУМ</a></span><span class="pager">{% if page > 1 %}<a href="/forum/{% if page == 2 %}{% else %}page{{ page - 1 }}.html{% endif %}">&lt;&lt;</a>{% else %}&lt;&lt;{% endif %}
      {{ page }}
   {% if has_next %}<a href="/forum/page{{ page + 1 }}.html">&gt;&gt;</a>{% endif %}</span></div>
 {%- for topic in topics %}

@@ -48,8 +48,9 @@
       ? events.map(renderEventFull).join('')
       : '<p><i>Нет событий</i></p>';
     var idAttr = dateId ? ' id="' + dateId + '"' : '';
-    return '<tr' + idAttr + '><td align="center" valign="top"><big><b>' + label + '</b></big></td>'
-      + '<td>' + evHtml + '</td></tr>';
+    return '<div' + idAttr + '><h3 style="margin:0.8em 0 0.3em">' + label + '</h3>'
+      + evHtml
+      + '<hr size="1"></div>';
   }
 
   function renderShort(calData) {
@@ -90,7 +91,7 @@
       { date: now,       mmdd: toMmDd(now),       label: formatDDMM(toMmDd(now)) + ' (сегодня)' },
       { date: tomorrow,  mmdd: toMmDd(tomorrow),  label: formatDDMM(toMmDd(tomorrow)) },
     ];
-    var html = '<table BORDER="1" CELLSPACING="0" CELLPADDING="4" width="700" align="center">';
+    var html = '';
     days.forEach(function(day) {
       var events = (calData && calData[day.mmdd]) || [];
       var y = day.date.getFullYear();
@@ -98,7 +99,6 @@
       var d = String(day.date.getDate()).padStart(2, '0');
       html += renderDayFull(day.mmdd, events, day.label, y + '-' + m + '-' + d);
     });
-    html += '</table>';
     el.innerHTML = html;
     var hash = window.location.hash;
     if (hash) {

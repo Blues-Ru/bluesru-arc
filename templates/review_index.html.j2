@@ -11,7 +11,10 @@
     .review-cover { flex-shrink: 0; margin-right: 0.7em; }
     .review-cover img { width: 50px; height: 50px; object-fit: cover; }
     .review-info { flex: 1; }
-    .year-months { margin: 0.2em 0 0.5em 1em; font-size: 0.95em; }
+    .year-months { margin: 0.2em 0 0.5em 0; font-size: 0.95em; line-height: 1.8; }
+    .year-nav-compact { font-size: 0.9em; display: flex; align-items: center; gap: 8px; flex-wrap: wrap; }
+    .year-nav-compact .yn-cur { font-weight: bold; font-size: 1.1em; }
+    .year-nav-all { font-size: 0.85em; line-height: 2; }
   </style>
 {{ site_css_tag | safe }}
   {{ ga_snippet | safe }}
@@ -25,9 +28,19 @@
 {% if nav_links %}<p>{{ nav_links | safe }}</p>{% endif %}
 
 {% if year_nav %}
-<p>
-{% for yn in year_nav %}{% if not loop.first %} | {% endif %}{% if yn.current %}<b>{{ yn.year }}</b>{% else %}<a href="/review/{{ yn.year }}/">{{ yn.year }}</a>{% endif %}{% endfor %}
-</p>
+{%- set ns = namespace(prev=None, cur=None, next=None) %}
+{%- for yn in year_nav %}
+  {%- if yn.current %}
+    {%- set ns.cur = yn %}
+    {%- if not loop.first %}{% set ns.prev = year_nav[loop.index0 - 1] %}{% endif %}
+    {%- if not loop.last %}{% set ns.next = year_nav[loop.index0 + 1] %}{% endif %}
+  {%- endif %}
+{%- endfor %}
+<div class="year-nav-compact">
+  {% if ns.prev %}<a href="/review/{{ ns.prev.year }}/">&laquo; {{ ns.prev.year }}</a>{% else %}<span style="color:#ccc">&laquo;</span>{% endif %}
+  <span class="yn-cur">{{ ns.cur.year if ns.cur else current_year }}</span>
+  {% if ns.next %}<a href="/review/{{ ns.next.year }}/">{{ ns.next.year }} &raquo;</a>{% else %}<span style="color:#ccc">&raquo;</span>{% endif %}
+</div>
 {% if current_year_months %}
 <div class="year-months">
 {% for m in current_year_months %}{% if not loop.first %} | {% endif %}<a href="/review/{{ m.key }}/">{{ m.label }}</a>{% endfor %}
@@ -58,7 +71,14 @@
 <p>
 {% for m in month_list %}{% if not loop.first %} | {% endif %}<a href="/review/{{ m.key }}/">{{ m.label }}</a>{% endfor %}
 </p>
+{% endif %}
 
+{% if year_nav %}
+<hr size="1">
+<p><b>Все годы:</b><br>
+<span class="year-nav-all">
+{% for yn in year_nav %}{% if not loop.first %} | {% endif %}{% if yn.current %}<b>{{ yn.year }}</b>{% else %}<a href="/review/{{ yn.year }}/">{{ yn.year }}</a>{% endif %}{% endfor %}
+</span></p>
 {% endif %}
 
 <hr size="1" />

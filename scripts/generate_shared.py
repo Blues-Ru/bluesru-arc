@@ -1647,12 +1647,14 @@ def _generate_links_page(categories, sites):
             s += render_cat(child, depth + 1)
         return s
 
-    html = ('<!DOCTYPE html>\n<html>\n<head>\n<meta charset="utf-8">\n'
+    html = ('<!DOCTYPE html>\n<html lang="ru">\n<head>\n<meta charset="utf-8">\n'
+            '<meta name="viewport" content="width=device-width, initial-scale=1">\n'
             '<title>Блюзовые ссылки — Blues.Ru</title>\n'
             '<link rel="shortcut icon" href="/images/bluesru.ico">\n'
             '<link rel="stylesheet" href="/css/site.css">\n'
+            '<link rel="stylesheet" href="/css/responsive.css">\n'
             + GA_SNIPPET + '\n'
-            '<style>a{text-decoration:none}</style>\n'
+            '<style>a{text-decoration:none} body{max-width:900px;margin:0 auto;padding:0 1em}</style>\n'
             '</head>\n<body bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#5511CC">\n'
             '<a href="/"><img src="/images/bluesru-logo.svg" width="120" height="120" border="0" alt="Blues.Ru" style="float:right"></a>\n'
             '<p><a href="/"><b>Blues.Ru</b></a> &gt; Ссылки</p>\n'
