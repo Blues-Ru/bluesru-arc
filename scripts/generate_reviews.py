@@ -91,6 +91,7 @@ def generate_reviews():
             'asin': album.get('asin', ''),
             'cover_url': cover_url_for_asin(album.get('asin', '')),
             'date_str': date_str,
+            'mark': mark,
         })
 
     month_keys = sorted(by_month.keys(), reverse=True)

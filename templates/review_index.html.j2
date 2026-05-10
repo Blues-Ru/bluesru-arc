@@ -55,7 +55,7 @@
 {% for r in month_block.reviews %}
   <li class="review-entry">
     {% if r.cover_url %}<span class="review-cover"><a href="{{ r.url }}"><img src="{{ r.cover_url }}" alt="обложка" border="0"></a></span>{% endif %}
-    <span class="review-info"><a href="{{ r.url }}">{% if r.artist_name %}<b>{{ r.artist_name | e }}</b> — {% endif %}<b>{{ r.album_title | e }}</b></a>{% if r.year %}, {{ r.year }}{% endif %} — <i>{{ r.author | e }}</i></span>
+    <span class="review-info"><a href="{{ r.url }}">{% if r.artist_name %}<b>{{ r.artist_name | e }}</b> — {% endif %}<b>{{ r.album_title | e }}</b></a>{% if r.year %}, {{ r.year }}{% endif %}<span class="review-meta">{% if r.mark %}{{ star_rating_html(r.mark) }}{% endif %}<i>{{ r.author | e }}</i></span></span>
   </li>
 {% endfor %}
 </ul>

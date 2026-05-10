@@ -161,6 +161,24 @@ SITE_CSS_TAG = (
 JINJA_ENV.globals['ga_snippet'] = GA_SNIPPET
 JINJA_ENV.globals['site_css_tag'] = SITE_CSS_TAG
 
+
+def star_rating_html(mark, size='1.4rem'):
+    """Return HTML for a CSS star rating. mark is 0-10 integer; displayed as 0-5 stars."""
+    if not mark:
+        return ''
+    n = int(mark)
+    rating = n / 2.0  # 0-10 → 0-5 stars
+    text = f'{rating:g} из 5'
+    return (
+        f'<span class="star-rating" style="--rating:{rating}">'
+        f'<span class="visually-hidden">{text}</span>'
+        f'<span aria-hidden="true">★★★★★</span>'
+        f'</span> '
+    )
+
+
+JINJA_ENV.globals['star_rating_html'] = star_rating_html
+
 MONTHS_RU = ['', 'январь', 'февраль', 'март', 'апрель', 'май', 'июнь',
              'июль', 'август', 'сентябрь', 'октябрь', 'ноябрь', 'декабрь']
 
@@ -806,7 +824,7 @@ def render_post_html(post, topic_slug, full=True, depth=0):
     else:
         sanitized = sanitize_forum_html(text)
         sanitized = _autolink_bare_urls(sanitized)
-        sanitized = re.sub(r'\n', '<br>\n', sanitized)
+        sanitized = re.sub(r'\n', '</p><p>', sanitized)
         text_html = f'<p>{sanitized}</p>' if text else ''
 
     if full and depth == 0:
@@ -866,11 +884,11 @@ def render_topic_html(topic_data, topic_meta, full=False, forum_page=1):
 
         page_url = '/forum/' if forum_page <= 1 else f'/forum/page{forum_page}.html'
         forum_back = f'{page_url}#topic{topic_id}'
-        html = f'<div class="topic-header"><a href="{forum_back}">ФОРУМ : Разговоры о блюзе</a> :\n'
+        html = f'<div class="topic-header">'
+        html += f'<a href="{forum_back}">Blues.Ru &rsaquo; Форум</a> &rsaquo;\n'
         html += f'  <span class="subject">{subject}</span>\n'
-        html += f'    - <span class="name">{first_poster}</span>\n'
-        html += f'      <span class="date">({first_date})</span>\n'
-        html += f'      <span class="self-link"><a href="/forum/{slug}">#</a></span>'
+        html += f'    &mdash; <span class="name">{first_poster}</span>\n'
+        html += f'      <span class="date">({first_date})</span>'
         html += f'</div>'
         html += f'<div class="topic"><a name="topic{topic_id}"></a>'
         for post in posts:

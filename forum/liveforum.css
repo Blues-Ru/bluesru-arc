@@ -25,9 +25,11 @@
 
 .forum .message div.header
 {
-  display:inline-block;
+  display:block;
   /*background-color: #eee;*/
   margin-right: .5em;
+  overflow-wrap: break-word;
+  word-break: break-word;
 }
 
 .forum .message .header

@@ -87,10 +87,9 @@
 {% for review in reviews %}
 <h3><a name="{{ review.id }}"></a>
 {% if review.album_title %}"{{ review.album_title }}" {% endif %}
-{% if review.year %}{{ review.year }} {% endif %}
-{% if review.mark %}- {{ review.mark_text }}{% endif %}</h3>
+{% if review.year %}{{ review.year }}{% endif %}</h3>
 {{ review.body | safe }}
-<p align="right"><i>{{ review.author }}</i></p>
+<p align="right">{% if review.mark %}{{ star_rating_html(review.mark) }} &mdash; {% endif %}<i>{{ review.author }}</i></p>
 <hr size="1">
 {% endfor %}
 {% endif %}

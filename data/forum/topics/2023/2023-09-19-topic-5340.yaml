@@ -2,8 +2,8 @@ topic_id: 5340
 slug: topic-5340
 title: Mean Black Cat Blues
 first_post: 2023-09-19 10:52
-last_post: 2023-10-19 02:52
-post_count: 4
+last_post: '2026-05-10 12:00'
+post_count: 5
 posts:
 - id: 39702
   parent_id: null
@@ -37,4 +37,15 @@ posts:
     deleted: false
     text: '2023-10-03T21:00:00Z'
     person_id: 2
+  - id: 39707
+    parent_id: 39702
+    date: '2026-05-10 12:00'
+    poster: Федор Романенко
+    person_id: 2
+    subject: https://blackcat.blues.ru
+    deleted: false
+    text: "Мы с помощью AI восстановили сайт из веб-архива и повесили на поддомен blues.ru.\
+      \ Возможно, домен old-blues.ru также удастся восстановить попозже с участием Миши Бирюкова.\n\
+      \nhttps://blackcat.blues.ru"
+    replies: []
   person_id: 335

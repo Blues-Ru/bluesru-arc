@@ -68,7 +68,7 @@
        <i>Статья С.Фунтусовой</i><br></small>
     </li>
     <li><small><a href="/photo/2004/2004-notodden-blues-festival/">Фотогалерея (Photos)</a></small></li>
-    <li><small><a href="/photo/2004/2004-notodden-blues-festival-vr/">Фотографии В.Романенко</a></small></li>
+    <li><small><a href="/photo/2004/2004-notodden-blues-festival-vr/">Фотографии В.Русинова</a></small></li>
     <li><small><a href="http://www.bluescats.ru/files/notodden2004/">Фотографии М.Лернер</a></small></li>
   </ul>
 </p>
