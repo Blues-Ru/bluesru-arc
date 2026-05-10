@@ -84,6 +84,7 @@ def generate_year_pages():
                 'title': ev.get('title', ''),
                 'picture': picture,
                 'text': ev.get('text', ''),
+                'artist_slug': ev.get('artist_slug', '') or '',
             })
     elif EVENTS_DIR.exists():
         for fpath in sorted(EVENTS_DIR.glob("*.md")):

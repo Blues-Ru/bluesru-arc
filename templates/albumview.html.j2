@@ -73,6 +73,9 @@
 {% if artist_atb_links is defined and artist_atb_links %}
 <p>{{ artist_atb_links | safe }}</p>
 {% endif %}
+{% if artist_calendar_links is defined and artist_calendar_links %}
+<p>{{ artist_calendar_links | safe }}</p>
+{% endif %}
 {% if album.asin or streaming_links or artist_streaming_links %}
 <p>Альбом на:
 {% if album.asin %}<a target="_blank" href="https://www.amazon.com/dp/{{ album.asin }}">Amazon</a>{% endif %}

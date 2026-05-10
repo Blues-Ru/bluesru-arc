@@ -64,6 +64,27 @@ def _load_spam_ids():
 
 SPAM_IDS = _load_spam_ids()
 
+_AUTHOR_SLUGS = None  # lazy-loaded on first forum render
+
+def _get_author_slugs() -> dict:
+    global _AUTHOR_SLUGS
+    if _AUTHOR_SLUGS is None:
+        p = DATA / 'forum' / 'author-slugs.json'
+        if p.exists():
+            _AUTHOR_SLUGS = json.loads(p.read_text(encoding='utf-8'))
+        else:
+            _AUTHOR_SLUGS = {}
+    return _AUTHOR_SLUGS
+
+
+def _poster_html(poster_escaped: str, raw_poster: str) -> str:
+    """Wrap poster name in a dim link to author page if they have one, else plain span."""
+    slug = _get_author_slugs().get(raw_poster, '')
+    if slug:
+        return (f'<a href="/forum/{slug}/" class="forum-author">'
+                f'{poster_escaped}</a>')
+    return poster_escaped
+
 
 def _load_topics_index():
     index_yaml = DATA / "forum" / "topics-index.yaml"
@@ -163,18 +184,29 @@ JINJA_ENV.globals['site_css_tag'] = SITE_CSS_TAG
 
 
 def star_rating_html(mark, size='1.4rem'):
-    """Return HTML for a CSS star rating. mark is 0-10 integer; displayed as 0-5 stars."""
+    """Return HTML for star rating. mark is 0-10 integer; displayed as 0-5 stars."""
     if not mark:
         return ''
     n = int(mark)
     rating = n / 2.0  # 0-10 → 0-5 stars
+    full = int(rating)
+    half = (n % 2) == 1
     text = f'{rating:g} из 5'
-    return (
-        f'<span class="star-rating" style="--rating:{rating}">'
-        f'<span class="visually-hidden">{text}</span>'
-        f'<span aria-hidden="true">★★★★★</span>'
-        f'</span> '
-    )
+
+    GOLD = '#C8952C'
+    HALF = '#d4ab6a'
+    GRAY = '#ccc'
+
+    parts = []
+    if full:
+        parts.append(f'<span style="color:{GOLD}">{"★" * full}</span>')
+    if half:
+        parts.append(f'<span style="color:{HALF}">★</span>')
+    empty = 5 - full - (1 if half else 0)
+    if empty > 0:
+        parts.append(f'<span style="color:{GRAY}">{"★" * empty}</span>')
+
+    return f'<span class="star-rating" title="{text}">{"".join(parts)}</span> '
 
 
 JINJA_ENV.globals['star_rating_html'] = star_rating_html
@@ -504,7 +536,7 @@ def _build_album_list_html(artist_slug, artist_id, albums_by_artist):
 def process_html(content, source_dir, source_root, artist_slug=None,
                  artist_name=None, artist_legacy_dir=None, artist_resources=None,
                  artist_albums_html=None, artist_atb_html=None,
-                 artist_resource_links_html=None):
+                 artist_resource_links_html=None, artist_calendar_html=None):
     content = strip_analytics(content)
     content = re.sub(r'charset\s*=\s*["\']?windows-1251["\']?', 'charset=utf-8',
                      content, flags=re.IGNORECASE)
@@ -533,6 +565,8 @@ def process_html(content, source_dir, source_root, artist_slug=None,
             nav_block += f'<p>{res_links}</p>\n'
         if artist_atb_html:
             nav_block += f'<p>{artist_atb_html}</p>\n'
+        if artist_calendar_html:
+            nav_block += f'<p>{artist_calendar_html}</p>\n'
         album_block = f'\n{nav_block}'
         if artist_albums_html:
             album_block += artist_albums_html
@@ -812,7 +846,9 @@ def render_post_html(post, topic_slug, full=True, depth=0):
     # Spam posts (and their subtrees) are fully suppressed — no output at all
     if pid in SPAM_IDS:
         return ''
-    poster = html_mod.escape(post.get('poster', '') or '')
+    raw_poster = post.get('poster', '') or ''
+    poster_escaped = html_mod.escape(raw_poster)
+    poster = _poster_html(poster_escaped, raw_poster)
     date_str = format_forum_date(post.get('date', ''))
     subject = html_mod.escape(post.get('subject', '') or '')
     text = post.get('text', '') or ''
@@ -878,7 +914,8 @@ def render_topic_html(topic_data, topic_meta, full=False, forum_page=1):
 
     if full:
         first = posts[0]
-        first_poster = html_mod.escape(first.get('poster', '') or '')
+        raw_first_poster = first.get('poster', '') or ''
+        first_poster = _poster_html(html_mod.escape(raw_first_poster), raw_first_poster)
         first_date = format_forum_date(first.get('date', ''))
         subject = html_mod.escape(posts[0].get('subject', '') or topic_meta.get('title', '') or '')
 
@@ -980,7 +1017,7 @@ def _load_artist_reviews():
     return by_artist
 
 
-def _generate_stub_artist_page(artist, reviews_list, albums, artist_atb_html=None, artist_resource_links_html=None):
+def _generate_stub_artist_page(artist, reviews_list, albums, artist_atb_html=None, artist_resource_links_html=None, artist_calendar_html=None):
     def _fmt_mark(mark):
         n = int(mark)
         return '@' * (n // 2) + ('+' if n % 2 else '')
@@ -1021,6 +1058,7 @@ def _generate_stub_artist_page(artist, reviews_list, albums, artist_atb_html=Non
         artist_streaming_links=artist_streaming,
         artist_atb_links=artist_atb_html or '',
         artist_resource_links=artist_resource_links_html or '',
+        artist_calendar_links=artist_calendar_html or '',
         footer=FOOTER,
     )
 
@@ -1059,6 +1097,71 @@ def _atb_links_html(atb_episodes):
         date_str = f'<small style="color:#777">{html_mod.escape(date)}</small> ' if date else ''
         lines.append(f'{date_str}<a href="{url}">{label}</a>')
     return '<b>Весь этот блюз:</b><br>' + '<br>'.join(lines)
+
+
+def build_calendar_by_slug():
+    """Return {artist_slug: [event_dict, ...]} sorted by date, from calendar.yaml."""
+    if not CALENDAR_YAML.exists():
+        return {}
+    events = yaml.safe_load(CALENDAR_YAML.read_text(encoding='utf-8')) or []
+    index = {}
+    for ev in events:
+        slug = ev.get('artist_slug', '') or ''
+        if not slug:
+            continue
+        date_str = str(ev.get('date', '') or '')
+        index.setdefault(slug, []).append({
+            'date': date_str,
+            'year': ev.get('year', ''),
+            'month_day': ev.get('month_day', ''),
+            'event_type': ev.get('event_type', ''),
+            'title': ev.get('title', ''),
+            'text': ev.get('text', ''),
+        })
+    for slug in index:
+        index[slug].sort(key=lambda e: e.get('date', ''))
+    return index
+
+
+def calendar_events_html(events: list) -> str:
+    """Render a list of calendar events as an HTML block for artist pages."""
+    if not events:
+        return ''
+    EVENT_TYPE_RU = {
+        'born': 'Родился',
+        'died': 'Умер',
+        'founded': 'Основан',
+        'other': '',
+    }
+    lines = []
+    for ev in events:
+        date = ev.get('date', '')
+        year = date[:4] if date and len(date) >= 4 else str(ev.get('year', ''))
+        md = ev.get('month_day', '')
+        if md and len(md) == 5:
+            day_month = f'{md[3:5]}.{md[:2]}.'
+        else:
+            day_month = ''
+        date_label = f'{day_month}{year}' if day_month else year
+        etype = ev.get('event_type', '')
+        etype_ru = EVENT_TYPE_RU.get(etype, '')
+        text = ev.get('text', '') or ''
+        if date_label:
+            cal_url = f'/calendar/{year}/' if year else '/calendar/'
+            date_link = f'<a href="{cal_url}">{html_mod.escape(date_label)}</a>'
+        else:
+            date_link = ''
+        label = f'<small style="color:#777">{date_link}</small>' if date_link else ''
+        if etype_ru:
+            label += f' <small style="color:#777">{html_mod.escape(etype_ru)}</small>'
+        if text:
+            # text may contain embedded HTML from the original calendar data
+            snippet = text[:150]
+            # Strip any partial HTML tags at the truncation boundary
+            snippet = re.sub(r'<[^>]*$', '', snippet)
+            label += f': {snippet}{"…" if len(text) > 150 else ""}'
+        lines.append(label)
+    return ('<b>Календарь:</b><br>' + '<br>'.join(lines))
 
 
 def _build_galleries_by_slug():
@@ -1207,7 +1310,7 @@ def _normalize_filename(name):
     return name
 
 
-def _process_artist_dir(artist, src_dir, src_root, artist_resources=None, artist_albums_html=None, artist_atb_html=None, artist_resource_links_html=None):
+def _process_artist_dir(artist, src_dir, src_root, artist_resources=None, artist_albums_html=None, artist_atb_html=None, artist_resource_links_html=None, artist_calendar_html=None):
     slug = artist.get('slug', '')
     legacy_dir = src_dir.name
     url_dir = slug if slug else legacy_dir
@@ -1249,6 +1352,7 @@ def _process_artist_dir(artist, src_dir, src_root, artist_resources=None, artist
                     artist_albums_html=artist_albums_html if is_main else None,
                     artist_atb_html=artist_atb_html if is_main else None,
                     artist_resource_links_html=artist_resource_links_html if is_main else None,
+                    artist_calendar_html=artist_calendar_html if is_main else None,
                 )
                 dst_path.write_text(content, encoding='utf-8')
                 if is_main_rename and src_path.name.lower() not in ('default.htm', 'default.html', 'index.htm', 'index.html'):

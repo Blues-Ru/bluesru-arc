@@ -81,6 +81,7 @@ def generate_bluesmen():
     resources_by_artist = load_resources()
     atb_by_slug = _build_atb_by_slug()
     galleries_by_slug = _build_galleries_by_slug()
+    calendar_by_slug = build_calendar_by_slug()
 
     SRC_BLUESMEN = CONTENT / 'artist'
     print(f"  Source: {SRC_BLUESMEN}")
@@ -206,18 +207,22 @@ def generate_bluesmen():
         if has_dir:
             albums_html = _build_album_list_html(slug, artist_id, albums_by_artist_id) if slug else ''
             atb_html = _atb_links_html(atb_by_slug.get(slug, []))
+            cal_html = calendar_events_html(calendar_by_slug.get(slug, []))
             _process_artist_dir(a, src_dir, SRC_BLUESMEN,
                                 artist_resources=resources_by_artist.get(artist_id),
                                 artist_albums_html=albums_html,
                                 artist_atb_html=atb_html or None,
-                                artist_resource_links_html=resource_links)
+                                artist_resource_links_html=resource_links,
+                                artist_calendar_html=cal_html or None)
             bio_count += 1
         elif (has_reviews or has_galleries) and slug:
             atb_html = _atb_links_html(atb_by_slug.get(slug, []))
+            cal_html = calendar_events_html(calendar_by_slug.get(slug, []))
             reviews_list = artist_reviews.get(artist_id, [])
             _generate_stub_artist_page(a, reviews_list, albums,
                                        artist_atb_html=atb_html or None,
-                                       artist_resource_links_html=resource_links or None)
+                                       artist_resource_links_html=resource_links or None,
+                                       artist_calendar_html=cal_html or None)
             stub_count += 1
 
     # Fallback: process orphaned bio dirs

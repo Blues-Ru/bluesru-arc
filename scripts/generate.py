@@ -4,7 +4,7 @@ Thin dispatcher for bluesru-arc section generators.
 
 Usage: python3 scripts/generate.py --section SECTION [--shard-file FILE]
 
-Sections: content forum forum-index forum-topics reviews news updates bluesmen
+Sections: content forum-authors forum forum-index forum-topics reviews news updates bluesmen
           atb galleries photo homepage postprocess deploy
 
 Individual scripts can also be run directly:
@@ -19,6 +19,7 @@ sys.path.insert(0, str(Path(__file__).parent))
 
 from generate_shared import SITE, postprocess_dead_links, copy_root_files
 from generate_forum import generate_forum, generate_forum_index, generate_forum_topics_from_shard
+from generate_forum_authors import generate_forum_authors
 from generate_reviews import generate_reviews
 from generate_news import generate_news
 from generate_updates import generate_updates
@@ -30,6 +31,7 @@ from generate_homepage import generate_homepage
 
 SECTIONS = {
     'content':      generate_content,
+    'forum-authors': generate_forum_authors,
     'forum':        generate_forum,
     'forum-index':  generate_forum_index,
     'reviews':      generate_reviews,
