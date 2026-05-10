@@ -11,7 +11,6 @@
 body { max-width: 900px; margin: 0 auto; padding: 0 1em; }
 .cal-table { border-collapse: collapse; width: 100%; }
 .cal-table td { padding: 4px 6px; vertical-align: top; border-bottom: 1px solid #eee; }
-.cal-year { font-weight: bold; font-size: 1.15em; white-space: nowrap; width: 1%; }
 .cal-meta { white-space: nowrap; color: #555; font-size: 0.88em; width: 1%; }
 .cal-title { font-weight: bold; }
 .cal-ago { color: #888; font-size: 0.85em; }
@@ -29,10 +28,8 @@ body { max-width: 900px; margin: 0 auto; padding: 0 1em; }
 <table class="cal-table">
 {% for ev in events %}
 <tr>
-  <td class="cal-year"><a href="/calendar/{{ year }}/">{{ year }}</a></td>
   <td class="cal-meta">
     {{ ev.day_month }}
-    {% if ev.years_ago %}<span class="cal-ago">({{ ev.years_ago }}&nbsp;л.)</span>{% endif %}
     {% if ev.event_type == 'born' %}<span class="cal-etype"> род.</span>{% elif ev.event_type == 'died' %}<span class="cal-etype"> ум.</span>{% endif %}
   </td>
   <td>

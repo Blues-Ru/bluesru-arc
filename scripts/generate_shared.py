@@ -78,10 +78,16 @@ def _get_author_slugs() -> dict:
 
 
 def _poster_html(poster_escaped: str, raw_poster: str) -> str:
-    """Wrap poster name in a dim link to author page if they have one, else plain span."""
+    """Wrap poster name in a dim link: to author page if they have one,
+    else to /forum/authors/?q=Name search for discovery."""
+    import urllib.parse
     slug = _get_author_slugs().get(raw_poster, '')
     if slug:
         return (f'<a href="/forum/{slug}/" class="forum-author">'
+                f'{poster_escaped}</a>')
+    if raw_poster:
+        q = urllib.parse.quote(raw_poster, safe='')
+        return (f'<a href="/forum/authors/?q={q}" class="forum-author">'
                 f'{poster_escaped}</a>')
     return poster_escaped
 

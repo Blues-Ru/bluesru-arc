@@ -28,7 +28,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).parent))
 from generate_shared import JINJA_ENV, SITE, ARC, DATA, TOPICS_DIR, html_mod, SPAM_IDS
 
-MIN_POSTS = 3
+MIN_TOPICS = 3  # minimum started topics to get an author page
 
 # ── Transliteration ────────────────────────────────────────────────────────
 
@@ -266,7 +266,7 @@ def build_author_data():
             participants_set.update(ak_started_participants[ak].get(tid_s, set()))
         av_count = len(participants_set)
 
-        has_page = len(posts) >= MIN_POSTS
+        has_page = t_count >= MIN_TOPICS
 
         # Topic links for authors without page (their started topics)
         topic_links = []

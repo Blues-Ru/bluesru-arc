@@ -116,6 +116,17 @@ function filterAuthors(q) {
 }
 
 var INITIAL_HTML = document.getElementById('authors-body').innerHTML;
+
+// Pre-fill search from ?q= URL param
+(function() {
+  var params = new URLSearchParams(window.location.search);
+  var q = params.get('q');
+  if (q) {
+    var box = document.getElementById('search-box');
+    box.value = q;
+    filterAuthors(q);
+  }
+})();
 </script>
 
 <hr size="1">
