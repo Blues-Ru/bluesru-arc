@@ -7,7 +7,16 @@
 <link rel="shortcut icon" href="/images/bluesru.ico">
 <link rel="stylesheet" href="/css/site.css">
 <link rel="stylesheet" href="/css/responsive.css">
-<style>body { max-width: 900px; margin: 0 auto; padding: 0 1em; }</style>
+<style>
+body { max-width: 900px; margin: 0 auto; padding: 0 1em; }
+.cal-table { border-collapse: collapse; width: 100%; }
+.cal-table td { padding: 4px 6px; vertical-align: top; border-bottom: 1px solid #eee; }
+.cal-year { font-weight: bold; font-size: 1.15em; white-space: nowrap; width: 1%; }
+.cal-meta { white-space: nowrap; color: #555; font-size: 0.88em; width: 1%; }
+.cal-title { font-weight: bold; }
+.cal-ago { color: #888; font-size: 0.85em; }
+.cal-etype { color: #555; font-size: 0.85em; }
+</style>
 {{ ga_snippet | safe }}
 </head>
 <body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#5511cc" alink="#00bb00">
@@ -17,16 +26,25 @@
 <h3><a href="/">Blues.Ru</a> &gt; <a href="/calendar/">Календарь</a> &gt; {{ year }} год</h3>
 <p>{{ year_nav | safe }}</p>
 
+<table class="cal-table">
 {% for ev in events %}
-<p>
-{%- if ev.picture %}<img src="/calendar/images/{{ ev.picture }}" border="0" align="right" vspace="4" hspace="8" style="max-width:180px;max-height:120px;">{% endif %}
-<b>{{ ev.formatted_date }}</b> - {% if ev.title %}<b>{% if ev.artist_slug %}<a href="/artist/{{ ev.artist_slug }}/">{{ ev.title }}</a>{% else %}{{ ev.title }}{% endif %}</b> - {% endif %}{{ ev.text | safe }}
-{%- if ev.picture %}<br clear="both">{% endif %}
-</p>
-<hr size="1">
+<tr>
+  <td class="cal-year"><a href="/calendar/{{ year }}/">{{ year }}</a></td>
+  <td class="cal-meta">
+    {{ ev.day_month }}
+    {% if ev.years_ago %}<span class="cal-ago">({{ ev.years_ago }}&nbsp;л.)</span>{% endif %}
+    {% if ev.event_type == 'born' %}<span class="cal-etype"> род.</span>{% elif ev.event_type == 'died' %}<span class="cal-etype"> ум.</span>{% endif %}
+  </td>
+  <td>
+    {%- if ev.picture %}<img src="/calendar/images/{{ ev.picture }}" border="0" align="right" vspace="4" hspace="8" style="max-width:160px;max-height:110px;">{% endif %}
+    {% if ev.title %}<span class="cal-title">{% if ev.artist_slug %}<a href="/artist/{{ ev.artist_slug }}/">{{ ev.title }}</a>{% else %}{{ ev.title }}{% endif %}</span> — {% endif %}{{ ev.text | safe }}
+    {%- if ev.picture %}<br clear="both">{% endif %}
+  </td>
+</tr>
 {% endfor %}
+</table>
 
-<p align="right"><i>Проект Андрея Евдокимова</i></a>
+<p align="right"><i>Проект Андрея Евдокимова</i></p>
 
 <hr size="1">
 

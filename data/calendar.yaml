@@ -851,9 +851,9 @@
   title: Jerry Wexler
   picture: 0110JerryWEXLER.jpg
   text: 'в Манхэттене, Нью-Йорк, родился Джерри Векслер (Jerry WEXLER). Сын еврейского иммигранта из Польши, мойщика окон,
-    он стал ключевой фигурой в истории фирмы Atlantic, работая с Дюаном <a href="/bluesmen/Allman_Brothers/">Оллманом</a>,
-    <a href="/bluesmen/Dr_John/">Доктром Джоном</a>, <a href="/bluesmen/Wilson_Pickett/">Уилсоном Пикеттом</a>, Перси Следжем,
-    ЛаВерн Бейкер, Джо Тернером, <a href="/data/artistview.aspx?aid=226">Реем Чарлзом</a>, <a href="/bluesmen/Ruth_Brown/">Рут
+    он стал ключевой фигурой в истории фирмы Atlantic, работая с Дюаном <a href="/artist/allman-brothers/">Оллманом</a>,
+    <a href="/artist/dr-john/">Доктром Джоном</a>, <a href="/artist/wilson-pickett/">Уилсоном Пикеттом</a>, Перси Следжем,
+    ЛаВерн Бейкер, Джо Тернером, <a href="/artist/ray-charles/">Реем Чарлзом</a>, <a href="/artist/ruth-brown/">Рут
     Браун</a>, Уилли Нельсоном, Бобом Диланом, "Даэр Стрейтс" и пр. И все эти «пр.» были настоящими звездами. Говорят, что
     Векслер умел держать нос по ветру. Однако когда Атлантик увлекались «Лед Зеппелин», Векслер продолжал работать на «черную
     музыку»,
@@ -879,7 +879,7 @@
   title: Eddy the Chief Clearwater
   picture: 0110Chief.jpg
   text: в Маконе, Миссиссиппи, родился Эдди Харингтон. На сцену он выходил в индейском уборе, да еще и противопоставлял себя
-    самому Мадди Уотерсу, и по сим двум причинам стал он Большим Вождем Чистой Воды (<a href="/data/artistview.aspx?aid=167">Eddy
+    самому Мадди Уотерсу, и по сим двум причинам стал он Большим Вождем Чистой Воды (<a href="/artist/eddy-the-chief-clearwater/">Eddy
     the Chief CLEARWATER</a>). Долго делил свои интересы между кантри, рок-н-роллом и блюзом. Однако с 1980 записывал исключительно
     блюзовые альбомы, получившие хорошие рецензии. Выступал в Москве как участник <a href="/efes/about1999.asp">Эфесовского
     блюз-фестиваля в 1999 г.</a>. Edward Harrington (January 10, 1935[1] – June 1, 2018), better known by his stage name Eddy
@@ -894,7 +894,7 @@
   title: Rod Stewart
   picture: 0110RodSTEWART.jpg
   text: в Лондоне, Великобритания, родился Род Стюарт (Rod STEWART). Прежде чем начать заколачивать реальные бабосы, он прошел
-    в 60-х череду блюзовых групп; он пел все ту же “Good Morning Little Schoolgirl” в группе <a href="/data/artistview.aspx?aid=180">Длинного
+    в 60-х череду блюзовых групп; он пел все ту же “Good Morning Little Schoolgirl” в группе <a href="/artist/long-john-baldry/">Длинного
     Джона Болдри</a>, а потом в группе Джефа Бека - еще и репертуар «the New Yardbirds» (включая “You Shook Me”), который
     не поделили между собой Джимми Пейдж и Джефф Бек.
 - id: 1808
@@ -927,7 +927,7 @@
   event_type: died
   title: HOWLIN’ Wolf
   picture: 0110HowlinWolf.jpg
-  text: в Хайнесе, Иллинойс, в возрасте 65 лет ушел из жизни <a href="/bluesmen/Howlin_Wolf/">Хаулин Вулф</a> (HOWLIN’ WOLF),
+  text: в Хайнесе, Иллинойс, в возрасте 65 лет ушел из жизни <a href="/artist/howlin-wolf/">Хаулин Вулф</a> (HOWLIN’ WOLF),
     один из блюзовых титанов. В Чикагском парке и в его родном Уэст-Поинте (Миссиссиппи) установлены его статуи, его именем
     назван детский образовательный центр... Кто бывал на его выступлениях – рассказывает о них детям. Кто не слышал его записей
     – еще не нюхал настоящего блюза.
@@ -954,8 +954,8 @@
   picture: 0111SlimHarpo.jpg
   text: в Лобделле, Луизиана, родился Джеймс Мур. С гитарой в руках и губной гармоникой в холдере на шее он выходил к публике
     как <a href="/data/albumsearch.aspx?artistname=Slim+Harpo">Слим Харпо</a> (SLIM HARPO). И по сочетанию инструментов, и
-    по характеру музыки он отчасти напоминает <a href="/bluesmen/Jimmy_Reed/">Джимми Рида</a> (кстати, он и песни частенько
-    сочинял на пару с женой). Но в яркой индивидуальности ему не откажешь. Его песни исполняли и <a href="/bluesmen/Muddy_Waters/">Мадди
+    по характеру музыки он отчасти напоминает <a href="/artist/jimmy-reed/">Джимми Рида</a> (кстати, он и песни частенько
+    сочинял на пару с женой). Но в яркой индивидуальности ему не откажешь. Его песни исполняли и <a href="/artist/muddy-waters/">Мадди
     Уотерс</a>, и Роллинг Стоунз.
 - id: 1805
   date: '1936-01-11'
@@ -975,7 +975,7 @@
   title: James Brown
   picture: null
   text: на четвертое место в чартах Биллбоарда поднялась песня Джеймса Брауна "Житье в Америке" (James BROWN "Living in America").
-    На гитаре играл <a href="/bluesmen/Stevie_Ray_Vaughan/">Стиви Рей Воэн</a>.
+    На гитаре играл <a href="/artist/stevie-ray-vaughan/">Стиви Рей Воэн</a>.
 - id: 1817
   date: '1906-01-12'
   month_day: 01-12
@@ -983,7 +983,7 @@
   event_type: born
   title: Mississippi Fred McDowell
   picture: 0112McDOWELL.jpg
-  text: в Розвилле, Теннеси, родился <a href="/data/artistview.aspx?aid=159">Фред МакДауэлл</a>, по прозванию «Миссиссипский»
+  text: в Розвилле, Теннеси, родился <a href="/artist/mississippi-fred-mcdowell/">Фред МакДауэлл</a>, по прозванию «Миссиссипский»
     (Mississippi Fred McDOWELL). Считается одним из наиболее влиятельных слайдменов блюза. Бонни Рэйтт, Боб Дилан и «Роллинг
     Стоунз» исполняли его песни.
   artist_slug: mississippi-fred-mcdowell
@@ -1002,7 +1002,7 @@
   event_type: born
   title: Jay McShann
   picture: 0112McShannJ.jpg
-  text: в Маскоджи, Оклахома, родился <a href="/bluesmen/Jay_McShann/">Джей МакШэнн</a> (Jay McSHANN). Пианист и бэнд-лидер,
+  text: в Маскоджи, Оклахома, родился <a href="/artist/jay-mcshann/">Джей МакШэнн</a> (Jay McSHANN). Пианист и бэнд-лидер,
     выдающийся деятель джамп-блюза. Записывался на протяжении многих десятилетий – и всегда был горяч! В расцвет джамп-блюза
     в Канзас-сити, он был одним из явным лидеров.
 - id: 1210
@@ -1012,7 +1012,7 @@
   event_type: born
   title: Ruth Brown
   picture: 0130BrownR.jpg
-  text: в Портсмуте, Вирджиния, родилась <a href="/bluesmen/Ruth_Brown/">Рут Браун</a> (Ruth BROWN). Вообще-то, в семье портового
+  text: в Портсмуте, Вирджиния, родилась <a href="/artist/ruth-brown/">Рут Браун</a> (Ruth BROWN). Вообще-то, в семье портового
     рабочего, на досуге руководившего местным церковным хором, родилась Рут Вестон. Сбежала из дома в 17 лет с джазовым трубачем
     по фамилии Браун. И уже как Рут Браун выиграла любительский конкурс в знаменитом Театре Аполло и стала звездой его сцены
     на несколько лет. «Соблазнительный» голос Браун с игривыми попискиваниями сделал хитами ее записи 50-60-х. Позже голос
@@ -1026,7 +1026,7 @@
   event_type: born
   title: Long John Baldry
   picture: 0112LongJohnBALDRY.jpg
-  text: в Ист-Мэддоне, Великобритания родился <a href="/data/artistview.aspx?aid=180">Джон Болдри</a> по прозвищу «Длинный»
+  text: в Ист-Мэддоне, Великобритания родился <a href="/artist/long-john-baldry/">Джон Болдри</a> по прозвищу «Длинный»
     (Long John BALDRY). Вокалист и лидер блюз-бэндов, он был видным деятелен британского блюза, поучаствовал в записи самого
     первого английского блюзового альбома “R’N’B At Marquee”. Иногда записывал поп-баллады, иногда вполне успешно. Но возвращался
     в блюз неизменно. John William "Long John" Baldry (12 January 1941 – 21 July 2005) was an English-Canadian blues singer
@@ -1103,7 +1103,7 @@
   event_type: recorded
   title: Lowell Fulson
   picture: null
-  text: в Чикаго <a href="/bluesmen/Lowell_Fulson/">Лоуэлл Фулсон</a> (Lowell Fulson) записал для Chess песню «Обращайся со
+  text: в Чикаго <a href="/artist/lowell-fulson/">Лоуэлл Фулсон</a> (Lowell Fulson) записал для Chess песню «Обращайся со
     мной как следует» (Do Me Right).
   artist_slug: lowell-fulson
 - id: 2999
@@ -1285,7 +1285,7 @@
   event_type: born
   title: Earl Hooker
   picture: 0115HookerE.jpg
-  text: в Кларксдейле, Миссиссиппи, родился <a href="/data/artistview.aspx?aid=193">Ирл Хукер</a> (Earl HOOKER). В блюзовую
+  text: в Кларксдейле, Миссиссиппи, родился <a href="/artist/earl-hooker/">Ирл Хукер</a> (Earl HOOKER). В блюзовую
     дорогу он отправился, когда ему было 13 лет. Он играл с наиболее выдающимися блюзменами своего времени, и в историю блюза
     вошел как один из ведущих новаторов и мастеров слайдовой игры. Earl Zebedee Hooker (January 15, 1930 – April 21, 1970)
     was a Chicago blues guitarist known for his slide guitar playing. Considered a "musician's musician", he performed with
@@ -1310,8 +1310,8 @@
   picture: 0115CaptainBEEFHEART.jpg
   text: в Глендейле, Калифорния, родился Ван Влийт, всемирно известный как Капитан Бычье Сердце (<a href="/beefheart/" target="_blank">Captain
     BEEFHEART</a>). Сложный человек, он играл сложную музыку. Но блюз был одним из важных ее ингредиентов. Собственно, самой
-    первой его записью была блюзовая тема Diddy Wah Diddy, сочинения <A href="/data/artistview.aspx?aid=324">Бо Дидлли</a>
-    и <a href="/bluesmen/Willie_Dixon/">Вилли Диксона</a>, навеянная одноименным рэгом <a href="http://www.old-blues.ru/blb.htm"
+    первой его записью была блюзовая тема Diddy Wah Diddy, сочинения <A href="/artist/bo-diddley/">Бо Дидлли</a>
+    и <a href="/artist/willie-dixon/">Вилли Диксона</a>, навеянная одноименным рэгом <a href="http://www.old-blues.ru/blb.htm"
     target="_blank">Блайнд Блейка</a>.
 - id: 1843
   date: '1948-01-15'
@@ -1371,7 +1371,7 @@
   event_type: recorded
   title: Lightnon’ Hopkins
   picture: 0116LHopkins.jpg
-  text: в Хьюстоне, Техас, Сэм Чартерс (Sam CHARTERS) в квартире <a href="/bluesmen/Lightnin_Hopkins/">Лайтнинг Хопкинса</a>
+  text: в Хьюстоне, Техас, Сэм Чартерс (Sam CHARTERS) в квартире <a href="/artist/lightnin-hopkins/">Лайтнинг Хопкинса</a>
     (Lightnin’ HOPKINS) держал в руках микрофон, опуская его к гитаре во время инструментального соло и поднимая к губам певца
     во время пения. В конце 50-х Хопкинс практически прекратил выступления, отнес гитару в ломбард... И Чартерсу понадобилось
     долго убеждать его в серьезности намерений. Джин помог растопить лед. Согласившись, Хопкинс спел две песни и отложил гитару,
@@ -1419,7 +1419,7 @@
   event_type: born
   title: Paul Rishell
   picture: 0117RISHELL.jpg
-  text: в Бруклине, Нью-Джерси, родился <a href="/data/artistview.aspx?aid=207">Пол Ришелл</a> (Paul RISHELL). Гитарист, знаток
+  text: в Бруклине, Нью-Джерси, родился <a href="/artist/paul-rishell/">Пол Ришелл</a> (Paul RISHELL). Гитарист, знаток
     и пропагандист акустического блюза (часто в дуэте с харпершей Энни Рейнз), он не блистает в студийных альбомах, но список
     фестивальных его выступлений в компании самых сильных блюза сего – внушителен.
   artist_slug: paul-rishell
@@ -1472,7 +1472,7 @@
   title: Henry Gray
   picture: 0119GrayH.jpg
   text: в Кеннере, Луизиана, родился Генри Грей (Henry GRAY). Как сайдмен, он много работал в Чикаго в золотую пору местного
-    блюза, 12 лет прослужил в блюзбэнде <a href="http://blues.ru/bluesmen/Howlin_Wolf/">Хаулин Вулфа</a>. Он и в 90-х ездил
+    блюза, 12 лет прослужил в блюзбэнде <a href="http://blues.ru/artist/howlin-wolf/">Хаулин Вулфа</a>. Он и в 90-х ездил
     по Европе с гастролями, записывал трибьюты Волку. Но в архивах <a href="/label/Chess/">Chess</a> есть несколько записей,
     где он солирует – блестяще и страстно.
 - id: 1155
@@ -1482,8 +1482,8 @@
   event_type: born
   title: Willie “The Big Eyes” Smith
   picture: 0119Smith.gif
-  text: в Хелене, Арканзас, родился <a href="/data/artistview.aspx?aid=269">Вилли Смит</a>. Банальное имя скрашивал пугающим
-    прозвищем «Пучеглаз» (Willie “The Big Eyes” SMITH). 20 лет за ударной установкой блюзбэнда <a href="/bluesmen/Muddy_Waters/">Мадди
+  text: в Хелене, Арканзас, родился <a href="/artist/willie-big-eyes-smith/">Вилли Смит</a>. Банальное имя скрашивал пугающим
+    прозвищем «Пучеглаз» (Willie “The Big Eyes” SMITH). 20 лет за ударной установкой блюзбэнда <a href="/artist/muddy-waters/">Мадди
     Уотерса</a> были его университетом. Профессор блюза, он выступал в 90-х и сольно, и в компании других ветеранов, храня
     живой огонь в очаге чикагского блюза.
 - id: 1157
@@ -1531,7 +1531,7 @@
   event_type: died
   title: Lamar Williams
   picture: null
-  text: Ламар Уиллльямс (Lamar WILLIAMS) погиб в возрасте 36 лет, из которых 10 он прослужил бас-гитаристом в «<a href="http://blues.ru/bluesmen/Allman_Brothers/">Оллман
+  text: Ламар Уиллльямс (Lamar WILLIAMS) погиб в возрасте 36 лет, из которых 10 он прослужил бас-гитаристом в «<a href="http://blues.ru/artist/allman-brothers/">Оллман
     Бразерз</a>» (Allman Brothers). Смертельно опасно играть в рядах этой группы, однако.
 - id: 1172
   date: '1993-01-19'
@@ -1549,8 +1549,8 @@
   event_type: hit
   title: Willie Dixon
   picture: null
-  text: в Кливленде, Огайой, в Зал славы рок-н-ролла принят <a href="/bluesmen/Willie_Dixon/">Уилли Диксон</a> (Willie DIXON).
-    Его представлял <a href="/bluesmen/Chuck_Berry/">Чак Берри</a>.
+  text: в Кливленде, Огайой, в Зал славы рок-н-ролла принят <a href="/artist/willie-dixon/">Уилли Диксон</a> (Willie DIXON).
+    Его представлял <a href="/artist/chuck-berry/">Чак Берри</a>.
   artist_slug: willie-dixon
 - id: 1171
   date: '1998-01-19'
@@ -1585,7 +1585,7 @@
   event_type: died
   title: Wilson Pickett
   picture: 0119Pickett.jpg
-  text: в возрасте 64 лет от сердечного приступа скончался легендарный вокалист <a href="/bluesmen/Wilson_Pickett/">Уилсон
+  text: в возрасте 64 лет от сердечного приступа скончался легендарный вокалист <a href="/artist/wilson-pickett/">Уилсон
     Пикетт</a> (Wilson Pickett). Звезда 60-х годов, он считается одним из первопроходцев стиля "соул". Его великолепный голос
     и неисчерпаемая энергетика (как в записях, так и на концертах) принесли ему всемирную славу. Песни In the Midnight Hour
     и Mustang Sally стали блюзовыми стандартами именно благодаря его исполнению. Коммерческий успех покинул его к началу 80-х,
@@ -1610,7 +1610,7 @@
   picture: 0120Tucker.jpg
   text: в Мемфисе, Теннеси, родился <a href="/data/albumsearch.aspx?artistname=Luther+Tucker">Лютер Такер</a> (Luther TUCKER).
     Вырос в Чикаго, отец-плотник смастерил ему первую гитару. Он играл со всеми тузами блюзовой столице, в том числе на классических
-    записях <a href="/bluesmen/Little_Walter/">Литл Уолтера</a>. Замечательный гитарист, с хорошим вкусом… но скромник, что
+    записях <a href="/artist/little-walter/">Литл Уолтера</a>. Замечательный гитарист, с хорошим вкусом… но скромник, что
     помешало ему оставить самостоятельный след в истории блюза.
 - id: 1165
   date: '1943-01-20'
@@ -1629,7 +1629,7 @@
   event_type: born
   title: John Campbell
   picture: 0120Campbell.jpg
-  text: в Шривепорте, Техас, родился <a href="/bluesmen/John_Campbell/">Джон Кэмпбэлл</a> (John CAMPBELL). Певец и гитарист,
+  text: в Шривепорте, Техас, родился <a href="/artist/john-campbell/">Джон Кэмпбэлл</a> (John CAMPBELL). Певец и гитарист,
     любитель мистического блюза, с лицом, украшенным широким шрамом, с отсутствующим правым глазом, увешанный талисманами
     и прочей вуду-мишурой… - он был нечто большее, чем можно описать словами. Всего два его американских альбома имели cross-over
     успех, и в 90-х подсадили на блюз молодежь многих стран мира и заставили искать третий, который был записан первым. Это
@@ -1734,7 +1734,7 @@
   event_type: born
   title: Snooks Eaglin
   picture: 0121Eaglins.jpg
-  text: в Новом Орлеане, Луизиана, родился <a href="/data/artistview.aspx?aid=160">Снукс Иглин</a> (Snooks EAGLIN). Слепой
+  text: в Новом Орлеане, Луизиана, родился <a href="/artist/snooks-eaglin/">Снукс Иглин</a> (Snooks EAGLIN). Слепой
     с детства, он стал певцом и гитаристом. Говорят, на концертах он играл, как уличный музыкант-виртуоз. Но многие его альбомы
     отличает хорошо спродюсированный современный саунд – и все же в них великолепно чувствуется традиция "болотного" блюза.
   artist_slug: snooks-eaglin
@@ -1822,7 +1822,7 @@
   event_type: recorded
   title: Chuck Berry
   picture: null
-  text: 'в Чикаго, в студии Chess, <a href="/bluesmen/Chuck_Berry/">Чак Берри</a> (Chuck BERRY) записал песенку «Школьный
+  text: 'в Чикаго, в студии Chess, <a href="/artist/chuck-berry/">Чак Берри</a> (Chuck BERRY) записал песенку «Школьный
     день – Динь-динь, звонит звонок». Ради такой пустяковины подросткового рок-н-ролла студия засверкала блюзовыми звездами:
     Уилли Диксон, Хьюберт Самлин, Фред Белью и Джонни Джонсон.'
   artist_slug: chuck-berry
@@ -1853,9 +1853,9 @@
   title: event-1188
   picture: null
   text: на церемонии внесения новых имен в Зал славы рок-н-ролла среди новопринятых названы имена <a href="/label/Chess/">Леонарда
-    Чесса</a>, <a href="/data/artistview.aspx?aid=324">Бо Диддли</a>, Ареты Фрэнклин, <a href="/bluesmen/BB_King/">БиБиКинга</a>,
-    Лейбера и Столлера, <a href="/data/artistview.aspx?aid=170">Биг Джо Тернера</a>, <a href="/bluesmen/T-Bone_Walker/">Ти-Боун
-    Уокера</a>, <a href="/bluesmen/Muddy_Waters/">Мадди Уотерса</a>.
+    Чесса</a>, <a href="/artist/bo-diddley/">Бо Диддли</a>, Ареты Фрэнклин, <a href="/artist/bb-king/">БиБиКинга</a>,
+    Лейбера и Столлера, <a href="/data/artistview.aspx?aid=170">Биг Джо Тернера</a>, <a href="/artist/t-bone-walker/">Ти-Боун
+    Уокера</a>, <a href="/artist/muddy-waters/">Мадди Уотерса</a>.
 - id: 1186
   date: '1992-01-21'
   month_day: 01-21
@@ -1863,7 +1863,7 @@
   event_type: died
   title: Champion Jack Dupree
   picture: null
-  text: в Ганновере, Германия, в возрасте 81 года скончался великий блюзмен, певец и пианист <a href="/bluesmen/Champion_Jack_Dupree/">Чемпион
+  text: в Ганновере, Германия, в возрасте 81 года скончался великий блюзмен, певец и пианист <a href="/artist/champion-jack-dupree/">Чемпион
     Джек Дюпри</a> (Champion Jack DUPREE). В середине 50-х он одним из первых среди блюзменов переехал в Европу, где нашел
     уважение публики, личное и профессиональное счастье. 36 лет он не был на родине, но за полтора года до смерти побывал
     в Америке, чтобы дать концерты и принять участие в блюз-фестивалях.
@@ -1958,7 +1958,7 @@
   event_type: hit
   title: Stevie Ray Vaughan
   picture: null
-  text: тираж дебютного альбома <a href="/bluesmen/Stevie_Ray_Vaughan/">Стиви Рея Воэна</a> «Техасский потоп» (Stevie Ray
+  text: тираж дебютного альбома <a href="/artist/stevie-ray-vaughan/">Стиви Рея Воэна</a> «Техасский потоп» (Stevie Ray
     Vaughan "Texas Flood") достиг платинового статуса – через 9 лет после выпуска и спустя два года после гибели музыканта.
     В 1983 году исключительно авторитет Джона Хэммонда-старшего сподвиг CBS-Columbia на издание блюзового альбома. В то время
     ни одна крупная компания не заключала контрактов с блюзовыми музыкантами. С другой стороны, парадоксально, Брюс Иглауэр
@@ -2012,7 +2012,7 @@
     70-80-х, исполняя R’N’B в агрессивно-сексуальном имидже. Но в стилевом отношении они были всеядны - одну из своих трех
     Grammy они получили в категории Country. Появление сестер в возрожденной версии мюзикла Фэтса Уоллера (Fats Waller “Ain't
     Misbehavin'”) было не таким большим сюрпризом для тех, кто замечал участие сестер на блюзовых концертах и в записи блюзовых
-    альбомов... например, <a href="/bluesmen/Taj_Mahal/">Таджа Махала</a>.
+    альбомов... например, <a href="/artist/taj-mahal/">Таджа Махала</a>.
 - id: 3182
   date: '1967-01-23'
   month_day: 01-23
@@ -2141,7 +2141,7 @@
   picture: 0124Belushi.jpg
   text: 'в Чикаго, Иллинойс, родился Джон Белуши (John BELUSHI). Актер-комик, он сначала использовал свое увлечение блюзом
     как основу для музыкальных пародий. Но оказалось, еще более продуктивно он смог использовать свой комический талант для
-    пропаганды блюза. Чему доказательствам - его музыкальный и кино-проект «<a href="/bluesmen/Blues_Brothers/">Братья Блюз</a>».
+    пропаганды блюза. Чему доказательствам - его музыкальный и кино-проект «<a href="/artist/blues-brothers/">Братья Блюз</a>».
     John Adam Belushi was an American comedian, actor, singer, and one of the seven original cast members of the NBC sketch
     comedy show Saturday Night Live. Wikipedia
 
@@ -2174,8 +2174,8 @@
   event_type: born
   title: Johnny B.MOORE
   picture: 0124MooreJ.jpg
-  text: в Кларксдейле, Миссиссиппи, родился Джонни Би Мур (Johnny B.MOORE). Гитарист. <a href="/bluesmen/Jimmy_Reed/">Джимми
-    Рид</a> был его первым наставником на сцене. В середине 70-х он служил Королеве блюза <a href="/bluesmen/Koko_Taylor/">Коко
+  text: в Кларксдейле, Миссиссиппи, родился Джонни Би Мур (Johnny B.MOORE). Гитарист. <a href="/artist/jimmy-reed/">Джимми
+    Рид</a> был его первым наставником на сцене. В середине 70-х он служил Королеве блюза <a href="/artist/koko-taylor/">Коко
     Тейлор</a>. Тонкий стилист и страстный музыкант, он – великолепен как сайдмен и убедителен как лидер.
 - id: 1859
   date: '1954-01-24'
@@ -2234,7 +2234,7 @@
   picture: 0125JAMES.jpg
   text: 'в Лос-Анджелесе, Калифорния, родилась Джеймсэтта Хокинс.  Она начинала петь в церковном хоре, ей было 16 лет, когда
     ее обнаружил Джонни Отис. По какой-то причине он решил, что хватит Хокинсов на эстраде, а вот еще Джеймс – не помешает.
-    Так началась карьера <a href="/data/artistview.aspx?aid=177">Этты Джеймс</a> (Etta JAMES), за розовощекость прозванную
+    Так началась карьера <a href="/artist/etta-james/">Этты Джеймс</a> (Etta JAMES), за розовощекость прозванную
     «Персиками». Великолепный голос, трудный характер многолетняя битва с "излишествами" – подробности есть в ее автобиографии
     «Яростное выживание» (Rage To Survive). В стилях была неразборчива: она добилась Грэмми в джазе, блюзе и ритм-энд-блюзе.
     Но именно к блюзу вернулась в последнем десятилетии.'
@@ -2246,8 +2246,8 @@
   event_type: hit
   title: Little Walter
   picture: 0125WalterL.jpg
-  text: 'в Чикаго, Иллинойс, в студии <a href="/label/Chess/">Chess</a> <a href="/bluesmen/Little_Walter/">Маленький Уолтер</a>
-    (Little WALTER) записал песню <a href="/bluesmen/Willie_Dixon/">Уилли Диксона</a> «Моя крошка» (My Babe). Сам автор помогал
+  text: 'в Чикаго, Иллинойс, в студии <a href="/label/Chess/">Chess</a> <a href="/artist/little-walter/">Маленький Уолтер</a>
+    (Little WALTER) записал песню <a href="/artist/willie-dixon/">Уилли Диксона</a> «Моя крошка» (My Babe). Сам автор помогал
     ему в записи, вместе с <a href="/data/albumsearch.aspx?artistname=Robert+Lockwood+Jr.">Рорбертом-мл. Локвудом</a> и Фредом
     Белью. Для Литл Уолтера эта песня стала вторым его хитом #1 в ритмэндблюзовых чартах.'
   artist_slug: little-walter
@@ -2300,9 +2300,9 @@
   event_type: misc
   title: Peter Green
   picture: null
-  text: в Лондоне <a href="/bluesmen/Peter_Green/">Питера Грина</a> (Peter GREEN) направили на принудительное лечение в психиатрическую
+  text: в Лондоне <a href="/artist/peter-green/">Питера Грина</a> (Peter GREEN) направили на принудительное лечение в психиатрическую
     больницу. Его арестовали после того, как выстрелами из ружья он отогнал от своего дома посыльного, который пытался вручить
-    ему чек с гонорарами за продажу альбомов основанной им группы <a href="/bluesmen/Fleetwood_Mac/">Fleetwood Mac</a>.
+    ему чек с гонорарами за продажу альбомов основанной им группы <a href="/artist/fleetwood-mac/">Fleetwood Mac</a>.
   artist_slug: peter-green
 - id: 1880
   date: '1908-01-27'
@@ -2341,7 +2341,7 @@
   event_type: born
   title: Elmore James
   picture: 0127ElmoreJAMES.jpg
-  text: в Ричленде, Миссиссиппи, родился <a href="http://blues.ru/bluesmen/Elmore_James/">Элмор Джеймс</a> (Elmore JAMES).
+  text: в Ричленде, Миссиссиппи, родился <a href="http://blues.ru/artist/elmore-james/">Элмор Джеймс</a> (Elmore JAMES).
     Никто не оспаривает его славу лучшего слайд-гитариста в истории блюза. Кто-то был техничней его, но не было напористей.
     И именно он был новатором электро-слайда. Самостоятельно перепаивая усилители, он добивался поразительного звука, атакующего
     как пикирующий бомбардировщик, как штурмовик на бреющем полете.
@@ -2413,7 +2413,7 @@
   title: Johnnie Johnson
   picture: null
   text: 'вышел в свет третий альбом Джонни Джонсона «Джони, будь крут» (Johnnie JOHNSON ''Johnnie B. Bad''). Как пианист,
-    Джонсон принимал участие в сочинении и записи хитов <a href="/bluesmen/Chuck_Berry/">Чака Берри</a> конца 50-х. В записи
+    Джонсон принимал участие в сочинении и записи хитов <a href="/artist/chuck-berry/">Чака Берри</a> конца 50-х. В записи
     этого альбома ему помогали давние почитатели его таланта: Эрик Клэптон и Кит Ричардс (Eric Clapton, Keith Richards).'
 - id: 1887
   date: '2002-01-27'
@@ -2424,7 +2424,7 @@
   picture: null
   text: в Малибу, Калифорния, в своем доме скончался от рака легких Пит Барденс (Pete BARDENS), певец, пианист, руководитель
     ансамблей. Он был ключевой фигурой на старте британского блюз- и арт-рока. В его группе впервые вышел на профессиональную
-    сцену <a href="/bluesmen/Peter_Green/">Питер Грин</a>.
+    сцену <a href="/artist/peter-green/">Питер Грин</a>.
 - id: 3042
   date: '2014-01-27'
   month_day: 01-27
@@ -2523,7 +2523,7 @@
   event_type: born
   title: Eddie Taylor
   picture: 0129TaylorE.jpg
-  text: в Бенуа, Миссиссиппи, родился Эдди Тейлор (Eddie TAYLOR). С <a href="/bluesmen/Jimmy_Reed/">Джимми Ридом</a>, другом
+  text: в Бенуа, Миссиссиппи, родился Эдди Тейлор (Eddie TAYLOR). С <a href="/artist/jimmy-reed/">Джимми Ридом</a>, другом
     детства, он отправился в Чикаго. Его гитара звучит в записях большинства ридовских хитов.
 - id: 2912
   date: '1946-01-29'
@@ -2567,7 +2567,7 @@
   event_type: born
   title: Jonny Lang
   picture: 0129Lang.jpg
-  text: в Фарго, Северная Дакота, родился <a href="http://blues.ru/bluesmen/Johnny_Lang/">Джонни Лэнг</a> (Jonny LANG). По
+  text: в Фарго, Северная Дакота, родился <a href="http://blues.ru/artist/johnny-lang/">Джонни Лэнг</a> (Jonny LANG). По
     капризу природы, последнее десятилетие ХХ века выдавало подростков блюз-гитаристов на гора одного за другим. Наибольший
     коммерческий успех ждал самого юного и блондинистого. Первый альбом он записал в возрасте 14 лет, а в 15 у него уже был
     хитовый альбом на A&M. Голос у него звучал прокуренным и словно надраенным десятилетиями потребления кукурузного виски.
@@ -2590,7 +2590,7 @@
   event_type: died
   title: Willie Dixon
   picture: 0129Dixon.jpg
-  text: 'в Бурбанке, Калифорния, в возрасте 76 лет во сне покинул этот мир один из величайших блюзовых людей: <a href="http://blues.ru/bluesmen/Willie_Dixon/">Уилли
+  text: 'в Бурбанке, Калифорния, в возрасте 76 лет во сне покинул этот мир один из величайших блюзовых людей: <a href="http://blues.ru/artist/willie-dixon/">Уилли
     Диксон</a> (Willie DIXON).'
   artist_slug: willie-dixon
 - id: 3106
@@ -2650,9 +2650,9 @@
   event_type: recorded
   title: Sonny Boy Williamson
   picture: null
-  text: в Чикаго, в студии Chess, <a href="/bluesmen/Sonny_Boy_Williamson/">Санни Бой Уилльямсон II</a> записал в свою честь
-    песенку «Козел» (Sonny Boy Williamson II - "The Goat"). <a href="/bluesmen/Willie_Dixon/">Уилли Диксон</a>, <a href="/data/albumsearch.aspx?artistname=Robert+Lockwood+Jr.">Роберт-мл.
-    Локвуд</a>, Фред Белью, <a href="/data/albumsearch.aspx?artistname=Luther+Tucker">Лютер Такер</a> и <a href="/data/artistview.aspx?aid=278">Отис
+  text: в Чикаго, в студии Chess, <a href="/artist/sonny-boy-williamson/">Санни Бой Уилльямсон II</a> записал в свою честь
+    песенку «Козел» (Sonny Boy Williamson II - "The Goat"). <a href="/artist/willie-dixon/">Уилли Диксон</a>, <a href="/data/albumsearch.aspx?artistname=Robert+Lockwood+Jr.">Роберт-мл.
+    Локвуд</a>, Фред Белью, <a href="/data/albumsearch.aspx?artistname=Luther+Tucker">Лютер Такер</a> и <a href="/artist/otis-spann/">Отис
     Спэнн</a> были его соучастниками.
   artist_slug: sonny-boy-williamson
 - id: 1898
@@ -2688,7 +2688,7 @@
   event_type: died
   title: Lightnin’ Hopkins
   picture: null
-  text: в Хьюстоне, Техас, в возрасте 69 лет умер <a href="/bluesmen/Lightnin_Hopkins/">Лайтнинг Хопкинс</a> (Lightnin’ HOPKINS),
+  text: в Хьюстоне, Техас, в возрасте 69 лет умер <a href="/artist/lightnin-hopkins/">Лайтнинг Хопкинс</a> (Lightnin’ HOPKINS),
     один из величайших кантри-блюзменов, не менее успешно работавший и электричество и уэст-коаст. В его жизни музыкальная
     карьера занимает почти 6 десятилетий. Своей славой он пользовался, не стесняясь, требуя от продюсеров всю сумму гонорара
     еще до начала записи, и почти никогда не тратил на запись одной песни более одного тейка. И правильно делал.
@@ -2770,8 +2770,8 @@
   event_type: born
   title: Charlie Musselwhite
   picture: 0131MUSSELWHITE.jpg
-  text: в Кушиско, Миссиссиппи, родился <a href="/bluesmen/Charlie_Musselwhite/">Чарли Масселвайт</a> (Charlie MUSSELWHITE).
-    Выпустив дебютный альбом сразу после <a href="/bluesmen/Paul_Butterfield/">Пола Баттерфилда</a>, он надолго оказался в
+  text: в Кушиско, Миссиссиппи, родился <a href="/artist/charlie-musselwhite/">Чарли Масселвайт</a> (Charlie MUSSELWHITE).
+    Выпустив дебютный альбом сразу после <a href="/artist/paul-butterfield/">Пола Баттерфилда</a>, он надолго оказался в
     его тени. Алкоголизм тоже не способствовал творческому росту. Однако Масселвайт преодолел свои недуги и неспроведливость
     фортуны и начал выпускать альбомы один лучше другого. Отдав дань блюз-року, пережив увлечение джазом, Масселвайт заиграл
     блюз интимный и филосовский. Занимая почетное место в высшей исполнительской категории в современной губной гармонике,
@@ -2793,7 +2793,7 @@
   event_type: born
   title: Paul DeLAY
   picture: 0131PaulDeLAY.jpg
-  text: 'в Портлэнде, Аризона, родился <a href="/data/artistview.aspx?aid=295">Пол ДеЛэй</a> (Paul DeLAY). Мальчик из хорошей
+  text: 'в Портлэнде, Аризона, родился <a href="/artist/paul-delay/">Пол ДеЛэй</a> (Paul DeLAY). Мальчик из хорошей
     семьи, он увлекся блюзом, а потом: алкоголизм, зависимость от кокаина, трехлетний тюремный срок. Но покончив со всем этим,
     блюз в своей жизни оставил. Начал писать оригинальные песни и великолепно заиграл на хроматике, создавая свой стиль из
     смеси чикагских канонов с джазовыми и свинговыми элементами вест-коаст. Зайжеко-кейжун стилизовал радостно-празднично.
@@ -3185,7 +3185,7 @@
   event_type: misc
   title: Lazy Lester
   picture: 0203Lazy.jpg
-  text: 'в Москве состоялись выступления певца-харпера-гитариста-ветерана <a href="/bluesmen/Lazy_Lester/">Лейзи Лестера</a>
+  text: 'в Москве состоялись выступления певца-харпера-гитариста-ветерана <a href="/artist/lazy-lester/">Лейзи Лестера</a>
     (<a href="http://www.lazylester.net/" target="_blank">Lazy Lester</a>). Ему аккомпанироали Omar & the Kingsize, а так
     же <a href="/rblues/Dr_Agranovsky/">Алексей Аграновский</a>, <a href="http://ivaschenko.blues.ru/" target="_blank">Вадим
     Иващенко<a/> и выходил поджемовать Юрий Каверкин. Первые два концерта состоялись в "<a href="http://www.roadhouse.ru/
@@ -3234,7 +3234,7 @@
   title: Curtis Salgado
   picture: 0204SALGADO.jpg
   text: в Эверетте, Вашингтон, родился Куртис Салгадо (Curtis SALGADO). Начинал как вокалист группы Роберта Крея, два года
-    пел и играл на гармонике в <a href="/data/artistview.aspx?aid=110">Румфул оф блюз</a>. Ведет не слишком активную, но вполне
+    пел и играл на гармонике в <a href="/artist/roomful-of-blues/">Румфул оф блюз</a>. Ведет не слишком активную, но вполне
     достойную сольную карьеру.
 - id: 1242
   date: '1969-02-04'
@@ -3370,7 +3370,7 @@
   title: Gary Moore
   picture: 0207Moore.jpg
   text: в Испании, где он находился на отдыхе, в своем номере в отеле на Коста-дель-Соль был найден мертвым певец и гитарист
-    <a href="/bluesmen/Gary_Moore/">Гэри Мур</a> (Gary Moore). Он скончался во сне от сердечного приступа. Ему было 58 лет.
+    <a href="/artist/gary-moore/">Гэри Мур</a> (Gary Moore). Он скончался во сне от сердечного приступа. Ему было 58 лет.
     Горячие споры его почитателей и противников периода 90х годов уже давно позабыты. В нынешнем веке Мур выпускал крепкие,
     энергичные, но зачастую наполненные тяжелой печалью блюз-роковые альбомы.
   artist_slug: gary-moore
@@ -3702,7 +3702,7 @@
   event_type: misc
   title: Chris Duarte
   picture: null
-  text: в Московском Международном Доме Музыки состоялся концерт <a href="/bluesmen/Chris_Duarte/">Криса Дюарте</a> (Chris
+  text: в Московском Международном Доме Музыки состоялся концерт <a href="/artist/chris-duarte/">Криса Дюарте</a> (Chris
     DUARTE). После <a href="/bluesnews/08Winter/08_Duarte/content/index.html">концерта состоялся краткий акустический джем</a>
     в клубе B.B.King.
   artist_slug: chris-duarte
@@ -3830,7 +3830,7 @@
   event_type: recorded
   title: Screamin' Jay Hawkins
   picture: null
-  text: в Нью-Йорке для лейбла Okeh «Скриминг» Джей Хокинс записал свою песню «<a href="/bluesmen/Screamin_Jay_Hawkins/hawkins1.htm">Я
+  text: в Нью-Йорке для лейбла Okeh «Скриминг» Джей Хокинс записал свою песню «<a href="/artist/screamin-jay-hawkins/hawkins1.htm">Я
     налагаю на тебя свое заклятье</a>» (Screamin' Jay Hawkins recorded "I Put a Spell on You"). В истории рок-н-ролла эта
     песня стала этапной, а в творчестве самого Хокинса – направляющей.
   artist_slug: screamin-jay-hawkins
@@ -3870,7 +3870,7 @@
   title: Blind Boy Fuller
   picture: null
   text: в Дюреме, Северная Каролина, в возрасте 33 лет умер от язвы желудка Фултон Аллен, известный как Слепой парень Фуллер
-    (<a href="/bluesmen/Blind_Boy_Fuller/">Blind Boy FULLER</a>), один из популярнейших блюзменов своей эпохи и признанный
+    (<a href="/artist/blind-boy-fuller/">Blind Boy FULLER</a>), один из популярнейших блюзменов своей эпохи и признанный
     классик сегодня.
   artist_slug: blind-boy-fuller
 - id: 2483
@@ -4039,7 +4039,7 @@
   event_type: died
   title: Little Walter
   picture: null
-  text: в Чикаго возрасте 37 лет безвременно ушел из жизни революционер блюзовой губной гармоники <a href="/bluesmen/Little_Walter/"><b>ЛИТЛ
+  text: в Чикаго возрасте 37 лет безвременно ушел из жизни революционер блюзовой губной гармоники <a href="/artist/little-walter/"><b>ЛИТЛ
     УОЛТЕР</a> (LITTLE WALTER)</b>. Он погиб от увечий, полученных в пьяной уличной драке, но алкоголизм похоронил его прогресс
     еще раньше, в начале 60-х.
   artist_slug: little-walter
@@ -4183,7 +4183,7 @@
   event_type: died
   title: Brownie McGhee
   picture: null
-  text: В Калифорнии в возрасте 80 лет умер певец-гитарист <a href="/bluesmen/Brownie_McGhee/"><b>Брауни МакГи</a> (Brownie
+  text: В Калифорнии в возрасте 80 лет умер певец-гитарист <a href="/artist/brownie-mcghee/"><b>Брауни МакГи</a> (Brownie
     McGhee)</b>. С акустикой или в электрике, сольно и в дуэте с харпистом Сонни Терри - он представлял пьедмонтский стиль
     фолк-блюза.
   artist_slug: brownie-mcghee
@@ -4214,7 +4214,7 @@
   event_type: separator
   title: Little Richard
   picture: null
-  text: блюз-рокнролльщик <a href="/bluesmen/Little_Richard/"><b>ЛИТЛ РИЧАРД (LITTLE RICHARD)</b></a> послал демо-запись на
+  text: блюз-рокнролльщик <a href="/artist/little-richard/"><b>ЛИТЛ РИЧАРД (LITTLE RICHARD)</b></a> послал демо-запись на
     фирму Speciality.
   artist_slug: little-richard
 - id: 40
@@ -4224,7 +4224,7 @@
   event_type: recorded
   title: B.B.King
   picture: null
-  text: в Нью-Йорке <a href="/bluesmen/BB_King/"><b>БиБиКИНГ</a> (B.B.KING)</b> записал песню &quot;В стельку пьян&quot; (&quot;Sloppy
+  text: в Нью-Йорке <a href="/artist/bb-king/"><b>БиБиКИНГ</a> (B.B.KING)</b> записал песню &quot;В стельку пьян&quot; (&quot;Sloppy
     Drunk&quot;).
   artist_slug: bb-king
 - id: 41
@@ -4234,7 +4234,7 @@
   event_type: hit
   title: Blues Brothers
   picture: null
-  text: песня &quot;Soul Man&quot; в исполнении &quot;<a href="/bluesmen/Blues_Brothers/"><b>БРАТЬЕВ БЛЮЗ</a>&quot; (BLUES
+  text: песня &quot;Soul Man&quot; в исполнении &quot;<a href="/artist/blues-brothers/"><b>БРАТЬЕВ БЛЮЗ</a>&quot; (BLUES
     BROTHERS)</b> поднялась в биллбоардовский чарт TOP20, дойдя до 14 места.
   artist_slug: blues-brothers
 - id: 42
@@ -4407,7 +4407,7 @@
   event_type: recorded
   title: Sam Lightnin' Hopkins
   picture: null
-  text: в Хьюстоне, Техас, для Bluesville <a href="/bluesmen/Lightnin_Hopkins/">Лайтнинг Хопкинс</a> (Lightnin' Hopkins) записал
+  text: в Хьюстоне, Техас, для Bluesville <a href="/artist/lightnin-hopkins/">Лайтнинг Хопкинс</a> (Lightnin' Hopkins) записал
     «Счастливый блюз для Джона Гленна» (Happy Blues For John Glenn) – в тот самый день, когда первый американский астронавт
     за 4 часа 55 минут 22 секунды совершил три оборота вокруг Земли на корабле Mercury-6. В 1998 г. бизнесмен и бывший сенатор,
     М-р Гленн повторно слетал в космос, пробыв недельку на орбите.
@@ -4468,7 +4468,7 @@
   title: Danny Draher
   picture: null
   text: в Индианаполисе, Индиана, родился Дэнни Дрейхер (Danny DRAHER), гитарист, работавший с <a href="bluesmen/Paul_Butterfield/">Полом
-    Баттерфилдом</a>, <a href="/bluesmen/Lucky_Peterson/">Лаки Петерсоном</a> и другими.
+    Баттерфилдом</a>, <a href="/artist/lucky-peterson/">Лаки Петерсоном</a> и другими.
 - id: 1295
   date: '1958-02-21'
   month_day: 02-21
@@ -4477,7 +4477,7 @@
   title: event-1295
   picture: null
   text: в Каламазу, Мичиган, с фабрики Gibson отправляется в магазин первая гитара модели «Летающая Ви» (Flying V). Эта модель
-    будет любима <a href="/bluesmen/Albert_King/">Албертом Кингом</a> и <a href="/bluesmen/Albert_Collins/">Албертом Коллинзом</a>.
+    будет любима <a href="/artist/albert-king/">Албертом Кингом</a> и <a href="/artist/albert-collins/">Албертом Коллинзом</a>.
 - id: 1298
   date: '1961-02-21'
   month_day: 02-21
@@ -4494,7 +4494,7 @@
   event_type: born
   title: Corey Harris
   picture: 0221CHARRIS.jpg
-  text: в Денвере родился гитарист <b><a href="/bluesmen/Corey_Harris/">Корей ХЭРРИС</a> (Corey HARRIS)</b>. Акустический
+  text: в Денвере родился гитарист <b><a href="/artist/corey-harris/">Корей ХЭРРИС</a> (Corey HARRIS)</b>. Акустический
     анахронизм-виртуоз, он смешивает коренной Дельта-блюз с новоорлеанскими карнавальными &quot;чудачествами&quot;. Впрочем,
     он блестяще играет и традиционный электрический блюз. К тому же он - большой любитель музыкальных экспериментов.в 2006
     и 2008 году гастролировал по России.
@@ -4572,7 +4572,7 @@
   event_type: hit
   title: Willie Dixon
   picture: null
-  text: <a href="/bluesmen/Willie_Dixon/">Вилли Диксон</a> (Willie DIXON) получил Grammy за альбом «<a href="http://blues.ru/data/albumview.aspx?cdid=860">Скрытое
+  text: <a href="/artist/willie-dixon/">Вилли Диксон</a> (Willie DIXON) получил Grammy за альбом «<a href="http://blues.ru/data/albumview.aspx?cdid=860">Скрытое
     очарование</a>» (Hidden Charms).
   artist_slug: willie-dixon
 - id: 9
@@ -4602,7 +4602,7 @@
   event_type: born
   title: Johnny Winter
   picture: 0223Winter.jpg
-  text: 'родился старший из братьев-альбиносов Уинтеров: неистовый и хрупкий <a href="/bluesmen/Johnny_Winter/"><b>Джонни
+  text: 'родился старший из братьев-альбиносов Уинтеров: неистовый и хрупкий <a href="/artist/johnny-winter/"><b>Джонни
     УИНТЕР</a> (Johnny WINTER)</b> – гитарист, обративший техасский блюз в блюз-рок, пионера-экспериментатор рок-гитары, почитатель
     техасских традиций, надежа и опора отца чикагского электроблюза Мадди Уотерса в его последних годах. Прощаясь с этим миром,
     рыцарь-щитоносец (англ. "эсквайер") Джонни Уинтер оставил несколько дисков блюз-роковых интерпретаций главных песен жанра.
@@ -4711,7 +4711,7 @@
   event_type: hit
   title: Bb King
   picture: null
-  text: <a href="/bluesmen/BB_King/"><b>БиБиКИНГ</a> (BB KING)</b> был удостоен Грэмми за <i>выдающиеся достижения всей жизни</i>
+  text: <a href="/artist/bb-king/"><b>БиБиКИНГ</a> (BB KING)</b> был удостоен Грэмми за <i>выдающиеся достижения всей жизни</i>
     (<b>Lifetime Achievement Grammy</b>).
 - id: 1935
   date: '1987-02-24'
@@ -4729,7 +4729,7 @@
   event_type: died
   title: Memphis Slim
   picture: null
-  text: в добровольной парижской ссылке, в возрасте 72 лет умер выдающийся певец-пианист <b><a href="/data/artistview.aspx?aid=225">МЕМФИС
+  text: в добровольной парижской ссылке, в возрасте 72 лет умер выдающийся певец-пианист <b><a href="/artist/memphis-slim/">МЕМФИС
     СЛИМ</a> (MEMPHIS SLIM)</b>.
   artist_slug: memphis-slim
 - id: 1933
@@ -4816,7 +4816,7 @@
   title: Canned Heat
   picture: 0225HiteB.jpg
   text: в Калифорнии родился певец-мультиинструменталист <b>&quot;Медведь&quot; Боб Хайт (Bob &quot;The Bear&quot; HITE)</b></a>,
-    основатель и идеолог хиппового блюз-буги-бэнда <b>&quot;Консервированная жара&quot; (<a href="/bluesmen/Canned_Heat/">CANNED
+    основатель и идеолог хиппового блюз-буги-бэнда <b>&quot;Консервированная жара&quot; (<a href="/artist/canned-heat/">CANNED
     HEAT</a>)</b>.
   artist_slug: canned-heat
 - id: 21
@@ -4857,7 +4857,7 @@
   event_type: hit
   title: Chuck Berry
   picture: null
-  text: на 27-й церемонии вручения наград Грэмми Чак Берри (<a href="/bluesmen/Chuck_Berry/">Chuck BERRY</a>) получил награду
+  text: на 27-й церемонии вручения наград Грэмми Чак Берри (<a href="/artist/chuck-berry/">Chuck BERRY</a>) получил награду
     “За достижения всей жизни» с формулировкой «Одному из наиболее влиятельных и созидательных инноваторов в истории американской
     популярной музыки».
   artist_slug: chuck-berry
@@ -5061,7 +5061,7 @@
   event_type: misc
   title: Eric Clapton
   picture: null
-  text: <A href="/bluesmen/Eric_Clapton/">Эрик Клэптон</a> (Eric CLAPTON) отыграл свой сотый концерт в престижном лондонском
+  text: <A href="/artist/eric-clapton/">Эрик Клэптон</a> (Eric CLAPTON) отыграл свой сотый концерт в престижном лондонском
     зале Royal Albert Hall. Концерт был благотворительным, собранные средства пошли в детский фонд Children In Crisis.
   artist_slug: eric-clapton
 - id: 1948
@@ -5168,7 +5168,7 @@
   title: Muddy Waters
   picture: 0301Muddy.gif
   text: <a href="/ww/ww_chess.htm"><b>Chess</b></a> выпустил сингл с песней Престона Фостера (Preston FOSTER) &quot;<i>Действует
-    мой талисман</i>&quot; (I Got My Mojo Working) в исполнении <a href="/bluesmen/Muddy_Waters/"><b>Мадди Уотерса</b></a>
+    мой талисман</i>&quot; (I Got My Mojo Working) в исполнении <a href="/artist/muddy-waters/"><b>Мадди Уотерса</b></a>
     (MUDDY WATERS). В дальнейшем эта песня, чья мелодия основывается на старинной миссиссиппской бравой попевке, стала настолько
     прочно ассоциироваться с именем Мадди Уотерса, что ему приписывали и ее авторство (хотя он не был ни ее автором, ни первым
     исполнителем, записавшим ее).
@@ -5180,8 +5180,8 @@
   event_type: recorded
   title: Albert King
   picture: null
-  text: <a href="/bluesmen/Albert_King/"><b>Алберт КИНГ</b></a> (Albert KING) записал для <a href="/ww/ww_chess.htm"><b>Chess</b></a>
-    песню <a href="/bluesmen/Howlin_Wolf/"><b>Хаулин Вулфа</b></a> (HOWLIN' WOLF) &quot;Howlin' For My Darlin'&quot; и, не
+  text: <a href="/artist/albert-king/"><b>Алберт КИНГ</b></a> (Albert KING) записал для <a href="/ww/ww_chess.htm"><b>Chess</b></a>
+    песню <a href="/artist/howlin-wolf/"><b>Хаулин Вулфа</b></a> (HOWLIN' WOLF) &quot;Howlin' For My Darlin'&quot; и, не
     смущаясь, называл ее &quot;Calling On My Darling&quot; (в приблизительном переводе, вместо &quot;<i>Воя по любимой</i>&quot;
     - &quot;<i>Вызывая свою любимую</i>&quot;). С годами версия стала самостоятельной песней и входит в число вечнозеленых
     блюзовых стандартов наравне с оригиналом.
@@ -5360,7 +5360,7 @@
   title: Jeff Healey
   picture: 0302Healey.jpg
   text: в Торонто, Канада, на 42-м году жизни после долгой борьбы со смертельным заболеванием скончался певец-гитарист <a
-    href="/data/artistview.aspx?aid=259">Джефф Хиали</a> (Jeff Healey). Уже после его смерти вышел в свет альбом «<a href="/data/albumview.aspx?cdid=1208">Mess
+    href="/artist/jeff-healey/">Джефф Хиали</a> (Jeff Healey). Уже после его смерти вышел в свет альбом «<a href="/data/albumview.aspx?cdid=1208">Mess
     of Blues</a>», представляющий его последние концертные и студийные записи, поражающие желанием увлеченно играть и увлекать
     коллег и слушателей неукротимым потоком джаза и блюза. Позже появился еще целый ряд альбомов его прежде неиздававшихся
     записей.
@@ -5546,7 +5546,7 @@
   event_type: died
   title: John Belushi
   picture: null
-  text: в Лос-Анжелесе, в номере Chateau Marmont Hotel, от передозировки скончался актер <a href="http://www.blues.ru/bluesmen/Blues_Brothers/">Джон
+  text: в Лос-Анжелесе, в номере Chateau Marmont Hotel, от передозировки скончался актер <a href="http://www.blues.ru/artist/blues-brothers/">Джон
     Белуши (<b>John Belushi</b>)</a>, создавший немеркнущий образ Джейка Блюза, одного из Братьев Блюз (The Blues Brothers).
     Ему было всего 33 года.
 - id: 89
@@ -5590,7 +5590,7 @@
   event_type: born
   title: Walter Trout
   picture: 0306Trout.jpg
-  text: В Оушен-Сити, Нью-Джерси, родился Уолтер Траут (<a href="http://blues.ru/data/artistview.aspx?aid=359">Walter Trout</a>),
+  text: В Оушен-Сити, Нью-Джерси, родился Уолтер Траут (<a href="http://blues.ru/artist/walter-trout/">Walter Trout</a>),
     гитарист и певец, всей карьерой преданный блюзу. И блюз его среди прочих блюзов - тяжеловес. Walter Trout (born March
     6, 1951, Ocean City, New Jersey, United States) is an American blues guitarist, singer and songwriter.
   artist_slug: walter-trout
@@ -5722,7 +5722,7 @@
   title: Bob Brozman
   picture: 0308Brozman.jpg
   text: в Нью-Йорке родился совершенно особенный гитарист, педагог, музыковед, изучавший гавайскую, карибскую музыку, рэгтайм,
-    цыганский джаз, калипсо и конечно же блюз - искуснейший мастер слайдовой гитары - <a href="/data/artistview.aspx?aid=250">Боб
+    цыганский джаз, калипсо и конечно же блюз - искуснейший мастер слайдовой гитары - <a href="/artist/bob-brozman/">Боб
     Брозман</a> (Bob Brozman). В 2005 г. выступал в Москве, в клубе "Дом у Дороги" (<a href="/bluesnews/05Spring/Broz/roadh05.htm">фотографии
     >>></a>).
   artist_slug: bob-brozman
@@ -5932,8 +5932,8 @@
   title: Harvey Mandel
   picture: 0311MandelH.jpg
   text: в Детройте, Мичиган, родился Харвей Мандел (<a href="/data/albumsearch.aspx?artistname=Harvey+Mandel"><b>Harvey Mandel</b></a>).
-    25 альбомов в его сольной дискографии плюс альбомы с <a href="/bluesmen/Canned_Heat/"><b>Canned Heat</b></a>, <a href="/bluesmen/Charlie_Musselwhite/"><b>Charlie
-    Musselwhite </b></a>, <a href="/bluesmen/John_Mayall/"><b>John Mayall </b></a>, <a href="/bluesmen/James_Cotton/"><b>James
+    25 альбомов в его сольной дискографии плюс альбомы с <a href="/artist/canned-heat/"><b>Canned Heat</b></a>, <a href="/artist/charlie-musselwhite/"><b>Charlie
+    Musselwhite </b></a>, <a href="/artist/john-mayall/"><b>John Mayall </b></a>, <a href="/artist/james-cotton/"><b>James
     COTTON</b></a>, <b>The Ventures</b>, <b>Rolling Stones</b>....  Отличный послужной список! Его сольная дискография за
     40 лет с 1968 года насчитывает 20 альбомов. (В альбоме 1973 года зафиксирована его игра двумя руками по гитарному грифу
     «тейпингом».)
@@ -6735,7 +6735,7 @@
   event_type: born
   title: Jimmie Vaughan
   picture: 0320VAUGHAN.jpg
-  text: в Далласе, Техас, в семье рабочего цементного завода родился сын <a href="/bluesmen/Jimmie_Vaughan/">Джимми Воэн</a>
+  text: в Далласе, Техас, в семье рабочего цементного завода родился сын <a href="/artist/jimmie-vaughan/">Джимми Воэн</a>
     (Jimmie VAUGHAN). На всю Америку он прославился как гитарист хитовой группы «Сказочные буревестники» (Fabulous Thunderbirds).
     Но еще начиная с 70-х он был одним и лидеров молодой остинской блюзовой сцены. Его сольные альбомы отмечены глубоко личным
     и оригинальным чувством блюза. Jimmie Lawrence Vaughan (born March 20, 1951) is an American blues rock guitarist and singer
@@ -6825,7 +6825,7 @@
   event_type: born
   title: William Clarke
   picture: 0329CLARKE.jpg
-  text: 'в Инглвуде, Калифорния, родился Уилльям Кларк (<a href="/bluesmen/William_Clarke/">William CLARKE</a>). До 37 лет
+  text: 'в Инглвуде, Калифорния, родился Уилльям Кларк (<a href="/artist/william-clarke/">William CLARKE</a>). До 37 лет
     работал механиком, играя в клубах по вечерам и записывая альбомы на маленьких лейблах. Широкая публика узнала его только
     после альбома Blowin'' Like Hell 1990г. За оставшиеся ему еще 6 лет жизни он успел записать 4 альбома, полностью обновивших
     представление о возможностях губной гармоники и звучании современного блюза. Сочетание вест-коаст-попрыгушек и прессованой
@@ -7008,7 +7008,7 @@
   event_type: born
   title: Boogie Bill Webb
   picture: null
-  text: в Джексоне Миссиссиппи, родился певец, гитарист и харпер <a href="/bluesmen/Boogie_Bill_Webb/">Boogie Bill Webb</a>.
+  text: в Джексоне Миссиссиппи, родился певец, гитарист и харпер <a href="/artist/boogie-bill-webb/">Boogie Bill Webb</a>.
   artist_slug: boogie-bill-webb
 - id: 2041
   date: '1925-03-24'
@@ -7263,7 +7263,7 @@
   event_type: died
   title: W.C. Handy
   picture: 0328HANDY.jpg
-  text: в Нью-Йорке в возрасте 84 лет скончался Уилльям Кристофер Хэнди (<a href="/bluesmen/WC_Handy/">W.C. HANDY</a>). Автор
+  text: в Нью-Йорке в возрасте 84 лет скончался Уилльям Кристофер Хэнди (<a href="/artist/wc-handy/">W.C. HANDY</a>). Автор
     нескольких вечнозеленыхблюзовых стандартов и нескольких книг по истории блюза, он практически официально носил титул «Отца
     блюза», поскольку был первым профессиональным композитором, использовавшим в своих произведениях блюзовую структуру, блюзовые
     ноты и блюзовые идиомы. Именно на обложке его нот «Мемфисского блюза» слово «блюз» впервые появилось в печатном виде.
@@ -7275,7 +7275,7 @@
   event_type: died
   title: Arthur Crudup
   picture: null
-  text: в Нассауадоксе, Виржиния, в возрасте 68 лет скончался Артур Крадап (<a href="/bluesmen/Arthur_Crudup/">Arthur CRUDUP</a>),
+  text: в Нассауадоксе, Виржиния, в возрасте 68 лет скончался Артур Крадап (<a href="/artist/arthur-crudup/">Arthur CRUDUP</a>),
     блюзмен, певец-гитарист, автор многих замечательных блюзов, один из которых - That's Allright, Mama - стал ярчайшим звеном
     от блюза к рок-н-роллу.
 - id: 2072
@@ -7517,7 +7517,7 @@
   event_type: born
   title: Lowell Fulson
   picture: 0331fulson.jpg
-  text: в Тулсе, Оклахома, родился Лоуэлл Фулсон (<a href="/bluesmen/Lowell_Fulson/">Lowell FULSON</a>). Его полвека в музыке
+  text: в Тулсе, Оклахома, родился Лоуэлл Фулсон (<a href="/artist/lowell-fulson/">Lowell FULSON</a>). Его полвека в музыке
     замечательны стилевыми поисками от традиции до фанка. Его записывают и в техасцы, и в представители вэст-коаст-стиля,
     что отнюдь не уникально в истории блюза. «Передумай, крошка» (Reconsider Baby) его сочинения – один из популярнейших стандартов.
     Как и Three O'clock Bkues, прославивший БиБиКинг, как и Sinner's Prayer, которую записал Рэй Чарлз.
@@ -8199,7 +8199,7 @@
   event_type: born
   title: Lil’Ed Williams
   picture: 0408WilliamsLE.jpg
-  text: в Чикаго, Иллинойс родился Эдвард Уилльямс, так и не выросший большим – <a href="/bluesmen/LilEd_Williams/">Lil'Ed
+  text: в Чикаго, Иллинойс родился Эдвард Уилльямс, так и не выросший большим – <a href="/artist/lil-ed-williams/">Lil'Ed
     WILLIAMS</a>. Племянник Джей-Би Хьютто, он в XXI век несет обновленный, но истинно чикагский пламенныый электро-слайд.
     Знаменит тем, что за два часа, выделенных ему в студии Alligator записал 12 песен, которые и составили его дебютный альбом.
     В 2002г. Lil'Ed & The Blues Imperials, будучи участниками XIII фестиваля Efes Pilsener Blues Festival, выступали в Москве,
@@ -8319,12 +8319,12 @@
   event_type: born
   title: Shemekia Copeland
   picture: null
-  text: в нью-йоркском Гарлеме родилась <a href="/bluesmen/Shemekia_Copeland/">Шемека Копланд</a> (Charon Shemekia Copeland
-    (born April 10, 1979)). Дочь выдающегося техасского гитариста <a href="/bluesmen/Johnny_Clyde_Copeland/">Джонни Коплэнда</a>,
+  text: в нью-йоркском Гарлеме родилась <a href="/artist/shemekia-copeland/">Шемека Копланд</a> (Charon Shemekia Copeland
+    (born April 10, 1979)). Дочь выдающегося техасского гитариста <a href="/artist/johnny-clyde-copeland/">Джонни Коплэнда</a>,
     она с пеленок прониклась блюзом. Отец вывел ее на сцену, а лейбл <a href="/label/Alligator/">Alligator</a> выпустил ее
     дебютный альбом, когда ей было всего 19 лет – и это был громкий дебют во всех отношениях, поскольку голос у Шемеки мощный,
     а музыку она предпочитает решительную. Позже в студии начались стилистический шатания в студии, но на сцене она верна
-    «шаутерской» манере, продолжающей достижения <a href="/bluesmen/Koko_Taylor/">Коко Тейлор</a>. Charon Shemekia Copeland
+    «шаутерской» манере, продолжающей достижения <a href="/artist/koko-taylor/">Коко Тейлор</a>. Charon Shemekia Copeland
     (born April 10, 1979) is an American electric blues vocalist. To date, she has released nine albums and been presented
     with seven Blues Music Awards.
   artist_slug: shemekia-copeland
@@ -8804,7 +8804,7 @@
   event_type: born
   title: Tommy Castro
   picture: null
-  text: в Сан-Хосе, Калифорния, родился <a href="/bluesmen/Tommy_Castro/">Томми Кастро</a> (Tommy Castro), певец и замечательный
+  text: в Сан-Хосе, Калифорния, родился <a href="/artist/tommy-castro/">Томми Кастро</a> (Tommy Castro), певец и замечательный
     блюзовый гитарист, лауреат многих премий и настоящий "blues flame kеeper" - "<a href="http://www.blues.ru/bluesnews/10Spring/castro/castroint.htm">хранитель
     блюзового огня</a>".
   artist_slug: tommy-castro
@@ -8997,7 +8997,7 @@
   event_type: misc
   title: Billy T Band
   picture: null
-  text: в московском клубе COTTON выступал <a href="/bluesmen/Billy_T_Band/">Billy T Band</a> (Норвегия/США). <a href="/bluesnews/10Spring/Billy_T_Band_at_Cotton_Club/index.htm">Фоторепортаж
+  text: в московском клубе COTTON выступал <a href="/artist/billy-t-band/">Billy T Band</a> (Норвегия/США). <a href="/bluesnews/10Spring/Billy_T_Band_at_Cotton_Club/index.htm">Фоторепортаж
     >>></a>
   artist_slug: billy-t-band
 - id: 1450
@@ -9276,7 +9276,7 @@
   event_type: born
   title: Gary Primich
   picture: 0420PrimichG.jpg
-  text: в Чикаго, Иллинойс родился <a href="/bluesmen/Gary_Primich/">Гэри Примич</a> (Gary PRIMICH). Дипломированный инженер-электрик,
+  text: в Чикаго, Иллинойс родился <a href="/artist/gary-primich/">Гэри Примич</a> (Gary PRIMICH). Дипломированный инженер-электрик,
     он связал свою музыкальную судьбу с техасским блюзом. Стал одним из лидеров современности в игре на губной гармонике,
     автор замечательных блюзов. В 2004 г. «Другая музыка» и «Blues.Ru» привозили Примича в Москву. Gary Primich (April 20,
     1958 – September 23, 2007) was an American blues harmonica player, singer, guitarist and songwriter.
@@ -9416,7 +9416,7 @@
   event_type: misc
   title: Vidar Busk
   picture: null
-  text: в Москве и Владимире прошли гастроли <a href="/bluesmen/Vidar_Busk/">Видара Бюска (Vidar Busk)</a> и <a href="/bluesmen/Eirik_Bergene/">Эйрика
+  text: в Москве и Владимире прошли гастроли <a href="/artist/vidar-busk/">Видара Бюска (Vidar Busk)</a> и <a href="/artist/eirik-bergene/">Эйрика
     Бергене (Eirik Bergene)</a>.
 - id: 1483
   date: '1922-04-22'
@@ -9599,7 +9599,7 @@
   event_type: born
   title: Honey Piazza
   picture: 0424Piazza.gif
-  text: родилась Александра Ханей, в замужестве Пьяцца (Honey Piazza). <a href="/data/artistview.aspx?aid=126">Род Пьяцца</a>
+  text: родилась Александра Ханей, в замужестве Пьяцца (Honey Piazza). <a href="/artist/rod-piazza/">Род Пьяцца</a>
     – замечательный музыкант. Но и супруга его – отлично бугивужит на фортепиано. А еще она ведет в интернете дневник группы
     "Могучих летунов" (Rod Piazza & the Mighty Flyers).
 - id: 1494
@@ -9657,7 +9657,7 @@
   event_type: born
   title: Albert King
   picture: 0425KingA.jpg
-  text: в Индианаполе, Миссиссиппи, родился Алберт Нельсон, выступавший под фамилией <a href="/bluesmen/Albert_King/">Кинг
+  text: в Индианаполе, Миссиссиппи, родился Алберт Нельсон, выступавший под фамилией <a href="/artist/albert-king/">Кинг
     (Albert KING)</a>. Успех пришел к нему довольно поздно, но все-таки он стал одним из признанных «Королей блюза». Его лаконичная
     гитарная игра чрезвычайно выразительна, а леворукий перевернутый стиль с ультрахарактерным бэндом – узнаваем практически
     с одной ноты. Его записи 60-х годов для фирмы Stax являются одной из главных драгоценностей в истории блюза (альбомы Born
@@ -9870,7 +9870,7 @@
   title: Phil Guy
   picture: 0428PhilGuy.jpg
   text: в Леттсворте, Луизиана, родился Фил Гай (Phil Guy). По-своему замечательный гитарист, он остался в тени своего <a
-    href="/bluesmen/Buddy_Guy/">прославленного брата</a>. В 2007 году <a href="http://www.blues.ru/bluesnews/07Leto/guyphil/content/index.html">выступал
+    href="/artist/buddy-guy/">прославленного брата</a>. В 2007 году <a href="http://www.blues.ru/bluesnews/07Leto/guyphil/content/index.html">выступал
     в Москве, в "Доме у Дороги"</a>, вместе с Омаром и группой "King Size".
   artist_slug: phil-guy
 - id: 1539
@@ -10399,7 +10399,7 @@
   event_type: misc
   title: Bob Brozman
   picture: null
-  text: в Москве, в клубе "Дом у Дороги" выступал виртуоз и полистилист, блюзмен мира <a href="http://www.blues.ru/data/artistview.aspx?aid=250">Боб
+  text: в Москве, в клубе "Дом у Дороги" выступал виртуоз и полистилист, блюзмен мира <a href="http://www.blues.ru/artist/bob-brozman/">Боб
     Брозман</a> (Bob Brozman). Гастроли были организованы по инициативе Blues.Ru. <a href="/bluesnews/05Spring/Broz/roadh05.htm">Фотографии
     на память >>></a>.
   artist_slug: bob-brozman
@@ -10602,7 +10602,7 @@
   title: Cephas & Wiggins
   picture: 0508Wiggins.jpg
   text: "в Вашингтоне, округ Колумбия, родился Фил Виггинс (Phil WIGGINS). Харпер, традиционалист до мозга кости, он работает\
-    \ с гитаристом Джоном Цефасом в гармоничном дуэте <a href=\"/data/artistview.aspx?aid=220\">CEPHAS & WIGGINS</a>, хранящем\
+    \ с гитаристом Джоном Цефасом в гармоничном дуэте <a href=\"/artist/cephas-wiggins/\">CEPHAS & WIGGINS</a>, хранящем\
     \ верность изящному пьедмонтскому стилю. (Фото \n&copy; <a href=\"http://blues.ru/\">Blues.Ru</a>).: Москва, 2013)"
   artist_slug: cephas-wiggins
 - id: 2108
@@ -10621,11 +10621,11 @@
   event_type: born
   title: Joe Bonamassa
   picture: 0508JoeBonamassa-s.jpg
-  text: "в Ютике (Нью-Йорк) родился <a href=\"/data/artistview.aspx?aid=316\">Джо Бонамасса</a> (<a href=\"http://www.jbonamassa.com/\"\
-    \ target=\"_blank\">Joe Bonamassa</a>). Семейное предание гласит, что он стал почитателем <a href=\"/bluesmen/Stevie_Ray_Vaughan/\"\
+  text: "в Ютике (Нью-Йорк) родился <a href=\"/artist/joe-bonamassa/\">Джо Бонамасса</a> (<a href=\"http://www.jbonamassa.com/\"\
+    \ target=\"_blank\">Joe Bonamassa</a>). Семейное предание гласит, что он стал почитателем <a href=\"/artist/stevie-ray-vaughan/\"\
     >Стиви Рея Воэна</a> в возрасте 4 лет (не трудно посчитать – за два года до выхода первого альбома Стиви – что круто само\
     \ по себе), а в 4 с половиной начал играть на гитаре и изучать блюз. В возрасте 8 лет он уже выступал перед публикой на\
-    \ «разогреве» перед концертом <a href=\"/bluesmen/BB_King/\">БиБиКинга</a>. Дебютный сольный альбом выпустил в 2000 г.\
+    \ «разогреве» перед концертом <a href=\"/artist/bb-king/\">БиБиКинга</a>. Дебютный сольный альбом выпустил в 2000 г.\
     \  Гитарный герой, он дрейфует от сентиментальных баллад к прогрессив-року, регулярно навещая блюз. (В феврале 2010 г.\
     \ он в третий раз <a href=\"/bluesnews/10Spring/10Bonamassa/\">выступал в ММДМ</a>).\n(На фото он после ужина в московском\
     \ клубе <a href=\"http://www.bbkingclub.ru/\" target=\"_blank\">B.B.King</a>. Фото \n&copy; <a href=\"http://blues.ru/\"\
@@ -10638,7 +10638,7 @@
   event_type: born
   title: A.C.REED
   picture: 0509Reed.gif
-  text: в Ваделле, Миссури, родился <a href="/data/artistview.aspx?aid=212">Эй-Си Рид</a> (A.C.REED). Блюз и саксофон были
+  text: в Ваделле, Миссури, родился <a href="/artist/a-c-reed/">Эй-Си Рид</a> (A.C.REED). Блюз и саксофон были
     части его души. Его «брейки» украшают лучшие записи примерно дюжины великих блюзменов. Как лидер, выпускал замечательные
     синглы еще в 60-х, а альбомы – в 80-х.
   artist_slug: a-c-reed
@@ -10699,7 +10699,7 @@
   event_type: born
   title: Bob Margolin
   picture: 0509MARGOLIN.jpg
-  text: "в Бруклине, Массачусетс, родился <a href=\"/bluesmen/Bob_Margolin/\">Боб Марголин (Bob MARGOLIN)<a/>. С 1973 по 1980\
+  text: "в Бруклине, Массачусетс, родился <a href=\"/artist/bob-margolin/\">Боб Марголин (Bob MARGOLIN)<a/>. С 1973 по 1980\
     \ играл в блюзбэнде Мадди Уотерса. Сольными работами утвердился как вполне самостоятельный артист, глубокий знаток традиции\
     \ и оригинальный гитарист. Ведет журналистскую блюзовую пропаганду, написал книгу.\nВ сентябре 2013 г. по 2019 четырежды\
     \ выступал в России с группой Jumping Cats. Здесь в Москве в клубе \"Дом у Дороги\": <a href=\"/bluesnews/_12A/12_09_20_Margolin/\"\
@@ -10906,7 +10906,7 @@
   title: Butch Trucks
   picture: 0511ButchTRUCKS.jpg
   text: в Джексонвилле, Флорида, родился Батч Тракс (Butch TRUCKS), барабанщик, участник оригинального состава the Allman
-    Brothers Band, в котором он играл более 45 лет. Его племянник Derek Trucks был гитаристом "<a href="/bluesmen/Allman_Brothers/">"Оллман
+    Brothers Band, в котором он играл более 45 лет. Его племянник Derek Trucks был гитаристом "<a href="/artist/allman-brothers/">"Оллман
     Бразерз</a>" с 1999 года по 2014-й, до финального роспуска группы.
 - id: 1595
   date: '1981-05-11'
@@ -10962,7 +10962,7 @@
   event_type: born
   title: Guy Davis
   picture: 0504DavisG.gif
-  text: 'в Нью-Йорке, Нью-Йорк, в актерской семье родился <a href="/data/artistview.aspx?aid=222">Гай Дэвис</a> (Guy DAVIS).
+  text: 'в Нью-Йорке, Нью-Йорк, в актерской семье родился <a href="/artist/guy-davis/">Гай Дэвис</a> (Guy DAVIS).
     Живя в большом городе, он с детства болел сельским блюзом. Первые его альбомы были ближе к модерн-блюзу, но позже он с
     головой ушел в акустику. Исполнял главную роль в «не-бродвейском» спектакле «Роберт Джонсон: обхитрить черта» (Robert
     Johnson: Trick the Devil), за что был удостоен премии им.В.К.Хэнди «За поддержку блюза» (W.C. Handy "Keeping the Blues
@@ -11274,7 +11274,7 @@
   picture: 0517TajMahal.jpg
   text: в Нью-Йорке родился Генри Сент-Клер Уилльямс. Отец – пианист, композитор, аранжировщик – родом с Ямайки. Мать – учительница
     родом из Северной Каролины – пела госпел в церковном хоре. Сам – дипломированный агроном. Но приснилось ему, что он –
-    индийский дворец Тадж Махал. И появился ансамбль <a href="/bluesmen/Taj_Mahal/">Taj Mahal</a> & the Elektras. В 1964 г.
+    индийский дворец Тадж Махал. И появился ансамбль <a href="/artist/taj-mahal/">Taj Mahal</a> & the Elektras. В 1964 г.
     он переселился в Лос-Анджелес, где вместе с гитаристом Раем Кудером собрал ансамбль the Rising Sons, пропагандировавший
     блюз и в традиционном акустическом и в новом электрическом звучании. Первый сольный альбом выпустил в 1968 г. Блюз, регги,
     этническая музыка мира стали объектом его интереса. И обрел репутацию музыковеда-теоретика и историка, а так же безупречного
@@ -11478,7 +11478,7 @@
   event_type: born
   title: Vidar Busk
   picture: 0519VidarBusk.jpg
-  text: 'в Норвегии родился <a href="/bluesmen/Vidar_Busk/">Vidar Busk<a/> (born 19 May 1970 in Langesund, Norway) is a Norwegian
+  text: 'в Норвегии родился <a href="/artist/vidar-busk/">Vidar Busk<a/> (born 19 May 1970 in Langesund, Norway) is a Norwegian
     guitarist, vocalist, composer and record producer within genres blues and soul.
 
     От себя могу добавить, что он - виртуоз-скорострел. Сам маленького роста, при этом море энергии и ураганная гитара. Я
@@ -12227,7 +12227,7 @@
   event_type: born
   title: Rick Holmstrom
   picture: 0530Holmstrem.gif
-  text: 'в Фэрбанксе, Аляска, в семье ди-джея родился <a href="/bluesmen/Rick_Holmstrom/">Рик Холмстром</a> (Rick HOLMSTROM).
+  text: 'в Фэрбанксе, Аляска, в семье ди-джея родился <a href="/artist/rick-holmstrom/">Рик Холмстром</a> (Rick HOLMSTROM).
     Старательный ученик, он прошел долгую практику у старых блюзовых мастеров, затем три года выступал с Уилльямом Кларком,
     затем вошел в состав группы Mighty Flyers Рода Пьяццы, где проявил себя блестящим энергичным виртуозом. С началом нового
     тысячелетия занялся сольной карьерой – в студии играет с перфекционным аккуратизмом, который не оставляет места для драйва.
@@ -13691,7 +13691,7 @@
   event_type: hit
   title: The Blues Brothers
   picture: 0620BluesBrothers.jpg
-  text: 'в широкий прокат вышел фильм о двух мальчиках, воспитанных в приюте, как братья с фамилией Блюз: <a href="/bluesmen/Blues_Brothers/">The
+  text: 'в широкий прокат вышел фильм о двух мальчиках, воспитанных в приюте, как братья с фамилией Блюз: <a href="/artist/blues-brothers/">The
     Blues Brothers</a>. Мальчики выросли, один пошел работать на фабрику по производству клея, другой сел в тюрягу. Остальное
     – история... История с участием Рея Чарлза, Джона Ли Хукера, остатков команды студии Stax, Ареты Фрэнклин, Кэба Кэллоуэя,
     Джеймса Брауна и других великих... На съемках было разбито рекордное количество автомобилей и в первые два месяца проката
@@ -13786,7 +13786,7 @@
   event_type: died
   title: John Lee Hooker
   picture: null
-  text: в Лот-Атласе, Калифорния, скончался патриарх блюза <a href="/bluesmen/John_Lee_Hooker/">Джон Ли Хукер</a> (John Lee
+  text: в Лот-Атласе, Калифорния, скончался патриарх блюза <a href="/artist/john-lee-hooker/">Джон Ли Хукер</a> (John Lee
     HOOKER).
   artist_slug: john-lee-hooker
 - id: 2265
@@ -14559,9 +14559,9 @@
   event_type: recorded
   title: Muddy Waters
   picture: null
-  text: 'на Роуд-Айленде, в Ньюпорте на знаменитом джазовом фестивале с блеском выступил блюз-бэнд <a href="/bluesmen/Muddy_Waters/">Мадди
-    Уотерса</a> (Muddy Waters). В его группе играли: <a href="http://blues.ru/bluesmen/James_Cotton/">Джеймс Коттон</a> (губная
-    гармоника), <a href="/data/artistview.aspx?aid=278">Отис Спэнн</a> (фортепиано), Пэт Хэир (гитара), Эндрю Стивенс (бас-гитара)
+  text: 'на Роуд-Айленде, в Ньюпорте на знаменитом джазовом фестивале с блеском выступил блюз-бэнд <a href="/artist/muddy-waters/">Мадди
+    Уотерса</a> (Muddy Waters). В его группе играли: <a href="http://blues.ru/artist/james-cotton/">Джеймс Коттон</a> (губная
+    гармоника), <a href="/artist/otis-spann/">Отис Спэнн</a> (фортепиано), Пэт Хэир (гитара), Эндрю Стивенс (бас-гитара)
     и Френсиз Клей (ударные). Запись была издана в том же году в альбоме "At Newport", который стал важной вехой в дискографии
     блюза. Пиком восторга публики стала "Got My Mojo Workin''", заставившая публику петь хором, а сам Мадди пустился в пляс
     с Коттоном!...<br>
@@ -14740,7 +14740,7 @@
   text: 'в Чикаго, Иллинойс, родился Джимми Ди Лейн (Jimmy D.LANE). Некоторое время выступал в отцовском блюз-бэнде как Джимми
     Роджерс, младший. Играет сильный гитарный блюз, в котором влияние его отца соединяется с влиянием Джими Хендрикса, музыка
     которого была для него побуждающей причиной стать профессионалом. На фото: Джимми Ди Лейн - участник московского блюз-фестиваля.
-    Другие фотографии и биография музыканта на странице <a href="/bluesmen/Jimmy_D_Lane/">http://www.blues.ru/bluesmen/Jimmy_D_Lane/</a>.'
+    Другие фотографии и биография музыканта на странице <a href="/artist/jimmy-d-lane/">http://www.blues.ru/artist/jimmy-d-lane/</a>.'
   artist_slug: jimmy-d-lane
 - id: 2568
   date: '1987-07-04'
@@ -14953,7 +14953,7 @@
   event_type: born
   title: Pinetop Perkins
   picture: 0707PINETOP.jpg
-  text: в Белзони, Миссиссиппи, родился Джозеф Уилльям Перкинс, прославившийся в блюзе под прозвищем Пайнтоп (<a href="/data/artistview.aspx?aid=53">PINETOP
+  text: в Белзони, Миссиссиппи, родился Джозеф Уилльям Перкинс, прославившийся в блюзе под прозвищем Пайнтоп (<a href="/artist/pinetop-perkins/">PINETOP
     PERKINS</a>) - чудесный, единственный и неповторимый. Начинал гитаристом, но где-то в середине 40-х в каком-то кабаке
     в Арканзасе лихая девушка поранила ножом кисть его левой руки. И стал он пианистом. В 1968 г. вступил в блюз-бэнд Мадди
     Уотерса на пост, оставленный Отисом Спэнном... И только в 1988 г., в возрасте 75 лет, выпустил сольный альбом (Первый
@@ -14972,10 +14972,10 @@
   text: в Ньюпорт-Ньюс, штат Вирджиния, Тини Граймс (Tiny Grimes). В начале карьеры играл за ударными и на фортепиано, а в
     1938 году перешел на четырех струнную “тенор” гитару. В 1940 играл и пел в группе Cats and a Fiddle, затем в трио Art
     Tatum, записывался с Charlie Parker, Coleman Hawkins, Billie Holiday, Jay McShann, Rahsaan Roland Kirk и др.  Играл ритм’н’блюз/свинг/ранний
-    бибоп. В его группе Tiny "Mac" Grimes and the Rocking Highlanders начинал музыкальную карьеру <a href="/bluesmen/Screamin_Jay_Hawkins/hawkins1.htm">Screaming
+    бибоп. В его группе Tiny "Mac" Grimes and the Rocking Highlanders начинал музыкальную карьеру <a href="/artist/screamin-jay-hawkins/hawkins1.htm">Screaming
     Jay Hawkins</a>. В соответствии с названием, все музыканты выступали в шотландских килтах. В конце 70-х для записи блюзового
-    альбома привлекал звезд джаза. На нашем сайте есть интервью <a href="/bluesmen/Junior_Watson/">Джуниора Ватсона</a> и
-    <a href="/bluesmen/Alex_Schultz/">Алекса Шультца</a>, в которых они высоко отзываются об игре Тина Граймса.
+    альбома привлекал звезд джаза. На нашем сайте есть интервью <a href="/artist/junior-watson/">Джуниора Ватсона</a> и
+    <a href="/artist/alex-schultz/">Алекса Шультца</a>, в которых они высоко отзываются об игре Тина Граймса.
 - id: 2581
   date: '1956-07-07'
   month_day: 07-07
@@ -15126,7 +15126,7 @@
   title: Willie Dixon
   picture: null
   text: 'в серии переиздания архивов Chess лейбл MCA выпустил двойной компакт ''Willie Dixon: The Chess Box'', посвященный
-    <a href="/bluesmen/Willie_Dixon/">Уилли Диксону</a>. Коробка была сделана под размер конверта долгоиграющей пластинки
+    <a href="/artist/willie-dixon/">Уилли Диксону</a>. Коробка была сделана под размер конверта долгоиграющей пластинки
     – крайне неудобно и абсолютно бесполезно.'
   artist_slug: willie-dixon
 - id: 2622
@@ -15177,7 +15177,7 @@
   title: Blind Boy Fuller
   picture: 0710Fuller.jpg
   text: (по другим источникам в 1904 году) в Вейдсборо, Северная Каролина, родился Фултон Аллен, известный в блюзе как <a
-    href="/bluesmen/Blind_Boy_Fuller/Blind_Boy_Fuller.htm">Слепой Мальчик Фуллер</a> (Blind Boy FULLER). Представитель пьедмонтского
+    href="/artist/blind-boy-fuller/Blind_Boy_Fuller.htm">Слепой Мальчик Фуллер</a> (Blind Boy FULLER). Представитель пьедмонтского
     стиля, он был признанным гитарным виртуозом. Не смотря на это он так и остался уличным музыкантом. Преследуемый блюзовыми
     несчастиями и собственным неумением жить спокойно, он умер в возрасте 33 лет от заражения крови. Однако за 5 лет работы
     в студии он успел записать 135 песен – они подтверждают его видное место в истории блюза.
@@ -15231,8 +15231,8 @@
   event_type: born
   title: Mavis Staples
   picture: 0710MavisSTAPLES.jpg
-  text: 'в Чикаго, Иллинойс, родилась <a href="/data/artistview.aspx?aid=201">Мэйвис Стэплз</a> (Mavis STAPLES). Судьба не
-    оставила ей выбора: <a href="/bluesmen/Pops_Staples/">Папаша Стаплз</a> всех своих детей выводил на сцену в составе Stapples
+  text: 'в Чикаго, Иллинойс, родилась <a href="/artist/mavis-staples/">Мэйвис Стэплз</a> (Mavis STAPLES). Судьба не
+    оставила ей выбора: <a href="/artist/pops-staples/">Папаша Стаплз</a> всех своих детей выводил на сцену в составе Stapples
     Singers. Позже ей пришлось научиться самостоятельности, годы и опыт пошли ей на пользу. На сегодня одна является одной
     из самых лучших певиц госпел и спиричуэлс. Mavis Staples is an American rhythm and blues and gospel singer, actress, and
     civil rights activist. She has recorded and performed with her family''s band The Staple Singers and also as a solo artist.
@@ -15312,7 +15312,7 @@
   title: Albert King
   picture: 0710AKingBUaBS.jpg
   text: 'в Мемфисе, Теннеси, фирма Stax под номером 723 в каталоге выпустила один из самых замечательных альбомов в истории
-    блюза: <a href="/bluesmen/Albert_King/">Алберт Кинг</a> «<a href="/data/albumview.aspx?cdid=287">Рожден под несчастливой
+    блюза: <a href="/artist/albert-king/">Алберт Кинг</a> «<a href="/data/albumview.aspx?cdid=287">Рожден под несчастливой
     звездой</a>» (Albert KING “Born Under the Bad Sigh”). Альбом состоит из нескольких песен, записанных 17 мая и 10 июня
     этого года, плюс песни, выходившие на синглах в предыдущий год. Безоговорочный шедевр, в котором неповторимая манера игры
     Кинга дополняется великолепным стаксовским ансамблем Букера Ти Джонса, альбом оказал огромное влияние на развитие блюза
@@ -15636,7 +15636,7 @@
   event_type: recorded
   title: B.B. King
   picture: null
-  text: для лейбла ABC <a href="/bluesmen/BB_King/">БиБиКинг</a> записал песню «Не открывай на звонки в дверь» (B.B. King
+  text: для лейбла ABC <a href="/artist/bb-king/">БиБиКинг</a> записал песню «Не открывай на звонки в дверь» (B.B. King
     - "Don't Answer The Door (parts 1 & 2)").
   artist_slug: bb-king
 - id: 2989
@@ -15856,7 +15856,7 @@
   picture: 0717GeorgeBARNES.jpg
   text: в Чикаго-Хейтс, Иллинойс, родился Джордж Барнс (George BARNES). Джазовый гитарист, он стал профессионалом уже в 13
     лет и был одним из первых приверженцев электрогиатры. Работал почти всегда в студии. Аккомпанировал многим блюзовым музыкантам,
-    в том числе таким патриархам, как <a href="/bluesmen/Big_Bill_Broonzy/">Биг Билл Брунзи </a> и <a href="/BlackCat/ws.htm">Вашбоард
+    в том числе таким патриархам, как <a href="/artist/big-bill-broonzy/">Биг Билл Брунзи </a> и <a href="/BlackCat/ws.htm">Вашбоард
     Сэм</a>.
 - id: 2639
   date: '1925-07-17'
@@ -15866,7 +15866,7 @@
   title: Peppermint Harris
   picture: 0717PEPPERMINTHARRIS.jpg
   text: 'в Тексаркане, Техас, родился Хэррисон Ди Нельсон. Кто и почему окрестил его «Мятным Хэррисом» (PEPPERMINT HARRIS),
-    теперь уже никто не упомнит. <a href="/bluesmen/Lightnin_Hopkins/">Лайтниг Хопкинс</a> лично занимался его гитарным образованием.
+    теперь уже никто не упомнит. <a href="/artist/lightnin-hopkins/">Лайтниг Хопкинс</a> лично занимался его гитарным образованием.
     Дебютную пластинку записал в 1948 г., а в 1951 вышла его песня «Я набрался» (I Got Loaded), и вслед за ее успехом Хэррис
     выдал еще череду «алкогольных» блюзов. А в 70-х ушел из музыки и никто в 1995 году не ждал его первого полновесного альбома
     – а он его сделал! Его последние альбомы рассказывают о музыке родного края: «Техас в моих мыслых» (Texas on My Mind)
@@ -15880,8 +15880,8 @@
   picture: 0717Love.gif
   text: в Бирменгеме, Алабама, родился Вилли Лав (Willie LOVE). Пианист, далекий от классической фортепианной школы, он играл
     весьма своеобразно. Его записи 50-х для небольшого, но важного в истории лейбла Trumpet, просто неотразимы с точки зрения
-    тех, кто любит неотполированный блюз (на некоторых ему аккомпанируют <a href="/bluesmen/Elmore_James/">Элмор Джеймс</a>
-    и юный <a href="/data/artistview.aspx?aid=166">Литл Милтон</a>. Кроме того, сам Лав аккомпанировал Санни Бою Уилльямосну
+    тех, кто любит неотполированный блюз (на некоторых ему аккомпанируют <a href="/artist/elmore-james/">Элмор Джеймс</a>
+    и юный <a href="/artist/little-milton/">Литл Милтон</a>. Кроме того, сам Лав аккомпанировал Санни Бою Уилльямосну
     II в его дочикагский период). Алкоголизм оборвал его карьеру, хотя, хотя будь по другому, вряд ли бы он вписался в новый
     электрический блюз 50-х.
 - id: 2642
@@ -15941,7 +15941,7 @@
   picture: null
   text: в Нью-Йорке состоялся «живой» концерт группы артистов, исполнявших роль музыкантов в телесериале, рассказывающем о
     жизни поп-группы (the Monkees). Не стоило бы и вспоминать о таком «событии», если бы на открытии концерт для «разогрева»
-    публики не выступил «начинающий» гитарист <a href="/bluesmen/Jimi_Hendrix/">Джими Хендрикс</a> (Jimi HENDRIX).
+    публики не выступил «начинающий» гитарист <a href="/artist/jimi-hendrix/">Джими Хендрикс</a> (Jimi HENDRIX).
   artist_slug: jimi-hendrix
 - id: 2644
   date: '1967-07-17'
@@ -15995,7 +15995,7 @@
   event_type: born
   title: Screamin Jay Hawkins
   picture: 0718Hawkins.jpg
-  text: в Кливленде, Огайо, родился <a href="/bluesmen/Screamin_Jay_Hawkins/hawkins1.htm">«Вопящий» Джей Хокинс</a> (Screamin
+  text: в Кливленде, Огайо, родился <a href="/artist/screamin-jay-hawkins/hawkins1.htm">«Вопящий» Джей Хокинс</a> (Screamin
     Jay HAWKINS). Известен своей манерой выходит на сцену из гроба, таскать человечейский череп с дымящейся сигаретой в зубах
     и бессмертной песней «На тебе мое заклятье». Задолго до Элиса Купера и Мерлин Мэнсона, он делал свой «рок ужасов». Меж
     тем у него был замечательный баритон, и в блюзах он знал толк.
@@ -16029,7 +16029,7 @@
   title: Lonnie Mack
   picture: 0718MACK.jpg
   text: 'в Авроре, Индианаполис, родился Лонни МакИнтош, которому для сцены хватило просто «Мак» (Lonnie MACK). В юные годы
-    он играл в группах аккомпанировавших: Хэнку Балларду, <a href="/bluesmen/Freddy_King/">Фредди Кингу</a> и Джеймсу Брауну
+    он играл в группах аккомпанировавших: Хэнку Балларду, <a href="/artist/freddie-king/">Фредди Кингу</a> и Джеймсу Брауну
     – что наглядно указывает на его стилевой диапазон. Во времена популярности гитарных инструменталов записал несколько хитов.
     Для Alligator записал несколько альбомов энергичного белого блюза.'
   artist_slug: lonnie-mack
@@ -16131,7 +16131,7 @@
   event_type: recorded
   title: Elvis Presley
   picture: null
-  text: мемфисский лейбл Sun выпустил дебютный сингл Элвиса Пресли с блюзом <a href="/bluesmen/Arthur_Crudup/">Артура Крадапа</a>
+  text: мемфисский лейбл Sun выпустил дебютный сингл Элвиса Пресли с блюзом <a href="/artist/arthur-crudup/">Артура Крадапа</a>
     «Все в порядке, дорогая» (Elvis Presley "That's All Right Mama" – Arthur CRUDUP). Песня была записана всего за две недели
     до этого. На гитаре играл бесподобный Скотти Мур. (По одной из блюзовых легенд, Крадапу гонорар не выплатили. Пресли узнал
     об этом, уже когда стал звездой, и выплатил авторские из своего кармана и по собственным расценкам),
@@ -16161,7 +16161,7 @@
   event_type: born
   title: Johnny Almond
   picture: 0720Almond.jpg
-  text: 'в Инфилде, Великобритания, родился Джонни Алмонд (Johnny ALMOND), саксофонист, сподвижник <a href="/bluesmen/John_Mayall/">Мэйолла</a>
+  text: 'в Инфилде, Великобритания, родился Джонни Алмонд (Johnny ALMOND), саксофонист, сподвижник <a href="/artist/john-mayall/">Мэйолла</a>
     на заре 70-х, соавтор такого этапного мэйолловского альбома, как Turning Point. Единственный его сольный альбом: “Music
     Machine Hollywood Blues”. Вместе с гитаристом Джоном Марком создал фолк-хипповый арт-дуэт “Mark-Almond” (sic!).'
 - id: 2354
@@ -16292,7 +16292,7 @@
   event_type: died
   title: Long John Baldry
   picture: null
-  text: в Ванкувере, Канада, после почти 4 месяцев болезни скончался от легочной инфекции <a href="/data/artistview.aspx?aid=180">Лонг
+  text: в Ванкувере, Канада, после почти 4 месяцев болезни скончался от легочной инфекции <a href="/artist/long-john-baldry/">Лонг
     Джон Болдри</a> (Long John Baldry). Его называют первым белым вокалистом в блюзе. Он действительно обладал прекрасным
     сильным голосом. И умел устраивать на концертах настоящий блюзовый праздник. В Лондоне в 60-х он шел в авангарде молодого
     британского блюза, был участником Cyril Davies' All Stars и после смерти Дэвиса возглавил эту группу. Изредка вполне успешно
@@ -16398,7 +16398,7 @@
   title: Champion Jack Dupree
   picture: 0723Dupree.jpg
   text: (по другим источникам 4 июля 1910) в Новом Орлеане, Луизиана, родился Уилльям Томас Дюпри, на боксерском ринге добывший
-    себе прозвище <a href="/bluesmen/Champion_Jack_Dupree/">«Чемпион Джек»</a> (Champion Jack DUPREE). Новоорлеанец до мозга
+    себе прозвище <a href="/artist/champion-jack-dupree/">«Чемпион Джек»</a> (Champion Jack DUPREE). Новоорлеанец до мозга
     кости, хоть и провел десятки лет в добровольной европейской ссылке, детдомовец, боксер-чемпион, ветеран II Мировой, узник
     японского концлагеря, певец, пианист и художник – мощная личность.
   artist_slug: champion-jack-dupree
@@ -16457,7 +16457,7 @@
   event_type: born
   title: Chuck Berry
   picture: null
-  text: На Checker, дочернем лейбле Chess, вышел первый сингл <a href="/bluesmen/Chuck_Berry/">Чака Берри</a> (Chuck BERRY)
+  text: На Checker, дочернем лейбле Chess, вышел первый сингл <a href="/artist/chuck-berry/">Чака Берри</a> (Chuck BERRY)
     с песней «Мейбеллин» (Maybeline).
   artist_slug: chuck-berry
 - id: 113
@@ -16529,7 +16529,7 @@
   title: Bob Dylan
   picture: null
   text: на легендарном Нью-портском Фолк фестивале блюзовые пуристы освистали выступление Боба Дилана (Bob Dylan) под аккомпанемент
-    электрифицированного <a href="/bluesmen/Paul_Butterfield/">Блюз-бэнда Пола Баттерфилда</a> (Paul Butterfield Blues Band).
+    электрифицированного <a href="/artist/paul-butterfield/">Блюз-бэнда Пола Баттерфилда</a> (Paul Butterfield Blues Band).
     Разошлись мнения Алберта Гроссмана (организатора фестиваля и менеджера Дилана) и Алана Ломакса (великого собирателя фолк-
     и блюзовой музыки). Пожилые господа мерились на кулачках прямо перед сценой во время выступления. В рок-историю событие
     вошло как “Dylan goes electric”.
@@ -16796,7 +16796,7 @@
   event_type: recorded
   title: Willie Dixon
   picture: null
-  text: В Чикаго <a href="/bluesmen/Willie_Dixon/">Уилли Диксон</a> (Willie Dixon) записал песню о «29 путях к моей крошке»
+  text: В Чикаго <a href="/artist/willie-dixon/">Уилли Диксон</a> (Willie Dixon) записал песню о «29 путях к моей крошке»
     (29 Ways). Поскольку название песни можно перевести и как «29 способов», она и до сих пор забавляет любителей двусмысленностей.
   artist_slug: willie-dixon
 - id: 122
@@ -16854,7 +16854,7 @@
   event_type: born
   title: Michael Bloomfield
   picture: 0728BloomfieldM.jpg
-  text: в Чикаго родился <a href="/bluesmen/Mike_Bloomfield/">Майкл Блумфелд</a> (Michael BLOOMFIELD). Вырос он в ленивого
+  text: в Чикаго родился <a href="/artist/mike-bloomfield/">Майкл Блумфелд</a> (Michael BLOOMFIELD). Вырос он в ленивого
     студента и необщительного юношу. А потом уж стал великим первопроходцем (белого) электро-слайда, соратником Пола Баттерфилда
     и Боба Дилана в строительстве основ рок-блюза и блюз-рока. Его записи 60-х остаются неоспоримыми шедеврами, а в 70-х он
     получил Грэмми за инструментальную пьесу, бывшую журнальным приложением к урокам игры на электрогитаре. Терзаемый страстями
@@ -16982,7 +16982,7 @@
   event_type: born
   title: Buddy Guy
   picture: 0730guy.jpg
-  text: 'в Летсворте, Луизиана, родился <a href="/bluesmen/Buddy_Guy/">Бадди Гай</a> (Buddy GUY), гитарист, воспитанник Мадди
+  text: 'в Летсворте, Луизиана, родился <a href="/artist/buddy-guy/">Бадди Гай</a> (Buddy GUY), гитарист, воспитанник Мадди
     Уотерса и Уилли Диксона, один из величайших блюзовых гитаристов последней трети ХХ века и первой декады XXI века.
 
     George "Buddy" Guy (born July 30, 1936) is an American blues guitarist and singer. He is an exponent of Chicago blues
@@ -17022,7 +17022,7 @@
   title: David Sanborn
   picture: 0730Sanborn.jpg
   text: в Тампе, Флорида, родился Дэвид Санборн (David SANBORN). Как саксофонист, сделал богатую карьеру в джазе, блюзе, поп-
-    и рок-музыке. Играл с <a href="/bluesmen/Albert_King/">Албертом Кингом</a> (Albert King) и в <a href="/bluesmen/Paul_Butterfield/">Блюзбенде
+    и рок-музыке. Играл с <a href="/artist/albert-king/">Албертом Кингом</a> (Albert King) и в <a href="/artist/paul-butterfield/">Блюзбенде
     Пола Баттерфилда</a> (Paul Butterfield Blues Band). Многократный лауреат премии Grammy.
 - id: 3007
   date: '1948-07-30'
@@ -17031,7 +17031,7 @@
   event_type: born
   title: Otis Taylor
   picture: 0730OtisTaylor.jpg
-  text: в Чикаго родился <a href="/data/artistview.aspx?aid=194">Отис Тейлор</a> (Otis Taylor)... Блюзмен по духу, потрясающе
+  text: в Чикаго родился <a href="/artist/otis-taylor/">Отис Тейлор</a> (Otis Taylor)... Блюзмен по духу, потрясающе
     необычный по стилю, философ по образу мысли, зачастую лектор-историк в песнях, и одноаккордовый гипнотизер на сцене. Еще
     мульти-инструменталист. Дебютировал на излете 60-х, но в 1977 году ушел из музыки - почти на двадцать лет. И хорошо, что
     вернулся! Его интернет-сайт носит нахваие <a href="https://www.otistaylor.com/" targe="_blank">Trance Blues Certified</a>
@@ -17164,7 +17164,7 @@
   event_type: born
   title: Robert Cray
   picture: 0801CRAY.jpg
-  text: в Колумбусе, Джорджия, родился <a href="/bluesmen/Robert_Cray/">Роберт Крей</a> (Robert CRAY). Популярнейший блюзмен
+  text: в Колумбусе, Джорджия, родился <a href="/artist/robert-cray/">Роберт Крей</a> (Robert CRAY). Популярнейший блюзмен
     второй половины 80-х. Обладатель мягкого голоса и большой умелец играть на гитаре. Robert William Cray (born August 1,
     1953) is an American blues guitarist and singer. He has led his own band and won five Grammy Awards.
   artist_slug: robert-cray
@@ -17175,7 +17175,7 @@
   event_type: born
   title: Deitra Farr
   picture: null
-  text: в Чикаго, Иллинойс, родилась <a href="http://blues.ru/bluesmen/Deitra_Farr/">Дейтра Фарр</a> (Deitra FARR). В середине
+  text: в Чикаго, Иллинойс, родилась <a href="http://blues.ru/artist/deitra-farr/">Дейтра Фарр</a> (Deitra FARR). В середине
     90-х записала два альбома как вокалистка чикагской ревайвалистской группы «Миссиссиппский жар» (Mississippi Heat), затем
     выпустила сольный альбом. Неоднократно бывала с гастролями в России.
   artist_slug: deitra-farr
@@ -17196,10 +17196,10 @@
   title: Mark Naftalin
   picture: 0802NaftalinM.jpg
   text: в Минниаполисе родился Марк Нафталин (Mark NAFTALIN). Будучи студентом Чикагского университета, джемовал с Полом Баттерфилдом.
-    В 1964г. судьба снова свела их в Нью-Йорке, где <a href="/bluesmen/Paul_Butterfield/">Баттерфилдз Блюз Бэнд</a> делал
+    В 1964г. судьба снова свела их в Нью-Йорке, где <a href="/artist/paul-butterfield/">Баттерфилдз Блюз Бэнд</a> делал
     свою пробную запись. Нафталин зашел в студию к старым друзьям и, шутки ради, сыграл с ними одну пьесу. Пианист, он впервые
     сел за орган Хэммонд! Что за наитие его посетило, но он сыграл так, что тут же получил приглашение в группу и принял участи
-    в записи. В 70-х переиграл со всеми великими блюзменами, включая <a href="/bluesmen/John_Lee_Hooker/">Джона Ли Хукера</a>;
+    в записи. В 70-х переиграл со всеми великими блюзменами, включая <a href="/artist/john-lee-hooker/">Джона Ли Хукера</a>;
     вел блюзовые теле- и радио-передачи, заведовал блюзовыми фестивалями; выпускал сольные пластинки. Опытный исполнитель
     и неутомимый пропагандист блюза.
 - id: 151
@@ -17230,7 +17230,7 @@
   picture: 0830Walton.gif
   text: в Уэйко, Техас, родился Мерси Ди Уолтон (Mercy Dee WALTON), певец, пианист и выдающий сонгстер, коему блюз обязан
     рядом немеркнущих хитов. Выступал с 13 лет, в 1938г. переехал в Калифорнию, где, не меняя существенно грубоватый свой
-    стиль игры, работал до своей ранней смерти в 1962г. Моуз Эллисон считал его своим кумиром. <a href="/bluesmen/John_Lee_Hooker/">Джон
+    стиль игры, работал до своей ранней смерти в 1962г. Моуз Эллисон считал его своим кумиром. <a href="/artist/john-lee-hooker/">Джон
     Ли Хукер</a> так часто исполнял его One Room Country Shack, что ошибочно зачастую его и называют автором этой песни. Смерть
     в возрасте 47 лет не позволила таланту Уолтона получить достойную известность.
 - id: 139
@@ -17258,7 +17258,7 @@
   event_type: recorded
   title: Albert King
   picture: null
-  text: В Мемфисе для Stax под аккомпанемент Booker T and the MG's <a href="/bluesmen/Albert_King/">Алберт Кинг</a> (Albert
+  text: В Мемфисе для Stax под аккомпанемент Booker T and the MG's <a href="/artist/albert-king/">Алберт Кинг</a> (Albert
     KING) записал песню Oh Pretty Woman.
   artist_slug: albert-king
 - id: 2667
@@ -17464,7 +17464,7 @@
   picture: null
   text: 'в Холли Спрингс (Миссиссиппи) родился Моуз Винсон (Mose VINSON). Родным городом для него стал Мемфис, чей блюзовый
     стиль он демонстрировал на фортепиано, будучи в 80-х штатным пианистом Центра Южного Фольклера. В 50-х он был постоянным
-    сессионым музыкантом в студии «Сан», аккомпанируя, например, <a href="/bluesmen/James_Cotton/">Джеймсу Коттону</a>. Его
+    сессионым музыкантом в студии «Сан», аккомпанируя, например, <a href="/artist/james-cotton/">Джеймсу Коттону</a>. Его
     сольный альбом 1990 года носит музыковедческое название: «Современной мемфисский фортепианный блюз».'
 - id: 176
   date: '1931-08-07'
@@ -17508,7 +17508,7 @@
   picture: null
   text: 'в Монтгомери (Алабама) родился Ховард Джонсон (Howard JOHNSON), трубач, саксофонист и уникальный виртуоз басовых
     духовых инструментов. Работал в джазе с Чарлзом Мингусом, Арчи Шеппом и Гилом Ивансом. Руководил квартетом туб. Звук тубы
-    Джонсона обожает <a href="/bluesmen/Taj_Mahal/">Тадж Махал</a> и регулярное приглашает его на запись своих альбомов. Альбомы
+    Джонсона обожает <a href="/artist/taj-mahal/">Тадж Махал</a> и регулярное приглашает его на запись своих альбомов. Альбомы
     самого Джонсона необходимо послушать: сначала удивляешься, на что способна туба, какой это оригинальный инструмент - а
     потом безоговорочно захватывает сама музыка.'
 - id: 171
@@ -17519,7 +17519,7 @@
   title: Denny Freeman
   picture: 0807DennyFreeman.jpg
   text: 'в Орландо (Флорида) родился Дэнни Фриман (Denny FREEMAN), выросший в типичного современного техасского гитариста.
-    В середине 70-х в Остине он был ведущим гитаристом группы «Кобры», вторым был <a href="/bluesmen/Stevie_Ray_Vaughan/">Стиви
+    В середине 70-х в Остине он был ведущим гитаристом группы «Кобры», вторым был <a href="/artist/stevie-ray-vaughan/">Стиви
     Рей Воэн</a>. Фримэн остался лучшим другом братьев Воэн, выступал и записывался с ними вместе. Аккомпанировал обеим белым
     дамам техасского блюза: Анжеле Стрелли и Лоу Энн Бартон. Выпустил с дюжину интересных сольных альбомов.'
 - id: 169
@@ -17574,11 +17574,11 @@
   event_type: born
   title: Jimmy Witherspoon
   picture: 0808Witherspoon.jpg
-  text: в Гурдоне (Арканзас) родился <a href="/bluesmen/Jimmy_Witherspoon/">Джимми Уизерспун</a> (Jimmy WITHERSPOON), один
+  text: в Гурдоне (Арканзас) родился <a href="/artist/jimmy-witherspoon/">Джимми Уизерспун</a> (Jimmy WITHERSPOON), один
     из величайших голосов, естественно соединявших джаз и блюз. Первые пластинки записывал во второй половине 40-х с оркестром
     пианиста Джея МакШенна. Старые к тому времени песни Ain't Nobody's Business (впервые записанную <a href="/BlackCat/bs.htm">Бесси
     Смит</a> в 1922г.) и In The Eveving (<a href="/BlackCat/lc&sb.htm">Лероя Карра</a>) он отправил в первую пятерку ритмэндблюзовых
-    чартов. Записывался и выступал с <a href="/bluesmen/T-Bone_Walker/">Ти-Боун Уокером</a> в 60-х и Роббеном Фордом в 70-х.
+    чартов. Записывался и выступал с <a href="/artist/t-bone-walker/">Ти-Боун Уокером</a> в 60-х и Роббеном Фордом в 70-х.
   artist_slug: jimmy-witherspoon
 - id: 166
   date: '1933-08-08'
@@ -17850,7 +17850,7 @@
   picture: null
   text: в Чикаго в возрасте 72 лет скончался Сонни Томпсон (Sonny THOMPSON), пианист, композитор, аранжировщик, руководитель
     оркестра. Работал на пересечении джаза, блюза и черной поп-музыки. В блюзе наиболее известен как соратник классических
-    записей <a href="/bluesmen/Freddy_King/">Фредди Кинга</a> и автор (или соавтор) классических техасских электрогитарных
+    записей <a href="/artist/freddie-king/">Фредди Кинга</a> и автор (или соавтор) классических техасских электрогитарных
     инструменталов The Stumble и Hide Away и песни I'm Tore Down.
 - id: 3023
   date: '1907-08-12'
@@ -17894,7 +17894,7 @@
   picture: 0812GainesR.gif
   text: в Хьюстоне (Техас) родился Рой Гейнз (Roy GAINES). Рос в музыкальной семье. Его старший брат Грэди играл на саксофоне
     в группе Литл Ричарда. Рой начинал как пианист, подражая Нэту Кингу Колу. Но еще подростком переключился на гитару. Акомпанировал
-    многим великим, включая <a href="/bluesmen/T-Bone_Walker/">Ти-Боун Уокера</a>. Первые сорокопятки записывал еще в 50-х,
+    многим великим, включая <a href="/artist/t-bone-walker/">Ти-Боун Уокера</a>. Первые сорокопятки записывал еще в 50-х,
     а первый заметный альбом выпустил только в 1982 г. Однако студийные его записи не передают феерического напора его концертных
     выступлений.
 - id: 178
@@ -17917,7 +17917,7 @@
   picture: null
   text: 'в Чикаго для <a href="/label/Chess/">Chess Records</a> Санни Бой Вилльямсон II (Sonny Boy Williamson II) записал
     ставшую классикой «Не пытайся меня разговорить» (Don''t Start Me Talking). Ему аккомпанировала звездная компания: Otis
-    Spann, <a href="/bluesmen/Muddy_Waters/">Muddy Waters</a>, <a href="/bluesmen/Jimmy_Rogers/">Jimmy Rogers</a>, <a href="/bluesmen/Willie_Dixon/">Willy
+    Spann, <a href="/artist/muddy-waters/">Muddy Waters</a>, <a href="/artist/jimmy-rogers/">Jimmy Rogers</a>, <a href="/artist/willie-dixon/">Willy
     Dixon</a> и Fred Below - а так же старинный друг еще по передачам King Biscuit Time Роберт-младший Локвуд. Это первая
     запись Санни Боя Уилльямсона для "Чесс". Бывший всю свою жизнь бродягой, теперь он решил осесть в Чикаго, где ему предстояло
     записать свои лучшие работы.'
@@ -17929,7 +17929,7 @@
   event_type: recorded
   title: Buddy Guy
   picture: null
-  text: в Чикаго для <a href="/label/Chess/">Chess Records</a> <a href="/bluesmen/Buddy_Guy/">Бадди Гай</a> (Buddy GUY) записал
+  text: в Чикаго для <a href="/label/Chess/">Chess Records</a> <a href="/artist/buddy-guy/">Бадди Гай</a> (Buddy GUY) записал
     свой блюз «Когда у меня подпрыгивает левая бровь» (When My Left Eye Jumps).
   artist_slug: buddy-guy
 - id: 2427
@@ -17951,7 +17951,7 @@
   event_type: died
   title: Luther Allison
   picture: null
-  text: в Медисоне (Висконсин) в возрасте 57 лет скончался певец и гитарист <a href="/bluesmen/Luther_Allison/">Лютер Эллисон</a>
+  text: в Медисоне (Висконсин) в возрасте 57 лет скончался певец и гитарист <a href="/artist/luther-allison/">Лютер Эллисон</a>
     (Luther Allison). На протяжении десятилетий он выступал в Европе "на высшем уровне", появляясь на родине лишь на несколько
     месяцев, чтобы выступать в маленьких клубах. В 1994 году он совершил триумфальное возвращение, только в тот год он был
     удостоен четырех W.C. Handy Awards (ныне BMA), а в следующий год получил еще пять плюс премии журнала Livin' Blues. Летом
@@ -17968,7 +17968,7 @@
   title: Baby Boy Warren
   picture: null
   text: в Лейк Провиденс (Луизиана) родился Роберт Варрен, известный в блюзе как «Карапуз» (Baby Boy WARREN). Свой блюзовый
-    гитарный стиль он нашел в Мемфисе в 40-х, в компании с <a href="/bluesmen/John_Lee_Hooker/">Джоном Ли Хукером</a> и Эдди
+    гитарный стиль он нашел в Мемфисе в 40-х, в компании с <a href="/artist/john-lee-hooker/">Джоном Ли Хукером</a> и Эдди
     Кирклэндом. Его блюзовым домом стал Детройт, где он работал на автомобильных заводах практически всю свою жизнь. Первую
     запись сделал в 1949г. В 1972м провел первые и единственные гастроли в Европе. Не самое громкое имя, но пользующееся неизменным
     уважение со стороны тех, кто его знает.
@@ -17993,8 +17993,8 @@
   event_type: misc
   title: Robert Johnson
   picture: null
-  text: в Гринвуде (Миссиссиппи) в кабачке Three Forks juke joint, по свидетельствую <a href="/bluesmen/Sonny_Boy_Williamson/">Санни
-    Боя Уилльямсона II</a>, <a href="/bluesmen/Robert_Johnson/">Роберту Джонсону</a> (Robert JOHNSON) принесли подряд несколько
+  text: в Гринвуде (Миссиссиппи) в кабачке Three Forks juke joint, по свидетельствую <a href="/artist/sonny-boy-williamson/">Санни
+    Боя Уилльямсона II</a>, <a href="/artist/robert-johnson/">Роберту Джонсону</a> (Robert JOHNSON) принесли подряд несколько
     бутылок с пивом – уже открытыми. Уилльямсон (который тогда еще не принял это имя и звался Алексом Фордом Миллером) предупреждал
     его не пить из открытых бутылок. Сначала Джонсон слушал совета, но потом выпил из бутылки. В ту же ночь он «катался по
     полу и выл, как собака» - говорил Уилльямсон. Поговаривали, что отравил его ревнивый муж той женщины, с которой <a href="/BlackCat/rj.htm">Джонсон</a>
@@ -18007,7 +18007,7 @@
   event_type: born
   title: Son Seals
   picture: 0813SealsS.jpg
-  text: в Осцеоле (Арканзас) родился <a href="/bluesmen/Son_Seals/">Сон Силз</a> (Son SEALS), архисвоеобразный гитарист, обладатель
+  text: в Осцеоле (Арканзас) родился <a href="/artist/son-seals/">Сон Силз</a> (Son SEALS), архисвоеобразный гитарист, обладатель
     «шершавого» голоса, чемпион «подпрыгивающего» современного чикагского стиля. В конце 90-х на несколько лет исчез со сцены.
     Но в 2000г. вернулся с великолепным сверхэнергичным альбомом “Lettin’ Go”. Правда, без ноги и с пулевыми шрамами на лице
     – неудачно поговорил с подружкой, а у нее на беду оказался пистолет под рукой.
@@ -18030,7 +18030,7 @@
   picture: null
   text: 'в Глазго (Шотландия) родился гитарист Джимми МакКаллач (Jimmy MCCULLOCH). Участник «Личиков» (The Small Faces), он
     переиграл в различных сольных проектах лучших из лучших британского рока: с бывшими участниками The Who, с Roy Harper,
-    с Полом и Линдой… Кроме того, некоторое время играл в группе <a href="/bluesmen/John_Mayall/">Bluesbrakers Джона Мэйолла</a>.'
+    с Полом и Линдой… Кроме того, некоторое время играл в группе <a href="/artist/john-mayall/">Bluesbrakers Джона Мэйолла</a>.'
 - id: 2424
   date: '1967-08-13'
   month_day: 08-13
@@ -18078,7 +18078,7 @@
   event_type: born
   title: Jeannie Cheatham
   picture: 0814JeannieCheatham.jpg
-  text: в Акроне (Огайо) родилась <a href="/bluesmen/Jennie_Jimmy_Cheatham/">Дженни Чиасэм</a> (Jeannie CHEATHAM). То есть,
+  text: в Акроне (Огайо) родилась <a href="/artist/jennie-jimmy-cheatham/">Дженни Чиасэм</a> (Jeannie CHEATHAM). То есть,
     точная дата, как и девичья фамилия, остались неизвестны широкой публике. В 1959г. она вышла замуж за тромбониста и аранжировщика
     ДжиммиЧисема.В 60-х они работали со всеми звездами джаза той эпохи. Дженни аккомпанировала Джимми Уизерспуну. Оба преподавали
     джаз в различных университетах. Только в середине 80-х на Concord стали выходить их альбомы, где хорошая джазовая импровизация
@@ -18101,8 +18101,8 @@
   event_type: died
   title: Big Bill Broonzy
   picture: null
-  text: в Чикаго (Иллинойс) в возрасте 60 лет умер кантри-блюзмен <a href="/bluesmen/Big_Bill_Broonzy/">Биг Билл Брунзи</a>
-    (Big Bill BROONZY). Год спустя <a href="/bluesmen/Muddy_Waters/">Мадди Уотерс</a> начал запись альбома «Мадди Уотерс поет
+  text: в Чикаго (Иллинойс) в возрасте 60 лет умер кантри-блюзмен <a href="/artist/big-bill-broonzy/">Биг Билл Брунзи</a>
+    (Big Bill BROONZY). Год спустя <a href="/artist/muddy-waters/">Мадди Уотерс</a> начал запись альбома «Мадди Уотерс поет
     Биг Билла Брунзи», посвященный песням его любимого блюзмена. Вышедший в 1960м году, этот альбом стал первым настоящим
     программным альбомом в дискографии Уотерса (самым первым был сборник Best Of).
   artist_slug: big-bill-broonzy
@@ -18113,7 +18113,7 @@
   event_type: recorded
   title: Howlin' Wolf
   picture: null
-  text: 'в Чикаго для Chess <a href="/bluesmen/Howlin_Wolf/">Хаулин Вулф</a> (HOWLIN'' WOLF) записал три неувядающих блюза:
+  text: 'в Чикаго для Chess <a href="/artist/howlin-wolf/">Хаулин Вулф</a> (HOWLIN'' WOLF) записал три неувядающих блюза:
     "Built For Comfort", "300 Pounds Of Joy", and "Hidden Charms"'
   artist_slug: howlin-wolf
 - id: 203
@@ -18143,7 +18143,7 @@
   title: Roy Buchanan
   picture: 0814BuchanonR.gif
   text: в тюремной камере Фэрфакса (Вирджиния) в возрасте 48 лет при неясных обстоятельствах погиб гениальный неповторимый
-    гитарист <a href="/bluesmen/Roy_Buchanan/">Рой Бьюкэннон</a> (Roy BUCHANAN).
+    гитарист <a href="/artist/roy-buchanan/">Рой Бьюкэннон</a> (Roy BUCHANAN).
   artist_slug: roy-buchanan
 - id: 204
   date: '1990-08-14'
@@ -18183,7 +18183,7 @@
   picture: 0815BrenstonJ.gif
   text: в Кларксдейле родился Джеки Бренстон (Jackie BRENSTON), ставший в Чикаго 50-х популярным саксофонистом. В историю
     вошел благодаря записи песни «Ракета 88» (Rocket 88). Он записал ее в 1951г., продюсером на записи был Сэм Филлипс, на
-    гитаре играл <a href="/data/artistview.aspx?aid=192">Айк Тернер</a> (тогда еще неженатый), издала запись <a href="/label/Chess/">Chess</a>,
+    гитаре играл <a href="/artist/ike-turner/">Айк Тернер</a> (тогда еще неженатый), издала запись <a href="/label/Chess/">Chess</a>,
     обозвав ансамбль «Джеки Бренстон и его чуваки из Дельты» (Jackie Brenston & His Delta Cats).  Историографы рок-музыки
     именно эту пластинку называют первым рок-н-роллом. Фортуна покинула Бренстона в 60-х, и он до пенсии работал водителем
     грузовика.
@@ -18194,8 +18194,8 @@
   event_type: recorded
   title: Jimmy Rogers
   picture: null
-  text: в Чикаго <a href="/bluesmen/Jimmy_Rogers/">Джимми Роджерс</a> (Jimmy ROGERS) сделал первые записи на Chess, выпущенные
-    под его именем. (Как аккомпаниатор, он записывался с <a href="/bluesmen/Muddy_Waters/">Мадди Утерсом</a> с 1949). Обе
+  text: в Чикаго <a href="/artist/jimmy-rogers/">Джимми Роджерс</a> (Jimmy ROGERS) сделал первые записи на Chess, выпущенные
+    под его именем. (Как аккомпаниатор, он записывался с <a href="/artist/muddy-waters/">Мадди Утерсом</a> с 1949). Обе
     песни его сочинения. “That’s All Right” стала блюзовым стандартом, который до сих продолжают записывать другие блюзмены
     в своих интерпретациях. “Luedella” осталась неповторимой, очень личной его песней. Аккомпанировали Литл Уолтер и Биг Крауфорд.
   artist_slug: jimmy-rogers
@@ -18217,7 +18217,7 @@
   picture: null
   text: 'в Вудстоке открылся музыкальный фестиваль (WOODSTOCK). «Три дня музыки и мира» оказались важнейшим событием в истории
     рок-музыки. Практически все участники имели отношения к блюзу, фолк-музыке и их производным. Среди выступавших: Janis
-    Joplin, the Band, <a href="/bluesmen/Jimi_Hendrix/">Jimi Hendrix</a>, Santana, Ten Years After, <a href="/bluesmen/Johnny_Winter/">Johnny
+    Joplin, the Band, <a href="/artist/jimi-hendrix/">Jimi Hendrix</a>, Santana, Ten Years After, <a href="/artist/johnny-winter/">Johnny
     Winter</a>.'
 - id: 2435
   date: '1916-08-16'
@@ -18248,7 +18248,7 @@
   title: Eddie Kirkland
   picture: 0816KirklandE.gif
   text: на Ямайке родился Эдди Кирклэнд (Eddie KIRKLAND). Вырос в Алабаме, с конца сороковых выступал и записывался вместе
-    с <a href="/bluesmen/John_Lee_Hooker/">Джоном Ли Хукером</a>. Его собственный «жесткий» вокал, анархичные гитарные аккорды,
+    с <a href="/artist/john-lee-hooker/">Джоном Ли Хукером</a>. Его собственный «жесткий» вокал, анархичные гитарные аккорды,
     хриплая губная гармоника и умение создавать четкий захватывающий ритм под вольными вокальными линиями – принесли ему признание
     у любителей «раннего электрического городского блюза». В клубах был известен цирковыми трюками – мог играть на гитаре,
     стоя на голове, что зафиксировано телесъемкой. Продолжая выступать в 77 лет, Кирклэнд являл собой драгоценную реликвию
@@ -18303,8 +18303,8 @@
     выступлений на европейских блюз-фестивалях, он осел в Швеции, где нашел работу преподавателя музыки и вокала. Дебютный
     альбом записал только в 46 лет. Для широкой публики имя было новым, а голос звучал так свежо, что многие и сейчас, 3 альбома
     спустя, считают его молодым начинающим певцом, которому хороший вкус и образование помагают записывать соул-блюзовые альбомы
-    очень высокого музыкального качества. Гостями в альбомах появлялись и <a href="/bluesmen/Taj_Mahal/">Тадж Махал</a>, и
-    <a href="/bluesmen/Wilson_Pickett/">Уилсон Пикет</a>.
+    очень высокого музыкального качества. Гостями в альбомах появлялись и <a href="/artist/taj-mahal/">Тадж Махал</a>, и
+    <a href="/artist/wilson-pickett/">Уилсон Пикет</a>.
   artist_slug: eric-bibb
 - id: 218
   date: '1962-08-16'
@@ -18351,7 +18351,7 @@
   event_type: born
   title: John Lee Hooker
   picture: null
-  text: возможно, родился <a href="/bluesmen/John_Lee_Hooker/">Джон Ли Хукер</a> (John Lee HOOKER). Иногда он называл и эту
+  text: возможно, родился <a href="/artist/john-lee-hooker/">Джон Ли Хукер</a> (John Lee HOOKER). Иногда он называл и эту
     дату днем своего рождения.
   artist_slug: john-lee-hooker
 - id: 2434
@@ -18380,7 +18380,7 @@
   event_type: born
   title: Luther Allison
   picture: 0817LutherALLISON.jpg
-  text: в Вайденере, Арканзас, на хлопковой ферме родился <a href="/bluesmen/Luther_Allison/">Лютер Эллисон</a> (Luther ALLISON),
+  text: в Вайденере, Арканзас, на хлопковой ферме родился <a href="/artist/luther-allison/">Лютер Эллисон</a> (Luther ALLISON),
     14й из 15 детей фермера. Как гитарист, блюзовые университеты прошел в Чикаго. Долгое время жил и выступал в Европе. Вернулся
     на родину с триумфом в 1994г., но всего спустя три года умер от рака. Его музыка в равной мере сочетает техничность, энергичность,
     эмоциональность, верность корням блюза и поиск новых его путей.
@@ -18402,7 +18402,7 @@
   event_type: born
   title: Jay Peterson
   picture: null
-  text: в Окланде, Калифорния, родился Джей Петерсон (Jay PETERSON), бас-гитарист и участник группы <a href="/bluesmen/Little_Charlie/">Little
+  text: в Окланде, Калифорния, родился Джей Петерсон (Jay PETERSON), бас-гитарист и участник группы <a href="/artist/little-charlie/">Little
     Charlie & the Nightcats</a>на протяжении 15 лет со дня ее основания.
 - id: 3204
   date: '1964-08-17'
@@ -18472,7 +18472,7 @@
   title: Barkin' Bill Smith
   picture: 0818smith.jpg
   text: в Кливленде (Миссиссиппи) родился Билл Смит, получивший в блюзе прозвище «Лающий» (Barkin' Bill SMITH), на самом деле
-    – обладатель прекрасного глубокого баритона, последователь <a href="/bluesmen/Joe_Williams/">Джо Вилльямса</a> и <a href="/bluesmen/Jimmy_Witherspoon/">Джимми
+    – обладатель прекрасного глубокого баритона, последователь <a href="/artist/joe-williams/">Джо Вилльямса</a> и <a href="/artist/jimmy-witherspoon/">Джимми
     Визерспуна</a>. Петь начал на улицах Ист-Сент-Луиса и Детройта, осел в Чикаго. Первый альбом записал с группой Dave Specter
     & the Bluebirds. Первый сольный альбом «Попалась!» (Gotcha!) выпустил в возрасте 74 лет.
 - id: 221
@@ -18519,7 +18519,7 @@
   event_type: hit
   title: Jimi Hendrix
   picture: null
-  text: 'в Вудстоке, в финальный день ставшего легендарным рок-фестиваля, дебютировала новая группа <a href="/bluesmen/Jimi_Hendrix/">Джимми
+  text: 'в Вудстоке, в финальный день ставшего легендарным рок-фестиваля, дебютировала новая группа <a href="/artist/jimi-hendrix/">Джимми
     Хендрикса</a> (Jimi HENDRIX). Квинтет получил хипповое название «Цыганские солнце и радуги» (Gypsy Sun and Rainbows).
     На сцену он вышел только в полвосьмого утра, что не помешало самому эту выступлению стать легендой. Была исполнена дикоэлектрогитарная
     версия национального гимна "Звездно-полосатый флаг". В этот же день Джони Митчелл (Joni Mitchell), на фестивале не выступавшая,
@@ -18592,7 +18592,7 @@
   title: Ralph Wash
   picture: null
   text: в Сан-Франциско (Калифорния) родился Ральф Ваш (Ralph WASH). Как гитарист и продюсер, он был важной фигурой в калифорнийской
-    музыке 70-х. Был участником группы <a href="/bluesmen/Paul_Butterfield/">Пола Баттерфилда</a>, записывал альбомы Вэна
+    музыке 70-х. Был участником группы <a href="/artist/paul-butterfield/">Пола Баттерфилда</a>, записывал альбомы Вэна
     Моррисона и Кантри Джо МакДоналда.
 - id: 2884
   date: '1953-08-19'
@@ -18644,7 +18644,7 @@
   title: J. J. Malone
   picture: 0820Malone.jpg
   text: в Питерз-Корнер (Алабама) родился Джей-Джей Малоун (J. J. MALONE), видный представитель вест-коаст стиля. Сотрудничал
-    с «<a href="/bluesmen/Little_Charlie/">Литл Чарли энд зе Найткэтс</a>», выпустил три сольных альбома.
+    с «<a href="/artist/little-charlie/">Литл Чарли энд зе Найткэтс</a>», выпустил три сольных альбома.
 - id: 3052
   date: '1944-08-20'
   month_day: 08-20
@@ -18692,7 +18692,7 @@
   event_type: hit
   title: Chuck Berry
   picture: null
-  text: легендарная ныне песенка <a href="/bluesmen/Chuck_Berry/">Чака Берри</a> (Chuck Berry) про Мэйбелин (Maybellene),
+  text: легендарная ныне песенка <a href="/artist/chuck-berry/">Чака Берри</a> (Chuck Berry) про Мэйбелин (Maybellene),
     которая почему-то не может хранить верность, появилась в американских поп-чартах. В этот же день Бо Диддли впервые выступал
     в легендарном ньюйоркском театре Аполло.
   artist_slug: chuck-berry
@@ -18748,7 +18748,7 @@
   picture: 0821RAINS.jpg
   text: 'в Форт-Ворсе (Техас) родился Джордж Рейнз (George RAINS), ставший постоянным барабанщиком в хаус-бенде легендарного
     остинского клуба «У Антона» (Antone’s). Переиграл и записывался со многими из замечательной техасской тусовки, появившейся
-    в 70-х: от <a href="/bluesmen/Kim_Wilson/">Кима Вилсона</a> до братьев Воэн. Блеснул в блюзовом альбоме ветерана кантри-музыки
+    в 70-х: от <a href="/artist/kim-wilson/">Кима Вилсона</a> до братьев Воэн. Блеснул в блюзовом альбоме ветерана кантри-музыки
     Вилли Нельсона «Блюз Молочных Коров» (Willie Nelson «Milk Cow Blues» 2000).'
 - id: 244
   date: '1947-08-21'
@@ -18775,9 +18775,9 @@
   text: 'в Турлоке (Калифорния) родился Дуг Джеймс (Doug JAMES). Ему было всего 15 лет, когда он принял участие в записи ставшего
     исторической вехой альбома группы «Кровь, Пот и Слезы» (Blood, Sweat & Tears) «Дитя – мужчине как отец» (Child Is Father
     to the Man). Мастер баритон-саксофона, позже он прославился как один из архитекторов звучания медной секции группы «<a
-    href="/data/artistview.aspx?aid=110">Где Полно Блюза</a>» (“Roomful of Blues”). Сотрудничал как с лучшими из представителей
-    новейшего блюза: <a href="/data/artistview.aspx?aid=161">Ron Levy</a>, <a href="/bluesmen/Kim_Wilson/">Kim Wilson</a>,
-    Debbie Davies, <a href="/bluesmen/Duke_Robillard/">Duke Robbilard</a>, - так и с ветеранами: <a href="/bluesmen/Billy_Boy_Arnold/">Billy
+    href="/artist/roomful-of-blues/">Где Полно Блюза</a>» (“Roomful of Blues”). Сотрудничал как с лучшими из представителей
+    новейшего блюза: <a href="/artist/ron-levy/">Ron Levy</a>, <a href="/artist/kim-wilson/">Kim Wilson</a>,
+    Debbie Davies, <a href="/artist/duke-robillard/">Duke Robbilard</a>, - так и с ветеранами: <a href="/artist/billy-boy-arnold/">Billy
     Boy Arnold</a>, Joe Turner, <a href="/efes/clearwater.asp">Eddy Clearwater</a> - так и с краткосрочными поп-дивами: Pat
     Benatar и Laura Branigan.'
 - id: 250
@@ -18798,7 +18798,7 @@
   title: Bumps Myers
   picture: null
   text: в Кларсбурге (Западная Вирджиния) родился Бампс Майерс (Bumps Myers), джазовый тенор-саксофонист, работавший в ансамбле
-    и на ставших классикой записях <a href="/bluesmen/T-Bone_Walker/">Ти-Боун Уокера</a>.
+    и на ставших классикой записях <a href="/artist/t-bone-walker/">Ти-Боун Уокера</a>.
 - id: 251
   date: '1912-08-22'
   month_day: 08-22
@@ -18806,7 +18806,7 @@
   event_type: born
   title: John Lee Hooker
   picture: 0822HOOKER.jpg
-  text: 'в Вэнсе (Миссиссиппи) родился кудесник и заклинатель блюза <a href="/bluesmen/John_Lee_Hooker/">Джон Ли Хукер</a>
+  text: 'в Вэнсе (Миссиссиппи) родился кудесник и заклинатель блюза <a href="/artist/john-lee-hooker/">Джон Ли Хукер</a>
     (John Lee HOOKER). Впрочем, это по одной из версий. Он сам не раз менял показания, называя другие даты своего рождения:
     как число, так и год. У великих свои причуды… Здесь год указан по последним документальным изысканиям, подробности в Wiki.'
   artist_slug: john-lee-hooker
@@ -18820,10 +18820,10 @@
   text: 'в Центервилле (Миссиссиппи) родился Альфонсо Томпсон. (Впрочем, Википедия оговаривает, что возможно он родился 22
     августа 1923 г.). Свой творческий стиль он нашел не в Дельте, а в ритм-энд-блюзе с техасским акцентом. Прославился под
     прозвищем Сынок (Sonny THOMPSON) - как пианист и бэндлидер 50-х годов, а позже как соавтор, аранжировщиик и пианист на
-    записи нескольких этапных песен <a href="/bluesmen/Freddy_King/">Фредди Кинга</a> (Freddie King): Goin'' Down, I''m Tore
+    записи нескольких этапных песен <a href="/artist/freddie-king/">Фредди Кинга</a> (Freddie King): Goin'' Down, I''m Tore
     Down, Hide Away. Исполнением последней Джон Мэйолл проверял техничность гитаристов своей группы Blues Breakers: Эрика
     Клэптона, Питера Грина, Мика Тейлора и других. Всего верхнюю двадцатку ритмэндблюзовых чартов поднимались 7 песен сочинения
-    Томпсона. Записывался и с Джеймсом Брауном, Хэнком Баллардом, <a href="/data/artistview.aspx?aid=166">Литл Милтоном</a>,
+    Томпсона. Записывался и с Джеймсом Брауном, Хэнком Баллардом, <a href="/artist/little-milton/">Литл Милтоном</a>,
     <a href="/data/albumview.aspx?cdid=1552">Джимми Докинсом</a> и многими другими.'
 - id: 3036
   date: '1916-08-22'
@@ -18857,7 +18857,7 @@
   text: в Линчбурге (Теннеси)  родился Роско Шелтон (Roscoe SHELTON), вокалист, выпустивший дебютный альбом под собственным
     именем лишь в возрасте 64 лет (хотя в 2003г. опубликованы на СД 9 его песен периода 50-х). Его песни высоко ценимы знатоками
     той эпохи, в 90-х их исполняли Чикаго Боб (Chicago Bob), Anson Funderburgh & the Rockets и участники Московского фестиваля
-    «Очаково-Блюз-2003» <a href="/bluesmen/Knockout_Greg/">Knock-Out Greg & Blue Weather</a>.
+    «Очаково-Блюз-2003» <a href="/artist/knockout-greg/">Knock-Out Greg & Blue Weather</a>.
 - id: 1628
   date: '1936-08-22'
   month_day: 08-22
@@ -18868,7 +18868,7 @@
   text: в Голдмайне, Луизиана, родился Дейл Хокинс (Dale HAWKINS), которого сегодня помнят по главному его хиту – песенке
     про «Сюзи Кью» (Suzy Q). В конце 50-х он был в горстке белых музыкантов, записывавшихся на <a href="/label/Chess/">Chess</a>.
     Певец и гитарист, он прекрасно разбирался в том, как должна звучать гитара и приглашал на записи своих пластинок таких
-    выдающихся гитаристов, как <a href="/bluesmen/Roy_Buchanan/">Рой Бьюкэнон</a> (Roy Buchanon) и Скотти Мур (Scotty Moore).
+    выдающихся гитаристов, как <a href="/artist/roy-buchanan/">Рой Бьюкэнон</a> (Roy Buchanon) и Скотти Мур (Scotty Moore).
 - id: 252
   date: '1952-08-22'
   month_day: 08-22
@@ -18954,7 +18954,7 @@
   event_type: recorded
   title: Etta James
   picture: null
-  text: <a href="/data/artistview.aspx?aid=177">Этта Джеймс</a> (Etta JAMES) записала песню "Лучше мне ослепнуть" (I'd Rather
+  text: <a href="/artist/etta-james/">Этта Джеймс</a> (Etta JAMES) записала песню "Лучше мне ослепнуть" (I'd Rather
     Go Blind), ставшую соул-блюзовым стандартом и ее визитной карточкой.
   artist_slug: etta-james
 - id: 259
@@ -18999,7 +18999,7 @@
   event_type: hit
   title: Wilson Pickett
   picture: null
-  text: 21я позиция в поп-чатах стала пиковой для песни <a href="/bluesmen/Wilson_Pickett/">Уилсона Пикетта</a> "В полночный
+  text: 21я позиция в поп-чатах стала пиковой для песни <a href="/artist/wilson-pickett/">Уилсона Пикетта</a> "В полночный
     час" (Wilson Pickett - "In the Midnight Hour"). И возглавила ритм-энд-блюзовые чарты. Песня стала классикой соул-блюза.
   artist_slug: wilson-pickett
 - id: 2659
@@ -19083,7 +19083,7 @@
   event_type: misc
   title: Jimi Hendrix
   picture: null
-  text: в Нью-Йорке <a href="/bluesmen/Jimi_Hendrix/">Джими Хендрикс</a> устроил грандиозную вечеринку в честь открытия студии
+  text: в Нью-Йорке <a href="/artist/jimi-hendrix/">Джими Хендрикс</a> устроил грандиозную вечеринку в честь открытия студии
     «Электрическая страна дам» (Jimi HENDRIX - Electric Lady Studios), которую он оборудовал собственноручно под свои надобности.
     Новая студия должна была дать ему новые возможности в звукозаписи. По гнусной иронии судьбы, жить ему оставалось только
     три недели.
@@ -19136,10 +19136,10 @@
   title: Stevie Ray Vaughan
   picture: null
   text: на горнолыжном курорте Элпайн-Аллей, в 80 милях от Чикаго, два вечера подряд шла концертная программа под названием
-    «Вечер с <a href="/bluesmen/Eric_Clapton/">Эриком Клэптоном</a> и его группой», превратившаяся в небольшой блюзовый фестиваль,
-    поскольку в «вечере» приняли участие <a href="/bluesmen/Robert_Cray/">Роберт Крей</a>, <a href="/bluesmen/Buddy_Guy/">Бадди
+    «Вечер с <a href="/artist/eric-clapton/">Эриком Клэптоном</a> и его группой», превратившаяся в небольшой блюзовый фестиваль,
+    поскольку в «вечере» приняли участие <a href="/artist/robert-cray/">Роберт Крей</a>, <a href="/artist/buddy-guy/">Бадди
     Гай</a>, Джефф Хилей, Бонни Рэйтт и братья Воэн. Каждый вечер на выступления собиралось около 30 000 зрителей. По несчастному
-    стечению обстоятельств этот концерт стал последним для <a href="/bluesmen/Stevie_Ray_Vaughan/">Стиви Рея Воэна</a> (Stevie
+    стечению обстоятельств этот концерт стал последним для <a href="/artist/stevie-ray-vaughan/">Стиви Рея Воэна</a> (Stevie
     Ray VAUGHAN).
   artist_slug: stevie-ray-vaughan
 - id: 268
@@ -19175,7 +19175,7 @@
   event_type: recorded
   title: Freddie King
   picture: null
-  text: '<a href="/bluesmen/Freddy_King/">Фредди Кинг</a> (Freddie KING) вместе с соавтором, пианистом и аранжировщиком Сонни
+  text: '<a href="/artist/freddie-king/">Фредди Кинг</a> (Freddie KING) вместе с соавтором, пианистом и аранжировщиком Сонни
     Томпсоном (Sonny Thompson) записал для лейбла King две песни, ставшие классикой: <i>«Любил ли ты женщину так сильно?…»</i>
     и <i>«Убежище»</i> ("Have You Ever Loved A Woman" and "Hideaway").
 
@@ -19200,12 +19200,12 @@
   event_type: misc
   title: Stevie Ray Vaughan
   picture: 0826Vaughan.jpg
-  text: 'в концертном зале на горнолыжном курорте Элпайн-Аллей Элпайн-Аллей после выступления <a href="/bluesmen/Robert_Cray/">Роберта
-    Крея</a>, на сцену вышли <a href="/bluesmen/Stevie_Ray_Vaughan/">Стиви Рей Воэн</a> и «Тридцать три несчастья» (Stevie
+  text: 'в концертном зале на горнолыжном курорте Элпайн-Аллей Элпайн-Аллей после выступления <a href="/artist/robert-cray/">Роберта
+    Крея</a>, на сцену вышли <a href="/artist/stevie-ray-vaughan/">Стиви Рей Воэн</a> и «Тридцать три несчастья» (Stevie
     Ray Vaughan & Double Trouble). Сет начался с песни «Дом-то ходит ходуном» (House Is A-Rockin’). За редким исключением,
     все песни были из новейшего тогда альбома In Step. Инструментальный номер «Ривьера Парадиз» СРВ предварил обычным посвящением:
     «Это для всех, кто сейчас из-за чего-то страдает где-то в мире. И если не сразу, но пусть скоро вы обретете свое счастье».
-    Для исполнения последних трех номеров в концерте к группе присоединился <a href="/bluesmen/Jimmie_Vaughan/">Джимми Воэн</a>.
+    Для исполнения последних трех номеров в концерте к группе присоединился <a href="/artist/jimmie-vaughan/">Джимми Воэн</a>.
     Сет увенчался пламенным исполнением «Колдовского дитя» (Voodoo Chile) Джимми Хендрикса. Весь концерт завершил «Милый дом
     мой, Чикаго» (Sweet Home Chicago), когда на сцену вместе с Клэптоном вышли все участники концерта. И для Стиви Рея Воэна
     это был последний концерт .'
@@ -19237,8 +19237,8 @@
   title: Odie Payne
   picture: 0827PayneO.jpg
   text: 'в Чикаго (Иллинойс) родился Оди Пайн (Odie PAYNE), ставший известнейшим чикагским барабанщиком золотой эры чикагского
-    блюза. Классические записи <a href="/bluesmen/Otis_Rush/">Отиса Раша</a>, <a href="/bluesmen/Elmore_James/">Элмора Джеймса</a>
-    и <a href="/bluesmen/Chuck_Berry/">Чака Берри</a> сделаны с его участием. Среди барабанщиков он чтим за разработанную
+    блюза. Классические записи <a href="/artist/otis-rush/">Отиса Раша</a>, <a href="/artist/elmore-james/">Элмора Джеймса</a>
+    и <a href="/artist/chuck-berry/">Чака Берри</a> сделаны с его участием. Среди барабанщиков он чтим за разработанную
     им технику «двойного шаффла», которую у него переняли двое других выдающихся чикагских драммера: Фред Белью и Сэм Лэй.
     Спецы указывают на любовь Пайна к использованию педали басового барабана в ультра-скоростном режиме, протяженные пробежки
     по цимбалам и особую симпатию к звучанию "коровьего колокольчика" (cow bell).'
@@ -19444,7 +19444,7 @@
   event_type: died
   title: Jimmy Reed
   picture: null
-  text: 'в Чикаго (Илллинойс) в возрасте 50 лет скончался <a href="/bluesmen/Jimmy_Reed/">Джимми Рид</a> (Jimmy REED), один
+  text: 'в Чикаго (Илллинойс) в возрасте 50 лет скончался <a href="/artist/jimmy-reed/">Джимми Рид</a> (Jimmy REED), один
     из великолепных образцов яркой индивидуальности в блюзе. Его песни наполнены блюзовой смесью жизнелюбия, меланхолии, соленого
     сарказмы и самоуничижительной иронии. Увы, другая смесь: эпилепсии и алкоголизма – сократила его годы пребывания на грешной,
     но веселой земле.'
@@ -19478,7 +19478,7 @@
   text: 'в Девисборо, Джорджия, родился Лютер Джонсон, певец и гитарист. Записывался под множеством псевдонимов, словно желая
     еще больше запутать ситуацию изобилия Лютеров Джонсонов в блюзе. Главные прозвища: «Мальчик из Джорджии» и «Парень-змея»
     (Luther “Georgia Boy/Snake Boy” JOHNSON). Записывался и как солист, и как аккомпаниатор многих великих блюзменов, включая
-    <a href="/bluesmen/Muddy_Waters/">Мадди Уотерса</a> и <a href="/bluesmen/Elmore_James/">Элмора Джеймса</a>. Ранняя смерть
+    <a href="/artist/muddy-waters/">Мадди Уотерса</a> и <a href="/artist/elmore-james/">Элмора Джеймса</a>. Ранняя смерть
     в 1976г. оборвала его карьеру.'
 - id: 1623
   date: '1935-08-30'
@@ -19488,7 +19488,7 @@
   title: Junior Blackman
   picture: 0830Blackman.jpg
   text: в Лиленде, Миссиссиппи, родился Джениор Блэкмэн (Junior BLACKMAN), очень популярный в свое время барабанщик, много
-    записывавшийся  на замечательном лейбле «Труба» (Trumpet), в частности, с <a href="/bluesmen/Sonny_Boy_Williamson/">Санни
+    записывавшийся  на замечательном лейбле «Труба» (Trumpet), в частности, с <a href="/artist/sonny-boy-williamson/">Санни
     Боем Уилльямсоном II</a>.
 - id: 1626
   date: '1939-08-30'
@@ -19500,7 +19500,7 @@
   text: в Хисуолле, Великобритания, родился Джон Пил (John PEEL). Легендарный английский радиоведущий и продюсер, он всегда
     обладал нюхом на самую модную музыку сезона. Соответственно, давным давно к блюзу он не имеет отношения, но в 60-х, когда
     именно блюз считался «продвинутым музоном», он немало сделал для его пропаганды (даже писал статьи для обложек альбомов
-    <a href="/bluesmen/John_Mayall/">Джона Мэйолла</a>, что отец британского блюза больше не доверял больше никому, кроме
+    <a href="/artist/john-mayall/">Джона Мэйолла</a>, что отец британского блюза больше не доверял больше никому, кроме
     себя, любимого).
 - id: 1632
   date: '1900-08-31'
@@ -19585,7 +19585,7 @@
   picture: 0831MorrisonV.jpg
   text: в Белфасте, Северная Ирландия, родился Вэн Моррисон (Van MORRISON). Выдающийся музыкант, вокалист, композитор, он
     начинал свой путь вместе с группой «Им» (Them), чей репертуар основывался на блюзовых стандартах. Позже, ведя успешную
-    сольную карьеру, неоднократно на протяжении многих лет записывался с <a href="/bluesmen/John_Lee_Hooker/">Джоном Ли Хукером</a>.
+    сольную карьеру, неоднократно на протяжении многих лет записывался с <a href="/artist/john-lee-hooker/">Джоном Ли Хукером</a>.
 - id: 1635
   date: '1962-08-31'
   month_day: 08-31
@@ -19603,7 +19603,7 @@
   event_type: born
   title: Danny Kirwan
   picture: null
-  text: в Лондоне <a href="/bluesmen/Peter_Green/">Питер Грин</a> присоединил третьего ведущего гитариста к своей группе «Флитвуд
+  text: в Лондоне <a href="/artist/peter-green/">Питер Грин</a> присоединил третьего ведущего гитариста к своей группе «Флитвуд
     Мак». Им был 18-летний Дэнни Кируэйн (Danny KIRWAN). Начинался короткий, двухгодичный, но воистину «золотой век» группы.
 - id: 301
   date: '1928-09-01'
@@ -19663,7 +19663,7 @@
   event_type: misc
   title: Jeremy Spencer
   picture: null
-  text: 'в Лондоне Джереми Спенсер (Jeremy SPENCER) присоединился к выходцам из группы Джона Мэйэлла: <a href="/bluesmen/Peter_Green/">Питеру
+  text: 'в Лондоне Джереми Спенсер (Jeremy SPENCER) присоединился к выходцам из группы Джона Мэйэлла: <a href="/artist/peter-green/">Питеру
     Грину</a>, Джону МакВи и Мику Флитвуду. Группа «Флитвуд Мак Питера Грина» (Peter Green’s Fleetwood Mac) стала квартетом.'
 - id: 307
   date: '1970-09-01'
@@ -19700,7 +19700,7 @@
   event_type: died
   title: R.L. Burnside
   picture: 0901Burnside.jpg
-  text: в Мемфисе, в больнице в возрасте 78 лет скончался <a href="/bluesmen/RL_Burnside/">Ар-Эл Бернсайд</a> (R.L. BURNSIDE).
+  text: в Мемфисе, в больнице в возрасте 78 лет скончался <a href="/artist/rl-burnside/">Ар-Эл Бернсайд</a> (R.L. BURNSIDE).
     Певец и гитарист, он соединял миссиссипские традиции с более современным электрическим стилем джюк-джоинтов хилл-каунтри
     (hill country juke joints). Зарабатывал сельским трудом и держал свой кабачок, где выступал с вместе с сыновьями. Впервые
     записавшись в 1967г., он получил известность и стал профессиональным музыкантом после фильма "Глубокий блюз" (Deep Blues)
@@ -19731,7 +19731,7 @@
   title: Billy Preston
   picture: 0909preston.gif
   text: в Хьюстоне, Техас, родился Билли Престон (Billy PRESTON). Вундеркинд-самоучка! он учился играть на пианино, сидя на
-    коленях у мамочки, в 10 уже аккомпанировал великой Мохалии Джексон. А когда ему было 12 – сыграл роль отца блюза <a href="/bluesmen/WC_Handy/">Дабл-Ю
+    коленях у мамочки, в 10 уже аккомпанировал великой Мохалии Джексон. А когда ему было 12 – сыграл роль отца блюза <a href="/artist/wc-handy/">Дабл-Ю
     Си Хэнди</a> (не в период "отцовства" оного, разумеется, а когда тот был мальчиком Билли) в голливудском биографическом
     фильме «Сент-Луис Блюз» И пел дуэтом с Nat King Cole в его телепрограмме. Позже аккомпанировал Рэю Чарлзу и Литл Ричарду
     и записывался с «Битлами», "Роллинг стоунз", Эриком Клэптоном и многими другими, даже с Майлзом Дэвисом. Его сольные работы
@@ -19746,7 +19746,7 @@
   title: J.B. Lenoir
   picture: null
   text: 'в Чикаго Джей-Би Ленор (J.B. Lenoir) за один день записал выдающийся альбом "Далеко в Миссиссиппи" (Down In Mississippi).
-    В нескольких номерах на ударных ему подыгрывал Фред Билоу, супервайзером на записи был <a href="/bluesmen/Willie_Dixon/">Вилли
+    В нескольких номерах на ударных ему подыгрывал Фред Билоу, супервайзером на записи был <a href="/artist/willie-dixon/">Вилли
     Диксона</a>, его легко узнаваемый голос слышен в двух треках. Отдельные треки издавались в сборниках, но полностью альбом
     был опубликован только в 1970 г.На CD этот альбом вошел в "Полное собрание записей для L+R" под названием "Viet-Nam Blues".<br><center>
 
@@ -19758,7 +19758,7 @@
   event_type: misc
   title: Muddy Waters
   picture: null
-  text: '<a href="/bluesmen/Muddy_Waters/">Мадди Уотерс</a> (Muddy Waters) принимал участие в фестивалях с "воздушными" названиями:
+  text: '<a href="/artist/muddy-waters/">Мадди Уотерс</a> (Muddy Waters) принимал участие в фестивалях с "воздушными" названиями:
     the Sky River Rock Festival и Lighter-Than-Air Fair. Среди прочих участников были мега-популярные тогда среди любителей
     "смыслового" и "прогрессивного" рока "Грейтфул Дед" и Сантана.'
   artist_slug: muddy-waters
@@ -20060,7 +20060,7 @@
   title: Bob Stroger
   picture: null
   text: <A HREF="/bluesnews/bbk_stroger/">концертом в Клубе B.B.King</a> открылись московские гастроли чикагского блюзмена
-    <a href="/bluesmen/Bob_Stroger/">Боба Строгера</a> (Bob Stroger). Следующие три вечера он выступал в клубе «Дом У Дороги».
+    <a href="/artist/bob-stroger/">Боба Строгера</a> (Bob Stroger). Следующие три вечера он выступал в клубе «Дом У Дороги».
     И последний концерт состоялся 9 сентября в Jazz Town. Он привез в Москву настоящий чикагский клубный блюз. Боба Строгера
     справочник AMG называет "великим блюзовым басистом".
   artist_slug: bob-stroger
@@ -20155,7 +20155,7 @@
   event_type: born
   title: Little Milton
   picture: 0907LMilton.jpg
-  text: 'в Инвернессе, Миссиссиппи, родился <a href="/data/artistview.aspx?aid=166">Милтон Кэмпбэлл</a>, даже взрослым остававшийся
+  text: 'в Инвернессе, Миссиссиппи, родился <a href="/artist/little-milton/">Милтон Кэмпбэлл</a>, даже взрослым остававшийся
     Маленьким (Little Milton). Его голос и гитара были идеальным блюзовым дуэтом: оба мягкие, порой вкрадчивые, сдержанно
     игривые… Ласкающий соул-блюз и проницательный городской блюз были гранями, между которыми он располагал свои записи. Удивительно,
     что, не смотря на серию хитов, включая №1, он не пользовался особой славой. И историки не отводят ему особое место в смене
@@ -20219,7 +20219,7 @@
   title: Harmonica Fats
   picture: 0908HarmonicaFats.jpg
   text: в МакДейд, Луизиана, родился Харвей Блэкстоун. Ему стукнуло 30, и у него уже был один хит в ритмэндблюзовых чартах,
-    когда он превратился в «<a href="/bluesmen/Harmonica_Fats/">Толстяка с Гармошкой</a>» (HARMONICA FATS).
+    когда он превратился в «<a href="/artist/harmonica-fats/">Толстяка с Гармошкой</a>» (HARMONICA FATS).
   artist_slug: harmonica-fats
 - id: 345
   date: '1930-09-08'
@@ -20393,7 +20393,7 @@
   event_type: died
   title: Clarence "Gatemouth" Brown
   picture: 0910Brown.jpg
-  text: 'на 82 году жизни после продолжительной болезни скончался <a href="/bluesmen/Clarence_Gatemouth_Brown/">Кларенс "Гейтмаус"
+  text: 'на 82 году жизни после продолжительной болезни скончался <a href="/artist/clarence-gatemouth-brown/">Кларенс "Гейтмаус"
     Браун</a> (Clarence "Gatemouth" BROWN). Он умер в доме своего брата в городе Орандж, Техас – в городе, где он вырос. Последние
     годы он проживал в пригороде Нового Орлеана, и эвакуировался вместе с семьей, когда было объявлено о приближении урагана
     "Катрин". Известие о разрушении дома сильно угнетало Брауна в последние дни. Рик Кейди, его агент, говорит, что оно "лежало
@@ -20502,7 +20502,7 @@
   event_type: hit
   title: John Lee Hooker
   picture: null
-  text: в Голливуде, на знаменитой Аллее славы была открыта звезда <a href="/bluesmen/John_Lee_Hooker/">Джона Ли Хукера</a>
+  text: в Голливуде, на знаменитой Аллее славы была открыта звезда <a href="/artist/john-lee-hooker/">Джона Ли Хукера</a>
     (John Lee HOOKER).
   artist_slug: john-lee-hooker
 - id: 2452
@@ -20909,7 +20909,7 @@
   event_type: born
   title: Billy Boy Arnold
   picture: 0916Arnold.jpg
-  text: в Чикаго, Иллинойс, родился Виллиам Арнольд, который и в преклонные годы оставался «Мальчиком Билли» (<a href="/bluesmen/Billy_Boy_Arnold/">Billy
+  text: в Чикаго, Иллинойс, родился Виллиам Арнольд, который и в преклонные годы оставался «Мальчиком Билли» (<a href="/artist/billy-boy-arnold/">Billy
     Boy ARNOLD</a>). Играл на гармонике в первых, ныне легендарных, записях Бо Диддли. В 50-х как солист записал несколько
     своих песен, ставших стандартами. В 90-х выпустил два великолепных энергичных альбома на «Alligator». Из тех чикагских
     ветеранов, кто определенно «не постареет душой».
@@ -21203,7 +21203,7 @@
   event_type: died
   title: Nappy Brown
   picture: 0920NBrown.jpg
-  text: в городе Шарлот (Северная Королина) отошел в мир иной во сне вокалист <a href="/data/artistview.aspx?aid=253">Нэппи
+  text: в городе Шарлот (Северная Королина) отошел в мир иной во сне вокалист <a href="/artist/nappy-brown/">Нэппи
     Браун</a> (Nappy Brown). Ему было 78 лет. Первую запись он сделал в 1954 году. Последний альбом (Long Time Coming) вышел
     на Blind Pig в 2007 г.
   artist_slug: nappy-brown
@@ -21770,9 +21770,9 @@
   title: Don Nix
   picture: 0927Nix.gif
   text: в Мемфисе, Теннеси, родился Дон Никс (Don NIX). Как саксофонист, он был участником первого состава группы «Мар-Кейз».
-    Но большую известность ему принесли продюсерские работы с такими звездами соул и блюза, как <a href="/bluesmen/Albert_King/">Алберт
-    Кинг</a> и <a href="/bluesmen/Freddy_King/">Фредди Кинг</a>, <a href="/bluesmen/Charlie_Musselwhite/">Чарли Масселвайт</a>
-    и <a href="/bluesmen/John_Mayall/">Джон Мэйолл</a>… Он сочинил множество песен, некоторые из которых уже стали блюзовыми
+    Но большую известность ему принесли продюсерские работы с такими звездами соул и блюза, как <a href="/artist/albert-king/">Алберт
+    Кинг</a> и <a href="/artist/freddie-king/">Фредди Кинг</a>, <a href="/artist/charlie-musselwhite/">Чарли Масселвайт</a>
+    и <a href="/artist/john-mayall/">Джон Мэйолл</a>… Он сочинил множество песен, некоторые из которых уже стали блюзовыми
     стандартами, например «Опускаясь на дно» (Going Down). Don Nix (born September 27, 1941, Memphis, Tennessee, United States)
     is an American songwriter, composer, arranger, musician, and author. Although cited as being "one of the more obscure
     figures in Southern soul and rock", he is a key figure in several genres of Southern rock and soul, R&B, and the blues.
@@ -21784,10 +21784,10 @@
   event_type: hit
   title: Little Walter
   picture: null
-  text: инструментальная пьеса <a href="/bluesmen/Little_Walter/">Литл Уолтера</a> (Little Walter) под названием «Кабак c
+  text: инструментальная пьеса <a href="/artist/little-walter/">Литл Уолтера</a> (Little Walter) под названием «Кабак c
     музыкой» (Juke) заняла высшую позицию в ритмэндблюзовом хит-параде. Литл Уолтер тут же решил покинуть блюзбэнд Мадди Уотерса
     и заняться сольной карьерой (говорят, его на это подбил Леонард Чесс, которому чем больше звезд - тем лучше). А место
-    харпера при Мадди тут же занял <a href="/bluesmen/Junior_Wells/">Джуниор Уэллс</a>.
+    харпера при Мадди тут же занял <a href="/artist/junior-wells/">Джуниор Уэллс</a>.
   artist_slug: little-walter
 - id: 639
   date: '1954-09-27'
@@ -21796,7 +21796,7 @@
   event_type: recorded
   title: Lowell Fulson
   picture: null
-  text: в Далласе певец и гитарист <a href="/bluesmen/Lowell_Fulson/">Лоуэлл Фулсон</a> (Lowell FULSON) записал свою песню
+  text: в Далласе певец и гитарист <a href="/artist/lowell-fulson/">Лоуэлл Фулсон</a> (Lowell FULSON) записал свою песню
     "Подумай еще раз, крошка" (Reconsider Baby), ставшую его визитной карточкой и блюзовой классикой. Саксофонист Дэвид "Твердолобый"
     Ньюмэн (David "Fathead" Newman) аккомпанировал ему на записи. Пластинка была опубликована чикагской фирмой <a href="/label/Chess/">Chess</a>,
     и с нее начинается союз "Чесс" и Фулсона, продолжавшийся 9 лет.
@@ -21866,9 +21866,9 @@
   event_type: born
   title: Koko Taylor
   picture: 0928Taylor.jpg
-  text: 'в Мемфисе, Теннеси, родилась Кора Уолтон, которой суждено было войти в историю чикагского блюза под именем <a href="/bluesmen/Koko_Taylor/">Коко
+  text: 'в Мемфисе, Теннеси, родилась Кора Уолтон, которой суждено было войти в историю чикагского блюза под именем <a href="/artist/koko-taylor/">Коко
     Тейлор</a> (Koko TAYLOR). Сильный голос, мощный "наждачный звук", абсолютно искреннее и полное вхождение в образ каждой
-    песни – за это ее удостоили титула «Королева блюза». Протеже <a href="/bluesmen/Willie_Dixon/">Уилли Диксона</a>, она
+    песни – за это ее удостоили титула «Королева блюза». Протеже <a href="/artist/willie-dixon/">Уилли Диксона</a>, она
     была первой исполнительницей многих его бессмертных хитов, например. А вот прозвище ее было довольно легкомысленным: "Коко"
     ее прозвали еще в детстве - за любовь к шоколаду.'
   artist_slug: koko-taylor
@@ -21911,7 +21911,7 @@
   title: C.J. Chenier
   picture: null
   text: 'в Порт-Артуре, Техас, родился Клейтон Джозеф (для краткости: <a href="/efes/cjchenier.asp">Си-Джей) Шениер</a> (C.J.
-    CHENIER), сын короля музыки зайдекоу <a href="/bluesmen/Clifton_Chenier/">Клифтона Шеньера</a>. В юные годы играл в джазовых
+    CHENIER), сын короля музыки зайдекоу <a href="/artist/clifton-chenier/">Клифтона Шеньера</a>. В юные годы играл в джазовых
     ансамблях на флейте, тромбоне, саксофоне и клавишных. Но пришло время – и он перенял отцовскую эстафету зайдекоу, приняв
     руководство отцовским ансамблем The Red Hot Louisiana Band и взяв в руки аккордеон. Значительно осовременив стиль, Си-Джей
     показал себя и виртуозным музыкантом и блестящим шоуменом. Что могли оценить зрители <a href="/efes/efes2002.asp">EFES
@@ -21946,7 +21946,7 @@
   text: 'в Кейбнесс, Джорджиа, родился Роберт Уиллис, получивший прозвище «Цыпа» (Chick WILLIS). Отслужив в армии, устроился
     водителем и подручным к своему кузену, певцу Чаку Уллису. Так открылась дверь в шоу-бизнес. Два года спустя он выиграл
     конкурс новых талантов и выпустил дебютную сорокопятку. Многие из его пластинок хорошо продавались, но не звучали по радио:
-    слишком перченый текст у них был. Работал с Гитар-Слимом и с <a href="/bluesmen/Elmore_James/">Элмором Джеймсом</a>.'
+    слишком перченый текст у них был. Работал с Гитар-Слимом и с <a href="/artist/elmore-james/">Элмором Джеймсом</a>.'
 - id: 399
   date: '1935-09-29'
   month_day: 09-29
@@ -22029,7 +22029,7 @@
   event_type: born
   title: Z.Z.Hill
   picture: 0930ZZHill.jpg
-  text: 'в Нэплзе, Техас, родился Арзелл <a href="/data/artistview.aspx?aid=231">Зет-Зет Хилл</a> (Z.Z.HILL). Дебютный сингл
+  text: 'в Нэплзе, Техас, родился Арзелл <a href="/artist/z-z-hill/">Зет-Зет Хилл</a> (Z.Z.HILL). Дебютный сингл
     выпустил в 1964, но лишь альбомы 80-х принесли ему широкий успех. Его второй альбом Down Home Blues (1982) продержался
     два года в ритм-энд-блюзовых чартах. Роберт Сантелли пишет: «В то время популярность Хилла была выше, чем даже БиБиКинга
     или других блюзменов-ветеранов. Хотя его едва знала белая аудитория. Альбом «Домашний блюз» сделал его звездой. Он так
@@ -22046,7 +22046,7 @@
   picture: 0930TailDragger.jpg
   text: в Алтеймере, Арканзас, родился Джеймс Янси Джонс. В 16 лет он перебрался в Чикаго, поскольку самые любимые его артисты,
     которых он слышал по радио, работали в этом городе. Здесь он по началу работал автомехаником, но быстро включился в блюзовый
-    круг и подружился с Хаулин Вулфом… Который, вроде бы, и присвоим ему прозвище "<a href="/data/artistview.aspx?aid=344">Тейл
+    круг и подружился с Хаулин Вулфом… Который, вроде бы, и присвоим ему прозвище "<a href="/artist/tail-dragger/">Тейл
     Дреггер</a>" (Tail Dragger). Считалось, что прозвище это он заработал за то, что частенько опаздывал на концерты. Но одна
     из самых знаменитых песен Хаулин Вулфа так и называется «Tail Dragger» - но сюжет там совсем иной. После смерти Вулфа
     в 1976 г. Тейлдреггер всегда собирал ансамбли, в которых хоть кто-то хоть когда-то выступал с Вулфом. В 1993 г. Тейлдреггер
@@ -22140,7 +22140,7 @@
   event_type: born
   title: Albert Collins
   picture: 1001CollinsA.jpg
-  text: в Леоне, Техас, родился <a href="/bluesmen/Albert_Collins/">Алберт Коллинз</a> (Аlbert COLLINS). «Мастер телекастера»
+  text: в Леоне, Техас, родился <a href="/artist/albert-collins/">Алберт Коллинз</a> (Аlbert COLLINS). «Мастер телекастера»
     и «Ледовик» - первое прозвище по любимой гитаре, второе по ее необычному резкому пронзительному леденящему тембру. Первый
     сингл выпустил в 1958г. В блюзе он - на равных со всеми великими.
   artist_slug: albert-collins
@@ -22347,8 +22347,8 @@
   picture: 1007CJames.jpg
   text: "в Чикаго, Иллинойс, родился Клифтон Джеймс (Clifton JAMES). Человек с добрым характером и отличный барабанщик, он\
     \ был незаменим на джем-сейшенах с участием звезд чикагского блюза. Он был постоянным участником «Фестивалей американского\
-    \ фолк-блюза» под руководством <a href=\"/bluesmen/Willie_Dixon/\">Вилли Диксона</a> и проектов, вроде Super Super Blues\
-    \ Band. Он работал и с <a href=\"/bluesmen/John_Lee_Hooker/\">Джоном Ли Хукером</a>, и со всеми великими чикагцами конца\
+    \ фолк-блюза» под руководством <a href=\"/artist/willie-dixon/\">Вилли Диксона</a> и проектов, вроде Super Super Blues\
+    \ Band. Он работал и с <a href=\"/artist/john-lee-hooker/\">Джоном Ли Хукером</a>, и со всеми великими чикагцами конца\
     \ 50-х и 60-х годов. На протяжении 16 лет он записывался с Бо Диддли, создав яркий, легко узнаваемый «ритм Бо Диддли»,\
     \ прямо связанный с традициями африканских (бурундийских) церемониальных барабанов. \n(\"ВЭБ\" к 75-летнему юбилею: <a\
     \ href=\"http://www.echo.msk.ru/programs/blues/816641-echo/comments.html#comments\" target=\"_blank\">на \"Эхе\"</a>,\
@@ -22404,7 +22404,7 @@
   event_type: born
   title: Coco Montoya
   picture: 1002Montoya.jpg
-  text: В Санта-Монике, Калифорния, родился <a href="/bluesmen/Coco_Montoya/">Коко Монтойа</a>, певец и гитарист, блюзовый
+  text: В Санта-Монике, Калифорния, родился <a href="/artist/coco-montoya/">Коко Монтойа</a>, певец и гитарист, блюзовый
     соул-мэн, много сотрудничавший с Джоном Мэйоллом. <a href="/bluesnews/11B/11_09_29_Montoya/index.html">Концерт в Москве
     в 2011 году</a>. Coco Montoya (born Henry Montoya, October 2, 1951, Santa Monica, California) is an American blues guitarist
     and singer and former member of John Mayall & the Bluesbreakers.
@@ -22418,7 +22418,7 @@
   picture: null
   text: 'в Лос-Анджелесе, Калифорния, в возрасте 59 лет умер Джордж Хармоника Смит (George “Harmonica" SMITH). Он выступал
     на сцене с подросткового возраста в 50-х и до конца своих дней. Никогда не давал платных уроков, но с удовольствием принимал
-    учеников. Одним из них был <a href="/bluesmen/William_Clarke/">Вилльям Кларк</a>, написавший о Смите так: «Он владел техникой
+    учеников. Одним из них был <a href="/artist/william-clarke/">Вилльям Кларк</a>, написавший о Смите так: «Он владел техникой
     игры на хроматике, при которой он мог играть аккорд из двух нот с интервалом в октаву… Я ни разу не слышал, чтобы он сыграл
     одну и ту же песню одинаково. Он играл от самого сердца. Очень добрый и внимательный человек. Он всегда готов был помочь
     начинающим исполнителям. Все любили Джорджа Смита. Он сыграл огромную роль в продвижении губной гармоники, его нельзя
@@ -22471,7 +22471,7 @@
   event_type: born
   title: Billy Branch
   picture: 1003BillyBRANCH.jpg
-  text: в Грейт-Лейкс, Иллинойс, родился <a href="/bluesmen/Billy_Branch/">Билли Бранч</a> (Billy BRANCH), мастер игры на
+  text: в Грейт-Лейкс, Иллинойс, родился <a href="/artist/billy-branch/">Билли Бранч</a> (Billy BRANCH), мастер игры на
     губной гармонике, может и не самый яркий проводник чикагских блюзовых традиций в наши дни, но виртуоз и отличный певец.
     Получив диплом политолога в Чикагском университете, ушел играть в ансамбль Вилли Диксона "Все звезды". Собрал проект «Сыны
     блюза» (Sons Of Blues), много работает и как солист, и как сайдмен, и как преподаватель блюзовых наук. Трижды номинировался
@@ -22488,7 +22488,7 @@
   event_type: born
   title: Keb’MO
   picture: null
-  text: в Лос-Анджелесе, Калифорния, родился Кевин Мур, ныне известный в блюзе как <a href="/bluesmen/Keb_Mo/">Кеб-Мо</a>
+  text: в Лос-Анджелесе, Калифорния, родился Кевин Мур, ныне известный в блюзе как <a href="/artist/keb-mo/">Кеб-Мо</a>
     (Keb’MO). Профессионально выступать начал в 1972, но дебютный альбом выпустил только 22 года спустя. Отлично знает традицию,
     но в своих альбомах отрабатывает чистый современный саунд с прилежанием перфекциониста. Неоднократный лауреат "Грэмми".
     Kevin Roosevelt Moore (born October 3, 1951), known as Keb' Mo', is an American blues musician and five-time Grammy Award
@@ -22505,7 +22505,7 @@
   event_type: born
   title: Stevie Ray Vaughan
   picture: 1003SRV.jpg
-  text: в Далласе, Техас, родился <a href="/bluesmen/Stevie_Ray_Vaughan/">Стиви Рэй Воэн</a> (Stevie Ray VAUGHAN), великий
+  text: в Далласе, Техас, родился <a href="/artist/stevie-ray-vaughan/">Стиви Рэй Воэн</a> (Stevie Ray VAUGHAN), великий
     революционер современной блюзовой гитары. Его инновации разошлись настолько широко, что сегодня новое поколение гитаристов
     воспринимает их как банальные штампы. На самом деле, в застойное для блюза десятилетие 80-х Стиви удалось вдохнуть новую
     жизнь в блюзовую музыку, наполнить ее новой энергетикой, внести искренние и яркие чувства.
@@ -22517,7 +22517,7 @@
   event_type: born
   title: Deborah Coleman
   picture: 1003COLEMAN.jpg
-  text: в Портсмуте, Виржиния, родилась <a href="/bluesmen/Deborah_Coleman/">Дебора Коулман</a> (Deborah COLEMAN), певица
+  text: в Портсмуте, Виржиния, родилась <a href="/artist/deborah-coleman/">Дебора Коулман</a> (Deborah COLEMAN), певица
     и гитаристка. Начав профессиональную музыкальную карьеру в 15 лет, в 25 лет она взяла долгий отпуск от музыки на все время,
     пока ее дочь не поступила в колледж. (во время этого отпуска средства на существования зарабатывала как медсестра или
     электрик!). Вернувшись на сцену, она победила в общенациональном Фестивале-Конкурсе по поиску блюзовых талантов в Чарлстоне
@@ -22546,7 +22546,7 @@
   picture: null
   text: в Филадельфии скончался от рака певец и гитарист <a href="/BlackCat/sj.htm">Скип Джеймс</a> (Skip JAMES), представитель
     так называемой бентонианской (bentonian) школы миссиссиппского блюза, оказавший огромное влияние на многих блюзменов от
-    <a href="/BlackCat/rj.htm">Роберта Джонсона</a> до <a href="/bluesmen/Eric_Clapton/">Эрика Клэптона</a>.
+    <a href="/BlackCat/rj.htm">Роберта Джонсона</a> до <a href="/artist/eric-clapton/">Эрика Клэптона</a>.
   artist_slug: skip-james
 - id: 426
   date: '1976-10-03'
@@ -22577,7 +22577,7 @@
   event_type: died
   title: Otis Rush
   picture: 000or.jpg
-  text: 29 сентября... Этот день стал черным в истории Чикагского блюза. После долгой тяжелой болезни ушел из жизни <a href="/bluesmen/Otis_Rush/">Otis
+  text: 29 сентября... Этот день стал черным в истории Чикагского блюза. После долгой тяжелой болезни ушел из жизни <a href="/artist/otis-rush/">Otis
     Rush</a>
   artist_slug: otis-rush
 - id: 432
@@ -22606,8 +22606,8 @@
   event_type: born
   title: Duke Robbilard
   picture: 1004Duke.jpg
-  text: в Вунсокете родился Майкл <a href="/bluesmen/Duke_Robillard/">Робиллард, именуемый ныне Герцогом</a> (Duke ROBILLARD).
-    В 1967г., идя против господствующих музыкальных течений, он собрал «самый маленький биг бэнд в мире» - группу «<a href="/data/artistview.aspx?aid=110">Полна
+  text: в Вунсокете родился Майкл <a href="/artist/duke-robillard/">Робиллард, именуемый ныне Герцогом</a> (Duke ROBILLARD).
+    В 1967г., идя против господствующих музыкальных течений, он собрал «самый маленький биг бэнд в мире» - группу «<a href="/artist/roomful-of-blues/">Полна
     комната блюза</a>» (Roomful of Blues). 12 лет спустя он занялся сольной карьерой, меняя стили от альбома к альбому. На
     недолгое время присоседился к «Сказочным буревестникам» (Fabulous Thunderbirds). Тонкий стилист и необыкновенно разнообразный
     гитарист.
@@ -22683,8 +22683,8 @@
   event_type: born
   title: Rick Estrin
   picture: 1005Estrin.jpg
-  text: в Лос-Анджелесе, Калифорния, родился <a href="/bluesmen/Rick_Estrin/">Рик Эстрин</a> (Rick Estrin). В 1976 он познакомился
-    с Чарли Бэйти – и родилась замечательная группа «<a href="/bluesmen/Little_Charlie/">Маленький Чарли и ночные коты</a>»
+  text: в Лос-Анджелесе, Калифорния, родился <a href="/artist/rick-estrin/">Рик Эстрин</a> (Rick Estrin). В 1976 он познакомился
+    с Чарли Бэйти – и родилась замечательная группа «<a href="/artist/little-charlie/">Маленький Чарли и ночные коты</a>»
     (Little Charlie & The Nightcats). В ней Рик пел, играл на гармонике и сочинял песни, не раз удостоенные премии имени W.C.Handy
     как лучший блюз года. Весьма ироничный мужчина – во всяком случае, если судить по его текстам. В 2007 г. Little Charlie
     официально покинул групппу. Эстрин выпустил весьма скромный сольный альбом, а в 2009 г., вместе с The Nightcats на любимом
@@ -22732,7 +22732,7 @@
   title: Lonnie Mack
   picture: null
   text: сингл Лонни Мака (Lonnie MACK) с инструментальной пьесой «Бам!» (Wham!)  попал в чарты на 24 место. Это любимая пластинка
-    мальчика по имени Стиви. 23 года спустя Лонни и <a href="/bluesmen/Stevie_Ray_Vaughan/">Стиви Рей</a> запишут инструментальную
+    мальчика по имени Стиви. 23 года спустя Лонни и <a href="/artist/stevie-ray-vaughan/">Стиви Рей</a> запишут инструментальную
     пьесу "Двойной Бабах" (Double Whammy) для нового альбома Лонни Мака.
   artist_slug: lonnie-mack
 - id: 1744
@@ -22764,7 +22764,7 @@
   title: Little Sonny
   picture: 1006LITTLESONNY.jpg
   text: 'в Гринсборо, Алабама, родился Аарон Виллис, в блюзе известный под прозвищем, которое дала ему его мама: Сыночек (<a
-    href="/data/artistview.aspx?aid=181">LITTLE SONNY</a>). Дебютный сингл записал в 1958. И, хотя ни этот, ни последовавшие
+    href="/artist/little-sonny/">LITTLE SONNY</a>). Дебютный сингл записал в 1958. И, хотя ни этот, ни последовавшие
     за ним не имели особого успеха, свой первый альбом Литтл Сонни назвал не без претензии: «Новый Король Блюзовой Гармоники»
     (New King of the Blues Harmonica), да и альбом вышел не где-нибудь, а на Stax. В записи некоторых его альбомов принимал
     участие его сын, гитарист Аарон Виллис-младший. Альбом 2003 года был записан и издан в Японии. <i>(не путать с новоорлеанским
@@ -22778,7 +22778,7 @@
   event_type: hit
   title: Ruth Brown
   picture: null
-  text: '<a href="/bluesmen/Ruth_Brown/">Рут Браун</a> (Ruth BROWN) штурмовала чарты: сингл с песней «Мама, он плохо обращается
+  text: '<a href="/artist/ruth-brown/">Рут Браун</a> (Ruth BROWN) штурмовала чарты: сингл с песней «Мама, он плохо обращается
     с твоей дочерью» ("Mama He Treats Your Daughter Mean") занял высшую позицию в ритмэнблюзовом параде, а в общем поп-чарте
     на третьей позиции расположился ее сингл с песней «Дикие-дикие молодые люди» (Wild Wild Young Men).'
   artist_slug: ruth-brown
@@ -22888,7 +22888,7 @@
   event_type: born
   title: W.C.HANDY, Jr.
   picture: null
-  text: в Кларксдейле, Миссиссиппи,  родился Дабл-Ю Си Хенди-младший (W.C.HANDY, Jr.), пошедший по стопам <a href="/bluesmen/WC_Handy/">отца</a>
+  text: в Кларксдейле, Миссиссиппи,  родился Дабл-Ю Си Хенди-младший (W.C.HANDY, Jr.), пошедший по стопам <a href="/artist/wc-handy/">отца</a>
     и ставший композитором и антрепренером.
   artist_slug: wc-handy
 - id: 453
@@ -22914,7 +22914,7 @@
   event_type: born
   title: Lonnie Pitchford
   picture: 1008PITCHFORD.jpg
-  text: 'в Лексингтоне родился <a href="/bluesmen/Lonnie_Pitchford/">Лонни Питчфорд</a> (Lonnie PITCHFORD). На семейных праздниках
+  text: 'в Лексингтоне родился <a href="/artist/lonnie-pitchford/">Лонни Питчфорд</a> (Lonnie PITCHFORD). На семейных праздниках
     он веселил собравшихся игрой на диддлей-боу, инструменте с одной струной, с которого начинали многие блюзмены несколькими
     поколениями раньше его. Затем стал выступать на фолк- и блюз-фестивалях, смешивая традиционные истоки и более современную
     трактовку блюза.
@@ -22966,7 +22966,7 @@
   event_type: misc
   title: Chuck Berry
   picture: null
-  text: вышел на экраны фильм «Ура! Ура! Рок-н-ролл» ('Hail! Hail! Rock 'n' Roll'), посвященный <a href="/bluesmen/Chuck_Berry/">Чаку
+  text: вышел на экраны фильм «Ура! Ура! Рок-н-ролл» ('Hail! Hail! Rock 'n' Roll'), посвященный <a href="/artist/chuck-berry/">Чаку
     Берри</a>. Режиссер – Кейт Ричардс. В этот же день в пресловутый Бульвар славы в Голливуде впечатали звезду с именем Chuck
     Berry.
   artist_slug: chuck-berry
@@ -23041,8 +23041,8 @@
   title: Johnnie Bassett
   picture: 1009BASSETT.jpg
   text: 'в Марианне, Флорида, родился Джонни Бассетт (Johnnie BASSETT). Блюз окружал его с детства. <a href="/BlackCat/tr.htm">Тампа
-    Ред</a> и <a href="/bluesmen/Arthur_Crudup/">Артур Биг Бой Крадап</a> выступали на рыбных шашлыках (fish fries) во дворе
-    дома его бабушки. <a href="/bluesmen/T-Bone_Walker/">Ти-Боун Уокер</a> оказал основное влияние на формирование его гитарного
+    Ред</a> и <a href="/artist/arthur-crudup/">Артур Биг Бой Крадап</a> выступали на рыбных шашлыках (fish fries) во дворе
+    дома его бабушки. <a href="/artist/t-bone-walker/">Ти-Боун Уокер</a> оказал основное влияние на формирование его гитарного
     стиля. В Детройте в 60-х много работал, как студийный музыкант, для души играя блюз по вечерам в клубах. В 1994 Детройтское
     блюзовое общество (Detroit Blues Society) вручило ему «Награду за достижения всей жизни « (lifetime achievement award).
     Два года спустя он выпустил первый альбом под собственным именем: «Я отдал свою жизнь блюзу» (I Gave My Life to the Blues),
@@ -23148,7 +23148,7 @@
   event_type: recorded
   title: Eddie Boyd
   picture: null
-  text: в Чикаго, Иллинойс, <a href="/data/artistview.aspx?aid=162">Эдди Бойд</a> (Eddie BOYD) в компании с Робертом-младшим
+  text: в Чикаго, Иллинойс, <a href="/artist/eddie-boyd/">Эдди Бойд</a> (Eddie BOYD) в компании с Робертом-младшим
     Локвудом и Вилли Диксоном записал свою песню «Наступают тяжелые времена» (Hard Time Getting Started).
   artist_slug: eddie-boyd
 - id: 542
@@ -23216,7 +23216,7 @@
   text: в Трое, Алабама, родился Джо Лигон (Joe LIGON). В 1959г. вместе со школьным приятелем он начал создавать вокальную
     группу «Могучие облака радости» (Mighty Clouds Of Joy). Вместе с братом Эрмантом в группу пришел Элмо Франклин (Elmo FRANKLIN),
     тоже отмечавший день рождения 11 октября. «Облака…» исполняли госпелл, но стремились к современному звучанию, что раздражало
-    пуристов, но зато помогало выйти к более широкой аудитории. В 1977 году группа принимала участие в записи альбома <a href="/bluesmen/BB_King/">БиБиКинга</a>
+    пуристов, но зато помогало выйти к более широкой аудитории. В 1977 году группа принимала участие в записи альбома <a href="/artist/bb-king/">БиБиКинга</a>
     «Королевский размер» (King Size). «Облака…» продолжали выступать и в 90-х, что дает им право оспаривать титул «Самой долгоживущей
     группы» у самих «Роллинг стоунз».
 - id: 481
@@ -23361,7 +23361,7 @@
   title: Eric Clapton
   picture: null
   text: в Антигуа открылся реабилитационный центр «Перекресток» (Crossroads). 29-дневный курс лечения от алкогольной и нарко-зависимости
-    стоит 9.000$. Тем, кто не может заплатить, предлагается отработать после прохождения лечения. Название предложил <a href="/bluesmen/Eric_Clapton/">Эрик
+    стоит 9.000$. Тем, кто не может заплатить, предлагается отработать после прохождения лечения. Название предложил <a href="/artist/eric-clapton/">Эрик
     Клэптон</a> (Eric CLAPTON), который принимал активное участие в разработке программы курса. Он пообещал продолжать делиться
     своим опытом и время от времени лично работать с пациентами.
   artist_slug: eric-clapton
@@ -23384,7 +23384,7 @@
     «Медоточивые» (The Honeydrippers). Джимми примерно год поработал у него шофером, а затем собрал свой ансамбль «Капли радости»
     (The Drops of Joy). И, начиная с 1948, каждый год у него хоть одна песня попадала в Первую ритмэндблюзовую десятку. Последней
     стала в 1953г. одноаккордовая «Пьян» (Drunk). Правда, год спустя он еще записал песню «Я не пьян (просто выпиваю)» (I
-    Ain’t Drunk (I’m Just Drinking)), из которой так любил разыгрывать целый спектакль <a href="/bluesmen/Albert_Collins/">Алберт
+    Ain’t Drunk (I’m Just Drinking)), из которой так любил разыгрывать целый спектакль <a href="/artist/albert-collins/">Алберт
     Коллинз</a>. Вероятно, он и дальше бы разрабатывал тему, но молодой да наглый рок-н-ролл оттеснил его со сцены.
 - id: 495
   date: '1930-10-14'
@@ -23431,8 +23431,8 @@
   event_type: born
   title: Kenny Neal
   picture: 1014KennyNEAL.jpg
-  text: в Батон-Руж, Луизиана, родился <a href="/bluesmen/Kenny_Neal/">Кенни Нил</a> (Kenny NEAL).Его отец, видный луизианский
-    блюзмен <a href="/bluesmen/Raful_Neal/">Рафул Нил</a>, позаботился о том, чтобы сыновья прошли блюзовую закваску – все
+  text: в Батон-Руж, Луизиана, родился <a href="/artist/kenny-neal/">Кенни Нил</a> (Kenny NEAL).Его отец, видный луизианский
+    блюзмен <a href="/artist/raful-neal/">Рафул Нил</a>, позаботился о том, чтобы сыновья прошли блюзовую закваску – все
     они переиграли в отцовском блюзбэнде. А на заре 80-х начал недолгое существование «Блюз Бэнд Братьев Нил» (The Neal Brothers
     Blues Band), включавший в себя пять молодцов по фамилии Нил. Как вокалист, гитарист и харпер именно Кенни добился наибольшей
     известности. В 1991 году получил Награду театрального мира (Theatre World Award) за актерскую игру на Бродвее, в постановке
@@ -23670,7 +23670,7 @@
   event_type: recorded
   title: Little Milton
   picture: null
-  text: 'в Чикаго, в студии Chess, <a href="/data/artistview.aspx?aid=166">Маленький Милтон</a> (Little Milton) записал песню,
+  text: 'в Чикаго, в студии Chess, <a href="/artist/little-milton/">Маленький Милтон</a> (Little Milton) записал песню,
     ставшую его "визитной карточкой": «Если бы стены могли рассказать» ("If Walls Could Talk").'
   artist_slug: little-milton
 - id: 2464
@@ -23755,7 +23755,7 @@
   event_type: hit
   title: Staple Singers
   picture: null
-  text: госпел-чарты возглавили «<a href="/bluesmen/Pops_Staples/">Стаппл Сингерз</a>» с песней «Безоблачный день» (The Staple
+  text: госпел-чарты возглавили «<a href="/artist/pops-staples/">Стаппл Сингерз</a>» с песней «Безоблачный день» (The Staple
     Singers "Uncloudy Day".)
 - id: 559
   date: '1960-10-17'
@@ -23764,7 +23764,7 @@
   event_type: recorded
   title: Junior Wells
   picture: null
-  text: в Чикаго <a href="/bluesmen/Junior_Wells/">Джуниор Вэллс</a> (Junior WELLS) записал песню Мелвина Ландона «Связаться
+  text: в Чикаго <a href="/artist/junior-wells/">Джуниор Вэллс</a> (Junior WELLS) записал песню Мелвина Ландона «Связаться
     с ребенком» (Messin' With The Kid). Эта песня стала его визитной карточкой и блюзовой классикой.
   artist_slug: junior-wells
 - id: 1751
@@ -23785,7 +23785,7 @@
   event_type: hit
   title: Chuck Berry
   picture: null
-  text: Единственный раз за свою долгую карьеру <a href="/bluesmen/Chuck_Berry/">Чак Берри</a> дотянул свою песню до вершины
+  text: Единственный раз за свою долгую карьеру <a href="/artist/chuck-berry/">Чак Берри</a> дотянул свою песню до вершины
     поп-чартов. Успех принесла пошловатая шутка «Мой тренди-брень!» ("My Ding-a-Ling" Chuck Berry).
   artist_slug: chuck-berry
 - id: 522
@@ -23826,7 +23826,7 @@
   event_type: born
   title: Johnnie Temple
   picture: 1018Temple.gif
-  text: в Кэнтоне, Миссиссиппи, родился Джонни Темпл (Johnnie TEMPLE). <a href="/bluesmen/Michael_Cub_Koda/">К.Кода</a> назвал
+  text: в Кэнтоне, Миссиссиппи, родился Джонни Темпл (Johnnie TEMPLE). <a href="/artist/michael-cub-koda/">К.Кода</a> назвал
     его «одним из величайших невоспетых героев блюза». специалисты считают, что именно он начал вводить общепринятую теперь
     в блюзе технику игры на басовой струне шестиструнной гитары. Он начал выступать в Дельте еще подростком, в 30-х переехал
     в Чикаго, где работал вполне успешно. Но с наступлением эры электрического блюза вернулся на родину.
@@ -23894,7 +23894,7 @@
   event_type: born
   title: Chuck Berry
   picture: null
-  text: 'в Сент-Луисе, Миссури, родился Чарлз Эдвард Андерсон <a href="/bluesmen/Chuck_Berry/">Берри</a>, для краткости Чак
+  text: 'в Сент-Луисе, Миссури, родился Чарлз Эдвард Андерсон <a href="/artist/chuck-berry/">Берри</a>, для краткости Чак
     (Chuck BERRY), связующее звено от блюза к рок-н-роллу. Первая же его песня «Мэйбелин» (Maybellene) в 1955г. угодила в
     верхнюю десятку. Его утиная походка и двуструнные гитарные аккорды – символы рождения рок-н-ролла в не меньшей степени,
     чем баритон в сочетании с фрикциями бедер Элвиса Пресли. Сидел за решеткой то за неразборчивость в связях, то за неуплату
@@ -23930,7 +23930,7 @@
   title: Joshie Jo Armstead
   picture: null
   text: в Язу-Сити, Миссиссиппи, родилась Джоши Джо Армстид (Joshie Jo ARMSTEAD). Когда ей исполнилось 16, она уже была участницей
-    женского вокального трио «Айкишки» (Ikettes). Группу собрал <a href="/data/artistview.aspx?aid=192">Айка Тернера</a> для
+    женского вокального трио «Айкишки» (Ikettes). Группу собрал <a href="/artist/ike-turner/">Айка Тернера</a> для
     выступления в своем «Ревю Айка и Тины Тернер». Однако трио начало записываться самостоятельно под художественным руководством
     Айка и выпустило несколько ритмэндблюзовых хитов. В 1964г., когда таких хитов было уже 5, Айк, не только талантливый музыкант,
     но и ушлый делец шоу-бизнеса, собрал трио поддельных «Айкетиз» и отправил их на самостоятельные гастроли, а оригинальных
@@ -23988,7 +23988,7 @@
   title: Billy Gayles
   picture: null
   text: в Этеле, Луизиана, родился Билли Гейлз (Billy GAYLES). Популярный ритмэндблюзовый барабанщик в конце 50-х и в 60-х,
-    он в основном работал в ревю <a href="/data/artistview.aspx?aid=192">Айка Тернера</a>.
+    он в основном работал в ревю <a href="/artist/ike-turner/">Айка Тернера</a>.
 - id: 534
   date: '1944-10-19'
   month_day: 10-19
@@ -24134,7 +24134,7 @@
   title: Canned Heat
   picture: null
   text: во Франции в номере отеля был найден мертвым Генри Вестайн, известный в хипповые времена как «Подсолнух» (Henry "The
-    Sunflower" Vestine), участник группы «<a href="/bluesmen/Canned_Heat/">Консервированная жара</a>» (Canned Heat). Причина
+    Sunflower" Vestine), участник группы «<a href="/artist/canned-heat/">Консервированная жара</a>» (Canned Heat). Причина
     смерти, как это часто бывало с блюзменами, не установлена. Ему было 57 лет.
   artist_slug: canned-heat
 - id: 2681
@@ -24210,8 +24210,8 @@
   picture: 1021SCropper.jpg
   text: в Виллоу-Спрингз, Миссури, родился Стив Кроппер (Steve CROPPER). Он начинал в инструментальной группе Mar-Keys, продолжил
     как сооснователь другой инструментальной группы Booker T. & the MG’s. Окопался на студии Stax, поучаствовав в записи практически
-    всей стаксовской классики как гитарист, аранжировщик или продюсер. С ним <a href="/bluesmen/Albert_King/">Алберт Кинг</a>
-    записал свои лучшие песни 60-х. И уже как живой классик, он принял участие в группе и в фильме «<a href="/bluesmen/Blues_Brothers/">Братья
+    всей стаксовской классики как гитарист, аранжировщик или продюсер. С ним <a href="/artist/albert-king/">Алберт Кинг</a>
+    записал свои лучшие песни 60-х. И уже как живой классик, он принял участие в группе и в фильме «<a href="/artist/blues-brothers/">Братья
     Блюз</a>» (Blues Brothers). Steven Lee Cropper (born October 21, 1941), sometimes known as "The Colonel", is an American
     guitarist, songwriter and record producer. He is the guitarist of the Stax Records house band, Booker T. & the M.G.'s,
     which backed artists such as Otis Redding, Sam & Dave, Carla Thomas, Rufus Thomas and Johnnie Taylor. He also acted as
@@ -24224,9 +24224,9 @@
   event_type: born
   title: Elvin Bishop
   picture: 1021Bishop.jpg
-  text: в Гриндейле, Калифорния, родился <a href="/bluesmen/Elvin_Bishop/">Элвин Бишоп</a> (Elvin BISHOP). Вырос в Тулсе,
+  text: в Гриндейле, Калифорния, родился <a href="/artist/elvin-bishop/">Элвин Бишоп</a> (Elvin BISHOP). Вырос в Тулсе,
     Оклахома. Он искал блюз по радио, собирал на пластинках, играл на гитаре и хорошо учился в школе. Получил стипендию на
-    высшее образование в Университете Чикаго… В стенах университета он познакомился с <a href="/bluesmen/Paul_Butterfield/">Полом
+    высшее образование в Университете Чикаго… В стенах университета он познакомился с <a href="/artist/paul-butterfield/">Полом
     Баттерфилдом</a>… В 63-м они вместе аккомпанировали на записи Билли Бою Арнольду, а в 65-м зачали Paul Butterfield's Blues
     Band и выпустили в буквальном смысле эпохальный, поворотный для истории блюза альбом. А в 70-х уже солистом Бишоп записал
     поп-хит “Fooled Around and Fell In Love”. Elvin Richard Bishop (born October 21, 1942) is an American blues and rock music
@@ -24251,8 +24251,8 @@
   title: Bob Dylan
   picture: null
   text: в Нью-Йорке за одну сессию с бюджетом в 400$ Боб Дилан (Bob Dylan) записал свой дебютный альбом. Из чертовой дюжины
-    песен лишь две – его сочинения. Остальные – блюзовая классика <a href="/bluesmen/Blind_Boy_Fuller/">Блайнд Боя Фуллера</a>,
-    <a href="/bluesmen/Blind_Lemon_Jefferson/">Блайнд Лимона Джефферсона</a> и др. Заполняя налоговую декларацию, Дилан подписал
+    песен лишь две – его сочинения. Остальные – блюзовая классика <a href="/artist/blind-boy-fuller/">Блайнд Боя Фуллера</a>,
+    <a href="/artist/blind-lemon-jefferson/">Блайнд Лимона Джефферсона</a> и др. Заполняя налоговую декларацию, Дилан подписал
     ее как Слепой Мальчик-Ворчун (Blind Boy Grunt).
 - id: 561
   date: '1990-10-21'
@@ -24315,7 +24315,7 @@
   event_type: born
   title: Yvonne Staples
   picture: 1023YvonneStaples.jpg
-  text: в Чикаго, Иллинойс, родилась Ивонна Стэплз (Yvonne STAPLES). Дочь <a href="/bluesmen/Pops_Staples/">Папаши Стэплза</a>,
+  text: в Чикаго, Иллинойс, родилась Ивонна Стэплз (Yvonne STAPLES). Дочь <a href="/artist/pops-staples/">Папаши Стэплза</a>,
     в 1970г. она была рекрутирована в ряды «Певцов Стэплз» (Stapples Singers).
 - id: 619
   date: '1949-10-23'
@@ -24335,7 +24335,7 @@
   event_type: recorded
   title: Jimi Hendrix
   picture: null
-  text: 'в Лондоне трио The <a href="/bluesmen/Jimi_Hendrix/">Jimi Hendrix</a> Experience записало первые свои две песни:
+  text: 'в Лондоне трио The <a href="/artist/jimi-hendrix/">Jimi Hendrix</a> Experience записало первые свои две песни:
     "Hey Joe" и "Stone Free".'
   artist_slug: jimi-hendrix
 - id: 2967
@@ -24867,7 +24867,7 @@
   event_type: born
   title: Peter Green
   picture: 1029GreenP.jpg
-  text: в Лондоне, Великобритания, родился <a href="/bluesmen/Peter_Green/">Питер Грин</a> (Peter GREEN). Создатель и лидер
+  text: в Лондоне, Великобритания, родился <a href="/artist/peter-green/">Питер Грин</a> (Peter GREEN). Создатель и лидер
     группы «Флитвуд Мак», он играл на гитаре звуком, который не оставлял сомнений в возможности существования британского
     блюза. Его метания и страдания вполне воплощают британское отражение блюзовой судьбы. Peter Allen Greenbaum (29 October
     1946 – 25 July 2020), known professionally as Peter Green, was an English blues rock singer-songwriter and guitarist.As
@@ -24936,7 +24936,7 @@
   event_type: misc
   title: Coco Montoya
   picture: null
-  text: Коко Монтойа выступал в Москве, в к/к зале "Мир". <a href="/bluesmen/Coco_Montoya/11_09_29_Montoya/">Фоторепортаж
+  text: Коко Монтойа выступал в Москве, в к/к зале "Мир". <a href="/artist/coco-montoya/11_09_29_Montoya/">Фоторепортаж
     >>></a>.
   artist_slug: coco-montoya
 - id: 608
@@ -25232,7 +25232,7 @@
   title: William Clarke
   picture: 1102WilliamClarke.jpg
   text: 'В Фресно, Калифорния, в больнице после неудачной операции по поводу желудочного кровотечения, умер виртуоз и новатор
-    игры на губной гармонике, певец <a href="/bluesmen/William_Clarke/">Уильям Кларк</a> (William Clarke). Годы гастрольно-клубной
+    игры на губной гармонике, певец <a href="/artist/william-clarke/">Уильям Кларк</a> (William Clarke). Годы гастрольно-клубной
     работы вызвали проблемы со здоровьем были. Первый звоночек прозвенел, когда в марте этого года он попал в больницу прямо
     со сцены – из-за острой сердечной недостаточности. После ему удалось сбросить вес и отказаться от алкоголя. Однако беда
     с внутренним кровотечением настигла его 1 ноября – вновь во время выступления на сцене. В концертах Уильям Кларк воистину
@@ -26637,7 +26637,7 @@
   event_type: born
   title: W.C.Clark
   picture: 1116Clark.jpg
-  text: в Остине (Техас) родился W.C.Clark (<a href="http://blues.ru/bluesmen/WC_Clark/">Дабл-Ю Си Кларк</a>), певец и гитарист,
+  text: в Остине (Техас) родился W.C.Clark (<a href="http://blues.ru/artist/wc-clark/">Дабл-Ю Си Кларк</a>), певец и гитарист,
     почитаемый как "крестный отец" остинской блюзовой сцены. В 70-х, вместе с пианистом Дэнни Фриманом и певицей Анжелой Стрелли
     организовал группу Southern Feeling. Позже, вместе с гитаристом Стиви Реем Воэной и певицей Лоу Энн Бартон собрал проект
     Triple Threat Revue (Ревю "Тройная угроза"). С середины 80-х выступал и записывался сольно. В 2003 году выступал в России
@@ -26717,7 +26717,7 @@
   event_type: born
   title: Blind Boys of Alabama
   picture: null
-  text: в Нью-Йорке родился Джои Уильямс (Joey WILLIAMS), вокалист и гитарист <a href="/data/artistview.aspx?aid=219">Blind
+  text: в Нью-Йорке родился Джои Уильямс (Joey WILLIAMS), вокалист и гитарист <a href="/artist/blind-boys-of-alabama/">Blind
     Boys of Alabama</a> позднего призыва.
   artist_slug: blind-boys-of-alabama
 - id: 3174
@@ -26765,9 +26765,9 @@
     основатель лейбла Modern Records. Из еврейской семьи эмигрантов из Венгрии. Он родился в Тулсе (Оклахома), в середине
     40-х перебрался в Лос-Анджелес, где занялся мелким бизнесом: установкой и обслуживанием музыкальных автоматов (juke box).
     Вскоре он заметил, что клиентам не хватает блюзовых записей, и вместе с братьями основал собственный лейбл – сходства
-    с судьбой братьев Чесс невозможно не заметить. Среди артистов, записывавшихся для Modern, такие звезды как <a href="/bluesmen/John_Lee_Hooker/">Джон
-    Ли Хукер</a>, <a href="/bluesmen/BB_King/">БиБиКинг</a>, <a href="/bluesmen/Lightnin_Hopkins/">Лайтнинг Хопкинс, <a href="/data/artistview.aspx?aid=177">Этта
-    Джеймс</a>, <a href="/bluesmen/Lowell_Fulson/">Лоуэлл Фулсом</a>, <a href="/data/artistview.aspx?aid=192">Айк Тернер</a>
+    с судьбой братьев Чесс невозможно не заметить. Среди артистов, записывавшихся для Modern, такие звезды как <a href="/artist/john-lee-hooker/">Джон
+    Ли Хукер</a>, <a href="/artist/bb-king/">БиБиКинг</a>, <a href="/artist/lightnin-hopkins/">Лайтнинг Хопкинс, <a href="/artist/etta-james/">Этта
+    Джеймс</a>, <a href="/artist/lowell-fulson/">Лоуэлл Фулсом</a>, <a href="/artist/ike-turner/">Айк Тернер</a>
     и др. Следуя обычной практике того времени, вписывал свое имя в авторы песен, к сочинению которых не имел прямого отношения.
     К примеру, в песнях молодого БиБиКинга он выступает как автор под псевдонимом Jules Taub.'
 - id: 3010
@@ -27105,7 +27105,7 @@
   event_type: born
   title: Duane Allman
   picture: 1120DuaneAllman.jpg
-  text: 'в Нэшвилле, Теннеси, родился <a href="http://www.blues.ru/bluesmen/Allman_Brothers/">Двэйн Оллман</a> (Duane ALLMAN),
+  text: 'в Нэшвилле, Теннеси, родился <a href="http://www.blues.ru/artist/allman-brothers/">Двэйн Оллман</a> (Duane ALLMAN),
     один из самых достойных гитаристов эпохи гитарных героев. Группа Братьев Оллман (Allman Brothers Band) никогда не была
     собственно блюзовой, но блюзы занимали важное место в ее репертуаре, и все участники прошли период увлечения блюзом. К
     тому же, экспрессивный новаторский гитарный слайд Оллмэна основывался именно на блюзовых корнях. Яркое свидетельство:
@@ -27382,7 +27382,7 @@
   event_type: born
   title: R.L.Burnside
   picture: 1123Rurnside.jpg
-  text: в Хармэн-тауне, Миссиссиппи, родился <a href="/bluesmen/RL_Burnside/">Ар-Эл Бернсайд</a> (R.L.BURNSIDE). Его блюз
+  text: в Хармэн-тауне, Миссиссиппи, родился <a href="/artist/rl-burnside/">Ар-Эл Бернсайд</a> (R.L.BURNSIDE). Его блюз
     обладает сырой свежестью самых ранних миссиссипских блюзовых записей, но крепленых агрессией электрики. В плохой вечер
     его выступления были несносны, поскольку он не обладал техникой, чтобы прикрыть отсутствие куража. Но в отличный вечер
     его напористый и грубый блюз пронимал до кишок – уж этому-то он хорошо научился в сельских кабаках, прежде чем его стали
@@ -27697,7 +27697,7 @@
   title: Jerome Arnold
   picture: 1126JeromeARNOLD.jpg
   text: в Чикаго, Иллинойс, родился Джером Арнольд (Jerome ARNOLD), бас-гитарист, половина черной составляющей черно-белого
-    <a href="/bluesmen/Paul_Butterfield/">блюзбэнда Пола Баттерфилда</a> (на фото они в Ньюпорте, Майк Блумфилд с гитарой).
+    <a href="/artist/paul-butterfield/">блюзбэнда Пола Баттерфилда</a> (на фото они в Ньюпорте, Майк Блумфилд с гитарой).
 - id: 847
   date: '1936-11-26'
   month_day: 11-26
@@ -27958,7 +27958,7 @@
   event_type: born
   title: John Mayall
   picture: 1129Mayall.jpg
-  text: в Макклесфилде, Великобритания, родился Джон Мэйолл (<a href="http://www.blues.ru/bluesmen/John_Mayall/">John MAYALL)</a>.
+  text: в Макклесфилде, Великобритания, родился Джон Мэйолл (<a href="http://www.blues.ru/artist/john-mayall/">John MAYALL)</a>.
     «Отец британского блюза», мультиинструменталист, первооткрыватель блестящих гитарных талантов, неутомимый пропагандист
     блюза… Да разве Джон Мэйолл нуждается в представлении посетителям блюзового сайта?
   artist_slug: john-mayall
@@ -29257,7 +29257,7 @@
   event_type: born
   title: Lurrie Bell
   picture: null
-  text: в Чикаго родился <a href="/bluesmen/Lurrie_Bell/">Лури Бэлл</a> (Lurrie BELL), сын известного харпера Карей Белла.
+  text: в Чикаго родился <a href="/artist/lurrie-bell/">Лури Бэлл</a> (Lurrie BELL), сын известного харпера Карей Белла.
     Начал записываться с отцом в 1977 году, затем вместе с другими «наследными» блюзменами организовал группу «Сыновья блюза»
     (the Sons of Blues). Так называемые "личные проблемы" весьма тормозили его карьеру в 80-х и 90-х, Но он одолел их. Кроме
     прочих альбомов в его дискографии есть «Second Nature» («Вторая натура»), акустическая программа, записанная в дуэте с
@@ -29519,7 +29519,7 @@
   event_type: born
   title: Robben Ford
   picture: 1215RobbenFord.jpg
-  text: 'в Вудлейке, Калифорния, родился <a href="/data/artistview.aspx?aid=244">Роббен Форд</a> (Robben FORD). Гитарист с
+  text: 'в Вудлейке, Калифорния, родился <a href="/artist/robben-ford/">Роббен Форд</a> (Robben FORD). Гитарист с
     хорошей джазовой выучкой. Однако пока одни слушатели восхищены его виртуозностью и  гармоническим разнообразием его сочинений,
     другие считают его музыку пресноватой, говоря, что лучшие его работы сделаны в роли сайдмена с яркими личностями: либо
     с патриархом шаут-блюза Джимми Визерспуном, либо с поэтессой Джони Митчел. Robben Lee Ford (born December 16, 1951) is
@@ -30082,7 +30082,7 @@
   event_type: born
   title: Walter “Wolfman” Washington
   picture: 1220WASHINGTON.jpg
-  text: в Новом Орлеане, Луизиана, родился <a href="/data/artistview.aspx?aid=205">Уолтер Вашингтон</a>, выступавший под псевдонимом
+  text: в Новом Орлеане, Луизиана, родился <a href="/artist/walter-wolfman-washington/">Уолтер Вашингтон</a>, выступавший под псевдонимом
     «Человек-волк» (Walter “Wolfman” WASHINGTON). Прифанкованый блюз Нового Орлеана у него в крови, записывается ли он на
     Севере или на Юге.
 - id: 1046
@@ -30309,7 +30309,7 @@
   event_type: died
   title: Leslie West
   picture: null
-  text: '”Где бы вы ни были, я и моя гитара сыграем блюз вам!” - пел <a href="/data/artistview.aspx?aid=40">Лесли Вест</a>.
+  text: '”Где бы вы ни были, я и моя гитара сыграем блюз вам!” - пел <a href="/artist/bb-king/">Лесли Вест</a>.
 
     В 1965 начал играть блюз/ритм-энд-блюз в группе the Vagrants. К славе поднялся со следующим проектом под названием "Гора"
     - звук действительно был мощный, массивный, а сам он - большой с внушающим голосиной. Играл хард и прогрессив. Но в начале
@@ -30679,7 +30679,7 @@
   event_type: born
   title: Bob Stroger
   picture: 1227Stroger.gif
-  text: "в Гаити, Миссиссиппи, родился <a href=\"/bluesmen/Bob_Stroger/\">Боб Строгер</a> (Bob STROGER). Он переиграл со всеми\
+  text: "в Гаити, Миссиссиппи, родился <a href=\"/artist/bob-stroger/\">Боб Строгер</a> (Bob STROGER). Он переиграл со всеми\
     \ чикагскими звездами золотой поры, известен как бас-гитарист ревайвалистской группы «Миссиссипский жар» (Mississippi\
     \ Heat). В 2002г., как басист и вокалист, выпустил под собственным именем концертный альбом, названный \"Чикагская блюзовая\
     \ легенда (Chicago Blues Legend). В сентябре 2006 г. гастролировал в Москве, выступив в клубах Дом У Дороги и <a href=\"\
@@ -30910,7 +30910,7 @@
   title: Bo Diddley
   picture: 1230Diddley.jpg
   text: 'в МакКомбе, Миссиссиппи, родился Элас Оса Бэйтс Мак Дэниал. В блюзе он выбрал своим именем название деревенского
-    миссиссиппского инструмента Диддлей Бо, слегка перевернув слова: <a href="/data/artistview.aspx?aid=324">Бо Диддли</a>
+    миссиссиппского инструмента Диддлей Бо, слегка перевернув слова: <a href="/artist/bo-diddley/">Бо Диддли</a>
     (Bo DIDDLEY). Обладатель столь уверенного в себе характера, он противопоставил Hoochie Coochie Man Мадди Уотерса свой
     I’m A Man. Один из краеугольный людей в истории блюза, он играл на прямоугольной гитаре. Еще была широкая шляпа и непременная
     бас-гитаристка, или вторая гитаристка в ансамбле… Критики увязывают созданный им фирменный ритм с африканскими тамтамами,
@@ -31115,7 +31115,7 @@
   event_type: born
   title: Blind Lemon Jefferson
   picture: 0711JEFFERSON.jpg
-  text: в Каучмене, Техас, родился <a href="/bluesmen/Blind_Lemon_Jefferson/">Слепой Лимон Джефферсон</a> (Blind Lemon JEFFERSON).
+  text: в Каучмене, Техас, родился <a href="/artist/blind-lemon-jefferson/">Слепой Лимон Джефферсон</a> (Blind Lemon JEFFERSON).
     Кантри-блюзмен, певец и гитарист, он был первопроходцем во многих путях, которые после него стали привычной дорогой. (По
     поводу даты его рождения существовали значительные расхождения. Сейчас, не уставая. повторять "предположительно", серьезные
     блюз-архивариусы называют эту.)
@@ -31556,7 +31556,7 @@
   title: Goebel Reeves
   picture: null
   text: в Шермане, Техас, родился Гобел Ривз (Goebel Reeves), кантри-музыкант, утверждавший, что это он обучил петь йодел
-    известнейшего кантри-музыканта Джимми Роджерса, у которого, в свою очередь, учился подвывать <a href="/bluesmen/Howlin_Wolf/">Хаулин
+    известнейшего кантри-музыканта Джимми Роджерса, у которого, в свою очередь, учился подвывать <a href="/artist/howlin-wolf/">Хаулин
     Вулф</a>.
 - id: 163
   date: null
@@ -31607,7 +31607,7 @@
   text: в Ангилле (Миссиссиппи) родился Генри «Сынок» Симс (Henry "Son" SIMS). Играть на скрипке его учил его дедушка, родившийся
     в рабстве. Позже он научился играть на мандолине, гитаре и фортепиано. Руководил собственным оркестриком, записывался
     соло и с Чарли Пэттоном в качестве скрипача. В ансамбле "Четверка Сынка Cимса" (Son Sim's Four), записанном Аланом Ломаксом
-    для библиотеки конгресса США в 1942г., на гитаре играет его деревенский сосед, <a href="/bluesmen/Muddy_Waters/">МакКинли
+    для библиотеки конгресса США в 1942г., на гитаре играет его деревенский сосед, <a href="/artist/muddy-waters/">МакКинли
     Морганфилд</a> (см.фото). А Симс играет вторую гитару на записях Морганфилда, сделанных тогда же.
 - id: 730
   date: null
@@ -32139,7 +32139,7 @@
   picture: 0716ESCUDERO.jpg
   text: в Манати, Пуэрто-Рико, родился Ральф Эскудейро (Ralph ESCUDERO). Как басист (контрабас и туба) он был одним из наиболее
     авторитетных музыкантов и аранжировщиков довоенного джаза. Кроме того, выступал и записывался с певицами «классического
-    блюза», например с Этель  Уотерс и Люсиль Хьюгамин. Кроме того, гастролировал в ансамбле <a href="/bluesmen/WC_Handy/">Дабл-Ю
+    блюза», например с Этель  Уотерс и Люсиль Хьюгамин. Кроме того, гастролировал в ансамбле <a href="/artist/wc-handy/">Дабл-Ю
     Си Хэнди</a>.
 - id: 496
   date: null
@@ -32471,7 +32471,7 @@
   title: W.C.HANDY
   picture: 1116Handy.jpg
   text: во Флоренции, Алабама, в семье потомственного проповедника родился Уилльям Кристофер (сокращенно Дабл-Ю Си) Хэнди
-    (<a href="/bluesmen/WC_Handy/">W.C.HANDY</a>). Занимался музыкой и в школе был отличником. Начал организовывать небольшие
+    (<a href="/artist/wc-handy/">W.C.HANDY</a>). Занимался музыкой и в школе был отличником. Начал организовывать небольшие
     музыкальные оркестры и в 1903 году повстречал блюз – музыку, которой он не слыхивал ранее. Свое музыкальное образование
     он приложил к музыке, сочиненной в народе. И стал «Отцом блюза» (так он назвал свою автобиографию). Автор дюжины немеркнущих
     блюзовых стандартов.

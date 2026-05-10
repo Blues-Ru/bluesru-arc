@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<title>Авторы форума — Blues.Ru</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="shortcut icon" href="/images/bluesru.ico">
+<link rel="stylesheet" href="/css/site.css">
+<link rel="stylesheet" href="/css/responsive.css">
+<link rel="stylesheet" href="/forum/liveforum.css">
+<style>
+body { max-width: 900px; margin: 0 auto; padding: 0 1em; }
+#search-box { width: 100%; max-width: 400px; padding: 5px 8px; font-size: 1em;
+              border: 1px solid #aaa; border-radius: 3px; margin-bottom: 1em; }
+.authors-table { border-collapse: collapse; width: 100%; }
+.authors-table th { text-align: left; font-weight: bold; border-bottom: 1px solid #ccc;
+                    padding: 3px 6px; white-space: nowrap; }
+.authors-table td { padding: 3px 6px; vertical-align: top; }
+.authors-table tr:hover td { background: #f5f5f5; }
+.num { text-align: right; color: #555; font-size: 0.9em; }
+.rank-col { text-align: right; color: #888; font-size: 0.85em; }
+.topic-inline { font-size: 0.85em; color: #666; }
+.topic-inline a { color: #336; }
+#no-results { display:none; color: #888; padding: 0.5em 0; }
+</style>
+{{ ga_snippet | safe }}
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#5511cc" alink="#00bb00">
+
+<a href="/"><img src="/images/bluesru-logo.svg" width="120" height="120" border="0" alt="Blues.Ru" style="float:right"></a>
+
+<h3><a href="/">Blues.Ru</a> &rsaquo; <a href="/forum/">Форум</a> &rsaquo; Авторы</h3>
+<p style="color:#555;font-size:0.9em">{{ total_authors }} авторов. Рейтинг = Авторы + Ответы&thinsp;/&thinsp;5</p>
+
+<input type="text" id="search-box" placeholder="Поиск по имени…" oninput="filterAuthors(this.value)" autocomplete="off">
+
+<div id="no-results">Ничего не найдено</div>
+
+<table class="authors-table" id="authors-table">
+<thead>
+<tr>
+  <th style="width:2em">#</th>
+  <th>Имя</th>
+  <th class="num">Темы</th>
+  <th class="num">Ответы</th>
+  <th class="num">Авторы</th>
+  <th class="rank-col">Рейт.</th>
+</tr>
+</thead>
+<tbody id="authors-body">
+{% for a in top50 %}
+<tr>
+  <td style="color:#aaa;font-size:0.85em">{{ loop.index }}</td>
+  <td>
+    {% if a.slug %}<a href="/forum/{{ a.slug }}/" class="forum-author" style="color:inherit;text-decoration:none">{{ a.name | e }}</a>
+    {% elif a.topic_links %}{% for tl in a.topic_links %}<a href="/forum/topic{{ tl.topic_id }}" class="topic-inline">{{ tl.title | e }}</a>{% if not loop.last %}, {% endif %}{% endfor %}
+    {% else %}{{ a.name | e }}{% endif %}
+  </td>
+  <td class="num">{{ a.topics }}</td>
+  <td class="num">{{ a.replies }}</td>
+  <td class="num">{{ a.participants }}</td>
+  <td class="rank-col">{{ "%.0f"|format(a.rank) }}</td>
+</tr>
+{% endfor %}
+</tbody>
+</table>
+
+<script>
+var ALL_AUTHORS = {{ search_data_json | safe }};
+
+function renderRow(a, rank) {
+  var nameCell;
+  if (a.slug) {
+    nameCell = '<a href="/forum/' + a.slug + '/" class="forum-author" style="color:inherit;text-decoration:none">' + esc(a.name) + '</a>';
+  } else if (a.topic_links && a.topic_links.length) {
+    nameCell = a.topic_links.map(function(tl) {
+      return '<a href="/forum/topic' + tl.id + '" class="topic-inline">' + esc(tl.title) + '</a>';
+    }).join(', ');
+  } else {
+    nameCell = esc(a.name);
+  }
+  return '<tr><td style="color:#aaa;font-size:0.85em">' + rank + '</td>' +
+         '<td>' + nameCell + '</td>' +
+         '<td class="num">' + a.topics + '</td>' +
+         '<td class="num">' + a.replies + '</td>' +
+         '<td class="num">' + a.participants + '</td>' +
+         '<td class="rank-col">' + Math.round(a.rank) + '</td></tr>';
+}
+
+function esc(s) {
+  return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+}
+
+function filterAuthors(q) {
+  var tbody = document.getElementById('authors-body');
+  var noRes = document.getElementById('no-results');
+  q = q.trim();
+  if (!q) {
+    // Restore initial top-50
+    tbody.innerHTML = INITIAL_HTML;
+    noRes.style.display = 'none';
+    return;
+  }
+  var words = q.toLowerCase().split(/\s+/).filter(Boolean);
+  var results = [];
+  for (var i = 0; i < ALL_AUTHORS.length; i++) {
+    var a = ALL_AUTHORS[i];
+    var nl = a.name.toLowerCase();
+    var ok = words.every(function(w) { return nl.indexOf(w) >= 0; });
+    if (ok) results.push(a);
+    if (results.length >= 50) break;
+  }
+  if (results.length === 0) {
+    tbody.innerHTML = '';
+    noRes.style.display = '';
+    return;
+  }
+  noRes.style.display = 'none';
+  tbody.innerHTML = results.map(function(a, i) { return renderRow(a, i+1); }).join('');
+}
+
+var INITIAL_HTML = document.getElementById('authors-body').innerHTML;
+</script>
+
+<hr size="1">
+<p align="center">
+{{ footer | safe }}
+</p>
+</body>
+</html>

@@ -10,12 +10,18 @@ Run from /Users/fedor/bluesru/
 """
 
 import re
+import sys
+import os
 import yaml
+from datetime import datetime
 from pathlib import Path
 from collections import defaultdict
 from jinja2 import Environment, FileSystemLoader
 
-import os
+_scripts = Path(__file__).resolve().parent
+if str(_scripts) not in sys.path:
+    sys.path.insert(0, str(_scripts))
+from generate_shared import link_artist_in_text
 ARC = Path(__file__).resolve().parent.parent
 _site_default = str(ARC / 'bluesru-site') if os.environ.get('CF_PAGES') else str(ARC.parent / 'bluesru-site')
 DATA = ARC / "data"
@@ -135,9 +141,15 @@ def generate_year_pages():
         events_sorted = sorted(events, key=lambda e: e['date'])
         year_int = int(year)
 
+        current_year = datetime.now().year
         for ev in events_sorted:
             date_str = ev['date']
-            ev['formatted_date'] = f'{date_str[8:10]}.{date_str[5:7]}.{year}'
+            ev['day_month'] = f'{date_str[8:10]}.{date_str[5:7]}'
+            ev['years_ago'] = current_year - year_int
+            slug = ev.get('artist_slug', '')
+            title = ev.get('title', '')
+            if slug and title:
+                ev['text'] = link_artist_in_text(ev.get('text', ''), title, slug)
 
         nav = year_nav(year, all_years)
         tmpl = _jinja_env.get_template('calendar_year.html.j2')

@@ -18,11 +18,11 @@ body { max-width: 900px; margin: 0 auto; padding: 0 1em; }
 .topic-title { font-weight: bold; }
 .topic-meta { color: #777; font-size: 0.85em; }
 .activity-year { margin-bottom: 1.5em; }
-.activity-year h4 { margin: 0.5em 0 0.3em; }
-.month-block { margin-left: 1em; margin-bottom: 0.5em; }
+.month-block { margin-left: 1em; margin-bottom: 0.4em; }
 .month-label { font-weight: bold; color: #444; min-width: 3em; display: inline-block; }
 .post-link { font-size: 0.85em; }
 .post-link + .post-link::before { content: ' · '; color: #aaa; }
+.started-mark { color: #aaa; font-size: 0.8em; }
 </style>
 {{ ga_snippet | safe }}
 </head>
@@ -30,13 +30,13 @@ body { max-width: 900px; margin: 0 auto; padding: 0 1em; }
 
 <a href="/"><img src="/images/bluesru-logo.svg" width="120" height="120" border="0" alt="Blues.Ru" style="float:right"></a>
 
-<h3><a href="/">Blues.Ru</a> &rsaquo; <a href="/forum/">Форум</a> &rsaquo; {{ author_name }}</h3>
+<h3><a href="/">Blues.Ru</a> &rsaquo; <a href="/forum/">Форум</a> &rsaquo; <a href="/forum/authors/">Авторы</a> &rsaquo; {{ author_name }}</h3>
 
 <div class="author-stats">
-  Сообщений: <b>{{ total_posts }}</b> &nbsp;|&nbsp;
-  Тем: <b>{{ total_topics }}</b>
-  {% if first_post_date %}&nbsp;|&nbsp; Первое: {{ first_post_date }}{% endif %}
-  {% if last_post_date %}&nbsp;|&nbsp; Последнее: {{ last_post_date }}{% endif %}
+  Темы: <b>{{ topics_count }}</b> &nbsp;|&nbsp;
+  Ответы: <b>{{ replies_count }}</b> &nbsp;|&nbsp;
+  Авторы: <b>{{ participants_count }}</b> &nbsp;|&nbsp;
+  Рейтинг: <b>{{ "%.0f"|format(rank) }}</b>
 </div>
 
 {% if top_topics %}
@@ -46,21 +46,22 @@ body { max-width: 900px; margin: 0 auto; padding: 0 1em; }
 <tr>
   <th>Тема</th>
   <th>Дата</th>
-  <th style="text-align:right">Уч.</th>
-  <th style="text-align:right">Отв.</th>
-  <th style="text-align:right">Моих</th>
+  <th style="text-align:right">Авторы</th>
+  <th style="text-align:right">Ответы</th>
 </tr>
 {% for t in top_topics %}
 <tr>
-  <td class="topic-title"><a href="/forum/{{ t.slug }}">{{ t.title }}</a></td>
+  <td class="topic-title">
+    <a href="/forum/{{ t.slug }}">{{ t.title }}</a>
+    {% if t.is_started %}<span class="started-mark">✎</span>{% endif %}
+  </td>
   <td class="topic-meta">{{ t.first_post_fmt }}</td>
   <td class="topic-meta" style="text-align:right">{{ t.participant_count }}</td>
   <td class="topic-meta" style="text-align:right">{{ t.post_count }}</td>
-  <td class="topic-meta" style="text-align:right">{{ t.author_posts }}</td>
 </tr>
 {% endfor %}
 </table>
-<p class="topic-meta"><small>Уч. — уникальных участников, Отв. — всего сообщений, Моих — сообщений автора</small></p>
+<p class="topic-meta"><small>✎ — тема автора &nbsp; Авторы — уникальных участников &nbsp; Ответы — всего сообщений</small></p>
 </div>
 {% endif %}
 
@@ -70,15 +71,14 @@ body { max-width: 900px; margin: 0 auto; padding: 0 1em; }
 
 {% for year_data in activity %}
 <div class="activity-year">
-  <h4>{{ year_data.year if year_data.year else 'Дата неизвестна' }}
-    <span class="topic-meta">({{ year_data.post_count }} сообщ., {{ year_data.topic_count }} тем)</span>
-  </h4>
+  <b>{{ year_data.year if year_data.year else '?' }}</b>
+  <span class="topic-meta">({{ year_data.topics_count }} тем, {{ year_data.replies_count }} ответов)</span>
   {% for m in year_data.months %}
   <div class="month-block">
     <span class="month-label">{{ m.month_name }}</span>
-    <span class="topic-meta">{{ m.post_count }} сообщ. в {{ m.topic_count }} тем.:</span>
-    {% for tr in m.topics %}
-    <span class="post-link"><a href="/forum/{{ tr.topic_slug }}{% if tr.post_id %}#post{{ tr.post_id }}{% endif %}">{{ tr.topic_title }}</a></span>
+    <span class="topic-meta">{% if m.topics_count %}{{ m.topics_count }} т{% endif %}{% if m.topics_count and m.replies_count %}, {% endif %}{% if m.replies_count %}{{ m.replies_count }} отв{% endif %}:</span>
+    {% for tr in m.topic_refs %}
+    <span class="post-link">{% if tr.is_start %}<span class="started-mark">✎</span>&nbsp;{% endif %}<a href="/forum/{{ tr.topic_slug }}{% if tr.post_id %}#post{{ tr.post_id }}{% endif %}">{{ tr.topic_title }}</a></span>
     {% endfor %}
   </div>
   {% endfor %}

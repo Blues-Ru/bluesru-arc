@@ -1117,14 +1117,67 @@ def build_calendar_by_slug():
             'event_type': ev.get('event_type', ''),
             'title': ev.get('title', ''),
             'text': ev.get('text', ''),
+            'picture': ev.get('picture', '') or '',
+            'artist_slug': slug,
         })
     for slug in index:
         index[slug].sort(key=lambda e: e.get('date', ''))
     return index
 
 
-def calendar_events_html(events: list) -> str:
-    """Render a list of calendar events as an HTML block for artist pages."""
+def _years_ago_ru(years: int) -> str:
+    """Return 'N лет/год/года назад'."""
+    if years <= 0:
+        return ''
+    n = abs(years) % 100
+    n1 = n % 10
+    if 11 <= n <= 19:
+        word = 'лет'
+    elif n1 == 1:
+        word = 'год'
+    elif 2 <= n1 <= 4:
+        word = 'года'
+    else:
+        word = 'лет'
+    return f'{years}\u00a0{word} назад'
+
+
+def link_artist_in_text(text: str, title: str, slug: str) -> str:
+    """
+    Replace first occurrence of title (case-insensitive) in text (outside existing tags)
+    with a link to /artist/{slug}/#calendar.
+    If not found in text, prepend a linked mention.
+    """
+    if not text or not title or not slug:
+        return text
+    link = f'<a href="/artist/{slug}/#calendar">'
+    # Build case-insensitive pattern, avoid matching inside existing <a ...> </a>
+    pattern = re.compile(re.escape(title), re.IGNORECASE)
+    # Simple approach: find first match not inside an existing link
+    # Split on existing <a ...>...</a> to avoid modifying them
+    parts = re.split(r'(<a\s[^>]*>.*?</a>)', text, flags=re.DOTALL)
+    replaced = False
+    result = []
+    for part in parts:
+        if replaced or part.startswith('<a '):
+            result.append(part)
+        else:
+            m = pattern.search(part)
+            if m:
+                found = m.group(0)
+                repl = f'{link}{found}</a>'
+                result.append(part[:m.start()] + repl + part[m.end():])
+                replaced = True
+            else:
+                result.append(part)
+    if replaced:
+        return ''.join(result)
+    # Not found: prepend linked title
+    return f'{link}{html_mod.escape(title)}</a>. {text}'
+
+
+def calendar_events_html(events: list, current_year: int = 2026) -> str:
+    """Render calendar events as an HTML table block for artist pages."""
     if not events:
         return ''
     EVENT_TYPE_RU = {
@@ -1133,35 +1186,54 @@ def calendar_events_html(events: list) -> str:
         'founded': 'Основан',
         'other': '',
     }
-    lines = []
+    rows = []
+    rows.append('<a name="calendar" id="calendar"></a>')
+    rows.append('<b>Календарь:</b>')
+    rows.append('<table style="border-collapse:collapse;width:100%">')
     for ev in events:
         date = ev.get('date', '')
         year = date[:4] if date and len(date) >= 4 else str(ev.get('year', ''))
         md = ev.get('month_day', '')
         if md and len(md) == 5:
-            day_month = f'{md[3:5]}.{md[:2]}.'
+            day_month = f'{md[3:5]}.{md[:2]}'
         else:
             day_month = ''
-        date_label = f'{day_month}{year}' if day_month else year
         etype = ev.get('event_type', '')
         etype_ru = EVENT_TYPE_RU.get(etype, '')
         text = ev.get('text', '') or ''
-        if date_label:
-            cal_url = f'/calendar/{year}/' if year else '/calendar/'
-            date_link = f'<a href="{cal_url}">{html_mod.escape(date_label)}</a>'
-        else:
-            date_link = ''
-        label = f'<small style="color:#777">{date_link}</small>' if date_link else ''
+        picture = ev.get('picture', '') or ''
+        title = ev.get('title', '')
+        slug = ev.get('artist_slug', '')
+        years_ago = (current_year - int(year)) if year and year.isdigit() else 0
+
+        cal_url = f'/calendar/{year}/' if year else '/calendar/'
+        year_cell = (f'<td style="font-weight:bold;font-size:1.1em;white-space:nowrap;'
+                     f'vertical-align:top;padding:2px 6px 2px 0;width:1%">'
+                     f'<a href="{cal_url}" style="color:#333">{html_mod.escape(year)}</a></td>')
+
+        meta_parts = []
+        if day_month:
+            meta_parts.append(html_mod.escape(day_month))
+        if years_ago > 0:
+            meta_parts.append(f'<span style="color:#888;font-size:0.85em">({_years_ago_ru(years_ago)})</span>')
         if etype_ru:
-            label += f' <small style="color:#777">{html_mod.escape(etype_ru)}</small>'
-        if text:
-            # text may contain embedded HTML from the original calendar data
-            snippet = text[:150]
-            # Strip any partial HTML tags at the truncation boundary
-            snippet = re.sub(r'<[^>]*$', '', snippet)
-            label += f': {snippet}{"…" if len(text) > 150 else ""}'
-        lines.append(label)
-    return ('<b>Календарь:</b><br>' + '<br>'.join(lines))
+            meta_parts.append(f'<span style="color:#555;font-size:0.85em">{html_mod.escape(etype_ru)}</span>')
+        meta_cell = (f'<td style="white-space:nowrap;vertical-align:top;padding:2px 8px 2px 0;'
+                     f'color:#555;font-size:0.88em;width:1%">{" ".join(meta_parts)}</td>')
+
+        # Text cell: link artist name in text, include image
+        if text and title and slug:
+            text = link_artist_in_text(text, title, slug)
+        img_html = ''
+        if picture:
+            img_html = (f'<img src="/calendar/images/{html_mod.escape(picture)}" border="0" '
+                        f'align="right" vspace="2" hspace="6" '
+                        f'style="max-width:140px;max-height:100px;">')
+        text_cell = f'<td style="vertical-align:top;padding:2px 0">{img_html}{text}</td>'
+
+        rows.append(f'<tr>{year_cell}{meta_cell}{text_cell}</tr>')
+    rows.append('</table>')
+    return '\n'.join(rows)
 
 
 def _build_galleries_by_slug():
