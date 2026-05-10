@@ -18,7 +18,6 @@ body { max-width: 900px; margin: 0 auto; padding: 0 1em; }
 .authors-table td { padding: 3px 6px; vertical-align: top; }
 .authors-table tr:hover td { background: #f5f5f5; }
 .num { text-align: right; color: #555; font-size: 0.9em; }
-.rank-col { text-align: right; color: #888; font-size: 0.85em; }
 .topic-inline { font-size: 0.85em; color: #666; }
 .topic-inline a { color: #336; }
 #no-results { display:none; color: #888; padding: 0.5em 0; }
@@ -30,7 +29,7 @@ body { max-width: 900px; margin: 0 auto; padding: 0 1em; }
 <a href="/"><img src="/images/bluesru-logo.svg" width="120" height="120" border="0" alt="Blues.Ru" style="float:right"></a>
 
 <h3><a href="/">Blues.Ru</a> &rsaquo; <a href="/forum/">Форум</a> &rsaquo; Авторы</h3>
-<p style="color:#555;font-size:0.9em">{{ total_authors }} авторов. Рейтинг = Авторы + Ответы&thinsp;/&thinsp;5</p>
+<p style="color:#555;font-size:0.9em">{{ total_authors }} авторов. Сортировка по числу начатых тем.</p>
 
 <input type="text" id="search-box" placeholder="Поиск по имени…" oninput="filterAuthors(this.value)" autocomplete="off">
 
@@ -44,7 +43,6 @@ body { max-width: 900px; margin: 0 auto; padding: 0 1em; }
   <th class="num">Темы</th>
   <th class="num">Ответы</th>
   <th class="num">Авторы</th>
-  <th class="rank-col">Рейт.</th>
 </tr>
 </thead>
 <tbody id="authors-body">
@@ -59,7 +57,6 @@ body { max-width: 900px; margin: 0 auto; padding: 0 1em; }
   <td class="num">{{ a.topics }}</td>
   <td class="num">{{ a.replies }}</td>
   <td class="num">{{ a.participants }}</td>
-  <td class="rank-col">{{ "%.0f"|format(a.rank) }}</td>
 </tr>
 {% endfor %}
 </tbody>
@@ -83,8 +80,7 @@ function renderRow(a, rank) {
          '<td>' + nameCell + '</td>' +
          '<td class="num">' + a.topics + '</td>' +
          '<td class="num">' + a.replies + '</td>' +
-         '<td class="num">' + a.participants + '</td>' +
-         '<td class="rank-col">' + Math.round(a.rank) + '</td></tr>';
+         '<td class="num">' + a.participants + '</td></tr>';
 }
 
 function esc(s) {

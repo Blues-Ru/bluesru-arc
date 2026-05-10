@@ -1,0 +1,76 @@
+# Forum author groups.
+# Each entry is one canonical author, identified by one or more person_ids.
+# pid: primary person_id (most posts)
+# extra_pids: additional person_ids for the same real person
+# canonical: display name used on the author page
+# slug: URL segment for /forum/{slug}/
+#
+# Authors not listed here are identified by their single person_id automatically.
+
+- slug: dr-nick
+  canonical: Dr. Nick
+  pid: 335
+
+- slug: evdokimov
+  canonical: Andrei Evdokimov
+  pid: 4
+
+- slug: fedor
+  canonical: Федор Романенко
+  pid: 2
+
+- slug: stone-crazy
+  canonical: vr (Stone Crazy)
+  pid: 5
+
+- slug: dok
+  canonical: Алексей Аграновский (Dok)
+  pid: 458
+
+- slug: andrey-prg
+  canonical: Андрей Ордальонов (Андрей PRG)
+  pid: 712
+
+- slug: gypsy
+  canonical: Андрей Цыганков (gypsy)
+  pid: 13
+
+- slug: gekko
+  canonical: Юрий Каверкин (Gekko)
+  pid: 1719
+  extra_pids: [3370, 5569]
+
+- slug: grem
+  canonical: Grem
+  pid: 1725
+  extra_pids: [204]
+
+- slug: void
+  canonical: Sergei Kiritchenko (VoID)
+  pid: 26
+  extra_pids: [1536, 7433]
+
+- slug: tony-skylark
+  canonical: Антон Жаворонков (Tony Skylark)
+  pid: 344
+  extra_pids: [2468]
+
+- slug: buchothk
+  canonical: Алексей Фролов (Buchothk)
+  pid: 4319
+  extra_pids: [4632]
+
+- slug: banderas
+  canonical: Vladimir Banderas
+  pid: 1695
+  extra_pids: [1696, 1998]
+
+- slug: mishuris
+  canonical: Михаил Мишурис
+  pid: 4384
+  extra_pids: [4764]
+
+- slug: dmitriy-fan
+  canonical: Дмитрий Леонидов (fan)
+  pid: 698
+  extra_pids: [2656]

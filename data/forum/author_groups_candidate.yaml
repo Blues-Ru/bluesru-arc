@@ -1,0 +1,1118 @@
+# Forum author groups candidate file.
+# Review and edit, then save as author_groups.yaml.
+# Merge person_ids for the same real person.
+# _name_variants and _post_count are informational — remove before saving as authoritative file.
+#
+# Cross-pid name collisions (possible same-person duplicates):
+#   'Владимир Русинов': pids=[5, 7870], posts=[1028, 11]
+#   'Доктор Пилюлькин': pids=[13, 1725], posts=[462, 110]
+#   'Дмитрий(fan))': pids=[698, 2656], posts=[77, 2]
+#   'baltika': pids=[1536, 7433], posts=[47, 2]
+#   'Плакса': pids=[4337, 6435], posts=[19, 4]
+#   'Антон Жаворонков (Tony Skylark)': pids=[344, 2468], posts=[9, 12]
+#   'Алексей Фролов (Buchothk)': pids=[4319, 4632], posts=[11, 10]
+#   'Юрий Каверкин (Gekko)': pids=[3370, 5569], posts=[4, 7]
+#   'Natasha': pids=[1503, 1759], posts=[3, 6]
+#   'Vladimir Banderas (Banderas)': pids=[1695, 1696], posts=[5, 1]
+#   'Theodor': pids=[1578, 4782], posts=[1, 2]
+
+
+- slug: dr-nick
+  canonical: Дима Казанцев (Dr. Nick)
+  person_ids:
+  - 335
+  _name_variants:
+  - Дима Казанцев (Dr. Nick)
+  - Dmitri Kazantsev (Dr. Nick)
+  - Дмитрий Казанцев (Dr. Nick)
+  - Дима   (Казанцев)
+  - Дима Казанцев (Казан)
+  - Dmitri Kazantsev
+  - Ара Блюзмен
+  - Ара Блюзман
+  _post_count: 3747
+- slug: evdokimov
+  canonical: Andrei V. Evdokimov (evdokimov)
+  person_ids:
+  - 4
+  _name_variants:
+  - Andrei V. Evdokimov (evdokimov)
+  - Andrei V. Evdokimov
+  - khvorik
+  - зам.зав.
+  - Жук
+  - Мормоко
+  - Оскар Фельтцман
+  - kuksel
+  _post_count: 1110
+- slug: fedor
+  canonical: Федор Романенко (fedor)
+  person_ids:
+  - 2
+  _name_variants:
+  - Федор Романенко (fedor)
+  - Федор Романенко
+  - Moderator
+  - Человек-упырь (fedor)
+  - Федор Романенко (moderator)
+  - Tigers
+  _post_count: 1071
+- slug: stone-crazy
+  canonical: vr  (Stone Crazy)
+  person_ids:
+  - 5
+  _name_variants:
+  - vr  (Stone Crazy)
+  - Владимир Русинов (BluesCat)
+  - Владимир Русинов
+  - vr (Stone Crazy)
+  - a
+  - Мюллер-гармонист
+  - Анна Шарибжанова
+  _post_count: 1028
+- slug: dok
+  canonical: Алексей Аграновский (Док)
+  person_ids:
+  - 458
+  _name_variants:
+  - Алексей Аграновский (Док)
+  - Алексей Аграновский
+  - Док
+  - ААА
+  - Крыша Модератора
+  - whatsthebuzz
+  _post_count: 717
+- slug: andrey-prg
+  canonical: Андрей Ордальонов (Андрей PRG)
+  person_ids:
+  - 712
+  _name_variants:
+  - Андрей PRG
+  - Андрей Ордальонов (Андрей PRG)
+  - Aндрей PRG
+  - Любимый Форум ;)
+  _post_count: 632
+- slug: gypsy
+  canonical: Андрей Цыганков (gypsy)
+  person_ids:
+  - 13
+  _name_variants:
+  - Старый Майор
+  - Андрей Цыганков (gypsy)
+  - Старый майор
+  - Фрекен Бокк
+  - Профессор Фаренгейт
+  - Пикейные жилеты
+  - Старый Майор (из сибирской ссылки)
+  - Старый Майор (gypsy)
+  _post_count: 462
+- slug: t-w-ridxehn
+  canonical: Руслан Чифуров (T. W. Ridxehn)
+  person_ids:
+  - 2888
+  _name_variants:
+  - Руслан Чифуров ()
+  - Руслан Чифуров (T. W. Ridxehn)
+  - Калий Цианидович
+  - Брит-поп
+  - Киркор Филиппов
+  - Налсур Воруфич ()
+  - Брит-Поп
+  - Bumblebee
+  _post_count: 401
+- slug: neckapb
+  canonical: Михаил Бирюков (nECKAPb)
+  person_ids:
+  - 6
+  _name_variants:
+  - Михаил Бирюков (nECKAPb)
+  - Михаил Бирюков
+  - Muxa
+  _post_count: 392
+- slug: void
+  canonical: Sergei  Kiritchenko (VoID)
+  person_ids:
+  - 26
+  _name_variants:
+  - Sergei  Kiritchenko (VoID)
+  - Steve Jobs
+  - Sergei  Kiritchenko
+  _post_count: 268
+- slug: mike
+  canonical: Malcolm Ray  Redriver (Mike)
+  person_ids:
+  - 687
+  _name_variants:
+  - Malcolm Ray  Redriver (Mike)
+  - Malcolm Ray    Readriver (Mike)
+  - Malcolm   ()
+  - Malcolm Ray  Readriver (Mike)
+  - Malcolm Ray  Blueriver (Mike)
+  - Malcolm
+  - Malcolm Ray Redriver
+  - Michael Seliverstoff (Mike)
+  _post_count: 246
+- slug: tonny
+  canonical: Александр Мальчевский (Tonny)
+  person_ids:
+  - 783
+  _name_variants:
+  - Александр Мальчевский (Tonny)
+  - Житель села Гадюкино
+  _post_count: 223
+- slug: igor-g
+  canonical: Игорь Головачев (Игорь Г.)
+  person_ids:
+  - 956
+  _name_variants:
+  - Игорь Головачев (Игорь Г.)
+  - Игорь Головачев
+  _post_count: 223
+- slug: serge-ivanov
+  canonical: Сергей Иванов (serge_ivanov)
+  person_ids:
+  - 378
+  _name_variants:
+  - Сергей Иванов (serge_ivanov)
+  - Сергей Иванов
+  _post_count: 203
+- slug: gekko
+  canonical: Yuri Kaverkin (Gekko)
+  person_ids:
+  - 1719
+  _post_count: 182
+- slug: antokha
+  canonical: Anton Klepikov (antokha)
+  person_ids:
+  - 366
+  _name_variants:
+  - Anton Klepikov (antokha)
+  - Anton Klepikov (Antokha)
+  - Справошная
+  _post_count: 167
+- slug: ava
+  canonical: Вадим  (AVA)
+  person_ids:
+  - 598
+  _name_variants:
+  - Вадим  (AVA)
+  - AvA  ()
+  - Вадим  (aVa)
+  - Вадим  (boroda(aVa))
+  _post_count: 132
+- slug: the-evergreens
+  canonical: AlexIV ("The Evergreens")
+  person_ids:
+  - 82
+  _name_variants:
+  - AlexIV
+  - металлисты
+  - AlexIV ("The Evergreens")
+  - металлюга
+  - металлистъ
+  - металлистЪ
+  - установщики шлагбаумов и строители парковок
+  - Г. (не Игорь)
+  _post_count: 116
+- slug: tavrichesky
+  canonical: tavrichesky
+  person_ids:
+  - 7208
+  _post_count: 112
+- slug: grem
+  canonical: (Grem)
+  person_ids:
+  - 1725
+  _name_variants:
+  - (Grem)
+  - Grem
+  - Сергей Сергеев (Grem)
+  - Доктор Пилюлькин
+  - Grem)
+  _post_count: 110
+- slug: dima
+  canonical: Dima Krasivov (Dima)
+  person_ids:
+  - 9
+  _name_variants:
+  - Dima Krasivov (Dima)
+  - Dima Krasivov
+  - Dima Krasivov (Груша)
+  _post_count: 102
+- slug: kotmatraskin
+  canonical: Kot Matraskin (KotMatraskin)
+  person_ids:
+  - 2824
+  _name_variants:
+  - Kot Matraskin (KotMatraskin)
+  - Aleksei Denisoff (KotMatraskin)
+  - Kot
+  - Kot Matraskin
+  - KotMatraskin
+  _post_count: 94
+- slug: barmaley
+  canonical: VoV  (Barmaley)
+  person_ids:
+  - 2803
+  _name_variants:
+  - VoV  (Barmaley)
+  - VoV
+  _post_count: 81
+- slug: populoss
+  canonical: Илья Кривандин (Populoss)
+  person_ids:
+  - 4313
+  _name_variants:
+  - Илья Кривандин (Populoss)
+  - Илья Кривандин
+  - Тяжеловес со стажем
+  - Илья Кривандин ()
+  _post_count: 81
+- slug: fan
+  canonical: Дмитрий(fan))
+  person_ids:
+  - 698
+  _name_variants:
+  - Дмитрий(fan))
+  - Дмитрий(fan)
+  - Дмитрий Леонидов (Дмитрий(fan))
+  - Леонидов Дмитрий Юрьевич , г. С.-Петербург
+  - Дмитрий Леонидов (fan)
+  _post_count: 77
+- slug: ded-morozzz
+  canonical: Михан  (Ded Morozzz)
+  person_ids:
+  - 1749
+  _name_variants:
+  - Михан  (Ded Morozzz)
+  - Михаил Белов (Ded Morozzz)
+  - Михаил Белов
+  _post_count: 72
+- slug: oleg
+  canonical: олег
+  person_ids:
+  - 7512
+  _post_count: 69
+- slug: eastwood2002
+  canonical: Петр Кунарев (Eastwood2002)
+  person_ids:
+  - 671
+  _name_variants:
+  - Петр Кунарев (Eastwood2002)
+  - Cowboy Pete
+  _post_count: 65
+- slug: mishuris
+  canonical: Михаил Мишурис (мишурис)
+  person_ids:
+  - 4384
+  _name_variants:
+  - мишурис
+  - Михаил Мишурис (мишурис)
+  - Михаил Мишурис
+  _post_count: 58
+- slug: wheel
+  canonical: Konstantin (Wheel)
+  person_ids:
+  - 3349
+  _name_variants:
+  - Konstantin (Wheel)
+  - Konstantin  (Wheel)
+  - Wheel  (Wheel)
+  - Konstantin
+  - Wheel
+  _post_count: 57
+- slug: eldar
+  canonical: Эльдар
+  person_ids:
+  - 7202
+  _post_count: 55
+- slug: cpt-nemoff
+  canonical: Cpt. Nemoff
+  person_ids:
+  - 3623
+  _name_variants:
+  - Cpt. Nemoff
+  - ЖЕКА НЕМОВ
+  _post_count: 49
+- slug: baltika
+  canonical: baltika
+  person_ids:
+  - 1536
+  _name_variants:
+  - baltika
+  - b
+  - Chilavert
+  - Настойчивый СколдероВЕД
+  - некопенгаген_млин
+  - Че Гивара
+  - VoID
+  _post_count: 47
+- slug: blacky
+  canonical: Slavik Chernov (Blacky)
+  person_ids:
+  - 24
+  _post_count: 46
+- slug: yalav
+  canonical: Валентин Балашов (Ялав)
+  person_ids:
+  - 3168
+  _name_variants:
+  - Валентин
+  - Валентин Балашов (Ялав)
+  - Валентин Балашов
+  _post_count: 44
+- slug: john
+  canonical: John John (John)
+  person_ids:
+  - 750
+  _name_variants:
+  - John John (John)
+  - John
+  _post_count: 42
+- slug: mcl
+  canonical: Andy mcletsoff (McL)
+  person_ids:
+  - 1206
+  _name_variants:
+  - Andy mcletsoff (McL)
+  - Andy McLetsoff (McL)
+  _post_count: 41
+- slug: sanya
+  canonical: (Sanya)
+  person_ids:
+  - 559
+  _post_count: 40
+- slug: dibrova
+  canonical: Диброва (Dibrova)
+  person_ids:
+  - 3588
+  _name_variants:
+  - Диброва (Dibrova)
+  - Диброва
+  - Маша Диброва (Dibrova)
+  - Диброва ()
+  - Клариси
+  - Ксюха
+  - улитка
+  - Бонд
+  _post_count: 39
+- slug: grem
+  canonical: grem
+  person_ids:
+  - 7219
+  _post_count: 38
+- slug: general
+  canonical: Sergei N. (General)
+  person_ids:
+  - 198
+  _post_count: 37
+- slug: grem
+  canonical: (Grem)
+  person_ids:
+  - 204
+  _name_variants:
+  - Grem
+  - Grems
+  - (Grem)
+  - (burgik)
+  - gik
+  _post_count: 36
+- slug: oksana-kochubey
+  canonical: Оксана Кочубей
+  person_ids:
+  - 2465
+  _name_variants:
+  - Оксана Кочубей
+  - Оксана Кочубей ()
+  _post_count: 35
+- slug: j-d
+  canonical: Daniil Jeshkov (J.D.)
+  person_ids:
+  - 1755
+  _name_variants:
+  - Daniil Jeshkov (J.D.)
+  - Daniil Jeshkov (Ji][v][i)
+  _post_count: 34
+- slug: rr
+  canonical: Руслан Абдалов (RR)
+  person_ids:
+  - 87
+  _post_count: 33
+- slug: alex-z77
+  canonical: Алексей Ильичёв (Alex_z77)
+  person_ids:
+  - 1731
+  _post_count: 33
+- slug: yuk
+  canonical: Юрий Кривошеин (YuK)
+  person_ids:
+  - 88
+  _name_variants:
+  - Юрий Кривошеин (YuK)
+  - Случайный прохожий
+  _post_count: 32
+- slug: s-b
+  canonical: Сергей Бабаев (S.B.)
+  person_ids:
+  - 301
+  _name_variants:
+  - Сергей Бабаев (S.B.)
+  - Сергей Бабаев
+  - Сергей  Бабаев
+  - Сергей  Бабаев (Benjamin)
+  - (Сергей Бабаев)
+  _post_count: 28
+- slug: jimi
+  canonical: Jimi Slide (Jimi)
+  person_ids:
+  - 5113
+  _name_variants:
+  - Jimi Slide (Jimi)
+  - Alexey Inshakov
+  _post_count: 25
+- slug: sharikoff
+  canonical: Серега Алексеев (Sharikoff)
+  person_ids:
+  - 3324
+  _name_variants:
+  - Серега Алексеев (Sharikoff)
+  - Анонимный алкоголик
+  _post_count: 24
+- slug: mishouris
+  canonical: Михаил Мишурис (mishouris)
+  person_ids:
+  - 4764
+  _name_variants:
+  - Михаил Мишурис (mishouris)
+  - mishouris
+  _post_count: 24
+- slug: volk
+  canonical: Костин Владимир (Volk)
+  person_ids:
+  - 730
+  _name_variants:
+  - Костин Владимир (Volk)
+  - Асторожный
+  _post_count: 23
+- slug: nadezhda
+  canonical: Надежда  (Надежда)
+  person_ids:
+  - 5877
+  _name_variants:
+  - Надежда  (Надежда)
+  - Надежда
+  _post_count: 22
+- slug: lvk
+  canonical: Лев Кузнецов (lvk)
+  person_ids:
+  - 658
+  _post_count: 20
+- slug: tigra
+  canonical: Serge Sklyaroff (tigra)
+  person_ids:
+  - 980
+  _name_variants:
+  - Serge Sklyaroff (tigra)
+  - (tigra)
+  - Tigra
+  - tigra
+  _post_count: 20
+- slug: irina
+  canonical: Ирина
+  person_ids:
+  - 7873
+  _post_count: 20
+- slug: aleksandr-somov
+  canonical: Александр Сомов
+  person_ids:
+  - 7879
+  _post_count: 20
+- slug: shkin
+  canonical: shkin
+  person_ids:
+  - 7
+  _post_count: 19
+- slug: john
+  canonical: Иван Крикунов (john)
+  person_ids:
+  - 4337
+  _name_variants:
+  - Плакса
+  - Иван Крикунов (john)
+  _post_count: 19
+- slug: mad-pappa
+  canonical: Alexei Perel (Mad_Pappa)
+  person_ids:
+  - 34
+  _post_count: 18
+- slug: vanya-zhuk
+  canonical: Ваня  Жук
+  person_ids:
+  - 93
+  _name_variants:
+  - Ваня  Жук
+  - Кожекин
+  - Ваня  Жук ()
+  _post_count: 18
+- slug: mishka
+  canonical: Михаил Аранышев (мишка)
+  person_ids:
+  - 774
+  _post_count: 18
+- slug: kishinevets
+  canonical: kishinevets
+  person_ids:
+  - 7264
+  _post_count: 18
+- slug: barmaley
+  canonical: Владимир  Иванов (Barmaley)
+  person_ids:
+  - 1849
+  _name_variants:
+  - Владимир  Иванов (Barmaley)
+  - Barmaley
+  _post_count: 17
+- slug: rugged
+  canonical: Rugged
+  person_ids:
+  - 1987
+  _post_count: 16
+- slug: brown-sugar
+  canonical: Денн Михайлов (brown_sugar)
+  person_ids:
+  - 1778
+  _post_count: 16
+- slug: dima-kumchenko
+  canonical: Дмитрий Кумченко (Dima Kumchenko)
+  person_ids:
+  - 1546
+  _name_variants:
+  - Дмитрий Кумченко (Dima Kumchenko)
+  - Дмитрий Кумченко (Kumchenko)
+  - Dima Kumchenko
+  _post_count: 13
+- slug: vitaliy
+  canonical: Виталий
+  person_ids:
+  - 8115
+  _post_count: 13
+- slug: dmitriy
+  canonical: Дмитрий A. (Дмитрий)
+  person_ids:
+  - 789
+  _post_count: 12
+- slug: axle
+  canonical: Алексей Дагаев (axle)
+  person_ids:
+  - 1170
+  _name_variants:
+  - Алексей Дагаев (axle)
+  - Алексей Дагаев
+  _post_count: 12
+- slug: goodcorn
+  canonical: Nick Goodcorn (Goodcorn)
+  person_ids:
+  - 125
+  _name_variants:
+  - Nick Goodcorn (Goodcorn)
+  - Nick Goodcorn
+  - Nick Goodcorn (BLUESMAN)
+  _post_count: 12
+- slug: junior
+  canonical: Михаил Носков (Junior)
+  person_ids:
+  - 1863
+  _name_variants:
+  - Михаил Носков (Junior)
+  - Junior
+  _post_count: 12
+- slug: tony-skylark
+  canonical: Антон Жаворонков (Tony Skylark)
+  person_ids:
+  - 2468
+  _post_count: 12
+- slug: ash
+  canonical: Ash
+  person_ids:
+  - 5718
+  _post_count: 12
+- slug: burnus
+  canonical: burnus
+  person_ids:
+  - 8105
+  _post_count: 12
+- slug: wals
+  canonical: Алексей Ереклинцев (Wals)
+  person_ids:
+  - 780
+  _post_count: 11
+- slug: marianner
+  canonical: Mara Levin (Marianner)
+  person_ids:
+  - 2466
+  _post_count: 11
+- slug: plan
+  canonical: Michael Kaplan (plan)
+  person_ids:
+  - 3404
+  _name_variants:
+  - Michael Kaplan (plan)
+  - Plan
+  _post_count: 11
+- slug: buchothk
+  canonical: Алексей Фролов (Buchothk)
+  person_ids:
+  - 4319
+  _name_variants:
+  - Алексей Фролов (Buchothk)
+  - Алексей Фролов
+  _post_count: 11
+- slug: vladimir-rusinov
+  canonical: Владимир Русинов
+  person_ids:
+  - 7870
+  _post_count: 11
+- slug: oleg
+  canonical: Олег
+  person_ids:
+  - 8301
+  _post_count: 11
+- slug: buchothk
+  canonical: Алексей Фролов (Buchothk)
+  person_ids:
+  - 4632
+  _post_count: 10
+- slug: yuriy-kostin
+  canonical: Юрий Костин
+  person_ids:
+  - 6543
+  _post_count: 10
+- slug: tony-skylark
+  canonical: Антон Жаворонков (Tony Skylark)
+  person_ids:
+  - 344
+  _post_count: 9
+- slug: tash
+  canonical: Натали  (Tash)
+  person_ids:
+  - 1332
+  _name_variants:
+  - Натали  (Tash)
+  - Натали (Tash)
+  _post_count: 9
+- slug: guitar-ist
+  canonical: Максим Митягин (guitar'ист)
+  person_ids:
+  - 2097
+  _post_count: 9
+- slug: sergej
+  canonical: Kiktev Sergej (Sergej)
+  person_ids:
+  - 3615
+  _name_variants:
+  - Kiktev Sergej (Sergej)
+  - Kiktev Sergej
+  _post_count: 9
+- slug: zelen
+  canonical: Юрий Костин (zelen)
+  person_ids:
+  - 2428
+  _name_variants:
+  - Юрий Костин (zelen)
+  - ЮрИваныч
+  _post_count: 9
+- slug: misterx
+  canonical: Ovanes Gulishev (MisterX)
+  person_ids:
+  - 5045
+  _name_variants:
+  - Little Albert ()
+  - Ovanes Gulishev (MisterX)
+  _post_count: 9
+- slug: pumpkinhead
+  canonical: Pumpkinhead
+  person_ids:
+  - 2907
+  _post_count: 9
+- slug: guitaristka
+  canonical: Magic  (Guitaristka)
+  person_ids:
+  - 1656
+  _name_variants:
+  - Magic  (Guitaristka)
+  - Magic
+  - Наталья Терехова
+  _post_count: 8
+- slug: hipster
+  canonical: hipster
+  person_ids:
+  - 2903
+  _name_variants:
+  - hipster
+  - Мистер Котовайс
+  - hiptser
+  _post_count: 8
+- slug: oleg-valentinovich-ogienko
+  canonical: Олег Валентинович Огиенко ()
+  person_ids:
+  - 3761
+  _post_count: 8
+- slug: fingerpicker
+  canonical: Вадим  Иващенко (fingerpicker)
+  person_ids:
+  - 6398
+  _name_variants:
+  - Вадим  Иващенко (fingerpicker)
+  - Вадим  Иващенко
+  _post_count: 8
+- slug: arsen
+  canonical: Arsen
+  person_ids:
+  - 7284
+  _post_count: 8
+- slug: mariya-cherkesova
+  canonical: Мария Черкесова
+  person_ids:
+  - 373
+  _post_count: 8
+- slug: sergey
+  canonical: sergey
+  person_ids:
+  - 7999
+  _post_count: 8
+- slug: mao
+  canonical: Alex  (Mao)
+  person_ids:
+  - 630
+  _name_variants:
+  - Alex  (Mao)
+  - Siam
+  - Aлександр Фурунжиев ( Raindogs )
+  _post_count: 7
+- slug: natalia
+  canonical: Natalia
+  person_ids:
+  - 809
+  _name_variants:
+  - Natalia
+  - Natalia  ()
+  - Dima Kazantsev
+  _post_count: 7
+- slug: doktor
+  canonical: Дмитрий Казачков (Доктор)
+  person_ids:
+  - 342
+  _post_count: 7
+- slug: indiv-alla
+  canonical: Indiv.alla
+  person_ids:
+  - 9301
+  _post_count: 7
+- slug: ledzep
+  canonical: Димитрий О'Парин (LedZep)
+  person_ids:
+  - 2062
+  _name_variants:
+  - Димитрий О'Парин (LedZep)
+  - Димитрий О'Парин
+  _post_count: 7
+- slug: lars
+  canonical: Lars ... (Lars)
+  person_ids:
+  - 1828
+  _name_variants:
+  - Lars
+  - Lars ... (Lars)
+  _post_count: 7
+- slug: izecold
+  canonical: Sergei Nenarochkin (iZeCold)
+  person_ids:
+  - 2589
+  _post_count: 7
+- slug: boogie
+  canonical: boogie  (boogie)
+  person_ids:
+  - 3542
+  _name_variants:
+  - boogie  (boogie)
+  - Блюзмен с дельты Дона (bluesman)
+  _post_count: 7
+- slug: raiden
+  canonical: Alex Horn (Raiden)
+  person_ids:
+  - 4963
+  _post_count: 7
+- slug: gekko
+  canonical: Юрий Каверкин (Gekko)
+  person_ids:
+  - 5569
+  _post_count: 7
+- slug: valen
+  canonical: Valentin Kachanyuk (valen)
+  person_ids:
+  - 804
+  _name_variants:
+  - valen
+  - Valentin Kachanyuk (valen)
+  _post_count: 6
+- slug: natasha
+  canonical: Natasha
+  person_ids:
+  - 1759
+  _post_count: 6
+- slug: ballbreaker
+  canonical: Вячеслав  Троценко (Ballbreaker)
+  person_ids:
+  - 3350
+  _post_count: 6
+- slug: s-r-v
+  canonical: Сергей Смирнов (S.R.V.)
+  person_ids:
+  - 4671
+  _post_count: 6
+- slug: sarcasticmr
+  canonical: Nikolay Safonov (SarcasticMr)
+  person_ids:
+  - 5111
+  _name_variants:
+  - Nikolay Safonov (SarcasticMr)
+  - SarcasticMr
+  _post_count: 6
+- slug: rainymus
+  canonical: Анастасия Николайчук (Rainymus)
+  person_ids:
+  - 6549
+  _post_count: 6
+- slug: garpia
+  canonical: Svetlana Kotelkova (Garpia)
+  person_ids:
+  - 6657
+  _post_count: 6
+- slug: jazzman1945
+  canonical: jazzman1945
+  person_ids:
+  - 7214
+  _post_count: 6
+- slug: dmitriy-meysigov
+  canonical: Дмитрий Мейсигов
+  person_ids:
+  - 1021
+  _post_count: 6
+- slug: ivan
+  canonical: Иван
+  person_ids:
+  - 8976
+  _post_count: 6
+- slug: iv
+  canonical: Илья Верховский (iv)
+  person_ids:
+  - 56
+  _post_count: 5
+- slug: jazz
+  canonical: Slava Kovalchuk (Jazz)
+  person_ids:
+  - 1233
+  _name_variants:
+  - Jazzmonk
+  - Slava Kovalchuk (Jazz)
+  _post_count: 5
+- slug: blackcat
+  canonical: (BlackCat)
+  person_ids:
+  - 1423
+  _name_variants:
+  - (BlackCat)
+  - Svetlana Yeliseyeva (BlackCat)
+  _post_count: 5
+- slug: banderas
+  canonical: Vladimir Banderas (Banderas)
+  person_ids:
+  - 1695
+  _name_variants:
+  - banderas
+  - Vladimir Banderas (Banderas)
+  - Dima Golubev (X-18)
+  _post_count: 5
+- slug: yurec
+  canonical: (Yurec)
+  person_ids:
+  - 1753
+  _name_variants:
+  - (Yurec)
+  - Sokolov (Yurec)
+  _post_count: 5
+- slug: kochubey
+  canonical: Jutsy(Кочубей)
+  person_ids:
+  - 2339
+  _name_variants:
+  - Александр  Половинкин
+  - Jutsy(Кочубей)
+  _post_count: 5
+- slug: dokk
+  canonical: valerij kalinin (dokk)
+  person_ids:
+  - 3363
+  _post_count: 5
+- slug: axle
+  canonical: Axle
+  person_ids:
+  - 7206
+  _post_count: 5
+- slug: muddy-lives
+  canonical: Muddy Lives
+  person_ids:
+  - 7465
+  _post_count: 5
+- slug: egor-metlin
+  canonical: Егор Метлин
+  person_ids:
+  - 4502
+  _post_count: 5
+- slug: myshelove
+  canonical: myshelove
+  person_ids:
+  - 9227
+  _post_count: 5
+- slug: falcon
+  canonical: Alexei Sokolov (falcon)
+  person_ids:
+  - 507
+  _name_variants:
+  - Alexei Sokolov (falcon)
+  - Alexei Sokolov
+  _post_count: 4
+- slug: sobo
+  canonical: Daniel Kriman (SOBO)
+  person_ids:
+  - 1730
+  _name_variants:
+  - Daniel Kriman (SOBO)
+  - Молодой Сержант
+  _post_count: 4
+- slug: string
+  canonical: Egor Skorokhodov (String)
+  person_ids:
+  - 1851
+  _post_count: 4
+- slug: pavka
+  canonical: Павел  Бегичев (Павка)
+  person_ids:
+  - 1886
+  _post_count: 4
+- slug: gebeusraider
+  canonical: Макс Щербаков (GebeusRaider)
+  person_ids:
+  - 2351
+  _post_count: 4
+- slug: konstantin
+  canonical: Константин Калугин (konstantin)
+  person_ids:
+  - 2359
+  _post_count: 4
+- slug: stratocaster
+  canonical: Владимир Карпов (Stratocaster)
+  person_ids:
+  - 2865
+  _name_variants:
+  - Владимир Карпов (Stratocaster)
+  - владимир карпов (vovan)
+  _post_count: 4
+- slug: gekko
+  canonical: Юрий Каверкин (Gekko)
+  person_ids:
+  - 3370
+  _post_count: 4
+- slug: svetych
+  canonical: Светлана Карева (svetych)
+  person_ids:
+  - 3725
+  _name_variants:
+  - Светлана Карева (svetych)
+  - Светлана Карева (Вита)
+  _post_count: 4
+- slug: van
+  canonical: Иван (Van)
+  person_ids:
+  - 2371
+  _name_variants:
+  - Иван
+  - Иван (Van)
+  - Иван Кондратов (Van)
+  _post_count: 4
+- slug: snoopy
+  canonical: Eugene Krivdyuk (snoopy)
+  person_ids:
+  - 5298
+  _post_count: 4
+- slug: plaksa
+  canonical: Плакса
+  person_ids:
+  - 6435
+  _post_count: 4
+- slug: prokhor-76
+  canonical: прохор  паклеванов (Прохор 76)
+  person_ids:
+  - 6558
+  _name_variants:
+  - прохор  паклеванов (Прохор 76)
+  - Прохор Паклеванов ( Прохор 76)
+  _post_count: 4
+- slug: leon
+  canonical: Леон  ()
+  person_ids:
+  - 6501
+  _name_variants:
+  - Леон  ()
+  - Леон
+  _post_count: 4
+- slug: vova
+  canonical: Вова
+  person_ids:
+  - 7426
+  _post_count: 4
+- slug: denis
+  canonical: Денис
+  person_ids:
+  - 7463
+  _post_count: 4
+- slug: nazim
+  canonical: Назим
+  person_ids:
+  - 8531
+  _post_count: 4
+- slug: gorbatov2002
+  canonical: gorbatov2002
+  person_ids:
+  - 2255
+  _name_variants:
+  - gorbatov2002
+  - Горбатов Андрей - KONCERTAGENCY.RU
+  _post_count: 4
+- slug: artyom
+  canonical: Артём
+  person_ids:
+  - 8772
+  _post_count: 4
+- slug: big-papa-hunter
+  canonical: Big Papa  Hunter (Big Papa Hunter)
+  person_ids:
+  - 697
+  _name_variants:
+  - Big Papa  Hunter (Big Papa Hunter)
+  - Big Papa  Hunter
+  _post_count: 3
+- slug: malysh
+  canonical: Forrest Gump (Малыш)
+  person_ids:
+  - 68
+  _post_count: 3
+- slug: vk
+  canonical: Vadim  (VK)
+  person_ids:
+  - 706
+  _name_variants:
+  - Vadim V. Kladov
+  - Vadim VK
+  - Vadim  (VK)
+  _post_count: 3
