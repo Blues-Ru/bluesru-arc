@@ -1,12 +1,27 @@
 #!/usr/bin/env python3
 """Generate forum pages (index + all topics)."""
+import html as html_mod
+import shutil
 import sys
+import yaml
 from pathlib import Path
+
 sys.path.insert(0, str(Path(__file__).parent))
-from generate_shared import *
+
+from generate_shared import (
+    ARC,
+    JINJA_ENV,
+    SITE,
+    SPAM_IDS,
+    _find_topic_yaml,
+    _forum_visible_topics,
+    _load_topics_index,
+    _topic_is_all_deleted,
+    render_topic_html,
+)
 
 
-def generate_forum():
+def generate_forum() -> None:
     """Generate full forum (index + all topics). Used by make forum."""
     print("Generating forum pages...")
     topics_visible, topic_to_page = _forum_visible_topics()
@@ -17,7 +32,7 @@ def generate_forum():
     _copy_forum_static()
 
 
-def generate_forum_index():
+def generate_forum_index() -> None:
     """Generate forum index pages only (make forum-index)."""
     print("Generating forum index pages...")
     topics_visible, _ = _forum_visible_topics()
@@ -26,14 +41,14 @@ def generate_forum_index():
     print(f"  Topics visible: {len(topics_visible)}")
 
 
-def generate_forum_topics_from_shard(shard_file):
+def generate_forum_topics_from_shard(shard_file: str) -> None:
     """Generate topic HTML files listed in shard_file (make forum-shard-N)."""
     path = Path(shard_file)
     if not path.exists():
         print(f"Shard file not found: {shard_file}", file=sys.stderr)
         sys.exit(1)
 
-    entries = []
+    entries: list[tuple[str, int]] = []
     for line in path.read_text(encoding='utf-8').splitlines():
         line = line.strip()
         if not line:
@@ -42,7 +57,7 @@ def generate_forum_topics_from_shard(shard_file):
         entries.append((parts[0], int(parts[1])))
 
     topics_index = _load_topics_index()
-    meta_by_id = {str(tm['topic_id']): tm for tm in topics_index}
+    meta_by_id   = {str(tm['topic_id']): tm for tm in topics_index}
 
     print(f"Generating {len(entries)} forum topics from {path.name}...")
     _generate_forum_topics(
@@ -52,15 +67,15 @@ def generate_forum_topics_from_shard(shard_file):
     print(f"  Done: {path.name}")
 
 
-def _clean_stale_topic_files(topics_visible):
-    """Delete topicN.html files for topics no longer visible (e.g. all-spam topics)."""
+def _clean_stale_topic_files(topics_visible: list) -> None:
+    """Delete topicN.html files for topics no longer visible."""
     valid_ids = {str(tm.get('topic_id')) for tm in topics_visible}
     forum_dir = SITE / 'forum'
     if not forum_dir.exists():
         return
     removed = 0
     for f in forum_dir.glob('topic*.html'):
-        tid = f.stem[5:]  # strip 'topic'
+        tid = f.stem[5:]
         if tid not in valid_ids:
             f.unlink()
             removed += 1
@@ -68,22 +83,22 @@ def _clean_stale_topic_files(topics_visible):
         print(f"  Removed {removed} stale topic file(s)")
 
 
-def _generate_forum_index(topics_visible):
-    PAGE_SIZE = 50
-    total = len(topics_visible)
-    pages = max(1, (total + PAGE_SIZE - 1) // PAGE_SIZE)
+def _generate_forum_index(topics_visible: list) -> None:
+    PAGE_SIZE  = 50
+    total      = len(topics_visible)
+    pages      = max(1, (total + PAGE_SIZE - 1) // PAGE_SIZE)
     tmpl_index = JINJA_ENV.get_template('forum_index.html.j2')
 
     for page_num in range(pages):
-        start = page_num * PAGE_SIZE
+        start            = page_num * PAGE_SIZE
         page_topics_meta = topics_visible[start:start + PAGE_SIZE]
-        rendered_topics = []
+        rendered_topics: list[str] = []
         for tm in page_topics_meta:
             tf = tm.get('_path') or _find_topic_yaml(tm['topic_id'])
             td = yaml.safe_load(tf.read_text()) if (tf and tf.exists()) else None
             rendered_topics.append(render_topic_html(td, tm, full=False))
         fname = 'index.html' if page_num == 0 else f'page{page_num + 1}.html'
-        dst = SITE / 'forum' / fname
+        dst   = SITE / 'forum' / fname
         dst.parent.mkdir(parents=True, exist_ok=True)
         out = tmpl_index.render(
             page=page_num + 1,
@@ -96,20 +111,20 @@ def _generate_forum_index(topics_visible):
     print(f"  Forum index: {pages} pages")
 
 
-def _generate_forum_topics(topics_meta, topic_to_page):
+def _generate_forum_topics(topics_meta: list, topic_to_page: dict) -> None:
     tmpl_topic = JINJA_ENV.get_template('forum_topic.html.j2')
-    generated = 0
+    generated  = 0
     for tm in topics_meta:
         topic_id = tm.get('topic_id')
         tf = tm.get('_path') or _find_topic_yaml(topic_id)
         if not tf or not tf.exists():
             continue
-        td = yaml.safe_load(tf.read_text())
+        td    = yaml.safe_load(tf.read_text())
         posts = td.get('posts', [])
         if not posts:
             continue
         first = posts[0]
-        fp = topic_to_page.get(str(topic_id), topic_to_page.get(topic_id, 1))
+        fp    = topic_to_page.get(str(topic_id), topic_to_page.get(topic_id, 1))
         rendered = render_topic_html(td, tm, full=True, forum_page=fp)
         out = tmpl_topic.render(
             topic=tm,
@@ -123,16 +138,16 @@ def _generate_forum_topics(topics_meta, topic_to_page):
     print(f"  Forum topics: {generated}")
 
 
-def _copy_forum_static():
+def _copy_forum_static() -> None:
     for f in (ARC / 'forum').iterdir():
         shutil.copy2(f, SITE / 'forum' / f.name)
 
 
-def main():
-    args = sys.argv[1:]
+def main() -> None:
+    args       = sys.argv[1:]
     shard_file = None
     if '--shard-file' in args:
-        idx = args.index('--shard-file')
+        idx        = args.index('--shard-file')
         shard_file = args[idx + 1]
 
     if '--section' in args:
