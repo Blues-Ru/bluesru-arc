@@ -44,6 +44,8 @@ posts:
       text: 'Целиком я поддержу Казанцева-оратора!
 
         Пусть живет и процветает дело Модератора!!!'
+      inferred_person_id: 13
+    inferred_person_id: 335
   - id: 29240
     parent_id: 29227
     date: 2006-10-28 08:09
@@ -98,6 +100,7 @@ posts:
     text: 'Извиняюсь, запоздал!
 
       Фёдор, с Днём Рождения!'
+    inferred_person_id: 4384
   - id: 29256
     parent_id: 29227
     date: 2006-10-30 14:38
@@ -105,3 +108,4 @@ posts:
     email: leonidovd@mail.ru
     subject: Федор, хоть и с опозданием, я также присоединяюсь!
     deleted: false
+  inferred_person_id: 7202

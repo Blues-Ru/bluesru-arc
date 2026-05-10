@@ -36,6 +36,7 @@ posts:
     email: dr.nick@blues.ru
     subject: это еа в роли бг :)
     deleted: false
+    inferred_person_id: 335
   - id: 16525
     parent_id: 16521
     date: 2003-12-28 17:25

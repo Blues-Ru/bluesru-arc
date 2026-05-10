@@ -36,6 +36,7 @@ posts:
         subject: Это да...
         deleted: false
         text: "Москва - родина гламура.\nБлюз не гламурен. \nГламурное кисо не выгуляешь под блюз."
+        inferred_person_id: 13
       person_id: 4
     person_id: 13
   person_id: 4

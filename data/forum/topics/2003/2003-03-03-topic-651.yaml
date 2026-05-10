@@ -21,11 +21,8 @@ posts:
     email: from30@mail.ru
     subject: Рекомендую
     deleted: false
-    text: "Рекомендую приобрести по почтовой рассылке журнала IN/OUT \nдве видеошколы\
-      \ \"Blues vocal\". Там мастер-класс ведут певица\nCarol Rogers и вокалист Masta\
-      \ Edwards, которого можно услышать\nна альбоме 'Tore down house' Scott Henderson\
-      \ вкупе с замечательнейшей,\nвеликолепнейшей Thelma Houston!...если интересно,\
-      \ свяжись со мной,\nкину телефон."
+    text: "Рекомендую приобрести по почтовой рассылке журнала IN/OUT \nдве видеошколы \"Blues vocal\". Там мастер-класс ведут певица\nCarol Rogers и вокалист Masta Edwards, которого можно услышать\nна альбоме 'Tore down house' Scott Henderson вкупе с замечательнейшей,\nвеликолепнейшей Thelma Houston!...если интересно, свяжись со мной,\nкину телефон."
+    inferred_person_id: 301
   - id: 10761
     parent_id: 10741
     date: 2003-03-04 08:51

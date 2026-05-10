@@ -12,8 +12,7 @@ posts:
   email: wholetsadogsout@mail.ru
   subject: who-is-hoochie-coochie-man?
   deleted: false
-  text: who is hoochie coochie man? Это танец такой? http://www.logoi.com/notes/who-is-hoochie-coochie-man.html Или неперсонализированный
-    образ? Спасибо!
+  text: who is hoochie coochie man? Это танец такой? http://www.logoi.com/notes/who-is-hoochie-coochie-man.html Или неперсонализированный образ? Спасибо!
   replies:
   - id: 34295
     parent_id: 34294
@@ -48,5 +47,5 @@ posts:
     email: mlives_6@hotmail.com
     subject: страно
     deleted: false
-    text: "Статья про историю танец \"Hoochie Coochie\" - очень итнересная, но удивительно наивная на тему его переносного\
-      \ значения в бюзе. \n\nMuddy"
+    text: "Статья про историю танец \"Hoochie Coochie\" - очень итнересная, но удивительно наивная на тему его переносного значения в бюзе. \n\nMuddy"
+    inferred_person_id: 7465

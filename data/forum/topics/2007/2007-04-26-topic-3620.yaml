@@ -49,6 +49,7 @@ posts:
     email: volodya@blues.ru
     subject: УРААААААААААААА самое самое УРААА! :)
     deleted: false
+    inferred_person_id: 7870
   - id: 32529
     parent_id: 32521
     date: 2007-04-26 13:00
@@ -68,6 +69,7 @@ posts:
 
 
       всего лучшего желаю!!!'
+    inferred_person_id: 335
   - id: 32533
     parent_id: 32521
     date: 2007-04-26 14:56
@@ -104,6 +106,7 @@ posts:
     subject: С днем рождения!
     deleted: false
     text: Здоровья и счастья! и весело отпраздновать! ))
+    inferred_person_id: 7284
   - id: 32543
     parent_id: 32521
     date: 2007-04-26 22:43
@@ -112,6 +115,7 @@ posts:
     subject: С Днем Рожденья!!!
     deleted: false
     text: Всего самого наилучшего! Счастья, здоровья, успехов!!! Так держать!
+    inferred_person_id: 4319
   - id: 32547
     parent_id: 32521
     date: 2007-04-27 00:36
@@ -123,3 +127,4 @@ posts:
 
       Scolder Blues'
     person_id: 88
+  inferred_person_id: 4384

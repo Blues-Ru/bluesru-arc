@@ -12,8 +12,7 @@ posts:
   email: evdokimov@blues.ru
   subject: 'Два Вилльямса: Кларенс и Спенсер'
   deleted: false
-  text: 'будут поводом сегодняшнего "Всего Этого Блюза": Рей Чарлз, Фредди и БиБиКинг, Ширли Хорн... а главное: Бесси Смит,
-    Билли Холидей и Дайана Вашингтон. T''Aint Nobody''s Business прозвучит 6 раз, а Bassin Street - всего 3.'
+  text: 'будут поводом сегодняшнего "Всего Этого Блюза": Рей Чарлз, Фредди и БиБиКинг, Ширли Хорн... а главное: Бесси Смит, Билли Холидей и Дайана Вашингтон. T''Aint Nobody''s Business прозвучит 6 раз, а Bassin Street - всего 3.'
   replies:
   - id: 19435
     parent_id: 19434
@@ -23,4 +22,5 @@ posts:
     subject: Williams of the blues
     deleted: false
     text: И не забудьте Joe и Jody!
+    inferred_person_id: 7465
   person_id: 4

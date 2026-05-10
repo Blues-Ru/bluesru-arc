@@ -12,8 +12,7 @@ posts:
   email: kotmatrs@mail.ru
   subject: Умер Али Фарка.
   deleted: false
-  text: One of Africa's best known musicians, Ali Farka Toure, dies in his home country, Mali, after a long illness. (BBC
-    News)
+  text: One of Africa's best known musicians, Ali Farka Toure, dies in his home country, Mali, after a long illness. (BBC News)
   replies:
   - id: 26500
     parent_id: 26499
@@ -30,8 +29,7 @@ posts:
     email: gypsy@mail.ru
     subject: Он играл волшебную музыку..
     deleted: false
-    text: "..те, кто ещё не слышал - послушайте это:\nhttp://gypsy.bluesman.ru/1/$$WorldMusic/Ali%20Farka%20Toure/01.%20Debe.mp3\
-      \ \nhttp://gypsy.bluesman.ru/1/$$WorldMusic/Ali%20Farka%20Toure/10.%20Kadi%20Kadi.mp3"
+    text: "..те, кто ещё не слышал - послушайте это:\nhttp://gypsy.bluesman.ru/1/$$WorldMusic/Ali%20Farka%20Toure/01.%20Debe.mp3 \nhttp://gypsy.bluesman.ru/1/$$WorldMusic/Ali%20Farka%20Toure/10.%20Kadi%20Kadi.mp3"
     replies:
     - id: 26506
       parent_id: 26504
@@ -74,10 +72,13 @@ posts:
             text: 'У меня в локальном архиве нету, а вот у людей есть:
 
 
-              !wldflwr ali farka tour&#233; & ry cooder - talking timbuktu - 01 - bonde.mp3  [6.3 MB]... (весь список не привожу
-              из экономии)
+              !wldflwr ali farka tour&#233; & ry cooder - talking timbuktu - 01 - bonde.mp3  [6.3 MB]... (весь список не привожу из экономии)
 
 
               (сеть UNDERNET, канал #mp3blues)'
+            inferred_person_id: 13
+          inferred_person_id: 2824
+        inferred_person_id: 13
       person_id: 4
+    inferred_person_id: 13
   person_id: 2824

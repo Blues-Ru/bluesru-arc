@@ -65,4 +65,7 @@ posts:
           subject: Про приправу забыл :-)))))
           deleted: false
           text: Подавать приготовленную программу следует с лучком и перчиком.
+        inferred_person_id: 13
       person_id: 335
+    inferred_person_id: 13
+  inferred_person_id: 335

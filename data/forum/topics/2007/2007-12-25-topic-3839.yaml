@@ -50,7 +50,9 @@ posts:
         subject: Дык, я ж заранее паздравить!
         deleted: false
         text: 'как гриться: первый нах... нахрюкаюсь :-)'
+        inferred_person_id: 7202
       person_id: 4
+    inferred_person_id: 7202
   - id: 34189
     parent_id: 34184
     date: 2007-12-25 14:22

@@ -43,8 +43,7 @@ posts:
         email: ара@blues.ru
         subject: Это настоящий биларуский Джими Хендрикс!
         deleted: false
-        text: Но у нас есть свои Джимики в России, ара! Вова Русинов и Руслан Чифуров! Им вручали настоящие Фендекастеры еще
-          более важные Хендриксы - Белов и Зинчук!
+        text: Но у нас есть свои Джимики в России, ара! Вова Русинов и Руслан Чифуров! Им вручали настоящие Фендекастеры еще более важные Хендриксы - Белов и Зинчук!
         replies:
         - id: 28409
           parent_id: 28408
@@ -72,6 +71,7 @@ posts:
             email: gypsy@mail.ru
             subject: Вова, клёвый у тя превед получился =))))
             deleted: false
+            inferred_person_id: 13
           - id: 28419
             parent_id: 28415
             date: 2006-08-20 19:59
@@ -82,9 +82,7 @@ posts:
             text: 'My zhe ne pidary, pochemu zhopa? Chem ne nravitsya moy humor? Ne lyubish'' kavkazskiy humor?
 
 
-              Mne sam ara Ruslan rasskazyval pro tot konkurs! Govoril, chto sam Velikiy White Belov ara vydaval priz! I pro
-              tvoyu pobedu govoril ara! A ty rugayesh''sy kak ishak! Ne nado tak. I v Belarusii est'' teper'' svoy Jimi! Eto
-              prazdnik!'
+              Mne sam ara Ruslan rasskazyval pro tot konkurs! Govoril, chto sam Velikiy White Belov ara vydaval priz! I pro tvoyu pobedu govoril ara! A ty rugayesh''sy kak ishak! Ne nado tak. I v Belarusii est'' teper'' svoy Jimi! Eto prazdnik!'
             replies:
             - id: 28428
               parent_id: 28419
@@ -93,12 +91,9 @@ posts:
               email: elicaster co6@kaмейл-d0t ru
               subject: Ара, друг
               deleted: false
-              text: 'Ара, друг... Ара, есть адин момент каторый меня канкретна каробит как чилавека живущива в гораде с многалетней
-                традицией дабрасаседства с ВСЕМИ народами. Азербайджанцы, армяне, туркмены, украинцы, татары, русские... -
-                <b>в народе</b> все тут равны. Поэтому мы и знаем гОвор друг друга.
+              text: 'Ара, друг... Ара, есть адин момент каторый меня канкретна каробит как чилавека живущива в гораде с многалетней традицией дабрасаседства с ВСЕМИ народами. Азербайджанцы, армяне, туркмены, украинцы, татары, русские... - <b>в народе</b> все тут равны. Поэтому мы и знаем гОвор друг друга.
 
-                каткретна: выражение "ара" применяется обычно в начале предложения, типа: ты, дорогой, уважаемый... Но не
-                вместо типа господин, пан, мистер...
+                каткретна: выражение "ара" применяется обычно в начале предложения, типа: ты, дорогой, уважаемый... Но не вместо типа господин, пан, мистер...
 
                 И ищё, в типа армянском гОворе слово "ишак", в принципе и практически, не упатребляется.'
               replies:
@@ -109,8 +104,7 @@ posts:
                 email: ара@blues.ru
                 subject: Почему обижаешь?
                 deleted: false
-                text: Я тоже из города с многолетними традициями! И чем тебе ишак не нравится? Ара надо про блюзманов тут
-                  говорить, а не про народы!
+                text: Я тоже из города с многолетними традициями! И чем тебе ишак не нравится? Ара надо про блюзманов тут говорить, а не про народы!
                 person_id: 335
         person_id: 335
     - id: 28432
@@ -155,9 +149,7 @@ posts:
         email: prospekt45@nm.ru
         subject: Вы не представляете какое вам все биг СПСИБО!!!!!!
         deleted: false
-        text: 'Я тайно  без разрешения гитариста закинул сюда эту ссылку, но когда рассказал ему что были даже хорошие отзывы,
-          Парень так обрадовался и аж под сильным вдохновлением написал новый блюз With Devil&Crime, you girl will be mine!  :-)
-          Завтра засядем и будем записываать, записывать записывать!!!!!!
+        text: 'Я тайно  без разрешения гитариста закинул сюда эту ссылку, но когда рассказал ему что были даже хорошие отзывы, Парень так обрадовался и аж под сильным вдохновлением написал новый блюз With Devil&Crime, you girl will be mine!  :-) Завтра засядем и будем записываать, записывать записывать!!!!!!
 
           Сенкс большой большой!'
         replies:
@@ -169,6 +161,7 @@ posts:
           subject: Ключевое слово - "даже" =))))))))
           deleted: false
           text: Я плакалъ...
+          inferred_person_id: 13
       person_id: 956
   - id: 28421
     parent_id: 28381
@@ -188,8 +181,7 @@ posts:
     deleted: false
     text: '...Я не знаю...Мне стыдно за всю ту фигню, которая происходит тут. Правда, что на форуме, то и в жизни, наверное.
 
-      Человек просит обсудить на "блюзовом форуме" свою запись. Мы опять устраиваем балаган. Грош цена нам, господа, со всем
-      нашим блюзом. Противно бывать тут стало что-то....'
+      Человек просит обсудить на "блюзовом форуме" свою запись. Мы опять устраиваем балаган. Грош цена нам, господа, со всем нашим блюзом. Противно бывать тут стало что-то....'
     replies:
     - id: 28424
       parent_id: 28423
@@ -207,8 +199,7 @@ posts:
       email: a@a.com
       subject: misha
       deleted: false
-      text: sam bi i napisal recenz. a ne osudil vseh razom... s ispolzovaniem mestoimenia 'mi'. ya poslushat escho nedelu
-        ne smogu.. :) voobschem kagdiy dolgen vpercuyu ovhered za sepya otvechat... a ne za drugih :)
+      text: sam bi i napisal recenz. a ne osudil vseh razom... s ispolzovaniem mestoimenia 'mi'. ya poslushat escho nedelu ne smogu.. :) voobschem kagdiy dolgen vpercuyu ovhered za sepya otvechat... a ne za drugih :)
       replies:
       - id: 28436
         parent_id: 28430
@@ -220,3 +211,5 @@ posts:
         text: 'Я про юмор дурацкий...
 
           В принципе, к твоему посланию присоединяюсь.'
+        inferred_person_id: 4384
+    inferred_person_id: 4384

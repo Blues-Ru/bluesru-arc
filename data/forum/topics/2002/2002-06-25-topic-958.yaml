@@ -12,8 +12,7 @@ posts:
   email: job2000n@mail.ru
   subject: pls, помогите найти :)
   deleted: false
-  text: "Помогите найти записи Jason'a Webley! Прочитала, хочется послушать. Тут подробнее:\
-    \ http://www.arteria.ru/06_06_2002_1.htm\n Заранее спасибо :)"
+  text: "Помогите найти записи Jason'a Webley! Прочитала, хочется послушать. Тут подробнее: http://www.arteria.ru/06_06_2002_1.htm\n Заранее спасибо :)"
   replies:
   - id: 5714
     parent_id: 5711
@@ -25,8 +24,7 @@ posts:
     text: 'http://www.jasonwebley.com/
 
 
-      Dear Kate, набери www.google.com и в окошко поиска впиши "Jason Webley MP3"
-      - получишь 123 ссылки :)))'
+      Dear Kate, набери www.google.com и в окошко поиска впиши "Jason Webley MP3" - получишь 123 ссылки :)))'
   - id: 5715
     parent_id: 5711
     date: 2002-06-25 17:04
@@ -46,3 +44,4 @@ posts:
       Все треки доступны для прослушивания на официальном сайте:
 
       http://webley.badtaste.ru/'
+    inferred_person_id: 4

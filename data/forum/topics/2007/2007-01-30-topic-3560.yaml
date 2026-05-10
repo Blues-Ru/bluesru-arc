@@ -22,6 +22,7 @@ posts:
     subject: Конечно, это не сравнится с free teen porn..
     deleted: false
     text: ..но я надеюсь, что кого-то все-таки больше интересует музыка =)
+    inferred_person_id: 13
   - id: 30826
     parent_id: 30777
     date: 2007-02-02 17:36
@@ -76,4 +77,7 @@ posts:
           deleted: false
           text: Слушай,ну и канал у тебя.Качнул -аж присел. Я думал что таких скоростей не бывает)))
           person_id: 956
+        inferred_person_id: 7870
+      inferred_person_id: 13
     person_id: 956
+  inferred_person_id: 13

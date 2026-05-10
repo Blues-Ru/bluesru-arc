@@ -51,6 +51,7 @@ posts:
         subject: черес А оно пишеццо однозначно!
         deleted: false
         text: Проверочное слово - "Паганини".
+        inferred_person_id: 13
       person_id: 1719
     person_id: 1719
   - id: 22491
@@ -96,3 +97,4 @@ posts:
       subject: Присоединяюсь к поздравлениям!!!!!
       deleted: false
       person_id: 3588
+  inferred_person_id: 204

@@ -14,8 +14,7 @@ posts:
   text: 'пишут...
 
 
-    The 1973 oil crisis began, causing shortages of the vinyl needed to manufacture records. A number of new albums were either
-    delayed or only available in limited quantities until after the holiday season.
+    The 1973 oil crisis began, causing shortages of the vinyl needed to manufacture records. A number of new albums were either delayed or only available in limited quantities until after the holiday season.
 
 
     и другие познавательные новости в рубрике "Это было, было"...'
@@ -30,6 +29,7 @@ posts:
 
 
       Вот только раздел "Memorium" прирастает с каждым днём...'
+    inferred_person_id: 13
   - id: 38758
     parent_id: 38687
     date: 2013-02-09 08:28
@@ -38,3 +38,4 @@ posts:
     deleted: false
     text: http://bluessyle.wordpress.com/
     person_id: 8531
+  inferred_person_id: 7264

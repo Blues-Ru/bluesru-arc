@@ -63,6 +63,7 @@ posts:
           deleted: false
           person_id: 1725
         person_id: 458
+      inferred_person_id: 204
     - id: 21674
       parent_id: 21650
       date: 2005-06-06 16:13
@@ -71,6 +72,7 @@ posts:
       subject: Эдак к Вам очередь выстроится, знающих, что это По
       deleted: false
       person_id: 1206
+    inferred_person_id: 458
   - id: 21675
     parent_id: 21644
     date: 2005-06-06 17:25
@@ -107,6 +109,7 @@ posts:
           text: 'И еще раз убедился, что слово джентельмена -это закон.
 
             Удачи...'
+          inferred_person_id: 204
         person_id: 458
       person_id: 1206
     person_id: 458

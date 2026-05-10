@@ -16,9 +16,8 @@ posts:
     При этом отличная подборка видео-материалов!
 
 
-    <iframe width="560" height="315" src="//www.youtube.com/embed/9hZMHLGMpzc" frameborder="0"
-    allowfullscreen></iframe>
+    <iframe width="560" height="315" src="//www.youtube.com/embed/9hZMHLGMpzc" frameborder="0" allowfullscreen></iframe>
 
 
-    <iframe width="560" height="315" src="//www.youtube.com/embed/3AoQqTYjFSA" frameborder="0"
-    allowfullscreen></iframe>'
+    <iframe width="560" height="315" src="//www.youtube.com/embed/3AoQqTYjFSA" frameborder="0" allowfullscreen></iframe>'
+  inferred_person_id: 4

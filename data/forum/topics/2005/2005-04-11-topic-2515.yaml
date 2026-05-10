@@ -14,8 +14,7 @@ posts:
   deleted: false
   text: 'Вышел новый диск Рори Блок.
 
-    <a href="http://www.allmusic.com/cg/amg.dll?p=amg&sql=10:l7he4j877waq" target="_blank"><i>"Bottom line: there''s nobody
-    like Rory Block. [...] Rory Block is the blues."</i></a> - пишет о её новой работе AMG.'
+    <a href="http://www.allmusic.com/cg/amg.dll?p=amg&sql=10:l7he4j877waq" target="_blank"><i>"Bottom line: there''s nobody like Rory Block. [...] Rory Block is the blues."</i></a> - пишет о её новой работе AMG.'
   replies:
   - id: 21068
     parent_id: 21053
@@ -38,6 +37,7 @@ posts:
       deleted: false
       text: '... самые глубокие извинения.'
       person_id: 6
+    inferred_person_id: 4
   - id: 21085
     parent_id: 21053
     date: 2005-04-12 05:10
@@ -57,3 +57,4 @@ posts:
       text: лучший её альбом это Gone Woman Blues - шикарниший акустик-блюз!
       person_id: 3404
     person_id: 3404
+  inferred_person_id: 6

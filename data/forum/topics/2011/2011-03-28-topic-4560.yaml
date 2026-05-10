@@ -53,6 +53,7 @@ posts:
       deleted: false
       text: '... за ответ.'
       person_id: 6
+    inferred_person_id: 2
   - id: 37463
     parent_id: 37455
     date: 2011-03-29 15:36

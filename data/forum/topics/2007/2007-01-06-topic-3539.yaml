@@ -21,8 +21,7 @@ posts:
     email: еIicаster С06АKAmaiI.ru
     subject: Странненько
     deleted: false
-    text: К тому ж и сам сабж как-то потерялся. То бишь заглавный пост Немова с сылкой на RealMusic где выложена композиция
-      Gadjet - Mojo.
+    text: К тому ж и сам сабж как-то потерялся. То бишь заглавный пост Немова с сылкой на RealMusic где выложена композиция Gadjet - Mojo.
     replies:
     - id: 30328
       parent_id: 30326
@@ -34,6 +33,7 @@ posts:
       text: 'А может был удален как вредный спам... http://www.realmusic.ru/songs/264856/
 
         Вся наша жизнь - игра (знать бы во что?)'
+    inferred_person_id: 7202
   - id: 30327
     parent_id: 30317
     date: 2007-01-06 17:53
@@ -50,6 +50,7 @@ posts:
       subject: Да с Женей Немовым..
       deleted: false
       text: ему Гат Май Моджо Воркинг не даёт покоя..
+      inferred_person_id: 13
     person_id: 335
   - id: 30329
     parent_id: 30317
@@ -67,3 +68,4 @@ posts:
     subject: Мистер Немов!! А блюзовые..
     deleted: false
     text: MIDI-файлы или просто барабанные паттерны есть у Вас?
+  inferred_person_id: 13

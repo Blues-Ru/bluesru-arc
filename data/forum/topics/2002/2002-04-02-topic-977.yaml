@@ -12,8 +12,7 @@ posts:
   email: Mrg_mike@rambler.ru
   subject: AC DC
   deleted: false
-  text: Oh after I realised that it was only a joke, I think, that I can tolk 'bout somethin' else. Well what do you think
-    'bout "ride on", song by AC DC with Bon Scott(Already DEad)?
+  text: Oh after I realised that it was only a joke, I think, that I can tolk 'bout somethin' else. Well what do you think 'bout "ride on", song by AC DC with Bon Scott(Already DEad)?
   replies:
   - id: 3145
     parent_id: 3143
@@ -49,9 +48,7 @@ posts:
           email: Mrg_mike@rambler.ru
           subject: Doc you are not right
           deleted: false
-          text: 'If you are about Dylan so I say Bob Dylan is not a jew any longer (he is a catolic now) he is a man, who
-            was born sharh 41 before me ( we have birhday in one day) he do not play rock''n''rol he plays Folk. An'' I thik
-            he plays good. At last: he creater " knockin'' on heaven''s door"'
+          text: 'If you are about Dylan so I say Bob Dylan is not a jew any longer (he is a catolic now) he is a man, who was born sharh 41 before me ( we have birhday in one day) he do not play rock''n''rol he plays Folk. An'' I thik he plays good. At last: he creater " knockin'' on heaven''s door"'
           replies:
           - id: 3164
             parent_id: 3162
@@ -60,10 +57,7 @@ posts:
             email: dr.nick@blues.ru
             subject: Yes, we talk about Bob!
             deleted: false
-            text: I can't follow you, dude. Too many mistakes. I love BOB! And he is a JEW forever! And that's the best part
-              of him! He don't play only folk, he play every-fucking-thing! He is the face of American rock-music and that's
-              a fact! It's just some people here don't respect him after all these years, and to be honest with ya, bra, I
-              don't even want to know folks that don't dig The Great Bob...
+            text: I can't follow you, dude. Too many mistakes. I love BOB! And he is a JEW forever! And that's the best part of him! He don't play only folk, he play every-fucking-thing! He is the face of American rock-music and that's a fact! It's just some people here don't respect him after all these years, and to be honest with ya, bra, I don't even want to know folks that don't dig The Great Bob...
             replies:
             - id: 3166
               parent_id: 3164
@@ -72,9 +66,7 @@ posts:
               email: Mrg_mike@rambler.ru
               subject: Bob IS THE Greatest
               deleted: false
-              text: Yeah, sometimes when I listen to Dylan's music I wish I was him, 'cos he's nay only face of American rock-music
-                He is the soul of all that country after he took place left by Woody. I love Bob too. And what 'bout mistakes
-                man-it' american english
+              text: Yeah, sometimes when I listen to Dylan's music I wish I was him, 'cos he's nay only face of American rock-music He is the soul of all that country after he took place left by Woody. I love Bob too. And what 'bout mistakes man-it' american english
               replies:
               - id: 3168
                 parent_id: 3166
@@ -83,11 +75,9 @@ posts:
                 email: dr.nick@blues.ru
                 subject: I told them
                 deleted: false
-                text: 'that Bob is the Greatest! But that stupid motherfuckers don''t listen to me at all! They tell some
-                  bullshit about some bollocks music and I hate it so much, man...
+                text: 'that Bob is the Greatest! But that stupid motherfuckers don''t listen to me at all! They tell some bullshit about some bollocks music and I hate it so much, man...
 
-                  What about American English? What do you mean? Are you American? You said you''re Irish? You''re Jewish?
-                  Oh, you''re Italian! Love your nails :)'
+                  What about American English? What do you mean? Are you American? You said you''re Irish? You''re Jewish? Oh, you''re Italian! Love your nails :)'
                 replies:
                 - id: 3173
                   parent_id: 3168
@@ -96,8 +86,7 @@ posts:
                   email: Mrg_mike@rambler.ru
                   subject: NJ
                   deleted: false
-                  text: 'nICE joke. I think you speeks English better than I lister to it, and I want to say farewell man,
-                    ''cos I havent sleep for a long time, all the rest is nothin'' special, I just want to have a rest.
+                  text: 'nICE joke. I think you speeks English better than I lister to it, and I want to say farewell man, ''cos I havent sleep for a long time, all the rest is nothin'' special, I just want to have a rest.
 
                     See you... Good night sleep well'
                   replies:
@@ -108,8 +97,7 @@ posts:
                     email: dr.nick@blues.ru
                     subject: English-shminglish
                     deleted: false
-                    text: I'm alright with English, I have to speak and read it every fucking day, but what's wrong with yours?
-                      I can't understand a quarter of your words and then another quarter has some mistakes, what's that?
+                    text: I'm alright with English, I have to speak and read it every fucking day, but what's wrong with yours? I can't understand a quarter of your words and then another quarter has some mistakes, what's that?
                     replies:
                     - id: 3269
                       parent_id: 3184
@@ -131,7 +119,11 @@ posts:
                         person_id: 335
                       person_id: 687
                     person_id: 335
+                  inferred_person_id: 687
+                inferred_person_id: 335
+              inferred_person_id: 687
             person_id: 335
+          inferred_person_id: 687
         person_id: 335
       - id: 3159
         parent_id: 3148
@@ -169,9 +161,7 @@ posts:
         email: dr.nick@blues.ru
         subject: Well done, pal!
         deleted: false
-        text: I like that kinda shit! Loud music with great fucking guitar riffs and crazy frontmen shouting and eating peageons
-          right on the stage! Man, that was such a great time of HEAVY years! Love that shit! Ozzy! Ronnie! Everybody! Rock
-          RULEZ, mazafazaz!
+        text: I like that kinda shit! Loud music with great fucking guitar riffs and crazy frontmen shouting and eating peageons right on the stage! Man, that was such a great time of HEAVY years! Love that shit! Ozzy! Ronnie! Everybody! Rock RULEZ, mazafazaz!
         person_id: 335
       person_id: 687
     - id: 3172
@@ -181,9 +171,7 @@ posts:
       email: evdokimov@blues.ru
       subject: Actually
       deleted: false
-      text: Bob is some strange kond of what they call "catholic jew". This says as much about himself, as about his works.
-        A man without direction with twisted personality. Where can he lead? Obviously, nowhere at all. But he is a good sucker,
-        anyway.
+      text: Bob is some strange kond of what they call "catholic jew". This says as much about himself, as about his works. A man without direction with twisted personality. Where can he lead? Obviously, nowhere at all. But he is a good sucker, anyway.
       replies:
       - id: 3183
         parent_id: 3172
@@ -192,13 +180,7 @@ posts:
         email: dr.nick@blues.ru
         subject: All wrong, Andrew!
         deleted: false
-        text: The times they are a-changing, and you know that! All his life he was searching for the truth and new music.
-          He was digging the BLUES anf FOLK first, then he moved into ROCK and inspired a lot of people all around the world,
-          then he found some fun with COUNTRY, what's wrong with that? After that he was so big already that could afford
-          himself to play whatever he wants; you can call it rock or pop - it doesn't matter! He is the greatest poet in rock
-          and the greatest songwriter ever! If you don't understand his lyrics and his position in this life, it's your problem,
-          so don't call him him 'a sucker' simply because he is not the one. Don't be rude, Andrew! You listen to some complete
-          shit compare to Bob and we respect your spoiled taste, OK? Deal?
+        text: The times they are a-changing, and you know that! All his life he was searching for the truth and new music. He was digging the BLUES anf FOLK first, then he moved into ROCK and inspired a lot of people all around the world, then he found some fun with COUNTRY, what's wrong with that? After that he was so big already that could afford himself to play whatever he wants; you can call it rock or pop - it doesn't matter! He is the greatest poet in rock and the greatest songwriter ever! If you don't understand his lyrics and his position in this life, it's your problem, so don't call him him 'a sucker' simply because he is not the one. Don't be rude, Andrew! You listen to some complete shit compare to Bob and we respect your spoiled taste, OK? Deal?
         replies:
         - id: 3195
           parent_id: 3183
@@ -213,13 +195,9 @@ posts:
 
             But, 2 points:
 
-            If I don''t understand his lyrics and his position in this life, this doesn’t present any problems to me. Whatever
-            he writes and poses, he still can suck like hell.
+            If I don''t understand his lyrics and his position in this life, this doesn’t present any problems to me. Whatever he writes and poses, he still can suck like hell.
 
-            And please do me a favor, name some complete shit that I listen to, which won’t turn to diamonds and gold compared
-            to stupid old farts’ little noises that you are so fond of - thanks to your spoiled tastes? I know your answer
-            won’t make any sense, but you’re just so funny: make my day… OK? Deal? And in the evening I’ll call my favorite
-            sucker. By the way, his name is Bob.'
+            And please do me a favor, name some complete shit that I listen to, which won’t turn to diamonds and gold compared to stupid old farts’ little noises that you are so fond of - thanks to your spoiled tastes? I know your answer won’t make any sense, but you’re just so funny: make my day… OK? Deal? And in the evening I’ll call my favorite sucker. By the way, his name is Bob.'
           replies:
           - id: 3200
             parent_id: 3195
@@ -228,9 +206,10 @@ posts:
             email: dr.nick@blues.ru
             subject: You're just wanking
             deleted: false
-            text: "I don't care what you say about Bob, he will stay the best anyway. Your opinion means nothing. \nYour bad\
-              \ taste shit? You really wanna hear it? OK! Nazareth, TBC, MBB, WB, BB; you know what I mean, right? So, shut\
-              \ up and jerk :)"
+            text: "I don't care what you say about Bob, he will stay the best anyway. Your opinion means nothing. \nYour bad taste shit? You really wanna hear it? OK! Nazareth, TBC, MBB, WB, BB; you know what I mean, right? So, shut up and jerk :)"
+            inferred_person_id: 335
+          inferred_person_id: 4
         person_id: 335
+      inferred_person_id: 4
     person_id: 335
   person_id: 687

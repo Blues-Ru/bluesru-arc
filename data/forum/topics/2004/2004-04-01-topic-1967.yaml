@@ -12,9 +12,7 @@ posts:
   email: Greywolf@harmonica.ru
   subject: Подскажите, кто играет на бекграунде передачи
   deleted: false
-  text: "Была в 1996 году такая передача \"Drema\". \nВот с того времени и хочу раздобыть\
-    \ то, что на бекграунде ведущего играет.\n<A href=\"http://harmonica.ru/default.asp?mode=binary&amp;id=127\"\
-    >Послушайте</A> и подскажите, кто это ?\nЧто это вообще за стиль ?"
+  text: "Была в 1996 году такая передача \"Drema\". \nВот с того времени и хочу раздобыть то, что на бекграунде ведущего играет.\n<A href=\"http://harmonica.ru/default.asp?mode=binary&amp;id=127\">Послушайте</A> и подскажите, кто это ?\nЧто это вообще за стиль ?"
   replies:
   - id: 17888
     parent_id: 17832
@@ -25,5 +23,6 @@ posts:
     deleted: false
     text: 'вот он !!! Ура !
 
-      <a href="http://harmonica.ru/media/audio/other/The Gone Jackals - Chitlins Whiskey
-      and Skirt.mp3">The Gone Jackals - Chitlins Whiskey and Skirt</a>'
+      <a href="http://harmonica.ru/media/audio/other/The Gone Jackals - Chitlins Whiskey and Skirt.mp3">The Gone Jackals - Chitlins Whiskey and Skirt</a>'
+    inferred_person_id: 190
+  inferred_person_id: 190

@@ -11,8 +11,7 @@ posts:
   poster: Andrei V. Evdokimov
   subject: Johnny Shines - Vienna, February 1975
   deleted: false
-  text: "Дельта-классик в Европе. 1975 г. Домашние съемки. \nwarning: не гламурно.\n\n<iframe width=\"420\" height=\"315\"\
-    \ src=\"//www.youtube.com/embed/OimUc6kp8l8\" frameborder=\"0\" allowfullscreen></iframe>"
+  text: "Дельта-классик в Европе. 1975 г. Домашние съемки. \nwarning: не гламурно.\n\n<iframe width=\"420\" height=\"315\" src=\"//www.youtube.com/embed/OimUc6kp8l8\" frameborder=\"0\" allowfullscreen></iframe>"
   replies:
   - id: 39094
     parent_id: 39093
@@ -20,17 +19,7 @@ posts:
     poster: Andrei V. Evdokimov
     subject: 'Автор фильма пишет:'
     deleted: false
-    text: "<i>У меня дома в Вене, февраль 1975 г. Снято на пленку 8мм, на трехминутные ролики. Без звука. (Звук записывался\
-      \ отдельно). “Synchronised” позже с \"acetates\" (http://en.wikipedia.org/wiki/Acetate_disc). Не везде сработало, но\
-      \ времени потребовало много (как и тонны сигарет и много выпивки). К сожалению, камера дает много шума. Время между\
-      \ 3-хминутными я заполнил съемками, которые сделал на вокзале, когда Джонни уезжал из Зальцбурга, и позже у реки  Unfortunately\
-      \ also the camera made a lot of noise… I had to fill the time between the 3-minute-clips with footage I took at the\
-      \ train station when Johnny left Salzburg and later near the river Дунай в Вене (нет, это не дельта). Недолго на экране\
-      \ можно видеть мост. Это старый “Reichsbruecke”, который провалился на следующее утро.\nЯ должен принести свою благодарность\
-      \ Мистеру Джонни Шайнзу, одному из лучших людей, каких я встретил в своей жизни. Я провел с ним чудесную неделю во время\
-      \ его трех выступлений в Австрии (три концерта в Вене в Jazzland и по концерту в Линцу и Зальцбурге). Спасибо, Джонни,\
-      \ я никогда не забуду эту неделю. \nИ: нет, он не подарил мне никакой новой фотографии Р.Дж... Но, похоже, он был счастлив,\
-      \ что я ее и не просил.\""
+    text: "<i>У меня дома в Вене, февраль 1975 г. Снято на пленку 8мм, на трехминутные ролики. Без звука. (Звук записывался отдельно). “Synchronised” позже с \"acetates\" (http://en.wikipedia.org/wiki/Acetate_disc). Не везде сработало, но времени потребовало много (как и тонны сигарет и много выпивки). К сожалению, камера дает много шума. Время между 3-хминутными я заполнил съемками, которые сделал на вокзале, когда Джонни уезжал из Зальцбурга, и позже у реки  Unfortunately also the camera made a lot of noise… I had to fill the time between the 3-minute-clips with footage I took at the train station when Johnny left Salzburg and later near the river Дунай в Вене (нет, это не дельта). Недолго на экране можно видеть мост. Это старый “Reichsbruecke”, который провалился на следующее утро.\nЯ должен принести свою благодарность Мистеру Джонни Шайнзу, одному из лучших людей, каких я встретил в своей жизни. Я провел с ним чудесную неделю во время его трех выступлений в Австрии (три концерта в Вене в Jazzland и по концерту в Линцу и Зальцбурге). Спасибо, Джонни, я никогда не забуду эту неделю. \nИ: нет, он не подарил мне никакой новой фотографии Р.Дж... Но, похоже, он был счастлив, что я ее и не просил.\""
     replies:
     - id: 39098
       parent_id: 39094
@@ -53,6 +42,8 @@ posts:
         настроение присутствовало...
 
         каждому бы городу такое добротное заведение...)'
+      inferred_person_id: 7264
+    inferred_person_id: 4
   - id: 39095
     parent_id: 39093
     date: 2013-09-30 18:15
@@ -79,3 +70,5 @@ posts:
         deleted: false
         person_id: 4
       person_id: 458
+    inferred_person_id: 7202
+  inferred_person_id: 4

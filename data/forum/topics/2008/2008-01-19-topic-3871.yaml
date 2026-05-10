@@ -12,12 +12,10 @@ posts:
   email: Эльдар
   subject: Музыкальный суд :-)
   deleted: false
-  text: 'Mark Knopfler, Lemmy, David Gilmour, Gary Moore (кстати, Гари мОр, а не мУр)
-    пытаются играть по учебнику.
+  text: 'Mark Knopfler, Lemmy, David Gilmour, Gary Moore (кстати, Гари мОр, а не мУр) пытаются играть по учебнику.
 
     Музыканты — свидетели, автор учебника – обвиняемый.
 
 
-    <object width="425" height="373"><param name="movie" value="http://www.youtube.com/v/m5OHPgne1S4&rel=1&border=1"></param><param
-    name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/m5OHPgne1S4&rel=1&border=1"
-    type="application/x-shockwave-flash" wmode="transparent" width="425" height="373"></embed></object>'
+    <object width="425" height="373"><param name="movie" value="http://www.youtube.com/v/m5OHPgne1S4&rel=1&border=1"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/m5OHPgne1S4&rel=1&border=1" type="application/x-shockwave-flash" wmode="transparent" width="425" height="373"></embed></object>'
+  inferred_person_id: 7202

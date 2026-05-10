@@ -31,8 +31,7 @@ posts:
       poster: Эльдар
       subject: Jools Holland's Big Band Rhythm & Blues
       deleted: false
-      text: 'Дима, пожалуйста, можно ссылку на инфу об этом альбоме? Его название: Jools Holland''s Big Band Rhythm & Blues
-        или может Small World Big Band???
+      text: 'Дима, пожалуйста, можно ссылку на инфу об этом альбоме? Его название: Jools Holland''s Big Band Rhythm & Blues или может Small World Big Band???
 
         А мне почему-то казалось что это типа Трибьют ту Вилли Диксон...'
       replies:
@@ -47,6 +46,8 @@ posts:
           и вообще, интересный ресурс:
 
           http://www.israbox.com/blues'
+        inferred_person_id: 7202
+      inferred_person_id: 7202
   - id: 39228
     parent_id: 37953
     date: 2014-10-03 09:37
@@ -55,3 +56,4 @@ posts:
     deleted: false
     text: The <b>Seventh</b> <i>Son</i>
     person_id: 7202
+  inferred_person_id: 7202

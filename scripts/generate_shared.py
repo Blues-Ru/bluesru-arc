@@ -506,15 +506,27 @@ def _build_resource_links(resources, artist_slug):
 
 
 def _build_album_list_html(artist_slug, artist_id, albums_by_artist):
-    import html as _html
     albums = albums_by_artist.get(str(artist_id), [])
     if not albums:
         return ''
+
     def _year_key(a):
         try: return -int(a.get('year', 0) or 0)
         except: return 0
     albums = sorted(albums, key=_year_key)
-    parts = ['<h3>Избранные компакт-диски</h3>\n<ul>\n']
+
+    THUMB = 80
+    PLACEHOLDER = (
+        f'<div style="width:{THUMB}px;height:{THUMB}px;background:#e8e8e8;'
+        f'border:1px solid #ccc;display:flex;align-items:center;'
+        f'justify-content:center;font-size:2em;color:#bbb">♪</div>'
+    )
+
+    parts = [
+        '<a name="review" id="review"></a>\n',
+        '<h2>Обзоры</h2>\n',
+    ]
+
     for a in albums:
         asin = a.get('asin', '')
         album_slug = a.get('slug', '')
@@ -524,18 +536,41 @@ def _build_album_list_html(artist_slug, artist_id, albums_by_artist):
         elif a.get('review_slug'):
             href = f'/review/{a["review_slug"]}/'
         else:
-            href = '#'
-        title = _html.escape(a.get('title', '') or a.get('artist', '') or '')
-        year = a.get('year', '')
-        label = a.get('label', '')
-        year_str = f', {_html.escape(str(year))}' if year else ''
-        label_str = f', <i>{_html.escape(label)}</i>' if label else ''
-        cover = ''
+            href = ''
+
+        title = html_mod.escape(a.get('title', '') or a.get('artist', '') or '')
+        year = str(a.get('year', '') or '')
+
         if asin:
-            cover_url = cover_url_for_asin(asin)
-            cover = f'<img src="{cover_url}" alt="" border="0" style="vertical-align:middle;margin-right:4px;" width="40" height="40">'
-        parts.append(f'<li>{cover}<b><a href="{href}">{title}</a></b>{year_str}{label_str}</li>\n')
-    parts.append('</ul>\n')
+            img = (f'<img src="{cover_url_for_asin(asin)}" width="{THUMB}" height="{THUMB}" '
+                   f'alt="" border="0" style="display:block;object-fit:cover">')
+        else:
+            img = PLACEHOLDER
+        cover_block = f'<a href="{href}">{img}</a>' if href else img
+
+        title_html = (f'<a href="{href}" style="font-size:1.05em;font-weight:bold">{title}</a>'
+                      if href else f'<span style="font-size:1.05em;font-weight:bold">{title}</span>')
+
+        rev_parts = []
+        for rv in a.get('reviews', []):
+            author = html_mod.escape(rv.get('author', '') or '')
+            stars = star_rating_html(rv.get('mark'))
+            rev_parts.append(f'{stars}{author}')
+        reviewers_html = (
+            f'<div style="font-size:0.85em;color:#555;margin-top:2px">'
+            f'{"<br>".join(rev_parts)}</div>'
+        ) if rev_parts else ''
+
+        parts.append(
+            f'<div style="display:flex;align-items:flex-start;gap:10px;'
+            f'padding:6px 0;border-bottom:1px solid #eee">\n'
+            f'  <div style="flex-shrink:0">{cover_block}</div>\n'
+            f'  <div style="flex-shrink:0;width:42px;color:#888;font-size:0.9em;padding-top:6px">'
+            f'{html_mod.escape(year)}</div>\n'
+            f'  <div style="flex:1;padding-top:6px">{title_html}{reviewers_html}</div>\n'
+            f'</div>\n'
+        )
+
     return ''.join(parts)
 
 
@@ -553,12 +588,6 @@ def process_html(content, source_dir, source_root, artist_slug=None,
 
     if artist_slug:
         nav_block = '<hr size="1">\n'
-        if artist_name and artist_legacy_dir:
-            escaped_name = html_mod.escape(artist_name)
-            nav_block += (
-                f'<b><a href="/artist/">Музыканты</a> : '
-                f'<a href="/artist/{artist_legacy_dir}/">{escaped_name}</a></b>\n'
-            )
         # Use pre-built resource links if provided, otherwise fall back to legacy builder
         if artist_resource_links_html is not None:
             res_links = artist_resource_links_html
@@ -568,7 +597,7 @@ def process_html(content, source_dir, source_root, artist_slug=None,
             if stream_html:
                 res_links = (res_links + ' | ' if res_links else '') + stream_html
         if res_links:
-            nav_block += f'<p>{res_links}</p>\n'
+            nav_block += f'<p style="font-size:1.1em">{res_links}</p>\n'
         if artist_atb_html:
             nav_block += f'<p>{artist_atb_html}</p>\n'
         if artist_calendar_html:
@@ -685,6 +714,96 @@ def streaming_links_html(slug, kind='artist'):
             url = tmpl.format(aid)
             label = STREAMING_PLATFORM_LABELS[platform]
             parts.append(f'<a href="{url}" target="_blank">{label}</a>')
+    return ' | '.join(parts)
+
+
+def collect_artist_links(slug, artist_id, src_dir,
+                         galleries_by_slug, resources_by_artist, calendar_by_slug,
+                         has_album_list=False):
+    """
+    Return structured resource links for an artist as a list of dicts:
+      {'type': str, 'url': str, 'title': str, 'external': bool}
+    Optional key 'platform' for type='streaming'.
+    Types: interview, article, tabs, lyrics, photo, press, series, streaming, calendar.
+    """
+    links = []
+    seen_urls = set()
+
+    # 1. Auto-detected subpages (interview, article, tabs, lyrics, press…)
+    auto = _scan_artist_subpages(src_dir, slug) if (src_dir and slug) else []
+    auto_types = {r['type'] for r in auto}
+    for r in auto:
+        links.append({'type': r['type'], 'url': r['url'], 'title': r['label'], 'external': False})
+        seen_urls.add(r['url'])
+
+    # 2. Photo galleries
+    for g in sorted(galleries_by_slug.get(slug, []), key=lambda g: g.get('date', '')):
+        links.append({'type': 'photo', 'url': g['url'], 'title': g.get('title') or 'Фото', 'external': False})
+        seen_urls.add(g['url'])
+
+    # 3. Manual resources from artists.yaml
+    _RTYPE_MAP = {'Тексты': 'lyrics', 'Ноты': 'tabs', 'Интервью': 'interview',
+                  'Статья': 'article', 'Фото': 'photo', 'Пресса': 'press'}
+    for r in resources_by_artist.get(str(artist_id), []):
+        rtype = r.get('type_short', '') or ''
+        url = r.get('url', '') or ''
+        if not url or r.get('type_id') == 1:
+            continue
+        if '.aspx' in url.lower():
+            continue
+        url = re.sub(r'^https?://(?:www\.)?blues\.ru', '', url, flags=re.IGNORECASE)
+        if url.startswith('/bluesmen/') and slug:
+            url = f'/artist/{slug}' + re.sub(r'^/bluesmen/[^/]+', '', url)
+        elif url.startswith('/artist/') and slug:
+            url = f'/artist/{slug}' + re.sub(r'^/artist/[^/]+', '', url)
+        if re.match(r'^/[Aa][Tt][Bb]/.*\.mp3$', url):
+            continue
+        if url.rstrip('/') == f'/artist/{slug}':
+            continue
+        if '#' in url and url.split('#')[0].rstrip('/') == f'/artist/{slug}':
+            continue
+        mapped = _RTYPE_MAP.get(rtype, '')
+        if mapped and mapped in auto_types:
+            continue
+        if url in seen_urls:
+            continue
+        seen_urls.add(url)
+        links.append({'type': mapped or rtype.lower() or 'link',
+                      'url': url, 'title': rtype or url, 'external': False})
+
+    # 4. Album reviews section
+    if has_album_list and slug:
+        links.append({'type': 'review', 'url': f'/artist/{slug}/#review',
+                      'title': 'Обзоры', 'external': False})
+
+    # 5. Streaming platforms
+    info = get_streaming_artists().get(slug, {})
+    for platform, tmpl in ARTIST_URL_TEMPLATES.items():
+        val = info.get(f'{platform}_id')
+        if val:
+            links.append({'type': 'streaming', 'platform': platform,
+                          'url': tmpl.format(val), 'title': STREAMING_PLATFORM_LABELS[platform],
+                          'external': True})
+
+    # 6. Calendar
+    if slug and calendar_by_slug.get(slug):
+        links.append({'type': 'calendar', 'url': f'/artist/{slug}/#calendar',
+                      'title': 'Календарь', 'external': False})
+
+    return links
+
+
+def format_artist_links(links, types=None):
+    """
+    Format resource link dicts as ' | ' separated HTML anchors.
+    types: optional collection of type strings to include (whitelist filter).
+    """
+    parts = []
+    for r in links:
+        if types is not None and r['type'] not in types:
+            continue
+        target = ' target="_blank"' if r.get('external') else ''
+        parts.append(f'<a href="{r["url"]}"{target}>{html_mod.escape(r["title"])}</a>')
     return ' | '.join(parts)
 
 
@@ -925,7 +1044,7 @@ def render_topic_html(topic_data, topic_meta, full=False, forum_page=1):
         first_date = format_forum_date(first.get('date', ''))
         subject = html_mod.escape(posts[0].get('subject', '') or topic_meta.get('title', '') or '')
 
-        page_url = '/forum/' if forum_page <= 1 else f'/forum/page{forum_page}.html'
+        page_url = '/forum/' if forum_page <= 1 else f'/forum/page{forum_page}'
         forum_back = f'{page_url}#topic{topic_id}'
         html = f'<div class="topic-header">'
         html += f'<a href="{forum_back}">Blues.Ru &rsaquo; Форум</a> &rsaquo;\n'
@@ -1023,7 +1142,7 @@ def _load_artist_reviews():
     return by_artist
 
 
-def _generate_stub_artist_page(artist, reviews_list, albums, artist_atb_html=None, artist_resource_links_html=None, artist_calendar_html=None):
+def _generate_stub_artist_page(artist, reviews_list, albums, artist_atb_html=None, artist_resource_links_html=None, artist_calendar_html=None, artist_albums_html=None):
     def _fmt_mark(mark):
         n = int(mark)
         return '@' * (n // 2) + ('+' if n % 2 else '')
@@ -1058,13 +1177,14 @@ def _generate_stub_artist_page(artist, reviews_list, albums, artist_atb_html=Non
         album={'title': '', 'artist': name, 'year': '', 'label': '', 'asin': '', 'amg_id': amg_id},
         cover_url='',
         artist_name=name,
-        artist_legacy_path='',
-        reviews=reviews_data,
+        artist_legacy_path=slug,
+        reviews=[],
         streaming_links='',
         artist_streaming_links=artist_streaming,
         artist_atb_links=artist_atb_html or '',
         artist_resource_links=artist_resource_links_html or '',
         artist_calendar_links=artist_calendar_html or '',
+        artist_album_list=artist_albums_html or '',
         footer=FOOTER,
     )
 
@@ -1132,7 +1252,7 @@ def build_calendar_by_slug():
 
 
 def _years_ago_ru(years: int) -> str:
-    """Return 'N лет/год/года назад'."""
+    """Return 'N лет/год/года назад' (full form for breadcrumbs etc.)."""
     if years <= 0:
         return ''
     n = abs(years) % 100
@@ -1148,20 +1268,77 @@ def _years_ago_ru(years: int) -> str:
     return f'{years}\u00a0{word} назад'
 
 
-def link_artist_in_text(text: str, title: str, slug: str) -> str:
+def _years_ago_abbr(years: int) -> str:
+    """Return 'N г. назад' or 'N л. назад' (abbreviated)."""
+    if years <= 0:
+        return ''
+    n = abs(years) % 100
+    n1 = n % 10
+    abbr = 'л.' if (11 <= n <= 19 or n1 == 0 or n1 >= 5) else 'г.'
+    return f'{years}\u00a0{abbr} назад'
+
+
+_MONTHS_RU = ['', 'января', 'февраля', 'марта', 'апреля', 'мая', 'июня',
+              'июля', 'августа', 'сентября', 'октября', 'ноября', 'декабря']
+
+
+def fix_all_caps_name(name: str) -> str:
+    """Convert ALL_CAPS word segments to TitleCase. 'A.C.REED' → 'A.C.Reed'."""
+    def fix_seg(s):
+        if len(s) > 1 and s.isalpha() and s.isupper():
+            return s[0] + s[1:].lower()
+        return s
+    words = []
+    for w in name.split():
+        parts = w.split('.')
+        words.append('.'.join(fix_seg(p) for p in parts))
+    return ' '.join(words)
+
+
+def process_calendar_text(text: str, slug: str, title: str) -> str:
     """
-    Replace first occurrence of title (case-insensitive) in text (outside existing tags)
-    with a link to /artist/{slug}/#calendar.
-    If not found in text, prepend a linked mention.
+    Normalize calendar event text for an event with an artist_slug:
+    - Remove /artist/{slug}/ links (any URL form, Cyrillic or English)
+    - Remove Cyrillic-text /artist/ links to other artists
+    - Fix ALL CAPS occurrences of title → mixed case
+    - Link the English display_title to /artist/{slug}/#calendar
+    - If not found in text, append '— linked_title' at end
     """
-    if not text or not title or not slug:
+    if not text or not slug:
         return text
-    link = f'<a href="/artist/{slug}/#calendar">'
-    # Build case-insensitive pattern, avoid matching inside existing <a ...> </a>
-    pattern = re.compile(re.escape(title), re.IGNORECASE)
-    # Simple approach: find first match not inside an existing link
-    # Split on existing <a ...>...</a> to avoid modifying them
-    parts = re.split(r'(<a\s[^>]*>.*?</a>)', text, flags=re.DOTALL)
+
+    display_title = fix_all_caps_name(title) if title else ''
+
+    # Remove all links pointing to this artist's URL (relative or absolute)
+    text = re.sub(
+        r'<a\s[^>]*href="[^"]*/' + re.escape(slug) + r'/?"[^>]*>([\s\S]*?)</a>',
+        lambda m: m.group(1),
+        text
+    )
+
+    # Remove Cyrillic-text /artist/ links (links to any artist with Russian anchor text)
+    def _strip_cyrillic_link(m):
+        anchor = m.group(1)
+        if sum(1 for c in anchor if '\u0400' <= c <= '\u04FF') > 0:
+            return anchor
+        return m.group(0)
+    text = re.sub(
+        r'<a\s[^>]*href="[^"]*?/artist/[^"]*"[^>]*>([\s\S]*?)</a>',
+        _strip_cyrillic_link,
+        text
+    )
+
+    if not display_title:
+        return text
+
+    # Fix ALL CAPS occurrences of title in text
+    if display_title != title:
+        text = text.replace(title, display_title)
+
+    # Link first occurrence of display_title (case-insensitive) outside existing <a> tags
+    link_open = f'<a href="/artist/{slug}/#calendar">'
+    pattern = re.compile(re.escape(display_title), re.IGNORECASE)
+    parts = re.split(r'(<a\s[^>]*>[\s\S]*?</a>)', text, flags=re.DOTALL)
     replaced = False
     result = []
     for part in parts:
@@ -1170,42 +1347,46 @@ def link_artist_in_text(text: str, title: str, slug: str) -> str:
         else:
             m = pattern.search(part)
             if m:
-                found = m.group(0)
-                repl = f'{link}{found}</a>'
-                result.append(part[:m.start()] + repl + part[m.end():])
+                result.append(part[:m.start()] + link_open
+                              + html_mod.escape(display_title) + '</a>'
+                              + part[m.end():])
                 replaced = True
             else:
                 result.append(part)
-    if replaced:
-        return ''.join(result)
-    # Not found: prepend linked title
-    return f'{link}{html_mod.escape(title)}</a>. {text}'
+    text = ''.join(result)
+
+    if not replaced:
+        text = text.rstrip() + f' \u2014 {link_open}{html_mod.escape(display_title)}</a>'
+
+    return text
+
+
+def link_artist_in_text(text: str, title: str, slug: str) -> str:
+    """Kept for compatibility; use process_calendar_text for new calendar code."""
+    return process_calendar_text(text, slug, title)
 
 
 def calendar_events_html(events: list, current_year: int = 2026) -> str:
     """Render calendar events as an HTML table block for artist pages."""
     if not events:
         return ''
-    EVENT_TYPE_RU = {
-        'born': 'Родился',
-        'died': 'Умер',
-        'founded': 'Основан',
-        'other': '',
-    }
     rows = []
     rows.append('<a name="calendar" id="calendar"></a>')
-    rows.append('<b>Календарь:</b>')
-    rows.append('<table style="border-collapse:collapse;width:100%">')
+    rows.append('<h2>Календарь</h2>')
+    rows.append('<table style="border-collapse:collapse;width:100%;border-spacing:0">')
     for ev in events:
         date = ev.get('date', '')
         year = date[:4] if date and len(date) >= 4 else str(ev.get('year', ''))
         md = ev.get('month_day', '')
         if md and len(md) == 5:
-            day_month = f'{md[3:5]}.{md[:2]}'
+            try:
+                mo = int(md[:2])
+                day = int(md[3:5])
+                day_month = f'{day} {_MONTHS_RU[mo]}' if 1 <= mo <= 12 else ''
+            except (ValueError, IndexError):
+                day_month = ''
         else:
             day_month = ''
-        etype = ev.get('event_type', '')
-        etype_ru = EVENT_TYPE_RU.get(etype, '')
         text = ev.get('text', '') or ''
         picture = ev.get('picture', '') or ''
         title = ev.get('title', '')
@@ -1213,31 +1394,29 @@ def calendar_events_html(events: list, current_year: int = 2026) -> str:
         years_ago = (current_year - int(year)) if year and year.isdigit() else 0
 
         cal_url = f'/calendar/{year}/' if year else '/calendar/'
-        year_cell = (f'<td style="font-weight:bold;font-size:1.1em;white-space:nowrap;'
-                     f'vertical-align:top;padding:2px 6px 2px 0;width:1%">'
-                     f'<a href="{cal_url}" style="color:#333">{html_mod.escape(year)}</a></td>')
 
-        meta_parts = []
+        date_lines = [
+            f'<a href="{cal_url}" style="color:#333;font-weight:bold;font-size:1.1em">'
+            f'{html_mod.escape(year)}</a>',
+        ]
         if day_month:
-            meta_parts.append(html_mod.escape(day_month))
+            date_lines.append(f'<span style="color:#555;font-size:0.85em">{html_mod.escape(day_month)}</span>')
         if years_ago > 0:
-            meta_parts.append(f'<span style="color:#888;font-size:0.85em">({_years_ago_ru(years_ago)})</span>')
-        if etype_ru:
-            meta_parts.append(f'<span style="color:#555;font-size:0.85em">{html_mod.escape(etype_ru)}</span>')
-        meta_cell = (f'<td style="white-space:nowrap;vertical-align:top;padding:2px 8px 2px 0;'
-                     f'color:#555;font-size:0.88em;width:1%">{" ".join(meta_parts)}</td>')
+            date_lines.append(f'<span style="color:#aaa;font-size:0.8em">{_years_ago_abbr(years_ago)}</span>')
+        date_cell = (f'<td style="white-space:nowrap;vertical-align:top;padding:8px 14px 8px 0;'
+                     f'width:1%;line-height:1.6">' + '<br>'.join(date_lines) + '</td>')
 
-        # Text cell: link artist name in text, include image
-        if text and title and slug:
-            text = link_artist_in_text(text, title, slug)
+        # Text cell: normalize links and link English artist name
+        if slug:
+            text = process_calendar_text(text, slug, title)
         img_html = ''
         if picture:
             img_html = (f'<img src="/calendar/images/{html_mod.escape(picture)}" border="0" '
                         f'align="right" vspace="2" hspace="6" '
                         f'style="max-width:140px;max-height:100px;">')
-        text_cell = f'<td style="vertical-align:top;padding:2px 0">{img_html}{text}</td>'
+        text_cell = f'<td style="vertical-align:top;padding:8px 0">{img_html}{text}</td>'
 
-        rows.append(f'<tr>{year_cell}{meta_cell}{text_cell}</tr>')
+        rows.append(f'<tr style="border-bottom:1px solid #eee">{date_cell}{text_cell}</tr>')
     rows.append('</table>')
     return '\n'.join(rows)
 

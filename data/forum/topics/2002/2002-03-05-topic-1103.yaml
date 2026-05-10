@@ -21,9 +21,7 @@ posts:
     email: evergreens@mail.ru
     subject: Cab Calloway поет Summertime
     deleted: false
-    text: "... на этой пластинке: \nhttp://www.allmusic.com/cg/amg.dll?p=amg&sql=Am9ex97wjkrjt\nА вообще попробуйте покопать\
-      \ его дискографию - может и еще на какой-нибудь найдете. В компиляциях может быть...\nhttp://www.allmusic.com/cg/amg.dll?p=amg&sql=B66bsa9rgb23a\n\
-      \nУдачи!"
+    text: "... на этой пластинке: \nhttp://www.allmusic.com/cg/amg.dll?p=amg&sql=Am9ex97wjkrjt\nА вообще попробуйте покопать его дискографию - может и еще на какой-нибудь найдете. В компиляциях может быть...\nhttp://www.allmusic.com/cg/amg.dll?p=amg&sql=B66bsa9rgb23a\n\nУдачи!"
     replies:
     - id: 1894
       parent_id: 1871
@@ -32,8 +30,7 @@ posts:
       email: morehemp@rambler.ru
       subject: Спасибо,
       deleted: false
-      text: и что забавно - я его дискографию до того два раза смотрела вдоль и поперёк, а песни так и не заметила ;) Теперь
-        найти бы диск и мимо не пройти %)
+      text: и что забавно - я его дискографию до того два раза смотрела вдоль и поперёк, а песни так и не заметила ;) Теперь найти бы диск и мимо не пройти %)
       replies:
       - id: 1917
         parent_id: 1894
@@ -60,8 +57,7 @@ posts:
             email: morehemp@rambler.ru
             subject: Я спросила
             deleted: false
-            text: там у премилого волосатого человека с серьгой в ухе, а он в ответ лишь головой помотал ;) Он не знает, кто
-              это, зачем это :( На заказ предлагать не стали
+            text: там у премилого волосатого человека с серьгой в ухе, а он в ответ лишь головой помотал ;) Он не знает, кто это, зачем это :( На заказ предлагать не стали
             replies:
             - id: 1923
               parent_id: 1920
@@ -102,6 +98,7 @@ posts:
                     text: нашла!
                   person_id: 335
               person_id: 335
+          inferred_person_id: 335
         - id: 1919
           parent_id: 1917
           date: 2002-03-06 17:12
@@ -120,8 +117,7 @@ posts:
             email: morehemp@rambler.ru
             subject: Мне ещё
             deleted: false
-            text: '"It don''t mean a thing if it ain''t got that swing" нравится ;) Не знаю, правда, так ли она называется
-              в реальности'
+            text: '"It don''t mean a thing if it ain''t got that swing" нравится ;) Не знаю, правда, так ли она называется в реальности'
             replies:
             - id: 1922
               parent_id: 1921
@@ -162,3 +158,5 @@ posts:
                       Юстас-Алексу: файл оборван 8)'
                   person_id: 335
               person_id: 6
+          inferred_person_id: 6
+    inferred_person_id: 82

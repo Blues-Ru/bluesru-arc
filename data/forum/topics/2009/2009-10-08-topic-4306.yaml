@@ -46,8 +46,7 @@ posts:
       poster: Andrei V. Evdokimov
       subject: еще пример
       deleted: true
-      text: Фильм называется Dark Streets... Так чего голову ломать, если можно перевести как <a href=http://www.film.ru/afisha/movie.asp?code=DRKST"
-        target=_blank">"Весь этот блюз"</a>?...
+      text: Фильм называется Dark Streets... Так чего голову ломать, если можно перевести как <a href=http://www.film.ru/afisha/movie.asp?code=DRKST" target=_blank">"Весь этот блюз"</a>?...
       replies:
       - id: 36621
         parent_id: 36620
@@ -55,8 +54,7 @@ posts:
         poster: Andrei V. Evdokimov
         subject: еще пример
         deleted: true
-        text: Фильм называется Dark Streets... Так чего голову ломать, если можно перевести как <a href="http://www.film.ru/afisha/movie.asp?code=DRKST%22"
-          rel="nofollow">http://www.film.ru/afisha/movie.asp?code=DRKST"</a> target="_blank">"Весь этот блюз"</a>?...
+        text: Фильм называется Dark Streets... Так чего голову ломать, если можно перевести как <a href="http://www.film.ru/afisha/movie.asp?code=DRKST%22" rel="nofollow">http://www.film.ru/afisha/movie.asp?code=DRKST"</a> target="_blank">"Весь этот блюз"</a>?...
         person_id: 4
       person_id: 4
     - id: 36622
@@ -65,7 +63,7 @@ posts:
       poster: Andrei V. Evdokimov
       subject: еще пример
       deleted: false
-      text: Фильм называется Dark Streets... Так чего голову ломать, если можно перевести как <a href="http://www.film.ru/afisha/movie.asp?code=DRKST%22"
-        rel="nofollow">http://www.film.ru/afisha/movie.asp?code=DRKST"</a> target="_blank">"Весь этот блюз"</a>?...
+      text: Фильм называется Dark Streets... Так чего голову ломать, если можно перевести как <a href="http://www.film.ru/afisha/movie.asp?code=DRKST%22" rel="nofollow">http://www.film.ru/afisha/movie.asp?code=DRKST"</a> target="_blank">"Весь этот блюз"</a>?...
       person_id: 4
+    inferred_person_id: 7202
   person_id: 4

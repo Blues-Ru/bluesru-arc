@@ -14,10 +14,7 @@ posts:
   deleted: false
   text: 'Привет!
 
-    Нужны тексты блюзов. Нигде не могу найти. Вот например в песне Hoodoo Man Blues, которую исполняют Бади Гай и Джуниор,
-    понятно очень не много слов. Как впрочем и всегда, когда поет Джуниор. Очень хочется разобраться. Пожалуйста, скидывайте
-    мне на почту zlzlz@yandex.ru, тексты, или хотя бы ссылки на сайты, где их реально прочитать. Может быть у кого-то есть
-    фирменные диски с текстами на вкладыше - может быть хотя бы на телефон щелкните, и пришлите. Пожалуйста!'
+    Нужны тексты блюзов. Нигде не могу найти. Вот например в песне Hoodoo Man Blues, которую исполняют Бади Гай и Джуниор, понятно очень не много слов. Как впрочем и всегда, когда поет Джуниор. Очень хочется разобраться. Пожалуйста, скидывайте мне на почту zlzlz@yandex.ru, тексты, или хотя бы ссылки на сайты, где их реально прочитать. Может быть у кого-то есть фирменные диски с текстами на вкладыше - может быть хотя бы на телефон щелкните, и пришлите. Пожалуйста!'
   replies:
   - id: 31634
     parent_id: 31632
@@ -66,12 +63,7 @@ posts:
       email: from30@mail.ru
       subject: A hard road или трудная дорога к сетевым поисковикам ;-)
       deleted: false
-      text: "I let a life slip through my fingers \nWhere am I gonna turn? \nI'm the causing of the trouble \nAnd it makes\
-        \ my poor heart burn \n\nI been tryin' to tell you people \nThat the blues hit me in my life \nYou know I was born\
-        \ for trouble \nAnd it's a hard road till I die \n\nI've loved and lost so many women \nThe cause of many broken heart\
-        \ \n[ these lyrics found on http://www.completealbumlyrics.com ]\nDrank and drifted through the years \nAnd watched\
-        \ my family fall apart \n\nI'm gonna pack up my suitcase \nPut my misery inside \nThrow in a bit of pain and trouble\
-        \ \nAnd that's the road I'll ride"
+      text: "I let a life slip through my fingers \nWhere am I gonna turn? \nI'm the causing of the trouble \nAnd it makes my poor heart burn \n\nI been tryin' to tell you people \nThat the blues hit me in my life \nYou know I was born for trouble \nAnd it's a hard road till I die \n\nI've loved and lost so many women \nThe cause of many broken heart \n[ these lyrics found on http://www.completealbumlyrics.com ]\nDrank and drifted through the years \nAnd watched my family fall apart \n\nI'm gonna pack up my suitcase \nPut my misery inside \nThrow in a bit of pain and trouble \nAnd that's the road I'll ride"
       replies:
       - id: 31715
         parent_id: 31710
@@ -90,3 +82,7 @@ posts:
           subject: Яндекс плохо ищет по нерусским текстам.
           deleted: false
           text: Используй Google - он всегда находит нужные тексты. Ну.. или почти всегда ))
+          inferred_person_id: 13
+        inferred_person_id: 7202
+      inferred_person_id: 301
+    inferred_person_id: 7202

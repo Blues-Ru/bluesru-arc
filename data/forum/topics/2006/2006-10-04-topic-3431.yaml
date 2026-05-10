@@ -12,15 +12,7 @@ posts:
   email: elicaster мeйлтoчкapy
   subject: Albert King, Otis Rush - Door To Door
   deleted: false
-  text: "В начале 90-ых у одного нашего товарища была виниловая пластинка Albert King, Otis Rush - Door To Door.\n<DIV align=center><IMG\
-    \ alt=\"\" hspace=0 src=\"http://www.collectable-records.ru/images/groups_2/rush_otis/door_door/front.jpg\" align=baseline\
-    \ border=0>&nbsp;<IMG alt=\"\" hspace=0 src=\"http://www.collectable-records.ru/images/groups_2/rush_otis/door_door/back.jpg\"\
-    \ align=baseline border=0></DIV>\nЗаписал тогда этот диск себе на бобину, но давно уже не слушал его (бобинного магнитофона\
-    \ уже и нет :-(\nНо вот, нашел где можно \n<a href=\"http://media.parma.ru/mp3/index.php?q=f&f=%2F%C7%E0%F0%F3%E1%E5%E6%ED%E0%FF%2FR%26B-Soul-Urban%2FR%26B%2FAlbert+King%2C+Otis+Rush%2FDoor+to+Door\"\
-    >скачать этот диск</a>.\nSearchin' For A Woman (AK)\nBad Luck (AK)\nSo Close (OR)\nHowlin' For My Darling (AK)\nI Can't\
-    \ Stop (OR)\nWon't Be Hangin' Around (AK)\nI'm Satisfied (OR)\nAll Your Love (OR)\nYou Know My Love (OR)\nMerry Way (AK)\n\
-    Wild Women (AK)\nMurder (AK)\nSo Many Roads (OR)\nCalifornia (AK)\n<DIV align=center><IMG align=baseline alt=\"\" border=0\
-    \ hspace=0 src=\"http://www.collectable-records.ru/images/groups_2/rush_otis/door_door/1.jpg\"></DIV>"
+  text: "В начале 90-ых у одного нашего товарища была виниловая пластинка Albert King, Otis Rush - Door To Door.\n<DIV align=center><IMG alt=\"\" hspace=0 src=\"http://www.collectable-records.ru/images/groups_2/rush_otis/door_door/front.jpg\" align=baseline border=0>&nbsp;<IMG alt=\"\" hspace=0 src=\"http://www.collectable-records.ru/images/groups_2/rush_otis/door_door/back.jpg\" align=baseline border=0></DIV>\nЗаписал тогда этот диск себе на бобину, но давно уже не слушал его (бобинного магнитофона уже и нет :-(\nНо вот, нашел где можно \n<a href=\"http://media.parma.ru/mp3/index.php?q=f&f=%2F%C7%E0%F0%F3%E1%E5%E6%ED%E0%FF%2FR%26B-Soul-Urban%2FR%26B%2FAlbert+King%2C+Otis+Rush%2FDoor+to+Door\">скачать этот диск</a>.\nSearchin' For A Woman (AK)\nBad Luck (AK)\nSo Close (OR)\nHowlin' For My Darling (AK)\nI Can't Stop (OR)\nWon't Be Hangin' Around (AK)\nI'm Satisfied (OR)\nAll Your Love (OR)\nYou Know My Love (OR)\nMerry Way (AK)\nWild Women (AK)\nMurder (AK)\nSo Many Roads (OR)\nCalifornia (AK)\n<DIV align=center><IMG align=baseline alt=\"\" border=0 hspace=0 src=\"http://www.collectable-records.ru/images/groups_2/rush_otis/door_door/1.jpg\"></DIV>"
   replies:
   - id: 28896
     parent_id: 28895
@@ -110,6 +102,7 @@ posts:
       Иль я чего-то перепутал?
 
       Нет ли у кого прямой ссылки на эту вещь? Хочется услышать в исп. автора.'
+    inferred_person_id: 7202
   - id: 28897
     parent_id: 28895
     date: 2006-10-04 20:13
@@ -117,8 +110,7 @@ posts:
     email: elicaster мeйлтoчкapy
     subject: текст Otis Rush - So Many Roads
     deleted: false
-    text: 'Кстати, попался и такой текст Otis Rush - So Many Roads с другим вариантом третьей строчки во втором куплете, отличный
-      от того который Старый Майор привёл.
+    text: 'Кстати, попался и такой текст Otis Rush - So Many Roads с другим вариантом третьей строчки во втором куплете, отличный от того который Старый Майор привёл.
 
       Otis Rush - So Many Roads
 
@@ -176,6 +168,7 @@ posts:
       So many roads</i>
 
       Я это просто так запостил...'
+    inferred_person_id: 7202
   - id: 28899
     parent_id: 28895
     date: 2006-10-04 20:55
@@ -213,6 +206,10 @@ posts:
           subject: Скачал. Композиция хороша.
           deleted: false
           text: Скачал в исполнении Otis Rush. Композиция хороша.
+          inferred_person_id: 7202
+        inferred_person_id: 7202
+      inferred_person_id: 13
+    inferred_person_id: 7202
   - id: 28907
     parent_id: 28895
     date: 2006-10-05 08:21
@@ -222,3 +219,4 @@ posts:
     deleted: false
     text: на венилле :)
     person_id: 335
+  inferred_person_id: 7202

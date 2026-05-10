@@ -12,16 +12,7 @@ posts:
   email: volodya@blues.ru
   subject: предварительно от Аллигатор
   deleted: false
-  text: "http://www.alligator.com/ontour/custom.cfm?col=Venue&val=Blues%20Festival\n\n----------------------------------------------------------------------\n\
-    Nov. 5, 2002    Lil' Ed & The Blues Imperials    Blues Festival    Moscow, RUSSIA     \n----------------------------------------------------------------------\n\
-    Nov. 5, 2002    C.J. Chenier    Blues Festival    Moscow, RUSSIA     \n----------------------------------------------------------------------\n\
-    Nov. 6, 2002    Lil' Ed & The Blues Imperials    Blues Festival    Moscow, RUSSIA     \n----------------------------------------------------------------------\n\
-    Nov. 6, 2002    C.J. Chenier    Blues Festival    Moscow, RUSSIA     \n----------------------------------------------------------------------\n\
-    Nov. 7, 2002    C.J. Chenier    Blues Festival    Moscow, RUSSIA     \n---------------------------------------------------------------------\
-    \ \nNov. 9, 2002    Lil' Ed & The Blues Imperials    Blues Festival    Rostov, RUSSIA     \n----------------------------------------------------------------------\n\
-    Nov. 9, 2002    C.J. Chenier    Blues Festival    Rostov, Russia     \n----------------------------------------------------------------------\n\
-    Nov. 12, 2002    Lil' Ed & The Blues Imperials    Blues Festival    St. Petersburg, RUSSIA     \n----------------------------------------------------------------------\n\
-    Nov. 12, 2002    C.J. Chenier    Blues Festival    St. Petersburg, RUSSIA"
+  text: "http://www.alligator.com/ontour/custom.cfm?col=Venue&val=Blues%20Festival\n\n----------------------------------------------------------------------\nNov. 5, 2002    Lil' Ed & The Blues Imperials    Blues Festival    Moscow, RUSSIA     \n----------------------------------------------------------------------\nNov. 5, 2002    C.J. Chenier    Blues Festival    Moscow, RUSSIA     \n----------------------------------------------------------------------\nNov. 6, 2002    Lil' Ed & The Blues Imperials    Blues Festival    Moscow, RUSSIA     \n----------------------------------------------------------------------\nNov. 6, 2002    C.J. Chenier    Blues Festival    Moscow, RUSSIA     \n----------------------------------------------------------------------\nNov. 7, 2002    C.J. Chenier    Blues Festival    Moscow, RUSSIA     \n--------------------------------------------------------------------- \nNov. 9, 2002    Lil' Ed & The Blues Imperials    Blues Festival    Rostov, RUSSIA     \n----------------------------------------------------------------------\nNov. 9, 2002    C.J. Chenier    Blues Festival    Rostov, Russia     \n----------------------------------------------------------------------\nNov. 12, 2002    Lil' Ed & The Blues Imperials    Blues Festival    St. Petersburg, RUSSIA     \n----------------------------------------------------------------------\nNov. 12, 2002    C.J. Chenier    Blues Festival    St. Petersburg, RUSSIA"
   replies:
   - id: 7027
     parent_id: 7023
@@ -48,8 +39,7 @@ posts:
         email: fedor@blues.ru
         subject: Предварительно...
         deleted: false
-        text: Это все предварительная и неподтвержденная информация. Но, если переживем 11 сентября без происшествий, то почему
-          бы ему и не состояться?
+        text: Это все предварительная и неподтвержденная информация. Но, если переживем 11 сентября без происшествий, то почему бы ему и не состояться?
         replies:
         - id: 7053
           parent_id: 7051
@@ -81,3 +71,4 @@ posts:
         person_id: 783
       person_id: 335
     person_id: 2
+  inferred_person_id: 5

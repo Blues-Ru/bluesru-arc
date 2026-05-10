@@ -11,10 +11,7 @@ posts:
   poster: Андрей
   subject: Big Jim Sullivan - где можно достать?
   deleted: false
-  text: Уважаемые коллеги, уже много лет безуспешно пытаюсь хоть где-нибудь найти Blind Man в исполнении Big Jim Sullivan/Maggie
-    Bell. Помню, что эта запись резко повысила слюноотделение при прослушивании - так вкусно это было сыграно) Кто-нибудь!
-    Хоть кто-нибудь знает, где это дело можно скачать? Увы, но на сборнике White Boys Blues под именем этой вкуснятины была
-    издана совсем другая запись. Помогите, пожалуйста!!!
+  text: Уважаемые коллеги, уже много лет безуспешно пытаюсь хоть где-нибудь найти Blind Man в исполнении Big Jim Sullivan/Maggie Bell. Помню, что эта запись резко повысила слюноотделение при прослушивании - так вкусно это было сыграно) Кто-нибудь! Хоть кто-нибудь знает, где это дело можно скачать? Увы, но на сборнике White Boys Blues под именем этой вкуснятины была издана совсем другая запись. Помогите, пожалуйста!!!
   replies:
   - id: 36328
     parent_id: 36327
@@ -48,10 +45,7 @@ posts:
 
 
 
-        <object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0"
-        width="335" height="85" id="divplaylist"><param name="movie" value="http://www.divshare.com/flash/playlist?myId=7509358-6b0"
-        /><embed src="http://www.divshare.com/flash/playlist?myId=7509358-6b0" width="335" height="85" name="divplaylist"
-        type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer"></embed></object>'
+        <object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" width="335" height="85" id="divplaylist"><param name="movie" value="http://www.divshare.com/flash/playlist?myId=7509358-6b0" /><embed src="http://www.divshare.com/flash/playlist?myId=7509358-6b0" width="335" height="85" name="divplaylist" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer"></embed></object>'
       replies:
       - id: 36337
         parent_id: 36336
@@ -60,14 +54,16 @@ posts:
         subject: Прослушайте обе версии!
         deleted: false
         text: 03 Blind Man взята с Stone The Crows 1969
+        inferred_person_id: 13
+      inferred_person_id: 13
+    inferred_person_id: 13
   - id: 36341
     parent_id: 36327
     date: 2009-05-29 16:15
     poster: Андрей
     subject: Спасибо!
     deleted: false
-    text: 'Старый Майор, снимаю шляпу и, были бы мы знакомы, разрыдался бы у Вас в объятиях: я искал эту запись уже лет семь)))).
-      СПАСИБО!!!!!!'
+    text: 'Старый Майор, снимаю шляпу и, были бы мы знакомы, разрыдался бы у Вас в объятиях: я искал эту запись уже лет семь)))). СПАСИБО!!!!!!'
     replies:
     - id: 36342
       parent_id: 36341
@@ -87,3 +83,4 @@ posts:
         subject: Нет,
         deleted: false
         text: я петербуржец, но говорят, что у нас интернет Вашщего не хуже) И вот не получалось. Удачных выступлений!
+      inferred_person_id: 13

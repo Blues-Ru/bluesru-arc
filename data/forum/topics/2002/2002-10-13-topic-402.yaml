@@ -15,8 +15,7 @@ posts:
   text: 'Привет всем!
 
 
-    Я был бы очень признателен, если бы кто-нибудь подсказал, где можно найти тексты известных блюзов, Таких например как
-    "Help the poor" или "Sweet home Chicago"'
+    Я был бы очень признателен, если бы кто-нибудь подсказал, где можно найти тексты известных блюзов, Таких например как "Help the poor" или "Sweet home Chicago"'
   replies:
   - id: 8188
     parent_id: 8186
@@ -30,8 +29,7 @@ posts:
       http://www.nederpoparchief.nl/bluesbrothers/sweethome.html
 
 
-      А вообще (тут уже много раз об этом писали) идешь на www.google.com и в строке поиска набиваешь Help the poor lyrics
-      или Robert Johnson lyrics.'
+      А вообще (тут уже много раз об этом писали) идешь на www.google.com и в строке поиска набиваешь Help the poor lyrics или Robert Johnson lyrics.'
     replies:
     - id: 8189
       parent_id: 8188
@@ -54,3 +52,4 @@ posts:
         deleted: false
         text: На Яндексе не стОит. По-английски лучше на Гугле.
         person_id: 335
+    inferred_person_id: 335

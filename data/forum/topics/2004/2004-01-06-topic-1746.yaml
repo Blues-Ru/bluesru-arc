@@ -40,6 +40,7 @@ posts:
         subject: reply
         deleted: false
         text: Сдохло - эт-точно!. :)
+      inferred_person_id: 1987
     person_id: 1755
   - id: 16629
     parent_id: 16603
@@ -89,4 +90,5 @@ posts:
         subject: Wow!
         deleted: false
         text: Йес, вот ради таких людей и таких сообщений стоит заходить на форум :) Ждем с нетерпением!
+        inferred_person_id: 1987
     person_id: 1755

@@ -12,8 +12,7 @@ posts:
   email: sergei.sergeev@emersonprocess.ru
   subject: Effes Blues  на Горбушке...
   deleted: false
-  text: 'Был тут на сайте silencepro и вдруг увидел, что Blues fest будет не в УСЗ
-    "Дружба" , а в ДК "Горбунова". В остальном изменений вроде бы нет.
+  text: 'Был тут на сайте silencepro и вдруг увидел, что Blues fest будет не в УСЗ "Дружба" , а в ДК "Горбунова". В остальном изменений вроде бы нет.
 
     Участники как и ранее заявлено. Три концерта -14,15 и 16 ноября.'
   replies:
@@ -34,3 +33,4 @@ posts:
     email: body_and_soul@mail.ru
     subject: на сайте цдк млчание. спасибо за silencepro
     deleted: false
+  inferred_person_id: 204

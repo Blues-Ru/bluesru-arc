@@ -12,7 +12,13 @@
 
     <a href="/"><img src="/images/bluesru-logo.svg" width="120" height="120" border="0" alt="Blues.Ru" style="float:right"></a>
 
-    <h2><a href="/artist/">Музыканты</a> : &#32;
+{% if album.title %}
+<h3><a href="/">Blues.Ru</a> &gt; <a href="/artist/">Музыканты</a> &gt;
+<a href="/artist/{{ artist_legacy_path }}/">{{ artist_name }}</a> &gt;
+<a href="/artist/{{ artist_legacy_path }}/#review">Обзоры</a> &gt;
+{% if album.year %}{{ album.year }} &mdash; {% endif %}{{ album.title }}</h3>
+{% else %}
+<h2><a href="/artist/">Музыканты</a> : &#32;
 {% if artist_legacy_path %}
 <a href="/artist/{{ artist_legacy_path }}/">{{ artist_name }}</a>
 {% elif artist_name %}
@@ -21,52 +27,40 @@
 <a href="/review/">Разные артисты</a>
 {% endif %}
 </h2>
+{% endif %}
 
-<table cellpadding="4" cellspacing="0" border="0">
-  <tr>
-    <td valign="top">
-{% if album.title %}
-      <h3>
-{% if album.artist %}{{ album.artist }} - {% endif %}{{ album.title }}
-{% if album.year %}
-  ({{ album.year }})
+{% if cover_url or album.title %}
+<div style="display:flex;gap:16px;align-items:flex-start;margin-bottom:1em">
+{% if cover_url %}
+  <div style="flex-shrink:0"><img src="{{ cover_url }}" width="160" height="160" border="0" alt="" style="display:block;object-fit:cover"></div>
 {% endif %}
-</h3>
-{% endif %}
-      <table cellpadding="4" border="0" cellspacing="0">
-        <tr>
-          <td colspan="2">{% if cover_url %}<img src="{{ cover_url }}" align="left">{% endif %}</td>
-        </tr>
+  <div>
+    <table cellpadding="3" border="0" cellspacing="0" style="font-size:0.95em">
 {% if album.artist %}
-        <tr>
-          <td>Артист: </td>
-          <td>{{ album.artist }}</td>
-        </tr>
+      <tr><td style="color:#888;padding-right:12px">Артист:</td><td>{{ album.artist }}</td></tr>
 {% endif %}
 {% if album.title %}
-        <tr>
-          <td>Название: </td>
-          <td>{{ album.title }}</td>
-        </tr>
+      <tr><td style="color:#888;padding-right:12px">Название:</td><td>{{ album.title }}</td></tr>
 {% endif %}
 {% if album.year %}
-        <tr>
-          <td>Год: </td>
-          <td>{{ album.year }}</td>
-        </tr>
+      <tr><td style="color:#888;padding-right:12px">Год:</td><td>{{ album.year }}</td></tr>
 {% endif %}
 {% if album.label %}
-        <tr>
-          <td>Лейбл: </td>
-          <td>{{ album.label }}</td>
-        </tr>
+      <tr><td style="color:#888;padding-right:12px">Лейбл:</td><td>{{ album.label }}</td></tr>
 {% endif %}
-      </table>
-    </td>
-    <td valign="top" align="right">
-    </td>
-  </tr>
-</table>
+{% if album.asin or streaming_links or artist_streaming_links %}
+      <tr><td style="color:#888;padding-right:12px;padding-top:6px">Альбом на:</td>
+      <td style="padding-top:6px">
+        {% if album.asin %}<a target="_blank" href="https://www.amazon.com/dp/{{ album.asin }}">Amazon</a>{% endif %}
+        {% if (streaming_links or artist_streaming_links) and album.asin %} | {% endif %}
+        {% if streaming_links %}{{ streaming_links | safe }}{% elif artist_streaming_links %}{{ artist_streaming_links | safe }}{% endif %}
+      </td></tr>
+{% endif %}
+    </table>
+  </div>
+</div>
+{% endif %}
+
 {% if artist_resource_links is defined and artist_resource_links %}
 <p>{{ artist_resource_links | safe }}</p>
 {% endif %}
@@ -76,23 +70,16 @@
 {% if artist_calendar_links is defined and artist_calendar_links %}
 <p>{{ artist_calendar_links | safe }}</p>
 {% endif %}
-{% if album.asin or streaming_links or artist_streaming_links %}
-<p>Альбом на:
-{% if album.asin %}<a target="_blank" href="https://www.amazon.com/dp/{{ album.asin }}">Amazon</a>{% endif %}
-{% if (streaming_links or artist_streaming_links) and album.asin %} | {% endif %}
-{% if streaming_links %}{{ streaming_links | safe }}{% elif artist_streaming_links %}{{ artist_streaming_links | safe }}{% endif %}
-</p>
-{% endif %}
 
+{% if artist_album_list is defined and artist_album_list %}
+{{ artist_album_list | safe }}
+{% endif %}
 {% if reviews %}
 <hr size="1">
-<h2>Рецензии</h2>
+<h2>Обзоры</h2>
 {% for review in reviews %}
-<h3><a name="{{ review.id }}"></a>
-{% if review.album_title %}"{{ review.album_title }}" {% endif %}
-{% if review.year %}{{ review.year }}{% endif %}</h3>
+<h3><a name="{{ review.id }}"></a>{% if review.mark %}{{ star_rating_html(review.mark) }}{% endif %}{{ review.author }}</h3>
 {{ review.body | safe }}
-<p align="right">{% if review.mark %}{{ star_rating_html(review.mark) }} &mdash; {% endif %}<i>{{ review.author }}</i></p>
 <hr size="1">
 {% endfor %}
 {% endif %}

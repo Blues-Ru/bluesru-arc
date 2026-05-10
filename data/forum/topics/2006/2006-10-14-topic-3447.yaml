@@ -12,16 +12,7 @@ posts:
   email: еlicaster мeйлтoчкapy
   subject: Славянские Hey Joe Versions
   deleted: false
-  text: "Зашел на сайт www.heyjoe.org\nТам есть страничка <a href=\"http://www.heyjoe.org/perf.html\">Hey Joe Versions</a>\
-    \ и на ней перечислены тыщи перепевое её.\nВот что меня удивило: обилие не то что славянских, а именно русских фамилий:\n\
-    \ Morozov,  Malyugin, Sergey,  Gladkov,  Goncharov, Vladislav,  Grebentchikov, Max (2 versions),  Ivanov, Ivan & Eugene,\
-    \  Ivanov Sergei,  Kobakov, Vlado,  Kozevnikov,  Kuznetsov, Alexander,  Kuznetsov, Oleg,  Leonov (2 versions),  Leontiev,\
-    \ Sergey (2 versions),  Menshikov,  Mironov,  Mokretsov,  Novikov, Svyatoslav (2 versions),  Petrov, Michael (2 versions),\
-    \  Mokretsov,  Samozenkov,  Stemkovsky (2 versions),  Tsygankov, Anton, \n Vera Spinarova,  Bassyrov, Alexey (more versions),\
-    \  Birilov (more versions),  Burlak, Yura,  Bykov,  Chernikov (2 versions),  Dobrovolsky,  Gordeev (2 versions,  Gulevsky,\
-    \ Kiselev (2 versions),  Kolobaev,  Korneev, Max,  Korneyasev,  Kornev, Mark,  Kozevnikov,  Kultyshev, Vanezzz,  Merkuriev\
-    \ (2 versions),  Nickolaev,  Volgograd, Denis (2 versions),  Vorobyev (2 versions), \n\nИ даже южане присутствуют в списке:\n\
-    Gulishev, Ovanes 92 versions),  Kourbanov, Amir\nПрям паразительно!"
+  text: "Зашел на сайт www.heyjoe.org\nТам есть страничка <a href=\"http://www.heyjoe.org/perf.html\">Hey Joe Versions</a> и на ней перечислены тыщи перепевое её.\nВот что меня удивило: обилие не то что славянских, а именно русских фамилий:\n Morozov,  Malyugin, Sergey,  Gladkov,  Goncharov, Vladislav,  Grebentchikov, Max (2 versions),  Ivanov, Ivan & Eugene,  Ivanov Sergei,  Kobakov, Vlado,  Kozevnikov,  Kuznetsov, Alexander,  Kuznetsov, Oleg,  Leonov (2 versions),  Leontiev, Sergey (2 versions),  Menshikov,  Mironov,  Mokretsov,  Novikov, Svyatoslav (2 versions),  Petrov, Michael (2 versions),  Mokretsov,  Samozenkov,  Stemkovsky (2 versions),  Tsygankov, Anton, \n Vera Spinarova,  Bassyrov, Alexey (more versions),  Birilov (more versions),  Burlak, Yura,  Bykov,  Chernikov (2 versions),  Dobrovolsky,  Gordeev (2 versions,  Gulevsky, Kiselev (2 versions),  Kolobaev,  Korneev, Max,  Korneyasev,  Kornev, Mark,  Kozevnikov,  Kultyshev, Vanezzz,  Merkuriev (2 versions),  Nickolaev,  Volgograd, Denis (2 versions),  Vorobyev (2 versions), \n\nИ даже южане присутствуют в списке:\nGulishev, Ovanes 92 versions),  Kourbanov, Amir\nПрям паразительно!"
   replies:
   - id: 29115
     parent_id: 29113
@@ -48,8 +39,7 @@ posts:
       email: volodya@blues.ru
       subject: а при чем тут славяне?
       deleted: false
-      text: песня была реально популярной именно в исполнении Хендрикса и еще тогда считалась его первым таки хитом.... ваще
-        то.  :)
+      text: песня была реально популярной именно в исполнении Хендрикса и еще тогда считалась его первым таки хитом.... ваще то.  :)
       replies:
       - id: 29124
         parent_id: 29121
@@ -58,8 +48,7 @@ posts:
         email: mlives_6@hotmail,com
         subject: Хендрикс часто делал конфету из говна
         deleted: false
-        text: "в том числе из Hey Joe.  :)  Roy Buchannan тоже ее часто играл,   наверно потому что петь практически не требуется.\
-          \  Может быть и по этой причине ее часто исполняют в России? \n\nMuddy"
+        text: "в том числе из Hey Joe.  :)  Roy Buchannan тоже ее часто играл,   наверно потому что петь практически не требуется.  Может быть и по этой причине ее часто исполняют в России? \n\nMuddy"
         replies:
         - id: 29126
           parent_id: 29124
@@ -85,11 +74,15 @@ posts:
               email: gypsy@mail.ru
               subject: Вот есть у меня один знакомый певец,  Джон его зовут, он их все знает! ))
               deleted: false
-              text: 'Ты с ним поговори, он тя научит и Wang Dang Doodle, и многим другим мелодиям и ритмам зарубежной эстрады
-                )))
+              text: 'Ты с ним поговори, он тя научит и Wang Dang Doodle, и многим другим мелодиям и ритмам зарубежной эстрады )))
 
                 А я-то чё.. я ж не пою ))'
+              inferred_person_id: 13
+            inferred_person_id: 7465
+          inferred_person_id: 13
+        inferred_person_id: 7465
       person_id: 5
+    inferred_person_id: 7465
   - id: 29120
     parent_id: 29113
     date: 2006-10-16 20:31
@@ -118,4 +111,6 @@ posts:
         subject: Гей Славяне - это другой конкурс.... :))))
         deleted: false
         person_id: 5
+      inferred_person_id: 7202
     person_id: 5
+  inferred_person_id: 7202

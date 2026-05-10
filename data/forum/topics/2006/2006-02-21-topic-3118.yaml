@@ -120,6 +120,7 @@ posts:
 
         У меня есть два его альбома - супер!'
       person_id: 335
+    inferred_person_id: 7465
   - id: 26217
     parent_id: 26210
     date: 2006-02-21 15:36
@@ -127,8 +128,7 @@ posts:
     email: mishuris@mail.ru
     subject: А та ли песня ?
     deleted: false
-    text: Если имеется ввиду "Why are people like that?" , то это не Диксона, а вовсе белого парня по имени Bobby Charles.
-      Кстати, не вполне и блюзмена. А слова и впрямь простые -я всё понял.
+    text: Если имеется ввиду "Why are people like that?" , то это не Диксона, а вовсе белого парня по имени Bobby Charles. Кстати, не вполне и блюзмена. А слова и впрямь простые -я всё понял.
     replies:
     - id: 26219
       parent_id: 26217

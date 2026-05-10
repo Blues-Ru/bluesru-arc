@@ -12,8 +12,7 @@ posts:
   email: dr.nick@blues.ru
   subject: From now on
   deleted: false
-  text: I don't speak any Russian here! Sick of it! Malcolm opened my eyes and from this moment I write in English only! If
-    you don't like it, it's your fucking problem, morons... You hear me? ROCKANDROLL is not dead! It just smells funny :)
+  text: I don't speak any Russian here! Sick of it! Malcolm opened my eyes and from this moment I write in English only! If you don't like it, it's your fucking problem, morons... You hear me? ROCKANDROLL is not dead! It just smells funny :)
   replies:
   - id: 3178
     parent_id: 3167
@@ -39,8 +38,8 @@ posts:
         email: evdokimov@blues.ru
         subject: well I don't know but most of all know English is knows, man
         deleted: false
-        text: "- должно стать эпиграфом форума. мы ведь не модерируем, мы ждем рождения коллективного разума. \n\"жаль в эту\
-          \ пору прекрасную....\""
+        text: "- должно стать эпиграфом форума. мы ведь не модерируем, мы ждем рождения коллективного разума. \n\"жаль в эту пору прекрасную....\""
+        inferred_person_id: 4
       person_id: 5
     - id: 3180
       parent_id: 3178
@@ -49,7 +48,7 @@ posts:
       email: Mrg_mike@rambler.ru
       subject: Hey Bro...
       deleted: false
-      text: Did your mama ever tell ya that it realy bad, to use unknown language ,'cos this language...well I don't know
-        but most of all know English is knows, man. Now I have yo go 'cos my many a all gone. Thanks , Doc
+      text: Did your mama ever tell ya that it realy bad, to use unknown language ,'cos this language...well I don't know but most of all know English is knows, man. Now I have yo go 'cos my many a all gone. Thanks , Doc
       person_id: 687
+    inferred_person_id: 2
   person_id: 335

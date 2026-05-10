@@ -44,6 +44,7 @@ posts:
     text: 'От души поздравляю Ветерана!
 
       Постараюсь зайти сегодня вечером.'
+    inferred_person_id: 4384
   - id: 33106
     parent_id: 33102
     date: 2007-06-25 14:39
@@ -71,6 +72,7 @@ posts:
         Надо немного прийти в себя, масса всяких впечатлений.
 
         Удачи тебе.'
+      inferred_person_id: 204
   - id: 33111
     parent_id: 33102
     date: 2007-06-27 10:35
@@ -79,6 +81,7 @@ posts:
     subject: Поздравляю!
     deleted: false
     text: Здоровья и творчества!
+    inferred_person_id: 6398
   - id: 33116
     parent_id: 33102
     date: 2007-06-27 15:51
@@ -92,6 +95,7 @@ posts:
       Короче, Дима, ты лучший! Мы тебя любим и уважаем!
 
       Расти дальше =))'
+    inferred_person_id: 13
   - id: 33117
     parent_id: 33102
     date: 2007-06-27 18:48
@@ -100,3 +104,4 @@ posts:
     subject: ДР
     deleted: false
     text: Спасибо, друзья!!!
+  inferred_person_id: 335

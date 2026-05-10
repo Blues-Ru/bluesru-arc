@@ -11,13 +11,7 @@ posts:
   poster: Илья Полищук
   subject: 'Два новых альбома: блюз-рок и дельта-блюз'
   deleted: false
-  text: "Украинская блюз-роковая группа Freeeky Cleen выпустила два интересных альбома\
-    \ (первый рок-н-рольный, второй акустический блюзовый) под названием, соответственно,\
-    \ \"Double Feature\" и \"Acoustic Blues Jams\". \n\nЗаслушать онлайн тут:\n\n\
-    1. \"Double Feature\"\nhttp://freeky-music.org.ua/mp3/?dir=Freeky%20Cleen%20and%20Dickey%20F/Freeky%20Cleen%20and%20Dickey%20F%20-%20Double%20Feature%20(2010)/\n\
-    \n\n2. \"Acoustic Blues Jams\"\nhttp://freeky-music.org.ua/mp3/?dir=Freeky%20Cleen%20-%20Acoustic%20Blues%20Jams/\n\
-    \n\nСкачать альбомы в МП3 одним архивом здесь:\n\n\nhttp://freeky-music.org.ua/upload/freeky_cleen_and_dickey_f_double_feature_2010.rar\n\
-    http://freeky-music.org.ua/upload/freeky_cleen_acoustic_blues_jams_2011.zip"
+  text: "Украинская блюз-роковая группа Freeeky Cleen выпустила два интересных альбома (первый рок-н-рольный, второй акустический блюзовый) под названием, соответственно, \"Double Feature\" и \"Acoustic Blues Jams\". \n\nЗаслушать онлайн тут:\n\n1. \"Double Feature\"\nhttp://freeky-music.org.ua/mp3/?dir=Freeky%20Cleen%20and%20Dickey%20F/Freeky%20Cleen%20and%20Dickey%20F%20-%20Double%20Feature%20(2010)/\n\n\n2. \"Acoustic Blues Jams\"\nhttp://freeky-music.org.ua/mp3/?dir=Freeky%20Cleen%20-%20Acoustic%20Blues%20Jams/\n\n\nСкачать альбомы в МП3 одним архивом здесь:\n\n\nhttp://freeky-music.org.ua/upload/freeky_cleen_and_dickey_f_double_feature_2010.rar\nhttp://freeky-music.org.ua/upload/freeky_cleen_acoustic_blues_jams_2011.zip"
   replies:
   - id: 37922
     parent_id: 37915
@@ -28,3 +22,4 @@ posts:
     text: 'Очень хорошо!
 
       Перепостил в http://ru-blues.livejournal.com/'
+    inferred_person_id: 13

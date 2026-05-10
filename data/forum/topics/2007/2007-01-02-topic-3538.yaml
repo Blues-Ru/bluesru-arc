@@ -12,9 +12,7 @@ posts:
   email: dimm@mail.nnov.ru
   subject: В поисках тестов песен Ronnie Earl ..
   deleted: false
-  text: 'Уважаемые форумчане подскажите: Где можно найти текст к альбому Ronnie Earl
-    and Friends? А точнее мне понравилась одна песня "New Vietnam Blues" в исполнении
-    Irma Thomas. Искал через поисковики - ничего не нашел :('
+  text: 'Уважаемые форумчане подскажите: Где можно найти текст к альбому Ronnie Earl and Friends? А точнее мне понравилась одна песня "New Vietnam Blues" в исполнении Irma Thomas. Искал через поисковики - ничего не нашел :('
   replies:
   - id: 30264
     parent_id: 30255
@@ -23,23 +21,7 @@ posts:
     email: ragtime@ blues.ru
     subject: На слух
     deleted: false
-    text: "звучит так:\n\nI know a man who feels so low down\nI wanna lend him a helping\
-      \ hand\nI said I know a man who feels so low down\nI wanna lend him a helping\
-      \ hand\nJust to lift him off the ground\nAnd help him find a soul he’d lost\
-      \ in Vietnam\n\nI wanna let him know he’s not all by himself, no he’s not\n\
-      I wanna let him know, I wanna let him know he’s not all by himself, no he’s\
-      \ not\nWhen he came home it(?)was an honor(?)\nI wanna let him know I feel all\
-      \ right by\n\nVietnam, Vietnam was a cold, cold place\nIt won’t let your mind\
-      \ be free\nVietnam, Vietnam is a cold, cold place\nIt won’t let your mind, it\
-      \ won’t let your mind be free\nIt wanna let all you Vietnam vets know\nI wanna\
-      \ thank you, thank you for your victory\n\nThey say you didn’t win the war\n\
-      Little do they know, you won it all by me\nThey say you didn’t win that war\n\
-      I wanna let you know you won it all by me\nI’m gonna honor you with this song\n\
-      So you know you won a simple victory\n\nI believe it’s time to shout, I believe\
-      \ it’s time to shout\nAll about what you did, what you did for me\nYes I believe\
-      \ it’s time to shout, give you honor\nAnd talk about what you did for me\nYou\
-      \ gave up your young life, all your young life and time\nJust so I and the rest\
-      \ of my family can be free, \noh yes you did"
+    text: "звучит так:\n\nI know a man who feels so low down\nI wanna lend him a helping hand\nI said I know a man who feels so low down\nI wanna lend him a helping hand\nJust to lift him off the ground\nAnd help him find a soul he’d lost in Vietnam\n\nI wanna let him know he’s not all by himself, no he’s not\nI wanna let him know, I wanna let him know he’s not all by himself, no he’s not\nWhen he came home it(?)was an honor(?)\nI wanna let him know I feel all right by\n\nVietnam, Vietnam was a cold, cold place\nIt won’t let your mind be free\nVietnam, Vietnam is a cold, cold place\nIt won’t let your mind, it won’t let your mind be free\nIt wanna let all you Vietnam vets know\nI wanna thank you, thank you for your victory\n\nThey say you didn’t win the war\nLittle do they know, you won it all by me\nThey say you didn’t win that war\nI wanna let you know you won it all by me\nI’m gonna honor you with this song\nSo you know you won a simple victory\n\nI believe it’s time to shout, I believe it’s time to shout\nAll about what you did, what you did for me\nYes I believe it’s time to shout, give you honor\nAnd talk about what you did for me\nYou gave up your young life, all your young life and time\nJust so I and the rest of my family can be free, \noh yes you did"
     replies:
     - id: 30362
       parent_id: 30264
@@ -48,8 +30,8 @@ posts:
       email: gypsy@mail.ru
       subject: Откуда у парня вьетнамская грусть...
       deleted: false
-      text: А также см.синдром Каверкина-Аграновского "Откуда у парня вьетнамская
-        грудь"
+      text: А также см.синдром Каверкина-Аграновского "Откуда у парня вьетнамская грудь"
+    inferred_person_id: 7284
   - id: 30332
     parent_id: 30255
     date: 2007-01-06 21:00

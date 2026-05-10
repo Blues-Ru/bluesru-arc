@@ -42,3 +42,5 @@ posts:
     subject: А где сам-то горячо поздравленный?
     deleted: false
     text: А то мы его, а он никак! Непорядок!
+    inferred_person_id: 13
+  inferred_person_id: 7202

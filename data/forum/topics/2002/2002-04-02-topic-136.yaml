@@ -21,8 +21,7 @@ posts:
     email: serge_ivanov@hotmail.com
     subject: Праздники продолжаются...
     deleted: false
-    text: 'После всего этого просто смешно выглядят все рассуждения о топике и оффтопике... Ничего не остается делать как
-      согласиться с Евдокимовым: Дилан сосет.'
+    text: 'После всего этого просто смешно выглядят все рассуждения о топике и оффтопике... Ничего не остается делать как согласиться с Евдокимовым: Дилан сосет.'
     replies:
     - id: 3190
       parent_id: 3189
@@ -62,6 +61,7 @@ posts:
 
 
               ПС Извиняйте за повтор - первый раз промахнулся :-('
+            inferred_person_id: 378
           person_id: 335
         - id: 3206
           parent_id: 3194
@@ -81,8 +81,8 @@ posts:
       email: evdokimov@blues.ru
       subject: show goes on!
       deleted: false
-      text: "with Gretta is on board now. \nДемократия в форуме! \nFedor, what's next? I can tell you: more shit, less sense\
-        \ + hieroglyphs, maybe."
+      text: "with Gretta is on board now. \nДемократия в форуме! \nFedor, what's next? I can tell you: more shit, less sense + hieroglyphs, maybe."
+      inferred_person_id: 4
     person_id: 378
   - id: 3203
     parent_id: 3171

@@ -21,8 +21,7 @@ posts:
     email: ilija@bk.ru
     subject: Прекрасно!
     deleted: false
-    text: "Откуда кадры? \n\nВсем надо учиццо правильно вести себя на концертах, в т.ч. слушателям и даже официантам. Мини\
-      \ практическое пособие.\n\n,)\n\nЗдорово!"
+    text: "Откуда кадры? \n\nВсем надо учиццо правильно вести себя на концертах, в т.ч. слушателям и даже официантам. Мини практическое пособие.\n\n,)\n\nЗдорово!"
     replies:
     - id: 27823
       parent_id: 27821
@@ -31,9 +30,9 @@ posts:
       email: mlives_6@hotmail.com
       subject: Из кинофильма 1929 г.
       deleted: false
-      text: "Кадры из короткого кинофильма Saint Louis Blues (1929).  Авторы - Kennith W. Adams и W.C. Handy.  Режисер - Dudley\
-        \ Murphy.  На пианино играет легендарный James P. Johnson.  На корнетах Joe Smith и Thomas Morris.  \n\n[img]http://www.redhotjazz.com/stlouisblues-poster.jpg[/img]\n\
-        \nMuddy"
+      text: "Кадры из короткого кинофильма Saint Louis Blues (1929).  Авторы - Kennith W. Adams и W.C. Handy.  Режисер - Dudley Murphy.  На пианино играет легендарный James P. Johnson.  На корнетах Joe Smith и Thomas Morris.  \n\n[img]http://www.redhotjazz.com/stlouisblues-poster.jpg[/img]\n\nMuddy"
+      inferred_person_id: 7465
+    inferred_person_id: 4313
   - id: 27822
     parent_id: 27820
     date: 2006-07-05 13:21
@@ -43,3 +42,4 @@ posts:
     deleted: false
     text: Что тут ещё скажешь. Блюз. Точка.
     person_id: 458
+  inferred_person_id: 7465

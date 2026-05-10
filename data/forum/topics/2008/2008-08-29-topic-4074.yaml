@@ -164,12 +164,19 @@ posts:
                               deleted: false
                               text: не подходил к трубе
                               person_id: 335
+                            inferred_person_id: 7206
                           person_id: 335
+                        inferred_person_id: 7206
                       person_id: 335
+                    inferred_person_id: 7206
                   person_id: 335
+                inferred_person_id: 7206
               person_id: 335
+            inferred_person_id: 7206
           person_id: 335
+        inferred_person_id: 7206
       person_id: 335
+    inferred_person_id: 7206
   - id: 35706
     parent_id: 35701
     date: 2008-08-29 17:28
@@ -177,8 +184,7 @@ posts:
     email: ufty@ioujghu.ru
     subject: ГЛАВНОЕ!!!!
     deleted: false
-    text: Могут запретить продажу пива. Бьёмся насмерть.. Если не отобъём (дальше шёпотом) Надеюсь на русскую смекалку. Постараюсь
-      сделать досмотр максимально минимальным.
+    text: Могут запретить продажу пива. Бьёмся насмерть.. Если не отобъём (дальше шёпотом) Надеюсь на русскую смекалку. Постараюсь сделать досмотр максимально минимальным.
     replies:
     - id: 35707
       parent_id: 35706
@@ -195,9 +201,7 @@ posts:
         email: ddfdyu@gfghu7.ru
         subject: Ваще не понимаю, как ЭТО без алкоголя
         deleted: false
-        text: <object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/xEMt2tRUtEE&hl=en&fs=1"></param><param
-          name="allowFullScreen" value="true"></param><embed src="http://www.youtube.com/v/xEMt2tRUtEE&hl=en&fs=1" type="application/x-shockwave-flash"
-          allowfullscreen="true" width="425" height="344"></embed></object>
+        text: <object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/xEMt2tRUtEE&hl=en&fs=1"></param><param name="allowFullScreen" value="true"></param><embed src="http://www.youtube.com/v/xEMt2tRUtEE&hl=en&fs=1" type="application/x-shockwave-flash" allowfullscreen="true" width="425" height="344"></embed></object>
         replies:
         - id: 35714
           parent_id: 35708
@@ -208,6 +212,8 @@ posts:
           deleted: false
           text: Жуть какая... Как-то так сложилось, что у меня без пива фотоаппарат не фокусируется :(
           person_id: 6657
+        inferred_person_id: 7206
+      inferred_person_id: 7206
     - id: 35711
       parent_id: 35706
       date: 2008-08-30 01:08
@@ -215,8 +221,7 @@ posts:
       email: volodya@blues.ru
       subject: а ведь такая жопа уже была... :(
       deleted: false
-      text: в 2002ом году?? когда делали блюзфест на стадионе динамо.. со споносором - пивом "очаково"..... точно также -
-        день города и запрет на пиво :((
+      text: в 2002ом году?? когда делали блюзфест на стадионе динамо.. со споносором - пивом "очаково"..... точно также - день города и запрет на пиво :((
       replies:
       - id: 35712
         parent_id: 35711
@@ -233,10 +238,11 @@ posts:
           email: manager2@zip-m.ru
           subject: Вопрос с пивом решился?
           deleted: false
-          text: Или уже всё- таки надеяться на русскую смекалку? Уважаемые организаторы, намекните хоть как- то, плиз, а то
-            ЗАВТРА уже не за горами ...
+          text: Или уже всё- таки надеяться на русскую смекалку? Уважаемые организаторы, намекните хоть как- то, плиз, а то ЗАВТРА уже не за горами ...
           person_id: 3582
+        inferred_person_id: 7206
       person_id: 5
+    inferred_person_id: 7206
   - id: 35751
     parent_id: 35701
     date: 2008-09-09 21:56
@@ -244,9 +250,7 @@ posts:
     email: lvovandrey@mail.ru
     subject: Спасибо
     deleted: false
-    text: Господа организаторы, если на форуме вы присутствуете. Хотелось вам сказать большое спасибо. не смотря на отсутствие
-      пива и всякие другие неприятные мелочи получил огромное удовольствие от феста. Спасибо еще раз, что вы даете публике
-      такую замечательную возможность отдохнуть и послушать хорошую музыку.
+    text: Господа организаторы, если на форуме вы присутствуете. Хотелось вам сказать большое спасибо. не смотря на отсутствие пива и всякие другие неприятные мелочи получил огромное удовольствие от феста. Спасибо еще раз, что вы даете публике такую замечательную возможность отдохнуть и послушать хорошую музыку.
   - id: 35752
     parent_id: 35701
     date: 2008-09-09 21:57
@@ -254,9 +258,7 @@ posts:
     email: lvovandrey@mail.ru
     subject: Спасибо
     deleted: false
-    text: Господа организаторы, если на форуме вы присутствуете. Хотелось вам сказать большое спасибо. не смотря на отсутствие
-      пива и всякие другие неприятные мелочи получил огромное удовольствие от феста. Спасибо еще раз, что вы даете публике
-      такую замечательную возможность отдохнуть и послушать хорошую музыку.
+    text: Господа организаторы, если на форуме вы присутствуете. Хотелось вам сказать большое спасибо. не смотря на отсутствие пива и всякие другие неприятные мелочи получил огромное удовольствие от феста. Спасибо еще раз, что вы даете публике такую замечательную возможность отдохнуть и послушать хорошую музыку.
     replies:
     - id: 35755
       parent_id: 35752
@@ -266,3 +268,4 @@ posts:
       subject: Вам спасибо, что пришли.
       deleted: false
       text: А для нас теперь главная задача - раздать долги.
+      inferred_person_id: 7206

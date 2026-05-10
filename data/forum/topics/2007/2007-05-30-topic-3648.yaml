@@ -12,14 +12,7 @@ posts:
   email: dmijtrij@mail.ru
   subject: чья песня?
   deleted: false
-  text: 'много лет назад в блюзовом сборнике на кассете  была песня.помогите узнать
-    исполнителя....плыззз. названия не помню,к сожалению, но попробую как-нибудь объяснить.гармония
-    простая:все слова на двух аккордах, допустим фа диез минор - ми мажор и рэ для
-    напряжения. песня в латинском (мексиканском) стиле (приблюзовая баллада в среднем
-    темпе).соло- простое ,на основе вокальной партии.приблизительно помню некоторые
-    слова в припеве: some people got... not money yet oll. и еще в куплетах что-то
-    про tv screen on the market pleis и every day and every night... конечно этого
-    мало - но вдруг кто-то недавно ее слушал и узнает?'
+  text: 'много лет назад в блюзовом сборнике на кассете  была песня.помогите узнать исполнителя....плыззз. названия не помню,к сожалению, но попробую как-нибудь объяснить.гармония простая:все слова на двух аккордах, допустим фа диез минор - ми мажор и рэ для напряжения. песня в латинском (мексиканском) стиле (приблюзовая баллада в среднем темпе).соло- простое ,на основе вокальной партии.приблизительно помню некоторые слова в припеве: some people got... not money yet oll. и еще в куплетах что-то про tv screen on the market pleis и every day and every night... конечно этого мало - но вдруг кто-то недавно ее слушал и узнает?'
   replies:
   - id: 33004
     parent_id: 33001
@@ -30,12 +23,10 @@ posts:
     deleted: false
     text: 'Some People Got No Money At All - так она называется
 
-      Да, я помню ту песню (услышал её в 1997), но не помню кто её поёт. Но знаю точно
-      это не Robert Cray (как я в начале подумал ошибочно). Текст очень лёгкий: очень
-      просто было его снять. Я дома её играл, запала мне она, а вот товарищи мои от
-      неё плевались :-|
+      Да, я помню ту песню (услышал её в 1997), но не помню кто её поёт. Но знаю точно это не Robert Cray (как я в начале подумал ошибочно). Текст очень лёгкий: очень просто было его снять. Я дома её играл, запала мне она, а вот товарищи мои от неё плевались :-|
 
       Может кто подскажет исполнителя по названию песни.'
+    inferred_person_id: 7202
   - id: 33005
     parent_id: 33001
     date: 2007-05-30 19:40
@@ -43,17 +34,7 @@ posts:
     email: еlica@mail.com
     subject: Brendan Croker and The Five O'Clock Shadows - No Money At All
     deleted: false
-    text: "http://www.getlyrical.com/bb/phpBB2/viewtopic.php?p=8565&sid=4c0a779bc44d0176f431be97360a8588\n\
-      Brendan Croker and The Five O'Clock Shadows - No Money At All\nWhen the morning\
-      \ rolls around \nFor you and me and the lonely town \nSome people got no money\
-      \ at all \n\nEveryday and every night \nYou can hear their cry \nYou can see\
-      \ their fright \nSome people got no money at all \n\nEverywhere you see their\
-      \ face \nOn the TV screen, in the market place \nSome people got no money at\
-      \ all \n\nThere are times when we forget \nThere are times we all remember \n\
-      But yet some people got no money at all \n\nThis song is almost done \nAnd everything\
-      \ will carry on \nSome people got no money at all \n\nAnd when I am dead and\
-      \ gone \nSomeone else will be singing a song \nAnd it goes \nSome people got\
-      \ no money at all"
+    text: "http://www.getlyrical.com/bb/phpBB2/viewtopic.php?p=8565&sid=4c0a779bc44d0176f431be97360a8588\nBrendan Croker and The Five O'Clock Shadows - No Money At All\nWhen the morning rolls around \nFor you and me and the lonely town \nSome people got no money at all \n\nEveryday and every night \nYou can hear their cry \nYou can see their fright \nSome people got no money at all \n\nEverywhere you see their face \nOn the TV screen, in the market place \nSome people got no money at all \n\nThere are times when we forget \nThere are times we all remember \nBut yet some people got no money at all \n\nThis song is almost done \nAnd everything will carry on \nSome people got no money at all \n\nAnd when I am dead and gone \nSomeone else will be singing a song \nAnd it goes \nSome people got no money at all"
     replies:
     - id: 33007
       parent_id: 33005
@@ -62,8 +43,7 @@ posts:
       email: dmijtrij@mail.ru
       subject: чья песня
       deleted: false
-      text: спасибо большое .прям не ожидал. песню услышал тоже в 97, и потерял запись.а
-        мелодия до сих пор крутится.
+      text: спасибо большое .прям не ожидал. песню услышал тоже в 97, и потерял запись.а мелодия до сих пор крутится.
       replies:
       - id: 33008
         parent_id: 33007
@@ -72,8 +52,7 @@ posts:
         email: dmijtrij@mail.ru
         subject: чья песня
         deleted: false
-        text: поискал в сети мр3 и не нашел.если у кого есть эта песня пришлите ,
-          послушать охота.
+        text: поискал в сети мр3 и не нашел.если у кого есть эта песня пришлите , послушать охота.
         replies:
         - id: 33010
           parent_id: 33008
@@ -83,3 +62,5 @@ posts:
           subject: Медведь знает рыбные места... скачивайте отсюдо
           deleted: false
           text: ftp://share.bluesforum.ru/upload/Brendan_Croker_and_the_5_oClock_Shadows-No_Money_At_All.mp3
+          inferred_person_id: 13
+    inferred_person_id: 7202

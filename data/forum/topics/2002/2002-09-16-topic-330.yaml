@@ -12,8 +12,7 @@ posts:
   email: atex@takas.lt
   subject: Pomogite naiti Text pesni
   deleted: false
-  text: "Ochen nado text pesni \" See The Light \" v ispolnenie \nJeff Healey Band.Zaranie\
-    \ blagodaren  .\n\nGeum"
+  text: "Ochen nado text pesni \" See The Light \" v ispolnenie \nJeff Healey Band.Zaranie blagodaren  .\n\nGeum"
   replies:
   - id: 7482
     parent_id: 7479
@@ -22,19 +21,7 @@ posts:
     email: evergreens@mail.ru
     subject: See The Light by Jeff Healey  (text)
     deleted: false
-    text: "See The Light\n.\nby Jeff Healey\nrecording of 1988\nfrom See The Light\
-      \ (Arista ARCD-8553) \n.\nCan you see the light,\ncan you see the light of need\
-      \ shinin' in my eye?\nCan you see the light,\ncan you see the light of need\
-      \ shinin' in my eye?\n.\nWell, you know I need you baby,\nand I sure ain't gonna\
-      \ tell you no lie\n.\nCan you see the light,\ncan you see the light of want\
-      \ shinin' on my face?\nCan you see the light,\ncan you see the light of want\
-      \ shinin' on my face? hey\n.\nWell, you know I want you, mama,\ncome on, we'll\
-      \ get from this place, now\nlook out!, yeah!\n.\nCan you see the light,\ncan\
-      \ you see the light of love shinin' from my heart?\nCan you see the light,\n\
-      can you see the light of love shinin' from my heart?\nYeah\n.\nWell, you know\
-      \ I love you, baby,\nan' I sure want to give this thing a start, Lord!\nCan\
-      \ you see the light?\nCan you see the light?\nCan you see the light?, say!\n\
-      Can you see the light, yeah?\n."
+    text: "See The Light\n.\nby Jeff Healey\nrecording of 1988\nfrom See The Light (Arista ARCD-8553) \n.\nCan you see the light,\ncan you see the light of need shinin' in my eye?\nCan you see the light,\ncan you see the light of need shinin' in my eye?\n.\nWell, you know I need you baby,\nand I sure ain't gonna tell you no lie\n.\nCan you see the light,\ncan you see the light of want shinin' on my face?\nCan you see the light,\ncan you see the light of want shinin' on my face? hey\n.\nWell, you know I want you, mama,\ncome on, we'll get from this place, now\nlook out!, yeah!\n.\nCan you see the light,\ncan you see the light of love shinin' from my heart?\nCan you see the light,\ncan you see the light of love shinin' from my heart?\nYeah\n.\nWell, you know I love you, baby,\nan' I sure want to give this thing a start, Lord!\nCan you see the light?\nCan you see the light?\nCan you see the light?, say!\nCan you see the light, yeah?\n."
     replies:
     - id: 7492
       parent_id: 7482
@@ -43,9 +30,7 @@ posts:
       email: atex@takas.lt
       subject: Spasibo Alexu IV
       deleted: false
-      text: "Alex ogromnoe spasibo ot menija i ot nashey grupi\" Slam \" Litva .Druskininkai\n\
-        \nBeru esho na sebja nemnogo naglosti mojet est slova ZZ Top\" Pincushion\"\
-        \ Zaranie Blagodaren \n\nJura Geum"
+      text: "Alex ogromnoe spasibo ot menija i ot nashey grupi\" Slam \" Litva .Druskininkai\n\nBeru esho na sebja nemnogo naglosti mojet est slova ZZ Top\" Pincushion\" Zaranie Blagodaren \n\nJura Geum"
       replies:
       - id: 7496
         parent_id: 7492
@@ -61,8 +46,7 @@ posts:
           причём необходимо чтоб она не совпадала с названием песни ;)
 
 
-          2. Идём на www.google.com и в строке поиска набираем расслушаную строчку
-          в кавычках
+          2. Идём на www.google.com и в строке поиска набираем расслушаную строчку в кавычках
 
 
           И скорее всего вы получите то что хотелось... ;)'
@@ -74,8 +58,7 @@ posts:
           email: evergreens@mail.ru
           subject: text
           deleted: false
-          text: 'Всё прааально, Дим, но можно и просто название песни и исполнителя
-            набрать :) как я сделал в данном случае: ZZ Top "Pincushion"
+          text: 'Всё прааально, Дим, но можно и просто название песни и исполнителя набрать :) как я сделал в данном случае: ZZ Top "Pincushion"
 
             и вот что получилось:
 
@@ -124,6 +107,7 @@ posts:
             .
 
             Дерзайте, братья литовцы! :-)'
+          inferred_person_id: 82
         - id: 7511
           parent_id: 7496
           date: 2002-09-18 11:59
@@ -137,3 +121,5 @@ posts:
             UDACHI VSEM
 
             JURA'
+        inferred_person_id: 9
+    inferred_person_id: 82

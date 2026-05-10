@@ -31,6 +31,7 @@ posts:
       subject: Ответственный - Евдокимов!
       deleted: false
       text: Евдокимов, приди к ответственности!
+      inferred_person_id: 13
     - id: 26777
       parent_id: 26769
       date: 2006-03-23 23:24

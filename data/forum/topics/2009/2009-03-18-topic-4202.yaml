@@ -52,16 +52,13 @@ posts:
     text: 'http://www.phatmass.com/phorum/index.php?showtopic=14791
 
 
-      1) In Aramaic, Cephas sounds more like KAY-fas, but the English transliteration often pronounces it SEE-phas. Hope this
-      helps.
+      1) In Aramaic, Cephas sounds more like KAY-fas, but the English transliteration often pronounces it SEE-phas. Hope this helps.
 
 
-      2) In the Passion of Christ, Mary runs to Peter just outside of the Temple where they''ve taken Jesus to be judged by
-      the Sanhedrin and she sees Peter and cries "Keefa."
+      2) In the Passion of Christ, Mary runs to Peter just outside of the Temple where they''ve taken Jesus to be judged by the Sanhedrin and she sees Peter and cries "Keefa."
 
 
-      Короче, если тебе надо "как по правилам английской фонетики" - то [si:fez], а "по-церковному" - Кифа (русская традиция)
-      или Kephas, что в сущности одно и то же, последнее -as может редуцироваться.
+      Короче, если тебе надо "как по правилам английской фонетики" - то [si:fez], а "по-церковному" - Кифа (русская традиция) или Kephas, что в сущности одно и то же, последнее -as может редуцироваться.
 
 
       * Petrus, от греческого слова &#959; &#960;&#941;&#964;&#961;&#959;&#962; = камень, скала, арамейское Kephas=Cephas)'
@@ -88,6 +85,7 @@ posts:
         deleted: false
         text: Дамы и господа, а сейчас выступит какой-то американский хер
         person_id: 458
+      inferred_person_id: 4
   - id: 36237
     parent_id: 36230
     date: 2009-03-19 03:56
@@ -118,6 +116,7 @@ posts:
 
           правильно бы было по-русски писать Сэфас'
         person_id: 335
+      inferred_person_id: 7208
     person_id: 335
   - id: 36245
     parent_id: 36230
@@ -145,6 +144,7 @@ posts:
         subject: аааа...
         deleted: false
         text: ну понятно...)))для чего ещё в Москве интернет))))))))
+        inferred_person_id: 7208
       person_id: 4
     - id: 36247
       parent_id: 36245
@@ -158,4 +158,5 @@ posts:
 
         так что Сифас он явно :)'
       person_id: 335
+    inferred_person_id: 1719
   person_id: 4

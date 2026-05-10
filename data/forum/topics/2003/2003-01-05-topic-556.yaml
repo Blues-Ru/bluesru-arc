@@ -44,8 +44,7 @@ posts:
     email: lifebythedrop@yandex.ru
     subject: congratulations
     deleted: false
-    text: Клёво, пожалуй и я присоединюсь ко всем остальным, а кстати, Жук, это твоя фотка на yar.hole в Hippy.talks.filtered
-      лежит?
+    text: Клёво, пожалуй и я присоединюсь ко всем остальным, а кстати, Жук, это твоя фотка на yar.hole в Hippy.talks.filtered лежит?
     replies:
     - id: 9863
       parent_id: 9859
@@ -73,6 +72,7 @@ posts:
     text: 'Ивана с Днём Рождения!
 
       Иван, будь счастлив и здоров, играй блюз, ездий на моторе, shine like a Star! :)) Удачи тебе.'
+    inferred_person_id: 6
   - id: 9896
     parent_id: 9846
     date: 2003-01-08 13:25
@@ -80,3 +80,4 @@ posts:
     email: morehemp@mail.ru
     subject: С Днем рождения!
     deleted: false
+  inferred_person_id: 956

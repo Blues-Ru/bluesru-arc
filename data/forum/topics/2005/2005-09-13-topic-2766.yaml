@@ -35,4 +35,5 @@ posts:
       deleted: false
       text: у него ж еще и эпилепсия :(
       person_id: 335
+    inferred_person_id: 2
   person_id: 335

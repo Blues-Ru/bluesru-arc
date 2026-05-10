@@ -12,8 +12,7 @@ posts:
   email: elicaster@online.tm
   subject: С детства ищу тексты Too Young To Know и  Sad Sad Day
   deleted: false
-  text: 'Пожалуйста, помогите найти тексты Muddy Waters''a "Too Young To Know" и  "Sad Sad Day" (автор песен - он же: McKinley
-    Morganfield).
+  text: 'Пожалуйста, помогите найти тексты Muddy Waters''a "Too Young To Know" и  "Sad Sad Day" (автор песен - он же: McKinley Morganfield).
 
     Ищу уже лет 15, с того момента как достал винил Muddy Waters "King Bee" 1981.'
   replies:
@@ -67,3 +66,4 @@ posts:
           person_id: 335
         person_id: 335
       person_id: 335
+    inferred_person_id: 335

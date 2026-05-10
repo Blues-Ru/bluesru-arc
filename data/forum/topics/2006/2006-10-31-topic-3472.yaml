@@ -33,6 +33,7 @@ posts:
       subject: Санэпидстанция закрыла?
       deleted: false
       text: Облава на чёрных с усами?
+      inferred_person_id: 13
     person_id: 5
   - id: 29331
     parent_id: 29264
@@ -42,3 +43,4 @@ posts:
     subject: Уже опять открыли! (-)
     deleted: false
     person_id: 88
+  inferred_person_id: 335

@@ -12,11 +12,7 @@ posts:
   email: for_spam_only@inbox.ru
   subject: harmonica.blues.ru ???
   deleted: false
-  text: "Что с сайтом?\nwget  harmonica.blues.ru\n--14:40:26--  http://harmonica.blues.ru/\n\
-    \           => `index.html'\nПреобразование адреса harmonica.blues.ru... сделано.\n\
-    Установка соединения с harmonica.blues.ru[195.54.210.179]:80... соединились.\n\
-    Запрос HTTP послан, ожидание ответа... 302 Found\nАдрес: / [переход]\nhttp://harmonica.blues.ru/:\
-    \ Замкнутый цикл перенаправлений."
+  text: "Что с сайтом?\nwget  harmonica.blues.ru\n--14:40:26--  http://harmonica.blues.ru/\n           => `index.html'\nПреобразование адреса harmonica.blues.ru... сделано.\nУстановка соединения с harmonica.blues.ru[195.54.210.179]:80... соединились.\nЗапрос HTTP послан, ожидание ответа... 302 Found\nАдрес: / [переход]\nhttp://harmonica.blues.ru/: Замкнутый цикл перенаправлений."
   replies:
   - id: 12864
     parent_id: 12862
@@ -32,3 +28,4 @@ posts:
       Все исправлено. Сайт снова работает.
 
       Приношу свои извинения за ошибку, допущенную в коде.'
+    inferred_person_id: 190

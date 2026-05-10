@@ -42,4 +42,6 @@ posts:
         subject: wprd
         deleted: false
         text: называю вещи своими именами
+        inferred_person_id: 1285
       person_id: 2
+  inferred_person_id: 1285

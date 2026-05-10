@@ -30,4 +30,5 @@ posts:
     email: gypsy@mail.ru
     subject: Присоединяюсь к предыдущему оратору!
     deleted: false
+    inferred_person_id: 13
   person_id: 2888

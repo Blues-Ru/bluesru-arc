@@ -12,8 +12,7 @@ posts:
   email: aaa@genebee.msu.su
   subject: Woodstock vs. Woxstock
   deleted: false
-  text: "24-го июня, в четверг, джем в ВУДСТОКЕ проведут Братецкий, Гелюта, Серегин и Половинкин. Записаться можно на месте.\
-    \ Меня не будет, поеду в Белград на фестиваль Woxstock.\n Всем удачи!"
+  text: "24-го июня, в четверг, джем в ВУДСТОКЕ проведут Братецкий, Гелюта, Серегин и Половинкин. Записаться можно на месте. Меня не будет, поеду в Белград на фестиваль Woxstock.\n Всем удачи!"
   replies:
   - id: 18781
     parent_id: 18779
@@ -39,10 +38,8 @@ posts:
         email: kaverkin@rol.ru
         subject: В классное место едет Док !!!! На этом фесте
         deleted: false
-        text: "выступали только очень крутые (Майкл Хилл, Джо Хэммонд,Луизиана Ред,Вэн Морриссон, Анна Попович,Пера  Джо ну\
-          \ и  (мляяяяяяя!!!!) ) перцы! И вот теперь и Док!!!! Ура!!!!!!!!! \nАлексея там ждут и я уверен в его успехе. Главная\
-          \ проблема это неимоверное гостеприимство, классная кухня и отличные вино-пиво-ликеро-водочные напитки. Пиво тоже\
-          \ не облегчает вашего существования ;-))\nHappy Birthday !!!!!!!! Long Live!!!!!!!!!!!!!"
+        text: "выступали только очень крутые (Майкл Хилл, Джо Хэммонд,Луизиана Ред,Вэн Морриссон, Анна Попович,Пера  Джо ну и  (мляяяяяяя!!!!) ) перцы! И вот теперь и Док!!!! Ура!!!!!!!!! \nАлексея там ждут и я уверен в его успехе. Главная проблема это неимоверное гостеприимство, классная кухня и отличные вино-пиво-ликеро-водочные напитки. Пиво тоже не облегчает вашего существования ;-))\nHappy Birthday !!!!!!!! Long Live!!!!!!!!!!!!!"
+        inferred_person_id: 1719
     person_id: 2465
   - id: 18785
     parent_id: 18779
@@ -77,8 +74,7 @@ posts:
       email: aaa@genebee.msu.su
       subject: Thanks!
       deleted: false
-      text: 'I feel as good as nu here! We play open air with the Pera Joe band on Saturday. Apologies, this PC ain^t got
-        no kirillitsa on.
+      text: 'I feel as good as nu here! We play open air with the Pera Joe band on Saturday. Apologies, this PC ain^t got no kirillitsa on.
 
         Love you all, friends.
 
@@ -114,3 +110,5 @@ posts:
 
 
         И ждем в Питере с концертами!!!'
+      inferred_person_id: 698
+  inferred_person_id: 458

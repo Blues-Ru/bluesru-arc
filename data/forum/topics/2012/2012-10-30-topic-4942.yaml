@@ -11,8 +11,7 @@ posts:
   poster: Старый Майор
   subject: Что-то тут неправильно...
   deleted: false
-  text: '> В 1961 году (51 г. назад) в Форте Кэмпбелл, Кентуки, Джими Хендрикс (Jimi HENDRIX) начал проходить курс десантника–парашютиста.
-    Вместе с однополчанином Биллом Коксом он организовал группу the King Kasuals.
+  text: '> В 1961 году (51 г. назад) в Форте Кэмпбелл, Кентуки, Джими Хендрикс (Jimi HENDRIX) начал проходить курс десантника–парашютиста. Вместе с однополчанином Биллом Коксом он организовал группу the King Kasuals.
 
 
     Точно Kasuals? Не Casuals? А если проверю? Oo'
@@ -42,15 +41,13 @@ posts:
         poster: Andrei V. Evdokimov
         subject: рад стараться, майор!
         deleted: false
-        text: 'Я думал, что выкапывать название бэнда двух военнослужащих раздалбаев придется долго, но оказалось, что Википедия
-          и это знает.
+        text: 'Я думал, что выкапывать название бэнда двух военнослужащих раздалбаев придется долго, но оказалось, что Википедия и это знает.
 
 
           (школьникам напомню, то календарь на Блюз-Ру был написан задолго до возникновения Вики).
 
 
-          Так вот, в армии они назывались The Casuals, а уже после дембеля "After they moved to Nashville, upon learning there
-          was already an established band by the name "The Casuals", they amended their name to the "King Kasuals".
+          Так вот, в армии они назывались The Casuals, а уже после дембеля "After they moved to Nashville, upon learning there was already an established band by the name "The Casuals", they amended their name to the "King Kasuals".
 
 
           Так, что... подчищу формулировку... заодно проверю, нет ли где упоминания группы J.H. Ekspiriense.'
@@ -103,11 +100,16 @@ posts:
                   poster: Старый Майор
                   subject: Каков вокзал, такие на ём и музыканты.
                   deleted: false
-                  text: 'То, что она играет начиная с 1:50 - очень даже прямолинейно-блюзово. Прям "gypsy woman told my mother
-                    ''fore I was born" можно спеть под это.
+                  text: 'То, что она играет начиная с 1:50 - очень даже прямолинейно-блюзово. Прям "gypsy woman told my mother ''fore I was born" можно спеть под это.
 
 
-                    И вабще, незя же от блондинки ждать всей глубины страданий старого толстого негра! Негру - негрово, блондинке
-                    - блондинково.'
+                    И вабще, незя же от блондинки ждать всей глубины страданий старого толстого негра! Негру - негрово, блондинке - блондинково.'
+                  inferred_person_id: 13
+                inferred_person_id: 4
+              inferred_person_id: 13
             person_id: 4
+          inferred_person_id: 13
+        inferred_person_id: 4
+      inferred_person_id: 13
     person_id: 4
+  inferred_person_id: 13

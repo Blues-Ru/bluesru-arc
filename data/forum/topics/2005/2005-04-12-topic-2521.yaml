@@ -12,11 +12,9 @@ posts:
   email: evdokimov@blues.ru
   subject: много раз слышали про шоссе 66?
   deleted: false
-  text: 'теперь можно взлянуть, как оно выглядит сейчас, годы спустя после расцвета
-    славы. От натионал географик:
+  text: 'теперь можно взлянуть, как оно выглядит сейчас, годы спустя после расцвета славы. От натионал географик:
 
-    <a href="http://lava.nationalgeographic.com/cgi-bin/pod/PhotoOfTheDay.cgi?month=04&day=12&year=05"
-    target="_blank">http://lava.nationalgeographic.com/cgi-bin/pod/PhotoOfTheDay.cgi?month=04&day=12&year=05</a>'
+    <a href="http://lava.nationalgeographic.com/cgi-bin/pod/PhotoOfTheDay.cgi?month=04&day=12&year=05" target="_blank">http://lava.nationalgeographic.com/cgi-bin/pod/PhotoOfTheDay.cgi?month=04&day=12&year=05</a>'
   replies:
   - id: 21107
     parent_id: 21093
@@ -30,6 +28,7 @@ posts:
       типа hungtington blvd или типа того
 
       западная оконечность рута 66'
+    inferred_person_id: 1285
   - id: 21129
     parent_id: 21093
     date: 2005-04-14 01:49
@@ -38,3 +37,4 @@ posts:
     subject: ну слава Богу ,
     deleted: false
     text: выглядит как надо.
+  inferred_person_id: 4

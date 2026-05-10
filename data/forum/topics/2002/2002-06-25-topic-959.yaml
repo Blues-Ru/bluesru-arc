@@ -12,9 +12,7 @@ posts:
   email: peregnoy@mail.ru
   subject: Завтрашний джем in Би-Би
   deleted: false
-  text: "Граждане блюзрульствующие! \n\n1. Будет ли кто-нибудь из присутствующих здесь завтра на OJ with Old Men's Blues Band\
-    \ или сие мероприятие изначально отстойно?\n\n2. Соответствует ли персональный и инструментальный состав группы указанному\
-    \ здесь http://www.blues.ru/rblues/Old_Mens_Blues_Band/ ?"
+  text: "Граждане блюзрульствующие! \n\n1. Будет ли кто-нибудь из присутствующих здесь завтра на OJ with Old Men's Blues Band или сие мероприятие изначально отстойно?\n\n2. Соответствует ли персональный и инструментальный состав группы указанному здесь http://www.blues.ru/rblues/Old_Mens_Blues_Band/ ?"
   replies:
   - id: 5735
     parent_id: 5732
@@ -72,3 +70,4 @@ posts:
       deleted: false
       text: Только не здесь, а в новой теме, пожалуйста... :-)
       person_id: 82
+  inferred_person_id: 712

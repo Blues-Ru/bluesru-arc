@@ -12,8 +12,7 @@ posts:
   email: Эльдар
   subject: SRV - Willie the Wimp
   deleted: false
-  text: 'Willie the Wimp (альбом Live Alive - 1986), она также звучит в саундтреке фильма "От Заката До Расвета" (From Dusk
-    Till Dawn). Чья эта вещь? Кто её автор?
+  text: 'Willie the Wimp (альбом Live Alive - 1986), она также звучит в саундтреке фильма "От Заката До Расвета" (From Dusk Till Dawn). Чья эта вещь? Кто её автор?
 
     Озадачила меня тема для песни... о том как Вилли уложили в гроб. Иль я чёт не уловил?'
   replies:
@@ -24,15 +23,8 @@ posts:
     email: Эльдар
     subject: Willie the Wimp and his Cadillac coffin
     deleted: false
-    text: "WILLIE THE WIMP \nWillie the Wimp was buried today\nThey laid him to rest in a special way\nSent him off in the\
-      \ finest style\nThat casket-mobile really drove 'em wild\nSouthside Chicago will think of him often\nTalkin' 'bout Willie\
-      \ the Wimp and his Cadillac coffin\nWillie the Wimp and his Cadillac coffin\n\nThat casket, it looked like a fine Seville\n\
-      He had a vanity license and a Cadillac grille\nWillie was propped up in the driver's seat\nHe had diamonds on his fingers\
-      \ and a smile sweet\nFine red suit had the whole town talkin'\nWillie the Wimp and his Cadillac coffin\nYeah Willie\
-      \ the Wimp and his Cadillac coffin\n\nIn his Cadillac to Heaven he was wavin' the banner\nHe left like he lived, in\
-      \ a lively manner\nWith a-hundred dollar bills in his fingers tight\nHe had flowers for wheels and a-flashin' headlights\n\
-      He been wishin' for wings, no way he was walkin'\nTalkin' 'bout Willie the Wimp and his Cadillac coffin\nYeah, Willie\
-      \ the Wimp and his Cadillac coffin"
+    text: "WILLIE THE WIMP \nWillie the Wimp was buried today\nThey laid him to rest in a special way\nSent him off in the finest style\nThat casket-mobile really drove 'em wild\nSouthside Chicago will think of him often\nTalkin' 'bout Willie the Wimp and his Cadillac coffin\nWillie the Wimp and his Cadillac coffin\n\nThat casket, it looked like a fine Seville\nHe had a vanity license and a Cadillac grille\nWillie was propped up in the driver's seat\nHe had diamonds on his fingers and a smile sweet\nFine red suit had the whole town talkin'\nWillie the Wimp and his Cadillac coffin\nYeah Willie the Wimp and his Cadillac coffin\n\nIn his Cadillac to Heaven he was wavin' the banner\nHe left like he lived, in a lively manner\nWith a-hundred dollar bills in his fingers tight\nHe had flowers for wheels and a-flashin' headlights\nHe been wishin' for wings, no way he was walkin'\nTalkin' 'bout Willie the Wimp and his Cadillac coffin\nYeah, Willie the Wimp and his Cadillac coffin"
+    inferred_person_id: 7202
   - id: 36252
     parent_id: 36250
     date: 2009-03-25 00:16
@@ -49,17 +41,7 @@ posts:
     email: gypsy@mail.ru
     subject: Четать и смотредь туд.
     deleted: false
-    text: "http://www.srvrocks.com/lyrics-willie_the_wimp.htm\n\nOn the south side of Chicago in more recent times, there\
-      \ were a couple of dudes with very bad reputations; Flukey Stokes and his son Willie the Wimp. They beat people up.\
-      \ They sold drugs. They became wealthy. Willie the Wimp was shot in 1984 and dad threw a funeral. Thousands were invited.\
-      \ Even more invited themselves. People don't often see the recently departed sitting up and holding the steering wheel\
-      \ of a coffin modeled after the Cadillac Seville. A coffin with flashing lights and flowers for wheels. Oh sure, there\
-      \ were some other thoughtful touches, rings on his fingers and c-notes stuck like cigarettes in his hands.\n\nThe post-burial\
-      \ birthday party for Willie the Wimp was held at the same motel where Willie was shot. So it was, Willie the Wimp became\
-      \ more famous in his coffin than he had been in the street. It's a story that inspires song. Flukey Stokes was gunned\
-      \ down last November as he sat in his car. We thought you'd like to know Stevie Ray isn't singing about some Mickey\
-      \ Spillane fiction. He's singing about Chicago. \n\n<img width=\"400\" src=\"http://www.srvrocks.com/willie_the_wimp.jpg\"\
-      >"
+    text: "http://www.srvrocks.com/lyrics-willie_the_wimp.htm\n\nOn the south side of Chicago in more recent times, there were a couple of dudes with very bad reputations; Flukey Stokes and his son Willie the Wimp. They beat people up. They sold drugs. They became wealthy. Willie the Wimp was shot in 1984 and dad threw a funeral. Thousands were invited. Even more invited themselves. People don't often see the recently departed sitting up and holding the steering wheel of a coffin modeled after the Cadillac Seville. A coffin with flashing lights and flowers for wheels. Oh sure, there were some other thoughtful touches, rings on his fingers and c-notes stuck like cigarettes in his hands.\n\nThe post-burial birthday party for Willie the Wimp was held at the same motel where Willie was shot. So it was, Willie the Wimp became more famous in his coffin than he had been in the street. It's a story that inspires song. Flukey Stokes was gunned down last November as he sat in his car. We thought you'd like to know Stevie Ray isn't singing about some Mickey Spillane fiction. He's singing about Chicago. \n\n<img width=\"400\" src=\"http://www.srvrocks.com/willie_the_wimp.jpg\">"
     replies:
     - id: 36256
       parent_id: 36253
@@ -71,6 +53,8 @@ posts:
       text: 'Сталин, он скромный был. Похоронить было не в чем.
 
         А это шикарная история. Папа с сынулей большие гады. Но какая негритянская фантазия!'
+      inferred_person_id: 458
+    inferred_person_id: 13
   - id: 36254
     parent_id: 36250
     date: 2009-03-25 07:56
@@ -83,6 +67,7 @@ posts:
       Очень интересно.
 
       Большое спасибо! Вопрос прояснён.'
+    inferred_person_id: 7202
   - id: 36255
     parent_id: 36250
     date: 2009-03-25 10:58
@@ -102,3 +87,4 @@ posts:
     text: 'Про Вилли, уложенного в гроб и не только...)))
 
       http://www.stevieray.ru/'
+  inferred_person_id: 7202

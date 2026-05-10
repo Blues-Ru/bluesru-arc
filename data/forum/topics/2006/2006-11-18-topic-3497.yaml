@@ -12,8 +12,7 @@ posts:
   email: Nefo@list.ru
   subject: Ищу сборник Blues Way Vol.2
   deleted: false
-  text: Если кто знает где можно скачать или хотябы узнать список композиций со сборника
-    Blues Way Vol.2 буду очень благодарен.
+  text: Если кто знает где можно скачать или хотябы узнать список композиций со сборника Blues Way Vol.2 буду очень благодарен.
   replies:
   - id: 29395
     parent_id: 29393
@@ -49,3 +48,4 @@ posts:
       Magic Slim - Born in Missouri
 
       Jan Akkerman - Shame On You'
+    inferred_person_id: 204

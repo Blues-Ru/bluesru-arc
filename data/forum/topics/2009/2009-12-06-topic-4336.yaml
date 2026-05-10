@@ -29,6 +29,7 @@ posts:
 
 
       Я тоже теперь думаю сходить, выглядит очень привлекательно...'
+    inferred_person_id: 2
   - id: 36738
     parent_id: 36735
     date: 2009-12-07 05:32
@@ -38,4 +39,5 @@ posts:
     text: 'http://www.youtube.com/watch?v=2byeTK-C7kM&feature=related
 
       нарезка из нескольких композиций'
+    inferred_person_id: 7208
   person_id: 7208

@@ -39,5 +39,6 @@ posts:
         subject: А что, ничего сделать нельзя?
         deleted: false
         text: На других сайтах такой фигни я не видел...
+        inferred_person_id: 687
     person_id: 687
   person_id: 687

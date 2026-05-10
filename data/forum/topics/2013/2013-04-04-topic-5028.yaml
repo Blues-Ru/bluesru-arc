@@ -11,8 +11,7 @@ posts:
   poster: tavrichesky
   subject: American Folk Blues Festival 1983,или история о том,как Джимми Роджерсу не дали ни спеть, ни сыграть.
   deleted: false
-  text: 'а также о феномене Королевы Сильвии, Лави Ли как практически двойнике Пайнтопа Перкинса, фестивале имени Кари Белла
-    и о многих других))
+  text: 'а также о феномене Королевы Сильвии, Лави Ли как практически двойнике Пайнтопа Перкинса, фестивале имени Кари Белла и о многих других))
 
     http://www.youtube.com/watch?feature=player_embedded&v=PWZTCLMHC6Y'
   replies:
@@ -26,6 +25,7 @@ posts:
 
 
       http://www.youtube.com/watch?v=cg6XG0WGFr8&t=10m30s'
+    inferred_person_id: 13
   - id: 38870
     parent_id: 38863
     date: 2013-04-08 23:28

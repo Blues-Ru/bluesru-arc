@@ -15,13 +15,10 @@ posts:
   text: 'http://www.allmusic.com/cg/amg.dll?p=amg&uid=UIDMISS70402282054171130&sql=Axauvad5kv8w4
 
 
-    Невероятное сочетание блюза, фанка, джаза, соула, кантри и южного рока! Все это из Техаса и под простым и емким названием
-    Текс-Мекс-музыка. Латинские ритмы и духовые, джаз и блюз, кантри и соул. Тут много известных и понятных людей, но особенно
-    радует присутствие Доктора Джона на альбоме.
+    Невероятное сочетание блюза, фанка, джаза, соула, кантри и южного рока! Все это из Техаса и под простым и емким названием Текс-Мекс-музыка. Латинские ритмы и духовые, джаз и блюз, кантри и соул. Тут много известных и понятных людей, но особенно радует присутствие Доктора Джона на альбоме.
 
 
-    Оценка 5 баллов. 11 отличных треков; все вещи разные, так что скучно не будет. Надо выделить шикарные San Francisco FM
-    Blues и Blue Horizon. Каж жаль, что всей этой роскошной музыки нет на КД; а ведь это Atlantic Records...'
+    Оценка 5 баллов. 11 отличных треков; все вещи разные, так что скучно не будет. Надо выделить шикарные San Francisco FM Blues и Blue Horizon. Каж жаль, что всей этой роскошной музыки нет на КД; а ведь это Atlantic Records...'
   replies:
   - id: 17390
     parent_id: 17386
@@ -37,6 +34,7 @@ posts:
       The Last Great Texas Blues Band
 
       <a href="http://www.blues.ru/bluesnews/Dec99/ww_TexasTornadoes.htm">http://www.blues.ru/bluesnews/Dec99/ww_TexasTornadoes.htm</a>'
+    inferred_person_id: 4
   - id: 17428
     parent_id: 17386
     date: 2004-03-01 21:20
@@ -87,6 +85,8 @@ posts:
             text: свяжемся!
             person_id: 335
           person_id: 13
+        inferred_person_id: 335
+      inferred_person_id: 335
     - id: 17434
       parent_id: 17428
       date: 2004-03-01 21:58
@@ -94,9 +94,7 @@ posts:
       email: gypsy@mail.ru
       subject: Ссылка тут...
       deleted: false
-      text: "http://gypsy.bluesman.ru/DougSahm/\n\nтам пока один T-Bone Shuffle.. но КАК он его делает! настоящая техасская\
-        \ лень в каждой ноте! \n\nДля сравнения в разделе http://gypsy.bluesman.ru/T-Bone%20Shuffle/ разные варианты исполнения\
-        \ этого бессмертного произведения =))"
+      text: "http://gypsy.bluesman.ru/DougSahm/\n\nтам пока один T-Bone Shuffle.. но КАК он его делает! настоящая техасская лень в каждой ноте! \n\nДля сравнения в разделе http://gypsy.bluesman.ru/T-Bone%20Shuffle/ разные варианты исполнения этого бессмертного произведения =))"
       replies:
       - id: 17438
         parent_id: 17434
@@ -114,9 +112,7 @@ posts:
           email: gypsy@mail.ru
           subject: Ты сам не путай! почитай на своём любимом allmusic!
           deleted: false
-          text: "http://www.allmusic.com/cg/amg.dll?p=amg&uid=UIDMISS70311131255370644&sql=Aih9as30ua3rg\n\nThe Last Real\
-            \ Texas Blues Band Feat. Doug Sahm\n\nDoug Sahm  -  Guitar, Piano, Vocals, Producer, Liner Notes, Horn \nArrangements,\
-            \ Mixing \n\nтак что вполне он гитарист, как и Denny Freeman"
+          text: "http://www.allmusic.com/cg/amg.dll?p=amg&uid=UIDMISS70311131255370644&sql=Aih9as30ua3rg\n\nThe Last Real Texas Blues Band Feat. Doug Sahm\n\nDoug Sahm  -  Guitar, Piano, Vocals, Producer, Liner Notes, Horn \nArrangements, Mixing \n\nтак что вполне он гитарист, как и Denny Freeman"
           replies:
           - id: 17455
             parent_id: 17450
@@ -174,5 +170,7 @@ posts:
                   person_id: 13
                 person_id: 335
               person_id: 13
+            inferred_person_id: 335
         person_id: 335
     person_id: 13
+  inferred_person_id: 335

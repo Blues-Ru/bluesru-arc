@@ -12,8 +12,7 @@ posts:
   email: alexerek@mail.ru
   subject: John Hiatt - Feels Like Rain
   deleted: false
-  text: "Где можно скачать мп3 \"John Hiatt - Feels Like Rain\".\nИ вообще, кто написал эту песню - он?\n\nПомогите, плиз.\
-    \ Хотим кавер сделать.\n\nЕсли есть возможность, вышлите мп3 на alexerek(c)mail.ru \n\nАлексей."
+  text: "Где можно скачать мп3 \"John Hiatt - Feels Like Rain\".\nИ вообще, кто написал эту песню - он?\n\nПомогите, плиз. Хотим кавер сделать.\n\nЕсли есть возможность, вышлите мп3 на alexerek(c)mail.ru \n\nАлексей."
   replies:
   - id: 26319
     parent_id: 26318
@@ -34,9 +33,7 @@ posts:
       email: alexerek@mail.ru
       subject: не скачивает...
       deleted: false
-      text: "При попытке зайти переадресует сюда:\nhttp://www.demonoid.com/account-login.php?returnto=%2Ftorrents%2Fdetails%2F288851%2F\n\
-        \nПросит логин пароль и пишет:\n\nAccess Denied \nSorry this page is only for members. \n\n---------------------------------\n\
-        \nГде-то еще можно поискать?\n\nАлексей."
+      text: "При попытке зайти переадресует сюда:\nhttp://www.demonoid.com/account-login.php?returnto=%2Ftorrents%2Fdetails%2F288851%2F\n\nПросит логин пароль и пишет:\n\nAccess Denied \nSorry this page is only for members. \n\n---------------------------------\n\nГде-то еще можно поискать?\n\nАлексей."
       replies:
       - id: 26322
         parent_id: 26321
@@ -83,3 +80,4 @@ posts:
             deleted: false
             person_id: 335
         person_id: 335
+    inferred_person_id: 335

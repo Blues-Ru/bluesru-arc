@@ -12,8 +12,7 @@ posts:
   email: dr.nick@blues.ru
   subject: Готовы к новому диску Би Би Кинга?
   deleted: false
-  text: 'С ним там: Вэн Моррисон, Билли Гиббонс, Эрик Клэптон, Шерил Кроу, Дэрил Холл, Джон Мэйер, Марк Нопфлер, Гленн Фрей,
-    Глория Эстефан, Роджер Долтри, Бобби Блэнд, Элтон Джон.
+  text: 'С ним там: Вэн Моррисон, Билли Гиббонс, Эрик Клэптон, Шерил Кроу, Дэрил Холл, Джон Мэйер, Марк Нопфлер, Гленн Фрей, Глория Эстефан, Роджер Долтри, Бобби Блэнд, Элтон Джон.
 
 
     Трек-лист тоже отличный:
@@ -52,9 +51,7 @@ posts:
     email: mlives_6@hotmail
     subject: Пение дам
     deleted: false
-    text: "Неужели вообще не нравится?   \n\nА Bessie Smith, Ma Rainey, Ida Cox, Memphis Minnie, Billie Holiday, Dinah Washington,\
-      \ Mahalia Jackson, Marion Williams, Ruth Davis, Inez Andrews, Aretha Franklin, Mavis Staple, Etta James, Gladys Knight,\
-      \ Ann Peebles, Janis Joplin...?????\n\n\nMuddy"
+    text: "Неужели вообще не нравится?   \n\nА Bessie Smith, Ma Rainey, Ida Cox, Memphis Minnie, Billie Holiday, Dinah Washington, Mahalia Jackson, Marion Williams, Ruth Davis, Inez Andrews, Aretha Franklin, Mavis Staple, Etta James, Gladys Knight, Ann Peebles, Janis Joplin...?????\n\n\nMuddy"
     replies:
     - id: 22832
       parent_id: 22831
@@ -105,8 +102,7 @@ posts:
               email: dr.nick@blues.ru
               subject: дело в том
               deleted: false
-              text: что "не верю" я певицам (большинству из них). много крика и эмоций, редко есть личность (как у Нины Симон
-                или Джони Митчелл).
+              text: что "не верю" я певицам (большинству из них). много крика и эмоций, редко есть личность (как у Нины Симон или Джони Митчелл).
               replies:
               - id: 22849
                 parent_id: 22846
@@ -129,7 +125,11 @@ posts:
                   deleted: false
                   text: голоса и подача. да и музыка совсем не моя.
                   person_id: 335
+                inferred_person_id: 7465
               person_id: 335
+            inferred_person_id: 7465
+          inferred_person_id: 335
+        inferred_person_id: 7465
       - id: 22837
         parent_id: 22832
         date: 2005-09-09 14:36
@@ -174,6 +174,7 @@ posts:
             person_id: 2888
           person_id: 335
         person_id: 2888
+      inferred_person_id: 335
     - id: 22963
       parent_id: 22831
       date: 2005-09-12 11:06
@@ -182,3 +183,5 @@ posts:
       subject: Пошто Коко Тэйлор забыли!!!!!!
       deleted: false
       person_id: 1206
+    inferred_person_id: 7465
+  inferred_person_id: 335

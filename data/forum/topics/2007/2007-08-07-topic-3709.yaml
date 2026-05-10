@@ -12,11 +12,7 @@ posts:
   email: sunny_city@mail.ru
   subject: Вот закончился отпуск,
   deleted: false
-  text: "пришел на работу и обнаружил что у меня оказывается есть чудо(ну или близко\
-    \ к тому),а когда сие качнул хоть убей не помню.\nМолодой,белый, ну хорошшшш на\
-    \ мой взгляд,а какие люди с ним играют на этой пластинке... \nКороче - Kenny Wayne\
-    \ Shepherd 10 Days Out (Blues from the Backroads)2007\nЧто за человек,хто он вааще\
-    \ такой? Искать информатион лень, мож кто знает ?"
+  text: "пришел на работу и обнаружил что у меня оказывается есть чудо(ну или близко к тому),а когда сие качнул хоть убей не помню.\nМолодой,белый, ну хорошшшш на мой взгляд,а какие люди с ним играют на этой пластинке... \nКороче - Kenny Wayne Shepherd 10 Days Out (Blues from the Backroads)2007\nЧто за человек,хто он вааще такой? Искать информатион лень, мож кто знает ?"
   replies:
   - id: 33334
     parent_id: 33333
@@ -25,8 +21,7 @@ posts:
     email: sunny_city@mail.ru
     subject: На всякий случай
     deleted: false
-    text: "Ежели кто не знаком творчеством данного товарисча \nhttp://bluesman.ru/download/pre/KWS07.rar\n\
-      Но! 155Мб, т.к 320кило/сек"
+    text: "Ежели кто не знаком творчеством данного товарисча \nhttp://bluesman.ru/download/pre/KWS07.rar\nНо! 155Мб, т.к 320кило/сек"
     replies:
     - id: 33335
       parent_id: 33334
@@ -43,3 +38,5 @@ posts:
         email: sunny_city@mail.ru
         subject: Да я вообще не пью
         deleted: false
+    inferred_person_id: 956
+  inferred_person_id: 956

@@ -67,6 +67,7 @@ posts:
       subject: Просто присоединился...
       deleted: false
       text: Скромненько так...)))
+      inferred_person_id: 3168
     - id: 24591
       parent_id: 24583
       date: 2005-11-18 21:19
@@ -83,9 +84,7 @@ posts:
         email: mlives_6@hotmail.com
         subject: Clarksdale Moan
         deleted: false
-        text: 'Да, это относится к только что найденному 78 Son House от 1930-г.  Я его еще не слышал.  Он должен выйти в
-          ближайшем будущем вместе с другой стороной 78: Mississippi County Farm Blues.  Разумеется Михаил очень итересуется
-          этим делом.
+        text: 'Да, это относится к только что найденному 78 Son House от 1930-г.  Я его еще не слышал.  Он должен выйти в ближайшем будущем вместе с другой стороной 78: Mississippi County Farm Blues.  Разумеется Михаил очень итересуется этим делом.
 
 
           Muddy'
@@ -100,6 +99,10 @@ posts:
           text: 'Мне очень приятно было увидеть здесь Ваши поздравления, друзья.
 
             Спасибо!!! :)'
+          inferred_person_id: 6
+        inferred_person_id: 7465
+      inferred_person_id: 13
+    inferred_person_id: 7465
   - id: 24607
     parent_id: 24567
     date: 2005-11-19 22:48

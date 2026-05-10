@@ -27,8 +27,7 @@ posts:
     email: skvoid@yahoo.com
     subject: Ха... нашёл что советовать....
     deleted: false
-    text: '...любому понятно, что Dupree - это вообще must have, а если еще и "меньше десятки", то по два раза must и have
-      :)))
+    text: '...любому понятно, что Dupree - это вообще must have, а если еще и "меньше десятки", то по два раза must и have :)))
 
       В каком Союзе брал то? Адресок конкретнее?'
     replies:
@@ -42,3 +41,4 @@ posts:
       text: Ленинский проспект, 11.
       person_id: 335
     person_id: 26
+  inferred_person_id: 335

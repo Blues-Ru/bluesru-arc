@@ -42,7 +42,9 @@ posts:
         subject: А чо это я?
         deleted: false
         text: Сам к нему иди, ты ж с ним концерты играл ))))
+        inferred_person_id: 13
       person_id: 335
+    inferred_person_id: 13
   - id: 34777
     parent_id: 34764
     date: 2008-02-22 14:32
@@ -69,6 +71,7 @@ posts:
         А с другой стороны, кому какая разница. Мало ли кто кого любит или не любит.
 
         Главное, чтобы с топорами за людями не гонялися, и войны не было.'
+      inferred_person_id: 13
   - id: 34791
     parent_id: 34764
     date: 2008-02-23 17:57
@@ -86,3 +89,5 @@ posts:
       subject: уэллс
       deleted: false
       person_id: 335
+    inferred_person_id: 7465
+  inferred_person_id: 335

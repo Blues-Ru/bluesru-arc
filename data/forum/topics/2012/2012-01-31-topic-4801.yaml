@@ -11,17 +11,11 @@ posts:
   poster: Konstantin (Wheel)
   subject: Пол ДиЛей!
   deleted: false
-  text: 'У него как раз день рождения сегодня. На ютубе недавно появились два видео
-    с ним - это большая редкость.
+  text: 'У него как раз день рождения сегодня. На ютубе недавно появились два видео с ним - это большая редкость.
 
-    <object width="420" height="315"><param name="movie" value="http://www.youtube.com/v/HeNlOgaNMGg?version=3&amp;hl=uk_UA"></param><param
-    name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed
-    src="http://www.youtube.com/v/HeNlOgaNMGg?version=3&amp;hl=uk_UA" type="application/x-shockwave-flash"
-    width="420" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+    <object width="420" height="315"><param name="movie" value="http://www.youtube.com/v/HeNlOgaNMGg?version=3&amp;hl=uk_UA"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/HeNlOgaNMGg?version=3&amp;hl=uk_UA" type="application/x-shockwave-flash" width="420" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
 
-    <object width="420" height="315"><param name="movie" value="http://www.youtube.com/v/dk6H8dIWoJU?version=3&amp;hl=uk_UA"></param><param
-    name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed
-    src="http://www.youtube.com/v/dk6H8dIWoJU?version=3&amp;hl=uk_UA" type="application/x-shockwave-flash"
-    width="420" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+    <object width="420" height="315"><param name="movie" value="http://www.youtube.com/v/dk6H8dIWoJU?version=3&amp;hl=uk_UA"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/dk6H8dIWoJU?version=3&amp;hl=uk_UA" type="application/x-shockwave-flash" width="420" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
 
     Уникальный и очень оригинальный музыкант!'
+  inferred_person_id: 3349

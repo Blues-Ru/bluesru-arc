@@ -35,4 +35,5 @@ posts:
       deleted: false
       text: эпическая сила!
       person_id: 4
+    inferred_person_id: 2
   person_id: 4

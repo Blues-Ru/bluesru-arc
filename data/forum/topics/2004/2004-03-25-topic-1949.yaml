@@ -59,6 +59,7 @@ posts:
       email: kaverkin@rol.ru
       subject: Многие лета!!! И другие времена года...
       deleted: false
+      inferred_person_id: 1719
     person_id: 335
   - id: 17732
     parent_id: 17715
@@ -70,6 +71,7 @@ posts:
     text: 'А вообще радностно видеть этого человека на блюзовых концертах.
 
       (лично АМ: книжки будут доставлены в субботу вечером. В четверг я там не побывал.)'
+    inferred_person_id: 4
   - id: 17736
     parent_id: 17715
     date: 2004-03-26 14:21
@@ -78,3 +80,4 @@ posts:
     subject: С ДР, Алексей Викторыч!:))(-)
     deleted: false
     text: '-'
+  inferred_person_id: 204

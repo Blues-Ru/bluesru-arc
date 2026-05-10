@@ -30,5 +30,6 @@ posts:
       email: gypsy@mail.ru
       subject: Солдат! Вылезай из окопа, война кончилась )))
       deleted: false
+      inferred_person_id: 13
     person_id: 335
   person_id: 6398

@@ -46,8 +46,7 @@ posts:
         email: serge_ivanov@hotmail.com
         subject: успехов
         deleted: false
-        text: запишете в удовлетворительном для тебя качестве - дай анонс. Заеду с болванкой и просьбой распечатать обложечку
-          :-)
+        text: запишете в удовлетворительном для тебя качестве - дай анонс. Заеду с болванкой и просьбой распечатать обложечку :-)
         replies:
         - id: 15945
           parent_id: 15937
@@ -60,3 +59,5 @@ posts:
           person_id: 335
         person_id: 378
       person_id: 335
+    inferred_person_id: 378
+  inferred_person_id: 335

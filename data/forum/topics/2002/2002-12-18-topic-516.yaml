@@ -67,6 +67,7 @@ posts:
           deleted: false
           text: То ли еще внутри...
           person_id: 698
+        inferred_person_id: 698
       person_id: 378
     - id: 9526
       parent_id: 9481
@@ -75,8 +76,7 @@ posts:
       email: RR@RAMBLER.RU
       subject: А я думал ....
       deleted: false
-      text: '... что это ZZ TOP играет. У меня даже есть эта песенка Bad To The Bone в исполнении ZZ и как раз очень похоже
-        на песню из фильма.'
+      text: '... что это ZZ TOP играет. У меня даже есть эта песенка Bad To The Bone в исполнении ZZ и как раз очень похоже на песню из фильма.'
       replies:
       - id: 9675
         parent_id: 9526
@@ -87,3 +87,4 @@ posts:
         deleted: false
         person_id: 698
     person_id: 458
+  inferred_person_id: 698

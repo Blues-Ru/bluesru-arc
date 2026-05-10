@@ -12,9 +12,7 @@ posts:
   email: tangojerry@hotmail.com
   subject: А хто знаит, ась?!...
   deleted: false
-  text: На одном из сборников мне попалась вещица Billy Boy Arnold & Tony McPhee "Blue and Lonesome"... Потрясно!!! Кто-нить
-    в курсе, есть у этих двух кексов еще совместные работы (работы по уборке плантаций, вывозу мусора и пр. исключить! :))
-    ????
+  text: На одном из сборников мне попалась вещица Billy Boy Arnold & Tony McPhee "Blue and Lonesome"... Потрясно!!! Кто-нить в курсе, есть у этих двух кексов еще совместные работы (работы по уборке плантаций, вывозу мусора и пр. исключить! :)) ????
   replies:
   - id: 1401
     parent_id: 1386
@@ -58,8 +56,9 @@ posts:
           email: tangojerry@hotmail.com
           subject: Уже!
           deleted: false
-          text: "Дык я уже сей альбом на newmusic.ru заказал! Но все-равно спасибо! \nКстати, о заказах... На amazon.com много\
-            \ всякой доброй литературы по блюзу... если интересно."
+          text: "Дык я уже сей альбом на newmusic.ru заказал! Но все-равно спасибо! \nКстати, о заказах... На amazon.com много всякой доброй литературы по блюзу... если интересно."
+          inferred_person_id: 198
         person_id: 598
       person_id: 198
+    inferred_person_id: 598
   person_id: 198

@@ -40,8 +40,8 @@ posts:
       email: bluesman@tut.by
       subject: согласен
       deleted: false
-      text: "и вообще из восточной европы поляки прервый пробили теMу блюза \n и мадди уотерс к ним первым приехал - еще в\
-        \ 70 -е.\nприкиньте \nв москву или ленинград приехал в 1978 мадди уотерс....\nдаже и не представляю"
+      text: "и вообще из восточной европы поляки прервый пробили теMу блюза \n и мадди уотерс к ним первым приехал - еще в 70 -е.\nприкиньте \nв москву или ленинград приехал в 1978 мадди уотерс....\nдаже и не представляю"
+    inferred_person_id: 366
   - id: 10354
     parent_id: 10349
     date: 2003-01-30 07:32
@@ -62,8 +62,7 @@ posts:
 
         Vchera na ulitse konzert blusovy bil. Ochen'' milo: peli i po polski i po anglicki.
 
-        Kstati, Dim, ti gruppu BYRDS lubish? Ja tut ih box-set kupil. Izdanie blesk! I cena super. Za tri CD vsego 15$. :)
-        :) Mbe ochen'' ponravilos''
+        Kstati, Dim, ti gruppu BYRDS lubish? Ja tut ih box-set kupil. Izdanie blesk! I cena super. Za tri CD vsego 15$. :) :) Mbe ochen'' ponravilos''
 
         Eshe vot kupil koncert SRV + Albert King.
 
@@ -89,4 +88,5 @@ posts:
           Детство вспомнил говоришь? Тебе лет-то сколько? Когда ж ты успел его забыть?
 
           Возвращайся давай, хватит там херней страдать.'
+        inferred_person_id: 335
     person_id: 335

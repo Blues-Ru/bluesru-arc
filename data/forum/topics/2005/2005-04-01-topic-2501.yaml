@@ -12,8 +12,7 @@ posts:
   email: chifuroff_@_inbox.ru
   subject: Новость года!
   deleted: false
-  text: В честь московской блюзовой тусовки, популярный престарелый музыкант Би Би Кинг (B. B. King) готов открыть в Лос-Анджелесе
-    клуб под названием Sergei Voronoff.
+  text: В честь московской блюзовой тусовки, популярный престарелый музыкант Би Би Кинг (B. B. King) готов открыть в Лос-Анджелесе клуб под названием Sergei Voronoff.
   replies:
   - id: 20979
     parent_id: 20977
@@ -23,6 +22,7 @@ posts:
     subject: ну да
     deleted: false
     text: шутка юмора..
+    inferred_person_id: 1828
   - id: 20980
     parent_id: 20977
     date: 2005-04-01 18:52
@@ -55,3 +55,4 @@ posts:
     email: axledog@mail.ru
     subject: У кого то сегодня пальцы не слушаются
     deleted: false
+    inferred_person_id: 7206

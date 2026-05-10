@@ -41,6 +41,7 @@ posts:
       deleted: false
       text: повторите мыло на avevdokimov@gmail.com, please )
       person_id: 4
+    inferred_person_id: 7879
   - id: 39080
     parent_id: 39075
     date: 2013-08-26 09:10
@@ -48,3 +49,4 @@ posts:
     subject: Повторил:)
     deleted: false
     person_id: 7879
+  inferred_person_id: 4

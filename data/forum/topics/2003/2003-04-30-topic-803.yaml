@@ -38,6 +38,7 @@ posts:
 
 
         а то что опасно... так и на мюзиклы у вас опасно ходить.'
+      inferred_person_id: 1730
     person_id: 1725
   - id: 12174
     parent_id: 12160
@@ -46,15 +47,7 @@ posts:
     email: sobodan@hotmail.com
     subject: Mike's Place in Tel Aviv
     deleted: false
-    text: "Privet vsem iz Israel,\n\nNasha komanda SOBO (www.sobo.co.il)igrala do poslednego momenta v Mike's Place kajdyu\
-      \ Friday, Assaf(Sammy) - lead vocals, bass - on je i hoz'ain Mike's Place,\n\niznachal'no Mike's Place bil zadyman kak\
-      \ underground movement,\nmyzika blues and rock still not that big here in Israel, \n\nkajdii kto kagda libo hot' odin\
-      \ raz posmotrel live show at Mike's ostavl'al v dyshe chast' togo ideala kotorim mi vse dishali.\nFreedome, Rock-n-roll,\
-      \ LOVE\n\neto mesto poistini international - Amerikaneci, Anglichane, Izrail'tane, Rysskie, Rymini, Arabi, Kitaici,\
-      \ Avstraliici, voobshem vse kto hotite, - \nposmotrite na Mike's guestbook na www.mikesplacebars.com\nposmotrite kak\
-      \ so vsego mira ludi pishyt...\n\nYa lichno znal pochti vseh postradavshih,\nsimvolichno to chto pogibli oficiantka,\
-      \ muzikant i slushatel'\n(May they rest in peace)\n\nAvi Tabib - nash geroy, eslib ne on, ne 3 a 30 pogibli bi...\n\n\
-      May all our prays go to the good folks at Mike's Place - Israel"
+    text: "Privet vsem iz Israel,\n\nNasha komanda SOBO (www.sobo.co.il)igrala do poslednego momenta v Mike's Place kajdyu Friday, Assaf(Sammy) - lead vocals, bass - on je i hoz'ain Mike's Place,\n\niznachal'no Mike's Place bil zadyman kak underground movement,\nmyzika blues and rock still not that big here in Israel, \n\nkajdii kto kagda libo hot' odin raz posmotrel live show at Mike's ostavl'al v dyshe chast' togo ideala kotorim mi vse dishali.\nFreedome, Rock-n-roll, LOVE\n\neto mesto poistini international - Amerikaneci, Anglichane, Izrail'tane, Rysskie, Rymini, Arabi, Kitaici, Avstraliici, voobshem vse kto hotite, - \nposmotrite na Mike's guestbook na www.mikesplacebars.com\nposmotrite kak so vsego mira ludi pishyt...\n\nYa lichno znal pochti vseh postradavshih,\nsimvolichno to chto pogibli oficiantka, muzikant i slushatel'\n(May they rest in peace)\n\nAvi Tabib - nash geroy, eslib ne on, ne 3 a 30 pogibli bi...\n\nMay all our prays go to the good folks at Mike's Place - Israel"
     replies:
     - id: 12176
       parent_id: 12174
@@ -74,8 +67,7 @@ posts:
         email: sobodan@hotmail.com
         subject: SOBO in Mike's Place
         deleted: false
-        text: "спасибо, живьем ето все веселее, ми не студийная команда...\nна след. неделе будем играть в MIke's again, \
-          \ \nвспомним всех..."
+        text: "спасибо, живьем ето все веселее, ми не студийная команда...\nна след. неделе будем играть в MIke's again,  \nвспомним всех..."
         replies:
         - id: 12189
           parent_id: 12185
@@ -102,9 +94,7 @@ posts:
               email: sobodan@hotmail.com
               subject: SOBO in Russia
               deleted: false
-              text: "мы планируем, уже заручились потдержкой Сергея Воронова и Дибров к себе звал, но слишком дороги билеты\
-                \ - боюсь неокупитса, \n\nно если кто хочет помоч, рады будем любому предложению.\nsend it over, we love Russia\
-                \ :)))"
+              text: "мы планируем, уже заручились потдержкой Сергея Воронова и Дибров к себе звал, но слишком дороги билеты - боюсь неокупитса, \n\nно если кто хочет помоч, рады будем любому предложению.\nsend it over, we love Russia :)))"
               replies:
               - id: 12213
                 parent_id: 12202
@@ -113,9 +103,7 @@ posts:
                 email: morehemp@mail.ru
                 subject: Погибшая
                 deleted: false
-                text: "официантка - это та девушка на фото с короткой стрижкой..? Жаль, красивая была девчонка..\nПриезжайте,\
-                  \ хорошая у вас музыка. \nА Дибров проспонсировать приезд через свою программу не предлагал..? :) \nВ принципе,\
-                  \ такая практика достаточно распространена (в других, немузыкальных, сферах), насколько я могу понять.."
+                text: "официантка - это та девушка на фото с короткой стрижкой..? Жаль, красивая была девчонка..\nПриезжайте, хорошая у вас музыка. \nА Дибров проспонсировать приезд через свою программу не предлагал..? :) \nВ принципе, такая практика достаточно распространена (в других, немузыкальных, сферах), насколько я могу понять.."
                 replies:
                 - id: 12218
                   parent_id: 12213
@@ -143,6 +131,8 @@ posts:
 
 
                     скоро на www.mikesplacebars.com наладим webcam, сможете нас live увидеть и услышать.'
+                  inferred_person_id: 1730
+              inferred_person_id: 1730
             person_id: 2
         - id: 12203
           parent_id: 12185
@@ -163,6 +153,9 @@ posts:
             subject: thanx alot
             deleted: false
             text: песни, они все из Mike's Place, там и записаны, кстати...
+            inferred_person_id: 1730
+          inferred_person_id: 335
+        inferred_person_id: 1730
     - id: 12226
       parent_id: 12174
       date: 2003-05-05 17:22
@@ -173,6 +166,8 @@ posts:
       text: 'Очень жаль людей. Музыканта. Девушку. Зрителя.
 
         Тяжёлые времена какие-то настают. Всё меньше хороших новостей, всё больше грустных и страшных.'
+      inferred_person_id: 6
+    inferred_person_id: 1730
   - id: 12220
     parent_id: 12160
     date: 2003-05-05 01:17
@@ -182,13 +177,11 @@ posts:
     deleted: false
     text: 'Friday мы как обычно играли,
 
-      ну и я заметил со сцены как два подозрительных типа пытались втиснутся, и им это удалось, но радости на их лицах не
-      было,
+      ну и я заметил со сцены как два подозрительных типа пытались втиснутся, и им это удалось, но радости на их лицах не было,
 
       и главное , они не заказав пива или еще чего, сразу свалили,
 
-      и это мне еще показалосэ странным,  хотя один из них и выглядел по европейски, но перло от них анти, я еще хотел Ави
-      сказать, но подумал, ушли и ушли, чего зря его пугать...
+      и это мне еще показалосэ странным,  хотя один из них и выглядел по европейски, но перло от них анти, я еще хотел Ави сказать, но подумал, ушли и ушли, чего зря его пугать...
 
 
       это они приценивались, а через три дня.........'
@@ -209,12 +202,13 @@ posts:
         email: sobodan@hotmail.com
         subject: bad feelin'
         deleted: false
-        text: 'я вспомнил еще что настолько они (шаиды) мне не понравились, что я даже хотел остановить gig, но обычно етого
-          не делаем, - мало ли кто мне в публике не понравится...
+        text: 'я вспомнил еще что настолько они (шаиды) мне не понравились, что я даже хотел остановить gig, но обычно етого не делаем, - мало ли кто мне в публике не понравится...
 
 
           вообщем , мои чуства меня не обманули...
 
           а еслиб я им тогда со сцены чего и сказал бы, они мойет и не вернулись бы в Mike''s Place.'
+        inferred_person_id: 1730
       person_id: 458
+    inferred_person_id: 1730
   person_id: 2

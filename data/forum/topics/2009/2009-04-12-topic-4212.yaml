@@ -54,11 +54,12 @@ posts:
             email: aaa@genebee.msu.su
             subject: В 99-м году
             deleted: false
-            text: мы со старшей сестрой встретились на одном корпоративе. Она пела с каким-то джазом. Поговорили. In corpora
-              впечатляет. Море обаяния.
+            text: мы со старшей сестрой встретились на одном корпоративе. Она пела с каким-то джазом. Поговорили. In corpora впечатляет. Море обаяния.
             person_id: 458
           person_id: 4
+        inferred_person_id: 13
       person_id: 4
+    inferred_person_id: 13
   - id: 36288
     parent_id: 36282
     date: 2009-04-13 17:33
@@ -68,3 +69,4 @@ posts:
     deleted: false
     text: кого-то из них видел тут недалеко от бауманской
     person_id: 335
+  inferred_person_id: 4

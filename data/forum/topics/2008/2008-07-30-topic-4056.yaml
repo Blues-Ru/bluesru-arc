@@ -32,9 +32,7 @@ posts:
     email: ijhgig@jhgbui.ru
     subject: Lil' Ed & The Blues Imperials
     deleted: false
-    text: <object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/687-dRrk9yk&hl=ru&fs=1"></param><param
-      name="allowFullScreen" value="true"></param><embed src="http://www.youtube.com/v/687-dRrk9yk&hl=ru&fs=1"
-      type="application/x-shockwave-flash" allowfullscreen="true" width="425" height="344"></embed></object>
+    text: <object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/687-dRrk9yk&hl=ru&fs=1"></param><param name="allowFullScreen" value="true"></param><embed src="http://www.youtube.com/v/687-dRrk9yk&hl=ru&fs=1" type="application/x-shockwave-flash" allowfullscreen="true" width="425" height="344"></embed></object>
     replies:
     - id: 35628
       parent_id: 35627
@@ -43,9 +41,7 @@ posts:
       email: jhfgjfguf@ohoi.ru
       subject: Kenny Neal
       deleted: false
-      text: <object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/BFqFYT4jO2w&hl=ru&fs=1"></param><param
-        name="allowFullScreen" value="true"></param><embed src="http://www.youtube.com/v/BFqFYT4jO2w&hl=ru&fs=1"
-        type="application/x-shockwave-flash" allowfullscreen="true" width="425" height="344"></embed></object>
+      text: <object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/BFqFYT4jO2w&hl=ru&fs=1"></param><param name="allowFullScreen" value="true"></param><embed src="http://www.youtube.com/v/BFqFYT4jO2w&hl=ru&fs=1" type="application/x-shockwave-flash" allowfullscreen="true" width="425" height="344"></embed></object>
       replies:
       - id: 35629
         parent_id: 35628
@@ -54,10 +50,10 @@ posts:
         email: uih9iueh@uguyfg.ru
         subject: Eric Sardinas
         deleted: false
-        text: <object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/xuGXxOZ8s_8&hl=ru&fs=1"></param><param
-          name="allowFullScreen" value="true"></param><embed src="http://www.youtube.com/v/xuGXxOZ8s_8&hl=ru&fs=1"
-          type="application/x-shockwave-flash" allowfullscreen="true" width="425"
-          height="344"></embed></object>
+        text: <object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/xuGXxOZ8s_8&hl=ru&fs=1"></param><param name="allowFullScreen" value="true"></param><embed src="http://www.youtube.com/v/xuGXxOZ8s_8&hl=ru&fs=1" type="application/x-shockwave-flash" allowfullscreen="true" width="425" height="344"></embed></object>
+        inferred_person_id: 7206
+      inferred_person_id: 7206
+    inferred_person_id: 7206
   - id: 35630
     parent_id: 35625
     date: 2008-07-31 01:16
@@ -110,6 +106,7 @@ posts:
               email: gkjbj
               subject: сардинас-то как раз меньше всего интересует...
               deleted: false
+            inferred_person_id: 7206
     - id: 35634
       parent_id: 35630
       date: 2008-07-31 12:26
@@ -118,3 +115,5 @@ posts:
       subject: 6 сентября
       deleted: false
       text: .
+      inferred_person_id: 7206
+  inferred_person_id: 7206

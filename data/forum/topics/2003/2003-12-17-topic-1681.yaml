@@ -54,8 +54,7 @@ posts:
           email: blackcat@blues.ru
           subject: просто вспомнилось
           deleted: false
-          text: А вот к малым формам ты, как видно, относишься не слишком серьёзно, раз допускаешь такие заявления... Разве
-            ты не вкладываешь душу в свои рецензии?
+          text: А вот к малым формам ты, как видно, относишься не слишком серьёзно, раз допускаешь такие заявления... Разве ты не вкладываешь душу в свои рецензии?
           replies:
           - id: 16297
             parent_id: 16295
@@ -88,9 +87,12 @@ posts:
                 deleted: false
                 text: это долго и депрессивно ;)
                 person_id: 335
+              inferred_person_id: 783
             person_id: 335
           person_id: 6
+        inferred_person_id: 335
       person_id: 6
+    inferred_person_id: 335
   - id: 16298
     parent_id: 16291
     date: 2003-12-17 02:07
@@ -115,6 +117,7 @@ posts:
 
 
         Инджой...'
+      inferred_person_id: 783
   - id: 16305
     parent_id: 16291
     date: 2003-12-17 16:13
@@ -123,6 +126,7 @@ posts:
     subject: да - чтото очень
     deleted: false
     text: даже не официальном сайте бибикинга пока такого нет... но это пропустить будет низя. никак.
+    inferred_person_id: 5
   - id: 16345
     parent_id: 16291
     date: 2003-12-19 08:34

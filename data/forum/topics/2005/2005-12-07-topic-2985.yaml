@@ -1,7 +1,6 @@
 topic_id: 2985
 slug: topic-2985
-title: Мне приснился страшный сон - Петрович сбрил бороду!! И вот вам пожалуйста - Петрович дед Мороз!!! Вот и не верь снам
-  после этого....
+title: Мне приснился страшный сон - Петрович сбрил бороду!! И вот вам пожалуйста - Петрович дед Мороз!!! Вот и не верь снам после этого....
 first_post: 2005-12-07 12:27
 last_post: 2005-12-08 13:58
 post_count: 7
@@ -11,8 +10,7 @@ posts:
   date: 2005-12-07 12:27
   poster: Yuri Kaverkin (Gekko)
   email: kaverkin@rol.ru
-  subject: Мне приснился страшный сон - Петрович сбрил бороду!! И вот вам пожалуйста - Петрович дед Мороз!!! Вот и не верь
-    снам после этого....
+  subject: Мне приснился страшный сон - Петрович сбрил бороду!! И вот вам пожалуйста - Петрович дед Мороз!!! Вот и не верь снам после этого....
   deleted: false
   replies:
   - id: 24915
@@ -67,7 +65,10 @@ posts:
               email: jokerthk@yandex.ru
               subject: harmonicaman.ru
               deleted: false
+              inferred_person_id: 4319
             person_id: 3588
           person_id: 4313
+        inferred_person_id: 4319
       person_id: 4313
+    inferred_person_id: 4319
   person_id: 1719

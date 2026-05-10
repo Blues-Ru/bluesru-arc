@@ -15,10 +15,7 @@ posts:
   text: 'Всем добрый день!
 
 
-    С моим сенсэем у нас возник спор о блюзе "As The Years Go Passing By" в исполнении A. King''а с диска Live (Charly Blues
-    Masterworks vol. 18) - http://www.rhapsody.com/albertking/live. А именно: в начале 3-й минуты начинается соло и я считаю
-    что его играет кто-то другой (друг, приглашенный коллега-блюзмен, etc.). Преподаватель настаивает что это сам Альберт.
-    Если есть знатоки, просвятите пожалуйста.'
+    С моим сенсэем у нас возник спор о блюзе "As The Years Go Passing By" в исполнении A. King''а с диска Live (Charly Blues Masterworks vol. 18) - http://www.rhapsody.com/albertking/live. А именно: в начале 3-й минуты начинается соло и я считаю что его играет кто-то другой (друг, приглашенный коллега-блюзмен, etc.). Преподаватель настаивает что это сам Альберт. Если есть знатоки, просвятите пожалуйста.'
   replies:
   - id: 30996
     parent_id: 30994
@@ -29,8 +26,7 @@ posts:
     deleted: false
     text: 'U.S. Only
 
-      We''re sorry. We have detected that you are outside of the United States. This service is currently only available to
-      residents within the United States.
+      We''re sorry. We have detected that you are outside of the United States. This service is currently only available to residents within the United States.
 
 
       For music and entertainment services available in your country please click here.'
@@ -80,8 +76,7 @@ posts:
             email: volodya@blues.ru
             subject: распознать немогу.
             deleted: false
-            text: в игре както ничего такого прямо индивидуального  не слышно... понято что у Кинга - дай боже как все уникально
-              звучит.. каждая фраза, каждый бенд и вибрато :)
+            text: в игре както ничего такого прямо индивидуального  не слышно... понято что у Кинга - дай боже как все уникально звучит.. каждая фраза, каждый бенд и вибрато :)
             replies:
             - id: 31005
               parent_id: 31003
@@ -144,6 +139,9 @@ posts:
                     person_id: 335
                   person_id: 4
                 person_id: 5298
+              inferred_person_id: 335
             person_id: 5
           person_id: 5298
         person_id: 5
+      inferred_person_id: 5298
+    inferred_person_id: 335

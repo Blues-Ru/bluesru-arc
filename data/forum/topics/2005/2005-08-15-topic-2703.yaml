@@ -12,13 +12,10 @@ posts:
   email: tanaka@hitachi-tp.ru
   subject: Japanese bassist is looking for band.
   deleted: false
-  text: 'I am 40years old. I am constantly living in Moscow since 1999. I started to play bass-guitar which I used in younger
-    days (MOON/Japanese custom made with EMG pick up) as a bassist in Tokyo. But unfortunately I don''t have any friends of
-    musicians. Now I am looking for band, and ready to have sound check in studio.
+  text: 'I am 40years old. I am constantly living in Moscow since 1999. I started to play bass-guitar which I used in younger days (MOON/Japanese custom made with EMG pick up) as a bassist in Tokyo. But unfortunately I don''t have any friends of musicians. Now I am looking for band, and ready to have sound check in studio.
 
 
-    If someone is looking for basist in blues, blues/rock, and funk band, please contact me. My favorite is S.R.V, Cream,
-    and others.
+    If someone is looking for basist in blues, blues/rock, and funk band, please contact me. My favorite is S.R.V, Cream, and others.
 
 
     I can speak in Russian for communication.
@@ -33,10 +30,7 @@ posts:
     email: gypsy@mail.ru
     subject: Welcome to our blues jams!
     deleted: false
-    text: "If you want to play from time to time, please visit our blues jams every Wednesday at 20:00 at the B.B.King blues\
-      \ club (Sadovo-Samotechnaya, 4).\n\nWe will gladly meet you there, please don't forget your guitar)) \n\nNeed to warn\
-      \ you that the domain hitachi-tp.ru doesn't exist so that nobody can't send you an email to the address tanaka@hitachi-tp.ru.\n\
-      Please check it thoroughly."
+    text: "If you want to play from time to time, please visit our blues jams every Wednesday at 20:00 at the B.B.King blues club (Sadovo-Samotechnaya, 4).\n\nWe will gladly meet you there, please don't forget your guitar)) \n\nNeed to warn you that the domain hitachi-tp.ru doesn't exist so that nobody can't send you an email to the address tanaka@hitachi-tp.ru.\nPlease check it thoroughly."
     replies:
     - id: 22359
       parent_id: 22323
@@ -54,8 +48,8 @@ posts:
         email: gypsy@mail.ru
         subject: А хто ж его зна.. я в среду не был..
         deleted: false
-        text: "Он вообще-то ищет группу для работы в студии, судя по постингу.\nНаше дело - предложить. \nВосток - дело тонкое,\
-          \ однако..."
+        text: "Он вообще-то ищет группу для работы в студии, судя по постингу.\nНаше дело - предложить. \nВосток - дело тонкое, однако..."
+        inferred_person_id: 13
       person_id: 671
     - id: 37079
       parent_id: 22323
@@ -67,3 +61,4 @@ posts:
 
 
         tanaka'
+    inferred_person_id: 13

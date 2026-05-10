@@ -12,8 +12,7 @@ posts:
   email: 555_i@mail.ru
   subject: ПОМОГИТЕ!!!
   deleted: false
-  text: Доброго времени суток товарищи!Помогите найти песню you're a big boy now.Исполнитель - John Sebastian.Заранее огромное
-    спасибо!
+  text: Доброго времени суток товарищи!Помогите найти песню you're a big boy now.Исполнитель - John Sebastian.Заранее огромное спасибо!
   replies:
   - id: 29423
     parent_id: 29422
@@ -37,3 +36,4 @@ posts:
 
 
       если ОЧЕНЬ надо, могу оцифровать'
+    inferred_person_id: 335

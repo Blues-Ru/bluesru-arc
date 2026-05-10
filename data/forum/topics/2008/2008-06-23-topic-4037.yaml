@@ -30,6 +30,7 @@ posts:
       email: gypsy@mail.ru
       subject: .. и немедленно поздравили! )))
       deleted: false
+      inferred_person_id: 13
     person_id: 458
   - id: 35519
     parent_id: 35508
@@ -56,4 +57,5 @@ posts:
       deleted: false
       text: и написавшим, и вспомнившим просто так. Становишься сентиментальным, а как ещё. Будьте благополучны, друзья.
       person_id: 458
+    inferred_person_id: 7202
   person_id: 4

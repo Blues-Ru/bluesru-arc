@@ -12,13 +12,11 @@ posts:
   email: gypsy@mail.ru
   subject: Как я пробирался в секретный объект N...
   deleted: false
-  text: 'Проанализировав playlists скачанных с mp3.int.ru (Казанцев, молчи!) альбомов,
-    я обнаружил на них ссылку на broadcast.com.ru, однако по пришествии туда был встречен
-    ERROR 403 You don''t have permission to access / on this server...
+  text: 'Проанализировав playlists скачанных с mp3.int.ru (Казанцев, молчи!) альбомов, я обнаружил на них ссылку на broadcast.com.ru, однако по пришествии туда был встречен ERROR 403 You don''t have permission to access / on this server...
 
 
-    Дальнейшие исследования с помощью тонких шанцевых инструментов показали, что этот
-    сервер - наш старый добрый mp3files.int.ru.
+    Дальнейшие исследования с помощью тонких шанцевых инструментов показали, что этот сервер - наш старый добрый mp3files.int.ru.
 
 
     С чем себя и поздравляю.'
+  inferred_person_id: 13

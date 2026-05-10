@@ -11,8 +11,7 @@ posts:
   poster: Andrei V. Evdokimov
   subject: какие-то, мягко говоря, смешанные чувства.)
   deleted: false
-  text: "но надо уже что-то решать: через два месяца у него уже второй сольный альбом выходит! \n\nhttp://www.amazon.com/Getting-There/dp/B00CC3KLAC/ref=sr_shvl_album_2?ie=UTF8&qid=1366828434&sr=301-2\n\
-    \n<iframe width=\"420\" height=\"315\" src=\"http://www.youtube.com/embed/J4xVkTr01l0\" frameborder=\"0\" allowfullscreen></iframe>"
+  text: "но надо уже что-то решать: через два месяца у него уже второй сольный альбом выходит! \n\nhttp://www.amazon.com/Getting-There/dp/B00CC3KLAC/ref=sr_shvl_album_2?ie=UTF8&qid=1366828434&sr=301-2\n\n<iframe width=\"420\" height=\"315\" src=\"http://www.youtube.com/embed/J4xVkTr01l0\" frameborder=\"0\" allowfullscreen></iframe>"
   replies:
   - id: 38912
     parent_id: 38911
@@ -20,8 +19,7 @@ posts:
     poster: Старый Майор
     subject: Ми следим за этим prodigy очень внимательно
     deleted: false
-    text: "Он подаёт большие надежды. \nОстаётся только пережить переходный возраст.\nНадеюсь, что он не ударится в тяжёлые\
-      \ жанры, а останется хотя бы в рамках блюз-рока."
+    text: "Он подаёт большие надежды. \nОстаётся только пережить переходный возраст.\nНадеюсь, что он не ударится в тяжёлые жанры, а останется хотя бы в рамках блюз-рока."
     replies:
     - id: 38913
       parent_id: 38912
@@ -40,8 +38,7 @@ posts:
         text: 'Вот когда доломается через годика три, тогда послушаем, что он запоёт ))
 
 
-          Но интонации он правильные поёт, соул-блюзовые и олдскульные. Однако его последний альбом - какой-то реднек-рочок-с,
-          там блюза что-то не слышно.'
+          Но интонации он правильные поёт, соул-блюзовые и олдскульные. Однако его последний альбом - какой-то реднек-рочок-с, там блюза что-то не слышно.'
         replies:
         - id: 38917
           parent_id: 38915
@@ -61,3 +58,5 @@ posts:
           person_id: 4
         person_id: 13
       person_id: 4
+    inferred_person_id: 13
+  inferred_person_id: 4

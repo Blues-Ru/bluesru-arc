@@ -9,12 +9,10 @@ posts:
   parent_id: null
   date: 2013-11-20 00:13
   poster: Andrei V. Evdokimov
-  subject: ночная блюз-кинотека - Muddy Waters - Molde Jazz Festival (Norway,August
-    1,1977)
+  subject: ночная блюз-кинотека - Muddy Waters - Molde Jazz Festival (Norway,August 1,1977)
   deleted: false
-  text: '<iframe width="480" height="360" src="//www.youtube.com/embed/Vrkg4Wrc2_M"
-    frameborder="0" allowfullscreen></iframe>
+  text: '<iframe width="480" height="360" src="//www.youtube.com/embed/Vrkg4Wrc2_M" frameborder="0" allowfullscreen></iframe>
 
 
-    Отличный концерт, редкая киносъемка... И как встречают?! Мадди, похоже, был тронут
-    до слез!'
+    Отличный концерт, редкая киносъемка... И как встречают?! Мадди, похоже, был тронут до слез!'
+  inferred_person_id: 4

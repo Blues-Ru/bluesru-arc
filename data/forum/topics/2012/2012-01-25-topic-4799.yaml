@@ -11,14 +11,10 @@ posts:
   poster: Andrei V. Evdokimov
   subject: Так поступают все леди!
   deleted: false
-  text: 'Девушки любят помолвки... Но не все помолвки кончаются свадебкой. Вчера мировая пресса обсуждала объявление о том,
-    что Арета Фрэнклин решила отложить свадьбу с Уилли Уилкерсоном. http://latimesblogs.latimes.com/gossip/2012/01/aretha-franklin-calls-off-wedding-to-willie-wilkerson.html?sksk
+  text: 'Девушки любят помолвки... Но не все помолвки кончаются свадебкой. Вчера мировая пресса обсуждала объявление о том, что Арета Фрэнклин решила отложить свадьбу с Уилли Уилкерсоном. http://latimesblogs.latimes.com/gossip/2012/01/aretha-franklin-calls-off-wedding-to-willie-wilkerson.html?sksk
 
 
-    Пояснения от первого лица не трбуют и перевода: "Will and I have decided we were moving a little too fast, and there were
-    a number of things that had not been thought through thoroughly. There will be no wedding at this time. We will not comment
-    on it any further because of the very personal and sensitive nature of it. We appreciate all of the many well wishes from
-    friends."
+    Пояснения от первого лица не трбуют и перевода: "Will and I have decided we were moving a little too fast, and there were a number of things that had not been thought through thoroughly. There will be no wedding at this time. We will not comment on it any further because of the very personal and sensitive nature of it. We appreciate all of the many well wishes from friends."
 
 
     "События развиваются слишком быстро"... Учитывая, что жених и невеста знакомы 27 лет... мдаа.
@@ -27,9 +23,7 @@ posts:
     А всего три недели назад были разговоры о свадьбе на яхте или на вилле в Майями, о модных портнихах...
 
 
-    <object width="630" height="354"><param name="movie" value="http://d.yimg.com/nl/ynews/site/player.swf"></param><param
-    name="wmode" value="opaque"></param><param node="allowFullScreen" value="true"></param><param name="flashVars" value="vid=27760850&amp;lang=en-CA"></param><embed
-    width="630" height="354" src="http://d.yimg.com/nl/ynews/site/player.swf" type="application/x-shockwave-flash" flashvars="vid=27760850&amp;autoPlay=true&amp;volume=100&amp;enableFullScreen=1&amp;lang=en-CA"></embed></object>'
+    <object width="630" height="354"><param name="movie" value="http://d.yimg.com/nl/ynews/site/player.swf"></param><param name="wmode" value="opaque"></param><param node="allowFullScreen" value="true"></param><param name="flashVars" value="vid=27760850&amp;lang=en-CA"></param><embed width="630" height="354" src="http://d.yimg.com/nl/ynews/site/player.swf" type="application/x-shockwave-flash" flashvars="vid=27760850&amp;autoPlay=true&amp;volume=100&amp;enableFullScreen=1&amp;lang=en-CA"></embed></object>'
   replies:
   - id: 38175
     parent_id: 38174
@@ -49,3 +43,4 @@ posts:
 
         но выглядит не очень...'
     person_id: 4
+  inferred_person_id: 4

@@ -22,6 +22,7 @@ posts:
     subject: с днём рождения!
     deleted: false
     text: чтоб гитара строила и душа пела
+    inferred_person_id: 7208
   - id: 36184
     parent_id: 36181
     date: 2009-02-27 06:37

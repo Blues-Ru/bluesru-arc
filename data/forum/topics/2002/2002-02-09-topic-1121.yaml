@@ -12,8 +12,7 @@ posts:
   email: dr.nick@blues.ru
   subject: My favorites
   deleted: false
-  text: 'А вот и мой списочек, а то подумают, что я всех спрашиваю, а сам не пишу
-    ничего.
+  text: 'А вот и мой списочек, а то подумают, что я всех спрашиваю, а сам не пишу ничего.
 
     01. Taj Mahal
 
@@ -34,3 +33,4 @@ posts:
     09. Ry Cooder
 
     10. J.J. Cale'
+  inferred_person_id: 335

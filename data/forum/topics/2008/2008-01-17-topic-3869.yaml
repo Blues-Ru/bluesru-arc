@@ -24,6 +24,7 @@ posts:
     text: 'http://blues.ru/forum/?id=54993&page=2&body=1#54993
 
       Бывший муж Тины Тернер умер от передозировки кокаина - Эльдар   (17/01 12:37)'
+    inferred_person_id: 7202
   - id: 34330
     parent_id: 34322
     date: 2008-01-18 08:40
@@ -44,6 +45,7 @@ posts:
       email: mlives_6@hotmail.com
       subject: Вот именно!
       deleted: false
+      inferred_person_id: 7465
     - id: 34334
       parent_id: 34330
       date: 2008-01-19 00:21
@@ -69,4 +71,5 @@ posts:
           deleted: false
           person_id: 335
       person_id: 335
+    inferred_person_id: 4
   person_id: 335

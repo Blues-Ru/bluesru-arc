@@ -12,18 +12,11 @@ posts:
   email: kaverkin@rol.ru
   subject: Возвращаясь к полету орлов по пятницам
   deleted: false
-  text: 'Сегодня получил ответ от своего американского приятеля который довольно хорошо
-    разбирается в блюзовой музыке и сам блюзует на гармошке.Повезло чуваку ,слушал
-    живьем и много общался с Сонни Терри и Броуни МакГи.
+  text: 'Сегодня получил ответ от своего американского приятеля который довольно хорошо разбирается в блюзовой музыке и сам блюзует на гармошке.Повезло чуваку ,слушал живьем и много общался с Сонни Терри и Броуни МакГи.
 
-    Я спросил его означают ли эти орлы - доллары и почему они летят по пятницам. Вот
-    его ответ:
+    Я спросил его означают ли эти орлы - доллары и почему они летят по пятницам. Вот его ответ:
 
-    "I''m not positive of the meaning of the expression, but you could be right. Another
-    possibility is that it means that freedom ("the eagles fly") comes at the end
-    of the week.  I don''t hear people refer to dollars as eagles. That might be an
-    old expression, referring to the gold dollar coin ( a "double eagle") from the
-    19th century."'
+    "I''m not positive of the meaning of the expression, but you could be right. Another possibility is that it means that freedom ("the eagles fly") comes at the end of the week.  I don''t hear people refer to dollars as eagles. That might be an old expression, referring to the gold dollar coin ( a "double eagle") from the 19th century."'
   replies:
   - id: 5764
     parent_id: 5761
@@ -41,3 +34,4 @@ posts:
 
 
       просто про пятницу забыли упомянуть:)'
+    inferred_person_id: 56

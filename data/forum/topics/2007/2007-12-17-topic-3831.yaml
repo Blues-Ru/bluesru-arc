@@ -12,20 +12,7 @@ posts:
   email: Эльдар
   subject: 1001 Blues Licks is an encyclopedia of blues style riffs
   deleted: false
-  text: "Вот, попалось на глаза в Сети. Может кому будет интересно:\n\nToby Wine -\
-    \ 1001 Blues Licks (for all treble clef instruments)\nCherry Lane Music | 2003\
-    \ | ISBN:1575605368 | 128 pages | PDF | 13Mb\n1001 Blues Licks is an encyclopedia\
-    \ of blues style riffs, to be played within the standard 12-bar format.\nStyles\
-    \ include: \n* Blues Waltz \n* Chicago Blues \n* Country Blues \n* Delta Blues\
-    \ \n* Jump Blues \n* Louisiana Blues \n* Memphis Blues \n* Minor Blues \n* Rock\
-    \ And Funk Blues \n* Texas Blues \nhttp://avaxsphere.com/music/print/shets_tabs/1001_blues_licks_by_toby_wine.html\n\
-    \nThe Herb Ellis Jazz Guitar Method : Swing Blues\nI.M.P. | 2002 (orig. 1996)\
-    \ | ISBN: 157623343X | 34 pages | PDF & MP3 128kbit/s | 6Mb & 8Mb\nThe Herb Ellis\
-    \ Jazz Guitar Method is designed to take the mystery out of playing jazz guitar.\
-    \ Herb teaches single-note improvisation through a system of simple guitaristic\
-    \ 'shapes' that are derived from chord fingerings you already know. \nhttp://avaxsphere.com/ebooks/music/herb_ellis_jazz_guitar_method_swing_blues.html\n\
-    \nДаже увидел там книжку с таким названием:\nThe Complete Idiot's Guide to Playing\
-    \ Guitar (2nd Edition)\n:-)"
+  text: "Вот, попалось на глаза в Сети. Может кому будет интересно:\n\nToby Wine - 1001 Blues Licks (for all treble clef instruments)\nCherry Lane Music | 2003 | ISBN:1575605368 | 128 pages | PDF | 13Mb\n1001 Blues Licks is an encyclopedia of blues style riffs, to be played within the standard 12-bar format.\nStyles include: \n* Blues Waltz \n* Chicago Blues \n* Country Blues \n* Delta Blues \n* Jump Blues \n* Louisiana Blues \n* Memphis Blues \n* Minor Blues \n* Rock And Funk Blues \n* Texas Blues \nhttp://avaxsphere.com/music/print/shets_tabs/1001_blues_licks_by_toby_wine.html\n\nThe Herb Ellis Jazz Guitar Method : Swing Blues\nI.M.P. | 2002 (orig. 1996) | ISBN: 157623343X | 34 pages | PDF & MP3 128kbit/s | 6Mb & 8Mb\nThe Herb Ellis Jazz Guitar Method is designed to take the mystery out of playing jazz guitar. Herb teaches single-note improvisation through a system of simple guitaristic 'shapes' that are derived from chord fingerings you already know. \nhttp://avaxsphere.com/ebooks/music/herb_ellis_jazz_guitar_method_swing_blues.html\n\nДаже увидел там книжку с таким названием:\nThe Complete Idiot's Guide to Playing Guitar (2nd Edition)\n:-)"
   replies:
   - id: 34140
     parent_id: 34139
@@ -36,8 +23,7 @@ posts:
     deleted: false
     text: 'Toby Wine - 1001 Blues Licks (for all treble clef instruments)
 
-      Это скачиать не нужно, блин! херня одна: ноты, ноты...  к тому ж там сканы какие-то
-      кривые. Точно не нужно это качать
+      Это скачиать не нужно, блин! херня одна: ноты, ноты...  к тому ж там сканы какие-то кривые. Точно не нужно это качать
 
       Я то думал...'
     replies:
@@ -55,6 +41,8 @@ posts:
         Это всё типа старого анекдота про спорт:
 
         - Здоровому спорт не нужен, а больному он вреден.'
+      inferred_person_id: 13
+    inferred_person_id: 7202
   - id: 34141
     parent_id: 34139
     date: 2007-12-17 16:32
@@ -64,7 +52,8 @@ posts:
     deleted: false
     text: 'Toby Wine - 1001 Blues Licks (for all treble clef instruments)
 
-      Это скачиать не нужно, блин! херня одна: ноты, ноты...  к тому ж там сканы какие-то
-      кривые. Точно не нужно это качать
+      Это скачиать не нужно, блин! херня одна: ноты, ноты...  к тому ж там сканы какие-то кривые. Точно не нужно это качать
 
       Я то думал...'
+    inferred_person_id: 7202
+  inferred_person_id: 7202

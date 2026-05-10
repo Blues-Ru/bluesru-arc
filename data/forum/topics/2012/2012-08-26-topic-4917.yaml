@@ -39,10 +39,7 @@ posts:
       poster: Олег
       subject: 70 лет Maria Muldaur
       deleted: false
-      text: "Андрей, здравствуйте, я очень-очень извиняюсь, но сегодня этот замечательный сайт празднует не только свой юбилей,\
-        \ но и 70 летие Maria Muldaur , судя по ленте на главной странице\n\nНо вроде как она родилась September 12, 1943\
-        \ in Greenwich Village, New York, NY \n\nТолько из соображений \"пользы для и пущей солидности\" этого очень хорошего\
-        \ ресурса сообщаю, \n\nС глубоким ко всем уважением, \noleg_Spb\nhttp://olegspbblues.blogspot.com/"
+      text: "Андрей, здравствуйте, я очень-очень извиняюсь, но сегодня этот замечательный сайт празднует не только свой юбилей, но и 70 летие Maria Muldaur , судя по ленте на главной странице\n\nНо вроде как она родилась September 12, 1943 in Greenwich Village, New York, NY \n\nТолько из соображений \"пользы для и пущей солидности\" этого очень хорошего ресурса сообщаю, \n\nС глубоким ко всем уважением, \noleg_Spb\nhttp://olegspbblues.blogspot.com/"
     person_id: 4
   - id: 38528
     parent_id: 38525
@@ -77,8 +74,7 @@ posts:
           deleted: false
           text: 'Гейнз выпустил первый альбом в 1982.Это не так.
 
-            Выпустил он свой первый диск в 50-х, точная дата мне неизвестна. ссылку на диск я приводил ниже на форуме. Послушай,
-            может и понравится))'
+            Выпустил он свой первый диск в 50-х, точная дата мне неизвестна. ссылку на диск я приводил ниже на форуме. Послушай, может и понравится))'
           replies:
           - id: 38535
             parent_id: 38532
@@ -94,16 +90,7 @@ posts:
               poster: Andrei V. Evdokimov
               subject: знать бы, что именно понял )))
               deleted: false
-              text: "на АМГ http://www.allmusic.com/artist/roy-gaines-mn0000344856 написано:  Long a sought-after sideman,\
-                \ Gaines recorded infrequently as a headliner, finally releasing an LP, Gaineling, in 1982; \n\nНа его сайте\
-                \ вообще первым альбомом значится европейский 1975 г.\n\nВикипедия дискографию начинает с 1982 г., нов тексте\
-                \ упоминает \"He released two low-key albums in 1956, and a couple more in the 1960s on small record labels\"\
-                . Я не поленился и сходил посмотреть. там про альбом говорится о 1982 г., а к 50-м относятся некие \"relesases\"\
-                \ - что не есть синоним \"альбома\". \n\nнаконец, на амазоне http://www.amazon.com/Rock-A-Billy-Boogie-Woogie-Blues-Man/dp/B000CA7V50\
-                \ нашел: Roy \"collection of his legendary hit songs of the 1950's.\"\n\nТаким образом это не альбом, а сборник\
-                \ его сорокопяток-синглов 50-х годов. Это не то же самое, что альбом. АМГ, к примеру, вообще разделяет \"\
-                album\" и \"compilation\" - и правильно делает.\n\nЯ отредактировал, получилось \"Первые сорокопятки записывал\
-                \ еще в 50-х, но первый заметный альбом выпустил только в 1982 г.\"\n\nТак, я правильно понял, ага? )"
+              text: "на АМГ http://www.allmusic.com/artist/roy-gaines-mn0000344856 написано:  Long a sought-after sideman, Gaines recorded infrequently as a headliner, finally releasing an LP, Gaineling, in 1982; \n\nНа его сайте вообще первым альбомом значится европейский 1975 г.\n\nВикипедия дискографию начинает с 1982 г., нов тексте упоминает \"He released two low-key albums in 1956, and a couple more in the 1960s on small record labels\". Я не поленился и сходил посмотреть. там про альбом говорится о 1982 г., а к 50-м относятся некие \"relesases\" - что не есть синоним \"альбома\". \n\nнаконец, на амазоне http://www.amazon.com/Rock-A-Billy-Boogie-Woogie-Blues-Man/dp/B000CA7V50 нашел: Roy \"collection of his legendary hit songs of the 1950's.\"\n\nТаким образом это не альбом, а сборник его сорокопяток-синглов 50-х годов. Это не то же самое, что альбом. АМГ, к примеру, вообще разделяет \"album\" и \"compilation\" - и правильно делает.\n\nЯ отредактировал, получилось \"Первые сорокопятки записывал еще в 50-х, но первый заметный альбом выпустил только в 1982 г.\"\n\nТак, я правильно понял, ага? )"
               replies:
               - id: 38539
                 parent_id: 38538
@@ -111,9 +98,12 @@ posts:
                 poster: tavrichesky
                 subject: расшифровка))
                 deleted: false
-                text: там, где качал писали, что альбом. но раз компиляция- то значит,так и есть.и поправка справедливая получилась.
-                  ещё раз спасибо.
+                text: там, где качал писали, что альбом. но раз компиляция- то значит,так и есть.и поправка справедливая получилась. ещё раз спасибо.
                 person_id: 7208
+              inferred_person_id: 4
             person_id: 7208
+          inferred_person_id: 7208
         person_id: 4
       person_id: 7208
+    inferred_person_id: 4
+  inferred_person_id: 4

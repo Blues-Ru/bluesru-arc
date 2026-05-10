@@ -14,9 +14,7 @@ posts:
   text: 'Наш знакомый Евгений Немов вон что творит:
 
 
-    <Center><object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/WNvynzGLFyE&color1=0xb1b1b1&color2=0xcfcfcf&feature=player_embedded&fs=1"></param><param
-    name="allowFullScreen" value="true"></param><embed src="http://www.youtube.com/v/WNvynzGLFyE&color1=0xb1b1b1&color2=0xcfcfcf&feature=player_embedded&fs=1"
-    type="application/x-shockwave-flash" allowfullscreen="true" width="425" height="344"></embed></object></center>'
+    <Center><object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/WNvynzGLFyE&color1=0xb1b1b1&color2=0xcfcfcf&feature=player_embedded&fs=1"></param><param name="allowFullScreen" value="true"></param><embed src="http://www.youtube.com/v/WNvynzGLFyE&color1=0xb1b1b1&color2=0xcfcfcf&feature=player_embedded&fs=1" type="application/x-shockwave-flash" allowfullscreen="true" width="425" height="344"></embed></object></center>'
   replies:
   - id: 36418
     parent_id: 36329
@@ -24,6 +22,5 @@ posts:
     poster: vnik
     subject: Да, это замечательно, к тому же
     deleted: false
-    text: Здорово! Думается, что только что ушедший от нас в мир иной гитарист "Вентуры"
-      не переворачивается в гробу, как принято говорить, а тихо и счастливо улыбается!
-      Спасибо огромное за ссылку!
+    text: Здорово! Думается, что только что ушедший от нас в мир иной гитарист "Вентуры" не переворачивается в гробу, как принято говорить, а тихо и счастливо улыбается! Спасибо огромное за ссылку!
+  inferred_person_id: 4

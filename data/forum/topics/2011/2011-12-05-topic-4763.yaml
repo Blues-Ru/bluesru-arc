@@ -19,9 +19,7 @@ posts:
     poster: Алексей Аграновский
     subject: Печально
     deleted: false
-    text: Первый раз услышал Самлина на виниловом сборнике, что-то вроде Blues Guitar Album. Это был инструментал - гитара
-      и бас - Straight Talk. Гениальная вещь. Его работы с Хаулин Вулфом все знают, Самлин играл необычайно и сделал для звучания
-      сравнимо с самим HW. На съемках 60-х - совсем молодой парень...
+    text: Первый раз услышал Самлина на виниловом сборнике, что-то вроде Blues Guitar Album. Это был инструментал - гитара и бас - Straight Talk. Гениальная вещь. Его работы с Хаулин Вулфом все знают, Самлин играл необычайно и сделал для звучания сравнимо с самим HW. На съемках 60-х - совсем молодой парень...
     replies:
     - id: 38098
       parent_id: 38097
@@ -29,8 +27,8 @@ posts:
       poster: Arsen
       subject: В 2008
       deleted: false
-      text: "довелось увидеть/услышать его на King Biscuit: http://i205.photobucket.com/albums/bb303/arsen_2007/Helena%202008/IMG_2286.jpg\
-        \ \nЗдорово было."
+      text: "довелось увидеть/услышать его на King Biscuit: http://i205.photobucket.com/albums/bb303/arsen_2007/Helena%202008/IMG_2286.jpg \nЗдорово было."
+      inferred_person_id: 7284
     person_id: 458
   - id: 38099
     parent_id: 38096
@@ -38,8 +36,7 @@ posts:
     poster: grem
     subject: '2011'
     deleted: false
-    text: 'В 1998 на Telark вышел замечательный альбом Pinetop Perkins -Hubert Sumlin "Legends", один играл с Muddy Waters,
-      а другой с Howlin''Wolf.
+    text: 'В 1998 на Telark вышел замечательный альбом Pinetop Perkins -Hubert Sumlin "Legends", один играл с Muddy Waters, а другой с Howlin''Wolf.
 
       Pinetop ушел в марте, а Hubert в декабре 2011.
 

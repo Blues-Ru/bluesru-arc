@@ -12,8 +12,7 @@ posts:
   email: gypsy@mail.ru
   subject: Любимая песнь Вовы "VR" Русинова в ассортименте!
   deleted: false
-  text: 'Продолжая практику ознакомления местной общественности с новинками и старинками звукозаписи, предлагаю для заслушивания
-    подборку произведения Harlem Nocturne в исполнении разнообразных коллективов.
+  text: 'Продолжая практику ознакомления местной общественности с новинками и старинками звукозаписи, предлагаю для заслушивания подборку произведения Harlem Nocturne в исполнении разнообразных коллективов.
 
 
     Отдельный респект VR за конгениальное исполнение сего шедевра!
@@ -36,6 +35,7 @@ posts:
       email: gypsy@mail.ru
       subject: Кстати послушай из моей подборки  The Ventures - очень приятный чисто гитарный аранжировка, даа!
       deleted: false
+      inferred_person_id: 13
     - id: 21672
       parent_id: 21663
       date: 2005-06-05 07:00
@@ -47,6 +47,7 @@ posts:
 
 
         Все не слушал, но любимой моей в исполнении Lounge Lizards в подборке-то и нет.'
+      inferred_person_id: 7
     person_id: 5
   - id: 21669
     parent_id: 21662
@@ -95,6 +96,8 @@ posts:
             subject: Федор уже выдал :)
             deleted: false
             person_id: 5
+          inferred_person_id: 13
+      inferred_person_id: 13
   - id: 21678
     parent_id: 21662
     date: 2005-06-06 23:33
@@ -125,4 +128,7 @@ posts:
         email: gypsy@mail.ru
         subject: угу.. мне тоже понра! особенно хор пианых подпевал =))
         deleted: false
+        inferred_person_id: 13
       person_id: 5
+    inferred_person_id: 2
+  inferred_person_id: 13

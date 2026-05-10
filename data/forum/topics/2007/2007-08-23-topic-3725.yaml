@@ -12,8 +12,7 @@ posts:
   email: evdokimov@blues.ru
   subject: столько всего разом понавыходило
   deleted: false
-  text: 'On the Jimmy Reed Highway - Omar Kent Dykes, Jimmie Vaughan + Kim Wilson (the Fabulous Thunderbirds), James Cotton
-    (Muddy Waters), and local icon Gary Primich
+  text: 'On the Jimmy Reed Highway - Omar Kent Dykes, Jimmie Vaughan + Kim Wilson (the Fabulous Thunderbirds), James Cotton (Muddy Waters), and local icon Gary Primich
 
     Blue Velocity  ~ Chris Duarte
 
@@ -46,6 +45,7 @@ posts:
         subject: ты ж знаешь
         deleted: false
         person_id: 4
+      inferred_person_id: 13
     person_id: 4
   - id: 33403
     parent_id: 33396
@@ -162,6 +162,8 @@ posts:
 
 
                             там еще несколько роликов.'
+                          inferred_person_id: 7284
+                        inferred_person_id: 956
                       person_id: 956
                     - id: 33423
                       parent_id: 33415
@@ -170,13 +172,9 @@ posts:
                       email: el@ma.ru
                       subject: Steve Miller Band - Living in the 20th Century
                       deleted: false
-                      text: 'Кстати, 100 лет назад была такая пластинка <a href="http://www.artistdirect.com/nad/store/artist/album/0,,131685,00.html">Steve
-                        Miller Band - Living in the 20th Century (1987)</a> и там было тоже несколько песен Джимми Рида: <a
-                        href="http://www.amazon.com/Living-20th-Century-Steve-Miller/dp/B000002T1J">Caress Me Baby и Big Boss
-                        Man</a>
+                      text: 'Кстати, 100 лет назад была такая пластинка <a href="http://www.artistdirect.com/nad/store/artist/album/0,,131685,00.html">Steve Miller Band - Living in the 20th Century (1987)</a> и там было тоже несколько песен Джимми Рида: <a href="http://www.amazon.com/Living-20th-Century-Steve-Miller/dp/B000002T1J">Caress Me Baby и Big Boss Man</a>
 
-                        Очень мне нравился этот диск. Давным-давно его не слушал. Очень хочется снова послушать (интересно,
-                        так он мне будет слушаться сейчас). Сможет ли кто-нибудь его выложить для скачивания?'
+                        Очень мне нравился этот диск. Давным-давно его не слушал. Очень хочется снова послушать (интересно, так он мне будет слушаться сейчас). Сможет ли кто-нибудь его выложить для скачивания?'
                       replies:
                       - id: 33424
                         parent_id: 33423
@@ -187,6 +185,7 @@ posts:
                         deleted: false
                         text: альбом ОК, но звук 80-х...
                         person_id: 335
+                      inferred_person_id: 7202
                     person_id: 4
                   - id: 33425
                     parent_id: 33414
@@ -203,13 +202,11 @@ posts:
 
                       !buzz^ willie nelson_milk cow blues - 15 texas flood (kenny wayne sheppard).mp3 [9.3 MB]
 
-                      Полученные строчки, начиная с восклицательного знака, надо скопировать и отправить в канал для того,
-                      чтобы скачать ЭТО.</i>
+                      Полученные строчки, начиная с восклицательного знака, надо скопировать и отправить в канал для того, чтобы скачать ЭТО.</i>
 
                       Вот я нашел:
 
-                      !texdan steve miller band - living in the 20th century - 02 - i want to make the world turn around.mp3  [6.1
-                      MB]
+                      !texdan steve miller band - living in the 20th century - 02 - i want to make the world turn around.mp3  [6.1 MB]
 
                       !texdan steve miller band - living in the 20th century - 03 - slinky.mp3  [3.7 MB]
 
@@ -217,8 +214,7 @@ posts:
 
                       !texdan steve miller band - living in the 20th century - 05 - maelstrom.mp3  [5.6 MB]
 
-                      !texdan steve miller band - living in the 20th century - 06 - i wanna be loved (but by only you).mp3  [3.3
-                      MB]
+                      !texdan steve miller band - living in the 20th century - 06 - i wanna be loved (but by only you).mp3  [3.3 MB]
 
                       !texdan steve miller band - living in the 20th century - 07 - my babe.mp3  [4.0 MB]
 
@@ -226,8 +222,7 @@ posts:
 
                       !texdan steve miller band - living in the 20th century - 09 - caress me baby.mp3  [4.5 MB]
 
-                      !texdan steve miller band - living in the 20th century - 10 - ain''t that lovin'' you baby.mp3  [3.9
-                      MB]
+                      !texdan steve miller band - living in the 20th century - 10 - ain''t that lovin'' you baby.mp3  [3.9 MB]
 
                       !texdan steve miller band - living in the 20th century - 11 - behind the barn.mp3  [5.0 MB]
 
@@ -242,42 +237,7 @@ posts:
                       email: el@ma.ru
                       subject: mIRC
                       deleted: false
-                      text: "Наверное можно (и нужно) снова првести то описание как пользоваться mIRC ( кодовое название <b>Закрома\
-                        \ Родины</b> :-)\nЭто старое сообщение Старого Пирата за февраль прошлого года:\n<i><b>Как пройти\
-                        \ в Закрома Родины  - Старый Пират    (22/02 16:00)</b>\nСообщаю в очередной раз.\nЧтобы добраться\
-                        \ до перацких архивов всей и всяческой музыки, нужно следующее:\n1. Скачать клиент для сетей IRC -\
-                        \ mIRC с сайта www.mirc.com\n2. как продлить его срок действия сверх 30 дней триал-периода - объяснять\
-                        \ не буду ;)\n3. Из списка сетей выбрать сеть UNDERNET, коннектиться лучше к Undernet, Random US server\n\
-                        4. Зайдя в сеть, подключиться к каналу #Mp3blues\n5. скачать файл-листы (командой @имя) следующих\
-                        \ людей: @buzz, @davilo и @wldflwr - у них самые приличные коллекции. Можно и других, но для того,\
-                        \ чтобы понять, кто в канале есть who, надо понаблюдать некоторое время за потоком сообщений. Примечание:\
-                        \ Скачивать файл-листы не обязательно, можно пользоваться поисковой системой, см.ниже.\n6. Файл-листы\
-                        \ читаются простым нотепадом. Часть файл-листов и старую, но вполне рабочую версию mIRC (без регистрации)\
-                        \ можно скачать у меня с сайта: http://gypsy.bluesman.ru/mIRC/\n7. Для поиска в канале можно использовать\
-                        \ поисковую систему, которая вызывается командой:\n/ctcp cse !cse\nУ неё очень простой интерфейс и\
-                        \ есть он-лайн хелп.\nПример:\n.search Texas Flood - найти все исполнения Texas Flood у всех держателей\
-                        \ архивов\nНа выходе будет строка примерно такого вида (получено прям щазз):\n!buzz^ 07. stevie ray\
-                        \ vaughan - texas flood.mp3 [8.3 MB]\n!buzz^ willie nelson_milk cow blues - 15 texas flood (kenny\
-                        \ wayne sheppard).mp3 [9.3 MB]\nПолученные строчки, начиная с восклицательного знака, надо скопировать\
-                        \ и отправить в канал для того, чтобы скачать ЭТО.\n!buzz^ willie nelson_milk cow blues - 15 texas\
-                        \ flood (kenny wayne sheppard).mp3\nСредняя скорость скачивания - 10-50 кбайт/сек, так что надо иметь\
-                        \ терпение.\nЕжели будут вопросы, то ответы и советы по работе с каналами IRC и программой mIRC буду\
-                        \ давать по мере их поступления.</i>\n\nТак вот, вопросы всё-таки вазныклы:\nЯ скачал с www.mirc.com\
-                        \ прогу mirc версию 6.3 (размер всего 1,5 Мб), а на http://gypsy.bluesman.ru/mIRC/ лежит файл mIRC.zip\
-                        \ размером 10,5 Мб. Такая большая разница в размерах. Почему так? Кстати, кpяк-регистрация тоже нашел\
-                        \ и скачал, размер всего 312Кб.\nЗашел на Undernet затем сконектился с Random US server, но в списках\
-                        \ #Mp3blues не нашлось, а просто вписал #mp3blues в окошке \"Подсоединиться к...\". Короче, сконектился.\
-                        \ Но там юзеров @buzz, @davilo и @wldflwr тоже не нашел.\nЯ так  и не понял как скачать файл-листы,\
-                        \ ну и ладно с этим: я воспользовался поисковой системой, которая вызывается командой:\n/ctcp cse\
-                        \ !cse\nтам (в командной строке, в самом низу окошка, как долго я не мог найти куды вписывать...)\
-                        \ я вписал \n.search steve miller\nНашлось то что искал у юзеров texdan и vicky. Например:\n!texdan\
-                        \ steve miller band - living in the 20th century - 10 - ain't that lovin' you baby.mp3 [3.9 MB]\n\
-                        Так вот, я скопировал то что начинаестя с восклицательного знака (включая восклицательный знак) но\
-                        \ без указания размера [3.9 MB]:\n!texdan steve miller band - living in the 20th century - 10 - ain't\
-                        \ that lovin' you baby.mp3\nи вставил в командную строку окошка #mp3blues. Через некоторое время появилось\
-                        \ сообщение что texdan и vicky don't have steve miller band - living in the 20th century (что-то типа\
-                        \ того).\nПодскажите, что я делал не так?\nИ ещё, я бы не сказал что у программы простой интерфейс,\
-                        \ как раз-таки савсем не прастой и не дружественный. В он-лайн хелп не заходил - лень."
+                      text: "Наверное можно (и нужно) снова првести то описание как пользоваться mIRC ( кодовое название <b>Закрома Родины</b> :-)\nЭто старое сообщение Старого Пирата за февраль прошлого года:\n<i><b>Как пройти в Закрома Родины  - Старый Пират    (22/02 16:00)</b>\nСообщаю в очередной раз.\nЧтобы добраться до перацких архивов всей и всяческой музыки, нужно следующее:\n1. Скачать клиент для сетей IRC - mIRC с сайта www.mirc.com\n2. как продлить его срок действия сверх 30 дней триал-периода - объяснять не буду ;)\n3. Из списка сетей выбрать сеть UNDERNET, коннектиться лучше к Undernet, Random US server\n4. Зайдя в сеть, подключиться к каналу #Mp3blues\n5. скачать файл-листы (командой @имя) следующих людей: @buzz, @davilo и @wldflwr - у них самые приличные коллекции. Можно и других, но для того, чтобы понять, кто в канале есть who, надо понаблюдать некоторое время за потоком сообщений. Примечание: Скачивать файл-листы не обязательно, можно пользоваться поисковой системой, см.ниже.\n6. Файл-листы читаются простым нотепадом. Часть файл-листов и старую, но вполне рабочую версию mIRC (без регистрации) можно скачать у меня с сайта: http://gypsy.bluesman.ru/mIRC/\n7. Для поиска в канале можно использовать поисковую систему, которая вызывается командой:\n/ctcp cse !cse\nУ неё очень простой интерфейс и есть он-лайн хелп.\nПример:\n.search Texas Flood - найти все исполнения Texas Flood у всех держателей архивов\nНа выходе будет строка примерно такого вида (получено прям щазз):\n!buzz^ 07. stevie ray vaughan - texas flood.mp3 [8.3 MB]\n!buzz^ willie nelson_milk cow blues - 15 texas flood (kenny wayne sheppard).mp3 [9.3 MB]\nПолученные строчки, начиная с восклицательного знака, надо скопировать и отправить в канал для того, чтобы скачать ЭТО.\n!buzz^ willie nelson_milk cow blues - 15 texas flood (kenny wayne sheppard).mp3\nСредняя скорость скачивания - 10-50 кбайт/сек, так что надо иметь терпение.\nЕжели будут вопросы, то ответы и советы по работе с каналами IRC и программой mIRC буду давать по мере их поступления.</i>\n\nТак вот, вопросы всё-таки вазныклы:\nЯ скачал с www.mirc.com прогу mirc версию 6.3 (размер всего 1,5 Мб), а на http://gypsy.bluesman.ru/mIRC/ лежит файл mIRC.zip размером 10,5 Мб. Такая большая разница в размерах. Почему так? Кстати, кpяк-регистрация тоже нашел и скачал, размер всего 312Кб.\nЗашел на Undernet затем сконектился с Random US server, но в списках #Mp3blues не нашлось, а просто вписал #mp3blues в окошке \"Подсоединиться к...\". Короче, сконектился. Но там юзеров @buzz, @davilo и @wldflwr тоже не нашел.\nЯ так  и не понял как скачать файл-листы, ну и ладно с этим: я воспользовался поисковой системой, которая вызывается командой:\n/ctcp cse !cse\nтам (в командной строке, в самом низу окошка, как долго я не мог найти куды вписывать...) я вписал \n.search steve miller\nНашлось то что искал у юзеров texdan и vicky. Например:\n!texdan steve miller band - living in the 20th century - 10 - ain't that lovin' you baby.mp3 [3.9 MB]\nТак вот, я скопировал то что начинаестя с восклицательного знака (включая восклицательный знак) но без указания размера [3.9 MB]:\n!texdan steve miller band - living in the 20th century - 10 - ain't that lovin' you baby.mp3\nи вставил в командную строку окошка #mp3blues. Через некоторое время появилось сообщение что texdan и vicky don't have steve miller band - living in the 20th century (что-то типа того).\nПодскажите, что я делал не так?\nИ ещё, я бы не сказал что у программы простой интерфейс, как раз-таки савсем не прастой и не дружественный. В он-лайн хелп не заходил - лень."
                       replies:
                       - id: 33444
                         parent_id: 33426
@@ -302,8 +262,17 @@ posts:
 
                           (sigh) А кому щас лехко...
 
-                          Кстати, я в последнее время irc пользуюсь все реже и реже. На самый крайний случай. В DC++ всего
-                          больше, и все гораздо лучше упорядочено.'
+                          Кстати, я в последнее время irc пользуюсь все реже и реже. На самый крайний случай. В DC++ всего больше, и все гораздо лучше упорядочено.'
+                        inferred_person_id: 13
+                      inferred_person_id: 7202
+                  inferred_person_id: 13
+                inferred_person_id: 7284
+              inferred_person_id: 13
+            inferred_person_id: 7284
+          inferred_person_id: 13
+        inferred_person_id: 7284
+      inferred_person_id: 13
+    inferred_person_id: 7465
   - id: 33416
     parent_id: 33396
     date: 2007-08-28 23:44
@@ -315,10 +284,8 @@ posts:
 
       Классный Smokey Wilson - Round Like An Apple (записи 1977-78 гг)
 
-      Замечательный 8 Hands on 88 Keys Chicago Blues Piano Masters - там играет Pinetop Perkins и такие редкие перцы, как
-      Erwin Helfer, Detroit Jr. и Barrelhouse Chuck.
+      Замечательный 8 Hands on 88 Keys Chicago Blues Piano Masters - там играет Pinetop Perkins и такие редкие перцы, как Erwin Helfer, Detroit Jr. и Barrelhouse Chuck.
 
-      еще там есть свежая Попович, и грудастая Кенди Кейн, и разные мужики вроде Форда (нормального, который Роббин), Скотта
-      Холта, и даже Гэри Мур новехонький (все никак не уймется). но я себе взял четырехлетней давности дуэт Робилларда с легендарным
-      Хербом Эллисом.'
+      еще там есть свежая Попович, и грудастая Кенди Кейн, и разные мужики вроде Форда (нормального, который Роббин), Скотта Холта, и даже Гэри Мур новехонький (все никак не уймется). но я себе взял четырехлетней давности дуэт Робилларда с легендарным Хербом Эллисом.'
     person_id: 4
+  inferred_person_id: 4

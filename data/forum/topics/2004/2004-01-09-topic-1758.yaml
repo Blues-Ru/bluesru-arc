@@ -12,9 +12,7 @@ posts:
   email: sunny_city@mail.ru
   subject: Есть повод порадоваться и хлопнуть рюмашку
   deleted: false
-  text: "за здравие талантливого художника и любителя блюза А.Меринова\nМногие не раз,пожалуй,видели это задумчивое;)) лицо\
-    \ на концертах и джемах  \nhttp://bluesman.ru/foto/16_01_2003/pages/DCP_2236_1_jpg.htm\nhttp://mk.ru/numbers/815/article23214.htm\n\
-    \nСердеШно поздравляю!!!\n\np.s\nКак я смеялся.... :)))Ну просто ржал как конь... :)))\nhttp://mk.ru/person/merinov.asp"
+  text: "за здравие талантливого художника и любителя блюза А.Меринова\nМногие не раз,пожалуй,видели это задумчивое;)) лицо на концертах и джемах  \nhttp://bluesman.ru/foto/16_01_2003/pages/DCP_2236_1_jpg.htm\nhttp://mk.ru/numbers/815/article23214.htm\n\nСердеШно поздравляю!!!\n\np.s\nКак я смеялся.... :)))Ну просто ржал как конь... :)))\nhttp://mk.ru/person/merinov.asp"
   replies:
   - id: 16736
     parent_id: 16727
@@ -33,3 +31,4 @@ posts:
     subject: Всяческих благ и многие лета!!!!Ура!!!
     deleted: false
     person_id: 1719
+  inferred_person_id: 956

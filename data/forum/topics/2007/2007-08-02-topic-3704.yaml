@@ -34,4 +34,6 @@ posts:
       subject: это отходняк ...
       deleted: false
       text: 'потом все прийдет в норму: и дом на фото... и все вокруг...'
+      inferred_person_id: 5
     person_id: 335
+  inferred_person_id: 5

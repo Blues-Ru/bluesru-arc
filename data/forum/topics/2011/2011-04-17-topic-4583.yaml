@@ -22,23 +22,14 @@ posts:
     text: 'Дима, не томи, рассказывай! После прошлогоднего Bingo! Миллера я жажду его новых работ.
 
       Я верно ли понял ты говоришь об их раздельных (не о совместной) работах?'
+    inferred_person_id: 7202
   - id: 37644
     parent_id: 37641
     date: 2011-04-17 11:45
     poster: Эльдар
     subject: THE STEVE MILLER BAND - Let Your Hair Down
     deleted: false
-    text: "THE STEVE MILLER BAND - Let Your Hair Down\nLet Your Hair Down, a companion release to Bingo, is set for release\
-      \ on April 18, 2011.\nОфициальный выход альбома 18.04.2011. (в США - 19.04.2011), по некоторым данным 15.04.2011\n\n\
-      <a href=\"http://www.kpnemo.ws/music/2011/04/16/The_Steve_Miller_Band__Let_Your_Hair_Down_2011/\">| APE + .cue + Log\
-      \ | 3% recovery | 285 MB |</a>\n\n01. Snatch It Back And Hold It \n(Amos Blakemore & Buddy Guy)\n02. I Got Love If You\
-      \ Want It\n(James H. Moore)\n03. Just A Little Bit\n(Ralph Bass, Columbus Perry, John Thornton & Earl E Washington)\n\
-      04. Close Together\n(Jimmy Reed)\n05. No More Doggin'\n(Rosco Gordon & Julet Taub)\n06. Pretty Thing\n(Willie Dixon)\n\
-      07. Can't Be Satisfied\n(Muddy Waters)\n08. Sweet Home Chicago\n(Robert Leroy Johnson)\n09. Love The Life I Live\n(Willie\
-      \ Dixon)\n10. The Walk\n(Jimmy McCracklin)\n\nBonus Tracks:\n11. When Things Go Wrong (It Hurts Me Too)\n(Melvin London)\n\
-      12. I Ain't Got You\n(Calvin Carter)\n13. Tell Me What's The Reason\n(Florence Cadrez)\n14. Driftin's Blues\n(Charles\
-      \ Brown, Eddie Williams & Johnny Moore)\n\n<img src=\"http://www.kikaxemusic.com/images/stories/2011_february/35.jpg\"\
-      \ align=\"bottom\">"
+    text: "THE STEVE MILLER BAND - Let Your Hair Down\nLet Your Hair Down, a companion release to Bingo, is set for release on April 18, 2011.\nОфициальный выход альбома 18.04.2011. (в США - 19.04.2011), по некоторым данным 15.04.2011\n\n<a href=\"http://www.kpnemo.ws/music/2011/04/16/The_Steve_Miller_Band__Let_Your_Hair_Down_2011/\">| APE + .cue + Log | 3% recovery | 285 MB |</a>\n\n01. Snatch It Back And Hold It \n(Amos Blakemore & Buddy Guy)\n02. I Got Love If You Want It\n(James H. Moore)\n03. Just A Little Bit\n(Ralph Bass, Columbus Perry, John Thornton & Earl E Washington)\n04. Close Together\n(Jimmy Reed)\n05. No More Doggin'\n(Rosco Gordon & Julet Taub)\n06. Pretty Thing\n(Willie Dixon)\n07. Can't Be Satisfied\n(Muddy Waters)\n08. Sweet Home Chicago\n(Robert Leroy Johnson)\n09. Love The Life I Live\n(Willie Dixon)\n10. The Walk\n(Jimmy McCracklin)\n\nBonus Tracks:\n11. When Things Go Wrong (It Hurts Me Too)\n(Melvin London)\n12. I Ain't Got You\n(Calvin Carter)\n13. Tell Me What's The Reason\n(Florence Cadrez)\n14. Driftin's Blues\n(Charles Brown, Eddie Williams & Johnny Moore)\n\n<img src=\"http://www.kikaxemusic.com/images/stories/2011_february/35.jpg\" align=\"bottom\">"
     replies:
     - id: 37645
       parent_id: 37644
@@ -65,6 +56,7 @@ posts:
         deleted: false
         text: копии диска попадают к журналюгам раньше выхода. иногда на месяцы...
         person_id: 335
+      inferred_person_id: 7202
     - id: 37648
       parent_id: 37644
       date: 2011-04-18 22:32
@@ -82,6 +74,7 @@ posts:
         text: а Уоррена послушал?
         person_id: 335
       person_id: 7202
+    inferred_person_id: 7202
   - id: 37646
     parent_id: 37641
     date: 2011-04-18 12:39

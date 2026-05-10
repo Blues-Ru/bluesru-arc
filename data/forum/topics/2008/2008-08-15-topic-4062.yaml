@@ -35,6 +35,7 @@ posts:
       text: 'Нет ли ссылки на скачивание этого альбома? Хочется послушать.
 
         Где-то я слыхал эту фразу: You know the beauty is always skin deep... Не помню где...'
+      inferred_person_id: 7202
     person_id: 4
   - id: 35680
     parent_id: 35671
@@ -47,3 +48,4 @@ posts:
 
 
       Muddy'
+    inferred_person_id: 7465

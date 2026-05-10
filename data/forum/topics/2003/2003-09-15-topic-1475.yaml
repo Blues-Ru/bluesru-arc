@@ -127,5 +127,6 @@ posts:
             deleted: false
             text: up
             person_id: 26
+          inferred_person_id: 24
         person_id: 26
     person_id: 26

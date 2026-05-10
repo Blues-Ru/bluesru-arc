@@ -12,8 +12,7 @@ posts:
   email: heavyfuel@mtu-net.ru
   subject: Табулатуры
   deleted: false
-  text: Господа если у кого есть табки песен Wild horses и Cocaine, но не того Cocaine, который Клэптона, а другого,известного
-    еще по-моему, как Low Rain, то поделитесь пожалуйста, буду дико признателен и сам чем-нибудь поделюсь.
+  text: Господа если у кого есть табки песен Wild horses и Cocaine, но не того Cocaine, который Клэптона, а другого,известного еще по-моему, как Low Rain, то поделитесь пожалуйста, буду дико признателен и сам чем-нибудь поделюсь.
   replies:
   - id: 4732
     parent_id: 4674
@@ -83,6 +82,7 @@ posts:
                 text: Google. На 5 или 6 странице выскочило. Искал по Cocaine blues
                 person_id: 378
               person_id: 783
+            inferred_person_id: 378
           person_id: 783
       person_id: 783
   - id: 4733
@@ -94,3 +94,4 @@ posts:
     deleted: false
     text: табка то есть? или хоть где её искать?
     person_id: 783
+  inferred_person_id: 783

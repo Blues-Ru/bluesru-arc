@@ -18,9 +18,7 @@ posts:
 
     Как это было. Lucky Peterson
 
-    <object width="560" height="340"><param name="movie" value="http://www.youtube.com/v/tIXSuluXpGA&hl=ru_RU&fs=1&"></param><param
-    name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/tIXSuluXpGA&hl=ru_RU&fs=1&"
-    type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="560" height="340"></embed></object>'
+    <object width="560" height="340"><param name="movie" value="http://www.youtube.com/v/tIXSuluXpGA&hl=ru_RU&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/tIXSuluXpGA&hl=ru_RU&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="560" height="340"></embed></object>'
   replies:
   - id: 36719
     parent_id: 36718
@@ -47,6 +45,7 @@ posts:
     text: 'А наши музыканты, наверное заняты были. Приглашал многих лично.
 
       ========'
+    inferred_person_id: 7206
   - id: 36722
     parent_id: 36718
     date: 2009-12-03 20:36
@@ -64,25 +63,19 @@ posts:
       text: '...не мог организовать (физически).. А вот раньше, бывало....
 
 
-        <object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/I4oxHJKTYew&hl=ru_RU&fs=1&"></param><param
-        name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/I4oxHJKTYew&hl=ru_RU&fs=1&"
-        type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>
+        <object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/I4oxHJKTYew&hl=ru_RU&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/I4oxHJKTYew&hl=ru_RU&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>
 
 
-        <object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/iHs8sCmHJ6c&hl=ru_RU&fs=1&"></param><param
-        name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/iHs8sCmHJ6c&hl=ru_RU&fs=1&"
-        type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>
+        <object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/iHs8sCmHJ6c&hl=ru_RU&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/iHs8sCmHJ6c&hl=ru_RU&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>
 
 
-        <object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/Q89ehlwXYck&hl=ru_RU&fs=1&"></param><param
-        name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/Q89ehlwXYck&hl=ru_RU&fs=1&"
-        type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>
+        <object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/Q89ehlwXYck&hl=ru_RU&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/Q89ehlwXYck&hl=ru_RU&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>
 
 
-        <object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/04jDBB675LU&hl=ru_RU&fs=1&"></param><param
-        name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/04jDBB675LU&hl=ru_RU&fs=1&"
-        type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>
+        <object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/04jDBB675LU&hl=ru_RU&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/04jDBB675LU&hl=ru_RU&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>
 
 
         Наверное в Москве было повышенное давление'
+      inferred_person_id: 7206
     person_id: 7219
+  inferred_person_id: 7206

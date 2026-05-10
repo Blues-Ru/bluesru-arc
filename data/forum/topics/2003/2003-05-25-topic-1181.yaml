@@ -59,3 +59,4 @@ posts:
     deleted: false
     text: Отличные имена!
     person_id: 335
+  inferred_person_id: 5

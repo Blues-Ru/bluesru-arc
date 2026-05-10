@@ -21,6 +21,7 @@ posts:
     subject: Сегодня
     deleted: false
     text: насколько я знаю, джем будет
+    inferred_person_id: 7284
   - id: 32202
     parent_id: 32189
     date: 2007-04-10 00:27

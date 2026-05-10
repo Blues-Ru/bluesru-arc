@@ -12,8 +12,7 @@ posts:
   email: mlives_6@hotmail
   subject: Harold Burrage
   deleted: false
-  text: 'Приятно, что вспоминается Бурраж на blues.ru сегодня (в случае его дня рожедения).  Он пользовался большим влиянием
-    среди Чикагоских певцов 1960-ых годах (в том числе Otis Clay).  Но выставленная фото - это же Willie Dixon!  :)
+  text: 'Приятно, что вспоминается Бурраж на blues.ru сегодня (в случае его дня рожедения).  Он пользовался большим влиянием среди Чикагоских певцов 1960-ых годах (в том числе Otis Clay).  Но выставленная фото - это же Willie Dixon!  :)
 
 
     Muddy'
@@ -41,4 +40,6 @@ posts:
       email: mlives_6@hotmail
       subject: Спасибо за поправку!
       deleted: false
+      inferred_person_id: 7465
     person_id: 4
+  inferred_person_id: 7465

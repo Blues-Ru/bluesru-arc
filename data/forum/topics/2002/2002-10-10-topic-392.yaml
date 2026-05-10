@@ -12,8 +12,7 @@ posts:
   email: gilt@design.ru
   subject: Ищу фильмы Blues Brothers и Blues Brothers 2000
   deleted: false
-  text: 'Кто-нть знает где их можно найти?! В divX, конечно. (ну или в QuickTime -
-    это уже не очень важно).
+  text: 'Кто-нть знает где их можно найти?! В divX, конечно. (ну или в QuickTime - это уже не очень важно).
 
 
     Был бы о-очень признателен.'
@@ -26,3 +25,4 @@ posts:
     subject: у меня есть в divx
     deleted: false
     text: кому интересно обращаейтесь емылом.
+    inferred_person_id: 5

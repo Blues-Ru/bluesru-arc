@@ -24,6 +24,7 @@ posts:
     text: 'Поздравляю,
 
       И пусть тебе подарят Mercedes Benz....'
+    inferred_person_id: 204
   - id: 11724
     parent_id: 11711
     date: 2003-04-12 04:16

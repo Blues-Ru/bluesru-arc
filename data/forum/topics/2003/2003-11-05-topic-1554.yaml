@@ -21,8 +21,8 @@ posts:
     email: volodya@blues.ru
     subject: вот кто играл в праймус :)
     deleted: false
-    text: Tim "Herb" Alexander  Les Claypool  Jay Lane  Brian "Brain" Mantia  Larry
-      LaLonde  Todd Huth  Tim "Curveball" Wright
+    text: Tim "Herb" Alexander  Les Claypool  Jay Lane  Brian "Brain" Mantia  Larry LaLonde  Todd Huth  Tim "Curveball" Wright
+    inferred_person_id: 5
   - id: 15421
     parent_id: 15412
     date: 2003-11-06 01:38

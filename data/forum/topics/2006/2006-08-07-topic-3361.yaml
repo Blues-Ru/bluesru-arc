@@ -44,6 +44,7 @@ posts:
         subject: пробовали
         deleted: false
         person_id: 335
+      inferred_person_id: 1719
   - id: 28224
     parent_id: 28209
     date: 2006-08-07 13:55
@@ -59,6 +60,7 @@ posts:
       email: jnr_new@mail.ru
       subject: Боится.
       deleted: false
+    inferred_person_id: 7465
   - id: 28236
     parent_id: 28209
     date: 2006-08-08 12:42

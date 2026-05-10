@@ -68,6 +68,7 @@ posts:
       Gangster of love
 
       Gangster of love'
+    inferred_person_id: 335
   - id: 28674
     parent_id: 28672
     date: 2006-09-11 05:51
@@ -178,6 +179,7 @@ posts:
       All the girls that I meet
 
       Say: "he''s a gangster of love"'
+    inferred_person_id: 335
   - id: 28675
     parent_id: 28672
     date: 2006-09-11 05:53
@@ -269,8 +271,7 @@ posts:
 
                     3,5Мб
 
-                    Звучание, так сказать, современное. Не в пример файлу http://drnick.mylivepage.ru/file/168/1377/1-25+Love+Bandit+%28Gangster+Of+Love%29.mp3
-                    где исполнение только под фортепиано (старая запись).'
+                    Звучание, так сказать, современное. Не в пример файлу http://drnick.mylivepage.ru/file/168/1377/1-25+Love+Bandit+%28Gangster+Of+Love%29.mp3 где исполнение только под фортепиано (старая запись).'
                   replies:
                   - id: 28744
                     parent_id: 28739
@@ -318,12 +319,9 @@ posts:
 
                             показалось мне так что это исполнение того времени. Ну, обознался...
 
-                            Малехо удивительно мне что http://drnick.mylivepage.ru/file/168/1377/1-25+Love+Bandit+%28Gangster+Of+Love%29.mp3
-                            Johnny "Guitar" Watson - Love Bandit (Gangster Of Love) [Gonna Hit That Highway] исполняется только
-                            под фортепиано.
+                            Малехо удивительно мне что http://drnick.mylivepage.ru/file/168/1377/1-25+Love+Bandit+%28Gangster+Of+Love%29.mp3 Johnny "Guitar" Watson - Love Bandit (Gangster Of Love) [Gonna Hit That Highway] исполняется только под фортепиано.
 
-                            И ещё, а не знаешь ли где найти ту версию что звучит в реламном ролике <a href="http://www.musicstrands.com/group/49/journal/347">Axe
-                            Click</a> с участием Бэна Аффлека? Очень мне нравится именно она.'
+                            И ещё, а не знаешь ли где найти ту версию что звучит в реламном ролике <a href="http://www.musicstrands.com/group/49/journal/347">Axe Click</a> с участием Бэна Аффлека? Очень мне нравится именно она.'
                           replies:
                           - id: 28765
                             parent_id: 28763
@@ -333,6 +331,8 @@ posts:
                             subject: Уже нашёл!
                             deleted: false
                             text: Спасиб!
+                        inferred_person_id: 335
+                    inferred_person_id: 335
                 person_id: 335
             person_id: 335
           - id: 28685

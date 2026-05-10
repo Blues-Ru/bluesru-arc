@@ -11,9 +11,7 @@ posts:
   poster: Cpt. Nemoff
   subject: Голубь залетел в мой дом
   deleted: false
-  text: "Сёдня проснулся, пошёл пассать, а в прихожей сидит голубь - настоящий и живой. \nОн меня сильно напугал своим присутствием.\n\
-    Сначала я подумал что он больной, но потом понял, что нет.\nКинул ему хлеба, он есть не стал.\nПотом я ему сказал - сейчас\
-    \ я открою окно и ты навсегда уйдешь из моего дома.\nЯ открыл окно и голубь улетел..."
+  text: "Сёдня проснулся, пошёл пассать, а в прихожей сидит голубь - настоящий и живой. \nОн меня сильно напугал своим присутствием.\nСначала я подумал что он больной, но потом понял, что нет.\nКинул ему хлеба, он есть не стал.\nПотом я ему сказал - сейчас я открою окно и ты навсегда уйдешь из моего дома.\nЯ открыл окно и голубь улетел..."
   replies:
   - id: 37885
     parent_id: 37884
@@ -60,6 +58,7 @@ posts:
       deleted: false
       text: слабовато с англиским! Да и по-русски тоже не плохо!
       person_id: 7512
+    inferred_person_id: 3623
   - id: 37889
     parent_id: 37884
     date: 2011-07-18 12:42
@@ -90,10 +89,5 @@ posts:
     poster: grem
     subject: гугль-могль
     deleted: false
-    text: "для перевода всегда есть мощный ресурс - это гугль-переводчик и вот что у нас получилось.\nДумаю что блюс однозначно.)\n\
-      Sedna woke up, went to Passau, and in the hallway sits a dove - a real and alive.\n\n Sedna woke up, went to Passau,\
-      \ and in the hallway sits a dove - a real and alive.\n\n He scared me with his presence.\n\n\n At first I thought that\
-      \ he was sick, but then I realized that there.\n\n At first I thought that he was sick, but then I realized that there.\n\
-      \n Threw him bread, he is not.\n\n\n Then I told him - now I open the window and you go away forever from my house.\n\
-      \n Then I told him - now I open the window and you go away forever from my house.\n\n I opened the window and a pigeon\
-      \ flew away ..."
+    text: "для перевода всегда есть мощный ресурс - это гугль-переводчик и вот что у нас получилось.\nДумаю что блюс однозначно.)\nSedna woke up, went to Passau, and in the hallway sits a dove - a real and alive.\n\n Sedna woke up, went to Passau, and in the hallway sits a dove - a real and alive.\n\n He scared me with his presence.\n\n\n At first I thought that he was sick, but then I realized that there.\n\n At first I thought that he was sick, but then I realized that there.\n\n Threw him bread, he is not.\n\n\n Then I told him - now I open the window and you go away forever from my house.\n\n Then I told him - now I open the window and you go away forever from my house.\n\n I opened the window and a pigeon flew away ..."
+  inferred_person_id: 3623

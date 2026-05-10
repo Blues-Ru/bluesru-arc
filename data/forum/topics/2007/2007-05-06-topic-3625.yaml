@@ -14,8 +14,7 @@ posts:
   deleted: false
   text: 'http://music.dirty.ru/comments/211230
 
-    Россию посетит <a href="http://www.usadba-jazz.ru/artists-marcus-miller.shtml">Marcus Miller</a>, который выступит на
-    фестивале "Усадьба Джаз" 3 июня.
+    Россию посетит <a href="http://www.usadba-jazz.ru/artists-marcus-miller.shtml">Marcus Miller</a>, который выступит на фестивале "Усадьба Джаз" 3 июня.
 
     <a href="http://www.usadba-jazz.ru/program.shtml">Программа фестиваля</a>.
 
@@ -47,8 +46,7 @@ posts:
         email: kotmatrs@mail.ru
         subject: Злобные вы
         deleted: false
-        text: "А нам недавно Вова Кожекин объяснил, что блюз в нашей стране - это Машина Времени, Аквариум и Козловский. \n\
-          Вы что - ему не верите? \nА надо будет - и Виагру на блюз фест позовете, и хедлайнерами."
+        text: "А нам недавно Вова Кожекин объяснил, что блюз в нашей стране - это Машина Времени, Аквариум и Козловский. \nВы что - ему не верите? \nА надо будет - и Виагру на блюз фест позовете, и хедлайнерами."
         replies:
         - id: 32779
           parent_id: 32776
@@ -62,6 +60,7 @@ posts:
             Машина Времени - Шанхай Блюз и Но Зато Мой Друг Лучше Всех Играет Блюз
 
             Козловский - эт наверна дедушка Алексея Козлова, а значит тоже Блюз!'
+          inferred_person_id: 7202
         - id: 32867
           parent_id: 32776
           date: 2007-05-14 16:57
@@ -70,4 +69,8 @@ posts:
           subject: Шо значит "надо"?
           deleted: false
           text: Я лично фестов не устраиваю, и Виа Гра мне нужна только по прямому назначению, а именно перорально.
+          inferred_person_id: 13
+        inferred_person_id: 2824
+      inferred_person_id: 13
     person_id: 5
+  inferred_person_id: 7202

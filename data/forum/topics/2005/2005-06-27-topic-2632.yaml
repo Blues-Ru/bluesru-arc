@@ -12,8 +12,7 @@ posts:
   email: gypsy@mail.ru
   subject: Новые Lovely Tunes на моём сервере.
   deleted: false
-  text: 'В директорию Lovely Tunes выложил подборку разных исполнителей двух старых
-    добрых блюзов:
+  text: 'В директорию Lovely Tunes выложил подборку разных исполнителей двух старых добрых блюзов:
 
 
     1) Hold That Train
@@ -30,3 +29,4 @@ posts:
     email: leonidovd@mail.ru
     subject: А ссылочку плиз можно попросить?
     deleted: false
+  inferred_person_id: 13

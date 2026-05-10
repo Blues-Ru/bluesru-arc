@@ -12,10 +12,7 @@ posts:
   email: hcguiyg@iug7.ru
   subject: 1000 фоток с фестиваля "Qадрат"
   deleted: false
-  text: '<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/f2KVmGNxzHk&hl=ru&fs=1"></param><param
-    name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed
-    src="http://www.youtube.com/v/f2KVmGNxzHk&hl=ru&fs=1" type="application/x-shockwave-flash"
-    allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>
+  text: '<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/f2KVmGNxzHk&hl=ru&fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/f2KVmGNxzHk&hl=ru&fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>
 
 
     Есть видео на 4 DVD-дисках'
@@ -28,3 +25,4 @@ posts:
     subject: Не проще ли сделать так?:)
     deleted: false
     text: http://marianner.livejournal.com/tag/blues_festival
+  inferred_person_id: 7206

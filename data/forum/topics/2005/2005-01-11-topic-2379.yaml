@@ -15,8 +15,7 @@ posts:
   text: 'Пожалуйста, скажите что можно и НУЖНО слушать этого человека.
 
 
-    Есть голландский сборник Mojo Gumbo, но там какие-то странные записи: повторяются песни под разными именами, и качество
-    оставляет желать лучшего.
+    Есть голландский сборник Mojo Gumbo, но там какие-то странные записи: повторяются песни под разными именами, и качество оставляет желать лучшего.
 
     Помогите разобраться, пожалуйста.'
   replies:
@@ -27,9 +26,7 @@ posts:
     email: mlives_6@hotmail.com
     subject: Best Fess
     deleted: false
-    text: "Мне очень нравится Crawfish Fiesta на Alligator Records.  Professor Longhair в прекрасной форме исполняет свои\
-      \ лучшие песни. Качество звука записи - высокое.  Доктор Джон его поддерживает на гитаре.  \n\nКонечно, и очень стоит\
-      \ приобрести его классические записи на Atlantic Records.   \n\nMuddy"
+    text: "Мне очень нравится Crawfish Fiesta на Alligator Records.  Professor Longhair в прекрасной форме исполняет свои лучшие песни. Качество звука записи - высокое.  Доктор Джон его поддерживает на гитаре.  \n\nКонечно, и очень стоит приобрести его классические записи на Atlantic Records.   \n\nMuddy"
     replies:
     - id: 20148
       parent_id: 20144
@@ -67,8 +64,10 @@ posts:
             email: kiktev@garant-ic.ru
             subject: Прочитал
             deleted: false
-            text: 'Огромное спасибо за ссылку: там не только про Longhair, там ещё и про DR. John и ещё про Jelly Roll Morton.
-              И это я только начал читать.'
+            text: 'Огромное спасибо за ссылку: там не только про Longhair, там ещё и про DR. John и ещё про Jelly Roll Morton. И это я только начал читать.'
             person_id: 3615
           person_id: 3615
+        inferred_person_id: 7465
       person_id: 3615
+    inferred_person_id: 7465
+  inferred_person_id: 3615

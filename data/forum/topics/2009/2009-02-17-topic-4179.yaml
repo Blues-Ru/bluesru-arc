@@ -12,8 +12,7 @@ posts:
   email: aaa@genebee.msu.su
   subject: Друг ищет гитару
   deleted: false
-  text: '"Fender Stratocaster or Gibson 335 models" (цит.) Если кто-то слышал про такие инструменты на продажу, пришлите мне
-    е-письмо.'
+  text: '"Fender Stratocaster or Gibson 335 models" (цит.) Если кто-то слышал про такие инструменты на продажу, пришлите мне е-письмо.'
   replies:
   - id: 36116
     parent_id: 36114
@@ -31,8 +30,7 @@ posts:
     email: jam_rb@mail.ru
     subject: а комбик то, комбик!!!
     deleted: false
-    text: вашему другу просто жизненно необходим твидовый Blues DeVille 93 год, made in USA, аппарат в Москве, ждёт нового
-      хозяина :))
+    text: вашему другу просто жизненно необходим твидовый Blues DeVille 93 год, made in USA, аппарат в Москве, ждёт нового хозяина :))
     replies:
     - id: 36136
       parent_id: 36127
@@ -42,6 +40,7 @@ posts:
       subject: а деньги то, деньги!!!
       deleted: false
       text: такой комбик не только под гитару необходим)))
+      inferred_person_id: 7208
   - id: 36137
     parent_id: 36114
     date: 2009-02-19 08:57

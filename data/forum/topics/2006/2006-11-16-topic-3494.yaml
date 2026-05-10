@@ -35,8 +35,7 @@ posts:
     email: нет@
     subject: прогулка в брилиантовый дождь
     deleted: false
-    text: 'подскажите пожалуста где можно в интернет скачать песню прогулка в брилиантовый дождь группы кроссроадс и где можно
-      найти аккорды этой песни.
+    text: 'подскажите пожалуста где можно в интернет скачать песню прогулка в брилиантовый дождь группы кроссроадс и где можно найти аккорды этой песни.
 
       спасибо,
 
@@ -50,6 +49,7 @@ posts:
       subject: 'Можно скачать здесь:'
       deleted: false
       text: "Зайдите на страничку сайта Кроссроудз: \nhttp://www.thecrossroadz.ru/new/?music\nили сюда:\nhttp://musicmp3.spb.ru/mp3/2206/crossroads.htm"
+      inferred_person_id: 7202
     - id: 29420
       parent_id: 29390
       date: 2006-11-23 15:31
@@ -64,3 +64,4 @@ posts:
     email: chifuroff<sobaka>inbox.ru
     subject: Присоединяюсь к поздравлениям!
     deleted: false
+  inferred_person_id: 204

@@ -11,9 +11,8 @@ posts:
   poster: Andrei V. Evdokimov
   subject: ночная блюз-кинотека - Muddy Waters - BB King - 1980
   deleted: false
-  text: '<iframe width="480" height="360" src="//www.youtube.com/embed/M1WybuEIQWA"
-    frameborder="0" allowfullscreen></iframe>
+  text: '<iframe width="480" height="360" src="//www.youtube.com/embed/M1WybuEIQWA" frameborder="0" allowfullscreen></iframe>
 
 
-    Шикарный подарок любителям старого доброго блюза... БиБиКинг игрив, Мадди адцки
-    серьезен.'
+    Шикарный подарок любителям старого доброго блюза... БиБиКинг игрив, Мадди адцки серьезен.'
+  inferred_person_id: 4

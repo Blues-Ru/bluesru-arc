@@ -10,27 +10,9 @@ posts:
   date: 2009-02-13 00:59
   poster: Sergei Kurek
   email: kurek@nm.ru
-  subject: Sergei Kurek Quartet (Белорусия) - немного видео концерт в Одессе (Клуб
-    "Дикий-Z")
+  subject: Sergei Kurek Quartet (Белорусия) - немного видео концерт в Одессе (Клуб "Дикий-Z")
   deleted: false
-  text: "Live in Odessa (Ukraine, 7 febr 2009)\n\n\"I cant be satisfied\"\n<object\
-    \ type=\"application/x-shockwave-flash\" allowScriptAccess=\"never\" allowNetworking=\"\
-    internal\" height=\"344\" width=\"425\" data=\"http://www.youtube.com/v/OnuegZlEWJs&hl=ru&fs=1\"\
-    >\n  <param name=\"allowScriptAccess\" value=\"never\" />\n  <param name=\"allowNetworking\"\
-    \ value=\"internal\" />\n  <param name=\"movie\" value=\"http://www.youtube.com/v/OnuegZlEWJs&hl=ru&fs=1\"\
-    \ />\n</object>\n\n<object type=\"application/x-shockwave-flash\" allowScriptAccess=\"\
-    never\" allowNetworking=\"internal\" height=\"344\" width=\"425\" data=\"http://www.youtube.com/v/g-5FGZfrkj0&hl=ru&fs=1\"\
-    >\n  <param name=\"allowScriptAccess\" value=\"never\" />\n  <param name=\"allowNetworking\"\
-    \ value=\"internal\" />\n  <param name=\"movie\" value=\"http://www.youtube.com/v/g-5FGZfrkj0&hl=ru&fs=1\"\
-    \ />\n</object>\n\n\n<object type=\"application/x-shockwave-flash\" allowScriptAccess=\"\
-    never\" allowNetworking=\"internal\" height=\"344\" width=\"425\" data=\"http://www.youtube.com/v/fyVf_RbSw1g&hl=ru&fs=1\"\
-    >\n  <param name=\"allowScriptAccess\" value=\"never\" />\n  <param name=\"allowNetworking\"\
-    \ value=\"internal\" />\n  <param name=\"movie\" value=\"http://www.youtube.com/v/fyVf_RbSw1g&hl=ru&fs=1\"\
-    \ />\n</object><br>\n<object type=\"application/x-shockwave-flash\" allowScriptAccess=\"\
-    never\" allowNetworking=\"internal\" height=\"344\" width=\"425\" data=\"http://www.youtube.com/v/_XWdJDOa070&hl=ru&fs=1\"\
-    >\n  <param name=\"allowScriptAccess\" value=\"never\" />\n  <param name=\"allowNetworking\"\
-    \ value=\"internal\" />\n  <param name=\"movie\" value=\"http://www.youtube.com/v/_XWdJDOa070&hl=ru&fs=1\"\
-    \ />\n</object>"
+  text: "Live in Odessa (Ukraine, 7 febr 2009)\n\n\"I cant be satisfied\"\n<object type=\"application/x-shockwave-flash\" allowScriptAccess=\"never\" allowNetworking=\"internal\" height=\"344\" width=\"425\" data=\"http://www.youtube.com/v/OnuegZlEWJs&hl=ru&fs=1\">\n  <param name=\"allowScriptAccess\" value=\"never\" />\n  <param name=\"allowNetworking\" value=\"internal\" />\n  <param name=\"movie\" value=\"http://www.youtube.com/v/OnuegZlEWJs&hl=ru&fs=1\" />\n</object>\n\n<object type=\"application/x-shockwave-flash\" allowScriptAccess=\"never\" allowNetworking=\"internal\" height=\"344\" width=\"425\" data=\"http://www.youtube.com/v/g-5FGZfrkj0&hl=ru&fs=1\">\n  <param name=\"allowScriptAccess\" value=\"never\" />\n  <param name=\"allowNetworking\" value=\"internal\" />\n  <param name=\"movie\" value=\"http://www.youtube.com/v/g-5FGZfrkj0&hl=ru&fs=1\" />\n</object>\n\n\n<object type=\"application/x-shockwave-flash\" allowScriptAccess=\"never\" allowNetworking=\"internal\" height=\"344\" width=\"425\" data=\"http://www.youtube.com/v/fyVf_RbSw1g&hl=ru&fs=1\">\n  <param name=\"allowScriptAccess\" value=\"never\" />\n  <param name=\"allowNetworking\" value=\"internal\" />\n  <param name=\"movie\" value=\"http://www.youtube.com/v/fyVf_RbSw1g&hl=ru&fs=1\" />\n</object><br>\n<object type=\"application/x-shockwave-flash\" allowScriptAccess=\"never\" allowNetworking=\"internal\" height=\"344\" width=\"425\" data=\"http://www.youtube.com/v/_XWdJDOa070&hl=ru&fs=1\">\n  <param name=\"allowScriptAccess\" value=\"never\" />\n  <param name=\"allowNetworking\" value=\"internal\" />\n  <param name=\"movie\" value=\"http://www.youtube.com/v/_XWdJDOa070&hl=ru&fs=1\" />\n</object>"
   replies:
   - id: 36111
     parent_id: 36109
@@ -48,6 +30,7 @@ posts:
       email: орот
       subject: да
       deleted: false
+      inferred_person_id: 7208
   - id: 36132
     parent_id: 36109
     date: 2009-02-19 04:41
@@ -55,8 +38,7 @@ posts:
     email: kurek@nm.ru
     subject: фотки
     deleted: false
-    text: <a hfef="http://viewmorepics.myspace.com/index.cfm?fuseaction=user.viewPicture&friendID=430917243&albumId=1059830">А
-      вот и фотки с Одессы </a>
+    text: <a hfef="http://viewmorepics.myspace.com/index.cfm?fuseaction=user.viewPicture&friendID=430917243&albumId=1059830">А вот и фотки с Одессы </a>
     replies:
     - id: 36133
       parent_id: 36132
@@ -65,5 +47,4 @@ posts:
       email: kurek@nm.ru
       subject: ссылка
       deleted: false
-      text: <a href=http://viewmorepics.myspace.com/index.cfm?fuseaction=user.viewPicture&friendID=430917243&albumId=1059830>  ФОТОГРАФИИ
-        </a>
+      text: <a href=http://viewmorepics.myspace.com/index.cfm?fuseaction=user.viewPicture&friendID=430917243&albumId=1059830>  ФОТОГРАФИИ </a>

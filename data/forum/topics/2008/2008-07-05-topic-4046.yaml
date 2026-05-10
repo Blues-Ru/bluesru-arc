@@ -12,9 +12,7 @@ posts:
   email: herz_07@abv.bg
   subject: нафталин
   deleted: false
-  text: "здраствуйте!я играю на бас в болгарской груп \"нафталин\" и увидел ,что в\
-    \ русии тоже эсть такая група.я хочу узнать больше о нее.http://vbox7.com/play:a47f3bf8\
-    \  http://vbox7.com/play:49d0be49  \nhttp://www.youtube.com/watch?v=1gfiD5WivKc"
+  text: "здраствуйте!я играю на бас в болгарской груп \"нафталин\" и увидел ,что в русии тоже эсть такая група.я хочу узнать больше о нее.http://vbox7.com/play:a47f3bf8  http://vbox7.com/play:49d0be49  \nhttp://www.youtube.com/watch?v=1gfiD5WivKc"
   replies:
   - id: 35546
     parent_id: 35545
@@ -23,11 +21,8 @@ posts:
     email: gypsy@mail.ru
     subject: Великолепно!
     deleted: false
-    text: "Очень рекомендую посмотреть: \n\nhttp://www.youtube.com/watch?v=Xlcd6RkNcwM\n\
-      http://www.youtube.com/watch?v=b7aOqstaeEQ\nhttp://www.youtube.com/watch?v=4FcALoGI8tA\n\
-      http://vbox7.com/play:11abda06\nhttp://vbox7.com/play:a47f3bf8\n\nТам ещё много\
-      \ клипов!\n\nДевочке 13 лет, зовут Монислава (Мона) Недева.\nКак она поёт -\
-      \ это unreal )))\n\nБратья-болгары играют отлично!"
+    text: "Очень рекомендую посмотреть: \n\nhttp://www.youtube.com/watch?v=Xlcd6RkNcwM\nhttp://www.youtube.com/watch?v=b7aOqstaeEQ\nhttp://www.youtube.com/watch?v=4FcALoGI8tA\nhttp://vbox7.com/play:11abda06\nhttp://vbox7.com/play:a47f3bf8\n\nТам ещё много клипов!\n\nДевочке 13 лет, зовут Монислава (Мона) Недева.\nКак она поёт - это unreal )))\n\nБратья-болгары играют отлично!"
+    inferred_person_id: 13
   - id: 35570
     parent_id: 35545
     date: 2008-07-12 01:47
@@ -41,14 +36,12 @@ posts:
 
       http://www.youtube.com/watch?v=ix4TNJvVk8M&feature=related
 
-      Ну а эта вещица так,на закуску.Просто красивая вещь и интересные вокальные данные
-      у мальчишки.
+      Ну а эта вещица так,на закуску.Просто красивая вещь и интересные вокальные данные у мальчишки.
 
       http://www.youtube.com/watch?v=8mmQ_8-KlfI
 
 
-      Определённо можно сказать что талантливых, в музыкальном отношении, ребят дофига.
-      И слава Богу.'
+      Определённо можно сказать что талантливых, в музыкальном отношении, ребят дофига. И слава Богу.'
     replies:
     - id: 35572
       parent_id: 35570

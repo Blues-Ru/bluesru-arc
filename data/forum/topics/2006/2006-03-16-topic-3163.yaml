@@ -12,8 +12,7 @@ posts:
   email: dr.nick@blues.ru
   subject: А вот что выпустили!
   deleted: false
-  text: "http://www.amazon.com/gp/product/B0009I9XY2/qid=1142536652/sr=1-4/ref=sr_1_4/102-5250790-6466568?s=music&v=glance&n=5174\n\
-    \nЭто номерной альбом 1971 года + 3 бонуса :) \nТут Снукс один с акустикой творит чудеса!"
+  text: "http://www.amazon.com/gp/product/B0009I9XY2/qid=1142536652/sr=1-4/ref=sr_1_4/102-5250790-6466568?s=music&v=glance&n=5174\n\nЭто номерной альбом 1971 года + 3 бонуса :) \nТут Снукс один с акустикой творит чудеса!"
   replies:
   - id: 26693
     parent_id: 26692
@@ -24,3 +23,4 @@ posts:
     deleted: false
     text: выпустили альбом Rural (1973) в каком-то хитром виде, но я не могу найти инфу в сети (но я уже заказал).
     person_id: 335
+  inferred_person_id: 335

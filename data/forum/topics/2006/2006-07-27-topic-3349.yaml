@@ -12,13 +12,11 @@ posts:
   email: elicaster co6@kaмейл-d0t ru
   subject: Эрик Клаптон прислал отказ от концерта?
   deleted: false
-  text: 'На <a href="http://www.beatles.ru/postman/forum_messages.asp?msg_id=12707&cpage=45">форуме битлз.ру</a> появилась
-    информация что Клаптон прислал отказ от концерта. Это, вероятно, это из-за переноса на Васильевский спуск.
+  text: 'На <a href="http://www.beatles.ru/postman/forum_messages.asp?msg_id=12707&cpage=45">форуме битлз.ру</a> появилась информация что Клаптон прислал отказ от концерта. Это, вероятно, это из-за переноса на Васильевский спуск.
 
     Вот такая вот лажа :(
 
-    Надеюсь что эта информация не самая достоверная и концерт всё-таки состоится: столько ждали и Крея и Клаптона... да и,
-    как никак, я же ужо и билеты купил...'
+    Надеюсь что эта информация не самая достоверная и концерт всё-таки состоится: столько ждали и Крея и Клаптона... да и, как никак, я же ужо и билеты купил...'
   replies:
   - id: 28012
     parent_id: 28009
@@ -28,6 +26,7 @@ posts:
     subject: А пущай один Крей приедет...
     deleted: false
     text: Клэптона мы всякого видали.. (С) Тихий Дон. Макар Нагульнов
+    inferred_person_id: 13
   - id: 28015
     parent_id: 28009
     date: 2006-07-27 19:33
@@ -70,8 +69,7 @@ posts:
       email: '***'
       subject: Концерта не будет...
       deleted: false
-      text: "Вот уже 3-ий источник об этом сообщает\nhttp://www.zvuki.ru/R/P/15311 \n\nПервые два были из \"своих\". Окончательно\
-        \ подтвердили сегодня ночью."
+      text: "Вот уже 3-ий источник об этом сообщает\nhttp://www.zvuki.ru/R/P/15311 \n\nПервые два были из \"своих\". Окончательно подтвердили сегодня ночью."
     - id: 28059
       parent_id: 28052
       date: 2006-07-28 20:56
@@ -79,13 +77,7 @@ posts:
       email: '***'
       subject: 'URGENT ANNOUNCEMENT: Moscow Red Square Concert Cancelled'
       deleted: false
-      text: 'Unfortunately the Eric Clapton performance scheduled to take place on August 3rd in Red Square, Moscow has been
-        cancelled. Eric Clapton was delighted at the prospect of playing in Red Square before 20,000 of his Russian fans.
-        The Russian promoter had been issued a permit for Eric Clapton to perform in Red Square signed by all appropriate
-        Russian City and State authorities. However, earlier today, Russian officials withdrew the permit. Eric Clapton is
-        extremely sorry to disappoint his numerous Russian fans but the circumstances of the cancellation are completely beyond
-        his control. Ticket-holders should return their tickets to the box offices where they purchased the tickets for a
-        refund.
+      text: 'Unfortunately the Eric Clapton performance scheduled to take place on August 3rd in Red Square, Moscow has been cancelled. Eric Clapton was delighted at the prospect of playing in Red Square before 20,000 of his Russian fans. The Russian promoter had been issued a permit for Eric Clapton to perform in Red Square signed by all appropriate Russian City and State authorities. However, earlier today, Russian officials withdrew the permit. Eric Clapton is extremely sorry to disappoint his numerous Russian fans but the circumstances of the cancellation are completely beyond his control. Ticket-holders should return their tickets to the box offices where they purchased the tickets for a refund.
 
 
         http://www.whereseric.com/news/2006/07/moscow-red-square-concert-cancelled.html'
@@ -132,10 +124,7 @@ posts:
     email: elicaster co6@kaмейл-d0t ru
     subject: причина - security reason
     deleted: false
-    text: "На WheresEric.com всё ещё уживаются две странички:\nEric Clapton Announces Historic Concert Performance in Red\
-      \ Square, Moscow August 3, 2006\nhttp://www.whereseric.com/news/2006/07/moscow-red-square-concert-cancelled.html\nи\
-      \ \nMoscow Red Square Concert Cancelled\nhttp://www.whereseric.com/news/2006/04/eric-clapton-historic-concert-performance-red-square-moscow-august-3-2006.html\n\
-      По поводу причин отмены говорят что это в следствии security reason.\nТакие вот дела... не очень-то понятные :((("
+    text: "На WheresEric.com всё ещё уживаются две странички:\nEric Clapton Announces Historic Concert Performance in Red Square, Moscow August 3, 2006\nhttp://www.whereseric.com/news/2006/07/moscow-red-square-concert-cancelled.html\nи \nMoscow Red Square Concert Cancelled\nhttp://www.whereseric.com/news/2006/04/eric-clapton-historic-concert-performance-red-square-moscow-august-3-2006.html\nПо поводу причин отмены говорят что это в следствии security reason.\nТакие вот дела... не очень-то понятные :((("
   - id: 28072
     parent_id: 28009
     date: 2006-07-31 14:56
@@ -204,6 +193,7 @@ posts:
           deleted: false
           text: А то ишь, взяли моду...
           person_id: 2803
+        inferred_person_id: 13
     - id: 28080
       parent_id: 28072
       date: 2006-07-31 17:31
@@ -252,9 +242,7 @@ posts:
             email: '***'
             subject: Наши идиоты-организаторы...
             deleted: false
-            text: "...очень сильно подставились в попытке оправдать свое изначальное вранье. \n\nhttp://news.yahoo.com/s/eo/20060731/en_music_eo/19636\n\
-              \nТеперь будет серьезный скандал. Я надеюсь на это, тк никакого разрешения на КП и не было и наши пытались Клэптона\
-              \ надуть."
+            text: "...очень сильно подставились в попытке оправдать свое изначальное вранье. \n\nhttp://news.yahoo.com/s/eo/20060731/en_music_eo/19636\n\nТеперь будет серьезный скандал. Я надеюсь на это, тк никакого разрешения на КП и не было и наши пытались Клэптона надуть."
             replies:
             - id: 28099
               parent_id: 28096
@@ -263,11 +251,14 @@ posts:
               email: grem@yandex.ru
               subject: и хорошо, что EC отказался...
               deleted: false
-              text: 'В противном случае он бы стал невольным участником грандиозного кидалова, тк звук и обзор сцены для основной
-                массы купивших недорогие билеты (от 1500-2500) был бы никаким.
+              text: 'В противном случае он бы стал невольным участником грандиозного кидалова, тк звук и обзор сцены для основной массы купивших недорогие билеты (от 1500-2500) был бы никаким.
 
                 Пример тому концерт Roger Waters на Васильевском спуске.'
+              inferred_person_id: 204
           person_id: 4
+        inferred_person_id: 2803
+      inferred_person_id: 4
+    inferred_person_id: 2803
   - id: 28159
     parent_id: 28009
     date: 2006-08-03 22:27
@@ -279,5 +270,4 @@ posts:
 
       Не знаю и не особо хочу знать причину, но результат - концерта не было...
 
-      Все равно буду надеяться! ББК все ж таки доехал?! И временами паршивый звук все равно не мог испортить мне праздника.
-      Вот и Эрик доедет! Ну "на крайняк" можно и в европу мотануться.'
+      Все равно буду надеяться! ББК все ж таки доехал?! И временами паршивый звук все равно не мог испортить мне праздника. Вот и Эрик доедет! Ну "на крайняк" можно и в европу мотануться.'

@@ -46,6 +46,7 @@ posts:
         subject: Далеко он и занят сильно...
         deleted: false
         text: ..пассать сходить некогда, а в форум писАть - тем более.
+        inferred_person_id: 13
       - id: 34079
         parent_id: 34073
         date: 2007-12-08 10:05
@@ -67,6 +68,7 @@ posts:
           subject: А кто-то год назад мне ящик красненького обещал?
           deleted: false
           text: До сих пор жду!
+          inferred_person_id: 13
         - id: 34108
           parent_id: 34079
           date: 2007-12-10 15:23
@@ -77,4 +79,8 @@ posts:
           text: 'Собственно, просто спросил куда пропали... А то давно здесь не было видно...
 
             Рад что вы здесь.'
+          inferred_person_id: 7202
+        inferred_person_id: 7465
       person_id: 335
+    inferred_person_id: 7202
+  inferred_person_id: 335

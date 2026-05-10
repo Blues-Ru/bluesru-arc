@@ -12,11 +12,7 @@ posts:
   email: dr.nick@blues.ru
   subject: Радость
   deleted: false
-  text: "Вот хочу поделиться радостью, - я купил на виниле четыре редких альбома Тажа (редкие потому, что я не видел таких\
-    \ сидюков, и даже не слышал о них). Альбомы такие: \"Happy Just To Be Like I Am\", \"Recycling The Blues & Other Related\
-    \ Stuff\", \"Oooh So Good 'N Blues\", \"Satisfied And Tickled Too\". \nНу что Вам сказать, полный улет! Его исполнения\
-    \ Stealin', Chevrolet, Crossroad Blues, Built For Comfort, Dust My Broom, Frankie And Albert, - просто великолепны!\n\
-    Найти эти альбомы крайне трудно, так что могу прописать на компакты, а там уже копируйте, если надо.\nTaj rules!"
+  text: "Вот хочу поделиться радостью, - я купил на виниле четыре редких альбома Тажа (редкие потому, что я не видел таких сидюков, и даже не слышал о них). Альбомы такие: \"Happy Just To Be Like I Am\", \"Recycling The Blues & Other Related Stuff\", \"Oooh So Good 'N Blues\", \"Satisfied And Tickled Too\". \nНу что Вам сказать, полный улет! Его исполнения Stealin', Chevrolet, Crossroad Blues, Built For Comfort, Dust My Broom, Frankie And Albert, - просто великолепны!\nНайти эти альбомы крайне трудно, так что могу прописать на компакты, а там уже копируйте, если надо.\nTaj rules!"
   replies:
   - id: 7912
     parent_id: 7910
@@ -46,3 +42,4 @@ posts:
     deleted: false
     text: болванки я тебе вроде давал..
     person_id: 750
+  inferred_person_id: 335

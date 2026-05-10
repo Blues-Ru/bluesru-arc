@@ -14,14 +14,11 @@ posts:
   deleted: false
   text: 'Все знают Hey Joe в исполнении Jimi Hendrix.
 
-    В моей mp3-коллекции она есть в исполнении Deep Purple, Led Zeppelin, Lenny Kravitz, Body Count with Ice T, Willy De Ville,
-    Leaves (запись, кажется, начала 60-х, до Джими).
+    В моей mp3-коллекции она есть в исполнении Deep Purple, Led Zeppelin, Lenny Kravitz, Body Count with Ice T, Willy De Ville, Leaves (запись, кажется, начала 60-х, до Джими).
 
-    Но я никак не могу найти её в исполнении автора. В разных источниках указываются Chet Powers, Jesse Oris Farrow, Dino
-    Valenti, но чаще всего Billy Roberts. Есть также предположение что это один и тот же человек.
+    Но я никак не могу найти её в исполнении автора. В разных источниках указываются Chet Powers, Jesse Oris Farrow, Dino Valenti, но чаще всего Billy Roberts. Есть также предположение что это один и тот же человек.
 
-    Так вот, кто нибудь сможет ли прояснить вопрос Кто же автор Hey Joe? И ещё, существует ли запись песни в авторском исполнении
-    или он был ли только сочинителем?'
+    Так вот, кто нибудь сможет ли прояснить вопрос Кто же автор Hey Joe? И ещё, существует ли запись песни в авторском исполнении или он был ли только сочинителем?'
   replies:
   - id: 12636
     parent_id: 12634
@@ -30,9 +27,7 @@ posts:
     email: dr.nick@blues.ru
     subject: Робертс
     deleted: false
-    text: "http://www.allmusic.com/cg/amg.dll?p=amg&uid=MISS70305212212&sql=H524484\n\nБезусловно есть много песен с таким\
-      \ названием, но ту, что ты имеешь в виду, написал Робертс. \n\nhttp://www.heyjoe.org/lyrics.html\n\nЭто целая легенда,\
-      \ как видишь."
+    text: "http://www.allmusic.com/cg/amg.dll?p=amg&uid=MISS70305212212&sql=H524484\n\nБезусловно есть много песен с таким названием, но ту, что ты имеешь в виду, написал Робертс. \n\nhttp://www.heyjoe.org/lyrics.html\n\nЭто целая легенда, как видишь."
     replies:
     - id: 12637
       parent_id: 12636
@@ -69,6 +64,8 @@ posts:
         Yes I''m going, going where I can be free
 
         ''Cause ain''t no hangman gonna put no noose on me'
+      inferred_person_id: 335
+    inferred_person_id: 335
   - id: 12640
     parent_id: 12634
     date: 2003-05-22 11:17
@@ -78,8 +75,7 @@ posts:
     deleted: false
     text: 'О! Спасибо за линк http://www.heyjoe.org/lyrics.html уже вижу что это должно быть интересно. Щас буду рыскать...
 
-      И все таки мой второй и пожалуй главный вопрос: а существует ли запись песни в авторском исполнении? И вообще, записывался
-      ли он? Или он был ли только сочинителем?'
+      И все таки мой второй и пожалуй главный вопрос: а существует ли запись песни в авторском исполнении? И вообще, записывался ли он? Или он был ли только сочинителем?'
     replies:
     - id: 12652
       parent_id: 12640
@@ -97,11 +93,10 @@ posts:
     email: sergei.sergeev@emersonprocess.ru
     subject: Ранний след. "Hey Joe"
     deleted: false
-    text: 'Ранний след обнаружен 1966 году. Исполнение The Byrds на альбоме "Fifth Dimension" в 1966 году. Авторы на диске
-      Powers/Roberts. Очень замечательный альбом этакая смесь фолк-рока с психоделией. В том же 66 году другая ам. группа"The
-      Leaves"записала
+    text: 'Ранний след обнаружен 1966 году. Исполнение The Byrds на альбоме "Fifth Dimension" в 1966 году. Авторы на диске Powers/Roberts. Очень замечательный альбом этакая смесь фолк-рока с психоделией. В том же 66 году другая ам. группа"The Leaves"записала
 
       Hey Joe в одноименном альбоме (этих я не слышал).'
+    inferred_person_id: 204
   - id: 12674
     parent_id: 12634
     date: 2003-05-22 20:03
@@ -113,23 +108,13 @@ posts:
 
       Вот что узнал из http://www.heyjoe.org/lyrics.html :
 
-      William Moses Roberts Jr. был белый, возможно играл на гитаре, кажется курил, похоже что знал нотную грамоту (надо же!).
-      В 1962 он зарегил свою песню Hey Joe (та самая!).
+      William Moses Roberts Jr. был белый, возможно играл на гитаре, кажется курил, похоже что знал нотную грамоту (надо же!). В 1962 он зарегил свою песню Hey Joe (та самая!).
 
-      Но тогда кто же такие Chet Powers, Jesse Oris Farrow, Dino Valenti (Valente)? Ведь они иногда значились в кредитах именно
-      этой песни!
+      Но тогда кто же такие Chet Powers, Jesse Oris Farrow, Dino Valenti (Valente)? Ведь они иногда значились в кредитах именно этой песни!
 
-      Но больше всего поражает на том сайте список исполнителей которые её когда-то играли: более 400! Среди них: Allman,
-      Duane; Bad Company; Byrds; Carr, Eric (если не ошибаюсь из Kiss?); Cher; Clapton, Eric (Blind Faith); Dave Matthews
-      Band; Deep Purple (2 versions); Duarte, Chris; Dylan, Bob (!!!); Gilbert, Paul; Gilmour, David feat. Seal; Hendrix,
-      Jimi; Kinks (Hey Donny); Kiss; Kravitz, Lenny; Kravitz, Lenny and Healey, Jeff (!!!); Lee Albert and Shack; Lennon,
-      John (!!!); Led Zeppelin (Band of Joy); Los Lobos; Murphy Eddie (тот самый?); Nick Cave and the Bad Seeds; Offspring;
-      Procol Harum; Red Hot Chili Peppers; Rising Force (feat. Ingwie Malsteen) (да уж!); Rivers, Johnny; Sambora, Richie
-      (ба! знакомые все лица); Satriani, Joe & Rodgers, Paul; Smith, Patty; Springsteen, Bruce; Ten Years After; Warlocks;
-      Who (2 live versions); Yardbirds; Frank Zappa Mothers of Invention (Flower Punk) (бездумненькая пародия)...
+      Но больше всего поражает на том сайте список исполнителей которые её когда-то играли: более 400! Среди них: Allman, Duane; Bad Company; Byrds; Carr, Eric (если не ошибаюсь из Kiss?); Cher; Clapton, Eric (Blind Faith); Dave Matthews Band; Deep Purple (2 versions); Duarte, Chris; Dylan, Bob (!!!); Gilbert, Paul; Gilmour, David feat. Seal; Hendrix, Jimi; Kinks (Hey Donny); Kiss; Kravitz, Lenny; Kravitz, Lenny and Healey, Jeff (!!!); Lee Albert and Shack; Lennon, John (!!!); Led Zeppelin (Band of Joy); Los Lobos; Murphy Eddie (тот самый?); Nick Cave and the Bad Seeds; Offspring; Procol Harum; Red Hot Chili Peppers; Rising Force (feat. Ingwie Malsteen) (да уж!); Rivers, Johnny; Sambora, Richie (ба! знакомые все лица); Satriani, Joe & Rodgers, Paul; Smith, Patty; Springsteen, Bruce; Ten Years After; Warlocks; Who (2 live versions); Yardbirds; Frank Zappa Mothers of Invention (Flower Punk) (бездумненькая пародия)...
 
-      To: Grem. Есть у меня The Leaves - Hey Joe. Этакая смесь бита с психоделией. Та же песня, с той же гармонией, но с несколько
-      отличным от хендриксовского текстом.'
+      To: Grem. Есть у меня The Leaves - Hey Joe. Этакая смесь бита с психоделией. Та же песня, с той же гармонией, но с несколько отличным от хендриксовского текстом.'
     replies:
     - id: 12684
       parent_id: 12674
@@ -147,29 +132,19 @@ posts:
       email: elicaster@online.tm
       subject: Roberts (он же Powers, он же Farrow, он же Valente) - плагиатор?!
       deleted: false
-      text: 'Елы-палы! Да здесь почти криминальная история! Я ещё больше запутался: Hey Joe - traditional song (народная?),
-        но не это столь интересно. Похоже что Chet (or Chester) Powers, Jesse Oris Farrow и Dino Valente - на самом деле одно
-        и тоже лицо. Billy Roberts украл мелодию у своей подружки (тоже сочинительницы песен), добавил свои слова. Но судебной
-        тяжбы не последовало т.к. на записи значилось имя Dino Valente (и вроде бы это и есть Billy Roberts). Впрочем вот
-        читайте: "история песни до Хендрикса" и "Кто Есть Who"
+      text: 'Елы-палы! Да здесь почти криминальная история! Я ещё больше запутался: Hey Joe - traditional song (народная?), но не это столь интересно. Похоже что Chet (or Chester) Powers, Jesse Oris Farrow и Dino Valente - на самом деле одно и тоже лицо. Billy Roberts украл мелодию у своей подружки (тоже сочинительницы песен), добавил свои слова. Но судебной тяжбы не последовало т.к. на записи значилось имя Dino Valente (и вроде бы это и есть Billy Roberts). Впрочем вот читайте: "история песни до Хендрикса" и "Кто Есть Who"
 
         http://www.heyjoe.org/index.html
 
         Hey Joe - Introduction
 
-        "Hey Joe", a traditional song performed by many artists. Sometimes credited to Billy Roberts. Sometimes credited to
-        Chet (or Chester) Powers a.k.a. Jesse Oris Farrow, n&eacute;e Dino Valente who became the lead singer of Quicksilver
-        Messenger Service.
+        "Hey Joe", a traditional song performed by many artists. Sometimes credited to Billy Roberts. Sometimes credited to Chet (or Chester) Powers a.k.a. Jesse Oris Farrow, n&eacute;e Dino Valente who became the lead singer of Quicksilver Messenger Service.
 
-        The first group to record "Hey Joe" was the Surfaris in 1965. In 1965 "Hey Joe" was recorded by The Leaves as well.
-        In 1966 they recorded it again with a fuzztone guitar sound. Also the Byrds, Love, Shadows of Night, Warlocks and
-        many other bands recorded the song in 1966.
+        The first group to record "Hey Joe" was the Surfaris in 1965. In 1965 "Hey Joe" was recorded by The Leaves as well. In 1966 they recorded it again with a fuzztone guitar sound. Also the Byrds, Love, Shadows of Night, Warlocks and many other bands recorded the song in 1966.
 
         A Japanese group called the Golden Cups recorded a version in 1966 that adapted the song to different cultural standards.
 
-        Tim Rose recorded "Hey Joe" in 1966, one month before the Leaves'' version entered the charts. Rose played the song
-        at less than half the tempo. He changed the key of the song to E instead of A. Rose also roared out the verses, and
-        added his own variant on their structure.
+        Tim Rose recorded "Hey Joe" in 1966, one month before the Leaves'' version entered the charts. Rose played the song at less than half the tempo. He changed the key of the song to E instead of A. Rose also roared out the verses, and added his own variant on their structure.
 
         Jimi Hendrix picked up this version of "Hey Joe" and made a European hit out of it in 1967.
 
@@ -179,19 +154,13 @@ posts:
 
         Comment from Niela (Halleck) Miller, ex-girlfriend of Billy Roberts
 
-        I would like to set the record straight about Hey Joe...the Untold Story. In the late fifties, Billy Roberts was my
-        boyfriend for awhile. I was a songwriter and had written a song called "Baby Please Don''t Go To Town". It is copyrighted.
-        He STOLE it from me, kept the melody and put different words to it. thereby turning it into Hey Joe. My music publisher
-        at the time advised me against suing Billy because Dino Valente''s name appeared on the recording and it would have
-        been a long and expensive process.
+        I would like to set the record straight about Hey Joe...the Untold Story. In the late fifties, Billy Roberts was my boyfriend for awhile. I was a songwriter and had written a song called "Baby Please Don''t Go To Town". It is copyrighted. He STOLE it from me, kept the melody and put different words to it. thereby turning it into Hey Joe. My music publisher at the time advised me against suing Billy because Dino Valente''s name appeared on the recording and it would have been a long and expensive process.
 
         Please let Billy know that whenever he wants to make amends, I would welcome it.
 
         Comment from N. Jama Santers (Dino''s "Old Lady" from 1976 to 1983)
 
-        I just wanted you to know that I was Dino''s (Chet Powers) woman for 7 years. He recieved quarterly royalty statements
-        from BMI and included in the numerous song credits and royalties was the song "Hey Joe". He was born on Oct. 7, 1937
-        and he died on Nov. 16, 1994.'
+        I just wanted you to know that I was Dino''s (Chet Powers) woman for 7 years. He recieved quarterly royalty statements from BMI and included in the numerous song credits and royalties was the song "Hey Joe". He was born on Oct. 7, 1937 and he died on Nov. 16, 1994.'
       replies:
       - id: 12701
         parent_id: 12699
@@ -209,13 +178,11 @@ posts:
           email: elicaster@online.tm
           subject: Не знаю как для вас, а нам важнее Истина.
           deleted: false
-          text: 'Вот оно! Искусство в мире чистогана. Так и вижу в журнале "Ровесник" за 1962 год под рубрикой "Их нравы",
-            статья "США: Музыкант ворует мелодию у своей возлюбленной".
+          text: 'Вот оно! Искусство в мире чистогана. Так и вижу в журнале "Ровесник" за 1962 год под рубрикой "Их нравы", статья "США: Музыкант ворует мелодию у своей возлюбленной".
 
             To: Дима Казанцев.
 
-            Карп "Горбатый": Садись, мил человек. О делах наших скорбных покалякаем. Сдаётся нам что Billy Roberts и Dr. Nick
-            одно и тот же лицо...
+            Карп "Горбатый": Садись, мил человек. О делах наших скорбных покалякаем. Сдаётся нам что Billy Roberts и Dr. Nick одно и тот же лицо...
 
             Женщина: Карп! Ты на руки-то его погляди.
 

@@ -37,7 +37,7 @@
     var diff = currentYear - year;
     var agoStr = diff > 0 ? ' (' + diff + ' г. назад)' : '';
     var yearLink = '<a href="/calendar/' + ev.year + '/">' + ev.year + ' году</a>';
-    var header = '<a name="' + ev.id + '">В ' + yearLink + agoStr + '</a>';
+    var header = '<a name="' + ev.id + '" id="' + ev.id + '">В ' + yearLink + agoStr + '</a>';
     var html = '<p>';
     if (ev.picture) {
       html += '<img src="/calendar/images/' + ev.picture + '" border="0" align="right" vspace="4" hspace="8" style="max-width:180px;max-height:120px;">';
@@ -79,7 +79,7 @@
           var diff = year > 0 ? currentYear - year : 0;
           var ago = (ev.type === 'born' || ev.type === 'died') && diff > 0
             ? ' <small style="color:#999">(' + diff + '\u00a0г.\u00a0назад)</small>' : '';
-          return pfx + '<a href="/calendar/' + ev.year + '/#' + ev.id + '">' + name + '</a>' + ago;
+          return pfx + '<a href="/calendar/#' + ev.id + '">' + name + '</a>' + ago;
         });
         html += '<p>также сегодня: ' + parts.join(', ')
              + ' <a href="' + calUrl + '">(' + events.length + ' соб.) &gt;&gt;&gt;&gt;&gt;</a></p>';

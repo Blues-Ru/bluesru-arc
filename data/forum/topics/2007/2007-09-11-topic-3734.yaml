@@ -34,6 +34,7 @@ posts:
     subject: Larry Mccray
     deleted: false
     text: "На сайте у Larry Mccray нашел \n\nhttp://larrymccrayband.com/lmcalendar.html"
+    inferred_person_id: 7284
   - id: 33743
     parent_id: 33457
     date: 2007-10-28 23:21
@@ -41,5 +42,4 @@ posts:
     email: alisher1987@inbox.ru
     subject: билеты
     deleted: false
-    text: я купил билеты. а они какие-то не как всегда, как в театр. вот боюсь не
-      обманули меня? подскажите пожалуйста.
+    text: я купил билеты. а они какие-то не как всегда, как в театр. вот боюсь не обманули меня? подскажите пожалуйста.

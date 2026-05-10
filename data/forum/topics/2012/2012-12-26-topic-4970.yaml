@@ -11,15 +11,7 @@ posts:
   poster: Andrei V. Evdokimov
   subject: Владимир Кожекин, Михаил Соколов и Александр Соловьев. Эфир ТВ "Культура" от 26.12.2012
   deleted: false
-  text: <object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=10.3.0"
-    width="408" height="356" id="flvplayer_videoHost" align="middle"><param name="allowScriptAccess" value="always" /><param
-    name="allowFullScreen" value="true" /><param name="movie" value="http://player.rutv.ru/flash/flvplayer_videoHost.swf?sid=kultura&vid=194460&acc_video_id=video_id/194460/brand_id/20918"
-    /><param name="quality" value="high" /><param name="wmode" value="transparent" /><param name="devicefont" value="true"
-    /><param name="bgcolor" value="#000000" /><param name="cid" value="0"/><param name="vid" value="194460"/><param name="sid"
-    value="kultura"/><param name="acc_video_id" value="video_id/194460/brand_id/20918"/><embed src="http://player.rutv.ru/flash/flvplayer_videoHost.swf?cid=0&sid=kultura&vid=194460&acc_video_id=video_id/194460/brand_id/20918"
-    quality="high" devicefont="true" bgcolor="#000000" width="408" height="356" name="flvplayer_videoHost" align="middle"
-    allowScriptAccess="always" allowFullScreen="true" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer"
-    /></object>
+  text: <object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=10.3.0" width="408" height="356" id="flvplayer_videoHost" align="middle"><param name="allowScriptAccess" value="always" /><param name="allowFullScreen" value="true" /><param name="movie" value="http://player.rutv.ru/flash/flvplayer_videoHost.swf?sid=kultura&vid=194460&acc_video_id=video_id/194460/brand_id/20918" /><param name="quality" value="high" /><param name="wmode" value="transparent" /><param name="devicefont" value="true" /><param name="bgcolor" value="#000000" /><param name="cid" value="0"/><param name="vid" value="194460"/><param name="sid" value="kultura"/><param name="acc_video_id" value="video_id/194460/brand_id/20918"/><embed src="http://player.rutv.ru/flash/flvplayer_videoHost.swf?cid=0&sid=kultura&vid=194460&acc_video_id=video_id/194460/brand_id/20918" quality="high" devicefont="true" bgcolor="#000000" width="408" height="356" name="flvplayer_videoHost" align="middle" allowScriptAccess="always" allowFullScreen="true" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" /></object>
   replies:
   - id: 38685
     parent_id: 38684
@@ -56,4 +48,5 @@ posts:
         text: Какова такова взыскания?
         person_id: 13
       person_id: 4
+    inferred_person_id: 13
   person_id: 4

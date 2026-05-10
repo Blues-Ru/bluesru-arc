@@ -31,6 +31,7 @@ posts:
     subject: Поздравляю!
     deleted: false
     text: Rock on, buddy!
+    inferred_person_id: 7284
   - id: 32895
     parent_id: 32891
     date: 2007-05-16 01:45
@@ -39,6 +40,7 @@ posts:
     subject: Будь здрав!!!
     deleted: false
     text: Поздравляю!!!
+    inferred_person_id: 6398
   - id: 32898
     parent_id: 32891
     date: 2007-05-16 13:37
@@ -49,6 +51,7 @@ posts:
     text: 'Ю.И.,дай тебе Бог всё что нужно для счастья.
 
       Удачи и всего самого,самого,самого хоршего.'
+    inferred_person_id: 956
   - id: 32899
     parent_id: 32891
     date: 2007-05-16 15:59
@@ -56,6 +59,7 @@ posts:
     email: kaverkin@rol.ru
     subject: CПАСИБО! ГРМАДЛОБТ! ШНОРАКАЛУЦЮН! САГОЛ! РАХМАТ! THANKS! DUNCKE ! MERSI! GRACIAS! ВСЁ!
     deleted: false
+    inferred_person_id: 1719
   - id: 32900
     parent_id: 32891
     date: 2007-05-16 18:00
@@ -63,6 +67,7 @@ posts:
     email: mlives_6@hotmail.com
     subject: УРА!
     deleted: false
+    inferred_person_id: 7465
   - id: 32901
     parent_id: 32891
     date: 2007-05-16 19:22
@@ -70,6 +75,7 @@ posts:
     email: jokerthk@yandex.ru
     subject: Самые искренние поздравления!!!
     deleted: false
+    inferred_person_id: 4319
   - id: 32904
     parent_id: 32891
     date: 2007-05-17 00:18

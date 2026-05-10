@@ -32,8 +32,7 @@ posts:
     email: mlives_6@hotmail.com
     subject: Предпочитаю второй диск
     deleted: false
-    text: "Первый диск - это приятная встреча гигантов блюза.  Играют хорошо, но спокойно и лениво.  Второй диск \"live\"\
-      \ более живой.  Публика очень живая.  Мне особенно нравится выступление Eddie \"Cleanhead\" Vinson.  \n\nMuddy"
+    text: "Первый диск - это приятная встреча гигантов блюза.  Играют хорошо, но спокойно и лениво.  Второй диск \"live\" более живой.  Публика очень живая.  Мне особенно нравится выступление Eddie \"Cleanhead\" Vinson.  \n\nMuddy"
     replies:
     - id: 24748
       parent_id: 24747
@@ -44,3 +43,5 @@ posts:
       deleted: false
       text: ясное дело :)
       person_id: 335
+    inferred_person_id: 7465
+  inferred_person_id: 335

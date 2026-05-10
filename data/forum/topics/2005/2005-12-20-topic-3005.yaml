@@ -30,4 +30,5 @@ posts:
     email: gypsy@mail.ru
     subject: Кашмар на улице Вязов... серия следующая, далеко не последняя )))
     deleted: false
+    inferred_person_id: 13
   person_id: 2

@@ -26,3 +26,4 @@ posts:
     deleted: false
     text: это явно не Андрей! но вроде мужик!
     person_id: 335
+  inferred_person_id: 13

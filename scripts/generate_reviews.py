@@ -39,6 +39,8 @@ def generate_reviews():
 
     by_month = defaultdict(list)
 
+    # Group reviews by album page URL so multiple reviews render on one page
+    by_url = OrderedDict()
     for meta, body in reviews:
         review_slug = meta.get('slug', '')
         album_id = str(meta.get('album_id', ''))
@@ -50,7 +52,6 @@ def generate_reviews():
         album_slug = album.get('slug', '') or review_slug
         url_album_slug = _strip_artist_prefix(a_slug, album_slug)
         new_url = f'/artist/{a_slug}/{url_album_slug}/'
-        legacy_dir = a_slug
 
         mark = meta.get('mark')
         review_data = {
@@ -63,13 +64,38 @@ def generate_reviews():
             'mark_text': _format_mark(mark) if mark else '',
         }
 
+        date_str = str(meta.get('date', ''))
+        if new_url not in by_url:
+            by_url[new_url] = {
+                'album': album,
+                'artist': artist,
+                'a_slug': a_slug,
+                'url_album_slug': url_album_slug,
+                'new_url': new_url,
+                'reviews': [],
+                'date_str': date_str,
+            }
+        if body:
+            by_url[new_url]['reviews'].append(review_data)
+        # keep earliest date for index
+        if date_str < by_url[new_url]['date_str'] or not by_url[new_url]['date_str']:
+            by_url[new_url]['date_str'] = date_str
+
+    for page in by_url.values():
+        album = page['album']
+        artist = page['artist']
+        a_slug = page['a_slug']
+        url_album_slug = page['url_album_slug']
+        new_url = page['new_url']
+        date_str = page['date_str']
         alb_slug = album.get('slug', '')
+
         out = tmpl.render(
             album=album,
             cover_url=cover_url_for_asin(album.get('asin', '')),
             artist_name=artist.get('name') or album.get('artist') or '',
-            artist_legacy_path=legacy_dir,
-            reviews=[review_data] if body else [],
+            artist_legacy_path=a_slug,
+            reviews=page['reviews'],
             streaming_links=streaming_links_html(alb_slug, kind='album'),
             artist_streaming_links=streaming_links_html(a_slug, kind='artist'),
             footer=FOOTER,
@@ -77,21 +103,20 @@ def generate_reviews():
         dst = SITE / 'artist' / a_slug / url_album_slug / 'index.html'
         dst.parent.mkdir(parents=True, exist_ok=True)
         dst.write_text(out, encoding='utf-8')
-
         generated += 1
 
-        date_str = str(meta.get('date', ''))
+        first_review = page['reviews'][0] if page['reviews'] else {}
         month_key = date_str[:7] if len(date_str) >= 7 else '0000-00'
         by_month[month_key].append({
             'url': new_url,
             'artist_name': artist.get('name') or album.get('artist') or '',
-            'album_title': album.get('title') or meta.get('album') or '',
+            'album_title': album.get('title') or album.get('artist') or '',
             'year': album.get('year', ''),
-            'author': meta.get('author', ''),
+            'author': first_review.get('author', ''),
             'asin': album.get('asin', ''),
             'cover_url': cover_url_for_asin(album.get('asin', '')),
             'date_str': date_str,
-            'mark': mark,
+            'mark': first_review.get('mark'),
         })
 
     month_keys = sorted(by_month.keys(), reverse=True)

@@ -11,8 +11,7 @@ posts:
   poster: Эльдар
   subject: Карта :-)
   deleted: false
-  text: 'В общем так: садитесь на Лед Зеппелин, доезжаете до Клэптона, пересаживаетесь на синюю линию и едете через Джефф
-    Бека не доезжая до Дайэр Стрейтс. Вот вам и ваш СРВ! <img src="http://mg1.odnoklassniki.ru/res/def/img/sm/11.gif" align="bottom">
+  text: 'В общем так: садитесь на Лед Зеппелин, доезжаете до Клэптона, пересаживаетесь на синюю линию и едете через Джефф Бека не доезжая до Дайэр Стрейтс. Вот вам и ваш СРВ! <img src="http://mg1.odnoklassniki.ru/res/def/img/sm/11.gif" align="bottom">
 
     Карта <a href="http://farm3.static.flickr.com/2654/4144781475_16697627b6_o.jpg">здесь</a>.'
   replies:
@@ -30,8 +29,7 @@ posts:
     poster: Федор Романенко
     subject: Прикольная карта!
     deleted: false
-    text: Я не сразу понял принцип составления. Линии - это жанры, приписанные группам. Пересадки - это популярные группы,
-      играющие в разных жанрах. ;)
+    text: Я не сразу понял принцип составления. Линии - это жанры, приписанные группам. Пересадки - это популярные группы, играющие в разных жанрах. ;)
     person_id: 2
   - id: 36776
     parent_id: 36771
@@ -55,6 +53,7 @@ posts:
       на карте почти все правильно — исправил три самые досадные ошибки
 
       <img src="http://mg1.odnoklassniki.ru/res/def/img/sm/04.gif" align="bottom">'
+    inferred_person_id: 7202
   - id: 37253
     parent_id: 36771
     date: 2010-12-30 19:00
@@ -71,3 +70,4 @@ posts:
     deleted: false
     text: <img src="http://ia17.odnoklassniki.ru/getImage?photoId=268199889842&photoType=0" align="bottom">
     person_id: 7202
+  inferred_person_id: 7202

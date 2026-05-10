@@ -20,6 +20,7 @@ posts:
     email: Lars@List.ru
     subject: да вроде бы в том же клубе, в Лужниках.. время не помню
     deleted: false
+    inferred_person_id: 1828
   - id: 16750
     parent_id: 16725
     date: 2004-01-09 19:53

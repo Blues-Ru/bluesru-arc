@@ -12,8 +12,7 @@ posts:
   email: axledog@mail.ru
   subject: Блюз в Крылатском. Билеты VIP заканчиваются
   deleted: false
-  text: Желающим удобно сидеть и вежливо обслуживаться на фестивале рекомендую не откладывать покупку билетов. Они (билеты)
-    продаются только в Би Би Кинге.
+  text: Желающим удобно сидеть и вежливо обслуживаться на фестивале рекомендую не откладывать покупку билетов. Они (билеты) продаются только в Би Би Кинге.
   replies:
   - id: 22052
     parent_id: 22051
@@ -31,6 +30,7 @@ posts:
       email: axledog@mail.ru
       subject: само собой
       deleted: false
+      inferred_person_id: 7206
     person_id: 335
   - id: 22072
     parent_id: 22051
@@ -65,5 +65,8 @@ posts:
           email: axledog@mail.ru
           subject: Билеты по флайеру продаются только в Би Би Кинге
           deleted: false
+          inferred_person_id: 7206
         person_id: 671
+      inferred_person_id: 7206
     person_id: 671
+  inferred_person_id: 7206

@@ -40,12 +40,7 @@ posts:
       email: ragtime@blues.ru
       subject: Buddy Guy
       deleted: false
-      text: "Эту песню я услышал на альбоме Heavy Love Бадди Гая, называется она \nLet me show you\n\nLet me show you I love\
-        \ you\nEach and every day\nI would not havin'\nAny other way\n\nMy mother she taught me\nHow to show you my love\n\
-        Because my way's in action\nSpeak much louder than words\n\nPut your arms around my waist\nAnd look direct in my face\n\
-        And I'll show you I love you\nAnd no one else can take your place\n\n\nLet me show you I love you\nEach and every\
-        \ day\nBecause I would not never havin'\nAny other way\n\nPut your arms around my waist\nAnd look me direct in my\
-        \ face\nAnd I'll show you I love you\nAnd no one else can take your place"
+      text: "Эту песню я услышал на альбоме Heavy Love Бадди Гая, называется она \nLet me show you\n\nLet me show you I love you\nEach and every day\nI would not havin'\nAny other way\n\nMy mother she taught me\nHow to show you my love\nBecause my way's in action\nSpeak much louder than words\n\nPut your arms around my waist\nAnd look direct in my face\nAnd I'll show you I love you\nAnd no one else can take your place\n\n\nLet me show you I love you\nEach and every day\nBecause I would not never havin'\nAny other way\n\nPut your arms around my waist\nAnd look me direct in my face\nAnd I'll show you I love you\nAnd no one else can take your place"
       replies:
       - id: 24109
         parent_id: 24096
@@ -57,4 +52,5 @@ posts:
         text: 'Она самая!
 
           Спасибо.'
+      inferred_person_id: 7284
     person_id: 2

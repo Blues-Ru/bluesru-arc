@@ -88,6 +88,7 @@ posts:
                   text: 'Это Союз Крайних Сил? или Самая Крутая Сила?
 
                     а я так и не пошел голосовать: избир. участок далековато. лень.'
+                  inferred_person_id: 7202
                 - id: 34006
                   parent_id: 34004
                   date: 2007-12-02 16:27
@@ -98,6 +99,7 @@ posts:
                   text: 'Это Союз Крайних Сил? или Самая Крутая Сила?
 
                     а я так и не пошел голосовать: избир. участок далековато. лень.'
+                  inferred_person_id: 7202
                 - id: 34010
                   parent_id: 34004
                   date: 2007-12-02 20:23
@@ -126,7 +128,13 @@ posts:
                       subject: '...'
                       deleted: false
                       text: Inshallah...
+                    inferred_person_id: 13
                   person_id: 5
+                inferred_person_id: 13
+              inferred_person_id: 7202
             person_id: 5
+          inferred_person_id: 13
         person_id: 5
+      inferred_person_id: 7202
     person_id: 5
+  inferred_person_id: 335

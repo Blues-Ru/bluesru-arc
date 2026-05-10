@@ -166,6 +166,7 @@ posts:
                       text: 'Бим уже умер...
 
                         Хотя может оно и к лучшему, что он жив...'
+                      inferred_person_id: 783
                     person_id: 783
                   - id: 6543
                     parent_id: 6539
@@ -174,13 +175,7 @@ posts:
                     email: morehemp@mail.ru
                     subject: On Friday, November 17th 2000,
                     deleted: false
-                    text: the news of Bim Sherman's death - one of the true unsung heroes of roots music as well as reggae's
-                      most enduring cult figures - reached the reggae massive worldwide. After he got injured as a result
-                      of a fall, Bim Sherman was admitted to hospital where, on examination, he was found to have cancer.
-                      Then health matters didn't go well and within one week he passed away. It is obvious that his unexpected
-                      sudden death is a great lost for his family and friends. But be convinced that Bim Sherman's many committed
-                      fans, who supported the artist and his music for two and a half decades by now, are also mourning for
-                      the lost of this truly very underrated, extremely talented and diverse artist.
+                    text: the news of Bim Sherman's death - one of the true unsung heroes of roots music as well as reggae's most enduring cult figures - reached the reggae massive worldwide. After he got injured as a result of a fall, Bim Sherman was admitted to hospital where, on examination, he was found to have cancer. Then health matters didn't go well and within one week he passed away. It is obvious that his unexpected sudden death is a great lost for his family and friends. But be convinced that Bim Sherman's many committed fans, who supported the artist and his music for two and a half decades by now, are also mourning for the lost of this truly very underrated, extremely talented and diverse artist.
                     replies:
                     - id: 6544
                       parent_id: 6543
@@ -192,6 +187,8 @@ posts:
                       text: Я и не знал ;(
                       person_id: 335
                   person_id: 335
+                inferred_person_id: 783
+              inferred_person_id: 335
             - id: 6540
               parent_id: 6534
               date: 2002-08-04 20:14
@@ -201,6 +198,7 @@ posts:
               deleted: false
               text: Саш, мы другую песню вспоминали.
               person_id: 335
+            inferred_person_id: 783
           person_id: 335
         person_id: 783
     person_id: 335
@@ -213,10 +211,10 @@ posts:
     deleted: false
     text: 'хорошая, теплая такая, летняя, отпускная...
 
-      А кстати есть класный кавер на Over the Rainbow - на альбоме Punck Ska Covers, играет по-моему NoFX, звучит бодро и
-      смешно...
+      А кстати есть класный кавер на Over the Rainbow - на альбоме Punck Ska Covers, играет по-моему NoFX, звучит бодро и смешно...
 
       А слова можно спросить на сайте, по-моему reggae.ru, если он еще жив :)'
+    inferred_person_id: 783
   - id: 6526
     parent_id: 6521
     date: 2002-08-03 14:50
@@ -304,3 +302,4 @@ posts:
             text: Только выглядит старовато; мужик-то он молодой.
             person_id: 335
         person_id: 335
+    inferred_person_id: 335

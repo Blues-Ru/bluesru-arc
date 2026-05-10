@@ -44,3 +44,5 @@ posts:
       subject: Не понял претензии.
       deleted: false
       text: Я только вчера ЭТО увидел, вот и отреагировал.
+      inferred_person_id: 13
+  inferred_person_id: 13

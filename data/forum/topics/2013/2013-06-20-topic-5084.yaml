@@ -86,6 +86,8 @@ posts:
                 person_id: 13
               person_id: 4
             person_id: 13
+          inferred_person_id: 4
         person_id: 13
+      inferred_person_id: 7264
     person_id: 13
   person_id: 4

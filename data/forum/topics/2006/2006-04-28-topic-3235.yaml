@@ -24,5 +24,6 @@ posts:
     email: volodya@blues.ru
     subject: в порядке саморекламы :)))
     deleted: false
-    text: "небольшое видео от тудаже вот тут \n\n<A HREF=\"http://vrbluescat.livejournal.com/14921.html\"\
-      >http://vrbluescat.livejournal.com/14921.html</A>"
+    text: "небольшое видео от тудаже вот тут \n\n<A HREF=\"http://vrbluescat.livejournal.com/14921.html\">http://vrbluescat.livejournal.com/14921.html</A>"
+    inferred_person_id: 5
+  inferred_person_id: 5

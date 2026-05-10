@@ -21,4 +21,5 @@ posts:
     email: grems@yandex.ru
     subject: А что играет этот самый "Петрович"???
     deleted: false
+    inferred_person_id: 204
   person_id: 2563

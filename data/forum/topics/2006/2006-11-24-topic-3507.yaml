@@ -12,13 +12,11 @@ posts:
   email: еlicaster мeйлтoчкapy
   subject: Hey, Good Lookin' - кто исполняет?
   deleted: false
-  text: 'Слушаю сейчас Dwight Yoakam and Buckwheat Zydeco - Hey, Good Lookin''. хорошая, веселая штука! Вот и вспомнил, я
-    уже как-то спрашивал:
+  text: 'Слушаю сейчас Dwight Yoakam and Buckwheat Zydeco - Hey, Good Lookin''. хорошая, веселая штука! Вот и вспомнил, я уже как-то спрашивал:
 
     Кто из блюзменов исполнял эту вещь Хэнка Уильямса?
 
-    Дело в томи что однажды я слыхал её по радио (если не ошибаюсь название передачи "В блюзовых тонах", вёл её Н.Арутюнов,
-    конец 80-ых), была она в исполнении какого-то блюзмена. Запись старая (50-ые, 60-ые гг.)
+    Дело в томи что однажды я слыхал её по радио (если не ошибаюсь название передачи "В блюзовых тонах", вёл её Н.Арутюнов, конец 80-ых), была она в исполнении какого-то блюзмена. Запись старая (50-ые, 60-ые гг.)
 
     Я тогда и не знал что изначально это кантри песня, звучала она абсолютно по блюзовому...
 
@@ -45,6 +43,7 @@ posts:
       subject: Нет, не то :-(
       deleted: false
       text: Не то что ищу, к сожалению...
+      inferred_person_id: 7202
     person_id: 2
   - id: 29429
     parent_id: 29426
@@ -84,6 +83,7 @@ posts:
         > Тогда даже кто-то предположил что Мадди Уотерс...
 
         На самом деле было предположение что это Alexis Korner...'
+      inferred_person_id: 7202
     - id: 29433
       parent_id: 29430
       date: 2006-11-25 19:31
@@ -95,8 +95,7 @@ posts:
 
         mp3 файл заархивирован в zip: 0.7 Mb, 64 Kbps, 22 KHz, 01:34
 
-        Скачать можно <a href="http://file009r.mylivepage.com/chunk9/26234/31/Hey%2C%20Good%20Looking.zip">тут</a> или <a
-        href="http://elicaster.mylivepage.ru/file/31/1309/Hey%2C+Good+Looking.zip">здесь</a>.
+        Скачать можно <a href="http://file009r.mylivepage.com/chunk9/26234/31/Hey%2C%20Good%20Looking.zip">тут</a> или <a href="http://elicaster.mylivepage.ru/file/31/1309/Hey%2C+Good+Looking.zip">здесь</a>.
 
         Если не получится, то <a href="http://elicaster.mylivepage.ru/file/?fileid=1309">отсюда</a> точно должно получИтся.'
       replies:
@@ -108,6 +107,8 @@ posts:
         subject: ^ это только отрывок записанный тогда с радио. Кто же это поёт?
         deleted: false
         text: Так ктоже этот исполнитель?
+        inferred_person_id: 7202
+      inferred_person_id: 7202
     person_id: 335
   - id: 29448
     parent_id: 29426
@@ -117,6 +118,7 @@ posts:
     subject: НЕУЖТО НЕ сможете распознать исполнителя?
     deleted: false
     text: Братцы, пожалуйста, гляньте на эту композицию.
+    inferred_person_id: 7202
   - id: 30119
     parent_id: 29426
     date: 2006-12-25 06:04
@@ -124,6 +126,7 @@ posts:
     email: еlicaster C06AKAmаiI.ru
     subject: так и не прояснилось...
     deleted: false
+    inferred_person_id: 7202
   - id: 39210
     parent_id: 29426
     date: 2014-06-01 17:11
@@ -137,3 +140,5 @@ posts:
       http://www.youtube.com/watch?v=Jp5a8YBpk3w
 
       http://www.youtube.com/watch?v=iD9C5bWokh0'
+    inferred_person_id: 7202
+  inferred_person_id: 7202

@@ -12,8 +12,7 @@ posts:
   email: fghfjhyg
   subject: Latimore-гений ))
   deleted: false
-  text: '"Блюз - это празднование преодоления человеком бедствий и несчастий, которые могли и с вами приключиться. Нельзя
-    махнуть рукой на свою жизнь. Вся идея состоит в том, чтобы вершины были не слишком высоки, а дно не слишком глубоко."'
+  text: '"Блюз - это празднование преодоления человеком бедствий и несчастий, которые могли и с вами приключиться. Нельзя махнуть рукой на свою жизнь. Вся идея состоит в том, чтобы вершины были не слишком высоки, а дно не слишком глубоко."'
   replies:
   - id: 35308
     parent_id: 35303
@@ -28,8 +27,7 @@ posts:
       Some people say the blues are too sad.
 
 
-      That’s not it at all. It’s a celebration or a triumph over adversity that you may have had. You don’t give up on life.
-      The idea is not to let the peaks get too high and the bottoms too low.'
+      That’s not it at all. It’s a celebration or a triumph over adversity that you may have had. You don’t give up on life. The idea is not to let the peaks get too high and the bottoms too low.'
     replies:
     - id: 35309
       parent_id: 35308
@@ -129,9 +127,8 @@ posts:
                     email: aaa@genebee.msu.su
                     subject: Формы
                     deleted: false
-                    text: "Цитируется строчка по хари-блюзлирикс дословно. \nСтарый Уж знает сам... Это черный английский.\
-                      \ Там так можно. Если отвечать совсем по существу, форма сия скорее не от неграмотности, а от куража\
-                      \ автора. Вот такие-де мы чёрные. And my рара done told me too, как говорится."
+                    text: "Цитируется строчка по хари-блюзлирикс дословно. \nСтарый Уж знает сам... Это черный английский. Там так можно. Если отвечать совсем по существу, форма сия скорее не от неграмотности, а от куража автора. Вот такие-де мы чёрные. And my рара done told me too, как говорится."
+                    inferred_person_id: 458
                   - id: 35324
                     parent_id: 35320
                     date: 2008-04-17 06:13
@@ -148,9 +145,7 @@ posts:
                       email: gypsy@mail.ru
                       subject: Дорогой Muddy...
                       deleted: false
-                      text: "..мы, русские, со школы приучены, что окончание глаголов -s или -es соответствует глагольной\
-                        \ форме третьего лица: He rules his den, she rules her little thing and so on. \nКогда мы встречаем\
-                        \ форму \"I rules..\", мы в недоумении - это неизвестная нам грамматическая норма или всё-таки отклонение?"
+                      text: "..мы, русские, со школы приучены, что окончание глаголов -s или -es соответствует глагольной форме третьего лица: He rules his den, she rules her little thing and so on. \nКогда мы встречаем форму \"I rules..\", мы в недоумении - это неизвестная нам грамматическая норма или всё-таки отклонение?"
                       replies:
                       - id: 35326
                         parent_id: 35325
@@ -159,9 +154,7 @@ posts:
                         email: mlives_6@hotmail.com
                         subject: Извени
                         deleted: false
-                        text: "Не все читал, что надо было.  Я предпологал, что замечание относится к фразе Latimore.  \n\n\
-                          Да, Такой оборот довольно часто встречался в негретянской речи.  Теперь меньше.  \n\nMuddy \n\n\
-                          P.S.  I loves me some blues!"
+                        text: "Не все читал, что надо было.  Я предпологал, что замечание относится к фразе Latimore.  \n\nДа, Такой оборот довольно часто встречался в негретянской речи.  Теперь меньше.  \n\nMuddy \n\nP.S.  I loves me some blues!"
                         replies:
                         - id: 35327
                           parent_id: 35326
@@ -170,7 +163,16 @@ posts:
                           email: gypsy@mail.ru
                           subject: Old Mwamba do love blues too ))
                           deleted: false
+                        inferred_person_id: 7465
+                      inferred_person_id: 13
+                    inferred_person_id: 7465
+                inferred_person_id: 458
+              inferred_person_id: 13
             person_id: 4
+          inferred_person_id: 13
+        inferred_person_id: 4
+      inferred_person_id: 13
+    inferred_person_id: 4
   - id: 35321
     parent_id: 35303
     date: 2008-04-16 16:51
@@ -179,3 +181,4 @@ posts:
     subject: Кстати, это какой из Латиморов? Бенни?
     deleted: false
     text: А то их много, и все Латиморы!
+    inferred_person_id: 13

@@ -66,8 +66,7 @@ posts:
             email: fedor@blues.ru
             subject: Crossroadz
             deleted: false
-            text: Это не опечатка. Crossroadz - это название группы, буква z - сленговая форма множественного числа. Песня
-              называется Crossroads.
+            text: Это не опечатка. Crossroadz - это название группы, буква z - сленговая форма множественного числа. Песня называется Crossroads.
             replies:
             - id: 21926
               parent_id: 21923
@@ -81,5 +80,10 @@ posts:
                 Я имела ввиду, что опечатка в названии песни! Я написала на конце букву Z, а надо было S
 
                 Вот я о чём!!'
+              inferred_person_id: 3588
             person_id: 2
+          inferred_person_id: 3588
+        inferred_person_id: 2
+      inferred_person_id: 3588
     person_id: 2
+  inferred_person_id: 3588

@@ -11,8 +11,7 @@ posts:
   poster: Andrei V. Evdokimov
   subject: Популярная блюзовая певица Людмила Соколова
   deleted: false
-  text: 'вот тут про нее пишут: <a href="http://www.newsmusic.ru/news_3_19623">http://www.newsmusic.ru/news_3_19623.htm</a>...
-    заметка, т.с., сенсационного характера.'
+  text: 'вот тут про нее пишут: <a href="http://www.newsmusic.ru/news_3_19623">http://www.newsmusic.ru/news_3_19623.htm</a>... заметка, т.с., сенсационного характера.'
   replies:
   - id: 36929
     parent_id: 36928
@@ -72,9 +71,7 @@ posts:
           deleted: false
           text: 'Ну, теперича мы знаем что самая популярная блюзовая певица в ОАЭ это Ludmila Soko''lova
 
-            <a href="http://www.ludasokolova.com/biography.html">Утонченный вкус к хорошей музыке был сформирован ее любимыми
-            исполнителями, такими, как: Tina Turner , Sade , Joe Cocker , Sting , Bryan Adams , а также многими джазовыми
-            и блюзовыми музыкантами.</a>'
+            <a href="http://www.ludasokolova.com/biography.html">Утонченный вкус к хорошей музыке был сформирован ее любимыми исполнителями, такими, как: Tina Turner , Sade , Joe Cocker , Sting , Bryan Adams , а также многими джазовыми и блюзовыми музыкантами.</a>'
           replies:
           - id: 36940
             parent_id: 36936
@@ -84,6 +81,7 @@ posts:
             deleted: false
             text: <a href="http://www.1tv.ru/anons/id=157966">Мелодрама "Мой осенний блюз"</a>
             person_id: 7202
+          inferred_person_id: 7202
         person_id: 335
       person_id: 7202
     person_id: 7219

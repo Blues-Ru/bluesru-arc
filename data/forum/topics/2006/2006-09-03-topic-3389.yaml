@@ -35,9 +35,7 @@ posts:
     email: timot@mail.ru
     subject: Козырно!
     deleted: false
-    text: "Лабудай? А Лабудай?\nЧё стоит переписать, а?\n Но всё равно Fairfield Four зычно поёт и душевно, а Золотоворотский\
-      \ Квартет я, являясь представителем, позора российского блюза, к своему стыду так и не слышал. Оно мне надо для моего\
-      \ умственно отсталого развития."
+    text: "Лабудай? А Лабудай?\nЧё стоит переписать, а?\n Но всё равно Fairfield Four зычно поёт и душевно, а Золотоворотский Квартет я, являясь представителем, позора российского блюза, к своему стыду так и не слышал. Оно мне надо для моего умственно отсталого развития."
     replies:
     - id: 28578
       parent_id: 28577
@@ -77,9 +75,7 @@ posts:
       email: timot@mail.ru
       subject: Бу ха гы га га!
       deleted: false
-      text: 'И ведь верно подмечено, всегда как только заеду за МКАД,  как завижу лепоту Москвскую , душа так и просицца песней
-        зычной наружу : Джаджмент Дэй! Джаджмент Дэй! А поют то у нас в селе так, что б "в Правлении слышно было"( Бурлакова
-        Фрося (с))! Так что, обещать не могу, что сон не потревожу. Мне ж прописка ваша неведома.
+      text: 'И ведь верно подмечено, всегда как только заеду за МКАД,  как завижу лепоту Москвскую , душа так и просицца песней зычной наружу : Джаджмент Дэй! Джаджмент Дэй! А поют то у нас в селе так, что б "в Правлении слышно было"( Бурлакова Фрося (с))! Так что, обещать не могу, что сон не потревожу. Мне ж прописка ваша неведома.
 
 
         а за адрес для скачивания буду благодарен.'
@@ -91,8 +87,7 @@ posts:
         email: mlives@hotmail.com
         subject: Некоторые замечательные записи квартетов находятся здесь
         deleted: false
-        text: "Fairfield Four нет.  Но есть не хуже.  Особенно рекомендую Spirit of Memphis, Soul Stirrers, Sensational Nightingales,\
-          \ Five Blind Boys of Mississippi, Caravans, Swan Silvertones.  \n\nMuddy"
+        text: "Fairfield Four нет.  Но есть не хуже.  Особенно рекомендую Spirit of Memphis, Soul Stirrers, Sensational Nightingales, Five Blind Boys of Mississippi, Caravans, Swan Silvertones.  \n\nMuddy"
         replies:
         - id: 28584
           parent_id: 28583
@@ -101,6 +96,9 @@ posts:
           email: mlives_6@hotmail.com
           subject: http://www.dovesong.com/MP3/MP3_BlackGospel.asp
           deleted: false
+          inferred_person_id: 7465
+        inferred_person_id: 7465
+    inferred_person_id: 13
   - id: 28580
     parent_id: 28575
     date: 2006-09-04 10:04
@@ -108,11 +106,8 @@ posts:
     email: mlives_6@hotmail.com
     subject: Fairfield
     deleted: false
-    text: 'Давно существует этот замечательный квартет.  В "золотые годы госпела (1945-1960)," они вместе с Spirit of Memphis
-      являлись самыми сильными квартетами в Мемфисе.  До сих пор поют составы Fairfield Four и Spirit of Memphis.  И очень
-      хорошо поют.  Тем не менее прежде всего стоит слушать классики из 1940-ых и 1950-ых годов.  В это время главный певец
-      Fairfield Four был Sam McCrary.  МсСrary - это кумир Би Би Кинга, и его главное вокальное влияние.  В Spirit of Memphis
-      пела велколепная тройка: Silas Steele, Little Axe Bкoadnax, и Jet Bledsoe.  Вот это были певцы, ребята!
+    text: 'Давно существует этот замечательный квартет.  В "золотые годы госпела (1945-1960)," они вместе с Spirit of Memphis являлись самыми сильными квартетами в Мемфисе.  До сих пор поют составы Fairfield Four и Spirit of Memphis.  И очень хорошо поют.  Тем не менее прежде всего стоит слушать классики из 1940-ых и 1950-ых годов.  В это время главный певец Fairfield Four был Sam McCrary.  МсСrary - это кумир Би Би Кинга, и его главное вокальное влияние.  В Spirit of Memphis пела велколепная тройка: Silas Steele, Little Axe Bкoadnax, и Jet Bledsoe.  Вот это были певцы, ребята!
 
 
       Muddy'
+    inferred_person_id: 7465

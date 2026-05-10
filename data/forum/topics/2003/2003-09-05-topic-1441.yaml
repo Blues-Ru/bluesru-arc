@@ -45,6 +45,7 @@ posts:
       text: 'то могу тебе всё прописать, а ты мне на джеме (например) отдашь болванки и получишь копии.
 
         пиши в мыло!'
+      inferred_person_id: 335
     person_id: 4
   - id: 14164
     parent_id: 14158
@@ -122,3 +123,4 @@ posts:
               person_id: 335
           person_id: 335
       person_id: 335
+  inferred_person_id: 335

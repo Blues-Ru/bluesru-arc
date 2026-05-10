@@ -35,8 +35,8 @@ posts:
       email: morehemp@mail.ru
       subject: Странные у Вас какие-то
       deleted: false
-      text: "песнопения :) \nTimes have changed and times are strange\nHere I come, but I ain't the same\nMaamaaa, I'm Coming\
-        \ Hoome... ;)))"
+      text: "песнопения :) \nTimes have changed and times are strange\nHere I come, but I ain't the same\nMaamaaa, I'm Coming Hoome... ;)))"
+    inferred_person_id: 2
   - id: 2870
     parent_id: 2815
     date: 2002-03-27 10:00

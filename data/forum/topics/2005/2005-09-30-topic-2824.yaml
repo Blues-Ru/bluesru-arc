@@ -12,18 +12,7 @@ posts:
   email: fedor@blues.ru
   subject: Отечественные блюзовые диски
   deleted: false
-  text: "Я провожу инвентаризацию отечественных блюзовых дисков. Вот список, который я составил на данный момент. Пожалуйста,\
-    \ дополните и поправьте, если я что-то забыл или переврал. Спасибо!\n\nД-р Аграновский и Черный Хлеб - Тик\nАрсен Шомахов\
-    \ и Регтайм - Heavy Steppin'\nАрсен Шомахов и Регтайм - Troublemaker\nBlackmailers Blues Band - Zlatno Zrno Blues \nBlues\
-    \ Cousins - Blues Cousins\nBlues Cousins - Дождь\nBlues Cousins - Hoochie Coochie Man\nBlues Cousins - Moscow Boogie\n\
-    Mishouris & His Orchestra - I Got Money\nBig Blues Revival - Blues In Use\nBig Blues Revival - Danger Man Playing\nBig\
-    \ Blues Revival - Black Gold For White House\nBig Blues Revival - The Lost Blues Band\nBig Blues Revival - Color Of The\
-    \ Blues\nBig Blues Revival - Северный Блюз\nBig Blues Revival - Мир от Майка\nBlues Doctors - Blues Collection Vol. 1\n\
-    Nickolay Sadikov & Blues Hammer Band - Charter Flight\nBlues Hammer Band - Lonesome Blues\nCrossroadz - Salado\nCrossroadz\
-    \ - Blues Lives in Russia\nCrossroadz - Между\nCrossroadz - Iron Blues\nJAM - Blues For My Babe\nModern Blues Band - The\
-    \ Reverse Side of the Blues\nSvet Boogie Band - Nothing But Love\nSvet Boogie Band - Live At JVL Art Club \nSvet & Al\
-    \ Boogie Band - Happy With The Boogie\nBig Val - In My Kitchen\nValery Belinov, King B. - Let The Big Dog Eat\nСтанция\
-    \ Мир - Current Bluesic\nСтанция Мир - Станция Мир"
+  text: "Я провожу инвентаризацию отечественных блюзовых дисков. Вот список, который я составил на данный момент. Пожалуйста, дополните и поправьте, если я что-то забыл или переврал. Спасибо!\n\nД-р Аграновский и Черный Хлеб - Тик\nАрсен Шомахов и Регтайм - Heavy Steppin'\nАрсен Шомахов и Регтайм - Troublemaker\nBlackmailers Blues Band - Zlatno Zrno Blues \nBlues Cousins - Blues Cousins\nBlues Cousins - Дождь\nBlues Cousins - Hoochie Coochie Man\nBlues Cousins - Moscow Boogie\nMishouris & His Orchestra - I Got Money\nBig Blues Revival - Blues In Use\nBig Blues Revival - Danger Man Playing\nBig Blues Revival - Black Gold For White House\nBig Blues Revival - The Lost Blues Band\nBig Blues Revival - Color Of The Blues\nBig Blues Revival - Северный Блюз\nBig Blues Revival - Мир от Майка\nBlues Doctors - Blues Collection Vol. 1\nNickolay Sadikov & Blues Hammer Band - Charter Flight\nBlues Hammer Band - Lonesome Blues\nCrossroadz - Salado\nCrossroadz - Blues Lives in Russia\nCrossroadz - Между\nCrossroadz - Iron Blues\nJAM - Blues For My Babe\nModern Blues Band - The Reverse Side of the Blues\nSvet Boogie Band - Nothing But Love\nSvet Boogie Band - Live At JVL Art Club \nSvet & Al Boogie Band - Happy With The Boogie\nBig Val - In My Kitchen\nValery Belinov, King B. - Let The Big Dog Eat\nСтанция Мир - Current Bluesic\nСтанция Мир - Станция Мир"
   replies:
   - id: 23485
     parent_id: 23480
@@ -35,6 +24,7 @@ posts:
     text: 'Братецкий и Кораблин Long distance call
 
       Альбомы Svet Boogie Band: http://svetboogieband.blues.ru/r-music.htm'
+    inferred_person_id: 2351
   - id: 23487
     parent_id: 23480
     date: 2005-09-30 17:41
@@ -50,12 +40,8 @@ posts:
     email: peregnoy@mail.ru
     subject: В алфавитном порядке. Что-то из смежного...
     deleted: false
-    text: "Blues Cousins \"Live 2003\"\nBlues Mobile Band \"Out In The Blue\"\nBlues Mobile Band \"A New day Yesterday\"\n\
-      Bob Korablin & Alex Bratetsky \"Elephant Blues\"\nBoogie Chillen \"Welcome Home!\"\nMishouris Swingin' Orchestra \"\
-      Welcome To Isuisorisuainina\"\nS.Kashin \"Om Giants' Shoulders...\"\nStainless Blues Band \"Acoustic\"\nА.Белов, А.Белов,\
-      \ А.Белов \"Удачное приобретение\"\nКроссроудз \"Живая коллекция\"\nЛига блюза \"Да здравствует ритм энд блюз!\"\nЛига\
-      \ блюза \"Неужели прошло 15 лет\"\nЛига блюза \"Живая коллекция\"\nОфф бит \"Офф бит\"\nOff Beat \"That's What I Am\"\
-      \nСборник \"The Night Blues Festival\"\nСборник \"Блюз в России\" \nТреф \"Равновесие\"\nТреф \"Треф\""
+    text: "Blues Cousins \"Live 2003\"\nBlues Mobile Band \"Out In The Blue\"\nBlues Mobile Band \"A New day Yesterday\"\nBob Korablin & Alex Bratetsky \"Elephant Blues\"\nBoogie Chillen \"Welcome Home!\"\nMishouris Swingin' Orchestra \"Welcome To Isuisorisuainina\"\nS.Kashin \"Om Giants' Shoulders...\"\nStainless Blues Band \"Acoustic\"\nА.Белов, А.Белов, А.Белов \"Удачное приобретение\"\nКроссроудз \"Живая коллекция\"\nЛига блюза \"Да здравствует ритм энд блюз!\"\nЛига блюза \"Неужели прошло 15 лет\"\nЛига блюза \"Живая коллекция\"\nОфф бит \"Офф бит\"\nOff Beat \"That's What I Am\"\nСборник \"The Night Blues Festival\"\nСборник \"Блюз в России\" \nТреф \"Равновесие\"\nТреф \"Треф\""
+    inferred_person_id: 712
   - id: 23489
     parent_id: 23480
     date: 2005-09-30 22:39
@@ -83,6 +69,7 @@ posts:
     subject: И ещё
     deleted: false
     text: Crossroadz- "15:0"
+    inferred_person_id: 3588
   - id: 23503
     parent_id: 23480
     date: 2005-10-02 01:15
@@ -93,6 +80,7 @@ posts:
     text: 'Дикий Мёд "Весёлая Вдова"
 
       Дикий Мёд "Всё Не Так Уж Плохо Мама!"'
+    inferred_person_id: 4133
   - id: 23504
     parent_id: 23480
     date: 2005-10-02 01:29
@@ -112,6 +100,7 @@ posts:
       subject: Александр Розенбаум и цыганский ансамбль "Ллойко"  "Цыганский блюз" :-ЖЖЖЖЖЖ
       deleted: false
       person_id: 2824
+    inferred_person_id: 4133
   - id: 23511
     parent_id: 23480
     date: 2005-10-03 01:13
@@ -128,3 +117,5 @@ posts:
       Bob Korablin & Alex Bratetsky - Long Distance Call
 
       Bob Korablin & Alex Bratetsky - Elephant Blues'
+    inferred_person_id: 6
+  inferred_person_id: 2

@@ -11,8 +11,8 @@ posts:
   poster: Andrei V. Evdokimov
   subject: John Cephas and Phil Wiggins - Richmond Blues
   deleted: false
-  text: '<iframe width="420" height="315" src="http://www.youtube.com/embed/rFs0fm_Btyk"
-    frameborder="0" allowfullscreen></iframe>
+  text: '<iframe width="420" height="315" src="http://www.youtube.com/embed/rFs0fm_Btyk" frameborder="0" allowfullscreen></iframe>
 
 
     http://blueshouse.ru/index.php?option=com_content&view=article&id=442'
+  inferred_person_id: 4

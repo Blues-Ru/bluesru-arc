@@ -12,10 +12,7 @@ posts:
   email: jouk@newmail.net
   subject: Где в Питере можно послушать на крайняк того же меня :)
   deleted: false
-  text: "как-то неловко было отвечать напрямую отвечать на вопрос ниже - а как раз собирался сообщить о своих питерских концертах.\n\
-    \nИграю в воскресенье, 23го в Хендриксе, (электричество)\n\nи в субботу 29го в \"Таке 5\" - Комендантский 27 \n- там буду\
-    \ играть в акустике и примерно половину времени именно акустический блюз.\nвремя субботнего выступления, к сожалению,\
-    \ точно не помню - в 8 или в 9."
+  text: "как-то неловко было отвечать напрямую отвечать на вопрос ниже - а как раз собирался сообщить о своих питерских концертах.\n\nИграю в воскресенье, 23го в Хендриксе, (электричество)\n\nи в субботу 29го в \"Таке 5\" - Комендантский 27 \n- там буду играть в акустике и примерно половину времени именно акустический блюз.\nвремя субботнего выступления, к сожалению, точно не помню - в 8 или в 9."
   replies:
   - id: 15799
     parent_id: 15796
@@ -24,10 +21,7 @@ posts:
     email: sunburn2001@mail.ru
     subject: JIMI HENDRIX ,monday 24.11  Underground Sunburn
     deleted: false
-    text: '"Underground Sunburn" положило начало совместному творчеству. "Underground Sunburn" - музыканты высочайшего технического
-      уровня, имеющие большой опыт концертной работы в Германии и Финляндии, исполняли насыщенные импровизациями композиции
-      на основе песен Хендрикса, Заппы и других корифеев гитарного блюза. Многочасовые концерты группы были большей частью
-      импровизационными, спонтанными, невероятно энергичными и технически совершенными.'
+    text: '"Underground Sunburn" положило начало совместному творчеству. "Underground Sunburn" - музыканты высочайшего технического уровня, имеющие большой опыт концертной работы в Германии и Финляндии, исполняли насыщенные импровизациями композиции на основе песен Хендрикса, Заппы и других корифеев гитарного блюза. Многочасовые концерты группы были большей частью импровизационными, спонтанными, невероятно энергичными и технически совершенными.'
     replies:
     - id: 15803
       parent_id: 15799
@@ -64,6 +58,7 @@ posts:
             deleted: false
             text: '..., надо заметить, украшает. Видно все же прет (от травы) сильнее... ;)'
             person_id: 26
+          inferred_person_id: 125
         person_id: 26
       - id: 15821
         parent_id: 15803
@@ -81,8 +76,7 @@ posts:
           email: sunburn2001@mail.ru
           subject: Elements of all types of music.........
           deleted: false
-          text: Elements of all types of music, including classical, jazz, disco, heavy metal, and practically every other
-            recognizable form, are employed with equal stature in Zappa's work.             From Guitar Player, February 1983
+          text: Elements of all types of music, including classical, jazz, disco, heavy metal, and practically every other recognizable form, are employed with equal stature in Zappa's work.             From Guitar Player, February 1983
           replies:
           - id: 15825
             parent_id: 15824
@@ -91,10 +85,7 @@ posts:
             email: sunburn2001@mail.ru
             subject: '......several songs by  Jimi   Hendrix  was a tribute to  blues '' rich musical  heritage .'
             deleted: false
-            text: (Blues League) from Moscow, in their thirteenth year of existence came out with their first LP, and will
-              go down in history for having cut the first Russian rhythm-n-blues record. Their work combines blues classics,
-              and original Russian blues. Their performance of several songs by  Jimi   Hendrix  was a tribute to  blues '
-              rich musical  heritage .
+            text: (Blues League) from Moscow, in their thirteenth year of existence came out with their first LP, and will go down in history for having cut the first Russian rhythm-n-blues record. Their work combines blues classics, and original Russian blues. Their performance of several songs by  Jimi   Hendrix  was a tribute to  blues ' rich musical  heritage .
             replies:
             - id: 15827
               parent_id: 15825
@@ -105,6 +96,7 @@ posts:
               deleted: false
               text: уже просили не позорить Колю...
               person_id: 335
+            inferred_person_id: 125
           - id: 15826
             parent_id: 15824
             date: 2003-11-23 02:19
@@ -144,11 +136,15 @@ posts:
                   email: sunburn2001@mail.ru
                   subject: :0)
                   deleted: false
-                  text: "And disagree?\t\t\n Well, no one durst.\t\n \t\t\n He's the best, of course,\t\t\n of all the worst.\t\
-                    \t\n Some wrong been done,\t\t\n he done it first"
+                  text: "And disagree?\t\t\n Well, no one durst.\t\n \t\t\n He's the best, of course,\t\t\n of all the worst.\t\t\n Some wrong been done,\t\t\n he done it first"
+                  inferred_person_id: 125
+                inferred_person_id: 335
+              inferred_person_id: 125
             person_id: 335
+          inferred_person_id: 125
         person_id: 335
       person_id: 93
+    inferred_person_id: 125
   - id: 15800
     parent_id: 15796
     date: 2003-11-22 02:02
@@ -157,6 +153,7 @@ posts:
     subject: А так же ждем всех 25.12......Рыбин, Мажуга & Underground Sunburn
     deleted: false
     text: http://starydom.spb.ru/chtivo/?reliz=25.12.03
+    inferred_person_id: 125
   - id: 15828
     parent_id: 15796
     date: 2003-11-23 02:27
@@ -164,3 +161,5 @@ posts:
     email: sunburn2001@mail.ru
     subject: Много их.........все любимые..........
     deleted: false
+    inferred_person_id: 125
+  inferred_person_id: 93

@@ -12,11 +12,9 @@ posts:
   email: evdokimov@blues.ru
   subject: весьма стоит почитать
   deleted: false
-  text: '<a href="http://www.moshkow.net/articles.htm#prd" target="_blank">Кирилла
-    Мошкова: избранные статьи о музыке</a>
+  text: '<a href="http://www.moshkow.net/articles.htm#prd" target="_blank">Кирилла Мошкова: избранные статьи о музыке</a>
 
-    <a href="http://www.625-net.ru/archive/z0503/chess.htm" target="_blank">Chess
-    Records I</a>
+    <a href="http://www.625-net.ru/archive/z0503/chess.htm" target="_blank">Chess Records I</a>
 
-    <a href="http://www.625-net.ru/archive/z0603/moshkov.htm" target="_blank">Chess
-    Records II</a>'
+    <a href="http://www.625-net.ru/archive/z0603/moshkov.htm" target="_blank">Chess Records II</a>'
+  inferred_person_id: 4

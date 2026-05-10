@@ -12,18 +12,7 @@ posts:
   email: dr.nick@blues.ru
   subject: Результаты на сегодня
   deleted: false
-  text: "Вот как выглядит рейтинг Блюзры. Правда это лишь 10 опрошенных! Главные (АЕ и МБ пока не высказывались, как и многие\
-    \ другие). В этом списке около десятка совсем не блюзовых артистов даже на мой (разносторонний) вкус.\nMuddy Waters\t\
-    8\nAlbert King\t6\nB.B. King\t6\nBuddy Guy\t6\nFreddie King\t5\nSRV\t5\nAlbert Collins\t4\nJimi Hendrix\t4\nJohn Lee Hooker\t\
-    4\nLightin Hopkins\t4\nT-Bone Walker\t4\nHowlin Wolf\t3\nDave Hole\t2\nJohn Campbell\t2\nLuther Allison\t2\nOtis Rush\t\
-    2\nPaul Black\t2\nPaul Lamb\t2\nPeter Green\t2\nRonnie Earl\t2\nRoy Buchanan\t2\nSonny Boy Williamson II\t2\nTaj Mahal\t\
-    2\nBrownie McGhee\t\nCanned Heat Blues Band\t\nCharlie Musselwhite\t\nChris Duarte\t\nCraig Erickson\t\nDanny Gatton\t\
-    \nDuane Allman\t\nDuke Robillard\t\nEric Clapton\t\nGov't Mule\t\nHubert Sumlin\t\nJ.J. Cale\t\nJames Cotton\t\nJB Lenoir\t\
-    \nJoe Beard\t\nJohn Hammond\t\nJohn Mayall\t\nJohnny Winter\t\nJunior Wells\t\nKoko Taylor\t\nLeadbelly\t\nLittle Charlie\
-    \ & The Nightcats\t\nLittle Feat\t\nLong John Hunter\t\nMemphis Minnie\t\nMemphis Slim\t\nMichael Bloomfield\t\nPaul Rishell\t\
-    \nPinetop Perkins\t\nR.L. Burnside\t\nRare Earth\t\nReverend Gary Davis\t\nRick Derringer\t\nRick Holmstrom\t\nRobert\
-    \ Cray \t\nRobert Johnson\t\nRod Piazza\t\nRory Gallagher\t\nRy Cooder\t\nScreamin' Jay Hawkins\t\nSkip James\t\nSnooks\
-    \ Eaglin\t\nStudebaker John\t\nThe Paladins\t\nVidar Busk\t\nWilliam Clarke\t\nWillie Dixon"
+  text: "Вот как выглядит рейтинг Блюзры. Правда это лишь 10 опрошенных! Главные (АЕ и МБ пока не высказывались, как и многие другие). В этом списке около десятка совсем не блюзовых артистов даже на мой (разносторонний) вкус.\nMuddy Waters\t8\nAlbert King\t6\nB.B. King\t6\nBuddy Guy\t6\nFreddie King\t5\nSRV\t5\nAlbert Collins\t4\nJimi Hendrix\t4\nJohn Lee Hooker\t4\nLightin Hopkins\t4\nT-Bone Walker\t4\nHowlin Wolf\t3\nDave Hole\t2\nJohn Campbell\t2\nLuther Allison\t2\nOtis Rush\t2\nPaul Black\t2\nPaul Lamb\t2\nPeter Green\t2\nRonnie Earl\t2\nRoy Buchanan\t2\nSonny Boy Williamson II\t2\nTaj Mahal\t2\nBrownie McGhee\t\nCanned Heat Blues Band\t\nCharlie Musselwhite\t\nChris Duarte\t\nCraig Erickson\t\nDanny Gatton\t\nDuane Allman\t\nDuke Robillard\t\nEric Clapton\t\nGov't Mule\t\nHubert Sumlin\t\nJ.J. Cale\t\nJames Cotton\t\nJB Lenoir\t\nJoe Beard\t\nJohn Hammond\t\nJohn Mayall\t\nJohnny Winter\t\nJunior Wells\t\nKoko Taylor\t\nLeadbelly\t\nLittle Charlie & The Nightcats\t\nLittle Feat\t\nLong John Hunter\t\nMemphis Minnie\t\nMemphis Slim\t\nMichael Bloomfield\t\nPaul Rishell\t\nPinetop Perkins\t\nR.L. Burnside\t\nRare Earth\t\nReverend Gary Davis\t\nRick Derringer\t\nRick Holmstrom\t\nRobert Cray \t\nRobert Johnson\t\nRod Piazza\t\nRory Gallagher\t\nRy Cooder\t\nScreamin' Jay Hawkins\t\nSkip James\t\nSnooks Eaglin\t\nStudebaker John\t\nThe Paladins\t\nVidar Busk\t\nWilliam Clarke\t\nWillie Dixon"
   replies:
   - id: 1135
     parent_id: 1093
@@ -34,8 +23,7 @@ posts:
     deleted: false
     text: 'А Лоуэллу Фулсону и Элмору Джеймсу-то ни фига не светит на блюз.ру...
 
-      Дима, надеюсь, однако, что от трудов по написанию текстов о Ледбелли, Мемфис Минни, Преподобном, но в то же время и
-      Слепом Гэри Дэвисе, Роберте Джонсоне и Скипе Джеймсе - я тебя заранее избавил ;)'
+      Дима, надеюсь, однако, что от трудов по написанию текстов о Ледбелли, Мемфис Минни, Преподобном, но в то же время и Слепом Гэри Дэвисе, Роберте Джонсоне и Скипе Джеймсе - я тебя заранее избавил ;)'
     replies:
     - id: 1140
       parent_id: 1135
@@ -46,6 +34,7 @@ posts:
       deleted: false
       text: А то бы я точно с ума сошел инфу искать ;)
       person_id: 335
+    inferred_person_id: 6
   - id: 1156
     parent_id: 1093
     date: 2002-02-11 18:05
@@ -65,4 +54,6 @@ posts:
       text: 'http://www.blues.ru/BlackCat/sh.htm
 
         Или там что-то не так?'
+      inferred_person_id: 6
     person_id: 697
+  inferred_person_id: 335

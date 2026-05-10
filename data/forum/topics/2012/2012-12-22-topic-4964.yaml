@@ -21,13 +21,11 @@ posts:
     poster: Старый Майор
     subject: На этот вопрос даже Вассерман не ответит!
     deleted: false
-    text: 'Предполагаю, что она не очень известна обитателям сети, несмотря на вокальные
-      достоинства.
+    text: 'Предполагаю, что она не очень известна обитателям сети, несмотря на вокальные достоинства.
 
       Либо не вызывает у них интереса распространять её записи.
 
-      Либо она со своей тихой вкрадчивой манерой пения не так заметна на фоне агрессивно-голосисистых
-      соул-див последнего времени.
+      Либо она со своей тихой вкрадчивой манерой пения не так заметна на фоне агрессивно-голосисистых соул-див последнего времени.
 
 
       Кое-что все-таки можно найти:
@@ -35,6 +33,7 @@ posts:
       http://www.youtube.com/watch?v=VB8f2V2IZaY
 
       http://www.youtube.com/watch?v=uaGJBPD7svw'
+    inferred_person_id: 13
   - id: 38676
     parent_id: 38670
     date: 2012-12-23 04:10
@@ -56,8 +55,9 @@ posts:
       poster: kishinevets
       subject: Pastor Lynn White
       deleted: false
-      text: 'Lynn White is now Pastor Lynn White and she is living in Olive Branch
-        MS
+      text: 'Lynn White is now Pastor Lynn White and she is living in Olive Branch MS
 
 
         http://redkelly.blogspot.com/2006/05/lynn-white-hooked-on-your-love-waylo.html'
+      inferred_person_id: 7264
+    inferred_person_id: 7264

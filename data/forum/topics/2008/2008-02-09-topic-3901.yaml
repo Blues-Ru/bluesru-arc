@@ -12,10 +12,7 @@ posts:
   email: strophurus@yandex.ru
   subject: Ответьте на вопрос, please....
   deleted: false
-  text: "... это правда что московские харперы самые крутые в мире?? \nЯ понял из того, что ПОЧТИ все из них проигнорировали\
-    \ концерты конечно не такого крутого как они, но тем не менее не плохого музыканта как Pera Joe... \nСегодня в ДУДе мастер\
-    \ класс и мне подумалось, может кто из отечественных виртуозов этого инструмента заглянет, чтобы показать парочку приемов\
-    \ заезжей знаменитости...  Типа, знай наших!!!"
+  text: "... это правда что московские харперы самые крутые в мире?? \nЯ понял из того, что ПОЧТИ все из них проигнорировали концерты конечно не такого крутого как они, но тем не менее не плохого музыканта как Pera Joe... \nСегодня в ДУДе мастер класс и мне подумалось, может кто из отечественных виртуозов этого инструмента заглянет, чтобы показать парочку приемов заезжей знаменитости...  Типа, знай наших!!!"
   replies:
   - id: 34597
     parent_id: 34595
@@ -45,6 +42,8 @@ posts:
         subject: пора собирать The Ponayekhalis
         deleted: false
         person_id: 335
+      inferred_person_id: 1719
+    inferred_person_id: 335
   - id: 34615
     parent_id: 34595
     date: 2008-02-09 21:05
@@ -52,9 +51,7 @@ posts:
     email: jhfuytru@kugf.ru
     subject: Наши тоже ничё.
     deleted: false
-    text: <object width="425" height="355"><param name="movie" value="http://www.youtube.com/v/m5QjvTDulFg&rel=1"></param><param
-      name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/m5QjvTDulFg&rel=1" type="application/x-shockwave-flash"
-      wmode="transparent" width="425" height="355"></embed></object>
+    text: <object width="425" height="355"><param name="movie" value="http://www.youtube.com/v/m5QjvTDulFg&rel=1"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/m5QjvTDulFg&rel=1" type="application/x-shockwave-flash" wmode="transparent" width="425" height="355"></embed></object>
     replies:
     - id: 34621
       parent_id: 34615
@@ -64,3 +61,5 @@ posts:
       subject: боянъ
       deleted: false
       person_id: 335
+    inferred_person_id: 7206
+  inferred_person_id: 1719

@@ -13,8 +13,7 @@ posts:
   deleted: false
   text: 'Умер отличный гитарист и настояший чикагский блюзмен!
 
-    <iframe title="YouTube video player" width="480" height="390" src="http://www.youtube.com/embed/SUqok24y-P8" frameborder="0"
-    allowfullscreen></iframe>'
+    <iframe title="YouTube video player" width="480" height="390" src="http://www.youtube.com/embed/SUqok24y-P8" frameborder="0" allowfullscreen></iframe>'
   replies:
   - id: 37634
     parent_id: 37633
@@ -24,3 +23,4 @@ posts:
     deleted: false
     text: Rest in peace... Замечательная музыка.
     person_id: 458
+  inferred_person_id: 3349

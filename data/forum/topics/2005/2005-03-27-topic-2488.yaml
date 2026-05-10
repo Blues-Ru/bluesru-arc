@@ -21,4 +21,5 @@ posts:
     email: gypsy@mail.ru
     subject: Была наблюдаема мною вчера в БиБиКинге, приветы передавала.
     deleted: false
+    inferred_person_id: 13
   person_id: 335

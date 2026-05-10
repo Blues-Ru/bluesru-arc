@@ -12,14 +12,7 @@ posts:
   email: volodya@blues.ru
   subject: Buddy Guy
   deleted: false
-  text: "pomnitsya tut kto galovalsya chto Buddy Guy napugal ego detey ;)\nnado bolshe udelyat ih vospitaniyu ;)\n\nvchera\
-    \ ego slushal - eto bilo prosto neveroyatno zdorovo. on bil v otlichnom nastroyenie - sigral vse luchshie veschi - igral\
-    \ na akustike, igral hendrixa, claptona, john lee hookera... neveroyatniy drayv i energiya - komanda prosto super _ osobenno\
-    \ pianist/organist.\n\nvihodil v zal  - igral v metre ot menya ;) \nigral dve veschi so sweet tea  - razumeyetsya prosto\
-    \ zdorovo - kak i voobsche vsegda vse zvuchit na poryadok luchshe albomnih zapisey...\nvse kak vsegda bilo originalno\
-    \ - znayu potomichto slushal mnogo zapisey live poslednih let...\n\nvoobschem neveroyatno silno. escho na feste ochen\
-    \ ponravilis duke robillard i marcia ball - ochen zdorovo. escho bili interesniye personagi - no eto kak nit potom...\n\
-    \n\nvoobschem vsem privet."
+  text: "pomnitsya tut kto galovalsya chto Buddy Guy napugal ego detey ;)\nnado bolshe udelyat ih vospitaniyu ;)\n\nvchera ego slushal - eto bilo prosto neveroyatno zdorovo. on bil v otlichnom nastroyenie - sigral vse luchshie veschi - igral na akustike, igral hendrixa, claptona, john lee hookera... neveroyatniy drayv i energiya - komanda prosto super _ osobenno pianist/organist.\n\nvihodil v zal  - igral v metre ot menya ;) \nigral dve veschi so sweet tea  - razumeyetsya prosto zdorovo - kak i voobsche vsegda vse zvuchit na poryadok luchshe albomnih zapisey...\nvse kak vsegda bilo originalno - znayu potomichto slushal mnogo zapisey live poslednih let...\n\nvoobschem neveroyatno silno. escho na feste ochen ponravilis duke robillard i marcia ball - ochen zdorovo. escho bili interesniye personagi - no eto kak nit potom...\n\n\nvoobschem vsem privet."
   replies:
   - id: 6226
     parent_id: 6223
@@ -44,8 +37,7 @@ posts:
         email: aaa@genebee.msu.su
         subject: Пишите по-русски, друзья
         deleted: false
-        text: Володя все в состоянии читать, уверен, а писать может одною латиницей. Наверное, он в Норвегии, в этой дикой
-          и суровой стране.
+        text: Володя все в состоянии читать, уверен, а писать может одною латиницей. Наверное, он в Норвегии, в этой дикой и суровой стране.
         replies:
         - id: 6246
           parent_id: 6242
@@ -84,9 +76,8 @@ posts:
               email: volodya@blues.ru
               subject: ya vezde ;)
               deleted: false
-              text: "v amsterdame - belgii.. seychas v parige - tut super klassniy magazin CD - i vse slushat srazu mogno...\
-                \ :)\n\na Peer R&B Fest on voobsche tri dnya shel - Buddy ego zakrival. \nstolko bilo otorvannih belgiycev...\
-                \ :)"
+              text: "v amsterdame - belgii.. seychas v parige - tut super klassniy magazin CD - i vse slushat srazu mogno... :)\n\na Peer R&B Fest on voobsche tri dnya shel - Buddy ego zakrival. \nstolko bilo otorvannih belgiycev... :)"
+            inferred_person_id: 366
           person_id: 335
         - id: 6270
           parent_id: 6242
@@ -105,9 +96,7 @@ posts:
     email: lifebythedrop@yandex.ru
     subject: Buddy
     deleted: false
-    text: Не делай так болльше это не читабельно.И кого там Buddy Guy напугал? Детей? Интерестно, что бы они подумали про
-      Хендрикса? И вообще в киндерах надо воспитывать любовь и уважение к реальному искусству.   Да так да здравствует Buddy
-      Guy.
+    text: Не делай так болльше это не читабельно.И кого там Buddy Guy напугал? Детей? Интерестно, что бы они подумали про Хендрикса? И вообще в киндерах надо воспитывать любовь и уважение к реальному искусству.   Да так да здравствует Buddy Guy.
     person_id: 687
   - id: 6243
     parent_id: 6223
@@ -116,6 +105,4 @@ posts:
     email: leondmitr@freemail.ru
     subject: Buddy Guy
     deleted: false
-    text: "Спасибо за интересную и оперативную инфу. Ничего страшного, что написано не \"по-русски\". Кто захочет - все поймет.\
-      \ Очень радует, что маэстро в форме. По-хорошему Вам завидую. Так хочется тоже оказаться на фестивале, окунуться в атмосферу\
-      \ праздника блюза, аж \"челюсти сводит\". Пишите, плиз, еще. \nС благодарность, фан блюза."
+    text: "Спасибо за интересную и оперативную инфу. Ничего страшного, что написано не \"по-русски\". Кто захочет - все поймет. Очень радует, что маэстро в форме. По-хорошему Вам завидую. Так хочется тоже оказаться на фестивале, окунуться в атмосферу праздника блюза, аж \"челюсти сводит\". Пишите, плиз, еще. \nС благодарность, фан блюза."

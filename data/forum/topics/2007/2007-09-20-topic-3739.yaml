@@ -12,9 +12,7 @@ posts:
   email: tovarisch
   subject: Какой стиль
   deleted: false
-  text: Господа ценители меня мучает такой вопрос. Я часто слышал в качестве саундтреков такие композиции когда играет одна
-    гитара и играет исключительно Блюзово со всем этим звоном и слайдами.Но так и не поня как называется это направление.Подскажите
-    если не лень ну и пару исполнителей заодно)
+  text: Господа ценители меня мучает такой вопрос. Я часто слышал в качестве саундтреков такие композиции когда играет одна гитара и играет исключительно Блюзово со всем этим звоном и слайдами.Но так и не поня как называется это направление.Подскажите если не лень ну и пару исполнителей заодно)
   replies:
   - id: 33535
     parent_id: 33534
@@ -71,14 +69,8 @@ posts:
     email: volodya@blues.ru
     subject: ну собственно ...
     deleted: false
-    text: "вцелом слайд это инструмент для блюза и кантри и разумеется гавайские там песни.. а дальше уже он появлялся вообщем\
-      \ то где угодно...\nвот просто сходу с ютубы пачка ссылочек... там \nможно повыбирать что нравится, а потом пойти на\
-      \ allmusic.com и почитать про исполнителя и схожих с ним :) \n\nчто из эотго всего похоже на саундреки.. думаю что имеется\
-      \ ввиду акустика.. но остальное тоже советую послушать :) \n\nхаус\nhttp://youtube.com/watch?v=QwjGytOVVQA\n\nброзман\n\
-      http://youtube.com/watch?v=Hddz_cZts74\n\nчувак с ложкой\nhttp://youtube.com/watch?v=1xPGqWt3L7A\n\nджон хаммонд\nhttp://youtube.com/watch?v=oV-7geFbI0U\n\
-      http://youtube.com/watch?v=QfkQPMij0Aw\n\nэлмор джеймс\nhttp://youtube.com/watch?v=iGPa-BdACbs\n\nбукер вайт\nhttp://youtube.com/watch?v=bsMpHHSLSl\n\
-      \nбонни райт с хукером \nhttp://youtube.com/watch?v=oGCgRpV4H3k\n\nбен харпер\nhttp://youtube.com/watch?v=3ycYc5Ll2No\n\
-      \nджонни винтер\nhttp://youtube.com/watch?v=EIISTtlAFFo"
+    text: "вцелом слайд это инструмент для блюза и кантри и разумеется гавайские там песни.. а дальше уже он появлялся вообщем то где угодно...\nвот просто сходу с ютубы пачка ссылочек... там \nможно повыбирать что нравится, а потом пойти на allmusic.com и почитать про исполнителя и схожих с ним :) \n\nчто из эотго всего похоже на саундреки.. думаю что имеется ввиду акустика.. но остальное тоже советую послушать :) \n\nхаус\nhttp://youtube.com/watch?v=QwjGytOVVQA\n\nброзман\nhttp://youtube.com/watch?v=Hddz_cZts74\n\nчувак с ложкой\nhttp://youtube.com/watch?v=1xPGqWt3L7A\n\nджон хаммонд\nhttp://youtube.com/watch?v=oV-7geFbI0U\nhttp://youtube.com/watch?v=QfkQPMij0Aw\n\nэлмор джеймс\nhttp://youtube.com/watch?v=iGPa-BdACbs\n\nбукер вайт\nhttp://youtube.com/watch?v=bsMpHHSLSl\n\nбонни райт с хукером \nhttp://youtube.com/watch?v=oGCgRpV4H3k\n\nбен харпер\nhttp://youtube.com/watch?v=3ycYc5Ll2No\n\nджонни винтер\nhttp://youtube.com/watch?v=EIISTtlAFFo"
+    inferred_person_id: 5
   - id: 33542
     parent_id: 33534
     date: 2007-09-24 13:00

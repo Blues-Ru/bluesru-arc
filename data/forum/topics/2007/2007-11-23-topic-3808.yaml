@@ -64,16 +64,7 @@ posts:
             email: aaa@genebee.msu.su
             subject: Вот одна из версий
             deleted: false
-            text: "Son House в основе. Мне нравится этот текст. Роберт Джонсоновский легко найти, не привожу.\n\nI sought\
-              \ for my baby girl, and she don’t come\nSay, I sought for my baby  She don’t come\nAll the doctors in the hospital\
-              \ (Woodstock yard)\nSure can help her none\n\nGot a .38 special   But I think it’s most too light\nGot a .38\
-              \ special   But I think it’s most too light\n\tI got a 22-20 and it   Makes it kept allright\n\nI gonna shoot\
-              \ my pistol  Gonna shoot my cattlin’ gun\nI gonna shoot my pistol  Gonna shoot my cattlin’ gun\n\t‘Cause you\
-              \ made me love you   Now your man has come\n\nO-o-oh, no, baby  Where you stayed last night\nO-o-oh, no, baby\
-              \  Where you stayed last night\n\t‘Cause your hairs are tanglin’  You ain’t talking right\n\nGot a .38 special,\
-              \ boys   It do very well\nGot a .38 special, yes’n   It do very well\n\tI got a 22-20   It’s a burning hell\n\
-              \nOh, baby I just can’t take my rest\nOh, baby I just can’t take my rest\nWith this 22-20 Layin’ up and down\
-              \ by breast"
+            text: "Son House в основе. Мне нравится этот текст. Роберт Джонсоновский легко найти, не привожу.\n\nI sought for my baby girl, and she don’t come\nSay, I sought for my baby  She don’t come\nAll the doctors in the hospital (Woodstock yard)\nSure can help her none\n\nGot a .38 special   But I think it’s most too light\nGot a .38 special   But I think it’s most too light\n\tI got a 22-20 and it   Makes it kept allright\n\nI gonna shoot my pistol  Gonna shoot my cattlin’ gun\nI gonna shoot my pistol  Gonna shoot my cattlin’ gun\n\t‘Cause you made me love you   Now your man has come\n\nO-o-oh, no, baby  Where you stayed last night\nO-o-oh, no, baby  Where you stayed last night\n\t‘Cause your hairs are tanglin’  You ain’t talking right\n\nGot a .38 special, boys   It do very well\nGot a .38 special, yes’n   It do very well\n\tI got a 22-20   It’s a burning hell\n\nOh, baby I just can’t take my rest\nOh, baby I just can’t take my rest\nWith this 22-20 Layin’ up and down by breast"
             replies:
             - id: 33976
               parent_id: 33974
@@ -83,6 +74,7 @@ posts:
               subject: спасибо, Доктор
               deleted: false
               text: Я как раз очень похожую версию слышал (только про 32-20)! СпасибО!
+            inferred_person_id: 458
         - id: 33965
           parent_id: 33961
           date: 2007-11-28 01:29
@@ -108,9 +100,7 @@ posts:
     email: mcl@macbox.ru
     subject: про калибр
     deleted: false
-    text: Насколько я помню (пусть товарисчи старшие меня поправят, если не так) калибр стволов у американцев меряется в процентах
-      от дюйма. Соответственно - 32 - это около 78 миллиметров. Двойное обозначение - 32 - 20 - это рассверленный 20-ка. Были
-      и такие стволы, рассверливали на больший калибр. Скорее всего - это маленький колт типа "бульдога".
+    text: Насколько я помню (пусть товарисчи старшие меня поправят, если не так) калибр стволов у американцев меряется в процентах от дюйма. Соответственно - 32 - это около 78 миллиметров. Двойное обозначение - 32 - 20 - это рассверленный 20-ка. Были и такие стволы, рассверливали на больший калибр. Скорее всего - это маленький колт типа "бульдога".
     replies:
     - id: 33975
       parent_id: 33970

@@ -11,11 +11,9 @@ posts:
   poster: ЖЕКА НЕМОВ
   subject: Ираем на костях - урок от Dom Flemons
   deleted: false
-  text: '<object width="640" height="385"><param name="movie" value="http://www.youtube.com/v/iMokBr9cTxM?fs=1&amp;hl=en_US"></param><param
-    name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed
-    src="http://www.youtube.com/v/iMokBr9cTxM?fs=1&amp;hl=en_US" type="application/x-shockwave-flash"
-    allowscriptaccess="always" allowfullscreen="true" width="640" height="385"></embed></object>
+  text: '<object width="640" height="385"><param name="movie" value="http://www.youtube.com/v/iMokBr9cTxM?fs=1&amp;hl=en_US"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/iMokBr9cTxM?fs=1&amp;hl=en_US" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="640" height="385"></embed></object>
 
 
 
     Всем удачи и творческих успехов, друзья!'
+  inferred_person_id: 3623

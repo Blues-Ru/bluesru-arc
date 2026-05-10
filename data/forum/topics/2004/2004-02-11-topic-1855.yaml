@@ -23,8 +23,7 @@ posts:
     date: 2004-02-12 01:39
     poster: Yuri Kaverkin (Gekko)
     email: kaverkin@rol.ru
-    subject: Клетка № 17 , слева от входа - там будет находится WWB - на надпись "Животных не кормить" внимание можно не обращать...Welcome
-      короче...
+    subject: Клетка № 17 , слева от входа - там будет находится WWB - на надпись "Животных не кормить" внимание можно не обращать...Welcome короче...
     deleted: false
     replies:
     - id: 17207
@@ -56,3 +55,4 @@ posts:
         person_id: 1719
       person_id: 335
     person_id: 1719
+  inferred_person_id: 24

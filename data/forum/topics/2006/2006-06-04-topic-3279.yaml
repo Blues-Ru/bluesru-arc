@@ -17,8 +17,7 @@ posts:
 
     вот тут то что я заносил в фаворитосы. По мне там все клевое очень.
 
-    Если не любите серф-сайкоделик, то лучше японских серферов не слушайте :) но они
-    крутые :)))))))'
+    Если не любите серф-сайкоделик, то лучше японских серферов не слушайте :) но они крутые :)))))))'
   replies:
   - id: 27585
     parent_id: 27567
@@ -28,6 +27,7 @@ posts:
     subject: Хард Сёрф рокеры..
     deleted: false
     text: Link Wray rulezz foreva!
+    inferred_person_id: 13
   - id: 27587
     parent_id: 27567
     date: 2006-06-05 18:14
@@ -39,6 +39,7 @@ posts:
 
 
       Roy Buchanan - Suzie Q (Live)'
+    inferred_person_id: 13
   - id: 27589
     parent_id: 27567
     date: 2006-06-05 18:31
@@ -53,3 +54,5 @@ posts:
 
 
       http://www.youtube.com/watch?v=joXbB4DOyRY&search=Creedence'
+    inferred_person_id: 13
+  inferred_person_id: 5

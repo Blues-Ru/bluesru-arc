@@ -67,8 +67,10 @@ posts:
               subject: Я ж нет! Я только платформу предоставляю... :))
               deleted: false
               person_id: 5
+            inferred_person_id: 13
           person_id: 5
         person_id: 458
+      inferred_person_id: 13
     person_id: 458
   - id: 35973
     parent_id: 35966
@@ -87,3 +89,5 @@ posts:
       subject: Танцы мракобесов с маракасами прошли с аншлагом...
       deleted: false
       text: '...плавно переходящим в аншлюс...'
+      inferred_person_id: 13
+    inferred_person_id: 7202

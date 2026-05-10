@@ -11,11 +11,8 @@ posts:
   poster: Andrei V. Evdokimov
   subject: музыка, буквально щаписанная на пластмассу )
   deleted: false
-  text: 'Новый документальный фильм выйдет в конце 2015 года. А его создании принимали
-    участие T Bone Burnett (который гениально поработал над дорожкой к фильму "Где
-    же ты, брат), Robert Redford и Jack White (который уже доказал, что он знатный
-    архивариус).
+  text: 'Новый документальный фильм выйдет в конце 2015 года. А его создании принимали участие T Bone Burnett (который гениально поработал над дорожкой к фильму "Где же ты, брат), Robert Redford и Jack White (который уже доказал, что он знатный архивариус).
 
 
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/jcbATyomETw"
-    frameborder="0" allowfullscreen></iframe>'
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/jcbATyomETw" frameborder="0" allowfullscreen></iframe>'
+  inferred_person_id: 4

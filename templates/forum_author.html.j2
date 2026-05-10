@@ -9,19 +9,23 @@
 <link rel="stylesheet" href="/css/responsive.css">
 <link rel="stylesheet" href="/forum/liveforum.css">
 <style>
-body { max-width: 900px; margin: 0 auto; padding: 0 1em; }
-.author-stats { color: #555; font-size: 0.9em; margin-bottom: 1em; }
-.top-topics { margin-bottom: 2em; }
-.top-topics table { border-collapse: collapse; width: 100%; }
-.top-topics td, .top-topics th { padding: 3px 6px; vertical-align: top; }
-.top-topics th { text-align: left; font-weight: bold; border-bottom: 1px solid #ccc; }
-.topic-title { font-weight: bold; }
-.topic-meta { color: #777; font-size: 0.85em; }
+body { max-width: 900px; margin: 0 auto; padding: 0 1em;
+       font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 0.9em; }
+a { font-weight: normal; text-decoration: none; border-bottom: 1px dotted #aaa; }
+a:hover { border-bottom-style: solid; }
+.at { border-collapse: collapse; width: 100%; margin-bottom: 1em; }
+.at td, .at th { padding: 3px 6px; vertical-align: top; }
+.at th { text-align: left; font-weight: bold; border-bottom: 1px solid #ccc; }
+.at th.r { text-align: right; }
+.nr { text-align: right; }
+.sm { color: #777; font-size: 0.85em; }
 .activity-year { margin-bottom: 1.5em; }
 .month-block { margin-left: 1em; margin-bottom: 0.4em; }
 .month-label { font-weight: bold; color: #444; min-width: 3em; display: inline-block; }
-.post-link { font-size: 0.85em; }
 .post-link + .post-link::before { content: ' · '; color: #aaa; }
+#topics-more { color: #555; cursor: pointer; padding: 2px 0; margin-bottom: 1.5em;
+               text-decoration: underline; border-bottom: none; font-size: 0.9em;
+               display: none; }
 </style>
 {{ ga_snippet | safe }}
 </head>
@@ -31,53 +35,74 @@ body { max-width: 900px; margin: 0 auto; padding: 0 1em; }
 
 <h3><a href="/">Blues.Ru</a> &rsaquo; <a href="/forum/">Форум</a> &rsaquo; <a href="/forum/authors/">Авторы</a> &rsaquo; {{ author_name }}</h3>
 
-<div class="author-stats">
-  Темы: <b>{{ topics_count }}</b> &nbsp;|&nbsp;
-  Ответы: <b>{{ replies_count }}</b> &nbsp;|&nbsp;
-  Авторы: <b>{{ participants_count }}</b>
-</div>
-
 {% if top_topics %}
-<div class="top-topics">
-<h4>Самые активные темы</h4>
-<table>
+<table class="at">
 <tr>
+  <th class="r" style="width:3em">Год</th>
   <th>Тема</th>
-  <th>Дата</th>
-  <th style="text-align:right">Авторы</th>
-  <th style="text-align:right">Ответы</th>
+  <th class="r">Ответы</th>
+  <th class="r">Участники</th>
 </tr>
 {% for t in top_topics %}
-<tr>
-  <td class="topic-title"><a href="/forum/{{ t.slug }}">{{ t.title }}</a></td>
-  <td class="topic-meta">{{ t.first_post_fmt }}</td>
-  <td class="topic-meta" style="text-align:right">{{ t.participant_count }}</td>
-  <td class="topic-meta" style="text-align:right">{{ t.post_count }}</td>
+<tr{% if loop.index > 20 %} class="topic-extra" style="display:none"{% endif %}>
+  <td class="nr sm">{{ t.year }}</td>
+  <td><a href="/forum/{{ t.slug }}">{{ t.title }}</a></td>
+  <td class="nr sm">{{ t.post_count }}</td>
+  <td class="nr sm">{{ t.participant_count }}</td>
 </tr>
 {% endfor %}
 </table>
-<p class="topic-meta"><small>Авторы — уникальных участников &nbsp; Ответы — всего сообщений</small></p>
-</div>
+<div id="topics-more" onclick="showMoreTopics()"></div>
 {% endif %}
-
-<hr size="1">
-
-<h4>Темы по годам</h4>
 
 {% for year_data in activity %}
 <div class="activity-year">
   <b>{{ year_data.year if year_data.year else '?' }}</b>
-  <span class="topic-meta">({{ year_data.topics_count }} тем)</span>
+  <span class="sm">({{ year_data.topics_count }})</span>
   {% for m in year_data.months %}
   <div class="month-block">
     <span class="month-label">{{ m.month_name }}</span>
     {% for tr in m.topic_refs %}
-    <span class="post-link"><a href="/forum/{{ tr.topic_slug }}{% if tr.post_id %}#post{{ tr.post_id }}{% endif %}">{{ tr.topic_title }}</a></span>
+    <span class="post-link"><a href="/forum/{{ tr.topic_slug }}{% if tr.post_id %}#post{{ tr.post_id }}{% endif %}">{{ tr.topic_title }}</a> <span class="sm">({{ tr.post_count }}&nbsp;/&nbsp;{{ tr.participant_count }})</span></span>
     {% endfor %}
   </div>
   {% endfor %}
 </div>
 {% endfor %}
+
+<p class="sm"><a href="{{ author_search_url }}">Все сообщения автора в форуме</a></p>
+
+<script>
+var _topicsPage = 0;
+var TOPICS_STEP = 20;
+var _extraRows = null;
+
+function initTopicsMore() {
+  _extraRows = Array.from(document.querySelectorAll('.topic-extra'));
+  if (_extraRows.length > 0) updateTopicsMore();
+}
+
+function showMoreTopics() {
+  var start = _topicsPage * TOPICS_STEP;
+  var end = Math.min(start + TOPICS_STEP, _extraRows.length);
+  for (var i = start; i < end; i++) _extraRows[i].style.display = '';
+  _topicsPage++;
+  updateTopicsMore();
+}
+
+function updateTopicsMore() {
+  var remaining = _extraRows.length - _topicsPage * TOPICS_STEP;
+  var btn = document.getElementById('topics-more');
+  if (remaining <= 0) {
+    btn.style.display = 'none';
+  } else {
+    btn.style.display = 'inline-block';
+    btn.textContent = 'Ещё (' + Math.min(remaining, TOPICS_STEP) + ')…';
+  }
+}
+
+initTopicsMore();
+</script>
 
 <hr size="1">
 <p align="center">

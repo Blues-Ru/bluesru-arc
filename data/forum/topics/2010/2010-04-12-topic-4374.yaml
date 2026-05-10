@@ -22,6 +22,7 @@ posts:
     text: 'Billy Watts - guitar, Terry Wilson - bass, Red Young - keaboards, Brannen Temple - drums.
 
       Старший в этой банде - Red Young, про него есть <a href="http://en.wikipedia.org/wiki/Red_Young" target="_blank">в Википедии</a>.'
+    inferred_person_id: 4
   - id: 36867
     parent_id: 36865
     date: 2010-04-12 13:26

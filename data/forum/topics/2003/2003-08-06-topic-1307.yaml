@@ -52,11 +52,7 @@ posts:
       email: '&#246;&#246;&#246;&#246;'
       subject: Nu vot etot "TRAFFIC"...
       deleted: false
-      text: "gde oni v chetverom na oblozke... 68 god? Tochno on! \nPrichem dostalska on mne vsego za 10 baxov :) + u menja\
-        \ tam esche 5 bonus trackov s ih singlov...\n\nCAMEL - ochen ponravilsja... Osobenno 5, 6 i 7 tracki... Priedu u tebja\
-        \ ostalnoe perepishu....\n\nKstati kupil \"The Best\" Toma Petty, 1993 god, tot samii gde \"Last dance with Mary Jane\"\
-        ... i cover \"Something in the air\" - polnii ulet!!!! \n\nEsche napal tut na masgazin gde pochti ves' Frank Zappa...\
-        \ Chto u nego stoit brat?"
+      text: "gde oni v chetverom na oblozke... 68 god? Tochno on! \nPrichem dostalska on mne vsego za 10 baxov :) + u menja tam esche 5 bonus trackov s ih singlov...\n\nCAMEL - ochen ponravilsja... Osobenno 5, 6 i 7 tracki... Priedu u tebja ostalnoe perepishu....\n\nKstati kupil \"The Best\" Toma Petty, 1993 god, tot samii gde \"Last dance with Mary Jane\"... i cover \"Something in the air\" - polnii ulet!!!! \n\nEsche napal tut na masgazin gde pochti ves' Frank Zappa... Chto u nego stoit brat?"
       replies:
       - id: 13551
         parent_id: 13550
@@ -70,8 +66,7 @@ posts:
 
           С Заппой все очень сложно!
 
-          Если хочешь взять парочку наверняка, то бери Overnite Sensation, You Are What You Is или Apostrophe. Другие пока
-          не надо, у меня сможешь все отслушать.'
+          Если хочешь взять парочку наверняка, то бери Overnite Sensation, You Are What You Is или Apostrophe. Другие пока не надо, у меня сможешь все отслушать.'
         replies:
         - id: 13554
           parent_id: 13551
@@ -80,10 +75,7 @@ posts:
           email: fffffffffff
           subject: Oh!!!
           deleted: false
-          text: "Oni vse tri tut est... Kakoi nibud is nih vozmu... A to ja tut razorus na kompaktah :))))))\n\nEsche vsjal\n\
-            Talkng Heads - 77, Lou Reed - \"Transformer\" 10 CC The Best, Johnny Cash \"The Best\" mestnogo rozliva... \n\n\
-            Nu i ne uderjalsja i kupil Dixie Chicks :)))) al'bom \"Home\"... \nKstati on tebe mojet daje i ponravitsja...\
-            \ Takoi country milii..."
+          text: "Oni vse tri tut est... Kakoi nibud is nih vozmu... A to ja tut razorus na kompaktah :))))))\n\nEsche vsjal\nTalkng Heads - 77, Lou Reed - \"Transformer\" 10 CC The Best, Johnny Cash \"The Best\" mestnogo rozliva... \n\nNu i ne uderjalsja i kupil Dixie Chicks :)))) al'bom \"Home\"... \nKstati on tebe mojet daje i ponravitsja... Takoi country milii..."
           replies:
           - id: 13558
             parent_id: 13554
@@ -195,6 +187,9 @@ posts:
                       I guarantee you a copy after that.
 
                       Thank you!'
+                    inferred_person_id: 335
+                inferred_person_id: 335
+            inferred_person_id: 335
           - id: 13572
             parent_id: 13554
             date: 2003-08-12 12:07
@@ -213,8 +208,8 @@ posts:
               email: aaaaaaaaaaaa
               subject: Voobsche DA....
               deleted: false
-              text: On proigrivaet "Wide open Spaces"... "Home" bolee country chem WIDE...Hotja pervie 3 veschi ochen horoshi...
-                I instrumentalka vrode nichego :)
+              text: On proigrivaet "Wide open Spaces"... "Home" bolee country chem WIDE...Hotja pervie 3 veschi ochen horoshi... I instrumentalka vrode nichego :)
+            inferred_person_id: 301
           - id: 13573
             parent_id: 13554
             date: 2003-08-12 12:07
@@ -225,4 +220,7 @@ posts:
             text: 'Что значит не удержался?!....Молодец!
 
               Мне только что принесли этот "A HOME"...сижу слушаю. Не самый удачный, на мой взгляд альбом, но всё равно приятный!'
+            inferred_person_id: 301
+        inferred_person_id: 335
+    inferred_person_id: 335
   person_id: 783

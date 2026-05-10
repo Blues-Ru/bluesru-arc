@@ -14,13 +14,11 @@ posts:
   deleted: false
   text: 'Muddy Water & Paul Butterfield - Why Are People Like That?
 
-    Уже который день хожу с этой вещью в голове. Как она мне нравится! Очень нравится
-    звук!
+    Уже который день хожу с этой вещью в голове. Как она мне нравится! Очень нравится звук!
 
     Может кто поможет прояснить несколько вопросов по ней.
 
-    С какого она альбома, какого года? Кто на гитаре играет и особо интересует ритм-секция:
-    кто на барабанах и на басе???
+    С какого она альбома, какого года? Кто на гитаре играет и особо интересует ритм-секция: кто на барабанах и на басе???
 
 
     they take your love and your money
@@ -55,6 +53,8 @@ posts:
 
 
         P.S. Я прям-таки этой песней алколдован :-)'
+      inferred_person_id: 7202
+    inferred_person_id: 7202
   - id: 36280
     parent_id: 36278
     date: 2009-04-12 15:01
@@ -62,8 +62,6 @@ posts:
     email: evdokimov@blues.ru
     subject: Woodstock Album - Chess, 1975
     deleted: false
-    text: "Из группы Мадди Уотерса:\nBob Margolin - guitar\nPinetop Perkins - piano\n\
-      Из группы The Band:\nLevon Helm - drums\nFred Carter - bass \nHoward Johnson\
-      \ - keyb, accordeon, sax\nСам по себе из джаза весьма именитый Howard Johnson\
-      \ - sax\n\nпесенка Бобби Чарлза, белового вокалиста и композитораЮ, сотрудничавшего\
-      \ с Chess"
+    text: "Из группы Мадди Уотерса:\nBob Margolin - guitar\nPinetop Perkins - piano\nИз группы The Band:\nLevon Helm - drums\nFred Carter - bass \nHoward Johnson - keyb, accordeon, sax\nСам по себе из джаза весьма именитый Howard Johnson - sax\n\nпесенка Бобби Чарлза, белового вокалиста и композитораЮ, сотрудничавшего с Chess"
+    inferred_person_id: 4
+  inferred_person_id: 7202

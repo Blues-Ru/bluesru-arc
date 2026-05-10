@@ -12,8 +12,7 @@ posts:
   email: fedor@blues.ru
   subject: Спам-фильтр
   deleted: false
-  text: Я вчера прикрутил к форуму простой спам-фильтр... Спама сегодня не было, но и новых сообщений... Интересно, тут никто
-    не пишет потому, что не получается? ;)
+  text: Я вчера прикрутил к форуму простой спам-фильтр... Спама сегодня не было, но и новых сообщений... Интересно, тут никто не пишет потому, что не получается? ;)
   replies:
   - id: 32844
     parent_id: 32842
@@ -33,6 +32,7 @@ posts:
       deleted: false
       text: Вроде бы, работает теперь в обоих браузерах. Вероятно, и в остальных с поддержкой javascript...
       person_id: 2
+    inferred_person_id: 7202
   - id: 32849
     parent_id: 32842
     date: 2007-05-12 13:30
@@ -94,6 +94,7 @@ posts:
             text: но не работает
             person_id: 335
           person_id: 2
+        inferred_person_id: 7202
       - id: 32860
         parent_id: 32858
         date: 2007-05-13 23:44
@@ -141,6 +142,8 @@ posts:
             person_id: 335
           person_id: 2
         person_id: 335
+      inferred_person_id: 2
+    inferred_person_id: 335
   - id: 32854
     parent_id: 32842
     date: 2007-05-12 21:44
@@ -149,6 +152,7 @@ posts:
     subject: Opera присоединяется
     deleted: false
     text: Работаеть!
+    inferred_person_id: 7202
   - id: 32870
     parent_id: 32842
     date: 2007-05-14 21:17
@@ -193,6 +197,7 @@ posts:
         subject: FireFox заrulil
         deleted: false
         text: Rabotaetь!
+        inferred_person_id: 7202
       person_id: 2
   - id: 32890
     parent_id: 32842

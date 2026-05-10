@@ -34,6 +34,7 @@ posts:
       subject: Мне лично понравилось....
       deleted: false
       text: Не плохо
+      inferred_person_id: 3588
     person_id: 335
   - id: 23771
     parent_id: 23760
@@ -55,5 +56,6 @@ posts:
       email: dr.nick@blues.ru
       subject: кратко
       deleted: false
-      text: "Это чёрный поэт-битник. Борец за права и т.д. еще до Мартина Лютера Кинга. Умер в 1967 году. \n\nhttp://www.allmusic.com/cg/amg.dll?p=amg&sql=11:0ifuxqt5ldde\n\
-        \nhttp://www.poets.org/poet.php/prmPID/83"
+      text: "Это чёрный поэт-битник. Борец за права и т.д. еще до Мартина Лютера Кинга. Умер в 1967 году. \n\nhttp://www.allmusic.com/cg/amg.dll?p=amg&sql=11:0ifuxqt5ldde\n\nhttp://www.poets.org/poet.php/prmPID/83"
+      inferred_person_id: 335
+  inferred_person_id: 4

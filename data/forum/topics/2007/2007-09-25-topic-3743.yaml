@@ -34,8 +34,7 @@ posts:
     email: grems@yandex.ru
     subject: Жаль
     deleted: false
-    text: Вот те нааа, почти ровесник... беседовал с ним в "Б2" и диск с его автографом остался. Очень жизнерадостный и открытый
-      человек, жаль очень жаль...
+    text: Вот те нааа, почти ровесник... беседовал с ним в "Б2" и диск с его автографом остался. Очень жизнерадостный и открытый человек, жаль очень жаль...
     person_id: 204
   - id: 33548
     parent_id: 33545
@@ -44,21 +43,8 @@ posts:
     email: el@ma
     subject: Gary Primich 1958-2007
     deleted: false
-    text: "Gary Primich 1958-2007\nMusician Gary Primich dies at 49\nBy Michael Corcoran\n\nMonday, September 24, 2007\nThere\
-      \ are generally two types of harmonica players: Ones who have amazing technique, and those who play with intense feeling.\
-      \ Gary Primich was both. The great blues player, whose appearances in Europe brought out harmonica aficionados in droves,\
-      \ died Sunday, ex-wife Tina Rosenzwieg confirmed. An announcement of his death was also posted on his Web site. He was\
-      \ 49. The cause of death has not been released. \n\"Gary was the sweetest, smartest, hardest-working harp player in\
-      \ the world,\" said Rosenzwieg, who met Primich when they were students at the University of Indiana. Although the couple\
-      \ divorced after several years, they remained close. \nA native of Gary, Ind., Primich moved to Austin in the mid-'80s\
-      \ after a single visit to Antone's. He formed the Mannish Boys with former Frank Zappa drummer Jimmy Carl Black but\
-      \ achieved his greatest success as a solo artist. His 1995 album \"Mr. Freeze\" was named one of the 20 best blues albums\
-      \ of the '90s by Chicago weekly New City. He recorded eight albums in all for such labels as Antone's, Black Top, Amazing\
-      \ and Flying Fish. \nAlthough he was based in Austin the past two decades, Primich made most of his money playing overseas,\
-      \ as a solo artist or while touring with bands such as Omar and the Howlers. \n\"He had established himself all over\
-      \ the world as one of the most technically proficient harmonica players,\" said his friend and fellow harp-blower Ted\
-      \ Roddy. \"He wrote great instrumentals that leaned toward organ jazz. It was like Jimmy Smith, only on harmonica.\"\
-      \ \nFuneral services are pending."
+    text: "Gary Primich 1958-2007\nMusician Gary Primich dies at 49\nBy Michael Corcoran\n\nMonday, September 24, 2007\nThere are generally two types of harmonica players: Ones who have amazing technique, and those who play with intense feeling. Gary Primich was both. The great blues player, whose appearances in Europe brought out harmonica aficionados in droves, died Sunday, ex-wife Tina Rosenzwieg confirmed. An announcement of his death was also posted on his Web site. He was 49. The cause of death has not been released. \n\"Gary was the sweetest, smartest, hardest-working harp player in the world,\" said Rosenzwieg, who met Primich when they were students at the University of Indiana. Although the couple divorced after several years, they remained close. \nA native of Gary, Ind., Primich moved to Austin in the mid-'80s after a single visit to Antone's. He formed the Mannish Boys with former Frank Zappa drummer Jimmy Carl Black but achieved his greatest success as a solo artist. His 1995 album \"Mr. Freeze\" was named one of the 20 best blues albums of the '90s by Chicago weekly New City. He recorded eight albums in all for such labels as Antone's, Black Top, Amazing and Flying Fish. \nAlthough he was based in Austin the past two decades, Primich made most of his money playing overseas, as a solo artist or while touring with bands such as Omar and the Howlers. \n\"He had established himself all over the world as one of the most technically proficient harmonica players,\" said his friend and fellow harp-blower Ted Roddy. \"He wrote great instrumentals that leaned toward organ jazz. It was like Jimmy Smith, only on harmonica.\" \nFuneral services are pending."
+    inferred_person_id: 7202
   - id: 33549
     parent_id: 33545
     date: 2007-09-25 21:11
@@ -70,6 +56,7 @@ posts:
 
 
       RIP'
+    inferred_person_id: 7284
   - id: 33550
     parent_id: 33545
     date: 2007-09-25 21:14
@@ -100,3 +87,4 @@ posts:
     deleted: false
     text: <a href="http://www.blues.ru/news/?p=200709#353">http://www.blues.ru/news/?p=200709#353</a>
     person_id: 2
+  inferred_person_id: 4

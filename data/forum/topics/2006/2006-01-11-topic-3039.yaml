@@ -22,6 +22,7 @@ posts:
     subject: Добрый день!!! Зашел,Миша...
     deleted: false
     text: Спорно,но любопытно(о вкусах)...
+    inferred_person_id: 3168
   - id: 25398
     parent_id: 25387
     date: 2006-01-11 17:19
@@ -30,6 +31,7 @@ posts:
     subject: По-моему
     deleted: false
     text: У Миши очень хороший вкус!
+    inferred_person_id: 7465
   - id: 25409
     parent_id: 25387
     date: 2006-01-12 00:47
@@ -48,3 +50,4 @@ posts:
       deleted: false
       text: Можно сказать наркозависимая:))
     person_id: 2888
+  inferred_person_id: 4384

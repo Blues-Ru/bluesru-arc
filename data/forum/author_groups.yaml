@@ -8,7 +8,7 @@
 # Authors not listed here are identified by their single person_id automatically.
 
 - slug: dr-nick
-  canonical: Dr. Nick
+  canonical: Дмитрий Казанцев (Dr. Nick)
   pid: 335
 
 - slug: evdokimov
@@ -16,8 +16,10 @@
   pid: 4
 
 - slug: fedor
-  canonical: Федор Романенко
+  canonical: Федор Романенко (fedor)
   pid: 2
+  extra_pids: [7105]
+  names: ["Fedor Romanenko"]
 
 - slug: stone-crazy
   canonical: vr (Stone Crazy)
@@ -39,11 +41,13 @@
   canonical: Юрий Каверкин (Gekko)
   pid: 1719
   extra_pids: [3370, 5569]
+  names: ["Юрий Каверкин", "Yuri Kaverkin"]
 
 - slug: grem
   canonical: Grem
   pid: 1725
-  extra_pids: [204]
+  extra_pids: [204, 7219]
+  names: ["grem"]
 
 - slug: void
   canonical: Sergei Kiritchenko (VoID)

@@ -11,8 +11,7 @@ posts:
   poster: Andrei V. Evdokimov
   subject: Новости про Джек Уайт
   deleted: false
-  text: 'из небезызвестной и, по мнению некоторых, блюзовой группы White Stripes в
-    журнале ROLLING STONE:
+  text: 'из небезызвестной и, по мнению некоторых, блюзовой группы White Stripes в журнале ROLLING STONE:
 
 
     http://www.rollingstone.ru/articles/music/article/10594.html'
@@ -23,8 +22,9 @@ posts:
     poster: Старый Майор
     subject: Женская тема раскрыта!
     deleted: false
-    text: '"...в оркестре мистера Уайта было шесть женщин, причем одна из них была
-      серьезно беременна..."
+    text: '"...в оркестре мистера Уайта было шесть женщин, причем одна из них была серьезно беременна..."
 
 
       Очевидно, остальные были беременны понарошку.'
+    inferred_person_id: 13
+  inferred_person_id: 4

@@ -14,9 +14,7 @@ posts:
   text: 'Аслан и Арсен джемуют в своей Канаде на тему Meters "Look-Ka Py Py"
 
 
-    <object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/bwHtzByR6SA&hl=en&fs=1&"></param><param
-    name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/bwHtzByR6SA&hl=en&fs=1&"
-    type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>'
+    <object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/bwHtzByR6SA&hl=en&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/bwHtzByR6SA&hl=en&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>'
   replies:
   - id: 36378
     parent_id: 36377
@@ -43,6 +41,7 @@ posts:
         deleted: false
         text: Отличная тема!Аслан-король!
         person_id: 7077
+      inferred_person_id: 13
     - id: 36385
       parent_id: 36378
       date: 2009-06-15 03:09
@@ -51,3 +50,4 @@ posts:
       deleted: false
       text: Я даже понимаю, почему я смешал эти две песни с одной пластинки...
       person_id: 2
+  inferred_person_id: 2

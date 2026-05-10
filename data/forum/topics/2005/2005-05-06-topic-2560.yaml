@@ -23,3 +23,4 @@ posts:
     deleted: false
     text: '"Эрнест Неизвестный".'
     person_id: 458
+  inferred_person_id: 13

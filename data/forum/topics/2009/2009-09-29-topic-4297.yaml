@@ -11,10 +11,7 @@ posts:
   poster: Axle
   subject: 18 октября Lucky Peterson
   deleted: false
-  text: '<object width="560" height="340"><param name="movie" value="http://www.youtube.com/v/JBADJkr7JEY&hl=ru&fs=1&"></param><param
-    name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed
-    src="http://www.youtube.com/v/JBADJkr7JEY&hl=ru&fs=1&" type="application/x-shockwave-flash"
-    allowscriptaccess="always" allowfullscreen="true" width="560" height="340"></embed></object>
+  text: '<object width="560" height="340"><param name="movie" value="http://www.youtube.com/v/JBADJkr7JEY&hl=ru&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/JBADJkr7JEY&hl=ru&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="560" height="340"></embed></object>
 
 
     Странно, что нет рекламы.
@@ -28,9 +25,6 @@ posts:
     poster: Федор Романенко
     subject: Повесим, обязательно!
     deleted: false
-    text: "Обычно вешаем за 2 недели.\n\nОпять смешно получилось. Я сопоставил факты\
-      \ и понял, что уеду из Москвы до 19 октября, подумал, что опять все пропущу...\
-      \ Очень жалко, ибо очень хотел бы послушать Лаки Питерсона. \n\n... Потом проверил\
-      \ расписание Лаки Питерсона, хе-хе, теперь знаю, что я его послушаю в Jazz Club\
-      \ Lionel Hampton в Париже примерно 14-го октября. Завидуйте! Там будет настоящий\
-      \ Хаммонд Б-3 ;)"
+    text: "Обычно вешаем за 2 недели.\n\nОпять смешно получилось. Я сопоставил факты и понял, что уеду из Москвы до 19 октября, подумал, что опять все пропущу... Очень жалко, ибо очень хотел бы послушать Лаки Питерсона. \n\n... Потом проверил расписание Лаки Питерсона, хе-хе, теперь знаю, что я его послушаю в Jazz Club Lionel Hampton в Париже примерно 14-го октября. Завидуйте! Там будет настоящий Хаммонд Б-3 ;)"
+    inferred_person_id: 2
+  inferred_person_id: 7206

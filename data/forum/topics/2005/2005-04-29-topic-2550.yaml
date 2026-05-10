@@ -63,6 +63,7 @@ posts:
 
 
             а как надо?'
+          inferred_person_id: 335
         - id: 21302
           parent_id: 21300
           date: 2005-04-29 22:25
@@ -104,6 +105,7 @@ posts:
           person_id: 335
         person_id: 2
       person_id: 335
+    inferred_person_id: 13
   - id: 21310
     parent_id: 21287
     date: 2005-04-30 14:32
@@ -111,8 +113,7 @@ posts:
     email: chifuroff@inbox.ru
     subject: Если я не ошибаюсь...
     deleted: false
-    text: '... она по "Эху Москвы" ведёт программу "Говорим по-русски":-))))) Там учат как правильно слова произносить :-)))))
-      Полезная передача.'
+    text: '... она по "Эху Москвы" ведёт программу "Говорим по-русски":-))))) Там учат как правильно слова произносить :-))))) Полезная передача.'
     person_id: 2888
   - id: 21323
     parent_id: 21287
@@ -121,11 +122,7 @@ posts:
     email: mlives_6@hotmail.com
     subject: Jimmy McCracklin
     deleted: false
-    text: "Великолепный артист!   Мне особенно нравятся записи его собственной группы с Lafayette \"Thing\" Thomas на гитаре.\
-      \ Был потрясающий диск \"The Walk: Jimmy McCracklin at His Best (Razor & Tie RE 2124-2).\"    \nИ есть два хороших диска\
-      \ ранних записей \"The Modern Recordings (Ace Records)\"\n\nЯ согласен, что \"From High on the Blues\" - удачная пластинка.\
-      \  Среди его более поздного творчества мне очень нравится \"My Story (Bullseye Blues NETCD 9506, 1991).\"    \n\n\n\
-      Muddy"
+    text: "Великолепный артист!   Мне особенно нравятся записи его собственной группы с Lafayette \"Thing\" Thomas на гитаре. Был потрясающий диск \"The Walk: Jimmy McCracklin at His Best (Razor & Tie RE 2124-2).\"    \nИ есть два хороших диска ранних записей \"The Modern Recordings (Ace Records)\"\n\nЯ согласен, что \"From High on the Blues\" - удачная пластинка.  Среди его более поздного творчества мне очень нравится \"My Story (Bullseye Blues NETCD 9506, 1991).\"    \n\n\nMuddy"
     replies:
     - id: 21331
       parent_id: 21323
@@ -152,6 +149,7 @@ posts:
           email: gypsy@mail.ru
           subject: ну дык я и пролетаю.. хорошо, что добрые самаритяне помогают иногда =)
           deleted: false
+          inferred_person_id: 13
         person_id: 335
       - id: 21337
         parent_id: 21331
@@ -160,8 +158,7 @@ posts:
         email: mlives_6@hotmal.com
         subject: Простити
         deleted: false
-        text: "если похожо, что хвастаюсь.  Просто я сам вырастал в раионе, где жил и играл господин McCracklin.  Его музыка\
-          \ очень близка к моему сердцу. \n\nЯ могу воздержаться от подобных постингов в будущем.  \n\n\nMuddy"
+        text: "если похожо, что хвастаюсь.  Просто я сам вырастал в раионе, где жил и играл господин McCracklin.  Его музыка очень близка к моему сердцу. \n\nЯ могу воздержаться от подобных постингов в будущем.  \n\n\nMuddy"
         replies:
         - id: 21340
           parent_id: 21337
@@ -170,13 +167,11 @@ posts:
           email: gypsy@mail.ru
           subject: Muddy, don't worry ))
           deleted: false
-          text: 'У меня на форуме определённая виртуальная физиономия бретёра и подстрекателя, ничего общего не имеющая с
-            моей реальной внешностью и характером.
+          text: 'У меня на форуме определённая виртуальная физиономия бретёра и подстрекателя, ничего общего не имеющая с моей реальной внешностью и характером.
 
             Поэтому воздерживаться от подобных постингов не следует, они весьма полезны для развития общей эрудиции.
 
-            Просто не все ещё в России могут покупать лицензионные CD на Амазоне, как ни призывает к тому брат Казанцев. И
-            не все ещё живут по соседству с блюзменами...
+            Просто не все ещё в России могут покупать лицензионные CD на Амазоне, как ни призывает к тому брат Казанцев. И не все ещё живут по соседству с блюзменами...
 
             Не можем же мы поощрять пиратство, лицемерно воскликнул я, и как всегда оказался прав!'
           replies:
@@ -211,8 +206,11 @@ posts:
                   email: gypsy@mail.ru
                   subject: Ронимый - это которого роняют всю дорогу, даа? =))
                   deleted: false
+                  inferred_person_id: 13
                 person_id: 5
+              inferred_person_id: 13
             person_id: 2888
+          inferred_person_id: 13
         - id: 21341
           parent_id: 21337
           date: 2005-05-03 23:19
@@ -220,8 +218,7 @@ posts:
           email: gypsy@mail.ru
           subject: вдогонку..
           deleted: false
-          text: 'Просто поискавши по сусекам в районе #mp3blues4u, я не нашёл ничего, кроме The Blues Collection- Disk 66
-            - Jimmy McCracklin - San Francisco Blues, та подборка мне показалась достаточно традиционной, вот что в ней было:
+          text: 'Просто поискавши по сусекам в районе #mp3blues4u, я не нашёл ничего, кроме The Blues Collection- Disk 66 - Jimmy McCracklin - San Francisco Blues, та подборка мне показалась достаточно традиционной, вот что в ней было:
 
 
             The Walk
@@ -255,3 +252,8 @@ posts:
             Hurt Me
 
             I''ll Take The Blame'
+          inferred_person_id: 13
+        inferred_person_id: 7465
+      inferred_person_id: 13
+    inferred_person_id: 7465
+  inferred_person_id: 335

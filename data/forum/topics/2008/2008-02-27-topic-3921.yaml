@@ -12,8 +12,7 @@ posts:
   email: wbox@bk.ru
   subject: Хотелось бы услышать ваше мнение
   deleted: false
-  text: 'Это наш первый опыт записи. Играем вместе уже более полугода. Собрались вместе на почве большой любви к блюзу :)
-    Вокал мой, и до этого я никогда не пел. Нужна оценка со стороны знающих людей.
+  text: 'Это наш первый опыт записи. Играем вместе уже более полугода. Собрались вместе на почве большой любви к блюзу :) Вокал мой, и до этого я никогда не пел. Нужна оценка со стороны знающих людей.
 
     http://slil.ru/25520815 кавер на Рев Брауна
 
@@ -70,6 +69,7 @@ posts:
           deleted: false
           text: Ха)))) Расскажу сегодня друзьям, обрадую )))
         person_id: 458
+    inferred_person_id: 458
   - id: 34808
     parent_id: 34800
     date: 2008-02-28 05:37
@@ -105,10 +105,7 @@ posts:
     email: wbox@bk.ru
     subject: Спасибо всем за поддержку )))
     deleted: false
-    text: "Получить на этом сайте позитивный отзыв - это здорово))) \nА мы еще и другие вещи играем :) \nZZTop - Gimmie All\
-      \ Your Lovin, Pearl Neklace\nWillie Dixon - Hoochie Coochie Man\nChuck Berry - Jonny Be Good, Nadine \nPeter Green -\
-      \ Need Your Love So Bad \nElvis Presly - Blue Suede Shoes \nJimmy McCracklin - The Walk\nно пока еще не записывали -\
-      \ too much day gig (((\nСпасибо еще раз\n\nС уважением\nМарат\nгруппа GTown"
+    text: "Получить на этом сайте позитивный отзыв - это здорово))) \nА мы еще и другие вещи играем :) \nZZTop - Gimmie All Your Lovin, Pearl Neklace\nWillie Dixon - Hoochie Coochie Man\nChuck Berry - Jonny Be Good, Nadine \nPeter Green - Need Your Love So Bad \nElvis Presly - Blue Suede Shoes \nJimmy McCracklin - The Walk\nно пока еще не записывали - too much day gig (((\nСпасибо еще раз\n\nС уважением\nМарат\nгруппа GTown"
     replies:
     - id: 34817
       parent_id: 34816
@@ -118,3 +115,4 @@ posts:
       subject: Я бы Jimmy McCracklin - The Walk послушал ))
       deleted: false
       text: Хороший выбор, говорит о знании предмета ))
+      inferred_person_id: 13

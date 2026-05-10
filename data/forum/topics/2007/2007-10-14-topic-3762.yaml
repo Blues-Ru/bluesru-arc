@@ -12,8 +12,7 @@ posts:
   email: sergey.shigal@msk.eldorado.ru
   subject: crazy for my baby, dixon
   deleted: false
-  text: прив всем))) помогите найти текст песни whilli dixon "crazy for my baby" -
-    весь инет уже перерыл((( заранее пасиб)))
+  text: прив всем))) помогите найти текст песни whilli dixon "crazy for my baby" - весь инет уже перерыл((( заранее пасиб)))
   replies:
   - id: 33660
     parent_id: 33655
@@ -66,6 +65,7 @@ posts:
 
 
       Muddy'
+    inferred_person_id: 7465
   - id: 33661
     parent_id: 33655
     date: 2007-10-15 13:39
@@ -117,3 +117,4 @@ posts:
 
 
       Muddy'
+    inferred_person_id: 7465

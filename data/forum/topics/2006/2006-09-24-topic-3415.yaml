@@ -12,8 +12,7 @@ posts:
   email: dr.nick@blues.ru
   subject: надо бы поправить
   deleted: false
-  text: 'Петрович & Hot Rod Band Гармошка сейшн.Гости: В.Кажекин(Станция Мир), М.Владимиров( Crossroadz), Jone Сорокин(Dr.Nick)
-    - вход 500 руб
+  text: 'Петрович & Hot Rod Band Гармошка сейшн.Гости: В.Кажекин(Станция Мир), М.Владимиров( Crossroadz), Jone Сорокин(Dr.Nick) - вход 500 руб
 
 
     а то столько ошибок в одном предложении'
@@ -26,6 +25,7 @@ posts:
     subject: а может это фишка такая...
     deleted: false
     text: типа "красавчег", "зачот" и пр..
+    inferred_person_id: 750
   - id: 28883
     parent_id: 28792
     date: 2006-10-04 11:29
@@ -53,4 +53,6 @@ posts:
         deleted: false
         text: блин
         person_id: 335
+      inferred_person_id: 13
     person_id: 335
+  inferred_person_id: 335

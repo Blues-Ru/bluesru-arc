@@ -12,13 +12,7 @@ posts:
   email: evdokimov@blues.ru
   subject: знание - сила (но весит 46Мб)
   deleted: false
-  text: "http://www.avaxhome.ru/ebooks/2005/08/02/1001_blues_licks/\n\n1001 Blues\
-    \ Licks by Toby Wine | Hal Leonard | 2003 | PDF | 46,3Mb | 129 Pages\n\nAs composed\
-    \ by Toby Wine. For All Treble Clef Instruments. \n1001 Blues Licks presents 1001\
-    \ riffs in a variety of blues styles to be played within the standard 12-bar format.\
-    \ This is the ideal book for beginners seeking a well-organized, easy-to-follow\
-    \ encyclopedia of blues licks, as well as consummate professionals who want to\
-    \ take their knowledge of the blues to new heights."
+  text: "http://www.avaxhome.ru/ebooks/2005/08/02/1001_blues_licks/\n\n1001 Blues Licks by Toby Wine | Hal Leonard | 2003 | PDF | 46,3Mb | 129 Pages\n\nAs composed by Toby Wine. For All Treble Clef Instruments. \n1001 Blues Licks presents 1001 riffs in a variety of blues styles to be played within the standard 12-bar format. This is the ideal book for beginners seeking a well-organized, easy-to-follow encyclopedia of blues licks, as well as consummate professionals who want to take their knowledge of the blues to new heights."
   replies:
   - id: 22215
     parent_id: 22197
@@ -27,5 +21,6 @@ posts:
     email: gypsy@mail.ru
     subject: Звучит заманчиво, прямо как "Сказки 1001 ночи" ))
     deleted: false
-    text: Руслан Чифурыч, ты у нас человек учёный, хорошо видишь и даже ноты, грят,
-      знаешь, ознакомься пожалуйста с материалом и дай рецензию =))
+    text: Руслан Чифурыч, ты у нас человек учёный, хорошо видишь и даже ноты, грят, знаешь, ознакомься пожалуйста с материалом и дай рецензию =))
+    inferred_person_id: 13
+  inferred_person_id: 4

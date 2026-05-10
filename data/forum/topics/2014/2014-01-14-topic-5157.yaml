@@ -11,8 +11,7 @@ posts:
   poster: Александр Сомов
   subject: А я всё про блюзовый календарь
   deleted: false
-  text: "Андрей, всё пишу вам на email исправления, но ответов давно не было.. \nВ дополнение к отосланному, ещё сегодня родился\n\
-    \nPaul \"Lil' Buck\" SInegal, но не sEnegal."
+  text: "Андрей, всё пишу вам на email исправления, но ответов давно не было.. \nВ дополнение к отосланному, ещё сегодня родился\n\nPaul \"Lil' Buck\" SInegal, но не sEnegal."
   replies:
   - id: 39159
     parent_id: 39158
@@ -30,3 +29,4 @@ posts:
     deleted: false
     text: http://www.bluessearchengine.com/img/Lil_Buck_Sinegal.jpg
     person_id: 7879
+  inferred_person_id: 7879

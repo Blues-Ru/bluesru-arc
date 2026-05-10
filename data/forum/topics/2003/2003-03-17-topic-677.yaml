@@ -20,11 +20,9 @@ posts:
 
     arrange the concert and to be booked? All the inform about band plus music
 
-    in MP3 format  and  pictures of members You will find at the site: http://nickgoodcorn.narod.ru/index.html                                                                                                                To
-    keep in touch and to correspond with us  please write on the Email which
+    in MP3 format  and  pictures of members You will find at the site: http://nickgoodcorn.narod.ru/index.html                                                                                                                To keep in touch and to correspond with us  please write on the Email which
 
-    is: nickgoodcorn@hotmail.com                                                                  Thank You for Your attention.
-    With all respect  from the band.                                     Nick.'
+    is: nickgoodcorn@hotmail.com                                                                  Thank You for Your attention. With all respect  from the band.                                     Nick.'
   replies:
   - id: 11033
     parent_id: 11031
@@ -54,4 +52,6 @@ posts:
       subject: UNDERGROUND SUNBURN
       deleted: false
       text: Дык)))это были ЛДМовские шуточки - а насчет расписать----это идея,thnx))))))
+      inferred_person_id: 125
     person_id: 9
+  inferred_person_id: 125

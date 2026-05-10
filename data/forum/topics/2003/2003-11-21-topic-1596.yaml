@@ -12,8 +12,7 @@ posts:
   email: CoBB@inbox.ru
   subject: Где в Питере можно послушать хороший блюз.
   deleted: false
-  text: Ребята, посоветуйте дилетанту, где в Питере можно насладиться хорошим акустическим блюзом (Missisippi Style). Заранее
-    всем спасибо.
+  text: Ребята, посоветуйте дилетанту, где в Питере можно насладиться хорошим акустическим блюзом (Missisippi Style). Заранее всем спасибо.
   replies:
   - id: 15798
     parent_id: 15770
@@ -43,6 +42,7 @@ posts:
         deleted: false
         text: '...ессно кроме Хендрикса с гитарными запилами? :)'
         person_id: 26
+      inferred_person_id: 125
     person_id: 26
   - id: 15846
     parent_id: 15770
@@ -63,3 +63,5 @@ posts:
       text: '.. но вот какой акустический блюз играет BBR?!
 
         Ну а SoBo от нас вообще далеко, увы...'
+      inferred_person_id: 26
+    inferred_person_id: 125

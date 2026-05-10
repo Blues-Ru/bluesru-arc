@@ -29,6 +29,7 @@ posts:
       email: gypsy@mail.ru
       subject: Балкон приносить с собой! а то на всех не хватит!
       deleted: false
+      inferred_person_id: 13
     person_id: 5
   - id: 23337
     parent_id: 23334
@@ -37,8 +38,7 @@ posts:
     email: aaa@genebee.msu.su
     subject: О как!
     deleted: false
-    text: А мы ещё стеснялись, что ЦДХ назначил на Праймера цены от 300 до 600 рублей - дескать, не дорого ли студенчеству
-      встанет...
+    text: А мы ещё стеснялись, что ЦДХ назначил на Праймера цены от 300 до 600 рублей - дескать, не дорого ли студенчеству встанет...
     replies:
     - id: 23338
       parent_id: 23337
@@ -56,4 +56,6 @@ posts:
         subject: Она, проклятая...
         deleted: false
         person_id: 2803
+      inferred_person_id: 7206
     person_id: 458
+  inferred_person_id: 3168

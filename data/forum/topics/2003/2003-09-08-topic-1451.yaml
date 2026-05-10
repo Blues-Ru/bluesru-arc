@@ -15,12 +15,7 @@ posts:
   text: 'http://www.blues.org/ibc/index.html
 
 
-    "In order to keep the Blues alive, new talent must be cultivated. The Blues Foundation started the International Blues
-    Challenge (IBC) with this theory in mind. Blues organizations affiliated with the Foundation stage regional competitions
-    around the world and send the top unsigned artists from their region to compete in the IBC finals in Memphis. The winner
-    receives a cash prize, studio time, appearances at several major Blues events around the country and the title of "Best
-    Unsigned Blues Band". The judges also present a guitarist with the Albert King Award for the most promising guitarist.
-    "
+    "In order to keep the Blues alive, new talent must be cultivated. The Blues Foundation started the International Blues Challenge (IBC) with this theory in mind. Blues organizations affiliated with the Foundation stage regional competitions around the world and send the top unsigned artists from their region to compete in the IBC finals in Memphis. The winner receives a cash prize, studio time, appearances at several major Blues events around the country and the title of "Best Unsigned Blues Band". The judges also present a guitarist with the Albert King Award for the most promising guitarist. "
 
 
     Кто Россию будет представлять ?
@@ -106,8 +101,7 @@ posts:
                     email: sobodan@hotmail.com
                     subject: билет на самолет
                     deleted: false
-                    text: "на International Blues Challenge  в Мемфисе...\n\nпросто интересно, когда Россия пошлет кого, \n\
-                      local blues organization have to send the best band around.\nthat's all."
+                    text: "на International Blues Challenge  в Мемфисе...\n\nпросто интересно, когда Россия пошлет кого, \nlocal blues organization have to send the best band around.\nthat's all."
                     replies:
                     - id: 14367
                       parent_id: 14366
@@ -120,12 +114,15 @@ posts:
 
                         ты же видишь какой бред тут происходит после фестиваля.
 
-                        уровень настолько низок, что дальше некуда, людям нечего сказать, они не знают языка - в америке таким
-                        делать нечего.'
+                        уровень настолько низок, что дальше некуда, людям нечего сказать, они не знают языка - в америке таким делать нечего.'
+                      inferred_person_id: 335
+                    inferred_person_id: 1730
                   person_id: 335
                 person_id: 1730
               person_id: 335
             person_id: 4
+          inferred_person_id: 335
         person_id: 4
       person_id: 335
     person_id: 2
+  inferred_person_id: 1730

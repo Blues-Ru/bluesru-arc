@@ -11,9 +11,7 @@ posts:
   poster: Axle
   subject: Никто не видел ещё
   deleted: false
-  text: <object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/wwCNA8cc_S4&hl=ru&fs=1"></param><param
-    name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/wwCNA8cc_S4&hl=ru&fs=1"
-    type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>
+  text: <object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/wwCNA8cc_S4&hl=ru&fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/wwCNA8cc_S4&hl=ru&fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>
   replies:
   - id: 36326
     parent_id: 36325
@@ -24,29 +22,26 @@ posts:
     text: 'тут надо, бесспорно, выссказать уважение Алексею Дагаеву,как организатору.
 
       да'
+    inferred_person_id: 7208
   - id: 36332
     parent_id: 36325
     date: 2009-05-27 19:28
     poster: Axle
     subject: Ещё
     deleted: false
-    text: <object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/FbKasDgvOb0&hl=ru&fs=1"></param><param
-      name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/FbKasDgvOb0&hl=ru&fs=1"
-      type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>
+    text: <object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/FbKasDgvOb0&hl=ru&fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/FbKasDgvOb0&hl=ru&fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>
+    inferred_person_id: 7206
   - id: 36333
     parent_id: 36325
     date: 2009-05-27 19:41
     poster: Axle
     subject: .. и ещё... Весь сентябрьский концерт на моей странице в ютубе. Кстати, у меня дома на холодильнике...
     deleted: false
-    text: '...лежит его аудио запись. На минидисках. Никто не может помочь перекатать на обычный СД? Можно было бы сделать
-      видео ещё и слушабельным. (тут только гитарный монитор слышен)
+    text: '...лежит его аудио запись. На минидисках. Никто не может помочь перекатать на обычный СД? Можно было бы сделать видео ещё и слушабельным. (тут только гитарный монитор слышен)
 
 
 
-      <object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/ZAZJeW35wdw&hl=ru&fs=1"></param><param
-      name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/ZAZJeW35wdw&hl=ru&fs=1"
-      type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>'
+      <object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/ZAZJeW35wdw&hl=ru&fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/ZAZJeW35wdw&hl=ru&fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>'
     replies:
     - id: 36343
       parent_id: 36333
@@ -79,3 +74,9 @@ posts:
             subject: Оооо!
             deleted: false
             text: Не в продуктах счастье )) Мнеб запись перекотать.
+            inferred_person_id: 7206
+          inferred_person_id: 13
+        inferred_person_id: 7206
+      inferred_person_id: 13
+    inferred_person_id: 7206
+  inferred_person_id: 7206

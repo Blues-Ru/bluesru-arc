@@ -35,3 +35,4 @@ posts:
       deleted: false
       person_id: 335
     person_id: 366
+  inferred_person_id: 335

@@ -12,11 +12,8 @@ posts:
   email: fzsdfs@dg.ru
   subject: Crossroadz
   deleted: false
-  text: '<object width="425" height="355"><param name="movie" value="http://www.youtube.com/v/W_da-eW1imw&rel=1"></param><param
-    name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/W_da-eW1imw&rel=1"
-    type="application/x-shockwave-flash" wmode="transparent" width="425" height="355"></embed></object>
+  text: '<object width="425" height="355"><param name="movie" value="http://www.youtube.com/v/W_da-eW1imw&rel=1"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/W_da-eW1imw&rel=1" type="application/x-shockwave-flash" wmode="transparent" width="425" height="355"></embed></object>
 
 
-    <object width="425" height="355"><param name="movie" value="http://www.youtube.com/v/ayWwjXujpGU&rel=1"></param><param
-    name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/ayWwjXujpGU&rel=1"
-    type="application/x-shockwave-flash" wmode="transparent" width="425" height="355"></embed></object>'
+    <object width="425" height="355"><param name="movie" value="http://www.youtube.com/v/ayWwjXujpGU&rel=1"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/ayWwjXujpGU&rel=1" type="application/x-shockwave-flash" wmode="transparent" width="425" height="355"></embed></object>'
+  inferred_person_id: 7206

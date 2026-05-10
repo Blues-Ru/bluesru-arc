@@ -22,4 +22,5 @@ posts:
     subject: Молодой человек, нельзя так напрягаться на сцене...
     deleted: false
     text: '...фсякое может случиться...'
+    inferred_person_id: 13
   person_id: 5

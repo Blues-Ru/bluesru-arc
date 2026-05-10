@@ -15,10 +15,7 @@ posts:
   text: 'арфистка, испугавшая Каверкина!
 
 
-    <object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/fjKMz-3M9dM&hl=ru&fs=1"></param><param
-    name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed
-    src="http://www.youtube.com/v/fjKMz-3M9dM&hl=ru&fs=1" type="application/x-shockwave-flash"
-    allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>'
+    <object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/fjKMz-3M9dM&hl=ru&fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/fjKMz-3M9dM&hl=ru&fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>'
   replies:
   - id: 36258
     parent_id: 36257
@@ -29,8 +26,7 @@ posts:
     deleted: false
     text: 'Всё правильно делает, но инструмент, конечно, жесть...
 
-      Я Каверкина понимаю, он в шести струнах путается, а тут аж штук сорок, и играть
-      надо всеми десятью пальцами! Да ещё бенд делается как-то уж совсем экстремально...'
+      Я Каверкина понимаю, он в шести струнах путается, а тут аж штук сорок, и играть надо всеми десятью пальцами! Да ещё бенд делается как-то уж совсем экстремально...'
     replies:
     - id: 36259
       parent_id: 36258
@@ -39,9 +35,7 @@ posts:
       email: strophurus@yandex.ru
       subject: Вы мне льстите...
       deleted: false
-      text: я в трех струнах путаюсь... Смешной вы народец, арфисты...Вами восхищаются,
-        а вы все укусить норовите... Это все сольфеджио, наверное... Или геморрой,
-        от сиденья..
+      text: я в трех струнах путаюсь... Смешной вы народец, арфисты...Вами восхищаются, а вы все укусить норовите... Это все сольфеджио, наверное... Или геморрой, от сиденья..
       replies:
       - id: 36260
         parent_id: 36259
@@ -59,8 +53,7 @@ posts:
           email: strophurus@yandex.ru
           subject: Ну..
           deleted: false
-          text: ..мне трудно в этом разобраться, так как зубы (хоть и меньше чем надо)
-            у меня свои,да и от анальных напастей не страдаю :)
+          text: ..мне трудно в этом разобраться, так как зубы (хоть и меньше чем надо) у меня свои,да и от анальных напастей не страдаю :)
           replies:
           - id: 36262
             parent_id: 36261
@@ -70,6 +63,10 @@ posts:
             subject: Кто то из...
             deleted: false
             text: '...великих сказал - гемморой, это полная жопа больных зубов...'
+            inferred_person_id: 1719
+          inferred_person_id: 1719
+        inferred_person_id: 13
+      inferred_person_id: 1719
   - id: 36264
     parent_id: 36257
     date: 2009-04-01 22:54
@@ -78,6 +75,7 @@ posts:
     subject: Круто
     deleted: false
     text: Это вам не три частушечных аккорда по-громче.
+    inferred_person_id: 7206
   - id: 36265
     parent_id: 36257
     date: 2009-04-01 23:11
@@ -85,11 +83,7 @@ posts:
     email: hghgih@gfhhjjk.ru
     subject: К сожалению.  Как были "жигулями", так и остались.
     deleted: false
-    text: <object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/rbjk7DK5yb4&hl=ru&fs=1"></param><param
-      name="allowFullScreen" value="true"></param><param name="allowscriptaccess"
-      value="always"></param><embed src="http://www.youtube.com/v/rbjk7DK5yb4&hl=ru&fs=1"
-      type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true"
-      width="425" height="344"></embed></object>
+    text: <object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/rbjk7DK5yb4&hl=ru&fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/rbjk7DK5yb4&hl=ru&fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>
     replies:
     - id: 36266
       parent_id: 36265
@@ -106,8 +100,7 @@ posts:
         email: vnhvjh
         subject: понял,да
         deleted: false
-        text: окончательно понял, что Мэнкс меня не прёт (пошёл удалять с жесткого
-          диска)
+        text: окончательно понял, что Мэнкс меня не прёт (пошёл удалять с жесткого диска)
         replies:
         - id: 36268
           parent_id: 36267
@@ -116,11 +109,7 @@ posts:
           email: ghyuig@jghug.ru
           subject: Загрузи на жосский это
           deleted: false
-          text: <object width="480" height="295"><param name="movie" value="http://www.youtube.com/v/TwBdLS64lEg&hl=ru&fs=1"></param><param
-            name="allowFullScreen" value="true"></param><param name="allowscriptaccess"
-            value="always"></param><embed src="http://www.youtube.com/v/TwBdLS64lEg&hl=ru&fs=1"
-            type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true"
-            width="480" height="295"></embed></object>
+          text: <object width="480" height="295"><param name="movie" value="http://www.youtube.com/v/TwBdLS64lEg&hl=ru&fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/TwBdLS64lEg&hl=ru&fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="295"></embed></object>
           replies:
           - id: 36269
             parent_id: 36268
@@ -129,11 +118,7 @@ posts:
             email: vhhi@hljk.ru
             subject: Полная версия, для детей и внуков.
             deleted: false
-            text: <object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/wb9YQbwfixY&hl=ru&fs=1"></param><param
-              name="allowFullScreen" value="true"></param><param name="allowscriptaccess"
-              value="always"></param><embed src="http://www.youtube.com/v/wb9YQbwfixY&hl=ru&fs=1"
-              type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true"
-              width="425" height="344"></embed></object>
+            text: <object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/wb9YQbwfixY&hl=ru&fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/wb9YQbwfixY&hl=ru&fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>
             replies:
             - id: 36270
               parent_id: 36269
@@ -142,11 +127,15 @@ posts:
               email: ggyugjyyg
               subject: тю....слоновья память мучает?
               deleted: false
-              text: 'хотя ТЕБЕ не понять никогда, почему я на шреда этого вышел и
-                зачем. живи долго и счастливо, но отдельно.
+              text: 'хотя ТЕБЕ не понять никогда, почему я на шреда этого вышел и зачем. живи долго и счастливо, но отдельно.
 
-                можешь по всему миру это разослать, мне пох. а рыло жаль я ему в ответ
-                на сцене не начистил-видео веселее бы получилось
+                можешь по всему миру это разослать, мне пох. а рыло жаль я ему в ответ на сцене не начистил-видео веселее бы получилось
 
-                и не забудь к видео рассказ приложить как мы из-за моралей твоих и
-                бабкокидалова чуть на поезд не опоздали'
+                и не забудь к видео рассказ приложить как мы из-за моралей твоих и бабкокидалова чуть на поезд не опоздали'
+              inferred_person_id: 7208
+            inferred_person_id: 7206
+          inferred_person_id: 7206
+        inferred_person_id: 7208
+      inferred_person_id: 13
+    inferred_person_id: 7206
+  inferred_person_id: 4

@@ -12,8 +12,7 @@ posts:
   email: volodya@blues.ru
   subject: real video
   deleted: false
-  text: "http://www.bluesebrother.hpg.ig.com.br/rvideo.htm\nнемного блюза в рилвидео. не всетам к сожалению открывается, но\n\
-    James Harman например просто супер :) целый концерт. \nи Luther Allison есть :) но его я еще там не посмотрел..."
+  text: "http://www.bluesebrother.hpg.ig.com.br/rvideo.htm\nнемного блюза в рилвидео. не всетам к сожалению открывается, но\nJames Harman например просто супер :) целый концерт. \nи Luther Allison есть :) но его я еще там не посмотрел..."
   replies:
   - id: 13122
     parent_id: 13117
@@ -26,6 +25,7 @@ posts:
 
 
       http://mp3files.int.ru/pub/mp3/DISK_2/Stevie_Ray_Vaughan/85-08-25_Rockpalast_show/srv1.rm - концерт СРВ'
+    inferred_person_id: 1749
   - id: 13123
     parent_id: 13117
     date: 2003-07-03 09:47
@@ -69,3 +69,5 @@ posts:
           person_id: 5
         person_id: 2
       person_id: 5
+    inferred_person_id: 1749
+  inferred_person_id: 5

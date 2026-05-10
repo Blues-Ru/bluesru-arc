@@ -30,4 +30,5 @@ posts:
       email: gypsy@mail.ru
       subject: И КПЗ тоже есть!
       deleted: false
+      inferred_person_id: 13
     person_id: 5

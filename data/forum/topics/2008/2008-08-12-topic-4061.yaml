@@ -12,8 +12,7 @@ posts:
   email: vmbm
   subject: 6 сентября Москва
   deleted: false
-  text: участие подтвердили Лил Ед и Кенни Нил. чему и следовало быть. беру билеты.сколько будет стоить вход и какие еще команды
-    будут выступать?
+  text: участие подтвердили Лил Ед и Кенни Нил. чему и следовало быть. беру билеты.сколько будет стоить вход и какие еще команды будут выступать?
   replies:
   - id: 35660
     parent_id: 35659
@@ -22,8 +21,7 @@ posts:
     email: jhvkjyuy@mail.ru
     subject: Эээ...
     deleted: false
-    text: 750 р. если через контрамарку, или на месте в день фестиваля. Но, скидки для музыкантов + на форуме скоро будет
-      флайер, с ним цена будет 350 р, но придти на фест нужно до 14.00 и купить билет можно только в ББК
+    text: 750 р. если через контрамарку, или на месте в день фестиваля. Но, скидки для музыкантов + на форуме скоро будет флайер, с ним цена будет 350 р, но придти на фест нужно до 14.00 и купить билет можно только в ББК
     replies:
     - id: 35661
       parent_id: 35660
@@ -33,6 +31,7 @@ posts:
       subject: Прошу прощенья, не на форуме, а на сайте blues.ru
       deleted: false
       text: Вот
+      inferred_person_id: 7206
     - id: 35690
       parent_id: 35660
       date: 2008-08-24 03:02
@@ -68,6 +67,7 @@ posts:
 
 
         Спасибо.'
+    inferred_person_id: 7206
   - id: 35662
     parent_id: 35659
     date: 2008-08-12 22:22
@@ -101,8 +101,7 @@ posts:
           email: vbhmbmjb
           subject: туристу на заметку
           deleted: false
-          text: уважаемый Axle))) я особо так никого не встречаю, так как проживаю в другой стране, поэтому и интересуюсь
-            подробностями-очень хотелось бы посетить. Спасибо за более подробную информацию.
+          text: уважаемый Axle))) я особо так никого не встречаю, так как проживаю в другой стране, поэтому и интересуюсь подробностями-очень хотелось бы посетить. Спасибо за более подробную информацию.
           replies:
           - id: 35673
             parent_id: 35672
@@ -112,6 +111,8 @@ posts:
             subject: Состав участников утвердим на след неделе
             deleted: false
             text: .
+            inferred_person_id: 7206
+        inferred_person_id: 7206
       - id: 35669
         parent_id: 35667
         date: 2008-08-14 19:54
@@ -130,6 +131,8 @@ posts:
           deleted: false
           text: приятно на досуге форум почитать :)
           person_id: 5
+        inferred_person_id: 7206
+    inferred_person_id: 7206
   - id: 35695
     parent_id: 35659
     date: 2008-08-26 21:10
@@ -137,10 +140,7 @@ posts:
     email: iugi@oijh.ru
     subject: FESTIVAL RUNNING ORDER
     deleted: false
-    text: "ERIC SARDINAS     21.30-22.50\n\nLIL’ ED           20.00-21.10\n\nKENNY NEAL        18.30-19.40\n\nCROSSROADZ \
-      \       17.30-18.15\n\nOFF BEAT          16.35-17.15\n\n Н.АРУТЮНОВ       \n&FUNKY SOUL       15.40-16.20\n\n MODERN\
-      \ BLUES\n BAND             14.55-15.25\n                     \n STAINLESS \n BLUES BAND       14.15-14.45\n\n DIRTY\
-      \ DOZEN      14.05-14.35\n\n DR.NICK          13.25-13.55\n\n BLACKMAILERS     12.45-13.15\n\n JUMPING CATS     12.05-12.35"
+    text: "ERIC SARDINAS     21.30-22.50\n\nLIL’ ED           20.00-21.10\n\nKENNY NEAL        18.30-19.40\n\nCROSSROADZ        17.30-18.15\n\nOFF BEAT          16.35-17.15\n\n Н.АРУТЮНОВ       \n&FUNKY SOUL       15.40-16.20\n\n MODERN BLUES\n BAND             14.55-15.25\n                     \n STAINLESS \n BLUES BAND       14.15-14.45\n\n DIRTY DOZEN      14.05-14.35\n\n DR.NICK          13.25-13.55\n\n BLACKMAILERS     12.45-13.15\n\n JUMPING CATS     12.05-12.35"
     replies:
     - id: 35696
       parent_id: 35695
@@ -158,11 +158,9 @@ posts:
       email: jklhoh.ihg.tu
       subject: FESTIVAL RUNNING ORDER (ИЗМЕНЕНИЯ!!!!!! ТОЛЬКО ВРЕМЯ!)
       deleted: false
-      text: "FESTIVAL RUNNING ORDER\n\nERIC SARDINAS\t\t21.40 - 23.00\n\nLIL’ ED\t\t\t20.15 - 21.25\n\nKENNY NEAL\t\t18.50\
-        \ - 20.00\n\nCROSSROADZ\t\t17.50 - 18.35\n\nOFF BEAT\t\t17.00 - 17.40\n\n Н.АРУТЮНОВ       \n&FUNKY SOUL\t\t16.05\
-        \ - 16.50\n\n MODERN BLUES\n BAND\t\t\t15.20 - 15.50\n                     \n STAINLESS \n BLUES BAND\t\t14.40 – 15.10\n\
-        \n DIRTY DOZEN\t\t14.00 - 14.30\n\n DR.NICK\t\t13.20 - 13.50\n\n BLACKMAILERS           12.40 - 13.10\n\n JUMPING\
-        \ CATS\t\t12.00 - 12.30"
+      text: "FESTIVAL RUNNING ORDER\n\nERIC SARDINAS\t\t21.40 - 23.00\n\nLIL’ ED\t\t\t20.15 - 21.25\n\nKENNY NEAL\t\t18.50 - 20.00\n\nCROSSROADZ\t\t17.50 - 18.35\n\nOFF BEAT\t\t17.00 - 17.40\n\n Н.АРУТЮНОВ       \n&FUNKY SOUL\t\t16.05 - 16.50\n\n MODERN BLUES\n BAND\t\t\t15.20 - 15.50\n                     \n STAINLESS \n BLUES BAND\t\t14.40 – 15.10\n\n DIRTY DOZEN\t\t14.00 - 14.30\n\n DR.NICK\t\t13.20 - 13.50\n\n BLACKMAILERS           12.40 - 13.10\n\n JUMPING CATS\t\t12.00 - 12.30"
+      inferred_person_id: 7206
+    inferred_person_id: 7206
   - id: 35698
     parent_id: 35659
     date: 2008-08-27 20:03
@@ -170,9 +168,7 @@ posts:
     email: oiy9o0@iojuh.ru
     subject: '------------------------------------'
     deleted: false
-    text: <object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/xEMt2tRUtEE&hl=ru&fs=1"></param><param
-      name="allowFullScreen" value="true"></param><embed src="http://www.youtube.com/v/xEMt2tRUtEE&hl=ru&fs=1" type="application/x-shockwave-flash"
-      allowfullscreen="true" width="425" height="344"></embed></object>
+    text: <object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/xEMt2tRUtEE&hl=ru&fs=1"></param><param name="allowFullScreen" value="true"></param><embed src="http://www.youtube.com/v/xEMt2tRUtEE&hl=ru&fs=1" type="application/x-shockwave-flash" allowfullscreen="true" width="425" height="344"></embed></object>
     replies:
     - id: 35699
       parent_id: 35698
@@ -181,9 +177,7 @@ posts:
       email: uig8iyg@ikjhgi.ru
       subject: '----------------------------------'
       deleted: false
-      text: <object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/XkmoALuBdWY&hl=ru&fs=1"></param><param
-        name="allowFullScreen" value="true"></param><embed src="http://www.youtube.com/v/XkmoALuBdWY&hl=ru&fs=1" type="application/x-shockwave-flash"
-        allowfullscreen="true" width="425" height="344"></embed></object>
+      text: <object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/XkmoALuBdWY&hl=ru&fs=1"></param><param name="allowFullScreen" value="true"></param><embed src="http://www.youtube.com/v/XkmoALuBdWY&hl=ru&fs=1" type="application/x-shockwave-flash" allowfullscreen="true" width="425" height="344"></embed></object>
       replies:
       - id: 35700
         parent_id: 35699
@@ -192,9 +186,10 @@ posts:
         email: ouho@pkjpio0r.ru
         subject: '--------------------------------------'
         deleted: false
-        text: <object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/Zf1PF9GKtU4&hl=ru&fs=1"></param><param
-          name="allowFullScreen" value="true"></param><embed src="http://www.youtube.com/v/Zf1PF9GKtU4&hl=ru&fs=1" type="application/x-shockwave-flash"
-          allowfullscreen="true" width="425" height="344"></embed></object>
+        text: <object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/Zf1PF9GKtU4&hl=ru&fs=1"></param><param name="allowFullScreen" value="true"></param><embed src="http://www.youtube.com/v/Zf1PF9GKtU4&hl=ru&fs=1" type="application/x-shockwave-flash" allowfullscreen="true" width="425" height="344"></embed></object>
+        inferred_person_id: 7206
+      inferred_person_id: 7206
+    inferred_person_id: 7206
   - id: 35735
     parent_id: 35659
     date: 2008-09-03 12:08

@@ -52,6 +52,7 @@ posts:
           subject: К Вам - нет!
           deleted: false
         person_id: 13
+    inferred_person_id: 1828
   - id: 19433
     parent_id: 19425
     date: 2004-10-08 10:44
@@ -67,6 +68,7 @@ posts:
 
 
       Слав, с тобой мы поговорим отдельно.'
+    inferred_person_id: 2466
   - id: 19436
     parent_id: 19425
     date: 2004-10-08 20:40

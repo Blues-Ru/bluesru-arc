@@ -11,8 +11,7 @@ posts:
   poster: Andrei V. Evdokimov
   subject: не пора ли дать Роберту "народного"?
   deleted: false
-  text: "http://www.cpv.ru/modules/news/article.php?storyid=49086\n\n Объехавши с блюзом все города и веси, столицы и медвежьи\
-    \ углы – Роберт будет смотреться истинно народным артистом в череде нынешних, у которых райдер в трех томах."
+  text: "http://www.cpv.ru/modules/news/article.php?storyid=49086\n\n Объехавши с блюзом все города и веси, столицы и медвежьи углы – Роберт будет смотреться истинно народным артистом в череде нынешних, у которых райдер в трех томах."
   replies:
   - id: 38981
     parent_id: 38979
@@ -22,3 +21,4 @@ posts:
     deleted: false
     text: Как Депардьё или хто там ищщо...
     person_id: 13
+  inferred_person_id: 4

@@ -12,8 +12,7 @@ posts:
   email: еlicaster мeйлтoчкapy
   subject: Евдокимова с Днём Рождения!
   deleted: false
-  text: 'Лично у меня, в Ашхабаде, 30 Ноября уже настало (как и в бОльшей части РФ).
-    То бишь АЕ''s ДР уже наступило. С чем вышеуказанного товарища и поздравляем!
+  text: 'Лично у меня, в Ашхабаде, 30 Ноября уже настало (как и в бОльшей части РФ). То бишь АЕ''s ДР уже наступило. С чем вышеуказанного товарища и поздравляем!
 
     Здоровья, удачи, хорошего настроения, много творческих <s>узбеков</s> успехов!!!'
   replies:
@@ -24,9 +23,7 @@ posts:
     email: vladbolotov@mail.ru
     subject: Prisoedinyayus' k pozdravleniyu
     deleted: false
-    text: Spasibo Vam Andrey za vashi radio-pereda4i. Vy i ne predstavlyaete kak vajny
-      oni dlya menya, kak mnogo ya ottuda uznal. Ogromnoe spasibo. Vsego vam samogo
-      horoshego i dolgih let. S uvajeniem, Vlad.
+    text: Spasibo Vam Andrey za vashi radio-pereda4i. Vy i ne predstavlyaete kak vajny oni dlya menya, kak mnogo ya ottuda uznal. Ogromnoe spasibo. Vsego vam samogo horoshego i dolgih let. S uvajeniem, Vlad.
   - id: 29493
     parent_id: 29452
     date: 2006-12-01 06:09
@@ -60,8 +57,7 @@ posts:
     email: kozhekin@mail.ru
     subject: Лучше поздно
     deleted: false
-    text: Я как всегда все пропустил и вообще я урод невнимательный, но подарок все-равно
-      с меня!
+    text: Я как всегда все пропустил и вообще я урод невнимательный, но подарок все-равно с меня!
   - id: 29534
     parent_id: 29452
     date: 2006-12-03 13:20
@@ -69,9 +65,5 @@ posts:
     email: ilyav@aport2000.ru
     subject: Блюз для АЕ
     deleted: false
-    text: "Проснулся я утром - а счастья в жизни всё нет как нет\nПроснулся я, люди\
-      \ - а вокруг не мир,а 2-колёсный велосипед\nИ Эхо Москвы в Ханты-Мансийске отрубили\
-      \ под какой-то поп-эфир - уже три тысячи лет. \n\nНо хорошие парни мне сказали\
-      \ - всё не так уж плохо, о нет,\nОни сказали - ты записал ВЭБ себе на кассеты\
-      \ и тебе в кайф - или нет?\nО, как они правы! - и АЕ - зай гезунт, биг фэнкс,\
-      \ хэппи блюздэй -\nи огромный сибирский привет..."
+    text: "Проснулся я утром - а счастья в жизни всё нет как нет\nПроснулся я, люди - а вокруг не мир,а 2-колёсный велосипед\nИ Эхо Москвы в Ханты-Мансийске отрубили под какой-то поп-эфир - уже три тысячи лет. \n\nНо хорошие парни мне сказали - всё не так уж плохо, о нет,\nОни сказали - ты записал ВЭБ себе на кассеты и тебе в кайф - или нет?\nО, как они правы! - и АЕ - зай гезунт, биг фэнкс, хэппи блюздэй -\nи огромный сибирский привет..."
+  inferred_person_id: 7202

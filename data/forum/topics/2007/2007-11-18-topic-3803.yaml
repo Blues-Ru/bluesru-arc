@@ -53,4 +53,5 @@ posts:
       subject: мне он нужен!
       deleted: false
       text: и не сомневаюсь, что не только мне.
+      inferred_person_id: 7202
     person_id: 4

@@ -38,6 +38,7 @@ posts:
     subject: В чьем исполнении?
     deleted: false
     text: Это может быть песня Рэя Чарлза.Вы могли слышать ее в исполнении Клэптона на "From the cradle"
+    inferred_person_id: 6398
   - id: 33582
     parent_id: 33132
     date: 2007-10-04 16:00

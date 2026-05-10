@@ -12,9 +12,7 @@ posts:
   email: fedor@blues.ru
   subject: Notodden Blues Festival
   deleted: false
-  text: "Состоится с 31го июля по 3 августа. Мы туда поедем ;) Программа уже висит на www.bluesfest.no. \nА в Монтре в этом\
-    \ году из блюза - Бонни Райт, Гари Мур и ЗиЗиТоп ;) А также три супер-группы в качестве бонуса: Yes, King Crimson и Jethro\
-    \ Tull."
+  text: "Состоится с 31го июля по 3 августа. Мы туда поедем ;) Программа уже висит на www.bluesfest.no. \nА в Монтре в этом году из блюза - Бонни Райт, Гари Мур и ЗиЗиТоп ;) А также три супер-группы в качестве бонуса: Yes, King Crimson и Jethro Tull."
   replies:
   - id: 12181
     parent_id: 12165
@@ -25,3 +23,4 @@ posts:
     deleted: false
     text: Состав участников NBF2003 мало чем отличается от 2002 года.
     person_id: 1749
+  inferred_person_id: 2

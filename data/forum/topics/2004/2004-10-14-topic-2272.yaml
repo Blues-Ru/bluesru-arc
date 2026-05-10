@@ -34,6 +34,7 @@ posts:
       subject: Теперь Spencer похож на самого себя. :)
       deleted: false
       text: Но я скучаю по Fats!
+      inferred_person_id: 7465
     - id: 19474
       parent_id: 19472
       date: 2004-10-15 11:16
@@ -42,4 +43,6 @@ posts:
       subject: Сегодня у нас Вика!
       deleted: false
       text: Уже не скучаю.   Victoria Spivey была необычно красивая, и также пела неплохо.
+      inferred_person_id: 7465
     person_id: 4
+  inferred_person_id: 7465

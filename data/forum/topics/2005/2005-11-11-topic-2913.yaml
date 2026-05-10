@@ -23,8 +23,8 @@ posts:
     email: gypsy@mail.ru
     subject: Так точно, товарищ полковник!
     deleted: false
-    text: http://gypsy.bluesman.ru/1/Barbee/ - гражданин, скрывавшийс под именем красотки Барби, на поверку оказался здоровенным
-      чёрным негром!
+    text: http://gypsy.bluesman.ru/1/Barbee/ - гражданин, скрывавшийс под именем красотки Барби, на поверку оказался здоровенным чёрным негром!
+    inferred_person_id: 13
   - id: 24426
     parent_id: 24420
     date: 2005-11-12 14:08
@@ -42,3 +42,4 @@ posts:
       subject: это как всё понять?
       deleted: false
       person_id: 335
+  inferred_person_id: 335

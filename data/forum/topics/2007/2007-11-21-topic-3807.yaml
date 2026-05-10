@@ -48,6 +48,7 @@ posts:
     text: 'Настоящий блюзмен начинается после 60 лет и 100 килограммов )))
 
       Так что есть, куда расти!'
+    inferred_person_id: 13
   - id: 33945
     parent_id: 33939
     date: 2007-11-22 18:52
@@ -71,6 +72,7 @@ posts:
       subject: Год за два )
       deleted: false
       text: На самом деле 38, но какая разница, спасибо!!! ;)
+      inferred_person_id: 7284
   - id: 33948
     parent_id: 33939
     date: 2007-11-23 00:34
@@ -90,6 +92,7 @@ posts:
       subject: Спасибо!
       deleted: false
       text: Выздоравливай скорее! )
+      inferred_person_id: 7284
   - id: 33951
     parent_id: 33939
     date: 2007-11-23 11:51
@@ -123,3 +126,4 @@ posts:
     subject: Лучше поздно, чем никогда
     deleted: false
     text: Редко здесь бываю, по сему хоть и с опозданием, но поздравляю!!! Всех благ и творческих успехов!
+  inferred_person_id: 7202

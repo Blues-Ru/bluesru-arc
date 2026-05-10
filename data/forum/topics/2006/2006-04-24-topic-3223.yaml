@@ -38,8 +38,7 @@ posts:
       email: el(@))mmmmmmmmmail.ru
       subject: Размерчик-то 10 Mb
       deleted: false
-      text: 'Так будет проще: <a href="http://video-1-par2.vip.dailymotion.com/1/320x240/mov/3695.mov?906b6e510b2027f6a04526126d643aae1237d40">прямая
-        ссылка</a>
+      text: 'Так будет проще: <a href="http://video-1-par2.vip.dailymotion.com/1/320x240/mov/3695.mov?906b6e510b2027f6a04526126d643aae1237d40">прямая ссылка</a>
 
         Размер 10 Mb.
 
@@ -52,6 +51,8 @@ posts:
         email: axledog@mail.ru
         subject: Юноша слева от  Howlin Wolf - Hubert Sumlin
         deleted: false
+        inferred_person_id: 7206
+    inferred_person_id: 7206
   - id: 27076
     parent_id: 27074
     date: 2006-04-24 16:07
@@ -60,6 +61,7 @@ posts:
     subject: Мое самое любимое (ранее публиковал)
     deleted: false
     text: http://www.metacafe.com/watch/21162/cookie_blues/
+    inferred_person_id: 7206
   - id: 27102
     parent_id: 27074
     date: 2006-04-24 19:35
@@ -94,3 +96,5 @@ posts:
 
 
         http://www.youtube.com/watch?v=W-ZyhNUWyB0'
+      inferred_person_id: 7206
+    inferred_person_id: 7206

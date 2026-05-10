@@ -9,18 +9,26 @@
 <link rel="stylesheet" href="/css/responsive.css">
 <link rel="stylesheet" href="/forum/liveforum.css">
 <style>
-body { max-width: 900px; margin: 0 auto; padding: 0 1em; }
+body { max-width: 900px; margin: 0 auto; padding: 0 1em;
+       font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 0.9em; }
+a { font-weight: normal; }
 #search-box { width: 100%; max-width: 400px; padding: 5px 8px; font-size: 1em;
               border: 1px solid #aaa; border-radius: 3px; margin-bottom: 1em; }
-.authors-table { border-collapse: collapse; width: 100%; }
-.authors-table th { text-align: left; font-weight: bold; border-bottom: 1px solid #ccc;
-                    padding: 3px 6px; white-space: nowrap; }
-.authors-table td { padding: 3px 6px; vertical-align: top; }
-.authors-table tr:hover td { background: #f5f5f5; }
-.num { text-align: right; color: #555; font-size: 0.9em; }
-.topic-inline { font-size: 0.85em; color: #666; }
-.topic-inline a { color: #336; }
+.at { border-collapse: collapse; width: 100%; margin-bottom: 1.5em; }
+.at th { text-align: left; font-weight: bold; border-bottom: 1px solid #ccc;
+         padding: 3px 6px; white-space: nowrap; vertical-align: bottom; }
+.at th.r { text-align: right; }
+.at td { padding: 3px 6px; vertical-align: top; }
+.at tr:hover td { background: #f5f5f5; }
+.at a { text-decoration: none; border-bottom: 1px dotted #aaa; }
+.at a:hover { border-bottom-style: solid; }
+.nr { text-align: right; color: #555; }
+.sm { color: #888; font-size: 0.85em; }
 #no-results { display:none; color: #888; padding: 0.5em 0; }
+#sec2-more { display:none; color: #555; cursor: pointer; padding: 2px 0;
+             text-decoration: underline; font-size: 0.9em; }
+#sec3-more { display:none; color: #555; cursor: pointer; padding: 2px 0;
+             text-decoration: underline; font-size: 0.9em; }
 </style>
 {{ ga_snippet | safe }}
 </head>
@@ -29,102 +37,282 @@ body { max-width: 900px; margin: 0 auto; padding: 0 1em; }
 <a href="/"><img src="/images/bluesru-logo.svg" width="120" height="120" border="0" alt="Blues.Ru" style="float:right"></a>
 
 <h3><a href="/">Blues.Ru</a> &rsaquo; <a href="/forum/">Форум</a> &rsaquo; Авторы</h3>
-<p style="color:#555;font-size:0.9em">{{ total_authors }} авторов. Сортировка по числу начатых тем.</p>
 
-<input type="text" id="search-box" placeholder="Поиск по имени…" oninput="filterAuthors(this.value)" autocomplete="off">
-
+<input type="text" id="search-box" placeholder="Поиск по имени…" oninput="onInput(this.value)" autocomplete="off">
 <div id="no-results">Ничего не найдено</div>
 
-<table class="authors-table" id="authors-table">
-<thead>
-<tr>
+<!-- Section 1: registered authors (filtered on search) -->
+<div id="sec1">
+<table class="at" id="authors-table">
+<thead><tr>
   <th style="width:2em">#</th>
-  <th>Имя</th>
-  <th class="num">Темы</th>
-  <th class="num">Ответы</th>
-  <th class="num">Авторы</th>
-</tr>
-</thead>
+  <th>Автор</th>
+  <th class="r">с</th>
+  <th class="r">по</th>
+  <th class="r">Темы</th>
+  <th class="r">Ответы</th>
+</tr></thead>
 <tbody id="authors-body">
-{% for a in top50 %}
+{% for a in all_authors %}
 <tr>
-  <td style="color:#aaa;font-size:0.85em">{{ loop.index }}</td>
-  <td>
-    {% if a.slug %}<a href="/forum/{{ a.slug }}/" class="forum-author" style="color:inherit;text-decoration:none">{{ a.name | e }}</a>
-    {% elif a.topic_links %}{% for tl in a.topic_links %}<a href="/forum/topic{{ tl.topic_id }}" class="topic-inline">{{ tl.title | e }}</a>{% if not loop.last %}, {% endif %}{% endfor %}
-    {% else %}{{ a.name | e }}{% endif %}
-  </td>
-  <td class="num">{{ a.topics }}</td>
-  <td class="num">{{ a.replies }}</td>
-  <td class="num">{{ a.participants }}</td>
+  <td class="sm">{{ loop.index }}</td>
+  <td><a href="/forum/{{ a.slug }}/">{{ a.name | e }}</a></td>
+  <td class="nr sm">{{ a.fy or '' }}</td>
+  <td class="nr sm">{{ a.ty or '' }}</td>
+  <td class="nr">{{ a.topics }}</td>
+  <td class="nr">{{ a.replies }}</td>
 </tr>
 {% endfor %}
 </tbody>
 </table>
+</div>
+
+<!-- Section 2: topics started by matching non-registered authors (≥3 chars) -->
+<div id="sec2" style="display:none">
+  <table class="at" id="sec2-table">
+  <thead><tr>
+    <th class="r">Год</th>
+    <th>Тема</th>
+    <th style="min-width:140px">Автор</th>
+    <th class="r">Ответы</th>
+    <th class="r">Участники</th>
+  </tr></thead>
+  <tbody id="sec2-body"></tbody>
+  </table>
+  <div id="sec2-more" onclick="showMoreSec2()">Показать ещё…</div>
+</div>
+
+<!-- Section 3: topics with matching replies (≥3 chars) -->
+<div id="sec3" style="display:none">
+  <table class="at" id="sec3-table">
+  <thead><tr>
+    <th class="r">Год</th>
+    <th>Тема</th>
+    <th style="min-width:140px">Автор</th>
+    <th style="min-width:140px">Участник</th>
+    <th class="r">Ответов</th>
+  </tr></thead>
+  <tbody id="sec3-body"></tbody>
+  </table>
+  <div id="sec3-more" onclick="showMoreSec3()">Показать ещё…</div>
+</div>
 
 <script>
 var ALL_AUTHORS = {{ search_data_json | safe }};
+var ALL_TOPICS = null;
+var _loading = false;
+var _pending = null;
+var _sec2All = [];
+var _sec3All = [];
+var _sec2Page = 0;
+var _sec3Page = 0;
+var SEC2_PAGE = 20;
+var SEC3_PAGE = 30;
 
-function renderRow(a, rank) {
-  var nameCell;
-  if (a.slug) {
-    nameCell = '<a href="/forum/' + a.slug + '/" class="forum-author" style="color:inherit;text-decoration:none">' + esc(a.name) + '</a>';
-  } else if (a.topic_links && a.topic_links.length) {
-    nameCell = a.topic_links.map(function(tl) {
-      return '<a href="/forum/topic' + tl.id + '" class="topic-inline">' + esc(tl.title) + '</a>';
-    }).join(', ');
-  } else {
-    nameCell = esc(a.name);
-  }
-  return '<tr><td style="color:#aaa;font-size:0.85em">' + rank + '</td>' +
-         '<td>' + nameCell + '</td>' +
-         '<td class="num">' + a.topics + '</td>' +
-         '<td class="num">' + a.replies + '</td>' +
-         '<td class="num">' + a.participants + '</td></tr>';
+function loadIdx(cb) {
+  if (ALL_TOPICS !== null) { cb(ALL_TOPICS); return; }
+  if (_loading) { _pending = cb; return; }
+  _loading = true;
+  fetch('/data/forum-search-index.json')
+    .then(function(r){return r.json();})
+    .then(function(d){ALL_TOPICS=d;_loading=false;cb(d);if(_pending){var f=_pending;_pending=null;f(d);}})
+    .catch(function(){ALL_TOPICS=[];_loading=false;cb([]);});
 }
 
-function esc(s) {
-  return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+function esc(s){
+  return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
 }
 
-function filterAuthors(q) {
-  var tbody = document.getElementById('authors-body');
-  var noRes = document.getElementById('no-results');
+function matchesWords(str, words){
+  var sl = str.toLowerCase();
+  return words.every(function(w){return sl.indexOf(w)>=0;});
+}
+
+function authorMatches(a, words){
+  if(matchesWords(a.name, words)) return true;
+  var alts = a.alt || [];
+  for(var i=0;i<alts.length;i++){ if(matchesWords(alts[i], words)) return true; }
+  return false;
+}
+
+function onSearch(q){
   q = q.trim();
-  if (!q) {
-    // Restore initial top-50
-    tbody.innerHTML = INITIAL_HTML;
-    noRes.style.display = 'none';
+  var words = q ? q.toLowerCase().split(/\s+/).filter(Boolean) : [];
+  var sec2el = document.getElementById('sec2');
+  var sec3el = document.getElementById('sec3');
+
+  var s1 = words.length ? ALL_AUTHORS.filter(function(a){return authorMatches(a,words);}) : ALL_AUTHORS;
+  renderSec1(s1, words.length > 0);
+
+  document.getElementById('no-results').style.display = 'none';
+
+  if(q.length < 3){
+    sec2el.style.display = 'none';
+    sec3el.style.display = 'none';
+    if(q.length > 0 && s1.length === 0)
+      document.getElementById('no-results').style.display = '';
     return;
   }
-  var words = q.toLowerCase().split(/\s+/).filter(Boolean);
-  var results = [];
-  for (var i = 0; i < ALL_AUTHORS.length; i++) {
-    var a = ALL_AUTHORS[i];
-    var nl = a.name.toLowerCase();
-    var ok = words.every(function(w) { return nl.indexOf(w) >= 0; });
-    if (ok) results.push(a);
-    if (results.length >= 50) break;
-  }
-  if (results.length === 0) {
-    tbody.innerHTML = '';
-    noRes.style.display = '';
-    return;
-  }
-  noRes.style.display = 'none';
-  tbody.innerHTML = results.map(function(a, i) { return renderRow(a, i+1); }).join('');
+
+  var matchingSlugs = new Set(s1.filter(function(a){return a.slug;}).map(function(a){return a.slug;}));
+
+  loadIdx(function(topics){
+    var s2=[],s3=[];
+    var s2_tids=new Set();
+
+    for(var i=0;i<topics.length;i++){
+      var t=topics[i];
+      if(!t.ss){
+        var starter=null;
+        for(var j=0;j<t.p.length;j++){if(t.p[j][2]){starter=t.p[j];break;}}
+        if(starter && matchesWords(starter[0],words)){
+          s2.push({t:t,poster:starter});
+          s2_tids.add(t.tid);
+          continue;
+        }
+      }
+      if(s2_tids.has(t.tid)) continue;
+      if(matchingSlugs.has(t.ss)) continue;
+      for(var j=0;j<t.p.length;j++){
+        var p=t.p[j];
+        var slugMatch = p[3] && matchingSlugs.has(p[3]);
+        if(!p[2] && (matchesWords(p[0],words) || slugMatch)){
+          s3.push({t:t,poster:p});
+          break;
+        }
+      }
+    }
+
+    // Sort by year descending
+    s2.sort(function(a,b){ return (b.t.y||0)-(a.t.y||0); });
+    s3.sort(function(a,b){ return (b.t.y||0)-(a.t.y||0); });
+
+    _sec2All = s2;
+    _sec3All = s3;
+    renderSec2(s2.slice(0,SEC2_PAGE), s2.length);
+    renderSec3(s3.slice(0,SEC3_PAGE), s3.length);
+
+    var anyResults = s1.length||s2.length||s3.length;
+    document.getElementById('no-results').style.display = anyResults?'none':'';
+  });
 }
 
-var INITIAL_HTML = document.getElementById('authors-body').innerHTML;
+function renderSec1(results, isFiltered){
+  var tbody = document.getElementById('authors-body');
+  tbody.innerHTML = results.map(function(a,i){
+    var name = '<a href="/forum/'+esc(a.slug)+'/">'+esc(a.name)+'</a>';
+    var fy = a.fy || '';
+    var ty = a.ty || '';
+    return '<tr><td class="sm">'+(i+1)+'</td><td>'+name+'</td>'+
+           '<td class="nr sm">'+fy+'</td><td class="nr sm">'+ty+'</td>'+
+           '<td class="nr">'+a.topics+'</td><td class="nr">'+a.replies+'</td></tr>';
+  }).join('');
+}
 
-// Pre-fill search from ?q= URL param
-(function() {
-  var params = new URLSearchParams(window.location.search);
-  var q = params.get('q');
-  if (q) {
+function topicRowS2(item){
+  var t=item.t, p=item.poster;
+  var year = t.y || '';
+  var posterLink = p[3]
+    ? '<a href="/forum/'+esc(p[3])+'/">'+esc(p[0])+'</a>'
+    : '<a href="/forum/authors/#q='+encodeURIComponent(p[0].toLowerCase())+'">'+esc(p[0])+'</a>';
+  var posterName = posterLink + (p[1]>1?' &mdash; '+p[1]:'');
+  return '<tr>'+
+    '<td class="nr sm">'+year+'</td>'+
+    '<td><a href="/forum/'+esc(t.s)+'">'+esc(t.t)+'</a></td>'+
+    '<td class="sm" style="min-width:140px">'+posterName+'</td>'+
+    '<td class="nr sm">'+t.n+'</td>'+
+    '<td class="nr sm">'+t.u+'</td>'+
+    '</tr>';
+}
+
+function topicRowS3(item){
+  var t=item.t, p=item.poster;
+  var year = t.y || '';
+  var posterReplies = p[1];
+  var pName = p[3]
+    ? '<a href="/forum/'+esc(p[3])+'/">'+esc(p[0])+'</a>'
+    : '<a href="/forum/authors/#q='+encodeURIComponent(p[0].toLowerCase())+'">'+esc(p[0])+'</a>';
+  // Find topic starter
+  var starter = null;
+  for(var k=0;k<t.p.length;k++){ if(t.p[k][2]){ starter=t.p[k]; break; } }
+  var starterName = '';
+  if(starter){
+    starterName = starter[3]
+      ? '<a href="/forum/'+esc(starter[3])+'/">'+esc(starter[0])+'</a>'
+      : '<a href="/forum/authors/#q='+encodeURIComponent(starter[0].toLowerCase())+'">'+esc(starter[0])+'</a>';
+  }
+  return '<tr>'+
+    '<td class="nr sm">'+year+'</td>'+
+    '<td><a href="/forum/'+esc(t.s)+'">'+esc(t.t)+'</a></td>'+
+    '<td class="sm">'+starterName+'</td>'+
+    '<td class="sm">'+pName+'</td>'+
+    '<td class="nr sm">'+posterReplies+'</td>'+
+    '</tr>';
+}
+
+function _updateMore(moreEl, allItems, page, pageSize, rowFn){
+  var remaining = allItems.length - (page + 1) * pageSize;
+  if(remaining <= 0){ moreEl.style.display='none'; return; }
+  moreEl.style.display='block';
+  moreEl.textContent='Показать ещё ('+Math.min(remaining, pageSize)+')…';
+}
+
+function renderSec2(items, total){
+  var el=document.getElementById('sec2');
+  var body=document.getElementById('sec2-body');
+  var more=document.getElementById('sec2-more');
+  if(!total){ el.style.display='none'; return; }
+  el.style.display='';
+  _sec2Page=0;
+  body.innerHTML=items.map(topicRowS2).join('');
+  _updateMore(more,_sec2All,0,SEC2_PAGE,topicRowS2);
+}
+
+function showMoreSec2(){
+  _sec2Page++;
+  var body=document.getElementById('sec2-body');
+  body.innerHTML+=_sec2All.slice(_sec2Page*SEC2_PAGE,(_sec2Page+1)*SEC2_PAGE).map(topicRowS2).join('');
+  _updateMore(document.getElementById('sec2-more'),_sec2All,_sec2Page,SEC2_PAGE,topicRowS2);
+}
+
+function renderSec3(items, total){
+  var el=document.getElementById('sec3');
+  var body=document.getElementById('sec3-body');
+  var more=document.getElementById('sec3-more');
+  if(!total){ el.style.display='none'; return; }
+  el.style.display='';
+  _sec3Page=0;
+  body.innerHTML=items.map(topicRowS3).join('');
+  _updateMore(more,_sec3All,0,SEC3_PAGE,topicRowS3);
+}
+
+function showMoreSec3(){
+  _sec3Page++;
+  var body=document.getElementById('sec3-body');
+  body.innerHTML+=_sec3All.slice(_sec3Page*SEC3_PAGE,(_sec3Page+1)*SEC3_PAGE).map(topicRowS3).join('');
+  _updateMore(document.getElementById('sec3-more'),_sec3All,_sec3Page,SEC3_PAGE,topicRowS3);
+}
+
+function onInput(val){
+  var h = val.trim() ? '#q=' + encodeURIComponent(val.trim()) : '';
+  history.replaceState(null, '', window.location.pathname + h);
+  onSearch(val);
+}
+
+// Pre-fill from #q= or legacy ?q=
+(function(){
+  var q = '';
+  var hash = window.location.hash;
+  if(hash && hash.startsWith('#q=')){
+    q = decodeURIComponent(hash.slice(3));
+  } else {
+    var params = new URLSearchParams(window.location.search);
+    q = params.get('q') || '';
+  }
+  if(q){
     var box = document.getElementById('search-box');
     box.value = q;
-    filterAuthors(q);
+    onSearch(q);
   }
 })();
 </script>

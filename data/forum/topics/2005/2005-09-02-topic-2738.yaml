@@ -12,8 +12,7 @@ posts:
   email: fedor@blues.ru
   subject: Ооооох......
   deleted: false
-  text: 'В Новом Орлеане после урагана "Катрина" пропал знаменитый музыкант Фэтс Домино
-    (Fats Domino), сообщает CNN.
+  text: 'В Новом Орлеане после урагана "Катрина" пропал знаменитый музыкант Фэтс Домино (Fats Domino), сообщает CNN.
 
 
     http://www.lenta.ru/news/2005/09/02/domino/'
@@ -29,6 +28,7 @@ posts:
 
 
       http://news.yahoo.com/news?tmpl=story&u=/ap/20050902/ap_en_ce/katrina_fats_domino_7'
+    inferred_person_id: 7284
   - id: 22666
     parent_id: 22639
     date: 2005-09-02 21:25
@@ -36,8 +36,7 @@ posts:
     email: elicaster(@))mmmmmmmmmail.ru
     subject: Дом надо-то ставить на холме
     deleted: false
-    text: 'Дом надо-то ставить на холме, желательно на голубично-черничном. В противном
-      случае нам пришлось бы печалится.
+    text: 'Дом надо-то ставить на холме, желательно на голубично-черничном. В противном случае нам пришлось бы печалится.
 
       Ешь тов. Домино много и вкусно и не болей! Живи долго!'
     replies:
@@ -48,3 +47,5 @@ posts:
       email: axledog@mail.ru
       subject: '...... а если они уже заняты, то на сваях, как вьетнамцы'
       deleted: false
+      inferred_person_id: 7206
+  inferred_person_id: 2

@@ -83,8 +83,7 @@ posts:
                 email: morehemp@mail.ru
                 subject: Ага, значит нет.. :)
                 deleted: false
-                text: "Вот, посмотри \nhttp://www.allmusic.com/cg/amg.dll?p=amg&uid=6:10:08|PM&sql=Bjudsyl1jxpsb\nИнтересует\
-                  \ пластинка, где есть \"Jah Give Us Life\", в ПЛ и Союзе нет никакой впрочем.."
+                text: "Вот, посмотри \nhttp://www.allmusic.com/cg/amg.dll?p=amg&uid=6:10:08|PM&sql=Bjudsyl1jxpsb\nИнтересует пластинка, где есть \"Jah Give Us Life\", в ПЛ и Союзе нет никакой впрочем.."
                 replies:
                 - id: 11555
                   parent_id: 11547
@@ -96,6 +95,7 @@ posts:
                   text: 'Про этих-то я знаю, но они-то при чем? К нашей теме какое отношение имели?
 
                     Их пластинок у меня нет, но я и не стремлюсь пока ;)'
+                  inferred_person_id: 335
               person_id: 335
           person_id: 335
       - id: 11683
@@ -116,11 +116,9 @@ posts:
           email: morehemp@mail.ru
           subject: Наверное,
           deleted: false
-          text: 'я всё же посоветовала бы начать с Astral Weeks (1968). Хотя если Вам понравился с Хукером, то можете купить
-            ещё совсем недавно мной упомянутый Too Long In Exile (1993).
+          text: 'я всё же посоветовала бы начать с Astral Weeks (1968). Хотя если Вам понравился с Хукером, то можете купить ещё совсем недавно мной упомянутый Too Long In Exile (1993).
 
-            У меня, правда, пока не много Вэна - всего 6 пластинок и одна на CD-R, и плюс Don''t Look Back, конечно.. но мне,
-            как ни парадоксально, нравятся все. Вот остальные:
+            У меня, правда, пока не много Вэна - всего 6 пластинок и одна на CD-R, и плюс Don''t Look Back, конечно.. но мне, как ни парадоксально, нравятся все. Вот остальные:
 
             Blowin'' Your Mind! (1967)
 
@@ -133,4 +131,7 @@ posts:
             Tupelo Honey (1971) тоже отличный.
 
             За бОльшей информацией обращайтесь к Диме. Он слышал если не всего, то почти всего Вэна :)'
+        inferred_person_id: 378
       person_id: 378
+    inferred_person_id: 335
+  inferred_person_id: 378

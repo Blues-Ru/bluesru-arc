@@ -82,6 +82,7 @@ posts:
           subject: а когда планирутся
           deleted: false
           text: в следующий раз?
+    inferred_person_id: 335
   - id: 36128
     parent_id: 36115
     date: 2009-02-18 22:46

@@ -12,11 +12,7 @@ posts:
   email: www.geocities.com/drikasblues
   subject: Продолжая тему комбика, гитар и гитарастов
   deleted: false
-  text: "Посмотрите отличные ламповые хендмэйд усилки Cornford и послушаите ораву именитых демонстраторов гитарастов играющих\
-    \ блюз, мытал, фюжн и пр.\n\nНабрать http://www.cornford-amps.com  \nвойти в сайт а после нажать на sounds. Грузится быстро\
-    \ и неплохое качество звука.\n\nприятнее всего было слушать: Aynsley Lister - \"How Green?\", \"Crushed Ice\" and \"Roxy\
-    \ Smoke\".\n\nGuthrie Govan - \"This Morning Woke me Up\",  \"I Didn't Do it\", \"Loose Change\" and \"Micky Dee\".\n\n\
-    Frank Gambale - \"Being Frank\"."
+  text: "Посмотрите отличные ламповые хендмэйд усилки Cornford и послушаите ораву именитых демонстраторов гитарастов играющих блюз, мытал, фюжн и пр.\n\nНабрать http://www.cornford-amps.com  \nвойти в сайт а после нажать на sounds. Грузится быстро и неплохое качество звука.\n\nприятнее всего было слушать: Aynsley Lister - \"How Green?\", \"Crushed Ice\" and \"Roxy Smoke\".\n\nGuthrie Govan - \"This Morning Woke me Up\",  \"I Didn't Do it\", \"Loose Change\" and \"Micky Dee\".\n\nFrank Gambale - \"Being Frank\"."
   replies:
   - id: 13390
     parent_id: 13338
@@ -52,4 +48,5 @@ posts:
           - Мужчина, вы холостой?
 
           - Нет, я боевой!'
+        inferred_person_id: 13
     person_id: 13

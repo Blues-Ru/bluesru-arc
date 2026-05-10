@@ -36,8 +36,7 @@ posts:
       email: aaa@genebee.msu.su
       subject: Не к ночи будь помянуто, про рамы эти
       deleted: false
-      text: Записан Андрей. Остальных участников просьба посылать мне электронный мейл - не будем этим заниматься здесь. По
-        шапке дадут ведь.
+      text: Записан Андрей. Остальных участников просьба посылать мне электронный мейл - не будем этим заниматься здесь. По шапке дадут ведь.
       replies:
       - id: 3226
         parent_id: 3222
@@ -124,6 +123,7 @@ posts:
                     deleted: false
                     text: 'купите с казанцевым одного гуся на двоих... дальше знаете, что делать: читайте ему грам''атику'
                     person_id: 4
+                  inferred_person_id: 458
                 person_id: 335
               person_id: 458
             person_id: 335
@@ -137,5 +137,7 @@ posts:
           deleted: false
           text: Но другие все же мыльте...
           person_id: 458
+        inferred_person_id: 4
       person_id: 458
     person_id: 13
+  inferred_person_id: 458

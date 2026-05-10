@@ -43,8 +43,7 @@ posts:
       email: fedor@blues.ru
       subject: Угадай с трех раз
       deleted: false
-      text: Разумеется, Rick Holmstrom. Узнается по ушам и гитарному стилю. Но, конечно, бездуховности полно ;) Особенно от
-        рояля ;) Но звучит хорошо ;))
+      text: Разумеется, Rick Holmstrom. Узнается по ушам и гитарному стилю. Но, конечно, бездуховности полно ;) Особенно от рояля ;) Но звучит хорошо ;))
       replies:
       - id: 13829
         parent_id: 13827
@@ -63,6 +62,8 @@ posts:
           subject: ссылка вот
           deleted: false
           text: http://net.unl.edu/musicFeat/backstage/movies/piazza1_LAN.mov
+          inferred_person_id: 5
         person_id: 1755
       person_id: 2
     person_id: 1755
+  inferred_person_id: 1755

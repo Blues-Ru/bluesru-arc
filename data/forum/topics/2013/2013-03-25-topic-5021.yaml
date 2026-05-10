@@ -11,8 +11,7 @@ posts:
   poster: Andrei V. Evdokimov
   subject: а 10 и 11 апреля - в Москве!
   deleted: false
-  text: a href="http://kirovnet.ru/news/2013/03/25/vpervyie-v-rossii-na" tarhet="_blank">http://kirovnet.ru/news/2013/03/25/vpervyie-v-rossii-na
-    - а 8-го не пропустите в Кирове! </a>
+  text: a href="http://kirovnet.ru/news/2013/03/25/vpervyie-v-rossii-na" tarhet="_blank">http://kirovnet.ru/news/2013/03/25/vpervyie-v-rossii-na - а 8-го не пропустите в Кирове! </a>
   replies:
   - id: 38832
     parent_id: 38831
@@ -49,5 +48,6 @@ posts:
           text: ждём официальную афишу на сайте
           person_id: 7208
         person_id: 4
+      inferred_person_id: 7208
     person_id: 4
   person_id: 4

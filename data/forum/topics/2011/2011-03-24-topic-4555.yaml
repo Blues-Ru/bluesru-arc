@@ -14,8 +14,7 @@ posts:
   text: 'Новоиспеченная грэмминосица в юности - с папашей Спэплзом и сестричками.
 
 
-    <img src="http://ih.constantcontact.com/fs051/1011029751241/img/1464.jpg" width="327" height="272" alt="" title="" border="0"
-    align="" />'
+    <img src="http://ih.constantcontact.com/fs051/1011029751241/img/1464.jpg" width="327" height="272" alt="" title="" border="0" align="" />'
   replies:
   - id: 37448
     parent_id: 37447
@@ -25,3 +24,4 @@ posts:
     deleted: false
     text: поищи фоты 50-х и начала 60-х ))
     person_id: 335
+  inferred_person_id: 4

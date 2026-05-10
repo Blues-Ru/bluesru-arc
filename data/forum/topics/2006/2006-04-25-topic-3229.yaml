@@ -15,8 +15,7 @@ posts:
   text: 'Интересно, как такое чудо-юдо гитаростроения может звучать...
 
 
-    <a href=http://cgi.ebay.com/1968-Teisco-May-Queen-Very-Rare_W0QQitemZ7410058565QQcategoryZ119094QQrdZ1QQcmdZViewItem>Teisco
-    May Queen 1968</a>'
+    <a href=http://cgi.ebay.com/1968-Teisco-May-Queen-Very-Rare_W0QQitemZ7410058565QQcategoryZ119094QQrdZ1QQcmdZViewItem>Teisco May Queen 1968</a>'
   replies:
   - id: 27133
     parent_id: 27125
@@ -37,6 +36,7 @@ posts:
       subject: Ну ты сравнил..
       deleted: false
       text: Стильный инструмент с изделием N2 от ЧТЗ...
+      inferred_person_id: 13
     person_id: 1725
   - id: 27219
     parent_id: 27125
@@ -45,8 +45,7 @@ posts:
     email: gypsy@mail.ru
     subject: А вот ещё картиночка, достойная пера...
     deleted: false
-    text: '<a href=http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&item=7410471590&indexURL=0&photoDisplayType=2#ebayphotohosting>Gibson
-      USA Map Guitar</a>
+    text: '<a href=http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&item=7410471590&indexURL=0&photoDisplayType=2#ebayphotohosting>Gibson USA Map Guitar</a>
 
 
       Комментарий: не дадим супостатам спуску! Выпустим балалайку в виде карты России!'
@@ -59,3 +58,5 @@ posts:
       subject: лучше барабан в виде карты москвы ;)
       deleted: false
       person_id: 5
+    inferred_person_id: 13
+  inferred_person_id: 13

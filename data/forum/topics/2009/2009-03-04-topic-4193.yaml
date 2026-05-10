@@ -25,10 +25,7 @@ posts:
     email: mlives_6@hotmail.com
     subject: Lynn White?
     deleted: false
-    text: "Это совсем недостаточно информации для определния песни.  Но мне очень нравится один медленный блюз именно по названию\
-      \ \"Sorry,\" который исполняет Lynn White.  Слова очень остроумные:\n\nSorry don't ease the pain,\nIt proves you accept\
-      \ the blame.\n\nSorry didn't stay out all night,\nSorry didn't come home just to fight,\nAnd Sorry didn't sleep with\
-      \ my best friend,\nAnd Sorry can't come in my house again  \n\nMuddy"
+    text: "Это совсем недостаточно информации для определния песни.  Но мне очень нравится один медленный блюз именно по названию \"Sorry,\" который исполняет Lynn White.  Слова очень остроумные:\n\nSorry don't ease the pain,\nIt proves you accept the blame.\n\nSorry didn't stay out all night,\nSorry didn't come home just to fight,\nAnd Sorry didn't sleep with my best friend,\nAnd Sorry can't come in my house again  \n\nMuddy"
     replies:
     - id: 36209
       parent_id: 36207
@@ -58,15 +55,13 @@ posts:
         text: 'Если эта ссылка не будет видна:
 
 
-          <object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0"
-          width="335" height="85" id="divplaylist"><param name="movie" value="http://www.divshare.com/flash/playlist?myId=6761019-8fd"
-          /><embed src="http://www.divshare.com/flash/playlist?myId=6761019-8fd" width="335" height="85" name="divplaylist"
-          type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer"></embed></object>
+          <object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" width="335" height="85" id="divplaylist"><param name="movie" value="http://www.divshare.com/flash/playlist?myId=6761019-8fd" /><embed src="http://www.divshare.com/flash/playlist?myId=6761019-8fd" width="335" height="85" name="divplaylist" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer"></embed></object>
 
 
 
           тогда качать тут: http://www.divshare.com/download/6761019-8fd'
       person_id: 7046
+    inferred_person_id: 7465
   - id: 36219
     parent_id: 36203
     date: 2009-03-11 08:04
@@ -84,8 +79,7 @@ posts:
     email: Luliasha75@mail.ru
     subject: иищу
     deleted: false
-    text: 'Подскажите пожалуйста (только сильно не бейте и тапками не кидайтесь :) ) слышала про такую штуку, как блюз на
-      барабанах. Говорят тема - супер!
+    text: 'Подскажите пожалуйста (только сильно не бейте и тапками не кидайтесь :) ) слышала про такую штуку, как блюз на барабанах. Говорят тема - супер!
 
       Оч хочу послушать. Может кто сталкивался? Где можно найти?'
   - id: 36291

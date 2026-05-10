@@ -12,8 +12,7 @@ posts:
   email: morozzz_ded@mail.ru
   subject: Про Blues Harp Melt Down
   deleted: false
-  text: Где-нибудь можно почитать информацию на русском или английском про участников? :) А то я что-то все на норвежские
-    сцайты выпадаю :)
+  text: Где-нибудь можно почитать информацию на русском или английском про участников? :) А то я что-то все на норвежские сцайты выпадаю :)
   replies:
   - id: 19778
     parent_id: 19776
@@ -25,6 +24,7 @@ posts:
     text: 'Вот предварительная ссылка:
 
       http://www.blues.ru/bluesmen/Blues_Harp_Melt_Down/'
+    inferred_person_id: 2
   - id: 19802
     parent_id: 19776
     date: 2004-11-15 17:57

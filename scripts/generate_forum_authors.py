@@ -82,10 +82,12 @@ AUTHOR_GROUPS_YAML = DATA / 'forum' / 'author_groups.yaml'
 def _load_groups():
     """
     Return:
-      pid_to_key:   person_id (int) → group_key (str, e.g. 'fedor')
-      key_to_group: group_key → {slug, canonical, pids: set}
+      pid_to_key:    person_id (int) → group_key
+      name_to_key:   normalized poster name (str) → group_key
+      key_to_group:  group_key → {slug, canonical, pids: set}
     """
     pid_to_key = {}
+    name_to_key = {}
     key_to_group = {}
 
     if AUTHOR_GROUPS_YAML.exists():
@@ -94,11 +96,17 @@ def _load_groups():
             slug = g['slug']
             canonical = g['canonical']
             pids = {g['pid']} | set(g.get('extra_pids', []) or [])
+            extra_names = g.get('names', []) or []
             key_to_group[slug] = {'slug': slug, 'canonical': canonical, 'pids': pids}
             for pid in pids:
                 pid_to_key[int(pid)] = slug
+            for name in extra_names:
+                # Normalize same way as _norm() — collapse whitespace + space before (
+                n = ' '.join(name.split())
+                n = re.sub(r'(\S)\(', r'\1 (', n)
+                name_to_key[n] = slug
 
-    return pid_to_key, key_to_group
+    return pid_to_key, name_to_key, key_to_group
 
 
 # ── Build full author data ─────────────────────────────────────────────────
@@ -111,7 +119,7 @@ def build_author_data():
       - name_to_slug: dict poster-name → slug (for forum post rendering)
       - slug_map: dict slug → author_key
     """
-    pid_to_key, key_to_group = _load_groups()
+    pid_to_key, group_name_to_key, key_to_group = _load_groups()
 
     topic_files = sorted(glob.glob(
         str(TOPICS_DIR / '**' / '*.yaml'), recursive=True
@@ -129,30 +137,35 @@ def build_author_data():
     # poster-name → author_key (for slug lookup after)
     name_to_ak = {}
 
+    # pid-name counts: track how many pid posts each author made under each name
+    # Used post-scan to build name_to_ak with proportional threshold (no auto-merge).
+    ak_pid_name_counts = collections.defaultdict(lambda: collections.defaultdict(int))
+
+    # Proportional threshold: keep name if ≥3 posts AND ≥5% of author's total pid posts
+    _MIN_PID_ABS = 3
+    _MIN_PID_FRAC = 0.05
+
     def _norm(name):
         """Normalize whitespace and spacing around parentheses for name matching."""
         name = ' '.join(name.split())
-        name = re.sub(r'(\S)\(', r'\1 (', name)  # ensure space before (
+        name = re.sub(r'(\S)\(', r'\1 (', name)
         return name
 
     def _post_author_key(p):
-        """Return the author_key for a post: pid-based if possible, else normalized name."""
-        pid = p.get('person_id')
+        """Return the author_key for a post.
+        Priority: person_id → inferred_person_id → explicit yaml names → name-string.
+        No name inference — inferred pids must be set explicitly in source YAML.
+        """
+        pid = p.get('person_id') or p.get('inferred_person_id')
         if pid:
             pid = int(pid)
             if pid in pid_to_key:
                 return pid_to_key[pid]
             return f'pid:{pid}'
         name = _norm((p.get('poster') or '').strip())
+        if name and name in group_name_to_key:
+            return group_name_to_key[name]
         return f'name:{name}' if name else None
-
-    def _display_name(p, ak):
-        """Best display name for an author_key."""
-        if ak and ak.startswith('pid:') is False and not ak.startswith('name:'):
-            # grouped: use canonical
-            return key_to_group[ak]['canonical']
-        pid = p.get('person_id')
-        return (p.get('poster') or '').strip()
 
     for fpath in topic_files:
         with open(fpath, encoding='utf-8') as f:
@@ -186,21 +199,34 @@ def build_author_data():
             name = (p.get('poster') or '').strip()
             if ak:
                 participant_aks.add(ak)
-                if name:
-                    nname = _norm(name)
-                    # Prefer pid-based attribution; don't overwrite with name-based
-                    existing = name_to_ak.get(nname)
-                    if existing is None or existing.startswith('name:'):
-                        name_to_ak[nname] = ak
+                # Count pid-based name usage for post-scan threshold filtering
+                if name and (p.get('person_id') or p.get('inferred_person_id')):
+                    ak_pid_name_counts[ak][_norm(name)] += 1
             all_topic_posts.append((p, ak))
+
+        # Collect poster display names + counts for search index
+        poster_name_counts = {}  # norm_name → [count, best_display_name]
+        for p, _ak in all_topic_posts:
+            raw = (p.get('poster') or '').strip()
+            if raw:
+                nname = _norm(raw)
+                if nname not in poster_name_counts:
+                    poster_name_counts[nname] = [0, raw]
+                poster_name_counts[nname][0] += 1
+
+        post_count_val = t.get('post_count', 0) or 0
+        engagement = len(participant_aks) + post_count_val / 5.0
 
         topic_meta[tid] = {
             'title': ttitle,
             'slug': tslug,
             'first_post': str(t.get('first_post', '') or ''),
-            'post_count': t.get('post_count', 0),
+            'post_count': post_count_val,
             'participant_count': len(participant_aks),
             'first_poster_ak': first_ak,
+            'first_poster_norm': _norm(first_name) if first_name else '',
+            'poster_name_counts': poster_name_counts,
+            'engagement': engagement,
         }
 
         # Record per-author data
@@ -228,17 +254,24 @@ def build_author_data():
             if ak != first_ak:
                 ak_replies_tids[ak].add(tid)
 
-    # Merge name-keyed entries into the pid group when the name was used by that group.
-    # e.g. pid=2 posted as "Федор Романенко" → name_to_ak["Федор Романенко"] = "fedor"
-    # Any name:Федор Романенко posts (no pid) belong to the same person.
-    for name, target_ak in list(name_to_ak.items()):
-        src_ak = f'name:{name}'
-        if src_ak in ak_posts_list and src_ak != target_ak:
-            ak_posts_list[target_ak].extend(ak_posts_list.pop(src_ak))
-            ak_topics_started[target_ak].update(ak_topics_started.pop(src_ak, set()))
-            ak_replies_tids[target_ak].update(ak_replies_tids.pop(src_ak, set()))
-            for tid_s, parts in ak_started_participants.pop(src_ak, {}).items():
-                ak_started_participants[target_ak][tid_s].update(parts)
+    # Build name_to_ak for rendering links and search slug lookup.
+    # Only use names that meet the proportional threshold (significant pid usage).
+    # No auto-merge of name-keyed entries — attribution requires real/inferred pid
+    # or explicit yaml names field. Pre-pid posts stay as name:X until reviewed.
+    for ak, name_counts in ak_pid_name_counts.items():
+        total = sum(name_counts.values())
+        if not total:
+            continue
+        for nname, count in name_counts.items():
+            if count >= _MIN_PID_ABS and count / total >= _MIN_PID_FRAC:
+                existing = name_to_ak.get(nname)
+                if existing is None or existing.startswith('name:'):
+                    name_to_ak[nname] = ak
+    # Explicit yaml names always take priority
+    for nname, ak in group_name_to_key.items():
+        existing = name_to_ak.get(nname)
+        if existing is None or existing.startswith('name:'):
+            name_to_ak[nname] = ak
 
     # Build display name per author_key: canonical from groups, or most-used name
     ak_name_counts = collections.defaultdict(lambda: collections.defaultdict(int))
@@ -327,7 +360,7 @@ def build_author_data():
         if ak in all_authors and all_authors[ak]['slug']:
             name_to_slug[name] = all_authors[ak]['slug']
 
-    return all_authors, topic_meta, name_to_slug, slug_map
+    return all_authors, topic_meta, name_to_slug, slug_map, name_to_ak
 
 
 # ── Page generation ────────────────────────────────────────────────────────
@@ -348,22 +381,25 @@ def generate_author_page(rec: dict, slug: str):
     dst_dir = SITE / 'forum' / slug
     dst_dir.mkdir(parents=True, exist_ok=True)
 
-    # Top 10 started topics by participant count
+    # Top 30 started topics with ≥2 replying authors (excl. topic-starter)
     topic_scores = []
     for tid in topics_started_ids:
         tm = topic_meta.get(tid)
         if not tm:
+            continue
+        replying_authors = tm['participant_count'] - 1  # excl. starter (for filter)
+        if replying_authors < 2:
             continue
         topic_scores.append({
             'topic_id': tid,
             'title': tm['title'],
             'slug': tm['slug'],
             'first_post': tm['first_post'],
-            'post_count': tm['post_count'],
-            'participant_count': tm['participant_count'],
+            'post_count': max(0, tm['post_count'] - 1),    # Ответы (excl. opening post)
+            'participant_count': tm['participant_count'],    # Участники (incl. starter)
         })
     topic_scores.sort(key=lambda x: (-x['participant_count'], -x['post_count']))
-    top_topics = topic_scores[:10]
+    top_topics = topic_scores[:100]  # pass all (up to 100) for JS show-more
 
     # Format dates
     for t in top_topics:
@@ -372,17 +408,23 @@ def generate_author_page(rec: dict, slug: str):
             try:
                 dt = datetime.strptime(fp[:10], '%Y-%m-%d')
                 t['first_post_fmt'] = dt.strftime('%d.%m.%Y')
+                t['year'] = dt.year
             except ValueError:
                 t['first_post_fmt'] = fp[:10]
+                t['year'] = fp[:4]
         else:
             t['first_post_fmt'] = fp
+            t['year'] = ''
 
-    # Activity by year → month — only started topics
+    # Activity by year → month — one entry per started topic at its start date
+    topic_first_post = {}
+    for p in sorted(posts, key=lambda x: x.get('date', '')):
+        tid = p['topic_id']
+        if tid in topics_started_ids and tid not in topic_first_post:
+            topic_first_post[tid] = p
+
     by_year_month = collections.defaultdict(lambda: collections.defaultdict(list))
-    for p in posts:
-        if p['topic_id'] not in topics_started_ids:
-            continue
-        # Use only the first post in each started topic (the opening post)
+    for p in topic_first_post.values():
         date_str = p.get('date', '') or ''
         try:
             dt = datetime.strptime(date_str[:10], '%Y-%m-%d')
@@ -402,10 +444,13 @@ def generate_author_page(rec: dict, slug: str):
                 tid = p['topic_id']
                 if tid not in seen_topics:
                     seen_topics[tid] = True
+                    tm_entry = topic_meta.get(tid, {})
                     topic_refs.append({
                         'topic_title': html_mod.escape(p['topic_title'][:55]),
                         'topic_slug': p['topic_slug'],
                         'post_id': p['post_id'],
+                        'post_count': max(0, (tm_entry.get('post_count', 1) or 1) - 1),
+                        'participant_count': tm_entry.get('participant_count', 0) or 0,
                     })
             t_month = len(topic_refs)
             t_year += t_month
@@ -421,53 +466,125 @@ def generate_author_page(rec: dict, slug: str):
             'months': months,
         })
 
+    import urllib.parse
+    # Build clean search query: "Имя Фамилия (nick)" → "имя фамилия nick"
+    _m = re.match(r'^(.*?)\s*\(([^)]+)\)\s*$', name)
+    if _m:
+        _query = f'{_m.group(1).strip().lower()} {_m.group(2).strip().lower()}'
+    else:
+        _query = name.lower()
+    author_search_url = f'/forum/authors/#q={urllib.parse.quote(_query)}'
+
     tmpl = JINJA_ENV.get_template('forum_author.html.j2')
     out = tmpl.render(
         author_name=html_mod.escape(name),
         author_slug=slug,
-        total_posts=rec['total_posts'],
-        topics_count=rec['topics'],
-        replies_count=rec['replies'],
-        participants_count=rec['participants'],
         top_topics=top_topics,
         activity=activity,
+        author_search_url=author_search_url,
+        topics_count=rec['topics'],
+        replies_count=rec['replies'],
     )
     (dst_dir / 'index.html').write_text(out, encoding='utf-8')
 
 
-def generate_authors_index(all_authors: dict, name_to_slug: dict):
-    """Generate /forum/authors/index.html with top-50 + JS search."""
-    # Sort by topics started (Темы) descending
+def generate_authors_index(all_authors: dict, name_to_slug: dict, topic_meta: dict, name_to_ak: dict):
+    """Generate /forum/authors/index.html and site/data/forum-search-index.json."""
     ranked = sorted(
         all_authors.values(),
         key=lambda a: (-a['topics'], -a['total_posts'])
     )
+    registered = [r for r in ranked if r['has_page']]
 
-    # Build JSON data for JS search (all authors)
+    # Build ak → all known names (for alt_names in search)
+    ak_to_names = collections.defaultdict(set)
+    for norm_name, ak in name_to_ak.items():
+        ak_to_names[ak].add(norm_name)
+
+    # Compute date range (first/last year starting a topic) for each registered author
+    for rec in registered:
+        years = []
+        for tid in rec.get('topics_started_ids', set()):
+            tm_entry = topic_meta.get(tid)
+            if tm_entry:
+                fp = tm_entry.get('first_post', '')
+                if fp and len(fp) >= 4:
+                    try:
+                        years.append(int(fp[:4]))
+                    except ValueError:
+                        pass
+        rec['fy'] = min(years) if years else None
+        rec['ty'] = max(years) if years else None
+
+    # Build JSON for JS author search (registered authors only, with alt names)
     search_data = []
-    for rec in ranked:
+    for rec in registered:
+        ak = rec['ak']
+        canonical_lower = rec['name'].lower()
+        alt_names = [n for n in ak_to_names.get(ak, set()) if n.lower() != canonical_lower]
         entry = {
             'name': rec['name'],
-            'slug': rec.get('slug'),      # null if no page
+            'alt': alt_names,
+            'slug': rec['slug'],
             'topics': rec['topics'],
             'replies': rec['replies'],
-            'participants': rec['participants'],
-            'topic_links': rec['topic_links'] if not rec['has_page'] else [],
+            'fy': rec['fy'],
+            'ty': rec['ty'],
         }
         search_data.append(entry)
 
-    top50 = ranked[:50]
-
     tmpl = JINJA_ENV.get_template('forum_authors.html.j2')
     out = tmpl.render(
-        top50=top50,
+        all_authors=registered,
         search_data_json=json.dumps(search_data, ensure_ascii=False),
-        total_authors=len(all_authors),
+        total_authors=len(registered),
     )
     dst = SITE / 'forum' / 'authors'
     dst.mkdir(parents=True, exist_ok=True)
     (dst / 'index.html').write_text(out, encoding='utf-8')
-    print(f'  Authors index: {len(all_authors)} total, top-50 shown')
+    print(f'  Authors index: {len(registered)} registered authors')
+
+    # Build forum-search-index.json for lazy-loaded topic/reply search
+    topics_index = []
+    for tid, tm in topic_meta.items():
+        pnc = tm.get('poster_name_counts', {})
+        if not pnc:
+            continue
+        # Starter slug comes directly from first_poster_ak (real pid or explicit yaml name).
+        # No name inference — pre-pid posts have ak='name:X' and produce no starter slug.
+        starter_ak = tm.get('first_poster_ak', '')
+        starter_slug = ''
+        if starter_ak and starter_ak in all_authors:
+            starter_slug = all_authors[starter_ak].get('slug') or ''
+        first_norm = tm.get('first_poster_norm', '')
+        posters = sorted(
+            [[dname[:50], cnt, norm == first_norm, name_to_slug.get(norm, '')]
+             for norm, (cnt, dname) in pnc.items()],
+            key=lambda x: -x[1]
+        )
+        post_count = tm.get('post_count', 0) or 0
+        fp = tm.get('first_post', '')
+        try:
+            topic_year = int(fp[:4]) if fp and len(fp) >= 4 else None
+        except ValueError:
+            topic_year = None
+        topics_index.append({
+            'tid': tid,
+            's': tm['slug'],
+            't': tm['title'][:80],
+            'e': round(tm.get('engagement', 0), 1),
+            'n': max(0, post_count - 1),       # Ответы (excl. opening post)
+            'u': tm['participant_count'],        # Участники (all incl. starter)
+            'ss': starter_slug,
+            'y': topic_year,
+            'p': posters,
+        })
+    topics_index.sort(key=lambda x: -x['e'])
+
+    idx_path = SITE / 'data' / 'forum-search-index.json'
+    idx_path.parent.mkdir(parents=True, exist_ok=True)
+    idx_path.write_text(json.dumps(topics_index, ensure_ascii=False), encoding='utf-8')
+    print(f'  Forum search index: {len(topics_index)} topics → forum-search-index.json')
 
 
 # ── Slug index ─────────────────────────────────────────────────────────────
@@ -493,7 +610,7 @@ def load_author_slugs() -> dict:
 
 def generate_forum_authors():
     print('Generating forum author pages…')
-    all_authors, topic_meta, name_to_slug, slug_map = build_author_data()
+    all_authors, topic_meta, name_to_slug, slug_map, name_to_ak = build_author_data()
 
     save_author_slugs(name_to_slug)
 
@@ -503,7 +620,7 @@ def generate_forum_authors():
             generate_author_page(rec, rec['slug'])
             page_count += 1
 
-    generate_authors_index(all_authors, name_to_slug)
+    generate_authors_index(all_authors, name_to_slug, topic_meta, name_to_ak)
     print(f'  Generated {page_count} author pages')
     return name_to_slug
 

@@ -42,7 +42,9 @@ posts:
 
 
           Привет Свету, кстати!'
+        inferred_person_id: 13
       person_id: 5
+    inferred_person_id: 13
   - id: 27093
     parent_id: 27081
     date: 2006-04-24 18:35
@@ -59,3 +61,4 @@ posts:
       email: gypsy@mail.ru
       subject: А хто это?
       deleted: false
+      inferred_person_id: 13

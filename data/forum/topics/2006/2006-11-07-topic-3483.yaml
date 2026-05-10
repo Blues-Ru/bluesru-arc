@@ -38,6 +38,8 @@ posts:
       email: axledog@mil.ru
       subject: который разогнал, таки Учредительное собрание
       deleted: false
+      inferred_person_id: 7206
+    inferred_person_id: 7206
   - id: 29329
     parent_id: 29301
     date: 2006-11-09 16:55
@@ -47,3 +49,4 @@ posts:
     deleted: false
     text: я думал опять jgtxfnrf
     person_id: 4
+  inferred_person_id: 7206

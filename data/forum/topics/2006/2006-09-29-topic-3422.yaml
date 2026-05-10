@@ -23,9 +23,7 @@ posts:
     email: ymaksimov@comtv.ru
     subject: Jam-Sessions
     deleted: false
-    text: В Пирогах (м. Перово) по четвергам иногда проводятся - сам играл. Еще вроде
-      в доме у дороги (www.roadhouse.ru - там все должно быть), в би би кинге вроде
-      тоже.
+    text: В Пирогах (м. Перово) по четвергам иногда проводятся - сам играл. Еще вроде в доме у дороги (www.roadhouse.ru - там все должно быть), в би би кинге вроде тоже.
   - id: 28820
     parent_id: 28811
     date: 2006-10-01 13:56
@@ -33,3 +31,4 @@ posts:
     email: gypsy@mail.ru
     subject: Вот так вот.. центр блюзовой культуры плавно переместился в ..ерово
     deleted: false
+    inferred_person_id: 13

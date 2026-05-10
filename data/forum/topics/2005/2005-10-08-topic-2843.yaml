@@ -48,5 +48,7 @@ posts:
           email: jokerthk@yandex.ru
           subject: А по-моему, они одинаковые...
           deleted: false
+          inferred_person_id: 4319
         person_id: 6
+      inferred_person_id: 4319
     person_id: 6

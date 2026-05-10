@@ -14,8 +14,7 @@ posts:
   deleted: false
   text: 'Добрый день.
 
-    Не подскажете ли, сколько всего песен записал Роберт Джонсон. В фильме "Перекресток" говорится про 29. В моей фонотеке
-    только 21. Где можно получить исчерпывающую информацию?
+    Не подскажете ли, сколько всего песен записал Роберт Джонсон. В фильме "Перекресток" говорится про 29. В моей фонотеке только 21. Где можно получить исчерпывающую информацию?
 
     Михаил.'
   replies:
@@ -26,13 +25,7 @@ posts:
     email: mlives_6@hotmail.com
     subject: '29'
     deleted: false
-    text: "1  Walking Blues  \n2  Rambling on My Mind \n3  32-20 Blues \n4  I Believe I'll Dust My Broom\n5  Come on in My\
-      \ Kitchen \n6  Sweet Home Chicago\n7  Terraplane Blues\n8  Kindhearted Woman Blues\n9  Phonograph Blues\n10 When You\
-      \ Got a Good Friend\n11 Dead Shrimp Blues\n12 Cross Road Blues  \n13 Stop Breakin' Down Blues \n14 Last Fair Deal Gone\
-      \ Down \n15 Preaching Blues (Up Jumped the Devil)  \n16 Stones in My Passway \n17 If I Had Possession Over Judgement\
-      \ Day \n18 I'm a Steady Rollin' Man \n19 From Four Till Late    \n20 Hellhound on My Trail\n21 Malted Milk  \n22 Little\
-      \ Queen of Spades\n23 Drunken Hearted Man\n24 Travelling Riverside Blues \n25 Me and the Devil Blues\n26 Love in Vain\
-      \   \n27 Milkcow's Calf Blues  \n28 Honeymoon Blues\n29 They're Red Hot"
+    text: "1  Walking Blues  \n2  Rambling on My Mind \n3  32-20 Blues \n4  I Believe I'll Dust My Broom\n5  Come on in My Kitchen \n6  Sweet Home Chicago\n7  Terraplane Blues\n8  Kindhearted Woman Blues\n9  Phonograph Blues\n10 When You Got a Good Friend\n11 Dead Shrimp Blues\n12 Cross Road Blues  \n13 Stop Breakin' Down Blues \n14 Last Fair Deal Gone Down \n15 Preaching Blues (Up Jumped the Devil)  \n16 Stones in My Passway \n17 If I Had Possession Over Judgement Day \n18 I'm a Steady Rollin' Man \n19 From Four Till Late    \n20 Hellhound on My Trail\n21 Malted Milk  \n22 Little Queen of Spades\n23 Drunken Hearted Man\n24 Travelling Riverside Blues \n25 Me and the Devil Blues\n26 Love in Vain   \n27 Milkcow's Calf Blues  \n28 Honeymoon Blues\n29 They're Red Hot"
     replies:
     - id: 20041
       parent_id: 20030
@@ -53,6 +46,9 @@ posts:
         subject: Какая именно песня?
         deleted: false
         text: Помню, что "Take a Little Walk With Me" был под вопросом.  Но Локвуд сам отрицает теорию, что это песня Джонсона.
+        inferred_person_id: 7465
+      inferred_person_id: 4
+    inferred_person_id: 7465
   - id: 20045
     parent_id: 20029
     date: 2004-12-24 20:36
@@ -70,6 +66,7 @@ posts:
       subject: Кому послушать охота - ссылочка в тему
       deleted: false
       text: http://gypsy.bluesman.ru/TakeALittleWalk/
+      inferred_person_id: 13
     - id: 20052
       parent_id: 20045
       date: 2004-12-25 08:06
@@ -77,11 +74,7 @@ posts:
       email: mlives_6@hotmail.com
       subject: Интересно
       deleted: false
-      text: "Да, по-моему я тоже где-то читал, что Mr. Downchild может быть песней Джонсина.  Подтверждает ли это сам Локвуд?\n\
-        \nИнтересно, что Rice Miller (Sonny Boy Williamson) записал эту песню в 1951 г.  Пожожо, что все остальные песни,\
-        \ записанные Виллиомсоном в это время, были оригиналами.  \n\nДаже если Джонсон исполнял эту песню, не может ли быть,\
-        \ что он ее получил от Виллиамсона?  Счатается, что Джонсон и Виллиамсон знали друг друга и вместе играли иногда.\
-        \  \n\nNuddy"
+      text: "Да, по-моему я тоже где-то читал, что Mr. Downchild может быть песней Джонсина.  Подтверждает ли это сам Локвуд?\n\nИнтересно, что Rice Miller (Sonny Boy Williamson) записал эту песню в 1951 г.  Пожожо, что все остальные песни, записанные Виллиомсоном в это время, были оригиналами.  \n\nДаже если Джонсон исполнял эту песню, не может ли быть, что он ее получил от Виллиамсона?  Счатается, что Джонсон и Виллиамсон знали друг друга и вместе играли иногда.  \n\nNuddy"
       replies:
       - id: 20053
         parent_id: 20052
@@ -90,8 +83,7 @@ posts:
         email: evdokimov@blues.ru
         subject: разумеется, играли
         deleted: false
-        text: старина Санни Бой (самозванец) претендовал быть рядом  Джонсоном в момент смерти оного. И виллиамсон и Локвуд
-          указывали автором песни Роберта Джонсона. нам ли с ними спорить? =)
+        text: старина Санни Бой (самозванец) претендовал быть рядом  Джонсоном в момент смерти оного. И виллиамсон и Локвуд указывали автором песни Роберта Джонсона. нам ли с ними спорить? =)
         replies:
         - id: 20055
           parent_id: 20053
@@ -109,9 +101,10 @@ posts:
             email: огмуроауол
             subject: сомневаюсь
             deleted: false
-            text: насчет Локвуда. Именно он на записи с Ронни Ерлом - 91 " Surrounded By Love" на Mr. Downchild указал автором
-              Санни - Самозванца. Треугольник Джонсона, короче)))
+            text: насчет Локвуда. Именно он на записи с Ронни Ерлом - 91 " Surrounded By Love" на Mr. Downchild указал автором Санни - Самозванца. Треугольник Джонсона, короче)))
+          inferred_person_id: 7465
         person_id: 4
+      inferred_person_id: 7465
     person_id: 4
   - id: 20047
     parent_id: 20029

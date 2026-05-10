@@ -21,6 +21,7 @@ posts:
     email: axledog@mail.ru
     subject: не туда запостил, :-), Начало ниже
     deleted: false
+    inferred_person_id: 7206
   - id: 28512
     parent_id: 28510
     date: 2006-08-28 13:34
@@ -29,6 +30,7 @@ posts:
     subject: Снова Kid
     deleted: false
     text: www.filepost.ru/?act=files&id=1332246
+    inferred_person_id: 7206
   - id: 28513
     parent_id: 28510
     date: 2006-08-28 14:05
@@ -37,6 +39,7 @@ posts:
     subject: Леван Ломидзе
     deleted: false
     text: www.filepost.ru/?act=files&id=1332440
+    inferred_person_id: 7206
   - id: 28514
     parent_id: 28510
     date: 2006-08-28 14:27
@@ -45,6 +48,7 @@ posts:
     subject: Денис Мажуков
     deleted: false
     text: www.filepost.ru/?act=files&id=1332626
+    inferred_person_id: 7206
   - id: 28515
     parent_id: 28510
     date: 2006-08-28 14:48
@@ -53,6 +57,7 @@ posts:
     subject: Сергей Воронов
     deleted: false
     text: www.filepost.ru/?act=files&id=1332782
+    inferred_person_id: 7206
   - id: 28516
     parent_id: 28510
     date: 2006-08-28 15:11
@@ -61,6 +66,7 @@ posts:
     subject: Сергей Воронов 2
     deleted: false
     text: www.filepost.ru/?act=files&id=1332901
+    inferred_person_id: 7206
   - id: 28517
     parent_id: 28510
     date: 2006-08-28 15:25
@@ -69,6 +75,7 @@ posts:
     subject: Сергей Воронов_3
     deleted: false
     text: www.filepost.ru/?act=files&id=1332943
+    inferred_person_id: 7206
   - id: 28518
     parent_id: 28510
     date: 2006-08-28 17:05
@@ -77,6 +84,7 @@ posts:
     subject: опять Крис Дуарте
     deleted: false
     text: www.filepost.ru/?act=files&id=1333791
+    inferred_person_id: 7206
   - id: 28519
     parent_id: 28510
     date: 2006-08-28 17:27
@@ -85,6 +93,7 @@ posts:
     subject: Дуарте 3
     deleted: false
     text: www.filepost.ru/?act=files&id=1333944
+    inferred_person_id: 7206
   - id: 28520
     parent_id: 28510
     date: 2006-08-28 17:46
@@ -93,6 +102,7 @@ posts:
     subject: Дуарте 4
     deleted: false
     text: www.filepost.ru/?act=files&id=1334072
+    inferred_person_id: 7206
   - id: 28521
     parent_id: 28510
     date: 2006-08-28 18:46
@@ -101,6 +111,7 @@ posts:
     subject: Дуарте 5
     deleted: false
     text: www.filepost.ru/?act=files&id=1334778
+    inferred_person_id: 7206
   - id: 28522
     parent_id: 28510
     date: 2006-08-28 19:11
@@ -109,6 +120,7 @@ posts:
     subject: Дуарте_6 (клёвый)
     deleted: false
     text: www.filepost.ru/?act=files&id=1334931
+    inferred_person_id: 7206
   - id: 28523
     parent_id: 28510
     date: 2006-08-28 19:29
@@ -117,6 +129,7 @@ posts:
     subject: Крис Дуарте 7
     deleted: false
     text: www.filepost.ru/?act=files&id=1335019
+    inferred_person_id: 7206
   - id: 28524
     parent_id: 28510
     date: 2006-08-28 19:44
@@ -125,6 +138,7 @@ posts:
     subject: Он-же 8
     deleted: false
     text: www.filepost.ru/?act=files&id=1335128
+    inferred_person_id: 7206
   - id: 28525
     parent_id: 28510
     date: 2006-08-28 20:04
@@ -133,6 +147,7 @@ posts:
     subject: Дуарте 9
     deleted: false
     text: www.filepost.ru/?act=files&id=1335226
+    inferred_person_id: 7206
   - id: 28526
     parent_id: 28510
     date: 2006-08-28 20:17
@@ -141,6 +156,7 @@ posts:
     subject: Крис 10
     deleted: false
     text: www.filepost.ru/?act=files&id=1335266
+    inferred_person_id: 7206
   - id: 28527
     parent_id: 28510
     date: 2006-08-28 20:41
@@ -149,6 +165,7 @@ posts:
     subject: Алексей Аграновский
     deleted: false
     text: www.filepost.ru/?act=files&id=1335339
+    inferred_person_id: 7206
   - id: 28528
     parent_id: 28510
     date: 2006-08-28 20:58
@@ -157,6 +174,7 @@ posts:
     subject: Алексей Аграновский
     deleted: false
     text: www.filepost.ru/?act=files&id=1335474
+    inferred_person_id: 7206
   - id: 28529
     parent_id: 28510
     date: 2006-08-28 21:17
@@ -165,6 +183,7 @@ posts:
     subject: Алексей Аграновский & Сергей Воронов
     deleted: false
     text: www.filepost.ru/?act=files&id=1335606
+    inferred_person_id: 7206
   - id: 28530
     parent_id: 28510
     date: 2006-08-28 21:39
@@ -173,6 +192,7 @@ posts:
     subject: Алексей Аграновский & Лрис Дуарте
     deleted: false
     text: www.filepost.ru/?act=files&id=1335725
+    inferred_person_id: 7206
   - id: 28531
     parent_id: 28510
     date: 2006-08-28 21:40
@@ -189,8 +209,7 @@ posts:
       email: axledog@mail.ru
       subject: Славный был фестиваль
       deleted: false
-      text: 'К большому сожалению на видео не попали группы Др. Ника, Петровича и
-        Бориса Булкина.
+      text: 'К большому сожалению на видео не попали группы Др. Ника, Петровича и Бориса Булкина.
 
 
         Буду признателен вашим коментариям. Ждем DVD с хорошим звуком'
@@ -217,8 +236,7 @@ posts:
 
           6. www.filepost.ru/?act=files&id=1340698
 
-          7. www.filepost.ru/?act=files&id=1340726 Сергей Воронов на балалайке и Крис
-          Дуарте
+          7. www.filepost.ru/?act=files&id=1340726 Сергей Воронов на балалайке и Крис Дуарте
 
           8. www.filepost.ru/?act=files&id=1340737 Балалайку подарили Крису
 
@@ -226,7 +244,10 @@ posts:
 
           10. www.filepost.ru/?act=files&id=1340805 Вадим Иващенко и Крис Дуарте
 
-          11. www.filepost.ru/?act=files&id=1340828 Сергей Виноградов, Егор Майоров
-          и Крис Дуарте
+          11. www.filepost.ru/?act=files&id=1340828 Сергей Виноградов, Егор Майоров и Крис Дуарте
 
           12. www.filepost.ru/?act=files&id=1340848 Сергей Коньков и Крис Дуарте'
+        inferred_person_id: 7206
+      inferred_person_id: 7206
+    inferred_person_id: 7206
+  inferred_person_id: 7206

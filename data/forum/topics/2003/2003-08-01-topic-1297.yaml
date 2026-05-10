@@ -12,8 +12,7 @@ posts:
   email: baltika-blues@yandex.ru
   subject: Антон Клепиков свяжитесь плиз с Биг Вэлом!!!
   deleted: false
-  text: Фёдор и все-все-все - простите мне это сообщение. Если возможно - не удаляйте
-    сегодня! а потом - я за всё отвечу)
+  text: Фёдор и все-все-все - простите мне это сообщение. Если возможно - не удаляйте сегодня! а потом - я за всё отвечу)
   replies:
   - id: 13437
     parent_id: 13430
@@ -31,3 +30,4 @@ posts:
       email: antokha@yandex.ru
       subject: Т.е. спасибо! (-)
       deleted: false
+  inferred_person_id: 26

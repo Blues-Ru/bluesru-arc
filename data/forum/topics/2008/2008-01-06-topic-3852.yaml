@@ -12,9 +12,7 @@ posts:
   email: hgcch@hgd.re
   subject: Забавный случай в "Лефортово"
   deleted: false
-  text: <object width="425" height="355"><param name="movie" value="http://www.youtube.com/v/2N47lTxUztc&rel=1"></param><param
-    name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/2N47lTxUztc&rel=1" type="application/x-shockwave-flash"
-    wmode="transparent" width="425" height="355"></embed></object>
+  text: <object width="425" height="355"><param name="movie" value="http://www.youtube.com/v/2N47lTxUztc&rel=1"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/2N47lTxUztc&rel=1" type="application/x-shockwave-flash" wmode="transparent" width="425" height="355"></embed></object>
   replies:
   - id: 34236
     parent_id: 34233
@@ -39,9 +37,7 @@ posts:
       email: ijghik@kigb.ru
       subject: Дма, ты просто сам музыкант.
       deleted: false
-      text: Наверное поэтому для тебя не забавный. С точки зрения зрителей было прикольно. Нормальный такой рокендроль. У
-        меня, как у организатора, двоякое мнение. С одной стороны не придусмотрел пьяный дебош со стороны учасников, а с другой....
-        :-))
+      text: Наверное поэтому для тебя не забавный. С точки зрения зрителей было прикольно. Нормальный такой рокендроль. У меня, как у организатора, двоякое мнение. С одной стороны не придусмотрел пьяный дебош со стороны учасников, а с другой.... :-))
       replies:
       - id: 34271
         parent_id: 34238
@@ -50,10 +46,7 @@ posts:
         email: gypsy@mail.ru
         subject: Охреневшая звезда...
         deleted: false
-        text: "Алексей, поверь, со стороны ничего прикольного. \nОтвратительный по своей сути поступок заезжего гастролёра.\n\
-          В конце концов, он приехал как гость, мог бы и уважить хозяев, а не демонстрировать свою спесь и барские замашки.\
-          \ Дал бы пацану сыграть квадратик, а потом бы вежливо выпроводил со сцены - все были бы счастливы. Ничего эпохального\
-          \ он в этот момент не играл, кстати."
+        text: "Алексей, поверь, со стороны ничего прикольного. \nОтвратительный по своей сути поступок заезжего гастролёра.\nВ конце концов, он приехал как гость, мог бы и уважить хозяев, а не демонстрировать свою спесь и барские замашки. Дал бы пацану сыграть квадратик, а потом бы вежливо выпроводил со сцены - все были бы счастливы. Ничего эпохального он в этот момент не играл, кстати."
         replies:
         - id: 34276
           parent_id: 34271
@@ -63,6 +56,9 @@ posts:
           subject: ОК! Может это я остервенел.
           deleted: false
           text: Перенервничал тогда..
+          inferred_person_id: 7206
+        inferred_person_id: 13
+      inferred_person_id: 7206
     - id: 34239
       parent_id: 34237
       date: 2008-01-06 18:46
@@ -70,9 +66,8 @@ posts:
       email: ijghik@kigb.ru
       subject: Дима, ты просто сам музыкант.
       deleted: false
-      text: Наверное поэтому для тебя не забавный. С точки зрения зрителей было прикольно. Нормальный такой рокендроль. У
-        меня, как у организатора, двоякое мнение. С одной стороны не придусмотрел пьяный дебош со стороны учасников, а с другой....
-        :-))
+      text: Наверное поэтому для тебя не забавный. С точки зрения зрителей было прикольно. Нормальный такой рокендроль. У меня, как у организатора, двоякое мнение. С одной стороны не придусмотрел пьяный дебош со стороны учасников, а с другой.... :-))
+      inferred_person_id: 7206
     person_id: 335
   - id: 34244
     parent_id: 34233
@@ -117,11 +112,7 @@ posts:
         email: jfglkj@jkhg.ru
         subject: Тока обижаться не надо!!!
         deleted: false
-        text: "К счастью я лично не видел этой ситуации. Таких забавных не будет точно. Теперь некоторым учасникам, после\
-          \ их выступления, будет ограничен доступ к сцене. \n\n<object width=\"425\" height=\"355\"><param name=\"movie\"\
-          \ value=\"http://www.youtube.com/v/Wq2TR6mdZtI&rel=1\"></param><param name=\"wmode\" value=\"transparent\"></param><embed\
-          \ src=\"http://www.youtube.com/v/Wq2TR6mdZtI&rel=1\" type=\"application/x-shockwave-flash\" wmode=\"transparent\"\
-          \ width=\"425\" height=\"355\"></embed></object>"
+        text: "К счастью я лично не видел этой ситуации. Таких забавных не будет точно. Теперь некоторым учасникам, после их выступления, будет ограничен доступ к сцене. \n\n<object width=\"425\" height=\"355\"><param name=\"movie\" value=\"http://www.youtube.com/v/Wq2TR6mdZtI&rel=1\"></param><param name=\"wmode\" value=\"transparent\"></param><embed src=\"http://www.youtube.com/v/Wq2TR6mdZtI&rel=1\" type=\"application/x-shockwave-flash\" wmode=\"transparent\" width=\"425\" height=\"355\"></embed></object>"
         replies:
         - id: 34281
           parent_id: 34251
@@ -142,3 +133,7 @@ posts:
             subject: Ладно.. Ждём лета!
             deleted: false
             text: :-)
+            inferred_person_id: 7206
+        inferred_person_id: 7206
+    inferred_person_id: 7206
+  inferred_person_id: 7206

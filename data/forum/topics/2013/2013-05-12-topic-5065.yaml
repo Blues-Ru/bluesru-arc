@@ -111,8 +111,7 @@ posts:
                       poster: Andrei V. Evdokimov
                       subject: я уже сам не знам, что думать )))
                       deleted: false
-                      text: Howlin Wolf - Love Me Darlin - твоя вторая ссылка на видео... первую фразу я попустил, а дальше
-                        точно "по сценарию".
+                      text: Howlin Wolf - Love Me Darlin - твоя вторая ссылка на видео... первую фразу я попустил, а дальше точно "по сценарию".
                       replies:
                       - id: 38960
                         parent_id: 38957
@@ -136,15 +135,12 @@ posts:
                             poster: Старый Майор
                             subject: Вот не поверишь...
                             deleted: false
-                            text: '..я же знаю, что песня в "ре", поэтому, когда прочитал про "до", то подумал, что речь идёт
-                              о какой-то другой песне, например, Have You Ever Loved A Woman Фредди Кинга, перед которой он
-                              на живых концертах тоже много чего говорил обычно.
+                            text: '..я же знаю, что песня в "ре", поэтому, когда прочитал про "до", то подумал, что речь идёт о какой-то другой песне, например, Have You Ever Loved A Woman Фредди Кинга, перед которой он на живых концертах тоже много чего говорил обычно.
 
                               Чес-слово, так воно й було!
 
 
-                              Но самое страшное.. самое страшное.. что Фредди Кинг тоже в "ре" играет, так что придётся мне
-                              третью пестню искать, которая в "до" )))'
+                              Но самое страшное.. самое страшное.. что Фредди Кинг тоже в "ре" играет, так что придётся мне третью пестню искать, которая в "до" )))'
                             replies:
                             - id: 38968
                               parent_id: 38966
@@ -153,13 +149,17 @@ posts:
                               subject: Lightnin' changes whenever he feels like )
                               deleted: false
                               person_id: 4
+                            inferred_person_id: 13
                           person_id: 4
                         person_id: 13
                       person_id: 4
                     person_id: 13
+                  inferred_person_id: 4
                 person_id: 13
               person_id: 4
             person_id: 13
           person_id: 4
+        inferred_person_id: 13
       person_id: 4
     person_id: 13
+  inferred_person_id: 4

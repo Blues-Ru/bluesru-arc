@@ -12,12 +12,10 @@ posts:
   email: cousins@yandex.ru
   subject: Тескты Son House
   deleted: false
-  text: 'Может кто знает, где в нете найти тексты Сона Хауса - особенно интересуют
-    Death Letter, Between midnight and day и How to treat a man.
+  text: 'Может кто знает, где в нете найти тексты Сона Хауса - особенно интересуют Death Letter, Between midnight and day и How to treat a man.
 
 
-    Также интересно, кто из других музыкантво исполнял его песни, и уж совсем здорово
-    было бы эти кавер версии услышать)))
+    Также интересно, кто из других музыкантво исполнял его песни, и уж совсем здорово было бы эти кавер версии услышать)))
 
 
     Спасибо)'
@@ -51,3 +49,4 @@ posts:
       subject: Спасибо,
       deleted: false
       text: герр Майор))
+    inferred_person_id: 13

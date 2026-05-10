@@ -37,6 +37,8 @@ posts:
       subject: Не качается,
       deleted: false
       text: Что за хрень?
+      inferred_person_id: 7206
+    inferred_person_id: 7206
   - id: 30515
     parent_id: 30503
     date: 2007-01-13 13:07
@@ -62,3 +64,6 @@ posts:
         http://video.google.com/videoplay?docid=4551669100380462566
 
         http://video.google.com/videoplay?docid=-8988560819369683721'
+      inferred_person_id: 7206
+    inferred_person_id: 7206
+  inferred_person_id: 7206

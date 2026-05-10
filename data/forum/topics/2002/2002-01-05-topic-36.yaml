@@ -33,6 +33,7 @@ posts:
     subject: С днём варенья!
     deleted: false
     text: ;-)))
+    inferred_person_id: 712
   - id: 28
     parent_id: 24
     date: 2002-01-05 19:24

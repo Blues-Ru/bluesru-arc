@@ -12,8 +12,7 @@ posts:
   email: med-stud@narod.ru
   subject: does anybody here knows full discography 'roomfull of blues'?
   deleted: false
-  text: сабж :) скиньте на мыло, если у кого есть. будьте добрыми дядями... и тетями,
-    если таковые есть.
+  text: сабж :) скиньте на мыло, если у кого есть. будьте добрыми дядями... и тетями, если таковые есть.
   replies:
   - id: 12646
     parent_id: 12645
@@ -22,13 +21,5 @@ posts:
     email: sergei.sergeev@emersonprocess.ru
     subject: All music Guide says...
     deleted: false
-    text: "1977  Roomful of Blues   Island \n 1979  Let's Have a Party   Mango \n\
-      \ 1981  Hot Little Mama  Varrick \n 1984  Dressed Up to Get Messed Up  Varrick\
-      \ \n 1987  Live at Lupo's Heartbreak Hotel  Varrick \n 1994  Dance All Night\
-      \  Bullseye Blues \n 1995  Turn It On! Turn It Up!  Bullseye Blues \n 1997 \
-      \ Under One Roof  Bullseye Blues \n 1997  Roomful of Christmas  Bullseye Blues\
-      \ \n 1998  There Goes the Neighborhood  Bullseye Blues \n 2001  Watch You When\
-      \ You Go  Rounder \n 2002  The First Album [Hyena]  Hyena \n 2003  That's Right\
-      \  Alligator \n Сборники:\n 1992  The First Album [32]  Varrick   \n 1997  Two\
-      \ Classic Albums   32 Jazz   \n 1999  Swingin' & Jumpin'   32 Jazz   \n 2000\
-      \  The Blues'll Make You Happy, Too  Rounder"
+    text: "1977  Roomful of Blues   Island \n 1979  Let's Have a Party   Mango \n 1981  Hot Little Mama  Varrick \n 1984  Dressed Up to Get Messed Up  Varrick \n 1987  Live at Lupo's Heartbreak Hotel  Varrick \n 1994  Dance All Night  Bullseye Blues \n 1995  Turn It On! Turn It Up!  Bullseye Blues \n 1997  Under One Roof  Bullseye Blues \n 1997  Roomful of Christmas  Bullseye Blues \n 1998  There Goes the Neighborhood  Bullseye Blues \n 2001  Watch You When You Go  Rounder \n 2002  The First Album [Hyena]  Hyena \n 2003  That's Right  Alligator \n Сборники:\n 1992  The First Album [32]  Varrick   \n 1997  Two Classic Albums   32 Jazz   \n 1999  Swingin' & Jumpin'   32 Jazz   \n 2000  The Blues'll Make You Happy, Too  Rounder"
+    inferred_person_id: 204

@@ -28,6 +28,7 @@ posts:
     subject: Поздравляю!
     deleted: false
     text: Желаю весело отметить )) Здоровья, успехов, радости!
+    inferred_person_id: 7284
   - id: 33734
     parent_id: 33732
     date: 2007-10-28 01:36
@@ -83,6 +84,7 @@ posts:
       subject: 'Update: St. Pheodor Day is'
       deleted: false
       text: Кароче, он актибрёнок
+    inferred_person_id: 13
   - id: 33764
     parent_id: 33732
     date: 2007-10-30 11:58
@@ -91,3 +93,4 @@ posts:
     subject: Присоединяюсь!
     deleted: false
     person_id: 6398
+  inferred_person_id: 7202

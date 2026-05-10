@@ -66,7 +66,9 @@ posts:
           deleted: false
           text: да, они там боги все в питере
           person_id: 335
+        inferred_person_id: 13
       person_id: 335
+    inferred_person_id: 13
   - id: 37347
     parent_id: 37343
     date: 2011-02-25 12:12
@@ -75,3 +77,4 @@ posts:
     deleted: false
     text: 'Дык, вроде неплохо... Но мне ближе вот этот коммент: "Wake me up&#65279; when it''s over...."'
     person_id: 4
+  inferred_person_id: 13

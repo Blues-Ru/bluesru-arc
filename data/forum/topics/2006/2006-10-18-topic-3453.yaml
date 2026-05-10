@@ -52,5 +52,6 @@ posts:
           subject: Ответил в аське (-)
           deleted: false
           person_id: 88
+        inferred_person_id: 13
       person_id: 88
   person_id: 88

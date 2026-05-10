@@ -24,6 +24,7 @@ posts:
     text: 'Желаю всего-всего наилучшего!
 
       И не грусти!'
+    inferred_person_id: 4384
   - id: 30156
     parent_id: 30137
     date: 2006-12-26 13:10
@@ -50,6 +51,7 @@ posts:
     subject: Присоединяюсь к поздравлениям
     deleted: false
     text: Всего самого наилучшего и много хорошей музыки (и в рекламных роликах тоже :-)
+    inferred_person_id: 7202
   - id: 30191
     parent_id: 30137
     date: 2006-12-27 23:55
@@ -57,6 +59,7 @@ posts:
     email: mlives@hotmail.com
     subject: Поздрвляю!
     deleted: false
+    inferred_person_id: 7465
   - id: 30243
     parent_id: 30137
     date: 2007-01-01 01:22

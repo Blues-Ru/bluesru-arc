@@ -14,8 +14,7 @@ posts:
   deleted: false
   text: 'будут праздновать в Jazz Town 9 октября.
 
-    сегодня в 2 часа ночи гия Дзагнидзе расскажет о времении о себе в программе ВЭБ
-    на "ЭМ" (91,2 FM)'
+    сегодня в 2 часа ночи гия Дзагнидзе расскажет о времении о себе в программе ВЭБ на "ЭМ" (91,2 FM)'
   replies:
   - id: 35857
     parent_id: 35842
@@ -25,3 +24,4 @@ posts:
     subject: BIRTHDAY MODERN BLUES BAND
     deleted: false
     text: http://rapidshare.com/files/153735199/10_BIRTHDAY_MODERN_BLUES_BAND_JAZZTOWN_09-10-08-SAMPLE-1.mp3
+  inferred_person_id: 4

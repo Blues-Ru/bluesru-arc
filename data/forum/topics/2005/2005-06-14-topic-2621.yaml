@@ -12,8 +12,7 @@ posts:
   email: vic@vic3d.com
   subject: короткометражный фильм, блюзовым музыкантам посвящается ;)
   deleted: false
-  text: "документальная новелла на тему перекрестка.\n\nDivx, 170Mb \nwww.vic3d.ru/film/the_deal_divx.avi\n\nособо серьезно\
-    \ не воспринимайте, но любые отзывы и мнения очень интересны."
+  text: "документальная новелла на тему перекрестка.\n\nDivx, 170Mb \nwww.vic3d.ru/film/the_deal_divx.avi\n\nособо серьезно не воспринимайте, но любые отзывы и мнения очень интересны."
   replies:
   - id: 21764
     parent_id: 21762
@@ -70,8 +69,7 @@ posts:
             email: gypsy@mail.ru
             subject: Все идеи фильма хорошо читаются!
             deleted: false
-            text: Я же всегда немножко утрирую, в расчёте на талантливую молодёжь, имманентно пребывающую в раздумиях о выборе
-              пути праведного... ))
+            text: Я же всегда немножко утрирую, в расчёте на талантливую молодёжь, имманентно пребывающую в раздумиях о выборе пути праведного... ))
             replies:
             - id: 21776
               parent_id: 21775
@@ -81,6 +79,8 @@ posts:
               subject: спасибо :)
               deleted: false
               text: .
+            inferred_person_id: 13
+        inferred_person_id: 13
       - id: 21777
         parent_id: 21770
         date: 2005-06-14 21:11
@@ -98,6 +98,7 @@ posts:
         deleted: false
         text: очень хорошо и красиво :)
         person_id: 335
+    inferred_person_id: 13
   - id: 21787
     parent_id: 21762
     date: 2005-06-15 15:36
@@ -105,8 +106,7 @@ posts:
     email: chifuroff@inbox.ru
     subject: При желании...
     deleted: false
-    text: Прижелании можно сжать 12-ти минутный ролик мегов до 15 в формат Windows Media- качество конечно будет не самый
-      блеск, но более доступно. А то уж слишком большой...
+    text: Прижелании можно сжать 12-ти минутный ролик мегов до 15 в формат Windows Media- качество конечно будет не самый блеск, но более доступно. А то уж слишком большой...
     replies:
     - id: 21789
       parent_id: 21787
@@ -115,8 +115,8 @@ posts:
       email: gypsy@mail.ru
       subject: Руслан, ну ты у нас прямо как Кролик из мультика про Винни-Пуха =))
       deleted: false
-      text: Лучший способ делать сжатый ролик без потерь - в видеоканале публиковать каждый 5-й кадр (можно и 10-й), будет
-        слегка стробоскопический эффект типа подёргивания, но зато вес резко уменьшится.
+      text: Лучший способ делать сжатый ролик без потерь - в видеоканале публиковать каждый 5-й кадр (можно и 10-й), будет слегка стробоскопический эффект типа подёргивания, но зато вес резко уменьшится.
+      inferred_person_id: 13
     - id: 21791
       parent_id: 21787
       date: 2005-06-15 21:44
@@ -167,9 +167,11 @@ posts:
 
                 <a href="http://www.pasportov.net/count.php?dl=hey_babushka_1_06_05.wmv&path=video">http://www.pasportov.net/count.php?dl=hey_babushka_1_06_05.wmv&path=video</a>
 
-                - 3.9 Mb, длительность 3.5 минуты, Hey Babushka (The Stogov Family Song)- а это вовсе не блюз, это в духе
-                Deep Purple :-)))))'
+                - 3.9 Mb, длительность 3.5 минуты, Hey Babushka (The Stogov Family Song)- а это вовсе не блюз, это в духе Deep Purple :-)))))'
+              inferred_person_id: 2888
+            inferred_person_id: 13
           person_id: 2888
+        inferred_person_id: 13
       - id: 21800
         parent_id: 21791
         date: 2005-06-16 18:02

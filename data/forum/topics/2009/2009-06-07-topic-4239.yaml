@@ -11,22 +11,7 @@ posts:
   poster: Andrei V. Evdokimov
   subject: наши досуги!
   deleted: false
-  text: "<ul>\n<lh>levee</lh>\n    <li>Levee Camp Holler          Various Artists\
-    \  Prison Blues Of The South                 </li>\n    <li>Levee Prayer     \
-    \          Jimmy Thackery   In The Natural State                      </li>\n\
-    \    <li>Levee Town                 Sonny Landreth   Levee Town              \
-    \                  </li>\n    <li>The Levee's Gonna Break    Bob Dylan       \
-    \ Modern Times                              </li>\n    <li>Love And Glory    \
-    \         Sonny Landreth   Levee Town                                </li>\n \
-    \   <li>Spider-Gris                Sonny Landreth   Levee Town               \
-    \                 </li>\n    <li>When The Levee Breaks      Buckwheat Zydeco Lay\
-    \ Your Burden Down                      </li>\n    <li>When The Levee Breaks \
-    \     Dr. Agranovsky   Alabama                                   </li>\n    <li>When\
-    \ The Levee Breaks      Robert Plant     Louisville, KY - The Palace April 18,\
-    \ 2008</li>\n    <li>When the Levee Breaks      Memphis Minnie   Queen of the\
-    \ Blues (1929 - 1946)          </li>\n    <li>When The Levee Breaks      John\
-    \ Campbell    Howlin Mercy                              </li>\n</ul> \n-----\n\
-    но интересней, конечно, когда само слово в названии еще не выдаеь предмет песни."
+  text: "<ul>\n<lh>levee</lh>\n    <li>Levee Camp Holler          Various Artists  Prison Blues Of The South                 </li>\n    <li>Levee Prayer               Jimmy Thackery   In The Natural State                      </li>\n    <li>Levee Town                 Sonny Landreth   Levee Town                                </li>\n    <li>The Levee's Gonna Break    Bob Dylan        Modern Times                              </li>\n    <li>Love And Glory             Sonny Landreth   Levee Town                                </li>\n    <li>Spider-Gris                Sonny Landreth   Levee Town                                </li>\n    <li>When The Levee Breaks      Buckwheat Zydeco Lay Your Burden Down                      </li>\n    <li>When The Levee Breaks      Dr. Agranovsky   Alabama                                   </li>\n    <li>When The Levee Breaks      Robert Plant     Louisville, KY - The Palace April 18, 2008</li>\n    <li>When the Levee Breaks      Memphis Minnie   Queen of the Blues (1929 - 1946)          </li>\n    <li>When The Levee Breaks      John Campbell    Howlin Mercy                              </li>\n</ul> \n-----\nно интересней, конечно, когда само слово в названии еще не выдаеь предмет песни."
   replies:
   - id: 36431
     parent_id: 36365
@@ -35,3 +20,5 @@ posts:
     subject: Так зачем же плотина должна рухнуть?
     deleted: false
     text: О чём же пестнЯ? про плотину иль нет?
+    inferred_person_id: 7202
+  inferred_person_id: 4

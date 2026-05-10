@@ -65,12 +65,9 @@ posts:
         email: 222@dad mazaj.com
         subject: добавление
         deleted: false
-        text: 'У меня предложение-просьба.Есть ли какая-то возможность силами сообщества www.blues.ru организовать выкуп какого-то
-          кол-ва мест на этом концерте?А то ситуация получается такая- я буду в МСК только числа 16-17 мая,к этому моменту
-          билетов по разумной цене уже не останется.
+        text: 'У меня предложение-просьба.Есть ли какая-то возможность силами сообщества www.blues.ru организовать выкуп какого-то кол-ва мест на этом концерте?А то ситуация получается такая- я буду в МСК только числа 16-17 мая,к этому моменту билетов по разумной цене уже не останется.
 
-          Поможите,братцы,очень уж хочется попасть на сей концерт.Даже если кто-то и не сможет появится к назначенному сроку,такие
-          билеты по-любому не пропадут,вы же прекрасно понимаете...
+          Поможите,братцы,очень уж хочется попасть на сей концерт.Даже если кто-то и не сможет появится к назначенному сроку,такие билеты по-любому не пропадут,вы же прекрасно понимаете...
 
           p.s.На www.kontramarka выкупить билеты нужно не более чем через день,в кр.случае- через три.'
       - id: 18324
@@ -81,6 +78,8 @@ posts:
         subject: B.B. Forever
         deleted: false
         text: по инету можно их заказать?
+        inferred_person_id: 1849
+    inferred_person_id: 1849
   - id: 18329
     parent_id: 18308
     date: 2004-05-05 20:45
@@ -88,8 +87,7 @@ posts:
     email: nicholas_d@mail.ru
     subject: mogu...
     deleted: false
-    text: 'esli kto poydet -mogu kupit bileti - poydu pokupat zavtra vecherom - posle zavtra utrom- potomu pishite srochno
-      mne na nicholas@promedia.ru
+    text: 'esli kto poydet -mogu kupit bileti - poydu pokupat zavtra vecherom - posle zavtra utrom- potomu pishite srochno mne na nicholas@promedia.ru
 
       i kakie bileti hotite - deneg ne tonna - potomu kto perviy napishet - tomu i kuplu - kak deneg hvatit.....'
   - id: 18330
@@ -99,5 +97,5 @@ posts:
     email: Lars@List.ru
     subject: radio
     deleted: false
-    text: "ммм.. может кому интересно.. По радио (\"Серебряный Дождь\") вроде как ожидается прямой эфир с BBK. \nТипа можно\
-      \ будет задавать умные вопросы :)\n\n18-го мая днем. Точное время, увы, не запомнил."
+    text: "ммм.. может кому интересно.. По радио (\"Серебряный Дождь\") вроде как ожидается прямой эфир с BBK. \nТипа можно будет задавать умные вопросы :)\n\n18-го мая днем. Точное время, увы, не запомнил."
+    inferred_person_id: 1828

@@ -27,8 +27,7 @@ posts:
       Погода была прекрасная, музыка хорошая и разная. Чего ещё желать?
 
 
-      П.С. Записал по куску соло каждого ансамбля на мыльничное видео. Получилось сносно. Теперь все российские блюзмены буквально
-      у меня в кармане.'
+      П.С. Записал по куску соло каждого ансамбля на мыльничное видео. Получилось сносно. Теперь все российские блюзмены буквально у меня в кармане.'
   - id: 33374
     parent_id: 33371
     date: 2007-08-14 00:44
@@ -50,6 +49,7 @@ posts:
       <a href="http://tyomson.livejournal.com/53339.html">Отчёт Тёмсона</a>
 
       <a href="http://grems.livejournal.com/26009.html">Отчёт Грема</a>'
+    inferred_person_id: 2888
   - id: 33376
     parent_id: 33371
     date: 2007-08-14 01:02
@@ -78,6 +78,7 @@ posts:
       text: 'http://www.intermedia.ru/index.php3?action=view&id=85977
 
         http://afisha.rambler.ru/message.html?id=12407429'
+      inferred_person_id: 204
     person_id: 5877
   - id: 33387
     parent_id: 33371

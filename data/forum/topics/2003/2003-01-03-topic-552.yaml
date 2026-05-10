@@ -34,4 +34,5 @@ posts:
       deleted: false
       text: Дайану, конечно ;)
       person_id: 335
+    inferred_person_id: 335
   person_id: 2

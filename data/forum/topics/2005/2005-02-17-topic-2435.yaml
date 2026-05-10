@@ -12,9 +12,7 @@ posts:
   email: vklishin@pts-russia.com
   subject: Где купить "Lightning in a bottle"?
   deleted: false
-  text: "Коллеги, подскажите, где в Москве можно купить DVD или CD\nLightning in a\
-    \ bottle? \n\nВ Трансильвании и П.легионе отсутствуют. \n \nЗаранее благодарен.\n\
-    Валерий"
+  text: "Коллеги, подскажите, где в Москве можно купить DVD или CD\nLightning in a bottle? \n\nВ Трансильвании и П.легионе отсутствуют. \n \nЗаранее благодарен.\nВалерий"
   replies:
   - id: 20541
     parent_id: 20489
@@ -24,3 +22,4 @@ posts:
     subject: Этот что ли?
     deleted: false
     text: http://music.barnesandnoble.com/search/product.asp?userid=iM4DNtnAI5&EAN=827969286029&ITM=1
+    inferred_person_id: 13

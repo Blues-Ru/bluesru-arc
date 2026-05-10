@@ -12,11 +12,7 @@ posts:
   email: gypsy@mail.ru
   subject: 'Для интересующихся: альбом Colosseum "Valentyne Suite" есть у меня в MP3'
   deleted: false
-  text: "Как написали о группе на allmusic.com:\n\"One of England's prime jazz-rock\
-    \ — or, more accurately, rock-jazz..\" \nОчень достойная музыка, настоящее английское\
-    \ качество! Для любителей ранних Genesis, ELP и King Crimson - лучший подарок!\n\
-    \nИзначально альбом записан в далёком 1969 году.\nСудя по инфо в ID3V1 тегах MP3,\
-    \ это 2004 Expanded Edition.\n\nИнтересующиеся: Вам Дамм ссылку - присылайте заявки."
+  text: "Как написали о группе на allmusic.com:\n\"One of England's prime jazz-rock — or, more accurately, rock-jazz..\" \nОчень достойная музыка, настоящее английское качество! Для любителей ранних Genesis, ELP и King Crimson - лучший подарок!\n\nИзначально альбом записан в далёком 1969 году.\nСудя по инфо в ID3V1 тегах MP3, это 2004 Expanded Edition.\n\nИнтересующиеся: Вам Дамм ссылку - присылайте заявки."
   replies:
   - id: 23741
     parent_id: 23457
@@ -28,3 +24,5 @@ posts:
     text: 'Блюз-фили, обалдел. В голове закрутилось: "Классический английский рок".
 
       Был послучаю в паре магазинов, справшивал Collosseum, не было.'
+    inferred_person_id: 2062
+  inferred_person_id: 13

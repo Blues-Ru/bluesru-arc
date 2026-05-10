@@ -43,15 +43,14 @@ posts:
     poster: Эльдар
     subject: Muddy Waters - Too Young To Know
     deleted: false
-    text: 'Возвращаясь к <a href="http://www.blues.ru/forum/topic2616#post21725">старому (июнь 2005) обсуждению</a> о тексте
-      Muddy Waters - Too Young To Know, а точнее, к непонятной первой строчке припева.
+    text: 'Возвращаясь к <a href="http://www.blues.ru/forum/topic2616#post21725">старому (июнь 2005) обсуждению</a> о тексте Muddy Waters - Too Young To Know, а точнее, к непонятной первой строчке припева.
 
       На YouTube мне ответил пользователь MyWoodstock1:
 
-      <a href="http://www.youtube.com/watch?v=8xvtCMWPdzE&lc=1NClIm9VTa-UvPEa2r7TrEVVho-7jPBGHVzwG_qEa_k&lch=email_reply&feature=em-comment_reply_received">two
-      little girls said let him leave
+      <a href="http://www.youtube.com/watch?v=8xvtCMWPdzE&lc=1NClIm9VTa-UvPEa2r7TrEVVho-7jPBGHVzwG_qEa_k&lch=email_reply&feature=em-comment_reply_received">two little girls said let him leave
 
       four little girls said yall is too young to know </a>'
+    inferred_person_id: 7202
   - id: 38665
     parent_id: 38651
     date: 2012-12-19 17:50
@@ -96,7 +95,8 @@ posts:
         poster: Andrei V. Evdokimov
         subject: да отличная подборка ссылок.
         deleted: false
-        text: да и сам дядька отличный. разве, что скромный не в меру, славы не ищет. но это бывает, когда человек глубоко
-          в блюзе.
+        text: да и сам дядька отличный. разве, что скромный не в меру, славы не ищет. но это бывает, когда человек глубоко в блюзе.
         person_id: 4
+      inferred_person_id: 7264
     person_id: 7512
+  inferred_person_id: 7264

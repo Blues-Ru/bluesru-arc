@@ -12,8 +12,7 @@ posts:
   email: grems@yandex.ru
   subject: Концерты Scott Henderson в Москве
   deleted: false
-  text: "Господа, \nПодскажите, что это за гитарист Scott Henderson.\nПо инфе www.zwuki.ru он приезжает в начале мая и даст\
-    \ два концерта в \"Форте\"...."
+  text: "Господа, \nПодскажите, что это за гитарист Scott Henderson.\nПо инфе www.zwuki.ru он приезжает в начале мая и даст два концерта в \"Форте\"...."
   replies:
   - id: 11622
     parent_id: 11618
@@ -22,9 +21,7 @@ posts:
     email: dr.nick@blues.ru
     subject: Скотт
     deleted: false
-    text: джаз-роковый виртуоз новой волны. Прославился тем, что играл с Чиком Кори, Джо Завинулом и Жан-Люком Понти. Начал
-      писаться сольно в середине 80-х (жуткое время для музыки и звука). Высокохудожественная фьюжновая дрочка на гитаре.
-      В Форте может быть интересно. Альбомы слушать не очень.
+    text: джаз-роковый виртуоз новой волны. Прославился тем, что играл с Чиком Кори, Джо Завинулом и Жан-Люком Понти. Начал писаться сольно в середине 80-х (жуткое время для музыки и звука). Высокохудожественная фьюжновая дрочка на гитаре. В Форте может быть интересно. Альбомы слушать не очень.
     replies:
     - id: 11624
       parent_id: 11622
@@ -33,9 +30,7 @@ posts:
       email: fvb@dateline.ru
       subject: Хорошо, но громко!
       deleted: false
-      text: В "Форте" хорошо, но очень громко! Летом слушал там Игоря Бойко, так чуть не оглох. Вышел из клуба, поставил машину
-        на противоположную сторону Большой Бронной и слушал Игоря из салона автомобиля.  Для ранней весны этот совет не годится
-        :-)
+      text: В "Форте" хорошо, но очень громко! Летом слушал там Игоря Бойко, так чуть не оглох. Вышел из клуба, поставил машину на противоположную сторону Большой Бронной и слушал Игоря из салона автомобиля.  Для ранней весны этот совет не годится :-)
       replies:
       - id: 11634
         parent_id: 11624
@@ -47,6 +42,7 @@ posts:
         text: 'Вадим,  громкость не причем...
 
           Был бы человек-хороший;-)))))))'
+        inferred_person_id: 204
       - id: 11635
         parent_id: 11624
         date: 2003-04-10 14:38
@@ -56,8 +52,7 @@ posts:
         deleted: false
         text: 'Кстати, название "Форте" так и переводится ;)
 
-          Нет ничего хуже, когда в каком-нибудь клубе музыкантов просят играть потише (а такое бывает). У музыкантов после
-          такой просьбы отвратительное настроение, а звук отстроить не удается. На блюзовых концертах должно быть громко!!!'
+          Нет ничего хуже, когда в каком-нибудь клубе музыкантов просят играть потише (а такое бывает). У музыкантов после такой просьбы отвратительное настроение, а звук отстроить не удается. На блюзовых концертах должно быть громко!!!'
         replies:
         - id: 11637
           parent_id: 11635
@@ -66,12 +61,7 @@ posts:
           email: grems@yandex.ru
           subject: All Music Guide says...
           deleted: false
-          text: ". Starting with 1994's Dog Party, the guitarist made a transition from the world of jazz to the blues world,\
-            \ where his blues-rock fusion became the primary focus of his music career. But unlike many of his blues-rock\
-            \ contemporaries, his music was filled with the sort of odd time signatures and unique touches that are cornerstones\
-            \ of his jazz work. Думаю, переводить не надо. \nСкотт сейчас играет блюз в той манере, основа которой была заложена\
-            \ в период его джазовых изысканий. Оценки его альбомов в AMG - сплошные 4 и 5 звезд. Есть ли есть еще инфа о нем\
-            \ ,поделитесь плиз....."
+          text: ". Starting with 1994's Dog Party, the guitarist made a transition from the world of jazz to the blues world, where his blues-rock fusion became the primary focus of his music career. But unlike many of his blues-rock contemporaries, his music was filled with the sort of odd time signatures and unique touches that are cornerstones of his jazz work. Думаю, переводить не надо. \nСкотт сейчас играет блюз в той манере, основа которой была заложена в период его джазовых изысканий. Оценки его альбомов в AMG - сплошные 4 и 5 звезд. Есть ли есть еще инфа о нем ,поделитесь плиз....."
           replies:
           - id: 11641
             parent_id: 11637
@@ -109,7 +99,9 @@ posts:
                   deleted: false
                   person_id: 6
                 person_id: 4
+              inferred_person_id: 204
             person_id: 335
+          inferred_person_id: 204
         - id: 11640
           parent_id: 11635
           date: 2003-04-10 15:07
@@ -130,6 +122,7 @@ posts:
             deleted: false
             text: ..чтобы он мне икру МЕТАЛЛЛ!!!!
             person_id: 13
+          inferred_person_id: 335
         person_id: 2
     person_id: 335
   - id: 11647
@@ -149,3 +142,5 @@ posts:
       subject: Спасибо  Vovan... Это то ,что нужно:-)))))
       deleted: false
       text: Спасибо  Vovan... Это то ,что нужно:-)))))
+      inferred_person_id: 204
+  inferred_person_id: 204

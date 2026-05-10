@@ -21,7 +21,7 @@ from jinja2 import Environment, FileSystemLoader
 _scripts = Path(__file__).resolve().parent
 if str(_scripts) not in sys.path:
     sys.path.insert(0, str(_scripts))
-from generate_shared import link_artist_in_text
+from generate_shared import process_calendar_text, _MONTHS_RU, _years_ago_ru
 ARC = Path(__file__).resolve().parent.parent
 _site_default = str(ARC / 'bluesru-site') if os.environ.get('CF_PAGES') else str(ARC.parent / 'bluesru-site')
 DATA = ARC / "data"
@@ -87,6 +87,7 @@ def generate_year_pages():
             picture = ev.get('picture', '') or ''
             by_year[year].append({
                 'date': date_str,
+                'event_type': ev.get('event_type', ''),
                 'title': ev.get('title', ''),
                 'picture': picture,
                 'text': ev.get('text', ''),
@@ -142,21 +143,27 @@ def generate_year_pages():
         year_int = int(year)
 
         current_year = datetime.now().year
+        years_ago = current_year - year_int
         for ev in events_sorted:
             date_str = ev['date']
-            ev['day_month'] = f'{date_str[8:10]}.{date_str[5:7]}'
-            ev['years_ago'] = current_year - year_int
+            try:
+                mo = int(date_str[5:7])
+                day = int(date_str[8:10])
+                ev['day_month'] = f'{day} {_MONTHS_RU[mo]}' if 1 <= mo <= 12 else date_str[5:10]
+            except (ValueError, IndexError):
+                ev['day_month'] = date_str[5:10]
             slug = ev.get('artist_slug', '')
-            title = ev.get('title', '')
-            if slug and title:
-                ev['text'] = link_artist_in_text(ev.get('text', ''), title, slug)
+            if slug:
+                ev['text'] = process_calendar_text(ev['text'], slug, ev.get('title', ''))
 
+        years_ago_str = f' \u2014 {_years_ago_ru(years_ago)}' if years_ago > 0 else ''
         nav = year_nav(year, all_years)
         tmpl = _jinja_env.get_template('calendar_year.html.j2')
         html = tmpl.render(
             ga_snippet=GA_SNIPPET,
             footer=FOOTER,
             year=year,
+            years_ago_str=years_ago_str,
             year_nav=nav,
             events=events_sorted,
         )

@@ -12,11 +12,7 @@ posts:
   email: mlives_6@hotmail
   subject: Найден потерянный диск Son House!
   deleted: false
-  text: "Хорошие новости для любителей блюза Миссиссиппи!   Записи Son House от 1930-го г. являются одними из самых ценных\
-    \ среди любителй блюза: My Black Mama (I&II), Preachin' the Blues (I&II), Dry Spell Blues (I&II), и Walkin' Blues.  Просто\
-    \ нет более глубокого и исторически важного блюза.  В катологе \"Paramount\" перечислен еще один диск 78: Mississippi\
-    \ County Farm Blues/Clarksdale Moan.  Но ни одного экземпляра не было найдено.  Теперь наконец нашли!  Эти песни должны\
-    \ быть выпущены Yazoo Records через несколько месяцев.  Повод для праздника! \n\nMuddy"
+  text: "Хорошие новости для любителей блюза Миссиссиппи!   Записи Son House от 1930-го г. являются одними из самых ценных среди любителй блюза: My Black Mama (I&II), Preachin' the Blues (I&II), Dry Spell Blues (I&II), и Walkin' Blues.  Просто нет более глубокого и исторически важного блюза.  В катологе \"Paramount\" перечислен еще один диск 78: Mississippi County Farm Blues/Clarksdale Moan.  Но ни одного экземпляра не было найдено.  Теперь наконец нашли!  Эти песни должны быть выпущены Yazoo Records через несколько месяцев.  Повод для праздника! \n\nMuddy"
   replies:
   - id: 23483
     parent_id: 23481
@@ -52,6 +48,7 @@ posts:
         text: 'Будем ждать выхода обещанной антологии.
 
           Скорей бы.'
+        inferred_person_id: 6
       - id: 23535
         parent_id: 23486
         date: 2005-10-04 13:37
@@ -70,6 +67,8 @@ posts:
         deleted: false
         text: Тысяча извинений за панику. Ошибка была временной, всё загружается.
         person_id: 6
+      inferred_person_id: 7465
+    inferred_person_id: 6
   - id: 23541
     parent_id: 23481
     date: 2005-10-04 16:47
@@ -77,8 +76,8 @@ posts:
     email: mlives_6@hotmail.com
     subject: Волноваться не стоит  :)
     deleted: false
-    text: "Стефан Гроссман - это известный уважаемый человек и великолепный гитарист.  И не то, что он просто передает какие-то\
-      \ слухи.  Он пишет, что сам слышал эти песни!  \n\nMuddy"
+    text: "Стефан Гроссман - это известный уважаемый человек и великолепный гитарист.  И не то, что он просто передает какие-то слухи.  Он пишет, что сам слышал эти песни!  \n\nMuddy"
+    inferred_person_id: 7465
   - id: 23549
     parent_id: 23481
     date: 2005-10-05 00:30
@@ -105,3 +104,5 @@ posts:
       subject: Yazoo
       deleted: false
       text: "Весь католог Yazoo можно скачать c emusic.com.  Не безплатно, но значительно дешевле. \n\nMuddy"
+      inferred_person_id: 7465
+  inferred_person_id: 7465

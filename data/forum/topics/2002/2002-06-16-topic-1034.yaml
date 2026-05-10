@@ -52,6 +52,7 @@ posts:
           subject: Высылаю
           deleted: false
           person_id: 335
+        inferred_person_id: 9
       person_id: 335
     person_id: 6
   - id: 5364
@@ -82,4 +83,5 @@ posts:
       deleted: false
       text: Это сообщение было от кого-то из этого форума. Заголовок уж больно знакомый.
       person_id: 335
+    inferred_person_id: 9
   person_id: 335

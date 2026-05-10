@@ -34,6 +34,7 @@ posts:
       А то блюз, он, панимаеш, очень разнообразный бывает.
 
       Акустический, электрический, а также с сексафоном.'
+    inferred_person_id: 13
   - id: 36045
     parent_id: 36038
     date: 2009-01-21 15:16
@@ -43,8 +44,7 @@ posts:
     deleted: false
     text: 'Спасибо, пойду туда....)
 
-      Хороший блюз - он красивый....)...акустический, с саксофоном, ударных побольше разнообразных...немного народно-латинского...звук
-      богатый..мясистый...и что бы не от головы..а от грусти и любви...как-то так...'
+      Хороший блюз - он красивый....)...акустический, с саксофоном, ударных побольше разнообразных...немного народно-латинского...звук богатый..мясистый...и что бы не от головы..а от грусти и любви...как-то так...'
     replies:
     - id: 36046
       parent_id: 36045
@@ -54,6 +54,7 @@ posts:
       subject: Это как-то больше на описание концерта Меладзе или Агутина смахивает
       deleted: false
       text: Обои знатные блюзмены, однако!
+      inferred_person_id: 13
     - id: 36050
       parent_id: 36045
       date: 2009-01-21 20:29
@@ -61,10 +62,7 @@ posts:
       email: lifebythedrop@yandex.ru
       subject: Нужно лекарство...
       deleted: false
-      text: "Рецепт: \nHowlin' Wolf (для начала - London Sessions)\nJohn Lee Hooker ( любой альбом)\nJohn Campbell (тоже любой\
-        \ альбом, у него их не много)\nJohn Mayal and the Bluesbreackers\nПервый альбом группы Ten Years After...\n\nА так\
-        \ же Lynyrd Skynyrd (песни ballad of Curtis Loew, альбом Second Helping и Mr. Banker элементарно находится на ютюбе,\
-        \ к примеру - тут:\n\nhttp://ru.youtube.com/watch?v=pPWpbatJsZU\n\nК слову - о блюзе в творчестве LS :)"
+      text: "Рецепт: \nHowlin' Wolf (для начала - London Sessions)\nJohn Lee Hooker ( любой альбом)\nJohn Campbell (тоже любой альбом, у него их не много)\nJohn Mayal and the Bluesbreackers\nПервый альбом группы Ten Years After...\n\nА так же Lynyrd Skynyrd (песни ballad of Curtis Loew, альбом Second Helping и Mr. Banker элементарно находится на ютюбе, к примеру - тут:\n\nhttp://ru.youtube.com/watch?v=pPWpbatJsZU\n\nК слову - о блюзе в творчестве LS :)"
       replies:
       - id: 36051
         parent_id: 36050
@@ -73,14 +71,12 @@ posts:
         email: gypsy@mail.ru
         subject: Это сильнодействующее средство...
         deleted: false
-        text: '..для формирования стойкого рвотного рефлекса на блюз у людей, которые раньше блюза не слышали. Особенно у
-          девушек.
+        text: '..для формирования стойкого рвотного рефлекса на блюз у людей, которые раньше блюза не слышали. Особенно у девушек.
 
           Зачем пугать юную деву страхомордными негриллами? Чтобы ночью приснились?
 
 
-          Хочешь приобщить девушку к блюзу - выбери что-нибудь из Al Green, ZZ Hill, например. Или из Latimore. То, что ближе
-          к музыке соул, и на вид поприятней.'
+          Хочешь приобщить девушку к блюзу - выбери что-нибудь из Al Green, ZZ Hill, например. Или из Latimore. То, что ближе к музыке соул, и на вид поприятней.'
         replies:
         - id: 36052
           parent_id: 36051
@@ -99,6 +95,8 @@ posts:
             subject: пусть девушка скажет,что ей до блюза нравилось
             deleted: false
             text: легче подсказать будет
+            inferred_person_id: 7208
+          inferred_person_id: 7208
         - id: 36054
           parent_id: 36051
           date: 2009-01-22 09:27
@@ -106,9 +104,7 @@ posts:
           email: lifebythedrop@yandex.ru
           subject: я сторонник радикальных методов...
           deleted: false
-          text: 'Они помогают отсеивать тех кто интересуется блюзом в суе. Если новообращенный настроен на нужную волну, то
-            это хорошо, а если нет... Джонни Лэнга, Джека Уайта или Бонамассы будет достаточно :) но не зовите этот сурогат
-            блюзом.
+          text: 'Они помогают отсеивать тех кто интересуется блюзом в суе. Если новообращенный настроен на нужную волну, то это хорошо, а если нет... Джонни Лэнга, Джека Уайта или Бонамассы будет достаточно :) но не зовите этот сурогат блюзом.
 
 
             "Зачем пугать юную деву страхомордными негриллами?"
@@ -123,16 +119,14 @@ posts:
 
 
 
-            А кого напугает добряк Хаулин Вульф (в миру Артур Чечтер Бёрнетт)или мудрец Джон Ли Хукер... а может профессор
-            Майал (который, к слову сказать - вообще белый) или Стиви Рэй Воэн? или... ну да, Джон Кэмпбелл пожет вызвать
-            некоторые побочные эффекты для неподготовленного. Его "приём" придётся отложить на немного погодя.  Я уж не говорю
-            о Lynyrd Skynyrd (хотя не говорить о них я не могу в принципе)
+            А кого напугает добряк Хаулин Вульф (в миру Артур Чечтер Бёрнетт)или мудрец Джон Ли Хукер... а может профессор Майал (который, к слову сказать - вообще белый) или Стиви Рэй Воэн? или... ну да, Джон Кэмпбелл пожет вызвать некоторые побочные эффекты для неподготовленного. Его "приём" придётся отложить на немного погодя.  Я уж не говорю о Lynyrd Skynyrd (хотя не говорить о них я не могу в принципе)
 
 
             "пусть девушка скажет,что ей до блюза нравилось"
 
 
             + А есть ли жизнь до блюза? :)'
+        inferred_person_id: 13
   - id: 36055
     parent_id: 36038
     date: 2009-01-22 10:16
@@ -180,8 +174,7 @@ posts:
           email: dally@bk.ru
           subject: )))
           deleted: false
-          text: А я так поняла камрада Malcolmа, в суе обитают любители Агутина и Меладзе...настояще прошаренные блюзмэны
-            обитают в других местах и ёмкостях..)
+          text: А я так поняла камрада Malcolmа, в суе обитают любители Агутина и Меладзе...настояще прошаренные блюзмэны обитают в других местах и ёмкостях..)
           replies:
           - id: 36060
             parent_id: 36058
@@ -194,6 +187,7 @@ posts:
 
 
               Также интересно почитать это: http://touching.ru/textlist.php?item=440'
+            inferred_person_id: 13
           - id: 36070
             parent_id: 36058
             date: 2009-01-23 08:50
@@ -214,6 +208,8 @@ posts:
               email: gypsy@mail.ru
               subject: Кто с суём к нам пойдёт...
               deleted: false
+              inferred_person_id: 13
+        inferred_person_id: 13
       person_id: 458
     - id: 36059
       parent_id: 36055
@@ -222,8 +218,7 @@ posts:
       email: bhjhb
       subject: примерно эти
       deleted: false
-      text: 'Charles Brown, Corey Harris, Taj Mahal, Jimmy Smith, Kenny Neal, Albert King, Lucky Peterson,Bob Brozman,Duke
-        Robillard, Ronnie Earl,Sonny Boy Williamson II, ну и Ray Charles,конечно.
+      text: 'Charles Brown, Corey Harris, Taj Mahal, Jimmy Smith, Kenny Neal, Albert King, Lucky Peterson,Bob Brozman,Duke Robillard, Ronnie Earl,Sonny Boy Williamson II, ну и Ray Charles,конечно.
 
         вспомню еще- напишу))'
       replies:
@@ -265,6 +260,11 @@ posts:
               subject: ))))в блюзе, в блюзе...
               deleted: false
               text: я ж это...блюз-парень)))
+              inferred_person_id: 7208
+            inferred_person_id: 13
+          inferred_person_id: 7208
+        inferred_person_id: 13
+      inferred_person_id: 7208
     - id: 36062
       parent_id: 36055
       date: 2009-01-22 23:48
@@ -272,9 +272,7 @@ posts:
       email: evdokimov@blues.ru
       subject: А что вы так бережете девушку?
       deleted: false
-      text: На, да, трогательный ник… но если она хочет залезть в блюз – нежно и трогательно не будет. Хочет с саксофоном?
-        Пусть слушает Charles Brown. Хочет реальный блюз? Это или Хукер или Луазиана Ред (продукция Tomato). Хочет блюз сегодня
-        – это Каверкин  (в москве) или Saffire – я их последний альбом слушаю пятый раз!
+      text: На, да, трогательный ник… но если она хочет залезть в блюз – нежно и трогательно не будет. Хочет с саксофоном? Пусть слушает Charles Brown. Хочет реальный блюз? Это или Хукер или Луазиана Ред (продукция Tomato). Хочет блюз сегодня – это Каверкин  (в москве) или Saffire – я их последний альбом слушаю пятый раз!
       replies:
       - id: 36064
         parent_id: 36062
@@ -292,8 +290,7 @@ posts:
           email: ghjj
           subject: а как же Clifford Solomon?
           deleted: false
-          text: его соло в Sometimes I Feel Like The Motherless Child (альбом Charles Brown "So Goes Love" 1998,VERVE)- одно
-            из моих самых любимых сол ))))
+          text: его соло в Sometimes I Feel Like The Motherless Child (альбом Charles Brown "So Goes Love" 1998,VERVE)- одно из моих самых любимых сол ))))
           replies:
           - id: 36068
             parent_id: 36067
@@ -310,6 +307,10 @@ posts:
               email: ooooooo
               subject: а я-то думал....вот в чём дело!)))
               deleted: false
+              inferred_person_id: 7208
+            inferred_person_id: 13
+          inferred_person_id: 7208
+        inferred_person_id: 13
       - id: 36071
         parent_id: 36062
         date: 2009-01-23 10:31
@@ -327,6 +328,7 @@ posts:
           subject: дамы, конечно, больше всего ценят внимание...
           deleted: false
           text: но "собственно ответы" выше по ветке
+          inferred_person_id: 7208
         - id: 36075
           parent_id: 36071
           date: 2009-01-24 02:13

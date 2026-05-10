@@ -22,6 +22,7 @@ posts:
     subject: Google нам поможет
     deleted: false
     text: http://www.alligator.com/artists/bio.cfm?ArtistID=004
+    inferred_person_id: 7
   - id: 16881
     parent_id: 16873
     date: 2004-01-20 02:19

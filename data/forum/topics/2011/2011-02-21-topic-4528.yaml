@@ -11,13 +11,10 @@ posts:
   poster: Andrei V. Evdokimov
   subject: Блюз-бэнд мечты
   deleted: false
-  text: 'Jim Keltner - ударные, Dr.John - рояль, Junior Wells - гармоника, Ry Cooder - гитара, Big Jay McNeely - саксофон.
-    На авансцене: Willie Dixon, Koko Taylor, Albert King, B.B. King, Etta James, Robert Cray. Блюзовая вакханалия на Грэмми
-    1987 г.
+  text: 'Jim Keltner - ударные, Dr.John - рояль, Junior Wells - гармоника, Ry Cooder - гитара, Big Jay McNeely - саксофон. На авансцене: Willie Dixon, Koko Taylor, Albert King, B.B. King, Etta James, Robert Cray. Блюзовая вакханалия на Грэмми 1987 г.
 
 
-    <center><iframe title="YouTube video player" width="480" height="390" src="http://www.youtube.com/embed/ZQJgduLLTFQ" frameborder="0"
-    allowfullscreen></iframe></center>'
+    <center><iframe title="YouTube video player" width="480" height="390" src="http://www.youtube.com/embed/ZQJgduLLTFQ" frameborder="0" allowfullscreen></iframe></center>'
   replies:
   - id: 37334
     parent_id: 37331
@@ -38,3 +35,4 @@ posts:
         А вид у него странный потому что цветность в ролике зажата как будто это GIF в 32 цвета.'
       person_id: 13
     person_id: 335
+  inferred_person_id: 4

@@ -7,72 +7,6 @@ from generate_shared import *
 from collections import defaultdict
 
 
-def _build_artist_resource_links(slug, artist_id, src_dir, galleries_by_slug, resources_by_artist):
-    """
-    Build the resource links string for an artist by combining:
-      1. Auto-detected static sub-pages (tabs, lyrics, interview, article, photos…)
-      2. Photo galleries tagged with this artist
-      3. Manual resources from artists.yaml (non-overlapping unique links)
-    Returns HTML string with ' | ' separators.
-    """
-    auto = _scan_artist_subpages(src_dir, slug) if (src_dir and slug) else []
-    auto_types = {r['type'] for r in auto}
-
-    # Gallery Фото links
-    gallery_entries = galleries_by_slug.get(slug, [])
-    gallery_links = []
-    for g in sorted(gallery_entries, key=lambda g: g.get('date', '')):
-        title = g.get('title', '') or 'Фото'
-        url = g['url']
-        gallery_links.append({'type': 'photos', 'url': url, 'label': html_mod.escape(title)})
-
-    # Manual resources from artists.yaml — keep only unique non-overlapping ones
-    manual = resources_by_artist.get(str(artist_id), [])
-    manual_links = []
-    seen_urls = {r['url'] for r in auto} | {g['url'] for g in gallery_links}
-    for r in manual:
-        rtype = r.get('type_short', '') or ''
-        url = r.get('url', '') or ''
-        if not url or r.get('type_id') == 1:
-            continue
-        if '.aspx' in url.lower():
-            continue
-        # Fix /bluesmen/ → /artist/ prefix
-        url = re.sub(r'^https?://(?:www\.)?blues\.ru', '', url, flags=re.IGNORECASE)
-        if url.startswith('/bluesmen/') and slug:
-            rest = re.sub(r'^/bluesmen/[^/]+', '', url)
-            url = f'/artist/{slug}{rest}'
-        elif url.startswith('/artist/') and slug:
-            rest = re.sub(r'^/artist/[^/]+', '', url)
-            url = f'/artist/{slug}{rest}'
-        # Skip ATB mp3 links
-        if re.match(r'^/[Aa][Tt][Bb]/.*\.mp3$', url):
-            continue
-        # Skip self-link
-        if url.rstrip('/') == f'/artist/{slug}':
-            continue
-        # Skip anchor-only fragments and anchors on missing files
-        if '#' in url:
-            path_part = url.split('#')[0]
-            if path_part.rstrip('/') == f'/artist/{slug}':
-                continue  # anchor on the main page — usually #photo on old bios
-        # Skip if type already covered by auto-detection
-        type_map = {'Тексты': 'lyrics', 'Ноты': 'tabs', 'Интервью': 'interview',
-                    'Статья': 'article', 'Фото': 'photos', 'Пресса': 'press'}
-        if type_map.get(rtype, '') in auto_types and type_map.get(rtype):
-            continue
-        if url in seen_urls:
-            continue
-        seen_urls.add(url)
-        manual_links.append({'type': rtype, 'url': url, 'label': rtype})
-
-    all_links = auto + gallery_links + manual_links
-    if not all_links:
-        return ''
-
-    items = [f'<a href="{r["url"]}">{r["label"]}</a>' for r in all_links]
-    return ' | '.join(items)
-
 
 def generate_bluesmen():
     print("Generating bluesmen pages...")
@@ -104,6 +38,8 @@ def generate_bluesmen():
             'asin': album.get('asin', ''),
             'slug': album.get('slug', ''),
             'review_slug': review_by_album.get(str(album.get('id', '')), ''),
+            'reviews': [{'author': rv.get('author', ''), 'mark': rv.get('mark')}
+                        for rv in album.get('reviews', [])],
         }
         albums_by_artist_id.setdefault(artist_id_key, []).append(entry)
 
@@ -158,14 +94,14 @@ def generate_bluesmen():
         else:
             link_dir = ''
 
-        # Build rich resource links (auto-detected + galleries + manual)
         effective_src = src_dir if has_dir else None
-        resource_links = _build_artist_resource_links(
-            slug, artist_id, effective_src, galleries_by_slug, resources_by_artist
+        has_album_list = bool(albums_by_artist_id.get(artist_id))
+        artist_links = collect_artist_links(
+            slug, artist_id, effective_src,
+            galleries_by_slug, resources_by_artist, calendar_by_slug,
+            has_album_list=has_album_list,
         )
-        stream_html = streaming_links_html(slug, kind='artist')
-        if stream_html:
-            resource_links = (resource_links + ' | ' if resource_links else '') + stream_html
+        resource_links = format_artist_links(artist_links)
 
         row = {
             'id': artist_id,
@@ -177,6 +113,7 @@ def generate_bluesmen():
             'amg_id': a.get('amg_id', ''),
             'slug': slug,
             'secondary': False,
+            'links': artist_links,
             'resource_links': resource_links,
         }
         by_letter[letter].append(row)
@@ -219,10 +156,12 @@ def generate_bluesmen():
             atb_html = _atb_links_html(atb_by_slug.get(slug, []))
             cal_html = calendar_events_html(calendar_by_slug.get(slug, []))
             reviews_list = artist_reviews.get(artist_id, [])
+            albums_html = _build_album_list_html(slug, artist_id, albums_by_artist_id) if slug else ''
             _generate_stub_artist_page(a, reviews_list, albums,
                                        artist_atb_html=atb_html or None,
                                        artist_resource_links_html=resource_links or None,
-                                       artist_calendar_html=cal_html or None)
+                                       artist_calendar_html=cal_html or None,
+                                       artist_albums_html=albums_html or None)
             stub_count += 1
 
     # Fallback: process orphaned bio dirs

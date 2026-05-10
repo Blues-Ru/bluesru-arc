@@ -73,8 +73,11 @@ posts:
               email: gypsy@mail.ru
               subject: Не шётка, а вилка!
               deleted: false
+              inferred_person_id: 13
             person_id: 335
+          inferred_person_id: 13
         person_id: 5718
+      inferred_person_id: 13
   - id: 33708
     parent_id: 33701
     date: 2007-10-25 14:43
@@ -99,10 +102,7 @@ posts:
       email: alexshp@gmail.com
       subject: О вреде штатного проигрывателя :)
       deleted: false
-      text: "Нет, всё-таки мелкомягкие  это отстой :)\nЗарядил я в Windows media player первую из вещиц\nи получил вышеприведенную\
-        \ информацию. Вторую вещь я скачал сегодня но WMP по её поводу ничего не сказал. Предположив  что вторая вещь с этого\
-        \ же альбома полез в интернет и нашел этот диск с примерами для прослушивания:\nhttp://teemix.aufeminin.com/w/musique/t1549948-caroline-kraabel-phil-hargreaves-track-1.html\n\
-        \ Оказалось что это абсолютно другая музыка :( ....\n\nПошел доставать машинку для закатывания губ :)"
+      text: "Нет, всё-таки мелкомягкие  это отстой :)\nЗарядил я в Windows media player первую из вещиц\nи получил вышеприведенную информацию. Вторую вещь я скачал сегодня но WMP по её поводу ничего не сказал. Предположив  что вторая вещь с этого же альбома полез в интернет и нашел этот диск с примерами для прослушивания:\nhttp://teemix.aufeminin.com/w/musique/t1549948-caroline-kraabel-phil-hargreaves-track-1.html\n Оказалось что это абсолютно другая музыка :( ....\n\nПошел доставать машинку для закатывания губ :)"
       person_id: 5718
   - id: 33714
     parent_id: 33701
@@ -111,13 +111,7 @@ posts:
     email: Эльдар
     subject: Johnny be good
     deleted: false
-    text: "Справедливость-таки существует!\nВсю свою несознательную жизнь (до 19 лет) я считал что название пестни Чака Берри\
-      \ в переводе на исконно русский есть \"Джонни будь хорошим\".\nАн нет! Нашлись таки приспешники чего-то-там-такого которые\
-      \ стали утвирждать что якобы это имя паренька \"Джонни Би Гуд\". Так вот, дарагие вы маи, есть <s>такая партия</s> документик,\
-      \ потвердающий моё давнее убиждение:\n<DIV align=center><IMG align=baseline alt=\"\" border=0 hspace=0 \nsrc=\"http://beatlesvinyl.org.ua/ru/M70_49371_004R_front.jpg\"\
-      >&nbsp;<IMG \nalign=baseline alt=\"\" border=0 hspace=0 \nsrc=\"http://beatlesvinyl.org.ua/ru/M70_49371_004R_back.jpg\"\
-      ></DIV>\nТам ещё такой есть прикол:песня Битлз She Loves You (авторы Леннон-Макартни) указана как \"ДЖ. ЛЕННОН. Песня.\
-      \ Ансамбль «Битлз»\"\nP.S. Прошу прощения что здесь запостил, не хотел новую тему открывать"
+    text: "Справедливость-таки существует!\nВсю свою несознательную жизнь (до 19 лет) я считал что название пестни Чака Берри в переводе на исконно русский есть \"Джонни будь хорошим\".\nАн нет! Нашлись таки приспешники чего-то-там-такого которые стали утвирждать что якобы это имя паренька \"Джонни Би Гуд\". Так вот, дарагие вы маи, есть <s>такая партия</s> документик, потвердающий моё давнее убиждение:\n<DIV align=center><IMG align=baseline alt=\"\" border=0 hspace=0 \nsrc=\"http://beatlesvinyl.org.ua/ru/M70_49371_004R_front.jpg\">&nbsp;<IMG \nalign=baseline alt=\"\" border=0 hspace=0 \nsrc=\"http://beatlesvinyl.org.ua/ru/M70_49371_004R_back.jpg\"></DIV>\nТам ещё такой есть прикол:песня Битлз She Loves You (авторы Леннон-Макартни) указана как \"ДЖ. ЛЕННОН. Песня. Ансамбль «Битлз»\"\nP.S. Прошу прощения что здесь запостил, не хотел новую тему открывать"
     replies:
     - id: 33715
       parent_id: 33714
@@ -126,9 +120,7 @@ posts:
       email: Эльдар
       subject: 'Точнее так:'
       deleted: false
-      text: "<DIV align=center><IMG alt=\"\" hspace=0 \nsrc=\"http://beatlesvinyl.org.ua/ru/M70_49371_004R_front.jpg\" \n\
-        align=baseline border=0>&nbsp;<IMG alt=\"\" hspace=0 \nsrc=\"http://beatlesvinyl.org.ua/ru/M70_49371_004R_back.jpg\"\
-        \ \nalign=baseline border=0></DIV>"
+      text: "<DIV align=center><IMG alt=\"\" hspace=0 \nsrc=\"http://beatlesvinyl.org.ua/ru/M70_49371_004R_front.jpg\" \nalign=baseline border=0>&nbsp;<IMG alt=\"\" hspace=0 \nsrc=\"http://beatlesvinyl.org.ua/ru/M70_49371_004R_back.jpg\" \nalign=baseline border=0></DIV>"
       replies:
       - id: 33716
         parent_id: 33715
@@ -161,9 +153,12 @@ posts:
             email: jokerthk@yandex.ru
             subject: :)
             deleted: false
-            text: А у меня есть грамофонная пластинка Рэя Чарльза, в которой есть треки "Gorgia on my mind" и "Иди, Джак"
-              (орфография сохранена) :))))
+            text: А у меня есть грамофонная пластинка Рэя Чарльза, в которой есть треки "Gorgia on my mind" и "Иди, Джак" (орфография сохранена) :))))
             person_id: 4319
+          inferred_person_id: 7202
+        inferred_person_id: 7202
+      inferred_person_id: 7202
+    inferred_person_id: 7202
   - id: 33776
     parent_id: 33701
     date: 2007-10-31 14:35

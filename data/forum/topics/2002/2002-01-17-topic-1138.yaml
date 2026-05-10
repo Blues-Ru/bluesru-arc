@@ -12,8 +12,7 @@ posts:
   email: visnet@mail.ru
   subject: The Jazz Guitarist
   deleted: false
-  text: "В Инете давно уже ходит демо-версия программки под названием\nJazz Guitarist.\nМожет кто знает где разобыть её полную\
-    \ версию???\nУж очень она мне понравилась:))\n \nзаранее thanks"
+  text: "В Инете давно уже ходит демо-версия программки под названием\nJazz Guitarist.\nМожет кто знает где разобыть её полную версию???\nУж очень она мне понравилась:))\n \nзаранее thanks"
   replies:
   - id: 222
     parent_id: 221
@@ -69,6 +68,7 @@ posts:
             text: скачать её демку можно на http://www.guitar.ru/files/soft/jazzgutr.zip
         person_id: 26
       person_id: 2
+    inferred_person_id: 335
   - id: 231
     parent_id: 221
     date: 2002-01-19 05:14

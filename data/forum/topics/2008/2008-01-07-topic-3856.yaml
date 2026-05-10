@@ -12,6 +12,5 @@ posts:
   email: jyfuj@jkhgf.ru
   subject: Алексей! Уважаемый Алексей!
   deleted: false
-  text: <object width="425" height="355"><param name="movie" value="http://www.youtube.com/v/KpHRhaejNe0&rel=1"></param><param
-    name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/KpHRhaejNe0&rel=1"
-    type="application/x-shockwave-flash" wmode="transparent" width="425" height="355"></embed></object>
+  text: <object width="425" height="355"><param name="movie" value="http://www.youtube.com/v/KpHRhaejNe0&rel=1"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/KpHRhaejNe0&rel=1" type="application/x-shockwave-flash" wmode="transparent" width="425" height="355"></embed></object>
+  inferred_person_id: 7206

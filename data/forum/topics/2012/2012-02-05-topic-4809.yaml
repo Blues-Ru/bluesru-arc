@@ -11,15 +11,13 @@ posts:
   poster: Andrei V. Evdokimov
   subject: IBC WINNERS
   deleted: false
-  text: 'Среди солистов и дуэтов первое место занял Ray Bonneville... на http://www.youtube.com/results?search_query=Ray+Bonneville&oq=Ray+Bonneville&aq=f&aqi=g4&aql=&gs_sm=s&gs_upl=1037168l1037168l0l1040371l1l1l0l0l0l0l154l154l0.1l1l0
-    - его предостаточно, все как минимум любопытно (ну а мне так очень по душе).
+  text: 'Среди солистов и дуэтов первое место занял Ray Bonneville... на http://www.youtube.com/results?search_query=Ray+Bonneville&oq=Ray+Bonneville&aq=f&aqi=g4&aql=&gs_sm=s&gs_upl=1037168l1037168l0l1040371l1l1l0l0l0l0l154l154l0.1l1l0 - его предостаточно, все как минимум любопытно (ну а мне так очень по душе).
 
 
     Для примера:
 
 
-    <iframe width="560" height="315" src="http://www.youtube.com/embed/Xu9EkMpMbM4"
-    frameborder="0" allowfullscreen></iframe>'
+    <iframe width="560" height="315" src="http://www.youtube.com/embed/Xu9EkMpMbM4" frameborder="0" allowfullscreen></iframe>'
   replies:
   - id: 38224
     parent_id: 38216
@@ -32,3 +30,4 @@ posts:
       Рэй - замечателен.
 
       Это такой неблюз, который куда сильнее и искреннее иного "блюза".'
+  inferred_person_id: 4

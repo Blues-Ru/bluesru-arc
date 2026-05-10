@@ -44,6 +44,7 @@ posts:
       text: 'рекламное агентство http://www.promedia.ru/
 
         Видимо киберсквоттинг самый обычный.'
+      inferred_person_id: 2803
     person_id: 335
   - id: 25287
     parent_id: 25283
@@ -79,6 +80,7 @@ posts:
       paid-till:  2006.11.29
 
       source:     TC-RIPN'
+    inferred_person_id: 2803
   - id: 25289
     parent_id: 25283
     date: 2005-12-28 18:26
@@ -98,6 +100,7 @@ posts:
       subject: смысла уже нет.. этож был 2003ий год :)
       deleted: false
       person_id: 5
+    inferred_person_id: 2803
   - id: 25336
     parent_id: 25283
     date: 2006-01-05 23:48

@@ -33,6 +33,7 @@ posts:
       subject: Thank ya, Doc,
       deleted: false
       text: Прийду, как всегда, уже в предвкушении :))) Народ приведу))))
+    inferred_person_id: 458
   - id: 12489
     parent_id: 12483
     date: 2003-05-16 08:30

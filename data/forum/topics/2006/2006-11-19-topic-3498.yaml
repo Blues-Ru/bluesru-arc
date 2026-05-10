@@ -35,6 +35,7 @@ posts:
     subject: Желаем здравствовать и процветать!
     deleted: false
     text: (цветы, народные гуляния, салют...)
+    inferred_person_id: 7202
   - id: 29399
     parent_id: 29396
     date: 2006-11-19 12:41
@@ -45,6 +46,7 @@ posts:
     text: 'а вечером салют из всех орудий!!!
 
       С ДР Андрей !!!'
+    inferred_person_id: 204
   - id: 29400
     parent_id: 29396
     date: 2006-11-19 14:43
@@ -89,6 +91,7 @@ posts:
     email: kaverkin@rol.ru
     subject: Happy Birthday!!!!
     deleted: false
+    inferred_person_id: 1719
   - id: 29409
     parent_id: 29396
     date: 2006-11-21 09:49
@@ -135,6 +138,7 @@ posts:
     subject: ПОЗДРАВЛЯЮ с прошедшим!
     deleted: false
     text: Всего самого наилчушего, Андрей! :)
+    inferred_person_id: 4319
   - id: 29417
     parent_id: 29396
     date: 2006-11-22 13:43
@@ -142,3 +146,5 @@ posts:
     email: gypsy@mail.ru
     subject: Спасибо, друзья!
     deleted: false
+    inferred_person_id: 13
+  inferred_person_id: 7465

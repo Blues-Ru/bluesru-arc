@@ -8,11 +8,17 @@ Outputs to site/data/:
 
 import json
 import re
+import sys
 import yaml
 from pathlib import Path
 from datetime import datetime
 
 import os
+_scripts = Path(__file__).resolve().parent
+if str(_scripts) not in sys.path:
+    sys.path.insert(0, str(_scripts))
+from generate_shared import fix_all_caps_name, process_calendar_text
+
 ARC = Path(__file__).resolve().parent.parent
 _site_default = str(ARC / 'bluesru-site') if os.environ.get('CF_PAGES') else str(ARC.parent / 'bluesru-site')
 DATA = ARC / "data"
@@ -59,13 +65,20 @@ def generate_calendar():
             if not month_day or len(month_day) != 5:
                 continue
             picture = ev.get('picture') or ''
+            slug = ev.get('artist_slug', '') or ''
+            title = ev.get('title', '') or ''
+            text = ev.get('text', '') or ''
+            display_title = fix_all_caps_name(title) if title else title
+            if slug:
+                text = process_calendar_text(text, slug, title)
             event = {
                 "id": ev.get('id', ''),
-                "title": ev.get('title', ''),
+                "title": display_title,
                 "year": str(ev.get('year', '')),
                 "picture": picture,
                 "type": ev.get('event_type', ''),
-                "text": ev.get('text', ''),
+                "text": text,
+                "slug": slug,
             }
             by_day.setdefault(month_day, []).append(event)
     elif events_dir.exists():

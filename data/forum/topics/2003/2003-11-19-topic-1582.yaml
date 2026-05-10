@@ -60,6 +60,7 @@ posts:
     email: kaverkin@rol.ru
     subject: Хаппи БёрдзДей Ту Ю!
     deleted: false
+    inferred_person_id: 1719
   - id: 15655
     parent_id: 15599
     date: 2003-11-20 03:55
@@ -71,6 +72,7 @@ posts:
 
 
       Андрей, здоровья, счастья и всего всего...'
+    inferred_person_id: 783
   - id: 15704
     parent_id: 15599
     date: 2003-11-20 21:00
@@ -83,6 +85,7 @@ posts:
       Надеюсь когда-нить услышать Старого Майора живьем, а не тока встречаться на Форуме!
 
       Долгих лет, хорошей музыки, здоровья и всех благ!'
+    inferred_person_id: 698
   - id: 15740
     parent_id: 15599
     date: 2003-11-21 12:33
@@ -92,3 +95,4 @@ posts:
     deleted: false
     text: присоединяюсь. АНдрюш, с днём варенья тебя и всего-всего-всего! :)
     person_id: 712
+  inferred_person_id: 458

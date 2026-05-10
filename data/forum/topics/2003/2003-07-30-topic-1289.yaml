@@ -64,4 +64,6 @@ posts:
         deleted: false
         text: Хороший сайт, на благо людям. Спасибо!
         person_id: 6
+      inferred_person_id: 335
     person_id: 4
+  inferred_person_id: 335

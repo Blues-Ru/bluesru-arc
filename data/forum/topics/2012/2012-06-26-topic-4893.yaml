@@ -19,8 +19,7 @@ posts:
     poster: Старый Майор
     subject: Хорошее радио, проверено.
     deleted: false
-    text: Хотя каналы Blues и Old Blues на вид не сильно отличаются друг от друга по древности предлагаемого материала. Например,
-      на Blues - Otis Spann, на Old Blues в то же время - Sonny Boy Williamson II.
+    text: Хотя каналы Blues и Old Blues на вид не сильно отличаются друг от друга по древности предлагаемого материала. Например, на Blues - Otis Spann, на Old Blues в то же время - Sonny Boy Williamson II.
     person_id: 13
   - id: 38464
     parent_id: 38453
@@ -32,4 +31,5 @@ posts:
 
 
       http://www.hotg.org'
+    inferred_person_id: 2
   person_id: 8354

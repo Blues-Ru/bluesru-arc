@@ -34,6 +34,7 @@ posts:
       email: elicaster(@))mmmmmmmmmail.ru
       subject: О! Спасибо!
       deleted: false
+    inferred_person_id: 3588
   - id: 22170
     parent_id: 22141
     date: 2005-08-01 23:14

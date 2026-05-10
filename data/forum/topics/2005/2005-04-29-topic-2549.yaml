@@ -35,3 +35,4 @@ posts:
       deleted: false
       text: может будет еще кое что.. но это все решится позже :)
       person_id: 5
+  inferred_person_id: 5

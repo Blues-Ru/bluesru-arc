@@ -12,8 +12,7 @@ posts:
   email: murena-999@mail.ru
   subject: Micael Katon !!!
   deleted: false
-  text: Micael Katon !!! Где скачать???!!!!!!!!!! Не могу найти инфу!! Спасайте!!!
-    SOS!!!!!!
+  text: Micael Katon !!! Где скачать???!!!!!!!!!! Не могу найти инфу!! Спасайте!!! SOS!!!!!!
   replies:
   - id: 34224
     parent_id: 34223
@@ -24,8 +23,7 @@ posts:
     deleted: false
     text: 'Все чёрствые, никто иначе не чуЙствует!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
-      Dear Cat (or Kat), keep keys pressed loonnnnnnngggggeeeeeerrrrrrrrr, & I''ll
-      hope hhhhhhhhhheeeeeeeeeeellllllllllllllllppppppppppppp will come soooooooooooonnnnnnnneeeeeeeeeeerrrrrrrrr::::::)))))))))))))))))
+      Dear Cat (or Kat), keep keys pressed loonnnnnnngggggeeeeeerrrrrrrrr, & I''ll hope hhhhhhhhhheeeeeeeeeeellllllllllllllllppppppppppppp will come soooooooooooonnnnnnnneeeeeeeeeeerrrrrrrrr::::::)))))))))))))))))
 
       BRGDS, AS'
   - id: 34225
@@ -35,22 +33,7 @@ posts:
     email: Эльдар
     subject: MICHAEL KATON - Live & On The Prowl!
     deleted: false
-    text: "http://ifolder.ru/4790224\nhttp://ifolder.ru/4790249\n\nYEAR: 2007\nSTYLE:\
-      \ HEAVY ROCK'N'ROLL / HARD BOOGIE / BLUES ROCK\nCOUNTRY: USA\nFORMAT: mp3@320\
-      \ kbit/s, LAME 3.93, Stereo + 3%\nSIZE: 158 Mb\nLoud, Raw, Guitar-powered Detroit\
-      \ Rock'n'Roll.\nКонцертная пластинка неистового американского блюз-рокера из\
-      \ местечка Hell Майкла Кэйтона, записанная в ходе европейского тура 2006 года,\
-      \ как никакая раскрывает все грани таланта музыканта. В компании преданных барабанщика\
-      \ и басиста, он выдает дюжину мощнейших боевиков, всего лучшего, тщательно отобранного\
-      \ им из своего богатого наследия. Эта концертная запись показывает зрителю пылкого\
-      \ и страстного исполнителя, который на 100% отдается на сцене своему любимому\
-      \ делу.\n\nСостав: \nMichael Katon : Vocals, Guitar\nJohnny ‘Bee’ Badanjek :\
-      \ Drums\n‘Sid’ Cox : Bass, Backing Vocals\nRichard Snel: Master Of Ceremonies\n\
-      \nСписок треков: \n1 Guitar For My Friend *\n2. Yeah... But We Can Boogie/Come\
-      \ On Back To Hell \n3. American McMofo \n4. Red Moon Risin' \n5. Back To Your\
-      \ Cages \n6. On The Prowl (For a Hoochie MaMa) \n7. Bad Machine \n8. Luv A Dawg\
-      \ \n9. Whiskey Hill \n10. Rock'n'Roll Man \n11. Motorcycle Blues \n12. Love\
-      \ Hoo Doo\n* Previously unreleased"
+    text: "http://ifolder.ru/4790224\nhttp://ifolder.ru/4790249\n\nYEAR: 2007\nSTYLE: HEAVY ROCK'N'ROLL / HARD BOOGIE / BLUES ROCK\nCOUNTRY: USA\nFORMAT: mp3@320 kbit/s, LAME 3.93, Stereo + 3%\nSIZE: 158 Mb\nLoud, Raw, Guitar-powered Detroit Rock'n'Roll.\nКонцертная пластинка неистового американского блюз-рокера из местечка Hell Майкла Кэйтона, записанная в ходе европейского тура 2006 года, как никакая раскрывает все грани таланта музыканта. В компании преданных барабанщика и басиста, он выдает дюжину мощнейших боевиков, всего лучшего, тщательно отобранного им из своего богатого наследия. Эта концертная запись показывает зрителю пылкого и страстного исполнителя, который на 100% отдается на сцене своему любимому делу.\n\nСостав: \nMichael Katon : Vocals, Guitar\nJohnny ‘Bee’ Badanjek : Drums\n‘Sid’ Cox : Bass, Backing Vocals\nRichard Snel: Master Of Ceremonies\n\nСписок треков: \n1 Guitar For My Friend *\n2. Yeah... But We Can Boogie/Come On Back To Hell \n3. American McMofo \n4. Red Moon Risin' \n5. Back To Your Cages \n6. On The Prowl (For a Hoochie MaMa) \n7. Bad Machine \n8. Luv A Dawg \n9. Whiskey Hill \n10. Rock'n'Roll Man \n11. Motorcycle Blues \n12. Love Hoo Doo\n* Previously unreleased"
     replies:
     - id: 34226
       parent_id: 34225
@@ -79,6 +62,8 @@ posts:
           Я постараюсь выяснить это, но на всякий случай заглядывай сюда:
 
           http://blues-power.nnm.ru/michael_katon_live_on_the_prowl'
+        inferred_person_id: 7202
+    inferred_person_id: 7202
   - id: 34227
     parent_id: 34223
     date: 2008-01-05 10:21
@@ -89,6 +74,7 @@ posts:
     text: 'пароль:
 
       Blues Power'
+    inferred_person_id: 7202
   - id: 34263
     parent_id: 34223
     date: 2008-01-09 11:55
@@ -99,6 +85,7 @@ posts:
     text: 'part 1 - Blues Power
 
       part 2 - BP'
+    inferred_person_id: 7202
   - id: 34269
     parent_id: 34223
     date: 2008-01-09 20:50
@@ -106,3 +93,4 @@ posts:
     email: gypsy@mail.ru
     subject: Не может быть!!! Это таки праправнук великого Марка Порция Катона младшего???
     deleted: false
+    inferred_person_id: 13

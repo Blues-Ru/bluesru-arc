@@ -12,8 +12,7 @@ posts:
   email: elicaster co6@ka мейл-d0t ru
   subject: Gangster Of Love в рекламе
   deleted: false
-  text: Сейчас по ящику крутят рекламу дезоторанта Axe Click (ролик с участием Беном Аффлеком). Звучит, кажется, Johnny "Guitar"
-    Watson - Gangster Of Love. Не ошибаюсь ли я? Так ли это?
+  text: Сейчас по ящику крутят рекламу дезоторанта Axe Click (ролик с участием Беном Аффлеком). Звучит, кажется, Johnny "Guitar" Watson - Gangster Of Love. Не ошибаюсь ли я? Так ли это?
   replies:
   - id: 27367
     parent_id: 27361
@@ -41,3 +40,4 @@ posts:
       deleted: false
       text: никогда не включать ТВ
       person_id: 335
+    inferred_person_id: 13

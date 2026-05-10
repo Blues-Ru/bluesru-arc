@@ -27,6 +27,7 @@ posts:
     subject: сукачев небыл хедлайнером
     deleted: false
     text: смотрите программу.
+    inferred_person_id: 7206
   - id: 22219
     parent_id: 22217
     date: 2005-08-03 19:08
@@ -52,4 +53,5 @@ posts:
       subject: Гаити, Гаити.. нас и тут неплохо кормят...
       deleted: false
       text: Я мечтаю поглядеть, как Евдокимов берёт у Билана интервью.
+      inferred_person_id: 13
     person_id: 4

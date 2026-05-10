@@ -18,8 +18,7 @@ posts:
 
     Hvorostov Sergey V.
 
-    поясняю: чтобы получить два билета, вам достаточно написать мне еще раз. в теме
-    письма обязательно укажите Chris Duart'
+    поясняю: чтобы получить два билета, вам достаточно написать мне еще раз. в теме письма обязательно укажите Chris Duart'
   replies:
   - id: 34340
     parent_id: 34331
@@ -37,3 +36,5 @@ posts:
       2.Hvorostov Sergey V. (2 билета)
 
       3.Sergei L.'
+    inferred_person_id: 4
+  inferred_person_id: 4

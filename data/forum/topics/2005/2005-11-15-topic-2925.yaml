@@ -41,6 +41,7 @@ posts:
     subject: ПРИСОЕДИНЯЮСЬ!!!
     deleted: false
     text: И как говорится, чтоб всегда сверху Diamond Rain!!! $)))
+    inferred_person_id: 4319
   - id: 24527
     parent_id: 24496
     date: 2005-11-15 23:47
@@ -49,3 +50,4 @@ posts:
     subject: ДР
     deleted: false
     text: Присоединяюсь! Серёга, жги ещё столько же)
+  inferred_person_id: 3588

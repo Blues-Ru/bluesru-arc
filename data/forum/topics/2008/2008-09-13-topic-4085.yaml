@@ -53,7 +53,9 @@ posts:
         subject: Господи!!!
         deleted: false
         text: Почему его то?
+        inferred_person_id: 7206
       person_id: 2824
+    inferred_person_id: 7206
   - id: 35778
     parent_id: 35768
     date: 2008-09-14 20:13

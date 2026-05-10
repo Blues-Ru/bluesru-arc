@@ -12,11 +12,7 @@ posts:
   email: matfatima3@yandex.ru
   subject: group "The Aftermath"
   deleted: false
-  text: "Здраствуйте все!\nМне доставляет огромное удовольствие находиться здесь со всеми вами - людьми, которые разбираются\
-    \ в настоящей музыке.\nУ меня тоже есть группа и недавно мы записали наш альбом, состоящий только из наших песен. Все\
-    \ песни разных стили: Rythm'N'Blues, Country, Blues, Rock. Сейчас мы занимаемся обложкой альбома.\nНедавно открылся наш\
-    \ сайт: http://www.theaftermath.narod.ru\nДумаю, вам может понравится.   \n\nПишите\n\nI LIVE A LIFE OF LOVE AND I LOVE\
-    \ A LIFE OF LIVE!!!"
+  text: "Здраствуйте все!\nМне доставляет огромное удовольствие находиться здесь со всеми вами - людьми, которые разбираются в настоящей музыке.\nУ меня тоже есть группа и недавно мы записали наш альбом, состоящий только из наших песен. Все песни разных стили: Rythm'N'Blues, Country, Blues, Rock. Сейчас мы занимаемся обложкой альбома.\nНедавно открылся наш сайт: http://www.theaftermath.narod.ru\nДумаю, вам может понравится.   \n\nПишите\n\nI LIVE A LIFE OF LOVE AND I LOVE A LIFE OF LIVE!!!"
   replies:
   - id: 21503
     parent_id: 21502
@@ -39,8 +35,7 @@ posts:
       deleted: false
       text: 'Мир вам, Братья!
 
-        Дима! Я гоняю! Конечно же "RHYTHM''N''BLUES" пишется через "H". Не знаю, как я могла ее пропустить. Я то думала, ты
-        имеешь в виду писать "&" вместо "N". Только сейчас заметила, что у меня нет "H".'
+        Дима! Я гоняю! Конечно же "RHYTHM''N''BLUES" пишется через "H". Не знаю, как я могла ее пропустить. Я то думала, ты имеешь в виду писать "&" вместо "N". Только сейчас заметила, что у меня нет "H".'
       replies:
       - id: 21517
         parent_id: 21516
@@ -50,6 +45,7 @@ posts:
         subject: Rhythm'N'Blues!!!!!!!!!!!!!!
         deleted: false
         text: Rhythm'N'Blues!!!!!!!!!!!!!!
+    inferred_person_id: 335
   - id: 21504
     parent_id: 21502
     date: 2005-05-19 14:33
@@ -59,8 +55,7 @@ posts:
     deleted: false
     text: 'Написание Rythm''N''Blues не является неправильным и равносильно написанию Rythm & Blues.
 
-      А насчет I LIVE A LIFE OF LOVE AND I LOVE A LIFE OF LIVE!!! не спорю, может я и ошибаюсь. Но так звучит ничуть не хуже,
-      не правда ли?'
+      А насчет I LIVE A LIFE OF LOVE AND I LOVE A LIFE OF LIVE!!! не спорю, может я и ошибаюсь. Но так звучит ничуть не хуже, не правда ли?'
     replies:
     - id: 21505
       parent_id: 21504
@@ -87,8 +82,8 @@ posts:
       email: mlives_6@hotmail.com
       subject: Rhythm N' Blues
       deleted: false
-      text: "Нет, \"Rythm\" является всегда неправильным, хотя эта ошибка часто допускается.  \n\n\"I live a life of love\"\
-        \ - Вот это неплохо!  :)\n\nMuddy"
+      text: "Нет, \"Rythm\" является всегда неправильным, хотя эта ошибка часто допускается.  \n\n\"I live a life of love\" - Вот это неплохо!  :)\n\nMuddy"
+      inferred_person_id: 7465
     - id: 21508
       parent_id: 21504
       date: 2005-05-19 18:53

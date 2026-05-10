@@ -12,8 +12,7 @@ posts:
   email: soulman@bk.ru
   subject: Куда ж мы катимся?!
   deleted: false
-  text: "На сайте bluesnews.ru \nhttp://www.bluesnews.ru/news/?id=3290\n\nChaka Khan позорно названа ПЕВЦОМ. Ё-моё! и это\
-    \ на блюзовом сайте!!!"
+  text: "На сайте bluesnews.ru \nhttp://www.bluesnews.ru/news/?id=3290\n\nChaka Khan позорно названа ПЕВЦОМ. Ё-моё! и это на блюзовом сайте!!!"
   replies:
   - id: 33310
     parent_id: 33309
@@ -62,3 +61,4 @@ posts:
 
 
         он настоящий блюзман!'
+    inferred_person_id: 13

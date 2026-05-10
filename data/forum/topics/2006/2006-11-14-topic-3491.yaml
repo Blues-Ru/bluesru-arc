@@ -107,6 +107,7 @@ posts:
                         А было это в Ашане Мытищи, что на Осташковском шоссе.. и Мишуриса там было много. ;)
 
                         Кстати, очень рекомендую. Хорошая музыка, хоть и совсем-совсем мягко скажем ОКОЛОблюзовая. :))))'
+                      inferred_person_id: 4319
                     person_id: 335
                   person_id: 4764
                 person_id: 335
@@ -114,6 +115,7 @@ posts:
             person_id: 335
           person_id: 4764
         person_id: 2824
+      inferred_person_id: 4384
     person_id: 956
   - id: 29386
     parent_id: 29364
@@ -132,3 +134,4 @@ posts:
     deleted: false
     text: Хорошая такая поп-музыка. И музыканты классно играют.
     person_id: 2888
+  inferred_person_id: 4319

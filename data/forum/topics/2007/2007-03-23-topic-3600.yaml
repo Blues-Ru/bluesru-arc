@@ -12,25 +12,19 @@ posts:
   email: е@gh.tn
   subject: The Rolling Stones снова едет в Россию!
   deleted: false
-  text: '<a href="http://www.dp.ru/msk/news/concert/2007/03/23/209710/">К нам едёт
-    The Rolling Stones</a>
+  text: '<a href="http://www.dp.ru/msk/news/concert/2007/03/23/209710/">К нам едёт The Rolling Stones</a>
 
     The Rolling Stones доедет, наконец, до России
 
     11:01; 23 марта 2007; Просмотров: 125
 
-    Английская группа Rolling Stones 13 июня выступит с единственным концертом в России.
-    Музыкой живой легенды смогут насладиться петербуржцы – ну, и гости северной столицы.
+    Английская группа Rolling Stones 13 июня выступит с единственным концертом в России. Музыкой живой легенды смогут насладиться петербуржцы – ну, и гости северной столицы.
 
-    Концерт The Rolling Stones должен был состояться в Петербурге еще летом 2006 года
-    в рамках мирового турне A Bigger Bang. Но в апреле гитариста группы Кита Ричардса,
-    отдыхавшего на островах Фиджи, угораздило упасть и получить травму головы.
+    Концерт The Rolling Stones должен был состояться в Петербурге еще летом 2006 года в рамках мирового турне A Bigger Bang. Но в апреле гитариста группы Кита Ричардса, отдыхавшего на островах Фиджи, угораздило упасть и получить травму головы.
 
-    В итоге первые 15 концертов европейской части тура группы, в том числе и петербургский,
-    были отменены и перенесены на более поздние сроки.
+    В итоге первые 15 концертов европейской части тура группы, в том числе и петербургский, были отменены и перенесены на более поздние сроки.
 
-    Стоимость билетов пока неизвестна. Летом 2006 года она составляла от 1650 рублей
-    до 390 евро.
+    Стоимость билетов пока неизвестна. Летом 2006 года она составляла от 1650 рублей до 390 евро.
 
     dp.ru , Лаура Магомедова
 
@@ -46,6 +40,7 @@ posts:
     subject: не 16ого а 28.. не июня, а июля :)
     deleted: false
     text: 16 июня должно было быть в прошлом году :)
+    inferred_person_id: 7870
   - id: 31867
     parent_id: 31863
     date: 2007-03-23 14:34
@@ -53,10 +48,8 @@ posts:
     email: volodya@blues.ru
     subject: собсвтенно вот
     deleted: false
-    text: "Wed 07/25/07 Kiev, RUS Olympic Stadium \nSat 07/28/07 Saint Petersburg,\
-      \ RUS Palace Square \nWed 08/01/07 Helsinki, FIN Olympic Stadium \nFri 08/03/07\
-      \ Goteborg, SWE Ullevi Stadium \nSun 08/05/07 Copenhagen, DEN Parken Stadium\
-      \ \nWed 08/08/07 Oslo, NOR Vallehovin Stadium"
+    text: "Wed 07/25/07 Kiev, RUS Olympic Stadium \nSat 07/28/07 Saint Petersburg, RUS Palace Square \nWed 08/01/07 Helsinki, FIN Olympic Stadium \nFri 08/03/07 Goteborg, SWE Ullevi Stadium \nSun 08/05/07 Copenhagen, DEN Parken Stadium \nWed 08/08/07 Oslo, NOR Vallehovin Stadium"
+    inferred_person_id: 7870
   - id: 31989
     parent_id: 31863
     date: 2007-03-30 17:59
@@ -64,11 +57,10 @@ posts:
     email: е@gh.tn
     subject: Rolling Stones даст концерт на Украине
     deleted: false
-    text: 'Собственно Володя Русинов уже писал здесь что RS выступят на Украине...
-      Просто ссылка на статью:
+    text: 'Собственно Володя Русинов уже писал здесь что RS выступят на Украине... Просто ссылка на статью:
 
-      <a href="http://www.korrespondent.net/main/183767">Мик Джаггер встретит свой
-      64-й день рождения в Киеве</a>'
+      <a href="http://www.korrespondent.net/main/183767">Мик Джаггер встретит свой 64-й день рождения в Киеве</a>'
+    inferred_person_id: 7202
   - id: 32079
     parent_id: 31863
     date: 2007-04-03 14:46
@@ -88,3 +80,5 @@ posts:
       text: 'http://www.vai.com/News/tourdates.html
 
         и ещё Металлика и Аэросмит будут этим летом.'
+      inferred_person_id: 7202
+  inferred_person_id: 7202

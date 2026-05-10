@@ -46,6 +46,7 @@ posts:
     email: axledog@mail.ru
     subject: '"блюз разбитых надежд" на первом месте - это не спроста'
     deleted: false
+    inferred_person_id: 7206
   - id: 25166
     parent_id: 25151
     date: 2005-12-20 16:09
@@ -53,3 +54,4 @@ posts:
     email: gypsy@mail.ru
     subject: Мдя.. а инде там блюз-то? Это гаримур какой-то..
     deleted: false
+    inferred_person_id: 13

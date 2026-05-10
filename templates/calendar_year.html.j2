@@ -22,7 +22,7 @@ body { max-width: 900px; margin: 0 auto; padding: 0 1em; }
 
 <a href="/"><img src="/images/bluesru-logo.svg" width="120" height="120" border="0" alt="Blues.Ru" style="float:right"></a>
 
-<h3><a href="/">Blues.Ru</a> &gt; <a href="/calendar/">Календарь</a> &gt; {{ year }} год</h3>
+<h3><a href="/">Blues.Ru</a> &gt; <a href="/calendar/">Календарь</a> &gt; {{ year }} год{{ years_ago_str }}</h3>
 <p>{{ year_nav | safe }}</p>
 
 <table class="cal-table">
@@ -30,11 +30,10 @@ body { max-width: 900px; margin: 0 auto; padding: 0 1em; }
 <tr>
   <td class="cal-meta">
     {{ ev.day_month }}
-    {% if ev.event_type == 'born' %}<span class="cal-etype"> род.</span>{% elif ev.event_type == 'died' %}<span class="cal-etype"> ум.</span>{% endif %}
   </td>
   <td>
     {%- if ev.picture %}<img src="/calendar/images/{{ ev.picture }}" border="0" align="right" vspace="4" hspace="8" style="max-width:160px;max-height:110px;">{% endif %}
-    {% if ev.title %}<span class="cal-title">{% if ev.artist_slug %}<a href="/artist/{{ ev.artist_slug }}/">{{ ev.title }}</a>{% else %}{{ ev.title }}{% endif %}</span> — {% endif %}{{ ev.text | safe }}
+    {{ ev.text | safe }}
     {%- if ev.picture %}<br clear="both">{% endif %}
   </td>
 </tr>

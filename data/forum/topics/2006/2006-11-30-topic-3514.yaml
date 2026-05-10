@@ -14,8 +14,7 @@ posts:
   deleted: false
   text: 'Cause We''ve Ended As Lovers.
 
-    Так вот, слышал я где-то, что не его это творение, а сочинил её некто Стиви Вандер=), так вот нет ли у кого сей записи
-    в мп3? Был бы весьма признателен за обнаружение этого чуда =)'
+    Так вот, слышал я где-то, что не его это творение, а сочинил её некто Стиви Вандер=), так вот нет ли у кого сей записи в мп3? Был бы весьма признателен за обнаружение этого чуда =)'
   replies:
   - id: 29490
     parent_id: 29487
@@ -70,6 +69,8 @@ posts:
 
 
               он работал у нее на альбомах, она у него'
+            inferred_person_id: 335
+          inferred_person_id: 7202
         person_id: 335
     person_id: 335
   - id: 29540
@@ -95,6 +96,7 @@ posts:
         её даже Клаптон играл.
 
         А что, у этой вещи есть ещё и версия со словами???'
+      inferred_person_id: 7202
     - id: 29559
       parent_id: 29540
       date: 2006-12-04 16:24
@@ -113,8 +115,7 @@ posts:
         email: еlicaster мeйлтoчкapy
         subject: Я имею в виду
         deleted: false
-        text: Я имею в виду инструментальную балладу в которой гитара, типа, подвывает. ну, так я описал  такую гитару - заунывная.
-          хотя и, честно говоря, мне эта композиция совсем не нравится - пессимизм это не <s>наш</s> мой метод :-)
+        text: Я имею в виду инструментальную балладу в которой гитара, типа, подвывает. ну, так я описал  такую гитару - заунывная. хотя и, честно говоря, мне эта композиция совсем не нравится - пессимизм это не <s>наш</s> мой метод :-)
         replies:
         - id: 29572
           parent_id: 29568
@@ -124,6 +125,7 @@ posts:
           subject: Мне очень нравятся дуэты..
           deleted: false
           text: "Карлос Сантана, Джефф Бек. Песня \"Мы больше не любовники\". \nИсполняется впервые )))"
+          inferred_person_id: 13
         - id: 39464
           parent_id: 29568
           date: 2017-05-18 14:35
@@ -138,16 +140,12 @@ posts:
             https://en.wikipedia.org/wiki/Syreeta_Wright
 
 
-            Syreeta Wright (August 3, 1946 – July 6, 2004), who recorded professionally under the single name Syreeta, was
-            an American singer-songwriter, best known for her work with her ex-husband Stevie Wonder and musical artist Billy
-            Preston.
+            Syreeta Wright (August 3, 1946 – July 6, 2004), who recorded professionally under the single name Syreeta, was an American singer-songwriter, best known for her work with her ex-husband Stevie Wonder and musical artist Billy Preston.
 
 
-            Wright was married three times. Her first marriage, to longtime collaborator Stevie Wonder, lasted 18 months,
-            from 1970 to 1972, while a marriage to bassist Curtis Robertson Jr. was also short-lived. Wright briefly lived
-            in Ethiopia in the mid-1970s, where she worked as a Transcendental Meditation teacher. She eventually settled
-            in Los Angeles, where she lived for the rest of her life.[citation needed] Born and raised a Baptist, she converted
-            to Islam following her third marriage.
+            Wright was married three times. Her first marriage, to longtime collaborator Stevie Wonder, lasted 18 months, from 1970 to 1972, while a marriage to bassist Curtis Robertson Jr. was also short-lived. Wright briefly lived in Ethiopia in the mid-1970s, where she worked as a Transcendental Meditation teacher. She eventually settled in Los Angeles, where she lived for the rest of her life.[citation needed] Born and raised a Baptist, she converted to Islam following her third marriage.
 
-            Wright died in 2004 of congestive heart failure, a side effect of chemotherapy and radiation treatments she was
-            receiving for breast and bone cancer. She was buried in Inglewood Park Cemetery.'
+            Wright died in 2004 of congestive heart failure, a side effect of chemotherapy and radiation treatments she was receiving for breast and bone cancer. She was buried in Inglewood Park Cemetery.'
+          inferred_person_id: 7202
+        inferred_person_id: 7202
+    inferred_person_id: 7202

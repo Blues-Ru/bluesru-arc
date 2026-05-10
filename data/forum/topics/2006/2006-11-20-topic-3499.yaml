@@ -1,7 +1,6 @@
 topic_id: 3499
 slug: topic-3499
-title: Может и ничего нового, но мне дали адрес очень интересного сайта  youtube.com
-  - любая музыка. видео и т.д.
+title: Может и ничего нового, но мне дали адрес очень интересного сайта  youtube.com - любая музыка. видео и т.д.
 first_post: 2006-11-20 20:39
 last_post: 2006-11-21 10:13
 post_count: 2
@@ -11,8 +10,7 @@ posts:
   date: 2006-11-20 20:39
   poster: Юрий Каверкин(Gekko)
   email: kaverkin@rol.ru
-  subject: Может и ничего нового, но мне дали адрес очень интересного сайта  youtube.com
-    - любая музыка. видео и т.д.
+  subject: Может и ничего нового, но мне дали адрес очень интересного сайта  youtube.com - любая музыка. видео и т.д.
   deleted: false
   replies:
   - id: 29410
@@ -25,3 +23,5 @@ posts:
     text: 'Да уж... Сайт <a href="http://elicaster.livejournal.com/6618.html">хорош</a>...
 
       Здесь, как-то, уже его вспоминали...'
+    inferred_person_id: 7202
+  inferred_person_id: 1719

@@ -12,8 +12,7 @@ posts:
   email: dr.nick@blues.ru
   subject: about J.J. Cale
   deleted: false
-  text: "на самом деле, он просто Джон. \n\nJ.J. - это его сценическое имя (чтобы не путали с Джоном  Кейлом из Velvet Underground).\n\
-    \nон сам это сообщил в фильме To Tulsa And Back."
+  text: "на самом деле, он просто Джон. \n\nJ.J. - это его сценическое имя (чтобы не путали с Джоном  Кейлом из Velvet Underground).\n\nон сам это сообщил в фильме To Tulsa And Back."
   replies:
   - id: 35284
     parent_id: 35282
@@ -40,6 +39,7 @@ posts:
       deleted: false
       text: ох уж эти тупые американцы
       person_id: 335
+    inferred_person_id: 13
   - id: 35301
     parent_id: 35282
     date: 2008-04-15 11:20
@@ -47,6 +47,6 @@ posts:
     email: lifebythedrop@yandex.ru
     subject: Ну и шо?..
     deleted: false
-    text: '... человек который написал After Midnight, Call Me The Breezee и Cocaine может называться как угодно... вон, Джон
-      Пол Джонс,на самом деле - Болдуин, а взял псевдоним, что бы не сравнивали с папашей, известным джазовым музыкантом...'
+    text: '... человек который написал After Midnight, Call Me The Breezee и Cocaine может называться как угодно... вон, Джон Пол Джонс,на самом деле - Болдуин, а взял псевдоним, что бы не сравнивали с папашей, известным джазовым музыкантом...'
     person_id: 687
+  inferred_person_id: 335

@@ -32,4 +32,6 @@ posts:
       email: gypsy@mail.ru
       subject: У Света скоро появятся группи гёлз...
       deleted: false
+      inferred_person_id: 13
+    inferred_person_id: 4
   person_id: 4

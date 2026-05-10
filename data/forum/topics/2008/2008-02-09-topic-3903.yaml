@@ -56,6 +56,9 @@ posts:
           email: iglkuity@iouhio.ty
           subject: С первого раза не полетел чёто
           deleted: false
-          text: <a href="http://imageshack.us"><img src="http://img201.imageshack.us/img201/9477/x75d33cb9ob2.jpg" border="0"
-            alt="Image Hosted by ImageShack.us"/></a><br/>
+          text: <a href="http://imageshack.us"><img src="http://img201.imageshack.us/img201/9477/x75d33cb9ob2.jpg" border="0" alt="Image Hosted by ImageShack.us"/></a><br/>
+          inferred_person_id: 7206
+        inferred_person_id: 7206
       person_id: 335
+    inferred_person_id: 7206
+  inferred_person_id: 7206

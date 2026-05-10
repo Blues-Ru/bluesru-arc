@@ -39,5 +39,7 @@ posts:
         email: voshalb@rambler.ru
         subject: Неа,не все...
         deleted: false
+        inferred_person_id: 3168
+      inferred_person_id: 13
     person_id: 5
   person_id: 2803

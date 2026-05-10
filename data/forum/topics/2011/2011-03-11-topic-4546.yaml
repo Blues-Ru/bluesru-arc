@@ -11,8 +11,7 @@ posts:
   poster: Andrei V. Evdokimov
   subject: Mellow
   deleted: false
-  text: В прошый чктверг я был в Дуде. Кстати, презентция удалвсь… цветы – это ВИА 70-х. но красиво было у  Mellow -  на втором
-    этаже
+  text: В прошый чктверг я был в Дуде. Кстати, презентция удалвсь… цветы – это ВИА 70-х. но красиво было у  Mellow -  на втором этаже
   replies:
   - id: 37421
     parent_id: 37420
@@ -21,4 +20,5 @@ posts:
     subject: просто
     deleted: false
     text: "хочу добавить\n\n алилуйя была божественно хлроша. вы все красавцы!"
+    inferred_person_id: 4
   person_id: 4

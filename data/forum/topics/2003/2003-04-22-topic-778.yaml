@@ -49,6 +49,7 @@ posts:
           text: 'Уф, как жаль... (-)
 
             А еще и Earl King, это который Hendrix "Come on (Let the good time roll)" (----)'
+          inferred_person_id: 204
     person_id: 335
   - id: 11966
     parent_id: 11959
@@ -57,9 +58,7 @@ posts:
     email: aaa@genebee.msu.su
     subject: Царствие небесное ей.
     deleted: false
-    text: Настоящие шедевры - исполнение Ниной Симон Gimme a Pigfoot, My Babe Don't Care, Willow Weep For Me, Children...
-      перечислять можно бесконечно. Если это джаз, то не скучный; если блюз, просто тушите газ. А красивая какая была покойница.
-      Это просто совершенство было.
+    text: Настоящие шедевры - исполнение Ниной Симон Gimme a Pigfoot, My Babe Don't Care, Willow Weep For Me, Children... перечислять можно бесконечно. Если это джаз, то не скучный; если блюз, просто тушите газ. А красивая какая была покойница. Это просто совершенство было.
     replies:
     - id: 11987
       parent_id: 11966
@@ -88,3 +87,4 @@ posts:
     subject: Немного файлов... по моему личному выбору...
     deleted: false
     text: http://greta.bluesman.ru/NinaSimone/
+    inferred_person_id: 13

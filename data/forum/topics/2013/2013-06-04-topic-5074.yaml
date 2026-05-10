@@ -14,5 +14,5 @@ posts:
   text: 'из цикла "ютюб - найдется все".
 
 
-    <iframe width="560" height="315" src="http://www.youtube.com/embed/grBmQwLSlDw"
-    frameborder="0" allowfullscreen></iframe>'
+    <iframe width="560" height="315" src="http://www.youtube.com/embed/grBmQwLSlDw" frameborder="0" allowfullscreen></iframe>'
+  inferred_person_id: 4

@@ -11,8 +11,7 @@ posts:
   poster: Andrei V. Evdokimov
   subject: Роберт Плант зажигает без устали
   deleted: false
-  text: 'Вот, например, новость: http://sunsongs.ru/news/394/Mona-robert-plant-soobschil-chto-myi-igraem-blyuz-luchshe-chem-Led-Zeppelin
-    .
+  text: 'Вот, например, новость: http://sunsongs.ru/news/394/Mona-robert-plant-soobschil-chto-myi-igraem-blyuz-luchshe-chem-Led-Zeppelin .
 
 
     Может, он имел ввиду не blues, а именно blyuz, как написанно в линке?'
@@ -54,9 +53,7 @@ posts:
     poster: Старый Майор
     subject: Не, ну чо за глаза говорить... давайте почетаем и послушаем
     deleted: false
-    text: 'Четаем: «Роберт Плант сказал мне, что ему очень полюбилась наша «Lines In The Sand», - говорит Браун газете The
-      Sun. - Он поведал, что Led Zeppelin в одно время упорно бились с американским блюзом, но в итоге, у них так и не получилось
-      того звучания, которым мы обладаем.
+    text: 'Четаем: «Роберт Плант сказал мне, что ему очень полюбилась наша «Lines In The Sand», - говорит Браун газете The Sun. - Он поведал, что Led Zeppelin в одно время упорно бились с американским блюзом, но в итоге, у них так и не получилось того звучания, которым мы обладаем.
 
 
       Слушаем: http://www.youtube.com/watch?v=1q6wj7lMUS0
@@ -78,8 +75,7 @@ posts:
       poster: Andrei V. Evdokimov
       subject: да точно нигер и поет
       deleted: false
-      text: и зовут нигера - молодой пьяный Боно из Ю-Ту (не путать с Ю-ТуБ)... Дядя Майор, мона я больше не буду слушать
-        Мона? )))
+      text: и зовут нигера - молодой пьяный Боно из Ю-Ту (не путать с Ю-ТуБ)... Дядя Майор, мона я больше не буду слушать Мона? )))
       replies:
       - id: 37740
         parent_id: 37728
@@ -98,4 +94,7 @@ posts:
           subject: наверное Моня всё же
           deleted: false
           person_id: 335
+        inferred_person_id: 13
       person_id: 4
+    inferred_person_id: 13
+  inferred_person_id: 4

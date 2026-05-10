@@ -148,6 +148,19 @@ export async function onRequest(context) {
     return redirect301("/updates/", request.url);
   }
 
+  // ── Forum page*.html → page* (strip .html from pagination URLs) ──────────
+  const forumPageMatch = pathname.match(/^(\/forum\/page\d+)\.html$/);
+  if (forumPageMatch) {
+    return redirect301(forumPageMatch[1], request.url);
+  }
+
+  // ── Forum branch URLs → topic page ───────────────────────────────────────
+  // /forum/topic{N}/branch{M} only exists in Google's index from the old site
+  const branchMatch = pathname.match(/^\/forum\/(topic\d+)\/branch\d+\/?$/);
+  if (branchMatch) {
+    return redirect301(`/forum/${branchMatch[1]}`, request.url);
+  }
+
   // ── Legacy /bluesmen/ directory redirects ─────────────────────────────────
   if (pathname.startsWith("/bluesmen/")) {
     const m = await getManifest(env, request.url);

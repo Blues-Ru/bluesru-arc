@@ -34,4 +34,5 @@ posts:
       subject: Миша в Москве
       deleted: false
       person_id: 335
+    inferred_person_id: 13
   person_id: 335

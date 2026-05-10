@@ -22,4 +22,5 @@ posts:
     subject: :(
     deleted: false
     text: Жаль
+    inferred_person_id: 7465
   person_id: 4

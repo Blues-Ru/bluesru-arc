@@ -16,8 +16,7 @@ posts:
 
     В связи с этим прошу всех перцев подготовиться. Особенно хочется услышать певцов и певиц по этой тематике.
 
-    У нас в программе есть несколько типичных вещей для Вулфа: Spoonful, The Red Rooster, Who''s Been Talkin'', Back Door
-    Man. Хочется больше. Что-нибудь типа Smokestack Lightning, 300 Pounds Of Joy, Built For Comfort и т.д.
+    У нас в программе есть несколько типичных вещей для Вулфа: Spoonful, The Red Rooster, Who''s Been Talkin'', Back Door Man. Хочется больше. Что-нибудь типа Smokestack Lightning, 300 Pounds Of Joy, Built For Comfort и т.д.
 
     Особая просьба к Каверкину, Русинову, Федору с Димоном и Кожекину с Жуком. Имеется в виду, что они петь тоже могут.
 
@@ -71,6 +70,7 @@ posts:
           text: Договорились!
           person_id: 335
         person_id: 1719
+      inferred_person_id: 335
     person_id: 1719
   - id: 12721
     parent_id: 12632
@@ -90,3 +90,4 @@ posts:
       deleted: false
       text: Вот ее и споешь!
       person_id: 335
+  inferred_person_id: 335

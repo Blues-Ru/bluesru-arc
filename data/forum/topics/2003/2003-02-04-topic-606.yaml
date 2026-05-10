@@ -12,11 +12,7 @@ posts:
   email: leondmitr@freemail.ru
   subject: Вопрос.
   deleted: false
-  text: "Ребят, кто знает, где в Питере можно купить блюз на видео??? Где не спрашиваю, ни у кого нет. А так хочется. Вроде\
-    \ нашел одну точку - в Д/К Крупской (Книжный рынок), но у них уже кончились - были Мастера блюза - 2 выпуска и Б.Б.Кинг.\
-    \ Обещали, но повторно не завезли.\nОчень хочется. А может, и москвичи помогут как нибудь купить - переписать. У меня\
-    \ в столице знакомые работают. \nD.V.D. и \"фирму\" лучше не предлагать - первого нет, второе дорого.\nСпасибо, если кто\
-    \ поможет."
+  text: "Ребят, кто знает, где в Питере можно купить блюз на видео??? Где не спрашиваю, ни у кого нет. А так хочется. Вроде нашел одну точку - в Д/К Крупской (Книжный рынок), но у них уже кончились - были Мастера блюза - 2 выпуска и Б.Б.Кинг. Обещали, но повторно не завезли.\nОчень хочется. А может, и москвичи помогут как нибудь купить - переписать. У меня в столице знакомые работают. \nD.V.D. и \"фирму\" лучше не предлагать - первого нет, второе дорого.\nСпасибо, если кто поможет."
   replies:
   - id: 10430
     parent_id: 10421
@@ -36,8 +32,7 @@ posts:
       email: leondmitr@freemail.ru
       subject: Насчет "фирмы" - это я погорячился.
       deleted: false
-      text: "Можно и фирменные видеокассеты, конечно. \nТупо в ларьках я смотрю, но ничего блюзового (за исключением Воэна)\
-        \ не видел. В основном рок, попса. Мне интересны и классики блюза, и Модерн Блюз. А с этим плохо."
+      text: "Можно и фирменные видеокассеты, конечно. \nТупо в ларьках я смотрю, но ничего блюзового (за исключением Воэна) не видел. В основном рок, попса. Мне интересны и классики блюза, и Модерн Блюз. А с этим плохо."
       replies:
       - id: 10474
         parent_id: 10436
@@ -46,10 +41,7 @@ posts:
         email: serge_ivanov@hotmail.com
         subject: еще одно место
         deleted: false
-        text: "Посмотри - videomusic.tsx.org\nЯ у них нашел в каталоге:\n\nMUDDY WATERS\n\n “LIVE” 57 mins.\n\nSTEVIE RAY\
-          \ VAUGHAN\n\n“PRIDE AND JOY” 36 mins.\n\n“LIVE FROM AUSTIN, TEXAS” 63 mins.\n\n“LIVE AT THE EL MOCAMBO” 63 mins.\n\
-          \n“TRIBUTE TO S.R. VAUGHAN” 80mins.\n\nBLUES ALIVE\n\n(BUDDY GUY, ALBERT COLLINS, RUTH BROWN) “LIVE 1990” 71 mins.\n\
-          \nB.B. KING\n\n“LIVE AT THE APOLLO” 45 mins.\n\nBUDDY GUY\n\n“LIVE” 55 mins."
+        text: "Посмотри - videomusic.tsx.org\nЯ у них нашел в каталоге:\n\nMUDDY WATERS\n\n “LIVE” 57 mins.\n\nSTEVIE RAY VAUGHAN\n\n“PRIDE AND JOY” 36 mins.\n\n“LIVE FROM AUSTIN, TEXAS” 63 mins.\n\n“LIVE AT THE EL MOCAMBO” 63 mins.\n\n“TRIBUTE TO S.R. VAUGHAN” 80mins.\n\nBLUES ALIVE\n\n(BUDDY GUY, ALBERT COLLINS, RUTH BROWN) “LIVE 1990” 71 mins.\n\nB.B. KING\n\n“LIVE AT THE APOLLO” 45 mins.\n\nBUDDY GUY\n\n“LIVE” 55 mins."
         replies:
         - id: 10482
           parent_id: 10474
@@ -80,8 +72,7 @@ posts:
               email: leondmitr@freemail.ru
               subject: Ну не грузится, и все тут!
               deleted: false
-              text: А есть там телефоны? Я бы в Москве заказал - у меня люди в Столице работают. Я б заказал. Серж, спасибо
-                за внимание к моей скромной персоне! А у тебя самого видео есть???
+              text: А есть там телефоны? Я бы в Москве заказал - у меня люди в Столице работают. Я б заказал. Серж, спасибо за внимание к моей скромной персоне! А у тебя самого видео есть???
               replies:
               - id: 10509
                 parent_id: 10507
@@ -109,4 +100,11 @@ posts:
                   subject: Серж, спасибо.
                   deleted: false
                   person_id: 698
+                inferred_person_id: 378
               person_id: 698
+            inferred_person_id: 378
+          inferred_person_id: 698
+        inferred_person_id: 378
+      inferred_person_id: 698
+    inferred_person_id: 378
+  inferred_person_id: 698

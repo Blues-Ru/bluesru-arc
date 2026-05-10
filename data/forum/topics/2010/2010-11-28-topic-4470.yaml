@@ -14,8 +14,7 @@ posts:
   text: 'http://www.kotapparel.com/index.php?main_page=index&cPath=3_133
 
 
-    нарисовано в 1980 году, дизайн несет отпечаток времени. Автор-художник сам фанат
-    и коллекционер старого блюза, что тоже чувствуется.'
+    нарисовано в 1980 году, дизайн несет отпечаток времени. Автор-художник сам фанат и коллекционер старого блюза, что тоже чувствуется.'
   replies:
   - id: 37203
     parent_id: 37200
@@ -26,3 +25,5 @@ posts:
     text: 'О! The possessor of a powerful voice - хорошо сказано.
 
       http://www.kotapparel.com/images/products/bt-601[black].png'
+    inferred_person_id: 7202
+  inferred_person_id: 4

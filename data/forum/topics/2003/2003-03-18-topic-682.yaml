@@ -52,4 +52,5 @@ posts:
         email: gypsy@mail.ru
         subject: 'Вариант: Взалкав любви, копаю огород.'
         deleted: false
+        inferred_person_id: 13
     person_id: 4

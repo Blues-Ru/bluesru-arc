@@ -1,7 +1,6 @@
 topic_id: 5089
 slug: topic-5089
-title: ночная блюз-кинотека. Muddy Waters, королева чикагского блюза и куча рыцарей
-  блюзового стола! . 1974 г.
+title: ночная блюз-кинотека. Muddy Waters, королева чикагского блюза и куча рыцарей блюзового стола! . 1974 г.
 first_post: 2013-06-29 02:24
 last_post: 2013-07-01 01:41
 post_count: 2
@@ -10,16 +9,12 @@ posts:
   parent_id: null
   date: 2013-06-29 02:24
   poster: Andrei V. Evdokimov
-  subject: ночная блюз-кинотека. Muddy Waters, королева чикагского блюза и куча рыцарей
-    блюзового стола! . 1974 г.
+  subject: ночная блюз-кинотека. Muddy Waters, королева чикагского блюза и куча рыцарей блюзового стола! . 1974 г.
   deleted: false
-  text: 'Michael Bloomfield, Dr. John, Phil Guy, Willie Dixon, Koko Taylor, Buddy
-    Miles, Johnny Winter, Junior Wells, Nick Gravenites, Willie "Big Eyes" Smith,
-    "Pine Top" Perkins
+  text: 'Michael Bloomfield, Dr. John, Phil Guy, Willie Dixon, Koko Taylor, Buddy Miles, Johnny Winter, Junior Wells, Nick Gravenites, Willie "Big Eyes" Smith, "Pine Top" Perkins
 
 
-    <iframe width="420" height="315" src="//www.youtube.com/embed/jmUhqUwmX9Q" frameborder="0"
-    allowfullscreen></iframe>'
+    <iframe width="420" height="315" src="//www.youtube.com/embed/jmUhqUwmX9Q" frameborder="0" allowfullscreen></iframe>'
   replies:
   - id: 39021
     parent_id: 39020
@@ -27,8 +22,7 @@ posts:
     poster: kishinevets
     subject: воооот...
     deleted: false
-    text: 'лучшим моментом (ну кроме музыки, само собой), для меня, там были заключительные
-      сцены...
+    text: 'лучшим моментом (ну кроме музыки, само собой), для меня, там были заключительные сцены...
 
       когда вся молодежь гурьбой патриарха обступает...
 
@@ -46,3 +40,5 @@ posts:
       и Phil Guy там, говорите, замечен был...
 
       надо пересмотреть...'
+    inferred_person_id: 7264
+  inferred_person_id: 4

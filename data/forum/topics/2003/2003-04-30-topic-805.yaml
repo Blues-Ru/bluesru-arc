@@ -29,8 +29,7 @@ posts:
       email: morehemp@mail.ru
       subject: Не
       deleted: false
-      text: "умер.. Умерла очень важная, но частица блюза. \nК тому же, он как бы не умер - осталась музыка, её всегда можно\
-        \ послушать.."
+      text: "умер.. Умерла очень важная, но частица блюза. \nК тому же, он как бы не умер - осталась музыка, её всегда можно послушать.."
       replies:
       - id: 12172
         parent_id: 12170
@@ -66,6 +65,7 @@ posts:
           email: leondmitr@freemail.ru
           subject: Блюз всегда был, есть и будет уместен!
           deleted: false
+          inferred_person_id: 698
         - id: 12190
           parent_id: 12172
           date: 2003-05-03 00:33
@@ -73,8 +73,7 @@ posts:
           email: alex@fastwel.com
           subject: Цитата
           deleted: false
-          text: '"You got the blues if you''ve broken. You got the blues if your gal''s gone..." Lightnin'' Hopkins, док.фильм
-            Blue according to Lightnin'' Hopkins. Очень, кстати, впечатлил сей фильм, хоть и запись не очень.
+          text: '"You got the blues if you''ve broken. You got the blues if your gal''s gone..." Lightnin'' Hopkins, док.фильм Blue according to Lightnin'' Hopkins. Очень, кстати, впечатлил сей фильм, хоть и запись не очень.
 
 
             В общем, он всегда будет уместен.'

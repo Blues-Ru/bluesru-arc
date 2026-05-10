@@ -22,6 +22,7 @@ posts:
     subject: Круто
     deleted: false
     text: .
+    inferred_person_id: 7206
   - id: 35753
     parent_id: 35749
     date: 2008-09-10 14:48
@@ -29,9 +30,8 @@ posts:
     email: gujfyt@jioh.ru
     subject: Видео
     deleted: false
-    text: <object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/XEKeCZ086MM&hl=ru&fs=1"></param><param
-      name="allowFullScreen" value="true"></param><embed src="http://www.youtube.com/v/XEKeCZ086MM&hl=ru&fs=1"
-      type="application/x-shockwave-flash" allowfullscreen="true" width="425" height="344"></embed></object>
+    text: <object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/XEKeCZ086MM&hl=ru&fs=1"></param><param name="allowFullScreen" value="true"></param><embed src="http://www.youtube.com/v/XEKeCZ086MM&hl=ru&fs=1" type="application/x-shockwave-flash" allowfullscreen="true" width="425" height="344"></embed></object>
+    inferred_person_id: 7206
   - id: 35754
     parent_id: 35749
     date: 2008-09-10 17:29
@@ -39,9 +39,8 @@ posts:
     email: uyfyfu@olhoiu.ru
     subject: Тоже видео
     deleted: false
-    text: <object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/yOqt6-ptDI4&hl=ru&fs=1"></param><param
-      name="allowFullScreen" value="true"></param><embed src="http://www.youtube.com/v/yOqt6-ptDI4&hl=ru&fs=1"
-      type="application/x-shockwave-flash" allowfullscreen="true" width="425" height="344"></embed></object>
+    text: <object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/yOqt6-ptDI4&hl=ru&fs=1"></param><param name="allowFullScreen" value="true"></param><embed src="http://www.youtube.com/v/yOqt6-ptDI4&hl=ru&fs=1" type="application/x-shockwave-flash" allowfullscreen="true" width="425" height="344"></embed></object>
+    inferred_person_id: 7206
   - id: 35758
     parent_id: 35749
     date: 2008-09-12 14:58
@@ -86,3 +85,4 @@ posts:
     subject: Live Jam in B.B.King club Moscow. 7sept.2008. The best of
     deleted: false
     text: http://picasaweb.google.ru/ramilmagasumov/LiveJamInBBKingClubMoscow7sept2008TheBestOf?authkey=K3L3bx5T1SM#
+    inferred_person_id: 7206

@@ -12,9 +12,7 @@ posts:
   email: gypsy@mail.ru
   subject: Ху из мистер Buzz Feiten?
   deleted: false
-  text: "Обнаружил на сайте www.slami.ru следующую загадочную надпись:\n\"система расчета ладов Buzz Feiten\" - http://www.slami.ru/catalog/item.php?CNT14322+++\
-    \ \n\nПошёл на www.buzzfeiten.com..  и ничего не понял... но все ведущие собаководы с умными лицами грят, что революционный\
-    \ способ настройки гитары. Кто разберётся - поделитесь опытом, может это полезно?"
+  text: "Обнаружил на сайте www.slami.ru следующую загадочную надпись:\n\"система расчета ладов Buzz Feiten\" - http://www.slami.ru/catalog/item.php?CNT14322+++ \n\nПошёл на www.buzzfeiten.com..  и ничего не понял... но все ведущие собаководы с умными лицами грят, что революционный способ настройки гитары. Кто разберётся - поделитесь опытом, может это полезно?"
   replies:
   - id: 18302
     parent_id: 18271
@@ -34,3 +32,4 @@ posts:
       deleted: false
       person_id: 13
     person_id: 658
+  inferred_person_id: 13

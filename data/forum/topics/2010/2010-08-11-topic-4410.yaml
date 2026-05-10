@@ -14,10 +14,7 @@ posts:
   text: '«Братья Блюз» в БКЗ РТ ИМЕНИ САЛИХА САЙДАШЕВА
 
 
-    <object width="500" height="310" data="http://media.rugion.ru/m/?id=4027" type="application/x-shockwave-flash"><param
-    name="id" value="player" /><param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always"
-    /><param name="quality" value="high" /><param name="bgcolor" value="#000000" /><param name="wmode" value="opaque" /><param
-    name="src" value="http://media.rugion.ru/m/?id=4027" /></object>'
+    <object width="500" height="310" data="http://media.rugion.ru/m/?id=4027" type="application/x-shockwave-flash"><param name="id" value="player" /><param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="quality" value="high" /><param name="bgcolor" value="#000000" /><param name="wmode" value="opaque" /><param name="src" value="http://media.rugion.ru/m/?id=4027" /></object>'
   replies:
   - id: 37015
     parent_id: 37014
@@ -63,8 +60,7 @@ posts:
           poster: Федор Романенко
           subject: Санитайзер
           deleted: false
-          text: 'В форуме работает программа-санитайзер, которая вычищает потенциально-опасные теги из сообщений. На роликах
-            YouTube и пр. я его отстроил, чтобы он их пропускал, а тут какой-то необычный видео-хостинг, я с ним попозже разберусь.
+          text: 'В форуме работает программа-санитайзер, которая вычищает потенциально-опасные теги из сообщений. На роликах YouTube и пр. я его отстроил, чтобы он их пропускал, а тут какой-то необычный видео-хостинг, я с ним попозже разберусь.
 
 
             Эльдар жалуется, что он видео начинает смотреть, и оно зависает на 50-й секунде.'
@@ -75,8 +71,7 @@ posts:
             poster: Эльдар
             subject: и Opera, и Firefox...
             deleted: false
-            text: 'Странно, я пытался с Opera и c Mozilla Firefox - ризалт одинаковый: останавливается в том же месте на 49
-              сек.
+            text: 'Странно, я пытался с Opera и c Mozilla Firefox - ризалт одинаковый: останавливается в том же месте на 49 сек.
 
               Блин, ну хочется на земляка-то свава посмотреть...'
             replies:
@@ -96,16 +91,17 @@ posts:
               deleted: false
               text: я проверил на всякий случай - все показывает от и до....
               person_id: 4
+            inferred_person_id: 7202
+          inferred_person_id: 2
         person_id: 4
+      inferred_person_id: 7202
     - id: 37020
       parent_id: 37015
       date: 2010-08-12 14:29
       poster: Федор Романенко
       subject: Казань
       deleted: false
-      text: Я чуть-чуть покопал в интернете, в Казани есть очень старая большая группа Jive, которая играет джаз, ритм-н-блюз,
-        блюз, соул, фанк. Они создали и опекали единственный джазовый клуб в Казани - Jolly Roger. Сейчас они дружат с дуэтом
-        "Братья Блюз", устраивают совместные концерты и пр.
+      text: Я чуть-чуть покопал в интернете, в Казани есть очень старая большая группа Jive, которая играет джаз, ритм-н-блюз, блюз, соул, фанк. Они создали и опекали единственный джазовый клуб в Казани - Jolly Roger. Сейчас они дружат с дуэтом "Братья Блюз", устраивают совместные концерты и пр.
       person_id: 2
     person_id: 4
   - id: 37032
@@ -119,3 +115,4 @@ posts:
       гр."Братья Блюз"
 
       http://vkontakte.ru/id15692847'
+  inferred_person_id: 4

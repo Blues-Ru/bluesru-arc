@@ -12,8 +12,7 @@ posts:
   email: dr.nick@blues.ru
   subject: Les Dudek!
   deleted: false
-  text: 'Вот супер-музыкант! Купил два его альбома на виниле (второй и третий) и просто в восторге! Такого блюз-рока давно
-    не слышал - мастер гитары и отличный вокалист. На компакте есть только второй вроде.
+  text: 'Вот супер-музыкант! Купил два его альбома на виниле (второй и третий) и просто в восторге! Такого блюз-рока давно не слышал - мастер гитары и отличный вокалист. На компакте есть только второй вроде.
 
 
     http://www.allmusic.com/cg/amg.dll?p=amg&uid=9:56:39%7CAM&sql=Bf9fexqq5ldfe'
@@ -46,8 +45,7 @@ posts:
         email: gypsy@mail.ru
         subject: Дима, ну дык я послушал обрывки на Barnes & Noble :))
         deleted: false
-        text: 'Сразу вспоминается старый анекдот: слушали г-на N. Есть в его игре и хорошее, и новое. Но то что хорошо, то
-          не ново, а то что ново - то не хорошо :))'
+        text: 'Сразу вспоминается старый анекдот: слушали г-на N. Есть в его игре и хорошее, и новое. Но то что хорошо, то не ново, а то что ново - то не хорошо :))'
         replies:
         - id: 11858
           parent_id: 11841
@@ -66,8 +64,7 @@ posts:
         email: gypsy@mail.ru
         subject: Не, ну ты в натуре, послушай...
         deleted: false
-        text: http://music.barnesandnoble.com/search/product.asp?sourceid=00401402267178023412&ean=786971001740&bfdate=04-14-2003+10:51:44
-          - если сама песня Deep Shade Of Blues не напоминает Still Got The Blues, тогда я съем свою фуражку!
+        text: http://music.barnesandnoble.com/search/product.asp?sourceid=00401402267178023412&ean=786971001740&bfdate=04-14-2003+10:51:44 - если сама песня Deep Shade Of Blues не напоминает Still Got The Blues, тогда я съем свою фуражку!
         replies:
         - id: 11849
           parent_id: 11842
@@ -99,6 +96,7 @@ posts:
           text: если я пишу о 77 и 78???
           person_id: 335
         person_id: 13
+      inferred_person_id: 335
     - id: 11846
       parent_id: 11837
       date: 2003-04-14 19:51
@@ -163,3 +161,4 @@ posts:
         person_id: 335
       person_id: 6
     person_id: 13
+  inferred_person_id: 335

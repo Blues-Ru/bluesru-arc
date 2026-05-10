@@ -12,8 +12,7 @@ posts:
   email: leonidovd@mail.ru
   subject: Всех с Днем рождения Джимми Рида !
   deleted: false
-  text: И кстати, может кто-нибудь поможет - ищу текст его песни "Shame, Shame, Shame".
-    Очень уж она мне нравится в исполнении Бадди Гая...
+  text: И кстати, может кто-нибудь поможет - ищу текст его песни "Shame, Shame, Shame". Очень уж она мне нравится в исполнении Бадди Гая...
   replies:
   - id: 22770
     parent_id: 22769
@@ -39,9 +38,7 @@ posts:
       email: leonidovd@mail.ru
       subject: Shame, Shame, Shame
       deleted: false
-      text: К сожалению, я не слышал первый диск Кенни Уэйна, поэтому не знаю, та
-        ли это песня. У меня она есть на диске Бадди Гая "Slippin'In" 1994 г. Мадди
-        понял, какую вещь я имел ввиду и уже выложил текст. Спасибо.
+      text: К сожалению, я не слышал первый диск Кенни Уэйна, поэтому не знаю, та ли это песня. У меня она есть на диске Бадди Гая "Slippin'In" 1994 г. Мадди понял, какую вещь я имел ввиду и уже выложил текст. Спасибо.
   - id: 22778
     parent_id: 22769
     date: 2005-09-06 20:10
@@ -49,18 +46,7 @@ posts:
     email: mlives_6@hotmail.com
     subject: Shame, Shame, Shame
     deleted: false
-    text: "Существуют разные песни \"Shame, Shame, Shame.\"  Есть известная песня\
-      \ из Нового Орлеана \"Shame, Shame, Shame. (Shame on you if you can't dance\
-      \ too), который очень отличается от песни Jimmy Reed.  И в том же Новом Орлеане\
-      \ Smiley Lewis пел еще одну совсем другую песню \"Shame, Shame, Shame (Shame\
-      \ on you, Miss Roxey) \n\nВот слова версии Jimmy Reed\n\nWell, I've got to tell\
-      \ you baby,\nIt don't make no sense,\nNow you got me baby, \nUp against the\
-      \ fence, and \n\nAin't that a shame, shame, shame\nShame shame the way you do,\n\
-      Well, shame, shame, shame,\nShame shame on you\n\nWell now you walk out in the\
-      \ evening,\nDon't even say you're gone,\nSix-O-Clock in the morning,\nyou come\
-      \ walking home\n\nchorus\n\nWell, I've been sitting there waiting,\nFor you\
-      \ to come home,\nWhen I wake up baby,\nSittin' there all alone,\n\nchorus\n\n\
-      \nMuddy"
+    text: "Существуют разные песни \"Shame, Shame, Shame.\"  Есть известная песня из Нового Орлеана \"Shame, Shame, Shame. (Shame on you if you can't dance too), который очень отличается от песни Jimmy Reed.  И в том же Новом Орлеане Smiley Lewis пел еще одну совсем другую песню \"Shame, Shame, Shame (Shame on you, Miss Roxey) \n\nВот слова версии Jimmy Reed\n\nWell, I've got to tell you baby,\nIt don't make no sense,\nNow you got me baby, \nUp against the fence, and \n\nAin't that a shame, shame, shame\nShame shame the way you do,\nWell, shame, shame, shame,\nShame shame on you\n\nWell now you walk out in the evening,\nDon't even say you're gone,\nSix-O-Clock in the morning,\nyou come walking home\n\nchorus\n\nWell, I've been sitting there waiting,\nFor you to come home,\nWhen I wake up baby,\nSittin' there all alone,\n\nchorus\n\n\nMuddy"
     replies:
     - id: 22788
       parent_id: 22778
@@ -69,5 +55,5 @@ posts:
       email: leonidovd@mail.ru
       subject: Спасибо, она самая!
       deleted: false
-      text: Спасибо огромное! Теперь распечатаю, выучу и буду подпевать Бадди Гаю
-        :)))
+      text: Спасибо огромное! Теперь распечатаю, выучу и буду подпевать Бадди Гаю :)))
+    inferred_person_id: 7465

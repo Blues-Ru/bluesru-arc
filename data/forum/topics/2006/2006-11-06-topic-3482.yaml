@@ -55,8 +55,11 @@ posts:
             email: gypsy@mail.ru
             subject: Извиняйте, гражданин, не сошлись фкусами.
             deleted: false
+            inferred_person_id: 13
           person_id: 335
+        inferred_person_id: 13
       person_id: 335
+    inferred_person_id: 13
   - id: 29309
     parent_id: 29300
     date: 2006-11-07 19:54
@@ -77,5 +80,6 @@ posts:
 
 
         пара страниц, правда, открывается для этого'
+      inferred_person_id: 335
     person_id: 2062
   person_id: 335

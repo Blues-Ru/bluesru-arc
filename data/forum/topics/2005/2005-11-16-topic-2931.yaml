@@ -36,6 +36,7 @@ posts:
 
 
       http://uploads.ungrounded.net/139000/139933_bluees.swf'
+    inferred_person_id: 7206
   - id: 24536
     parent_id: 24533
     date: 2005-11-17 00:00
@@ -44,3 +45,4 @@ posts:
     subject: Да... бен-ладен блюз - это круто!!! )))))
     deleted: false
     text: Да и лобстер блюз - ничего :))))))
+  inferred_person_id: 7206

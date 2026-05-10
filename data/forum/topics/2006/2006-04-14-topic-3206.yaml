@@ -14,8 +14,7 @@ posts:
   deleted: false
   text: 'Наверное, вопрос Игорю Головачеву.
 
-    Прибираясь у себя на компе нашел файл CheckinUpOnMyBaby.ogg который скачал видать давно, но вот у меня не подписано кто
-    это исполняет.
+    Прибираясь у себя на компе нашел файл CheckinUpOnMyBaby.ogg который скачал видать давно, но вот у меня не подписано кто это исполняет.
 
     нравится мне эта песнЯ :-)'
   replies:
@@ -26,12 +25,11 @@ posts:
     email: mlives_6@hotmail.com
     subject: Много исполнений
     deleted: false
-    text: 'Кажется, John Lee "Sonny Boy" Williamson первый ее исполнял.  Но Rice "Sonny Boy Williamson" Miller украл эту песню
-      вместе с именем первого Sonny Boy.  Однако второй Sonny Boy совсем переделал песню, и сегодяшний блюзовый стандарт -
-      это версия второго Sonny Boy.  История блюза бывает сложной.  :)
+    text: 'Кажется, John Lee "Sonny Boy" Williamson первый ее исполнял.  Но Rice "Sonny Boy Williamson" Miller украл эту песню вместе с именем первого Sonny Boy.  Однако второй Sonny Boy совсем переделал песню, и сегодяшний блюзовый стандарт - это версия второго Sonny Boy.  История блюза бывает сложной.  :)
 
 
       Muddy'
+    inferred_person_id: 7465
   - id: 26938
     parent_id: 26935
     date: 2006-04-14 13:48
@@ -39,8 +37,7 @@ posts:
     email: sunny_city@mail.ru
     subject: Эльдар,
     deleted: false
-    text: если имеется в виду файлик тот что лежит на BluesmAn.ru,то это демка King Biscuit 2005год. В общем - опыты Ромы
-      Гегарта.
+    text: если имеется в виду файлик тот что лежит на BluesmAn.ru,то это демка King Biscuit 2005год. В общем - опыты Ромы Гегарта.
     replies:
     - id: 26941
       parent_id: 26938

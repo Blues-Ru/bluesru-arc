@@ -184,4 +184,8 @@ posts:
           text: 'Оу! Отличноу! Спасибоу Федор!!!
 
             :)))'
+          inferred_person_id: 7202
+        inferred_person_id: 2
+      inferred_person_id: 7202
     person_id: 2
+  inferred_person_id: 7202

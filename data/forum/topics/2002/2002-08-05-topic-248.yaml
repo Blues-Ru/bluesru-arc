@@ -12,8 +12,7 @@ posts:
   email: dv1979@mail.ru
   subject: Друзья,помогите текстом.
   deleted: false
-  text: 'Нигде не могу найти текст замечательной песни "Ain`t Got You".Знаю,что ее
-    исполняют Sugar Blue<,John Mayall и Gary Moore.
+  text: 'Нигде не могу найти текст замечательной песни "Ain`t Got You".Знаю,что ее исполняют Sugar Blue<,John Mayall и Gary Moore.
 
     Не дайте умереть мракобесом!Спасобо заранее!'
   replies:
@@ -24,13 +23,7 @@ posts:
     email: dr.nick@blues.ru
     subject: Там все просто, но у всех чуть по-разному ;)
     deleted: false
-    text: "Got a 56 Cadillac \nWith a spare tire on the back \nGot a charge account\
-      \ in my ol' bank \nSaid, I ain't got you \n\nGot a classic and a pool \nAnd\
-      \ a big hair ghoul \nNo matter who I fool \nSaid, I ain't got you \n\nGot a\
-      \ baby and a liquor store \nI played the number four-forty-four \nGot a mojo\
-      \ and dontcha know? \nI'm all dressed up with no place to go \nGot women to\
-      \ the left of me \nGot women to the right of me \nI got chicks all around me\
-      \ \nSaid, I ain't got you"
+    text: "Got a 56 Cadillac \nWith a spare tire on the back \nGot a charge account in my ol' bank \nSaid, I ain't got you \n\nGot a classic and a pool \nAnd a big hair ghoul \nNo matter who I fool \nSaid, I ain't got you \n\nGot a baby and a liquor store \nI played the number four-forty-four \nGot a mojo and dontcha know? \nI'm all dressed up with no place to go \nGot women to the left of me \nGot women to the right of me \nI got chicks all around me \nSaid, I ain't got you"
     replies:
     - id: 6557
       parent_id: 6547
@@ -101,3 +94,5 @@ posts:
         .
 
         http://www.nederpoparchief.nl/bluesbrothers/lyrics.html'
+      inferred_person_id: 82
+    inferred_person_id: 335

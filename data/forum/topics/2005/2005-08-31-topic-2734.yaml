@@ -42,4 +42,5 @@ posts:
     subject: Просто супер!!!
     deleted: false
     text: А почем билеты будут???  И что,всего один день???
+    inferred_person_id: 3168
   person_id: 2803

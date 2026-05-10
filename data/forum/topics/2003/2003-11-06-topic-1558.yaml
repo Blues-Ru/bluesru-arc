@@ -23,6 +23,7 @@ posts:
     text: 'вот это было к чему...))
 
       или хоть просто послушайте))'
+    inferred_person_id: 26
   - id: 15427
     parent_id: 15424
     date: 2003-11-06 19:50
@@ -55,4 +56,7 @@ posts:
         text: 'Трансляция записанна... и возможно (с вероятностью 99,99%) будет размещенна на официальном сайте =)) http://www.scolder-blues.ru
 
           заглядывайте =)'
+        inferred_person_id: 1852
       person_id: 712
+    inferred_person_id: 956
+  inferred_person_id: 26

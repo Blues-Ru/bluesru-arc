@@ -21,8 +21,7 @@ posts:
     email: lvovandrey@mail.ru
     subject: Тоже волнуюсь - впечатлило
     deleted: false
-    text: Собственно сьездил в прошлый раз, хочу еще и не один я... очень приятное
-      мероприятие =) С волнением ждем когда же он будеть.
+    text: Собственно сьездил в прошлый раз, хочу еще и не один я... очень приятное мероприятие =) С волнением ждем когда же он будеть.
   - id: 35528
     parent_id: 35499
     date: 2008-07-01 12:18
@@ -31,6 +30,7 @@ posts:
     subject: Делаю всё возможное....
     deleted: false
     text: Невозможное тоже.
+    inferred_person_id: 7206
   - id: 35651
     parent_id: 35499
     date: 2008-08-07 10:42
@@ -38,29 +38,17 @@ posts:
     email: pypyskin@mail.ru
     subject: 'Картинки с прошлого:'
     deleted: false
-    text: '<object width="425" height="350"> <param name="movie" value="http://www.youtube.com/v/Ps2SvKPMwJI">
-      </param> <embed src="http://www.youtube.com/v/Ps2SvKPMwJI" type="application/x-shockwave-flash"
-      width="425" height="350"> </embed> </object>
+    text: '<object width="425" height="350"> <param name="movie" value="http://www.youtube.com/v/Ps2SvKPMwJI"> </param> <embed src="http://www.youtube.com/v/Ps2SvKPMwJI" type="application/x-shockwave-flash" width="425" height="350"> </embed> </object>
 
-      <object width="425" height="350"> <param name="movie" value="http://www.youtube.com/v/whiDKEFF7l8">
-      </param> <embed src="http://www.youtube.com/v/whiDKEFF7l8" type="application/x-shockwave-flash"
-      width="425" height="350"> </embed> </object>
+      <object width="425" height="350"> <param name="movie" value="http://www.youtube.com/v/whiDKEFF7l8"> </param> <embed src="http://www.youtube.com/v/whiDKEFF7l8" type="application/x-shockwave-flash" width="425" height="350"> </embed> </object>
 
-      <object width="425" height="350"> <param name="movie" value="http://www.youtube.com/v/M-sVnl_RpIc">
-      </param> <embed src="http://www.youtube.com/v/M-sVnl_RpIc" type="application/x-shockwave-flash"
-      width="425" height="350"> </embed> </object>
+      <object width="425" height="350"> <param name="movie" value="http://www.youtube.com/v/M-sVnl_RpIc"> </param> <embed src="http://www.youtube.com/v/M-sVnl_RpIc" type="application/x-shockwave-flash" width="425" height="350"> </embed> </object>
 
-      <object width="425" height="350"> <param name="movie" value="http://www.youtube.com/v/5dgrXzcrKHo">
-      </param> <embed src="http://www.youtube.com/v/5dgrXzcrKHo" type="application/x-shockwave-flash"
-      width="425" height="350"> </embed> </object>
+      <object width="425" height="350"> <param name="movie" value="http://www.youtube.com/v/5dgrXzcrKHo"> </param> <embed src="http://www.youtube.com/v/5dgrXzcrKHo" type="application/x-shockwave-flash" width="425" height="350"> </embed> </object>
 
-      <object width="425" height="350"> <param name="movie" value="http://www.youtube.com/v/JC_AlWBpeIA">
-      </param> <embed src="http://www.youtube.com/v/JC_AlWBpeIA" type="application/x-shockwave-flash"
-      width="425" height="350"> </embed> </object>
+      <object width="425" height="350"> <param name="movie" value="http://www.youtube.com/v/JC_AlWBpeIA"> </param> <embed src="http://www.youtube.com/v/JC_AlWBpeIA" type="application/x-shockwave-flash" width="425" height="350"> </embed> </object>
 
-      <object width="425" height="350"> <param name="movie" value="http://www.youtube.com/v/0vmne7_Li0Y">
-      </param> <embed src="http://www.youtube.com/v/0vmne7_Li0Y" type="application/x-shockwave-flash"
-      width="425" height="350"> </embed> </object>
+      <object width="425" height="350"> <param name="movie" value="http://www.youtube.com/v/0vmne7_Li0Y"> </param> <embed src="http://www.youtube.com/v/0vmne7_Li0Y" type="application/x-shockwave-flash" width="425" height="350"> </embed> </object>
 
 
       Покупайте DVD в клубе B.B.King ;-)'

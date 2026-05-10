@@ -47,5 +47,6 @@ posts:
           deleted: false
           person_id: 13
         person_id: 4
+      inferred_person_id: 13
     person_id: 4
   person_id: 13

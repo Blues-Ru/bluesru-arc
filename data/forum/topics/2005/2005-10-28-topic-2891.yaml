@@ -12,15 +12,7 @@ posts:
   email: fedor@blues.ru
   subject: Арсен пишет из Осло с концерта Холмстрома
   deleted: false
-  text: "Privet Fedor\nVchera by super mega puper koncert v Muddies. Rick Mitch Alex i Bill dali chadu!! Tam byle vse norvezhskiye\
-    \ muszykanty. Vse prosto Ofigeli. 3 Seta olichnoi muziki. Koncerty predshetvovala 5chasovaya repetitsiya;)) Bill S Alexom\
-    \ molodtsy. Mitch zamechatelny vocalist i ochen melodichny Harper. Koroche ya poluchil ogromnoye udovolstviye. I eshshe\
-    \ - Riku mozho bilo zakazat lubuyu vesh na concerte ;)) V zale poyavilsya Busk s gitaroi, pod konec 3 seta (kazhetsya\
-    \ posle 2-h nochi)) Busk sygral paru veshei. V o bshem bylo kruto)))\nSegodny oni daut contsert gde to na severe, my vstretimsya\
-    \ po puti v Svalbard, nadeyus porepetiruem, a to chto to stremno)))) Tam takzhe budet Freddi, mozhet udastsya poiugrat\
-    \ i s nim\nKoroche sovetuy vsem idti na koncert v Moscwe - K tomu momentu oni okonchatlno sygrautsya i budet eshe luchshe...\
-    \ Ne uveren chto zvuk budet takoi zhe horoshiy - za pultom sidel H&#229;kon , zvuchalo idealno i ne ochen gromko ))) Vske\
-    \ eto otmetili\n \nVot v kratse......\nDo svyazi vsem privet"
+  text: "Privet Fedor\nVchera by super mega puper koncert v Muddies. Rick Mitch Alex i Bill dali chadu!! Tam byle vse norvezhskiye muszykanty. Vse prosto Ofigeli. 3 Seta olichnoi muziki. Koncerty predshetvovala 5chasovaya repetitsiya;)) Bill S Alexom molodtsy. Mitch zamechatelny vocalist i ochen melodichny Harper. Koroche ya poluchil ogromnoye udovolstviye. I eshshe - Riku mozho bilo zakazat lubuyu vesh na concerte ;)) V zale poyavilsya Busk s gitaroi, pod konec 3 seta (kazhetsya posle 2-h nochi)) Busk sygral paru veshei. V o bshem bylo kruto)))\nSegodny oni daut contsert gde to na severe, my vstretimsya po puti v Svalbard, nadeyus porepetiruem, a to chto to stremno)))) Tam takzhe budet Freddi, mozhet udastsya poiugrat i s nim\nKoroche sovetuy vsem idti na koncert v Moscwe - K tomu momentu oni okonchatlno sygrautsya i budet eshe luchshe... Ne uveren chto zvuk budet takoi zhe horoshiy - za pultom sidel H&#229;kon , zvuchalo idealno i ne ochen gromko ))) Vske eto otmetili\n \nVot v kratse......\nDo svyazi vsem privet"
   replies:
   - id: 24134
     parent_id: 24131
@@ -30,3 +22,4 @@ posts:
     subject: Вообщем будет удар...:) готовимся :)
     deleted: false
     person_id: 5
+  inferred_person_id: 2

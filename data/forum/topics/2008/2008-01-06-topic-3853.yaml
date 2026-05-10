@@ -12,9 +12,7 @@ posts:
   email: jehfgju@jeqgf.ru
   subject: Арсен!!! Это тебе (и всем)
   deleted: false
-  text: '<object width="425" height="355"><param name="movie" value="http://www.youtube.com/v/7nbBvuO3nbI&rel=1"></param><param
-    name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/7nbBvuO3nbI&rel=1"
-    type="application/x-shockwave-flash" wmode="transparent" width="425" height="355"></embed></object>
+  text: '<object width="425" height="355"><param name="movie" value="http://www.youtube.com/v/7nbBvuO3nbI&rel=1"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/7nbBvuO3nbI&rel=1" type="application/x-shockwave-flash" wmode="transparent" width="425" height="355"></embed></object>
 
 
     Скоро полная версия'
@@ -26,3 +24,4 @@ posts:
     email: chifuroff (sobaka) inbox.ru
     subject: Красотищща!
     deleted: false
+  inferred_person_id: 7206

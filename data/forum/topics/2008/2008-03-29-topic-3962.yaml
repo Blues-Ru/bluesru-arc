@@ -12,8 +12,7 @@ posts:
   email: gjgkln
   subject: в репертуар блюзмена
   deleted: false
-  text: "http://musicmp3.spb.ru/mp3/797/snooks_eaglin.htm\nнажать на Kiss OF fire. \n я думать наступит мир и покой\nи весь\
-    \ альбом,кстати,неплохой"
+  text: "http://musicmp3.spb.ru/mp3/797/snooks_eaglin.htm\nнажать на Kiss OF fire. \n я думать наступит мир и покой\nи весь альбом,кстати,неплохой"
   replies:
   - id: 35141
     parent_id: 35139
@@ -43,6 +42,7 @@ posts:
         subject: А-а-ааа
         deleted: false
         text: Я просто ту ветку вообще и не читал...
+        inferred_person_id: 7202
       - id: 35144
         parent_id: 35142
         date: 2008-03-30 00:25
@@ -52,3 +52,4 @@ posts:
         deleted: false
         text: лучше на трёх аккордах месить!
         person_id: 335
+    inferred_person_id: 7202

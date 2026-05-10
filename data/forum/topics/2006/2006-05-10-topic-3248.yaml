@@ -14,8 +14,7 @@ posts:
   deleted: false
   text: 'Здравствуйте!
 
-    Есть mp3 с песней Джеймса Брауна. Никак не удается определить название и, соответственно,
-    в каком году и на каком альбоме она была.
+    Есть mp3 с песней Джеймса Брауна. Никак не удается определить название и, соответственно, в каком году и на каком альбоме она была.
 
     Выложил сюда:
 
@@ -32,9 +31,7 @@ posts:
     email: mlives_6@hotmail
     subject: Again
     deleted: false
-    text: '"Again" вышел на альбоме "Prisoner of Love" в 1963 г. (King 851).  King
-      также ее выпустил а качестве 45 в 1964 г. вместе с "How Long Darling." (King
-      5876).
+    text: '"Again" вышел на альбоме "Prisoner of Love" в 1963 г. (King 851).  King также ее выпустил а качестве 45 в 1964 г. вместе с "How Long Darling." (King 5876).
 
 
       Muddy'
@@ -48,8 +45,7 @@ posts:
       deleted: false
       text: 'Спасибо огромное!!!
 
-        А может подскажете, где в Москве можно купить вышеупомянутый альбом "Prisoner
-        of Love"?'
+        А может подскажете, где в Москве можно купить вышеупомянутый альбом "Prisoner of Love"?'
       replies:
       - id: 27302
         parent_id: 27301
@@ -58,13 +54,8 @@ posts:
         email: mlives_6@hotmail
         subject: хороший вопрос
         deleted: false
-        text: "Будет наверно нелегко найти.  Насколько я знаю, компактный диск еще\
-          \ не вышел (но возможно японцы выпустили).  Существует компактный диск с\
-          \ тем же названием, но это сборник хитов, и не включает \"Again.\"  В ebay\
-          \ предлагается.  Но это не Москва!  \nhttp://cgi.ebay.com/James-Brown-Prisoner-of-Love-LP-Sealed_W0QQitemZ4878220379QQcategoryZ306QQssPageNameZWDVWQQrdZ1QQcmdZViewItem\n\
-          Если нравится браунское исполнение баллад, существует недавно вышедщий сборник\
-          \ \"Ballads.\"  Нет \"Again,\" но есть подобные исполнения, которые (по-моему)\
-          \ не хуже.  \n\nMuddy"
+        text: "Будет наверно нелегко найти.  Насколько я знаю, компактный диск еще не вышел (но возможно японцы выпустили).  Существует компактный диск с тем же названием, но это сборник хитов, и не включает \"Again.\"  В ebay предлагается.  Но это не Москва!  \nhttp://cgi.ebay.com/James-Brown-Prisoner-of-Love-LP-Sealed_W0QQitemZ4878220379QQcategoryZ306QQssPageNameZWDVWQQrdZ1QQcmdZViewItem\nЕсли нравится браунское исполнение баллад, существует недавно вышедщий сборник \"Ballads.\"  Нет \"Again,\" но есть подобные исполнения, которые (по-моему) не хуже.  \n\nMuddy"
+        inferred_person_id: 7465
       - id: 27309
         parent_id: 27301
         date: 2006-05-11 20:12
@@ -81,3 +72,6 @@ posts:
           email: mlives_6@hotmail
           subject: Верно!
           deleted: false
+          inferred_person_id: 7465
+        inferred_person_id: 13
+    inferred_person_id: 7465

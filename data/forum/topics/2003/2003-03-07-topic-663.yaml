@@ -38,3 +38,4 @@ posts:
       deleted: false
       text: И цена отличная. Больше он и не должен стоить.
       person_id: 335
+  inferred_person_id: 335

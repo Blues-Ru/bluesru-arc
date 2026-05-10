@@ -12,11 +12,7 @@ posts:
   email: mlives_6@hotmail.com
   subject: Prodigal Son
   deleted: false
-  text: "Сегодяшний выставленный текст по поводу дня рождения великого артиста Robert Wilkins содержит одну ошибку.  Там написано\
-    \ \"группа Rolling Stones украла у него мотив из песни That's No Way to Get Along, которую они переименовали в Prodigal\
-    \ Son.\"  \n\nНа самом деле, Robert Wilkins сам переработал \"That's No Way to Get Along,\" который он записал в 20-их\
-    \ годах, в религиозную песню \"Prodigal Son\" в 60-ых годах.  То есть, Rolling Stones украли не только мотив, а всю песню.\
-    \  Ничего они не переименовывали. И Keith Richards играл аранжировку Robert Wilkins практически ноту в ноту.  \n\nMuddy"
+  text: "Сегодяшний выставленный текст по поводу дня рождения великого артиста Robert Wilkins содержит одну ошибку.  Там написано \"группа Rolling Stones украла у него мотив из песни That's No Way to Get Along, которую они переименовали в Prodigal Son.\"  \n\nНа самом деле, Robert Wilkins сам переработал \"That's No Way to Get Along,\" который он записал в 20-их годах, в религиозную песню \"Prodigal Son\" в 60-ых годах.  То есть, Rolling Stones украли не только мотив, а всю песню.  Ничего они не переименовывали. И Keith Richards играл аранжировку Robert Wilkins практически ноту в ноту.  \n\nMuddy"
   replies:
   - id: 25470
     parent_id: 25469
@@ -35,3 +31,4 @@ posts:
     subject: счас поправим... спасибо
     deleted: false
     person_id: 4
+  inferred_person_id: 7465

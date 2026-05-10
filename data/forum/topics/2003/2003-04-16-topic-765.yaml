@@ -12,10 +12,7 @@ posts:
   email: gypsy@mail.ru
   subject: Хорошая спокойная музыка для любителей ориенталистики...
   deleted: false
-  text: "Мдя... как жаль, что раньше я не знал этого уважаемого пакистанского джентельмена,\
-    \ коего зовут Nusrat Fateh Ali Khan. По AMG почти все альбомы - четыре-пять звёзд.\
-    \ \nА то от любимого блюза в ушах уже бананы выросли.. срочно требуется прочистка\
-    \ чем-то радикально иным.\n\nftp://mp3.int.ru/pub/mp3/Nusrat_Fateh_Ali_Khan/"
+  text: "Мдя... как жаль, что раньше я не знал этого уважаемого пакистанского джентельмена, коего зовут Nusrat Fateh Ali Khan. По AMG почти все альбомы - четыре-пять звёзд. \nА то от любимого блюза в ушах уже бананы выросли.. срочно требуется прочистка чем-то радикально иным.\n\nftp://mp3.int.ru/pub/mp3/Nusrat_Fateh_Ali_Khan/"
   replies:
   - id: 11913
     parent_id: 11905
@@ -24,10 +21,7 @@ posts:
     email: morehemp@mail.ru
     subject: Вабщета..
     deleted: false
-    text: "он довольно известен.. :)\nНе уверена насчет любителей ориенталистики..\
-      \ \nНо Вам для тех же целей рискну предложить послушать заглавную вещь с пластинки\
-      \ Родригеса, тем более, что все обошлось совсем без звука гитары. \nhttp://greta.bluesman.ru/mine/Rodriguez/06-El_Danzon_De_Moises.mp3\n\
-      \nНу и тем, кому интересно, \"Jerusalem Market\" того же автора..\nhttp://greta.bluesman.ru/mine/09-Jerusalem_Market.mp3"
+    text: "он довольно известен.. :)\nНе уверена насчет любителей ориенталистики.. \nНо Вам для тех же целей рискну предложить послушать заглавную вещь с пластинки Родригеса, тем более, что все обошлось совсем без звука гитары. \nhttp://greta.bluesman.ru/mine/Rodriguez/06-El_Danzon_De_Moises.mp3\n\nНу и тем, кому интересно, \"Jerusalem Market\" того же автора..\nhttp://greta.bluesman.ru/mine/09-Jerusalem_Market.mp3"
   - id: 11914
     parent_id: 11905
     date: 2003-04-17 16:59
@@ -35,11 +29,7 @@ posts:
     email: morehemp@mail.ru
     subject: :)
     deleted: false
-    text: "А вот ещё тем, у кого устали уши от блюза :)\nКоллектив Stretch, созданный\
-      \ Elmer'om Gantry, - бывшим когда-то блюзовым музыкантом, - в свое время, видимо,\
-      \ тоже уставшим от блюза :) \nС альбома You Can't Beat Your Brain For Entertainment(1976).\n\
-      http://greta.bluesman.ru/mine/Stretch/  \nЖаль, что лучшую его пластинку (Elastique\
-      \ - 1975) найти нереально."
+    text: "А вот ещё тем, у кого устали уши от блюза :)\nКоллектив Stretch, созданный Elmer'om Gantry, - бывшим когда-то блюзовым музыкантом, - в свое время, видимо, тоже уставшим от блюза :) \nС альбома You Can't Beat Your Brain For Entertainment(1976).\nhttp://greta.bluesman.ru/mine/Stretch/  \nЖаль, что лучшую его пластинку (Elastique - 1975) найти нереально."
     replies:
     - id: 11917
       parent_id: 11914
@@ -48,5 +38,5 @@ posts:
       email: www.geocities.com/drikasblues
       subject: Ориентальный каэф
       deleted: false
-      text: Очень рекомендую послушать старый Live альбом ШАКТИ с Джоном Маклохлином,
-        Закиром Хусеином и Шанкаром - высокое мастерство, полная акустика.
+      text: Очень рекомендую послушать старый Live альбом ШАКТИ с Джоном Маклохлином, Закиром Хусеином и Шанкаром - высокое мастерство, полная акустика.
+  inferred_person_id: 13

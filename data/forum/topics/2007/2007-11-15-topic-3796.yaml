@@ -12,8 +12,7 @@ posts:
   email: gypsy@mail.ru
   subject: Клип O.V.Wright
   deleted: false
-  text: "Вдруг появился на ЮТубе.. \n\nhttp://youtube.com/watch?v=UbuRveE0s6M\nCHICAGO 1975 \n\nДля меня этот клип как маузер\
-    \ Дзержинского..."
+  text: "Вдруг появился на ЮТубе.. \n\nhttp://youtube.com/watch?v=UbuRveE0s6M\nCHICAGO 1975 \n\nДля меня этот клип как маузер Дзержинского..."
   replies:
   - id: 33890
     parent_id: 33887
@@ -43,4 +42,6 @@ posts:
         deleted: false
         text: вот это ты загнул!!!
         person_id: 335
+      inferred_person_id: 13
     person_id: 335
+  inferred_person_id: 13

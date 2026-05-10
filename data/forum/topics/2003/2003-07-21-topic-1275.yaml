@@ -12,8 +12,7 @@ posts:
   email: morozzz_ded@mail.ru
   subject: Пара блюзовых текста.
   deleted: false
-  text: Может кто-нибудь подкинет тексты таких вещей, как Ain't That Loving You Baby и Railroad Station Blues или даст ссылочку
-    на сайт с блюзовой лирикой, где эти вещи есть?
+  text: Может кто-нибудь подкинет тексты таких вещей, как Ain't That Loving You Baby и Railroad Station Blues или даст ссылочку на сайт с блюзовой лирикой, где эти вещи есть?
   replies:
   - id: 13286
     parent_id: 13285
@@ -317,4 +316,5 @@ posts:
           person_id: 1749
         person_id: 82
       person_id: 1749
+    inferred_person_id: 366
   person_id: 1749

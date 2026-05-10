@@ -66,4 +66,6 @@ posts:
         subject: http://youtube.com/user/RoadhouseMoscow
         deleted: false
         person_id: 4
+      inferred_person_id: 7202
     person_id: 4
+  inferred_person_id: 671

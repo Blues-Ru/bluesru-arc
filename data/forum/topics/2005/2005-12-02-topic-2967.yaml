@@ -57,5 +57,8 @@ posts:
             subject: цена как в норвегии на блюз фесте ;)
             deleted: false
             person_id: 5
+          inferred_person_id: 3168
+        inferred_person_id: 5
+      inferred_person_id: 3168
     person_id: 5
   person_id: 2

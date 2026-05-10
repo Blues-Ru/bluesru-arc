@@ -12,11 +12,7 @@ posts:
   email: morrah@yandex.ru
   subject: Ребята! Мы победили!
   deleted: false
-  text: "Дорогие мои блюзру-форумцы! Мы с Life-n-Joy! рады вам сообщить, что в жаркой борьбе на конкурсе gbob - www.gbob.ru\
-    \ нам досталась долгожданная победа!\n Теперь, 7-го Декабря, нам предстоит играть в Лондоне - продолжить битву за родную\
-    \ страну, за свою музыку. \nЯ знаю, что нас многие не любят, обвиняют в тех или иных \"стилевых пороках\". НО! У нас получилось\
-    \ доказать, что мы верны себе, мы достойны сыграть на родной земле рок-музыки - в Англии. \nДрузья!\nLnJ! во многом признательны\
-    \ именно вам, блюзовой тусовке.\nНе спрашивайте меня, почему я так говорю. Просто, спасибо вам, ребята!"
+  text: "Дорогие мои блюзру-форумцы! Мы с Life-n-Joy! рады вам сообщить, что в жаркой борьбе на конкурсе gbob - www.gbob.ru нам досталась долгожданная победа!\n Теперь, 7-го Декабря, нам предстоит играть в Лондоне - продолжить битву за родную страну, за свою музыку. \nЯ знаю, что нас многие не любят, обвиняют в тех или иных \"стилевых пороках\". НО! У нас получилось доказать, что мы верны себе, мы достойны сыграть на родной земле рок-музыки - в Англии. \nДрузья!\nLnJ! во многом признательны именно вам, блюзовой тусовке.\nНе спрашивайте меня, почему я так говорю. Просто, спасибо вам, ребята!"
   replies:
   - id: 24661
     parent_id: 24660
@@ -53,6 +49,7 @@ posts:
     text: 'Удачи вам там....мы будем болеть за L''n''J.
 
       Когда вернетесь, пропиши о впечатлениях плиииз.'
+    inferred_person_id: 204
   - id: 24666
     parent_id: 24660
     date: 2005-11-22 13:13
@@ -76,11 +73,7 @@ posts:
     email: doc@doc.com
     subject: G B O B
     deleted: false
-    text: "ЖЕЛАЮ УСПЕХА !!!\nWednesday, 7 December 2005 \n\nGlobal Battle Of The Bands World Final:\nEverafta + Misty Mono\
-      \ + The New Brand + Beinhard + Lapko + Building a Better Spaceship + Marius + The Rise + Rub Saqer & Ramzi Rais + The\
-      \ Authority\n\nwww.gbob.com .\n\nAt Astoria, London \nFrom 6:30pm \nPrice: &#163;12.00 / &#163;10.00 in advance \n\n\
-      Astoria\n157 Charing Cross Road\nLondon\nWC2H 0EN\n\nTrain: Charing Cross (13 mins) \nTube: Tottenham Court Rd (2 mins)\
-      \ \n\nEnquiries: 020 7434 0403\nBox Office: 020 7344 0044"
+    text: "ЖЕЛАЮ УСПЕХА !!!\nWednesday, 7 December 2005 \n\nGlobal Battle Of The Bands World Final:\nEverafta + Misty Mono + The New Brand + Beinhard + Lapko + Building a Better Spaceship + Marius + The Rise + Rub Saqer & Ramzi Rais + The Authority\n\nwww.gbob.com .\n\nAt Astoria, London \nFrom 6:30pm \nPrice: &#163;12.00 / &#163;10.00 in advance \n\nAstoria\n157 Charing Cross Road\nLondon\nWC2H 0EN\n\nTrain: Charing Cross (13 mins) \nTube: Tottenham Court Rd (2 mins) \n\nEnquiries: 020 7434 0403\nBox Office: 020 7344 0044"
   - id: 24678
     parent_id: 24660
     date: 2005-11-22 15:45
@@ -98,6 +91,7 @@ posts:
     subject: Так держать!!! =))
     deleted: false
     text: Перенесем борьбу с вероятным противником на его территорию!
+    inferred_person_id: 13
   - id: 24693
     parent_id: 24660
     date: 2005-11-22 17:40
@@ -150,6 +144,7 @@ posts:
           person_id: 335
         person_id: 1719
       person_id: 335
+    inferred_person_id: 2465
   - id: 24715
     parent_id: 24660
     date: 2005-11-23 09:20
@@ -158,6 +153,7 @@ posts:
     subject: Оксана!!! Очень рад за тебя...и жду дальнейших успехов...
     deleted: false
     text: Тока не почивай на лаврах...А памятник я тебе уже в памяти поставил...пусть и за блюзовые,но несомненные достижения))))
+    inferred_person_id: 3168
   - id: 24744
     parent_id: 24660
     date: 2005-11-27 12:47
@@ -173,7 +169,7 @@ posts:
     email: manirko@list.ru
     subject: Поздравляю. Кстати в Лондоне можете оращаться, если что.
     deleted: false
-    text: 'Оксан, если нужна будет в Лонжоне какая-нибудь помощь, или надо будет инстументы там положить на денек, или что-то,
-      то на севере-западе Лондона (Ну это в стороне аеропорта heathrow) можете обращаться. Я рядом с Кингстоном.
+    text: 'Оксан, если нужна будет в Лонжоне какая-нибудь помощь, или надо будет инстументы там положить на денек, или что-то, то на севере-западе Лондона (Ну это в стороне аеропорта heathrow) можете обращаться. Я рядом с Кингстоном.
 
       Поздравляю.'
+  inferred_person_id: 2465

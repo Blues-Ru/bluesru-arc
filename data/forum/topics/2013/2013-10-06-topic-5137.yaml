@@ -11,8 +11,7 @@ posts:
   poster: Andrei V. Evdokimov
   subject: Son House - редкие записи 1941 и 1942 года
   deleted: false
-  text: 'по результатам двух фольклорных экспедиций Алана Ломакса. Field Recordings следует понимать, как "Домашние записи".
-    Сделаны для Библиотеки Конгресса США.
+  text: 'по результатам двух фольклорных экспедиций Алана Ломакса. Field Recordings следует понимать, как "Домашние записи". Сделаны для Библиотеки Конгресса США.
 
 
     <iframe width="640" height="360" src="//www.youtube.com/embed/aT1Qs1mDQ4o" frameborder="0" allowfullscreen></iframe>'
@@ -25,3 +24,4 @@ posts:
     deleted: false
     text: На дисках издавались вполне официально...
     person_id: 6
+  inferred_person_id: 4

@@ -12,7 +12,5 @@ posts:
   email: volodya@blues.ru
   subject: Эфес. полстарр говорит такое :)
   deleted: false
-  text: "Москва:\n\nэфес\n\n  Thu  10/27/05      Buckwheat Zydeco   \n  Thu  10/27/05\
-    \      Big Time Sarah   \n  Thu  10/27/05      Magic Slim & The Teardrops   \n\
-    \  Fri  10/28/05      Buckwheat Zydeco   \n  Fri  10/28/05      Big Time Sarah\
-    \   \n  Fri  10/28/05      Magic Slim & The Teardrops"
+  text: "Москва:\n\nэфес\n\n  Thu  10/27/05      Buckwheat Zydeco   \n  Thu  10/27/05      Big Time Sarah   \n  Thu  10/27/05      Magic Slim & The Teardrops   \n  Fri  10/28/05      Buckwheat Zydeco   \n  Fri  10/28/05      Big Time Sarah   \n  Fri  10/28/05      Magic Slim & The Teardrops"
+  inferred_person_id: 5
