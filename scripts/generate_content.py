@@ -1,9 +1,23 @@
 #!/usr/bin/env python3
 """Copy and post-process static content sections."""
+import shutil
 import sys
 from pathlib import Path
+
 sys.path.insert(0, str(Path(__file__).parent))
-from generate_shared import *
+
+from generate_shared import (
+    ARC,
+    CAL_IMGS,
+    CONTENT,
+    SITE,
+    _build_custom_gallery_media_map,
+    _copy_dir,
+    _copy_section,
+    _gallery_dir_prefixes,
+    process_html,
+    read_file,
+)
 
 
 def generate_content():

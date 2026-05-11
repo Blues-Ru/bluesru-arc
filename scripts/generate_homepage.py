@@ -1,9 +1,24 @@
 #!/usr/bin/env python3
 """Generate homepage (index.html) and links page."""
+import re
 import sys
+import yaml
+from datetime import datetime
 from pathlib import Path
+
 sys.path.insert(0, str(Path(__file__).parent))
-from generate_shared import *
+
+from generate_shared import (
+    ANNOUNCE_DIR,
+    DATA,
+    FOOTER,
+    JINJA_ENV,
+    NEWS_DIR,
+    RE_FM,
+    SITE,
+    _build_links_snippet,
+    _generate_links_page,
+)
 
 
 def generate_homepage():
@@ -23,7 +38,6 @@ def generate_homepage():
         for meta in raw_news[:10]:
             ds = str(meta.get('date', ''))
             nid = meta.get('id', '')
-            slug = meta.get('slug', f'story{nid}')
             url = (f'/news/{ds[:4]}/{ds[5:7]}/{ds[8:10]}/story{nid}/'
                    if ds and len(ds) >= 10 else '#')
             blues_news_items.append({

@@ -1,10 +1,27 @@
 #!/usr/bin/env python3
 """Generate /atb/ section — 'Весь этот блюз' radio show index + episode pages."""
+import html as html_mod
+import re
 import sys
-from pathlib import Path
-sys.path.insert(0, str(Path(__file__).parent))
-from generate_shared import *
+import yaml
 from collections import OrderedDict
+from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).parent))
+
+from generate_shared import (
+    ATB,
+    ATB_EPISODES_YAML,
+    ATB_TRANSCRIPTS_DIR,
+    CONTENT,
+    FOOTER,
+    JINJA_ENV,
+    SITE,
+    _parse_transcript_md,
+    _transcript_to_html,
+    process_html,
+    read_file,
+)
 
 
 def generate_atb():
