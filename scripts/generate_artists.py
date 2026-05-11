@@ -23,13 +23,13 @@ from generate_shared import (
     load_artists,
     load_resources,
 )
-from artist_utils import build_album_list_html
+from artist_utils import build_album_list_html, photo_section_html
 from calendar_render import calendar_events_html
 from models import CalendarEvent
 
 
-def generate_bluesmen() -> None:
-    print("Generating bluesmen pages...")
+def generate_artists() -> None:
+    print("Generating artist pages...")
     artists            = load_artists()
     tmpl               = JINJA_ENV.get_template('bluesmen_list.html.j2')
     resources_by_artist = load_resources()
@@ -164,7 +164,8 @@ def generate_bluesmen() -> None:
             albums_html = (build_album_list_html(slug, artist_id, albums_by_artist_id)
                            if slug else '')
             from artist_utils import atb_links_html
-            atb_html  = atb_links_html(atb_by_slug.get(slug, []))
+            atb_html   = atb_links_html(atb_by_slug.get(slug, []))
+            photo_html = photo_section_html(galleries_by_slug.get(slug, []))
             cal_events = [CalendarEvent.model_validate(e)
                           for e in calendar_by_slug.get(slug, [])]
             cal_html  = calendar_events_html(cal_events)
@@ -173,12 +174,14 @@ def generate_bluesmen() -> None:
                                 artist_albums_html=albums_html,
                                 artist_atb_html=atb_html or None,
                                 artist_resource_links_html=resource_links,
-                                artist_calendar_html=cal_html or None)
+                                artist_calendar_html=cal_html or None,
+                                artist_photo_html=photo_html or None)
             bio_count += 1
 
         elif (has_reviews or has_galleries) and slug:
             from artist_utils import atb_links_html
             atb_html   = atb_links_html(atb_by_slug.get(slug, []))
+            photo_html = photo_section_html(galleries_by_slug.get(slug, []))
             cal_events = [CalendarEvent.model_validate(e)
                           for e in calendar_by_slug.get(slug, [])]
             cal_html   = calendar_events_html(cal_events)
@@ -189,7 +192,8 @@ def generate_bluesmen() -> None:
                                        artist_atb_html=atb_html or None,
                                        artist_resource_links_html=resource_links or None,
                                        artist_calendar_html=cal_html or None,
-                                       artist_albums_html=albums_html or None)
+                                       artist_albums_html=albums_html or None,
+                                       artist_photo_html=photo_html or None)
             stub_count += 1
 
     # Fallback: process orphaned bio dirs
@@ -261,8 +265,8 @@ def generate_bluesmen() -> None:
     dst = SITE / 'artist' / 'index.html'
     dst.parent.mkdir(parents=True, exist_ok=True)
     dst.write_text(out, encoding='utf-8')
-    print(f"  Bluesmen list: {len(artists)} artists, {bio_count} bio pages + {stub_count} stub pages")
+    print(f"  Artists: {len(artists)} artists, {bio_count} bio pages + {stub_count} stub pages")
 
 
 if __name__ == '__main__':
-    generate_bluesmen()
+    generate_artists()

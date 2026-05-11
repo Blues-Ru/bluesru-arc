@@ -19,7 +19,7 @@ from generate_shared import (
 from gallery_utils import gallery_canonical_url as _gallery_canonical_url
 
 
-def generate_galleries() -> None:
+def generate_photo_pages() -> None:
     """Generate gallery index pages from data/galleries/ YAML."""
     galleries = load_all_gallery_yamls()
     tmpl      = JINJA_ENV.get_template('gallery.html.j2')
@@ -248,9 +248,9 @@ def generate_photo_index() -> None:
 if __name__ == '__main__':
     if '--section' in sys.argv:
         section = sys.argv[sys.argv.index('--section') + 1]
-        if section == 'galleries':
-            generate_galleries()
-        elif section == 'photo':
+        if section == 'photo-pages':
+            generate_photo_pages()
+        elif section == 'photo-index':
             generate_photo_index()
     else:
-        generate_galleries()
+        generate_photo_pages()

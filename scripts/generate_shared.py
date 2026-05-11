@@ -197,6 +197,7 @@ GA_SNIPPET = '''\
 SITE_CSS_TAG = (
     '<meta name="viewport" content="width=device-width, initial-scale=1">\n'
     '<link rel="stylesheet" href="/css/site.css">\n'
+    '<link rel="stylesheet" href="/css/photo.css">\n'
     '<link rel="stylesheet" href="/css/responsive.css">'
 )
 
@@ -628,6 +629,7 @@ def process_html(
     artist_atb_html: str | None = None,
     artist_resource_links_html: str | None = None,
     artist_calendar_html: str | None = None,
+    artist_photo_html: str | None = None,
 ) -> str:
     """Main HTML processing pipeline: clean, resolve SSI, inject artist blocks, rewrite links."""
     content = strip_analytics(content)
@@ -649,6 +651,8 @@ def process_html(
                 res_links = (res_links + ' | ' if res_links else '') + stream_html
         if res_links:
             nav_block += f'<p style="font-size:1.1em">{res_links}</p>\n'
+        if artist_photo_html:
+            nav_block += f'\n{artist_photo_html}\n'
         if artist_atb_html:
             nav_block += f'<p>{artist_atb_html}</p>\n'
         if artist_calendar_html:
@@ -701,6 +705,7 @@ def _process_artist_dir(
     artist_atb_html: str | None = None,
     artist_resource_links_html: str | None = None,
     artist_calendar_html: str | None = None,
+    artist_photo_html: str | None = None,
 ) -> None:
     _process_artist_dir_impl(
         artist, src_dir, src_root, SITE, SKIP_EXTENSIONS, process_html,
@@ -709,6 +714,7 @@ def _process_artist_dir(
         artist_atb_html=artist_atb_html,
         artist_resource_links_html=artist_resource_links_html,
         artist_calendar_html=artist_calendar_html,
+        artist_photo_html=artist_photo_html,
     )
 
 
@@ -722,6 +728,7 @@ def _generate_stub_artist_page(
     artist_resource_links_html: str | None = None,
     artist_calendar_html: str | None = None,
     artist_albums_html: str | None = None,
+    artist_photo_html: str | None = None,
 ) -> Path:
     slug = artist.get('slug', '')
     name = artist.get('name', '')
@@ -757,6 +764,7 @@ def _generate_stub_artist_page(
         artist_resource_links=artist_resource_links_html or '',
         artist_calendar_links=artist_calendar_html or '',
         artist_album_list=artist_albums_html or '',
+        artist_photo_html=artist_photo_html or '',
         footer=FOOTER,
     )
     dst = SITE / 'artist' / slug / 'index.html'

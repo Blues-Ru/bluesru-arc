@@ -112,6 +112,33 @@ def scan_artist_subpages(artist_dir: Path, artist_slug: str) -> list[dict]:
 
 # ── ATB links ─────────────────────────────────────────────────────────────────
 
+def photo_section_html(galleries: list[dict]) -> str:
+    """Render a photo gallery section for an artist page."""
+    if not galleries:
+        return ''
+    cards: list[str] = []
+    for g in sorted(galleries, key=lambda g: g.get('date', '')):
+        url   = g['url']
+        title = html_mod.escape(g.get('title') or 'Фото')
+        thumb = g.get('thumb', '')
+        count = g.get('photo_count', 0)
+        date  = g.get('date', '')
+        img   = (f'<img src="{thumb}" loading="lazy" alt="{title}">'
+                 if thumb else '')
+        meta_parts = [f'{count}\u00a0фото'] if count else []
+        if date:
+            meta_parts.append(f'<span class="card-date">·\u00a0{html_mod.escape(date)}</span>')
+        meta = f'<div class="card-meta">{" ".join(meta_parts)}</div>' if meta_parts else ''
+        cards.append(
+            f'<div class="gallery-card">\n'
+            f'  <a href="{url}">{img}'
+            f'<div class="card-title">{title}</div>{meta}</a>\n'
+            f'</div>'
+        )
+    grid = '\n'.join(cards)
+    return f'<a name="photo" id="photo"></a>\n<h2>Фото</h2>\n<div class="gallery-grid">\n{grid}\n</div>'
+
+
 def atb_links_html(atb_episodes: list[dict]) -> str:
     """Render ATB episode links block for artist pages."""
     if not atb_episodes:
@@ -124,7 +151,7 @@ def atb_links_html(atb_episodes: list[dict]) -> str:
         date_str = (f'<small style="color:#777">{html_mod.escape(date)}</small> '
                     if date else '')
         lines.append(f'{date_str}<a href="{url}">{label}</a>')
-    return '<b>Весь этот блюз:</b><br>' + '<br>'.join(lines)
+    return '<h2>Весь этот блюз</h2>\n' + '<br>'.join(lines)
 
 
 # ── Resource links ─────────────────────────────────────────────────────────────
@@ -165,11 +192,12 @@ def collect_artist_links(
         links.append(ArtistLink(type=r['type'], url=r['url'], title=r['label'], external=False))
         seen.add(r['url'])
 
-    # 2. Photo galleries
-    for g in sorted(galleries_by_slug.get(slug, []), key=lambda g: g.get('date', '')):
-        links.append(ArtistLink(type='photo', url=g['url'],
-                                title=g.get('title') or 'Фото', external=False))
-        seen.add(g['url'])
+    # 2. Photo galleries — single "Фото" anchor link to #photo section
+    if galleries_by_slug.get(slug) and slug:
+        photo_anchor = f'/artist/{slug}/#photo'
+        links.append(ArtistLink(type='photo', url=photo_anchor,
+                                title='Фото', external=False))
+        seen.add(photo_anchor)
 
     # 3. Manual resources from artists.yaml
     for r in resources_by_artist.get(str(artist_id), []):
@@ -350,6 +378,7 @@ def process_artist_dir(
     artist_atb_html: str | None = None,
     artist_resource_links_html: str | None = None,
     artist_calendar_html: str | None = None,
+    artist_photo_html: str | None = None,
 ) -> None:
     """
     Copy an artist's source directory to the output site, processing HTML files.
@@ -400,6 +429,7 @@ def process_artist_dir(
                     artist_atb_html=artist_atb_html if is_main else None,
                     artist_resource_links_html=artist_resource_links_html if is_main else None,
                     artist_calendar_html=artist_calendar_html if is_main else None,
+                    artist_photo_html=artist_photo_html if is_main else None,
                 )
                 dst_path.write_text(content, encoding='utf-8')
 

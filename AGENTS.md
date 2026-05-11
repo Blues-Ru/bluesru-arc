@@ -36,7 +36,7 @@ make backup             # rename existing bluesru-site/ with timestamp (runs aut
 
 ```bash
 make content     # static legacy HTML (bluesnews, beefheart, ethnotrip, zappazuhoi, band, efes…)
-make bluesmen    # artist pages (422 artists → /artist/{slug}/)
+make artists    # artist pages (422 artists → /artist/{slug}/)
 make reviews     # album review pages (1652 albums → /artist/{a-slug}/{alb-slug}/)
 make news        # news archive (1082 stories → /news/YYYY/MM/DD/storyN/)
 make updates     # site announcements (968 items → /updates/YYYY/)
@@ -90,17 +90,17 @@ bluesru-arc/
 ├── scripts/               Python generators and dev tools
 │   ├── generate_shared.py   Shared constants, helpers, data loaders (all generators import this)
 │   ├── generate.py          Section dispatcher (--section NAME)
-│   ├── generate_bluesmen.py Artist pages
+│   ├── generate_artists.py Artist pages
 │   ├── generate_reviews.py  Album review pages
 │   ├── generate_news.py     News archive
 │   ├── generate_updates.py  Site announcements
 │   ├── generate_forum.py    Forum pages + sharding support
-│   ├── generate_galleries.py Photo gallery pages + index
+│   ├── generate_photos.py Photo gallery pages + index
 │   ├── generate_atb.py      Radio show pages
 │   ├── generate_content.py  Static content copy + processing
 │   ├── generate_homepage.py Homepage + links directory
-│   ├── generate_calendar_page.py Calendar pages
-│   ├── generate_data_json.py Pre-built JSON for client-side JS
+│   ├── generate_calendar.py Calendar pages
+│   ├── generate_data.py Pre-built JSON for client-side JS
 │   ├── generate_anagrams.py Anagrams game page
 │   ├── forum_plan.py        Split forum topics into shards
 │   ├── serve.py             Local test server
@@ -229,15 +229,15 @@ Pages built entirely from `data/` by Python generators + Jinja2 templates:
 
 | Section | Generator | Output | Count |
 |---------|-----------|--------|-------|
-| Artist pages | `generate_bluesmen.py` | `/artist/{slug}/` | 422 |
+| Artist pages | `generate_artists.py` | `/artist/{slug}/` | 422 |
 | Album reviews | `generate_reviews.py` | `/artist/{a}/{alb}/` | 1,652 |
 | News archive | `generate_news.py` | `/news/YYYY/MM/DD/storyN/` | 1,082 |
 | Site updates | `generate_updates.py` | `/updates/YYYY/` | 968 |
 | Forum | `generate_forum.py` | `/forum/topic{N}.html` | 5,230 |
-| Photo galleries | `generate_galleries.py` | `/photo/YYYY/{slug}/` | 295 |
+| Photo galleries | `generate_photos.py` | `/photo/YYYY/{slug}/` | 295 |
 | ATB radio show | `generate_atb.py` | `/atb/{slug}/` | 349 |
 | Homepage | `generate_homepage.py` | `/` + `/links/` | — |
-| Calendar | `generate_calendar_page.py` | `/calendar/` | — |
+| Calendar | `generate_calendar.py` | `/calendar/` | — |
 
 ### 2. Static Content (processed legacy HTML)
 HTML from `content/` is copied to site with: analytics stripped, SSI includes resolved, links rewritten. Generator: `generate_content.py`.
@@ -254,7 +254,7 @@ Key static sections:
 - `content/arc/` → `/arc/` (archive history article, listed in `static_sections`)
 
 ### 3. Pre-built JSON (client-side JS)
-Built by `generate_data_json.py` → `bluesru-site/data/`:
+Built by `generate_data.py` → `bluesru-site/data/`:
 - `data/calendar.json` — events indexed by MM-DD, loaded by `calendar.js`
 - `data/artists/{slug}.json` — per-artist album list, loaded by `bluesmen.js`
 

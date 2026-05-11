@@ -4,8 +4,8 @@ Thin dispatcher for bluesru-arc section generators.
 
 Usage: python3 scripts/generate.py --section SECTION [--shard-file FILE]
 
-Sections: content forum-authors forum forum-index forum-topics reviews news updates bluesmen
-          atb galleries photo homepage postprocess deploy
+Sections: content forum-authors forum forum-index forum-topics reviews news updates artists
+          atb photo-pages photo-index homepage postprocess deploy
 
 Individual scripts can also be run directly:
   python3 scripts/generate_forum.py
@@ -23,8 +23,8 @@ from generate_forum_authors import generate_forum_authors
 from generate_reviews import generate_reviews
 from generate_news import generate_news
 from generate_updates import generate_updates
-from generate_bluesmen import generate_bluesmen
-from generate_galleries import generate_galleries, generate_photo_index
+from generate_artists import generate_artists
+from generate_photos import generate_photo_pages, generate_photo_index
 from generate_content import generate_content
 from generate_atb import generate_atb
 from generate_homepage import generate_homepage
@@ -37,10 +37,10 @@ SECTIONS = {
     'reviews':      generate_reviews,
     'news':         generate_news,
     'updates':      generate_updates,
-    'bluesmen':     generate_bluesmen,
+    'artists':      generate_artists,
     'atb':          generate_atb,
-    'galleries':    generate_galleries,
-    'photo':        generate_photo_index,
+    'photo-pages':  generate_photo_pages,
+    'photo-index':  generate_photo_index,
     'homepage':     generate_homepage,
     'postprocess':  postprocess_dead_links,
     'deploy':       copy_root_files,

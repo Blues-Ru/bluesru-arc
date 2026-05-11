@@ -25,8 +25,8 @@ deps: .deps-stamp
 # Runs all sections in dependency order, with site backup before starting.
 # Use 'make build-parallel' for faster parallel execution.
 
-build: deps backup data calendar anagrams content bluesmen news reviews atb \
-       updates homepage galleries photo forum-authors forum postprocess sitemap deploy
+build: deps backup data calendar anagrams content artists news reviews atb \
+       updates homepage photo-pages photo-index forum-authors forum postprocess sitemap deploy
 
 backup:
 	@if [ -d "$(SITE)" ]; then \
@@ -39,9 +39,9 @@ backup:
 # ── Parallel build ────────────────────────────────────────────────────────────
 #
 # DAG:
-#   Phase 1 (parallel): content bluesmen news reviews atb updates homepage
-#                       data galleries forum-index forum-plan
-#   Phase 2 (parallel): photo  forum-shard-0..N  (after galleries / forum-plan+index)
+#   Phase 1 (parallel): content artists news reviews atb updates homepage
+#                       data photo-pages forum-index forum-plan
+#   Phase 2 (parallel): photo-index  forum-shard-0..N  (after photo-pages / forum-plan+index)
 #   Phase 3:            postprocess
 #   Phase 4:            deploy
 #
@@ -56,13 +56,11 @@ sitemap: postprocess
 
 postprocess: _phase2
 
-_phase2: photo $(addprefix forum-shard-, $(SHARDS))
-
-photo: galleries
+_phase2: photo-index $(addprefix forum-shard-, $(SHARDS))
 
 # Phase 1 — all independent sections + forum prep
-_phase1: content bluesmen news reviews atb updates homepage data calendar \
-         anagrams galleries forum-authors forum-index forum-plan
+_phase1: content artists news reviews atb updates homepage data calendar \
+         anagrams photo-pages forum-authors forum-index forum-plan
 
 postprocess: _phase1
 
@@ -71,8 +69,8 @@ postprocess: _phase1
 content:
 	$(RUN) $(SCRIPTS)/generate_content.py
 
-bluesmen:
-	$(RUN) $(SCRIPTS)/generate_bluesmen.py
+artists:
+	$(RUN) $(SCRIPTS)/generate_artists.py
 
 news:
 	$(RUN) $(SCRIPTS)/generate_news.py
@@ -96,19 +94,21 @@ deploy:
 	$(RUN) $(SCRIPTS)/generate.py --section deploy
 
 calendar:
-	$(RUN) $(SCRIPTS)/generate_calendar_page.py
+	$(RUN) $(SCRIPTS)/generate_calendar.py
 
 anagrams:
 	$(RUN) $(SCRIPTS)/generate_anagrams.py
 
-galleries:
-	$(RUN) $(SCRIPTS)/generate_galleries.py --section galleries
+photo-pages:
+	$(RUN) $(SCRIPTS)/generate_photos.py --section photo-pages
 
-photo:
-	$(RUN) $(SCRIPTS)/generate_galleries.py --section photo
+photo-index:
+	$(RUN) $(SCRIPTS)/generate_photos.py --section photo-index
+
+photos: photo-pages photo-index
 
 data:
-	$(RUN) $(SCRIPTS)/generate_data_json.py
+	$(RUN) $(SCRIPTS)/generate_data.py
 
 # ── Forum ─────────────────────────────────────────────────────────────────────
 
@@ -153,8 +153,8 @@ push-cache:
 push-all: push-media push-cache push
 
 .PHONY: deps build build-parallel backup _phase1 _phase2 \
-        content bluesmen news reviews atb updates homepage data \
-        calendar anagrams galleries photo postprocess sitemap deploy \
+        content artists news reviews atb updates homepage data \
+        calendar anagrams photo-pages photo-index photos postprocess sitemap deploy \
         forum-authors forum forum-plan forum-index \
         $(addprefix forum-shard-, $(SHARDS)) \
         serve thumbs thumbs-dry \

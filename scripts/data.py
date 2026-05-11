@@ -389,11 +389,29 @@ class DataStore:
             if not year:
                 continue
             url = f'/{canonical_rel}/'
+
+            photo_count = raw.get('photo_count', 0) or 0
+            thumb_url   = ''
+            per_path    = self.gallery_yaml_path(slug)
+            if per_path and per_path.exists():
+                per = _read_yaml(per_path) or {}
+                photos = [p for p in (per.get('photos') or [])
+                          if isinstance(p, dict) and p.get('file')]
+                if photos:
+                    first = photos[0]['file']
+                    stem, _, ext = first.rpartition('.')
+                    if ext.lower() in ('jpg', 'jpeg', 'png', 'webp'):
+                        first = f'{stem}-400w.jpg'
+                    thumb_url = f'/{canonical_rel}/{first}'
+                photo_count = per.get('photo_count', photo_count) or len(photos)
+
             entry = {
-                'slug': slug,
-                'title': raw.get('title', ''),
-                'url': url,
-                'date': str(raw.get('canonical_date', '') or ''),
+                'slug':        slug,
+                'title':       raw.get('title', ''),
+                'url':         url,
+                'date':        str(raw.get('canonical_date', '') or ''),
+                'thumb':       thumb_url,
+                'photo_count': photo_count,
             }
             for artist_slug in tags:
                 index.setdefault(artist_slug, []).append(entry)
