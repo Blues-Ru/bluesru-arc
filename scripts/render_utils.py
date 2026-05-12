@@ -12,10 +12,14 @@ from pathlib import Path
 _COVERS = Path(__file__).resolve().parent.parent / 'covers'
 
 
-def cover_url_for_asin(asin: str | None) -> str:
-    """Return a local /covers/{asin}.jpg path, falling back to Amazon CDN."""
+NO_COVER_URL = '/images/no-cover.svg'
+
+
+def cover_url_for_asin(asin: str | None, fallback: bool = False) -> str:
+    """Return a local /covers/{asin}.jpg path, falling back to Amazon CDN.
+    If fallback=True and no ASIN, returns the no-cover placeholder."""
     if not asin:
-        return ''
+        return NO_COVER_URL if fallback else ''
     local = _COVERS / f'{asin}.jpg'
     if local.exists():
         return f'/covers/{asin}.jpg'

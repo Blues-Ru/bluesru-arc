@@ -317,6 +317,10 @@ def streaming_links_html(slug: str, kind: str = 'artist') -> str:
     return _streaming_mod.streaming_links_html(slug, kind, _store)
 
 
+def stream_icons_html(slug: str, kind: str = 'artist') -> str:
+    return _streaming_mod.stream_icons_html(slug, kind, _store)
+
+
 # ── Data loaders (thin wrappers over data.store) ──────────────────────────────
 
 def load_artists() -> list:
@@ -554,12 +558,14 @@ def collect_artist_links(
     resources_by_artist: dict,
     calendar_by_slug: dict,
     has_album_list: bool = False,
+    has_atb: bool = False,
 ) -> list:
     artist_ids = _store.artist_streaming().get(slug)
     return _collect_artist_links_impl(
         slug, artist_id, src_dir,
         galleries_by_slug, resources_by_artist, calendar_by_slug,
         has_album_list=has_album_list,
+        has_atb=has_atb,
         artist_streaming_ids=artist_ids,
     )
 
@@ -651,6 +657,9 @@ def process_html(
                 res_links = (res_links + ' | ' if res_links else '') + stream_html
         if res_links:
             nav_block += f'<p style="font-size:1.1em">{res_links}</p>\n'
+        icons_html = stream_icons_html(artist_slug, kind='artist')
+        if icons_html:
+            nav_block += icons_html
         if artist_photo_html:
             nav_block += f'\n{artist_photo_html}\n'
         if artist_atb_html:
@@ -760,6 +769,7 @@ def _generate_stub_artist_page(
         reviews=[],
         streaming_links='',
         artist_streaming_links=artist_streaming,
+        stream_icons=stream_icons_html(slug, kind='artist'),
         artist_atb_links=artist_atb_html or '',
         artist_resource_links=artist_resource_links_html or '',
         artist_calendar_links=artist_calendar_html or '',

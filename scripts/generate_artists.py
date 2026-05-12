@@ -119,6 +119,7 @@ def generate_artists() -> None:
             slug, artist_id, effective_src,
             galleries_by_slug, resources_by_artist, calendar_by_slug,
             has_album_list=has_album_list,
+            has_atb=bool(atb_by_slug.get(slug)),
         )
         resource_links = format_artist_links(artist_links)
 

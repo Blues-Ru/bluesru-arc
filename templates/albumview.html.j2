@@ -30,11 +30,11 @@
 {% endif %}
 
 {% if cover_url or album.title %}
-<div style="display:flex;gap:16px;align-items:flex-start;margin-bottom:1em">
+<div class="album-header">
 {% if cover_url %}
-  <div style="flex-shrink:0"><img src="{{ cover_url }}" width="160" height="160" border="0" alt="" style="display:block;object-fit:cover"></div>
+  <div class="album-header-cover"><img src="{{ cover_url }}" width="160" height="160" border="0" alt="" style="display:block;object-fit:cover"></div>
 {% endif %}
-  <div>
+  <div class="album-header-info">
     <table cellpadding="3" border="0" cellspacing="0" style="font-size:0.95em">
 {% if album.artist %}
       <tr><td style="color:#888;padding-right:12px">Артист:</td><td>{{ album.artist }}</td></tr>
@@ -52,7 +52,7 @@
       <tr><td style="color:#888;padding-right:12px;padding-top:6px">Альбом на:</td>
       <td style="padding-top:6px">
         {% if album.asin %}<a target="_blank" href="https://www.amazon.com/dp/{{ album.asin }}">Amazon</a>{% endif %}
-        {% if (streaming_links or artist_streaming_links) and album.asin %} | {% endif %}
+        {% if (streaming_links or artist_streaming_links) and album.asin %}&nbsp;{% endif %}
         {% if streaming_links %}{{ streaming_links | safe }}{% elif artist_streaming_links %}{{ artist_streaming_links | safe }}{% endif %}
       </td></tr>
 {% endif %}
@@ -61,6 +61,9 @@
 </div>
 {% endif %}
 
+{% if stream_icons is defined and stream_icons %}
+{{ stream_icons | safe }}
+{% endif %}
 {% if artist_resource_links is defined and artist_resource_links %}
 <p>{{ artist_resource_links | safe }}</p>
 {% endif %}

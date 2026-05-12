@@ -45,3 +45,13 @@ a.forum-author {
 a.forum-author:hover {
   text-decoration: underline;
 }
+
+/* ── Streaming service icon links ───────────────────── */
+.stream-icons { display: flex; gap: 10px; align-items: center; margin: 8px 0; flex-wrap: wrap; }
+.stream-icon { display: block; opacity: 0.88; text-decoration: none; }
+.stream-icon:hover { opacity: 1; }
+
+/* ── Album info: wrap on small screens ──────────────── */
+.album-header { display: flex; gap: 16px; align-items: flex-start; margin-bottom: 1em; flex-wrap: wrap; }
+.album-header-cover { flex-shrink: 0; }
+.album-header-info { min-width: 0; }

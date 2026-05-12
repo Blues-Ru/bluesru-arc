@@ -151,7 +151,7 @@ def atb_links_html(atb_episodes: list[dict]) -> str:
         date_str = (f'<small style="color:#777">{html_mod.escape(date)}</small> '
                     if date else '')
         lines.append(f'{date_str}<a href="{url}">{label}</a>')
-    return '<h2>Весь этот блюз</h2>\n' + '<br>'.join(lines)
+    return '<a name="atb" id="atb"></a>\n<h2>Весь этот блюз</h2>\n' + '<br>'.join(lines)
 
 
 # ── Resource links ─────────────────────────────────────────────────────────────
@@ -170,6 +170,7 @@ def collect_artist_links(
     resources_by_artist: dict[str, list[dict]],
     calendar_by_slug: dict[str, list],
     has_album_list: bool = False,
+    has_atb: bool = False,
     artist_streaming_ids: Any = None,           # ArtistStreamingIds | None
     streaming_url_templates: dict | None = None,
     streaming_labels: dict | None = None,
@@ -232,7 +233,12 @@ def collect_artist_links(
         links.append(ArtistLink(type='review', url=f'/artist/{slug}/#review',
                                 title='Обзоры', external=False))
 
-    # 5. Streaming platforms
+    # 5. ATB radio episodes
+    if has_atb and slug:
+        links.append(ArtistLink(type='atb', url=f'/artist/{slug}/#atb',
+                                title='Весь этот блюз', external=False))
+
+    # 6. Streaming platforms
     if artist_streaming_ids:
         for platform, tmpl in streaming_url_templates.items():
             val = getattr(artist_streaming_ids, f'{platform}_id', None)
@@ -243,7 +249,7 @@ def collect_artist_links(
                     title=streaming_labels.get(platform, platform),
                     external=True))
 
-    # 6. Calendar
+    # 7. Calendar
     if slug and calendar_by_slug.get(slug):
         links.append(ArtistLink(type='calendar', url=f'/artist/{slug}/#calendar',
                                 title='Календарь', external=False))
@@ -253,12 +259,17 @@ def collect_artist_links(
 
 def format_artist_links(links: list[ArtistLink], types: set[str] | None = None) -> str:
     """Format ArtistLink list as ' | '-separated HTML anchors."""
+    from streaming import PLATFORM_TARGETS
     parts: list[str] = []
     for r in links:
         if types is not None and r.type not in types:
             continue
-        target = ' target="_blank"' if r.external else ''
-        parts.append(f'<a href="{r.url}"{target}>{html_mod.escape(r.title)}</a>')
+        if r.type == 'streaming' and r.platform:
+            win = PLATFORM_TARGETS.get(r.platform, '_blank')
+            parts.append(f'<a href="{r.url}" target="{win}" rel="noopener">{html_mod.escape(r.title)}</a>')
+        else:
+            target = ' target="_blank"' if r.external else ''
+            parts.append(f'<a href="{r.url}"{target}>{html_mod.escape(r.title)}</a>')
     return ' | '.join(parts)
 
 
@@ -284,9 +295,8 @@ def build_album_list_html(
 
     THUMB = 80
     PLACEHOLDER = (
-        f'<div style="width:{THUMB}px;height:{THUMB}px;background:#e8e8e8;'
-        f'border:1px solid #ccc;display:flex;align-items:center;'
-        f'justify-content:center;font-size:2em;color:#bbb">♪</div>'
+        f'<img src="/images/no-cover.svg" width="{THUMB}" height="{THUMB}"'
+        f' alt="" style="display:block">'
     )
 
     parts = [

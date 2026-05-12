@@ -19,7 +19,7 @@ from generate_shared import (
     load_artists,
 )
 from render_utils import cover_url_for_asin, format_mark_ats, format_review_body
-from streaming import streaming_links_html
+from streaming import streaming_links_html, album_stream_icons_html, artist_stream_icons_html
 from data import store
 
 
@@ -98,14 +98,17 @@ def generate_reviews() -> None:
         date_str       = page['date_str']
         alb_slug       = album.get('slug', '')
 
+        alb_ids    = store.album_streaming().get(alb_slug)
+        artist_ids = store.artist_streaming().get(a_slug)
         out = tmpl.render(
             album=album,
-            cover_url=cover_url_for_asin(album.get('asin', '')),
+            cover_url=cover_url_for_asin(album.get('asin', ''), fallback=True),
             artist_name=artist.get('name') or album.get('artist') or '',
             artist_legacy_path=a_slug,
             reviews=page['reviews'],
             streaming_links=streaming_links_html(alb_slug, 'album', store),
             artist_streaming_links=streaming_links_html(a_slug, 'artist', store),
+            stream_icons=album_stream_icons_html(alb_ids) or artist_stream_icons_html(artist_ids),
             footer=FOOTER,
         )
         dst = SITE / 'artist' / a_slug / url_album_slug / 'index.html'
@@ -122,7 +125,7 @@ def generate_reviews() -> None:
             'year':        album.get('year', ''),
             'author':      first_review.get('author', ''),
             'asin':        album.get('asin', ''),
-            'cover_url':   cover_url_for_asin(album.get('asin', '')),
+            'cover_url':   cover_url_for_asin(album.get('asin', ''), fallback=True),
             'date_str':    date_str,
             'mark':        first_review.get('mark'),
         })
@@ -209,7 +212,7 @@ def generate_reviews() -> None:
             'album_title': album.get('title') or meta.get('album') or '',
             'year':        album.get('year', ''),
             'asin':        album.get('asin', ''),
-            'cover_url':   cover_url_for_asin(album.get('asin', '')),
+            'cover_url':   cover_url_for_asin(album.get('asin', ''), fallback=True),
             'date_str':    date_str,
         })
 
@@ -253,7 +256,7 @@ def generate_reviews() -> None:
                 'album_title': album.get('title') or meta.get('album') or '',
                 'year':        album.get('year', ''),
                 'asin':        album.get('asin', ''),
-                'cover_url':   cover_url_for_asin(album.get('asin', '')),
+                'cover_url':   cover_url_for_asin(album.get('asin', ''), fallback=True),
             })
 
     if various_reviews:
