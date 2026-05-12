@@ -25,8 +25,8 @@ deps: .deps-stamp
 # Runs all sections in dependency order, with site backup before starting.
 # Use 'make build-parallel' for faster parallel execution.
 
-build: deps backup data calendar anagrams content artists news reviews atb \
-       updates homepage photo-pages photo-index forum-authors forum postprocess sitemap deploy
+build: deps backup homepage content updates data news anagrams artists reviews \
+       atb calendar photo-pages photo-index forum-authors forum postprocess sitemap deploy
 
 backup:
 	@if [ -d "$(SITE)" ]; then \

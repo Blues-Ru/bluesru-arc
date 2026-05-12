@@ -175,7 +175,7 @@ def make_link_rewriter(redirect_rules: list, link_fixes: dict):
         href = re.sub(r'/index\.html?$', '/', href)
         path_part = href.split('?')[0].split('#')[0]
         if path_part and '.' not in path_part.split('/')[-1]:
-            if not path_part.endswith('/') and not re.match(r'^/forum/topic\d+$', path_part):
+            if not path_part.endswith('/') and not re.match(r'^/forum/(topic|page)\d+$', path_part):
                 href = path_part + '/' + (href[len(path_part):] if len(href) > len(path_part) else '')
         path = href.split('?')[0].split('#')[0]
         for rule in redirect_rules:

@@ -1,4 +1,5 @@
-body { max-width: 900px; margin: 0 auto; padding: 0 1em; }
+body { max-width: 720px; margin: 0 auto; padding: 0 1em; }
+.artist-res a { text-decoration: none; }
 #artist-filter { font-size: 1em; padding: 3px 6px; width: min(280px, 100%); }
 .artist-entry { display: none; }
 .artist-entry.visible { display: block; }

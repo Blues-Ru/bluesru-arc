@@ -1,7 +1,9 @@
 /* Blues.Ru — responsive layout */
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Flex:opsz,wdth,wght@8..144,75..100,300..400&display=swap');
 
 /* ── Reset ─────────────────────────────────────────── */
 *, *::before, *::after { box-sizing: border-box; }
+button, input, select, textarea { font: inherit; }
 
 img { max-width: 100%; height: auto; }
 
@@ -10,7 +12,12 @@ img { max-width: 100%; height: auto; }
 body {
   margin: 0 auto;
   padding: 0 1em;
-  max-width: 900px;
+  max-width: 720px;
+  font-family: 'Roboto Flex', sans-serif;
+  font-weight: 340;
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 body.hp {
   padding: 0;
@@ -150,7 +157,17 @@ iframe { max-width: 100%; }
 
 /* ── Responsive: mobile ─────────────────────────── */
 @media (max-width: 680px) {
-  body { padding: 0 0.6em; font-size: 17px; }
+  body {
+    padding: 0 0.6em;
+    font-size: 17px;
+    line-height: 1.6;
+    font-variation-settings: "wdth" 85;
+  }
+  h1, h2, h3, h4 {
+    font-weight: 400;
+    font-variation-settings: "wdth" 75;
+    line-height: 1.2;
+  }
   body.hp { padding: 0; }
 
   .site-wrap {
@@ -190,7 +207,6 @@ iframe { max-width: 100%; }
 }
 
 /* ── General content readability ─────────────────── */
-p { line-height: 1.55; }
 
 table { max-width: 100%; }
 td { vertical-align: top; }
@@ -336,7 +352,7 @@ img[src*="ATBred.gif"] {
 
 /* ── Article / text pages ────────────────────────── */
 body.article-page {
-  max-width: 900px;
+  max-width: 720px;
   margin: 0 auto;
   padding: 0 1em;
 }
