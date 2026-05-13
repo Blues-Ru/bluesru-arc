@@ -71,7 +71,8 @@
       events.slice(0, FULL_COUNT).forEach(function(ev) { html += renderEventFull(ev); });
       var rest = events.slice(FULL_COUNT);
       if (rest.length) {
-        var calUrl = '/calendar/';
+        var _y = now.getFullYear(), _m = now.getMonth()+1, _d = now.getDate();
+        var calUrl = '/calendar/#' + _y + '-' + (_m<10?'0':'')+_m + '-' + (_d<10?'0':'')+_d;
         var parts = rest.map(function(ev) {
           var pfx = typePrefix(ev);
           var name = ev.title || ev.text.replace(/<[^>]+>/g, '').slice(0, 40);

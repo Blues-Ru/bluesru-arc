@@ -170,14 +170,13 @@ a { text-decoration: none; }
   <main class="site-main">
 
 <a name="calendar"></a>
-<a href="/calendar/#{{ today }}"><b>В этот день...</b> &gt;&gt;</a>
-<p>
+<h3><a href="/calendar/#{{ today }}">В этот день... &gt;&gt;</a></h3>
 <div id="blues-calendar" data-mode="short"><i>загрузка...</i></div>
 
 <hr size="1">
 
 <a name="blues-news"></a>
-<a href="/news/"><b>Новости</b> &gt;&gt;</a>
+<h3><a href="/news/">Новости &gt;&gt;</a></h3>
 {% if blues_news %}
 <ul class="widget-list">
 {% for item in blues_news %}
@@ -189,7 +188,7 @@ a { text-decoration: none; }
 <hr size="1">
 
 <a name="atb"></a>
-<a href="/atb/"><b>Весь Этот Блюз</b> &gt;&gt;</a>
+<h3><a href="/atb/">Весь Этот Блюз &gt;&gt;</a></h3>
 {% if latest_atb %}
 <ul class="widget-list">
 {% for ep in latest_atb %}
@@ -201,7 +200,7 @@ a { text-decoration: none; }
 <hr size="1">
 
 <a name="news"></a>
-<a href="/updates/"><b>Обновления Blues.Ru</b> &gt;&gt;</a>
+<h3><a href="/updates/">Обновления Blues.Ru &gt;&gt;</a></h3>
 {% if latest_updates %}
 {% for item in latest_updates %}
 <div class="update-item"><span class="update-date">{{ item.date }}</span>&ensp;{{ item.html | safe }}</div>
