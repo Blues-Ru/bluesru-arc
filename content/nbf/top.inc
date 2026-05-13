@@ -1,34 +1,21 @@
 <html>
 
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <title><%=sTitle%></title>
 <link rel="stylesheet" type="text/css" href="/nbf/style.css">
-<% if (!String.IsNullOrEmpty((String)Context.Items["CustomCss"])) { %>
-<link rel="stylesheet" type="text/css" href="/nbf/<%=Context.Items["CustomCss"]%>">
-<% } %>
 </head>
 
 <body bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#5511CC" alink="#00BB00" background="/nbf/images/nbftextr.gif">
 
-<table border="0" cellpadding="0" cellspacing="6">
-  <tr>
-    <td width="150" valign="top" align="center">
-<a href="/nbf/">
-<img border="0" src="/nbf/images/menulogo.gif" align="center" hspace="4" alt="Notodden Blues Festival.">
-</a>
-    </td>
-    <td width="1" bgcolor="black"></td>
-    <td valign="center">
+<div class="nbf-wrap">
 
-<h1 align="center"><font color="#0000FF"><%=sTitle%></font></h1>
-
-</td>
-  </tr>
-<tr><td height="1" bgcolor="black" colspan="3"></td></tr>
-  <tr>
-    <td width="200" valign="top">
-
+<aside class="nbf-nav">
+<p align="center">
+<a href="/nbf/"><img border="0" src="/nbf/images/menulogo.gif" style="max-width:130px;height:auto" alt="Notodden Blues Festival."></a>
+</p>
+<button class="nbf-nav-toggle" onclick="this.closest('.nbf-nav').classList.toggle('open')" aria-expanded="false">&#9776; Навигация</button>
+<div class="nbf-nav-inner">
 
 <p>
   <b>2011: 24th NBF</b> <small><i>(4.08-7.08)</i></small>
@@ -144,7 +131,9 @@
 
 <p><b><a href="/">Blues.Ru</a></b></p>
 
+</div><!-- nbf-nav-inner -->
+</aside>
 
-    </td>
-    <td width="1" bgcolor="black"></td>
-    <td valign="top">
+<div class="nbf-content">
+<h1 align="center"><font color="#0000FF"><%=sTitle%></font></h1>
+<hr size="1">

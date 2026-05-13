@@ -257,11 +257,29 @@ def collect_artist_links(
     return links
 
 
+_LINK_TYPE_ORDER = ['atb', 'photo', 'calendar', 'review', 'article', 'interview',
+                    'page', 'lyrics', 'tabs', 'press', 'link']
+_STREAMING_ORDER = ['spotify', 'apple_music', 'ytmusic', 'deezer']
+
+
+def _link_sort_key(r: ArtistLink) -> tuple:
+    if r.type == 'streaming':
+        try:
+            return (len(_LINK_TYPE_ORDER), _STREAMING_ORDER.index(r.platform or ''))
+        except ValueError:
+            return (len(_LINK_TYPE_ORDER), 99)
+    try:
+        return (_LINK_TYPE_ORDER.index(r.type), 0)
+    except ValueError:
+        return (len(_LINK_TYPE_ORDER) - 1, 0)
+
+
 def format_artist_links(links: list[ArtistLink], types: set[str] | None = None) -> str:
     """Format ArtistLink list as ' | '-separated HTML anchors."""
     from streaming import PLATFORM_TARGETS
+    ordered = sorted(links, key=_link_sort_key)
     parts: list[str] = []
-    for r in links:
+    for r in ordered:
         if types is not None and r.type not in types:
             continue
         if r.type == 'streaming' and r.platform:
@@ -287,7 +305,7 @@ def build_album_list_html(
 
     def _year_key(a: dict) -> int:
         try:
-            return -int(a.get('year', 0) or 0)
+            return int(a.get('year', 0) or 0)
         except (TypeError, ValueError):
             return 0
 

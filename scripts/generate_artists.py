@@ -123,6 +123,18 @@ def generate_artists() -> None:
         )
         resource_links = format_artist_links(artist_links)
 
+        # Compute resource type set for filter checkboxes
+        _FILTER_TYPES = {'review', 'article', 'interview', 'atb', 'photo', 'calendar',
+                         'lyrics', 'tabs', 'press', 'link'}
+        _STREAMING_PLATFORMS = {'spotify', 'apple_music', 'deezer', 'ytmusic'}
+        res_types: set[str] = {lnk.type for lnk in artist_links if lnk.type in _FILTER_TYPES}
+        for lnk in artist_links:
+            if lnk.type == 'streaming' and lnk.platform in _STREAMING_PLATFORMS:
+                res_types.add(lnk.platform)
+        if has_dir:
+            res_types.add('page')
+        res_types_str = ' '.join(sorted(res_types))
+
         row: dict = {
             'id':          artist_id,
             'name':        name,
@@ -135,6 +147,7 @@ def generate_artists() -> None:
             'secondary':   False,
             'links':       artist_links,
             'resource_links': resource_links,
+            'res_types':   res_types_str,
         }
         by_letter[letter].append(row)
         if link_dir:
@@ -156,6 +169,7 @@ def generate_artists() -> None:
                     'slug':        slug,
                     'secondary':   True,
                     'resource_links': '',
+                    'res_types':   res_types_str,
                 }
                 by_letter[sort_letter].append(sec_row)
                 if link_dir:
@@ -234,6 +248,7 @@ def generate_artists() -> None:
             'id': '', 'name': inferred_name, 'sort_name': inferred_name,
             'letter': letter, 'legacy_dir': dir_name, 'external': False,
             'amg_id': '', 'slug': '', 'secondary': False, 'resource_links': '',
+            'res_types': 'page',
         }
         by_letter[letter].append(row)
         if dir_name:
@@ -248,6 +263,7 @@ def generate_artists() -> None:
             'id': '', 'name': 'Various Musicians', 'sort_name': 'Various Musicians',
             'letter': 'V', 'legacy_dir': 'various-musicians', 'external': False,
             'amg_id': '', 'slug': 'various-musicians', 'secondary': False, 'resource_links': '',
+            'res_types': 'page',
         })
         letter_has['V'] = True
 

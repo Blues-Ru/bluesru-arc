@@ -98,6 +98,7 @@ from html_utils import (
     read_file,
     strip_analytics,
     resolve_include         as _resolve_include_impl,
+    extract_asp_variables   as _extract_asp_variables,
     RE_INCLUDE_VIRTUAL,
     RE_INCLUDE_FILE,
     RE_DYNAMIC_ASPX,
@@ -226,9 +227,14 @@ _rewrite_links = make_link_rewriter(_REDIRECT_RULES, _LINK_FIXES)
 
 # ── SSI resolution wrapper (uses module-level FOOTER/DONATE) ──────────────────
 
-def resolve_include(vpath: str, source_dir: Path, source_root: Path) -> str:
+def resolve_include(
+    vpath: str,
+    source_dir: Path,
+    source_root: Path,
+    variables: dict | None = None,
+) -> str:
     return _resolve_include_impl(vpath, source_dir, source_root,
-                                  footer=FOOTER, donate=DONATE)
+                                  footer=FOOTER, donate=DONATE, variables=variables)
 
 
 # ── Gallery state ─────────────────────────────────────────────────────────────
@@ -638,6 +644,7 @@ def process_html(
     artist_photo_html: str | None = None,
 ) -> str:
     """Main HTML processing pipeline: clean, resolve SSI, inject artist blocks, rewrite links."""
+    asp_vars = _extract_asp_variables(content)
     content = strip_analytics(content)
     content = re.sub(r'charset\s*=\s*["\']?windows-1251["\']?', 'charset=utf-8',
                      content, flags=re.IGNORECASE)
@@ -691,9 +698,11 @@ def process_html(
                           flags=re.IGNORECASE)
 
     content = RE_INCLUDE_VIRTUAL.sub(
-        lambda m: resolve_include(m.group(1), source_dir, source_root), content)
+        lambda m: resolve_include(m.group(1), source_dir, source_root, variables=asp_vars or None),
+        content)
     content = RE_INCLUDE_FILE.sub(
-        lambda m: resolve_include(m.group(1), source_dir, source_root), content)
+        lambda m: resolve_include(m.group(1), source_dir, source_root, variables=asp_vars or None),
+        content)
     content = RE_UNRESOLVED.sub('', content)
     content = _rewrite_links(content)
 

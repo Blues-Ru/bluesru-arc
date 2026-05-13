@@ -1,6 +1,5 @@
-</td>
-  </tr>
-</table>
+</div><!-- nbf-content -->
+</div><!-- nbf-wrap -->
 
 <hr size="1">
 
@@ -8,4 +7,5 @@
 <!--#include virtual="/footer.inc"-->
 </p>
 
+</body>
 </html>

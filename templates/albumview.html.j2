@@ -43,7 +43,7 @@
       <tr><td style="color:#888;padding-right:12px">Название:</td><td>{{ album.title }}</td></tr>
 {% endif %}
 {% if album.year %}
-      <tr><td style="color:#888;padding-right:12px">Год:</td><td>{{ album.year }}</td></tr>
+      <tr><td style="color:#888;padding-right:12px">Год:</td><td><a href="/calendar/{{ album.year }}/#records">{{ album.year }}</a></td></tr>
 {% endif %}
 {% if album.label %}
       <tr><td style="color:#888;padding-right:12px">Лейбл:</td><td>{{ album.label }}</td></tr>

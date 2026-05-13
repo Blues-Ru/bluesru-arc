@@ -159,7 +159,7 @@ iframe { max-width: 100%; }
 @media (max-width: 680px) {
   body {
     padding: 0 0.6em;
-    font-size: 17px;
+    font-size: 18px;
     line-height: 1.6;
     font-variation-settings: "wdth" 85;
   }

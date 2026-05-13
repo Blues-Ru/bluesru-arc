@@ -1,9 +1,33 @@
 body { max-width: 720px; margin: 0 auto; padding: 0 1em; }
 .artist-res a { text-decoration: none; }
 #artist-filter { font-size: 1em; padding: 3px 6px; width: min(280px, 100%); }
+
+/* All entries hidden by default; JS adds .visible */
 .artist-entry { display: none; }
 .artist-entry.visible { display: block; }
 .letter-section { display: none; }
 .letter-section.visible { display: block; }
+
 .artist-xref { color: #666; font-size: 0.95em; }
 .artist-res { font-size: 0.85em; }
+
+/* Resource type filter checkboxes */
+.res-filters {
+  margin: 4px 0 2px;
+  font-size: 0.88em;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2px 12px;
+}
+.res-filters-streaming { margin-top: 0; margin-bottom: 6px; }
+.res-filters label { cursor: pointer; white-space: nowrap; }
+.res-filters input[type=checkbox] { margin-right: 2px; cursor: pointer; }
+
+/* Status area */
+#bluesmen-status { margin: 4px 0 8px; }
+.status-default { color: #444; font-size: 0.9em; }
+.status-stats { color: #666; font-size: 0.85em; }
+.status-empty { color: #888; font-size: 0.9em; }
+
+/* Letter nav — active letter is made bold + no-underline via JS inline style */
+.letter-nav a { text-decoration: underline; }

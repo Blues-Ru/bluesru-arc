@@ -1,2 +1,10 @@
-.article p {text-indent: 3em; text-align: justify; font-weight: normal}
-body {margin-top:4; margin-left: 4;}
+.article p { text-indent: 3em; text-align: justify; font-weight: normal }
+body { margin-top: 4px; margin-left: 4px; }
+
+@media (max-width: 680px) {
+  body { margin: 0; }
+  body > table { width: 100% !important; }
+  body > table > tbody > tr > td,
+  body > table > tr > td { width: 100% !important; box-sizing: border-box; }
+  body > table td[width="200"] { width: 100% !important; }
+}

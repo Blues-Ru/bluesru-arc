@@ -99,12 +99,23 @@ def normalize_filename(name: str) -> str:
     return name
 
 
+def extract_asp_variables(content: str) -> dict[str, str]:
+    """Extract <% string VAR = "VALUE"; %> and <% int VAR = N; %> declarations."""
+    result: dict[str, str] = {}
+    for m in re.finditer(r'<%\s*string\s+(\w+)\s*=\s*"([^"]*)"\s*;?\s*%>', content):
+        result[m.group(1)] = m.group(2)
+    for m in re.finditer(r'<%\s*int\s+(\w+)\s*=\s*(\d+)\s*;?\s*%>', content):
+        result[m.group(1)] = m.group(2)
+    return result
+
+
 def resolve_include(
     vpath: str,
     source_dir: Path,
     source_root: Path,
     footer: str = '',
     donate: str = '',
+    variables: dict[str, str] | None = None,
 ) -> str:
     """Resolve a single SSI include directive, returning the included text."""
     vpath_lower = vpath.strip().lower()
@@ -128,14 +139,17 @@ def resolve_include(
             content = read_file(disk_path)
             if content is None:
                 continue
+            if variables:
+                for var, val in variables.items():
+                    content = content.replace(f'<%={var}%>', val)
             content = strip_analytics(content)
             content = RE_INCLUDE_VIRTUAL.sub(
                 lambda m: resolve_include(m.group(1), disk_path.parent, source_root,
-                                          footer=footer, donate=donate),
+                                          footer=footer, donate=donate, variables=variables),
                 content)
             content = RE_INCLUDE_FILE.sub(
                 lambda m: resolve_include(m.group(1), disk_path.parent, source_root,
-                                          footer=footer, donate=donate),
+                                          footer=footer, donate=donate, variables=variables),
                 content)
             content = RE_DYNAMIC_ASPX.sub('', content)
             return content

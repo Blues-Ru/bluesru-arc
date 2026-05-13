@@ -35,7 +35,7 @@ dialog.atb-ai-dialog button:hover { background: #3a4d9a; }
   background: none; border: 1px solid #b0bbd8; border-radius: 2px;
   color: #4F62B5; font: 0.76em/1.5 monospace; padding: 0 4px;
   cursor: pointer; white-space: nowrap;
-  display: inline-block; vertical-align: baseline; margin-right: 0.4em;
+  display: inline-block; vertical-align: text-bottom; margin-right: 0.65em;
 }
 .atb-tc:hover { background: #4F62B5; color: #fff; border-color: #4F62B5; }
 .atb-speech-text { display: inline; }

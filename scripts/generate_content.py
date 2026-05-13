@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 """Copy and post-process static content sections."""
+import re
 import shutil
 import sys
 from pathlib import Path
@@ -96,6 +97,24 @@ def generate_content():
             c = _copy_section(src, dst, CONTENT)
             sec_total += c
     print(f"  blues-ru sections/: {sec_total} files")
+
+    # Inject toggle.js into Efes HTML pages for mobile collapsible nav
+    efes_dst = SITE / 'efes'
+    _efes_script = '<script src="/efes/toggle.js"></script>'
+    if efes_dst.exists():
+        injected = 0
+        for fpath in efes_dst.glob('*.htm*'):
+            if fpath.suffix.lower() in ('.htm', '.html'):
+                html = fpath.read_text(encoding='utf-8')
+                close_tag = re.search(r'</body>|</html>', html, re.IGNORECASE)
+                if _efes_script not in html and close_tag:
+                    tag = close_tag.group(0)
+                    html = re.sub(re.escape(tag), _efes_script + '\n' + tag, html,
+                                  count=1, flags=re.IGNORECASE)
+                    fpath.write_text(html, encoding='utf-8')
+                    injected += 1
+        if injected:
+            print(f"  efes/: toggle.js injected into {injected} pages")
 
     _copy_dir(ARC / 'js',      SITE / 'js')
     _copy_dir(ARC / 'css',     SITE / 'css')

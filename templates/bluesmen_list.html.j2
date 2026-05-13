@@ -15,24 +15,45 @@
 <img src="/images/bluesman.gif" align="left" hspace="0" WIDTH="385" HEIGHT="98" style="clip-path:inset(0 10px 0 0);height:auto">
 <br style="clear:both">
 
+<div class="letter-nav" id="letter-nav">
 <p style="margin-bottom:0"><big><b>
 {% for letter in letters %}
-{% if letter_has_artists[letter] %}<a href="#{{ letter }}">{{ letter }}</a>{% else %}{{ letter }}{% endif %}&#32;
+{% if letter_has_artists[letter] %}<a href="javascript:void(0)" data-letter="{{ letter }}" onclick="selectLetter('{{ letter }}')">{{ letter }}</a>{% else %}{{ letter }}{% endif %}&#32;
 {% endfor %}
 </b></big></p>
-<p style="margin-top:4px"><input type="text" id="artist-filter" placeholder="Поиск" oninput="filterArtists(this.value)" autofocus style="width:min(280px,100%);font-size:1em;padding:3px 6px"></p>
+</div>
+
+<p style="margin-top:6px"><input type="text" id="artist-filter" placeholder="Поиск" oninput="applyFilters(true)" style="width:min(280px,100%);font-size:1em;padding:3px 6px"></p>
+
+<div class="res-filters">
+<label><input type="checkbox" class="res-type-check" value="atb" checked> Весь этот блюз</label>
+<label><input type="checkbox" class="res-type-check" value="photo" checked> Фото</label>
+<label><input type="checkbox" class="res-type-check" value="calendar"> Календарь</label>
+<label><input type="checkbox" class="res-type-check" value="review" checked> Обзоры</label>
+<label><input type="checkbox" class="res-type-check" value="article" checked> Статья</label>
+<label><input type="checkbox" class="res-type-check" value="interview" checked> Интервью</label>
+<label><input type="checkbox" class="res-type-check" value="page"> Страница</label>
+</div>
+<div class="res-filters res-filters-streaming">
+<label><input type="checkbox" class="res-type-check" value="spotify"> Spotify</label>
+<label><input type="checkbox" class="res-type-check" value="apple_music"> Apple Music</label>
+<label><input type="checkbox" class="res-type-check" value="ytmusic"> YouTube Music</label>
+<label><input type="checkbox" class="res-type-check" value="deezer"> Deezer</label>
+</div>
+
+<div id="bluesmen-status"></div>
 
 {% for letter in letters %}
 {% if letter_has_artists[letter] %}
-<div class="letter-section visible" id="section-{{ letter }}">
+<div class="letter-section" id="section-{{ letter }}" data-letter="{{ letter }}">
 <p><a name="{{ letter }}"><big><b>{{ letter }}</b></big></a></p>
 {% for artist in artists_by_letter[letter] %}
 {% if artist.secondary %}
-<div class="artist-entry visible artist-xref" data-name="{{ artist.name | lower | e }} {{ artist.sort_name | lower | e }}">{{ artist.sort_name | e }} → <a href="#{{ artist.slug }}">{{ artist.name | e }}</a></div>
+<div class="artist-entry artist-xref" data-name="{{ artist.name | lower | e }} {{ artist.sort_name | lower | e }}" data-res="{{ artist.res_types | e }}">{{ artist.sort_name | e }} → <a href="#{{ artist.slug }}">{{ artist.name | e }}</a></div>
 {% elif artist.legacy_dir and not artist.external %}
-<div class="artist-entry visible" data-name="{{ artist.name | lower | e }} {{ artist.sort_name | lower | e }}"><a name="{{ artist.slug }}"></a><a href="/artist/{{ artist.legacy_dir }}/">{{ artist.name | e }}</a>{% if artist.resource_links %} — <small class="artist-res">{{ artist.resource_links | safe }}</small>{% endif %}</div>
+<div class="artist-entry" data-name="{{ artist.name | lower | e }} {{ artist.sort_name | lower | e }}" data-res="{{ artist.res_types | e }}"><a name="{{ artist.slug }}"></a><a href="/artist/{{ artist.legacy_dir }}/">{{ artist.name | e }}</a>{% if artist.resource_links %} — <small class="artist-res">{{ artist.resource_links | safe }}</small>{% endif %}</div>
 {% else %}
-<div class="artist-entry visible" data-name="{{ artist.name | lower | e }} {{ artist.sort_name | lower | e }}">{{ artist.name | e }}</div>
+<div class="artist-entry" data-name="{{ artist.name | lower | e }} {{ artist.sort_name | lower | e }}" data-res="{{ artist.res_types | e }}">{{ artist.name | e }}</div>
 {% endif %}
 {% endfor %}
 </div>

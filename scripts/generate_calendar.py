@@ -22,6 +22,8 @@ _scripts = Path(__file__).resolve().parent
 if str(_scripts) not in sys.path:
     sys.path.insert(0, str(_scripts))
 from generate_shared import process_calendar_text, _MONTHS_RU, _years_ago_ru
+from render_utils import cover_url_for_asin
+from artist_utils import strip_artist_prefix
 ARC = Path(__file__).resolve().parent.parent
 _site_default = str(ARC / 'bluesru-site') if os.environ.get('CF_PAGES') else str(ARC.parent / 'bluesru-site')
 DATA = ARC / "data"
@@ -71,6 +73,41 @@ def generate_calendar_index(all_years, index_nav):
     print("  calendar/index.html written")
 
 
+def _load_albums_by_year() -> dict[str, list]:
+    """Return {year_str: [album_dict, ...]} for albums that have reviews."""
+    albums_dir = ARC / 'data' / 'albums'
+    by_year: dict[str, list] = defaultdict(list)
+    for p in sorted(albums_dir.glob('*/*.yaml')):
+        a = yaml.safe_load(p.read_text(encoding='utf-8'))
+        if not a or not a.get('reviews'):
+            continue
+        year = str(a.get('year', ''))
+        if not year or not year.isdigit():
+            continue
+        artist_slug = a.get('artist_slug') or ''
+        album_slug = a.get('slug', '')
+        if not album_slug:
+            continue
+        if not artist_slug:
+            artist_slug = 'various-musicians'
+        url_slug = strip_artist_prefix(artist_slug, album_slug)
+        if artist_slug == 'various-musicians':
+            artist_url = '/artist/various-musicians/'
+        else:
+            artist_url = f'/artist/{artist_slug}/#review'
+        by_year[year].append({
+            'artist': a.get('artist', ''),
+            'artist_slug': artist_slug,
+            'artist_url': artist_url,
+            'title': a.get('title', ''),
+            'album_url_slug': url_slug,
+            'cover_url': cover_url_for_asin(a.get('asin', ''), fallback=True),
+        })
+    for year_list in by_year.values():
+        year_list.sort(key=lambda x: ((x['artist'] or '').lower(), (x['title'] or '').lower()))
+    return by_year
+
+
 def generate_year_pages():
     """Generate /calendar/YYYY/index.html for each year with events."""
     by_year = defaultdict(list)
@@ -113,6 +150,7 @@ def generate_year_pages():
             })
 
     all_years = sorted(by_year.keys())
+    albums_by_year = _load_albums_by_year()
 
     # Build year navigation: decade shortcuts for other decades,
     # individual years expanded for the current decade.
@@ -158,6 +196,7 @@ def generate_year_pages():
 
         years_ago_str = f' \u2014 {_years_ago_ru(years_ago)}' if years_ago > 0 else ''
         nav = year_nav(year, all_years)
+        records = albums_by_year.get(year, [])
         tmpl = _jinja_env.get_template('calendar_year.html.j2')
         html = tmpl.render(
             ga_snippet=GA_SNIPPET,
@@ -166,6 +205,7 @@ def generate_year_pages():
             years_ago_str=years_ago_str,
             year_nav=nav,
             events=events_sorted,
+            records=records,
         )
 
         dst_dir = DST / year

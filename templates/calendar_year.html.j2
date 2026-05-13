@@ -15,6 +15,11 @@ body { max-width: 900px; margin: 0 auto; padding: 0 1em; }
 .cal-title { font-weight: bold; }
 .cal-ago { color: #888; font-size: 0.85em; }
 .cal-etype { color: #555; font-size: 0.85em; }
+.records-grid { display: flex; flex-wrap: wrap; gap: 10px 16px; margin: 0.5em 0; }
+.record-card { display: flex; gap: 8px; align-items: flex-start; width: calc(50% - 8px); min-width: 240px; }
+.record-card img { flex-shrink: 0; width: 64px; height: 64px; object-fit: cover; display: block; border: 1px solid #ddd; }
+.record-info { flex: 1; font-size: 0.9em; line-height: 1.4; }
+@media (max-width: 600px) { .record-card { width: 100%; } }
 </style>
 {{ ga_snippet | safe }}
 </head>
@@ -22,7 +27,7 @@ body { max-width: 900px; margin: 0 auto; padding: 0 1em; }
 
 <a href="/"><img src="/images/bluesru-logo.svg" width="120" height="120" border="0" alt="Blues.Ru" style="float:right"></a>
 
-<h3><a href="/">Blues.Ru</a> &gt; <a href="/calendar/">Календарь</a> &gt; {{ year }} год{{ years_ago_str }}</h3>
+<h3><a href="/">Blues.Ru</a> &gt; <a href="/calendar/">Календарь</a> &gt; {{ year }} год{{ years_ago_str }}{% if records %} | <a href="#records">Записи</a>{% endif %}</h3>
 <p>{{ year_nav | safe }}</p>
 
 <table class="cal-table">
@@ -42,7 +47,27 @@ body { max-width: 900px; margin: 0 auto; padding: 0 1em; }
 
 <p align="right"><i>Проект Андрея Евдокимова</i></p>
 
+{% if records %}
 <hr size="1">
+<h2><a name="records" id="records">Записи {{ year }}</a></h2>
+<div class="records-grid">
+{% for rec in records %}
+<div class="record-card">
+  <a href="/artist/{{ rec.artist_slug }}/{{ rec.album_url_slug }}/">
+    <img src="{{ rec.cover_url }}" alt="{{ rec.title | e }}" border="0">
+  </a>
+  <div class="record-info">
+    <a href="{{ rec.artist_url }}">{{ rec.artist | e }}</a><br>
+    <a href="/artist/{{ rec.artist_slug }}/{{ rec.album_url_slug }}/">{{ rec.title | e }}</a>
+  </div>
+</div>
+{% endfor %}
+</div>
+{% endif %}
+
+<hr size="1">
+
+<p>{{ year_nav | safe }}</p>
 
 <p align="center">
 {{ footer | safe }}
