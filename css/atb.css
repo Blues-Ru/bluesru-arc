@@ -30,14 +30,17 @@ dialog.atb-ai-dialog button {
 dialog.atb-ai-dialog button:hover { background: #3a4d9a; }
 .atb-transcript-part + .atb-transcript-part { margin-top: 1.8em; border-top: 1px dashed #ccc; padding-top: 1.2em; }
 .atb-part-label { font-size: 0.88em; color: #555; margin-bottom: 0.8em; font-weight: bold; }
-.atb-speech { display: flex; gap: 0.55em; margin: 0.65em 0; align-items: flex-start; }
+.atb-speech { margin: 0.65em 0; }
 .atb-tc {
   background: none; border: 1px solid #b0bbd8; border-radius: 2px;
   color: #4F62B5; font: 0.76em/1.5 monospace; padding: 0 4px;
-  cursor: pointer; white-space: nowrap; flex-shrink: 0; margin-top: 0.15em;
+  cursor: pointer; white-space: nowrap;
+  display: inline-block; vertical-align: baseline; margin-right: 0.4em;
 }
 .atb-tc:hover { background: #4F62B5; color: #fff; border-color: #4F62B5; }
-.atb-speech-text p { margin: 0 0 0.35em; line-height: 1.6; font-size: 0.92em; }
+.atb-speech-text { display: inline; }
+.atb-speech-text p { margin: 0.35em 0 0; line-height: 1.6; font-size: 0.92em; }
+.atb-speech-text p:first-child { display: inline; margin: 0; }
 .atb-music {
   display: inline-flex; align-items: center; gap: 0.35em;
   background: #fdf7ee; border: 1px solid #d4b896; border-radius: 3px;
