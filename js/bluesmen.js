@@ -42,20 +42,39 @@ function entryMatchesTypes(entry, types) {
 }
 
 // ── URL fragment state ────────────────────────────────────────────────────────
+
+// Resolve a slug-style hash (e.g. "delbert-mcclinton") to its anchor element,
+// setting selectedLetter to the containing letter section. Returns the element
+// or null if not found.
+function resolveSlugAnchor(hash) {
+  if (!hash || hash.indexOf(':') >= 0) return null;
+  // Single uppercase letter or '#' — handled as letter code, not a slug
+  if (/^[A-Z#]$/.test(hash)) return null;
+  var anchor = document.querySelector('a[name="' + hash + '"]');
+  if (!anchor) return null;
+  var sec = anchor.closest('.letter-section');
+  if (!sec) return null;
+  selectedLetter = sec.getAttribute('data-letter');
+  return anchor;
+}
+
 function readFragment() {
   var hash = location.hash.slice(1);
-  if (!hash) return;
+  if (!hash) return null;
   var parts = hash.split(':');
   var letter = parts[0] || null;
   var types = parts[1] ? parts[1].split(',').filter(Boolean) : null;
   if (letter && letter.length === 1 && /[A-Z]/.test(letter)) {
     selectedLetter = letter;
+    if (types) {
+      document.querySelectorAll('.res-type-check').forEach(function(cb) {
+        cb.checked = types.indexOf(cb.value) >= 0;
+      });
+    }
+    return null;
   }
-  if (types) {
-    document.querySelectorAll('.res-type-check').forEach(function(cb) {
-      cb.checked = types.indexOf(cb.value) >= 0;
-    });
-  }
+  // Not a letter code — try to resolve as a slug anchor
+  return resolveSlugAnchor(parts[0]);
 }
 
 function writeFragment() {
@@ -154,5 +173,17 @@ document.querySelectorAll('.res-type-check').forEach(function(cb) {
   cb.addEventListener('change', applyFilters);
 });
 
-readFragment();
+// Handle in-page xref clicks: hashchange fires when #slug changes
+window.addEventListener('hashchange', function() {
+  var anchorEl = resolveSlugAnchor(location.hash.slice(1));
+  if (anchorEl) {
+    applyFilters();
+    setTimeout(function() { anchorEl.scrollIntoView({block: 'center'}); }, 0);
+  }
+});
+
+var _initAnchor = readFragment();
 applyFilters();
+if (_initAnchor) {
+  setTimeout(function() { _initAnchor.scrollIntoView({block: 'center'}); }, 0);
+}

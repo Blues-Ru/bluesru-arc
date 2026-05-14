@@ -46,24 +46,44 @@ def generate_homepage():
                 'url': url,
             })
 
-    # ── Latest ATB episodes ────────────────────────────────────────────────────
+    # ── Seasonal ATB episodes (closest to today's day-of-year across all years) ─
     latest_atb_items = []
     atb_yaml = DATA / 'atb' / 'episodes.yaml'
     if atb_yaml.exists():
         atb_shows = yaml.safe_load(atb_yaml.read_text(encoding='utf-8')) or []
         SHOW_SUBDIRS = {'', 'ATB2'}
+        today = datetime.now()
+        today_doy = today.timetuple().tm_yday
+
+        def doy_forward(date_str):
+            """Forward distance from today's DOY, wrapping year-end. Today=0, tomorrow=1, yesterday=364."""
+            try:
+                d = datetime.strptime(date_str, '%Y-%m-%d')
+                return (d.timetuple().tm_yday - today_doy) % 365
+            except (ValueError, AttributeError):
+                return 999
+
         datable = [s for s in atb_shows if s.get('date') and s.get('date') != 'unknown'
-                   and (s.get('subdir') or '') in SHOW_SUBDIRS]
-        datable.sort(key=lambda s: s['date'], reverse=True)
-        for s in datable[:8]:
+                   and (s.get('subdir') or '') in SHOW_SUBDIRS
+                   and len(s.get('date', '')) == 10]
+        # Sort forward from today's DOY; break ties by recency (prefer later years)
+        datable_desc = sorted(datable, key=lambda s: (doy_forward(s['date']), s['date']))
+
+        for s in datable_desc[:5]:
             summary = s.get('summary') or ''
             if not summary:
                 desc = re.sub(r'<[^>]+>', '', s.get('description') or '').strip()
                 summary = desc[:160].rstrip() + ('…' if len(desc) > 160 else '') if desc else ''
+            artists = [
+                {'slug': t['slug'], 'name': t.get('name', t['slug'])}
+                for t in (s.get('artists_tags') or [])
+                if t.get('slug')
+            ]
             latest_atb_items.append({
                 'date': s['date'],
                 'summary': summary,
                 'url': f"/atb/{s['slug']}/",
+                'artists': artists,
             })
 
     # ── Latest announcements ───────────────────────────────────────────────────

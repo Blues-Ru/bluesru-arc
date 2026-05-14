@@ -17,9 +17,10 @@ audio { display: block; width: 100%; max-width: 540px; }
 }
 .atb-ai-info:hover { background: #4F62B5; color: #fff; }
 dialog.atb-ai-dialog {
+  position: fixed; top: 50%; left: 50%; transform: translate(-50%, -50%);
   border: 1px solid #ccc; border-radius: 6px; padding: 1.4em 1.6em;
-  max-width: 480px; font-size: 0.9em; line-height: 1.6;
-  box-shadow: 0 4px 18px rgba(0,0,0,0.15);
+  max-width: 480px; width: calc(100% - 2em); font-size: 0.9em; line-height: 1.6;
+  box-shadow: 0 4px 18px rgba(0,0,0,0.15); z-index: 9999;
 }
 dialog.atb-ai-dialog::backdrop { background: rgba(0,0,0,0.35); }
 dialog.atb-ai-dialog p { margin: 0 0 1em; }

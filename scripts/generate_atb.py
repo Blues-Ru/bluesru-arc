@@ -5,6 +5,7 @@ import re
 import sys
 import yaml
 from collections import OrderedDict
+from datetime import datetime
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent))
@@ -158,14 +159,56 @@ def generate_atb():
             ), encoding='utf-8')
         ep_pages_written += 1
 
+    # ── Seasonal episodes (closest to today's day-of-year) ────────────────────
+    today = datetime.now()
+    today_doy = today.timetuple().tm_yday
+
+    def _doy_forward(date_str):
+        try:
+            d = datetime.strptime(date_str, '%Y-%m-%d')
+            return (d.timetuple().tm_yday - today_doy) % 365
+        except (ValueError, AttributeError):
+            return 999
+
+    datable_shows = [
+        s for s in shows
+        if s.get('is_show') and s.get('date') and len(s.get('date', '')) == 10
+    ]
+    seasonal = sorted(datable_shows, key=lambda s: (_doy_forward(s['date']), s['date']))[:5]
+    seasonal_items = []
+    for s in seasonal:
+        artists = [
+            {'slug': t['slug'], 'name': t.get('name', t['slug'])}
+            for t in (s.get('artists_tags') or [])
+            if t.get('slug')
+        ]
+        seasonal_items.append({
+            'date': s['date'],
+            'summary': s.get('summary') or s.get('topic') or s.get('slug'),
+            'url': s['page_url'],
+            'artists': artists,
+        })
+
     # ── ATB index page ─────────────────────────────────────────────────────────
     tmpl = JINJA_ENV.get_template('atb_index.html.j2')
     dst = SITE / 'atb' / 'index.html'
     dst.parent.mkdir(parents=True, exist_ok=True)
+    def _ru_episodes(n):
+        n100, n10 = abs(n) % 100, abs(n) % 10
+        if 11 <= n100 <= 19:
+            return 'выпусков'
+        if n10 == 1:
+            return 'выпуск'
+        if 2 <= n10 <= 4:
+            return 'выпуска'
+        return 'выпусков'
+
     dst.write_text(tmpl.render(
         total=total,
+        total_word=_ru_episodes(total),
         year_groups=year_groups,
         undated=undated,
+        seasonal=seasonal_items,
         footer=FOOTER,
     ), encoding='utf-8')
     print(f"  ATB index: {total} episodes, {len(year_groups)} years")
