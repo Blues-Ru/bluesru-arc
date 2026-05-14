@@ -85,6 +85,13 @@ def generate_atb():
 
     total = len(shows)
 
+    # slugs that appear in any episode → have #atb section on their artist page
+    slugs_with_atb = {
+        (t['slug'] if isinstance(t, dict) else t)
+        for s in shows for t in (s.get('artists_tags') or [])
+        if (t['slug'] if isinstance(t, dict) else t)
+    }
+
     # ── Episode pages ──────────────────────────────────────────────────────────
     ep_page_tmpl = JINJA_ENV.get_template('atb_episode.html.j2')
 
@@ -130,7 +137,8 @@ def generate_atb():
             if not slug:
                 continue
             if (SITE / 'artist' / slug).is_dir():
-                items.append(f'<a href="/artist/{slug}/">{html_mod.escape(name)}</a>')
+                frag = '#atb' if slug in slugs_with_atb else ''
+                items.append(f'<a href="/artist/{slug}/{frag}">{html_mod.escape(name)}</a>')
             else:
                 items.append(html_mod.escape(name))
         if not items:
