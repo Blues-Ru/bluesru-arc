@@ -47,6 +47,7 @@ class Artist(BaseModel):
     apple_music_id: Optional[str] = None
     deezer_id: Optional[str] = None
     ytmusic_id: Optional[str] = None
+    discogs_id: Optional[str] = None
     resources: list[ArtistResource] = Field(default_factory=list)
 
     @property
@@ -93,6 +94,7 @@ class Album(BaseModel):
     ytmusic_id: Optional[str] = None
     youtube_video_id: Optional[str] = None
     youtube_playlist_id: Optional[str] = None
+    discogs_master_id: Optional[str] = None
     reviews: list[AlbumReview] = Field(default_factory=list)
 
     @property
@@ -244,9 +246,11 @@ class ArtistStreamingIds(BaseModel):
     spotify_id: Optional[str] = None
     apple_music_id: Optional[str] = None
     deezer_id: Optional[str] = None
+    discogs_id: Optional[str] = None
 
     def is_empty(self) -> bool:
-        return not any([self.spotify_id, self.apple_music_id, self.deezer_id])
+        return not any([self.spotify_id, self.apple_music_id, self.deezer_id,
+                        self.discogs_id])
 
 
 class AlbumStreamingIds(BaseModel):
@@ -257,11 +261,13 @@ class AlbumStreamingIds(BaseModel):
     ytmusic_id: Optional[str] = None
     youtube_video_id: Optional[str] = None
     youtube_playlist_id: Optional[str] = None
+    discogs_master_id: Optional[str] = None
 
     def is_empty(self) -> bool:
         return not any([
             self.spotify_id, self.apple_music_id, self.deezer_id,
             self.ytmusic_id, self.youtube_video_id, self.youtube_playlist_id,
+            self.discogs_master_id,
         ])
 
 

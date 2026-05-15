@@ -17,12 +17,14 @@ ALBUM_URL_TEMPLATES: dict[str, str] = {
     'ytmusic':          'https://music.youtube.com/browse/{}',
     'youtube_video':    'https://www.youtube.com/watch?v={}',
     'youtube_playlist': 'https://www.youtube.com/playlist?list={}',
+    'discogs_master':   'https://www.discogs.com/master/{}',
 }
 
 ARTIST_URL_TEMPLATES: dict[str, str] = {
     'apple_music': 'https://geo.music.apple.com/artist/{}',
     'spotify':     'https://open.spotify.com/artist/{}',
     'deezer':      'https://www.deezer.com/artist/{}',
+    'discogs':     'https://www.discogs.com/artist/{}',
 }
 
 PLATFORM_LABELS: dict[str, str] = {
@@ -32,6 +34,8 @@ PLATFORM_LABELS: dict[str, str] = {
     'ytmusic':          'YouTube Music',
     'youtube_video':    'YouTube',
     'youtube_playlist': 'YouTube',
+    'discogs':          'Discogs',
+    'discogs_master':   'Discogs',
 }
 
 # Named browser windows — one per service so repeated clicks reuse the same tab
@@ -42,6 +46,8 @@ PLATFORM_TARGETS: dict[str, str] = {
     'ytmusic':          'bluesru-ytmusic',
     'youtube_video':    'bluesru-youtube',
     'youtube_playlist': 'bluesru-youtube',
+    'discogs':          'bluesru-discogs',
+    'discogs_master':   'bluesru-discogs',
 }
 
 # ── Service logo SVGs (36×36) ──────────────────────────────────────────────────
@@ -85,6 +91,15 @@ _ICONS: dict[str, str] = {
         '<polygon points="13,10 28,18 13,26" fill="#fff"/>'
         '</svg>'
     ),
+    'discogs': (
+        '<svg viewBox="0 0 36 36" width="36" height="36" xmlns="http://www.w3.org/2000/svg">'
+        '<circle cx="18" cy="18" r="18" fill="#1B1B1B"/>'
+        '<circle cx="18" cy="18" r="13" fill="none" stroke="#555" stroke-width="1.5"/>'
+        '<circle cx="18" cy="18" r="8" fill="none" stroke="#555" stroke-width="1.5"/>'
+        '<circle cx="18" cy="18" r="4" fill="#EE5500"/>'
+        '<circle cx="18" cy="18" r="1.8" fill="#1B1B1B"/>'
+        '</svg>'
+    ),
 }
 
 # Map platform key → icon key
@@ -95,6 +110,8 @@ _PLATFORM_ICON: dict[str, str] = {
     'ytmusic':          'ytmusic',
     'youtube_video':    'youtube',
     'youtube_playlist': 'youtube',
+    'discogs':          'discogs',
+    'discogs_master':   'discogs',
 }
 
 

@@ -126,7 +126,7 @@ def generate_artists() -> None:
         # Compute resource type set for filter checkboxes
         _FILTER_TYPES = {'review', 'article', 'interview', 'atb', 'photo', 'calendar',
                          'lyrics', 'tabs', 'press', 'link'}
-        _STREAMING_PLATFORMS = {'spotify', 'apple_music', 'deezer', 'ytmusic'}
+        _STREAMING_PLATFORMS = {'spotify', 'apple_music', 'deezer', 'ytmusic', 'discogs'}
         res_types: set[str] = {lnk.type for lnk in artist_links if lnk.type in _FILTER_TYPES}
         for lnk in artist_links:
             if lnk.type == 'streaming' and lnk.platform in _STREAMING_PLATFORMS:

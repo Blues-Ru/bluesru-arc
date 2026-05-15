@@ -218,6 +218,7 @@ class DataStore:
                     spotify_id=a.spotify_id,
                     apple_music_id=a.apple_music_id,
                     deezer_id=a.deezer_id,
+                    discogs_id=a.discogs_id,
                 )
                 if not ids.is_empty():
                     result[a.slug] = ids
@@ -235,6 +236,7 @@ class DataStore:
                     ytmusic_id=album.ytmusic_id,
                     youtube_video_id=album.youtube_video_id,
                     youtube_playlist_id=album.youtube_playlist_id,
+                    discogs_master_id=album.discogs_master_id,
                 )
                 if not ids.is_empty() and album.slug:
                     result[album.slug] = ids

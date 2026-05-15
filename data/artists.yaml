@@ -7,6 +7,7 @@
   spotify_id: 7EynH3keqfKUmauyaeZoxv
   apple_music_id: '86447'
   resources: []
+  discogs_id: '288119'
 - id: 3
   slug: allman-brothers
   name: Allman Brothers Band
@@ -20,6 +21,7 @@
     url: /artist/allman-brothers/shooting.htm
   - type: interview
     url: /artist/allman-brothers/allman_14.htm
+  discogs_id: '110253'
 - id: 4
   slug: billy-boy-arnold
   name: Billy Boy Arnold
@@ -31,6 +33,7 @@
   resources:
   - type: link
     url: /artist/billy-boy-arnold/ww_ArnoldBB.htm
+  discogs_id: '353500'
 - id: 5
   slug: chuck-berry
   name: Chuck Berry
@@ -40,6 +43,7 @@
   spotify_id: 293zczrfYafIItmnmM3coR
   apple_music_id: '343170'
   resources: []
+  discogs_id: '180119'
 - id: 6
   slug: elvin-bishop
   name: Elvin Bishop
@@ -49,6 +53,7 @@
   spotify_id: 2G1yVp387GlUf9yvLk6V11
   apple_music_id: '137873'
   resources: []
+  discogs_id: '310690'
 - id: 7
   slug: paul-black
   name: Paul Black
@@ -56,6 +61,7 @@
   legacy_path: /bluesmen/Paul_Black/
   amg_id: Beyabqj6boj6a
   resources: []
+  discogs_id: '376996'
 - id: 8
   slug: blind-boy-fuller
   name: Blind Boy Fuller
@@ -65,6 +71,7 @@
   spotify_id: 7mPFWoDGjh7ArW1yr79EX8
   apple_music_id: '1169016'
   resources: []
+  discogs_id: '313038'
 - id: 9
   slug: blues-brothers
   name: Blues Brothers
@@ -74,6 +81,7 @@
   spotify_id: 1cHFz6lrt7KAsBV8j2Ny1g
   apple_music_id: '1596511471'
   resources: []
+  discogs_id: '3983213'
 - id: 10
   slug: roy-buchanan
   name: Roy Buchanan
@@ -83,6 +91,7 @@
   spotify_id: 0augulkuXFx1qPfb590w2C
   apple_music_id: '81505'
   resources: []
+  discogs_id: '583319'
 - id: 11
   slug: vidar-busk
   name: Vidar Busk & His True Believers
@@ -94,6 +103,7 @@
   resources:
   - type: article
     url: /artist/vidar-busk/Hero.htm
+  discogs_id: '687497'
 - id: 12
   slug: j-j-cale
   name: J.J. Cale
@@ -103,6 +113,7 @@
   spotify_id: 06nsZ3qSOYZ2hPVIMcr1IN
   apple_music_id: '78347'
   resources: []
+  discogs_id: '290587'
 - id: 13
   slug: eric-clapton
   name: Eric Clapton
@@ -112,6 +123,7 @@
   spotify_id: 6PAt558ZEZl0DmdXlnjMgD
   apple_music_id: '123853'
   resources: []
+  discogs_id: '17827'
 - id: 14
   slug: william-clarke
   name: William Clarke
@@ -123,6 +135,7 @@
   resources:
   - type: interview
     url: /bluesnews/11A/Clarke91/Clarke91.htm
+  discogs_id: '546060'
 - id: 15
   slug: albert-collins
   name: Albert Collins
@@ -132,6 +145,7 @@
   spotify_id: 1uFixbBAduJkFAeRKznkvW
   apple_music_id: '59339'
   resources: []
+  discogs_id: '282723'
 - id: 16
   slug: johnny-clyde-copeland
   name: Johnny Clyde Copeland
@@ -140,6 +154,7 @@
   amg_id: Bqjjv7i6jg72r
   spotify_id: 0Sr0o4tT3HFO5IYELG2jWo
   resources: []
+  discogs_id: '330433'
 - id: 17
   slug: ry-cooder
   name: Ry Cooder
@@ -149,6 +164,7 @@
   spotify_id: 1CPwHx5lgVxv0rfcp7UXLx
   apple_music_id: '191009'
   resources: []
+  discogs_id: '55080'
 - id: 18
   slug: shemekia-copeland
   name: Shemekia Copeland
@@ -158,6 +174,7 @@
   spotify_id: 4CNjyWtO59j6Ih6S0n73ee
   apple_music_id: '5308320'
   resources: []
+  discogs_id: '857557'
 - id: 19
   slug: robert-cray
   name: Robert Cray
@@ -171,6 +188,7 @@
     url: /artist/robert-cray/pie.htm
   - type: link
     url: /artist/robert-cray/ww_CrayR.htm
+  discogs_id: '276076'
 - id: 20
   slug: willie-dixon
   name: Willie Dixon
@@ -180,6 +198,7 @@
   spotify_id: 5v8WPpMk60cqZbuZLdXjKY
   apple_music_id: '95629'
   resources: []
+  discogs_id: '166684'
 - id: 21
   slug: chris-duarte
   name: Chris Duarte
@@ -195,6 +214,7 @@
     url: /bbkingfest/Lefortovo06/index3.htm
   - type: link
     url: /news/2008/02/11/story380/
+  discogs_id: '1457941'
 - id: 23
   slug: ronnie-earl
   name: Ronnie Earl
@@ -204,6 +224,7 @@
   spotify_id: 7xjcFAzlxdwPCfWi3VOuxU
   apple_music_id: '385157'
   resources: []
+  discogs_id: '342087'
 - id: 24
   slug: tinsley-ellis
   name: Tinsley Ellis
@@ -215,6 +236,7 @@
   resources:
   - type: link
     url: /artist/tinsley-ellis/ellis-citat.htm
+  discogs_id: '583328'
 - id: 25
   slug: lowell-fulson
   name: Lowell Fulson
@@ -224,6 +246,7 @@
   spotify_id: 3VhvGNnWfzmlEyiuhzdgf5
   apple_music_id: '182898'
   resources: []
+  discogs_id: '136158'
 - id: 26
   slug: buddy-guy
   name: Buddy Guy
@@ -241,6 +264,7 @@
     url: /artist/buddy-guy/guyplus.htm
   - type: interview
     url: /news/2012/04/#982
+  discogs_id: '259799'
 - id: 27
   slug: corey-harris
   name: Corey Harris
@@ -250,6 +274,7 @@
   spotify_id: 1TQtbRQbaXw5CeN3mC0DJH
   apple_music_id: '2469070'
   resources: []
+  discogs_id: '211784'
 - id: 28
   slug: jimi-hendrix
   name: Jimi Hendrix
@@ -267,6 +292,7 @@
     url: /artist/jimi-hendrix/hendrix_guy.htm
   - type: discography
     url: /artist/jimi-hendrix/newdisk.htm
+  discogs_id: '110593'
 - id: 29
   slug: michael-hill
   name: Michael Hill
@@ -276,6 +302,7 @@
   spotify_id: 684oDJ3wKIggBXSVUKIa2i
   apple_music_id: '1738215435'
   resources: []
+  discogs_id: '1682009'
 - id: 30
   slug: dave-hole
   name: Dave Hole
@@ -285,6 +312,7 @@
   spotify_id: 6qGv85JlIu536BngDpbI5X
   apple_music_id: '5369744'
   resources: []
+  discogs_id: '583326'
 - id: 32
   slug: john-lee-hooker
   name: John Lee Hooker
@@ -298,6 +326,7 @@
     url: /artist/john-lee-hooker/budda.htm
   - type: article
     url: /artist/john-lee-hooker/blow_up.htm
+  discogs_id: '94557'
 - id: 33
   slug: lightnin-hopkins
   name: Lightnin' Hopkins
@@ -307,6 +336,7 @@
   spotify_id: 6EZzVXM2uDRPmnHWq9yPDE
   apple_music_id: '179321'
   resources: []
+  discogs_id: '290582'
 - id: 35
   slug: howlin-wolf
   name: Howlin' Wolf
@@ -320,6 +350,7 @@
     url: /reading/wolf_palmer1.htm
   - type: article
     url: /reading/wolf_palmer2.htm
+  discogs_id: '340678'
 - id: 36
   slug: elmore-james
   name: Elmore James
@@ -331,6 +362,7 @@
   resources:
   - type: link
     url: /artist/elmore-james/ww_JamesEl.htm
+  discogs_id: '332303'
 - id: 37
   slug: blind-lemon-jefferson
   name: Blind Lemon Jefferson
@@ -340,6 +372,7 @@
   spotify_id: 6EsuMifB8c5rm5P2DdjiLe
   apple_music_id: '914329'
   resources: []
+  discogs_id: '307195'
 - id: 38
   slug: robert-johnson
   name: Robert Johnson
@@ -349,6 +382,7 @@
   spotify_id: 0f8MDDzIc6M4uH1xH0o0gy
   apple_music_id: '314626'
   resources: []
+  discogs_id: '272142'
 - id: 39
   slug: albert-king
   name: Albert King
@@ -360,6 +394,7 @@
   resources:
   - type: interview
     url: http://community.livejournal.com/blues_ukraine/1710.html#cutid1
+  discogs_id: '137224'
 - id: 40
   slug: bb-king
   name: B.B. King
@@ -371,6 +406,7 @@
   resources:
   - type: interview
     url: /artist/bb-king/bbinterv.htm
+  discogs_id: '37729'
 - id: 41
   slug: freddie-king
   name: Freddie King
@@ -380,6 +416,7 @@
   spotify_id: 5dCuFngSPyOOnTAvrC7v2s
   apple_music_id: '549060'
   resources: []
+  discogs_id: '323162'
 - id: 42
   slug: alexis-korner
   name: Alexis Korner
@@ -388,6 +425,7 @@
   amg_id: By2jx7iajg77r
   spotify_id: 385tW2q0gMaQTkswc9lMSe
   resources: []
+  discogs_id: '291339'
 - id: 43
   slug: johnny-lang
   name: Johnny Lang
@@ -396,6 +434,7 @@
   amg_id: B08q7g44ntvoz
   spotify_id: 5rX1EodZfwxmW4fQX2Caot
   resources: []
+  discogs_id: '718193'
 - id: 45
   slug: long-john-hunter
   name: Long John Hunter
@@ -408,6 +447,7 @@
     url: /efes/longjohn.asp
   - type: article
     url: /bluesnews/00Autumn/00EfesHunter.htm
+  discogs_id: '583331'
 - id: 46
   slug: doug-macleod
   name: Doug MacLeod
@@ -417,6 +457,7 @@
   spotify_id: 74TtiqgtscsnZGa84SHolz
   apple_music_id: '6849925'
   resources: []
+  discogs_id: '752194'
 - id: 47
   slug: john-mayall
   name: John Mayall
@@ -430,6 +471,7 @@
     url: /artist/john-mayall/John_Mayall_int.htm
   - type: article
     url: /ww/Mayall60.zip
+  discogs_id: '291340'
 - id: 48
   slug: brownie-mcghee
   name: Brownie McGhee
@@ -438,6 +480,7 @@
   amg_id: Bihud6jah71q0
   spotify_id: 3qXzj7WzBV3kwy1yEV1RcC
   resources: []
+  discogs_id: '322293'
 - id: 49
   slug: keb-mo
   name: Keb' Mo'
@@ -449,6 +492,7 @@
   resources:
   - type: interview
     url: /news/2015/06/#1078
+  discogs_id: '569276'
 - id: 50
   slug: coco-montoya
   name: Coco Montoya
@@ -460,6 +504,7 @@
   resources:
   - type: article
     url: /artist/coco-montoya/Coco_Montoya_article.htm
+  discogs_id: '437467'
 - id: 51
   slug: gary-moore
   name: Gary Moore
@@ -475,6 +520,7 @@
     url: /artist/gary-moore/mooredis.htm
   - type: interview
     url: /news/?p=201010#833
+  discogs_id: '208220'
 - id: 52
   slug: kenny-neal
   name: Kenny Neal
@@ -483,6 +529,7 @@
   amg_id: Bzgse4j470waw
   spotify_id: 2YNoaobWamjDPop3nk9xMQ
   resources: []
+  discogs_id: '583322'
 - id: 53
   slug: pinetop-perkins
   name: Pinetop Perkins
@@ -498,6 +545,7 @@
     url: /news/?p=201103#907
   - type: link
     url: /news/?p=201103#903
+  discogs_id: '1313534'
 - id: 54
   slug: lonnie-pitchford
   name: Lonnie Pitchford
@@ -506,6 +554,7 @@
   amg_id: Bu2jb7i8og76r
   spotify_id: 5XGoUb08p94SCPWohCzDFv
   resources: []
+  discogs_id: '2030831'
 - id: 55
   slug: lucky-peterson
   name: Lucky Peterson
@@ -517,6 +566,7 @@
   resources:
   - type: article
     url: /news/?p=201012#854
+  discogs_id: '322593'
 - id: 57
   slug: jimmy-reed
   name: Jimmy Reed
@@ -526,6 +576,7 @@
   spotify_id: 41ZMMuFFLPTVPkUsSI5KlV
   apple_music_id: '207845'
   resources: []
+  discogs_id: '64678'
 - id: 58
   slug: jimmy-rogers
   name: Jimmy Rogers
@@ -535,6 +586,7 @@
   spotify_id: 0Y0ZlznP6vzTS1qAm5dvTN
   apple_music_id: '98774'
   resources: []
+  discogs_id: '386791'
 - id: 59
   slug: otis-rush
   name: Otis Rush
@@ -548,6 +600,7 @@
     url: /artist/otis-rush/RushGrammy.htm
   - type: interview
     url: /artist/otis-rush/Rush1993.htm
+  discogs_id: '340680'
 - id: 60
   slug: son-seals
   name: Son Seals
@@ -557,6 +610,7 @@
   spotify_id: 0phMS1UDPTZlxuEnarDUKt
   apple_music_id: '5684563'
   resources: []
+  discogs_id: '583335'
 - id: 61
   slug: kenny-wayne-shepherd
   name: Kenny Wayne Shepherd
@@ -568,6 +622,7 @@
   resources:
   - type: interview
     url: /artist/kenny-wayne-shepherd/KWS10.htm
+  discogs_id: '367581'
 - id: 62
   slug: hubert-sumlin
   name: Hubert Sumlin
@@ -576,6 +631,7 @@
   amg_id: Bkumyxdfbjol0
   spotify_id: 3Dogy4uGWEG13OyOJmw3R9
   resources: []
+  discogs_id: '512585'
 - id: 63
   slug: koko-taylor
   name: Koko Taylor
@@ -586,6 +642,7 @@
   resources:
   - type: audio
     url: http://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BA%D0%BE_%D0%A2%D0%B5%D0%B9%D0%BB%D0%BE%D1%80
+  discogs_id: '282993'
 - id: 64
   slug: taj-mahal
   name: Taj Mahal
@@ -595,6 +652,7 @@
   spotify_id: 1aTDTChWWyiJH3SEnYrdVp
   apple_music_id: '10735'
   resources: []
+  discogs_id: '15158'
 - id: 65
   slug: t-bone-walker
   name: T-Bone Walker
@@ -604,6 +662,7 @@
   spotify_id: 6nPKmEbQmR8jGZEm7ArOFX
   apple_music_id: '533197'
   resources: []
+  discogs_id: '307262'
 - id: 66
   slug: jimmie-vaughan
   name: Jimmie Vaughan
@@ -614,6 +673,7 @@
   resources:
   - type: link
     url: /artist/jimmie-vaughan/ww_VaughanJ.htm
+  discogs_id: '330441'
 - id: 67
   slug: stevie-ray-vaughan
   name: Stevie Ray Vaughan
@@ -625,6 +685,7 @@
   resources:
   - type: article
     url: /artist/stevie-ray-vaughan/Stevie_Ray_Vaughan_article.htm
+  discogs_id: '137225'
 - id: 68
   slug: little-walter
   name: Little Walter
@@ -633,6 +694,7 @@
   amg_id: B9i0xlf0e5cqw
   spotify_id: 22JuR9OeENcP54XN5TlNWS
   resources: []
+  discogs_id: '340688'
 - id: 69
   slug: muddy-waters
   name: Muddy Waters
@@ -651,6 +713,7 @@
     url: http://youtu.be/jmUhqUwmX9Q
   - type: interview
     url: /reading/RP01.htm
+  discogs_id: '59246'
 - id: 70
   slug: junior-wells
   name: Junior Wells
@@ -660,6 +723,7 @@
   spotify_id: 78CBFzwo7wwNaaTYVP5btK
   apple_music_id: '1166346'
   resources: []
+  discogs_id: '328158'
 - id: 71
   slug: joe-williams
   name: Joe Williams
@@ -669,6 +733,7 @@
   spotify_id: 7FMGtucexJvUxVz7scydEL
   apple_music_id: '683204'
   resources: []
+  discogs_id: '37732'
 - id: 72
   slug: sonny-boy-williamson
   name: Sonny Boy Williamson
@@ -677,6 +742,7 @@
   amg_id: Bzt1m96bodep6
   spotify_id: 547G7bscNX0eH1Wn8goMUz
   resources: []
+  discogs_id: '746951'
 - id: 73
   slug: johnny-winter
   name: Johnny Winter
@@ -688,6 +754,7 @@
   resources:
   - type: interview
     url: /bluesnews/10Spring/WinterInt10/WinterInt10.html
+  discogs_id: '254198'
 - id: 74
   slug: jimmy-witherspoon
   name: Jimmy Witherspoon
@@ -697,6 +764,7 @@
   spotify_id: 6vth8u6Wp7k2bbzDQMCmrb
   apple_music_id: '95664'
   resources: []
+  discogs_id: '304917'
 - id: 75
   slug: mighty-joe-young
   name: Mighty Joe Young
@@ -706,6 +774,7 @@
   spotify_id: 3s5c2rjSE7v4KbMsGb5qaL
   apple_music_id: '3423921'
   resources: []
+  discogs_id: '328146'
 - id: 76
   slug: mike-bloomfield
   name: Mike Bloomfield
@@ -716,6 +785,7 @@
   resources:
   - type: article
     url: http://finam.fm/archive-view/1259/
+  discogs_id: '258121'
 - id: 77
   slug: lonnie-brooks
   name: Lonnie Brooks
@@ -724,6 +794,7 @@
   amg_id: Bkzjqoauabijx
   spotify_id: 56tyBq8Ta1BdSTBs0gGhog
   resources: []
+  discogs_id: '437876'
 - id: 78
   slug: big-bill-broonzy
   name: Big Bill Broonzy
@@ -732,6 +803,7 @@
   amg_id: Bntkmu3x5an5k
   spotify_id: 6HwigzRpuWoCZDqMOQc5eu
   resources: []
+  discogs_id: '307270'
 - id: 79
   slug: clarence-gatemouth-brown
   name: Clarence "Gatemouth" Brown
@@ -740,6 +812,7 @@
   amg_id: Bku3ibkj96ak9
   spotify_id: 4aoS04mCVj1CMam1LiHngo
   resources: []
+  discogs_id: '640280'
 - id: 80
   slug: ruth-brown
   name: Ruth Brown
@@ -748,6 +821,7 @@
   amg_id: Bz9z8b5m4tsqe
   spotify_id: 4EYVgfZJ8wKXWmIvCx3gOY
   resources: []
+  discogs_id: '136013'
 - id: 81
   slug: rl-burnside
   name: R.L.Burnside
@@ -756,6 +830,7 @@
   amg_id: Bwzdxlfke5cqe
   spotify_id: 2drMeidRg4jc07neGOL0Ip
   resources: []
+  discogs_id: '262901'
 - id: 82
   slug: paul-butterfield
   name: Paul Butterfield
@@ -764,6 +839,7 @@
   amg_id: B48ogtq9ztu4p
   spotify_id: 6kz7WuPaUa4QVreP27I33i
   resources: []
+  discogs_id: '273348'
 - id: 83
   slug: john-campbell
   name: John Campbell
@@ -772,6 +848,7 @@
   amg_id: Bpxcm968o3epf
   spotify_id: 10lsnqrWnGo0X3Kgn1nWIS
   resources: []
+  discogs_id: '31160'
 - id: 84
   slug: canned-heat
   name: Canned Heat
@@ -780,6 +857,7 @@
   amg_id: Brghe4jn70way
   spotify_id: 27a0GiCba9K9lnkKidroFU
   resources: []
+  discogs_id: '269094'
 - id: 85
   slug: tommy-castro
   name: Tommy Castro
@@ -791,6 +869,7 @@
   resources:
   - type: interview
     url: /bluesnews/10Spring/castro/CastroInt.htm
+  discogs_id: '1046750'
 - id: 86
   slug: jennie-jimmy-cheatham
   name: Jennie & Jimmy Cheatham
@@ -808,6 +887,7 @@
   spotify_id: 3LzQVHowQWbzJBwBBNRPfY
   apple_music_id: '2716210'
   resources: []
+  discogs_id: '483697'
 - id: 88
   slug: james-cotton
   name: James Cotton
@@ -819,6 +899,7 @@
   resources:
   - type: interview
     url: /news/?p=200807#500
+  discogs_id: '36605'
 - id: 90
   slug: arthur-crudup
   name: Arthur "Big Boy" Crudup
@@ -828,6 +909,7 @@
   spotify_id: 7dSnChJjb0jdfulJsIijoC
   apple_music_id: '24710'
   resources: []
+  discogs_id: '368543'
 - id: 92
   slug: rory-gallagher
   name: Rory Gallagher
@@ -837,6 +919,7 @@
   spotify_id: 1kcWyDvrlPUbyxkIoM6pAV
   apple_music_id: '2415529'
   resources: []
+  discogs_id: '373460'
 - id: 93
   slug: harmonica-fats
   name: Harmonica Fats
@@ -846,6 +929,7 @@
   spotify_id: 2FE5NTrGemODPahvSAifB1
   apple_music_id: '285198780'
   resources: []
+  discogs_id: '683050'
 - id: 94
   slug: clarence-hollimon
   name: Clarence Hollimon
@@ -855,6 +939,7 @@
   spotify_id: 7CrfVqaH0jTXD9zXwsYwFm
   apple_music_id: '3930389'
   resources: []
+  discogs_id: '1392873'
 - id: 95
   slug: michael-cub-koda
   name: Michael "Cub" Koda
@@ -863,6 +948,7 @@
   amg_id: null
   spotify_id: 6ytqHZyHH6y1T9MQ21Rqcu
   resources: []
+  discogs_id: '666042'
 - id: 96
   slug: lil-ed-williams
   name: Lil' Ed Williams & The Blues Imperials
@@ -871,6 +957,7 @@
   amg_id: Bj06wtro9kl3x
   spotify_id: 3Rb0PWL2XJTCKrhZ2FSd5E
   resources: []
+  discogs_id: '583321'
 - id: 97
   slug: louisiana-red
   name: Louisiana Red
@@ -880,6 +967,7 @@
   spotify_id: 1gAPH1IQmAFW28AYz1nyE9
   apple_music_id: '5125856'
   resources: []
+  discogs_id: '340687'
 - id: 98
   slug: charlie-musselwhite
   name: Charlie Musselwhite
@@ -891,6 +979,7 @@
   resources:
   - type: interview
     url: /artist/charlie-musselwhite/Charlie_Musselwhite_interview.htm
+  discogs_id: '397953'
 - id: 99
   slug: pops-staples
   name: Pops Staples
@@ -902,6 +991,7 @@
   resources:
   - type: interview
     url: /artist/pops-staples/ww_StaplesP1.htm
+  discogs_id: '311808'
 - id: 100
   slug: johnnie-taylor
   name: Johnnie Taylor
@@ -911,6 +1001,7 @@
   spotify_id: 4OGuNAnRFWZOgOA2d51taz
   apple_music_id: '867432'
   resources: []
+  discogs_id: '158399'
 - id: 102
   slug: johnny-big-moose-walker
   name: Johnny "Big Moose" Walker
@@ -920,6 +1011,7 @@
   spotify_id: 0a4xVWpLoNjWN8NbMqE6tU
   apple_music_id: '14933031'
   resources: []
+  discogs_id: '742715'
 - id: 103
   slug: chess-records
   name: Chess Records
@@ -930,6 +1022,7 @@
   resources:
   - type: link
     url: /label/Chess/
+  discogs_id: '5641257'
 - id: 104
   slug: alligator-records
   name: Alligator Records
@@ -940,6 +1033,7 @@
   resources:
   - type: link
     url: /label/Alligator/
+  discogs_id: '7605603'
 - id: 109
   slug: little-charlie
   name: Little Charlie & The Nightcats
@@ -951,6 +1045,7 @@
   resources:
   - type: interview
     url: /artist/little-charlie/Little_Charlie_interview.htm
+  discogs_id: '583327'
 - id: 110
   slug: roomful-of-blues
   name: Roomful Of Blues
@@ -959,6 +1054,7 @@
   amg_id: B8gjteaz04xd7
   spotify_id: 2ngCOxUAUuIwjkl4qYX51L
   apple_music_id: '2492374'
+  discogs_id: '357698'
 - id: 111
   slug: george-thorogood
   name: George Thorogood
@@ -967,6 +1063,7 @@
   amg_id: Bqya9kept7q7v
   spotify_id: 4n31svBA9GGIYxGxgrQaRK
   apple_music_id: '490624'
+  discogs_id: '283557'
 - id: 112
   slug: rick-holmstrom
   name: Rick Holmstrom
@@ -978,6 +1075,7 @@
   resources:
   - type: interview
     url: /artist/rick-holmstrom/Rick_Holmstrom_interview.htm
+  discogs_id: '622847'
 - id: 116
   slug: amund-maarud
   name: Amund Maarud
@@ -989,6 +1087,7 @@
   resources:
   - type: article
     url: /artist/amund-maarud/gigsreviews.htm
+  discogs_id: '591693'
 - id: 117
   slug: wc-handy
   name: W.C. Handy
@@ -998,6 +1097,7 @@
   spotify_id: 7mDbAZV24eEmw5VJpKlCi9
   apple_music_id: '270230'
   resources: []
+  discogs_id: '782861'
 - id: 118
   slug: carlos-del-junco
   name: Carlos del Junco
@@ -1009,6 +1109,7 @@
   resources:
   - type: link
     url: /artist/carlos-del-junco/ww_Junco.htm
+  discogs_id: '545323'
 - id: 119
   slug: champion-jack-dupree
   name: Champion Jack Dupree
@@ -1018,6 +1119,7 @@
   spotify_id: 1NnRjWELSLqFONDhwc8VU7
   apple_music_id: '1390001'
   resources: []
+  discogs_id: '313154'
 - id: 120
   slug: screamin-jay-hawkins
   name: Screamin' Jay Hawkins
@@ -1029,6 +1131,7 @@
   resources:
   - type: article
     url: /bluesmen/Screamin_Jay_Hawkins/hawkins1.htm
+  discogs_id: '160905'
 - id: 121
   slug: dave-specter
   name: Dave Specter
@@ -1038,6 +1141,7 @@
   spotify_id: 6Ti8C1FTM9ZV8qwWktWy3w
   apple_music_id: '41450224'
   resources: []
+  discogs_id: '328141'
 - id: 122
   slug: noel-redding
   name: Noel Redding
@@ -1047,6 +1151,7 @@
   spotify_id: 3ltVUR5mzyaLZMoCdo26qT
   apple_music_id: '106024581'
   resources: []
+  discogs_id: '252848'
 - id: 123
   slug: junior-watson
   name: Junior Watson
@@ -1056,6 +1161,7 @@
   spotify_id: 3GKQjnbn10eiRdADeCZjYC
   apple_music_id: '1478089654'
   resources: []
+  discogs_id: '1136943'
 - id: 124
   slug: kid-ramos
   name: Kid Ramos
@@ -1065,6 +1171,7 @@
   spotify_id: 405tHSLp2ie78eo1j1IygQ
   apple_music_id: '119172796'
   resources: []
+  discogs_id: '2874259'
 - id: 125
   slug: knockout-greg
   name: Knock-Out Greg & Blue Weather
@@ -1075,6 +1182,7 @@
   resources:
   - type: interview
     url: /bluesmen/Knockout_Greg/Knockout_Greg_interview.htm
+  discogs_id: '3624268'
 - id: 126
   slug: rod-piazza
   name: Rod Piazza
@@ -1083,6 +1191,7 @@
   amg_id: Bkunyxdkbjoly
   spotify_id: 0zWkGcXh8YmA2CFDGUosWX
   apple_music_id: '3931585'
+  discogs_id: '511810'
 - id: 127
   slug: paul-lamb
   name: Paul Lamb & the King Snakes
@@ -1092,6 +1201,7 @@
   spotify_id: 4KhXj4jFBKfH0tVc4eIV5z
   apple_music_id: '256040524'
   resources: []
+  discogs_id: '3022299'
 - id: 128
   slug: duke-robillard
   name: Duke Robillard
@@ -1101,6 +1211,7 @@
   spotify_id: 3SQa9cVuiUaZfao2KZiElA
   apple_music_id: '2489744'
   resources: []
+  discogs_id: '357703'
 - id: 129
   slug: kim-wilson
   name: Kim Wilson
@@ -1109,6 +1220,7 @@
   amg_id: B6kzsa9rgb230
   spotify_id: 3LkeAX21Tyb0t1CCAP5aq3
   resources: []
+  discogs_id: '282127'
 - id: 130
   slug: jimmy-d-lane
   name: Jimmy D. Lane
@@ -1117,6 +1229,7 @@
   amg_id: B6h27gjyr86i9
   spotify_id: 2ccILyp74XrXw9p3dlmUc9
   resources: []
+  discogs_id: '2607170'
 - id: 131
   slug: bb-the-blues-shacks
   name: B.B. & The Blues Shacks
@@ -1126,6 +1239,7 @@
   spotify_id: 7BLvemJuYKMilnWW7DLn39
   apple_music_id: '211229871'
   resources: []
+  discogs_id: '1410064'
 - id: 132
   slug: alex-schultz
   name: Alex Schultz
@@ -1134,6 +1248,7 @@
   amg_id: Btdja7i38g7xr
   spotify_id: 2Vw0dPO1FRGkFWMYFjXvD8
   resources: []
+  discogs_id: '1041610'
 - id: 133
   slug: wc-clark
   name: W.C. Clark
@@ -1144,6 +1259,7 @@
   resources:
   - type: link
     url: /efes/wcclark.htm
+  discogs_id: '1380526'
 - id: 134
   slug: peter-green
   name: Peter Green
@@ -1153,6 +1269,7 @@
   spotify_id: 3y1DgnVXqckGJrbwOKchdU
   apple_music_id: '907298'
   resources: []
+  discogs_id: '18456'
 - id: 135
   slug: deborah-coleman
   name: Deborah Coleman
@@ -1162,6 +1279,7 @@
   spotify_id: 7Dk3koHTPpEymzuWOWzzny
   apple_music_id: '3862904'
   resources: []
+  discogs_id: '1130678'
 - id: 136
   slug: mighty-sam-mcclain
   name: Mighty Sam McClain
@@ -1169,6 +1287,7 @@
   legacy_path: null
   amg_id: B2zkqoauayijn
   spotify_id: 71sDMpcZzbN4kDKnYoGT1W
+  discogs_id: '1098204'
 - id: 137
   slug: gary-primich
   name: Gary Primich
@@ -1181,6 +1300,7 @@
     url: /artist/gary-primich/Gary_Primich_interview.htm
   - type: article
     url: /bluesnews/04Winter/Primich.htm
+  discogs_id: '546062'
 - id: 139
   slug: john-hammond
   name: John Hammond
@@ -1190,6 +1310,7 @@
   spotify_id: 471Ycbmda1lAuLMscQvxMR
   apple_music_id: '20367220'
   resources: []
+  discogs_id: '252830'
 - id: 140
   slug: dr-john
   name: Dr. John
@@ -1201,6 +1322,7 @@
   resources:
   - type: article
     url: /artist/dr-john/DrJohnHOB.htm
+  discogs_id: '15152'
 - id: 141
   slug: eirik-bergene
   name: Eirik Bergene
@@ -1209,6 +1331,7 @@
   amg_id: null
   spotify_id: 4zBe5rJRxbEPprNHDm8FzI
   resources: []
+  discogs_id: '575549'
 - id: 142
   slug: terry-evans
   name: Terry Evans
@@ -1216,6 +1339,7 @@
   legacy_path: null
   amg_id: Bkm6ktr59kl5x
   spotify_id: 2pRTJxkj9tgEe7A4CCQdFt
+  discogs_id: '407328'
 - id: 143
   slug: kid-andersen
   name: Kid Andersen
@@ -1225,6 +1349,7 @@
   spotify_id: 4tZ11HCGBejBPGjUgbkcfU
   apple_music_id: '78862610'
   resources: []
+  discogs_id: '585455'
 - id: 145
   slug: blues-leaf
   name: Blues Leaf
@@ -1245,6 +1370,7 @@
   resources:
   - type: interview
     url: /artist/james-harman/James_Harman_interview.htm
+  discogs_id: '1540146'
 - id: 147
   slug: billy-branch
   name: Billy Branch
@@ -1254,6 +1380,7 @@
   spotify_id: 5cUazMvxcAPELFif0BGn2t
   apple_music_id: '5580589'
   resources: []
+  discogs_id: '438085'
 - id: 148
   slug: johnny-dyer
   name: Johnny Dyer
@@ -1263,6 +1390,7 @@
   spotify_id: 4f8vvLN5Rt3WszqOqVR9e9
   apple_music_id: '3929521'
   resources: []
+  discogs_id: '1891854'
 - id: 149
   slug: raful-neal
   name: Raful Neal
@@ -1271,6 +1399,7 @@
   amg_id: 11:q69gs30ba3mg
   spotify_id: 5zdiBKXtaX96hNNCEnP5f0
   resources: []
+  discogs_id: '608244'
 - id: 150
   slug: sam-myers
   name: Sam Myers
@@ -1279,6 +1408,7 @@
   amg_id: 11:2tknu3x5an7k
   spotify_id: 0YYCVTvvo9y11vKo54ZN3z
   resources: []
+  discogs_id: '599725'
 - id: 151
   slug: snooky-pryor
   name: Snooky Pryor
@@ -1288,6 +1418,7 @@
   spotify_id: 2mGsLcgVJSfpUTgrMuPxt3
   apple_music_id: '3193734'
   resources: []
+  discogs_id: '435932'
 - id: 152
   slug: sonny-terry
   name: Sonny Terry
@@ -1297,6 +1428,7 @@
   spotify_id: 66hQFpsfaFzK8UbsQofCGv
   apple_music_id: '243176'
   resources: []
+  discogs_id: '290579'
 - id: 153
   slug: sugar-ray-norcia
   name: Sugar Ray Norcia
@@ -1306,6 +1438,7 @@
   spotify_id: 0BM240efed5UAh5fgc23qC
   apple_music_id: '92761833'
   resources: []
+  discogs_id: '1441974'
 - id: 155
   slug: blues-harp-melt-down
   name: Blues Harp Melt Down
@@ -1321,6 +1454,7 @@
   legacy_path: /bluesmen/Govt_Mule/
   amg_id: 11:xdevad7kt8wn
   spotify_id: 5zoKOcTDI9EMOhGNaxL708
+  discogs_id: '409650'
 - id: 157
   slug: jesse-colin-young
   name: Jesse Colin Young
@@ -1329,6 +1463,7 @@
   amg_id: 11:5z6tk6ax9kr0
   spotify_id: 2pJn4djuWrNQbNfrxHB13M
   apple_music_id: '2708175'
+  discogs_id: '425009'
 - id: 158
   slug: eric-bibb
   name: Eric Bibb
@@ -1337,6 +1472,7 @@
   amg_id: 11:w6ke4j472waw
   spotify_id: 2uNcfNhlVJUyEX0t0NG1m1
   apple_music_id: '6974466'
+  discogs_id: '714691'
 - id: 159
   slug: mississippi-fred-mcdowell
   name: Mississippi Fred McDowell
@@ -1344,6 +1480,7 @@
   legacy_path: null
   amg_id: 11:14rz281c058a
   spotify_id: 0elA30wLp3RmiPaGtU2jhQ
+  discogs_id: '401272'
 - id: 160
   slug: snooks-eaglin
   name: Snooks Eaglin
@@ -1352,6 +1489,7 @@
   amg_id: 11:kzkqoatabijn
   spotify_id: 4ReGayOtLkcAsNi6d2n7LS
   resources: []
+  discogs_id: '420622'
 - id: 161
   slug: ron-levy
   name: Ron Levy
@@ -1359,6 +1497,7 @@
   legacy_path: null
   amg_id: 11:vqjx7iojg74r
   spotify_id: 4vanLVAdgwVFOViVjrDDPQ
+  discogs_id: '273900'
 - id: 162
   slug: eddie-boyd
   name: Eddie Boyd
@@ -1366,6 +1505,7 @@
   legacy_path: null
   amg_id: 11:hifixq95ldje
   spotify_id: 6tlPbmYME3fjRkSBb3pjoB
+  discogs_id: '341573'
 - id: 163
   slug: siegel-schwall-band
   name: Siegel-Schwall Band
@@ -1373,6 +1513,7 @@
   legacy_path: null
   amg_id: 11:9iaxlffe5cqw
   spotify_id: 09y7wEuZOxZyYi8suU6NEo
+  discogs_id: '1527090'
 - id: 164
   slug: buckwheat-zydeco
   name: Buckwheat Zydeco
@@ -1381,6 +1522,7 @@
   amg_id: 11:w1ud6jah71y0
   spotify_id: 31ioFU3ADV6npBP7ykNvtF
   apple_music_id: '32279'
+  discogs_id: '294926'
 - id: 165
   slug: electric-flag
   name: Electric Flag
@@ -1388,6 +1530,7 @@
   legacy_path: null
   amg_id: 11:z95a8q9tbtz4
   spotify_id: 6qyfxCyE6JsPkcGVIOPpyl
+  discogs_id: '1991684'
 - id: 166
   slug: little-milton
   name: Little Milton
@@ -1395,6 +1538,7 @@
   legacy_path: null
   amg_id: 11:0cddyl1jxpeb
   spotify_id: 0MPtuQaV2GiRdLjAkPOaan
+  discogs_id: '294304'
 - id: 167
   slug: eddy-the-chief-clearwater
   name: Eddy "The Chief" Clearwater
@@ -1411,6 +1555,7 @@
     url: /efes/clearwater.asp
   - type: link
     url: /news/2016/08/#1096
+  discogs_id: '1217077'
 - id: 168
   slug: shuggie-otis
   name: Shuggie Otis
@@ -1418,6 +1563,7 @@
   legacy_path: null
   amg_id: 11:jbklu3r5an4k
   spotify_id: 4YHtIE7FI8ITfekzzN5Jpl
+  discogs_id: '5493'
 - id: 169
   slug: willie-murphy
   name: Willie Murphy
@@ -1425,6 +1571,7 @@
   legacy_path: null
   amg_id: 11:o277gjvr86iv
   spotify_id: 1FQJqgKQDNLWfeLBQoQLmD
+  discogs_id: '1050459'
 - id: 171
   slug: sonny-terry-brownie-mcghee
   name: Sonny Terry & Brownie McGhee
@@ -1432,6 +1579,7 @@
   legacy_path: null
   amg_id: 11:5srx28gc053a
   spotify_id: 7huaiva8I4bpYN9bjRDRC2
+  discogs_id: '436811'
 - id: 172
   slug: bukka-white
   name: Bukka White
@@ -1439,6 +1587,7 @@
   legacy_path: null
   amg_id: 11:lxoibkk96akm
   spotify_id: 2gSskdDhLQCx3CQd6XKDhp
+  discogs_id: '150530'
 - id: 173
   slug: luther-guitar-junior-johnson
   name: Luther "Guitar Junior" Johnson
@@ -1446,6 +1595,7 @@
   legacy_path: null
   amg_id: 11:pr2m962o3ep3
   spotify_id: 2uti5VYcw9CSKw9gYx639x
+  discogs_id: '455338'
 - id: 174
   slug: rory-block
   name: Rory Block
@@ -1453,6 +1603,7 @@
   legacy_path: null
   amg_id: 11:axkmikl6bb69
   spotify_id: 6hkNj3GAqFbkEUCs3R1dY3
+  discogs_id: '223609'
 - id: 175
   slug: johnny-guitar-watson
   name: Johnny "Guitar" Watson
@@ -1460,6 +1611,7 @@
   legacy_path: null
   amg_id: 11:8aq4g40btv2z~T1
   spotify_id: 6uB4Ax6mlzohDTLqLOJ6Vl
+  discogs_id: '18981'
 - id: 176
   slug: corky-siegel
   name: Corky Siegel
@@ -1468,6 +1620,7 @@
   amg_id: 11:3nkzu3x5an8k
   spotify_id: 23p6pwi1Wf0d46jOMf9fN5
   resources: []
+  discogs_id: '1406607'
 - id: 177
   slug: etta-james
   name: Etta James
@@ -1475,6 +1628,7 @@
   legacy_path: null
   amg_id: 11:5tkmu3x5an6k~T1
   spotify_id: 0iOVhN3tnSvgDbcg25JoJb
+  discogs_id: '89660'
 - id: 178
   slug: leo-kottke
   name: Leo Kottke
@@ -1482,6 +1636,7 @@
   legacy_path: null
   amg_id: 11:7x68mpv39ffo
   spotify_id: 6cjuHeJM6CHRUhIhApwFwx
+  discogs_id: '191662'
 - id: 180
   slug: long-john-baldry
   name: Long John Baldry
@@ -1490,6 +1645,7 @@
   amg_id: 11:kuvyxdabjold~T1
   spotify_id: 5x9DWz6SpEVu9NgL8aktm2
   resources: []
+  discogs_id: '326118'
 - id: 181
   slug: little-sonny
   name: Little Sonny
@@ -1497,6 +1653,7 @@
   legacy_path: null
   amg_id: 11:j2kbikm6bb39~T0
   spotify_id: 3yCjxalqkRVkydpb2GN1GX
+  discogs_id: '654500'
 - id: 182
   slug: doc-boggs
   name: Doc Boggs
@@ -1504,6 +1661,7 @@
   legacy_path: null
   amg_id: null
   spotify_id: 2NwYS5UK1AbaTljDWp4uh0
+  discogs_id: '516944'
 - id: 183
   slug: paul-geremia
   name: Paul Geremia
@@ -1511,6 +1669,7 @@
   legacy_path: null
   amg_id: null
   spotify_id: 6WjX0aTaDpid6wC4l09oWS
+  discogs_id: '642035'
 - id: 184
   slug: morris-francis
   name: Morris Francis
@@ -1518,6 +1677,7 @@
   legacy_path: null
   amg_id: null
   spotify_id: 0PwVIHiur5wtWKhGhre1IJ
+  discogs_id: '1218536'
 - id: 185
   slug: steve-young
   name: Steve Young
@@ -1526,6 +1686,7 @@
   amg_id: null
   spotify_id: 4JzwsGHb8ZN03C7JauWsWH
   apple_music_id: '1193142'
+  discogs_id: '320812'
 - id: 186
   slug: junior-parker
   name: Junior Parker
@@ -1534,6 +1695,7 @@
   amg_id: null
   spotify_id: 6XYy5PbBFvsABSY2ZS6R8u
   apple_music_id: '3436962'
+  discogs_id: '697452'
 - id: 187
   slug: don-lange
   name: Don Lange
@@ -1542,6 +1704,7 @@
   amg_id: null
   spotify_id: 34LJHdO82SWCQ8DOpCiWxK
   apple_music_id: '1478461639'
+  discogs_id: '1098803'
 - id: 188
   slug: jerry-douglas
   name: Jerry Douglas
@@ -1549,6 +1712,7 @@
   legacy_path: null
   amg_id: null
   spotify_id: 4YgACLaoEjPl4kVZ5WmBN9
+  discogs_id: '305847'
 - id: 189
   slug: johnny-otis
   name: Johnny Otis
@@ -1560,6 +1724,7 @@
   resources:
   - type: link
     url: /news/?p=201201#976
+  discogs_id: '104676'
 - id: 190
   slug: doc-watson
   name: Doc Watson
@@ -1568,6 +1733,7 @@
   amg_id: null
   spotify_id: 01N1aZStXA4yGvkz4vRXtJ
   apple_music_id: '2504022'
+  discogs_id: '692192'
 - id: 191
   slug: catfish-hodge
   name: Catfish Hodge
@@ -1575,6 +1741,7 @@
   legacy_path: null
   amg_id: null
   spotify_id: 77a3wJlzhnLfwx52rqCB6p
+  discogs_id: '1779197'
 - id: 192
   slug: ike-turner
   name: Ike Turner
@@ -1583,6 +1750,7 @@
   amg_id: null
   spotify_id: 0FAxkBiT0g3jKF2AaKEipb
   apple_music_id: '642502'
+  discogs_id: '238213'
 - id: 193
   slug: earl-hooker
   name: Earl Hooker
@@ -1591,6 +1759,7 @@
   amg_id: null
   spotify_id: 3Ev1WS21x5Jav9j214A19O
   apple_music_id: '3193970'
+  discogs_id: '340679'
 - id: 194
   slug: otis-taylor
   name: Otis Taylor
@@ -1603,6 +1772,7 @@
     url: /efes/o_taylor.asp
   - type: article
     url: /news/?iid=450
+  discogs_id: '169847'
 - id: 195
   slug: delbert-mcclinton
   name: Delbert McClinton
@@ -1611,6 +1781,7 @@
   amg_id: null
   spotify_id: 3Ri72CuuQSCLLkDRJgniFU
   apple_music_id: '99778'
+  discogs_id: '439406'
 - id: 196
   slug: sonny-landreth
   name: Sonny Landreth
@@ -1619,6 +1790,7 @@
   amg_id: 11:3t68mpn39f5o
   spotify_id: 7aHLYoLUMdcl0HiT5k0Brz
   apple_music_id: '4211510'
+  discogs_id: '255428'
 - id: 197
   slug: woody-guthrie
   name: Woody, Guthrie
@@ -1626,6 +1798,7 @@
   legacy_path: null
   amg_id: null
   spotify_id: 4rAgFKtlTr66ic18YZZyF1
+  discogs_id: '285789'
 - id: 198
   slug: david-bromberg
   name: David Bromberg
@@ -1633,6 +1806,7 @@
   legacy_path: null
   amg_id: null
   spotify_id: 0SOCskFcUcLj7Ful8w8KrL
+  discogs_id: '327556'
 - id: 199
   slug: legendary-blues-band
   name: Legendary Blues Band
@@ -1640,6 +1814,7 @@
   legacy_path: null
   amg_id: null
   spotify_id: 6I7OMbNzGV9i6nhwxocHU4
+  discogs_id: '2131796'
 - id: 200
   slug: dutch-mason
   name: Dutch Mason
@@ -1647,6 +1822,7 @@
   legacy_path: null
   amg_id: null
   spotify_id: 74BFyqddRhMI4Fhs0Ak1Sz
+  discogs_id: '2187312'
 - id: 201
   slug: mavis-staples
   name: Mavis Staples
@@ -1655,6 +1831,7 @@
   amg_id: 11:jpfoxqygldte
   spotify_id: 0cTSCsVx04SSht9V6cpKN0
   apple_music_id: '49985'
+  discogs_id: '46766'
 - id: 202
   slug: little-johnny-taylor
   name: Little Johnny Taylor
@@ -1662,6 +1839,7 @@
   legacy_path: null
   amg_id: null
   spotify_id: 3amz8sGYUMDNb2wxf4PaTj
+  discogs_id: '294682'
 - id: 203
   slug: arsen-shomakhov
   name: Arsen Shomakhov
@@ -1670,6 +1848,7 @@
   amg_id: null
   spotify_id: 75fFHwV81zUIPih2PAcIjE
   resources: []
+  discogs_id: '2433913'
 - id: 204
   slug: wilson-pickett
   name: Wilson Pickett
@@ -1679,6 +1858,7 @@
   spotify_id: 0N5PyKJzS3M1XNlaCL7bbE
   apple_music_id: '577675'
   resources: []
+  discogs_id: '83396'
 - id: 205
   slug: walter-wolfman-washington
   name: Walter "Wolfman" Washington
@@ -1686,6 +1866,7 @@
   legacy_path: null
   amg_id: null
   spotify_id: 0E2BIILSTFHKo1fQhPT5IK
+  discogs_id: '394618'
 - id: 206
   slug: eric-burdon
   name: Eric Burdon
@@ -1693,6 +1874,7 @@
   legacy_path: null
   amg_id: null
   spotify_id: 3miNucraVWk4hdVsIxn7id
+  discogs_id: '188393'
 - id: 207
   slug: paul-rishell
   name: Paul Rishell
@@ -1701,6 +1883,7 @@
   amg_id: null
   spotify_id: 3o96dFKUJGmg9ZI1HEwQsk
   apple_music_id: '22574777'
+  discogs_id: '1990448'
 - id: 208
   slug: harry-manx
   name: Harry Manx
@@ -1709,6 +1892,7 @@
   amg_id: null
   spotify_id: 7JIDretlR52LyL3yvqr2kX
   apple_music_id: '4317925'
+  discogs_id: '726717'
 - id: 209
   slug: jan-akkerman
   name: Jan Akkerman
@@ -1718,6 +1902,7 @@
   spotify_id: 3JeTATqIkiHIjyrdOyr68t
   apple_music_id: '14910880'
   resources: []
+  discogs_id: '256972'
 - id: 210
   slug: lurrie-bell
   name: Lurrie Bell
@@ -1728,6 +1913,7 @@
   resources:
   - type: photos
     url: http://marianner.livejournal.com/652230.html
+  discogs_id: '328153'
 - id: 211
   slug: powder-blues
   name: Powder Blues
@@ -1735,6 +1921,7 @@
   legacy_path: null
   amg_id: null
   spotify_id: 2veCGV1wYzXe569cEHUD0c
+  discogs_id: '754719'
 - id: 212
   slug: a-c-reed
   name: A.C. Reed
@@ -1743,6 +1930,7 @@
   amg_id: 11:gifpxq95ldae
   spotify_id: 1i31XKLddtEeOIr0nPcxdj
   apple_music_id: '14932098'
+  discogs_id: '330443'
 - id: 213
   slug: maurice-john-vaughn
   name: Maurice John Vaughn
@@ -1751,6 +1939,7 @@
   amg_id: null
   spotify_id: 0pHnFbfCscofaIK9CJZDle
   apple_music_id: '14071574'
+  discogs_id: '583325'
 - id: 214
   slug: big-joe-williams
   name: Big Joe Williams
@@ -1759,6 +1948,7 @@
   amg_id: null
   spotify_id: 07NzVZ0BHZ0QOOw7nGvCgo
   apple_music_id: '910270'
+  discogs_id: '290581'
 - id: 215
   slug: cub-coda
   name: Cub Coda
@@ -1766,6 +1956,7 @@
   legacy_path: http://www.blues.ru/bluesmen/Michael_Cub_Koda/
   amg_id: null
   spotify_id: 0prtoKMQZH9djQQFRYwj3O
+  discogs_id: '1243174'
 - id: 216
   slug: jay-mcshann
   name: Jay "Hootie" McShann
@@ -1774,6 +1965,7 @@
   amg_id: 11:yihxlf3e5cqq
   spotify_id: 14908IzPNWEYjv0Y0o9Ar4
   resources: []
+  discogs_id: '274433'
 - id: 217
   slug: tramp
   name: Tramp
@@ -1783,6 +1975,7 @@
   spotify_id: 28KtnfdwBHptsGPPWjeovU
   apple_music_id: '68226203'
   resources: []
+  discogs_id: '1093840'
 - id: 218
   slug: jean-jacques-milteau
   name: Jean Jacques Milteau
@@ -1791,6 +1984,7 @@
   amg_id: null
   spotify_id: 4ConspsaeqXp9c2pOc3M0n
   resources: []
+  discogs_id: '307635'
 - id: 219
   slug: blind-boys-of-alabama
   name: Blind Boys of Alabama
@@ -1799,6 +1993,7 @@
   amg_id: null
   spotify_id: 5TVL4FXEntBYZb3ujyt6fH
   apple_music_id: '1707588425'
+  discogs_id: '1881424'
 - id: 220
   slug: cephas-wiggins
   name: Cephas & Wiggins
@@ -1808,6 +2003,7 @@
   spotify_id: 40MbAfRt1y7QdeGSkSp4pF
   apple_music_id: '2553332'
   resources: []
+  discogs_id: '2178269'
 - id: 221
   slug: eric-sardinas
   name: Eric Sardinas
@@ -1817,6 +2013,7 @@
   spotify_id: 6ioaRkg9SnP8mC2NP7Z2rB
   apple_music_id: '4511408'
   resources: []
+  discogs_id: '658287'
 - id: 222
   slug: guy-davis
   name: Guy Davis
@@ -1827,6 +2024,7 @@
   resources:
   - type: link
     url: http://www.echo.msk.ru/programs/razvorot/1049604-echo/#video
+  discogs_id: '413908'
 - id: 223
   slug: hans-theessink
   name: Hans Theessink
@@ -1835,6 +2033,7 @@
   amg_id: 11:hxfexql5ldte~T1
   spotify_id: 2e02wACgnPCZ1lPeQEUCom
   apple_music_id: '34062802'
+  discogs_id: '645295'
 - id: 224
   slug: little-feat
   name: Little Feat
@@ -1843,6 +2042,7 @@
   amg_id: null
   spotify_id: 0ZIwOAzDuGPspzK7yiTc4S
   apple_music_id: '166601'
+  discogs_id: '258557'
 - id: 225
   slug: memphis-slim
   name: Memphis Slim
@@ -1851,6 +2051,7 @@
   amg_id: null
   spotify_id: 5JuPv0rJXe5aWNTgu8YVqZ
   resources: []
+  discogs_id: '322322'
 - id: 226
   slug: ray-charles
   name: Ray Charles
@@ -1859,6 +2060,7 @@
   amg_id: null
   spotify_id: 1eYhYunlNJlDoQhtYBvPsi
   apple_music_id: '160926'
+  discogs_id: '30552'
 - id: 227
   slug: reverend-gary-davis
   name: Reverend Gary Davis
@@ -1866,6 +2068,7 @@
   legacy_path: null
   amg_id: null
   spotify_id: 7DtrCdyysCDj5BlVKcassv
+  discogs_id: '971971'
 - id: 229
   slug: derek-trucks-band
   name: Derek Trucks Band
@@ -1874,6 +2077,7 @@
   amg_id: null
   spotify_id: 1YwfENKEZrowcmtR1nALZn
   apple_music_id: '635011'
+  discogs_id: '1425928'
 - id: 230
   slug: lonnie-mack
   name: Lonnie Mack
@@ -1882,6 +2086,7 @@
   amg_id: null
   spotify_id: 52GxmJdAcByy1ZyPivpUns
   resources: []
+  discogs_id: '252843'
 - id: 231
   slug: z-z-hill
   name: Z.Z. Hill
@@ -1889,6 +2094,7 @@
   legacy_path: null
   amg_id: null
   spotify_id: 1gdaEBrH99AfhsiQNbaSBp
+  discogs_id: '132972'
 - id: 232
   slug: john-mooney
   name: John Mooney
@@ -1896,6 +2102,7 @@
   legacy_path: null
   amg_id: null
   spotify_id: 06qu5apaO4yt4gBL4G5F2J
+  discogs_id: '342080'
 - id: 235
   slug: john-dummer
   name: John Dummer
@@ -1904,6 +2111,7 @@
   amg_id: 11:j9fuxqy5ldhe
   spotify_id: 1UDMjDokJBRG1k5QXY8KXt
   resources: []
+  discogs_id: '628344'
 - id: 236
   slug: shakey-jake
   name: Shakey Jake
@@ -1911,6 +2119,7 @@
   legacy_path: null
   amg_id: null
   spotify_id: 5HFMGwBO5yj4TzP6waz6bu
+  discogs_id: '758463'
 - id: 237
   slug: norwegian-blues-explosion
   name: Norwegian Blues Explosion
@@ -1926,6 +2135,7 @@
   legacy_path: null
   amg_id: null
   spotify_id: 0nZxdWJcomHivMW1UwCKQb
+  discogs_id: '128576'
 - id: 239
   slug: bessie-smith
   name: Bessie Smith
@@ -1933,6 +2143,7 @@
   legacy_path: null
   amg_id: null
   spotify_id: 5ESobCkc6JI4tIMxQttqeg
+  discogs_id: '288268'
 - id: 240
   slug: johnny-young
   name: Johnny Young
@@ -1940,6 +2151,7 @@
   legacy_path: null
   amg_id: null
   spotify_id: 6X9AYCyJSjiiIwCXAOrT6a
+  discogs_id: '300234'
 - id: 241
   slug: skip-james
   name: Skip James
@@ -1947,6 +2159,7 @@
   legacy_path: null
   amg_id: null
   spotify_id: 2zlMeTjA7szCmqcJjBzYXJ
+  discogs_id: '319265'
 - id: 242
   slug: pera-joe
   name: Pera Joe
@@ -1959,6 +2172,7 @@
     url: /news/?iid=383
   - type: photos
     url: \/bluesnews/05Spring/PeraJoe/index.htm
+  discogs_id: '1101217'
 - id: 243
   slug: hollywood-blue-flames
   name: Hollywood Blue Flames
@@ -1966,6 +2180,7 @@
   legacy_path: null
   amg_id: null
   spotify_id: 35Xu7bDOwEd6TmoT17GsoQ
+  discogs_id: '5345935'
 - id: 244
   slug: robben-ford
   name: Robben Ford
@@ -1973,6 +2188,7 @@
   legacy_path: null
   amg_id: null
   spotify_id: 7C1CFA2GWGFc51SrvX5Bvy
+  discogs_id: '253779'
 - id: 245
   slug: chris-rea
   name: Chris Rea
@@ -1983,6 +2199,7 @@
   resources:
   - type: article
     url: /news/2017/11/#1106
+  discogs_id: '25767'
 - id: 246
   slug: fleetwood-mac
   name: Fleetwood Mac
@@ -1990,6 +2207,7 @@
   legacy_path: /bluesmen/Fleetwood_Mac/
   amg_id: 11:gifuxqe5ldje~T0
   spotify_id: 08GQAI4eElDnROBrJRGE0X
+  discogs_id: '47333'
 - id: 247
   slug: ten-years-after
   name: Ten Years After
@@ -1997,6 +2215,7 @@
   legacy_path: null
   amg_id: null
   spotify_id: 7nkLRaWHImCvWGHdNGnhVE
+  discogs_id: '253987'
 - id: 248
   slug: chicken-shack
   name: Chicken Shack
@@ -2004,6 +2223,7 @@
   legacy_path: null
   amg_id: 11:g9ftxqt5ld0e
   spotify_id: 7aUVQRiWaOqZU0JwOlGfWi
+  discogs_id: '372256'
 - id: 249
   slug: candye-kane
   name: Candye Kane
@@ -2011,6 +2231,7 @@
   legacy_path: null
   amg_id: null
   spotify_id: 70svT4F0xhbyQ5lQx6UE4b
+  discogs_id: '426166'
 - id: 250
   slug: bob-brozman
   name: Bob Brozman
@@ -2025,6 +2246,7 @@
     url: /news/2005/05/03/story183/
   - type: article
     url: /forum/topic2578
+  discogs_id: '401414'
 - id: 251
   slug: little-arthur-duncan
   name: Little Arthur Duncan
@@ -2032,6 +2254,7 @@
   legacy_path: null
   amg_id: null
   spotify_id: 4Kikasw7Byz45UsiQwjTLk
+  discogs_id: '4393909'
 - id: 252
   slug: nick-moss
   name: Nick Moss
@@ -2040,6 +2263,7 @@
   amg_id: 11:aifwxqygldfe~T0
   spotify_id: 7iJhOBVMlBYpU7Z4QiSlVn
   resources: []
+  discogs_id: '424959'
 - id: 253
   slug: nappy-brown
   name: Nappy Brown
@@ -2047,6 +2271,7 @@
   legacy_path: null
   amg_id: null
   spotify_id: 7oR6vQt8KT2ZWUpC65jTha
+  discogs_id: '504845'
 - id: 254
   slug: darrell-nulisch
   name: Darrell Nulisch
@@ -2054,6 +2279,7 @@
   legacy_path: null
   amg_id: null
   spotify_id: 242Es8PJHQAip0mHcwWEQp
+  discogs_id: '1368291'
 - id: 255
   slug: avery-parish
   name: Avery Parish
@@ -2062,6 +2288,7 @@
   amg_id: null
   spotify_id: 087yHuMGyFxaNbvfTXpNOI
   resources: []
+  discogs_id: '310290'
 - id: 256
   slug: michael-burks
   name: Michael Burks
@@ -2069,6 +2296,7 @@
   legacy_path: null
   amg_id: null
   spotify_id: 19YeucN49a9jRiTyseG6a6
+  discogs_id: '1798351'
 - id: 257
   slug: holmes-brothers
   name: Holmes Brothers
@@ -2083,6 +2311,7 @@
     url: /news/2015/01/13/story1066/
   - type: article
     url: /bluesnews/00Autumn/00EfesHolmes.htm
+  discogs_id: '5512853'
 - id: 258
   slug: jon-lord
   name: Jon Lord
@@ -2090,6 +2319,7 @@
   legacy_path: null
   amg_id: null
   spotify_id: 4ff6Uen2n24VIpFt1l10ek
+  discogs_id: '262410'
 - id: 259
   slug: jeff-healey
   name: Jeff Healey
@@ -2100,6 +2330,7 @@
   resources:
   - type: interview
     url: /news/2016/03/#1091
+  discogs_id: '385835'
 - id: 260
   slug: big-shoulders
   name: Big Shoulders
@@ -2107,6 +2338,7 @@
   legacy_path: null
   amg_id: null
   spotify_id: 5lOUBxsQmxTzGpwfAo8EFh
+  discogs_id: '1966496'
 - id: 261
   slug: burke-solomon
   name: Burke, Solomon
@@ -2114,6 +2346,7 @@
   legacy_path: null
   amg_id: null
   spotify_id: 4nts0oxMT67lVUoi5Kjxrb
+  discogs_id: '109435'
 - id: 262
   slug: joan-armatrading
   name: Joan Armatrading
@@ -2124,6 +2357,7 @@
   resources:
   - type: interview
     url: http://www.blues.ru/news/?p=200807#520
+  discogs_id: '228862'
 - id: 263
   slug: elmore-james-jr
   name: Elmore James Jr.
@@ -2131,6 +2365,7 @@
   legacy_path: null
   amg_id: null
   spotify_id: 6Xy4c0crrsX5V7upAG417x
+  discogs_id: '4078981'
 - id: 264
   slug: james-blood-ulmer
   name: James Blood Ulmer
@@ -2138,6 +2373,7 @@
   legacy_path: null
   amg_id: null
   spotify_id: 1f1FGHLhOigcRYNI5pcHuh
+  discogs_id: '149965'
 - id: 265
   slug: john-hiatt
   name: John Hiatt
@@ -2145,6 +2381,7 @@
   legacy_path: null
   amg_id: 11:difixqe5ld0e
   spotify_id: 4Sld5LOPbAm1QSq9U32fFV
+  discogs_id: '254409'
 - id: 266
   slug: mick-hucknall
   name: Mick Hucknall
@@ -2157,6 +2394,7 @@
     url: http://blues.ru/news/?p=200806#482
   - type: audio
     url: http://blues.ru/news/?p=200806#498
+  discogs_id: '53685'
 - id: 268
   slug: bobby-blue-bland
   name: Bobby  "Blue" Bland
@@ -2167,6 +2405,7 @@
   resources:
   - type: interview
     url: http://www.blues.ru/forum/topic5088
+  discogs_id: '294687'
 - id: 269
   slug: willie-big-eyes-smith
   name: Willie "Big Eyes" Smith
@@ -2174,6 +2413,7 @@
   legacy_path: null
   amg_id: null
   spotify_id: 6lpcyL72rkC11G3nKzokfm
+  discogs_id: '304417'
 - id: 270
   slug: bobby-rush
   name: Bobby Rush
@@ -2186,6 +2426,7 @@
     url: http://www.blues.ru/efes/bobbyrush.asp
   - type: interview
     url: http://www.blues.ru/efes/rushint.asp
+  discogs_id: '476365'
 - id: 271
   slug: bernard-allison
   name: Bernard Allison
@@ -2193,6 +2434,7 @@
   legacy_path: null
   amg_id: null
   spotify_id: 0oLmGtqMpKAAVNJyJ71AcI
+  discogs_id: '731724'
 - id: 272
   slug: marcia-ball
   name: Marcia Ball
@@ -2200,6 +2442,7 @@
   legacy_path: null
   amg_id: null
   spotify_id: 0kK3ZgTw6mvlYgekz4xf18
+  discogs_id: '654659'
 - id: 273
   slug: tab-benoit
   name: Tab Benoit
@@ -2207,6 +2450,7 @@
   legacy_path: null
   amg_id: null
   spotify_id: 3ODYbknLzVe3cWQzVfbzGB
+  discogs_id: '907083'
 - id: 274
   slug: chicago-blues-reunion
   name: Chicago Blues Reunion
@@ -2214,6 +2458,7 @@
   legacy_path: null
   amg_id: null
   spotify_id: 3RX733YpbQYXITt8F4fefd
+  discogs_id: '5700500'
 - id: 275
   slug: sunnyland-slim
   name: Sunnyland Slim
@@ -2221,6 +2466,7 @@
   legacy_path: null
   amg_id: 11:0pfoxqrgldte~T0
   spotify_id: 5IrMTnoQ7OgoLpFfsisXX2
+  discogs_id: '322333'
 - id: 276
   slug: johnny-shines
   name: Johnny Shines
@@ -2228,6 +2474,7 @@
   legacy_path: null
   amg_id: 11:gpfqxqegldde~T1
   spotify_id: 4FViGgjWpnJJ21reE6pHko
+  discogs_id: '322338'
 - id: 277
   slug: curtis-jones
   name: Curtis Jones
@@ -2235,6 +2482,7 @@
   legacy_path: null
   amg_id: 11:3ifpxq95ld0e
   spotify_id: 57dYeOpw946Lqe0B4ILs4m
+  discogs_id: '279713'
 - id: 278
   slug: otis-spann
   name: Otis Spann
@@ -2242,6 +2490,7 @@
   legacy_path: null
   amg_id: 11:3pfoxqygldhe~T0
   spotify_id: 0xeI9Z0Uhs8bYGBRpqq88X
+  discogs_id: '322878'
 - id: 279
   slug: christine-perfect
   name: Christine Perfect
@@ -2250,6 +2499,7 @@
   amg_id: 11:g9fuxq85ldje
   spotify_id: 1YTLOHyyXnaj7W1g1oSS56
   apple_music_id: '17498968'
+  discogs_id: '304393'
 - id: 280
   slug: geoffrey-mcbride
   name: Geoffrey McBride
@@ -2257,6 +2507,7 @@
   legacy_path: null
   amg_id: null
   spotify_id: 2HwRvxRKzkFSwkwHpIFm4g
+  discogs_id: '897439'
 - id: 281
   slug: studebaker-john
   name: Studebaker John
@@ -2265,6 +2516,7 @@
   amg_id: null
   spotify_id: 6MfYNrskPglWvFnWZGr1pl
   apple_music_id: '295963335'
+  discogs_id: '937486'
 - id: 282
   slug: boo-boo-davis
   name: Boo Boo Davis
@@ -2273,6 +2525,7 @@
   amg_id: null
   spotify_id: 62ReUyKpF4TGxR4PA7MmYr
   apple_music_id: '6106300'
+  discogs_id: '2875256'
 - id: 283
   slug: maria-muldaur
   name: Maria Muldaur
@@ -2281,6 +2534,7 @@
   amg_id: null
   spotify_id: 2VUiF0VFkXzB0DLg9AzrqT
   apple_music_id: '195186'
+  discogs_id: '249836'
 - id: 284
   slug: jerry-lee-lewis
   name: Jerry Lee Lewis
@@ -2289,6 +2543,7 @@
   amg_id: null
   spotify_id: 2zyz0VJqrDXeFDIyrfVXSo
   apple_music_id: '123130'
+  discogs_id: '229194'
 - id: 287
   slug: alvin-youngblood-hart
   name: Alvin Youngblood Hart
@@ -2296,6 +2551,7 @@
   legacy_path: null
   amg_id: null
   spotify_id: 1pmIo6ASaJG24wmYoyxjwG
+  discogs_id: '2522002'
 - id: 288
   slug: eric-gales
   name: Eric Gales
@@ -2303,6 +2559,7 @@
   legacy_path: null
   amg_id: null
   spotify_id: 3x8RBu8okCCBLi5vnY4UyV
+  discogs_id: '464309'
 - id: 289
   slug: c-j-chenier
   name: C.J. Chenier
@@ -2310,6 +2567,7 @@
   legacy_path: null
   amg_id: null
   spotify_id: 326smfHMfrS2WA4iaYQOp0
+  discogs_id: '333234'
 - id: 290
   slug: omar-the-howlers
   name: Omar & the Howlers
@@ -2318,6 +2576,7 @@
   amg_id: null
   spotify_id: 4aUqYPfxAq4bjVuWkOcYkr
   apple_music_id: '472189821'
+  discogs_id: '969422'
 - id: 291
   slug: mighty-mo-rodgers
   name: Mighty Mo Rodgers
@@ -2326,6 +2585,7 @@
   amg_id: null
   spotify_id: 03iIha4mNgohGeWoOqLrXm
   apple_music_id: '55517'
+  discogs_id: '1843453'
 - id: 292
   slug: saffire-the-uppity-blues-women
   name: Saffire - The Uppity Blues Women
@@ -2334,6 +2594,7 @@
   amg_id: null
   spotify_id: 0mOWWTxAbxY6z9WAoxkQ3E
   apple_music_id: '5384325'
+  discogs_id: '2626137'
 - id: 293
   slug: jimmy-thackery
   name: Jimmy Thackery
@@ -2341,6 +2602,7 @@
   legacy_path: null
   amg_id: null
   spotify_id: 22I2nRL3Avazb5FfXhmyDQ
+  discogs_id: '907084'
 - id: 294
   slug: ali-farka-toure
   name: Ali Farka Toure
@@ -2348,6 +2610,7 @@
   legacy_path: null
   amg_id: null
   spotify_id: 3mNygoyrEKLgo6sx0MzwOL
+  discogs_id: '410281'
 - id: 295
   slug: paul-delay
   name: Paul Delay
@@ -2355,6 +2618,7 @@
   legacy_path: null
   amg_id: null
   spotify_id: 1WfJS2rl2ECPTt9RkAqoLH
+  discogs_id: '3002520'
 - id: 296
   slug: watermelon-slim
   name: Watermelon Slim
@@ -2362,6 +2626,7 @@
   legacy_path: null
   amg_id: null
   spotify_id: 1GwDrciV2X5gn9uh0UDFwN
+  discogs_id: '1089086'
 - id: 297
   slug: gordon-smith
   name: Gordon Smith
@@ -2369,6 +2634,7 @@
   legacy_path: null
   amg_id: 11:apfoxq95ldae
   spotify_id: 4Y6lB65WVCn1Axow8nrg5G
+  discogs_id: '320641'
 - id: 298
   slug: top-topham
   name: Top Topham
@@ -2377,6 +2643,7 @@
   amg_id: 11:wzfwxqqgldke
   spotify_id: 1flxZCXZjPKQf2Jk0mDStk
   apple_music_id: '164647539'
+  discogs_id: '1459091'
 - id: 299
   slug: furry-lewis
   name: Furry Lewis
@@ -2384,6 +2651,7 @@
   legacy_path: null
   amg_id: 11:difwxq95ld0e~T0
   spotify_id: 66SiMdpsWXE23qqX0JaWg9
+  discogs_id: '596161'
 - id: 300
   slug: duster-bennett
   name: Duster Bennett
@@ -2392,6 +2660,7 @@
   amg_id: 11:39fuxqr5ldde
   spotify_id: 3aos6Gjahfz5kPMX9KK0ib
   apple_music_id: '3194548'
+  discogs_id: '343288'
 - id: 301
   slug: key-largo
   name: Key Largo
@@ -2399,6 +2668,7 @@
   legacy_path: null
   amg_id: 11:a9ftxqu5ldse~T0
   spotify_id: 4LuLF5H9fe5ViyDQb9Zxmt
+  discogs_id: '101649'
 - id: 304
   slug: enrico-crivellaro
   name: Enrico Crivellaro
@@ -2409,6 +2679,7 @@
   resources:
   - type: interview
     url: /artist/enrico-crivellaro/Enrico_Crivellaro_interview.htm
+  discogs_id: '731537'
 - id: 305
   slug: jo-ann-kelly
   name: Jo-Ann Kelly
@@ -2416,6 +2687,7 @@
   legacy_path: null
   amg_id: 11:f9frxqu5ldse~T0
   spotify_id: 6enyYil5r9snkIazgAX5DG
+  discogs_id: '662858'
 - id: 306
   slug: dave-kelly
   name: Dave Kelly
@@ -2423,6 +2695,7 @@
   legacy_path: null
   amg_id: 11:a9fexq95ldte
   spotify_id: 1z1AFz7qZTZeFbBfgTliaQ
+  discogs_id: '74045'
 - id: 307
   slug: tad-robinson
   name: Tad Robinson
@@ -2431,6 +2704,7 @@
   amg_id: null
   spotify_id: 6Tv4PJFnVdT5JBwyCwBObG
   resources: []
+  discogs_id: '32909'
 - id: 308
   slug: j-b-hutto
   name: J.B.Hutto
@@ -2438,6 +2712,7 @@
   legacy_path: null
   amg_id: 11:anfexqu5ldte
   spotify_id: 1Xc5z7yb5PIgpLImjfXX6G
+  discogs_id: '342083'
 - id: 309
   slug: floyd-jones
   name: Floyd Jones
@@ -2446,6 +2721,7 @@
   amg_id: 11:difpxq95ld0e
   spotify_id: 3AyVg8vtIU4HIcmEDil18Y
   apple_music_id: '64878072'
+  discogs_id: '292470'
 - id: 310
   slug: robert-nighthawk
   name: Robert Nighthawk
@@ -2454,6 +2730,7 @@
   amg_id: 11:aifuxq95ld0e~T0
   spotify_id: 1ycL0Ct3hz0glGDIwsUyNG
   apple_music_id: '2764848'
+  discogs_id: '328160'
 - id: 324
   slug: bo-diddley
   name: Bo Diddley
@@ -2461,6 +2738,7 @@
   legacy_path: null
   amg_id: 11:acfqxqy5ldae
   spotify_id: 2bmixwMZXlkl2sbIbOfviq
+  discogs_id: '139669'
 - id: 312
   slug: ruthie-foster
   name: Ruthie Foster
@@ -2469,6 +2747,7 @@
   amg_id: null
   spotify_id: 2lL4ckeM1A2Qo2Fe64dP0F
   apple_music_id: '63828964'
+  discogs_id: '714704'
 - id: 313
   slug: hiram-bullock
   name: Hiram Bullock
@@ -2476,6 +2755,7 @@
   legacy_path: null
   amg_id: null
   spotify_id: 4JKt7ekkdHhrtoTMtSwodO
+  discogs_id: '255280'
 - id: 317
   slug: steve-baker
   name: Steve Baker
@@ -2485,6 +2765,7 @@
   spotify_id: 3hcetKhmZrGLOHy0iuKpZf
   apple_music_id: '1644778123'
   resources: []
+  discogs_id: '69984'
 - id: 319
   slug: mud-morganfield
   name: Mud Morganfield
@@ -2493,6 +2774,7 @@
   amg_id: null
   spotify_id: 1MkszvLJgUVCskrRqCLbmn
   resources: []
+  discogs_id: '4092559'
 - id: 320
   slug: joanne-shaw-taylor
   name: Joanne Shaw Taylor
@@ -2500,6 +2782,7 @@
   legacy_path: null
   amg_id: null
   spotify_id: 3FmTlY1F9dQyRursrsUaU7
+  discogs_id: '1557105'
 - id: 321
   slug: rick-estrin
   name: Rick Estrin & The Nightcats
@@ -2509,6 +2792,7 @@
   spotify_id: 0uo6ltSYsMbp4go8nPQ80U
   apple_music_id: '313219614'
   resources: []
+  discogs_id: '1916275'
 - id: 322
   slug: sonny-rhodes
   name: Sonny Rhodes
@@ -2516,6 +2800,7 @@
   legacy_path: null
   amg_id: null
   spotify_id: 6IzJ8vvCUABlUbz3JN3hnl
+  discogs_id: '1150726'
 - id: 326
   slug: mark-hummel
   name: Mark Hummel
@@ -2524,6 +2809,7 @@
   amg_id: null
   spotify_id: 6tThEAJKUsHlj0ALfRObEP
   resources: []
+  discogs_id: '1688224'
 - id: 327
   slug: zora-young
   name: Zora Young
@@ -2534,6 +2820,7 @@
   resources:
   - type: link
     url: /afisha/YoungZ.htm
+  discogs_id: '2132542'
 - id: 328
   slug: lazy-lester
   name: Lazy Lester
@@ -2542,6 +2829,7 @@
   amg_id: 11:hifqxq95ld0e
   spotify_id: 72D581Szg2z107f9qlLvjV
   resources: []
+  discogs_id: '540360'
 - id: 329
   slug: big-bill-morganfield
   name: Big Bill Morganfield
@@ -2550,6 +2838,7 @@
   amg_id: null
   spotify_id: 0nqI0eMUWsT8eyX7PdCDWa
   apple_music_id: '3863503'
+  discogs_id: '1965346'
 - id: 331
   slug: joan-shaw-taylor
   name: Joan Shaw Taylor
@@ -2557,6 +2846,7 @@
   legacy_path: null
   amg_id: null
   spotify_id: 3FmTlY1F9dQyRursrsUaU7
+  discogs_id: '1557105'
 - id: 336
   slug: davy-graham
   name: Davy Graham
@@ -2565,6 +2855,7 @@
   amg_id: 11:j9fuxqy5ldte~T0
   spotify_id: 72zalCfn9P7eU6oGje7tyJ
   apple_music_id: '946244'
+  discogs_id: '459551'
 - id: 337
   slug: billy-t-band
   name: Billy T Band
@@ -2574,6 +2865,7 @@
   spotify_id: 573wZt3JX0wg63d3I8OlZk
   apple_music_id: '274530981'
   resources: []
+  discogs_id: '4845219'
 - id: 338
   slug: mannish-boys
   name: Mannish Boys
@@ -2581,6 +2873,7 @@
   legacy_path: null
   amg_id: null
   spotify_id: 2rr0iQE2QyRRkW3UY4M6Z8
+  discogs_id: '1591980'
 - id: 340
   slug: joe-louis-walker
   name: Joe Louis Walker
@@ -2590,6 +2883,7 @@
   spotify_id: 5MPJKwuEzyWgfueKrogllD
   apple_music_id: '436759406'
   resources: []
+  discogs_id: '655875'
 - id: 341
   slug: cash-box-kings
   name: Cash Box Kings
@@ -2597,6 +2891,7 @@
   legacy_path: null
   amg_id: null
   spotify_id: 22z5JgqUSk344n973TzeIR
+  discogs_id: '4495269'
 - id: 342
   slug: jimmy-dawkins
   name: Jimmy Dawkins
@@ -2604,6 +2899,7 @@
   legacy_path: null
   amg_id: null
   spotify_id: 69mMUlfVNVGQsw733rBShc
+  discogs_id: '328142'
 - id: 344
   slug: tail-dragger
   name: Tail Dragger
@@ -2613,6 +2909,7 @@
   spotify_id: 3NyKwqXJZRKKr3N1GHwDq2
   apple_music_id: '152786478'
   resources: []
+  discogs_id: '1807245'
 - id: 345
   slug: the-rolling-stones
   name: The Rolling Stones
@@ -2623,6 +2920,7 @@
   resources:
   - type: audio
     url: http://www.rollingstones.com/
+  discogs_id: '20991'
 - id: 346
   slug: los-lobos
   name: Los Lobos
@@ -2630,6 +2928,7 @@
   legacy_path: null
   amg_id: null
   spotify_id: 6OWapcJm9xd55ci9CYbAuT
+  discogs_id: '173717'
 - id: 347
   slug: zz-top
   name: ZZ Top
@@ -2640,6 +2939,7 @@
   resources:
   - type: page
     url: /news/?p=201010#832
+  discogs_id: '113655'
 - id: 349
   slug: carolina-chocolate-drops
   name: Carolina Chocolate Drops
@@ -2647,6 +2947,7 @@
   legacy_path: null
   amg_id: null
   spotify_id: 6H8Sj9gFyDYJ3T63LA3DKz
+  discogs_id: '1779806'
 - id: 350
   slug: nick-curran
   name: Nick Curran
@@ -2654,6 +2955,7 @@
   legacy_path: null
   amg_id: null
   spotify_id: 1qHuLrP4p6VXjzmdAuhmAw
+  discogs_id: '1358820'
 - id: 352
   slug: big-jack-johnson
   name: Big Jack Johnson
@@ -2664,6 +2966,7 @@
   resources:
   - type: page
     url: /news/?p=201103#902
+  discogs_id: '2022013'
 - id: 353
   slug: eddie-kirkland
   name: Eddie Kirkland
@@ -2674,6 +2977,7 @@
   resources:
   - type: article
     url: /news/?p=201102#889
+  discogs_id: '839386'
 - id: 354
   slug: warren-haynes
   name: Warren Haynes
@@ -2681,6 +2985,7 @@
   legacy_path: null
   amg_id: null
   spotify_id: 73iWh9WUMf0xK6cRkNJK4h
+  discogs_id: '167361'
 - id: 355
   slug: dana-gillespie
   name: Dana Gillespie
@@ -2688,6 +2993,7 @@
   legacy_path: null
   amg_id: null
   spotify_id: 5ByNLjVXoWReywbr6LjDw5
+  discogs_id: '127989'
 - id: 356
   slug: stone-the-crows
   name: Stone the Crows
@@ -2695,6 +3001,7 @@
   legacy_path: null
   amg_id: null
   spotify_id: 1AdFLjG5endQ2HmDMtp5Fe
+  discogs_id: '349406'
 - id: 361
   slug: joe-beard
   name: Joe Beard
@@ -2702,6 +3009,7 @@
   legacy_path: null
   amg_id: null
   spotify_id: 4USph0kDFD7IlpU1SfIMfP
+  discogs_id: '359480'
 - id: 359
   slug: walter-trout
   name: Walter Trout
@@ -2714,6 +3022,7 @@
     url: /news/2008/03/31/story423/
   - type: interview
     url: /news/2015/06/#1081
+  discogs_id: '437470'
 - id: 362
   slug: blues-company
   name: Blues Company
@@ -2721,6 +3030,7 @@
   legacy_path: null
   amg_id: null
   spotify_id: 3zL5MUHZLeAAM2ZTSKQr9w
+  discogs_id: '324368'
 - id: 364
   slug: bruce-katz
   name: Bruce Katz
@@ -2728,6 +3038,7 @@
   legacy_path: null
   amg_id: null
   spotify_id: 3Nzai6Pe5noXPC8JsYtO57
+  discogs_id: '359484'
 - id: 365
   slug: walter-horton
   name: Walter Horton
@@ -2735,6 +3046,7 @@
   legacy_path: null
   amg_id: null
   spotify_id: 16IwMrvjMmutG9vi8Mjzo2
+  discogs_id: '521877'
 - id: 369
   slug: beat-daddys
   name: Beat Daddys
@@ -2742,6 +3054,7 @@
   legacy_path: null
   amg_id: null
   spotify_id: 1qWhak9iQwDV4J6JidzDl3
+  discogs_id: '13995172'
 - id: 370
   slug: sue-foley
   name: Sue Foley
@@ -2749,6 +3062,7 @@
   legacy_path: null
   amg_id: null
   spotify_id: 6bp17u6Ya0RGnEobNVGvwS
+  discogs_id: '1300363'
 - id: 371
   slug: melvin-taylor
   name: Melvin Taylor
@@ -2756,6 +3070,7 @@
   legacy_path: null
   amg_id: null
   spotify_id: 2JBKZGnF8j5nadn67i5B10
+  discogs_id: '2350276'
 - id: 372
   slug: delta-moon
   name: Delta Moon
@@ -2763,6 +3078,7 @@
   legacy_path: null
   amg_id: null
   spotify_id: 7mZneGJzBVHH1Y2SExOvpi
+  discogs_id: '2746652'
 - id: 373
   slug: janiva-magness
   name: Janiva Magness
@@ -2770,6 +3086,7 @@
   legacy_path: null
   amg_id: null
   spotify_id: 3igRFmvurYBLvQ4aYliwXg
+  discogs_id: '2019395'
 - id: 374
   slug: kelly-richey-band
   name: Kelly Richey Band
@@ -2777,6 +3094,7 @@
   legacy_path: null
   amg_id: null
   spotify_id: 2n0lFF6QKRjr0jGB9UIT1W
+  discogs_id: '3276802'
 - id: 375
   slug: vargas-blues-band
   name: Vargas Blues Band
@@ -2784,6 +3102,7 @@
   legacy_path: null
   amg_id: null
   spotify_id: 3K6ueahyMBq96ZtDjo9LSn
+  discogs_id: '1273415'
 - id: 376
   slug: bob-margolin
   name: Bob Margolin
@@ -2792,6 +3111,7 @@
   amg_id: null
   spotify_id: 65SzANOjjJbCdHGbjDkPMU
   resources: []
+  discogs_id: '304418'
 - id: 377
   slug: smokin-joe-kubek
   name: Smokin' Joe Kubek
@@ -2799,6 +3119,7 @@
   legacy_path: null
   amg_id: null
   spotify_id: 0nMA4cLQjSiZspsoI70aut
+  discogs_id: '342086'
 - id: 379
   slug: van-wilks
   name: Van Wilks
@@ -2806,6 +3127,7 @@
   legacy_path: null
   amg_id: null
   spotify_id: 1GLE55BhcZlJmQFe6TZjO2
+  discogs_id: '740669'
 - id: 380
   slug: michael-messer
   name: Michael Messer
@@ -2813,6 +3135,7 @@
   legacy_path: null
   amg_id: null
   spotify_id: 1qM4vnRvgTgn1r5TK7UJ6z
+  discogs_id: '405487'
 - id: 383
   slug: magic-slim
   name: Magic Slim
@@ -2820,6 +3143,7 @@
   legacy_path: null
   amg_id: null
   spotify_id: 0uDA9BcTnKIPpNcZX6ZY3x
+  discogs_id: '340686'
 - id: 384
   slug: innes-sibun
   name: Innes Sibun
@@ -2827,6 +3151,7 @@
   legacy_path: null
   amg_id: null
   spotify_id: 0mn36s1sBsCtzNXvxwZ7qj
+  discogs_id: '664867'
 - id: 385
   slug: the-fabulous-thunderbirds
   name: the Fabulous Thunderbirds
@@ -2834,6 +3159,7 @@
   legacy_path: null
   amg_id: null
   spotify_id: 6zmLTiN3NBNCDECRbbJKkT
+  discogs_id: '272984'
 - id: 386
   slug: ford-blues-band
   name: Ford Blues Band
@@ -2841,6 +3167,7 @@
   legacy_path: null
   amg_id: null
   spotify_id: 6tEFIKmtcQMJGhh3oJOfzu
+  discogs_id: '1793153'
 - id: 387
   slug: mike-onesko
   name: Mike Onesko
@@ -2848,6 +3175,7 @@
   legacy_path: null
   amg_id: null
   spotify_id: 10Qy24fJ5KS0QjRulz18vn
+  discogs_id: '2565184'
 - id: 388
   slug: bryan-lee
   name: Bryan Lee
@@ -2855,6 +3183,7 @@
   legacy_path: null
   amg_id: null
   spotify_id: 5jA7FphEvAJz7YYiuPQcUc
+  discogs_id: '345089'
 - id: 390
   slug: ana-popovic
   name: Ana Popovic
@@ -2862,6 +3191,7 @@
   legacy_path: null
   amg_id: null
   spotify_id: 5kPUAJihniO5WfEfbOCjLf
+  discogs_id: '6463872'
 - id: 391
   slug: larry-garner
   name: Larry Garner
@@ -2869,6 +3199,7 @@
   legacy_path: null
   amg_id: null
   spotify_id: 6D1O8XFDPblF64JIpDdTXP
+  discogs_id: '345721'
 - id: 392
   slug: angela-strehli
   name: Angela Strehli
@@ -2876,6 +3207,7 @@
   legacy_path: null
   amg_id: null
   spotify_id: 3lrwdIWcHi2VyhaiiqNw35
+  discogs_id: '512764'
 - id: 393
   slug: rob-tognoni
   name: Rob Tognoni
@@ -2883,6 +3215,7 @@
   legacy_path: null
   amg_id: null
   spotify_id: 09eNSBkVhCYr9i965i6fnd
+  discogs_id: '2003178'
 - id: 395
   slug: dr-feelgood
   name: Dr. Feelgood
@@ -2890,6 +3223,7 @@
   legacy_path: null
   amg_id: null
   spotify_id: 25IRTisJjqI6JlkyCVMBsV
+  discogs_id: '263045'
 - id: 396
   slug: pat-travers
   name: Pat Travers
@@ -2898,6 +3232,7 @@
   amg_id: null
   spotify_id: 0YEyuuhfdNXnTJh1uFhl3p
   apple_music_id: '342736'
+  discogs_id: '270169'
 - id: 397
   slug: bugs-henderson
   name: Bugs Henderson
@@ -2909,6 +3244,7 @@
   resources:
   - type: link
     url: /news/?p=201203#981
+  discogs_id: '1272279'
 - id: 399
   slug: james-solberg
   name: James Solberg
@@ -2916,6 +3252,7 @@
   legacy_path: null
   amg_id: null
   spotify_id: 0BMollziQJUOl1OYpHjfdJ
+  discogs_id: '634316'
 - id: 400
   slug: downchild-blues-band
   name: Downchild Blues Band
@@ -2924,6 +3261,7 @@
   amg_id: null
   spotify_id: 2gOAeHZuuCW7t7vSsHOHB0
   apple_music_id: '105242735'
+  discogs_id: '527554'
 - id: 402
   slug: scott-holt
   name: Scott Holt
@@ -2931,6 +3269,7 @@
   legacy_path: null
   amg_id: null
   spotify_id: 5JuKsmIsL8rga3ZE2tMGMF
+  discogs_id: '132756'
 - id: 403
   slug: david-gogo
   name: David Gogo
@@ -2939,6 +3278,7 @@
   amg_id: null
   spotify_id: 2BalmJSc5QUI9SrP8ZZnJG
   apple_music_id: '81857713'
+  discogs_id: '1040932'
 - id: 404
   slug: alberta-adams
   name: Alberta Adams
@@ -2946,6 +3286,7 @@
   legacy_path: null
   amg_id: null
   spotify_id: 0Hy7IqUHfhyTf0asGNf9mw
+  discogs_id: '2370899'
 - id: 405
   slug: kirk-fletcher
   name: Kirk Fletcher
@@ -2954,6 +3295,7 @@
   amg_id: null
   spotify_id: 77wBCkU4gTMCceSWHtWjxq
   resources: []
+  discogs_id: '2720483'
 - id: 406
   slug: leslie-west
   name: Leslie West
@@ -2961,6 +3303,7 @@
   legacy_path: null
   amg_id: null
   spotify_id: 0ks4E3VJXDIRABtxz2IiBE
+  discogs_id: '327268'
 - id: 407
   slug: stan-webb
   name: Stan Webb
@@ -2968,6 +3311,7 @@
   legacy_path: null
   amg_id: null
   spotify_id: 5q92HD24UWdGpV7pUU0ZlF
+  discogs_id: '277950'
 - id: 408
   slug: bonnie-raitt
   name: Bonnie Raitt
@@ -2976,6 +3320,7 @@
   amg_id: null
   spotify_id: 4KDyYWR7IpxZ7xrdYbKrqY
   apple_music_id: '22677'
+  discogs_id: '271392'
 - id: 410
   slug: beth-hart
   name: Beth Hart
@@ -2983,6 +3328,7 @@
   legacy_path: null
   amg_id: null
   spotify_id: 30TrHDLNCKQVTYWOn9QqOC
+  discogs_id: '389157'
 - id: 411
   slug: hugh-laurie
   name: Hugh Laurie
@@ -2993,6 +3339,7 @@
   resources:
   - type: interview
     url: /news/2013/06/#1019
+  discogs_id: '1757876'
 - id: 412
   slug: aynsley-lister
   name: Aynsley Lister
@@ -3001,6 +3348,7 @@
   amg_id: null
   spotify_id: 7hueZY91Csxv57p4KnPVcU
   apple_music_id: '97146407'
+  discogs_id: '731725'
 - id: 413
   slug: larry-miller
   name: Larry Miller
@@ -3009,6 +3357,7 @@
   amg_id: null
   spotify_id: 76PtgZkXfbudsF41BK9KYM
   apple_music_id: '21445326'
+  discogs_id: '182702'
 - id: 415
   slug: etta-baker
   name: Etta Baker
@@ -3018,6 +3367,7 @@
   spotify_id: 32O4dM8Yd756XKRb1BVUPO
   apple_music_id: '2466098'
   resources: []
+  discogs_id: '630926'
 - id: 416
   slug: shawn-holt-the-teardrops
   name: Shawn Holt & the Teardrops
@@ -3026,6 +3376,7 @@
   amg_id: null
   spotify_id: 51mpNR9ivpZEWp50hXyltm
   apple_music_id: '688034879'
+  discogs_id: '6487122'
 - id: 418
   slug: andy-santana
   name: Andy Santana
@@ -3033,6 +3384,7 @@
   legacy_path: null
   amg_id: null
   spotify_id: 1AIrBmFt787GDGXU2oBx17
+  discogs_id: '3846090'
 - id: 419
   slug: trickbag
   name: Trickbag
@@ -3041,6 +3393,7 @@
   amg_id: null
   spotify_id: 5mI9nJvt4wHSnx78KRzfzh
   apple_music_id: '294141999'
+  discogs_id: '3701230'
 - id: 423
   slug: boogie-bill-webb
   name: Boogie Bill Webb
@@ -3049,6 +3402,7 @@
   amg_id: null
   spotify_id: 4YPTFd7ex4kmmoXwPJjmcY
   resources: []
+  discogs_id: '483694'
 - id: 424
   slug: frank-edwards
   name: Frank Edwards
@@ -3057,6 +3411,7 @@
   amg_id: null
   spotify_id: 5gOBGZay8Nt5orlQI8UDDg
   resources: []
+  discogs_id: '630916'
 - id: 427
   slug: mike-zito
   name: Mike Zito
@@ -3064,6 +3419,7 @@
   legacy_path: null
   amg_id: null
   spotify_id: 4IPDnwurwc0J2tXUty2hO4
+  discogs_id: '2906490'
 - id: 428
   slug: larry-mccray
   name: Larry McCray
@@ -3073,6 +3429,7 @@
   spotify_id: 24NDm7vTLocVLStlgkKjJc
   apple_music_id: '7242564'
   resources: []
+  discogs_id: '946064'
 - id: 431
   slug: steve-freund
   name: Steve Freund
@@ -3080,6 +3437,7 @@
   legacy_path: /bluesmen/Steve_Freund/
   amg_id: null
   spotify_id: 0eEnHswi9Dhgzc26XLrWzl
+  discogs_id: '353504'
 - id: 435
   slug: rachelle-coba
   name: Rachelle Coba
@@ -3088,6 +3446,7 @@
   amg_id: null
   spotify_id: 5JABFVUNK03Vz0Gf89r8Vi
   apple_music_id: '789813463'
+  discogs_id: '3355392'
 - id: 438
   slug: colin-cooper
   name: Colin Cooper
@@ -3095,6 +3454,7 @@
   legacy_path: null
   amg_id: null
   spotify_id: 2j5CTPJpVWhyCxfeVux4eu
+  discogs_id: '968125'
 - id: 443
   slug: davy-knowles
   name: Davy Knowles
@@ -3102,6 +3462,7 @@
   legacy_path: null
   amg_id: null
   spotify_id: 4yiPHMcw2R2SKfIsMuatfB
+  discogs_id: '1722372'
 - id: 444
   slug: barbara-dane
   name: Barbara Dane
@@ -3110,6 +3471,7 @@
   amg_id: null
   spotify_id: 7htyUKqAPLpbTA9nkEhGRf
   resources: []
+  discogs_id: '391090'
 - id: 445
   slug: li-l-ronnie-and-the-blue-beats
   name: Li'l Ronnie and the Blue Beats
@@ -3117,6 +3479,7 @@
   legacy_path: null
   amg_id: null
   spotify_id: 3H4Hb2q1nycJyM00jVjH2O
+  discogs_id: '13981726'
 - id: 447
   slug: kenny-blues-boss-wayne
   name: Kenny Blues Boss Wayne
@@ -3128,6 +3491,7 @@
   resources:
   - type: article
     url: /bluesnews/_15/Wayne.htm
+  discogs_id: '4374380'
 - id: 449
   slug: sari-schorr
   name: Sari Schorr
@@ -3135,6 +3499,7 @@
   legacy_path: null
   amg_id: null
   spotify_id: 65EcwCjlQu3XbQEbSqYBGl
+  discogs_id: '3345571'
 - id: 452
   slug: guitar-shorty
   name: Guitar Shorty
@@ -3143,6 +3508,7 @@
   amg_id: null
   spotify_id: 3A01qH4VCBkDXcDc2luyNc
   apple_music_id: '6742406'
+  discogs_id: '623604'
 - id: 456
   slug: rita-chiarelli
   name: Rita Chiarelli
@@ -3151,6 +3517,7 @@
   amg_id: null
   spotify_id: 1k0F6VxENnCLNppiFGvUHN
   apple_music_id: '81814699'
+  discogs_id: '249311'
 - id: 457
   slug: michael-katon
   name: Michael Katon
@@ -3158,6 +3525,7 @@
   legacy_path: null
   amg_id: null
   spotify_id: 68bqsIINo5RFICYwbkChbb
+  discogs_id: '1402678'
 - id: 458
   slug: the-hoochie-coochie-men
   name: The Hoochie Coochie Men
@@ -3165,6 +3533,7 @@
   legacy_path: null
   amg_id: null
   spotify_id: 390JAoQoUSYvL9f1Cr3OEQ
+  discogs_id: '1146622'
 - id: 459
   slug: phil-guy
   name: Phil Guy
@@ -3173,6 +3542,7 @@
   amg_id: null
   spotify_id: 0ZXJJoxGyTmEXc1Kd3cDxR
   resources: []
+  discogs_id: '609408'
 - id: 460
   slug: zoe-schwarz
   name: Zoe Schwarz
@@ -3181,6 +3551,7 @@
   amg_id: null
   spotify_id: 77xE2klseopDOR2MxpwuTn
   apple_music_id: '524590501'
+  discogs_id: '5227709'
 - id: 316
   slug: joe-bonamassa
   name: Joe Bonamassa
@@ -3192,6 +3563,7 @@
   resources:
   - type: link
     url: /news/?p=201102#887
+  discogs_id: '900313'
 - id: 323
   slug: big-walter-horton
   name: Big Walter Horton
@@ -3199,6 +3571,7 @@
   legacy_path: null
   amg_id: null
   spotify_id: 7ApWhtmpJkPyd5WjwDdDfX
+  discogs_id: '1758922'
 - id: 351
   slug: jw-jones
   name: JW-Jones
@@ -3208,6 +3581,7 @@
   spotify_id: 2rmznD8XEoiyttbqyiyZ7h
   apple_music_id: '278685149'
   resources: []
+  discogs_id: '1402715'
 - id: 394
   slug: carey-bell
   name: Carey Bell
@@ -3216,6 +3590,7 @@
   amg_id: null
   spotify_id: 7wcrtrCODZkNbpq1ZYABxs
   apple_music_id: '3827560'
+  discogs_id: '353499'
 - id: 401
   slug: bill-perry
   name: Bill Perry
@@ -3223,6 +3598,7 @@
   legacy_path: null
   amg_id: null
   spotify_id: 62b8h35VbewKrJzVkgdloJ
+  discogs_id: '349328'
 - id: 409
   slug: colin-james
   name: Colin James
@@ -3230,6 +3606,7 @@
   legacy_path: null
   amg_id: null
   spotify_id: 5OH6mZ9jAWB8UnC1447H1j
+  discogs_id: '232219'
 - id: 417
   slug: mary-ann-redmond
   name: Mary Ann Redmond
@@ -3237,6 +3614,7 @@
   legacy_path: null
   amg_id: null
   spotify_id: 5f17lq1ineelQmMokHMZVF
+  discogs_id: '3594276'
 - id: 430
   slug: luther-houserocker-johnson
   name: Luther "Houserocker" Johnson
@@ -3244,6 +3622,7 @@
   legacy_path: null
   amg_id: null
   spotify_id: 3K5qBiy5EHwb270817Cy6e
+  discogs_id: '2729792'
 - id: 440
   slug: deb-ryder
   name: Deb Ryder
@@ -3251,6 +3630,7 @@
   legacy_path: null
   amg_id: null
   spotify_id: 6dc6gOm9RKiBTEpUGe1NZ3
+  discogs_id: '5285973'
 - id: 441
   slug: king-king
   name: King King
@@ -3258,6 +3638,7 @@
   legacy_path: null
   amg_id: null
   spotify_id: 4SXsNXgRundFdewI58vbZT
+  discogs_id: '89292'
 - id: 451
   slug: john-the-revelator
   name: John the Revelator
@@ -3266,6 +3647,7 @@
   amg_id: null
   spotify_id: 3XHO2PVAJYSEL4nYa7c6lf
   apple_music_id: '1071458984'
+  discogs_id: '1901867'
 - id: 453
   slug: mad-shadow
   name: Mad Shadow
@@ -3273,6 +3655,7 @@
   legacy_path: null
   amg_id: null
   spotify_id: 7yFdDFRpMGHEq3Q80HNxzb
+  discogs_id: '17630781'
 - id: 454
   slug: rick-vito
   name: Rick Vito
@@ -3280,6 +3663,7 @@
   legacy_path: null
   amg_id: null
   spotify_id: 0yC7EvUceCEZm3ZeawauQA
+  discogs_id: '397847'
 - id: 455
   slug: amos-garrett
   name: Amos Garrett
@@ -3288,6 +3672,7 @@
   amg_id: null
   spotify_id: 0vfZG0M9war9aeOeYtUwKO
   apple_music_id: '105237051'
+  discogs_id: '370606'
 - id: 462
   slug: supersonic-blues-machine
   name: Supersonic Blues Machine
@@ -3295,6 +3680,7 @@
   legacy_path: null
   amg_id: null
   spotify_id: 4Q4I3c5ixM1EqJ9svcleRD
+  discogs_id: '4900891'
 - id: 334
   slug: dead-guy-blues
   name: Dead Guy Blues
@@ -3303,6 +3689,7 @@
   amg_id: null
   spotify_id: 21UzS5VErMpE4AbakgnCzK
   apple_music_id: '152316186'
+  discogs_id: '6489718'
 - id: 357
   slug: maggie-bell
   name: Maggie Bell
@@ -3310,6 +3697,7 @@
   legacy_path: null
   amg_id: null
   spotify_id: 5mZT64pztyifYahkPx6KMK
+  discogs_id: '340642'
 - id: 436
   slug: danny-bryant
   name: Danny Bryant
@@ -3318,6 +3706,7 @@
   amg_id: null
   spotify_id: 0y5sFo3j8Mo01UVEfqeuqn
   apple_music_id: '191501875'
+  discogs_id: '410818'
 - id: 343
   slug: john-primer
   name: John Primer
@@ -3334,6 +3723,7 @@
     url: /atb/John_Primer/Primer_prru.htm
   - type: article
     url: /news/2005/08/31/story208/
+  discogs_id: '694207'
 - id: 439
   slug: anthony-gomes
   name: Anthony Gomes
@@ -3342,6 +3732,7 @@
   amg_id: null
   spotify_id: 0aBEiafPqEJ3o0yp6gFsHg
   apple_music_id: '160711580'
+  discogs_id: '2662357'
 - id: 360
   slug: nighthawks
   name: Nighthawks
@@ -3349,6 +3740,7 @@
   legacy_path: null
   amg_id: null
   spotify_id: 0r6l6IoWu9rx2otGyr9wav
+  discogs_id: '63186'
 - id: 363
   slug: sean-costello
   name: Sean Costello
@@ -3356,6 +3748,7 @@
   legacy_path: null
   amg_id: null
   spotify_id: 0cchrfenh0m4UpXP0sf7kU
+  discogs_id: '1186231'
 - id: 368
   slug: greg-piccolo
   name: Greg Piccolo
@@ -3363,6 +3756,7 @@
   legacy_path: null
   amg_id: null
   spotify_id: 7A6bfhl0lT4q6vAUQUlY3B
+  discogs_id: '357694'
 - id: 437
   slug: bob-stroger
   name: Bob Stroger
@@ -3377,6 +3771,7 @@
     url: /forum/topic3391
   - type: links
     url: http://www.youtube.com/watch?v=uQajCxkkLTM
+  discogs_id: '1004950'
 - id: 442
   slug: jim-hayes-band
   name: Jim Hayes Band
@@ -3385,6 +3780,7 @@
   amg_id: null
   spotify_id: 5DzLuxaGrzUBGK17fPX7IA
   apple_music_id: '504780272'
+  discogs_id: '15457803'
 - id: 366
   slug: neal-black
   name: Neal Black
@@ -3392,6 +3788,7 @@
   legacy_path: null
   amg_id: null
   spotify_id: 1YJwia6SaHfEmpaDjL9qNb
+  discogs_id: '1315862'
 - id: 367
   slug: earl-king
   name: Earl King
@@ -3399,6 +3796,7 @@
   legacy_path: null
   amg_id: null
   spotify_id: 76ox7koAGPytUmTZGU6zWn
+  discogs_id: '274061'
 - id: 433
   slug: thorbjorn-risager
   name: Thorbjorn Risager
@@ -3406,6 +3804,7 @@
   legacy_path: null
   amg_id: null
   spotify_id: 1ZH4VWLaW65KivEJmbhhiT
+  discogs_id: '2376032'
 - id: 434
   slug: sena-ehrhardt
   name: Sena Ehrhardt
@@ -3413,6 +3812,7 @@
   legacy_path: null
   amg_id: null
   spotify_id: 4I2MGRZw35d0HkoOad38tg
+  discogs_id: '3216756'
 - id: 450
   slug: savoy-brown
   name: Savoy Brown
@@ -3420,6 +3820,7 @@
   legacy_path: null
   amg_id: null
   spotify_id: 17obwOahRWI121iMUZznh2
+  discogs_id: '243020'
 - id: 378
   slug: debbie-davies
   name: Debbie Davies
@@ -3427,6 +3828,7 @@
   legacy_path: null
   amg_id: null
   spotify_id: 21OcU2kzq3Oqkl8XxsEli7
+  discogs_id: '299752'
 - id: 381
   slug: chris-cain
   name: Chris Cain
@@ -3435,6 +3837,7 @@
   amg_id: null
   spotify_id: 3HFfi1wOWbXd83qSiwJhuv
   resources: []
+  discogs_id: '377800'
 - id: 382
   slug: joe-cocker
   name: Joe Cocker
@@ -3442,6 +3845,7 @@
   legacy_path: null
   amg_id: null
   spotify_id: 3pFCERyEiP5xeN2EsPXhjI
+  discogs_id: '124497'
 - id: 421
   slug: oberg
   name: Oberg
@@ -3459,6 +3863,7 @@
   resources:
   - type: interview
     url: /artist/deitra-farr/farr2012.htm
+  discogs_id: '2132540'
 - id: 429
   slug: lazy-bill-lucas
   name: Lazy Bill Lucas
@@ -3467,6 +3872,7 @@
   amg_id: null
   spotify_id: 4v9Nt1CRGlHHdDX1sIXuAq
   resources: []
+  discogs_id: '2736833'
 - id: 446
   slug: albert-cummings
   name: Albert Cummings
@@ -3474,6 +3880,7 @@
   legacy_path: null
   amg_id: null
   spotify_id: 1YYXyn4etM5oe9RnJe3Mvg
+  discogs_id: '3194370'
 - id: 414
   slug: mark-selby
   name: Mark Selby
@@ -3481,6 +3888,7 @@
   legacy_path: null
   amg_id: null
   spotify_id: 7BXa4EFk4HZJ6IYhRa8spv
+  discogs_id: '1279364'
 - id: 448
   slug: dana-fuchs
   name: Dana Fuchs
@@ -3488,6 +3896,7 @@
   legacy_path: null
   amg_id: null
   spotify_id: 1LOUhKsq65kzRCfV00GUcB
+  discogs_id: '913911'
 - id: 461
   slug: dion
   name: Dion
@@ -3495,23 +3904,28 @@
   legacy_path: null
   amg_id: null
   spotify_id: 15FyiY3ChN0QRspHIQYq0W
+  discogs_id: '711723'
 - id: 463
   slug: little-richard
   name: Little Richard
   sort_name: Little Richard
   legacy_path: /artist/little-richard/
+  discogs_id: '223473'
 - id: 464
   slug: mitch-kashmar
   name: Mitch Kashmar
   sort_name: Kashmar, Mitch
   legacy_path: /artist/mitch-kashmar/
+  discogs_id: '1041609'
 - id: 465
   slug: scott-henderson
   name: Scott Henderson
   sort_name: Henderson, Scott
   legacy_path: /artist/scott-henderson/
+  discogs_id: '56961'
 - id: 466
   slug: son-house
   name: Son House
   sort_name: House, Son
   legacy_path: /artist/son-house/
+  discogs_id: '313078'
