@@ -32,7 +32,7 @@
 {% for r in group.albums %}
 <div class="review-entry">
   {% if r.cover_url %}<span class="review-cover"><a href="{{ r.url }}"><img src="{{ r.cover_url }}" alt="" border="0"></a></span>{% endif %}
-  <span class="review-info"><a href="{{ r.url }}"><b>{{ r.album_title | e }}</b></a>{% if r.year %}, {{ r.year }}{% endif %}{% if r.mark %} {{ star_rating_html(r.mark) }}{% endif %}</span>
+  <span class="review-info"><a href="{{ r.url }}#review"><b>{{ r.album_title | e }}</b></a>{% if r.year %}, {{ r.year }}{% endif %}{% if r.mark %} {{ star_rating_html(r.mark) }}{% endif %}</span>
 </div>
 {% endfor %}
 </div>

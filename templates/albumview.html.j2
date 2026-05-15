@@ -82,7 +82,7 @@
 {% endif %}
 {% if reviews %}
 <hr size="1">
-<h2>Обзоры</h2>
+<a name="review"></a><h2>Обзоры</h2>
 {% for review in reviews %}
 <h3><a name="{{ review.id }}"></a>{% if review.mark %}{{ star_rating_html(review.mark) }}{% endif %}{% if review.author_url %}<a href="{{ review.author_url }}" style="text-decoration:none">{{ review.author | e }}</a>{% else %}{{ review.author | e }}{% endif %}</h3>
 {{ review.body | safe }}
