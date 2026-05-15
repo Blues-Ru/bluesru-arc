@@ -7,10 +7,21 @@ Disallow: /forum/topic*/reply
 Disallow: /forum/topic*/branch
 Disallow: /forum/topic*/quote
 
+# Forum author pages and search index — JS ?q= queries generate crawlable duplicates
+Disallow: /forum/*/
+
+# Raw JSON data file — not useful as a search result
+Disallow: /data/forum-search-index.json
+
+# Ethnotrip section moved to ethnotrip.blues.ru — block residual indexed URLs
+Disallow: /ethnotrip/
+
 # Dead ASPX pages with query strings — no redirect, pure 404
 Disallow: /nbf/gallery/list.aspx
 Disallow: /flyer.aspx
 Disallow: /gigs/
+Disallow: /data/albumsearch.aspx*
+Disallow: /bsfest/gallery/list.aspx
 
 # Carried over from old robots.txt — dropped sections, may still be in search index
 Disallow: /ad/
