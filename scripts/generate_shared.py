@@ -172,6 +172,16 @@ def _get_author_slugs() -> dict:
     return _AUTHOR_SLUGS
 
 
+_REVIEW_AUTHOR_SLUGS: dict | None = None
+
+def get_review_author_slug(name: str) -> str:
+    global _REVIEW_AUTHOR_SLUGS
+    if _REVIEW_AUTHOR_SLUGS is None:
+        p = DATA / 'review-author-slugs.yaml'
+        _REVIEW_AUTHOR_SLUGS = yaml.safe_load(p.read_text(encoding='utf-8')) if p.exists() else {}
+    return _REVIEW_AUTHOR_SLUGS.get(name, '')
+
+
 # ── Jinja2 environment ─────────────────────────────────────────────────────────
 JINJA_ENV = jinja2.Environment(
     loader=jinja2.FileSystemLoader(str(TEMPLATES)),
@@ -757,11 +767,14 @@ def _generate_stub_artist_page(
         album_id = str(meta.get('album_id', ''))
         album    = albums.get(album_id, {})
         mark     = meta.get('mark')
+        _auth = meta.get('author', '')
+        _auth_slug = get_review_author_slug(_auth)
         reviews_data.append({
             'id':          meta.get('id', ''),
             'album_title': album.get('title', '') or meta.get('album', ''),
             'year':        album.get('year', ''),
-            'author':      meta.get('author', ''),
+            'author':      _auth,
+            'author_url':  f'/author/{_auth_slug}/' if _auth_slug else '',
             'body':        format_review_body(body),
             'mark':        mark,
             'mark_text':   format_mark_ats(mark) if mark else '',

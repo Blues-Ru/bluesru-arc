@@ -17,6 +17,7 @@ from generate_shared import (
     load_reviews,
     load_albums,
     load_artists,
+    get_review_author_slug,
 )
 from render_utils import cover_url_for_asin, format_mark_ats, format_review_body
 from streaming import streaming_links_html, album_stream_icons_html, artist_stream_icons_html
@@ -63,11 +64,14 @@ def generate_reviews() -> None:
         new_url        = f'/artist/{a_slug}/{url_album_slug}/'
 
         mark = meta.get('mark')
+        _auth = meta.get('author', '')
+        _auth_slug = get_review_author_slug(_auth)
         review_data = {
             'id':          meta.get('id', ''),
             'album_title': album.get('title', '') or meta.get('album', ''),
             'year':        album.get('year', ''),
-            'author':      meta.get('author', ''),
+            'author':      _auth,
+            'author_url':  f'/author/{_auth_slug}/' if _auth_slug else '',
             'body':        format_review_body(body),
             'mark':        mark,
             'mark_text':   format_mark_ats(mark) if mark else '',
@@ -217,6 +221,10 @@ def generate_reviews() -> None:
         })
 
     def author_slug(name: str, idx: int) -> str:
+        s = get_review_author_slug(name)
+        if s:
+            return s
+        # Fallback for unmapped names (should not happen in production)
         latin = re.sub(r'[^a-zA-Z0-9\s_-]', '', name).strip()
         latin = re.sub(r'[\s_]+', '-', latin).strip('-').lower()
         return latin if len(latin) >= 3 else f'author-{idx + 1}'
@@ -224,22 +232,37 @@ def generate_reviews() -> None:
     author_tmpl       = JINJA_ENV.get_template('review_author.html.j2')
     author_index_rows: list[dict] = []
 
+    (SITE / 'author').mkdir(parents=True, exist_ok=True)
+
     for idx, (author_name, author_reviews) in enumerate(
             sorted(by_author.items(), key=lambda x: x[0].lower())):
         a_slug   = author_slug(author_name, idx)
-        sorted_r = sorted(author_reviews, key=lambda x: x['date_str'], reverse=True)
-        dst_auth = SITE / 'review' / 'author' / a_slug / 'index.html'
+        # Group by artist alphabetically, sort by year ascending within each artist
+        from collections import defaultdict as _dd
+        artist_map = _dd(list)
+        for r in author_reviews:
+            artist_map[r['artist_name'] or '—'].append(r)
+        artist_groups = []
+        for aname in sorted(artist_map.keys(), key=lambda s: s.lower()):
+            items = sorted(artist_map[aname], key=lambda r: (str(r.get('year') or ''), r['album_title']))
+            artist_groups.append({'artist_name': aname, 'albums': items})
+        dst_auth = SITE / 'author' / a_slug / 'index.html'
         dst_auth.parent.mkdir(parents=True, exist_ok=True)
         dst_auth.write_text(author_tmpl.render(
-            author=author_name, reviews=sorted_r, footer=FOOTER), encoding='utf-8')
+            author=author_name,
+            author_slug=a_slug,
+            artist_groups=artist_groups,
+            total=len(author_reviews),
+            footer=FOOTER), encoding='utf-8')
         author_index_rows.append({
             'name':  author_name,
             'slug':  a_slug,
+            'url':   f'/author/{a_slug}/',
             'count': len(author_reviews),
         })
 
     ai_tmpl = JINJA_ENV.get_template('review_author_index.html.j2')
-    (SITE / 'review' / 'author' / 'index.html').write_text(
+    (SITE / 'author' / 'index.html').write_text(
         ai_tmpl.render(authors=author_index_rows, footer=FOOTER), encoding='utf-8')
 
     # ── Various Musicians stub page ──────────────────────────────────────────

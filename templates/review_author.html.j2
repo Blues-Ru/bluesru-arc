@@ -7,22 +7,38 @@
   <link rel="shortcut icon" href="/images/bluesru.ico">
   <link rel="stylesheet" href="/css/site.css">
   <link rel="stylesheet" href="/css/responsive.css">
-  <style>body { max-width: 900px; margin: 0 auto; padding: 0 1em; }</style>
+  <style>
+    body { max-width: 900px; margin: 0 auto; padding: 0 1em; }
+    .review-entry { display: flex; align-items: flex-start; margin-bottom: 0.5em; }
+    .review-cover { flex-shrink: 0; margin-right: 0.7em; }
+    .review-cover img { width: 50px; height: 50px; object-fit: cover; }
+    .review-info { flex: 1; }
+    .artist-section { margin-top: 1.2em; }
+    a { text-decoration: none; }
+    a:hover { text-decoration: underline; }
+  </style>
   {{ ga_snippet | safe }}
 </head>
 <body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#5511cc" alink="#00bb00">
-<p><a href="/"><b>Blues.Ru</b></a> &gt; <a href="/review/">CD обзор</a></p>
-<h2>{{ author | e }}</h2>
-<ul>
-{% for r in reviews %}
-<li>
-  {% if r.cover_url %}<a href="{{ r.url }}"><img src="{{ r.cover_url }}" alt="" border="0" style="vertical-align:middle;margin-right:4px;" width="40" height="40"></a>{% endif %}
-  <a href="{{ r.url }}">{% if r.artist_name %}<b>{{ r.artist_name | e }}</b> — {% endif %}<b>{{ r.album_title | e }}</b></a>{% if r.year %}, {{ r.year }}{% endif %}
-</li>
-{% endfor %}
-</ul>
-<hr size="1" />
 
+<a href="/"><img src="/images/bluesru-logo.svg" width="120" height="120" border="0" alt="Blues.Ru" style="float:right"></a>
+
+<h2><a href="/review/">CD обзор</a> : <a href="/author/">Авторы</a> : {{ author | e }}</h2>
+<hr size="1">
+
+{% for group in artist_groups %}
+<div class="artist-section">
+<h3>{{ group.artist_name | e }}</h3>
+{% for r in group.albums %}
+<div class="review-entry">
+  {% if r.cover_url %}<span class="review-cover"><a href="{{ r.url }}"><img src="{{ r.cover_url }}" alt="" border="0"></a></span>{% endif %}
+  <span class="review-info"><a href="{{ r.url }}"><b>{{ r.album_title | e }}</b></a>{% if r.year %}, {{ r.year }}{% endif %}</span>
+</div>
+{% endfor %}
+</div>
+{% endfor %}
+
+<hr size="1" />
 <p align="center">{{ footer }}</p>
 </body>
 </html>

@@ -8,6 +8,14 @@
 # Sitemap URL fixes (old site used dashes, new uses underscores)
 /sitemap-news.xml  /sitemap_news.xml  301
 
+# Review author pages moved from /review/author/ to /author/
+/review/author/juergen/  /author/yury-solovyev/  301
+/review/author/oleg-spb/  /author/oleg-pchelkin/  301
+/review/author/bluesru/  /author/bluesru/  301
+/review/author/ozonru/  /author/ozon-ru/  301
+/review/author/  /author/  301
+/review/author/*  /author/  301
+
 # ASPX page redirects
 /review/default.aspx  /review/  301
 /review/rss.aspx  /review/rss.xml  301

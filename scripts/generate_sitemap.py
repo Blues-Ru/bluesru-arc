@@ -33,6 +33,8 @@ def classify(url: str) -> str:
         return 'news'
     if url.startswith('/calendar/') and url != '/calendar/':
         return 'calendar'
+    if url.startswith('/artist/'):
+        return 'artists'
     return 'main'
 
 
@@ -55,6 +57,8 @@ def url_attrs(url: str) -> tuple:
         return 0.3, 'yearly'
     if url.startswith('/forum/'):
         return 0.5, 'monthly'
+    if url.startswith('/author/'):
+        return 0.7, 'monthly'
     return 0.5, 'monthly'
 
 
@@ -99,7 +103,7 @@ def write_index(path: Path, sitemap_names: list):
 
 
 def collect_urls() -> dict:
-    buckets: dict = {'main': [], 'news': [], 'calendar': [], 'forum': []}
+    buckets: dict = {'main': [], 'news': [], 'calendar': [], 'forum': [], 'artists': []}
 
     for p in SITE.rglob('*.html'):
         rel = p.relative_to(SITE)
@@ -115,6 +119,9 @@ def collect_urls() -> dict:
             continue
 
         url = path_to_url(p)
+        # Skip forum author profile pages (blocked in robots.txt via /forum/*/)
+        if url.startswith('/forum/') and url.count('/') >= 3 and not url.startswith('/forum/topic'):
+            continue
         buckets[classify(url)].append(url)
 
     return buckets
@@ -158,6 +165,7 @@ def main():
         ('sitemap_main.xml',     buckets['main']),
         ('sitemap_news.xml',     buckets['news']),
         ('sitemap_calendar.xml', buckets['calendar']),
+        ('sitemap_artists.xml',  buckets.get('artists', [])),
     ]:
         if urls:
             write_sitemap(SITE / filename, urls)
