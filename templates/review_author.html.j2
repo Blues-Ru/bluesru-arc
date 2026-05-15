@@ -23,16 +23,16 @@
 
 <a href="/"><img src="/images/bluesru-logo.svg" width="120" height="120" border="0" alt="Blues.Ru" style="float:right"></a>
 
-<h2><a href="/review/">CD обзор</a> : <a href="/author/">Авторы</a> : {{ author | e }}</h2>
+<h2><a href="/">Blues.Ru</a> &gt; <a href="/review/">Обзоры</a> &gt; <a href="/author/">Авторы</a> &gt; {{ author | e }}</h2>
 <hr size="1">
 
 {% for group in artist_groups %}
 <div class="artist-section">
-<h3>{{ group.artist_name | e }}</h3>
+<h3>{% if group.artist_slug %}<a href="/artist/{{ group.artist_slug }}/">{{ group.artist_name | e }}</a>{% else %}{{ group.artist_name | e }}{% endif %}</h3>
 {% for r in group.albums %}
 <div class="review-entry">
   {% if r.cover_url %}<span class="review-cover"><a href="{{ r.url }}"><img src="{{ r.cover_url }}" alt="" border="0"></a></span>{% endif %}
-  <span class="review-info"><a href="{{ r.url }}"><b>{{ r.album_title | e }}</b></a>{% if r.year %}, {{ r.year }}{% endif %}</span>
+  <span class="review-info"><a href="{{ r.url }}"><b>{{ r.album_title | e }}</b></a>{% if r.year %}, {{ r.year }}{% endif %}{% if r.mark %} {{ star_rating_html(r.mark) }}{% endif %}</span>
 </div>
 {% endfor %}
 </div>

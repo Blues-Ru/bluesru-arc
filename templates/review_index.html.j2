@@ -23,8 +23,7 @@
 
 <a href="/"><img src="/images/bluesru-logo.svg" width="120" height="120" border="0" alt="Blues.Ru" style="float:right"></a>
 
-<h2><a href="/review/">CD обзор</a>{% if current_month %} — {{ current_month }}{% elif current_year %} — {{ current_year }}{% endif %}</h2>
-<p style="font-size:0.9em"><a href="/author/">Авторы</a></p>
+<h2><a href="/">Blues.Ru</a> &gt; <a href="/review/">Обзоры</a>{% if current_month %} — {{ current_month }}{% elif current_year %} — {{ current_year }}{% endif %} &nbsp;|&nbsp; <a href="/author/">Авторы</a></h2>
 
 {% if nav_links %}<p>{{ nav_links | safe }}</p>{% endif %}
 

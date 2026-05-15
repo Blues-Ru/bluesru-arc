@@ -211,13 +211,15 @@ def generate_reviews() -> None:
         album_slug = album.get('slug', '') or meta.get('slug', '')
         date_str   = str(meta.get('date', ''))
         by_author[author].append({
-            'url':         f'/artist/{a_slug}/{_strip_artist_prefix(a_slug, album_slug)}/',
-            'artist_name': artist.get('name') or album.get('artist') or '',
-            'album_title': album.get('title') or meta.get('album') or '',
-            'year':        album.get('year', ''),
-            'asin':        album.get('asin', ''),
-            'cover_url':   cover_url_for_asin(album.get('asin', ''), fallback=True),
-            'date_str':    date_str,
+            'url':          f'/artist/{a_slug}/{_strip_artist_prefix(a_slug, album_slug)}/',
+            'artist_name':  artist.get('name') or album.get('artist') or '',
+            'artist_slug':  a_slug,
+            'album_title':  album.get('title') or meta.get('album') or '',
+            'year':         album.get('year', ''),
+            'asin':         album.get('asin', ''),
+            'cover_url':    cover_url_for_asin(album.get('asin', ''), fallback=True),
+            'date_str':     date_str,
+            'mark':         meta.get('mark'),
         })
 
     def author_slug(name: str, idx: int) -> str:
@@ -245,7 +247,7 @@ def generate_reviews() -> None:
         artist_groups = []
         for aname in sorted(artist_map.keys(), key=lambda s: s.lower()):
             items = sorted(artist_map[aname], key=lambda r: (str(r.get('year') or ''), r['album_title']))
-            artist_groups.append({'artist_name': aname, 'albums': items})
+            artist_groups.append({'artist_name': aname, 'artist_slug': items[0]['artist_slug'] if items else '', 'albums': items})
         dst_auth = SITE / 'author' / a_slug / 'index.html'
         dst_auth.parent.mkdir(parents=True, exist_ok=True)
         dst_auth.write_text(author_tmpl.render(
