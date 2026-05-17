@@ -19,7 +19,7 @@ from generate_shared import (
     load_artists,
     get_review_author_slug,
 )
-from render_utils import cover_url_for_asin, format_mark_ats, format_review_body
+from render_utils import cover_url_for_asin, format_mark_ats, format_review_body, star_rating_html
 from streaming import streaming_links_html, album_stream_icons_html, artist_stream_icons_html
 from data import store
 
@@ -268,27 +268,60 @@ def generate_reviews() -> None:
         ai_tmpl.render(authors=author_index_rows, footer=FOOTER), encoding='utf-8')
 
     # ── Various Musicians stub page ──────────────────────────────────────────
-    various_reviews: list[dict] = []
+    # One row per album (deduped); collect all reviewers for the meta line.
+    import html as _html
+    various_by_album: OrderedDict = OrderedDict()
     for meta, body in reviews:
         album_id  = str(meta.get('album_id', ''))
         album     = albums.get(album_id, {})
         artist_id = str(album.get('artist_id', '') or meta.get('artist_id', '') or '')
         artist    = artists.get(artist_id, {})
-        if artist_slug_for_url(artist) == 'various-musicians':
+        if artist_slug_for_url(artist) != 'various-musicians':
+            continue
+        if album_id in various_by_album:
+            entry = various_by_album[album_id]
+        else:
             album_slug = album.get('slug', '') or meta.get('slug', '')
-            various_reviews.append({
+            entry = {
                 'url':         f'/artist/various-musicians/{_strip_artist_prefix("various-musicians", album_slug)}/',
+                'artist_name': album.get('artist') or meta.get('artist') or '',
                 'album_title': album.get('title') or meta.get('album') or '',
                 'year':        album.get('year', ''),
                 'asin':        album.get('asin', ''),
                 'cover_url':   cover_url_for_asin(album.get('asin', ''), fallback=True),
-            })
+                'reviewers':   [],
+            }
+            various_by_album[album_id] = entry
+        entry['reviewers'].append({
+            'author': meta.get('author', '') or '',
+            'mark':   meta.get('mark'),
+        })
 
-    if various_reviews:
+    def _sort_key(e):
+        # Compilations and unnamed last; otherwise alphabetical by artist, then year, title.
+        name = (e['artist_name'] or '').strip()
+        bucket = 1 if (not name or name.lower() == 'various artists') else 0
+        sort_name = re.sub(r'^["\'«„]+', '', name).lower()
+        try:
+            year = int(e.get('year') or 0)
+        except (TypeError, ValueError):
+            year = 0
+        return (bucket, sort_name, year, (e.get('album_title') or '').lower())
+
+    various_albums = sorted(various_by_album.values(), key=_sort_key)
+    for e in various_albums:
+        rev_parts = []
+        for rv in e['reviewers']:
+            stars  = star_rating_html(rv['mark'])
+            author = _html.escape(rv['author'])
+            rev_parts.append(f'{stars}{author}')
+        e['reviewers_html'] = '<br>'.join(rev_parts)
+
+    if various_albums:
         v_tmpl = JINJA_ENV.get_template('various_artists.html.j2')
         dst_v  = SITE / 'artist' / 'various-musicians' / 'index.html'
         dst_v.parent.mkdir(parents=True, exist_ok=True)
-        dst_v.write_text(v_tmpl.render(reviews=various_reviews, footer=FOOTER), encoding='utf-8')
+        dst_v.write_text(v_tmpl.render(albums=various_albums, footer=FOOTER), encoding='utf-8')
 
     print(f"  Reviews: {generated} pages, {len(month_keys)} month indexes, {len(by_author)} author pages")
 

@@ -133,6 +133,8 @@ def generate_redirects():
 
     # album id → /artist/{artist-slug}/{album-slug}/
     albums = {}
+    # alias_id → primary_id (for merged-duplicate albums)
+    album_alias_to_primary: dict[str, str] = {}
     if albums_dir.exists():
         for p in sorted(albums_dir.glob("*/*.yaml")):
             a = yaml.safe_load(p.read_text(encoding="utf-8")) or {}
@@ -145,6 +147,8 @@ def generate_redirects():
             a_slug = "various-musicians"
             # (artist slug resolved below after loading artists)
             albums[str(aid)] = {"album_slug": album_slug, "artist_id": artist_id}
+            for alias in (a.get("alias_ids") or []):
+                album_alias_to_primary[str(alias)] = str(aid)
 
     # artist id → slug, legacy_dir
     artists_raw = yaml.safe_load(artists_yaml.read_text(encoding="utf-8")) if artists_yaml.exists() else []
@@ -170,6 +174,10 @@ def generate_redirects():
         if a_slug not in ("various-musicians",) and album_slug.startswith(a_slug + "-"):
             album_slug = album_slug[len(a_slug) + 1:]
         album_redirects[album_id] = f"/artist/{a_slug}/{album_slug}/"
+    # Map merged-duplicate album_ids to their primary's URL
+    for alias_id, primary_id in album_alias_to_primary.items():
+        if primary_id in album_redirects:
+            album_redirects[alias_id] = album_redirects[primary_id]
 
     # Build artist redirect map
     artist_redirects = {}

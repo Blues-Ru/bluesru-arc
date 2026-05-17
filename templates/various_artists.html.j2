@@ -11,14 +11,21 @@
 </head>
 <body bgcolor="#ffffff" text="#000000" link="#0000ff" vlink="#5511cc" alink="#00bb00">
 <h2><a href="/artist/">Музыканты</a> : Разные</h2>
-<ul>
-{% for r in reviews %}
-<li>
-  {% if r.cover_url %}<a href="{{ r.url }}"><img src="{{ r.cover_url }}" alt="" border="0" style="vertical-align:middle;margin-right:4px;" width="40" height="40"></a>{% endif %}
-  <a href="{{ r.url }}"><b>{{ r.album_title | e }}</b></a>{% if r.year %}, {{ r.year }}{% endif %}
-</li>
+<p style="color:#666;font-size:0.9em">Альбомы исполнителей, у которых пока нет отдельной страницы на сайте: {{ albums | length }} записей.</p>
+
+{% for a in albums %}
+<div style="display:flex;align-items:flex-start;gap:10px;padding:6px 0;border-bottom:1px solid #eee">
+  <div style="flex-shrink:0">
+    {% if a.cover_url %}<a href="{{ a.url }}"><img src="{{ a.cover_url }}" width="80" height="80" alt="" border="0" style="display:block;object-fit:cover"></a>
+    {% else %}<img src="/images/no-cover.svg" width="80" height="80" alt="" style="display:block">{% endif %}
+  </div>
+  <div style="flex-shrink:0;width:42px;color:#888;font-size:0.9em;padding-top:6px">{{ a.year or '' }}</div>
+  <div style="flex:1;padding-top:6px">
+    <a href="{{ a.url }}" style="font-size:1.05em">{% if a.artist_name %}<b>{{ a.artist_name | e }}</b> — {% endif %}<b>{{ a.album_title | e }}</b></a>
+    {% if a.reviewers_html %}<div style="font-size:0.85em;color:#555;margin-top:2px">{{ a.reviewers_html | safe }}</div>{% endif %}
+  </div>
+</div>
 {% endfor %}
-</ul>
 
 <hr size="1" />
 <p align="center">{{ footer }}</p>
