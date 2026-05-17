@@ -178,6 +178,15 @@ def main():
     lines.append("/bluesme/*  /artist/:splat  301")
     lines.append("/zappazuhoi/default.htm  /zappazuhoi/  301")
     lines.append("")
+    # Albums moved out of /artist/various-musicians/ when their artist was registered.
+    migration_file = DATA / "album-migration-redirects.yaml"
+    if migration_file.exists():
+        migration = yaml.safe_load(migration_file.read_text(encoding="utf-8")) or []
+        if migration:
+            lines.append("# Albums migrated from /artist/various-musicians/ to their own artist")
+            for r in migration:
+                lines.append(f"{r['from']}  {r['to']}  301")
+            lines.append("")
     # Artists whose bluesmen/ TitleCase dirs are NOT in legacy_path (from data file)
     lines.append("# /bluesmen/ TitleCase dirs not in legacy_path (no auto-gen redirect)")
     extra_file = DATA / "bluesmen-extra-redirects.yaml"

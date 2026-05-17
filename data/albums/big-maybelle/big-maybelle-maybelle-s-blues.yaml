@@ -1,7 +1,7 @@
 id: 244
 slug: big-maybelle-maybelle-s-blues
-artist_id: null
-artist_slug: null
+artist_id: 514
+artist_slug: big-maybelle
 artist: Big Maybelle
 title: Maybelle's Blues
 year: 2001
@@ -13,4 +13,5 @@ reviews:
   author: Алексей Калачев
   mark: 10
   date: '2003-10-20'
-  text: Биг Мейбелл – лучшая блюзовая певица 50-х в сопровождении биг-бенда. Тут ее самые-самые. Классика.
+  text: Биг Мейбелл – лучшая блюзовая певица 50-х в сопровождении биг-бенда. Тут ее
+    самые-самые. Классика.

@@ -3929,3 +3929,639 @@
   sort_name: House, Son
   legacy_path: /artist/son-house/
   discogs_id: '313078'
+- id: 467
+  slug: animals
+  name: Animals
+  sort_name: Animals
+  legacy_path: /artist/animals/
+  resources: []
+- id: 468
+  slug: big-twist-the-mellow-fellows
+  name: Big Twist & The Mellow Fellows
+  sort_name: Big Twist & The Mellow Fellows
+  legacy_path: /artist/big-twist-the-mellow-fellows/
+  resources: []
+- id: 469
+  slug: james-montgomery-band
+  name: James Montgomery Band
+  sort_name: Montgomery, James (Band)
+  legacy_path: /artist/james-montgomery-band/
+  resources: []
+- id: 470
+  slug: jimmy-johnson
+  name: Jimmy Johnson
+  sort_name: Johnson, Jimmy
+  legacy_path: /artist/jimmy-johnson/
+  resources: []
+- id: 471
+  slug: john-renbourn
+  name: John Renbourn
+  sort_name: Renbourn, John
+  legacy_path: /artist/john-renbourn/
+  resources: []
+- id: 472
+  slug: rufus-thomas
+  name: Rufus Thomas
+  sort_name: Thomas, Rufus
+  legacy_path: /artist/rufus-thomas/
+  resources: []
+- id: 473
+  slug: alvin-lee
+  name: Alvin Lee
+  sort_name: Lee, Alvin
+  legacy_path: /artist/alvin-lee/
+  resources: []
+- id: 474
+  slug: archie-edwards
+  name: Archie Edwards
+  sort_name: Edwards, Archie
+  legacy_path: /artist/archie-edwards/
+  resources: []
+- id: 475
+  slug: blues-pills
+  name: Blues Pills
+  sort_name: Blues Pills
+  legacy_path: /artist/blues-pills/
+  resources: []
+- id: 476
+  slug: bob-dylan
+  name: Bob Dylan
+  sort_name: Dylan, Bob
+  legacy_path: /artist/bob-dylan/
+  resources: []
+- id: 477
+  slug: charlie-sayles
+  name: Charlie Sayles
+  sort_name: Sayles, Charlie
+  legacy_path: /artist/charlie-sayles/
+  resources: []
+- id: 478
+  slug: chubby-carrier
+  name: Chubby Carrier and the Bayou Swamp Band
+  sort_name: Carrier, Chubby
+  legacy_path: /artist/chubby-carrier/
+  resources: []
+- id: 479
+  slug: honeyboy-edwards
+  name: David "Honeyboy" Edwards
+  sort_name: Edwards, David "Honeyboy"
+  legacy_path: /artist/honeyboy-edwards/
+  resources: []
+- id: 480
+  slug: david-wilcox
+  name: David Wilcox
+  sort_name: Wilcox, David
+  legacy_path: /artist/david-wilcox/
+  resources: []
+- id: 481
+  slug: dennis-gruenling
+  name: Dennis Gruenling
+  sort_name: Gruenling, Dennis
+  legacy_path: /artist/dennis-gruenling/
+  resources: []
+- id: 482
+  slug: george-smith
+  name: George Smith
+  sort_name: Smith, George
+  legacy_path: /artist/george-smith/
+  resources: []
+- id: 483
+  slug: groove-hogs
+  name: Groove Hogs
+  sort_name: Groove Hogs
+  legacy_path: /artist/groove-hogs/
+  resources: []
+- id: 484
+  slug: harvey-mandel
+  name: Harvey Mandel
+  sort_name: Mandel, Harvey
+  legacy_path: /artist/harvey-mandel/
+  resources: []
+- id: 485
+  slug: henry-butler
+  name: Henry Butler
+  sort_name: Butler, Henry
+  legacy_path: /artist/henry-butler/
+  resources: []
+- id: 486
+  slug: hot-tuna
+  name: Hot Tuna
+  sort_name: Hot Tuna
+  legacy_path: /artist/hot-tuna/
+  resources: []
+- id: 487
+  slug: indigenous
+  name: Indigenous
+  sort_name: Indigenous
+  legacy_path: /artist/indigenous/
+  resources: []
+- id: 488
+  slug: j-geils-band
+  name: J. Geils Band
+  sort_name: Geils, J. (Band)
+  legacy_path: /artist/j-geils-band/
+  resources: []
+- id: 489
+  slug: jody-williams
+  name: Jody Williams
+  sort_name: Williams, Jody
+  legacy_path: /artist/jody-williams/
+  resources: []
+- id: 490
+  slug: john-jackson
+  name: John Jackson
+  sort_name: Jackson, John
+  legacy_path: /artist/john-jackson/
+  resources: []
+- id: 491
+  slug: john-nemeth
+  name: John Nemeth
+  sort_name: Nemeth, John
+  legacy_path: /artist/john-nemeth/
+  resources: []
+- id: 492
+  slug: junior-kimbrough
+  name: Junior Kimbrough
+  sort_name: Kimbrough, Junior
+  legacy_path: /artist/junior-kimbrough/
+  resources: []
+- id: 493
+  slug: kenny-blue-ray
+  name: Kenny Blue Ray
+  sort_name: Ray, Kenny Blue
+  legacy_path: /artist/kenny-blue-ray/
+  resources: []
+- id: 494
+  slug: lonnie-johnson
+  name: Lonnie Johnson
+  sort_name: Johnson, Lonnie
+  legacy_path: /artist/lonnie-johnson/
+  resources: []
+- id: 495
+  slug: luther-tucker
+  name: Luther Tucker
+  sort_name: Tucker, Luther
+  legacy_path: /artist/luther-tucker/
+  resources: []
+- id: 496
+  slug: mississippi-john-hurt
+  name: Mississippi John Hurt
+  sort_name: Hurt, Mississippi John
+  legacy_path: /artist/mississippi-john-hurt/
+  resources: []
+- id: 497
+  slug: paul-oscher
+  name: Paul Oscher
+  sort_name: Oscher, Paul
+  legacy_path: /artist/paul-oscher/
+  resources: []
+- id: 498
+  slug: robert-lucas
+  name: Robert Lucas
+  sort_name: Lucas, Robert
+  legacy_path: /artist/robert-lucas/
+  resources: []
+- id: 499
+  slug: roy-rogers
+  name: Roy Rogers
+  sort_name: Rogers, Roy
+  legacy_path: /artist/roy-rogers/
+  resources: []
+- id: 500
+  slug: steve-miller-band
+  name: Steve Miller Band
+  sort_name: Miller, Steve (Band)
+  legacy_path: /artist/steve-miller-band/
+  resources: []
+- id: 501
+  slug: sugar-blue
+  name: Sugar Blue
+  sort_name: Sugar Blue
+  legacy_path: /artist/sugar-blue/
+  resources: []
+- id: 502
+  slug: t-model-ford
+  name: T-Model Ford
+  sort_name: Ford, T-Model
+  legacy_path: /artist/t-model-ford/
+  resources: []
+- id: 503
+  slug: terrell
+  name: Terrell
+  sort_name: Terrell
+  legacy_path: /artist/terrell/
+  resources: []
+- id: 504
+  slug: tony-joe-white
+  name: Tony Joe White
+  sort_name: White, Tony Joe
+  legacy_path: /artist/tony-joe-white/
+  resources: []
+- id: 505
+  slug: ben-harper
+  name: Ben Harper
+  sort_name: Harper, Ben
+  legacy_path: /artist/ben-harper/
+  resources: []
+- id: 506
+  slug: double-trouble
+  name: Double Trouble
+  sort_name: Double Trouble
+  legacy_path: /artist/double-trouble/
+  resources: []
+- id: 507
+  slug: robert-palmer
+  name: Robert Palmer
+  sort_name: Palmer, Robert
+  legacy_path: /artist/robert-palmer/
+  resources: []
+- id: 508
+  slug: rusty-zinn
+  name: Rusty Zinn
+  sort_name: Zinn, Rusty
+  legacy_path: /artist/rusty-zinn/
+  resources: []
+- id: 509
+  slug: tony-bennett
+  name: Tony Bennett
+  sort_name: Bennett, Tony
+  legacy_path: /artist/tony-bennett/
+  resources: []
+- id: 510
+  slug: aaron-neville
+  name: Aaron Neville
+  sort_name: Neville, Aaron
+  legacy_path: /artist/aaron-neville/
+  resources: []
+- id: 511
+  slug: amos-milburn
+  name: Amos Milburn
+  sort_name: Milburn, Amos
+  legacy_path: /artist/amos-milburn/
+  resources: []
+- id: 512
+  slug: big-jay-mcneely
+  name: Big Jay McNeely
+  sort_name: McNeely, Big Jay
+  legacy_path: /artist/big-jay-mcneely/
+  resources: []
+- id: 513
+  slug: big-maceo
+  name: Big Maceo
+  sort_name: Big Maceo
+  legacy_path: /artist/big-maceo/
+  resources: []
+- id: 514
+  slug: big-maybelle
+  name: Big Maybelle
+  sort_name: Big Maybelle
+  legacy_path: /artist/big-maybelle/
+  resources: []
+- id: 515
+  slug: blind-willie-mctell
+  name: Blind Willie McTell
+  sort_name: McTell, Blind Willie
+  legacy_path: /artist/blind-willie-mctell/
+  resources: []
+- id: 516
+  slug: charles-brown
+  name: Charles Brown
+  sort_name: Brown, Charles
+  legacy_path: /artist/charles-brown/
+  resources: []
+- id: 517
+  slug: charley-patton
+  name: Charley Patton
+  sort_name: Patton, Charley
+  legacy_path: /artist/charley-patton/
+  resources: []
+- id: 518
+  slug: eddie-cusic
+  name: Eddie Cusic
+  sort_name: Cusic, Eddie
+  legacy_path: /artist/eddie-cusic/
+  resources: []
+- id: 519
+  slug: eddie-one-string-jones
+  name: Eddie "One String" Jones
+  sort_name: Jones, Eddie "One String"
+  legacy_path: /artist/eddie-one-string-jones/
+  resources: []
+- id: 520
+  slug: gus-cannon
+  name: Gus Cannon
+  sort_name: Cannon, Gus
+  legacy_path: /artist/gus-cannon/
+  resources: []
+- id: 521
+  slug: sleepy-john-estes
+  name: Sleepy John Estes
+  sort_name: Estes, Sleepy John
+  legacy_path: /artist/sleepy-john-estes/
+  resources: []
+- id: 522
+  slug: j-d-short
+  name: J.D. Short
+  sort_name: Short, J.D.
+  legacy_path: /artist/j-d-short/
+  resources: []
+- id: 523
+  slug: joe-callicott
+  name: Joe Callicott
+  sort_name: Callicott, Joe
+  legacy_path: /artist/joe-callicott/
+  resources: []
+- id: 524
+  slug: joe-hill-louis
+  name: Joe Hill Louis
+  sort_name: Louis, Joe Hill
+  legacy_path: /artist/joe-hill-louis/
+  resources: []
+- id: 525
+  slug: lightnin-slim
+  name: Lightnin' Slim
+  sort_name: Lightnin' Slim
+  legacy_path: /artist/lightnin-slim/
+  resources: []
+- id: 526
+  slug: little-willie-littlefield
+  name: Little Willie Littlefield
+  sort_name: Littlefield, Little Willie
+  legacy_path: /artist/little-willie-littlefield/
+  resources: []
+- id: 527
+  slug: magic-sam
+  name: Magic Sam
+  sort_name: Magic Sam
+  legacy_path: /artist/magic-sam/
+  resources: []
+- id: 528
+  slug: mississippi-sheiks
+  name: Mississippi Sheiks
+  sort_name: Mississippi Sheiks
+  legacy_path: /artist/mississippi-sheiks/
+  resources: []
+- id: 529
+  slug: otha-turner
+  name: Otha Turner
+  sort_name: Turner, Otha
+  legacy_path: /artist/otha-turner/
+  resources: []
+- id: 530
+  slug: peg-leg-sam
+  name: Peg Leg Sam
+  sort_name: Peg Leg Sam
+  legacy_path: /artist/peg-leg-sam/
+  resources: []
+- id: 531
+  slug: percy-mayfield
+  name: Percy Mayfield
+  sort_name: Mayfield, Percy
+  legacy_path: /artist/percy-mayfield/
+  resources: []
+- id: 532
+  slug: pink-anderson
+  name: Pink Anderson
+  sort_name: Anderson, Pink
+  legacy_path: /artist/pink-anderson/
+  resources: []
+- id: 533
+  slug: robert-lockwood-jr
+  name: Robert Lockwood Jr.
+  sort_name: Lockwood, Robert (Jr.)
+  legacy_path: /artist/robert-lockwood-jr/
+  resources: []
+- id: 534
+  slug: robert-pete-williams
+  name: Robert Pete Williams
+  sort_name: Williams, Robert Pete
+  legacy_path: /artist/robert-pete-williams/
+  resources: []
+- id: 535
+  slug: robert-wilkins
+  name: Robert Wilkins
+  sort_name: Wilkins, Robert
+  legacy_path: /artist/robert-wilkins/
+  resources: []
+- id: 536
+  slug: roosevelt-sykes
+  name: Roosevelt Sykes
+  sort_name: Sykes, Roosevelt
+  legacy_path: /artist/roosevelt-sykes/
+  resources: []
+- id: 537
+  slug: slim-harpo
+  name: Slim Harpo
+  sort_name: Slim Harpo
+  legacy_path: /artist/slim-harpo/
+  resources: []
+- id: 538
+  slug: st-louis-jimmy
+  name: St. Louis Jimmy
+  sort_name: St. Louis Jimmy
+  legacy_path: /artist/st-louis-jimmy/
+  resources: []
+- id: 539
+  slug: tommy-ridgley
+  name: Tommy Ridgley
+  sort_name: Ridgley, Tommy
+  legacy_path: /artist/tommy-ridgley/
+  resources: []
+- id: 540
+  slug: willie-mabon
+  name: Willie Mabon
+  sort_name: Mabon, Willie
+  legacy_path: /artist/willie-mabon/
+  resources: []
+- id: 541
+  slug: hadda-brooks
+  name: Hadda Brooks
+  sort_name: Brooks, Hadda
+  legacy_path: /artist/hadda-brooks/
+  resources: []
+- id: 542
+  slug: katie-webster
+  name: Katie Webster
+  sort_name: Webster, Katie
+  legacy_path: /artist/katie-webster/
+  resources: []
+- id: 543
+  slug: professor-longhair
+  name: Professor Longhair
+  sort_name: Professor Longhair
+  legacy_path: /artist/professor-longhair/
+  resources: []
+- id: 544
+  slug: dirty-dozen-brass-band
+  name: Dirty Dozen Brass Band
+  sort_name: Dirty Dozen Brass Band
+  legacy_path: /artist/dirty-dozen-brass-band/
+  resources: []
+- id: 545
+  slug: monk-boudreaux
+  name: Monk Boudreaux
+  sort_name: Boudreaux, Monk
+  legacy_path: /artist/monk-boudreaux/
+  resources: []
+- id: 546
+  slug: buster-benton
+  name: Buster Benton
+  sort_name: Benton, Buster
+  legacy_path: /artist/buster-benton/
+  resources: []
+- id: 547
+  slug: carl-weathersby
+  name: Carl Weathersby
+  sort_name: Weathersby, Carl
+  legacy_path: /artist/carl-weathersby/
+  resources: []
+- id: 548
+  slug: fenton-robinson
+  name: Fenton Robinson
+  sort_name: Robinson, Fenton
+  legacy_path: /artist/fenton-robinson/
+  resources: []
+- id: 549
+  slug: hound-dog-taylor
+  name: Hound Dog Taylor
+  sort_name: Taylor, Hound Dog
+  legacy_path: /artist/hound-dog-taylor/
+  resources: []
+- id: 550
+  slug: jerry-mccain
+  name: Jerry "Boogie" McCain
+  sort_name: McCain, Jerry "Boogie"
+  legacy_path: /artist/jerry-mccain/
+  resources: []
+- id: 551
+  slug: jimmy-mccracklin
+  name: Jimmy McCracklin
+  sort_name: McCracklin, Jimmy
+  legacy_path: /artist/jimmy-mccracklin/
+  resources: []
+- id: 552
+  slug: joanna-connor
+  name: Joanna Connor
+  sort_name: Connor, Joanna
+  legacy_path: /artist/joanna-connor/
+  resources: []
+- id: 553
+  slug: mojo-buford
+  name: Mojo Buford
+  sort_name: Buford, Mojo
+  legacy_path: /artist/mojo-buford/
+  resources: []
+- id: 554
+  slug: syl-johnson
+  name: Syl Johnson
+  sort_name: Johnson, Syl
+  legacy_path: /artist/syl-johnson/
+  resources: []
+- id: 555
+  slug: mahalia-jackson
+  name: Mahalia Jackson
+  sort_name: Jackson, Mahalia
+  legacy_path: /artist/mahalia-jackson/
+  resources: []
+- id: 556
+  slug: mose-allison
+  name: Mose Allison
+  sort_name: Allison, Mose
+  legacy_path: /artist/mose-allison/
+  resources: []
+- id: 557
+  slug: odetta
+  name: Odetta
+  sort_name: Odetta
+  legacy_path: /artist/odetta/
+  resources: []
+- id: 558
+  slug: jimmy-rushing
+  name: Jimmy Rushing
+  sort_name: Rushing, Jimmy
+  legacy_path: /artist/jimmy-rushing/
+  resources: []
+- id: 559
+  slug: jimmy-smith
+  name: Jimmy Smith
+  sort_name: Smith, Jimmy
+  legacy_path: /artist/jimmy-smith/
+  resources: []
+- id: 560
+  slug: dee-dee-bridgewater
+  name: Dee Dee Bridgewater
+  sort_name: Bridgewater, Dee Dee
+  legacy_path: /artist/dee-dee-bridgewater/
+  resources: []
+- id: 561
+  slug: charlie-rich
+  name: Charlie Rich
+  sort_name: Rich, Charlie
+  legacy_path: /artist/charlie-rich/
+  resources: []
+- id: 562
+  slug: spider-john-koerner
+  name: Spider John Koerner
+  sort_name: Koerner, Spider John
+  legacy_path: /artist/spider-john-koerner/
+  resources: []
+- id: 563
+  slug: chris-thomas-king
+  name: Chris Thomas King
+  sort_name: King, Chris Thomas
+  legacy_path: /artist/chris-thomas-king/
+  resources: []
+- id: 564
+  slug: hank-shizzoe
+  name: Hank Shizzoe
+  sort_name: Shizzoe, Hank
+  legacy_path: /artist/hank-shizzoe/
+  resources: []
+- id: 565
+  slug: ian-siegal
+  name: Ian Siegal
+  sort_name: Siegal, Ian
+  legacy_path: /artist/ian-siegal/
+  resources: []
+- id: 566
+  slug: john-lee-hooker-jr
+  name: John Lee Hooker Jr.
+  sort_name: Hooker, John Lee (Jr.)
+  legacy_path: /artist/john-lee-hooker-jr/
+  resources: []
+- id: 567
+  slug: jonny-lang
+  name: Jonny Lang
+  sort_name: Lang, Jonny
+  legacy_path: /artist/jonny-lang/
+  resources: []
+- id: 568
+  slug: robert-randolph
+  name: Robert Randolph
+  sort_name: Randolph, Robert
+  legacy_path: /artist/robert-randolph/
+  resources: []
+- id: 569
+  slug: super-chikan
+  name: Super Chikan
+  sort_name: Super Chikan
+  legacy_path: /artist/super-chikan/
+  resources: []
+- id: 570
+  slug: susan-tedeschi
+  name: Susan Tedeschi
+  sort_name: Tedeschi, Susan
+  legacy_path: /artist/susan-tedeschi/
+  resources: []
+- id: 571
+  slug: paul-rodgers
+  name: Paul Rodgers
+  sort_name: Rodgers, Paul
+  legacy_path: /artist/paul-rodgers/
+  resources: []
+- id: 572
+  slug: mick-fleetwood-blues-band
+  name: Mick Fleetwood Blues Band
+  sort_name: Fleetwood, Mick (Blues Band)
+  legacy_path: /artist/mick-fleetwood-blues-band/
+  resources: []
