@@ -2,20 +2,24 @@
 """
 Generate _redirects file for Cloudflare Pages.
 
+⚠️  DO NOT RUN unless you know what you're doing.
+The live `_redirects` is hand-maintained and intentionally avoids the
+broad catch-all rules this script emits (notably `/data/*  /  302`,
+which swallows `/data/calendar/MM-DD.json` and breaks the calendar
+widget). Running this overwrites curated entries (sitemap rewrites,
+/review/author/, /fedor/anagrams, /allthatb.htm, /band/* fixes, etc.).
+
+If you need to add migration redirects (e.g. from
+data/album-migration-redirects.yaml), append them manually to
+`_redirects` instead.
+
 Legacy URL patterns on blues.ru:
   /data/albumview.aspx?cdid=N  → /review/{slug}/
   /data/artistview.aspx?aid=N  → /artist/{legacy_dir}/
 
-Cloudflare Pages _redirects supports one-line-per-URL query string matching
-using the format: /path?param=value  /target  301
-We generate one line per album/artist ID.
-
-Also generates:
-  albumview-redirects.csv  — Cloudflare bulk redirect CSV (same data)
-  artistview-redirects.csv — Cloudflare bulk redirect CSV (same data)
-  cloudflare-rules.txt     — notes for transforms that need dashboard config
-
-Run from /Users/fedor/bluesru/
+The albumview-redirects.csv / artistview-redirects.csv outputs ARE still
+useful (consumed by `redirects.json` middleware), so re-running the
+CSV-generation portion alone is fine.
 """
 
 import yaml
