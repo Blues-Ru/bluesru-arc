@@ -7,9 +7,9 @@ date: '1998-09-21'
 Зарегистрировано <b>30000</b>
     посетителей. В день к нам заходит в
     среднем 73 человека.
-Музыка <a href="/bluesmen/Long_John_Hunter/Long_John_Hunter.htm">John
+Музыка <a href="/artist/long-john-hunter/long-john-hunter.html">John
     Long Hunter</a>.
-На <a href="/bluesmen/Vidar_Busk/Vidar_Busk.htm">странице о
+На <a href="/artist/vidar-busk/vidar-busk.html">странице о
     Vidar Busk</a> появилась ссылка на часовой
     концерт в формате Real-Audio
 Изменения на <a href="show.htm">странице о

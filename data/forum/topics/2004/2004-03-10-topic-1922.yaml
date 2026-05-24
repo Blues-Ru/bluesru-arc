@@ -12,7 +12,7 @@ posts:
   email: fedor@blues.ru
   subject: John Mayall на Notodden Blues Festival 2004
   deleted: false
-  text: http://blues.ru/blog/fedor/posts/332.aspx
+  text: /blog/fedor/posts/332.aspx
   replies:
   - id: 17570
     parent_id: 17569

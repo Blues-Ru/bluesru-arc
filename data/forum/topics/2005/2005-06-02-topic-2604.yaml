@@ -233,7 +233,7 @@ posts:
                     email: evdokimov@blues.ru
                     subject: когда блюз-вундеркинды пройдут маршем,
                     deleted: false
-                    text: "меня не будет в их рядах. \n\n<a href=\"http://www.blues.ru/news/?p=200506#186\">http://www.blues.ru/news/?p=200506#186</a>"
+                    text: "меня не будет в их рядах. \n\n<a href=\"/news/?p=200506#186\">/news/?p=200506#186</a>"
                     inferred_person_id: 4
                   person_id: 2888
                 inferred_person_id: 13

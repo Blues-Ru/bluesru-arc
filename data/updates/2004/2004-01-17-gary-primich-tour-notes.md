@@ -4,5 +4,5 @@ title: Заметка о гастролях Гэри Примича ,
 date: '2004-01-17'
 ---
 
-<a href="/bluesmen/Gary_Primich/EJ-evdokimov.aspx"><b>Заметка о гастролях
+<a href="/artist/gary-primich/ej-evdokimov.html"><b>Заметка о гастролях
 Гэри Примича</b></a>, написанная Андреем Евдокимовым для <b>Еженедельного Журнала</b>.

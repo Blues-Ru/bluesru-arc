@@ -67,7 +67,7 @@ posts:
               email: Эльдар
               subject: ABC, FBI, CIA, BBC, BBKing, RnB, TCCP
               deleted: false
-              text: нынче я за <a href="http://www.blues.ru/forum/?id=54571&page=1&body=1#54571">FSB</a>
+              text: нынче я за <a href="/forum/?id=54571&page=1&body=1#54571">FSB</a>
               replies:
               - id: 34004
                 parent_id: 34001

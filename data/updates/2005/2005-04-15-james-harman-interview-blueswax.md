@@ -4,5 +4,5 @@ title: Интервью Боба Морголина с James Harman специа
 date: '2005-04-15'
 ---
 
-<b><a href="/bluesmen/James_Harman/James_Harman_interview.htm">Интервью Боба Морголина</a></b> с <b><a href="/bluesmen/James_Harman/">James Harman</a></b> 
+<b><a href="/artist/james-harman/james-harman-interview.html">Интервью Боба Морголина</a></b> с <b><a href="/artist/james-harman/">James Harman</a></b> 
 специально для журнала <a href="http://www.blueswax.com"><i><b>BluesWax</b></i></a> в переводе Арсена Шомахова.

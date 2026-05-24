@@ -41,7 +41,7 @@ posts:
 
       "На русском играй!"
 
-      http://www.blues.ru/forum/?id=54058&page=1&body=1#54058'
+      /forum/?id=54058&page=1&body=1#54058'
     replies:
     - id: 33595
       parent_id: 33594

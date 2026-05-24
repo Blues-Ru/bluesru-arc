@@ -4,4 +4,4 @@ title: Пресс-релиз , посвященный группе Eirik Bergene
 date: '2004-02-12'
 ---
 
-<a href="/bluesmen/Eirik_Bergene/"><b>Пресс-релиз</b></a>, посвященный группе <b>Eirik Bergene Band</b>.
+<a href="/artist/eirik-bergene/"><b>Пресс-релиз</b></a>, посвященный группе <b>Eirik Bergene Band</b>.

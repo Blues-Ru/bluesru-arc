@@ -584,7 +584,7 @@ posts:
     email: evdokimov@blues.ru
     subject: вот такие люди к нам презжают
     deleted: false
-    text: <a href="/bluesnews/04Winter/0123P/0123P2.html">http://www.blues.ru/bluesnews/04Winter/0123P/0123P2.html</a>
+    text: <a href="/bluesnews/04Winter/0123P/0123P2.html">/bluesnews/04Winter/0123P/0123P2.html</a>
     person_id: 4
   - id: 16968
     parent_id: 16914
@@ -630,6 +630,6 @@ posts:
     email: evdokimov@blues.ru
     subject: еще набор фоток
     deleted: false
-    text: <a href="/bluesnews/04Winter/0124P/0124Primich.htm">http://www.blues.ru/bluesnews/04Winter/0124P/0124Primich.htm</a>
+    text: <a href="/bluesnews/04Winter/0124P/0124Primich.htm">/bluesnews/04Winter/0124P/0124Primich.htm</a>
     person_id: 4
   inferred_person_id: 204

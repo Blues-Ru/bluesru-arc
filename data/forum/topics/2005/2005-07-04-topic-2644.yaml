@@ -50,7 +50,7 @@ posts:
       text: 'Как раз сидел, слушал BBB, и именно в mp3 ;) Вот ссылка, закачал временно на блюз.ру, скоро оттуда снесу, так что лучше забрать и переименовать
 
 
-        http://www.blues.ru/zzz/stormy-monday-blues.mp3'
+        /zzz/stormy-monday-blues.mp3'
       inferred_person_id: 2
     - id: 21952
       parent_id: 21949

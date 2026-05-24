@@ -19,4 +19,4 @@ author: Андрей Евдокимов
 
 <small>Познавательный фильм (на английском): <a href="http://youtu.be/dVhuP45zioE" target="_blank">http://youtu.be/dVhuP45zioE</a>
 
-<a href="http://www.blues.ru/forum/topic4726" target="_blank">Видео >>></a></small>
+<a href="/forum/topic4726" target="_blank">Видео >>></a></small>

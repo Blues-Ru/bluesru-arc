@@ -23,7 +23,7 @@ posts:
     deleted: false
     text: 'Вот предварительная ссылка:
 
-      http://www.blues.ru/bluesmen/Blues_Harp_Melt_Down/'
+      /artist/blues-harp-melt-down/'
     inferred_person_id: 2
   - id: 19802
     parent_id: 19776

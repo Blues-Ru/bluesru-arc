@@ -4,7 +4,7 @@ title: Почти полное собрание текстов Stevie Ray Vaugha
 date: '1998-01-30'
 ---
 
-Почти полное собрание <a href="/bluesmen/Stevie_Ray_Vaughan/Stevie_Ray_Vaughan_lyr.htm">текстов
+Почти полное собрание <a href="/artist/stevie-ray-vaughan/stevie-ray-vaughan-lyr.html">текстов
     Stevie Ray Vaughan</a>
 <a href="book/b17.htm">17 глава &quot;Zydeco&quot;</a> книги
     Пола Оливера <a href="/book/">&quot;Блюз&quot;</a>

@@ -4,4 +4,4 @@ title: Karmen Moxie и Hot Rod Петрович Band в Доме у Дороги
 date: '2012-06-10'
 ---
 
-Karmen Moxie и Hot Rod Петрович Band в Доме у Дороги, 14.VI.2012. <a href="http://www.blues.ru/bluesnews/_12A/12_06_15_Moxie/"><b><i>Три дюжины фотографий >>></i></b></a>
+Karmen Moxie и Hot Rod Петрович Band в Доме у Дороги, 14.VI.2012. <a href="/bluesnews/_12A/12_06_15_Moxie/"><b><i>Три дюжины фотографий >>></i></b></a>

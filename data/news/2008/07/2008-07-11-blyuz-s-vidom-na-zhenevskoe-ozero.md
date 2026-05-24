@@ -5,7 +5,7 @@ date: '2008-07-11'
 author: Андрей Евдокимов
 ---
 
-<small> 7 и 9 июля чикагский блюзовый босс, гитарист и вокалист <a href="/bluesmen/Buddy_Guy/">Бадди Гай</a> выступал в рамках 42-го по счету Montreux Jazz Festival - одного из самых престижных музыкальных фестивалей мира. БОРИС БАРАБАНОВ дал свое описание выступлений на фестивале Бадди Гая и группы The Raconteurs (возглавляемой Джеком Уайтом из группы The White Stripes в газете <a href="http://www.kommersant.ru/doc-y.aspx?DocsID=910853" target="_blank">"Коммерсантъ" № 118(3935) от 10.07.2008</a>.</small>
+<small> 7 и 9 июля чикагский блюзовый босс, гитарист и вокалист <a href="/artist/buddy-guy/">Бадди Гай</a> выступал в рамках 42-го по счету Montreux Jazz Festival - одного из самых престижных музыкальных фестивалей мира. БОРИС БАРАБАНОВ дал свое описание выступлений на фестивале Бадди Гая и группы The Raconteurs (возглавляемой Джеком Уайтом из группы The White Stripes в газете <a href="http://www.kommersant.ru/doc-y.aspx?DocsID=910853" target="_blank">"Коммерсантъ" № 118(3935) от 10.07.2008</a>.</small>
 
 <b>Блюз с видом на Женевское озеро</b>
 
@@ -25,4 +25,4 @@ Montreux Jazz Festival - на сегодня самый представител
 
 <small>Любительские видео о хождении Бадди Гая в народ на фестивале Монтре-2008 можно найти и на ютубе: <a href= http://www.youtube.com/results?search_query=montreux+jazz+08+buddy+guy&search_type=&aq=f target="_blank"> http://www.youtube.com/results?search_query=montreux+jazz+08+buddy+guy&search_type=&aq=f </a>.
 
-7 июля в большом Зале Auditorium Stravinski в рамках фестиваля проходил "Вечер блюза", в котором, кроме Бадди Гая, приняли участие знакомые московским любителям блюза <a href="/data/artistview.aspx?aid=194">Отис Тейлор</a>, <a href="/bluesmen/Gary_Moore/">Гэри Мур</a>, и знакомый все еще лишь заочно "отец британского блюза" <a href="/bluesmen/John_Mayall/">Джон Мэйолл</a>.<a href="http://www.montreuxjazz.com/photos/photos_fr.aspx?v=1&d=3" target="_blank"> Официальный фоторепортаж на сайте фестиваля</a>. </small>
+7 июля в большом Зале Auditorium Stravinski в рамках фестиваля проходил "Вечер блюза", в котором, кроме Бадди Гая, приняли участие знакомые московским любителям блюза <a href="/artist/otis-taylor/">Отис Тейлор</a>, <a href="/artist/gary-moore/">Гэри Мур</a>, и знакомый все еще лишь заочно "отец британского блюза" <a href="/artist/john-mayall/">Джон Мэйолл</a>.<a href="http://www.montreuxjazz.com/photos/photos_fr.aspx?v=1&d=3" target="_blank"> Официальный фоторепортаж на сайте фестиваля</a>. </small>

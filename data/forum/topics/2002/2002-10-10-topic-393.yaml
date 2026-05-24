@@ -325,7 +325,7 @@ posts:
                 email: blackcat@blues.ru
                 subject: да я знаю...
                 deleted: false
-                text: '... Уильяма Харриса, у меня он <a href="http://www.blues.ru/BlackCat/wh.htm" target="_blank">тут</a>.
+                text: '... Уильяма Харриса, у меня он <a href="/BlackCat/wh.htm" target="_blank">тут</a>.
 
                   Явлений природы особых было не отмечено, но зато в этот день на форуме блюз.ру был упомянут Уильям Харрис! :)))'
                 inferred_person_id: 6

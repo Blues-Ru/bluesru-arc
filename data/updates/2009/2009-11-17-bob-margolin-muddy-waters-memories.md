@@ -4,4 +4,4 @@ title: 'Боб Марголин: воспоминания о Мадди Уоте
 date: '2009-11-17'
 ---
 
-Боб Марголин: <a href="/bluesmen/Muddy_Waters/Margolin.htm"><b>воспоминания о Мадди Уотерсе</b></a>.
+Боб Марголин: <a href="/artist/muddy-waters/margolin.html"><b>воспоминания о Мадди Уотерсе</b></a>.

@@ -21,7 +21,7 @@ posts:
     email: morozzz_ded@mail.ru
     subject: '!'
     deleted: false
-    text: http://blues.ru/forum/?id=56415&page=0&body=1#56415
+    text: /forum/?id=56415&page=0&body=1#56415
     replies:
     - id: 35703
       parent_id: 35702

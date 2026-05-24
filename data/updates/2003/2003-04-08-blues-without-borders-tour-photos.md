@@ -4,4 +4,4 @@ title: Блюз Без Границ и московские гастроли Big
 date: '2003-04-08'
 ---
 
-Блюз Без Границ и московские гастроли Big Blues Revival и Pera Joe <a href="http://www.blues.ru/bluesnews/03Spring/03Spring.htm"><b>в фотографиях</b></a>.
+Блюз Без Границ и московские гастроли Big Blues Revival и Pera Joe <a href="/bluesnews/03Spring/03Spring.htm"><b>в фотографиях</b></a>.

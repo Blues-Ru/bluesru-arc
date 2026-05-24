@@ -70,7 +70,7 @@ posts:
     email: lifebythedrop@yandex.ru
     subject: О том как хвост виляет собакой
     deleted: false
-    text: http://blues.ru/forum/?id=23468&page=0&body=1#23468, Особенно вторая половина сообщения про 2 километра и далее. Вам не кажется... А?
+    text: /forum/?id=23468&page=0&body=1#23468, Особенно вторая половина сообщения про 2 километра и далее. Вам не кажется... А?
     replies:
     - id: 8532
       parent_id: 8529

@@ -4,4 +4,4 @@ title: 'Заппазуха #42   Ноги вверх'
 date: '2003-01-16'
 ---
 
-Заппазуха #42 <A HREF="http://www.blues.ru/zappazuhoi/12jan03.htm">Ноги вверх</A>
+Заппазуха #42 <A HREF="/zappazuhoi/12jan03.htm">Ноги вверх</A>

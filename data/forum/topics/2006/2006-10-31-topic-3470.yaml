@@ -42,7 +42,7 @@ posts:
     email: evdokimov@blues.ru
     subject: саундчек в москве
     deleted: false
-    text: <a href="/bluesnews/Efes06/Ef061/index.html">http://blues.ru/bluesnews/Efes06/Ef061/index.html</a>
+    text: <a href="/bluesnews/Efes06/Ef061/index.html">/bluesnews/Efes06/Ef061/index.html</a>
     replies:
     - id: 29274
       parent_id: 29271

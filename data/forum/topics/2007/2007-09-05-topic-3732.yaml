@@ -32,7 +32,7 @@ posts:
       deleted: false
       text: 'Андрей, пожалуйста ответь:
 
-        http://www.blues.ru/forum/?id=54055&page=0&body=1#54055'
+        /forum/?id=54055&page=0&body=1#54055'
       inferred_person_id: 7202
     - id: 33445
       parent_id: 33440

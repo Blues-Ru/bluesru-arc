@@ -51,4 +51,4 @@ Producer of the Year - New Recording<br> Randy Chortkoff - Delta Groove Producti
 
 Producer of the Year - Historical/Reissue<br> Lance Ledbetter - Dust To Digital
 
-Напомним, что Бобби Раш выступал в Москве в 1999 году, в программе Efes Blues Festival. А <a href="http://www.blues.ru/bluesmen/Lurrie_Bell/">Лури Белл</a> и <a href="http://www.blues.ru/afisha/Stroger.htm">Боб Строгер</a> выступали в 2006 году в клубе <a href="http://www.roadhouse.ru/">"Дом у Дороги"</a>.
+Напомним, что Бобби Раш выступал в Москве в 1999 году, в программе Efes Blues Festival. А <a href="/artist/lurrie-bell/">Лури Белл</a> и <a href="/afisha/Stroger.htm">Боб Строгер</a> выступали в 2006 году в клубе <a href="http://www.roadhouse.ru/">"Дом у Дороги"</a>.

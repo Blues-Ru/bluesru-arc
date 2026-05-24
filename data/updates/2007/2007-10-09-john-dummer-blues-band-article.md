@@ -4,4 +4,4 @@ title: Статья Сергея Исправникова о John Dummer Blues B
 date: '2007-10-09'
 ---
 
-Статья Сергея Исправникова о <a href="/bluesmen/John_Dummer/"><b>John Dummer Blues Band</b></a>.
+Статья Сергея Исправникова о <a href="/artist/john-dummer/"><b>John Dummer Blues Band</b></a>.

@@ -4,5 +4,5 @@ title: В разделе &quot;Preachin' Blues&quot; новый перевод �
 date: '2001-01-31'
 ---
 
-В разделе <a href="http://www.blues.ru/BlackCat/preach.htm">&quot;Preachin' Blues&quot;</a> новый перевод Салавата Галиева - большая статья Джэса Обрека <a href="http://www.blues.ru/BlackCat/preblues.htm">&quot;Доблюзовые 
+В разделе <a href="/BlackCat/preach.htm">&quot;Preachin' Blues&quot;</a> новый перевод Салавата Галиева - большая статья Джэса Обрека <a href="/BlackCat/preblues.htm">&quot;Доблюзовые 
   афро-американские пионеры звукозаписи&quot;</a> со множеством интереснейших исторических фактов.

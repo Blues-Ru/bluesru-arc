@@ -47,7 +47,7 @@ author: Blues.Ru
 
 <i>Дополнения от блюз.ру</i>
 
-В состав гастрольного ансамбля входит басист Ларри Тейлор (один из основателей группы <a href="/bluesmen/Canned_Heat/">Canned Heat</a>), с которым Уэйтса связывает давняя дружба по жизни и в творчестве. Другие участники: Omar Torrez (guitar), Patrick Warren (keyboards), Casey Waits (drums and percussion) и Vincent Henry (saxes, harmonica and guitar).
+В состав гастрольного ансамбля входит басист Ларри Тейлор (один из основателей группы <a href="/artist/canned-heat/">Canned Heat</a>), с которым Уэйтса связывает давняя дружба по жизни и в творчестве. Другие участники: Omar Torrez (guitar), Patrick Warren (keyboards), Casey Waits (drums and percussion) и Vincent Henry (saxes, harmonica and guitar).
 
 "Они быстры и точны, как автогонщики, они настоящие кудесники. Я с исполняю песни, которые никогда бы не стал вне студии. Они все мультиинструменталисты. Польку они танцуют, как настоящие мужики," - объяснил Уэйтс выбор состава.
 

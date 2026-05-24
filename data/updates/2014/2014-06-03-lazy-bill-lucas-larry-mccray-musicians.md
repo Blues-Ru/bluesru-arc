@@ -4,4 +4,4 @@ title: В справочник "Музыканты" добавлены стра�
 date: '2014-06-03'
 ---
 
-В справочник "Музыканты" добавлены страницы <a href="/bluesmen/Lazy_Bill_Lucas/"><b>Lazy Bill Lucas</b></a> и <a href="/bluesmen/Larry_McCray/"><b>Larry McCray</b></a>.
+В справочник "Музыканты" добавлены страницы <a href="/artist/lazy-bill-lucas/"><b>Lazy Bill Lucas</b></a> и <a href="/artist/larry-mccray/"><b>Larry McCray</b></a>.

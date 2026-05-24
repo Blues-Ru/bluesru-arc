@@ -174,7 +174,7 @@ posts:
                         email: blackcat@blues.ru
                         subject: Фёдор, ты только сам не серчай :)
                         deleted: false
-                        text: 'Предложение было <a href="http://www.blues.ru/forum/?id=38392&page=3&body=1#38392" target="_blank">такое</a>.
+                        text: 'Предложение было <a href="/forum/?id=38392&page=3&body=1#38392" target="_blank">такое</a>.
 
                           В каждой шутке есть доля шутки, и потом клин клином вышибают :)
 

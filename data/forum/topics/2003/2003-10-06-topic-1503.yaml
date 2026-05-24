@@ -43,4 +43,4 @@ posts:
     email: '@@@@@'
     subject: Но
     deleted: false
-    text: <img src="http://www.blues.ru/calendar/1226SHORT.jpg" align="bottom">
+    text: <img src="/calendar/1226SHORT.jpg" align="bottom">

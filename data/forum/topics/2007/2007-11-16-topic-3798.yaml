@@ -38,9 +38,9 @@ posts:
     email: evdokimov@blues.ru
     subject: Не ЦДХ, но его участники
     deleted: false
-    text: 'Norwegian Blues Explosion В Доме у Дороги: <a href="http://blues.ru/bluesnews/07automn/Tinderholt/index.html">http://blues.ru/bluesnews/07automn/Tinderholt/index.html</a>
+    text: 'Norwegian Blues Explosion В Доме у Дороги: <a href="/bluesnews/07automn/Tinderholt/index.html">/bluesnews/07automn/Tinderholt/index.html</a>
 
-      Blues Culture в БиБиКинге: <a href="http://blues.ru/bluesnews/07automn/baker/index.html">http://blues.ru/bluesnews/07automn/baker/index.html</a>'
+      Blues Culture в БиБиКинге: <a href="/bluesnews/07automn/baker/index.html">/bluesnews/07automn/baker/index.html</a>'
     replies:
     - id: 33916
       parent_id: 33912

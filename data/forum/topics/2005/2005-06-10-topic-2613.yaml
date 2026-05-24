@@ -15,7 +15,7 @@ posts:
   text: 'Боб любезно разрешил переводить его уроки и вешать на блюз.ру. Арсен перевел первый урок, спасибо Арсену!
 
 
-    http://www.blues.ru/lessons/brozman_tip_slide.htm'
+    /lessons/brozman_tip_slide.htm'
   replies:
   - id: 21710
     parent_id: 21706

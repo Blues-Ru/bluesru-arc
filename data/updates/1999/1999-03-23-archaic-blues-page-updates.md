@@ -23,16 +23,16 @@ date: '1999-03-23'
     Новостям</strong></a> под редакцией <a href="mailto:evdokimov@blues.ru"><strong>Андре
     Евдокимова</strong></a>. В том числе,
     специальный отзыв о пластинке блюзовых
-    легенд <strong><a href="/bluesmen/Pinetop_Perkins/Perkins_Sumlin.htm">Pinetop
-    Perkins и Hubert Sumlin</a> </strong>и полемическая <a href="/bluesmen/Otis_Rush/RushGrammy.htm">стать
-    о премии Грэмми</a> по случаю выдачи ее <strong><a href="/bluesmen/Otis_Rush/RushGrammy.htm">Отису
+    легенд <strong><a href="/artist/pinetop-perkins/perkins-sumlin.html">Pinetop
+    Perkins и Hubert Sumlin</a> </strong>и полемическая <a href="/artist/otis-rush/rushgrammy.html">стать
+    о премии Грэмми</a> по случаю выдачи ее <strong><a href="/artist/otis-rush/rushgrammy.html">Отису
     Рашу</a>.</strong>
-Интересные и развернутые статьи об <strong><a href="/bluesmen/Albert_Collins/Albert_Collins.htm">Albert
+Интересные и развернутые статьи об <strong><a href="/artist/albert-collins/albert-collins.html">Albert
     Collins</a></strong> и <a href="/bluesmen/Freddy_King/Freddy_King.htm"><strong>Freddy
     King</strong></a> в переводе и редакции нашего
     специального корреспондента <strong>mikewhy.</strong>
 Статья Андрея Евдокимова о великолепном
-    слайдовом гитаристе <strong><a href="/bluesmen/Paul_Black/Paul_Black.htm">Paul
+    слайдовом гитаристе <strong><a href="/artist/paul-black/paul-black.html">Paul
     Black и его группе The Flip Kings</a></strong>. Paul Black за
     свою музыкальную карьеру выпустил всего
     одну пластинку, однако она наделала много
@@ -40,7 +40,7 @@ date: '1999-03-23'
     своим несомненным достоинствам. - <strong>BLUES.RU
     РЕКОМЕНДУЕТ К ПРОСЛУШИВАНИЮ!!!</strong>
 Статья об Аллигаторовском блюзовом
-    гитаристе <strong><a href="/bluesmen/Michael_Hill/Michael_Hill.htm">Michael
+    гитаристе <strong><a href="/artist/michael-hill/michael-hill.html">Michael
     Hill</a>. </strong>Перепечатано из<a href="http://www.nestor.minsk.by/jz">
     <strong>журнала Джаз-Квадрат</a>.</strong>
 <a href="http://www.Mark.Mader.com"><img src="/images/BofB.gif" alt="Best Of The Blues Website Award" align="right" hspace="2" vspace="2" border="0" width="59" height="80"></a>Наш

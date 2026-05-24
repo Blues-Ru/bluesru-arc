@@ -27,7 +27,7 @@ author: Андрей Евдокимов
 
 <a href="/bluesnews/08Winter/08_Duarte/content/index.html">Концерт и джем. Фоторепортаж</a>.
 
-<a href="/bluesmen/Chris_Duarte">О Крисе Дюарте на Блюз-Ру</a>.
+<a href="/artist/chris-duarte/">О Крисе Дюарте на Блюз-Ру</a>.
 
 <a href="http://users.livejournal.com/pigger_/186537.html" target="_blank">Blues Pigger рассказывает в ЖЖ о концерте и джеме</a>.
 

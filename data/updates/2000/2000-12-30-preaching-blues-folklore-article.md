@@ -4,4 +4,4 @@ title: MEAN BLACK CAT в разделе Preachin' Blues публикует ст�
 date: '2000-12-30'
 ---
 
-<b>MEAN BLACK CAT</b> в разделе <a href="http://www.blues.ru/BlackCat/preach.htm">Preachin' Blues</a> публикует статью Ричи Унтербергера <a href="http://www.blues.ru/BlackCat/folklore.htm"><b>Блюз как составная часть фольклора</b></a>.
+<b>MEAN BLACK CAT</b> в разделе <a href="/BlackCat/preach.htm">Preachin' Blues</a> публикует статью Ричи Унтербергера <a href="/BlackCat/folklore.htm"><b>Блюз как составная часть фольклора</b></a>.

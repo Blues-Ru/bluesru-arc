@@ -18,11 +18,11 @@ date: '1999-07-08'
 <strong><a href="http://fuzz.ru"><img src="/images/fuzz_1.gif" alt="Награда журнала FUZZ. Лучший музыкальный сайт апреля." align="right" border="0" hspace="4" vspace="4" width="73" height="61"></a></strong>Наш
     сайт получил награду журнала <strong><a href="http://fuzz.ru">FUZZ</a>
     Лучший музыкальный сайт апреля.</strong>
-Статья о <strong><a href="/bluesmen/Jimmy_Reed/Jimmy_Reed.htm">Jimmy
+Статья о <strong><a href="/artist/jimmy-reed/jimmy-reed.html">Jimmy
     Reed</a></strong> в переводе <strong>mikewhy</strong>.
 Большая статья Олега Усманова с
     дискографией, посвященная известному
-    слайдовому гитаристу <a href="/bluesmen/Ry_Cooder/Ry_Cooder.htm"><strong>Ry
+    слайдовому гитаристу <a href="/artist/ry-cooder/ry-cooder.html"><strong>Ry
     Cooder</strong></a>. Перепечатана из журнала Music Box,
     предоставлена Алексеем Макаровым.
 Статьи из журнала Music Box, предоставленные
@@ -38,5 +38,5 @@ date: '1999-07-08'
     Аграновского Черный Хлеб</strong></a> с <a href="rblues/Dr_Agranovsky/Dr_Agranovsky.htm#music">музыкой</a>
     на <a href="rblues/Dr_Agranovsky/Dr_Agranovsky.htm">русском</a> и <a href="rblues/Dr_Agranovsky/Dr_Agranovsky_eng.htm">английском</a>
     языках.
-Добавления и исправления на странице <strong><a href="/bluesmen/Stevie_Ray_Vaughan/Stevie_Ray_Vaughan_lyr.htm">текстов
+Добавления и исправления на странице <strong><a href="/artist/stevie-ray-vaughan/stevie-ray-vaughan-lyr.html">текстов
     Stevie Ray Vaughan</a></strong>.&nbsp;&nbsp;&nbsp;&nbsp; <em>.</em>

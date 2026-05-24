@@ -12,7 +12,7 @@ posts:
   email: dr.nick@blues.ru
   subject: вот этот альбом очень всем советую купить!
   deleted: false
-  text: http://www.blues.ru/data/albumview.aspx?cdid=838
+  text: /artist/harvey-mandel/baby-batter/
   replies:
   - id: 23050
     parent_id: 23048

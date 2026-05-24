@@ -12,7 +12,7 @@ posts:
   email: evdokimov@blues.ru
   subject: а вот и повод!
   deleted: false
-  text: Миша, дорогой, рости большой... и взращивай свой славный и очень нам нужный сайт! <a href="http://www.blues.ru/BlackCat/">http://www.blues.ru/BlackCat/</a>
+  text: Миша, дорогой, рости большой... и взращивай свой славный и очень нам нужный сайт! <a href="/BlackCat/">/BlackCat/</a>
   replies:
   - id: 8883
     parent_id: 8882

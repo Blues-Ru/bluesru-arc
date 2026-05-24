@@ -4,4 +4,4 @@ title: 'Алексей Щеголев продолжает серию интер
 date: '2011-03-23'
 ---
 
-Алексей Щеголев продолжает <a href="/bluesmen/Arsen_Shomakhov/">серию</a> интервью с канадскими блюзменами: <b><a href="/bluesmen/JW-Jones/">JW-Jones</a></b>.
+Алексей Щеголев продолжает <a href="/artist/arsen-shomakhov/">серию</a> интервью с канадскими блюзменами: <b><a href="/artist/jw-jones/">JW-Jones</a></b>.

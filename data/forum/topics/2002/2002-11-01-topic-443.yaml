@@ -106,7 +106,7 @@ posts:
           email: evdokimov@blues.ru
           subject: первая клубничка на блюз-ре
           deleted: false
-          text: <a href="http://www.blues.ru/bbking/HW_02/pages/hDSCN2645.htm">http://www.blues.ru/bbking/HW_02/pages/hDSCN2645.htm</a>
+          text: <a href="/bbking/HW_02/pages/hDSCN2645.htm">/bbking/HW_02/pages/hDSCN2645.htm</a>
           replies:
           - id: 8674
             parent_id: 8651

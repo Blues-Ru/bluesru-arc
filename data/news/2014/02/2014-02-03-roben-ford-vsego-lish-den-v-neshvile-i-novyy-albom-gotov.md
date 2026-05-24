@@ -15,4 +15,4 @@ author: Андрей Евдокимов
 
 а здесь про то, что пиво вкусное, но Робен его больше не пьет! <a href="http://www.youtube.com/watch?v=NdVcEf8bBio" target="_blank">http://www.youtube.com/watch?v=NdVcEf8bBio</a>
 
-Сегодня же официальный релиз мемфисского альбома Пола Роджерса http://blues.ru/news/2014/01/20/story1034/ и концертного альбома "Songs From the Road" певицы и гитаристки Joanne Shaw Taylor.
+Сегодня же официальный релиз мемфисского альбома Пола Роджерса /news/2014/01/20/story1034/ и концертного альбома "Songs From the Road" певицы и гитаристки Joanne Shaw Taylor.

@@ -4,4 +4,4 @@ title: Интервью журнала Blues Revue с Rick Estrin в перев�
 date: '2009-11-18'
 ---
 
-<a href="/bluesmen/Rick_Estrin/"><b>Интервью журнала Blues Revue с Rick Estrin</b></a> в переводе Андрея Евдокимова.
+<a href="/artist/rick-estrin/"><b>Интервью журнала Blues Revue с Rick Estrin</b></a> в переводе Андрея Евдокимова.

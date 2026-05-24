@@ -4,7 +4,7 @@ title: Появилась страница о гитаристе Roy Buchanan с
 date: '1998-10-02'
 ---
 
-Появилась страница о гитаристе <a href="/bluesmen/Roy_Buchanan/Roy_Buchanan.htm">Roy
+Появилась страница о гитаристе <a href="/artist/roy-buchanan/roy-buchanan.html">Roy
     Buchanan</a> со статьей Андрея Евдокимова,
     дискографией и несколькими песнями в
     формате Real Audio.

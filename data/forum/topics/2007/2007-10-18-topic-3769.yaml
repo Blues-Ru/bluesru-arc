@@ -70,7 +70,7 @@ posts:
     email: evdokimov@blues.ru
     subject: фотографии
     deleted: false
-    text: <a href="http://blues.ru/bluesnews/07automn/Tail/content/index.html">http://blues.ru/bluesnews/07automn/Tail/content/index.html</a>
+    text: <a href="/bluesnews/07automn/Tail/content/index.html">/bluesnews/07automn/Tail/content/index.html</a>
     replies:
     - id: 33689
       parent_id: 33688

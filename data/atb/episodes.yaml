@@ -213,8 +213,8 @@
   slug: atb-2015-09-07-memphis-slim
   topic: MemphisSlim
   description: 'Программа "Весь Этот Блюз" (в четырех частях) к 100-летию со дня рождения певца и пианиста Мемфиса Слима,
-    автора трех вечных блюзов: Everyday I Have the Blues, Mother Earth и Beer Drinking Woman. http://blues.ru/atb/atb_15_09_07_MemphisSlim_I.mp3
-    http://blues.ru/atb/atb_15_09_07_MemphisSlim_II.mp3 http://blues.ru/atb/atb_15_09_14_MemphisSlim_III.mp3 http://blues.ru/atb/atb_15_09_14_MemphisSlim_IV.mp3'
+    автора трех вечных блюзов: Everyday I Have the Blues, Mother Earth и Beer Drinking Woman. /atb/atb_15_09_07_MemphisSlim_I.mp3
+    /atb/atb_15_09_07_MemphisSlim_II.mp3 /atb/atb_15_09_14_MemphisSlim_III.mp3 /atb/atb_15_09_14_MemphisSlim_IV.mp3'
   summary: 'Мемфис Слим — части I/II: 100-летие певца и пианиста, чьи блюзы знает весь мир.'
   files:
   - filename: atb-2015-09-07-memphis-slim-part-1.mp3
@@ -247,8 +247,8 @@
   slug: atb-2015-09-14-memphis-slim
   topic: MemphisSlim
   description: 'Программа "Весь Этот Блюз" (в четырех частях) к 100-летию со дня рождения певца и пианиста Мемфиса Слима,
-    автора трех вечных блюзов: Everyday I Have the Blues, Mother Earth и Beer Drinking Woman. http://blues.ru/atb/atb_15_09_07_MemphisSlim_I.mp3
-    http://blues.ru/atb/atb_15_09_07_MemphisSlim_II.mp3 http://blues.ru/atb/atb_15_09_14_MemphisSlim_III.mp3 http://blues.ru/atb/atb_15_09_14_MemphisSlim_IV.mp3'
+    автора трех вечных блюзов: Everyday I Have the Blues, Mother Earth и Beer Drinking Woman. /atb/atb_15_09_07_MemphisSlim_I.mp3
+    /atb/atb_15_09_07_MemphisSlim_II.mp3 /atb/atb_15_09_14_MemphisSlim_III.mp3 /atb/atb_15_09_14_MemphisSlim_IV.mp3'
   summary: 100-летие Мемфиса Слима — автора «Everyday I Have The Blues». Части I–IV.
   files:
   - filename: atb-2015-09-14-memphis-slim-part-3.mp3
@@ -6096,7 +6096,7 @@
 - date: '2021-04-12'
   slug: atb-2021-04-12-big-walter-horton-100
   topic: Big Walter Horton 100th Anniversary
-  summary: 100-летие Big Walter Horton (Shakey Horton) — гарм��ниста чикагского блюза
+  summary: 100-летие Big Walter Horton (Shakey Horton) — гармониста чикагского блюза
   description: ''
   description_ai: true
   files:

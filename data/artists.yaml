@@ -540,7 +540,7 @@
   apple_music_id: '3827165'
   resources:
   - type: article
-    url: /bluesmen/Pinetop_Perkins/Perkins_Sumlin.htm
+    url: /artist/pinetop-perkins/perkins-sumlin.html
   - type: link
     url: /news/?p=201103#907
   - type: link
@@ -1130,7 +1130,7 @@
   apple_music_id: '903417'
   resources:
   - type: article
-    url: /bluesmen/Screamin_Jay_Hawkins/hawkins1.htm
+    url: /artist/screamin-jay-hawkins/hawkins1.html
   discogs_id: '160905'
 - id: 121
   slug: dave-specter
@@ -1181,7 +1181,7 @@
   spotify_id: 1h326qzz7iWiOsSMsKdupd
   resources:
   - type: interview
-    url: /bluesmen/Knockout_Greg/Knockout_Greg_interview.htm
+    url: /artist/knockout-greg/knockout-greg-interview.html
   discogs_id: '3624268'
 - id: 126
   slug: rod-piazza
@@ -1771,7 +1771,7 @@
   - type: article
     url: /efes/o_taylor.asp
   - type: article
-    url: /news/?iid=450
+    url: /news/2008/04/30/story450/
   discogs_id: '169847'
 - id: 195
   slug: delbert-mcclinton
@@ -2169,7 +2169,7 @@
   spotify_id: 1HjLWgUXQnX1kbZdY3uNHK
   resources:
   - type: link
-    url: /news/?iid=383
+    url: /news/2008/02/13/story383/
   - type: photos
     url: \/bluesnews/05Spring/PeraJoe/index.htm
   discogs_id: '1101217'
@@ -2356,7 +2356,7 @@
   spotify_id: 1bdAJUX6JPsnYHbTl5jbk6
   resources:
   - type: interview
-    url: http://www.blues.ru/news/?p=200807#520
+    url: /news/?p=200807#520
   discogs_id: '228862'
 - id: 263
   slug: elmore-james-jr
@@ -2391,9 +2391,9 @@
   spotify_id: 1fa0cOhromAZdq2xRA4vv8
   resources:
   - type: audio
-    url: http://blues.ru/news/?p=200806#482
+    url: /news/?p=200806#482
   - type: audio
-    url: http://blues.ru/news/?p=200806#498
+    url: /news/?p=200806#498
   discogs_id: '53685'
 - id: 268
   slug: bobby-blue-bland
@@ -2404,7 +2404,7 @@
   spotify_id: 48nwxUvPJZkm8uPa7xMzmj
   resources:
   - type: interview
-    url: http://www.blues.ru/forum/topic5088
+    url: /forum/topic5088
   discogs_id: '294687'
 - id: 269
   slug: willie-big-eyes-smith
@@ -2423,9 +2423,9 @@
   spotify_id: 7LdFlcnzWpySPKngmFCnLi
   resources:
   - type: article
-    url: http://www.blues.ru/efes/bobbyrush.asp
+    url: /efes/bobbyrush.asp
   - type: interview
-    url: http://www.blues.ru/efes/rushint.asp
+    url: /efes/rushint.asp
   discogs_id: '476365'
 - id: 271
   slug: bernard-allison

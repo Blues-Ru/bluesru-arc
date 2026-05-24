@@ -9,13 +9,13 @@ date: '1997-11-20'
     Hammer Band</a> совместно с Андреем Евдокимовым
     на международный фестиваль губной
     гармоники в г.Троссинген (Германия).
-<a href="/bluesmen/Allman_Brothers/shooting.htm">Братья Алманы
+<a href="/artist/allman-brothers/shooting.html">Братья Алманы
     в сногсшибательной гулянке со стрельбой
     в ногу!</a> - статья в переводе Андре
     Евдокимова о том, как Allman Brothers пытались
     избежать призыва. Перепечатано из
     журнала <a href="http://www.zabriski.ru"><strong>Zabriski Rider</strong></a>
-<a href="/bluesmen/Willie_Dixon/Willie_Dixon_lyr.htm">Тексты
+<a href="/artist/willie-dixon/willie-dixon-lyr.html">Тексты
     песен Willie Dixon'a</a>. (<em>Прим. редактора:</em>
     появились на сайте благодаря моему
     новому сканнеру ;)

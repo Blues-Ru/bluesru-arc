@@ -4,4 +4,4 @@ title: Пополнение MP3-архива Mean Black Cat Blues - 5 компо
 date: '2001-01-06'
 ---
 
-Пополнение MP3-архива <a href="http://www.blues.ru/BlackCat/"><b>Mean Black Cat Blues</b></a> - 5 композиций <b><a href="http://www.blues.ru/BlackCat/arch.htm#lc&sbmain">LEROY CARR и SCRAPPER BLACKWELL</a></b>.
+Пополнение MP3-архива <a href="/BlackCat/"><b>Mean Black Cat Blues</b></a> - 5 композиций <b><a href="/BlackCat/arch.htm#lc&sbmain">LEROY CARR и SCRAPPER BLACKWELL</a></b>.

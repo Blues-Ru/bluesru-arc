@@ -45,7 +45,7 @@ posts:
           date: 2004-05-01 15:03
           poster: Lars
           email: Lars@List.ru
-          subject: http://blues.ru/bbking/gigs.asp
+          subject: /bbking/gigs.asp
           deleted: false
           inferred_person_id: 1828
         person_id: 2888

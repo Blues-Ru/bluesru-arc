@@ -19,7 +19,7 @@ posts:
     poster: Andrei V. Evdokimov
     subject: 'я только что проверил: происк по сайту работает!'
     deleted: true
-    text: <a href="/news/?iid=669">http://www.blues.ru/news/?iid=669</a>
+    text: <a href="/news/2009/07/02/story669/">/news/2009/07/02/story669/</a>
     person_id: 4
   - id: 36576
     parent_id: 36574
@@ -27,7 +27,7 @@ posts:
     poster: Andrei V. Evdokimov
     subject: 'я только что проверил: оказывается, поиск по сайту все-таки работает!'
     deleted: false
-    text: <a href="/news/?iid=669">http://www.blues.ru/news/?iid=669</a>
+    text: <a href="/news/2009/07/02/story669/">/news/2009/07/02/story669/</a>
     person_id: 4
   - id: 36577
     parent_id: 36574

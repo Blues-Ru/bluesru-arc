@@ -29,7 +29,7 @@ posts:
     email: fedor@blues.ru
     subject: Или вот тут...
     deleted: false
-    text: <a href="http://www.blues.ru/vocabulary.htm">словарь блюза</a>
+    text: <a href="/vocabulary.htm">словарь блюза</a>
     replies:
     - id: 34309
       parent_id: 34308

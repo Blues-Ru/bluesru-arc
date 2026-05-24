@@ -50,7 +50,7 @@ posts:
           deleted: false
           text: 'концерт был, что надо!
 
-            <a href="/bluesnews/04Summer/Smith/Smithindex.htm">http://blues.ru/bluesnews/04Summer/Smith/Smithindex.htm</a>'
+            <a href="/bluesnews/04Summer/Smith/Smithindex.htm">/bluesnews/04Summer/Smith/Smithindex.htm</a>'
           inferred_person_id: 4
         inferred_person_id: 2465
       inferred_person_id: 4

@@ -148,6 +148,34 @@ export async function onRequest(context) {
     return redirect301("/updates/", request.url);
   }
 
+  // ── /news/?iid=N → /news/YYYY/MM/DD/storyN/ (manifest lookup) ─────────────
+  if ((pathname === "/news/" || pathname === "/news/default.aspx") && searchParams.has("iid")) {
+    const iid = searchParams.get("iid");
+    const m = await getManifest(env, request.url);
+    const target = m.news_iid && m.news_iid[iid];
+    if (target) return redirect301(target, request.url);
+    return redirect301("/news/", request.url);
+  }
+
+  // ── /links/?catid=N → /links/ (no per-category page in new layout) ────────
+  if (pathname === "/links/" && searchParams.has("catid")) {
+    return redirect301("/links/", request.url);
+  }
+
+  // ── /data/albumsearch.aspx?artistname=X → /artist/{slug}/ (manifest) ──────
+  if (pathname === "/data/albumsearch.aspx" || pathname === "/albumsearch.aspx") {
+    const name = searchParams.get("artistname");
+    if (name) {
+      const m = await getManifest(env, request.url);
+      // normalize: lowercase, ASCII alphanum-and-space
+      const norm = name.toLowerCase().normalize("NFKD")
+        .replace(/[^a-z0-9]+/g, " ").trim();
+      const target = m.artist_names && m.artist_names[norm];
+      if (target) return redirect301(target, request.url);
+    }
+    return redirect301("/artist/", request.url);
+  }
+
   // ── Forum page*.html → page* (strip .html from pagination URLs) ──────────
   const forumPageMatch = pathname.match(/^(\/forum\/page\d+)\.html$/);
   if (forumPageMatch) {

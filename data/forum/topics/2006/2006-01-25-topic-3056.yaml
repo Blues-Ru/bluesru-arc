@@ -180,7 +180,7 @@ posts:
       email: blackcat@blues.ru
       subject: Активнее изучайте матерьялы собственного портала, сэр! :)
       deleted: false
-      text: <a href="http://www.blues.ru/BlackCat/yr.htm" target="_blank">http://www.blues.ru/BlackCat/yr.htm</a>
+      text: <a href="/BlackCat/yr.htm" target="_blank">/BlackCat/yr.htm</a>
       person_id: 6
     inferred_person_id: 7465
   inferred_person_id: 6

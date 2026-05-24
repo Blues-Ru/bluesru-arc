@@ -22,6 +22,6 @@ posts:
     email: blackcat@blues.ru
     subject: можно вопрос?
     deleted: false
-    text: <a href="http://www.blues.ru/forum/?id=19417&page=0&body=1#19417" target="_blank">http://www.blues.ru/forum/?id=19417&page=0&body=1#19417</a>
+    text: <a href="/forum/?id=19417&page=0&body=1#19417" target="_blank">/forum/?id=19417&page=0&body=1#19417</a>
     person_id: 6
   person_id: 687

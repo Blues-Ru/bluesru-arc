@@ -49,7 +49,7 @@ posts:
       email: evdokimov@blues.ru
       subject: тоже мне новость )
       deleted: false
-      text: http://www.blues.ru/news/?p=200510
+      text: /news/?p=200510
       replies:
       - id: 27517
         parent_id: 27515

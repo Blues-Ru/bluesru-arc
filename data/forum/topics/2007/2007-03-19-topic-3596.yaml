@@ -119,7 +119,7 @@ posts:
             deleted: false
             text: 'http://www.agranovsky.ru/blues_language/blues%20language.htm
 
-              http://www.blues.ru/vocabulary.htm'
+              /vocabulary.htm'
             replies:
             - id: 31870
               parent_id: 31868

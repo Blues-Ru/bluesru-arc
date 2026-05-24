@@ -4,4 +4,4 @@ title: В раздел "Музыканты" добавлена справка о
 date: '2014-03-29'
 ---
 
-В раздел "Музыканты" добавлена справка о певце-гитаристе <a href="http://blues.ru/bluesmen/Frank_Edwards/"><b>Frank Edwards</b></a>.
+В раздел "Музыканты" добавлена справка о певце-гитаристе <a href="/artist/frank-edwards/"><b>Frank Edwards</b></a>.

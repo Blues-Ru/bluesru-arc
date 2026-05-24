@@ -60,7 +60,7 @@ posts:
     email: evdokimov@blues.ru
     subject: пресса
     deleted: false
-    text: <a href="http://www.blues.ru/news/?p=200607#305">http://www.blues.ru/news/?p=200607#305</a>
+    text: <a href="/news/?p=200607#305">/news/?p=200607#305</a>
     replies:
     - id: 28058
       parent_id: 28052

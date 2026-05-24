@@ -15,25 +15,25 @@ date: '1999-02-22'
     происхождению. Также записи группы <strong><a href="rblues/Dr_Agranovsky/Dr_Agranovsky.htm">Д-ра
     Аграновского</a></strong> и группы <a href="rblues/Evergreens/Evergreens.htm"><strong>Evergreens</strong></a>.
 Статья Андрея Евдокимова, подборка
-    цитат, музыка гитариста <strong><a href="/bluesmen/Tinsley_Ellis/Tinsley_Ellis.htm">Tinsley
+    цитат, музыка гитариста <strong><a href="/artist/tinsley-ellis/tinsley-ellis.html">Tinsley
     Ellis</a>.</strong>
-<a href="/bluesmen/Jimi_Hendrix/hendrix_guy.htm"><strong>Простой
+<a href="/artist/jimi-hendrix/hendrix-guy.html"><strong>Простой
     кумир великого кумира поколений</strong></a>.
-    Статья Александра Чечетта о влиянии <strong><a href="/bluesmen/Buddy_Guy/Buddy_Guy.htm">Бадди
+    Статья Александра Чечетта о влиянии <strong><a href="/artist/buddy-guy/buddy-guy.html">Бадди
     Гая</a></strong> на становление гитарного
-    стиля <strong><a href="/bluesmen/Jimi_Hendrix/Jimi_Hendrix.htm">Джими
+    стиля <strong><a href="/artist/jimi-hendrix/jimi-hendrix.html">Джими
     Хендрикса</a></strong>.
-<a href="/bluesmen/Shemekia_Copeland/Shemekia_Copeland.htm"><strong>Shemekia
+<a href="/artist/shemekia-copeland/shemekia-copeland.html"><strong>Shemekia
     Copeland</strong></a> - статья из журнала <a href="http://www.nestor.minsk.by/jz">Джаз-Квадрат</a>
     о новой блюзовой звезде - дочери недавно
-    ушедшего из жизни техасского гитариста <a href="/bluesmen/Johnny_Clyde_Copeland/Johnny_Clyde_Copeland.htm"><strong>Johnny
+    ушедшего из жизни техасского гитариста <a href="/artist/johnny-clyde-copeland/johnny-clyde-copeland.html"><strong>Johnny
     Clyde Copeland</strong></a>.
 <strong><a href="stuff/kalach.htm">Приключения Блюза</a></strong>
     - Статья Алексея Калачева 2-х летней
     давности о московсковском блюзе и о блюзе
     вообще. Может быть интересна тем, кто
     посещал легендарный блюзовый клуб в <strong>Беляево</strong>.
-<strong><a href="/bluesmen/Muddy_Waters/hut.htm">Домик Мадди
+<strong><a href="/artist/muddy-waters/hut.html">Домик Мадди
     Уотерза отправится в турне</a></strong> -
     старая заметка из газеты Сегодня.
 <a href="/article/bbking-bar-moscow.html"><strong>Статья из раздела

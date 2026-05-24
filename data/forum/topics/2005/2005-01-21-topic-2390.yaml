@@ -12,7 +12,7 @@ posts:
   email: dr.nick@blues.ru
   subject: вот класс-то какой :)
   deleted: false
-  text: http://web.archive.org/web/19970416202937/http://www.blues.ru/
+  text: http://web.archive.org/web/19970416202937//
   replies:
   - id: 20221
     parent_id: 20219

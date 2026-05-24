@@ -21,7 +21,7 @@ posts:
     email: fedor@blues.ru
     subject: bluesnews.ru
     deleted: false
-    text: '- но там не так много про наших музыкантов. Также достоен изучения раздел <a href="http://www.blues.ru/links/">http://www.blues.ru/links/</a>,
+    text: '- но там не так много про наших музыкантов. Также достоен изучения раздел <a href="/links/">/links/</a>,
       там есть куча ссылок на официальные сайты музыкантов.'
     person_id: 2
   person_id: 3588

@@ -51,7 +51,7 @@ posts:
       email: blackcat@blues.ru
       subject: ни фига не пусто
       deleted: false
-      text: 'http://www.blues.ru/BlackCat/sh.htm
+      text: '/BlackCat/sh.htm
 
         Или там что-то не так?'
       inferred_person_id: 6

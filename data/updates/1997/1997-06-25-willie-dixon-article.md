@@ -5,8 +5,8 @@ date: '1997-06-25'
 ---
 
 Наконец-то у нас появилось кое-что
-новенькое! Это <a href="/bluesmen/Willie_Dixon/dixon.htm">стать
-Андрея Евдокимова о Willie Dixon</a>. А также <a href="/bluesmen/Willie_Dixon/dixonint.htm">интервью</a>
+новенькое! Это <a href="/artist/willie-dixon/dixon.html">стать
+Андрея Евдокимова о Willie Dixon</a>. А также <a href="/artist/willie-dixon/dixonint.html">интервью</a>
 с ним же. Кроме того, теперь можно почитать
 новую <a href="book/b14.htm">14-ю главу</a> <a href="/book/">книги
 Пола Оливера об истории блюза</a>. <em>.</em>

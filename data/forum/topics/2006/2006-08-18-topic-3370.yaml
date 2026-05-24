@@ -70,7 +70,7 @@ posts:
     email: grems@yandex.ru
     subject: Здесь это обсуждалось....
     deleted: false
-    text: 'Вот ветка: http://www.blues.ru/forum/?id=45127&page=1&body=1#45127'
+    text: 'Вот ветка: /forum/?id=45127&page=1&body=1#45127'
     replies:
     - id: 28379
       parent_id: 28374

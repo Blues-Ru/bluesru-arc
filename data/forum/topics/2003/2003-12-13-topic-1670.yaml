@@ -399,6 +399,6 @@ posts:
     text: 'вставить картинку :)
 
 
-      <img src="http://www.blues.ru/images/blues_big_logo.gif" align="bottom">'
+      <img src="/images/blues_big_logo.gif" align="bottom">'
     person_id: 712
   person_id: 712

@@ -30,7 +30,7 @@ posts:
       email: evdokimov@blues.ru
       subject: я тут вот ссылочку нашел
       deleted: false
-      text: 'http://www.blues.ru/bluesnews/Mar2000/00MarRaz.htm
+      text: '/bluesnews/Mar2000/00MarRaz.htm
 
         интересно, какой кызел и для кого и зачем это делал? для себя, наверно, больше это никому не интересно - AMG ближе и как-то душевней.'
       replies:

@@ -4,4 +4,4 @@ title: Интервью Charlie Musselwhite для "Harmonica Happenings" в п�
 date: '2009-11-27'
 ---
 
-<a href="/bluesmen/Charlie_Musselwhite/Charlie_Musselwhite_interview.htm"><b>Интервью Charlie Musselwhite для "Harmonica Happenings"</b></a> в переводе Константина Колесниченко.
+<a href="/artist/charlie-musselwhite/charlie-musselwhite-interview.html"><b>Интервью Charlie Musselwhite для "Harmonica Happenings"</b></a> в переводе Константина Колесниченко.

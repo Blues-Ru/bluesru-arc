@@ -205,7 +205,7 @@ sites:
   status: dead
 - id: '165'
   name: Блюзовые концерты в Москве на blues.ru
-  url: http://www.blues.ru/gigs/
+  url: /gigs/
   description: Расписание клубных блюзовых концертов, пополняемое клубами и музыкантами.
   categories:
   - '22'
@@ -219,7 +219,7 @@ sites:
   status: live
 - id: '175'
   name: Фестивали клуба B.B.King
-  url: http://www.blues.ru/bbkingfest/
+  url: /bbkingfest/
   description: Блюзовые фестивали в Лефортово, оргранизованные московским клубом B.B.King
   categories:
   - '19'
@@ -328,7 +328,7 @@ sites:
   status: dead
 - id: '29'
   name: Efes Pilsener Blues Festival - Blues.ru
-  url: http://www.blues.ru/efes/
+  url: /efes/
   description: Большой сайт на blues.ru, посвященный пивному интернациональному блюзовому
     фестивалю, который прошел уже в 12 раз, а в Москве - в третий.
   categories:
@@ -383,7 +383,7 @@ sites:
   status: live
 - id: '42'
   name: Фестиваль BLUES.RU-2001
-  url: http://www.blues.ru/bluesnews/Fest01/bluesru01.htm
+  url: /bluesnews/Fest01/bluesru01.htm
   description: Страница фестиваля BLUES.RU-2001, собравшего в 2001 более 20 наиболее
     известных российских блюзовых исполнителей.
   categories:
@@ -391,7 +391,7 @@ sites:
   status: live
 - id: '43'
   name: Scolder Blues
-  url: http://www.blues.ru/rblues/Scolder_Blues/
+  url: /rblues/Scolder_Blues/
   description: Сайт новой московской группы с дудками Scolder Blues.
   categories:
   - '5'
@@ -422,7 +422,7 @@ sites:
   status: dead
 - id: '47'
   name: ЗаппазУхОй
-  url: http://www.blues.ru/zappazuhoi/
+  url: /zappazuhoi/
   description: Русский регулярный бюллетень для поклонников американского композитора
     Frank'а Vincent'а Zappa'ы под авторстом ведущего российского и всемирного запповеда
     - Владимира Советова.
@@ -873,7 +873,7 @@ sites:
   status: dead
 - id: '119'
   name: Notodden Blues Festival на Blues.Ru
-  url: http://www.blues.ru/nbf/
+  url: /nbf/
   description: Большой раздел со статьями и фотографиями на Blues.ru, посвященный
     крупнейшему европейскому фестивалю.
   categories:
@@ -948,7 +948,7 @@ sites:
   status: dead
 - id: '132'
   name: Очаково-Блюз 2003
-  url: http://www.blues.ru/fest/
+  url: /fest/
   description: Страницы международного фестиваля, организованного blues.ru вместе
     с компанией Другая Музыка.
   categories:

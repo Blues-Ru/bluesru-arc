@@ -58,7 +58,7 @@ posts:
     text: 'А вот тут есть про него
 
 
-      http://www.blues.ru/style/texas/'
+      /style/texas/'
     replies:
     - id: 35253
       parent_id: 35249

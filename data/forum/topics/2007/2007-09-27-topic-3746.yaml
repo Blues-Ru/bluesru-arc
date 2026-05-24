@@ -44,7 +44,7 @@ posts:
         text: 'Ибо тема наболела ;))
 
 
-          http://www.blues.ru/news/?p=200709#354'
+          /news/?p=200709#354'
         person_id: 2
       inferred_person_id: 4319
     - id: 33561

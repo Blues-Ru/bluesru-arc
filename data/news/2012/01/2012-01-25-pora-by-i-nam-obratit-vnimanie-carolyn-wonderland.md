@@ -13,4 +13,4 @@ author: Андрей Евдокимов
 
 <small><b>На Blues.Ru об Antone's:<br>
 
-<a href="/bluesnews/jan-feb99.htm#antone">суд да дело...</a> и, конечно, <a href="/news/?iid=283">некролог...</b></small></a>
+<a href="/bluesnews/jan-feb99.htm#antone">суд да дело...</a> и, конечно, <a href="/news/2006/05/25/story283/">некролог...</b></small></a>

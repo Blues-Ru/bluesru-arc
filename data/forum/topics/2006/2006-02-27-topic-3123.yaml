@@ -107,7 +107,7 @@ posts:
       email: ragtime@blues.ru
       subject: на сайте blues.ru
       deleted: false
-      text: вот здесь http://blues.ru/book/
+      text: вот здесь /book/
       inferred_person_id: 7284
     - id: 26298
       parent_id: 26296
@@ -116,7 +116,7 @@ posts:
       email: ragtime@blues.ru
       subject: на сайте blues.ru
       deleted: false
-      text: вот здесь http://blues.ru/book/
+      text: вот здесь /book/
       inferred_person_id: 7284
     - id: 26300
       parent_id: 26296

@@ -48,7 +48,7 @@ posts:
     email: evdokimov@blues.ru
     subject: случилось это 6 сентября
     deleted: false
-    text: http://www.blues.ru/forum/?id=38625&page=1&body=1#38625
+    text: /forum/?id=38625&page=1&body=1#38625
     person_id: 4
   - id: 23042
     parent_id: 23001

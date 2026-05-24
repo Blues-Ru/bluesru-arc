@@ -25,7 +25,7 @@ posts:
     email: grems@yandex.ru
     subject: Загляните сюда
     deleted: false
-    text: "Можно и выбрать:http://www.blues.ru/gigs.asp\nhttp://www.zvuki.ru/N/L/\nhttp://www.parter.ru/category.asp?sect=24\nЕсли с дамой то советую посетить концерт  Мишуриса в \"Форте\" \nУдачи"
+    text: "Можно и выбрать:/gigs.asp\nhttp://www.zvuki.ru/N/L/\nhttp://www.parter.ru/category.asp?sect=24\nЕсли с дамой то советую посетить концерт  Мишуриса в \"Форте\" \nУдачи"
     replies:
     - id: 26741
       parent_id: 26731

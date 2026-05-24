@@ -12,5 +12,5 @@ posts:
   email: evdokimov@blues.ru
   subject: осталась всего неделя!
   deleted: false
-  text: <a href="/bluesnews/04Spring/04Spring.htm">http://blues.ru/bluesnews/04Spring/04Spring.htm</a>
+  text: <a href="/bluesnews/04Spring/04Spring.htm">/bluesnews/04Spring/04Spring.htm</a>
   person_id: 4

@@ -99,7 +99,7 @@ posts:
 
           Например:
 
-          <a href="http://www.blues.ru/vocabulary.htm">Словарь блюза. Доктор Аграновский.</a>'
+          <a href="/vocabulary.htm">Словарь блюза. Доктор Аграновский.</a>'
         replies:
         - id: 16497
           parent_id: 16496

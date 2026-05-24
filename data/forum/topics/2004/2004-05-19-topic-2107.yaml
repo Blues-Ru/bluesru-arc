@@ -38,7 +38,7 @@ posts:
     email: grems@yandex.ru
     subject: Было уже обсуждение.....
     deleted: false
-    text: См.http://www.blues.ru/forum/?id=33766&page=2&body=1#33766
+    text: См./forum/?id=33766&page=2&body=1#33766
     inferred_person_id: 204
   - id: 18506
     parent_id: 18491

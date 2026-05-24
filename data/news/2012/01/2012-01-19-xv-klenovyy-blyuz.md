@@ -15,7 +15,7 @@ author: Андрей Евдокимов
 
 </ul>
 
-Кстати, четыре года назад, неподражаемый виртуоз Carlos del Junco побывал в Москве, давал мастер-класс в "Доме у Дороги" и джемовал с Мишурисом! - <a href="http://www.blues.ru/news/?iid=437">http://www.blues.ru/news/?iid=437</a> Кстати, и трубач (он же гитарист и харпер) Chris Whiteley в дуэте с певицей Dianne Braithwaite выступали в Москве, и в "Доме у Дороги" так же джемовали - <a href="http://www.blues.ru/news/?iid=562">http://www.blues.ru/news/?iid=562</a>
+Кстати, четыре года назад, неподражаемый виртуоз Carlos del Junco побывал в Москве, давал мастер-класс в "Доме у Дороги" и джемовал с Мишурисом! - <a href="/news/2008/04/18/story437/">/news/2008/04/18/story437/</a> Кстати, и трубач (он же гитарист и харпер) Chris Whiteley в дуэте с певицей Dianne Braithwaite выступали в Москве, и в "Доме у Дороги" так же джемовали - <a href="/news/2008/11/08/story562/">/news/2008/11/08/story562/</a>
 
 Полный список лауреатов и номинантов: <a href="http://torontobluessociety.com/2011-maple-blues-awards-nominees/" target="_blank">http://torontobluessociety.com/2011-maple-blues-awards-nominees/</a><br> Репортаж с картинками: <a href="http://www.rootsmusic.ca/2012/01/18/the-15th-annual-maple-blues-awards/" target="_blank">http://www.rootsmusic.ca/2012/01/18/the-15th-annual-maple-blues-awards/</a>
 

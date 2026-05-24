@@ -9,7 +9,7 @@ author: Андрей Евдокимов
 
 Но нынче эти разборки в прошлом. Стивен колесит по миру в качестве посланца блюза, поясняя, что на гитаре он играет с детства и блюз любит с младых ногтей.
 
-После выпуска в 2006 году альбома Mojo Priest (записанного при участии блюзовых ветеранов: <a href="/bluesmen/James_Cotton/">James Cotton, Koko Taylor,</a>, <a href="/bluesmen/Pinetop_Perkins/Perkins_Sumlin.htm">Pinetop Perkins, Hubert Sumlin</a>, Robert Lockwood Jr., <a href="/bluesmen/Ruth_Brown/">Ruth Brown</a> и Bo Diddley) Сигал с группой Thunderbox активно гастролирует. Интервью "блюзового" Сигала радуют почтительными упоминанием блюзовых корифеев и здравыми суждениями о разных аспектах существования современного блюза. Если бы так же радовали и его альбомы…
+После выпуска в 2006 году альбома Mojo Priest (записанного при участии блюзовых ветеранов: <a href="/artist/james-cotton/">James Cotton, Koko Taylor,</a>, <a href="/artist/pinetop-perkins/perkins-sumlin.html">Pinetop Perkins, Hubert Sumlin</a>, Robert Lockwood Jr., <a href="/artist/ruth-brown/">Ruth Brown</a> и Bo Diddley) Сигал с группой Thunderbox активно гастролирует. Интервью "блюзового" Сигала радуют почтительными упоминанием блюзовых корифеев и здравыми суждениями о разных аспектах существования современного блюза. Если бы так же радовали и его альбомы…
 
 Эту и следующую неделю Сигал проведет в Новом Орлеане, одном из своих любимых городов. Он снимает документальный фильм для A&E, а в четверг, 10 июля, дает концерт в зале House of Blues с группой Thunderbox и приглашенными гостями, среди которых будут Aaron Neville и Tab Benoit. Доход от концерта будет перечислен на счет детской больницы.
 
@@ -37,7 +37,7 @@ Blues.ru приводит свежее интервью Сигала порта�
 
 - Я рос рядом с Albert Collins, Albert King, B.B. King, Freddie King, Lightnin' Hopkins, Howlin' Wolf, Muddy Waters… Я подружился со многими из них, учился у них и играл вместе с ними.
 
-<i>Среди своих учителей Сигел называет <a href="/bluesmen/Clarence_Gatemouth_Brown/">Clarence "Gatemouth" Brown</a>.</i>
+<i>Среди своих учителей Сигел называет <a href="/artist/clarence-gatemouth-brown/">Clarence "Gatemouth" Brown</a>.</i>
 
 - Он был моим очень близким другом. Когда он приезжал в Калифорнию. Он останавливался у меня дома. На протяжении многих лет он многому успел научить меня в блюзе.
 

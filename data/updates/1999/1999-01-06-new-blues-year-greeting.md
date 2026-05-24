@@ -9,7 +9,7 @@ date: '1999-01-06'
     и с прошедшим!) <strong>Рождеством</strong>!
 Сайт Михаила Бирюкова <strong><a href="/BlackCat/">Mean
     Black Cat Blues</a></strong> переехал на наш сервер и
-    сменил адрес на <strong>http://www.blues.ru/BlackCat</strong>.
+    сменил адрес на <strong>/BlackCat</strong>.
     Сайт посвящен &quot;архаичному&quot; или &quot;традиционному&quot;
     блюзу, (который, к сожалению, очень плохо
     был у нас представлен) и в данный момент

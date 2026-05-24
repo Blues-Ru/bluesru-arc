@@ -5,5 +5,5 @@ date: '2001-11-03'
 ---
 
 К 5-летию со дня смерти: cправка, статья, дискография и музыка в формате mp3
-на <b><a href="/bluesmen/William_Clarke/">странице, посвященной 
+на <b><a href="/artist/william-clarke/">странице, посвященной 
 William Clark</a></b>.

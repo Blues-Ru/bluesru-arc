@@ -32,7 +32,7 @@ date: '1998-11-05'
     Блюз&quot;</a> теперь выходит по средам в 22:00
     на радио Надежда 104.2FM.
 Появились ссылки на фотографии на
-    страницах о <a href="/bluesmen/BB_King/BB_King.htm">B.B.King</a>, <a href="/bluesmen/Luther_Allison/Luther_Allison.htm">Luther
-    Allison</a>, <a href="/bluesmen/Buddy_Guy/Buddy_Guy.htm">Buddy Guy</a>, <a href="/bluesmen/Johnny_Lang/Johnny_Lang.htm">Johnny
-    Lang</a>, <a href="/bluesmen/Kenny_Neal/Kenny_Neal.htm">Kenny Neal</a>, <a href="/bluesmen/Stevie_Ray_Vaughan/Stevie_Ray_Vaughan.htm">Stevie
+    страницах о <a href="/artist/bb-king/bb-king.html">B.B.King</a>, <a href="/artist/luther-allison/luther-allison.html">Luther
+    Allison</a>, <a href="/artist/buddy-guy/buddy-guy.html">Buddy Guy</a>, <a href="/artist/johnny-lang/johnny-lang.html">Johnny
+    Lang</a>, <a href="/artist/kenny-neal/kenny-neal.html">Kenny Neal</a>, <a href="/artist/stevie-ray-vaughan/stevie-ray-vaughan.html">Stevie
     Ray Vaughan</a>. &nbsp;&nbsp; <em>.</em><br clear="all">

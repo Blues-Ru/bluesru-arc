@@ -4,4 +4,4 @@ title: В раздел Who is Who добавлена обширная глава
 date: '2000-09-13'
 ---
 
-В раздел Who is Who добавлена обширная глава о первооткрывателях блюз-буги-рока CANNED HEAT, с RA, фотогалереей, текстами и аккордами песен.<a href="http://www.blues.ru/ww/ww_canned.htm"><b>CANNED HEAT</b></a>
+В раздел Who is Who добавлена обширная глава о первооткрывателях блюз-буги-рока CANNED HEAT, с RA, фотогалереей, текстами и аккордами песен.<a href="/ww/ww_canned.htm"><b>CANNED HEAT</b></a>

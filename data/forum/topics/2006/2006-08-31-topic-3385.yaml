@@ -89,7 +89,7 @@ posts:
           email: elicaster co6@kaмейл-d0t ru
           subject: 'Наверное самое простое решение проблемки:'
           deleted: false
-          text: http://www.blues.ru/forum/?id=46125&page=0&body=1#46125
+          text: /forum/?id=46125&page=0&body=1#46125
         person_id: 3349
     inferred_person_id: 3349
   - id: 28552

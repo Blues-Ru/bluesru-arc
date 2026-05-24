@@ -4,4 +4,4 @@ title: Огромная статья Алексея Щёголева с карт
 date: '2011-09-14'
 ---
 
-Огромная <a href="/bluesmen/Snooks_Eaglin/"><b>статья</b></a> Алексея Щёголева с картинками, посвященная <a href="/bluesmen/Snooks_Eaglin/"><b>Ford Snooks Eaglin</b></a>.
+Огромная <a href="/artist/snooks-eaglin/"><b>статья</b></a> Алексея Щёголева с картинками, посвященная <a href="/artist/snooks-eaglin/"><b>Ford Snooks Eaglin</b></a>.

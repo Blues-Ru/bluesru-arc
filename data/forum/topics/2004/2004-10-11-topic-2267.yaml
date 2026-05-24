@@ -104,9 +104,9 @@ posts:
               deleted: false
               text: 'Вообще-то, про диск есть информация и поближе
 
-                <a href="http://www.blues.ru/rblues/OurATB1.htm">http://www.blues.ru/rblues/OurATB1.htm</a>,
+                <a href="/rblues/OurATB1.htm">/rblues/OurATB1.htm</a>,
 
-                <a href="http://www.blues.ru/rblues/OurATB2.htm">http://www.blues.ru/rblues/OurATB2.htm</a>.
+                <a href="/rblues/OurATB2.htm">/rblues/OurATB2.htm</a>.
 
                 Сам диск сейчас можно купить сейчас в Би Би Кинге.'
               inferred_person_id: 2

@@ -108,10 +108,10 @@ posts:
     text: 'http://www.bluesman.ru/download/12_04_2005/HarlemNocturne.ogg
 
 
-      http://www.blues.ru/zzz/hn/Junior_Watson-Harlem_Nocturne.mp3
+      /zzz/hn/Junior_Watson-Harlem_Nocturne.mp3
 
 
-      http://www.blues.ru/zzz/hn/Vidar_Busk-Harlem_nocturne.MP3'
+      /zzz/hn/Vidar_Busk-Harlem_nocturne.MP3'
     replies:
     - id: 21679
       parent_id: 21678

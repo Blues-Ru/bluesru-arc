@@ -123,7 +123,7 @@ posts:
       email: blackcat@blues.ru
       subject: мда
       deleted: false
-      text: Что ж; втуне, видать, на <a href="http://www.blues.ru/BlackCat/arch.htm" target="_blank">http://<b>www.blues.ru</b>/BlackCat/arch.htm</a> мп3-архив делался... mp3.int.ru - "наше всё" вовеки веков!
+      text: Что ж; втуне, видать, на <a href="/BlackCat/arch.htm" target="_blank">http://<b>www.blues.ru</b>/BlackCat/arch.htm</a> мп3-архив делался... mp3.int.ru - "наше всё" вовеки веков!
       replies:
       - id: 18926
         parent_id: 18923

@@ -15,9 +15,9 @@ date: '1999-10-20'
     со среды на четверг в 3:05.
 <b><a href="/bluesmen/Jimmy_Vaughan/Jimmy_Vaughan.htm">Статья о
     Jimmy Vaughan в переводе Алексея Макарова</a>.</b>
-<b><a href="/bluesmen/Albert_King/Albert_King.htm">Статья об Albert
+<b><a href="/artist/albert-king/albert-king.html">Статья об Albert
     King в переводе mikewhy</a>.</b>
-<b><a href="/bluesmen/John_Mayall/John_Mayall.htm">&quot;Джон
+<b><a href="/artist/john-mayall/john-mayall.html">&quot;Джон
     Мэйелл, человек, который всю жизнь знал,
     что делает.&quot;</a> </b>Интервью <b>John Mayall</b>
     для журнала <b>MUSIC BOX,</b> автор <b>Николай
@@ -27,7 +27,7 @@ date: '1999-10-20'
     с <a href="rblues/Green_Square/Green_Square.htm#music">музыкой</a>
     в формате Real Audio.
 Горячо любимый нами норвежский гитарист
-    <a href="/bluesmen/Vidar_Busk/Vidar_Busk.htm"><b>Vidar Busk</b></a>
+    <a href="/artist/vidar-busk/vidar-busk.html"><b>Vidar Busk</b></a>
     выпустил свой третий диск <b>Atomic Swing</b> и
     открыл новый сайт с картинками и музыкой
     по адресу <a href="http://www.vidar-busk.no"><b>www.vidar-busk.no</b></a>.

@@ -11,13 +11,13 @@ posts:
   poster: Федор Романенко
   subject: Для форума появился RSS
   deleted: false
-  text: 'http://www.blues.ru/forum/rss
+  text: '/forum/rss
 
 
     теперь форум можно добавлять в RSS ридеры
 
 
-    он появился в Ленте: http://www.blues.ru/rss/
+    он появился в Ленте: /rss/
 
 
     и, надеюсь, форум лучше проиндексируют поисковики'

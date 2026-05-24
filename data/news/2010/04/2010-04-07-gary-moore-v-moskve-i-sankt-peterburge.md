@@ -5,7 +5,7 @@ date: '2010-04-07'
 author: Blues.Ru
 ---
 
-<a href="http://www.aif.ru/culture/news/51755" target="_blank"><small>Аргументы и факты</a> анонсируют концерты <a href="http://blues.ru/bluesmen/Gary_Moore/">Гэри Мура</a>:</small>
+<a href="http://www.aif.ru/culture/news/51755" target="_blank"><small>Аргументы и факты</a> анонсируют концерты <a href="/artist/gary-moore/">Гэри Мура</a>:</small>
 
 <b>Волшебник блюза Gary Moore</b>
 

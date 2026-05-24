@@ -5,9 +5,9 @@ date: '1998-12-13'
 ---
 
 У нас появился новый материал о группе<strong>
-    <a href="/bluesmen/Blues_Brothers/Blues_Brothers.htm">Blues Brothers</a></strong>,
-    подготовленный Андреем Евдокимовым. Это <a href="/bluesmen/Blues_Brothers/Blues_Brothers.htm">статья</a>,
-    <a href="/bluesmen/Blues_Brothers/Blues_Brothers.htm#discography">дискография</a>,
+    <a href="/artist/blues-brothers/blues-brothers.html">Blues Brothers</a></strong>,
+    подготовленный Андреем Евдокимовым. Это <a href="/artist/blues-brothers/blues-brothers.html">статья</a>,
+    <a href="/artist/blues-brothers/blues-brothers.htm#discography">дискография</a>,
     музыка, ссылки, картинки и пр. В ближайшем
     будущем ожидается пополнение материалов.
 В воскресенье 13-го декабря на радио <a href="http://www.silver.ru">Серебрянный

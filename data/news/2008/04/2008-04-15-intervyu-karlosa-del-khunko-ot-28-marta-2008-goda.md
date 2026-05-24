@@ -5,7 +5,7 @@ date: '2008-04-15'
 author: Андрей Евдокимов
 ---
 
-<small>28 марта 2008 года <a href="/bluesmen/Carlos_Del_Junco/">Карлос дел Хунко (Carlos del Junco) дал интервью газете <a href="http://www.thenewstribune.com/ae/story/320242.html" target="_blank">The New Tribune</a> (Такома, Вашингтон). Приводим его здесь с небольшими сокращениями:</small><br>
+<small>28 марта 2008 года <a href="/artist/carlos-del-junco/">Карлос дел Хунко (Carlos del Junco) дал интервью газете <a href="http://www.thenewstribune.com/ae/story/320242.html" target="_blank">The New Tribune</a> (Такома, Вашингтон). Приводим его здесь с небольшими сокращениями:</small><br>
 
 Все мы слышали как кто-то играет на губной гармонике, но большинство из нас не слышали никогда и никого, кто играл бы так, как Карлос дел Хунко. Он сумел преодолеть ограниченность традиционной диатонической гармоники и играть по всей шкале нот.
 

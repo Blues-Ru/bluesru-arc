@@ -4,13 +4,13 @@ title: Статья Андрея Евдокимова о Blind Boy Fuller с м�
 date: '1998-09-15'
 ---
 
-Статья Андрея Евдокимова о <a href="/bluesmen/Blind_Boy_Fuller/Blind_Boy_Fuller.htm">Blind
+Статья Андрея Евдокимова о <a href="/artist/blind-boy-fuller/blind-boy-fuller.html">Blind
     Boy Fuller</a> с музыкой в формате real-audio.
-Статья Андрея Евдокимова о <a href="/bluesmen/Doug_MacLeod/Doug_MacLeod.htm">Doug
+Статья Андрея Евдокимова о <a href="/artist/doug-macleod/doug-macleod.html">Doug
     MacLeod</a> также с музыкой.
-Статья о гитаристе <a href="/bluesmen/Coco_Montoya/Coco_Montoya.htm">Coco
+Статья о гитаристе <a href="/artist/coco-montoya/coco-montoya.html">Coco
     Montoya</a>. Переведена Михаилом Багатуровым.
-Страница о <a href="/bluesmen/Billy_Boy_Arnold/Bully_Boy_Arnold.htm">Billy
+Страница о <a href="/artist/billy-boy-arnold/bully-boy-arnold.html">Billy
     Boy Arnold</a> с музыкой.
 Вышли 9-й и 10-й выпуски <strong><a href="/zappazuhoi">ЗаппазУхОй</a></strong>.
 На странице о <strong><a href="show.htm">блюзовых

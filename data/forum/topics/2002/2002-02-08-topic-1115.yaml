@@ -391,7 +391,7 @@ posts:
         deleted: false
         text: 'Это Саша Бородин из группы "Scolder Blues"
 
-          http://www.blues.ru/rblues/Scolder_Blues/'
+          /rblues/Scolder_Blues/'
         inferred_person_id: 82
       inferred_person_id: 458
     inferred_person_id: 24

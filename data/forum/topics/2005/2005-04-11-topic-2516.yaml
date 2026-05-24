@@ -15,7 +15,7 @@ posts:
   text: 'Центральная площадь, золотые ворота ;)))
 
 
-    <img src="http://www.blues.ru/bluesmen/Vidar_Busk/VidarBuskVladimir.jpg">'
+    <img src="/artist/vidar-busk/vidarbuskvladimir.jpg">'
   replies:
   - id: 21057
     parent_id: 21055

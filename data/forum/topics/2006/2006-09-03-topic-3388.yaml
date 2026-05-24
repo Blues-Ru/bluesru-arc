@@ -74,7 +74,7 @@ posts:
 
         еще сказывают, будто там, на лицевой странице сайта, в правой колонке, есть строчка "поиск по сайту блюз-ру.
 
-        и будто бы (вот уж верно врут), если вписать туда слова James Carter и нажать на кнопочку, то можно получить ошеломляющий результат: <a href="http://www.blues.ru/bluesnews/03Autumn/03Autumn.htm">http://www.blues.ru/bluesnews/03Autumn/03Autumn.htm</a>.'
+        и будто бы (вот уж верно врут), если вписать туда слова James Carter и нажать на кнопочку, то можно получить ошеломляющий результат: <a href="/bluesnews/03Autumn/03Autumn.htm">/bluesnews/03Autumn/03Autumn.htm</a>.'
       replies:
       - id: 28594
         parent_id: 28587

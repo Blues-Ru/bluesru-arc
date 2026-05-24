@@ -134,7 +134,7 @@ posts:
                 email: lifebythedrop@yandex.ru
                 subject: Повторяю
                 deleted: false
-                text: http://www.blues.ru/forum/?id=21885&page=0&body=1
+                text: /forum/?id=21885&page=0&body=1
                 person_id: 687
               - id: 7473
                 parent_id: 7467

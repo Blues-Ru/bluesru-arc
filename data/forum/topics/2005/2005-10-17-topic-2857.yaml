@@ -65,7 +65,7 @@ posts:
       email: dr.nick@blues.ru
       subject: Вот написал небольшой отчёт! Мне понравилось!
       deleted: false
-      text: http://www.blues.ru/data/albumview.aspx?cdid=864
+      text: /artist/muddy-waters/unk-in-funk/
       replies:
       - id: 23981
         parent_id: 23978

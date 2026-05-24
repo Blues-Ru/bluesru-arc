@@ -4,11 +4,11 @@ title: Новые тексты Robert Johnson Полное собрание те
 date: '1998-01-20'
 ---
 
-Новые <a href="/bluesmen/Robert_Johnson/Robert_Johnson_lyr.htm">тексты
+Новые <a href="/artist/robert-johnson/robert-johnson-lyr.html">тексты
     Robert Johnson</a>
-Полное собрание <a href="/bluesmen/J_J_Cale/J_J_Cale_lyr.htm">текстов
+Полное собрание <a href="/artist/j-j-cale/j-j-cale-lyr.html">текстов
     J.J.Cale</a>
-Почти полное собрание <a href="/bluesmen/Jimi_Hendrix/Jimi_Hendrix_lyr.htm">текстов
+Почти полное собрание <a href="/artist/jimi-hendrix/jimi-hendrix-lyr.html">текстов
     Jimi Hendrix</a>
-Подборка <a href="/bluesmen/Jimi_Hendrix/Jimi_Hendrix_tab.htm">таблатур
+Подборка <a href="/artist/jimi-hendrix/jimi-hendrix-tab.html">таблатур
     Jimi Hendrix</a> <em></em>

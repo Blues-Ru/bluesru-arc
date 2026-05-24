@@ -12,7 +12,7 @@ posts:
   email: evdokimov@blues.ru
   subject: БелГазета пишет о Svet Boogie Band
   deleted: false
-  text: <a href="/news/?p=200712&admin=1">http://blues.ru/news/?p=200712&admin=1</a>
+  text: <a href="/news/?p=200712&admin=1">/news/?p=200712&admin=1</a>
   replies:
   - id: 34194
     parent_id: 34193

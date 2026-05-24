@@ -45,4 +45,4 @@ author: Андрей Евдокимов
 
 <center><iframe width="560" height="315" src="//www.youtube.com/embed/jtUyjzlJUdY" frameborder="0" allowfullscreen></iframe></center> ----------
 
-<font +1>Тадж Махал будет выступать в Москве 31 июля в Крокус Сити. Афиша и возможность выиграть билет в лотерее - на первой странице <a href="http://www.blues.ru/">Blues.Ru</a></font +1>
+<font +1>Тадж Махал будет выступать в Москве 31 июля в Крокус Сити. Афиша и возможность выиграть билет в лотерее - на первой странице <a href="/">Blues.Ru</a></font +1>

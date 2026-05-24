@@ -11,4 +11,4 @@ author: Кирилл Мошков
 
 Подробнее о книге - <a href="http://www.jazz.ru/books/blues/">на "Джаз.Ру"</a>.
 
-Книгу уже можно приобрести <a href="http://m-planet.ru/index.php?id=20&detail=113">на сайте издательства</a>, а также в московском магазине <a href="http://www.biblio-globus.ru/description.aspx?product_no=9561781">"Библио-Глобус"</a>; через сайт этого магазина она доступна к приобретению и в США. Книга вышла при поддержке <a href="http://www.blues.ru">Blues.Ru</a>.
+Книгу уже можно приобрести <a href="http://m-planet.ru/index.php?id=20&detail=113">на сайте издательства</a>, а также в московском магазине <a href="http://www.biblio-globus.ru/description.aspx?product_no=9561781">"Библио-Глобус"</a>; через сайт этого магазина она доступна к приобретению и в США. Книга вышла при поддержке <a href="">Blues.Ru</a>.

@@ -51,7 +51,7 @@ posts:
           email: fedor@blues.ru
           subject: bluesnews.ru
           deleted: false
-          text: Мой развернутый <a href="http://blues.ru/blog/fedor/posts/286.aspx">ответ в Блоге</a>.
+          text: Мой развернутый <a href="/blog/fedor/posts/286.aspx">ответ в Блоге</a>.
           person_id: 2
         person_id: 335
       person_id: 2

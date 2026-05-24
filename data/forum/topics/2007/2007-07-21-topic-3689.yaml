@@ -480,7 +480,7 @@ posts:
           email: dr.nick@blues.ru
           subject: вот
           deleted: false
-          text: http://www.blues.ru/forum/?id=53891&page=0&body=1#53891
+          text: /forum/?id=53891&page=0&body=1#53891
           person_id: 335
         inferred_person_id: 4
       - id: 33260

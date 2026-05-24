@@ -43,7 +43,7 @@ posts:
           poster: Andrei V. Evdokimov
           subject: Чужой!
           deleted: false
-          text: http://blues.ru/news/?p=201103#890
+          text: /news/?p=201103#890
           person_id: 4
         person_id: 13
       person_id: 4

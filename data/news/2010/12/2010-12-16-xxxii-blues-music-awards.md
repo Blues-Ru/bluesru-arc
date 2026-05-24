@@ -19,4 +19,4 @@ author: Андрей Евдокимов
 
 <ul> <lh><u>Historical</u> <small>лейбл - название (исполнитель)</small></lh> <li>Black Derby - Chicago Blues Buddies (Little Smokey Smothers & Elvin Bishop)</li> <li>Delmark - Jimmy Dawkins Presents the Leric Story (Various Artists)</li> <li>Delmark - Live in Boston 1966 (Junior Wells & the Aces)</li> <li>Delta Groove - Harmonica Blues (Bob Corritore & Friends)</li> <li>Ruf - Songs from the Road (Luther Allison)</li> </ul><br>
 
-<small><a href="/bluesmen/">Справочник по музыкантам и альбомам на Блюз-ру &gt;&gt;&gt;</a></small>
+<small><a href="/artist/">Справочник по музыкантам и альбомам на Блюз-ру &gt;&gt;&gt;</a></small>

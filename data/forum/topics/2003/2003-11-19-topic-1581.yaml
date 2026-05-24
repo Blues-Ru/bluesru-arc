@@ -12,7 +12,7 @@ posts:
   email: fedor@blues.ru
   subject: Еще отзывы про Эфес
   deleted: false
-  text: <a href="http://www.blues.ru/blog/fedor/">http://www.blues.ru/blog/fedor/</a>, также здесь <a href="http://www.blues.ru/blog/aaa/">http://www.blues.ru/blog/aaa/</a> и еще на <a href="http://www.harmonica.ru/forum&mode=msgview&id=1655">форуме гармоники</a>.
+  text: <a href="/blog/fedor/">/blog/fedor/</a>, также здесь <a href="/blog/aaa/">/blog/aaa/</a> и еще на <a href="http://www.harmonica.ru/forum&mode=msgview&id=1655">форуме гармоники</a>.
   replies:
   - id: 15596
     parent_id: 15594

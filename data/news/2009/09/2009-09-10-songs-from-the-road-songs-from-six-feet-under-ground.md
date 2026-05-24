@@ -5,7 +5,7 @@ date: '2009-09-10'
 author: Blues.Ru
 ---
 
-<a href="http://www.gzt.ru/Gazeta/kuljtura-v-gazete/257384.html" target="_blank">ZT.RU публикует рецензию ВИТАЛИЯ ШМЕРЛИНГА </a> на последний альмбом <a href="http://blues.ru/data/artistview.aspx?aid=259">Джеффа Хилли</a>:
+<a href="http://www.gzt.ru/Gazeta/kuljtura-v-gazete/257384.html" target="_blank">ZT.RU публикует рецензию ВИТАЛИЯ ШМЕРЛИНГА </a> на последний альмбом <a href="/artist/jeff-healey/">Джеффа Хилли</a>:
 
 Вышел посмертный альбом "Songs from the Road" канадского гитариста Джеффа Хейли
 

@@ -12,7 +12,7 @@ posts:
   email: dr.nick@blues.ru
   subject: McCracklin
   deleted: false
-  text: 'http://www.blues.ru/data/album.aspx?cdid=586
+  text: '/data/album.aspx?cdid=586
 
 
     Еще один невероятный музыкант и альбом!'
@@ -22,7 +22,7 @@ posts:
     date: 2005-04-29 20:47
     poster: Старый Майор
     email: gypsy@mail.ru
-    subject: Дима, на указанной странице - пусто! Правильная ссылка http://www.blues.ru/data/albumview.aspx?cdid=586#598
+    subject: Дима, на указанной странице - пусто! Правильная ссылка /artist/jimmy-mccracklin/high-on-the-blues/#598
     deleted: false
     replies:
     - id: 21297
@@ -32,7 +32,7 @@ posts:
       email: dr.nick@blues.ru
       subject: вот так не пусто?
       deleted: false
-      text: http://www.blues.ru/data/albumview.aspx?cdid=586
+      text: /artist/jimmy-mccracklin/high-on-the-blues/
       person_id: 335
     - id: 21298
       parent_id: 21296
@@ -71,7 +71,7 @@ posts:
           email: dr.nick@blues.ru
           subject: так тоже не верно?
           deleted: false
-          text: http://www.blues.ru/data/albumview.aspx?cdid=586
+          text: /artist/jimmy-mccracklin/high-on-the-blues/
           replies:
           - id: 21305
             parent_id: 21302

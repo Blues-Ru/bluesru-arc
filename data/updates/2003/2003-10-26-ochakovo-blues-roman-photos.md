@@ -4,4 +4,4 @@ title: Фотографии Федора Романенко с фестивал�
 date: '2003-10-26'
 ---
 
-<a href="http://www.blues.ru/bluesnews/03Autumn/OB_F/OB_F.htm"><b>Фотографии</b></a> Федора Романенко с фестиваля <a href="http://www.blues.ru/fest/"><b>Очаково-Блюз</b></a>.
+<a href="/bluesnews/03Autumn/OB_F/OB_F.htm"><b>Фотографии</b></a> Федора Романенко с фестиваля <a href="/fest/"><b>Очаково-Блюз</b></a>.

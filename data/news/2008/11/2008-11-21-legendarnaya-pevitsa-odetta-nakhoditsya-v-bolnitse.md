@@ -9,4 +9,4 @@ author: Андрей Евдокимов
 
 Фото сделано летом нынешнего года в церкви St. James Episcopal Church города Остин. Сидя в инвалидном кресле, Одетта провела концерт-проповедь, длившийся 70 минут.
 
-<small>Рецензия на альбом <a href="/data/albumview.aspx?cdid=953">"Odetta and the Blues" 1962</a>.</small>
+<small>Рецензия на альбом <a href="/artist/odetta/odetta-and-the-blues/">"Odetta and the Blues" 1962</a>.</small>

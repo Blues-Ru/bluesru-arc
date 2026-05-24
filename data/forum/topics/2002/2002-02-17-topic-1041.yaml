@@ -169,7 +169,7 @@ posts:
         deleted: false
         text: 'Обсуждение имело место быть здесь:
 
-          <a href="http://www.blues.ru/forum/?id=6291&page=20" target="_blank">http://www.blues.ru/forum/?id=6291&page=20</a>
+          <a href="/forum/?id=6291&page=20" target="_blank">/forum/?id=6291&page=20</a>
 
           ...
 

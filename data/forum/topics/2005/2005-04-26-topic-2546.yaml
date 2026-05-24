@@ -36,7 +36,7 @@ posts:
       email: peregnoy@mail.ru
       subject: Не наезда ради, а токмо уточнения для:)
       deleted: false
-      text: '1."Эйрик никуда не вливался": это была почти что цитата <a href="http://www.blues.ru/bluesmen/Vidar_Busk/russia2005.htm">отсюда</a>. Коли не точно выразился, сорри, но, кажется, всё верно. Разве нет?;)
+      text: '1."Эйрик никуда не вливался": это была почти что цитата <a href="/artist/vidar-busk/russia2005.html">отсюда</a>. Коли не точно выразился, сорри, но, кажется, всё верно. Разве нет?;)
 
         2."Народу пришло...": и тем не менее, скажешь, блюз-ру ничего не делал для того, чтобы Бюска & Со узнали в Москве и за её пределами? Всё-таки во многом благодаря.
 
@@ -92,6 +92,6 @@ posts:
     email: evdokimov@blues.ru
     subject: картинки
     deleted: false
-    text: "<A HREF=\"/bluesnews/05Spring/buskmon/buskmon.htm\">http://www.blues.ru/bluesnews/05Spring/buskmon/buskmon.htm</A>\nесли кому надо на обои:\n<A HREF=\"/bluesnews/05Spring/buskmon/dscn5179.htm\">=\"http://www.blues.ru//bluesnews/05Spring/buskmon/dscn5179.htm</A>\nили\n<A HREF=\"http:/bluesnews/05Spring/buskmon/dscn5180.htm\">www.blues.ru/bluesnews/05Spring/buskmon/dscn5180.htm</A> - \nвышлю =)"
+    text: "<A HREF=\"/bluesnews/05Spring/buskmon/buskmon.htm\">/bluesnews/05Spring/buskmon/buskmon.htm</A>\nесли кому надо на обои:\n<A HREF=\"/bluesnews/05Spring/buskmon/dscn5179.htm\">=\"//bluesnews/05Spring/buskmon/dscn5179.htm</A>\nили\n<A HREF=\"http:/bluesnews/05Spring/buskmon/dscn5180.htm\">www.blues.ru/bluesnews/05Spring/buskmon/dscn5180.htm</A> - \nвышлю =)"
     inferred_person_id: 4
   inferred_person_id: 712

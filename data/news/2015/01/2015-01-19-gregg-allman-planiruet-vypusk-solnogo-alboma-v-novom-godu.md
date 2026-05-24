@@ -13,4 +13,4 @@ author: Blues.Ru
 
 GA: It's like the old material. I don't know what you'd call it. Everybody seems to want some kind of label put on their music. It could be a mixture of all of it. Some of my songs are folk. Some of them are straight-on blues, and some of them are rock and roll. It's just good ol' music.
 
-Почитать о том, как Грегг Оллман впервые увидел гитару вблизи, что он подумал об электрооргане Хэммонд Би-3, и о грибах, понижающих строй на два тона сразц - можно в разделе "Музыканты": <a href="/bluesmen/Allman_Brothers/allman_14.htm">/bluesmen/Allman_Brothers/allman_14.htm >>></a>
+Почитать о том, как Грегг Оллман впервые увидел гитару вблизи, что он подумал об электрооргане Хэммонд Би-3, и о грибах, понижающих строй на два тона сразц - можно в разделе "Музыканты": <a href="/artist/allman-brothers/allman-14.html">/artist/allman-brothers/allman-14.html >>></a>

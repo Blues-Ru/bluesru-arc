@@ -4,7 +4,7 @@ title: Полное собрание текстов Robert Johnson Текст о
 date: '1998-01-26'
 ---
 
-<a href="/bluesmen/Robert_Johnson/Robert_Johnson_lyr.htm">Полное
+<a href="/artist/robert-johnson/robert-johnson-lyr.html">Полное
     собрание текстов Robert Johnson</a>
 <a href="rblues/King_Biscuit/King_Biscuit.htm">Текст о группе
     King Biscuit</a>

@@ -5,7 +5,7 @@ date: '1998-01-19'
 ---
 
 19 декабря 1997 скончался Jimmy Rogers
-15 января 1998 скончался <a href="/bluesmen/Junior_Wells/Junior_Wells.htm">Junior
+15 января 1998 скончался <a href="/artist/junior-wells/junior-wells.html">Junior
     Wells</a>.
 На нашем сайте упорядочено
     прослушивание RA файлов. Теперь можно их

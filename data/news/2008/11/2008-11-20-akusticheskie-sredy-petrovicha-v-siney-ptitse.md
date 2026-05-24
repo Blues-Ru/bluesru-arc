@@ -15,4 +15,4 @@ author: Андрей Евдокимов
 
 Полуакустическую программу <a href="http://www.harmonicaman.ru/" target="_blank">Петрович & The Hot Rod Band</a> играют в клубе "Синяя птица" еженедельно, по средам.
 
-<a href="http://blues.ru/bluesnews/08Autumn/petrovich08/">Фоторепортаж о концерте</a>.
+<a href="/bluesnews/08Autumn/petrovich08/">Фоторепортаж о концерте</a>.

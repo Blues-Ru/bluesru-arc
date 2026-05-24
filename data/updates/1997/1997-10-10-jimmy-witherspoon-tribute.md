@@ -5,5 +5,5 @@ date: '1997-10-10'
 ---
 
 Статья Андрея Евдокимова и гид по
-    записям, посвященная светлой памяти <a href="/bluesmen/Jimmy_Witherspoon/Jimmy_Witherspoon.htm"><strong>Jimmy
+    записям, посвященная светлой памяти <a href="/artist/jimmy-witherspoon/jimmy-witherspoon.html"><strong>Jimmy
     Witherspoon</strong></a>.

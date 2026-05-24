@@ -12,7 +12,7 @@ posts:
   email: evdokimov@blues.ru
   subject: Дело о Пустых Холмах
   deleted: false
-  text: <a href="/news/?p=200707#348">http://blues.ru/news/?p=200707#348</a>
+  text: <a href="/news/?p=200707#348">/news/?p=200707#348</a>
   replies:
   - id: 33173
     parent_id: 33124

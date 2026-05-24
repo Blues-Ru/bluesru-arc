@@ -5,8 +5,8 @@ Vidar Busk &amp; His True Believers!</big></font></p>
 
 
 <ul>
-  <li><b><a href="/bluesmen/Vidar_Busk/MoscowTour.htm">Пресс-релиз к московским гастролям</a></b></li>
-  <li><a href="/bluesmen/Vidar_Busk/Hero.htm"><b>Биографическая статья о Бюске</b></a></li>
+  <li><b><a href="/artist/vidar-busk/moscowtour.html">Пресс-релиз к московским гастролям</a></b></li>
+  <li><a href="/artist/vidar-busk/hero.html"><b>Биографическая статья о Бюске</b></a></li>
   <li><b><a href="http://www.vidar-busk.no/fs_main.html">Официальный сайт Vidar Busk</a></b></li>
 </ul>
 

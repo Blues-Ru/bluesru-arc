@@ -4,4 +4,4 @@ title: 'Заппазуха #51 Двадцать три минуты'
 date: '2004-08-03'
 ---
 
-Заппазуха #51 <A HREF="http://www.blues.ru/zappazuhoi/7aug04.htm">Двадцать три минуты</A>
+Заппазуха #51 <A HREF="/zappazuhoi/7aug04.htm">Двадцать три минуты</A>

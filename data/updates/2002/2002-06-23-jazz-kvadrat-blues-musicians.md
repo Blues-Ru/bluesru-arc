@@ -5,12 +5,12 @@ date: '2002-06-23'
 ---
 
 С любезного разрешения журнала <a href="http://www.nestor.minsk.by/jz/"><b>Jazz-квадрат</b></a> мы перепечатываем ряд статей о блюзовых музыкантах:
-<a href="/bluesmen/Chris_Duarte/"><b>Chris Duarte</b></a>,
-<a href="/bluesmen/Coco_Montoya/Coco_Montoya_article.htm"><b>Coco Montoya</b></a>,
-<a href="/bluesmen/Corey_Harris/"><b>Corey Harris</b></a>,
-<a href="/bluesmen/Elvin_Bishop/"><b>Elvin Bishop</b></a>,
-<a href="/bluesmen/Keb_Mo/"><b>Keb' Mo'</b></a>,
-<a href="/bluesmen/Koko_Taylor/"><b>Koko Taylor</b></a>,
-<a href="/bluesmen/Long_John_Hunter/"><b>Long John Hunter</b></a>,
-<a href="/bluesmen/Son_Seals/"><b>Son Seals</b></a>,
-<a href="/bluesmen/Taj_Mahal/"><b>Taj Mahal</b></a>.
+<a href="/artist/chris-duarte/"><b>Chris Duarte</b></a>,
+<a href="/artist/coco-montoya/coco-montoya-article.html"><b>Coco Montoya</b></a>,
+<a href="/artist/corey-harris/"><b>Corey Harris</b></a>,
+<a href="/artist/elvin-bishop/"><b>Elvin Bishop</b></a>,
+<a href="/artist/keb-mo/"><b>Keb' Mo'</b></a>,
+<a href="/artist/koko-taylor/"><b>Koko Taylor</b></a>,
+<a href="/artist/long-john-hunter/"><b>Long John Hunter</b></a>,
+<a href="/artist/son-seals/"><b>Son Seals</b></a>,
+<a href="/artist/taj-mahal/"><b>Taj Mahal</b></a>.

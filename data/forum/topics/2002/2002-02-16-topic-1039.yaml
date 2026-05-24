@@ -91,7 +91,7 @@ posts:
 
                   Небольшой фрагмент можно послушать на
 
-                  <a href="http://www.blues.ru/BlackCat/bwj.htm" target="_blank">http://www.blues.ru/BlackCat/bwj.htm</a>.'
+                  <a href="/BlackCat/bwj.htm" target="_blank">/BlackCat/bwj.htm</a>.'
                 inferred_person_id: 6
             person_id: 6
         inferred_person_id: 6

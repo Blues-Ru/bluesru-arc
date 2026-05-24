@@ -14,8 +14,8 @@ date: '1997-04-17'
 Оливера об истории блюза</a>, который
 выполняет Сергей Павлов. Также теперь у нас
 можно прочитать две весьма интересные
-статьи Андрея Евдокимова о <a href="/bluesmen/Buddy_Guy/guy.htm">Buddy
-Guy</a> и о <a href="/bluesmen/Gary_Moore/moore.htm">Gary Moore</a>.</p>
+статьи Андрея Евдокимова о <a href="/artist/buddy-guy/guy.html">Buddy
+Guy</a> и о <a href="/artist/gary-moore/moore.html">Gary Moore</a>.</p>
 <p>В новом разделе <a href="media.htm">Медиа</a> вы
 теперь сможете найти коллекцию ссылок на то,
 что можно почитать, послушать, посмотреть

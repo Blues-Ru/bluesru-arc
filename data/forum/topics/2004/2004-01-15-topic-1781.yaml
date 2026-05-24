@@ -84,7 +84,7 @@ posts:
               email: nk@plastmo.ru
               subject: тут вполне.
               deleted: false
-              text: http://www.blues.ru/bluesnews/04Winter/04Winter.htm
+              text: /bluesnews/04Winter/04Winter.htm
               replies:
               - id: 16869
                 parent_id: 16866

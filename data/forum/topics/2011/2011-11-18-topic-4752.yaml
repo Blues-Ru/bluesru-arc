@@ -19,7 +19,7 @@ posts:
     poster: Игорь Головачев
     subject: Вот он какой BLUES.RU в 1997 году
     deleted: false
-    text: http://web.archive.org/web/19970715081714/http://www.blues.ru/
+    text: http://web.archive.org/web/19970715081714//
     replies:
     - id: 38077
       parent_id: 38076

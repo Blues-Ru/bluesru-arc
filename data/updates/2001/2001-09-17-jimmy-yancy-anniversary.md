@@ -4,4 +4,4 @@ title: 'Mean Black Cat Blues : 17 сентября - 50 лет со дня см�
 date: '2001-09-17'
 ---
 
-<b><a href="http://www.blues.ru/BlackCat/" target="_blank">Mean Black Cat Blues</a>: 17 сентября - 50 лет</b> со дня смерти одного из пионеров блюзового фортепианного стиля "буги-вуги" <b><a href="http://www.blues.ru/BlackCat/jy.htm" target="_blank">Джимми Йэнси</a></b>.
+<b><a href="/BlackCat/" target="_blank">Mean Black Cat Blues</a>: 17 сентября - 50 лет</b> со дня смерти одного из пионеров блюзового фортепианного стиля "буги-вуги" <b><a href="/BlackCat/jy.htm" target="_blank">Джимми Йэнси</a></b>.

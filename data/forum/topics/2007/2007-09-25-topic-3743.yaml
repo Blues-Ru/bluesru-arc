@@ -85,6 +85,6 @@ posts:
     email: fedor@blues.ru
     subject: В новостях...
     deleted: false
-    text: <a href="http://www.blues.ru/news/?p=200709#353">http://www.blues.ru/news/?p=200709#353</a>
+    text: <a href="/news/?p=200709#353">/news/?p=200709#353</a>
     person_id: 2
   inferred_person_id: 4

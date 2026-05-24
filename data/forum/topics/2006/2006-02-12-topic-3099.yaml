@@ -12,7 +12,7 @@ posts:
   email: аб@blues.ru
   subject: может кто-то прекратит эту вакханалию там внизу :)
   deleted: false
-  text: http://www.blues.ru/forum/?id=42067&page=0&body=1#42067
+  text: /forum/?id=42067&page=0&body=1#42067
   replies:
   - id: 26035
     parent_id: 26019

@@ -26,8 +26,8 @@ posts:
     text: 'Я был на его концерте раз 5 по 5 минут ;)))
 
 
-      Даже фото на блюз.ру есть <a href="http://www.blues.ru/nbf/gallery/list.aspx?s=st&y=all">
+      Даже фото на блюз.ру есть <a href="/nbf/gallery/list.aspx?s=st&y=all">
 
-      http://www.blues.ru/nbf/gallery/list.aspx?s=st&y=all</a>. ;)'
+      /nbf/gallery/list.aspx?s=st&y=all</a>. ;)'
     person_id: 2
   inferred_person_id: 712

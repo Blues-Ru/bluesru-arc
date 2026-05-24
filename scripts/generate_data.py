@@ -207,18 +207,60 @@ def generate_redirects():
     if bluesnews_file.exists():
         bluesnews_dirs = yaml.safe_load(bluesnews_file.read_text(encoding="utf-8")) or {}
 
+    # news iid → /news/YYYY/MM/DD/storyN/  (for /news/?iid=N middleware redirects)
+    news_iid: dict[str, str] = {}
+    news_dir = DATA / "news"
+    if news_dir.exists():
+        for p in news_dir.rglob("*.md"):
+            txt = p.read_text(encoding="utf-8")
+            m = re.match(r"^---\n(.*?)\n---", txt, re.DOTALL)
+            if not m:
+                continue
+            fm = yaml.safe_load(m.group(1)) or {}
+            nid = fm.get("id")
+            date = fm.get("date", "")
+            if nid is None or not isinstance(date, str) or len(date) < 10:
+                continue
+            news_iid[str(nid)] = f"/news/{date[:4]}/{date[5:7]}/{date[8:10]}/story{nid}/"
+
+    # artist display name (normalized) → /artist/{slug}/  (for albumsearch redirects)
+    import unicodedata
+    def _norm(s: str) -> str:
+        s = unicodedata.normalize("NFKD", s)
+        s = "".join(c for c in s if not unicodedata.combining(c))
+        s = s.lower()
+        s = re.sub(r"[^a-z0-9]+", " ", s)
+        return s.strip()
+    artist_names: dict[str, str] = {}
+    for a in (artists_raw or []):
+        slug = a.get("slug", "")
+        if not slug:
+            continue
+        target = f"/artist/{slug}/"
+        for field in ("name", "sort_name"):
+            v = a.get(field) or ""
+            if not v:
+                continue
+            artist_names.setdefault(_norm(v), target)
+            if "," in v:
+                last, _, first = v.partition(",")
+                artist_names.setdefault(_norm(f"{first.strip()} {last.strip()}"), target)
+
     manifest = {
         "albums": album_redirects,
         "artists": artist_redirects,
         "bluesmen": bluesmen_dirs,
         "bluesnews": bluesnews_dirs,
+        "news_iid": news_iid,
+        "artist_names": artist_names,
     }
 
     out_path = OUT / "redirects.json"
     with out_path.open("w", encoding="utf-8") as f:
         json.dump(manifest, f, ensure_ascii=False, indent=2)
     print(f"redirects.json: {len(album_redirects)} albums, {len(artist_redirects)} artists, "
-          f"{len(bluesmen_dirs)} bluesmen dirs, {len(bluesnews_dirs)} bluesnews dirs")
+          f"{len(bluesmen_dirs)} bluesmen dirs, {len(bluesnews_dirs)} bluesnews dirs, "
+          f"{len(news_iid)} news iids, {len(artist_names)} artist names")
 
 
 # ─── main ──────────────────────────────────────────────────────────────────

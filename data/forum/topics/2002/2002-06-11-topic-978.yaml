@@ -165,7 +165,7 @@ posts:
     email: blackcat@blues.ru
     subject: достоверно не установлено
     deleted: false
-    text: Подробности <i><a href="http://www.blues.ru/BlackCat/bwj.htm" target="_blank">тут</a></i>.
+    text: Подробности <i><a href="/BlackCat/bwj.htm" target="_blank">тут</a></i>.
     person_id: 6
   - id: 5286
     parent_id: 5260

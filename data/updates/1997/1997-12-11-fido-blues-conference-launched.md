@@ -28,19 +28,19 @@ date: '1997-12-11'
 У фирмы <strong>A&amp;T Trade</strong>, одного из
     лучших продавцов музыкальных
     инструментов в России, появился <a href="http://www.attrade.ru">web-сайт.</a>
-<a href="/bluesmen/Jimi_Hendrix/newdisk.htm">Jimi Hendrix. Новые
+<a href="/artist/jimi-hendrix/newdisk.html">Jimi Hendrix. Новые
     релизы фирмы MCA.</a><strong> </strong>Статья <b>Александра
     БОЛЬШИНСКОГО</b>. Перепечатано из <a href="http://www.nestor.minsk.by/mg/">Музыкальной
     Газеты</a>.
-<a href="/bluesmen/Jimi_Hendrix/legend.htm">Легенда о Джими
+<a href="/artist/jimi-hendrix/legend.html">Легенда о Джими
     Хендриксе</a>. Статья <b>Вячеслава
     БОНДАРЕНКО</b>. Перепечатано из <a href="http://www.nestor.minsk.by/mg/">Музыкальной
     Газеты</a>.
-<a href="/bluesmen/Jimi_Hendrix/article.htm">Jimi Hendrix. Быль о
+<a href="/artist/jimi-hendrix/article.html">Jimi Hendrix. Быль о
     человеке-легенде.</a> Статья <strong>Натальи
     РОМАНОВИЧ.</strong> Перепечатано из <strong>Общей
     Газеты.</strong>
-<a href="/bluesmen/John_Lee_Hooker/budda.htm">John Lee Hooker:
+<a href="/artist/john-lee-hooker/budda.html">John Lee Hooker:
     блюзовый Будда</a>. Статья <strong>Серге
     Козловского и Александра Петрова</strong>.<strong>
     Перепечатано из <a href="http://www.nestor.minsk.by/mg/">Музыкальной

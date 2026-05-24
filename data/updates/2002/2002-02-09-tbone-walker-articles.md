@@ -4,4 +4,4 @@ title: Две статьи о T-Bone Walker в переводе Антона К�
 date: '2002-02-09'
 ---
 
-Две статьи о <a href="/bluesmen/T-Bone_Walker/"><b>T-Bone Walker</b></a> в переводе Антона Клепикова.
+Две статьи о <a href="/artist/t-bone-walker/"><b>T-Bone Walker</b></a> в переводе Антона Клепикова.

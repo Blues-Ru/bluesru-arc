@@ -58,7 +58,7 @@ posts:
         email: blackcat@blues.ru
         subject: две главы о блюзе из Коллиера...
         deleted: false
-        text: '... (и не только) - можно прочесть <a href="http://www.blues.ru/BlackCat/preach.htm" target="_blank">вот тут</a>, на <a href="http://www.blues.ru/BlackCat/" target="_blank">"Блюзовой архаике"</a>.'
+        text: '... (и не только) - можно прочесть <a href="/BlackCat/preach.htm" target="_blank">вот тут</a>, на <a href="/BlackCat/" target="_blank">"Блюзовой архаике"</a>.'
         person_id: 6
       inferred_person_id: 698
   - id: 7945

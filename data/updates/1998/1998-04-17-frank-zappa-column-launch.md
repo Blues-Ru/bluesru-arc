@@ -16,9 +16,9 @@ date: '1998-04-17'
     Автор колонки - Владимир Советов из
     Кемерово - один из ведущих заппоманов и
     запповедов в России и за ее пределами.
-Статья Максима Павлюка <a href="/bluesmen/Kenny_Neal/Kenny_Neal.htm">&quot;СЕМЕЙНОЕ
+Статья Максима Павлюка <a href="/artist/kenny-neal/kenny-neal.html">&quot;СЕМЕЙНОЕ
     ДЕЛО&quot;</a> о блюзовом семействе Нилов.
-Статья Евгения Долгих о <a href="/bluesmen/Lucky_Peterson/Lucky_Peterson.htm">Lucky
+Статья Евгения Долгих о <a href="/artist/lucky-peterson/lucky-peterson.html">Lucky
     Peterson</a>.
 Обновился раздел <a href="advert.htm">объявлений</a>,
     страница о <a href="allthatb.htm">передаче Андре

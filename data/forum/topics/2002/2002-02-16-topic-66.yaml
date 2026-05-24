@@ -105,7 +105,7 @@ posts:
           email: evdokimov@blues.ru
           subject: just one more link
           deleted: false
-          text: http://www.blues.ru/bluesmen/Pinetop_Perkins/Perkins_Sumlin.htm
+          text: /artist/pinetop-perkins/perkins-sumlin.html
           person_id: 4
         inferred_person_id: 26
       person_id: 712
@@ -121,27 +121,27 @@ posts:
 
       О собственно блюзменах-пианистах см.:
 
-      http://www.blues.ru/BlackCat/lc&sb.htm
+      /BlackCat/lc&sb.htm
 
-      http://www.blues.ru/BlackCat/dc.htm
+      /BlackCat/dc.htm
 
-      http://www.blues.ru/BlackCat/ccd.htm
+      /BlackCat/ccd.htm
 
-      http://www.blues.ru/BlackCat/gtd.htm
+      /BlackCat/gtd.htm
 
-      http://www.blues.ru/BlackCat/luj.htm
+      /BlackCat/luj.htm
 
-      http://www.blues.ru/BlackCat/ccl.htm
+      /BlackCat/ccl.htm
 
-      http://www.blues.ru/BlackCat/ps.htm
+      /BlackCat/ps.htm
 
-      http://www.blues.ru/BlackCat/chs.htm
+      /BlackCat/chs.htm
 
-      http://www.blues.ru/BlackCat/sr.htm
+      /BlackCat/sr.htm
 
-      http://www.blues.ru/BlackCat/rs.htm
+      /BlackCat/rs.htm
 
-      http://www.blues.ru/BlackCat/jy.htm
+      /BlackCat/jy.htm
 
       Кроме этого, пианино и гитарой в равной степени владели такие великие блюзмены, как Лонни Джонсон, Скип Джеймс, Ледбелли, Тампа Ред, Пити Уэтстроу, Букка Уайт, и живой доныне Генри Таунзенд.'
     replies:

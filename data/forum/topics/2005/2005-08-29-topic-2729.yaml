@@ -26,7 +26,7 @@ posts:
     email: blackcat@blues.ru
     subject: осторожно! реклама
     deleted: false
-    text: Вам <a href="http://www.blues.ru/BlackCat/" target="_blank">сюда</a>.
+    text: Вам <a href="/BlackCat/" target="_blank">сюда</a>.
     person_id: 6
   - id: 22556
     parent_id: 22545

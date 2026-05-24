@@ -23,8 +23,8 @@ author: Андрей Евдокимов
 
 <i>I have a deep feeling for the common people, the everyday working man, the struggling addict or hopeless homeless person. I have tried to create music that calls attention my belief that we are all struggling and fighting the good fight in this life. I would like to be thought of as someone who attempted to make this world a little bit better place through his music. Whether or not I have succeeded at that is up to the listener to decide. But I promise I will continue to do that with all of my strength and ability until I am no longer able."</i>
 
-О выступлении Уолтера Траута в Москве в 2008 г.: <a href="/news/2008/03/31/story423/">на словах</a> и <a href="http://blues.ru/bluesnews/08Spring/tr08/">в фотографиях</a>.
+О выступлении Уолтера Траута в Москве в 2008 г.: <a href="/news/2008/03/31/story423/">на словах</a> и <a href="/bluesnews/08Spring/tr08/">в фотографиях</a>.
 
-Рецензии на <a href="/data/artistview.aspx?aid=359">альбомы Траута на Blues.Ru</a>.
+Рецензии на <a href="/artist/walter-trout/">альбомы Траута на Blues.Ru</a>.
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/ptPfyW4AduE" frameborder="0" allowfullscreen></iframe></center>

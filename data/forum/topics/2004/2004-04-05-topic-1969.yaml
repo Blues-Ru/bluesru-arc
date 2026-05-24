@@ -32,7 +32,7 @@ posts:
     deleted: false
     text: 'как вариант, иногда можно заглядывать в новости блюз-ру. например, потому, что блюз-ру обладает эксклюзивной информацией о гастролях короля блюза... просто так совпало...
 
-      http://blues.ru/bluesnews/04Winter/04Winter.htm'
+      /bluesnews/04Winter/04Winter.htm'
     replies:
     - id: 17873
       parent_id: 17871

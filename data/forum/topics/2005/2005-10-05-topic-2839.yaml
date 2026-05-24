@@ -12,7 +12,7 @@ posts:
   email: evdokimov@blues.ru
   subject: 'Курсовые понедельники: 10 - Мишурис и друзья!'
   deleted: false
-  text: "<center><p><img src=\"http://www.blues.ru/afisha/sMoney.gif\" width=\"150\" height=\"153\" alt=\"MISHOURIS BLUES BAND - I GOT MONEY\" border=\"0\" align=\"right\" hspace=\"12\"><font color=\"#0000A0\"><b>Блюзовые понедельники в клубе КУРС</b></font></p>\n<h2><font color=\"#400080\">10 ОКТЯБРЯ<br> \nMISHOURIS BLUES BAND</font><br>\n<font color=\"#0000FF\">&quot;I GOT MONEY&quot;</font></h2>\n\n<p><b>Презентация нового альбома</b><br>\n\n<small>(в концерте примут участие многие <br>\nизвестные московские блюзовые музыканты)</small>\n</p></center>\n<br clear=\"all\">\n<center><a href=\"http://www.blues.ru/afisha/M_Kurs.jpg\" target=\"_blank\"><img src=\"http://www.blues.ru/afisha/sM_Kurs.jpg\" width=\"350\" height=\"250\" alt=\"MISHOURIS BLUES BAND в клубе КУРСК\" border=\"0\" align=\"\"></a></center>\n<p><small>ул.Казакова, 8а; м. Курская; тел.262-4482; (Малый Зал Театра им. Гоголя; (из метро &quot;Курская&quot; к театру им.Гоголя ведут указатели)</small><br>\n<a href=\"http://www.blues.ru/afisha/kursplan.jpg\">схема расположения клуба</a></p>\n<br clear=\"all\">\n<p><u>Есть желание помочь?</u> Вы обладаете принтером или доступом к оному? <br>\n<a href=\"http://www.blues.ru/afisha/mkurs.htm\">Распечатайте вот это</a> и повесьте в любом месте: на доске объявлений, в столовке, туалете и т.д. Кое-кто из московских блюзовых и кое-кто  из неблюзовых деятелей не успели напечатать афиши, и любая помощь не будет лишней. Вы получите волшебное чувство общности с московским блюз-шоу-бизнесом, а нам будет счастье!</p>"
+  text: "<center><p><img src=\"/afisha/sMoney.gif\" width=\"150\" height=\"153\" alt=\"MISHOURIS BLUES BAND - I GOT MONEY\" border=\"0\" align=\"right\" hspace=\"12\"><font color=\"#0000A0\"><b>Блюзовые понедельники в клубе КУРС</b></font></p>\n<h2><font color=\"#400080\">10 ОКТЯБРЯ<br> \nMISHOURIS BLUES BAND</font><br>\n<font color=\"#0000FF\">&quot;I GOT MONEY&quot;</font></h2>\n\n<p><b>Презентация нового альбома</b><br>\n\n<small>(в концерте примут участие многие <br>\nизвестные московские блюзовые музыканты)</small>\n</p></center>\n<br clear=\"all\">\n<center><a href=\"/afisha/M_Kurs.jpg\" target=\"_blank\"><img src=\"/afisha/sM_Kurs.jpg\" width=\"350\" height=\"250\" alt=\"MISHOURIS BLUES BAND в клубе КУРСК\" border=\"0\" align=\"\"></a></center>\n<p><small>ул.Казакова, 8а; м. Курская; тел.262-4482; (Малый Зал Театра им. Гоголя; (из метро &quot;Курская&quot; к театру им.Гоголя ведут указатели)</small><br>\n<a href=\"/afisha/kursplan.jpg\">схема расположения клуба</a></p>\n<br clear=\"all\">\n<p><u>Есть желание помочь?</u> Вы обладаете принтером или доступом к оному? <br>\n<a href=\"/afisha/mkurs.htm\">Распечатайте вот это</a> и повесьте в любом месте: на доске объявлений, в столовке, туалете и т.д. Кое-кто из московских блюзовых и кое-кто  из неблюзовых деятелей не успели напечатать афиши, и любая помощь не будет лишней. Вы получите волшебное чувство общности с московским блюз-шоу-бизнесом, а нам будет счастье!</p>"
   replies:
   - id: 23740
     parent_id: 23570
@@ -32,7 +32,7 @@ posts:
       deleted: false
       text: 'Господа... буквально за двое суток до концерта была изготовлена настоящая афиша:
 
-        <a href="/afisha/kurs_curves.jpg">http://www.blues.ru/afisha/kurs_curves.jpg</a>'
+        <a href="/afisha/kurs_curves.jpg">/afisha/kurs_curves.jpg</a>'
       replies:
       - id: 23813
         parent_id: 23758

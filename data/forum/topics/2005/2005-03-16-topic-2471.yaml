@@ -12,7 +12,7 @@ posts:
   email: evdokimov@blues.ru
   subject: Все на вторники с Петровичем и его гостями в клубе БиБиКинг.
   deleted: false
-  text: Вчера, например, было очень душевно. <a href="http://www.blues.ru/news/?p=200503#166">Вот новость с картинками</a>
+  text: Вчера, например, было очень душевно. <a href="/news/?p=200503#166">Вот новость с картинками</a>
   replies:
   - id: 20696
     parent_id: 20695

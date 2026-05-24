@@ -23,7 +23,7 @@ posts:
     email: peregnoy@mail.ru
     subject: Летайте самолётами Аэрофлота - читайте внимательней форум!
     deleted: false
-    text: См. http://www.blues.ru/forum/?id=26501&page=0&body=1#26501
+    text: См. /forum/?id=26501&page=0&body=1#26501
     person_id: 712
   - id: 11247
     parent_id: 11239

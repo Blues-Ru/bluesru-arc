@@ -82,7 +82,7 @@ posts:
     email: blackcat@blues.ru
     subject: какой странно знакомый текст
     deleted: false
-    text: 'Особенно местами, которые я сам <a href="http://blues.ru/blog/neckapb/posts/396.aspx" target="_blank">написал для здешнего блога</a> два с лишним года назад.
+    text: 'Особенно местами, которые я сам <a href="/blog/neckapb/posts/396.aspx" target="_blank">написал для здешнего блога</a> два с лишним года назад.
 
       Андрей, это шутка, что ли, такая?'
     replies:

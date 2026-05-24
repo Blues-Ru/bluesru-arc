@@ -112,5 +112,5 @@ posts:
     email: evdokimov@blues.ru
     subject: пресс-конференция
     deleted: false
-    text: <a href="http://blues.ru/bluesnews/07Automn/efes07/07Efespress/index.html">http://blues.ru/bluesnews/07Automn/efes07/07Efespress/index.html</a>
+    text: <a href="/bluesnews/07Automn/efes07/07Efespress/index.html">/bluesnews/07Automn/efes07/07Efespress/index.html</a>
     person_id: 4

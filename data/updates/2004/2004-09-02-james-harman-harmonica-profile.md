@@ -5,4 +5,4 @@ date: '2004-09-02'
 ---
 
 Статья Брайана Пауэлла о блюзовом гармонисте, вокалисте и авторе песен
-<a href="/bluesmen/James_Harman/"><b>James Harman</b></a> в переводе Арсена Шомахова.
+<a href="/artist/james-harman/"><b>James Harman</b></a> в переводе Арсена Шомахова.

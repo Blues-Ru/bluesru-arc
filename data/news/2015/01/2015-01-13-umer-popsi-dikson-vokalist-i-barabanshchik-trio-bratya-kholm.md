@@ -23,6 +23,6 @@ Willie "Popsy" Dixon родился 26 июля 1942 года в Вирджин�
 
 <center><img src="/bluesnews/The-Holmes-Brothers.jpg" width="333" height="335" alt="" title="" /></center>
 
-<a href="/data/artistview.aspx?aid=257">Blues.Ru о The Holmes Brothers</a>, включая интервью и фотографии 2000 года, когда трио выступало в Москве. http://blues.ru/data/artistview.aspx?aid=257
+<a href="/artist/holmes-brothers/">Blues.Ru о The Holmes Brothers</a>, включая интервью и фотографии 2000 года, когда трио выступало в Москве. /artist/holmes-brothers/
 
 <a href="https://play.spotify.com/user/alligatorrecords/playlist/25xn0ANZG4J2cViojHqz1d" target="_blank">Spotify - подборка песен, в которых солировал Попси Диксон.</a>
