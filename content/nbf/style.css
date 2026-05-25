@@ -1,6 +1,9 @@
 .article p { text-indent: 3em; text-align: justify; font-weight: normal }
 .article h3 { text-align: center }
 
+/* Override global 720px body cap so the side nav doesn't squeeze the article. */
+body:has(.nbf-wrap) { max-width: 1000px; }
+
 /* ── Flex layout ───────────────────────────────── */
 .nbf-wrap {
   display: flex;
@@ -31,18 +34,16 @@
   .nbf-wrap {
     flex-direction: column;
   }
-  /* Content comes first on mobile */
-  .nbf-content {
-    order: -1;
-    width: 100%;
-    padding: 0 0 8px 0;
-  }
   .nbf-nav {
     width: 100%;
     border-right: none;
-    border-top: 1px solid #ccc;
-    padding: 8px 0 0 0;
-    margin-top: 8px;
+    border-bottom: 1px solid #ccc;
+    padding: 0 0 8px 0;
+    margin-bottom: 8px;
+  }
+  .nbf-content {
+    width: 100%;
+    padding: 0 0 8px 0;
   }
   .nbf-nav-toggle {
     display: block;

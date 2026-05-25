@@ -1,10 +1,37 @@
 .article p { text-indent: 3em; text-align: justify; font-weight: normal }
-body { margin-top: 4px; margin-left: 4px; }
 
+/* Override global 720px body cap so the article column isn't squeezed.
+   Selector specificity (html body) beats the global `body` rule. */
+html body { max-width: 1000px; }
+
+/* ── Mobile: stacked nav-on-top via toggle.js restructuring ───── */
 @media (max-width: 680px) {
-  body { margin: 0; }
+  html body { padding: 0 0.5em; }
   body > table { width: 100% !important; }
-  body > table > tbody > tr > td,
-  body > table > tr > td { width: 100% !important; box-sizing: border-box; }
-  body > table td[width="200"] { width: 100% !important; }
+  body > table td { width: 100% !important; box-sizing: border-box; }
+
+  .efes-mobile-nav {
+    width: 100%;
+    border-bottom: 1px solid #ccc;
+    margin-bottom: 8px;
+    padding-bottom: 4px;
+  }
+  .efes-mobile-nav-toggle {
+    display: block;
+    width: 100%;
+    background: #8B0000;
+    color: #fff;
+    border: none;
+    padding: 8px 12px;
+    font-size: 1em;
+    text-align: left;
+    cursor: pointer;
+    margin-bottom: 4px;
+  }
+  .efes-mobile-nav-inner {
+    display: none;
+  }
+  .efes-mobile-nav.open .efes-mobile-nav-inner {
+    display: block;
+  }
 }
