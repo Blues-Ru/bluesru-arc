@@ -32,9 +32,11 @@
 В архиве {{ total }} {{ total_word }} из цифровых записей 2011–2022 годов.</p>
 
 {% if seasonal %}
+<div data-atb-seasonal="index" data-count="5">
 {% for ep in seasonal %}
 <p><span class="ep-date">{{ ep.date }}</span> <a href="{{ ep.url }}">{{ ep.summary | e }}</a></p>
 {% endfor %}
+</div>
 <hr size="1">
 {% endif %}
 
@@ -83,5 +85,6 @@
 <hr size="1"/>
 
 <p align="center">{{ footer }}</p>
+<script src="/js/atb-seasonal.js"></script>
 </body>
 </html>

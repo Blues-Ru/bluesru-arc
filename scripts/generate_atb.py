@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """Generate /atb/ section — 'Весь этот блюз' radio show index + episode pages."""
 import html as html_mod
+import json
 import re
 import sys
 import yaml
@@ -167,7 +168,13 @@ def generate_atb():
             ), encoding='utf-8')
         ep_pages_written += 1
 
-    # ── Seasonal episodes (closest to today's day-of-year) ────────────────────
+    # ── Seasonal episodes (closest to today's calendar day) ───────────────────
+    # The full datable list is emitted as JSON and re-ranked in the browser by
+    # js/atb-seasonal.js against the visitor's actual date, so the selection
+    # rotates day-to-day (and year-to-year) without a rebuild. Most shows mark a
+    # bluesman's birth/death anniversary, so the day-of-year alignment stays
+    # meaningful across years. The list below is only the no-JS / pre-load
+    # fallback, ranked against the build date.
     today = datetime.now()
     today_doy = today.timetuple().tm_yday
 
@@ -178,24 +185,33 @@ def generate_atb():
         except (ValueError, AttributeError):
             return 999
 
-    datable_shows = [
-        s for s in shows
-        if s.get('is_show') and s.get('date') and len(s.get('date', '')) == 10
-    ]
-    seasonal = sorted(datable_shows, key=lambda s: (_doy_forward(s['date']), s['date']))[:5]
-    seasonal_items = []
-    for s in seasonal:
+    def _seasonal_item(s):
         artists = [
             {'slug': t['slug'], 'name': t.get('name', t['slug'])}
             for t in (s.get('artists_tags') or [])
             if t.get('slug')
         ]
-        seasonal_items.append({
+        return {
             'date': s['date'],
+            'md': s['date'][5:],  # MM-DD, used for client-side day matching
             'summary': s.get('summary') or s.get('topic') or s.get('slug'),
             'url': s['page_url'],
             'artists': artists,
-        })
+        }
+
+    datable_shows = [
+        s for s in shows
+        if s.get('is_show') and s.get('date') and len(s.get('date', '')) == 10
+    ]
+    # Full list for the client-side widget (sorted by date for a stable file).
+    all_seasonal = [_seasonal_item(s) for s in sorted(datable_shows, key=lambda s: s['date'])]
+    data_dst = SITE / 'data' / 'atb' / 'seasonal.json'
+    data_dst.parent.mkdir(parents=True, exist_ok=True)
+    data_dst.write_text(json.dumps(all_seasonal, ensure_ascii=False, indent=1), encoding='utf-8')
+
+    # Build-date fallback (top 5), overridden by JS on load.
+    seasonal = sorted(datable_shows, key=lambda s: (_doy_forward(s['date']), s['date']))[:5]
+    seasonal_items = [_seasonal_item(s) for s in seasonal]
 
     # ── ATB index page ─────────────────────────────────────────────────────────
     tmpl = JINJA_ENV.get_template('atb_index.html.j2')

@@ -178,7 +178,7 @@ a { text-decoration: none; }
 <a name="atb"></a>
 <h3><a href="/atb/">Весь Этот Блюз &gt;&gt;</a></h3>
 {% if latest_atb %}
-<ul class="widget-list">
+<ul class="widget-list" data-atb-seasonal="homepage" data-count="{{ latest_atb | length }}">
 {% for ep in latest_atb %}
 <li><span class="widget-date"><font color="#4F62B5">{{ ep.date }}</font></span>&ensp;<a href="{{ ep.url }}">{{ ep.summary | e }}</a>{% if ep.artists %} &mdash; <small>{% for a in ep.artists %}<a href="/artist/{{ a.slug }}/#atb">{{ a.name | e }}</a>{% if not loop.last %}, {% endif %}{% endfor %}</small>{% endif %}</li>
 {% endfor %}
@@ -240,6 +240,7 @@ a { text-decoration: none; }
 </div><!-- site-wrap -->
 
 <script src="/js/calendar.js"></script>
+<script src="/js/atb-seasonal.js"></script>
 <script src="/js/contact.js"></script>
 <script>
 function toggleNav() {
