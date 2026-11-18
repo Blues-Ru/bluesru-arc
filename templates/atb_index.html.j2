@@ -29,7 +29,7 @@
 <p><img src="/images/atb2.jpg" style="max-width:100%;height:auto" alt="Весь этот блюз"></p>
 <p>Авторская программа <b><a href="/andrey/">Андрея Евдокимова</a></b> «Весь этот блюз» выходила на радио с 1987 по 2022 год —
 на первой кнопке, Маяке, Радио Рокс, Открытом радио и Эхо Москвы.
-В архиве {{ total }} {{ total_word }} из цифровых записей 2011–2022 годов.</p>
+В архиве {{ total }} {{ total_word }} {{ first_year }}–{{ last_year }} годов.</p>
 
 {% if seasonal %}
 <div data-atb-seasonal="index" data-count="5">
@@ -57,14 +57,14 @@
 {% if show_list %}
 {% for show in show_list %}
 <p>
-<span class="ep-date">{{ show.date }}</span>
+<span class="ep-date">{{ show.date | display_date }}</span>
 <a href="{{ show.page_url }}">{{ show.summary or show.topic or show.slug }}</a>
 {%- if show.files | length > 1 %} <span class="ep-parts">({{ show.files | length }} части)</span>{% endif %}
 </p>
 {% endfor %}
 {% elif track_list %}
 <p>
-<span class="ep-date">{{ date_str }}</span>
+<span class="ep-date">{{ date_str | display_date }}</span>
 <b>{{ track_list[0].subdir.split('/')[-1] | replace('_', ' ') }}</b> — {{ track_list | length }} треков
 <div class="ep-tracks">
 {% for t in track_list %}{% set f = t.files[0] if t.files else {} %}<a href="{{ f.path or '' }}">{{ t.topic or t.slug }}</a>{% if not loop.last %} · {% endif %}{% endfor %}
@@ -84,6 +84,9 @@
 
 <hr size="1"/>
 
+{% if has_partial_dates %}
+<p><small>Для части выпусков известен только год или месяц выхода в эфир — он определён по содержанию передачи.</small></p>
+{% endif %}
 <p align="center">{{ footer }}</p>
 <script src="/js/atb-seasonal.js"></script>
 </body>

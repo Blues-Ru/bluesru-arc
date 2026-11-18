@@ -14,7 +14,7 @@ from pathlib import Path
 from typing import Any
 
 from models import Album, ArtistLink, CalendarEvent
-from render_utils import cover_url_for_asin, star_rating_html
+from render_utils import cover_url_for_asin, display_date, star_rating_html
 
 
 # ── URL helpers ────────────────────────────────────────────────────────────────
@@ -147,7 +147,7 @@ def atb_links_html(atb_episodes: list[dict]) -> str:
     for ep in sorted(atb_episodes, key=lambda e: e.get('date', ''), reverse=True):
         label    = html_mod.escape(ep['summary'])
         url      = ep['page_url']
-        date     = ep.get('date', '')
+        date     = display_date(ep.get('date', ''))
         date_str = (f'<small style="color:#777">{html_mod.escape(date)}</small> '
                     if date else '')
         lines.append(f'{date_str}<a href="{url}">{label}</a>')

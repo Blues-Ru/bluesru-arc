@@ -18,6 +18,8 @@ from generate_shared import (
     SITE,
     _build_links_snippet,
     _generate_links_page,
+    artist_page_slugs,
+    is_exact_date,
 )
 
 
@@ -63,9 +65,9 @@ def generate_homepage():
             except (ValueError, AttributeError):
                 return 999
 
-        datable = [s for s in atb_shows if s.get('date') and s.get('date') != 'unknown'
-                   and (s.get('subdir') or '') in SHOW_SUBDIRS
-                   and len(s.get('date', '')) == 10]
+        linkable = artist_page_slugs()
+        datable = [s for s in atb_shows if is_exact_date(s.get('date'))
+                   and (s.get('subdir') or '') in SHOW_SUBDIRS]
         # Sort forward from today's DOY; break ties by recency (prefer later years)
         datable_desc = sorted(datable, key=lambda s: (doy_forward(s['date']), s['date']))
 
@@ -77,7 +79,7 @@ def generate_homepage():
             artists = [
                 {'slug': t['slug'], 'name': t.get('name', t['slug'])}
                 for t in (s.get('artists_tags') or [])
-                if t.get('slug')
+                if t.get('slug') in linkable
             ]
             latest_atb_items.append({
                 'date': s['date'],

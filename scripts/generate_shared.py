@@ -51,6 +51,8 @@ from render_utils import (
     format_review_body,
     format_news_body,
     format_news_body_simple,
+    display_date,
+    is_exact_date,
 )
 
 from gallery_utils import (
@@ -192,6 +194,7 @@ JINJA_ENV = jinja2.Environment(
 # ── Footer, GA, CSS ────────────────────────────────────────────────────────────
 FOOTER = (INCLUDES / 'footer.inc').read_text(encoding='utf-8').strip()
 DONATE = (INCLUDES / 'donate.inc').read_text(encoding='utf-8').strip()
+JINJA_ENV.filters['display_date'] = display_date
 JINJA_ENV.globals['footer'] = FOOTER
 JINJA_ENV.globals['donate'] = DONATE
 
@@ -803,6 +806,49 @@ def _generate_stub_artist_page(
     dst.parent.mkdir(parents=True, exist_ok=True)
     dst.write_text(out, encoding='utf-8')
     return dst
+
+
+# ── Artist pages ───────────────────────────────────────────────────────────────
+
+def artist_bio_dir(a: dict) -> tuple[Path | None, str]:
+    """Locate an artist's bio source dir under content/artist/.
+
+    Tries legacy_path's last segment, then Name_With_Underscores, then the slug.
+    Returns (src_dir or None, legacy_dir name used for the legacy URL)."""
+    src_root = CONTENT / 'artist'
+    parts = (a.get('legacy_path') or '').strip('/').split('/')
+    legacy_dir = parts[-1]
+    if '.' in legacy_dir or legacy_dir.startswith('www.'):  # external site, not a dir
+        legacy_dir = ''
+    if legacy_dir and (src_root / legacy_dir).exists():
+        return src_root / legacy_dir, legacy_dir
+    name_dir = (a.get('name') or '').replace(' ', '_')
+    if legacy_dir and name_dir and (src_root / name_dir).exists():
+        return src_root / name_dir, name_dir
+    slug = a.get('slug', '')
+    if slug and (src_root / slug).exists():
+        return src_root / slug, slug
+    return None, legacy_dir
+
+
+_ARTIST_PAGE_SLUGS: set | None = None
+
+
+def artist_page_slugs() -> set:
+    """Slugs that get a page at /artist/{slug}/: a bio dir, reviews or galleries.
+
+    Same rule as generate_artists; lets other sections link only to existing
+    pages without depending on build order."""
+    global _ARTIST_PAGE_SLUGS
+    if _ARTIST_PAGE_SLUGS is None:
+        reviews = _load_artist_reviews()
+        galleries = _build_galleries_by_slug()
+        _ARTIST_PAGE_SLUGS = {
+            a['slug'] for a in load_artists() if a.get('slug') and (
+                artist_bio_dir(a)[0] is not None
+                or reviews.get(str(a.get('id', ''))) or galleries.get(a['slug']))
+        }
+    return _ARTIST_PAGE_SLUGS
 
 
 # ── Artist review loader ───────────────────────────────────────────────────────

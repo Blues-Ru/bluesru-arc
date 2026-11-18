@@ -18,6 +18,8 @@ from generate_shared import (
     CONTENT,
     FOOTER,
     JINJA_ENV,
+    artist_page_slugs,
+    is_exact_date,
     SITE,
     _parse_transcript_md,
     _transcript_to_html,
@@ -93,6 +95,9 @@ def generate_atb():
         if (t['slug'] if isinstance(t, dict) else t)
     }
 
+    # Tags may name artists without a page yet; those render as plain text.
+    linkable = artist_page_slugs()
+
     # ── Episode pages ──────────────────────────────────────────────────────────
     ep_page_tmpl = JINJA_ENV.get_template('atb_episode.html.j2')
 
@@ -137,7 +142,7 @@ def generate_atb():
             name = tag.get('name', slug) if isinstance(tag, dict) else slug
             if not slug:
                 continue
-            if (SITE / 'artist' / slug).is_dir():
+            if slug in linkable:
                 frag = '#atb' if slug in slugs_with_atb else ''
                 items.append(f'<a href="/artist/{slug}/{frag}">{html_mod.escape(name)}</a>')
             else:
@@ -189,7 +194,7 @@ def generate_atb():
         artists = [
             {'slug': t['slug'], 'name': t.get('name', t['slug'])}
             for t in (s.get('artists_tags') or [])
-            if t.get('slug')
+            if t.get('slug') in linkable
         ]
         return {
             'date': s['date'],
@@ -201,7 +206,7 @@ def generate_atb():
 
     datable_shows = [
         s for s in shows
-        if s.get('is_show') and s.get('date') and len(s.get('date', '')) == 10
+        if s.get('is_show') and is_exact_date(s.get('date'))
     ]
     # Full list for the client-side widget (sorted by date for a stable file).
     all_seasonal = [_seasonal_item(s) for s in sorted(datable_shows, key=lambda s: s['date'])]
@@ -231,6 +236,9 @@ def generate_atb():
         total=total,
         total_word=_ru_episodes(total),
         year_groups=year_groups,
+        first_year=min(year_groups),
+        last_year=max(year_groups),
+        has_partial_dates=any(s.get('date') and not is_exact_date(s['date']) for s in shows),
         undated=undated,
         seasonal=seasonal_items,
         footer=FOOTER,

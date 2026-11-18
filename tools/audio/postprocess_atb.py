@@ -14,12 +14,19 @@ JSONs are preserved separately for re-prompting.
 Usage:
     python3 postprocess_atb.py <slug_or_json> [...]
     python3 postprocess_atb.py atb-2014-10-27-guy-davis
+    python3 postprocess_atb.py --batch <slug_or_json> [...]   # Batch API, half price
+    python3 postprocess_atb.py --collect msgbatch_...          # resume a submitted batch
+Options: --out-dir DIR, --prompt FILE, --force
+
+Each run prints token usage and estimated cost (PRICE below, USD per MTok).
+A response cut off at MAX_TOKENS is an error; nothing is written for it.
 """
 
 import json
 import os
 import re
 import sys
+import time
 from pathlib import Path
 
 import anthropic
@@ -29,7 +36,12 @@ WORKSPACE = ARC.parent
 TRANSCRIPT_DIR = WORKSPACE / "extracted-data/atb/transcripts"  # JSONs (dev-only)
 TRANSCRIPT_MD_DIR = ARC / "data/atb/transcripts"  # MDs (committed)
 SONG_GAP = 25.0   # seconds — gap >= this between speech segments → song playing
-MODEL = "claude-sonnet-4-6"
+MODEL = "claude-sonnet-5-5"
+MAX_TOKENS = 64000
+# Plain text clean-up: no thinking (Sonnet 5.5 spells "off" as between_tools).
+THINKING = {"type": "between_tools"}
+PRICE = {"input": 2.0, "output": 10.0}  # USD per MTok; Batch API is half
+BATCH_DIR = WORKSPACE / "extracted-data/atb/postprocess-batches"  # submitted batch manifests
 
 
 def fmt_time(seconds: float) -> str:
@@ -190,6 +202,8 @@ SYSTEM = """\
    - любые строки субтитров («Subtitles by», «Перевод сделал» и т.п.)
    - многократные повторения одной фразы подряд
    - бессвязный набор слов без смысла
+   - слова песен, которые Whisper записал во время музыки (обычно английские строки,
+     которые поёт исполнитель, а не произносит ведущий) — удаляй целиком
    НЕЛЬЗЯ удалять: маркер [T:MM:SS], связную русскую речь (даже короткую),
    имена исполнителей, названия песен и альбомов.
    НЕЛЬЗЯ удалять весь блок [T:...] — если в нём есть реальная речь, сохрани её.
@@ -288,15 +302,34 @@ def slug_to_meta(slug: str) -> dict:
     return {"title": slug, "date": ""}
 
 
+def request_params(annotated: str, system: str = SYSTEM) -> dict:
+    return {
+        "model": MODEL,
+        "max_tokens": MAX_TOKENS,
+        "thinking": THINKING,
+        "system": system,
+        "messages": [{"role": "user", "content": annotated}],
+    }
+
+
+def message_text(msg) -> str:
+    if msg.stop_reason != "end_turn":
+        raise RuntimeError(f"stop_reason={msg.stop_reason} (truncated or refused)")
+    return "".join(b.text for b in msg.content if b.type == "text").strip()
+
+
+def cost_usd(usage, batch: bool = False) -> float:
+    usd = (usage.input_tokens * PRICE["input"] + usage.output_tokens * PRICE["output"]) / 1e6
+    return usd / 2 if batch else usd
+
+
 def call_claude(annotated: str, system: str = SYSTEM) -> str:
     client = anthropic.Anthropic()
-    msg = client.messages.create(
-        model=MODEL,
-        max_tokens=8192,
-        system=system,
-        messages=[{"role": "user", "content": annotated}],
-    )
-    return msg.content[0].text.strip()
+    with client.messages.stream(**request_params(annotated, system)) as stream:
+        msg = stream.get_final_message()
+    u = msg.usage
+    print(f"  tokens in {u.input_tokens:,} / out {u.output_tokens:,}, ~${cost_usd(u):.3f}")
+    return message_text(msg)
 
 
 # Known Whisper hallucination phrases that contain Cyrillic but are NOT real speech
@@ -326,12 +359,15 @@ def _is_real_speech(text: str) -> bool:
     return cyrillic_chars >= 40
 
 
-def process_segments(slug: str, segments: list, system: str = SYSTEM) -> str:
+def process_segments(slug: str, segments: list, system: str = SYSTEM,
+                     raw_body: str | None = None) -> str:
+    """Return the episode .md. raw_body is Claude's cleaned text; called live if None."""
     duration = fmt_time(segments[-1]["end"])
     meta = slug_to_meta(slug)
 
     annotated = build_annotated(segments)
-    raw_body = call_claude(annotated, system=system)
+    if raw_body is None:
+        raw_body = call_claude(annotated, system=system)
 
     # Music block boundaries come from the JSON-derived annotated input (always accurate).
     # Claude's output provides cleaned speech text. Music markers in Claude's output are ignored.
@@ -350,7 +386,7 @@ def process_segments(slug: str, segments: list, system: str = SYSTEM) -> str:
     for b in orig_blocks:
         if b[0] == 't':
             text = claude_speech.get(b[1], '').strip()
-            if text:
+            if re.search(r'\w', text):  # a bare "..." placeholder counts as deleted
                 # Kept speech — flush any pending music, then add speech
                 if pending_music:
                     parts.append(f"[MUSIC: {pending_music[0]}–{pending_music[1]}]")
@@ -384,6 +420,87 @@ def resolve(arg: str) -> str:
     return p.stem if p.suffix else arg
 
 
+def load_segments(slug: str) -> list | None:
+    json_path = TRANSCRIPT_DIR / f"{slug}.json"
+    if not json_path.exists():
+        print(f"Not found: {json_path}")
+        return None
+    with open(json_path, encoding="utf-8") as f:
+        segs = json.load(f).get("segments", [])
+    if not segs:
+        print(f"{slug}: no segments — skipping")
+        return None
+    return segs
+
+
+def write_md(md_path: Path, md: str) -> None:
+    with open(md_path, "w", encoding="utf-8") as f:
+        f.write(md)
+    print(f"  → {md_path}")
+
+
+def submit_batch(slugs: list, system: str, md_dir: Path) -> str:
+    """Submit one Batch API request per slug; the manifest lets --collect resume."""
+    client = anthropic.Anthropic()
+    requests = []
+    for slug in slugs:
+        segs = load_segments(slug)
+        if segs:
+            requests.append({"custom_id": slug,
+                             "params": request_params(build_annotated(segs), system)})
+    if not requests:
+        sys.exit("Nothing to submit")
+    batch = client.messages.batches.create(requests=requests)
+    BATCH_DIR.mkdir(parents=True, exist_ok=True)
+    manifest = {"id": batch.id, "model": MODEL, "system": system, "md_dir": str(md_dir),
+                "slugs": [r["custom_id"] for r in requests]}
+    (BATCH_DIR / f"{batch.id}.json").write_text(
+        json.dumps(manifest, ensure_ascii=False, indent=2), encoding="utf-8")
+    print(f"Submitted {batch.id}: {len(requests)} requests")
+    return batch.id
+
+
+def collect_batch(batch_id: str) -> None:
+    """Wait for a batch to end, then write one .md per succeeded request."""
+    manifest = json.loads((BATCH_DIR / f"{batch_id}.json").read_text(encoding="utf-8"))
+    md_dir = Path(manifest["md_dir"])
+    md_dir.mkdir(parents=True, exist_ok=True)
+    client = anthropic.Anthropic()
+    while True:
+        batch = client.messages.batches.retrieve(batch_id)
+        c = batch.request_counts
+        print(f"{batch_id}: {batch.processing_status}, processing {c.processing}, "
+              f"succeeded {c.succeeded}, errored {c.errored}", flush=True)
+        if batch.processing_status == "ended":
+            break
+        time.sleep(60)
+
+    total_in = total_out = 0
+    failed = []
+    for result in client.messages.batches.results(batch_id):
+        slug = result.custom_id
+        if result.result.type != "succeeded":
+            failed.append(f"{slug}: {result.result.type}")
+            continue
+        msg = result.result.message
+        total_in += msg.usage.input_tokens
+        total_out += msg.usage.output_tokens
+        try:
+            raw_body = message_text(msg)
+        except RuntimeError as e:
+            failed.append(f"{slug}: {e}")
+            continue
+        segs = load_segments(slug)
+        if segs:
+            write_md(md_dir / f"{slug}.md",
+                     process_segments(slug, segs, system=manifest["system"], raw_body=raw_body))
+
+    usd = (total_in * PRICE["input"] + total_out * PRICE["output"]) / 1e6 / 2
+    print(f"\nTokens in {total_in:,} / out {total_out:,}, ~${usd:.2f} (batch rate)")
+    if failed:
+        print(f"{len(failed)} failed — rerun these:\n  " + "\n  ".join(failed))
+
+
 def main():
     if not os.environ.get("ANTHROPIC_API_KEY"):
         sys.exit("Error: ANTHROPIC_API_KEY not set")
@@ -392,6 +509,7 @@ def main():
     prompt_file = None
     out_dir = None
     force = False
+    batch = False
     slugs_raw = []
 
     i = 0
@@ -400,6 +518,10 @@ def main():
             prompt_file = args[i + 1]; i += 2
         elif args[i] == "--out-dir" and i + 1 < len(args):
             out_dir = Path(args[i + 1]); i += 2
+        elif args[i] == "--collect" and i + 1 < len(args):
+            collect_batch(args[i + 1]); return
+        elif args[i] == "--batch":
+            batch = True; i += 1
         elif args[i] == "--force":
             force = True; i += 1
         else:
@@ -418,36 +540,36 @@ def main():
     md_dir = out_dir or TRANSCRIPT_MD_DIR
     md_dir.mkdir(parents=True, exist_ok=True)
 
+    pending = []
     for slug in slugs:
-        json_path = TRANSCRIPT_DIR / f"{slug}.json"
         md_path = md_dir / f"{slug}.md"
-
-        if not json_path.exists():
-            print(f"Not found: {json_path}")
-            continue
         if md_path.exists() and not force:
             print(f"Skip (exists): {md_path}  (use --force to re-run)")
-            continue
+        else:
+            pending.append(slug)
 
-        print(f"\n→ Post-processing: {slug}")
-        with open(json_path, encoding="utf-8") as f:
-            data = json.load(f)
+    if batch:
+        collect_batch(submit_batch(pending, system, md_dir))
+        return
 
-        segs = data.get("segments", [])
+    failed = []
+    for slug in pending:
+        segs = load_segments(slug)
         if not segs:
-            print("  No segments — skipping")
             continue
-
+        print(f"\n→ Post-processing: {slug}")
         print(f"  {len(segs)} segments, {fmt_time(segs[-1]['end'])}, calling Claude...")
-        md = process_segments(slug, segs, system=system)
+        try:
+            md = process_segments(slug, segs, system=system)
+        except (anthropic.APIError, RuntimeError) as e:
+            print(f"  FAILED: {e}")
+            failed.append(slug)
+            continue
+        write_md(md_dir / f"{slug}.md", md)
 
-        with open(md_path, "w", encoding="utf-8") as f:
-            f.write(md)
-
-        print(f"  → {md_path}\n")
-        print("=" * 70)
-        print(md)
-        print("=" * 70)
+    if failed:
+        print(f"\n{len(failed)} failed: {' '.join(failed)}")
+        sys.exit(1)
 
 
 if __name__ == "__main__":

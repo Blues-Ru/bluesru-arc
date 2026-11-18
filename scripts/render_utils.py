@@ -1,6 +1,6 @@
 """
 Shared HTML rendering helpers: star ratings, review body formatting,
-news body formatting, cover URLs, and cover image helpers.
+news body formatting, cover URLs, cover image helpers, partial dates.
 """
 
 from __future__ import annotations
@@ -13,6 +13,21 @@ _COVERS = Path(__file__).resolve().parent.parent / 'covers'
 
 
 NO_COVER_URL = '/images/no-cover.svg'
+
+
+def display_date(date: str | None) -> str:
+    """'1996-00-00' → '1996', '2015-09-00' → '2015-09', exact dates unchanged.
+
+    Partial dates keep the -00 form in data so they sort before every exact
+    date of their year/month."""
+    if not date:
+        return ''
+    return re.sub(r'(?:-00)+$', '', date)
+
+
+def is_exact_date(date: str | None) -> bool:
+    """True for a full YYYY-MM-DD with known month and day."""
+    return bool(date and re.fullmatch(r'\d{4}-(?!00)\d\d-(?!00)\d\d', date))
 
 
 def cover_url_for_asin(asin: str | None, fallback: bool = False) -> str:

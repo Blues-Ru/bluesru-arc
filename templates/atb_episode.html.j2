@@ -18,7 +18,7 @@
 <p><img src="/images/ATBred.gif" width="199" height="30" alt="Весь этот блюз"></p>
 <h2>{{ summary or (show.topic or show.slug) }}</h2>
 <div class="ep-meta">
-  {% if show.date %}<b>{{ show.date }}</b> · {% endif %}Программа «Весь Этот Блюз» на Эхо Москвы 91.2 FM · Андрей Евдокимов
+  {% if show.date %}<b>{{ show.date | display_date }}</b> · {% endif %}Программа «Весь Этот Блюз»{% if show.date >= '2000' %} на Эхо Москвы 91.2 FM{% endif %} · Андрей Евдокимов
 </div>
 {% set files = show.files if show.files is defined else [] %}
 {% if files | length > 1 %}

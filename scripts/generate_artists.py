@@ -16,6 +16,7 @@ from generate_shared import (
     _generate_stub_artist_page,
     _load_artist_reviews,
     _process_artist_dir,
+    artist_bio_dir,
     build_calendar_by_slug,
     collect_artist_links,
     format_artist_links,
@@ -76,29 +77,11 @@ def generate_artists() -> None:
         if letter not in letter_has:
             letter = '#'
 
-        lp        = (a.get('legacy_path') or '').strip('/')
-        parts     = lp.split('/')
-        legacy_dir = parts[-1] if (parts and parts[-1]) else ''
-        external  = '.' in legacy_dir or legacy_dir.startswith('www.')
-        if external:
-            legacy_dir = ''
-
-        src_dir  = SRC_BLUESMEN / legacy_dir if legacy_dir else None
-        has_dir  = src_dir and src_dir.exists()
-        if not has_dir and legacy_dir:
-            name_dir = name.replace(' ', '_') if name else ''
-            name_src = SRC_BLUESMEN / name_dir if name_dir else None
-            if name_src and name_src.exists():
-                src_dir   = name_src
-                has_dir   = True
-                legacy_dir = name_dir
+        src_dir, legacy_dir = artist_bio_dir(a)
+        legacy_last = (a.get('legacy_path') or '').strip('/').split('/')[-1]
+        external = '.' in legacy_last or legacy_last.startswith('www.')
+        has_dir = src_dir is not None
         slug = a.get('slug', '')
-        if not has_dir and slug:
-            slug_src = SRC_BLUESMEN / slug
-            if slug_src.exists():
-                src_dir   = slug_src
-                has_dir   = True
-                legacy_dir = slug
 
         artist_id    = str(a.get('id', ''))
         has_reviews  = bool(artist_reviews.get(artist_id))
